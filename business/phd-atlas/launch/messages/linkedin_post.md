@@ -9,7 +9,7 @@ Applying to physics PhDs from outside North America means hunting the same answe
 → Canadian programs often admit supervisor-first
 → In much of Europe there's no central deadline: you apply to a professor or a paid position
 
-I packaged it as the Physics PhD Atlas 2027: every value linked to the official sentence it came from, plus an offline explorer and planner. Free 10-program sample: {SAMPLE_URL}
+I packaged it as the Physics PhD Atlas 2027: every value linked to the official sentence it came from, plus an offline explorer and planner. Free 10-program sample: {SAMPLE_URL}?utm_source=linkedin&utm_medium=post&utm_campaign=launch2026
 
 If you mentor students applying this year, I'd be grateful if you passed it on.
 

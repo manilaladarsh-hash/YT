@@ -42,6 +42,8 @@ BUILD = ROOT / ".cache" / "build"
 SAMPLE_IDS = ["rice", "pennstate", "stanford", "utaustin", "utoronto", "waterloo", "ualberta", "ubc", "cambridge", "epfl"]
 NORTH_AMERICA = {"USA", "Canada"}
 CURRENCIES = ["USD", "CAD", "GBP", "EUR", "CHF"]
+PRICE_LINE = ("Priced for students: about ₹180 in India (Gumroad shows rupees and accepts UPI), $5 elsewhere. "
+              "A batch licence covers up to 30 students for about ₹700. Can't afford it? Reply to your receipt for a free copy.")
 
 FIELD_LABELS = {
     "deadline": "Deadline (2027 entry)",
@@ -441,7 +443,7 @@ def write_sample(recs, path, values):
         F = r["fields"]
         cells = [
             f"<b>{html.escape(short(r))}</b><br><span class='note'>{html.escape(r['country'])}</span>",
-            html.escape(date.fromisoformat(F["deadline"]["code"]).strftime("%b %d, %Y") if deadline_cell(r) else "Not stated"),
+            html.escape(deadline_text(r)),
             html.escape(F["app_fee"]["code"]),
             html.escape(F["fee_waiver"]["value"]),
             html.escape(F["gre_physics"]["code"]),
@@ -471,9 +473,10 @@ def write_sample(recs, path, values):
 <ul>
 <li><b>Offline explorer</b> for all {values['N']} programs: filter by Physics GRE, English waiver, fee waivers and supervisor rules, and tap any value to see the official quote.</li>
 <li><b>Planner workbook</b>: auto-filling shortlist, deadline countdown, fee budget, recommender and supervisor-outreach trackers.</li>
-<li><b>Playbook</b>: timeline, English-test rules, GRE decisions, Canadian supervisor emails, physics SOP framework, letter kit, ethical fee-waiver requests.</li>
+<li><b>Playbook</b>: timeline, English-test rules, GRE decisions, Canadian supervisor emails, how Europe differs, physics SOP framework, letter kit, ethical fee-waiver requests.</li>
 <li>Free updates for the Fall 2027 cycle. 14-day refund.</li>
 </ul>
+<p><b>{PRICE_LINE}</b></p>
 <p class="note">Not affiliated with any university. Not immigration, visa or legal advice.</p>
 """
     to_pdf(html_doc("Physics PhD Atlas 2027: Free Sample", body), path, "sample")

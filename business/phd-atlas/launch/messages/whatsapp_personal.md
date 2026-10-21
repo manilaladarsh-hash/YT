@@ -10,7 +10,8 @@ I spent the last few weeks checking 40 physics PhD programs' official pages (US,
 • Alberta's English-test exemption list includes IITs/IISc but not IISERs; UT Austin exempts India outright
 • Europe: EPFL has no application fee; Cambridge charges £20 for up to 7 PhD applications; Heidelberg's physics graduate school portal closes Nov 1
 
-I put the free 10-program sample here: {SAMPLE_URL}
-The full version (40 programs, offline explorer, planner sheet and playbook) is {PAID_URL}. Use code NETWORK for 10% off.
+I put a free 10-program sample here: {SAMPLE_URL}?utm_source=whatsapp&utm_medium=personal&utm_campaign=launch2026
+The full version (40 programs, offline explorer, planner sheet and playbook) is about ₹180 in India and you can pay by UPI: {PAID_URL}?utm_source=whatsapp&utm_medium=personal&utm_campaign=launch2026
+If your whole batch wants it, there's a batch licence (up to 30 people, about ₹700 total).
 
 No pressure at all, and please forward it to anyone it might help 🙂

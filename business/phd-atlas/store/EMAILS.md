@@ -52,6 +52,10 @@ What changed:
 
 Re-download the ZIP to get it. Your workbook shortlist won't carry over automatically, so copy your column A choices into the new file.
 
+## Template: free copy for a student who can't afford it
+
+Hi {name}, of course. Here's a code for a free copy: open {PAID_URL}, choose *Personal licence*, and enter **STUDENTAID** at checkout. It's limited, so please don't share the code; send friends to the free sample instead. Good luck with your applications!
+
 ## Template: refund request reply
 
 Hi {name}, no problem. I've refunded your order in full; it can take a few days to show on your card. Thanks for trying the Atlas. If you have a moment, what was missing? It helps me improve it.

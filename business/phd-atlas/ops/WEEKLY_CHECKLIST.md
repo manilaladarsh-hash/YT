@@ -3,8 +3,8 @@
 | # | Task | Time | Automated? |
 |---|---|---|---|
 | 1 | Open Gumroad → Analytics/Sales and copy last week's views, sample downloads, paid orders, refunds, gross and payout into `ops/Business-Dashboard.xlsx` → *Weekly actuals*. Also mark how many orders came from people you don't know (check buyer emails and names) | 8 min | No: needs your judgement on "unrelated" |
-| 2 | Discount-code counts (`NETWORK`, `REDDIT`) into the same row | 1 min | No |
-| 3 | Read and reply to emails: refunds (just approve them), data-error reports (forward to a Claude session), survey replies (count concrete benefits) | 5–10 min | Partly: welcome and survey emails send themselves |
+| 2 | Per-channel orders from Gumroad's UTM-links dashboard (network = `whatsapp` + `group`; `reddit`) into the same row. Also count orders from India (Sales → filter by country) and any batch licences | 2 min | No |
+| 3 | Read and reply to emails: refunds (just approve them), free-copy requests (send the `STUDENTAID` template), data-error reports (forward to a Claude session), survey replies (count concrete benefits) | 5–10 min | Partly: welcome and survey emails send themselves |
 | 4 | Check the GitHub issue "Source watch report" if one was opened this week. Each listed program needs a quick look: has the deadline or rule changed? | 2–5 min | Detection is automated; deciding what changed needs judgement |
 | 5 | Log your business minutes in *Hours* (study-permit record) | 1 min | No |
 | 6 | Glance at *Gates* | 1 min | Yes |

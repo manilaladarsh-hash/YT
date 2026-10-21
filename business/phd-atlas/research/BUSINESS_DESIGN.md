@@ -32,9 +32,12 @@ Getting these wrong costs $75–155 per application, missed deadlines, or a reje
 4. **Founder credibility.** It is built by an IISER → McMaster physics PhD student (your approval needed to show this publicly).
 5. **Works offline**, and costs a fraction of one application fee.
 
-## Pricing (a hypothesis to test)
-- List price $15 USD. Gumroad's built-in purchasing-power parity is on, with the discount capped at 50% (≈$7.50 in India). This sits inside the market's range: generic kits run $1–£39.99, and SOP reviews $50–200.
-- The free sample doubles as the lead magnet (a $0 product with an email opt-in).
+## Pricing (owner decision 2026-10-21: affordable for Indian students first)
+- **Personal licence: $5.** Gumroad's purchasing-power parity is on at its full 60% maximum. India's World Bank PPP factor (~22 INR per international dollar) is far below the market exchange rate, so Indian buyers are expected to pay about **$2 (≈₹180)**, shown in rupees, with **UPI** available at checkout (Gumroad help, checked Oct 21, 2026). That's under 3% of one US application fee.
+- **Batch licence: $20** (about ₹700 in India), shared with up to 30 people in one batch, society or mentoring group, so about ₹25 per student. This tier keeps the per-student price tiny while letting one purchase cover many students.
+- **Why not cheaper:** Gumroad takes 10% + $0.50 per sale, plus 2.9% + $0.30 card processing. A $2 sale nets about $0.94; a ₹99 sale ($1.19) would net about $0.24.
+- **Free tiers:** the 10-program sample is free for everyone, and a free full copy goes to any student who says they can't afford it (single code `STUDENTAID`, 20 uses at a time).
+- **Tips:** Gumroad's tipping is on (default 0%) for buyers who can afford more.
 - 14-day no-questions refund.
 
 ## Delivery process (automated)
@@ -57,15 +60,19 @@ Run with `python3 research/financials.py`. Assumptions are in the script's heade
 
 | Scenario | This season (orders → net) | Next full season (orders → net) | Key assumptions |
 |---|---|---|---|
-| Conservative | 5 → **$33** | 30 → **$197** | 70% buy at the PPP price, 10% refunds, no Discover sales |
-| Base | 25 → **$185** | 120 → **$886** | 60% PPP, 7% refunds, 5% via Discover |
-| Optimistic | 80 → **$648** | 400 (three editions) → **$3,238** | 50% PPP, 5% refunds, 10% via Discover |
+| Conservative | 10 → **$13** | 50 → **$65** | 80% buy at the India/PPP price, 8% refunds, no Discover sales |
+| Base | 40 → **$59** | 200 → **$296** | 75% PPP, 5% refunds, 5% via Discover |
+| Optimistic | 120 → **$196** | 600 (three editions) → **$981** | 70% PPP, 4% refunds, 10% via Discover |
 
-All scenarios assume:
-- card processing of 2.9% + $0.30 charged on top of Gumroad's fee (conservative);
-- fees on refunded orders are not returned;
-- a 2% PayPal payout fee;
+Per sale: $5 nets $3.56 and $2 (India) nets $0.94. All scenarios assume:
+- card processing of 2.9% + $0.30 on direct sales, as Gumroad's help states, with UPI assumed to cost the same;
+- on refunds, Gumroad returns its fee but keeps processing;
+- a 2% currency cost on payout to a Canadian bank account;
 - $0 fixed costs and $0 customer-acquisition cash (your hours are counted instead).
+
+Batch licences aren't in the model; each one adds about $2.50–15 net, depending on the buyer's country.
+
+**What this means:** at student-friendly prices this is a small, mission-first business, roughly $60–300 a season in the base case. Gumroad pays out once your balance reaches $100, and a new account's first payout review typically needs 3–4 sales and a balance over $100 (Gumroad help). The upside comes from reach (batch licences through student societies and every future edition), not from price.
 
 Income is reported on your T2125. There is no GST/HST registration while you stay under the CAD 30,000 small-supplier threshold; confirm with CRA guidance or an accountant.
 

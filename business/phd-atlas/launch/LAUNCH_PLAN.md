@@ -2,17 +2,19 @@
 
 **Goal:** 10 paid orders, including ≥2 from buyers you don't know, by Dec 15, 2026. Budget: **$0** (hard cap $30, only with your approval). No ads.
 
-Nothing here is sent or published without your approval. Every message is drafted in `launch/messages/`. Replace `{PAID_URL}` and `{SAMPLE_URL}` after Gumroad setup.
+You've given me authority to decide, but the messages have to go out from your own accounts, which I can't access. Every message is drafted in `launch/messages/`, with links already tagged by channel (`utm_source=whatsapp`, `group`, `reddit`, `linkedin`). Replace `{PAID_URL}` and `{SAMPLE_URL}` after Gumroad setup, and keep the `?utm_...` endings.
+
+**Price:** $5 personal / $20 batch licence. India sees about ₹180 / ₹700 through Gumroad's regional pricing, and can pay by UPI. Students who can't pay get a free copy on request (code `STUDENTAID`, 20 uses).
 
 ## Experiments
 
 | # | Experiment | Audience | Action (who) | Cost | Your time | Success by | Measure |
 |---|---|---|---|---|---|---|---|
-| E1 | Personal messages | ~10 people you know who are applying this cycle, or who mentor juniors (IISER batchmates, lab juniors, TAs) | You send `whatsapp_personal.md` one by one | $0 | 20 min | Nov 8 | Code `NETWORK` orders; replies |
-| E2 | Group posts | 1–3 alumni/student groups where you're a member and posts like this are allowed | You post `group_post.md` once per group | $0 | 10 min | Nov 8 | Sample downloads; `NETWORK` orders |
-| E3 | Reddit value post | r/gradadmissions and/or r/Indian_Academia, **only if their rules allow it** (read the sidebar first; I couldn't fetch the rules) | You post `reddit_post.md` from your account and answer comments for 2 days | $0 | 10 min + 20 min replies | Nov 15 | Upvotes don't count; track `REDDIT` orders and sample downloads |
-| E4 | LinkedIn post | Your network | You post `linkedin_post.md` | $0 | 5 min | Nov 15 | Sample downloads |
-| E5 | Passive marketplace | Gumroad Discover | Enable Discover listing | $0 (30% fee on those sales) | 0 | Dec 15 | Sales without a code |
+| E1 | Personal messages | ~10 people you know who are applying this cycle, or who mentor juniors (IISER batchmates, lab juniors, TAs) | You send `whatsapp_personal.md` one by one | $0 | 20 min | Nov 8 | Orders and downloads from `utm_source=whatsapp` links (Gumroad UTM dashboard); replies |
+| E2 | Group posts | 1–3 alumni/student groups where you're a member and posts like this are allowed | You post `group_post.md` once per group | $0 | 10 min | Nov 8 | Sample downloads and orders from `utm_source=group` links |
+| E3 | Reddit value post | r/gradadmissions and/or r/Indian_Academia, **only if their rules allow it** (read the sidebar first; I couldn't fetch the rules) | You post `reddit_post.md` from your account and answer comments for 2 days | $0 | 10 min + 20 min replies | Nov 15 | Upvotes don't count; track orders and sample downloads from `utm_source=reddit` links |
+| E4 | LinkedIn post | Your network | You post `linkedin_post.md` | $0 | 5 min | Nov 15 | Sample downloads from `utm_source=linkedin` links |
+| E5 | Passive marketplace | Gumroad Discover | Enable Discover listing | $0 (30% fee on those sales) | 0 | Dec 15 | Sales Gumroad labels "Recommended by Gumroad" |
 
 **Order of operations:** E1 and E2 in week 1 (Oct 28–Nov 3), with the Rice waiver hook (Rice's worldwide fee-waiver window closes Nov 1). Then E3 and E4 in week 2 (Nov 4–10), whose hook is "deadlines in 4–6 weeks". E5 runs throughout.
 

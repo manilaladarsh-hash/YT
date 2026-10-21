@@ -46,7 +46,8 @@ def main():
         "Physics PhD Atlas: owner dashboard",
         "Weekly (20 min): copy last week's numbers from Gumroad into 'Weekly actuals' (yellow cells only).",
         "'Gates' turns green or red automatically against the Dec 15 decision rules.",
-        "'Forecast' is the base-case model from research/financials.py. It is NOT actual data.",
+        "'Forecast' is the scenario model from research/financials.py ($5 list; about $2 in India via Gumroad PPP). It is NOT actual data.",
+        "Free copies sent with STUDENTAID count as neither paid orders nor revenue.",
         "'Hours' is your study-permit self-employment log. Count every business hour.",
         "Never type estimates into 'Weekly actuals'. Leave a cell blank if you don't know.",
     ], start=1):
@@ -55,16 +56,17 @@ def main():
 
     wa = wb.create_sheet("Weekly actuals")
     header(wa, ["Week starting", "Product views", "Sample downloads", "Paid orders", "Orders from unrelated buyers",
-                "Refunds", "Gross revenue USD", "Gumroad payout USD", "Code NETWORK", "Code REDDIT",
-                "Usefulness replies", "Concrete benefits reported", "Data errors reported", "Notes"],
-           [13, 12, 14, 11, 16, 9, 14, 15, 13, 12, 14, 16, 14, 40])
+                "Refunds", "Gross revenue USD", "Gumroad payout USD", "Network orders (UTM whatsapp + group)",
+                "Reddit orders (UTM)", "Usefulness replies", "Concrete benefits reported", "Data errors reported",
+                "Orders from India", "Batch licences sold", "Free copies sent (STUDENTAID)", "Notes"],
+           [13, 12, 14, 11, 16, 9, 14, 15, 18, 12, 14, 16, 14, 12, 12, 16, 40])
     for i, wk in enumerate(WEEKS, start=2):
         wa.cell(row=i, column=1, value=wk).number_format = "yyyy-mm-dd"
-        for col in range(2, 15):
+        for col in range(2, 18):
             wa.cell(row=i, column=col).fill = INPUT
     tot = len(WEEKS) + 2
     wa.cell(row=tot, column=1, value="Total").font = Font(bold=True)
-    for col in range(2, 14):
+    for col in range(2, 17):
         letter = wa.cell(row=1, column=col).column_letter
         wa.cell(row=tot, column=col, value=f"=SUM({letter}2:{letter}{tot - 1})").font = Font(bold=True)
     chart = LineChart()

@@ -6,7 +6,7 @@ Paste the short versions into Gumroad's product description or refund-policy fie
 14-day no-questions refund. Reply to your receipt or use Gumroad's refund request.
 
 ## Licence (short)
-Personal use for your own applications. Please don't redistribute or resell the files.
+Personal licence: for your own applications. Batch licence: share with up to 30 people in one named batch, student society or mentoring group. Either way, please don't post the files publicly or resell them.
 
 ## Accuracy and disclaimer
 Values were copied from official university pages on the date shown, with the quote and link stored. Programs change their rules; confirm on the official page before you pay or submit. "Not stated" means the pages checked did not say. This kit is not affiliated with any university, ETS or government, and is not immigration, visa, legal or admissions-guarantee advice.

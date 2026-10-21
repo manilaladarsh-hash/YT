@@ -1,6 +1,14 @@
 """Scenario model for the Physics PhD Atlas. Every number here is an ASSUMPTION
-except Gumroad's published 10% + $0.50 direct-sale fee and 30% Discover fee
-(gumroad.com/pricing, checked 2026-10-21).
+except Gumroad's published fees, checked 2026-10-21:
+  - 10% + $0.50 per direct sale, plus card processing 2.9% + $0.30 (gumroad.com/help/article/66-gumroads-fees)
+  - 30% flat on Discover marketplace sales, processing included (same page)
+  - on a refund Gumroad returns its own fee; only the processing part is kept (same page)
+  - PPP discounts range from 20% to 60% (gumroad.com/help/article/327-purchasing-power-parity)
+
+Pricing (owner decision 2026-10-21: "it needs to be really affordable" for Indian students):
+  $5 list price with PPP on and no cap. India's World Bank PPP factor (~22 INR per
+  international $) is far below the market rate, so India is expected (ESTIMATE) to get the
+  maximum 60% discount: about $2, shown in rupees at checkout, payable by UPI.
 
 Usage: python3 research/financials.py   -> prints a markdown table, writes research/financials.csv
 """
@@ -8,20 +16,27 @@ Usage: python3 research/financials.py   -> prints a markdown table, writes resea
 import csv
 from pathlib import Path
 
-LIST_PRICE = 15.00          # USD, hypothesis to test
-PPP_PRICE = 7.50            # Gumroad PPP with discount capped at 50% (India)
+LIST_PRICE = 5.00           # USD, decision: affordability first
+PPP_PRICE = 2.00            # ESTIMATE: India and similar countries at Gumroad's 60% maximum PPP discount
 GUMROAD_PCT, GUMROAD_FLAT = 0.10, 0.50      # published, direct sales
-DISCOVER_PCT = 0.30                          # published, Discover marketplace sales
-CARD_PCT, CARD_FLAT = 0.029, 0.30            # ASSUMED extra processing cost (conservative)
-PAYOUT_PCT = 0.02                            # ASSUMED PayPal payout fee if bank deposit unavailable
+DISCOVER_PCT = 0.30                          # published, Discover sales (processing included)
+CARD_PCT, CARD_FLAT = 0.029, 0.30            # published processing on direct sales (UPI assumed the same)
+PAYOUT_PCT = 0.02                            # ASSUMED currency-conversion cost on payout to a CAD bank account
 
 SCENARIOS = {
     # name: (orders this season, orders next full season, share buying at PPP price,
     #        share via Discover, refund rate, owner hours this season, owner hours next season)
-    "Conservative": (5, 30, 0.70, 0.00, 0.10, 12, 30),
-    "Base": (25, 120, 0.60, 0.05, 0.07, 14, 34),
-    "Optimistic": (80, 400, 0.50, 0.10, 0.05, 18, 45),
+    "Conservative": (10, 50, 0.80, 0.00, 0.08, 12, 30),
+    "Base": (40, 200, 0.75, 0.05, 0.05, 14, 34),
+    "Optimistic": (120, 600, 0.70, 0.10, 0.04, 18, 45),
 }
+
+
+def per_sale_net(price, discover=False):
+    """What one sale at this price leaves after Gumroad's fees (before refunds and payout)."""
+    if discover:
+        return round(price * (1 - DISCOVER_PCT), 2)
+    return round(price - (GUMROAD_PCT * price + GUMROAD_FLAT) - (CARD_PCT * price + CARD_FLAT), 2)
 
 
 def season(orders, ppp_share, discover_share, refund_rate, hours):
@@ -29,10 +44,11 @@ def season(orders, ppp_share, discover_share, refund_rate, hours):
     gross = orders * gross_per
     direct = orders * (1 - discover_share)
     disc = orders * discover_share
-    fees = (direct * (GUMROAD_PCT * gross_per + GUMROAD_FLAT)
-            + disc * (DISCOVER_PCT * gross_per)
-            + orders * (CARD_PCT * gross_per + CARD_FLAT))
-    refunds = refund_rate * gross            # conservative: fees on refunded orders are not returned
+    gumroad_fee = direct * (GUMROAD_PCT * gross_per + GUMROAD_FLAT) * (1 - refund_rate)  # returned on refunds
+    processing = direct * (CARD_PCT * gross_per + CARD_FLAT)                              # kept on refunds
+    discover_fee = disc * DISCOVER_PCT * gross_per
+    fees = gumroad_fee + processing + discover_fee
+    refunds = refund_rate * gross
     payout = PAYOUT_PCT * max(gross - fees - refunds, 0)
     net = gross - fees - refunds - payout
     return {
@@ -52,6 +68,8 @@ def main():
         w = csv.DictWriter(fh, fieldnames=list(rows[0]))
         w.writeheader()
         w.writerows(rows)
+    print(f"Per sale after Gumroad fees: ${LIST_PRICE:.2f} -> ${per_sale_net(LIST_PRICE):.2f}; "
+          f"${PPP_PRICE:.2f} (India, PPP) -> ${per_sale_net(PPP_PRICE):.2f}\n")
     cols = ["scenario", "period", "orders", "avg_price", "gross", "platform_and_card_fees", "refunds", "payout_fee", "net", "owner_hours", "net_per_owner_hour"]
     print("| " + " | ".join(cols) + " |")
     print("|" + "---|" * len(cols))
