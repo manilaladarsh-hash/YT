@@ -1,26 +1,26 @@
 # Business design: Physics PhD Atlas 2027
 
 ## Customer
-Self-directed final-year BS-MS, MSc or BSc physics and astronomy students applying to US and Canadian PhD programs for Fall 2027. Most are in India (IISERs, IITs, IISc, NISER, central and state universities); there are secondary buyers in other countries. They are budget-conscious and often unaware of rules specific to international applicants.
+Self-directed final-year BS-MS, MSc or BSc physics and astronomy students applying to US, Canadian and European PhD programs for 2027 entry. Most are in India (IISERs, IITs, IISc, NISER, central and state universities); there are secondary buyers in other countries. They are budget-conscious and often unaware of rules specific to international applicants.
 
 ## Problem
 Each program publishes its own rules on different pages, and some of them contradict each other. The details that matter most to international applicants are the hardest to find:
 - which programs waive fees for internationals;
 - whether an English-medium Indian degree waives the English test;
 - whether the Physics GRE is required this year;
-- whether Canada requires a supervisor before admission;
+- whether Canada requires a supervisor before admission, or a European program hires through advertised positions;
 - whether a master's is needed first.
 
 Getting these wrong costs $75–155 per application, missed deadlines, or a rejected file.
 
-## Offer (v1.0)
+## Offer (v1.1)
 | Component | What it does |
 |---|---|
-| Atlas.html | Offline explorer covering 31 programs (21 US, 10 Canada) and 10 fields each. Every value shows the exact official quote and link. |
+| Atlas.html | Offline explorer covering 40 programs (21 US, 10 Canada, 9 Europe: UK, Switzerland, Germany, Italy, Netherlands) and 10 fields each. Every value shows the exact official quote and link. |
 | Atlas.xlsx | Planner: auto-filling shortlist, deadline countdown, fee budget by currency, recommender tracker, supervisor-outreach log, full sources sheet. |
 | Atlas.csv | Raw data. |
-| Playbook.pdf | 8 pages: timeline, English-test rules, GRE strategy, Canadian supervisors, email template, SOP framework, letter kit, ethical fee-waiver requests, checklist. |
-| Free sample | 8 programs plus "5 things international applicants miss". |
+| Playbook.pdf | 11 pages: timeline, English-test rules, GRE strategy, Canadian supervisors, how Europe differs (positions, fees, master's-first rules), email template, SOP framework, letter kit, ethical fee-waiver requests, checklist. |
+| Free sample | 10 programs (US, Canada, Europe) plus "6 things international applicants miss". |
 | Updates | Free for the Fall 2027 cycle, delivered by Gumroad's update emails. |
 
 **Out of scope:** visa or study-permit advice (official links only), SOP writing or editing, and admission predictions.

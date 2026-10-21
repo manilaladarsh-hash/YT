@@ -27,6 +27,11 @@ const { chromium } = require("playwright");
     await page.selectOption("#country", "Canada");
     out.canada = await page.locator("#rows tr").count();
     await page.selectOption("#country", "");
+    out.countryOptions = await page.locator("#country option").count();
+    await page.selectOption("#area", "Europe");
+    out.europe = await page.locator("#rows tr").count();
+    out.perPositionShown = (await page.locator("#rows").textContent()).includes("Per position");
+    await page.selectOption("#area", "");
 
     await page.selectOption("#pgre", "required");
     out.pgreRequired = await page.locator("#rows tr").count();

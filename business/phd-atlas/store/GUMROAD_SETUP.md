@@ -15,7 +15,7 @@ Everything else is ready. These steps need **your** identity, bank and approval,
 1. **New product → Digital product.**
 2. Name, URL slug, price ($15), summary and description: copy from `store/LISTING_COPY.md`, Product 1.
 3. Cover: upload `store/images/cover-paid.png`. Thumbnail: `store/images/thumb-paid.png`.
-4. Content/file: upload `dist/Physics-PhD-Atlas-2027-v1.0.zip`.
+4. Content/file: upload `dist/Physics-PhD-Atlas-2027-v1.1.zip`.
 5. Custom receipt: paste the receipt text from `LISTING_COPY.md`.
 6. Refund policy: "14-day no-questions refund."
 7. Publish, then buy it once yourself with a 100% discount code (Discounts → new code, 100%, 1 use) to see exactly what customers get. Delete the code afterwards.

@@ -72,8 +72,9 @@ def pdf_text(path):
 def test_playbook_has_all_sections_and_no_unfilled_placeholders():
     text = pdf_text(OUT / "Playbook.pdf")
     for heading in ["1. Start here", "2. Your remaining timeline", "4. English tests in 2026", "5. GRE and Physics GRE",
-                    "6. Canada works differently", "7. Supervisor emails", "8. Statement of purpose",
-                    "9. Recommendation letters", "10. Fee waivers", "11. Submission checklist", "13. How this data was built"]:
+                    "6. Canada works differently", "7. Europe works differently", "8. Supervisor emails",
+                    "9. Statement of purpose", "10. Recommendation letters", "11. Fee waivers", "12. Submission checklist",
+                    "14. How this data was built"]:
         assert heading in text, heading
     assert "{{" not in text and "}}" not in text
 
@@ -116,8 +117,11 @@ def test_explorer_loads_offline_without_errors(explorer):
 
 def test_explorer_filters_match_the_data(explorer):
     assert explorer["canada"] == sum(r["country"] == "Canada" for r in RECS)
+    assert explorer["europe"] == sum(build.area(r) == "Europe" for r in RECS) > 0
+    assert explorer["countryOptions"] == len({r["country"] for r in RECS}) + 1
     assert explorer["pgreRequired"] == sum(r["fields"]["gre_physics"]["code"] == "Required" for r in RECS)
     assert explorer["free"] == sum(r["fields"]["app_fee"]["code"].startswith("0") for r in RECS)
+    assert explorer["perPositionShown"] is True
     assert explorer["search"] == 1
 
 

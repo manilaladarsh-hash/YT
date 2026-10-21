@@ -1,19 +1,131 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "description": "One record per program in data/programs/<id>.json. Every field holds a machine code (for filters), a human value, an exact quote from the source page and the source URL. Unknowns are recorded as 'Not stated' with an empty quote, never guessed.",
-  "required_top_level": ["id", "institution", "department", "country", "region", "program_page", "checked", "fields", "notes"],
-  "countries": ["USA", "Canada"],
+  "required_top_level": [
+    "id",
+    "institution",
+    "department",
+    "country",
+    "region",
+    "program_page",
+    "checked",
+    "fields",
+    "notes"
+  ],
+  "countries": [
+    "USA",
+    "Canada",
+    "United Kingdom",
+    "Switzerland",
+    "Germany",
+    "Austria",
+    "Netherlands",
+    "Denmark",
+    "Sweden",
+    "Norway",
+    "Finland",
+    "Italy",
+    "France",
+    "Spain",
+    "Belgium",
+    "Ireland"
+  ],
   "fields": {
-    "deadline": {"label": "Deadline (Fall 2027)", "code": "ISO date YYYY-MM-DD or 'Not stated'", "flags": ["inferred", "rolling"]},
-    "app_fee": {"label": "Application fee", "code": "'<amount> USD|CAD', '0 (waived)' or 'Not stated'"},
-    "fee_waiver": {"label": "Fee waiver for international applicants", "enum": ["Available", "Limited", "Domestic only", "None", "Not stated"]},
-    "gre_general": {"label": "GRE General", "enum": ["Required", "Recommended", "Optional", "Not required", "Not considered", "Not stated"]},
-    "gre_physics": {"label": "Physics GRE", "enum": ["Required", "Recommended", "Optional", "Not required", "Not considered", "Not stated"]},
-    "toefl_min": {"label": "TOEFL minimum", "code": "integer on the 0-120 scale, '<n> (new scale)', 'Sections' or 'Not stated'"},
-    "english_waiver": {"label": "English-test waiver for an English-medium Indian degree", "enum": ["Yes", "Conditional", "No", "Check tool", "Not stated"]},
-    "supervisor": {"label": "Supervisor before admission", "enum": ["Required", "Recommended", "Not required", "Not stated"]},
-    "funding": {"label": "PhD funding", "enum": ["Guaranteed", "Typical", "Not stated"]},
-    "entry_route": {"label": "Entry route", "enum": ["Direct from bachelor's", "Master's usually required", "Either", "Not stated"]}
+    "deadline": {
+      "label": "Deadline (Fall 2027)",
+      "code": "ISO date YYYY-MM-DD, 'Rolling', 'Per position' or 'Not stated'",
+      "flags": [
+        "inferred",
+        "rolling"
+      ]
+    },
+    "app_fee": {
+      "label": "Application fee",
+      "code": "'<amount> USD|CAD|GBP|EUR|CHF|SEK|DKK|NOK', '0 (waived)', '0 (no fee)' or 'Not stated'"
+    },
+    "fee_waiver": {
+      "label": "Fee waiver for international applicants",
+      "enum": [
+        "Available",
+        "Limited",
+        "Domestic only",
+        "None",
+        "No fee",
+        "Not stated"
+      ]
+    },
+    "gre_general": {
+      "label": "GRE General",
+      "enum": [
+        "Required",
+        "Recommended",
+        "Optional",
+        "Not required",
+        "Not considered",
+        "Not stated"
+      ]
+    },
+    "gre_physics": {
+      "label": "Physics GRE",
+      "enum": [
+        "Required",
+        "Recommended",
+        "Optional",
+        "Not required",
+        "Not considered",
+        "Not stated"
+      ]
+    },
+    "toefl_min": {
+      "label": "TOEFL minimum",
+      "code": "integer on the 0-120 scale, '<n> (new scale)', 'Sections' or 'Not stated'"
+    },
+    "english_waiver": {
+      "label": "English-test waiver for an English-medium Indian degree",
+      "enum": [
+        "Yes",
+        "Conditional",
+        "No",
+        "Check tool",
+        "Not stated"
+      ]
+    },
+    "supervisor": {
+      "label": "Supervisor before admission",
+      "enum": [
+        "Required",
+        "Recommended",
+        "Not required",
+        "Not stated"
+      ]
+    },
+    "funding": {
+      "label": "PhD funding",
+      "enum": [
+        "Guaranteed",
+        "Typical",
+        "Competitive",
+        "Not stated"
+      ]
+    },
+    "entry_route": {
+      "label": "Entry route",
+      "enum": [
+        "Direct from bachelor's",
+        "Master's usually required",
+        "Either",
+        "Not stated"
+      ]
+    }
   },
-  "unknown_codes": ["Not stated", "Check tool"]
+  "unknown_codes": [
+    "Not stated",
+    "Check tool"
+  ],
+  "regions": {
+    "North America": [
+      "USA",
+      "Canada"
+    ]
+  }
 }

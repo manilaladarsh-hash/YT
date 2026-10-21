@@ -12,7 +12,7 @@ Thanks for getting the Physics PhD Atlas 2027.
 
 1. Unzip the download and open **Atlas.html** in any browser (it works offline).
 2. Set the *Physics GRE* and *English-test waiver* filters to match you, then star 8–15 programs.
-3. Read Playbook Sections 2–5 this week. They cover the decisions with deadlines this month.
+3. Read Playbook Sections 2–7 this week. They cover the decisions with deadlines this month, including Europe.
 
 Before paying any application fee, tap the value in the Atlas and open the official page. Rules can change mid-cycle.
 

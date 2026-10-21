@@ -20,7 +20,7 @@ SCHEMA = json.loads((ROOT / "data" / "schema.json").read_text())
 PROGRAMS = ROOT / "data" / "programs"
 CACHE = ROOT / ".cache" / "pages"
 
-FEE_RE = re.compile(r"^(\d+(\.\d+)? (USD|CAD)|0 \(waived\)|Not stated)$")
+FEE_RE = re.compile(r"^(\d+(\.\d+)? (USD|CAD|GBP|EUR|CHF|SEK|DKK|NOK)|0 \(waived\)|0 \(no fee\)|Not stated)$")
 TOEFL_RE = re.compile(r"^(\d{2,3}|\d(\.\d)? \(new scale\)|Sections|Not stated)$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
@@ -96,7 +96,7 @@ def validate(require_cache=False):
                     errors.append(f"{where}.{name}: missing '{k}'")
             if "enum" in spec and code not in spec["enum"]:
                 errors.append(f"{where}.{name}: code '{code}' not in {spec['enum']}")
-            if name == "deadline" and code != "Not stated":
+            if name == "deadline" and code not in ("Not stated", "Rolling", "Per position"):
                 if not DATE_RE.match(code):
                     errors.append(f"{where}.deadline: code '{code}' is not ISO")
                 else:

@@ -1,10 +1,10 @@
 # E3: Reddit post (read each subreddit's rules first; skip any that ban self-promotion)
 
-**Title:** I checked 31 physics PhD programs' official pages for international-applicant rules (Fall 2027): Physics GRE is back at several, plus fee-waiver and English-test findings
+**Title:** I checked 40 physics PhD programs' official pages (US, Canada, Europe) for international-applicant rules: Physics GRE is back at several, plus fee-waiver, English-test and Europe findings
 
 **Body:**
 
-I'm a physics PhD student (came to Canada from India) and spent the past few weeks reading 31 US/Canada physics PhD programs' own admissions pages for the stuff that's hard to find as an international applicant. Everything below is quoted from official pages as of Oct 21, 2026; check the pages yourself before acting.
+I'm a physics PhD student (came to Canada from India) and spent the past few weeks reading 40 physics PhD programs' own admissions pages (21 US, 10 Canada, 9 Europe) for the stuff that's hard to find as an international applicant. Everything below is quoted from official pages as of Oct 21, 2026; check the pages yourself before acting.
 
 **Physics GRE required this cycle:** Berkeley, Caltech, Stanford (General too), UChicago; Cornell for theory applicants; Calgary for all foreign applicants. Several others won't look at any GRE at all (Rice, Stony Brook, UCSB, Minnesota).
 
@@ -14,6 +14,8 @@ I'm a physics PhD student (came to Canada from India) and spent the past few wee
 
 **Canada:** often supervisor-first. Waterloo requires a supervisor match; Ottawa wants a supervisor's name on the application; Calgary admits only if a supervisor will fund you. Many need a master's before the PhD (UBC, McGill, SFU, Queen's, Waterloo).
 
-**Earliest deadlines:** Ohio State (Nov 30, best consideration for internationals), UBC/Alberta/UT Austin (Dec 1), Columbia (Dec 3).
+**Europe:** EPFL has no application fee (rounds close Oct 31 and Apr 30, and you also need an advisor to offer you a position). Cambridge charges £20 per year for up to 7 doctoral applications (funding deadline Dec 8). Heidelberg's physics graduate-school portal closes Nov 1. ETH Zurich, Leiden and Bonn-Cologne have no central committee: you apply to a professor or an advertised paid position.
 
-Disclosure: I turned this into a kit with all 31 programs, the exact quote and link behind every value, an offline explorer and a planner sheet. There's a free 8-program sample ({SAMPLE_URL}); the full version is paid ({PAID_URL}, code REDDIT for 10% off). Happy to answer questions in the comments either way.
+**Earliest deadlines:** Heidelberg (Nov 1), Ohio State (Nov 30, best consideration for internationals), UBC/Alberta/UT Austin (Dec 1), Columbia (Dec 3).
+
+Disclosure: I turned this into a kit with all 40 programs, the exact quote and link behind every value, an offline explorer and a planner sheet. There's a free 10-program sample ({SAMPLE_URL}); the full version is paid ({PAID_URL}, code REDDIT for 10% off). Happy to answer questions in the comments either way.

@@ -4,11 +4,11 @@ title: "Physics PhD Atlas 2027 · The International Applicant's Playbook"
 
 # Physics PhD Atlas 2027
 
-## The International Applicant's Playbook (US + Canada)
+## The International Applicant's Playbook (US, Canada + Europe)
 
-**Version {{VERSION}} · program data checked {{CHECKED}} · {{N}} programs ({{N_US}} US, {{N_CA}} Canada)**
+**Version {{VERSION}} · program data checked {{CHECKED}} · {{N}} programs ({{N_US}} US, {{N_CA}} Canada, {{N_EU}} Europe: {{EU_COUNTRIES}})**
 
-This playbook is the "how" that goes with the Atlas data. Every program-specific fact below comes from the Atlas, where each value links to an exact quote on the program's official page. General advice is labelled as advice. Nothing here is immigration, visa or legal advice. For those topics, use only official government sources (links in Section 12).
+This playbook is the "how" that goes with the Atlas data. Every program-specific fact below comes from the Atlas, where each value links to an exact quote on the program's official page. General advice is labelled as advice. Nothing here is immigration, visa or legal advice. For those topics, use only official government sources (see Section 13).
 
 ---
 
@@ -16,7 +16,7 @@ This playbook is the "how" that goes with the Atlas data. Every program-specific
 
 1. Open **Atlas.html** in any browser. It works offline. Filter by what blocks you most (Physics GRE, English-test waiver, fee waivers), then star programs to build a shortlist.
 2. Open **Atlas.xlsx** (Excel, Google Sheets, or LibreOffice). Pick your starred programs in the **Shortlist** tab. Deadlines, fees and rules fill in automatically. The **Budget**, **Recommenders** and **Supervisor outreach** tabs do the rest of the tracking.
-3. Read Sections 2 to 5 of this playbook today. They cover the decisions with deadlines attached: fee waivers, English tests, GRE scores, and Canadian supervisors.
+3. Read Sections 2 to 7 of this playbook today. They cover the decisions with deadlines attached: fee waivers, English tests, GRE scores, Canadian supervisors, and Europe's different system.
 4. Before you pay any fee or book any test, click the value in the Atlas and open the official page. Programs change rules mid-cycle. When the Atlas says *Not stated*, the pages we checked did not say. It does **not** mean "no".
 
 ---
@@ -29,11 +29,12 @@ Treat these as working targets (advice). The fixed dates come from the programs.
 |---|---|
 | This week | Shortlist 8 to 15 programs. Check which need the **Physics GRE** (Section 5) and whether your English-test plan covers every program (Section 4). |
 | By **{{RICE_WAIVER_DATE}}** | If Rice is on your list, request its worldwide **Doctoral Application Fee Waiver Weeks** waiver; Rice says it then needs a completed application by **Nov 27**. |
-| Early November | Email Canadian supervisors (Section 6) and send recommenders their packet (Section 9). |
+| **Oct 31 / Nov 1** | EPFL's autumn round closes Oct 31 (next round Apr 30). Heidelberg's physics graduate-school portal closes **Nov 1**. |
+| Early November | Email Canadian supervisors (Section 6), and the European professors or advertised positions you want (Section 7). Send recommenders their packet (Section 10). |
 | {{EARLIEST_DEADLINES}} | The earliest deadlines in this Atlas. Several programs review applications the moment the deadline passes. |
-| Mid-December | Most US deadlines fall on Dec 11-16 (see the deadline table). |
-| January | Most Canadian deadlines (Jan 7-15), plus UIUC, Penn State, Texas A&M and Rutgers. |
-| Feb-April | Interviews and offers. Several programs in this Atlas (e.g., Stony Brook and Texas A&M) ask admitted students to respond by **April 15**. |
+| Mid-December | Most US deadlines fall on Dec 11-16 (see the deadline table). Cambridge's funding deadline is **Dec 8**. |
+| January | Most Canadian deadlines (Jan 7-15), plus UIUC, Penn State, Texas A&M and Rutgers. Edinburgh's physics funding deadline is Jan 22. |
+| Feb-April | Interviews and offers. Several programs in this Atlas (e.g., Stony Brook and Texas A&M) ask admitted students to respond by **April 15**. SISSA's spring call closes in early March; EPFL's second round on Apr 30. |
 
 ### Deadlines in this Atlas (earliest first)
 
@@ -61,7 +62,7 @@ There are four kinds of waiver rule. Which kind a program uses decides whether a
 
 1. **Friendly to an English-medium Indian degree ("Yes" in the Atlas):** {{ENGLISH_YES_LIST}}. Most of these look at your university's language of instruction. Some ask for an official letter or transcript notation (e.g., Toronto), and some for documents sent to the department (McGill). UT Austin is different: its exempt-country list includes India itself.
 2. **Conditional / list-based.** Exemption only if your institution meets a specific test. Alberta publishes a list that includes the IITs (all campuses), IISc and the University of Hyderabad but **not** the IISERs. Waterloo accepts only institutions listed on WHED with English as the *only* language of instruction, and explicitly rejects medium-of-instruction letters. Queen's lets you *request* an exemption after a recent year of English-medium study. In this Atlas: {{ENGLISH_CONDITIONAL_LIST}}.
-3. **No waiver for an English-medium Indian degree ("No"):** {{ENGLISH_NO_LIST}}. These either use an "English-primary country" list that India is not on (e.g., UIUC, Berkeley, SFU, Calgary), or require a test from everyone (Georgia Tech).
+3. **No waiver for an English-medium Indian degree ("No"):** {{ENGLISH_NO_LIST}}. These either use an "English-primary country" list that India is not on (e.g., UIUC, Berkeley, SFU, Calgary, and Cambridge via the UK government's list), or require a test from everyone (Georgia Tech).
 4. **Not stated** on the pages checked: ask the program before you assume.
 
 **Advice:** if even one program on your list needs a score, book the test now. Score delivery takes time; Waterloo, for example, says it takes 4-6 weeks for official scores to reach it. Also check speaking minimums. Several programs tie teaching-assistant eligibility (and so part of your funding) to a separate, higher speaking score.
@@ -104,7 +105,35 @@ Canadian programs often publish guaranteed minimums (e.g., UBC at least CAD 40,0
 
 ---
 
-## 7. Supervisor emails that get answered (advice)
+## 7. Europe works differently
+
+The {{N_EU}} European programs in this Atlas ({{EU_COUNTRIES}}) use two very different ways in.
+
+1. **Graduate-school calls with deadlines.** You apply to a school or program by a published date: Heidelberg's HGSFP (portal closes Nov 1), Cambridge (funding deadline Dec 8), Edinburgh (funding deadline Jan 22), SISSA (exam-based spring call, early March), Munich's MCQST fellowships (call opens October 2026), and EPFL (rounds close Oct 31 and Apr 30, but you also need a thesis advisor to offer you a position).
+2. **Apply to a professor or an advertised paid position.** There is no central committee. At ETH Zurich each professor recruits their own students. Leiden fills paid positions advertised as vacancies. The Bonn-Cologne graduate school says it does not provide PhD positions: you find one yourself. In this Atlas, position- or supervisor-based: {{EU_POSITION_LIST}}.
+
+{{EU_TABLE}}
+
+**Fees are often low or zero.** {{NO_FEE_LIST}} charges no application fee. Cambridge charges £20 per applicant per year for up to 7 doctoral applications.
+
+**A master's is usually expected first.** In this Atlas: {{EU_MASTERS_LIST}}. There are exceptions:
+- Heidelberg has an integrated 4+4 master/doctoral track for excellent candidates with four years of physics.
+- EPFL accepts 4- or 5-year bachelor's holders who explain their education in the Statement of Objectives.
+- Edinburgh says most of its current PhD students had no master's before starting.
+
+If you hold a 5-year BS-MS, ask each program how it assesses your degree, and keep the reply.
+
+**Funding often means a job contract.** Leiden's PhD projects are 4-year paid positions. At EPFL, enrolment requires secured funding and lab-appointed students get an employment contract. ETH doctorates are, with few exceptions, linked to a position. In the UK, funding is competitive: Cambridge runs a funding competition with a December deadline, and Edinburgh notes limits on how many international students UKRI grants can fund. In this Atlas, paid or typically funded: {{EU_FUNDED_LIST}}; competitive: {{EU_COMPETITIVE_LIST}}.
+
+**English rules in the UK are strict for Indian degrees.** Cambridge's exemption depends on the UK government's list of majority English-speaking countries, and India is not on it. Edinburgh accepts English-taught degrees only from institutions on its approved list. EPFL requires English proficiency but makes no test mandatory (it strongly recommends TOEFL).
+
+**Advice.**
+- In position-based systems, your supervisor email (Section 8) *is* the application. Check the vacancy pages weekly.
+- Allow time after an offer for contracts and permits. EPFL says about 3 months is usually needed for visas and work permits.
+
+---
+
+## 8. Supervisor emails that get answered (advice)
 
 **Find people, not just programs.** Use faculty pages, the group's own website (look for "accepting students"), and papers from the last two years. Shortlist 2-4 people per university.
 
@@ -125,7 +154,7 @@ Canadian programs often publish guaranteed minimums (e.g., UBC at least CAD 40,0
 
 ---
 
-## 8. Statement of purpose: a physics framework (advice)
+## 9. Statement of purpose: a physics framework (advice)
 
 Programs set their own length rules. Alberta, for example, wants **500 words or less on a single page**. Read each program's prompt and obey it exactly.
 
@@ -141,7 +170,7 @@ Programs set their own length rules. Alberta, for example, wants **500 words or 
 
 ---
 
-## 9. Recommendation letters: the request kit (advice)
+## 10. Recommendation letters: the request kit (advice)
 
 - **Who:** research supervisors first, then instructors of advanced courses who know your work. Programs differ on number: Toronto wants **exactly two** (no more), while UIUC, Columbia and Maryland list three.
 - **When:** ask at least 4-6 weeks before your earliest deadline, and send portal invitations early.
@@ -150,11 +179,11 @@ Programs set their own length rules. Alberta, for example, wants **500 words or 
 
 ---
 
-## 10. Fee waivers, ethically
+## 11. Fee waivers, ethically
 
 What this Atlas found for international applicants:
 
-- **Free or waived for everyone this cycle:** {{FREE_LIST}}.
+- **Free or waived for everyone this cycle:** {{FREE_LIST}}. **No application fee at all:** {{NO_FEE_LIST}}.
 - **Open to internationals (need, hardship, or a time-boxed window):** {{INTL_WAIVER_LIST}}.
 - **Limited or conditional routes:** {{LIMITED_LIST}}.
 - **Domestic applicants only:** {{DOMESTIC_ONLY_LIST}}.
@@ -168,7 +197,7 @@ What this Atlas found for international applicants:
 
 ---
 
-## 11. Submission checklist
+## 12. Submission checklist
 
 - [ ] Program-specific statement prompt answered (length, format, required sections)
 - [ ] CV in PDF, with research section, publications/posters, skills
@@ -182,17 +211,18 @@ What this Atlas found for international applicants:
 
 ---
 
-## 12. Money, safety and what this kit does not cover
+## 13. Money, safety and what this kit does not cover
 
 - **Scams:** be wary of anyone who guarantees admission, sells "special" fee-waiver codes, or asks for your portal passwords. Real waiver codes come from the program itself; Penn State, for example, publishes its own code on its admissions page.
 - **Paying fees:** many portals take Visa or Mastercard credit cards. Some accept debit cards selected as "credit" (UBC says this). Enable international online transactions with your bank before the deadline week.
-- **Visas and study permits:** out of scope. Use only official sources: travel.state.gov for US student visas, and canada.ca (IRCC) for Canadian study permits. Paid immigration advice in Canada is a regulated activity, and this kit is not that.
+- **Visas and study permits:** out of scope. Use only official sources: travel.state.gov for US student visas, canada.ca (IRCC) for Canadian study permits, and for Europe the host university's international office and the national immigration authority it points you to. Paid immigration advice in Canada is a regulated activity, and this kit is not that.
 
 ---
 
-## 13. How this data was built (and how to report an error)
+## 14. How this data was built (and how to report an error)
 
 - Each of the {{N}} programs was checked against its own department and graduate-school pages on {{CHECKED}}. Every value stores the exact sentence it came from, the URL and the date. A script confirms that each quote appears verbatim on the fetched page.
 - Research and drafting were AI-assisted. Every published value is tied to an official quote, and uncertain items are labelled *Not stated*, *Conditional*, *year inferred* or *sources conflict* instead of guessed.
 - A weekly automated check re-reads the cited pages and flags quotes that disappear. Updates are sent to buyers as new versions at no charge.
+- A few well-known European programs (for example, Oxford and ISTA Austria) block automated checks, so they are not in this edition. They will be added once their pages can be verified.
 - **Found something wrong or changed?** Reply to your purchase email with the program and the page link. Confirmed corrections ship in the next update.

@@ -41,12 +41,26 @@
     "chars": 39029,
     "sha256": "f01d6dac2ff6cb3af5622fe65eab42f3229bcd522629388ef7266fb6b394a843"
   },
+  "https://cm.sissa.it/phd/admission": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 1746,
+    "sha256": "94e781c49906a8c1e47863127f0769b0d38a99d397a58291a526e8f1f4786628"
+  },
   "https://cse.umn.edu/physics/graduate-admissions": {
     "fetched": "2026-10-21",
     "method": "http",
     "status": 200,
     "chars": 9368,
     "sha256": "c784a6c7ef6e60ef9e51f7fe9bc8c0be218f51e839cf7f240de365191d968428"
+  },
+  "https://ethz.ch/en/doctorate/finding-a-place.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 3272,
+    "sha256": "943da579ab432f85c6a132c2cd1efce0c0e48bba6d93f4a79fe4f320dbc2494c"
   },
   "https://grad.berkeley.edu/admissions/application-process/fee-waiver/": {
     "fetched": "2026-10-21",
@@ -89,6 +103,27 @@
     "status": 200,
     "chars": 45798,
     "sha256": "21f84417280ab8297c22f67b1347d5efff5ba369c6abf5bb2e928c093456a5bb"
+  },
+  "https://hgsfp.physik.uni-heidelberg.de/howtoapply#start": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 1585,
+    "sha256": "dcee61341d14631b93584b1fbe3b770b5dd45697506b70a5faae076366f8aa8f"
+  },
+  "https://hgsfp.physik.uni-heidelberg.de/howtoapply/admissionrequirements#start": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 2179,
+    "sha256": "9cab1b95aaf0e0f2b7768791545cae5e92bae487d10be874414f6a3d3bf94a5e"
+  },
+  "https://hgsfp.physik.uni-heidelberg.de/howtoapply/integratedmasterdoctoral#start": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 3716,
+    "sha256": "061f4d2b7c91952fff59cbaf9d9c187b0c99469925aff9bb08028584c0a61b7d"
   },
   "https://physicalsciences.uchicago.edu/academics/application-requirements/": {
     "fetched": "2026-10-21",
@@ -265,6 +300,27 @@
     "chars": 8338,
     "sha256": "70369d3dbadfa72180489310068d3bce95815786a306927b9ae51f10b9dcae61"
   },
+  "https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 8547,
+    "sha256": "7bb9acdb23f73e04f04979aab1dec6787383dabbdb571e911881b621baef8082"
+  },
+  "https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application/applications-faqs/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 9897,
+    "sha256": "b2199d2da340529c7439e44480ad1fcbffedc2b97c68dc17947840c131eddda0"
+  },
+  "https://www.epfl.ch/education/phd/edpy-physics/edpy-how-to-apply/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 6304,
+    "sha256": "f213e8a7b1806cb4277a8fc91f92073d2e97e2f2a3170bd16ca9bd8bf6b46775"
+  },
   "https://www.grad.ubc.ca/prospective-students/application-admission/online-application-fee": {
     "fetched": "2026-10-21",
     "method": "http",
@@ -279,12 +335,33 @@
     "chars": 37658,
     "sha256": "55f9650b6d7cbe7386b027692ba274d57ce3f198dac83b6d068ef280664a9d12"
   },
+  "https://www.imprs-quantum.mpg.de/3192/Application": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 2707,
+    "sha256": "b09e92017c628f90bb1befd028daed8af6a4f3350d777f9ffb41810c167fb810"
+  },
   "https://www.mcgill.ca/gradapplicants/how-apply/you-apply-mcgill/proficiency": {
     "fetched": "2026-10-21",
     "method": "http",
     "status": 200,
     "chars": 5187,
     "sha256": "d7dd9f15674a252ad0e0edc7dcc428ec8212e2080989c68a66274f081e4c14ab"
+  },
+  "https://www.ph.ed.ac.uk/studying/postgraduate-research/how-apply": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 9408,
+    "sha256": "253b8e52d9ae0d3d49d48eb8d4ff96924a3654c270dd580b96871bfc4865d0ce"
+  },
+  "https://www.phy.cam.ac.uk/study/postgraduate/howtoapply/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 8017,
+    "sha256": "96ddf7a89733205e4fab2fe839b0e51bfa32a82b5bc67cebecef58df952c7ddc"
   },
   "https://www.physics.columbia.edu/content/applying-columbia-physics-graduate-program": {
     "fetched": "2026-10-21",
@@ -341,6 +418,20 @@
     "status": 200,
     "chars": 10319,
     "sha256": "9c49e87c81128626563314e00ee4b811b34ef05330b5db4df471f2781d6194d7"
+  },
+  "https://www.postgraduate.study.cam.ac.uk/courses/directory/pcphpdphy": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 9057,
+    "sha256": "952a57362ef52e2048e3245c94718baa10d59b42b4d5a1522f93212fbcf3a9e3"
+  },
+  "https://www.postgraduate.study.cam.ac.uk/courses/directory/pcphpdphy/requirements": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 7107,
+    "sha256": "0b55d043cad7110acc628cec6a47c819e8ea0b48036e55cb5b7b79ac8006bb6f"
   },
   "https://www.purdue.edu/academics/ogsps/admissions/how-to-apply/": {
     "fetched": "2026-10-21",
@@ -432,5 +523,19 @@
     "status": 200,
     "chars": 5912,
     "sha256": "62074c641c50db09e3436b7a2119f3aa64b0cee1ccce79a79bc648638b186920"
+  },
+  "https://www.universiteitleiden.nl/en/science/graduate-school-of-science/phd-programmes/physics": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 3279,
+    "sha256": "8306ab57a2fc57d067919466926e0a64dc099be35132efbc180ecdb4a7ce4bb9"
+  },
+  "https://www.universiteitleiden.nl/en/science/physics/phd-programme": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 5390,
+    "sha256": "7201be0684e00f12d7f89f9082fef59f1f51dd0c70255bc61c370fea2af044d2"
   }
 }

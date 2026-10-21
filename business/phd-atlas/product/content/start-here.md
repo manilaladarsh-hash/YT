@@ -9,20 +9,21 @@ Thank you for buying the Atlas. Your kit contains:
 | **Atlas.html** | Offline program explorer. Open it in any browser, filter, star programs, export your shortlist. Tap any value to see the exact official sentence and its link. |
 | **Atlas.xlsx** | Planner workbook: Programs, Shortlist (auto-fills deadlines, fees, rules), Budget, Recommenders, Supervisor outreach, Sources. Works in Excel, Google Sheets (File → Import) and LibreOffice. |
 | **Atlas.csv** | The same program data for any other tool. |
-| **Playbook.pdf** | Step-by-step guidance: timeline, English tests, GRE, Canadian supervisors, SOP, letters, fee waivers, checklist. |
+| **Playbook.pdf** | Step-by-step guidance: timeline, English tests, GRE, Canadian supervisors, how Europe differs, SOP, letters, fee waivers, checklist. |
 | **LICENSE.txt** | What you may and may not do with the files. |
 
 ### Your first 15 minutes
 
 1. Open **Atlas.html**, then set *Physics GRE* and *English-test waiver* to match your situation.
 2. Star 8-15 programs and click **Export shortlist (CSV)**, or pick them in the **Shortlist** tab of Atlas.xlsx.
-3. Read Playbook Sections 2-5, which cover the decisions with deadlines this month.
+3. Read Playbook Sections 2-7, which cover the decisions with deadlines this month (including Europe).
 4. Before paying any fee, click the value and open the official page. Rules change mid-cycle.
 
 ### What the labels mean
 
 - **Not stated**: the official pages we checked did not say. This is *not* a "no", so ask the program.
-- **Year inferred**: the page gave a day and month only; we assumed the Fall 2027 cycle.
+- **Year inferred**: the page gave a day and month only; we assumed the 2027-entry cycle.
+- **Per position / Rolling**: no central deadline. You apply to a professor or an advertised position (common in Europe).
 - **Sources conflict**: two official pages disagree. We show both and use the safer number.
 
 ### Updates and corrections

@@ -16,7 +16,7 @@ Desk research is not customer validation. Everything below the "Customer tests" 
 ## Desk research completed (not validation)
 
 - Competitor scan, price anchors and market size (see `OPPORTUNITY_RESEARCH.md`).
-- 31 programs verified against official pages, with exact quotes, all passing `validate_data.py`.
+- 40 programs (21 US, 10 Canada, 9 Europe) verified against official pages, with exact quotes, all passing `validate_data.py`.
 - The product works end to end in tests (`tests/`, 18 automated checks).
 
 ## Customer tests (need your approval to run)

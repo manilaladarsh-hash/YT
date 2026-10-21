@@ -32,17 +32,19 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from validate_data import validate  # noqa: E402
 
-VERSION = "1.0"
+VERSION = "1.1"
 PRODUCT = "Physics-PhD-Atlas-2027"
 DIST = ROOT / "dist"
 OUT = DIST / PRODUCT
 CONTENT = ROOT / "product" / "content"
 TEMPLATES = ROOT / "product" / "templates"
 BUILD = ROOT / ".cache" / "build"
-SAMPLE_IDS = ["rice", "pennstate", "stanford", "utaustin", "utoronto", "waterloo", "ualberta", "ubc"]
+SAMPLE_IDS = ["rice", "pennstate", "stanford", "utaustin", "utoronto", "waterloo", "ualberta", "ubc", "cambridge", "epfl"]
+NORTH_AMERICA = {"USA", "Canada"}
+CURRENCIES = ["USD", "CAD", "GBP", "EUR", "CHF"]
 
 FIELD_LABELS = {
-    "deadline": "Deadline (Fall 2027)",
+    "deadline": "Deadline (2027 entry)",
     "app_fee": "Application fee",
     "fee_waiver": "Intl fee waiver",
     "gre_general": "GRE General",
@@ -61,7 +63,13 @@ SHORT = {
     "rice": "Rice", "minnesota": "Minnesota", "stanford": "Stanford", "caltech": "Caltech", "columbia": "Columbia",
     "cornell": "Cornell", "pennstate": "Penn State", "rutgers": "Rutgers", "tamu": "Texas A&M", "ucsb": "UCSB",
     "georgiatech": "Georgia Tech", "bostonu": "Boston University",
+    "cambridge": "Cambridge", "edinburgh": "Edinburgh", "epfl": "EPFL", "ethz": "ETH Zurich", "heidelberg": "Heidelberg (HGSFP)",
+    "munich-mcqst": "Munich (MCQST)", "bonn-cologne": "Bonn-Cologne (BCGS)", "sissa-cm": "SISSA", "leiden": "Leiden",
 }
+
+
+def area(r):
+    return "North America" if r["country"] in NORTH_AMERICA else "Europe"
 
 
 # ---------------------------------------------------------------- data
@@ -81,11 +89,11 @@ def names(recs, pred):
 
 
 def fee_parts(code):
-    m = re.match(r"^(\d+(?:\.\d+)?) (USD|CAD)$", code)
+    m = re.match(r"^(\d+(?:\.\d+)?) (USD|CAD|GBP|EUR|CHF|SEK|DKK|NOK)$", code)
     if m:
         return float(m.group(1)), m.group(2)
     if code.startswith("0"):
-        return 0.0, "USD"
+        return 0.0, ""
     return None, ""
 
 
@@ -109,52 +117,71 @@ def flags_text(f):
     return "; ".join(out)
 
 
+def deadline_text(r):
+    code = r["fields"]["deadline"]["code"]
+    d = deadline_cell(r)
+    return d.strftime("%b %d, %Y") if d else code
+
+
 def stats(recs):
     checked = max(r["checked"] for r in recs)
-    usd = [fee_parts(r["fields"]["app_fee"]["code"])[0] for r in recs if r["fields"]["app_fee"]["code"].endswith("USD")]
-    cad = [fee_parts(r["fields"]["app_fee"]["code"])[0] for r in recs if r["fields"]["app_fee"]["code"].endswith("CAD")]
+    fees = {c: [fee_parts(r["fields"]["app_fee"]["code"])[0] for r in recs if r["fields"]["app_fee"]["code"].endswith(" " + c)]
+            for c in CURRENCIES}
     dated = sorted((r["fields"]["deadline"]["code"], short(r)) for r in recs if deadline_cell(r))
     first = dated[:4]
     fw = lambda code: (lambda r: r["fields"]["fee_waiver"]["code"] == code)
+    eu = [r for r in recs if area(r) == "Europe"]
+    code = lambda r, f: r["fields"][f]["code"]
+    by_deadline = sorted(recs, key=lambda r: r["fields"]["deadline"]["code"] if deadline_cell(r) else "9" + r["fields"]["deadline"]["code"])
     return {
         "VERSION": VERSION,
         "CHECKED": date.fromisoformat(checked).strftime("%B %d, %Y").replace(" 0", " "),
         "N": str(len(recs)),
         "N_US": str(sum(r["country"] == "USA" for r in recs)),
         "N_CA": str(sum(r["country"] == "Canada" for r in recs)),
-        "MEDIAN_USD": f"{statistics.median(usd):.0f}" if usd else "n/a",
-        "MEDIAN_CAD": f"{statistics.median(cad):.0f}" if cad else "n/a",
+        "N_EU": str(len(eu)),
+        "EU_COUNTRIES": ", ".join(sorted({r["country"] for r in eu})),
+        "MEDIAN_USD": f"{statistics.median(fees['USD']):.0f}" if fees["USD"] else "n/a",
+        "MEDIAN_CAD": f"{statistics.median(fees['CAD']):.0f}" if fees["CAD"] else "n/a",
         "RICE_WAIVER_DATE": "Nov 1, 2026",
         "EARLIEST_DEADLINES": "; ".join(f"{date.fromisoformat(d).strftime('%b %d')}: {n}" for d, n in first),
         "PGRE_REQUIRED_LIST": "\n".join(
-            f"- **{short(r)}**: {r['fields']['gre_physics']['value']}" for r in recs if r["fields"]["gre_physics"]["code"] == "Required"
+            f"- **{short(r)}**: {r['fields']['gre_physics']['value']}" for r in recs if code(r, "gre_physics") == "Required"
         ),
         "PGRE_REQUIRED_NAMES": ", ".join(
             short(r) + (f" ({r['fields']['gre_physics']['scope']})" if r["fields"]["gre_physics"].get("scope") else "")
-            for r in recs if r["fields"]["gre_physics"]["code"] == "Required"
+            for r in recs if code(r, "gre_physics") == "Required"
         ),
-        "GRE_NONE_LIST": names(recs, lambda r: r["fields"]["gre_physics"]["code"] == "Not considered" and r["fields"]["gre_general"]["code"] == "Not considered"),
-        "GENERAL_IGNORED_LIST": names(recs, lambda r: r["fields"]["gre_general"]["code"] == "Not considered" and r["fields"]["gre_physics"]["code"] != "Not considered"),
-        "ENGLISH_YES_LIST": names(recs, lambda r: r["fields"]["english_waiver"]["code"] == "Yes"),
-        "ENGLISH_CONDITIONAL_LIST": names(recs, lambda r: r["fields"]["english_waiver"]["code"] == "Conditional"),
-        "ENGLISH_NO_LIST": names(recs, lambda r: r["fields"]["english_waiver"]["code"] == "No"),
-        "FREE_LIST": names(recs, lambda r: r["fields"]["app_fee"]["code"].startswith("0")),
-        "INTL_WAIVER_LIST": names(recs, lambda r: fw("Available")(r) and not r["fields"]["app_fee"]["code"].startswith("0")),
+        "GRE_NONE_LIST": names(recs, lambda r: code(r, "gre_physics") == "Not considered" and code(r, "gre_general") == "Not considered"),
+        "GENERAL_IGNORED_LIST": names(recs, lambda r: code(r, "gre_general") == "Not considered" and code(r, "gre_physics") != "Not considered"),
+        "ENGLISH_YES_LIST": names(recs, lambda r: code(r, "english_waiver") == "Yes"),
+        "ENGLISH_CONDITIONAL_LIST": names(recs, lambda r: code(r, "english_waiver") == "Conditional"),
+        "ENGLISH_NO_LIST": names(recs, lambda r: code(r, "english_waiver") == "No"),
+        "FREE_LIST": names(recs, lambda r: code(r, "app_fee") == "0 (waived)"),
+        "NO_FEE_LIST": names(recs, lambda r: code(r, "app_fee") == "0 (no fee)"),
+        "INTL_WAIVER_LIST": names(recs, lambda r: fw("Available")(r) and not code(r, "app_fee").startswith("0")),
         "LIMITED_LIST": names(recs, fw("Limited")),
         "DOMESTIC_ONLY_LIST": names(recs, fw("Domestic only")),
         "NO_WAIVER_LIST": names(recs, fw("None")),
-        "MASTERS_FIRST_LIST": names(recs, lambda r: r["country"] == "Canada" and r["fields"]["entry_route"]["code"] == "Master's usually required"),
-        "EITHER_LIST": names(recs, lambda r: r["country"] == "Canada" and r["fields"]["entry_route"]["code"] in ("Either", "Direct from bachelor's")),
+        "MASTERS_FIRST_LIST": names(recs, lambda r: r["country"] == "Canada" and code(r, "entry_route") == "Master's usually required"),
+        "EITHER_LIST": names(recs, lambda r: r["country"] == "Canada" and code(r, "entry_route") in ("Either", "Direct from bachelor's")),
+        "EU_POSITION_LIST": names(eu, lambda r: code(r, "deadline") in ("Per position", "Rolling") or code(r, "supervisor") == "Required"),
+        "EU_SCHOOL_LIST": names(eu, lambda r: deadline_cell(r) is not None or code(r, "deadline") == "Not stated" and code(r, "supervisor") != "Required"),
+        "EU_MASTERS_LIST": names(eu, lambda r: code(r, "entry_route") == "Master's usually required"),
+        "EU_BACHELORS_LIST": names(eu, lambda r: code(r, "entry_route") in ("Direct from bachelor's", "Either")),
+        "EU_FUNDED_LIST": names(eu, lambda r: code(r, "funding") in ("Guaranteed", "Typical")),
+        "EU_COMPETITIVE_LIST": names(eu, lambda r: code(r, "funding") == "Competitive"),
         "DEADLINE_TABLE": md_table(
             ["Deadline", "Program", "Country", "Note"],
-            [[date.fromisoformat(r["fields"]["deadline"]["code"]).strftime("%b %d, %Y") if deadline_cell(r) else "Not stated",
-              short(r), r["country"], flags_text(r["fields"]["deadline"]) or ""]
-             for r in sorted(recs, key=lambda r: r["fields"]["deadline"]["code"] if deadline_cell(r) else "9")],
+            [[deadline_text(r), short(r), r["country"], flags_text(r["fields"]["deadline"]) or ""] for r in by_deadline],
         ),
         "SUPERVISOR_TABLE": md_table(
             ["Program", "Supervisor before admission", "What the page says"],
-            [[short(r), r["fields"]["supervisor"]["code"], r["fields"]["supervisor"]["value"]]
-             for r in recs if r["country"] == "Canada"],
+            [[short(r), code(r, "supervisor"), r["fields"]["supervisor"]["value"]] for r in recs if r["country"] == "Canada"],
+        ),
+        "EU_TABLE": md_table(
+            ["Program", "Country", "Deadline", "How you get in", "Funding"],
+            [[short(r), r["country"], deadline_text(r), r["fields"]["supervisor"]["value"], r["fields"]["funding"]["value"]] for r in eu],
         ),
     }
 
@@ -244,7 +271,7 @@ def write_xlsx(recs, path, values):
         dl = deadline_cell(r)
         ws.append([
             r["institution"], r["department"], r["country"], r["region"],
-            dl if dl else "Not stated", F["deadline"]["value"],
+            dl if dl else F["deadline"]["code"], F["deadline"]["value"],
             amount if amount is not None else "Not stated", cur,
             F["fee_waiver"]["code"], F["fee_waiver"]["value"], F["gre_general"]["code"], F["gre_physics"]["code"],
             F["toefl_min"]["code"], F["english_waiver"]["code"], F["english_waiver"]["value"],
@@ -299,34 +326,37 @@ def write_xlsx(recs, path, values):
         dv.add(ref)
     style_header(sl, [36, 9, 12, 9, 8, 9, 14, 13, 14, 14, 18, 9, 9, 16, 40])
 
-    # Budget
+    # Budget: one column per currency, totals converted with rates the owner types in
     bd = wb.create_sheet("Budget")
     bd.column_dimensions["A"].width = 58
-    for col in "BCD":
-        bd.column_dimensions[col].width = 16
-    rows = [
-        ["Item", "USD", "CAD", "Notes"],
-        ["Application fees on your shortlist (excludes rows marked Waived)",
-         '=SUMIFS(Shortlist!$E$2:$E$31,Shortlist!$F$2:$F$31,"USD",Shortlist!$N$2:$N$31,"<>Waived")',
-         '=SUMIFS(Shortlist!$E$2:$E$31,Shortlist!$F$2:$F$31,"CAD",Shortlist!$N$2:$N$31,"<>Waived")', "Calculated"],
-        ["English test (booking + extra score reports)", None, None, "Enter from the official test website"],
-        ["GRE / Physics GRE (booking + score reports)", None, None, "Enter only if a program on your list needs it"],
-        ["Transcripts, credential evaluation, courier", None, None, "Enter from your university / evaluator"],
-        ["Other", None, None, ""],
-        ["Total", "=SUM(B2:B6)", "=SUM(C2:C6)", ""],
-        [],
-        ["Your currency (e.g. INR): rate per 1 USD", None, None, "Enter today's rate"],
-        ["Your currency: rate per 1 CAD", None, None, "Enter today's rate"],
-        ["Total in your currency", '=IF(OR(B9="",B10=""),"enter rates",B7*B9+C7*B10)', None, ""],
-    ]
-    for row in rows:
-        bd.append(row)
+    cols = "BCDEF"
+    for col in cols + "G":
+        bd.column_dimensions[col].width = 13
+    bd.column_dimensions["G"].width = 40
+    bd.append(["Item"] + CURRENCIES + ["Notes"])
+    fee_row = ["Application fees on your shortlist (excludes rows marked Waived)"]
+    for cur in CURRENCIES:
+        fee_row.append(f'=SUMIFS(Shortlist!$E$2:$E$31,Shortlist!$F$2:$F$31,"{cur}",Shortlist!$N$2:$N$31,"<>Waived")')
+    bd.append(fee_row + ["Calculated"])
+    for item, note in [("English test (booking + extra score reports)", "Enter from the official test website"),
+                       ("GRE / Physics GRE (booking + score reports)", "Enter only if a program on your list needs it"),
+                       ("Transcripts, credential evaluation, courier", "Enter from your university / evaluator"),
+                       ("Other", "")]:
+        bd.append([item] + [None] * len(CURRENCIES) + [note])
+    bd.append(["Total"] + [f"=SUM({c}2:{c}6)" for c in cols] + [""])
+    bd.append([])
+    bd.append(["Your currency (e.g. INR): rate per 1 unit"] + [None] * len(CURRENCIES) + ["Enter today's rate under each currency you use"])
+    conv = "+".join(f'IF({c}9="",0,{c}7*{c}9)' for c in cols)
+    bd.append(["Total in your currency", f"={conv}"] + [None] * (len(CURRENCIES) - 1) + ["Currencies without a rate are left out"])
     for c in bd[1]:
         c.fill, c.font = HEADER_FILL, HEADER_FONT
-    for ref in ["B3", "C3", "B4", "C4", "B5", "C5", "B6", "C6", "B9", "B10"]:
-        bd[ref].fill = INPUT_FILL
+    for r in range(3, 7):
+        for col in cols:
+            bd[f"{col}{r}"].fill = INPUT_FILL
+    for col in cols:
+        bd[f"{col}9"].fill = INPUT_FILL
     bd["A7"].font = Font(bold=True)
-    bd["A11"].font = Font(bold=True)
+    bd["A10"].font = Font(bold=True)
 
     # Recommenders
     rc = wb.create_sheet("Recommenders")
@@ -424,16 +454,17 @@ def write_sample(recs, path, values):
     body = f"""
 <div class="cover" style="padding-top:6mm"><span class="tag">FREE SAMPLE · {values['CHECKED']}</span>
 <h1>Physics PhD Atlas 2027</h1>
-<p><b>8 of {values['N']} programs</b> from the full Atlas for international physics applicants (US + Canada), with every value copied from the program's own official page.</p></div>
-<h2>Five things international physics applicants miss this cycle</h2>
+<p><b>{len(chosen)} of {values['N']} programs</b> from the full Atlas for international physics applicants (US, Canada and Europe), with every value copied from the program's own official page.</p></div>
+<h2>Six things international physics applicants miss this cycle</h2>
 <ol>
 <li><b>The Physics GRE is back at some top programs.</b> In the full Atlas, it's required this cycle at {html.escape(values['PGRE_REQUIRED_NAMES'])}.</li>
 <li><b>Some fees are free right now.</b> Penn State waives its fee for everyone with code PHYS2027. Rice runs a worldwide fee-waiver window until {values['RICE_WAIVER_DATE']}.</li>
 <li><b>"My degree was in English" isn't always enough.</b> Waterloo rejects medium-of-instruction letters. Alberta's exemption list includes the IITs and IISc but not the IISERs. UT Austin exempts applicants from India outright.</li>
 <li><b>TOEFL changed scales on Jan 21, 2026.</b> Programs now list two minimums (e.g., UBC: 90 old scale / 4.5 new scale).</li>
 <li><b>Canada often admits supervisor-first.</b> Waterloo requires a supervisor match, Ottawa wants a supervisor's name at application, and Calgary admits only if a supervisor will fund you.</li>
+<li><b>Europe runs on different rules.</b> EPFL charges no application fee; Cambridge charges £20 per year for up to 7 doctoral applications; Heidelberg's physics graduate-school portal closes Nov 1; at ETH Zurich and Leiden you apply to a professor or an advertised paid position instead of a central committee.</li>
 </ol>
-<h2>Sample: 8 programs</h2>
+<h2>Sample: {len(chosen)} programs</h2>
 {table}
 <p class="note">Deadline years are inferred where a page gives only a day and month. Confirm every value on the official page before paying or submitting.</p>
 <h2>The full kit</h2>

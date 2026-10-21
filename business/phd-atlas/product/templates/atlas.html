@@ -86,8 +86,9 @@ footer { max-width: 1400px; margin: 0 auto; padding: 0 16px 30px; color: var(--m
 <main>
   <section class="controls" aria-label="Filters">
     <label>Search<input id="q" type="search" placeholder="University, region, note…"></label>
-    <label>Country<select id="country"><option value="">US + Canada</option><option>USA</option><option>Canada</option></select></label>
-    <label>Fee waiver for internationals<select id="waiver"><option value="">Any</option><option value="yes">Available or limited route</option><option value="free">Free / waived for everyone</option></select></label>
+    <label>Region<select id="area"><option value="">All regions</option><option>North America</option><option>Europe</option></select></label>
+    <label>Country<select id="country"><option value="">All countries</option></select></label>
+    <label>Fee waiver for internationals<select id="waiver"><option value="">Any</option><option value="yes">Available or limited route</option><option value="free">No fee / waived for everyone</option></select></label>
     <label>Physics GRE<select id="pgre"><option value="">Any</option><option value="norequired">Not required</option><option value="required">Required</option></select></label>
     <label>English-test waiver (English-medium degree)<select id="eng"><option value="">Any</option><option value="yes">Yes</option><option value="possible">Yes or conditional</option></select></label>
     <label>Supervisor before admission<select id="sup"><option value="">Any</option><option value="Required">Required</option><option value="Recommended">Recommended</option></select></label>
@@ -133,12 +134,12 @@ const FIELDS = [
   ["supervisor","Supervisor"],["funding","Funding"],["entry_route","Entry route"]
 ];
 const TONE = {
-  fee_waiver: {"Available":"good","Limited":"warn","Domestic only":"bad","None":"bad"},
+  fee_waiver: {"Available":"good","No fee":"good","Limited":"warn","Domestic only":"bad","None":"bad"},
   gre_general: {"Required":"bad","Recommended":"warn","Optional":"good","Not required":"good","Not considered":"good"},
   gre_physics: {"Required":"bad","Recommended":"warn","Optional":"good","Not required":"good","Not considered":"good"},
   english_waiver: {"Yes":"good","Conditional":"warn","No":"bad","Check tool":"warn"},
   supervisor: {"Required":"warn","Recommended":"warn","Not required":"good"},
-  funding: {"Guaranteed":"good","Typical":"warn"},
+  funding: {"Guaranteed":"good","Typical":"warn","Competitive":"warn"},
   entry_route: {"Direct from bachelor's":"good","Either":"good","Master's usually required":"warn"}
 };
 const store = {
@@ -148,6 +149,7 @@ const store = {
 let stars = new Set(store.get("atlas-stars", []));
 const $ = id => document.getElementById(id);
 
+function areaOf(p) { return (p.country === "USA" || p.country === "Canada") ? "North America" : "Europe"; }
 function fmtDate(iso) {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(iso)) return iso;
   const d = new Date(iso + "T00:00:00");
@@ -220,6 +222,7 @@ function matches(p) {
     const hay = [p.institution, p.department, p.region, p.country, p.notes].concat(FIELDS.map(([k]) => p.fields[k].value)).join(" ").toLowerCase();
     if (!hay.includes(q)) return false;
   }
+  if ($("area").value && areaOf(p) !== $("area").value) return false;
   if ($("country").value && p.country !== $("country").value) return false;
   const w = $("waiver").value, fw = p.fields.fee_waiver.code, fee = p.fields.app_fee.code;
   if (w === "yes" && !["Available","Limited"].includes(fw)) return false;
@@ -282,11 +285,14 @@ function exportCsv() {
   setTimeout(() => URL.revokeObjectURL(a.href), 1000);
 }
 function init() {
-  $("subtitle").textContent = ATLAS.programs.length + " US and Canadian physics PhD programs · Fall 2027 entry · every value linked to an official quote · data checked " + fmtDate(ATLAS.checked) + " · v" + ATLAS.version;
+  const countries = [...new Set(ATLAS.programs.map(p => p.country))].sort();
+  for (const c of countries) { const o = document.createElement("option"); o.textContent = c; $("country").appendChild(o); }
+  const nEu = ATLAS.programs.filter(p => areaOf(p) === "Europe").length;
+  $("subtitle").textContent = ATLAS.programs.length + " physics PhD programs (" + (ATLAS.programs.length - nEu) + " US/Canada, " + nEu + " Europe) · 2027 entry · every value linked to an official quote · data checked " + fmtDate(ATLAS.checked) + " · v" + ATLAS.version;
   $("foot").textContent = "Version " + ATLAS.version + ". 'Not stated' means the official pages we checked did not say; it is not a 'no'. 'Year inferred' means the page gave a day and month only.";
-  for (const id of ["q","country","waiver","pgre","eng","sup","before","sort"]) $(id).addEventListener("input", render);
+  for (const id of ["q","area","country","waiver","pgre","eng","sup","before","sort"]) $(id).addEventListener("input", render);
   $("onlyStar").addEventListener("click", e => { const b = e.currentTarget; b.setAttribute("aria-pressed", b.getAttribute("aria-pressed") !== "true"); render(); });
-  $("reset").addEventListener("click", () => { for (const id of ["q","country","waiver","pgre","eng","sup","before"]) $(id).value = ""; $("sort").value = "deadline"; $("onlyStar").setAttribute("aria-pressed", "false"); render(); });
+  $("reset").addEventListener("click", () => { for (const id of ["q","area","country","waiver","pgre","eng","sup","before"]) $(id).value = ""; $("sort").value = "deadline"; $("onlyStar").setAttribute("aria-pressed", "false"); render(); });
   $("exportBtn").addEventListener("click", exportCsv);
   $("theme").addEventListener("click", () => {
     const root = document.documentElement;
