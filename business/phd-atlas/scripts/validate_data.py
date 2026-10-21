@@ -107,6 +107,10 @@ def validate(require_cache=False):
                 errors.append(f"{where}.app_fee: code '{code}' has wrong format")
             if name == "toefl_min" and not TOEFL_RE.match(code):
                 errors.append(f"{where}.toefl_min: code '{code}' has wrong format")
+            if "time_sensitive" in fld and not (isinstance(fld["time_sensitive"], str) and DATE_RE.match(fld["time_sensitive"])):
+                errors.append(f"{where}.{name}: time_sensitive must be an ISO act-by date")
+            if "inferred" in fld and fld["inferred"] != "year":
+                errors.append(f"{where}.{name}: inferred must be 'year'")
             url = fld.get("url", "")
             if not url.startswith("https://"):
                 errors.append(f"{where}.{name}: url must be https")
