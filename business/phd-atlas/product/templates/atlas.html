@@ -1,0 +1,302 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Physics PhD Atlas 2027</title>
+<style>
+:root {
+  --bg: #f7f6f2; --panel: #ffffff; --ink: #1d232b; --muted: #5b6573; --line: #dcdfe4;
+  --accent: #1f5f8b; --accent-ink: #ffffff; --good: #1e6b3a; --good-bg: #e3f2e7;
+  --warn: #8a5a00; --warn-bg: #fbf0d9; --bad: #9b2c2c; --bad-bg: #f8e1e1; --na: #5b6573; --na-bg: #eceef1;
+  --focus: #f0b429;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #12161b; --panel: #1a2027; --ink: #e8ecf1; --muted: #9aa5b3; --line: #2c3540;
+    --accent: #6fb3e0; --accent-ink: #0d1116; --good: #8fd6a4; --good-bg: #1d3325;
+    --warn: #f2c46d; --warn-bg: #3a2f17; --bad: #f19c9c; --bad-bg: #3d2121; --na: #9aa5b3; --na-bg: #262e37;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #12161b; --panel: #1a2027; --ink: #e8ecf1; --muted: #9aa5b3; --line: #2c3540;
+  --accent: #6fb3e0; --accent-ink: #0d1116; --good: #8fd6a4; --good-bg: #1d3325;
+  --warn: #f2c46d; --warn-bg: #3a2f17; --bad: #f19c9c; --bad-bg: #3d2121; --na: #9aa5b3; --na-bg: #262e37;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+a { color: var(--accent); }
+header { padding: 20px 16px 8px; max-width: 1400px; margin: 0 auto; }
+h1 { margin: 0 0 4px; font-size: 1.5rem; }
+.sub { color: var(--muted); margin: 0; }
+main { max-width: 1400px; margin: 0 auto; padding: 0 16px 40px; }
+.controls { display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px; margin: 12px 0; }
+.controls label { display: flex; flex-direction: column; font-size: .8rem; color: var(--muted); gap: 4px; }
+.controls input, .controls select { font: inherit; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 7px 8px; }
+.controls .row { display: flex; gap: 8px; align-items: end; flex-wrap: wrap; grid-column: 1 / -1; }
+button { font: inherit; border: 1px solid var(--line); background: var(--panel); color: var(--ink); border-radius: 6px; padding: 7px 10px; cursor: pointer; }
+button.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+button:focus-visible, input:focus-visible, select:focus-visible, .cell:focus-visible { outline: 3px solid var(--focus); outline-offset: 1px; }
+.summary { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; margin: 4px 0 10px; color: var(--muted); font-size: .9rem; }
+.tablewrap { overflow-x: auto; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; }
+table { border-collapse: collapse; width: 100%; min-width: 1100px; }
+th, td { text-align: left; vertical-align: top; padding: 8px 10px; border-bottom: 1px solid var(--line); }
+th { position: sticky; top: 0; background: var(--panel); font-size: .78rem; text-transform: uppercase; letter-spacing: .03em; color: var(--muted); z-index: 1; }
+td.prog { min-width: 210px; }
+td.prog b { display: block; }
+td.prog span { color: var(--muted); font-size: .85rem; }
+.cell { display: inline-block; cursor: pointer; border-radius: 6px; padding: 2px 7px; font-size: .85rem; border: 1px solid transparent; background: none; color: inherit; text-align: left; }
+.cell:hover { border-color: var(--line); }
+.b-good { background: var(--good-bg); color: var(--good); }
+.b-warn { background: var(--warn-bg); color: var(--warn); }
+.b-bad { background: var(--bad-bg); color: var(--bad); }
+.b-na { background: var(--na-bg); color: var(--na); }
+.flag { font-size: .72rem; color: var(--warn); display: block; }
+.star { font-size: 1.2rem; line-height: 1; padding: 2px 6px; }
+.star[aria-pressed="true"] { color: var(--focus); border-color: var(--focus); }
+.cards { display: none; gap: 10px; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px; }
+.card h3 { margin: 0 0 2px; font-size: 1rem; }
+.card .meta { color: var(--muted); font-size: .85rem; margin-bottom: 8px; }
+.card dl { display: grid; grid-template-columns: 9.5em 1fr; gap: 4px 8px; margin: 0; }
+.card dt { color: var(--muted); font-size: .82rem; }
+.card dd { margin: 0; }
+dialog { border: 1px solid var(--line); border-radius: 12px; background: var(--panel); color: var(--ink); max-width: 640px; width: calc(100% - 32px); padding: 18px; }
+dialog::backdrop { background: rgba(0,0,0,.45); }
+dialog h2 { margin: 0 0 4px; font-size: 1.1rem; }
+blockquote { margin: 10px 0; padding: 8px 12px; border-left: 4px solid var(--accent); background: var(--bg); font-size: .92rem; }
+.muted { color: var(--muted); font-size: .85rem; }
+footer { max-width: 1400px; margin: 0 auto; padding: 0 16px 30px; color: var(--muted); font-size: .85rem; }
+@media (max-width: 760px) {
+  .tablewrap { display: none; }
+  .cards { display: grid; }
+}
+@media print {
+  .controls, .star, button { display: none !important; }
+  .tablewrap { overflow: visible; border: none; }
+  table { min-width: 0; font-size: 9pt; }
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>Physics PhD Atlas 2027</h1>
+  <p class="sub" id="subtitle"></p>
+</header>
+<main>
+  <section class="controls" aria-label="Filters">
+    <label>Search<input id="q" type="search" placeholder="University, region, note…"></label>
+    <label>Country<select id="country"><option value="">US + Canada</option><option>USA</option><option>Canada</option></select></label>
+    <label>Fee waiver for internationals<select id="waiver"><option value="">Any</option><option value="yes">Available or limited route</option><option value="free">Free / waived for everyone</option></select></label>
+    <label>Physics GRE<select id="pgre"><option value="">Any</option><option value="norequired">Not required</option><option value="required">Required</option></select></label>
+    <label>English-test waiver (English-medium degree)<select id="eng"><option value="">Any</option><option value="yes">Yes</option><option value="possible">Yes or conditional</option></select></label>
+    <label>Supervisor before admission<select id="sup"><option value="">Any</option><option value="Required">Required</option><option value="Recommended">Recommended</option></select></label>
+    <label>Deadline on or before<input id="before" type="date"></label>
+    <label>Sort by<select id="sort"><option value="deadline">Deadline</option><option value="name">University</option><option value="fee">Fee (low to high)</option></select></label>
+    <div class="row">
+      <button id="onlyStar" aria-pressed="false">★ Shortlist only</button>
+      <button id="exportBtn" class="primary">Export shortlist (CSV)</button>
+      <button id="reset">Reset</button>
+      <button id="theme" aria-label="Toggle light or dark theme">Light / dark</button>
+    </div>
+  </section>
+  <div class="summary" id="summary" aria-live="polite"></div>
+  <div class="tablewrap"><table aria-label="Programs">
+    <thead><tr>
+      <th scope="col">★</th><th scope="col">Program</th><th scope="col">Deadline</th><th scope="col">Fee</th>
+      <th scope="col">Intl fee waiver</th><th scope="col">GRE</th><th scope="col">Physics GRE</th>
+      <th scope="col">TOEFL min</th><th scope="col">English waiver</th><th scope="col">Supervisor</th>
+      <th scope="col">Funding</th><th scope="col">Entry route</th>
+    </tr></thead>
+    <tbody id="rows"></tbody>
+  </table></div>
+  <div class="cards" id="cards"></div>
+</main>
+<dialog id="detail" aria-labelledby="dTitle">
+  <h2 id="dTitle"></h2>
+  <div class="muted" id="dField"></div>
+  <p id="dValue"></p>
+  <blockquote id="dQuote"></blockquote>
+  <p class="muted" id="dMeta"></p>
+  <p><a id="dLink" target="_blank" rel="noopener">Open the official source page ↗</a></p>
+  <form method="dialog"><button class="primary">Close</button></form>
+</dialog>
+<footer>
+  <p id="foot"></p>
+  <p>Not affiliated with any university. Always confirm on the official page before you pay or submit. This kit is not immigration or legal advice.</p>
+</footer>
+<script>
+const ATLAS = /*__ATLAS_DATA__*/null;
+const FIELDS = [
+  ["deadline","Deadline"],["app_fee","Fee"],["fee_waiver","Intl fee waiver"],["gre_general","GRE"],
+  ["gre_physics","Physics GRE"],["toefl_min","TOEFL min"],["english_waiver","English waiver"],
+  ["supervisor","Supervisor"],["funding","Funding"],["entry_route","Entry route"]
+];
+const TONE = {
+  fee_waiver: {"Available":"good","Limited":"warn","Domestic only":"bad","None":"bad"},
+  gre_general: {"Required":"bad","Recommended":"warn","Optional":"good","Not required":"good","Not considered":"good"},
+  gre_physics: {"Required":"bad","Recommended":"warn","Optional":"good","Not required":"good","Not considered":"good"},
+  english_waiver: {"Yes":"good","Conditional":"warn","No":"bad","Check tool":"warn"},
+  supervisor: {"Required":"warn","Recommended":"warn","Not required":"good"},
+  funding: {"Guaranteed":"good","Typical":"warn"},
+  entry_route: {"Direct from bachelor's":"good","Either":"good","Master's usually required":"warn"}
+};
+const store = {
+  get(k, d) { try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch (e) { return d; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) { /* storage unavailable */ } }
+};
+let stars = new Set(store.get("atlas-stars", []));
+const $ = id => document.getElementById(id);
+
+function fmtDate(iso) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(iso)) return iso;
+  const d = new Date(iso + "T00:00:00");
+  return d.toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" });
+}
+function feeNumber(code) {
+  const m = /^(\d+(?:\.\d+)?)/.exec(code);
+  return m ? parseFloat(m[1]) : Infinity;
+}
+function tone(field, code) {
+  if (code === "Not stated") return "na";
+  return (TONE[field] && TONE[field][code]) || "na";
+}
+function label(field, f) {
+  if (field === "deadline") return f.code === "Not stated" ? "Not stated" : fmtDate(f.code);
+  return f.code;
+}
+function flags(f) {
+  const out = [];
+  if (f.inferred) out.push("year inferred");
+  if (f.rolling) out.push("rolling");
+  if (f.conflict) out.push("sources conflict");
+  if (f.time_sensitive) out.push("act by " + fmtDate(f.time_sensitive));
+  if (f.scope) out.push(f.scope);
+  return out;
+}
+function cellButton(p, field) {
+  const f = p.fields[field];
+  const b = document.createElement("button");
+  b.className = "cell b-" + tone(field, f.code);
+  b.type = "button";
+  b.textContent = label(field, f);
+  b.title = f.value;
+  b.addEventListener("click", () => openDetail(p, field));
+  const wrap = document.createElement("div");
+  wrap.appendChild(b);
+  const fl = flags(f);
+  if (fl.length) { const s = document.createElement("span"); s.className = "flag"; s.textContent = fl.join(" · "); wrap.appendChild(s); }
+  return wrap;
+}
+function starButton(p) {
+  const b = document.createElement("button");
+  b.className = "star"; b.type = "button";
+  b.setAttribute("aria-pressed", stars.has(p.id));
+  b.setAttribute("aria-label", "Add " + p.institution + " to shortlist");
+  b.textContent = stars.has(p.id) ? "★" : "☆";
+  b.addEventListener("click", () => {
+    stars.has(p.id) ? stars.delete(p.id) : stars.add(p.id);
+    store.set("atlas-stars", [...stars]);
+    render();
+  });
+  return b;
+}
+function openDetail(p, field) {
+  const f = p.fields[field];
+  $("dTitle").textContent = p.institution;
+  $("dField").textContent = (FIELDS.find(x => x[0] === field) || [field, field])[1] + " · " + p.department;
+  $("dValue").textContent = f.value;
+  const q = $("dQuote");
+  q.textContent = f.quote ? "“" + f.quote + "”" : "No statement found on the official pages checked. Ask the program before you rely on this.";
+  if (f.also && f.also.length) q.textContent += "  Also: “" + f.also.map(a => a.quote).join("” “") + "”";
+  const fl = flags(f);
+  $("dMeta").textContent = "Checked " + fmtDate(p.checked) + (fl.length ? " · " + fl.join(" · ") : "");
+  $("dLink").href = f.url;
+  $("detail").showModal();
+}
+function matches(p) {
+  const q = $("q").value.trim().toLowerCase();
+  if (q) {
+    const hay = [p.institution, p.department, p.region, p.country, p.notes].concat(FIELDS.map(([k]) => p.fields[k].value)).join(" ").toLowerCase();
+    if (!hay.includes(q)) return false;
+  }
+  if ($("country").value && p.country !== $("country").value) return false;
+  const w = $("waiver").value, fw = p.fields.fee_waiver.code, fee = p.fields.app_fee.code;
+  if (w === "yes" && !["Available","Limited"].includes(fw)) return false;
+  if (w === "free" && !fee.startsWith("0")) return false;
+  const g = $("pgre").value, pg = p.fields.gre_physics.code;
+  if (g === "required" && pg !== "Required") return false;
+  if (g === "norequired" && ["Required","Not stated"].includes(pg)) return false;
+  const e = $("eng").value, ew = p.fields.english_waiver.code;
+  if (e === "yes" && ew !== "Yes") return false;
+  if (e === "possible" && !["Yes","Conditional"].includes(ew)) return false;
+  if ($("sup").value && p.fields.supervisor.code !== $("sup").value) return false;
+  const before = $("before").value, dl = p.fields.deadline.code;
+  if (before && (!/^\d/.test(dl) || dl > before)) return false;
+  if ($("onlyStar").getAttribute("aria-pressed") === "true" && !stars.has(p.id)) return false;
+  return true;
+}
+function sorted(list) {
+  const s = $("sort").value;
+  return list.slice().sort((a, b) => {
+    if (s === "name") return a.institution.localeCompare(b.institution);
+    if (s === "fee") return feeNumber(a.fields.app_fee.code) - feeNumber(b.fields.app_fee.code);
+    const da = a.fields.deadline.code, db = b.fields.deadline.code;
+    return (/^\d/.test(da) ? da : "9") < (/^\d/.test(db) ? db : "9") ? -1 : 1;
+  });
+}
+function render() {
+  const list = sorted(ATLAS.programs.filter(matches));
+  const tbody = $("rows"); tbody.replaceChildren();
+  const cards = $("cards"); cards.replaceChildren();
+  for (const p of list) {
+    const tr = document.createElement("tr");
+    const tdS = document.createElement("td"); tdS.appendChild(starButton(p)); tr.appendChild(tdS);
+    const tdP = document.createElement("td"); tdP.className = "prog";
+    const nm = document.createElement("b"); nm.textContent = p.institution;
+    const dp = document.createElement("span"); dp.textContent = p.department + " · " + p.region + ", " + p.country;
+    const lk = document.createElement("a"); lk.href = p.program_page; lk.target = "_blank"; lk.rel = "noopener"; lk.textContent = "Admissions page ↗";
+    tdP.append(nm, dp, document.createElement("br"), lk); tr.appendChild(tdP);
+    for (const [k] of FIELDS) { const td = document.createElement("td"); td.appendChild(cellButton(p, k)); tr.appendChild(td); }
+    tbody.appendChild(tr);
+
+    const card = document.createElement("article"); card.className = "card";
+    const h = document.createElement("h3"); h.textContent = p.institution;
+    const meta = document.createElement("div"); meta.className = "meta"; meta.textContent = p.department + " · " + p.region + ", " + p.country;
+    const top = document.createElement("div"); top.style.display = "flex"; top.style.justifyContent = "space-between"; top.style.gap = "8px";
+    const tl = document.createElement("div"); tl.append(h, meta); top.append(tl, starButton(p));
+    const dl = document.createElement("dl");
+    for (const [k, name] of FIELDS) { const dt = document.createElement("dt"); dt.textContent = name; const dd = document.createElement("dd"); dd.appendChild(cellButton(p, k)); dl.append(dt, dd); }
+    card.append(top, dl); cards.appendChild(card);
+  }
+  $("summary").textContent = list.length + " of " + ATLAS.programs.length + " programs shown · " + stars.size + " on your shortlist · tap any value to see the official quote";
+}
+function exportCsv() {
+  const chosen = ATLAS.programs.filter(p => stars.has(p.id));
+  const rows = chosen.length ? chosen : ATLAS.programs.filter(matches);
+  const head = ["Institution","Department","Country"].concat(FIELDS.map(f => f[1])).concat(["Admissions page"]);
+  const esc = v => '"' + String(v).replace(/"/g, '""') + '"';
+  const lines = [head.map(esc).join(",")].concat(rows.map(p => [p.institution, p.department, p.country].concat(FIELDS.map(([k]) => p.fields[k].code + (p.fields[k].code === p.fields[k].value ? "" : " - " + p.fields[k].value))).concat([p.program_page]).map(esc).join(",")));
+  const blob = new Blob(["﻿" + lines.join("\r\n")], { type: "text/csv" });
+  const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "my-shortlist.csv"; a.click();
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+}
+function init() {
+  $("subtitle").textContent = ATLAS.programs.length + " US and Canadian physics PhD programs · Fall 2027 entry · every value linked to an official quote · data checked " + fmtDate(ATLAS.checked) + " · v" + ATLAS.version;
+  $("foot").textContent = "Version " + ATLAS.version + ". 'Not stated' means the official pages we checked did not say; it is not a 'no'. 'Year inferred' means the page gave a day and month only.";
+  for (const id of ["q","country","waiver","pgre","eng","sup","before","sort"]) $(id).addEventListener("input", render);
+  $("onlyStar").addEventListener("click", e => { const b = e.currentTarget; b.setAttribute("aria-pressed", b.getAttribute("aria-pressed") !== "true"); render(); });
+  $("reset").addEventListener("click", () => { for (const id of ["q","country","waiver","pgre","eng","sup","before"]) $(id).value = ""; $("sort").value = "deadline"; $("onlyStar").setAttribute("aria-pressed", "false"); render(); });
+  $("exportBtn").addEventListener("click", exportCsv);
+  $("theme").addEventListener("click", () => {
+    const root = document.documentElement;
+    const dark = root.dataset.theme ? root.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+    root.dataset.theme = dark ? "light" : "dark"; store.set("atlas-theme", root.dataset.theme);
+  });
+  const t = store.get("atlas-theme", null); if (t) document.documentElement.dataset.theme = t;
+  render();
+}
+init();
+</script>
+</body>
+</html>

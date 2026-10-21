@@ -1,0 +1,80 @@
+{
+  "id": "mcmaster",
+  "institution": "McMaster University",
+  "department": "Physics and Astronomy",
+  "country": "Canada",
+  "region": "Ontario",
+  "program_page": "https://physics.mcmaster.ca/graduate-studies/how-to-apply/",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "No formal deadline (rolling, offers while funding lasts); international applicants strongly encouraged to apply by February 1 for internal scholarships. SGS: complete by January 31 for full scholarship consideration; considered until April 30.",
+      "quote": "international applicants are strongly encouraged to submit their application materials by February 1st, in order to be considered for internal scholarships.",
+      "url": "https://physics.mcmaster.ca/graduate-studies/how-to-apply/",
+      "inferred": "year",
+      "rolling": true,
+      "also": [
+        {
+          "quote": "Applications that are completed by January 31 are given full consideration for scholarships; applications are considered until April 30",
+          "url": "https://gs.mcmaster.ca/program/physics-and-astronomy/"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "150 CAD",
+      "value": "CAD 150, non-refundable, by credit or debit card",
+      "quote": "Have a valid credit card or debit card ready for the application fee ($150 CAD).",
+      "url": "https://gs.mcmaster.ca/how-to-apply/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No waiver route stated on the pages checked",
+      "quote": "",
+      "url": "https://gs.mcmaster.ca/how-to-apply/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement listed on the pages checked",
+      "quote": "",
+      "url": "https://physics.mcmaster.ca/graduate-studies/how-to-apply/"
+    },
+    "gre_physics": {
+      "code": "Not stated",
+      "value": "No GRE requirement listed on the pages checked",
+      "quote": "",
+      "url": "https://physics.mcmaster.ca/graduate-studies/how-to-apply/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "IELTS/TOEFL uploaded 'if required'; minimum not shown on the pages checked",
+      "quote": "IELTS or TOEFL test (if required) (upload)",
+      "url": "https://physics.mcmaster.ca/graduate-studies/how-to-apply/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "The application asks whether your degree's official language of instruction AND evaluation was English; programs may add their own requirements",
+      "quote": "In the application, indicate whether you have completed a degree where the official language of instruction and evaluation is in English by choosing Yes or No.",
+      "url": "https://gs.mcmaster.ca/how-to-apply/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Funding includes a research fellowship from the supervisor's grant; contact faculty directly to ask if they are taking students",
+      "quote": "For interest in joining a specific research group, contact the faculty member directly and inquire if they are planning on taking on any new students.",
+      "url": "https://physics.mcmaster.ca/graduate-studies/how-to-apply/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Full support guaranteed for all admitted students (scholarship + supervisor research scholarship + TA); minimum at least CAD 21,000 after tuition and fees",
+      "quote": "While full financial support is guaranteed for all admitted graduate students | The minimum guaranteed funding level after paying tuition and fees is at least $21, 000.",
+      "url": "https://physics.mcmaster.ca/graduate-studies/how-to-apply/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "MSc entry from an Honours BSc (B+ final year) is described; PhD entry rules for master's-equivalent degrees not stated on the pages checked",
+      "quote": "The minimum requirement for admission to the M.Sc. programmes is an Honours B.Sc. degree in Physics or Engineering Physics with at least a B+ average in the final year",
+      "url": "https://physics.mcmaster.ca/graduate-studies/how-to-apply/"
+    }
+  },
+  "notes": "About 25 new MSc/PhD students per year; first offers often go out before Christmas, so earlier is better."
+}

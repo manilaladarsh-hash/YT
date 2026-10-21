@@ -1,0 +1,80 @@
+{
+  "id": "utoronto",
+  "institution": "University of Toronto",
+  "department": "Department of Physics",
+  "country": "Canada",
+  "region": "Ontario",
+  "program_page": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/application-procedure/",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-11",
+      "value": "December 11, 11:59pm, all materials including both reference letters. Year inferred for September 2027 entry.",
+      "quote": "Application opens on September 16th. The application deadline is December 11th. The December 11th, 11:59pm deadline is the date by which all application materials must be submitted",
+      "url": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/application-procedure/",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "135 CAD",
+      "value": "CAD 135 per the application-procedure page; another department page still says CAD 130. Budget for 135.",
+      "quote": "Applicants should complete their application and pay the $135 CAD application fee | We recommend that applicants complete their application and pay the $130 CAD application fee",
+      "url": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/application-procedure/",
+      "conflict": true
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "Fee cannot be waived under any circumstances",
+      "quote": "No, the application fee cannot be waived under any circumstances.",
+      "url": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/frequently-asked-questions/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE not required",
+      "quote": "GRE scores are not required.",
+      "url": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/application-procedure/"
+    },
+    "gre_physics": {
+      "code": "Not required",
+      "value": "Neither GRE general nor subject is required",
+      "quote": "Do I need to take the GRE general and subject exams? There is no requirement to take these examinations.",
+      "url": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/frequently-asked-questions/"
+    },
+    "toefl_min": {
+      "code": "93",
+      "value": "TOEFL iBT overall 93 (SGS minimum; plus a writing/essay minimum). TOEFL moved to a 1-6 scale on Jan 21, 2026; both scales accepted.",
+      "quote": "Overall Score: 93",
+      "url": "https://www.sgs.utoronto.ca/future-students/admission-application-requirements/english-language-proficiency-testing/"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "No test if your degree is from a university where instruction AND examination are in English; an official letter is needed unless the transcript says so",
+      "quote": "Submission of an acceptable EFT score is NOT required for applicants who have completed or expect to complete a program of study at a university where the language of instruction and examination is English. An official letter from the university confirming English instruction and examination will be required, unless there is an appropriate notation on the transcript.",
+      "url": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/application-procedure/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No supervisor needed to apply; MSc and 5-year direct-entry PhD students pick one after arrival; 4-year PhD entrants (with a master's) must secure one before registration, typically by May",
+      "quote": "Students admitted to the MSc and (5-year) direct-entry PhD programs are not required to secure a supervisor prior to arrival on campus. | students starting their first year to the (4-year) PhD program are required to secure a supervisor prior to registration. Typically, newly admitted PhD students will secure their supervisor by May.",
+      "url": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/frequently-asked-questions/",
+      "also": [
+        {
+          "quote": "There is no requirement to secure a supervisor prior to application.",
+          "url": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/application-procedure/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Funding package not described on the admissions pages checked",
+      "quote": "",
+      "url": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Apply to MSc or PhD; all MSc applicants are considered for 5-year direct-entry PhD",
+      "quote": "Our Admission Committee will consider all MSc applicants for direct entry to the PhD program, so there is no need to submit more than one application.",
+      "url": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/application-procedure/"
+    }
+  },
+  "notes": "Exactly two reference letters (no more). January start is domestic-only."
+}

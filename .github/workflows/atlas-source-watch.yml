@@ -1,0 +1,43 @@
+name: Atlas source watch
+
+# Re-reads every official page cited by the Physics PhD Atlas and opens (or
+# comments on) an issue when a quoted sentence disappears, which usually means
+# a deadline, fee or rule changed. Scheduled runs need this file on the
+# repository's default branch.
+on:
+  schedule:
+    - cron: "7 13 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: business/phd-atlas
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests==2.32.3 beautifulsoup4==4.12.3 lxml==5.3.0
+      - run: python scripts/check_sources.py --out report.md
+      - name: Open or update the review issue when quotes changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if grep -q "no longer match" report.md; then
+            gh label create source-watch --color D93F0B --description "Atlas data needs review" --force
+            num=$(gh issue list --state open --label source-watch --json number --jq '.[0].number')
+            if [ -n "$num" ]; then
+              gh issue comment "$num" --body-file report.md
+            else
+              gh issue create --title "Source watch: Atlas data needs review" --label source-watch --body-file report.md
+            fi
+          else
+            echo "No quote changes detected."
+          fi

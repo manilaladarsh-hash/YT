@@ -1,0 +1,73 @@
+{
+  "id": "waterloo",
+  "institution": "University of Waterloo",
+  "department": "Physics and Astronomy",
+  "country": "Canada",
+  "region": "Ontario",
+  "program_page": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-09",
+      "value": "January 9 for September admission (early applications encouraged). Year inferred for September 2027 entry.",
+      "quote": "January 9 (for admission in September, early applications encouraged)",
+      "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "150 CAD",
+      "value": "CAD 150 per program, non-refundable",
+      "quote": "pay the non-refundable application fee of $150 CAD per program via the link in your portal.",
+      "url": "https://uwaterloo.ca/future-graduate-students/admissions/how-to-apply"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No fee-waiver route stated on the pages checked",
+      "quote": "",
+      "url": "https://uwaterloo.ca/future-graduate-students/admissions/how-to-apply"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The department page mentions only the Physics subject GRE",
+      "quote": "",
+      "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply"
+    },
+    "gre_physics": {
+      "code": "Recommended",
+      "value": "Encouraged (not required) for applicants schooled outside Canada",
+      "quote": "Students who did not complete their schooling in Canada are encouraged to submit a Physics subject GRE score, however it is not required for a successful application.",
+      "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "TOEFL 90 (writing 25, speaking 25); IELTS 7.0 (writing 6.5, speaking 6.5)",
+      "quote": "TOEFL 90 (writing 25 speaking 25), IELTS 7.0 (writing 6.5, speaking 6.5)",
+      "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/phd-programs"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exempt only if 3+ years of study at a university listed in WHED with English as the ONLY language of instruction; exemption expires 2 years after graduation; medium-of-instruction letters are not accepted",
+      "quote": "You have completed three or more years of post-secondary education, or completed a graduate degree at a university where English is listed as the only language of instruction on the International Association of Universities World Higher Education Database (WHED). | Letters from your university stating the medium of instruction is English do not satisfy Waterloo admission requirements.",
+      "url": "https://uwaterloo.ca/future-graduate-students/admissions/admission-and-english-language-proficiency-requirements"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admission requires a faculty member willing to supervise you; contact before or after applying and name supervisors on the application",
+      "quote": "admission into a graduate program requires matching with a faculty member that is willing to serve as your supervisor.",
+      "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Funding package for all graduate students within program time limits (GRS, TA, awards); TA two of three terms",
+      "quote": "The Department of Physics & Astronomy provides a nationally competitive funding package to all of our graduate students within their program time limits.",
+      "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/funding-and-tuition"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "PhD normally requires a master's in physics (75%+); MSc students can transfer to an accelerated PhD",
+      "quote": "Normally a Master's degree in Physics, with at least a 75% standing.",
+      "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/phd-programs"
+    }
+  },
+  "notes": "Physics PhD streams include Nanotechnology and Quantum Information (IQC, Perimeter affiliations)."
+}
