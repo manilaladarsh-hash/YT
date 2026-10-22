@@ -1,0 +1,78 @@
+{
+  "id": "uwashington",
+  "institution": "University of Washington (Seattle)",
+  "department": "Department of Physics",
+  "country": "USA",
+  "region": "Washington",
+  "program_page": "https://phys.washington.edu/graduate-programs",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "December 15, 2026 (autumn quarter entry only)",
+      "quote": "Applications are accepted annually for autumn quarter admissions (only), and must be submitted online. Admission deadline: DECEMBER 15, 2026.",
+      "url": "https://phys.washington.edu/graduate-programs"
+    },
+    "app_fee": {
+      "code": "90 USD",
+      "value": "USD 90 (same for all applicants; subject to change)",
+      "quote": "The nonrefundable application fee is $90.00 (USD)",
+      "url": "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Physics gives no waivers; Graduate School need-based and prep-program waivers are for U.S. citizens, permanent residents and undocumented applicants",
+      "quote": "Unfortunately, the Physics Department does not provide application fee waivers. Limited application fee waivers are available from the UW Graduate School for eligible US applicants.",
+      "url": "https://phys.washington.edu/graduate-programs",
+      "also": [
+        {
+          "quote": "Application fee waivers are available to U.S. citizens, permanent residents, and undocumented applicants who demonstrate financial need or hardship.",
+          "url": "https://grad.uw.edu/prospective-students/how-to-apply/application-fee-waivers/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked (only the Physics GRE is mentioned)",
+      "quote": "",
+      "url": "https://phys.washington.edu/graduate-programs"
+    },
+    "gre_physics": {
+      "code": "Optional",
+      "value": "Optional, plays a relatively minor role; submit only if it materially strengthens the application",
+      "quote": "The GRE Subject Test in Physics (P-GRE) is optional in our admissions process, and typically plays a relatively minor role. | We emphasize that every application will be given full consideration, regardless of whether or not scores are submitted.",
+      "url": "https://phys.washington.edu/graduate-programs"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "TOEFL 80 (before Jan 21, 2026) or 4.0 (new scale) minimum; below 92 / 4.5 requires Academic English Program courses. IELTS 6.5 min (7.0 recommended); Duolingo 115 min (130 recommended)",
+      "quote": "Minimum Required Score | (80 for tests taken before Jan 21, 2026) | Recommended Score | (92 for tests taken before Jan 21, 2026)",
+      "url": "https://grad.uw.edu/policies/3-2-graduate-school-english-language-proficiency-requirements/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "An English-medium degree counts, but Indian applicants need official documentation from the institution that all instruction was in English (India is not on the no-documentation country list) and must have been in residence on or near the campus for the whole degree (no remote/online study)",
+      "quote": "An earned and bachelor’s, master’s, or doctoral degree (or an internationally recognized academic degree at the same level) from an accredited institution for which English was the medium of instruction. | The student must have been in residence on, or in close proximity to, the degree granting campus for the full duration of enrollment | Official documentation from the applicant’s degree-granting institutions verifying that all instruction is in English (as described in the Graduate Admissions page) is required, except for degrees from accredited institutions in the following countries: Anguilla, Antigua and Barbuda, Australia, the Bahamas, Barbados, Belize, Bermuda, Cayman Islands, Canada, Dominica, Ghana, Grenada, Guyana, Ireland, Jamaica, Kenya, Liberia, Montserrat, New Zealand, Nigeria, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Singapore, South Africa, Trinidad and Tobago, Turks and Caicos Islands, United Kingdom, the United States, or the Virgin Islands.",
+      "url": "https://grad.uw.edu/policies/3-2-graduate-school-english-language-proficiency-requirements/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is to the department PhD program, not to a research group; students find a research advisor during the first years",
+      "quote": "Selected applicants are admitted to the PhD program of the UW Department of Physics, not to a specific research group, and are encouraged to explore research opportunities throughout the Department.",
+      "url": "https://phys.washington.edu/graduate-programs"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Department aims to support all full-time PhD students making satisfactory progress; most first-years get full TA support in the offer; later support via RA/TA (student must find an advisor for RA)",
+      "quote": "The Department aims to provide financial support for all full-time PhD students making satisfactory progress, and has been successful in doing so for many years. | Most first-year students are provided full TA support during their first academic year as part of their admission offer.",
+      "url": "https://phys.washington.edu/graduate-programs"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants are expected to have strong undergraduate physics preparation; a prior master's is treated as advanced standing, not a requirement",
+      "quote": "Applicants to the doctoral program are expected to have a strong undergraduate preparation in physics | Entering PhD students with advanced standing, for example with a prior Master's degree in Physics or transferring from another institution after completing one or more years in a Physics PhD program, may often graduate after 3 or 4 years in our program.",
+      "url": "https://phys.washington.edu/graduate-programs"
+    }
+  },
+  "notes": "TA appointments for non-native speakers fall under UW Graduate School Policy 5.2. Students scoring below the recommended English score must take Academic English Program courses (extra fees)."
+}

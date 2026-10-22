@@ -1,0 +1,74 @@
+{
+  "id": "utaustin",
+  "institution": "University of Texas at Austin",
+  "department": "Department of Physics",
+  "country": "USA",
+  "region": "Texas",
+  "program_page": "https://physics.utexas.edu/academics/admissions",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "1 December, 11:59 p.m. CST for Fall admission (one-week grace period stated). Year inferred for Fall 2027.",
+      "quote": "11:59 p.m. CST on 1 December for Fall admission. We allow a grace period of precisely one (1) calendar week following each of the deadlines",
+      "url": "https://physics.utexas.edu/academics/admissions",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "90 USD",
+      "value": "USD 90 for non-U.S. citizens (USD 65 U.S./PR)",
+      "quote": "The fee is $65 for United States citizens or permanent residents, and $90 for non-U.S. citizens.",
+      "url": "https://physics.utexas.edu/academics/admissions"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Graduate School waivers for applicants meeting certain criteria; department not involved. Check criteria for international eligibility.",
+      "quote": "The Graduate School provides fee waivers to applicants who meet certain criteria. The Department is not involved in either the fee payment or fee waiver processes.",
+      "url": "https://physics.utexas.edu/academics/admissions"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "Not required and not considered if submitted",
+      "quote": "The General Graduate Record Examination (GRE) is not required and will not be considered as part of your application if submitted.",
+      "url": "https://physics.utexas.edu/academics/admissions"
+    },
+    "gre_physics": {
+      "code": "Optional",
+      "value": "Optional; if submitted you must justify it in the Statement of Purpose or it is ignored",
+      "quote": "The GRE Subject Test in Physics (pGRE) is optional; if you choose to submit a pGRE score you must make a clear case (in your required Statement of Purpose) for why you believe it is integral to your application, otherwise, it will not be considered",
+      "url": "https://physics.utexas.edu/academics/admissions"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "TOEFL 79 (or 4 on the 6-point scale); IELTS 6.5. The physics page says Duolingo is not accepted, while the university international page lists DET 115; confirm before relying on Duolingo.",
+      "quote": "TOEFL: 79 on the Internet-based test (iBT); IELTS: An overall band of 6.5 on the Academic Examination. | The Institutional TOEFL (ITP) and the IELTS General Training, and alternatives (ex: Duolingo) are not accepted.",
+      "url": "https://physics.utexas.edu/academics/admissions",
+      "conflict": true
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "India is on UT's list of qualifying countries exempt from TOEFL/IELTS (also exempt with a bachelor's from a U.S./qualifying-country institution)",
+      "quote": "Students from the following countries are exempt from the TOEFL/IELTS requirement: American Samoa Australia Bahamas Barbados Belize Canada (except Quebec) Dominica Ghana Grenada Grand Cayman Guyana India Ireland ...",
+      "url": "https://admissions.utexas.edu/info-for/international-students/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Admission is decided by the department committee; no pre-application supervisor requirement mentioned on the pages checked",
+      "quote": "",
+      "url": "https://physics.utexas.edu/academics/admissions"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "PhD funding terms not stated on the admissions page (master's applicants get no support)",
+      "quote": "Please note: Admitted Master’s applicants are not awarded financial support regardless of semester.",
+      "url": "https://physics.utexas.edu/academics/admissions"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Bachelor's (U.S. or equivalent in length and rigor) required before matriculation",
+      "quote": "the University requires all applicants to have completed a bachelor's degree from an accredited U.S. college or university or an international degree equivalent to a U.S. bachelor’s degree in both length and rigor.",
+      "url": "https://physics.utexas.edu/academics/admissions"
+    }
+  },
+  "notes": "Review begins mid-January; international decisions typically early to mid-March."
+}

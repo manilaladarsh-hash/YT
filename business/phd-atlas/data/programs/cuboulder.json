@@ -1,0 +1,86 @@
+{
+  "id": "cuboulder",
+  "institution": "University of Colorado Boulder",
+  "department": "Department of Physics",
+  "country": "USA",
+  "region": "Colorado",
+  "program_page": "https://www.colorado.edu/physics/admissions/graduate-application-information",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "December 1, 11:59 PM Eastern (year not printed; inferred 2026 for Fall 2027). Test scores accepted to Dec 15; letters by Dec 15 for priority, not accepted after Jan 1",
+      "quote": "Your application must be submitted by December 1 (at 11:59 PM Eastern Time, not Mountain). | it is possible to submit test scores as late as December 15. For priority consideration, letters of recommendation must be received by December 15",
+      "url": "https://www.colorado.edu/physics/admissions/graduate-application-information",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "80 USD",
+      "value": "USD 80 for international applicants (USD 60 domestic)",
+      "quote": "Application fee of $60 for domestic students and $80 for international students",
+      "url": "https://www.colorado.edu/physics/admissions/graduate-application-information"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Department need-based waivers mainly for domestic applicants; for international students only in very exceptional circumstances. Request by November 13, 2026 (decision by Nov 24) and do not submit or pay before the decision. Graduate School waivers are for listed (mostly U.S.) programs.",
+      "quote": "For domestic applicants, a limited number of need-based fee waivers are available. | For international students, need-based fee waivers may be granted in very exceptional circumstances. | The deadline for applying for a fee waiver for an application to the Physics PhD program is November 13, 2026.",
+      "url": "https://www.colorado.edu/physics/graduate-application-information/graduate-application-faqs",
+      "time_sensitive": "2026-11-13"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked (only the Physics GRE is discussed)",
+      "quote": "",
+      "url": "https://www.colorado.edu/physics/admissions/graduate-application-information"
+    },
+    "gre_physics": {
+      "code": "Recommended",
+      "value": "Physics GRE strongly recommended, especially for applicants from institutions outside the US/Canada or interested in theory; note barriers in the application if you cannot take it",
+      "quote": "The Physics GRE subject test is strongly recommended. | A Physics GRE score can have significant positive impact on an application, especially if a student i) has a degree from a smaller physics program or from an institution outside the US or Canada",
+      "url": "https://www.colorado.edu/physics/admissions/graduate-application-information",
+      "also": [
+        {
+          "quote": "The submission of Physics GRE scores is strongly recommended.",
+          "url": "https://www.colorado.edu/physics/graduate-application-information/graduate-application-faqs"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "TOEFL 80 (4.0 on TOEFL iBT26); IELTS 6.5; Duolingo 120 per the physics FAQ (Graduate School table shows 115 for most programs)",
+      "quote": "For English proficiency tests, the minimums are: | TOEFL: 80 | IELTS: 6.5 | Duolingo: 120",
+      "url": "https://www.colorado.edu/physics/graduate-application-information/graduate-application-faqs"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "Citizens of listed countries are exempt, and India is on the list. The exception for Indian applicants applies only to the Engineering Management program, not Physics. Medium-of-instruction letters are not accepted. The application shows the test as required until International Admissions manually waives it.",
+      "quote": "Proof of English proficiency is NOT required if: | You are a citizen of a qualifying country | Grenada Guyana India** Ireland Jamaica | ** Applicants from India to the Engineering Management program must submit English Proficiency Scores. | Medium of Instruction (MOI) letters are NOT accepted and DO NOT meet the English proficiency requirement.",
+      "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students/english-proficiency-requirements",
+      "also": [
+        {
+          "quote": "The staff of International Admissions will manually evaluate applications and remove or waive the English proficiency requirement if they determine that the student is exempt.",
+          "url": "https://www.colorado.edu/physics/graduate-application-information/graduate-application-faqs"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Contacting a potential research advisor before applying or admission is not necessary",
+      "quote": "Should I reach out to a potential research advisor before applying or being accepted to the program? | No, this is not necessary.",
+      "url": "https://www.colorado.edu/physics/graduate-application-information/graduate-application-faqs"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Historically all admitted students (domestic and international) get TA/RA support with tuition and fees covered for the first two years, and satisfactory-progress students are supported after; department says there are no absolute guarantees",
+      "quote": "While there are no absolute guarantees, this is the situation as it has existed in the past. | All admitted students, whether domestic or international, receive academic year support as a Teaching Assistant or Research Assistant for their first two years in graduate school. As a TA or RA, all tuition and fees will be covered.",
+      "url": "https://www.colorado.edu/physics/graduate-application-information/graduate-application-faqs"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Master's not required; most entrants have a bachelor's; accredited 3-year bachelor's degrees are considered",
+      "quote": "A master’s degree is not necessary to apply to the doctoral program. Most first year graduate students enter with a bachelor’s degree. | We will consider applicants with a properly accredited 3 year Bachelor’s degree.",
+      "url": "https://www.colorado.edu/physics/graduate-application-information/graduate-application-faqs"
+    }
+  },
+  "notes": "PhD-only admission (no standalone master's). Astrophysical and Planetary Sciences is a separate department with its own application."
+}

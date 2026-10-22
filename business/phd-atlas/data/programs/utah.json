@@ -1,0 +1,99 @@
+{
+  "id": "utah",
+  "institution": "University of Utah",
+  "department": "Department of Physics & Astronomy",
+  "country": "USA",
+  "region": "Utah",
+  "program_page": "https://www.physics.utah.edu/graduate-programs/gradadmission/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-18",
+      "value": "December 18 (no year printed; inferred 2026). Letters due January 8. Pages are partly stale: the admissions page (updated 09/29/2026) still says \"Fall 2026\", and the FAQ shows the previous cycle (December 14th, 2025). Confirm with admissions@physics.utah.edu",
+      "quote": "The online application, including uploads of all supporting documents through that portal, must be submitted December 18th for your application to be considered. | Recommendation letters are due by January 8th.",
+      "url": "https://www.physics.utah.edu/graduate-programs/gradadmission/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "All student-uploaded applications and materials must be submitted by December 14th, 2025.",
+          "url": "https://www.physics.utah.edu/graduate-programs/gradadmission/graduate-faq/"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "65 USD",
+      "value": "USD 65 for international applicants (USD 55 domestic); non-refundable",
+      "quote": "The fee is $55 for Domestic applicants, $65 for International applicants on a visa or in need of a visa.",
+      "url": "https://www.physics.utah.edu/graduate-programs/gradadmission/graduate-faq/",
+      "also": [
+        {
+          "quote": "The graduate program application includes an application fee ($55 for domestic students; $65 for international students).",
+          "url": "https://www.physics.utah.edu/graduate-programs/gradadmission/how-to-apply/"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Department grants a limited number of waiver codes via a request form (no citizenship restriction stated, no guarantee). Request deadline Nov 13 per the current admissions page (other pages still show Nov 16, 2025)",
+      "quote": "We can grant a limited number of application fee waivers; if you would like to apply for a waiver, please complete this fee waiver request form.",
+      "url": "https://www.physics.utah.edu/graduate-programs/gradadmission/how-to-apply/",
+      "time_sensitive": "2026-11-13",
+      "also": [
+        {
+          "quote": "Fee Waiver Request Form - deadline Nov 13th",
+          "url": "https://www.physics.utah.edu/graduate-programs/gradadmission/"
+        }
+      ],
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "Optional; omission not penalized",
+      "quote": "For all students, general and physics subject GRE scores are optional - you are welcome to submit them if you think it will strengthen your application. Omission of GRE scores will not be penalized.",
+      "url": "https://www.physics.utah.edu/graduate-programs/gradadmission/how-to-apply/"
+    },
+    "gre_physics": {
+      "code": "Optional",
+      "value": "Optional; omission not penalized",
+      "quote": "For all students, general and physics subject GRE scores are optional - you are welcome to submit them if you think it will strengthen your application. Omission of GRE scores will not be penalized.",
+      "url": "https://www.physics.utah.edu/graduate-programs/gradadmission/how-to-apply/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "TOEFL iBT 80 (or 4.5 on the new 6-point scale); IELTS 6.5; Duolingo 110. Official scores required; Versant spoken test and ITA workshop after admission",
+      "quote": "iBT/TOEFL 80/120 or higher | iBT/TOEFL 4.5/6 or higher | IELTS 6.5 or higher | Duolingo 110 or higher",
+      "url": "https://admissions.utah.edu/apply/international/english-proficiency/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Exemption is by citizenship of listed native-English countries only; India is not on the list, and an English-medium degree does not count (only a U.S. regionally accredited degree within two years does)",
+      "quote": "If you are a native English speaking citizen of the following countries, you will not need to submit proof of English proficiency. | Citizens of a country not listed below will still need to prove English proficiency through one of our approved means, even if the medium of academic instruction is English. | Grenada Guyana Ireland Jamaica Kenya | associate, bachelor’s, master’s or doctoral degrees must be earned from a regionally-accredited U.S. college or university",
+      "url": "https://admissions.utah.edu/apply/international/english-proficiency/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No need to find a PhD research advisor first; show familiarity with department research",
+      "quote": "Do I need to find a PhD research advisor first? | No. However, your research interests should align with our research offerings.",
+      "url": "https://www.physics.utah.edu/graduate-programs/gradadmission/graduate-faq/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All students admitted to the PhD track are offered a teaching assistantship in the offer letter; eligible PhD students get the Tuition Benefit (tuition + health insurance); RA possible after joining a group",
+      "quote": "All students admitted to the Ph.D. track are offered a Teaching Assistantship, which is noted in the departmental offer letter.",
+      "url": "https://www.physics.utah.edu/graduate-programs/gradadmission/graduate-faq/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Bachelor's required before joining; master's awarded as a milestone en route to the PhD",
+      "quote": "Prior to joining the program, admitted students must have received a bachelor's degree from an accredited institute, college, or university.",
+      "url": "https://www.physics.utah.edu/graduate-programs/gradadmission/",
+      "also": [
+        {
+          "quote": "Our graduate program is primarily available to students seeking a PhD to which they can be awarded their Master's as a milestone on the way to their PhD.",
+          "url": "https://www.physics.utah.edu/graduate-programs/gradadmission/graduate-faq/"
+        }
+      ]
+    }
+  },
+  "notes": "Interviews precede offers. International admits must take the Versant spoken English test and attend the ITA workshop. Department pages mix cycle years; verify dates before applying."
+}

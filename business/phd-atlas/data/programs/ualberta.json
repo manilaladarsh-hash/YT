@@ -1,0 +1,79 @@
+{
+  "id": "ualberta",
+  "institution": "University of Alberta",
+  "department": "Department of Physics",
+  "country": "Canada",
+  "region": "Alberta",
+  "program_page": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/deadlines.html",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "December 1 first-round deadline (widest scholarship consideration); January 8 second round; March 31 final date for Fall intake. Years inferred for Fall 2027.",
+      "quote": "December 1: initial first round application deadline. Applications that are received and complete by this date will be considered for the widest range of scholarships, as well as the standard graduate assistantships. | March 31 is the last date to submit an application for graduate admission in Physics for the Fall intake.",
+      "url": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/deadlines.html",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "Not stated",
+      "value": "Fee amount not shown on the department pages checked (pay in the FGPS portal)",
+      "quote": "",
+      "url": "https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/index.html"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "Department says the fee cannot be waived",
+      "quote": "Will you waive the application fee? No. The fee is required, it cannot be waived.",
+      "url": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/how-to-apply-faq.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement listed for Physics on the pages checked",
+      "quote": "",
+      "url": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/admission-requirements.html"
+    },
+    "gre_physics": {
+      "code": "Not stated",
+      "value": "No GRE requirement listed for Physics on the pages checked",
+      "quote": "",
+      "url": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/admission-requirements.html"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "TOEFL iBT 90 with 21+ on each component; IELTS 6.5 overall with 6.0+ on each band. For tests on/after Jan 21, 2026 only the 1-6 TOEFL scale is considered.",
+      "quote": "TOEFL (internet) - 90 overall with a min. of 21 on each component | IELTS (Academic) - 6.5 overall with a min. of 6.0 on each band",
+      "url": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/admission-requirements.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exempt only if your country or institution is on the FGPS recognized list. For India it lists e.g. IITs (all campuses), IISc, University of Hyderabad, Jadavpur, NIT Calicut; IISERs are NOT listed. Physics will not waive otherwise.",
+      "quote": "India | Aligarh Muslim University | ... | Indian Institute of Science | Indian Institute of Technology (All campuses) | ... | University of Hyderabad",
+      "url": "https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/international-academic-requirements/english-language-proficiency/recognized-english-countries-institutions.html",
+      "also": [
+        {
+          "quote": "The Department of Physics will not waive the English language proficiency requirement.",
+          "url": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/admission-requirements.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Physics pages do not state a pre-application supervisor requirement; FGPS notes some thesis programs require one",
+      "quote": "If you are applying for a thesis-based program, please note that some programs require you to identify and contact a potential supervisor before applying.",
+      "url": "https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/index.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Minimum CAD 100,000 over years 1-4 and at least CAD 25,000 in year 1 for PhD students (from Fall 2025); department also commits support for normal program duration",
+      "quote": "minimum guaranteed funding of $100K CAD over four years and not less than $25K CAD in their first year.",
+      "url": "https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/minimum-guaranteed-funding-for-phd-students.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "MSc-equivalent holders normally enter the PhD directly; Honours-BSc entrants to the PhD take extra MSc-level requirements; BSc holders normally start in the MSc and may transfer",
+      "quote": "Students who hold a Master of Science degree equivalent to that of a MSc from University of Alberta are normally admitted directly into the PhD program. | Students entering the PhD program with the equivalent of an Honours BSc degree in Physics from University of Alberta are subject to the same requirements plus those of the MSc program",
+      "url": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/programs.html"
+    }
+  },
+  "notes": "Statement of purpose: 500 words max, one page. About 30 graduate admits per year. Committee meets late December, mid-January, late February, late March."
+}

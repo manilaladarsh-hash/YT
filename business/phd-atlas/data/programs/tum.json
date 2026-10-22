@@ -1,0 +1,79 @@
+{
+  "id": "tum",
+  "institution": "Technical University of Munich (TUM)",
+  "department": "Doctorate in Physics (TUM School of Natural Sciences; TUM Graduate School rules)",
+  "country": "Germany",
+  "region": "Bavaria",
+  "program_page": "https://www.gs.tum.de/en/gs/path-to-a-doctorate/application/requirements/",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "No central application or deadline: apply to advertised research-associate positions (TUM job portal or chair websites) or directly to a potential supervisor",
+      "quote": "as the doctorate is highly individualized, there is no central application platform for doctoral programs where you can submit your application documents.",
+      "url": "https://www.gs.tum.de/en/gs/path-to-a-doctorate/application/application-steps/"
+    },
+    "app_fee": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://www.gs.tum.de/en/gs/path-to-a-doctorate/application/application-steps/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://www.gs.tum.de/en/gs/path-to-a-doctorate/application/application-steps/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://www.gs.tum.de/en/gs/path-to-a-doctorate/application/requirements/"
+    },
+    "gre_physics": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://www.gs.tum.de/en/gs/path-to-a-doctorate/application/requirements/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "Usually no prescribed minimum TOEFL/IELTS score; very good English expected",
+      "quote": "Although there are usually no prescribed minimum scores in the relevant tests (IELTS, TOEFL, etc.)",
+      "url": "https://www.gs.tum.de/en/gs/path-to-a-doctorate/application/requirements/"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "No formal language requirement for doctoral admission at TUM level (very good English expected); individual job ads may set their own language requirements",
+      "quote": "There are no formal language requirements for doctoral admission and research at TUM. However, a doctorate at TUM requires very good written and spoken English skills.",
+      "url": "https://www.gs.tum.de/en/gs/path-to-a-doctorate/application/requirements/",
+      "also": [
+        {
+          "quote": "you match the required qualifications (e.g., academic background) and preconditions (e.g., language requirements)",
+          "url": "https://www.gs.tum.de/en/gs/path-to-a-doctorate/application/application-steps/"
+        }
+      ],
+      "scope": "University-wide TUM rule"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Finding a TUM supervisor is the first and mandatory step; degree recognition happens only after a professor agrees",
+      "quote": "If you have not found a supervisor for your research project, you will unfortunately not be able to do your doctorate at TUM.",
+      "url": "https://www.gs.tum.de/en/gs/path-to-a-doctorate/application/requirements/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "The most common route is a salaried research-associate position; self-initiative applicants usually need their own funding (e.g. an external scholarship). No tuition fees",
+      "quote": "At TUM, the most common way to do your doctorate is within the framework of employment as research staff at your research group/chair. | self-initiated applications do not automatically imply employment at TUM that comes with a monthly salary; thus, in most cases, you must take care of your funding, e.g., with an external scholarship.",
+      "url": "https://www.gs.tum.de/en/gs/path-to-a-doctorate/application/application-steps/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Above-average master's degree required (German grade 2.5 or better); no fast track, so bachelor's-only admission is not possible",
+      "quote": "Please note that TUM does not offer “fast-track doctoral programs.” Therefore, admission to a doctoral program with only a Bachelor's degree is not possible. | The prerequisite for a doctorate at TUM is an above-average degree (master's, Diplom or Magister) from a university",
+      "url": "https://www.gs.tum.de/en/gs/path-to-a-doctorate/application/requirements/"
+    }
+  },
+  "notes": "Individual doctorate model with no physics-specific call; rules quoted are TUM-wide (TUM Graduate School). Physics doctorates are handled by the TUM School of Natural Sciences (promotion@nat.tum.de)."
+}

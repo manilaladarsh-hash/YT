@@ -1,0 +1,79 @@
+{
+  "id": "rochester",
+  "institution": "University of Rochester",
+  "department": "Department of Physics and Astronomy",
+  "country": "USA",
+  "region": "New York",
+  "program_page": "https://www.sas.rochester.edu/pas/graduate/applying.html",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "December 15 (only complete applications by then get full consideration); year inferred",
+      "quote": "Our application deadline is December 15. | Only completed applications submitted by the December 15 deadline are given full consideration.",
+      "url": "https://www.sas.rochester.edu/pas/graduate/applying.html",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "70 USD",
+      "value": "USD 70",
+      "quote": "The application fee is $70.",
+      "url": "https://www.sas.rochester.edu/pas/graduate/applying.html"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Only a one-time partial waiver, for hardship (international eligibility not addressed); submit the application first, then email lindacase@pas.rochester.edu",
+      "quote": "If the application fee of $70 is a hardship, a one-time partial fee waiver may be available. You must first create your application account through apply.grad.rochester.edu, complete AND submit your application, then you may email lindacase@pas.rochester.edu.",
+      "url": "https://www.sas.rochester.edu/pas/graduate/applying.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "Accepted but not required; self-report in the application",
+      "quote": "General GRE test scores, as well as the Physics GRE subject test scores, are accepted, but not required.",
+      "url": "https://www.sas.rochester.edu/pas/graduate/applying.html"
+    },
+    "gre_physics": {
+      "code": "Not required",
+      "value": "Accepted but not required; self-report in the application",
+      "quote": "General GRE test scores, as well as the Physics GRE subject test scores, are accepted, but not required.",
+      "url": "https://www.sas.rochester.edu/pas/graduate/applying.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "No minimum TOEFL/IELTS/Duolingo score; scores read in context. TOEFL, IELTS or Duolingo accepted.",
+      "quote": "We do not have minimum required scores for the GRE, GRE Physics, TOEFL, IELTS or Duolingo.",
+      "url": "https://www.sas.rochester.edu/pas/graduate/applying.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Waived only for citizens of listed English-native countries or after 3+ years of full-time in-person study in those countries or the US; India is not on the list",
+      "quote": "The English proficiency test requirement is waived for citizens of the following countries whose native language is English: | Australia Canada Commonwealth Caribbean Nations Ghana Ireland Kenya Liberia New Zealand Nigeria Singapore South Africa Uganda United Kingdom Virgin Islands | The requirement may also be waived if a student has completed at least three years of full time and in-person postsecondary study in one of the countries listed above or the United States.",
+      "url": "https://www.rochester.edu/college/gradstudies/admissions/test-requirements.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students find a thesis advisor after entering the program; there is no formal assignment process",
+      "quote": "As soon as possible, graduate students should become familiar with the research programs available in the department, choose a field of specialization, and ask a faculty member to serve as thesis advisor and principal PhD supervisor. | It is each student's own responsibility to find a thesis advisor.",
+      "url": "https://www.sas.rochester.edu/pas/graduate/requirements.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted PhD candidates receive full tuition, stipend and health insurance; internationals considered for the same support",
+      "quote": "PhD candidates who are admitted will receive a full tuition scholarship, stipend, and health insurance. | International students are considered for the same financial support as domestic students.",
+      "url": "https://www.rochester.edu/college/gradstudies/admissions/international-students/costs.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply with a bachelor's; a 3-year foreign degree needs a WES evaluation showing US 4-year equivalence. An MA is earned en route; no stand-alone master's.",
+      "quote": "If you are applying with a three-year degree from a foreign institution, you will need to provide a WES evaluation stating that the degree you were awarded is equivalent to a US four-year bachelor's degree.",
+      "url": "https://www.rochester.edu/college/gradstudies/admissions/international-students/application.html",
+      "also": [
+        {
+          "quote": "As a PhD candidate, you will earn a Master of Arts during your studies, but we do not offer a stand-alone master’s program.",
+          "url": "https://www.sas.rochester.edu/pas/graduate/applying.html"
+        }
+      ]
+    }
+  },
+  "notes": "Indian 3-year BSc holders need a WES equivalency evaluation. No minimum GPA or test scores."
+}
