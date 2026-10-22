@@ -2,12 +2,16 @@
 
 Each field is a tuple: (code, value, quote, url[, extra-dict]).
 Records land in data/programs/<id>.json in the same shape validate_data.py checks.
+Set ATLAS_OUT=data/staging to write drafts there instead, so a build running at
+the same time never picks up an unreviewed record.
 """
 
 import json
+import os
 from pathlib import Path
 
-PROGRAMS = Path(__file__).resolve().parent.parent / "data" / "programs"
+ROOT = Path(__file__).resolve().parent.parent
+PROGRAMS = ROOT / os.environ.get("ATLAS_OUT", "data/programs")
 
 
 def save(pid, institution, department, country, region, page, fields, notes="", checked="2026-10-21"):
@@ -29,6 +33,7 @@ def save(pid, institution, department, country, region, page, fields, notes="", 
         "fields": out,
         "notes": notes,
     }
+    PROGRAMS.mkdir(parents=True, exist_ok=True)
     path = PROGRAMS / f"{pid}.json"
     path.write_text(json.dumps(record, indent=2, ensure_ascii=False) + "\n")
     return path

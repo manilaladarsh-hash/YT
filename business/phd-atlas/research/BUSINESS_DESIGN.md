@@ -44,7 +44,7 @@ Getting these wrong costs $75–155 per application, missed deadlines, or a reje
 1. The buyer pays on Gumroad, which acts as merchant of record and handles sales tax, VAT and GST.
 2. Gumroad sends the receipt and ZIP download instantly.
 3. Workflow emails go out automatically: welcome with a quick start (day 0), then the usefulness and checkout survey (day 10).
-4. Data refreshes are uploaded as new versions, and Gumroad emails existing buyers ("Send update").
+4. Data refreshes are uploaded as new versions, and existing buyers get them through the same receipt link. Gumroad emails ("Send update") unlock only after the first $100 payout, so they are an extra, not the delivery route.
 5. A weekly GitHub Action re-checks every cited page and opens an issue if a quote disappears.
 
 ## Acquisition

@@ -42,6 +42,14 @@ def test_data_validates():
     assert n >= 30
 
 
+def test_saved_page_import_rejects_bot_check_pages(tmp_path):
+    bad = tmp_path / "blocked.html"
+    bad.write_text("<html><body>Performing security verification</body></html>")
+    res = subprocess.run([sys.executable, str(ROOT / "scripts" / "import_saved_page.py"),
+                          "https://example.org/blocked", str(bad)], capture_output=True, text=True)
+    assert res.returncode != 0 and "bot check" in res.stderr
+
+
 def test_every_known_value_has_a_quote_and_https_source():
     for r in RECS:
         for name, f in r["fields"].items():
@@ -77,12 +85,19 @@ def test_playbook_has_all_sections_and_no_unfilled_placeholders():
                     "14. Submission checklist", "16. How this data was built"]:
         assert heading in text, heading
     assert "{{" not in text and "}}" not in text
+    assert f"Version {build.VERSION}" in text
+    for subsection in ["Max Planck Schools (Germany)", "Marie Skłodowska-Curie Doctoral Networks", "Study permits in 2026"]:
+        assert subsection in text, subsection
 
 
 def test_start_here_and_sample_render():
-    assert "Your first 15 minutes" in pdf_text(OUT / "START-HERE.pdf")
+    start = pdf_text(OUT / "START-HERE.pdf")
+    assert "Your first 15 minutes" in start
+    # Gumroad can't email buyers until the seller's first payout, so updates must not be promised by email.
+    assert "always serves the newest version" in start and "Gumroad emails you" not in start
     sample = pdf_text(build.DIST / f"Free-Sample-{build.PRODUCT}.pdf")
     assert "FREE SAMPLE" in sample and "Penn State" in sample
+    assert ("Get the full Atlas" in sample) == bool(build.PAID_URL)
 
 
 @pytest.fixture(scope="module")

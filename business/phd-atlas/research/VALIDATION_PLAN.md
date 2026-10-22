@@ -26,7 +26,7 @@ Desk research is not customer validation. Everything below the "Customer tests" 
 | T1a | Gumroad live: paid kit ($5 / about ₹190 in India; $20 batch licence) plus free 10-program sample | $0 | 45 min setup | From launch |
 | T1b | Personal messages to ~10 people you know who are applying or mentoring applicants (exact drafts in `launch/messages/`) | $0 | 20 min | Week 1 |
 | T1c | Reddit post leading with free value, within each subreddit's rules (drafts provided) | $0 | 10 min plus replies | Week 1–2 |
-| T2 | Day-10 automated email: "What did the Atlas change for you?" (Gumroad workflow) | $0 | 5 min/week to read | Ongoing |
+| T2 | Feedback question in the purchase receipt and START-HERE ("What did the Atlas change for you?"); a day-10 Gumroad workflow is added once emails unlock after the first payout | $0 | 5 min/week to read | Ongoing |
 | T3 | Same email asks whether checkout worked | $0 | n/a | Ongoing |
 
 ## Limits before meaningful evidence is required

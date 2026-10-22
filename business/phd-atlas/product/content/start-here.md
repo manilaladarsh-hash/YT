@@ -30,6 +30,10 @@ Thank you for buying the Atlas. Your kit contains:
 
 ### Updates and corrections
 
-You get every update for the Fall 2027 cycle free. Gumroad emails you when a new version is uploaded. If you spot a changed or wrong value, reply to your purchase receipt with the program name and the page link.
+You get every update for the Fall 2027 cycle free. The download link in your Gumroad receipt (and your Gumroad Library) always serves the newest version. The version number is at the bottom of Atlas.html, so check back before you finalize your list.
+
+If you spot a changed or wrong value, reply to your purchase receipt with the program name and the page link.
+
+**One question, once you've used it:** reply to your receipt with one line on what, if anything, the Atlas changed in your applications (a program added or dropped, a fee waiver requested, a test skipped). Your answers decide what goes into the next update.
 
 *Not affiliated with any university. Not immigration, visa or legal advice.*

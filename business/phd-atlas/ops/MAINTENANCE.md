@@ -15,6 +15,11 @@
 3. Bump `VERSION` in `product/build.py`, then run `python3 product/build.py` and `python3 -m pytest -q tests`.
 4. `python3 scripts/check_sources.py --manifest`, then commit.
 
+**New programs** are drafted in a staging folder so a build never ships an unreviewed record. Run research with `ATLAS_OUT=data/staging`, check the drafts with `python3 scripts/validate_data.py --dir data/staging --require-cache`, review each one, then move it into `data/programs/`.
+
+**Sites that block automated reads** (Oxford, UCL, Michigan): the owner opens the page in a normal browser and saves it with Ctrl+S, "Webpage, HTML only". Then run `python3 scripts/import_saved_page.py <url> <saved.html>` and write the record as usual.
+
 ## Known automation limits
+- Pages imported by hand (`method: manual-save` in the cache) can't be re-fetched, so the weekly report lists them as unreachable. Re-save them at each monthly refresh.
 - Columbia's pages block automated fetching, so they appear in the weekly report as "could not be fetched". Spot-check them by hand monthly.
 - The weekly check detects disappearing quotes, not new information. A program could add a new waiver without removing old text. The monthly refresh covers that.

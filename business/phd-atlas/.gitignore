@@ -1,3 +1,6 @@
 .cache/
 __pycache__/
 *.pyc
+# The paid kit is built locally and delivered via Gumroad; keep it out of the (public) repo.
+dist/Physics-PhD-Atlas-2027/
+dist/*.zip

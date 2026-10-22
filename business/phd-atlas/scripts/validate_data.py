@@ -4,6 +4,7 @@ is present, confirm each quote really appears on its cited source page.
 Usage:
   python3 scripts/validate_data.py            # schema checks; quote checks if cache exists
   python3 scripts/validate_data.py --require-cache   # fail if a quote cannot be checked
+  python3 scripts/validate_data.py --dir data/staging   # check draft records before promoting them
 Exit code is non-zero when any error is found.
 """
 
@@ -55,11 +56,11 @@ def quote_parts(quote):
     return parts
 
 
-def validate(require_cache=False):
+def validate(require_cache=False, folder=PROGRAMS):
     errors, warnings = [], []
     texts = cached_texts()
     ids = set()
-    files = sorted(PROGRAMS.glob("*.json"))
+    files = sorted(Path(folder).glob("*.json"))
     if not files:
         errors.append("no program records found")
     for f in files:
@@ -139,8 +140,12 @@ def validate(require_cache=False):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--require-cache", action="store_true")
+    ap.add_argument("--dir", default=str(PROGRAMS), help="folder of records to check")
     args = ap.parse_args()
-    errors, warnings, n = validate(args.require_cache)
+    folder = Path(args.dir)
+    if not folder.is_absolute():
+        folder = ROOT / folder
+    errors, warnings, n = validate(args.require_cache, folder)
     for w in warnings:
         print("WARN ", w)
     for e in errors:

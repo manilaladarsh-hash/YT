@@ -1,4 +1,6 @@
-# E3: Reddit post (read each subreddit's rules first; skip any that ban self-promotion)
+# E3: Reddit post (no links in the body)
+
+Read each subreddit's rules first, and skip any that ban self-promotion (or ask the mods). Pin `reddit_profile_post.md` to your profile **before** posting this. The body below deliberately has **no links**: store links get posts removed.
 
 **Title:** I checked 100+ physics PhD programs' official pages (US, UK, Europe, Australia) for rules that trip up Indian/international applicants: here's what I found
 
@@ -18,4 +20,6 @@ I'm a physics PhD student (came to Canada from India) and spent the past few wee
 
 **US fees:** Penn State Physics is waiving its fee for all applicants. Many others offer waivers only to US applicants.
 
-Disclosure: I turned this into a kit with the exact quote and link behind every value, an offline explorer (fees shown in ₹) and a planner sheet. There's a free 10-program sample ({SAMPLE_URL}?utm_source=reddit&utm_medium=post&utm_campaign=launch2026). The full version is paid: $5, with Gumroad lowering the price automatically in lower-income countries (about ₹190 in India) ({PAID_URL}?utm_source=reddit&utm_medium=post&utm_campaign=launch2026). Happy to answer questions in the comments either way.
+**Germany:** the Max Planck Schools (Photonics; Matter to Life) take bachelor's graduates straight into fully funded 5-year integrated MSc/PhD tracks, with applications due Dec 1. For EU-wide paid PhD positions, MSCA Doctoral Networks are open to any nationality. The main condition is that you haven't lived in the host country for more than 12 of the last 36 months.
+
+Disclosure: I made a paid kit out of this (every value with its official quote and link, an offline explorer with fees in ₹, and a planner sheet), plus a free 10-program sample. I'm not linking it here because of the sub's rules; details are pinned on my profile. Happy to answer questions in the comments either way.

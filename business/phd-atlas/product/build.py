@@ -32,7 +32,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from validate_data import validate  # noqa: E402
 
-VERSION = "1.1"
+VERSION = "1.2"
 PRODUCT = "Physics-PhD-Atlas-2027"
 DIST = ROOT / "dist"
 OUT = DIST / PRODUCT
@@ -47,6 +47,9 @@ PRICE_LINE = ("Priced for students: about ₹190 in India (Gumroad shows rupees 
               "A batch licence covers up to 30 students for about ₹750. Can't afford it? Reply to your receipt for a free copy.")
 
 FX = json.loads((ROOT / "data" / "fx.json").read_text())
+# Set once the Gumroad listing exists, then rebuild so the free sample links to it:
+#   ATLAS_PAID_URL=https://NAME.gumroad.com/l/physics-phd-atlas-2027 python3 product/build.py
+PAID_URL = os.environ.get("ATLAS_PAID_URL", "").strip()
 
 
 def convert(amount, cur, to):
@@ -93,6 +96,7 @@ SHORT = {
     "munich-mcqst": "Munich (MCQST)", "bonn-cologne": "Bonn-Cologne (BCGS)", "sissa-cm": "SISSA", "leiden": "Leiden",
     "bristol": "Bristol", "durham": "Durham", "imperial": "Imperial College London",
     "imprs-solar": "IMPRS Solar System (Göttingen)", "imprs-qd": "IMPRS Quantum Dynamics (Heidelberg)",
+    "mps-photonics": "Max Planck School of Photonics", "mps-mattertolife": "Max Planck School Matter to Life",
     "imprs-cpqm": "IMPRS Quantum Materials (Dresden)", "imprs-hd": "IMPRS Astronomy (Heidelberg)",
     "uzh": "Zurich (UZH)", "tum": "TU Munich", "tcd-physics": "Trinity College Dublin", "icfo-phd": "ICFO (Barcelona)",
     "paris-saclay-physics": "Paris-Saclay", "padova-physics": "Padova", "nbi-copenhagen": "Copenhagen (NBI)",
@@ -557,6 +561,10 @@ def write_sample(recs, path, values):
         rows.append("<tr>" + "".join(f"<td>{c}</td>" for c in cells) + "</tr>")
     table = ("<table><tr><th>Program</th><th>Deadline</th><th>Fee</th><th>Fee waiver (internationals)</th>"
              "<th>Physics GRE</th><th>English-test waiver</th><th>Supervisor first?</th></tr>" + "".join(rows) + "</table>")
+    buy = ""
+    if PAID_URL:
+        link = html.escape(f"{PAID_URL}?utm_source=sample&utm_medium=pdf&utm_campaign=launch2026", quote=True)
+        buy = f'<p>Get the full Atlas: <a href="{link}">{html.escape(PAID_URL)}</a></p>'
     body = f"""
 <div class="cover" style="padding-top:6mm"><span class="tag">FREE SAMPLE · {values['CHECKED']}</span>
 <h1>Physics PhD Atlas 2027</h1>
@@ -581,6 +589,7 @@ def write_sample(recs, path, values):
 <li>Free updates for the Fall 2027 cycle. 14-day refund.</li>
 </ul>
 <p><b>{PRICE_LINE}</b></p>
+{buy}
 <p class="note">Not affiliated with any university. Not immigration, visa or legal advice.</p>
 """
     to_pdf(html_doc("Physics PhD Atlas 2027: Free Sample", body), path, "sample")

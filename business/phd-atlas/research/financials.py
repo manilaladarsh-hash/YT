@@ -17,7 +17,9 @@ import csv
 from pathlib import Path
 
 LIST_PRICE = 5.00           # USD, decision: affordability first
-PPP_PRICE = 2.00            # ESTIMATE: India and similar countries at Gumroad's 60% maximum PPP discount
+PPP_PRICE = 2.00
+BATCH_PRICE = 20.00        # batch licence, up to 30 students
+BATCH_PPP_PRICE = 8.00     # batch licence after the 60% PPP discount (India)            # ESTIMATE: India and similar countries at Gumroad's 60% maximum PPP discount
 GUMROAD_PCT, GUMROAD_FLAT = 0.10, 0.50      # published, direct sales
 DISCOVER_PCT = 0.30                          # published, Discover sales (processing included)
 CARD_PCT, CARD_FLAT = 0.029, 0.30            # published processing on direct sales (UPI assumed the same)
@@ -69,7 +71,11 @@ def main():
         w.writeheader()
         w.writerows(rows)
     print(f"Per sale after Gumroad fees: ${LIST_PRICE:.2f} -> ${per_sale_net(LIST_PRICE):.2f}; "
-          f"${PPP_PRICE:.2f} (India, PPP) -> ${per_sale_net(PPP_PRICE):.2f}\n")
+          f"${PPP_PRICE:.2f} (India, PPP) -> ${per_sale_net(PPP_PRICE):.2f}")
+    print(f"Batch licence: ${BATCH_PRICE:.2f} (bought abroad, e.g. an alumnus sponsor) -> "
+          f"${per_sale_net(BATCH_PRICE):.2f}; ${BATCH_PPP_PRICE:.2f} (India, PPP) -> "
+          f"${per_sale_net(BATCH_PPP_PRICE):.2f}. One sponsored batch nets as much as "
+          f"{per_sale_net(BATCH_PRICE) / per_sale_net(PPP_PRICE):.1f} Indian personal sales.\n")
     cols = ["scenario", "period", "orders", "avg_price", "gross", "platform_and_card_fees", "refunds", "payout_fee", "net", "owner_hours", "net_per_owner_hour"]
     print("| " + " | ".join(cols) + " |")
     print("|" + "---|" * len(cols))
