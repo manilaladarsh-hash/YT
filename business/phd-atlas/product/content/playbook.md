@@ -32,7 +32,7 @@ Treat these as working targets (advice). The fixed dates come from the programs.
 | **Oct 31 – Nov 3** | Europe's first wave. EPFL's autumn round closes **Oct 31** (next round Apr 30). Heidelberg's HGSFP portal and IMPRS Quantum Dynamics close **Nov 1**. Imperial's first President's PhD Scholarship round closes **Nov 2**. IMPRS Astronomy (Heidelberg) closes **Nov 3**. |
 | Early November | Email Canadian supervisors (Section 6), and the European professors or advertised positions you want (Section 7). Send recommenders their packet (Section 10). |
 | **Nov 30 – Dec 3** | IMPRS Quantum Materials (Dresden) closes **Nov 30** for its February selection workshop. The early US group closes too: {{US_DEC1_LIST}}. Several programs start reviewing the moment a deadline passes. |
-| Mid-December | **Dec 15** is the US default: {{US_DEC15_COUNT}} of the {{US_DATED_COUNT}} dated US programs here use it. Cambridge's funding deadline is **Dec 8**; Durham's is **Dec 15** for full scholarship consideration. |
+| Mid-December | **Dec 15** is the most common US date: {{US_DEC15_COUNT}} of the {{US_DATED_COUNT}} dated US programs here use it. Cambridge's funding deadline is **Dec 8**; Durham's is **Dec 15** for full scholarship consideration. |
 | January | Most Canadian deadlines ({{CA_JAN_LIST}}), plus a few US programs (see the table). Later or rolling in Canada: {{CA_LATE_LIST}}. Bristol's funding deadline: applications must arrive before **Jan 18**. Edinburgh's physics funding deadline is **Jan 22**. |
 | Feb-April | Interviews and offers. Several programs in this Atlas (e.g., Stony Brook and Texas A&M) ask admitted students to respond by **April 15**. SISSA's spring call closes in early March; EPFL's second round on Apr 30. |
 

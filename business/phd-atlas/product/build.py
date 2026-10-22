@@ -138,6 +138,10 @@ def fee_parts(code):
     return None, ""
 
 
+def nice_date(d):
+    return f"{d.strftime('%b')} {d.day}, {d.year}"
+
+
 def deadline_cell(r):
     code = r["fields"]["deadline"]["code"]
     return date.fromisoformat(code) if re.match(r"^\d{4}-\d{2}-\d{2}$", code) else None
@@ -152,7 +156,7 @@ def flags_text(f):
     if f.get("conflict"):
         out.append("sources conflict")
     if f.get("time_sensitive"):
-        out.append(f"act by {f['time_sensitive']}")
+        out.append(f"act by {nice_date(date.fromisoformat(f['time_sensitive']))}")
     if f.get("scope"):
         out.append(f["scope"])
     return "; ".join(out)
@@ -161,7 +165,7 @@ def flags_text(f):
 def deadline_text(r):
     code = r["fields"]["deadline"]["code"]
     d = deadline_cell(r)
-    return d.strftime("%b %d, %Y") if d else code
+    return nice_date(d) if d else code
 
 
 def stats(recs):
@@ -251,7 +255,10 @@ def fill(text, values):
         if key not in values:
             raise KeyError(f"unfilled placeholder {key}")
         return values[key]
-    return re.sub(r"\{\{([A-Z_]+)\}\}", rep, text)
+    out = re.sub(r"\{\{([A-Z0-9_]+)\}\}", rep, text)
+    if "{{" in out:
+        raise KeyError("unfilled placeholder: " + out[out.index("{{"):out.index("{{") + 40])
+    return out
 
 
 # ---------------------------------------------------------------- outputs
