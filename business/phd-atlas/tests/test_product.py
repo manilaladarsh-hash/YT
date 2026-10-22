@@ -197,7 +197,9 @@ def test_workbook_formulas_calculate_in_libreoffice():
     assert isinstance(s["D2"].value, (int, float))
     assert s["H3"].value == "Optional"
     b = calc["Budget"]
-    assert b["C2"].value == 135        # Toronto fee counted
-    assert b["B2"].value == 0          # UIUC marked Waived, so excluded
+    col = {c.value: c.column_letter for c in b[1]}
+    assert b[f"{col['CAD']}2"].value == 135    # Toronto fee counted
+    assert b[f"{col['USD']}2"].value == 0      # UIUC marked Waived, so excluded
+    assert b["B10"].value > 0                  # converted to rupees with the pre-filled rates
     f = calc["Supervisor outreach"]["F2"].value
     assert str(f).startswith("2026-11-13")

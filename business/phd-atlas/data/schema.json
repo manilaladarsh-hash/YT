@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "description": "One record per program in data/programs/<id>.json. Every field holds a machine code (for filters), a human value, an exact quote from the source page and the source URL. Unknowns are recorded as 'Not stated' with an empty quote, never guessed.",
   "required_top_level": [
     "id",
@@ -28,7 +28,9 @@
     "France",
     "Spain",
     "Belgium",
-    "Ireland"
+    "Ireland",
+    "Australia",
+    "New Zealand"
   ],
   "fields": {
     "deadline": {
@@ -41,7 +43,7 @@
     },
     "app_fee": {
       "label": "Application fee",
-      "code": "'<amount> USD|CAD|GBP|EUR|CHF|SEK|DKK|NOK', '0 (waived)', '0 (no fee)' or 'Not stated'"
+      "code": "'<amount> USD|CAD|GBP|EUR|CHF|SEK|DKK|NOK|AUD|NZD', '0 (waived)', '0 (no fee)' or 'Not stated'"
     },
     "fee_waiver": {
       "label": "Fee waiver for international applicants",
@@ -126,6 +128,10 @@
     "North America": [
       "USA",
       "Canada"
+    ],
+    "Australia & NZ": [
+      "Australia",
+      "New Zealand"
     ]
   }
 }

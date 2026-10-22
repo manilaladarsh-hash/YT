@@ -20,7 +20,7 @@ SCHEMA = json.loads((ROOT / "data" / "schema.json").read_text())
 PROGRAMS = ROOT / "data" / "programs"
 CACHE = ROOT / ".cache" / "pages"
 
-FEE_RE = re.compile(r"^(\d+(\.\d+)? (USD|CAD|GBP|EUR|CHF|SEK|DKK|NOK)|0 \(waived\)|0 \(no fee\)|Not stated)$")
+FEE_RE = re.compile(r"^(\d+(\.\d+)? (USD|CAD|GBP|EUR|CHF|SEK|DKK|NOK|AUD|NZD)|0 \(waived\)|0 \(no fee\)|Not stated)$")
 TOEFL_RE = re.compile(r"^(\d{2,3}|\d(\.\d)? \(new scale\)|Sections|Not stated)$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 

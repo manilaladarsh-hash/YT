@@ -41,7 +41,8 @@ TEMPLATES = ROOT / "product" / "templates"
 BUILD = ROOT / ".cache" / "build"
 SAMPLE_IDS = ["rice", "pennstate", "stanford", "utaustin", "utoronto", "waterloo", "ualberta", "ubc", "cambridge", "epfl"]
 NORTH_AMERICA = {"USA", "Canada"}
-CURRENCIES = ["USD", "CAD", "GBP", "EUR", "CHF"]
+AUS_NZ = {"Australia", "New Zealand"}
+CURRENCIES = ["USD", "GBP", "EUR", "AUD", "CAD", "CHF", "NZD"]
 PRICE_LINE = ("Priced for students: about ₹190 in India (Gumroad shows rupees and accepts UPI), $5 elsewhere. "
               "A batch licence covers up to 30 students for about ₹750. Can't afford it? Reply to your receipt for a free copy.")
 
@@ -110,7 +111,9 @@ SHORT = {
 
 
 def area(r):
-    return "North America" if r["country"] in NORTH_AMERICA else "Europe"
+    if r["country"] in NORTH_AMERICA:
+        return "North America"
+    return "Australia & NZ" if r["country"] in AUS_NZ else "Europe"
 
 
 # ---------------------------------------------------------------- data
@@ -130,7 +133,7 @@ def names(recs, pred):
 
 
 def fee_parts(code):
-    m = re.match(r"^(\d+(?:\.\d+)?) (USD|CAD|GBP|EUR|CHF|SEK|DKK|NOK)$", code)
+    m = re.match(r"^(\d+(?:\.\d+)?) (USD|CAD|GBP|EUR|CHF|SEK|DKK|NOK|AUD|NZD)$", code)
     if m:
         return float(m.group(1)), m.group(2)
     if code.startswith("0"):
@@ -388,10 +391,11 @@ def write_xlsx(recs, path, values):
     # Budget: one column per currency, totals converted with rates the owner types in
     bd = wb.create_sheet("Budget")
     bd.column_dimensions["A"].width = 58
-    cols = "BCDEF"
-    for col in cols + "G":
-        bd.column_dimensions[col].width = 13
-    bd.column_dimensions["G"].width = 40
+    cols = [get_column_letter(i) for i in range(2, 2 + len(CURRENCIES))]
+    notes_col = get_column_letter(2 + len(CURRENCIES))
+    for col in cols:
+        bd.column_dimensions[col].width = 12
+    bd.column_dimensions[notes_col].width = 40
     bd.append(["Item"] + CURRENCIES + ["Notes"])
     fee_row = ["Application fees on your shortlist (excludes rows marked Waived)"]
     for cur in CURRENCIES:

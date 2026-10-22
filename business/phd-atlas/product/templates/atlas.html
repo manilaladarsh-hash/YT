@@ -121,7 +121,7 @@ footer { max-width: 1440px; margin: 0 auto; padding: 0 16px 30px; color: var(--m
     <summary id="filtersSummary">Filters</summary>
     <section class="controls" aria-label="Filters">
       <label>Search<input id="q" type="search" placeholder="University, city, note…"></label>
-      <label>Region<select id="area"><option value="">All regions</option><option>North America</option><option>Europe</option></select></label>
+      <label>Region<select id="area"><option value="">All regions</option><option>North America</option><option>Europe</option><option>Australia &amp; NZ</option></select></label>
       <label>Country<select id="country"><option value="">All countries</option></select></label>
       <label>Application fee<select id="waiver"><option value="">Any</option><option value="either">No fee, or a waiver route for internationals</option><option value="yes">Waiver route for internationals</option><option value="free">No fee / waived for everyone</option></select></label>
       <label>Physics GRE<select id="pgre"><option value="">Any</option><option value="norequired">Not required</option><option value="required">Required</option></select></label>
@@ -197,7 +197,10 @@ const $ = id => document.getElementById(id);
 const UNKNOWN = ["Not stated", "Check tool"];
 const DAY = 86400000;
 
-function areaOf(p) { return (p.country === "USA" || p.country === "Canada") ? "North America" : "Europe"; }
+function areaOf(p) {
+  if (p.country === "USA" || p.country === "Canada") return "North America";
+  return (p.country === "Australia" || p.country === "New Zealand") ? "Australia & NZ" : "Europe";
+}
 function isDate(s) { return /^\d{4}-\d{2}-\d{2}$/.test(s); }
 function fmtDate(iso) {
   if (!isDate(iso)) return iso;
@@ -395,9 +398,12 @@ function exportCsv() {
 function init() {
   const countries = [...new Set(ATLAS.programs.map(p => p.country))].sort();
   for (const c of countries) { const o = document.createElement("option"); o.textContent = c; $("country").appendChild(o); }
-  const nEu = ATLAS.programs.filter(p => areaOf(p) === "Europe").length;
-  const nUs = ATLAS.programs.filter(p => p.country === "USA").length;
-  $("subtitle").textContent = ATLAS.programs.length + " physics PhD programs (" + nUs + " US, " + (ATLAS.programs.length - nEu - nUs) + " Canada, " + nEu + " Europe) · 2027 entry · every value linked to an official quote · data checked " + fmtDate(ATLAS.checked) + " · v" + ATLAS.version;
+  const count = pred => ATLAS.programs.filter(pred).length;
+  const parts = [[count(p => p.country === "USA"), "US"], [count(p => p.country === "United Kingdom"), "UK"],
+    [count(p => areaOf(p) === "Europe" && p.country !== "United Kingdom"), "rest of Europe"],
+    [count(p => areaOf(p) === "Australia & NZ"), "Australia & NZ"], [count(p => p.country === "Canada"), "Canada"]]
+    .filter(([n]) => n > 0).map(([n, l]) => n + " " + l);
+  $("subtitle").textContent = ATLAS.programs.length + " physics PhD programs (" + parts.join(", ") + ") · 2027 entry · every value linked to an official quote · data checked " + fmtDate(ATLAS.checked) + " · v" + ATLAS.version;
   $("foot").textContent = "Version " + ATLAS.version + ". 'Not stated' means the official pages we checked did not say; it is not a 'no'. 'Year inferred' means the page gave a day and month only. Rupee amounts are approximate, converted at the " + ATLAS.fx.source + " rate of " + fmtDate(ATLAS.fx.date) + " (1 USD ≈ ₹" + ATLAS.fx.usd_inr + ").";
   for (const id of FILTER_IDS.concat(["sort"])) $(id).addEventListener("input", render);
   for (const b of document.querySelectorAll("[data-pick]")) {
