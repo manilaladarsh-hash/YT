@@ -1,0 +1,80 @@
+{
+  "id": "asu--datasci",
+  "university": "asu",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "School of Computing and Augmented Intelligence",
+  "program_page": "https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESAIPHD/artificial-intelligence-phd",
+  "checked": "2026-10-22",
+  "fields": {
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Fee waivers are considered only for PhD applicants at the direction of a sponsoring faculty member.",
+      "quote": "Application fee waivers may only be considered for PhD applicants at the direction of a sponsoring faculty.",
+      "url": "https://scai.engineering.asu.edu/graduate-admissions/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS 7 overall (Duolingo 115).",
+      "quote": "7 on the IELTS or 115 on the Duolingo English test",
+      "url": "https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESAIPHD/artificial-intelligence-phd"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Name two or three ASU faculty with matching interests in the statement of purpose; RA offers come from interested faculty.",
+      "quote": "identify two or three ASU faculty with matching research interests. | RA offers are made to admitted students by an interested faculty member.",
+      "url": "https://scai.engineering.asu.edu/graduate-admissions/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "TAs go mainly to PhD students and are awarded by the school; RAs go to the highest-caliber students via interested faculty, and some faculty don't fund new students.",
+      "quote": "TA positions are awarded primarily to Ph.D. students. RA positions are offered to the highest caliber of students. RA offers are made to admitted students by an interested faculty member. Some faculty members do not offer RA positions to newly admitted students.",
+      "url": "https://scai.engineering.asu.edu/graduate-admissions/"
+    },
+    "deadline": {
+      "code": "2026-12-31",
+      "value": "Apply by December 31, 2026 for fall priority consideration (spring: August 1).",
+      "quote": "Artificial Intelligence | December 15 (MS) or December 31 (PhD)",
+      "url": "https://scai.engineering.asu.edu/graduate-admissions/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Fall Session Modality Deadline Type Session A/C In Person 12/31 Priority*",
+          "url": "https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESAIPHD/artificial-intelligence-phd"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE is not required but considered if submitted.",
+      "quote": "The application does not require GRE scores, although they are considered if submitted.",
+      "url": "https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESAIPHD/artificial-intelligence-phd"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "TOEFL iBT 90 (before January 21, 2026) or 4.5 on the new scale.",
+      "quote": "with a TOEFL iBT® score of 4.5, or 90 (taken at a testing center) if taken before January 21, 2026",
+      "url": "https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESAIPHD/artificial-intelligence-phd"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's or master's in CS, math, EE or a related field qualifies (4-year bachelor's equivalent needed).",
+      "quote": "Applicants are eligible to apply to the program if they have earned a bachelor's or master's degree in computer science, mathematics, electrical engineering or a related field from a regionally accredited institution.",
+      "url": "https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESAIPHD/artificial-intelligence-phd",
+      "also": [
+        {
+          "quote": "A student must have the equivalent of a 4 year bachelor’s degree to be eligible to apply for a graduate program in SCAI.",
+          "url": "https://scai.engineering.asu.edu/graduate-admissions/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no GRE Subject test for this field; nothing stated.",
+      "quote": "",
+      "url": "https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESAIPHD/artificial-intelligence-phd"
+    }
+  },
+  "notes": "SCAI also runs a separate Data Science, Analytics and Engineering PhD, which asks for GRE General scores taken within five years.",
+  "name": "Artificial Intelligence PhD"
+}

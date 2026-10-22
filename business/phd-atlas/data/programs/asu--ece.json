@@ -1,0 +1,56 @@
+{
+  "id": "asu--ece",
+  "university": "asu",
+  "field": "ece",
+  "also_fields": [],
+  "department": "School of Electrical, Computer and Energy Engineering",
+  "program_page": "https://degrees.asu.edu/masters-phd/major/ASU00/ESEEPHD/electrical-engineering-phd",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-31",
+      "value": "Preference for complete applications by December 31, 2026 (fall); results by March 1. Later applications are still considered.",
+      "quote": "Preference is given to complete School of Electrical, Computer and Energy Engineering graduate applications received by December 31. Admission results should be available by March 1.",
+      "url": "https://ecee.engineering.asu.edu/degrees/graduate/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The Fulton Schools require the GRE for PhD programs; if your master's is not from a U.S. ABET-accredited school you need GRE Quant 156 or higher. At-home GRE not accepted.",
+      "quote": "GRE is required for PHD programs.",
+      "url": "https://engineering.asu.edu/degrees/graduate/admission/",
+      "also": [
+        {
+          "quote": "A student whose master's degree is not from a U.S. ABET-accredited institution must score 156 or higher on the quantitative section of the GRE General Test.",
+          "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESEEPHD/electrical-engineering-phd"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "The school advises finding a PhD advisor with a funded project; RAs come from individual faculty.",
+      "quote": "Look for an advisor who has a funded project in need of a student.",
+      "url": "https://ecee.engineering.asu.edu/degrees/graduate/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Only a limited number of students get written funding offers before entry; others must fund themselves.",
+      "quote": "A limited number of students receive written offers of financial aid prior to entering the program. Students who elect to enter the program without a written commitment of financial aid are responsible for providing their own financial support.",
+      "url": "https://ecee.engineering.asu.edu/degrees/graduate/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's degree is usually needed; direct doctoral admission is available for graduates of ABET-accredited programs.",
+      "quote": "A student usually must hold a master's degree before being admitted to the doctoral program. Direct doctoral admission is available for students graduating from an ABET-accredite",
+      "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESEEPHD/electrical-engineering-phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no GRE Subject test for this field; nothing stated.",
+      "quote": "",
+      "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESEEPHD/electrical-engineering-phd"
+    }
+  },
+  "notes": "TA applicants need TOEFL speaking 26 or SPEAK 50. Minimum GPA 3.50 in graduate coursework. A separate Computer Engineering PhD (December 31 fall deadline per SCAI) is also offered.",
+  "name": "Electrical Engineering PhD"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "asu--civil",
+  "university": "asu",
+  "field": "civil",
+  "also_fields": [],
+  "department": "School of Sustainable Engineering and the Built Environment",
+  "program_page": "https://degrees.asu.edu/masters-phd/major/ASU00/ESCIVILPHD/civil-environmental-and-sustainable-engineering-phd",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Priority deadline January 1, 2027 for fall (spring: July 1); review starts on the priority date.",
+      "quote": "PhD: January 1 for fall semester admissions and July 1 for spring semester admissions.",
+      "url": "https://ssebe.engineering.asu.edu/graduate-applications/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE is required for all SSEBE PhD programs, with minimum Quant 155 and Quant+Verbal 301; higher scores needed for funding.",
+      "quote": "GRE scores are required for all SSEBE PhD programs. | minimum score in the Quantitative section is 700 (GRE General Test) or 155 (GRE revised General Test)",
+      "url": "https://ssebe.engineering.asu.edu/graduate-applications/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Engineering has no GRE Subject test; nothing stated.",
+      "quote": "",
+      "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESCIVILPHD/civil-environmental-and-sustainable-engineering-phd"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Faculty sponsorship is necessary for admission, so contact faculty in your specialty before applying.",
+      "quote": "Note that faculty sponsorship is necessary for admission. All prospective applicants should get in touch with one or more faculty working in their area of specialization",
+      "url": "https://ssebe.engineering.asu.edu/graduate-applications/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "TA/RA positions go to the most competitive applicants (priority to PhD students); only a limited number get written funding offers before entry.",
+      "quote": "RA/TA positions will be awarded to the most competitive applicants.",
+      "url": "https://ssebe.engineering.asu.edu/graduate-applications/",
+      "also": [
+        {
+          "quote": "A limited number of students receive written offers of financial aid prior to entering the program.",
+          "url": "https://ssebe.engineering.asu.edu/assistantships/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's in engineering or a related field is normally required; exceptionally qualified bachelor's graduates may be admitted directly.",
+      "quote": "Applicants are eligible to apply to the program if they have earned a master's degree in engineering or a closely related master's degree program from a regionally accredited institution. Exceptionally qualified students with a bachelor's degree may be admitted to the doctoral program.",
+      "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESCIVILPHD/civil-environmental-and-sustainable-engineering-phd"
+    }
+  },
+  "notes": "Minimum GPA 3.20. TA applicants need TOEFL speaking 26 or SPEAK 55. Includes environmental engineering specialty.",
+  "name": "Civil, Environmental and Sustainable Engineering PhD"
+}

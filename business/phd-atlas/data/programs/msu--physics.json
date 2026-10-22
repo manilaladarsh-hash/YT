@@ -1,0 +1,72 @@
+{
+  "id": "msu--physics",
+  "university": "msu",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics and Astronomy",
+  "program_page": "https://pa.msu.edu/graduate-program/prospective-grad-students/index.aspx",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "December 15, 2026 for Fall 2027 (letters also due); apply by December 1, 2026 to be considered for University Fellowships. PhD positions for Fall 2027 described as very limited.",
+      "quote": "the deadline for applying for the graduate program with a start in Fall semester of 2027 is December 15, 2026. | If you want to be considered for University Fellowships (for more information, see below), please submit your application by December 1, 2026.",
+      "url": "https://pa.msu.edu/graduate-program/prospective-grad-students/index.aspx"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "Physics GRE optional; no disadvantage if not submitted",
+      "quote": "For the Physics Ph.D. program, submission of physics or general GRE scores is optional - students can choose to submit GRE scores if they believe it adds to their application. There is no disadvantage if you do not submit your GRE scores.",
+      "url": "https://pa.msu.edu/graduate-program/prospective-grad-students/index.aspx"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "With very limited Fall 2027 PhD positions, applicants are strongly encouraged to contact faculty before applying to confirm openings",
+      "quote": "Prospective applicants are strongly encouraged to contact faculty members directly (see our research areas and faculty list) before applying to confirm whether openings exist in specific research groups.",
+      "url": "https://pa.msu.edu/graduate-program/prospective-grad-students/index.aspx"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "PhD students usually supported by TA/RA (stipend, tuition waiver, health insurance), pending availability of funding and good progress",
+      "quote": "Graduate students in the Ph.D. program in Physics and Astronomy are usually supported through teaching and research assistantships. These assistantships are provided pending the availability of funding and require that the student continues to make good progress in the program.",
+      "url": "https://pa.msu.edu/graduate-program/prospective-grad-students/index.aspx"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked (application asks whether you will hold an M.S. by Fall 2027)",
+      "quote": "",
+      "url": "https://pa.msu.edu/graduate-program/prospective-grad-students/index.aspx"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "FreeApp waiver only for US citizens/permanent residents with GPA 3.0 (priority Nov 15); department cannot offer waivers to international applicants",
+      "quote": "To be eligible for this fee waiver, you must have a cumulative undergraduate GPA of 3.0 and be a US citizen or permanent resident. | Unfortunately, we cannot offer fee waivers to international applications.",
+      "url": "https://pa.msu.edu/graduate-program/prospective-grad-students/index.aspx"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "General GRE optional for Physics PhD; no disadvantage if not submitted (Astronomy PhD does not accept it)",
+      "quote": "For the Physics Ph.D. program, submission of physics or general GRE scores is optional - students can choose to submit GRE scores if they believe it adds to their application. There is no disadvantage if you do not submit your GRE scores.",
+      "url": "https://pa.msu.edu/graduate-program/prospective-grad-students/index.aspx"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "University minimum TOEFL iBT 80 (sub-scores R/L/S 19, W 22; new scale 4.5); department suggests 100+ but may accept slightly lower",
+      "quote": "No sub score below 19 for reading, listening, and speaking | No writing sub score below 22 | A minimum average score of 80**",
+      "url": "https://grad.msu.edu/english-language-competency",
+      "also": [
+        {
+          "quote": "Note that the Department of Physics and Astronomy generally requires higher scores than the University. For example, we suggest a total average score of 100 or better on the iBT, but may accept slightly lower scores for exceptional cases.",
+          "url": "https://pa.msu.edu/graduate-program/prospective-grad-students/index.aspx"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Exempt-country list (Anguilla ... U.S. Virgin Islands) does not include India; automatic waivers only for a bachelor's from the U.S. or another listed English-speaking country, an MSU bachelor's, or an AAU master's on a U.S. campus",
+      "quote": "English Speaking Countries In most cases, candidates who are citizens from the following countries need NOT be held for proof of English Language Proficiency (ELP). Language of instruction at institution attended must be English. | Bachelor’s degree earned in the U.S. (or other English-speaking country).",
+      "url": "https://grad.msu.edu/english-language-competency"
+    }
+  },
+  "notes": "No minimum GPA. Department does not admit to Physics or Astronomy master's programs (only Accelerator Science MS). Astronomy/Astrophysics PhD has a separate application page. Department pages needed headless rendering (Incapsula)."
+}

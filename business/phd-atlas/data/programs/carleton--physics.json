@@ -1,0 +1,67 @@
+{
+  "id": "carleton--physics",
+  "university": "carleton",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://graduate.carleton.ca/program/physics-doctoral-programs/",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "January 15 (Fall entry); late applications considered if openings remain. Year inferred for Fall 2027.",
+      "quote": "January 15 (late applications will be considered if openings remain)",
+      "url": "https://graduate.carleton.ca/program/physics-doctoral-programs/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://graduate.carleton.ca/program/physics-doctoral-programs/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://graduate.carleton.ca/program/physics-doctoral-programs/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "University-level statement: applicants are automatically considered for admission funding (TA, research stipend, scholarships) and notified in the offer if eligible; no guaranteed minimum stated on the pages checked",
+      "quote": "When submitting an application for admission to Carleton, students are automatically considered for funding and if eligible, will be notified in the Offer of Admission and Funding.",
+      "url": "https://graduate.carleton.ca/financial-assistance/admissions-funding/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "An MSc is normally required; exceptional honours-BSc holders (A- average, significant research) may enter the Direct Entry PhD; MSc-to-PhD transfer possible",
+      "quote": "An M.Sc. in Physics or a closely related field is normally required for admission into the Ph.D. program. | Exceptional undergraduate students holding an honours B.Sc. in Physics or a closely related field, with a minimum A- average and significant research experience, may be considered for the Direct Entry Ph.D. program.",
+      "url": "https://calendar.carleton.ca/grad/gradprograms/physics/"
+    },
+    "app_fee": {
+      "code": "125 CAD",
+      "value": "CAD 125, non-refundable",
+      "quote": "After you submit your application you will be required to pay the non-refundable application fee of C$125",
+      "url": "https://graduate.carleton.ca/apply-online/"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "Graduate application fees are not waived",
+      "quote": "Application fees for graduate programs will not be waived",
+      "url": "https://graduate.carleton.ca/apply-online/"
+    },
+    "toefl_min": {
+      "code": "86",
+      "value": "TOEFL iBT 86 (20 reading/listening, 22 speaking/writing) for tests before Jan 21, 2026; 4.5 overall on the new scale (5.0 writing); IELTS 6.5 (6.0 per band)",
+      "quote": "For exams taken before January 21, 2026: | 86 (20 in reading and listening; 22 in speaking and writing) | 4.5 overall (minimum 5.0 in writing, 4.5 in reading, listening and speaking)",
+      "url": "https://graduate.carleton.ca/international/english-second-language/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Exemption only for English-taught degrees from countries whose primary language is English (India does not qualify) or a recent Canadian degree; medium-of-instruction letters are explicitly not accepted",
+      "quote": "presenting official certification (transcripts) that you have completed an undergraduate or graduate degree at a university in any country in which the primary language is English | Note: Letters from your universities stating the medium of instruction is English are not acceptable.",
+      "url": "https://graduate.carleton.ca/international/english-second-language/"
+    }
+  },
+  "notes": "PhD streams: Particle Physics and Medical Physics (CAMPEP-accredited), run jointly with uOttawa through the Ottawa-Carleton Institute for Physics. The department site (physics.carleton.ca) returned errors on every fetch, so supervisor and GRE policy could not be checked."
+}

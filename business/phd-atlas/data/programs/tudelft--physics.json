@@ -1,0 +1,78 @@
+{
+  "id": "tudelft--physics",
+  "university": "tudelft",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Faculty of Applied Sciences (TNW), applied physics departments",
+  "program_page": "https://www.tudelft.nl/en/faculty-of-applied-sciences/research/phd",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "No central deadline: apply to a specific advertised PhD position (each vacancy has its own deadline)",
+      "quote": "To become a PhD candidate you can apply to a specific PhD position that can be found on our vacancy website.",
+      "url": "https://www.tudelft.nl/en/education/programmes/phd/phd-admission",
+      "also": [
+        {
+          "quote": "If you are interested in a PhD project at the faculty of Applied Sciences, we advise you to keep a close eye on the vacancy website where the latest selection of PhD vacancies can be found.",
+          "url": "https://www.tudelft.nl/en/faculty-of-applied-sciences/research/phd"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://www.tudelft.nl/en/education/programmes/phd/phd-admission"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You apply to a specific position and are employed in your supervisor's department; the application process includes a conversation with the professor",
+      "quote": "Conversation with professor or mentor.",
+      "url": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/phd",
+      "also": [
+        {
+          "quote": "You are employed on a four-year contract at your supervisor’s department.",
+          "url": "https://www.tudelft.nl/en/education/programmes/phd/phd-admission/fees-and-funding"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Regular PhD positions are four-year employment contracts with a salary under the Dutch universities' collective labour agreement; if no position is available you must find your own scholarship or grant",
+      "quote": "Regular PhD position | You are employed on a four-year contract at your supervisor’s department. | If there are no PhD positions available in your area of interest, you will have to find your own funding.",
+      "url": "https://www.tudelft.nl/en/education/programmes/phd/phd-admission/fees-and-funding",
+      "also": [
+        {
+          "quote": "If you are accepted for a PhD vacancy you will receive a salary in accordance with the Collective Labour Agreement for Dutch universities",
+          "url": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/phd"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A Dutch master's degree or foreign equivalent in a field relevant to the PhD research",
+      "quote": "Have a Dutch master’s degree (or a foreign equivalent)",
+      "url": "https://www.tudelft.nl/en/education/programmes/phd/phd-admission",
+      "also": [
+        {
+          "quote": "You have completed a Master’s degree in one of the fields relevant to PhD research.",
+          "url": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/phd"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "TOEFL iBT 100 with at least 22 per section (tests before 21 Jan 2026) or 5 overall with 4.5 per section on the new scale; IELTS Academic 7.0 with 6.5 per section. Scores must be under two years old and are requested later in selection",
+      "quote": "TOEFL test reports obtained from January 21, 2026: A TOEFL iBT with an overall band score of 5 and a minimum score of 4.5 for each section. | TOEFL test reports obtained before January 21, 2026: A TOEFL iBT with an overall band score of at least 100 and a minimum score of 22 for each section. | An IELTS (academic version) with an overall band score of at least 7.0 and a minimum of 6.5 for each section | These test results must have been awarded within the last two years | You do not need to present the test results as part of your application; these results will be requested at a later stage during the selection procedure.",
+      "url": "https://www.tudelft.nl/en/education/programmes/phd/phd-admission"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "In principle exempt with an English-taught master's degree; if your English is judged insufficient during selection you may be asked to take a placement test at TU Delft",
+      "quote": "Native speakers will be exempt from the English test requirement, as well as, in principle, non-native applicants who have obtained an English-taught Master’s degree. | If during the selection process it is deemed that the English proficiency of the candidate with an English-taught Master’s degree does not meet the requirements, they may also be asked to do a placement test.",
+      "url": "https://www.tudelft.nl/en/education/programmes/phd/phd-admission"
+    }
+  },
+  "notes": "The Faculty of Applied Sciences (TNW) houses the applied-physics departments (e.g. Quantum Nanoscience, Imaging Physics, Radiation Science & Technology, Bionanoscience). TU Delft lists a PhD tuition fee of EUR 11,000 per PhD programme plus an annual bench fee. The bench fee is charged to the institute you work for, or to you if no institute funds you. Who pays is agreed at the start, and the faculty may waive either fee. Teaching is capped at 20% of the appointment."
+}

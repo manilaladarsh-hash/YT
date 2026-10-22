@@ -1,12 +1,21 @@
 {
-  "version": "1.2",
-  "description": "One record per program in data/programs/<id>.json. Every field holds a machine code (for filters), a human value, an exact quote from the source page and the source URL. Unknowns are recorded as 'Not stated' with an empty quote, never guessed.",
-  "required_top_level": [
+  "version": "2.0",
+  "description": "Two levels. data/universities/<uid>.json holds rules the graduate school sets once for every department (fees, waivers, GRE General, English tests). data/programs/<uid>--<field>.json holds one PhD program: deadline, subject GRE, supervisor, funding and entry route, plus optional overrides of any university field when the department states its own rule. The department value wins; an unstated department value falls back to the university value. Every field holds a code, a human value, an exact quote from the source page and the source URL. Unknowns are 'Not stated' with an empty quote, never guessed.",
+  "university_top_level": [
     "id",
     "institution",
-    "department",
     "country",
     "region",
+    "grad_page",
+    "checked",
+    "fields",
+    "notes"
+  ],
+  "program_top_level": [
+    "id",
+    "university",
+    "field",
+    "department",
     "program_page",
     "checked",
     "fields",
@@ -32,15 +41,7 @@
     "Australia",
     "New Zealand"
   ],
-  "fields": {
-    "deadline": {
-      "label": "Deadline (Fall 2027)",
-      "code": "ISO date YYYY-MM-DD, 'Rolling', 'Per position' or 'Not stated'",
-      "flags": [
-        "inferred",
-        "rolling"
-      ]
-    },
+  "university_fields": {
     "app_fee": {
       "label": "Application fee",
       "code": "'<amount> USD|CAD|GBP|EUR|CHF|SEK|DKK|NOK|AUD|NZD', '0 (waived)', '0 (no fee)' or 'Not stated'"
@@ -67,20 +68,13 @@
         "Not stated"
       ]
     },
-    "gre_physics": {
-      "label": "Physics GRE",
-      "enum": [
-        "Required",
-        "Recommended",
-        "Optional",
-        "Not required",
-        "Not considered",
-        "Not stated"
-      ]
-    },
     "toefl_min": {
       "label": "TOEFL minimum",
       "code": "integer on the 0-120 scale, '<n> (new scale)', 'Sections' or 'Not stated'"
+    },
+    "ielts_min": {
+      "label": "IELTS Academic minimum (overall)",
+      "code": "band like '6.5' or 'Not stated'"
     },
     "english_waiver": {
       "label": "English-test waiver for an English-medium Indian degree",
@@ -89,6 +83,27 @@
         "Conditional",
         "No",
         "Check tool",
+        "Not stated"
+      ]
+    }
+  },
+  "program_fields": {
+    "deadline": {
+      "label": "Deadline (Fall 2027)",
+      "code": "ISO date YYYY-MM-DD, 'Rolling', 'Per position' or 'Not stated'",
+      "flags": [
+        "inferred",
+        "rolling"
+      ]
+    },
+    "gre_subject": {
+      "label": "GRE Subject test (the field's own test, e.g. Physics, Chemistry, Mathematics)",
+      "enum": [
+        "Required",
+        "Recommended",
+        "Optional",
+        "Not required",
+        "Not considered",
         "Not stated"
       ]
     },

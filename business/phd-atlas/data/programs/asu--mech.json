@@ -1,0 +1,62 @@
+{
+  "id": "asu--mech",
+  "university": "asu",
+  "field": "mech",
+  "also_fields": [],
+  "department": "School for Engineering of Matter, Transport and Energy",
+  "program_page": "https://degrees.asu.edu/masters-phd/major/ASU00/ESMEPHD/mechanical-engineering-phd",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Priority deadline December 1, 2026 for fall (spring: August 1); later applications are reviewed on a space-available basis.",
+      "quote": "Fall Session Modality Deadline Type Session A/C In Person 12/01 Priority*",
+      "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESMEPHD/mechanical-engineering-phd",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The Fulton Schools of Engineering say the GRE is required for PhD programs (the program page itself does not list it); at-home GRE not accepted.",
+      "quote": "GRE is required for PHD programs.",
+      "url": "https://engineering.asu.edu/degrees/graduate/admission/",
+      "also": [
+        {
+          "quote": "and high GRE and TOEFL scores",
+          "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESAERSPPHD/aerospace-engineering-phd"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Engineering has no GRE Subject test; nothing stated.",
+      "quote": "",
+      "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESMEPHD/mechanical-engineering-phd"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The program pages do not say whether you need a faculty advisor before admission.",
+      "quote": "",
+      "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESMEPHD/mechanical-engineering-phd"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Funding is not described on the program page; admission is highly competitive.",
+      "quote": "",
+      "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESMEPHD/mechanical-engineering-phd"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's or master's qualifies; preferred backgrounds are aerospace or mechanical engineering, with GPA 3.25+.",
+      "quote": "Applicants must have earned a bachelor's or master's degree from an accredited U.S. or international institution.",
+      "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESMEPHD/mechanical-engineering-phd",
+      "also": [
+        {
+          "quote": "Admission to the mechanical engineering doctoral program is highly competitive, and preferred applicants have an undergraduate or Master of Science degree in aerospace engineering or mechanical engineering.",
+          "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESMEPHD/mechanical-engineering-phd"
+        }
+      ]
+    }
+  },
+  "notes": "Separate Mechanical and Aerospace Engineering PhDs share the same December 1 priority deadline and 3.25 GPA minimum.",
+  "name": "Mechanical Engineering PhD / Aerospace Engineering PhD"
+}

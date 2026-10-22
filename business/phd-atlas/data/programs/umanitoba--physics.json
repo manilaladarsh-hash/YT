@@ -1,0 +1,73 @@
+{
+  "id": "umanitoba--physics",
+  "university": "umanitoba",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics and Astronomy",
+  "program_page": "https://umanitoba.ca/explore/programs-of-study/physics-phd",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-08",
+      "value": "International applicants: January 8 for Fall (September) entry; applications reviewed on a rolling basis (Canadian/US: May 15). Taken from the Physics block of the program page's deadline widget; year inferred for Fall 2027.",
+      "quote": "Applications are reviewed on a rolling basis. | International applicants | Annual application deadlines | Fall (September) | January 8 | Winter (January) | March 30 | Summer (May) | August 1",
+      "url": "https://umanitoba.ca/explore/programs-of-study/physics-phd",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "Physics GRE preferred for PhD applicants but not mandatory; ask potential advisors about their preference",
+      "quote": "GRE physics subject test score for PhD applicants is preferred but not mandatory; please inquire with potential advisors about their preference.",
+      "url": "https://umanitoba.ca/science/physics-and-astronomy/graduate-programs-application-info"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Department cannot admit without a formal advisor commitment; contact a prospective advisor (via the associate head) before applying, and name your preferred supervisor in the application",
+      "quote": "The Department of Physics and Astronomy cannot admit graduate students without the formal commitment of an advisor. | Direct application to the Faculty of Graduate and Postdoctoral Studies without prior contact with a potential advisor may not succeed and will result in the loss of the application fee",
+      "url": "https://umanitoba.ca/science/physics-and-astronomy/graduate-programs-application-info",
+      "also": [
+        {
+          "quote": "The name of your preferred supervisor is required at time of application.",
+          "url": "https://umanitoba.ca/explore/programs-of-study/physics-phd"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All students admitted to research-based graduate programs are guaranteed a department-set minimum stipend; 2026-27 PhD stipends CAD 27,000 (grant funded) to 40,000 (NSERC), excluding up to CAD 3,000 TA income",
+      "quote": "All students who are accepted into a research-based graduate program are guaranteed a basic minimum stipend, which is set by the department on an annual basis. | Grant funded | $ 27,000",
+      "url": "https://umanitoba.ca/science/student-experience/financial-aid-awards/physics-and-astronomy"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "PhD normally requires a master's; exceptional honours-bachelor's applicants may be considered on special department recommendation; master's students can transfer",
+      "quote": "A master's degree or equivalent from a recognized university with a cumulative GPA of 3.0 in the last two years of full-time university study",
+      "url": "https://umanitoba.ca/explore/programs-of-study/physics-phd",
+      "also": [
+        {
+          "quote": "With special recommendation of the department, exceptional applicants with an honours bachelor’s degree may be considered for entry to PhD study.",
+          "url": "https://umanitoba.ca/graduate-studies/graduate-student-admissions/requirements"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "130 CAD",
+      "value": "International applicants CAD 130 (domestic CAD 100), non-refundable",
+      "quote": "International student application fee: $130 CDN | The application fee is non-refundable.",
+      "url": "https://umanitoba.ca/graduate-studies/graduate-student-admissions/apply-graduate-studies"
+    },
+    "toefl_min": {
+      "code": "86",
+      "value": "TOEFL iBT 86 overall with 20 in each section (tests to Jan 20, 2026); 4.5 overall with 4.0 per section on the new scale; IELTS 6.5; Duolingo 120",
+      "quote": "For tests taken up to January 20, 2026: | Overall score of 86 | 20 in Reading | For tests taken on or after January 21, 2026: | Overall score of 4.5",
+      "url": "https://umanitoba.ca/graduate-studies/graduate-student-admissions/requirements"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Exemption only for degrees/diplomas from Canada or listed countries; India is not on the exemption list",
+      "quote": "Applicants holding secondary school diplomas and/or university degrees from the following countries are exempt from the English Language Proficiency Test requirement.",
+      "url": "https://umanitoba.ca/graduate-studies/graduate-student-admissions/requirements"
+    }
+  },
+  "notes": "Program listed as Physics and Astronomy (PhD); Medical and Health Physics PhD is a stream. Applying without prior advisor contact can forfeit the fee. All scholarships except NSERC are open to international students."
+}

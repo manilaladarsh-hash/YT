@@ -1,0 +1,50 @@
+{
+  "id": "heidelberg--physics",
+  "university": "heidelberg",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Heidelberg Graduate School for Physics (HGSFP)",
+  "program_page": "https://hgsfp.physik.uni-heidelberg.de/howtoapply#start",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-01",
+      "value": "Application portal deadline November 1 (for international students and anyone without prior funding). Year inferred: Nov 1, 2026.",
+      "quote": "To application portal (Deadline 1 November)",
+      "url": "https://hgsfp.physik.uni-heidelberg.de/howtoapply#start",
+      "inferred": "year",
+      "time_sensitive": "2026-11-01"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://hgsfp.physik.uni-heidelberg.de/howtoapply/admissionrequirements#start"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Two routes: the web portal (international students, or anyone without funding) or direct application with an advisor and funding already arranged",
+      "quote": "apply either through our webportal (for international students) and anyone without prior financial support) or directly, using the forms from the forms section (if you already have an advisor and financial support through them.",
+      "url": "https://hgsfp.physik.uni-heidelberg.de/howtoapply#start"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The portal route is for applicants without prior financial support; funding terms are not stated on the pages checked",
+      "quote": "apply either through our webportal (for international students) and anyone without prior financial support)",
+      "url": "https://hgsfp.physik.uni-heidelberg.de/howtoapply#start"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Master's in physics normally required (German grade 2.0, about B+). Exceptional candidates with 4 years of physics can enter an integrated 4+4 master/doctoral track",
+      "quote": "the usual requirement is that students must have obtained the minimum of a Master´s degree in Physics or equivalent.",
+      "url": "https://hgsfp.physik.uni-heidelberg.de/howtoapply/admissionrequirements#start",
+      "also": [
+        {
+          "quote": "Excellent candidates who have completed four years of study in physics can be admitted to the integrated master/doctoral (4+4) programme of the HGSFP",
+          "url": "https://hgsfp.physik.uni-heidelberg.de/howtoapply/integratedmasterdoctoral#start"
+        }
+      ]
+    }
+  },
+  "notes": "Degree awarded: Dr. rer. nat."
+}

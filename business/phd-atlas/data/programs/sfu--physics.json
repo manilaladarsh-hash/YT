@@ -1,0 +1,56 @@
+{
+  "id": "sfu--physics",
+  "university": "sfu",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://www.sfu.ca/physics/graduate/prospective/applying.html",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Apply before January 15 (better chance at desired group and awards); system open until May 31. Year inferred.",
+      "quote": "Applicants are encouraged to apply before January 15, though the admission system remains open until May 31.",
+      "url": "https://www.sfu.ca/physics/graduate/prospective/applying.html",
+      "inferred": "year",
+      "rolling": true
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.sfu.ca/physics/graduate/prospective/applying.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated in the text checked; transfers need supervisory committee approval",
+      "quote": "",
+      "url": "https://www.sfu.ca/physics/graduate/prospective/applying.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.sfu.ca/physics/graduate/prospective/applying.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Master's or equivalent required; BSc holders cannot apply directly but can transfer from the MSc",
+      "quote": "A master's degree, or the equivalent is required. | Note that BSc degree-holders may not apply directly to the PhD program, but may apply for transfer to the PhD program without completing an MSc degree.",
+      "url": "https://www.sfu.ca/physics/graduate/prospective/admission-requirements.html"
+    },
+    "app_fee": {
+      "code": "150 CAD",
+      "value": "CAD 150 with international transcripts (CAD 110 Canadian)",
+      "quote": "A fee of $110 CDN (for students with Canadian transcripts) or $150 CDN (for students with international transcripts) will apply.",
+      "url": "https://www.sfu.ca/physics/graduate/prospective/applying.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Exempt only if BOTH: degree taught and examined in English AND institution in an English-primary country (list linked); otherwise submit scores",
+      "quote": "International applicants are exempt from providing English test scores if both of the following conditions are met: They have completed a post-secondary degree at an institution where the language of instruction and examination was in English. That the institution was located in a country where English is the primary language (including Canada).",
+      "url": "https://www.sfu.ca/physics/graduate/prospective/admission-requirements.html"
+    }
+  },
+  "notes": "PhD starts possible in September, January or May."
+}

@@ -1,0 +1,62 @@
+{
+  "id": "asu--astronomy",
+  "university": "asu",
+  "field": "astronomy",
+  "also_fields": [],
+  "department": "School of Earth and Space Exploration",
+  "program_page": "https://degrees.asu.edu/masters-phd/major/ASU00/LAASTPHPHD/astrophysics-phd",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026 for full funding consideration (fall); late applications are possible at lower funding priority.",
+      "quote": "For full consideration of funding and campus recruitment activities, the following application dates apply. | December 1 of the previous year for fall admission (late applications are possible).",
+      "url": "https://sese.asu.edu/admission/graduate-admission",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "SESE no longer requires the GRE.",
+      "quote": "The School of Earth and Space Exploration no longer requires applicants to take the GRE.",
+      "url": "https://sese.asu.edu/admission/graduate-admission"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE of any kind is required by SESE.",
+      "quote": "The School of Earth and Space Exploration no longer requires applicants to take the GRE.",
+      "url": "https://sese.asu.edu/admission/graduate-admission"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "A limited number of need-based fee waivers may be available for fall admission via a request form.",
+      "quote": "A limited number of application fee waivers may be available for fall admission to students with financial need.",
+      "url": "https://sese.asu.edu/admission/graduate-admission"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Contact potential faculty advisors before applying and name them on the application; spring applicants must contact advisors first.",
+      "quote": "Prior to the application deadline, applicants are strongly encouraged to contact potential faculty advisors to discuss research interests and to explore research opportunities.",
+      "url": "https://sese.asu.edu/admission/graduate-admission"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most admitted PhD students get a GRA or GTA, typically for up to five years (stipend about USD 24,586 per 9 months).",
+      "quote": "The majority of students admitted to a School of Earth and Space Exploration research‑based graduate program (MS or PhD in Astrophysics, MS or PhD in Geological Sciences, and PhD in Exploration Systems Design) are offered financial support through graduate assistantships. | PhD students typically receive up to five years of funding",
+      "url": "https://sese.asu.edu/student-life/financial-support"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's or master's in any field qualifies; a 3-year bachelor's needs one year of graduate study.",
+      "quote": "Applicants must have earned a bachelor's or master's degree in any field from a regionally accredited institution.",
+      "url": "https://degrees.asu.edu/masters-phd/major/ASU00/LAASTPHPHD/astrophysics-phd",
+      "also": [
+        {
+          "quote": "Students who complete a 3-year bachelor’s degree are required to show proof of 1-year of graduate studies to be eligible for admission to ASU.",
+          "url": "https://sese.asu.edu/admission/graduate-admission"
+        }
+      ]
+    }
+  },
+  "notes": "The degree page lists a 12/01 priority deadline. TA candidates need TOEFL speaking 26 or IELTS speaking 8, or extra English assessment.",
+  "name": "Astrophysics PhD"
+}

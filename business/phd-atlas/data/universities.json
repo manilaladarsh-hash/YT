@@ -1,0 +1,1789 @@
+{
+ "description": "Frozen university list for the STEM PhD Atlas 2027. kind=school marks a physics-only graduate school or institute. wave: 0 = had physics data in v1.2, 2 = new.",
+ "remap_v1": {
+  "padova-physics": "padova",
+  "paris-saclay-physics": "paris-saclay",
+  "tcd-physics": "tcd",
+  "icfo-phd": "icfo",
+  "sissa-cm": "sissa",
+  "nbi-copenhagen": "ucph"
+ },
+ "universities": [
+  {
+   "id": "adelaide",
+   "name": "Adelaide University",
+   "country": "Australia",
+   "region": "South Australia",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "anu",
+   "name": "Australian National University",
+   "country": "Australia",
+   "region": "ACT",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "macquarie",
+   "name": "Macquarie University",
+   "country": "Australia",
+   "region": "New South Wales",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "monash",
+   "name": "Monash University",
+   "country": "Australia",
+   "region": "Victoria",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "qut",
+   "name": "Queensland University of Technology",
+   "country": "Australia",
+   "region": "Queensland",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "unimelb",
+   "name": "University of Melbourne",
+   "country": "Australia",
+   "region": "Victoria",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "unsw",
+   "name": "UNSW Sydney",
+   "country": "Australia",
+   "region": "New South Wales",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "uq",
+   "name": "University of Queensland",
+   "country": "Australia",
+   "region": "Queensland",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "usyd",
+   "name": "University of Sydney",
+   "country": "Australia",
+   "region": "New South Wales",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "uts",
+   "name": "University of Technology Sydney",
+   "country": "Australia",
+   "region": "New South Wales",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "uwa",
+   "name": "University of Western Australia",
+   "country": "Australia",
+   "region": "Western Australia",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "ista",
+   "name": "Institute of Science and Technology Austria (ISTA)",
+   "country": "Austria",
+   "region": "Lower Austria",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "tuwien",
+   "name": "TU Wien",
+   "country": "Austria",
+   "region": "Vienna",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "univie",
+   "name": "University of Vienna",
+   "country": "Austria",
+   "region": "Vienna",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "kuleuven",
+   "name": "KU Leuven",
+   "country": "Belgium",
+   "region": "Flemish Brabant",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "ugent",
+   "name": "Ghent University",
+   "country": "Belgium",
+   "region": "East Flanders",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "calgary",
+   "name": "University of Calgary",
+   "country": "Canada",
+   "region": "Alberta",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "carleton",
+   "name": "Carleton University",
+   "country": "Canada",
+   "region": "Ontario",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "concordia",
+   "name": "Concordia University",
+   "country": "Canada",
+   "region": "Quebec",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "dalhousie",
+   "name": "Dalhousie University",
+   "country": "Canada",
+   "region": "Nova Scotia",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "guelph",
+   "name": "University of Guelph",
+   "country": "Canada",
+   "region": "Ontario",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "mcgill",
+   "name": "McGill University",
+   "country": "Canada",
+   "region": "Quebec",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "mcmaster",
+   "name": "McMaster University",
+   "country": "Canada",
+   "region": "Ontario",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "mun",
+   "name": "Memorial University of Newfoundland",
+   "country": "Canada",
+   "region": "Newfoundland and Labrador",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "queens",
+   "name": "Queen's University",
+   "country": "Canada",
+   "region": "Ontario",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "sfu",
+   "name": "Simon Fraser University",
+   "country": "Canada",
+   "region": "British Columbia",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "ualberta",
+   "name": "University of Alberta",
+   "country": "Canada",
+   "region": "Alberta",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "ubc",
+   "name": "University of British Columbia (Vancouver)",
+   "country": "Canada",
+   "region": "British Columbia",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "umanitoba",
+   "name": "University of Manitoba",
+   "country": "Canada",
+   "region": "Manitoba",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "umontreal",
+   "name": "Université de Montréal",
+   "country": "Canada",
+   "region": "Quebec",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "uottawa",
+   "name": "University of Ottawa (Ottawa-Carleton Institute for Physics)",
+   "country": "Canada",
+   "region": "Ontario",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "usask",
+   "name": "University of Saskatchewan",
+   "country": "Canada",
+   "region": "Saskatchewan",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "utoronto",
+   "name": "University of Toronto",
+   "country": "Canada",
+   "region": "Ontario",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "uvic",
+   "name": "University of Victoria",
+   "country": "Canada",
+   "region": "British Columbia",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "waterloo",
+   "name": "University of Waterloo",
+   "country": "Canada",
+   "region": "Ontario",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "western",
+   "name": "Western University",
+   "country": "Canada",
+   "region": "Ontario",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "yorku",
+   "name": "York University",
+   "country": "Canada",
+   "region": "Ontario",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "aarhus",
+   "name": "Aarhus University",
+   "country": "Denmark",
+   "region": "Central Denmark",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "dtu",
+   "name": "Technical University of Denmark (DTU)",
+   "country": "Denmark",
+   "region": "Capital Region",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "ucph",
+   "name": "University of Copenhagen",
+   "country": "Denmark",
+   "region": "Capital Region",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "aalto",
+   "name": "Aalto University",
+   "country": "Finland",
+   "region": "Uusimaa (Espoo)",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "helsinki",
+   "name": "University of Helsinki",
+   "country": "Finland",
+   "region": "Uusimaa",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "ipparis",
+   "name": "Institut Polytechnique de Paris",
+   "country": "France",
+   "region": "Île-de-France",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "paris-saclay",
+   "name": "Université Paris-Saclay",
+   "country": "France",
+   "region": "Île-de-France (Saclay/Orsay)",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "sorbonne",
+   "name": "Sorbonne Université",
+   "country": "France",
+   "region": "Île-de-France",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "uga-fr",
+   "name": "Université Grenoble Alpes",
+   "country": "France",
+   "region": "Auvergne-Rhône-Alpes",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "bonn-cologne",
+   "name": "Universities of Bonn and Cologne",
+   "country": "Germany",
+   "region": "North Rhine-Westphalia",
+   "kind": "school",
+   "wave": 0
+  },
+  {
+   "id": "freiburg",
+   "name": "University of Freiburg",
+   "country": "Germany",
+   "region": "Baden-Württemberg",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "fuberlin",
+   "name": "Freie Universität Berlin",
+   "country": "Germany",
+   "region": "Berlin",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "goettingen",
+   "name": "University of Göttingen",
+   "country": "Germany",
+   "region": "Lower Saxony",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "hamburg",
+   "name": "University of Hamburg",
+   "country": "Germany",
+   "region": "Hamburg",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "heidelberg",
+   "name": "Heidelberg University",
+   "country": "Germany",
+   "region": "Baden-Württemberg",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "imprs-cpqm",
+   "name": "Max Planck Institute for Chemical Physics of Solids (MPI CPfS) and TU Dresden",
+   "country": "Germany",
+   "region": "Saxony",
+   "kind": "school",
+   "wave": 0
+  },
+  {
+   "id": "imprs-hd",
+   "name": "Heidelberg University and Max Planck Institute for Astronomy (MPIA)",
+   "country": "Germany",
+   "region": "Baden-Württemberg",
+   "kind": "school",
+   "wave": 0
+  },
+  {
+   "id": "imprs-qd",
+   "name": "Max Planck Institute for Nuclear Physics (MPIK) and Heidelberg University",
+   "country": "Germany",
+   "region": "Baden-Württemberg",
+   "kind": "school",
+   "wave": 0
+  },
+  {
+   "id": "imprs-solar",
+   "name": "Max Planck Institute for Solar System Research (MPS), with University of Göttingen and TU Braunschweig",
+   "country": "Germany",
+   "region": "Lower Saxony",
+   "kind": "school",
+   "wave": 0
+  },
+  {
+   "id": "kit",
+   "name": "Karlsruhe Institute of Technology (KIT)",
+   "country": "Germany",
+   "region": "Baden-Württemberg",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "lmu",
+   "name": "LMU Munich",
+   "country": "Germany",
+   "region": "Bavaria",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "mps-mattertolife",
+   "name": "Max Planck Schools (Heidelberg University and University of Göttingen)",
+   "country": "Germany",
+   "region": "Baden-Württemberg and Lower Saxony",
+   "kind": "school",
+   "wave": 0
+  },
+  {
+   "id": "mps-photonics",
+   "name": "Max Planck Schools (Jena, Erlangen and Karlsruhe network)",
+   "country": "Germany",
+   "region": "Thuringia, Bavaria and Baden-Württemberg (network)",
+   "kind": "school",
+   "wave": 0
+  },
+  {
+   "id": "munich-mcqst",
+   "name": "LMU / TUM / Max Planck (Munich)",
+   "country": "Germany",
+   "region": "Bavaria (Munich)",
+   "kind": "school",
+   "wave": 0
+  },
+  {
+   "id": "rwth",
+   "name": "RWTH Aachen University",
+   "country": "Germany",
+   "region": "North Rhine-Westphalia",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "stuttgart",
+   "name": "University of Stuttgart",
+   "country": "Germany",
+   "region": "Baden-Württemberg",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "tuberlin",
+   "name": "Technische Universität Berlin",
+   "country": "Germany",
+   "region": "Berlin",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "tudresden",
+   "name": "TU Dresden",
+   "country": "Germany",
+   "region": "Saxony",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "tuebingen",
+   "name": "University of Tübingen",
+   "country": "Germany",
+   "region": "Baden-Württemberg",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "tum",
+   "name": "Technical University of Munich (TUM)",
+   "country": "Germany",
+   "region": "Bavaria",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "tcd",
+   "name": "Trinity College Dublin",
+   "country": "Ireland",
+   "region": "Leinster (Dublin)",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "ucd",
+   "name": "University College Dublin",
+   "country": "Ireland",
+   "region": "Leinster",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "padova",
+   "name": "University of Padova",
+   "country": "Italy",
+   "region": "Veneto (Padua)",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "polimi",
+   "name": "Politecnico di Milano",
+   "country": "Italy",
+   "region": "Lombardy",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "polito",
+   "name": "Politecnico di Torino",
+   "country": "Italy",
+   "region": "Piedmont",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "sissa",
+   "name": "SISSA (Trieste)",
+   "country": "Italy",
+   "region": "Friuli-Venezia Giulia (Trieste)",
+   "kind": "school",
+   "wave": 0
+  },
+  {
+   "id": "unibo",
+   "name": "University of Bologna",
+   "country": "Italy",
+   "region": "Emilia-Romagna",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "groningen",
+   "name": "University of Groningen",
+   "country": "Netherlands",
+   "region": "Groningen",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "leiden",
+   "name": "Leiden University",
+   "country": "Netherlands",
+   "region": "South Holland (Leiden)",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "tudelft",
+   "name": "Delft University of Technology",
+   "country": "Netherlands",
+   "region": "South Holland (Delft)",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "tue",
+   "name": "Eindhoven University of Technology",
+   "country": "Netherlands",
+   "region": "North Brabant",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "twente",
+   "name": "University of Twente",
+   "country": "Netherlands",
+   "region": "Overijssel",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "utrecht",
+   "name": "Utrecht University",
+   "country": "Netherlands",
+   "region": "Utrecht",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "uva",
+   "name": "University of Amsterdam",
+   "country": "Netherlands",
+   "region": "North Holland (Amsterdam)",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "wur",
+   "name": "Wageningen University & Research",
+   "country": "Netherlands",
+   "region": "Gelderland",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "auckland",
+   "name": "University of Auckland",
+   "country": "New Zealand",
+   "region": "Auckland",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "canterbury-nz",
+   "name": "University of Canterbury",
+   "country": "New Zealand",
+   "region": "Canterbury",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "otago",
+   "name": "University of Otago",
+   "country": "New Zealand",
+   "region": "Otago",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "vuw",
+   "name": "Victoria University of Wellington",
+   "country": "New Zealand",
+   "region": "Wellington",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "ntnu",
+   "name": "Norwegian University of Science and Technology (NTNU)",
+   "country": "Norway",
+   "region": "Trøndelag",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "uio",
+   "name": "University of Oslo",
+   "country": "Norway",
+   "region": "Oslo",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "icfo",
+   "name": "ICFO – The Institute of Photonic Sciences",
+   "country": "Spain",
+   "region": "Catalonia (Castelldefels, Barcelona)",
+   "kind": "school",
+   "wave": 0
+  },
+  {
+   "id": "upc",
+   "name": "Universitat Politècnica de Catalunya (UPC)",
+   "country": "Spain",
+   "region": "Catalonia",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "chalmers",
+   "name": "Chalmers University of Technology",
+   "country": "Sweden",
+   "region": "Västra Götaland (Gothenburg)",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "kth",
+   "name": "KTH Royal Institute of Technology",
+   "country": "Sweden",
+   "region": "Stockholm",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "lund",
+   "name": "Lund University",
+   "country": "Sweden",
+   "region": "Skåne",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "stockholm",
+   "name": "Stockholm University",
+   "country": "Sweden",
+   "region": "Stockholm",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "uppsala",
+   "name": "Uppsala University",
+   "country": "Sweden",
+   "region": "Uppsala",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "epfl",
+   "name": "EPFL (École polytechnique fédérale de Lausanne)",
+   "country": "Switzerland",
+   "region": "Vaud (Lausanne)",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "ethz",
+   "name": "ETH Zurich",
+   "country": "Switzerland",
+   "region": "Zurich",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "unibas",
+   "name": "University of Basel",
+   "country": "Switzerland",
+   "region": "Basel",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "unibe",
+   "name": "University of Bern",
+   "country": "Switzerland",
+   "region": "Bern",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "unige",
+   "name": "University of Geneva",
+   "country": "Switzerland",
+   "region": "Geneva",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "uzh",
+   "name": "University of Zurich (UZH)",
+   "country": "Switzerland",
+   "region": "Zurich",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "arizona",
+   "name": "University of Arizona",
+   "country": "USA",
+   "region": "Arizona",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "asu",
+   "name": "Arizona State University",
+   "country": "USA",
+   "region": "Arizona",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "berkeley",
+   "name": "University of California, Berkeley",
+   "country": "USA",
+   "region": "California",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "binghamton",
+   "name": "Binghamton University (SUNY)",
+   "country": "USA",
+   "region": "New York",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "bostonu",
+   "name": "Boston University",
+   "country": "USA",
+   "region": "Massachusetts",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "brown",
+   "name": "Brown University",
+   "country": "USA",
+   "region": "Rhode Island",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "buffalo",
+   "name": "University at Buffalo (SUNY)",
+   "country": "USA",
+   "region": "New York",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "caltech",
+   "name": "California Institute of Technology",
+   "country": "USA",
+   "region": "California",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "clemson",
+   "name": "Clemson University",
+   "country": "USA",
+   "region": "South Carolina",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "cmu",
+   "name": "Carnegie Mellon University",
+   "country": "USA",
+   "region": "Pennsylvania",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "colostate",
+   "name": "Colorado State University",
+   "country": "USA",
+   "region": "Colorado",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "columbia",
+   "name": "Columbia University",
+   "country": "USA",
+   "region": "New York",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "cornell",
+   "name": "Cornell University",
+   "country": "USA",
+   "region": "New York",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "cuboulder",
+   "name": "University of Colorado Boulder",
+   "country": "USA",
+   "region": "Colorado",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "cwru",
+   "name": "Case Western Reserve University",
+   "country": "USA",
+   "region": "Ohio",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "dartmouth",
+   "name": "Dartmouth College",
+   "country": "USA",
+   "region": "New Hampshire",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "drexel",
+   "name": "Drexel University",
+   "country": "USA",
+   "region": "Pennsylvania",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "duke",
+   "name": "Duke University",
+   "country": "USA",
+   "region": "North Carolina",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "emory",
+   "name": "Emory University",
+   "country": "USA",
+   "region": "Georgia",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "fsu",
+   "name": "Florida State University",
+   "country": "USA",
+   "region": "Florida",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "georgiatech",
+   "name": "Georgia Institute of Technology",
+   "country": "USA",
+   "region": "Georgia",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "harvard",
+   "name": "Harvard University",
+   "country": "USA",
+   "region": "Massachusetts",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "iastate",
+   "name": "Iowa State University",
+   "country": "USA",
+   "region": "Iowa",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "iub",
+   "name": "Indiana University Bloomington",
+   "country": "USA",
+   "region": "Indiana",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "jhu",
+   "name": "Johns Hopkins University",
+   "country": "USA",
+   "region": "Maryland",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "lsu",
+   "name": "Louisiana State University",
+   "country": "USA",
+   "region": "Louisiana",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "maryland",
+   "name": "University of Maryland, College Park",
+   "country": "USA",
+   "region": "Maryland",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "mines",
+   "name": "Colorado School of Mines",
+   "country": "USA",
+   "region": "Colorado",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "minnesota",
+   "name": "University of Minnesota (Twin Cities)",
+   "country": "USA",
+   "region": "Minnesota",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "mit",
+   "name": "Massachusetts Institute of Technology",
+   "country": "USA",
+   "region": "Massachusetts",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "msu",
+   "name": "Michigan State University",
+   "country": "USA",
+   "region": "Michigan",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "ncsu",
+   "name": "North Carolina State University",
+   "country": "USA",
+   "region": "North Carolina",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "njit",
+   "name": "New Jersey Institute of Technology",
+   "country": "USA",
+   "region": "New Jersey",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "northeastern",
+   "name": "Northeastern University",
+   "country": "USA",
+   "region": "Massachusetts",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "northwestern",
+   "name": "Northwestern University",
+   "country": "USA",
+   "region": "Illinois",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "notredame",
+   "name": "University of Notre Dame",
+   "country": "USA",
+   "region": "Indiana",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "nyu",
+   "name": "New York University",
+   "country": "USA",
+   "region": "New York",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "ohiostate",
+   "name": "The Ohio State University",
+   "country": "USA",
+   "region": "Ohio",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "oregonstate",
+   "name": "Oregon State University",
+   "country": "USA",
+   "region": "Oregon",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "pennstate",
+   "name": "Penn State University (University Park)",
+   "country": "USA",
+   "region": "Pennsylvania",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "pitt",
+   "name": "University of Pittsburgh",
+   "country": "USA",
+   "region": "Pennsylvania",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "princeton",
+   "name": "Princeton University",
+   "country": "USA",
+   "region": "New Jersey",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "purdue",
+   "name": "Purdue University (West Lafayette)",
+   "country": "USA",
+   "region": "Indiana",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "rice",
+   "name": "Rice University",
+   "country": "USA",
+   "region": "Texas",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "rochester",
+   "name": "University of Rochester",
+   "country": "USA",
+   "region": "New York",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "rpi",
+   "name": "Rensselaer Polytechnic Institute",
+   "country": "USA",
+   "region": "New York",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "rutgers",
+   "name": "Rutgers University (New Brunswick)",
+   "country": "USA",
+   "region": "New Jersey",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "stanford",
+   "name": "Stanford University",
+   "country": "USA",
+   "region": "California",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "stonybrook",
+   "name": "Stony Brook University (SUNY)",
+   "country": "USA",
+   "region": "New York",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "syracuse",
+   "name": "Syracuse University",
+   "country": "USA",
+   "region": "New York",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "tamu",
+   "name": "Texas A&M University",
+   "country": "USA",
+   "region": "Texas",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "temple",
+   "name": "Temple University",
+   "country": "USA",
+   "region": "Pennsylvania",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "tufts",
+   "name": "Tufts University",
+   "country": "USA",
+   "region": "Massachusetts",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "ucdavis",
+   "name": "University of California, Davis",
+   "country": "USA",
+   "region": "California",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "ucf",
+   "name": "University of Central Florida",
+   "country": "USA",
+   "region": "Florida",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "uchicago",
+   "name": "University of Chicago",
+   "country": "USA",
+   "region": "Illinois",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "uci",
+   "name": "University of California, Irvine",
+   "country": "USA",
+   "region": "California",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "ucla",
+   "name": "University of California, Los Angeles",
+   "country": "USA",
+   "region": "California",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "uconn",
+   "name": "University of Connecticut",
+   "country": "USA",
+   "region": "Connecticut",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "ucr",
+   "name": "University of California, Riverside",
+   "country": "USA",
+   "region": "California",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "ucsb",
+   "name": "University of California, Santa Barbara",
+   "country": "USA",
+   "region": "California",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "ucsc",
+   "name": "University of California, Santa Cruz",
+   "country": "USA",
+   "region": "California",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "ucsd",
+   "name": "University of California, San Diego",
+   "country": "USA",
+   "region": "California",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "ufl",
+   "name": "University of Florida",
+   "country": "USA",
+   "region": "Florida",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "uga",
+   "name": "University of Georgia",
+   "country": "USA",
+   "region": "Georgia",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "uhouston",
+   "name": "University of Houston",
+   "country": "USA",
+   "region": "Texas",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "uic",
+   "name": "University of Illinois Chicago",
+   "country": "USA",
+   "region": "Illinois",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "uiowa",
+   "name": "University of Iowa",
+   "country": "USA",
+   "region": "Iowa",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "uiuc",
+   "name": "University of Illinois Urbana-Champaign",
+   "country": "USA",
+   "region": "Illinois",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "umass",
+   "name": "University of Massachusetts Amherst",
+   "country": "USA",
+   "region": "Massachusetts",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "umich",
+   "name": "University of Michigan",
+   "country": "USA",
+   "region": "Michigan",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "unc",
+   "name": "University of North Carolina at Chapel Hill",
+   "country": "USA",
+   "region": "North Carolina",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "unm",
+   "name": "University of New Mexico",
+   "country": "USA",
+   "region": "New Mexico",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "uoregon",
+   "name": "University of Oregon",
+   "country": "USA",
+   "region": "Oregon",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "upenn",
+   "name": "University of Pennsylvania",
+   "country": "USA",
+   "region": "Pennsylvania",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "usc",
+   "name": "University of Southern California",
+   "country": "USA",
+   "region": "California",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "utah",
+   "name": "University of Utah",
+   "country": "USA",
+   "region": "Utah",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "utaustin",
+   "name": "University of Texas at Austin",
+   "country": "USA",
+   "region": "Texas",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "utdallas",
+   "name": "University of Texas at Dallas",
+   "country": "USA",
+   "region": "Texas",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "utk",
+   "name": "University of Tennessee, Knoxville",
+   "country": "USA",
+   "region": "Tennessee",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "uwashington",
+   "name": "University of Washington (Seattle)",
+   "country": "USA",
+   "region": "Washington",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "vanderbilt",
+   "name": "Vanderbilt University",
+   "country": "USA",
+   "region": "Tennessee",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "virginia",
+   "name": "University of Virginia",
+   "country": "USA",
+   "region": "Virginia",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "virginiatech",
+   "name": "Virginia Tech",
+   "country": "USA",
+   "region": "Virginia",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "washu",
+   "name": "Washington University in St. Louis",
+   "country": "USA",
+   "region": "Missouri",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "wisconsin",
+   "name": "University of Wisconsin-Madison",
+   "country": "USA",
+   "region": "Wisconsin",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "wsu",
+   "name": "Washington State University",
+   "country": "USA",
+   "region": "Washington",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "yale",
+   "name": "Yale University",
+   "country": "USA",
+   "region": "Connecticut",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "aberdeen",
+   "name": "University of Aberdeen",
+   "country": "United Kingdom",
+   "region": "Scotland",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "bath",
+   "name": "University of Bath",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "birmingham",
+   "name": "University of Birmingham",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "bristol",
+   "name": "University of Bristol",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "cambridge",
+   "name": "University of Cambridge",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "cardiff",
+   "name": "Cardiff University",
+   "country": "United Kingdom",
+   "region": "Wales",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "durham",
+   "name": "Durham University",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "edinburgh",
+   "name": "University of Edinburgh",
+   "country": "United Kingdom",
+   "region": "Scotland",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "exeter",
+   "name": "University of Exeter",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "glasgow",
+   "name": "University of Glasgow",
+   "country": "United Kingdom",
+   "region": "Scotland",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "heriotwatt",
+   "name": "Heriot-Watt University",
+   "country": "United Kingdom",
+   "region": "Scotland",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "imperial",
+   "name": "Imperial College London",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "kcl",
+   "name": "King's College London",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "lancaster",
+   "name": "Lancaster University",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "leeds",
+   "name": "University of Leeds",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "liverpool",
+   "name": "University of Liverpool",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "loughborough",
+   "name": "Loughborough University",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "manchester",
+   "name": "University of Manchester",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "newcastle",
+   "name": "Newcastle University",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "nottingham",
+   "name": "University of Nottingham",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "oxford",
+   "name": "University of Oxford",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "qmul",
+   "name": "Queen Mary University of London",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "qub",
+   "name": "Queen's University Belfast",
+   "country": "United Kingdom",
+   "region": "Northern Ireland",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "rhul",
+   "name": "Royal Holloway, University of London",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "sheffield",
+   "name": "University of Sheffield",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "southampton",
+   "name": "University of Southampton",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "standrews",
+   "name": "University of St Andrews",
+   "country": "United Kingdom",
+   "region": "Scotland",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "strathclyde",
+   "name": "University of Strathclyde",
+   "country": "United Kingdom",
+   "region": "Scotland",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "surrey",
+   "name": "University of Surrey",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "sussex",
+   "name": "University of Sussex",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "ucl",
+   "name": "University College London",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 2
+  },
+  {
+   "id": "warwick",
+   "name": "University of Warwick",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 0
+  },
+  {
+   "id": "york-uk",
+   "name": "University of York",
+   "country": "United Kingdom",
+   "region": "England",
+   "kind": "university",
+   "wave": 2
+  }
+ ]
+}

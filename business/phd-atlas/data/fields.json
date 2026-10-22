@@ -1,0 +1,24 @@
+{
+  "description": "STEM fields covered by the Atlas. A program entry names one primary field and may list more in also_fields (umbrella programs).",
+  "groups": ["Physical sciences", "Mathematical sciences", "Computing", "Life sciences", "Earth & environment", "Engineering"],
+  "fields": [
+    {"id": "physics", "name": "Physics", "group": "Physical sciences", "subject_gre": "Physics"},
+    {"id": "astronomy", "name": "Astronomy & Astrophysics", "group": "Physical sciences", "subject_gre": "Physics"},
+    {"id": "chemistry", "name": "Chemistry", "group": "Physical sciences", "subject_gre": "Chemistry"},
+    {"id": "materials", "name": "Materials Science", "group": "Physical sciences", "subject_gre": null},
+    {"id": "math", "name": "Mathematics", "group": "Mathematical sciences", "subject_gre": "Mathematics"},
+    {"id": "statistics", "name": "Statistics & Biostatistics", "group": "Mathematical sciences", "subject_gre": "Mathematics"},
+    {"id": "cs", "name": "Computer Science", "group": "Computing", "subject_gre": null},
+    {"id": "datasci", "name": "Data Science, ML & AI", "group": "Computing", "subject_gre": null},
+    {"id": "biology", "name": "Biology & Biosciences", "group": "Life sciences", "subject_gre": null},
+    {"id": "biomed", "name": "Biomedical Sciences", "group": "Life sciences", "subject_gre": null},
+    {"id": "neuro", "name": "Neuroscience", "group": "Life sciences", "subject_gre": "Psychology"},
+    {"id": "earth", "name": "Earth & Planetary Sciences", "group": "Earth & environment", "subject_gre": null},
+    {"id": "environment", "name": "Environmental, Atmospheric & Ocean Science", "group": "Earth & environment", "subject_gre": null},
+    {"id": "ece", "name": "Electrical & Computer Engineering", "group": "Engineering", "subject_gre": null},
+    {"id": "mech", "name": "Mechanical & Aerospace Engineering", "group": "Engineering", "subject_gre": null},
+    {"id": "chemeng", "name": "Chemical & Biomolecular Engineering", "group": "Engineering", "subject_gre": null},
+    {"id": "civil", "name": "Civil & Environmental Engineering", "group": "Engineering", "subject_gre": null},
+    {"id": "bme", "name": "Biomedical Engineering", "group": "Engineering", "subject_gre": null}
+  ]
+}

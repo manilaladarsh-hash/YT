@@ -1,0 +1,79 @@
+{
+  "id": "umass--physics",
+  "university": "umass",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://www.umass.edu/physics/graduate/prospective-students-letter",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "December 15; later applications may be considered with lower chances of admission and support; year inferred",
+      "quote": "Deadlines— The application deadline is December 15. Applications completed after this date may still be considered, but students should realize that their chances of admission and support decrease if their application is not in on time.",
+      "url": "https://www.umass.edu/physics/graduate/prospective-students-letter",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "Not required; may be submitted if it strengthens your application",
+      "quote": "GRE exams are not required, but may be submitted if you believe they bolster your application. This includes both general and Physics exams.",
+      "url": "https://www.umass.edu/physics/graduate/prospective-students-letter"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged and advised to contact potential faculty advisers (it may help your review); no agreement is required by the page",
+      "quote": "Importance of contacting faculty—As an applicant, you are encouraged and advised to contact one or more faculty with whom you might want to work. This will both ensure a good match between our program and your own interests, and may also work to your advantage as we review applications.",
+      "url": "https://www.umass.edu/physics/graduate/prospective-students-letter"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Students in good standing are typically supported throughout; in recent years all were fully funded (TA stipend $29,814.80 in 2025-26 plus tuition waiver)",
+      "quote": "Through a combination of RAs, TAs, and fellowships, students in good standing are typically supported from matriculation to graduation. In recent years, all students in good standing have been fully funded.",
+      "url": "https://www.umass.edu/physics/graduate/prospective-students-letter"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A four-year bachelor's (or equivalent) qualifies; three-year Indian BA/BSc/BCom degrees are NOT treated as equivalent (a 3-year degree plus a year of master's coursework may count with a NACES evaluation)",
+      "quote": "you may be considered for admission to master’s or doctoral degree programs if you have attained your baccalaureate degree at a regionally accredited U.S. college or university or possess an equivalent credential from a qualifying international institution. | Three-year Indian bachelor of arts, science, and commerce degrees and other three-year Asian degrees are not considered to be equivalent to a four-year US baccalaureate degree earned from a regionally accredited institution.",
+      "url": "https://www.umass.edu/graduate/apply/international-applicants"
+    },
+    "app_fee": {
+      "code": "90 USD",
+      "value": "USD 90, non-refundable, credit card",
+      "quote": "The nonrefundable $90 application fee is payable online via credit card.",
+      "url": "https://www.umass.edu/graduate/apply/how-apply",
+      "also": [
+        {
+          "quote": "An application fee of $90 is required before an application may be processed.",
+          "url": "https://www.umass.edu/physics/graduate/prospective-students-letter"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Only set categories: McNair Scholars, GRE fee-reduction holders, current UMass/Five College students in specific cases, and eligible domestic underrepresented-group program participants. No general hardship route for international applicants is listed.",
+      "quote": "Applicants in the following categories may qualify for a Graduate School application fee waiver: | Members of the McNair Scholars Program | Applicants who qualify for a GRE fee reduction | Eligible domestic students from underrepresented groups who are participants of organizations and programs listed on the Recruitment page.",
+      "url": "https://www.umass.edu/graduate/apply/how-apply"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "Not required; may be submitted if it strengthens your application",
+      "quote": "GRE exams are not required, but may be submitted if you believe they bolster your application. This includes both general and Physics exams.",
+      "url": "https://www.umass.edu/physics/graduate/prospective-students-letter"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "TOEFL 80 (tests before Jan 2026) or 4 (new scale); IELTS 6.5; Duolingo 115; PTE 53",
+      "quote": "Test of English as a Foreign Language (TOEFL): For tests taken January 2026 or later, a minimum combined score of 4 (new scale as of January 2026). For tests taken prior to January 2026, a minimum combined score of 80.",
+      "url": "https://www.umass.edu/graduate/apply/international-applicants"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Waived only for citizens of listed countries, degrees from the US or those countries, or listed institutions; India is not on the list",
+      "quote": "Your standardized English language proficiency test requirement may be waived if one of these conditions exists: | You have citizenship of Australia, Botswana, Canada, Caribbean English speaking countries, Dominica, Gambia, Ghana, Great Britain, Guyana, Hong Kong, Ireland, Kenya, Lesotho, Liberia, Malawi, Namibia, New Zealand, Nigeria, Scotland, Sierra Leone, South Africa, Swaziland, Tanzania, Uganda, West Indies, Zambia, Zimbabwe. | You have earned a bachelor’s or master’s degree in the United States or in one of the countries listed above.",
+      "url": "https://www.umass.edu/graduate/apply/international-applicants"
+    }
+  },
+  "notes": "Indian 3-year BSc holders are not eligible on that degree alone (see entry_route). International PhD applicants without a TOEFL score are not considered by Physics."
+}

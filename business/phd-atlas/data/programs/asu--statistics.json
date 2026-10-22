@@ -1,0 +1,75 @@
+{
+  "id": "asu--statistics",
+  "university": "asu",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "School of Mathematical and Statistical Sciences",
+  "program_page": "https://math.asu.edu/degrees/graduate/statistics-phd/admission-faq",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-10",
+      "value": "Apply by December 10, 2026 to be guaranteed full consideration for a TA/RA (fall only); applications are reviewed until July 1, 2027 without funding priority.",
+      "quote": "In order to be guaranteed full consideration for a Teaching or Research Assistantship, your application must be received by December 10. | Applications are accepted for fall admission only.",
+      "url": "https://math.asu.edu/apply",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The school says it no longer requires the GRE; an older FAQ still says the General GRE is required, so check with the school.",
+      "quote": "The School of Mathematical and Statistical Sciences no longer requires applicants to take the GRE. Although this change may not be reflected on all of ASU’s web pages it is effective immediately.",
+      "url": "https://math.asu.edu/apply",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "The general GRE test is required for all graduate programs; however, the subject test is not required.",
+          "url": "https://math.asu.edu/degrees/graduate/statistics-phd/admission-faq"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The Mathematics Subject GRE is not required.",
+      "quote": "The general GRE test is required for all graduate programs; however, the subject test is not required.",
+      "url": "https://math.asu.edu/degrees/graduate/statistics-phd/admission-faq"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "A limited number of need-based fee waivers may be available; email the school to request one.",
+      "quote": "A limited number of application fee waivers may be available to students with financial need",
+      "url": "https://math.asu.edu/apply"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "ASU's admission minimum is TOEFL iBT 80, but the school requires 100 for applicants requesting TA funding.",
+      "quote": "The minimum acceptable TOEFL score required for admission by the ASU Graduate Admissions is 80 (iBT). If you are requesting TA funding the School requires a minimum score of 100 (iBT).",
+      "url": "https://math.asu.edu/degrees/graduate/statistics-phd/admission-faq"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by the graduate review committee; faculty may contact strong admitted applicants, and emailing faculty about research is optional.",
+      "quote": "The graduate review committee will begin reviewing completed applications for admission and teaching assistantship positions after December 10 for fall admission.",
+      "url": "https://math.asu.edu/apply",
+      "also": [
+        {
+          "quote": "Faculty will often discuss research projects by email with enthusiastic applicants.",
+          "url": "https://math.asu.edu/degrees/graduate/statistics-phd/admission-faq"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching assistantships are limited: the school typically makes 10-20 new TA offers per cycle, with first offers by late January.",
+      "quote": "Typically, the School of Mathematical and Statistical Sciences makes 10-20 offers for new teaching assistantships in an admissions",
+      "url": "https://math.asu.edu/apply"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A BS in mathematics or a related field with Linear Algebra and Advanced Calculus (grade B or better) is required.",
+      "quote": "All of the School's degree programs require that you have completed a Bachelor of Science in mathematics or a related field and that you have successfully completed both Linear Algebra (ASU equivalent of MAT 342 or MAT 343) and Advanced Calculus (ASU equivalent of MAT 371) with a grade of B or better prior to admission.",
+      "url": "https://math.asu.edu/degrees/graduate/statistics-phd/admission-faq"
+    }
+  },
+  "notes": "Same school-wide admissions process as the Mathematics PhD.",
+  "name": "Statistics PhD"
+}

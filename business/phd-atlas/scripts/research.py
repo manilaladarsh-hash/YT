@@ -112,7 +112,10 @@ def fetch(url, refresh=False, force_render=False):
         "links": links,
     }
     CACHE.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(record))
+    # Several research sessions share the cache, so write atomically.
+    tmp = path.with_suffix(f".{os.getpid()}.tmp")
+    tmp.write_text(json.dumps(record))
+    os.replace(tmp, path)
     return record
 
 

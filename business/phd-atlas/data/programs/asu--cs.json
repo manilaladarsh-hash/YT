@@ -1,0 +1,80 @@
+{
+  "id": "asu--cs",
+  "university": "asu",
+  "field": "cs",
+  "also_fields": [],
+  "department": "School of Computing and Augmented Intelligence",
+  "program_page": "https://degrees.asu.edu/masters-phd/major/ASU00/ESCOMSCPHD/computer-science-phd",
+  "checked": "2026-10-22",
+  "fields": {
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Fee waivers are considered only for PhD applicants at the direction of a sponsoring faculty member.",
+      "quote": "Application fee waivers may only be considered for PhD applicants at the direction of a sponsoring faculty.",
+      "url": "https://scai.engineering.asu.edu/graduate-admissions/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS 7 overall (Duolingo 115).",
+      "quote": "7 on the IELTS; or 115 on the Duolingo English test",
+      "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESCOMSCPHD/computer-science-phd"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Name two or three ASU faculty with matching interests in the statement of purpose; RA offers come from interested faculty.",
+      "quote": "identify two or three ASU faculty with matching research interests. | RA offers are made to admitted students by an interested faculty member.",
+      "url": "https://scai.engineering.asu.edu/graduate-admissions/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "TAs go mainly to PhD students and are awarded by the school; RAs go to the highest-caliber students via interested faculty, and some faculty don't fund new students.",
+      "quote": "TA positions are awarded primarily to Ph.D. students. RA positions are offered to the highest caliber of students. RA offers are made to admitted students by an interested faculty member. Some faculty members do not offer RA positions to newly admitted students.",
+      "url": "https://scai.engineering.asu.edu/graduate-admissions/"
+    },
+    "deadline": {
+      "code": "2026-12-31",
+      "value": "Apply by December 31, 2026 for fall priority consideration (spring: August 1).",
+      "quote": "December 1 (MS) or December 31 (PhD)",
+      "url": "https://scai.engineering.asu.edu/graduate-admissions/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Fall Session Modality Deadline Type Session A/C In Person 12/31 Priority*",
+          "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESCOMSCPHD/computer-science-phd"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE is optional; the at-home GRE is not accepted.",
+      "quote": "Submission of GRE scores is optional and not required as part of the application.",
+      "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESCOMSCPHD/computer-science-phd"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "TOEFL iBT 90 (before January 21, 2026) or 4.5 on the new scale.",
+      "quote": "by scoring at least 4.5 on the internet-based TOEFL iBT® or a score of 90 (taken in a testing center) if taken before January 21, 2026",
+      "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESCOMSCPHD/computer-science-phd"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Most applicants have a master's; exceptional bachelor's graduates can be admitted directly. A 4-year bachelor's equivalent is required.",
+      "quote": "Most applicants should have earned a master's degree, but exceptional undergraduate applicants may be admitted directly into the doctoral program.",
+      "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESCOMSCPHD/computer-science-phd",
+      "also": [
+        {
+          "quote": "A student must have the equivalent of a 4 year bachelor’s degree to be eligible to apply for a graduate program in SCAI.",
+          "url": "https://scai.engineering.asu.edu/graduate-admissions/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no GRE Subject test for this field; nothing stated.",
+      "quote": "",
+      "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESCOMSCPHD/computer-science-phd"
+    }
+  },
+  "notes": "Minimum GPA 3.50 in the last 60 hours of the first bachelor's (or in a master's).",
+  "name": "Computer Science PhD"
+}

@@ -3,429 +3,928 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Physics PhD Atlas 2027</title>
+<title>__TITLE__</title>
 <style>
 :root {
-  --bg: #f7f6f2; --panel: #ffffff; --ink: #1d232b; --muted: #5b6573; --line: #dcdfe4;
-  --accent: #1f5f8b; --accent-ink: #ffffff; --good: #1e6b3a; --good-bg: #e3f2e7;
-  --warn: #8a5a00; --warn-bg: #fbf0d9; --bad: #9b2c2c; --bad-bg: #f8e1e1; --na: #5b6573; --na-bg: #eceef1;
-  --focus: #f0b429; --chip: #eef3f7;
+  --bg: #f6f5f1; --panel: #ffffff; --panel-2: #fbfaf7; --ink: #1b2129; --muted: #5a6472; --line: #e1e2e6; --line-2: #eceae4;
+  --accent: #1d5c8a; --accent-2: #e8f0f7; --accent-ink: #ffffff;
+  --good: #1c6b3b; --good-bg: #e2f2e7; --warn: #855700; --warn-bg: #fbefd6; --bad: #a12a2a; --bad-bg: #f9e1e0;
+  --na: #5a6472; --na-bg: #eef0f2; --focus: #e8a317; --star: #d18f00;
+  --g-phys: #2a5fa8; --g-math: #6b3fa0; --g-comp: #0f7a73; --g-life: #2e7d32; --g-earth: #8a5a14; --g-eng: #b3471f;
+  --shadow: 0 1px 2px rgba(20,30,40,.06), 0 2px 8px rgba(20,30,40,.05);
+  --radius: 12px;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #12161b; --panel: #1a2027; --ink: #e8ecf1; --muted: #9aa5b3; --line: #2c3540;
-    --accent: #6fb3e0; --accent-ink: #0d1116; --good: #8fd6a4; --good-bg: #1d3325;
-    --warn: #f2c46d; --warn-bg: #3a2f17; --bad: #f19c9c; --bad-bg: #3d2121; --na: #9aa5b3; --na-bg: #262e37;
-    --chip: #222b35;
+    --bg: #11151a; --panel: #192028; --panel-2: #1d252e; --ink: #e7ebf0; --muted: #9ba6b4; --line: #2b3540; --line-2: #26303a;
+    --accent: #77b6e4; --accent-2: #1f2f3d; --accent-ink: #0c1117;
+    --good: #8fd6a4; --good-bg: #1b3324; --warn: #f0c46a; --warn-bg: #3a2e15; --bad: #f2a0a0; --bad-bg: #3d2020;
+    --na: #9ba6b4; --na-bg: #242d37; --star: #f2c14e;
+    --g-phys: #7fa9e8; --g-math: #b597e0; --g-comp: #5cc8bf; --g-life: #86c98a; --g-earth: #d8ac66; --g-eng: #ee9a77;
+    --shadow: none;
   }
 }
 :root[data-theme="dark"] {
-  --bg: #12161b; --panel: #1a2027; --ink: #e8ecf1; --muted: #9aa5b3; --line: #2c3540;
-  --accent: #6fb3e0; --accent-ink: #0d1116; --good: #8fd6a4; --good-bg: #1d3325;
-  --warn: #f2c46d; --warn-bg: #3a2f17; --bad: #f19c9c; --bad-bg: #3d2121; --na: #9aa5b3; --na-bg: #262e37;
-  --chip: #222b35;
+  --bg: #11151a; --panel: #192028; --panel-2: #1d252e; --ink: #e7ebf0; --muted: #9ba6b4; --line: #2b3540; --line-2: #26303a;
+  --accent: #77b6e4; --accent-2: #1f2f3d; --accent-ink: #0c1117;
+  --good: #8fd6a4; --good-bg: #1b3324; --warn: #f0c46a; --warn-bg: #3a2e15; --bad: #f2a0a0; --bad-bg: #3d2020;
+  --na: #9ba6b4; --na-bg: #242d37; --star: #f2c14e;
+  --g-phys: #7fa9e8; --g-math: #b597e0; --g-comp: #5cc8bf; --g-life: #86c98a; --g-earth: #d8ac66; --g-eng: #ee9a77;
+  --shadow: none;
 }
 * { box-sizing: border-box; }
-body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
 a { color: var(--accent); }
-header { padding: 20px 16px 4px; max-width: 1440px; margin: 0 auto; }
-h1 { margin: 0 0 4px; font-size: 1.5rem; }
-.sub { color: var(--muted); margin: 0; }
-.howto { margin: 6px 0 0; font-size: .9rem; }
-main { max-width: 1440px; margin: 0 auto; padding: 0 16px 40px; }
-.picks { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 12px 0 0; }
-.picks span { color: var(--muted); font-size: .85rem; margin-right: 2px; }
-.chip { border-radius: 999px; background: var(--chip); border: 1px solid var(--line); padding: 5px 12px; font-size: .88rem; }
-.chip[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
-details.filters { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; margin: 10px 0; }
-details.filters > summary { cursor: pointer; padding: 10px 12px; font-weight: 600; list-style: none; display: flex; justify-content: space-between; align-items: center; }
-details.filters > summary::-webkit-details-marker { display: none; }
-details.filters > summary::after { content: "Show ▾"; font-weight: 400; color: var(--muted); font-size: .85rem; }
-details.filters[open] > summary::after { content: "Hide ▴"; }
-.controls { display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); padding: 0 12px 12px; }
-.controls label { display: flex; flex-direction: column; font-size: .8rem; color: var(--muted); gap: 4px; }
-.controls input, .controls select { font: inherit; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 7px 8px; }
-.controls .row { display: flex; gap: 8px; align-items: end; flex-wrap: wrap; grid-column: 1 / -1; }
-button { font: inherit; border: 1px solid var(--line); background: var(--panel); color: var(--ink); border-radius: 6px; padding: 7px 10px; cursor: pointer; }
-button.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
-button:focus-visible, input:focus-visible, select:focus-visible, .cell:focus-visible, summary:focus-visible { outline: 3px solid var(--focus); outline-offset: 1px; }
-.summary { margin: 4px 0 2px; color: var(--muted); font-size: .9rem; }
-.legend { display: flex; flex-wrap: wrap; gap: 4px 12px; margin: 0 0 10px; font-size: .8rem; color: var(--muted); }
-.legend i { display: inline-block; width: .8em; height: .8em; border-radius: 3px; margin-right: 4px; vertical-align: -1px; }
-.legend .lg-good { background: var(--good); } .legend .lg-warn { background: var(--warn); } .legend .lg-bad { background: var(--bad); }
-.legend .lg-na { border: 1px dashed var(--muted); }
-.tablewrap { overflow-x: auto; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; }
-table { border-collapse: collapse; width: 100%; min-width: 1180px; }
-th, td { text-align: left; vertical-align: top; padding: 7px 8px; border-bottom: 1px solid var(--line); }
-th { position: sticky; top: 0; background: var(--panel); font-size: .74rem; text-transform: uppercase; letter-spacing: .03em; color: var(--muted); z-index: 1; }
-td.prog { min-width: 200px; max-width: 260px; }
-td.prog b { display: block; }
-td.prog .inst { display: block; color: var(--muted); font-size: .82rem; line-height: 1.35; }
-td.prog .dept, .card .meta { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-.card .star { align-self: flex-start; }
-.cell { display: inline-block; cursor: pointer; border-radius: 6px; padding: 2px 7px; font-size: .85rem; border: 1px solid transparent; background: none; color: inherit; text-align: left; }
-.cell:hover { border-color: var(--muted); }
-.b-good { background: var(--good-bg); color: var(--good); }
-.b-warn { background: var(--warn-bg); color: var(--warn); }
-.b-bad { background: var(--bad-bg); color: var(--bad); }
-.b-info { background: var(--na-bg); color: var(--ink); }
-.b-na { background: transparent; color: var(--muted); border: 1px dashed var(--line); }
-.flag { font-size: .72rem; color: var(--warn); display: block; }
-.hint { font-size: .74rem; color: var(--muted); display: block; }
-.hint.soon { color: var(--bad); font-weight: 600; }
-.star { font-size: 1.2rem; line-height: 1; padding: 2px 6px; }
-.star[aria-pressed="true"] { color: var(--focus); border-color: var(--focus); }
-.cards { display: none; gap: 10px; }
-.card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px; }
-.card h3 { margin: 0 0 2px; font-size: 1rem; }
-.card .meta { color: var(--muted); font-size: .85rem; margin-bottom: 8px; }
-.card dl { display: grid; grid-template-columns: 9.5em 1fr; gap: 4px 8px; margin: 0; }
-.card dt { color: var(--muted); font-size: .82rem; }
-.card dd { margin: 0; }
-dialog { border: 1px solid var(--line); border-radius: 12px; background: var(--panel); color: var(--ink); max-width: 640px; width: calc(100% - 32px); padding: 18px; }
-dialog::backdrop { background: rgba(0,0,0,.45); }
-dialog h2 { margin: 0 0 4px; font-size: 1.1rem; }
-blockquote { margin: 10px 0; padding: 8px 12px; border-left: 4px solid var(--accent); background: var(--bg); font-size: .92rem; }
-.muted { color: var(--muted); font-size: .85rem; }
-.empty { padding: 24px; text-align: center; color: var(--muted); }
-footer { max-width: 1440px; margin: 0 auto; padding: 0 16px 30px; color: var(--muted); font-size: .85rem; }
-@media (max-width: 760px) {
-  .tablewrap { display: none; }
-  .cards { display: grid; }
-  h1 { font-size: 1.3rem; }
+button, input, select { font: inherit; color: inherit; }
+button { cursor: pointer; border: 1px solid var(--line); background: var(--panel); border-radius: 8px; padding: 7px 12px; }
+button:hover { border-color: var(--muted); }
+button.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); font-weight: 600; }
+button.ghost { background: transparent; border-color: transparent; color: var(--accent); padding: 6px 8px; }
+button:focus-visible, input:focus-visible, select:focus-visible, summary:focus-visible, a:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* top bar */
+.top { background: var(--panel); border-bottom: 1px solid var(--line); position: sticky; top: 0; z-index: 20; }
+.top-in { max-width: 1400px; margin: 0 auto; padding: 10px 16px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+.brand { display: flex; flex-direction: column; margin-right: auto; min-width: 0; }
+.brand b { font-size: 1.12rem; letter-spacing: -.01em; }
+.brand span { color: var(--muted); font-size: .8rem; }
+.tabs { display: flex; gap: 4px; background: var(--bg); padding: 3px; border-radius: 10px; border: 1px solid var(--line); }
+.tabs button { border: none; background: transparent; padding: 6px 14px; border-radius: 8px; font-weight: 600; color: var(--muted); }
+.tabs button[aria-selected="true"] { background: var(--panel); color: var(--ink); box-shadow: var(--shadow); }
+.count-pill { display: inline-block; min-width: 1.5em; padding: 0 6px; margin-left: 4px; border-radius: 999px; background: var(--accent); color: var(--accent-ink); font-size: .75rem; line-height: 1.5em; text-align: center; }
+
+.wrap { max-width: 1400px; margin: 0 auto; padding: 16px; }
+.layout { display: grid; grid-template-columns: 310px minmax(0, 1fr); gap: 18px; align-items: start; }
+.panel { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); }
+
+/* situation */
+.situation { position: sticky; top: 76px; max-height: calc(100vh - 92px); overflow: auto; }
+.situation > summary { list-style: none; cursor: pointer; padding: 14px 16px; display: flex; justify-content: space-between; align-items: center; font-weight: 700; }
+.situation > summary::-webkit-details-marker { display: none; }
+.situation > summary small { font-weight: 500; color: var(--muted); }
+.sit-body { padding: 0 16px 16px; }
+.q { margin: 0 0 14px; border: 0; padding: 0; min-width: 0; }
+.q legend, .q .qlabel { font-size: .8rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin-bottom: 6px; padding: 0; }
+.opts { display: flex; flex-wrap: wrap; gap: 6px; }
+.opt { border-radius: 999px; padding: 5px 11px; font-size: .86rem; background: var(--panel-2); }
+.opt[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.opt .n { opacity: .7; font-size: .78em; margin-left: 3px; }
+.grp { font-size: .74rem; color: var(--muted); margin: 8px 0 4px; width: 100%; }
+.scores { display: flex; gap: 8px; margin-top: 8px; }
+.scores label { display: flex; flex-direction: column; font-size: .78rem; color: var(--muted); gap: 3px; flex: 1; }
+.scores input { width: 100%; padding: 6px 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); }
+.sit-foot { display: flex; justify-content: space-between; align-items: center; gap: 8px; border-top: 1px solid var(--line-2); padding-top: 12px; }
+.hint { font-size: .8rem; color: var(--muted); }
+
+/* toolbar */
+.toolbar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 10px; }
+.toolbar input[type="search"] { flex: 1 1 240px; padding: 9px 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--panel); min-width: 0; }
+.toolbar select { padding: 8px 10px; border: 1px solid var(--line); border-radius: 10px; background: var(--panel); }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+.seg button { border: none; border-radius: 0; padding: 8px 12px; background: var(--panel); }
+.seg button[aria-pressed="true"] { background: var(--accent-2); color: var(--accent); font-weight: 600; }
+.quick { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }
+.summary { display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; margin: 2px 0 12px; font-size: .9rem; color: var(--muted); }
+.summary b { color: var(--ink); }
+.dot { display: inline-block; width: .65em; height: .65em; border-radius: 50%; margin-right: 5px; vertical-align: 0; }
+.dot.good { background: var(--good); } .dot.warn { background: var(--warn); } .dot.bad { background: var(--bad); }
+
+/* cards */
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 12px; }
+.card { display: flex; flex-direction: column; padding: 14px 14px 12px; gap: 8px; position: relative; border-left: 4px solid var(--line); }
+.card.fit-match { border-left-color: var(--good); } .card.fit-check { border-left-color: var(--warn); } .card.fit-obstacle { border-left-color: var(--bad); }
+.card-top { display: flex; justify-content: space-between; gap: 8px; align-items: flex-start; }
+.ftag { font-size: .74rem; font-weight: 700; letter-spacing: .02em; color: var(--gc, var(--accent)); text-transform: uppercase; }
+.ftag .also { font-weight: 500; text-transform: none; color: var(--muted); letter-spacing: 0; }
+.card h3 { margin: 1px 0 0; font-size: 1.05rem; line-height: 1.3; }
+.meta { color: var(--muted); font-size: .83rem; line-height: 1.35; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.star { font-size: 1.25rem; line-height: 1; padding: 4px 8px; border-radius: 8px; background: transparent; }
+.star[aria-pressed="true"] { color: var(--star); border-color: var(--star); }
+.facts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; }
+.fact { background: var(--panel-2); border: 1px solid var(--line-2); border-radius: 9px; padding: 6px 8px; min-width: 0; text-align: left; }
+.fact small { display: block; color: var(--muted); font-size: .7rem; text-transform: uppercase; letter-spacing: .04em; }
+.fact span { display: block; font-weight: 600; font-size: .86rem; line-height: 1.3; overflow-wrap: anywhere; }
+.fact em { display: block; font-style: normal; font-size: .72rem; line-height: 1.3; color: var(--muted); margin-top: 1px; }
+.fact em.soon { color: var(--bad); font-weight: 600; }
+.fact.t-good span { color: var(--good); } .fact.t-bad span { color: var(--bad); } .fact.t-warn span { color: var(--warn); }
+.fitline { font-size: .84rem; font-weight: 700; display: flex; align-items: center; gap: 6px; }
+.fitline.match { color: var(--good); } .fitline.check { color: var(--warn); } .fitline.obstacle { color: var(--bad); }
+.reasons { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 3px; font-size: .84rem; }
+.reasons li { display: flex; gap: 6px; align-items: baseline; }
+.reasons li::before { flex: none; width: 1.1em; text-align: center; font-weight: 700; }
+.reasons li.bad::before { content: "✕"; color: var(--bad); }
+.reasons li.warn::before { content: "!"; color: var(--warn); }
+.reasons li.good::before { content: "✓"; color: var(--good); }
+.badges { display: flex; flex-wrap: wrap; gap: 4px; }
+.b { display: inline-block; border-radius: 6px; padding: 1px 7px; font-size: .78rem; border: 1px solid transparent; }
+.b-good { background: var(--good-bg); color: var(--good); } .b-warn { background: var(--warn-bg); color: var(--warn); }
+.b-bad { background: var(--bad-bg); color: var(--bad); } .b-info { background: var(--na-bg); color: var(--ink); }
+.b-na { color: var(--muted); border: 1px dashed var(--line); }
+.unstated { font-size: .78rem; color: var(--muted); }
+.card-foot { display: flex; justify-content: space-between; align-items: center; margin-top: auto; padding-top: 4px; gap: 8px; }
+.card-foot a { font-size: .84rem; }
+.more { display: flex; justify-content: center; margin: 16px 0; }
+.empty { padding: 36px 20px; text-align: center; color: var(--muted); }
+
+/* table view */
+.tablewrap { overflow-x: auto; }
+table.grid { border-collapse: collapse; width: 100%; min-width: 1200px; font-size: .86rem; }
+table.grid th, table.grid td { text-align: left; vertical-align: top; padding: 7px 8px; border-bottom: 1px solid var(--line-2); }
+table.grid th { position: sticky; top: 0; background: var(--panel); font-size: .72rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); z-index: 1; }
+table.grid td.prog { min-width: 210px; }
+table.grid td.prog b { display: block; }
+table.grid td.prog span { color: var(--muted); font-size: .8rem; }
+.cellbtn { border: 1px solid transparent; background: none; padding: 1px 6px; border-radius: 6px; text-align: left; font-size: .82rem; }
+.cellbtn:hover { border-color: var(--muted); }
+
+/* dialog */
+dialog { border: 1px solid var(--line); border-radius: 16px; background: var(--panel); color: var(--ink); width: min(760px, calc(100% - 24px)); max-height: calc(100vh - 32px); padding: 0; }
+dialog::backdrop { background: rgba(8, 12, 16, .5); }
+.d-head { padding: 18px 20px 12px; border-bottom: 1px solid var(--line-2); position: sticky; top: 0; background: var(--panel); z-index: 1; }
+.d-head h2 { margin: 2px 0 2px; font-size: 1.2rem; }
+.d-head .meta { -webkit-line-clamp: 3; }
+.d-close { position: absolute; right: 12px; top: 12px; }
+.d-body { padding: 8px 20px 20px; }
+.d-sec { font-size: .76rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; margin: 16px 0 6px; }
+.row { display: grid; grid-template-columns: 170px minmax(0, 1fr); gap: 4px 12px; padding: 10px 0; border-bottom: 1px solid var(--line-2); }
+.row:last-child { border-bottom: none; }
+.row .k { color: var(--muted); font-size: .86rem; }
+.row .lvl { display: block; font-size: .72rem; color: var(--muted); margin-top: 2px; }
+.row p { margin: 4px 0 0; font-size: .92rem; }
+.row blockquote { margin: 6px 0 0; padding: 6px 10px; border-left: 3px solid var(--accent); background: var(--panel-2); font-size: .86rem; border-radius: 0 8px 8px 0; }
+.row .src { font-size: .8rem; }
+.row .flag { color: var(--warn); font-size: .78rem; display: block; margin-top: 3px; }
+.note-box { background: var(--accent-2); border-radius: 10px; padding: 10px 12px; font-size: .88rem; margin-top: 12px; }
+
+/* plan */
+.plan-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 12px; margin-bottom: 16px; }
+.stat { padding: 14px 16px; }
+.stat small { color: var(--muted); font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; font-weight: 700; }
+.stat b { display: block; font-size: 1.5rem; letter-spacing: -.01em; margin-top: 2px; }
+.stat span { color: var(--muted); font-size: .82rem; }
+.plan-actions { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 16px; }
+.timeline { padding: 6px 16px 10px; margin-bottom: 16px; }
+.tl-month { font-weight: 700; margin: 12px 0 4px; font-size: .9rem; }
+.tl-item { display: grid; grid-template-columns: 92px minmax(0, 1fr) auto; gap: 10px; padding: 7px 0; border-bottom: 1px solid var(--line-2); font-size: .9rem; align-items: baseline; }
+.tl-item:last-child { border-bottom: none; }
+.tl-item .when { font-weight: 600; }
+.tl-item .left { font-size: .8rem; color: var(--muted); white-space: nowrap; }
+.tl-item .left.soon { color: var(--bad); font-weight: 600; }
+.tl-item.past { opacity: .6; }
+.todo { padding: 14px 16px; margin-bottom: 12px; }
+.todo h3 { margin: 0; font-size: 1rem; display: flex; justify-content: space-between; gap: 10px; align-items: baseline; }
+.todo h3 small { color: var(--muted); font-weight: 500; font-size: .82rem; white-space: nowrap; }
+.todo ul { list-style: none; padding: 0; margin: 8px 0 0; }
+.todo li { padding: 4px 0; }
+.todo label { display: flex; gap: 9px; align-items: flex-start; cursor: pointer; font-size: .9rem; }
+.todo input { margin-top: 3px; width: 17px; height: 17px; accent-color: var(--accent); flex: none; }
+.todo li.done label { color: var(--muted); text-decoration: line-through; }
+.progress { height: 6px; border-radius: 99px; background: var(--line-2); overflow: hidden; margin-top: 8px; }
+.progress i { display: block; height: 100%; background: var(--good); }
+
+/* guide */
+.guide { padding: 18px 22px; max-width: 860px; }
+.guide h2 { font-size: 1.15rem; margin: 18px 0 6px; }
+.guide h2:first-child { margin-top: 0; }
+.guide li { margin: 4px 0; }
+footer { max-width: 1400px; margin: 0 auto; padding: 6px 16px 34px; color: var(--muted); font-size: .82rem; }
+.loading { padding: 60px 20px; text-align: center; color: var(--muted); }
+
+@media (max-width: 920px) {
+  .layout { grid-template-columns: minmax(0, 1fr); }
+  .situation { position: static; max-height: none; }
+  .tabs button { padding: 6px 10px; }
+  .seg.views { display: none; }
+}
+@media (max-width: 560px) {
+  .wrap { padding: 12px; }
+  .top-in { padding: 8px 12px; gap: 8px; }
+  .brand span { display: none; }
+  .cards { grid-template-columns: minmax(0, 1fr); }
+  .row { grid-template-columns: minmax(0, 1fr); }
+  .tl-item { grid-template-columns: 78px minmax(0, 1fr); }
+  .tl-item .left { grid-column: 2; }
+  .d-head, .d-body { padding-left: 14px; padding-right: 14px; }
 }
 @media print {
-  .controls, .picks, details.filters, .star, button.chip, .legend { display: none !important; }
-  .tablewrap { overflow: visible; border: none; }
-  table { min-width: 0; font-size: 9pt; }
+  .top, .situation, .toolbar, .quick, .plan-actions, .star, .more, footer button { display: none !important; }
+  body { background: #fff; }
+  .panel { box-shadow: none; }
+  .layout { display: block; }
+  [hidden] { display: none !important; }
 }
 </style>
 </head>
 <body>
-<header>
-  <h1>Physics PhD Atlas 2027</h1>
-  <p class="sub" id="subtitle"></p>
-  <p class="howto">Filter or pick below · <b>tap any value</b> to read the official sentence it came from · <b>☆</b> to shortlist · export your shortlist or copy it into the planner (Atlas.xlsx).</p>
+<header class="top">
+  <div class="top-in">
+    <div class="brand"><b>__TITLE__</b><span id="tagline">Loading…</span></div>
+    <nav class="tabs" role="tablist" aria-label="Sections">
+      <button role="tab" id="tab-find" aria-selected="true" aria-controls="view-find">Find programs</button>
+      <button role="tab" id="tab-plan" aria-selected="false" aria-controls="view-plan">My plan<span class="count-pill" id="starCount">0</span></button>
+      <button role="tab" id="tab-guide" aria-selected="false" aria-controls="view-guide">How to read</button>
+    </nav>
+    <button id="theme" type="button" aria-label="Switch light or dark theme">Theme</button>
+  </div>
 </header>
-<main>
-  <div class="picks" role="group" aria-label="Quick picks">
-    <span>Quick picks:</span>
-    <button class="chip" type="button" data-pick="waiver=either" aria-pressed="false">No fee or a waiver route</button>
-    <button class="chip" type="button" data-pick="pgre=norequired" aria-pressed="false">Physics GRE not needed</button>
-    <button class="chip" type="button" data-pick="eng=possible" aria-pressed="false">English-test waiver possible</button>
-    <button class="chip" type="button" data-pick="entry=bachelor" aria-pressed="false">Bachelor's OK</button>
-    <button class="chip" type="button" data-pick="fund=funded" aria-pressed="false">Funded</button>
-    <button class="chip" type="button" data-pick="before=+42" aria-pressed="false">Closing in 6 weeks</button>
-  </div>
-  <details class="filters" id="filters" open>
-    <summary id="filtersSummary">Filters</summary>
-    <section class="controls" aria-label="Filters">
-      <label>Search<input id="q" type="search" placeholder="University, city, note…"></label>
-      <label>Region<select id="area"><option value="">All regions</option><option>North America</option><option>Europe</option><option>Australia &amp; NZ</option></select></label>
-      <label>Country<select id="country"><option value="">All countries</option></select></label>
-      <label>Application fee<select id="waiver"><option value="">Any</option><option value="either">No fee, or a waiver route for internationals</option><option value="yes">Waiver route for internationals</option><option value="free">No fee / waived for everyone</option></select></label>
-      <label>Physics GRE<select id="pgre"><option value="">Any</option><option value="norequired">Not required</option><option value="required">Required</option></select></label>
-      <label>English-test waiver (English-medium degree)<select id="eng"><option value="">Any</option><option value="yes">Yes</option><option value="possible">Yes or conditional</option></select></label>
-      <label>Supervisor before admission<select id="sup"><option value="">Any</option><option value="Required">Required</option><option value="Recommended">Recommended</option><option value="Not required">Not required</option></select></label>
-      <label>Funding<select id="fund"><option value="">Any</option><option value="funded">Guaranteed or typically funded</option><option value="Guaranteed">Guaranteed</option></select></label>
-      <label>Entry route<select id="entry"><option value="">Any</option><option value="bachelor">Bachelor's holders can enter</option><option value="masters">Master's usually required</option></select></label>
-      <label>Deadline on or before<input id="before" type="date"></label>
-      <label>Sort by<select id="sort"><option value="deadline">Deadline (soonest first)</option><option value="name">Name</option><option value="fee">Fee (lowest first, converted)</option></select></label>
-      <div class="row">
-        <button id="onlyStar" type="button" aria-pressed="false">★ Shortlist only</button>
-        <button id="exportBtn" type="button" class="primary">Export shortlist (CSV)</button>
-        <button id="reset" type="button">Reset</button>
-        <button id="theme" type="button" aria-label="Toggle light or dark theme">Light / dark</button>
+
+<div class="wrap">
+  <div id="loading" class="loading">Opening the Atlas…</div>
+
+  <section id="view-find" role="tabpanel" aria-labelledby="tab-find" hidden>
+    <div class="layout">
+      <details class="panel situation" id="situation" open>
+        <summary><span>Your situation</span><small id="sitCount">tell us, and every program shows how it fits</small></summary>
+        <div class="sit-body" id="sitBody"></div>
+      </details>
+      <div>
+        <div class="toolbar">
+          <label class="sr" for="q">Search programs</label>
+          <input id="q" type="search" placeholder="Search university, city, department, topic…" autocomplete="off">
+          <label class="sr" for="sort">Sort</label>
+          <select id="sort">
+            <option value="fit">Best fit first</option>
+            <option value="deadline">Deadline (soonest)</option>
+            <option value="fee">Application fee (lowest)</option>
+            <option value="name">Name (A–Z)</option>
+          </select>
+          <div class="seg views" role="group" aria-label="View">
+            <button type="button" id="vCards" aria-pressed="true">Cards</button>
+            <button type="button" id="vTable" aria-pressed="false">Table</button>
+          </div>
+        </div>
+        <div class="quick" role="group" aria-label="Quick filters">
+          <button class="opt" type="button" data-quick="nofee" aria-pressed="false">No fee or waiver route</button>
+          <button class="opt" type="button" data-quick="soon" aria-pressed="false">Closing in 6 weeks</button>
+          <button class="opt" type="button" data-quick="funded" aria-pressed="false">Guaranteed funding</button>
+          <button class="opt" type="button" data-quick="hideobs" aria-pressed="false">Hide obstacles</button>
+          <button class="opt" type="button" data-quick="starred" aria-pressed="false">★ Shortlist only</button>
+        </div>
+        <div class="summary" id="summary" aria-live="polite"></div>
+        <div id="results"></div>
+        <div class="more"><button type="button" id="moreBtn" hidden>Show more</button></div>
       </div>
-    </section>
-  </details>
-  <div class="summary" id="summary" aria-live="polite"></div>
-  <div class="legend" aria-hidden="true">
-    <span><i class="lg-good"></i>helps international applicants</span>
-    <span><i class="lg-warn"></i>check the conditions</span>
-    <span><i class="lg-bad"></i>an obstacle</span>
-    <span><i class="lg-na"></i>not stated on the official pages</span>
-  </div>
-  <div class="tablewrap"><table aria-label="Programs">
-    <thead><tr>
-      <th scope="col">★</th><th scope="col">Program</th><th scope="col">Deadline</th><th scope="col">Fee</th>
-      <th scope="col">Intl fee waiver</th><th scope="col">GRE</th><th scope="col">Physics GRE</th>
-      <th scope="col">TOEFL min</th><th scope="col">English waiver</th><th scope="col">Supervisor</th>
-      <th scope="col">Funding</th><th scope="col">Entry route</th>
-    </tr></thead>
-    <tbody id="rows"></tbody>
-  </table></div>
-  <div class="cards" id="cards"></div>
-</main>
+    </div>
+  </section>
+
+  <section id="view-plan" role="tabpanel" aria-labelledby="tab-plan" hidden></section>
+
+  <section id="view-guide" role="tabpanel" aria-labelledby="tab-guide" hidden>
+    <div class="panel guide" id="guideBody"></div>
+  </section>
+</div>
+
 <dialog id="detail" aria-labelledby="dTitle">
-  <h2 id="dTitle"></h2>
-  <div class="muted" id="dField"></div>
-  <p id="dValue"></p>
-  <blockquote id="dQuote"></blockquote>
-  <p class="muted" id="dExtra"></p>
-  <p class="muted" id="dMeta"></p>
-  <p><a id="dLink" target="_blank" rel="noopener">Open the official source page ↗</a></p>
-  <form method="dialog"><button class="primary">Close</button></form>
+  <div class="d-head">
+    <div class="ftag" id="dTag"></div>
+    <h2 id="dTitle"></h2>
+    <div class="meta" id="dMeta"></div>
+    <button class="d-close ghost" type="button" id="dClose" aria-label="Close">✕</button>
+  </div>
+  <div class="d-body" id="dBody"></div>
 </dialog>
-<footer>
-  <p id="foot"></p>
-  <p>Not affiliated with any university. Always confirm on the official page before you pay or submit. This kit is not immigration or legal advice.</p>
-</footer>
+
+<footer><p id="foot"></p><p>Not affiliated with any university. Always confirm on the official page before you pay or submit. Nothing here is immigration, visa or legal advice.</p></footer>
+
 <script>
-const ATLAS = /*__ATLAS_DATA__*/null;
+"use strict";
+const PACKED = "__ATLAS_GZ__";
+const DAY = 86400000;
+const PAGE = 48;
 const FIELDS = [
-  ["deadline","Deadline"],["app_fee","Fee"],["fee_waiver","Intl fee waiver"],["gre_general","GRE"],
-  ["gre_physics","Physics GRE"],["toefl_min","TOEFL min"],["english_waiver","English waiver"],
-  ["supervisor","Supervisor"],["funding","Funding"],["entry_route","Entry route"]
+  ["deadline", "Deadline"], ["app_fee", "Application fee"], ["fee_waiver", "Fee waiver (internationals)"],
+  ["gre_general", "GRE General"], ["gre_subject", "GRE Subject test"], ["toefl_min", "TOEFL minimum"],
+  ["ielts_min", "IELTS minimum"], ["english_waiver", "English-test waiver (English-medium Indian degree)"],
+  ["supervisor", "Supervisor before admission"], ["funding", "Funding"], ["entry_route", "Entry route"]
 ];
-const FILTER_IDS = ["q","area","country","waiver","pgre","eng","sup","fund","entry","before"];
+const SECTIONS = [["Dates and money", ["deadline", "app_fee", "fee_waiver", "funding"]],
+  ["Tests", ["gre_general", "gre_subject", "toefl_min", "ielts_min", "english_waiver"]],
+  ["Admission", ["entry_route", "supervisor"]]];
 const TONE = {
-  fee_waiver: {"Available":"good","No fee":"good","Limited":"warn","Domestic only":"bad","None":"bad"},
-  gre_general: {"Required":"bad","Recommended":"warn","Optional":"good","Not required":"good","Not considered":"good"},
-  gre_physics: {"Required":"bad","Recommended":"warn","Optional":"good","Not required":"good","Not considered":"good"},
-  english_waiver: {"Yes":"good","Conditional":"warn","No":"bad","Check tool":"warn"},
-  supervisor: {"Required":"warn","Recommended":"warn","Not required":"good"},
-  funding: {"Guaranteed":"good","Typical":"warn","Competitive":"warn"},
-  entry_route: {"Direct from bachelor's":"good","Either":"good","Master's usually required":"warn"}
+  fee_waiver: { "Available": "good", "No fee": "good", "Limited": "warn", "Domestic only": "bad", "None": "bad" },
+  gre_general: { "Required": "bad", "Recommended": "warn", "Optional": "good", "Not required": "good", "Not considered": "good" },
+  gre_subject: { "Required": "bad", "Recommended": "warn", "Optional": "good", "Not required": "good", "Not considered": "good" },
+  english_waiver: { "Yes": "good", "Conditional": "warn", "No": "bad", "Check tool": "warn" },
+  supervisor: { "Required": "warn", "Recommended": "warn", "Not required": "good" },
+  funding: { "Guaranteed": "good", "Typical": "good", "Competitive": "warn" },
+  entry_route: { "Direct from bachelor's": "good", "Either": "good", "Master's usually required": "warn" }
 };
+const GROUP_COLOR = { "Physical sciences": "--g-phys", "Mathematical sciences": "--g-math", "Computing": "--g-comp",
+  "Life sciences": "--g-life", "Earth & environment": "--g-earth", "Engineering": "--g-eng" };
+const REGIONS = ["US", "UK", "Europe", "Australia & NZ", "Canada"];
+const NS = { code: "Not stated", value: "Not stated on the official pages checked", quote: "", url: "" };
+
 const store = {
   get(k, d) { try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch (e) { return d; } },
   set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) { /* storage unavailable */ } }
 };
-let stars = new Set(store.get("atlas-stars", []));
 const $ = id => document.getElementById(id);
-const UNKNOWN = ["Not stated", "Check tool"];
-const DAY = 86400000;
+function el(tag, attrs, ...kids) {
+  const n = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs || {})) {
+    if (v === null || v === undefined || v === false) continue;
+    if (k === "class") n.className = v; else if (k === "text") n.textContent = v;
+    else if (k.startsWith("on")) n.addEventListener(k.slice(2), v); else n.setAttribute(k, v === true ? "" : v);
+  }
+  for (const c of kids.flat()) if (c !== null && c !== undefined && c !== false) n.append(c.nodeType ? c : document.createTextNode(c));
+  return n;
+}
 
-function areaOf(p) {
-  if (p.country === "USA" || p.country === "Canada") return "North America";
-  return (p.country === "Australia" || p.country === "New Zealand") ? "Australia & NZ" : "Europe";
-}
+let A = null, P = [];
+let profile = Object.assign({ fields: [], regions: [], degree: "", sgre: "", ggre: "", english: "", toefl: "", ielts: "", fees: "", funding: "", supervisor: "" }, store.get("atlas2-profile", {}));
+let stars = new Set(store.get("atlas2-stars", []));
+let done = store.get("atlas2-done", {});
+let quick = new Set();
+let shown = PAGE, view = store.get("atlas2-view", "cards");
+
+/* ---------- dates, money ---------- */
 function isDate(s) { return /^\d{4}-\d{2}-\d{2}$/.test(s); }
-function fmtDate(iso) {
-  if (!isDate(iso)) return iso;
-  const d = new Date(iso + "T00:00:00");
-  return d.toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" });
-}
 function todayIso() { const d = new Date(); return new Date(d.getTime() - d.getTimezoneOffset() * 60000).toISOString().slice(0, 10); }
-function addDays(iso, n) { return new Date(new Date(iso + "T00:00:00").getTime() + n * DAY + 12 * 3600000).toISOString().slice(0, 10); }
 function daysLeft(iso) { return Math.round((new Date(iso + "T00:00:00") - new Date(todayIso() + "T00:00:00")) / DAY); }
+function fmtDate(iso, opts) { return isDate(iso) ? new Date(iso + "T00:00:00").toLocaleDateString("en-GB", opts || { day: "numeric", month: "short", year: "numeric" }) : iso; }
 function inr(n) { return "₹" + Math.round(n).toLocaleString("en-IN"); }
-function tone(field, code) {
-  if (UNKNOWN.includes(code) && code === "Not stated") return "na";
-  if (field === "app_fee") return code.startsWith("0") ? "good" : (code === "Not stated" ? "na" : "info");
-  if (field === "deadline" || field === "toefl_min") return code === "Not stated" ? "na" : "info";
-  return (TONE[field] && TONE[field][code]) || "na";
+function leftText(n) { return n < 0 ? "passed" : n === 0 ? "today" : n === 1 ? "tomorrow" : "in " + n + " days"; }
+
+/* ---------- data ---------- */
+async function decode(b64) {
+  const bin = atob(b64), bytes = new Uint8Array(bin.length);
+  for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+  if (typeof DecompressionStream === "undefined") throw new Error("This browser is too old to open the Atlas. Please use a recent Chrome, Edge, Firefox or Safari (2023 or later).");
+  const stream = new Blob([bytes]).stream().pipeThrough(new DecompressionStream("gzip"));
+  return JSON.parse(await new Response(stream).text());
 }
-function label(field, f) {
-  if (field === "deadline") return fmtDate(f.code);
+function unpack(a) {
+  if (!a) return null;
+  const f = { code: a[0], value: a[1], quote: a[2], url: A.urls[a[3]] };
+  if (a[4]) { Object.assign(f, a[4]); if (a[4].also) f.also = a[4].also.map(x => ({ quote: x[0], url: A.urls[x[1]] })); }
+  return f;
+}
+function regionOf(c) {
+  if (c === "USA") return "US"; if (c === "United Kingdom") return "UK"; if (c === "Canada") return "Canada";
+  return (c === "Australia" || c === "New Zealand") ? "Australia & NZ" : "Europe";
+}
+function prepare() {
+  const tax = Object.fromEntries(A.taxonomy.map(t => [t.id, t]));
+  P = A.programs.map(p => {
+    const u = A.unis[p.u];
+    const f = {}, lvl = {};
+    for (const [k] of FIELDS) {
+      if (p.x[k]) { f[k] = unpack(p.x[k]); lvl[k] = "department"; }
+      else if (u.f[k]) { f[k] = unpack(u.f[k]); lvl[k] = "university"; }
+      else { f[k] = Object.assign({}, NS, { url: A.urls[u.g] }); lvl[k] = "university"; }
+    }
+    const t = tax[p.f];
+    const fieldsAll = [p.f].concat(p.a || []);
+    const label = u.school ? u.s : u.s + " · " + t.name;
+    return {
+      id: p.i, uni: p.u, u, field: p.f, fieldsAll, fname: t.name, group: t.group, also: (p.a || []).map(x => tax[x].name),
+      label, title: u.s, pname: p.n, dept: p.d, page: A.urls[p.p],
+      checked: p.k, f, lvl, notes: [p.o, u.o].filter(Boolean).join(" "), inr: p.inr, usd: p.usd,
+      region: regionOf(u.c), country: u.c, place: u.r + ", " + u.c,
+      hay: [label, u.n, p.d, u.r, u.c, t.name, p.n, p.o, (p.a || []).map(x => tax[x].name).join(" ")].join(" ").toLowerCase()
+    };
+  });
+}
+
+/* ---------- fit engine ---------- */
+const NA_SET = new Set(["US", "Canada"]);
+function feeIsZero(p) { return p.f.app_fee.code.startsWith("0"); }
+function fit(p) {
+  const r = [], pr = profile, f = p.f;
+  const c = k => f[k].code;
+  const add = (tone, text) => r.push({ tone, text });
+  const na = NA_SET.has(p.region);
+  const dl = c("deadline");
+  if (isDate(dl) && daysLeft(dl) < 0) add("bad", "This cycle's deadline (" + fmtDate(dl) + ") has passed");
+  if (pr.degree === "bachelor") {
+    const e = c("entry_route");
+    if (e === "Master's usually required") add("bad", "Usually needs a master's first");
+    else if (e === "Not stated") add("warn", "Entry with a bachelor's not stated");
+    else add("good", e === "Either" ? "Bachelor's or master's holders can apply" : "Direct entry from a bachelor's");
+  }
+  if (pr.sgre === "no") {
+    const s = c("gre_subject");
+    if (s === "Required") add("bad", "GRE Subject test required");
+    else if (s === "Recommended") add("warn", "GRE Subject test recommended");
+    else if (s === "Not stated") { if (na && p.fieldsAll.some(x => ["physics", "chemistry", "math", "statistics", "astronomy"].includes(x))) add("warn", "GRE Subject policy not stated"); }
+    else add("good", "No GRE Subject test needed");
+  }
+  if (pr.ggre === "no") {
+    const g = c("gre_general");
+    if (g === "Required") add("bad", "GRE General required");
+    else if (g === "Recommended") add("warn", "GRE General recommended");
+    else if (g === "Not stated") { if (na) add("warn", "GRE General policy not stated"); }
+    else add("good", "No GRE General needed");
+  }
+  if (pr.english === "avoid") {
+    const e = c("english_waiver");
+    if (e === "No") add("bad", "English test needed (Indian degrees not exempt)");
+    else if (e === "Conditional" || e === "Check tool") add("warn", "English-test waiver has conditions");
+    else if (e === "Not stated") add("warn", "English-test waiver not stated");
+    else add("good", "English-medium degree accepted instead of a test");
+  } else if (pr.english === "test") {
+    const t = parseFloat(pr.toefl), ts = c("toefl_min"), tm = parseFloat(ts);
+    const i = parseFloat(pr.ielts), im = parseFloat(c("ielts_min"));
+    if (t && /^\d{2,3}$/.test(ts) && t < tm) add("bad", "Your TOEFL " + t + " is below the minimum " + tm);
+    else if (t && /^\d{2,3}$/.test(ts)) add("good", "TOEFL minimum " + tm + " met");
+    if (i && !isNaN(im) && i < im) add("bad", "Your IELTS " + i + " is below the minimum " + im);
+    else if (i && !isNaN(im)) add("good", "IELTS minimum " + im + " met");
+  }
+  if (pr.fees === "free") {
+    const w = c("fee_waiver");
+    if (feeIsZero(p) || w === "No fee") add("good", "No application fee");
+    else if (w === "Available") add("good", "Fee waiver open to internationals");
+    else if (w === "Limited") add("warn", "Fee waiver only in limited cases");
+    else if (w === "Domestic only" || w === "None") add("bad", (p.inr ? inr(p.inr) + " fee" : "Fee") + ", no waiver for internationals");
+    else add("warn", c("app_fee") === "Not stated" ? "Application fee not stated" : "Fee waiver not stated");
+  }
+  if (pr.funding === "need") {
+    const u = c("funding");
+    if (u === "Guaranteed") add("good", "Funding guaranteed for admitted students");
+    else if (u === "Typical") add("warn", "Most, but not all, students are funded");
+    else if (u === "Competitive") add("warn", "Funding is competitive");
+    else add("warn", "Funding not stated");
+  }
+  if (pr.supervisor === "avoid") {
+    const s = c("supervisor");
+    if (s === "Required") add("bad", "Needs a supervisor's agreement before admission");
+    else if (s === "Not required") add("good", "No supervisor needed before admission");
+  }
+  const bad = r.filter(x => x.tone === "bad").length, warn = r.filter(x => x.tone === "warn").length;
+  const order = { bad: 0, warn: 1, good: 2 };
+  r.sort((a, b) => order[a.tone] - order[b.tone]);
+  const asked = answered() > 0;
+  return { status: !asked ? "none" : bad ? "obstacle" : warn ? "check" : "match", bad, warn, reasons: r };
+}
+function answered() {
+  const p = profile;
+  return ["degree", "sgre", "ggre", "english", "fees", "funding", "supervisor"].filter(k => p[k]).length;
+}
+
+/* ---------- situation panel ---------- */
+function saveProfile() { store.set("atlas2-profile", profile); shown = PAGE; render(); }
+function optButton(text, pressed, onclick, n) {
+  return el("button", { class: "opt", type: "button", "aria-pressed": pressed ? "true" : "false", onclick }, text, n !== undefined ? el("span", { class: "n", text: n }) : null);
+}
+function single(key, label, options, help) {
+  const fs = el("fieldset", { class: "q" }, el("legend", { text: label }));
+  const box = el("div", { class: "opts" });
+  for (const [val, text] of options) {
+    box.append(optButton(text, profile[key] === val, () => { profile[key] = profile[key] === val ? "" : val; saveProfile(); buildSituation(); }));
+  }
+  fs.append(box);
+  if (help) fs.append(el("div", { class: "hint", text: help }));
+  return fs;
+}
+function buildSituation() {
+  const body = $("sitBody"); body.replaceChildren();
+  const counts = {};
+  for (const p of P) for (const x of p.fieldsAll) counts[x] = (counts[x] || 0) + 1;
+  const fs = el("fieldset", { class: "q" }, el("legend", { text: "Fields" }));
+  const box = el("div", { class: "opts" });
+  for (const g of A.groups) {
+    const items = A.taxonomy.filter(t => t.group === g && counts[t.id]);
+    if (!items.length) continue;
+    box.append(el("div", { class: "grp", text: g }));
+    for (const t of items) {
+      const on = profile.fields.includes(t.id);
+      box.append(optButton(t.name, on, () => {
+        profile.fields = on ? profile.fields.filter(x => x !== t.id) : profile.fields.concat(t.id); saveProfile(); buildSituation();
+      }, counts[t.id]));
+    }
+  }
+  fs.append(box, el("div", { class: "hint", text: profile.fields.length ? "" : "None picked = all fields." }));
+  body.append(fs);
+  const rs = el("fieldset", { class: "q" }, el("legend", { text: "Where" }));
+  const rbox = el("div", { class: "opts" });
+  for (const reg of REGIONS) {
+    const n = P.filter(p => p.region === reg).length; if (!n) continue;
+    const on = profile.regions.includes(reg);
+    rbox.append(optButton(reg, on, () => { profile.regions = on ? profile.regions.filter(x => x !== reg) : profile.regions.concat(reg); saveProfile(); buildSituation(); }, n));
+  }
+  rs.append(rbox); body.append(rs);
+  body.append(single("degree", "Your degree by mid-2027", [["bachelor", "Bachelor's (3–4 years)"], ["master", "Master's or 5-year integrated"]],
+    "A 5-year integrated BS-MS or MSc usually counts as a master's. Check each program."));
+  body.append(single("sgre", "GRE Subject test (Physics, Chemistry, Maths…)", [["yes", "I have it / will take it"], ["no", "I won't take it"]]));
+  body.append(single("ggre", "GRE General", [["yes", "I have it / will take it"], ["no", "I won't take it"]]));
+  const eng = single("english", "English", [["test", "I have / will take TOEFL or IELTS"], ["avoid", "Use my English-medium degree"]]);
+  if (profile.english === "test") {
+    const sc = el("div", { class: "scores" });
+    for (const [k, lab, ph] of [["toefl", "TOEFL iBT (0–120)", "e.g. 100"], ["ielts", "IELTS overall", "e.g. 7"]]) {
+      const inp = el("input", { type: "number", inputmode: "decimal", min: "0", max: k === "toefl" ? "120" : "9", step: k === "toefl" ? "1" : "0.5", placeholder: ph, value: profile[k] || "" });
+      inp.addEventListener("change", () => { profile[k] = inp.value; saveProfile(); });
+      sc.append(el("label", {}, lab, inp));
+    }
+    eng.append(sc);
+  }
+  body.append(eng);
+  body.append(single("fees", "Application fees", [["pay", "I can pay them"], ["free", "Only free or waivable"]]));
+  body.append(single("funding", "Funding", [["need", "I need full funding"]]));
+  body.append(single("supervisor", "Contacting supervisors first", [["ok", "Fine with it"], ["avoid", "Prefer programs that don't need it"]]));
+  const n = answered();
+  body.append(el("div", { class: "sit-foot" },
+    el("span", { class: "hint", text: "Saved on this device only." }),
+    el("button", { type: "button", class: "ghost", onclick: () => { profile = { fields: [], regions: [], degree: "", sgre: "", ggre: "", english: "", toefl: "", ielts: "", fees: "", funding: "", supervisor: "" }; saveProfile(); buildSituation(); } }, "Clear all")));
+  const parts = [];
+  if (profile.fields.length) parts.push(profile.fields.length + (profile.fields.length === 1 ? " field" : " fields"));
+  if (profile.regions.length) parts.push(profile.regions.join(", "));
+  if (n) parts.push(n + (n === 1 ? " answer" : " answers"));
+  $("sitCount").textContent = parts.length ? parts.join(" · ") : "tell us, and every program shows how it fits";
+  $("sort").value = $("sort").value || "fit";
+}
+
+/* ---------- filtering + sorting ---------- */
+function visible() {
+  const q = $("q").value.trim().toLowerCase();
+  const plus42 = new Date(Date.now() + 42 * DAY).toISOString().slice(0, 10);
+  const out = [];
+  for (const p of P) {
+    if (profile.fields.length && !p.fieldsAll.some(x => profile.fields.includes(x))) continue;
+    if (profile.regions.length && !profile.regions.includes(p.region)) continue;
+    if (q && !q.split(/\s+/).every(w => p.hay.includes(w))) continue;
+    if (quick.has("starred") && !stars.has(p.id)) continue;
+    if (quick.has("nofee") && !(feeIsZero(p) || ["Available", "Limited", "No fee"].includes(p.f.fee_waiver.code))) continue;
+    if (quick.has("funded") && p.f.funding.code !== "Guaranteed") continue;
+    const dl = p.f.deadline.code;
+    if (quick.has("soon") && !(isDate(dl) && dl >= todayIso() && dl <= plus42)) continue;
+    const ft = fit(p);
+    if (quick.has("hideobs") && ft.status === "obstacle") continue;
+    out.push([p, ft]);
+  }
+  const s = $("sort").value;
+  const rank = { match: 0, check: 1, none: 1, obstacle: 2 };
+  const dkey = p => { const d = p.f.deadline.code; return isDate(d) ? (d < todayIso() ? "8" + d : d) : "9" + d; };
+  const fee = p => p.inr === null || p.inr === undefined ? Infinity : p.inr;
+  out.sort(([a, fa], [b, fb]) => {
+    if (s === "fit") return rank[fa.status] - rank[fb.status] || fa.warn - fb.warn || dkey(a).localeCompare(dkey(b)) || a.label.localeCompare(b.label);
+    if (s === "deadline") return dkey(a).localeCompare(dkey(b)) || a.label.localeCompare(b.label);
+    if (s === "fee") return fee(a) - fee(b) || a.label.localeCompare(b.label);
+    return a.label.localeCompare(b.label);
+  });
+  return out;
+}
+
+/* ---------- pieces ---------- */
+function tone(k, code) {
+  if (code === "Not stated") return "na";
+  if (k === "app_fee") return code.startsWith("0") ? "good" : "info";
+  if (k === "deadline" || k === "toefl_min" || k === "ielts_min") return "info";
+  return (TONE[k] && TONE[k][code]) || "info";
+}
+function shortCode(k, f) {
+  if (f.code === "Not stated") return "—";
+  if (k === "deadline") return isDate(f.code) ? fmtDate(f.code) : f.code;
   return f.code;
 }
+function feeFact(p) {
+  const f = p.f.app_fee, w = p.f.fee_waiver.code;
+  if (f.code === "Not stated") return { v: "Not stated", s: w !== "Not stated" ? "waiver: " + w.toLowerCase() : "", t: "" };
+  if (f.code.startsWith("0")) return { v: "No fee", s: f.code.includes("waived") ? "waived this cycle" : "", t: "good" };
+  const sub = w === "Available" ? "intl waiver" : w === "Limited" ? "limited waivers" : w === "Domestic only" || w === "None" ? "no intl waiver" : f.code;
+  return { v: p.inr ? inr(p.inr) : f.code, s: sub, t: w === "Available" ? "good" : "" };
+}
+function deadlineFact(p) {
+  const d = p.f.deadline;
+  if (!isDate(d.code)) return { v: d.code === "Not stated" ? "Not stated" : d.code, s: d.code === "Per position" ? "apply to adverts" : d.code === "Rolling" ? "open now" : "", soon: false };
+  const n = daysLeft(d.code);
+  return { v: fmtDate(d.code, { day: "numeric", month: "short" }), s: leftText(n) + (d.inferred ? " · year inferred" : ""), soon: n >= 0 && n <= 21 };
+}
+function fundFact(p) {
+  const c = p.f.funding.code;
+  return { v: c === "Not stated" ? "Not stated" : c, s: c === "Guaranteed" ? "all admitted" : c === "Typical" ? "most funded" : c === "Competitive" ? "apply for it" : "", t: c === "Guaranteed" ? "good" : "" };
+}
+function fact(label, x, k, p) {
+  return el("button", { type: "button", class: "fact" + (x.t ? " t-" + x.t : ""), onclick: () => openDetail(p, k), title: "Show the official sentence" },
+    el("small", { text: label }), el("span", { text: x.v }), el("em", { class: x.soon ? "soon" : "", text: x.s || " " }));
+}
+function starBtn(p) {
+  const on = stars.has(p.id);
+  return el("button", { class: "star", type: "button", "aria-pressed": on ? "true" : "false", "aria-label": (on ? "Remove " : "Add ") + p.label + (on ? " from" : " to") + " your plan", title: on ? "Remove from My plan" : "Add to My plan",
+    onclick: e => { e.stopPropagation(); on ? stars.delete(p.id) : stars.add(p.id); store.set("atlas2-stars", [...stars]); $("starCount").textContent = stars.size; render(true); } }, on ? "★" : "☆");
+}
+function metaText(p, full) {
+  const parts = [];
+  for (const x of [p.pname, full ? p.u.n : "", p.dept, p.place]) if (x && x !== p.title && !parts.includes(x)) parts.push(x);
+  return parts.join(" · ");
+}
+function fieldTag(p) {
+  return el("div", { class: "ftag", style: "--gc: var(" + (GROUP_COLOR[p.group] || "--accent") + ")" }, p.fname, p.also.length ? el("span", { class: "also", text: " + " + p.also.join(", ") }) : null);
+}
+const FIT_TEXT = { match: "Strong match for you", check: "Check first", obstacle: "Obstacle for you" };
+function card(p, ft) {
+  const c = el("article", { class: "panel card" + (ft.status !== "none" ? " fit-" + ft.status : "") });
+  c.append(el("div", { class: "card-top" }, el("div", {}, fieldTag(p), el("h3", { text: p.title }), el("div", { class: "meta", text: metaText(p, false) })), starBtn(p)));
+  c.append(el("div", { class: "facts" }, fact("Deadline", deadlineFact(p), "deadline", p), fact("Fee", feeFact(p), "app_fee", p), fact("Funding", fundFact(p), "funding", p)));
+  if (ft.status !== "none") {
+    const n = ft.status === "obstacle" ? ft.bad : ft.warn;
+    c.append(el("div", { class: "fitline " + ft.status }, el("span", { class: "dot " + (ft.status === "match" ? "good" : ft.status === "check" ? "warn" : "bad") }),
+      FIT_TEXT[ft.status] + (ft.status !== "match" ? " (" + n + ")" : "")));
+    const ul = el("ul", { class: "reasons" });
+    const list = ft.reasons.slice(0, 4);
+    for (const r of list) ul.append(el("li", { class: r.tone, text: r.text }));
+    if (ft.reasons.length > 4) ul.append(el("li", { class: "good", text: "+" + (ft.reasons.length - 4) + " more in details" }));
+    c.append(ul);
+  } else {
+    const bs = el("div", { class: "badges" });
+    for (const k of ["gre_subject", "english_waiver", "supervisor", "entry_route"]) {
+      const f = p.f[k]; if (f.code === "Not stated") continue;
+      const lab = { gre_subject: "Subject GRE: ", english_waiver: "English waiver: ", supervisor: "Supervisor first: ", entry_route: "" }[k];
+      bs.append(el("span", { class: "b b-" + tone(k, f.code), text: lab + f.code }));
+    }
+    c.append(bs);
+  }
+  const unstated = FIELDS.filter(([k]) => p.f[k].code === "Not stated").map(([, n]) => n.replace(/ \(.*\)$/, ""));
+  if (unstated.length) c.append(el("div", { class: "unstated", text: "Not stated on official pages: " + unstated.join(", ") }));
+  c.append(el("div", { class: "card-foot" }, el("button", { type: "button", class: "ghost", onclick: () => openDetail(p) }, "Details and sources"),
+    el("a", { href: p.page, target: "_blank", rel: "noopener" }, "Program page ↗")));
+  return c;
+}
+function table(list) {
+  const cols = [["deadline", "Deadline"], ["app_fee", "Fee"], ["fee_waiver", "Waiver"], ["gre_general", "GRE"], ["gre_subject", "Subject GRE"],
+    ["toefl_min", "TOEFL"], ["ielts_min", "IELTS"], ["english_waiver", "English waiver"], ["supervisor", "Supervisor"], ["funding", "Funding"], ["entry_route", "Entry"]];
+  const t = el("table", { class: "grid" });
+  t.append(el("thead", {}, el("tr", {}, el("th", { text: "★" }), el("th", { text: "Program" }), el("th", { text: "Fit" }), cols.map(([, n]) => el("th", { text: n })))));
+  const tb = el("tbody");
+  for (const [p, ft] of list) {
+    const tr = el("tr");
+    tr.append(el("td", {}, starBtn(p)), el("td", { class: "prog" }, el("b", { text: p.label }), el("span", { text: p.place })),
+      el("td", {}, ft.status === "none" ? "" : el("span", { class: "b b-" + (ft.status === "match" ? "good" : ft.status === "check" ? "warn" : "bad"), text: ft.status === "match" ? "Match" : ft.status === "check" ? "Check " + ft.warn : "Obstacle" })));
+    for (const [k] of cols) {
+      const f = p.f[k];
+      let txt = shortCode(k, f);
+      if (k === "app_fee" && p.inr) txt = inr(p.inr);
+      tr.append(el("td", {}, el("button", { type: "button", class: "cellbtn b b-" + tone(k, f.code), onclick: () => openDetail(p, k), title: f.value }, txt)));
+    }
+    tb.append(tr);
+  }
+  t.append(tb);
+  return el("div", { class: "panel tablewrap" }, t);
+}
+
+/* ---------- render ---------- */
+function render(keepPage) {
+  if (!keepPage) shown = PAGE;
+  const list = visible();
+  const res = $("results"); res.replaceChildren();
+  const counts = { match: 0, check: 0, obstacle: 0 };
+  for (const [, ft] of list) if (counts[ft.status] !== undefined) counts[ft.status]++;
+  const sum = $("summary"); sum.replaceChildren(el("span", {}, el("b", { text: list.length.toLocaleString("en-IN") }), " of " + P.length.toLocaleString("en-IN") + " programs"));
+  if (answered()) {
+    sum.append(el("span", {}, el("i", { class: "dot good" }), counts.match + " strong matches"), el("span", {}, el("i", { class: "dot warn" }), counts.check + " to check"), el("span", {}, el("i", { class: "dot bad" }), counts.obstacle + " with an obstacle"));
+  } else {
+    sum.append(el("span", { text: "· answer “Your situation” to see what fits you" }));
+  }
+  if (!list.length) { res.append(el("div", { class: "panel empty", text: "No programs match. Remove a field, a region or a quick filter." })); $("moreBtn").hidden = true; return; }
+  const page = list.slice(0, shown);
+  if (view === "table" && matchMedia("(min-width: 921px)").matches) res.append(table(page));
+  else { const g = el("div", { class: "cards" }); for (const [p, ft] of page) g.append(card(p, ft)); res.append(g); }
+  const rest = list.length - shown;
+  $("moreBtn").hidden = rest <= 0;
+  $("moreBtn").textContent = "Show " + Math.min(PAGE, rest) + " more (" + rest + " left)";
+  for (const b of document.querySelectorAll("[data-quick]")) b.setAttribute("aria-pressed", quick.has(b.dataset.quick) ? "true" : "false");
+}
+
+/* ---------- detail ---------- */
 function flags(f) {
   const out = [];
-  if (f.inferred) out.push("year inferred");
-  if (f.rolling) out.push("rolling");
-  if (f.conflict) out.push("sources conflict");
+  if (f.inferred) out.push("year inferred from the day and month on the page");
+  if (f.rolling) out.push("rolling review");
+  if (f.conflict) out.push("official pages disagree; we show the safer value");
   if (f.time_sensitive) out.push("act by " + fmtDate(f.time_sensitive));
   if (f.scope) out.push(f.scope);
   return out;
 }
-function hintFor(p, field) {
-  const f = p.fields[field];
-  if (field === "deadline" && isDate(f.code)) {
-    const n = daysLeft(f.code);
-    if (n < 0) return { text: "date has passed", soon: false };
-    return { text: n === 0 ? "today" : "in " + n + (n === 1 ? " day" : " days"), soon: n <= 21 };
+function openDetail(p, focusKey) {
+  $("dTag").replaceChildren(fieldTag(p));
+  $("dTitle").textContent = p.u.school ? p.u.s : p.u.s + " · " + p.fname;
+  $("dMeta").textContent = metaText(p, true);
+  const body = $("dBody"); body.replaceChildren();
+  const ft = fit(p);
+  if (ft.status !== "none") {
+    const ul = el("ul", { class: "reasons" }); for (const r of ft.reasons) ul.append(el("li", { class: r.tone, text: r.text }));
+    body.append(el("div", { class: "d-sec", text: "For you: " + FIT_TEXT[ft.status] }), ul);
   }
-  if (field === "app_fee" && p.fee_inr) return { text: "≈ " + inr(p.fee_inr), soon: false };
-  return null;
-}
-function cellButton(p, field) {
-  const f = p.fields[field];
-  const b = document.createElement("button");
-  b.className = "cell b-" + tone(field, f.code);
-  b.type = "button";
-  b.textContent = label(field, f);
-  b.title = f.value;
-  b.addEventListener("click", () => openDetail(p, field));
-  const wrap = document.createElement("div");
-  wrap.appendChild(b);
-  const h = hintFor(p, field);
-  if (h) { const s = document.createElement("span"); s.className = "hint" + (h.soon ? " soon" : ""); s.textContent = h.text; wrap.appendChild(s); }
-  const fl = flags(f);
-  if (fl.length) { const s = document.createElement("span"); s.className = "flag"; s.textContent = fl.join(" · "); wrap.appendChild(s); }
-  return wrap;
-}
-function starButton(p) {
-  const b = document.createElement("button");
-  b.className = "star"; b.type = "button";
-  b.setAttribute("aria-pressed", stars.has(p.id));
-  b.setAttribute("aria-label", (stars.has(p.id) ? "Remove " : "Add ") + p.short + (stars.has(p.id) ? " from" : " to") + " shortlist");
-  b.textContent = stars.has(p.id) ? "★" : "☆";
-  b.addEventListener("click", () => {
-    stars.has(p.id) ? stars.delete(p.id) : stars.add(p.id);
-    store.set("atlas-stars", [...stars]);
-    render();
-  });
-  return b;
-}
-function openDetail(p, field) {
-  const f = p.fields[field];
-  $("dTitle").textContent = p.short + (p.short === p.institution ? "" : " · " + p.institution);
-  $("dField").textContent = (FIELDS.find(x => x[0] === field) || [field, field])[1] + " · " + p.department;
-  $("dValue").textContent = f.value;
-  const q = $("dQuote");
-  q.textContent = f.quote ? "“" + f.quote + "”" : "No statement found on the official pages checked. Ask the program before you rely on this.";
-  if (f.also && f.also.length) q.textContent += "  Also: “" + f.also.map(a => a.quote).join("” “") + "”";
-  const extra = [];
-  if (field === "app_fee" && p.fee_usd) extra.push("About USD " + p.fee_usd + " or " + inr(p.fee_inr) + " at the " + ATLAS.fx.source + " rate of " + fmtDate(ATLAS.fx.date) + ". Your bank or card adds a margin.");
-  if (field === "deadline" && isDate(f.code)) { const n = daysLeft(f.code); extra.push(n >= 0 ? n + " days from today." : "This date has passed; check the page for the next round."); }
-  if (p.notes) extra.push("Program note: " + p.notes);
-  $("dExtra").textContent = extra.join(" ");
-  const fl = flags(f);
-  $("dMeta").textContent = "Checked " + fmtDate(p.checked) + (fl.length ? " · " + fl.join(" · ") : "");
-  $("dLink").href = f.url;
-  $("detail").showModal();
-}
-function matches(p) {
-  const q = $("q").value.trim().toLowerCase();
-  if (q) {
-    const hay = [p.short, p.institution, p.department, p.region, p.country, p.notes].concat(FIELDS.map(([k]) => p.fields[k].value)).join(" ").toLowerCase();
-    if (!hay.includes(q)) return false;
+  const unstated = [];
+  let focusRow = null;
+  for (const [title, keys] of SECTIONS) {
+    const rows = [];
+    for (const k of keys) {
+      const f = p.f[k], name = FIELDS.find(x => x[0] === k)[1];
+      if (f.code === "Not stated") { unstated.push(name); continue; }
+      const val = el("div", {}, el("span", { class: "b b-" + tone(k, f.code), text: k === "deadline" && isDate(f.code) ? fmtDate(f.code) + " (" + leftText(daysLeft(f.code)) + ")" : f.code }),
+        el("p", { text: f.value }));
+      if (k === "app_fee" && p.inr) val.append(el("p", { class: "hint", text: "About " + inr(p.inr) + (p.usd ? " (USD " + p.usd + ")" : "") + " at the " + A.fx.source + " rate of " + fmtDate(A.fx.date) + ". Your bank or card adds a margin." }));
+      if (f.quote) val.append(el("blockquote", { text: "“" + f.quote + "”" }));
+      for (const a of (f.also || [])) val.append(el("blockquote", { text: "“" + a.quote + "”" }), el("a", { class: "src", href: a.url, target: "_blank", rel: "noopener", text: "Second source ↗" }));
+      const fl = flags(f); if (fl.length) val.append(el("span", { class: "flag", text: fl.join(" · ") }));
+      val.append(el("a", { class: "src", href: f.url, target: "_blank", rel: "noopener", text: "Official source ↗" }));
+      const row = el("div", { class: "row" }, el("div", { class: "k" }, name, el("span", { class: "lvl", text: p.lvl[k] === "university" ? "University-wide rule" : "Set by the program" })), val);
+      if (k === focusKey) focusRow = row;
+      rows.push(row);
+    }
+    if (rows.length) body.append(el("div", { class: "d-sec", text: title }), ...rows);
   }
-  if ($("area").value && areaOf(p) !== $("area").value) return false;
-  if ($("country").value && p.country !== $("country").value) return false;
-  const w = $("waiver").value, fw = p.fields.fee_waiver.code, fee = p.fields.app_fee.code;
-  const waiverRoute = ["Available","Limited"].includes(fw), noFee = fee.startsWith("0");
-  if (w === "yes" && !waiverRoute) return false;
-  if (w === "free" && !noFee) return false;
-  if (w === "either" && !(waiverRoute || noFee)) return false;
-  const g = $("pgre").value, pg = p.fields.gre_physics.code;
-  if (g === "required" && pg !== "Required") return false;
-  if (g === "norequired" && ["Required","Not stated"].includes(pg)) return false;
-  const e = $("eng").value, ew = p.fields.english_waiver.code;
-  if (e === "yes" && ew !== "Yes") return false;
-  if (e === "possible" && !["Yes","Conditional"].includes(ew)) return false;
-  if ($("sup").value && p.fields.supervisor.code !== $("sup").value) return false;
-  const fu = $("fund").value, fc = p.fields.funding.code;
-  if (fu === "funded" && !["Guaranteed","Typical"].includes(fc)) return false;
-  if (fu === "Guaranteed" && fc !== "Guaranteed") return false;
-  const en = $("entry").value, ec = p.fields.entry_route.code;
-  if (en === "bachelor" && !["Direct from bachelor's","Either"].includes(ec)) return false;
-  if (en === "masters" && ec !== "Master's usually required") return false;
-  const before = $("before").value, dl = p.fields.deadline.code;
-  if (before && (!isDate(dl) || dl > before || dl < todayIso())) return false;
-  if ($("onlyStar").getAttribute("aria-pressed") === "true" && !stars.has(p.id)) return false;
-  return true;
+  if (unstated.length) body.append(el("div", { class: "note-box" }, el("b", { text: "Not stated on the official pages we checked: " }), unstated.join(", ") + ". That is not a “no”. Ask the program before you rely on it."));
+  if (p.notes) body.append(el("div", { class: "d-sec", text: "Notes" }), el("p", { text: p.notes }));
+  body.append(el("p", { class: "hint" }, "Checked " + fmtDate(p.checked) + " · ", el("a", { href: p.page, target: "_blank", rel: "noopener", text: "Program page ↗" }), " · ",
+    el("a", { href: A.urls[p.u.g], target: "_blank", rel: "noopener", text: "Graduate admissions page ↗" })));
+  const sb = starBtn(p); sb.classList.add("primary"); sb.textContent = stars.has(p.id) ? "★ In My plan" : "☆ Add to My plan";
+  sb.addEventListener("click", () => { sb.textContent = stars.has(p.id) ? "★ In My plan" : "☆ Add to My plan"; });
+  body.append(sb);
+  if (!$("detail").open) $("detail").showModal();
+  if (focusRow) setTimeout(() => focusRow.scrollIntoView({ block: "center" }), 0); else $("dBody").scrollTop = 0;
 }
-function feeKey(p) { return p.fee_usd === null || p.fee_usd === undefined ? Infinity : p.fee_usd; }
-function sorted(list) {
-  const s = $("sort").value;
-  return list.slice().sort((a, b) => {
-    if (s === "name") return a.short.localeCompare(b.short);
-    if (s === "fee") return feeKey(a) - feeKey(b) || a.short.localeCompare(b.short);
-    const da = a.fields.deadline.code, db = b.fields.deadline.code;
-    const ka = isDate(da) ? da : "9" + da, kb = isDate(db) ? db : "9" + db;
-    return ka < kb ? -1 : ka > kb ? 1 : a.short.localeCompare(b.short);
-  });
-}
-function progCell(p) {
-  const td = document.createElement("td"); td.className = "prog";
-  const nm = document.createElement("b"); nm.textContent = p.short;
-  const inst = document.createElement("span"); inst.className = "inst dept";
-  inst.textContent = (p.short === p.institution ? "" : p.institution + " · ") + p.department;
-  inst.title = inst.textContent;
-  const loc = document.createElement("span"); loc.className = "inst"; loc.textContent = p.region + ", " + p.country;
-  const lk = document.createElement("a"); lk.href = p.program_page; lk.target = "_blank"; lk.rel = "noopener"; lk.textContent = "Admissions page ↗";
-  td.append(nm, inst, loc, lk);
-  return td;
-}
-function syncPicks() {
-  const plus42 = addDays(todayIso(), 42);
-  for (const b of document.querySelectorAll("[data-pick]")) {
-    const [id, val] = b.dataset.pick.split("=");
-    const on = val === "+42" ? $(id).value === plus42 : $(id).value === val;
-    b.setAttribute("aria-pressed", on);
-  }
-  const active = FILTER_IDS.filter(id => $(id).value).length + ($("onlyStar").getAttribute("aria-pressed") === "true" ? 1 : 0);
-  $("filtersSummary").textContent = active ? "Filters (" + active + " active)" : "Filters";
-}
-function render() {
-  const list = sorted(ATLAS.programs.filter(matches));
-  const tbody = $("rows"); tbody.replaceChildren();
-  const cards = $("cards"); cards.replaceChildren();
-  for (const p of list) {
-    const tr = document.createElement("tr");
-    const tdS = document.createElement("td"); tdS.appendChild(starButton(p)); tr.appendChild(tdS);
-    tr.appendChild(progCell(p));
-    for (const [k] of FIELDS) { const td = document.createElement("td"); td.appendChild(cellButton(p, k)); tr.appendChild(td); }
-    tbody.appendChild(tr);
 
-    const card = document.createElement("article"); card.className = "card";
-    const h = document.createElement("h3"); h.textContent = p.short;
-    const meta = document.createElement("div"); meta.className = "meta";
-    meta.textContent = (p.short === p.institution ? "" : p.institution + " · ") + p.department + " · " + p.region + ", " + p.country;
-    meta.title = meta.textContent;
-    const top = document.createElement("div"); top.style.display = "flex"; top.style.justifyContent = "space-between"; top.style.gap = "8px";
-    const tl = document.createElement("div"); tl.append(h, meta); top.append(tl, starButton(p));
-    const dl = document.createElement("dl");
-    for (const [k, name] of FIELDS) { const dt = document.createElement("dt"); dt.textContent = name; const dd = document.createElement("dd"); dd.appendChild(cellButton(p, k)); dl.append(dt, dd); }
-    const lk = document.createElement("a"); lk.href = p.program_page; lk.target = "_blank"; lk.rel = "noopener"; lk.textContent = "Admissions page ↗";
-    lk.style.display = "inline-block"; lk.style.marginTop = "8px";
-    card.append(top, dl, lk); cards.appendChild(card);
+/* ---------- plan ---------- */
+function tasks(p) {
+  const f = p.f, out = [];
+  const dl = f.deadline;
+  const fee = f.app_fee.code, w = f.fee_waiver.code;
+  if (f.supervisor.code === "Required") out.push(["sup", "Get a potential supervisor's agreement before you apply"]);
+  else if (f.supervisor.code === "Recommended") out.push(["sup", "Email 2–3 potential supervisors (see Playbook)"]);
+  if (!fee.startsWith("0") && (w === "Available" || w === "Limited")) out.push(["waiver", "Request the application-fee waiver" + (f.fee_waiver.time_sensitive ? " by " + fmtDate(f.fee_waiver.time_sensitive) : " before you pay")]);
+  if (f.gre_subject.code === "Required" || f.gre_subject.code === "Recommended") out.push(["sgre", "Take the GRE Subject test and send scores (" + f.gre_subject.code.toLowerCase() + ")"]);
+  if (f.gre_general.code === "Required" || f.gre_general.code === "Recommended") out.push(["ggre", "Send GRE General scores (" + f.gre_general.code.toLowerCase() + ")"]);
+  const e = f.english_waiver.code;
+  if (e === "Yes" || e === "Conditional") out.push(["eng", "Get an English-medium (MOI) certificate from your university" + (e === "Conditional" ? " and check the conditions" : "")]);
+  else {
+    const mins = [f.toefl_min.code !== "Not stated" ? "TOEFL " + f.toefl_min.code : "", f.ielts_min.code !== "Not stated" ? "IELTS " + f.ielts_min.code : ""].filter(Boolean).join(" / ");
+    out.push(["eng", "Send English-test scores" + (mins ? " (minimum " + mins + ")" : "")]);
   }
+  out.push(["letters", "Confirm 3 recommenders and send them the deadline"]);
+  out.push(["sop", "Tailor your statement of purpose to this program"]);
+  if (fee !== "Not stated" && !fee.startsWith("0")) out.push(["fee", "Pay the application fee (" + (p.inr ? inr(p.inr) : fee) + ") unless waived"]);
+  out.push(["submit", isDate(dl.code) ? "Submit by " + fmtDate(dl.code) : dl.code === "Per position" ? "Find and apply to an advertised position" : dl.code === "Rolling" ? "Submit early (rolling review)" : "Find the deadline on the program page"]);
+  const ns = FIELDS.filter(([k]) => f[k].code === "Not stated").map(([, n]) => n.replace(/ \(.*\)$/, "").toLowerCase());
+  if (ns.length) out.push(["ask", "Ask the program about: " + ns.join(", ")]);
+  return out;
+}
+function planEvents(list) {
+  const ev = [];
+  for (const p of list) {
+    const dl = p.f.deadline;
+    if (isDate(dl.code)) ev.push({ date: dl.code, p, what: "Application deadline" + (dl.inferred ? " (year inferred)" : "") });
+    for (const [k, n] of FIELDS) {
+      const ts = p.f[k].time_sensitive;
+      if (ts && !(k === "deadline" && ts === dl.code)) ev.push({ date: ts, p, what: "Act by: " + n.replace(/ \(.*\)$/, "").toLowerCase() });
+    }
+  }
+  return ev.sort((a, b) => a.date.localeCompare(b.date) || a.p.label.localeCompare(b.p.label));
+}
+function renderPlan() {
+  const v = $("view-plan"); v.replaceChildren();
+  const list = P.filter(p => stars.has(p.id));
   if (!list.length) {
-    const tr = document.createElement("tr"); const td = document.createElement("td"); td.colSpan = 12; td.className = "empty";
-    td.textContent = "No programs match all of these filters. Remove one, or press Reset.";
-    tr.appendChild(td); tbody.appendChild(tr);
-    const e = document.createElement("div"); e.className = "empty card"; e.textContent = td.textContent; cards.appendChild(e);
+    v.append(el("div", { class: "panel empty" }, el("p", {}, el("b", { text: "Your plan is empty." })),
+      el("p", { text: "Tap ☆ on any program in Find programs. Your plan then shows every deadline in date order, the total fees in rupees and a checklist per program, and you can download it all to your calendar." }),
+      el("button", { type: "button", class: "primary", onclick: () => showTab("find") }, "Find programs")));
+    return;
   }
-  $("summary").textContent = list.length + " of " + ATLAS.programs.length + " programs shown · " + stars.size + " on your shortlist · tap any value to see the official quote";
-  syncPicks();
-}
-function exportCsv() {
-  const chosen = ATLAS.programs.filter(p => stars.has(p.id));
-  const rows = chosen.length ? chosen : ATLAS.programs.filter(matches);
-  const head = ["Program","Institution","Department","Country"].concat(FIELDS.map(f => f[1])).concat(["Fee approx. INR","Admissions page"]);
-  const esc = v => '"' + String(v).replace(/"/g, '""') + '"';
-  const lines = [head.map(esc).join(",")].concat(rows.map(p => [p.short, p.institution, p.department, p.country]
-    .concat(FIELDS.map(([k]) => p.fields[k].code + (p.fields[k].code === p.fields[k].value ? "" : " - " + p.fields[k].value)))
-    .concat([p.fee_inr === null || p.fee_inr === undefined ? "" : Math.round(p.fee_inr), p.program_page]).map(esc).join(",")));
-  const blob = new Blob(["﻿" + lines.join("\r\n")], { type: "text/csv" });
-  const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "my-shortlist.csv"; a.click();
-  setTimeout(() => URL.revokeObjectURL(a.href), 1000);
-}
-function init() {
-  const countries = [...new Set(ATLAS.programs.map(p => p.country))].sort();
-  for (const c of countries) { const o = document.createElement("option"); o.textContent = c; $("country").appendChild(o); }
-  const count = pred => ATLAS.programs.filter(pred).length;
-  const parts = [[count(p => p.country === "USA"), "US"], [count(p => p.country === "United Kingdom"), "UK"],
-    [count(p => areaOf(p) === "Europe" && p.country !== "United Kingdom"), "rest of Europe"],
-    [count(p => areaOf(p) === "Australia & NZ"), "Australia & NZ"], [count(p => p.country === "Canada"), "Canada"]]
-    .filter(([n]) => n > 0).map(([n, l]) => n + " " + l);
-  $("subtitle").textContent = ATLAS.programs.length + " physics PhD programs (" + parts.join(", ") + ") · 2027 entry · every value linked to an official quote · data checked " + fmtDate(ATLAS.checked) + " · v" + ATLAS.version;
-  $("foot").textContent = "Version " + ATLAS.version + ". 'Not stated' means the official pages we checked did not say; it is not a 'no'. 'Year inferred' means the page gave a day and month only. Rupee amounts are approximate, converted at the " + ATLAS.fx.source + " rate of " + fmtDate(ATLAS.fx.date) + " (1 USD ≈ ₹" + ATLAS.fx.usd_inr + ").";
-  for (const id of FILTER_IDS.concat(["sort"])) $(id).addEventListener("input", render);
-  for (const b of document.querySelectorAll("[data-pick]")) {
-    b.addEventListener("click", () => {
-      const [id, val] = b.dataset.pick.split("=");
-      const target = val === "+42" ? addDays(todayIso(), 42) : val;
-      $(id).value = $(id).value === target ? "" : target;
-      render();
-    });
+  const dated = list.filter(p => isDate(p.f.deadline.code) && daysLeft(p.f.deadline.code) >= 0).sort((a, b) => a.f.deadline.code.localeCompare(b.f.deadline.code));
+  const payable = list.filter(p => p.inr), total = payable.reduce((s, p) => s + p.inr, 0);
+  const waivable = payable.filter(p => ["Available", "Limited"].includes(p.f.fee_waiver.code));
+  const unknownFee = list.filter(p => p.inr === null || p.inr === undefined).length;
+  const allT = list.flatMap(p => tasks(p).map(([k]) => p.id + ":" + k)), doneN = allT.filter(k => done[k]).length;
+  v.append(el("div", { class: "plan-grid" },
+    el("div", { class: "panel stat" }, el("small", { text: "Programs" }), el("b", { text: list.length }), el("span", { text: [...new Set(list.map(p => p.fname))].length + " fields · " + [...new Set(list.map(p => p.country))].length + " countries" })),
+    el("div", { class: "panel stat" }, el("small", { text: "Next deadline" }), el("b", { text: dated.length ? fmtDate(dated[0].f.deadline.code, { day: "numeric", month: "short" }) : "—" }), el("span", { text: dated.length ? dated[0].label + " · " + leftText(daysLeft(dated[0].f.deadline.code)) : "no dated deadlines ahead" })),
+    el("div", { class: "panel stat" }, el("small", { text: "Application fees" }), el("b", { text: inr(total) }), el("span", { text: (waivable.length ? waivable.length + " offer a waiver route (up to " + inr(waivable.reduce((s, p) => s + p.inr, 0)) + ")" : "no waiver routes on your list") + (unknownFee ? " · " + unknownFee + " not stated" : "") })),
+    el("div", { class: "panel stat" }, el("small", { text: "Checklist" }), el("b", { text: doneN + " / " + allT.length }), el("div", { class: "progress" }, el("i", { style: "width:" + (allT.length ? Math.round(100 * doneN / allT.length) : 0) + "%" })))));
+  v.append(el("div", { class: "plan-actions" },
+    el("button", { type: "button", class: "primary", onclick: () => downloadIcs(list) }, "Add deadlines to my calendar (.ics)"),
+    el("button", { type: "button", onclick: () => downloadCsv(list) }, "Download as spreadsheet (.csv)"),
+    el("button", { type: "button", onclick: () => window.print() }, "Print")));
+  const tl = el("div", { class: "panel timeline" }, el("div", { class: "d-sec", text: "Timeline" }));
+  let month = "";
+  const ev = planEvents(list);
+  if (!ev.length) tl.append(el("p", { class: "hint", text: "None of your programs has a fixed date. They are rolling or per-position; see each checklist." }));
+  for (const e of ev) {
+    const m = fmtDate(e.date, { month: "long", year: "numeric" });
+    if (m !== month) { tl.append(el("div", { class: "tl-month", text: m })); month = m; }
+    const n = daysLeft(e.date);
+    tl.append(el("div", { class: "tl-item" + (n < 0 ? " past" : "") }, el("span", { class: "when", text: fmtDate(e.date, { weekday: "short", day: "numeric", month: "short" }) }),
+      el("span", {}, el("b", { text: e.p.label }), " · " + e.what), el("span", { class: "left" + (n >= 0 && n <= 14 ? " soon" : ""), text: leftText(n) })));
   }
-  $("onlyStar").addEventListener("click", e => { const b = e.currentTarget; b.setAttribute("aria-pressed", b.getAttribute("aria-pressed") !== "true"); render(); });
-  $("reset").addEventListener("click", () => { for (const id of FILTER_IDS) $(id).value = ""; $("sort").value = "deadline"; $("onlyStar").setAttribute("aria-pressed", "false"); render(); });
-  $("exportBtn").addEventListener("click", exportCsv);
+  const undated = list.filter(p => !isDate(p.f.deadline.code));
+  if (undated.length) tl.append(el("div", { class: "tl-month", text: "No fixed date" }), ...undated.map(p => el("div", { class: "tl-item" }, el("span", { class: "when", text: p.f.deadline.code }), el("span", {}, el("b", { text: p.label })), el("span"))));
+  v.append(tl);
+  v.append(el("div", { class: "d-sec", text: "Checklist per program" }));
+  const byDate = list.slice().sort((a, b) => (isDate(a.f.deadline.code) ? a.f.deadline.code : "9") .localeCompare(isDate(b.f.deadline.code) ? b.f.deadline.code : "9"));
+  for (const p of byDate) {
+    const box = el("div", { class: "panel todo" });
+    const dl = p.f.deadline.code;
+    box.append(el("h3", {}, el("span", {}, p.label), el("small", { text: isDate(dl) ? fmtDate(dl) + " · " + leftText(daysLeft(dl)) : dl })));
+    const ul = el("ul");
+    for (const [k, text] of tasks(p)) {
+      const key = p.id + ":" + k;
+      const cb = el("input", { type: "checkbox" }); cb.checked = !!done[key];
+      cb.addEventListener("change", () => { if (cb.checked) done[key] = 1; else delete done[key]; store.set("atlas2-done", done); renderPlan(); });
+      ul.append(el("li", { class: done[key] ? "done" : "" }, el("label", {}, cb, el("span", { text: text }))));
+    }
+    box.append(ul, el("div", { class: "card-foot" }, el("button", { type: "button", class: "ghost", onclick: () => openDetail(p) }, "Details and sources"),
+      el("button", { type: "button", class: "ghost", onclick: () => { stars.delete(p.id); store.set("atlas2-stars", [...stars]); $("starCount").textContent = stars.size; renderPlan(); } }, "Remove")));
+    v.append(box);
+  }
+}
+function download(name, text, type) {
+  const a = el("a", { href: URL.createObjectURL(new Blob([text], { type })), download: name });
+  document.body.append(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 1500);
+}
+function icsEsc(s) { return String(s).replace(/\\/g, "\\\\").replace(/;/g, "\\;").replace(/,/g, "\\,").replace(/\r?\n/g, "\\n"); }
+function icsFold(line) {
+  const out = []; let cur = "";
+  for (const ch of line) { if (new TextEncoder().encode(cur + ch).length > 73) { out.push(cur); cur = " " + ch; } else cur += ch; }
+  out.push(cur); return out.join("\r\n");
+}
+function buildIcs(list) {
+  const stamp = new Date().toISOString().replace(/[-:]/g, "").replace(/\.\d+Z$/, "Z");
+  const lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//STEM PhD Atlas 2027//Plan//EN", "CALSCALE:GREGORIAN", "METHOD:PUBLISH", "X-WR-CALNAME:My PhD applications"];
+  let n = 0;
+  for (const e of planEvents(list)) {
+    if (daysLeft(e.date) < 0) continue;
+    const d = e.date.replace(/-/g, ""), next = new Date(new Date(e.date + "T12:00:00Z").getTime() + DAY).toISOString().slice(0, 10).replace(/-/g, "");
+    lines.push("BEGIN:VEVENT", "UID:" + e.p.id + "-" + d + "-" + (n++) + "@stem-phd-atlas-2027", "DTSTAMP:" + stamp, "DTSTART;VALUE=DATE:" + d, "DTEND;VALUE=DATE:" + next,
+      "SUMMARY:" + icsEsc(e.what + ": " + e.p.label), "DESCRIPTION:" + icsEsc("Confirm on the official page before you rely on this date: " + e.p.page), "URL:" + e.p.page,
+      "BEGIN:VALARM", "ACTION:DISPLAY", "DESCRIPTION:" + icsEsc(e.what + " in 7 days: " + e.p.label), "TRIGGER:-P7D", "END:VALARM", "END:VEVENT");
+  }
+  lines.push("END:VCALENDAR");
+  return { text: lines.map(icsFold).join("\r\n") + "\r\n", events: n };
+}
+function downloadIcs(list) { download("my-phd-deadlines.ics", buildIcs(list).text, "text/calendar"); }
+function downloadCsv(list) {
+  const head = ["Program", "Field", "University", "Department", "Country"].concat(FIELDS.map(f => f[1])).concat(["Fee approx. INR", "Program page", "Checklist done"]);
+  const esc = v => '"' + String(v === null || v === undefined ? "" : v).replace(/"/g, '""') + '"';
+  const rows = list.map(p => [p.label, p.fname, p.u.n, p.dept, p.country].concat(FIELDS.map(([k]) => p.f[k].code + (p.f[k].code === p.f[k].value ? "" : " - " + p.f[k].value)))
+    .concat([p.inr === null || p.inr === undefined ? "" : p.inr, p.page, tasks(p).filter(([k]) => done[p.id + ":" + k]).length + "/" + tasks(p).length]).map(esc).join(","));
+  download("my-phd-plan.csv", "\ufeff" + [head.map(esc).join(",")].concat(rows).join("\r\n"), "text/csv");
+}
+
+/* ---------- guide ---------- */
+function renderGuide() {
+  const g = $("guideBody"); g.replaceChildren();
+  const ns = Math.round(100 * P.reduce((s, p) => s + FIELDS.filter(([k]) => p.f[k].code === "Not stated").length, 0) / (P.length * FIELDS.length));
+  const sec = (h, ...items) => [el("h2", { text: h }), el("ul", {}, items.map(t => el("li", {}, t)))];
+  g.append(...sec("Where every value comes from",
+    "Each value is copied from an official university page, with the exact sentence and a link. Tap any value or “Details and sources” to read it.",
+    "Rules a graduate school sets for every department (application fee, fee waiver, GRE General, TOEFL, IELTS, English-test waiver) are marked “University-wide rule”. A program's own statement always takes priority over the university-wide one.",
+    "Data checked " + fmtDate(A.checked) + ". Programs can change rules mid-cycle, so open the official page before you pay or submit."));
+  g.append(...sec("“Not stated”",
+    "It means the official pages we checked did not say. It is not a “no”. About " + ns + "% of all values are not stated; most are tests that a region rarely uses (for example the GRE in Europe) or fees a page leaves out.",
+    "Your plan's checklist lists what to ask each program."));
+  g.append(...sec("How “fit” works",
+    "Answer “Your situation” once. Each program then shows ✕ obstacles (a stated rule conflicts with your answers), ! things to check (a condition, or a rule that is not stated) and ✓ confirmed points.",
+    "Strong match: no obstacle and nothing to check for the questions you answered. Check first: no obstacle, but something to confirm. Obstacle: at least one stated rule works against you, though you can still read the program.",
+    "Outside the US and Canada, programs rarely use GRE scores, so a European, UK or Australian page that says nothing about the GRE is not counted against it.",
+    "Fit only covers what the official pages state. It can't judge your research fit or your chances. The Playbook covers those."));
+  g.append(...sec("Labels",
+    "Year inferred: the page gave a day and month only; we assumed the 2026–27 cycle.",
+    "Per position: no central deadline; you apply to an advertised position (common in Europe).",
+    "Fees in ₹ are approximate, converted at the " + A.fx.source + " rate of " + fmtDate(A.fx.date) + " (1 USD ≈ ₹" + A.fx.usd_inr + "). Banks and cards add a margin."));
+  g.append(...sec("Privacy", "Everything stays on this device. The Atlas works offline and sends nothing anywhere. Your answers, shortlist and ticks are kept in this browser only, so clearing site data removes them."));
+}
+
+/* ---------- tabs, init ---------- */
+function showTab(name) {
+  for (const t of ["find", "plan", "guide"]) { $("tab-" + t).setAttribute("aria-selected", t === name ? "true" : "false"); $("view-" + t).hidden = t !== name; }
+  if (name === "plan") renderPlan();
+  if (name === "find") render(true);
+  store.set("atlas2-tab", name);
+  window.scrollTo(0, 0);
+}
+async function init() {
+  const t = store.get("atlas2-theme", null); if (t) document.documentElement.dataset.theme = t;
+  try { A = await decode(PACKED); } catch (e) { $("loading").textContent = e.message || String(e); return; }
+  prepare();
+  const unis = new Set(P.map(p => p.uni)).size, fieldsN = new Set(P.flatMap(p => p.fieldsAll)).size;
+  $("tagline").textContent = P.length.toLocaleString("en-IN") + " PhD programs · " + fieldsN + (fieldsN === 1 ? " STEM field · " : " STEM fields · ") + unis + " universities · checked " + fmtDate(A.checked) + " · v" + A.version;
+  $("foot").textContent = "Version " + A.version + ". Every value links to the official sentence it came from. “Not stated” means the official pages checked did not say. Rupee amounts are approximate (" + A.fx.source + ", " + fmtDate(A.fx.date) + ").";
+  $("starCount").textContent = stars.size;
+  buildSituation(); renderGuide();
+  $("q").addEventListener("input", () => render());
+  $("sort").addEventListener("input", () => render());
+  $("moreBtn").addEventListener("click", () => { shown += PAGE; render(true); });
+  for (const b of document.querySelectorAll("[data-quick]")) b.addEventListener("click", () => { const k = b.dataset.quick; quick.has(k) ? quick.delete(k) : quick.add(k); render(); });
+  const setView = v => { view = v; store.set("atlas2-view", v); $("vCards").setAttribute("aria-pressed", v === "cards"); $("vTable").setAttribute("aria-pressed", v === "table"); render(true); };
+  $("vCards").addEventListener("click", () => setView("cards")); $("vTable").addEventListener("click", () => setView("table"));
+  $("vCards").setAttribute("aria-pressed", view === "cards"); $("vTable").setAttribute("aria-pressed", view === "table");
+  for (const n of ["find", "plan", "guide"]) $("tab-" + n).addEventListener("click", () => showTab(n));
+  $("dClose").addEventListener("click", () => $("detail").close());
+  $("detail").addEventListener("click", e => { if (e.target === $("detail")) $("detail").close(); });
+  $("detail").addEventListener("close", () => { if (!$("view-plan").hidden) renderPlan(); else render(true); });
   $("theme").addEventListener("click", () => {
     const root = document.documentElement;
     const dark = root.dataset.theme ? root.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
-    root.dataset.theme = dark ? "light" : "dark"; store.set("atlas-theme", root.dataset.theme);
+    root.dataset.theme = dark ? "light" : "dark"; store.set("atlas2-theme", root.dataset.theme);
   });
-  const t = store.get("atlas-theme", null); if (t) document.documentElement.dataset.theme = t;
-  if (matchMedia("(max-width: 760px)").matches) $("filters").open = false;
-  render();
+  if (matchMedia("(max-width: 920px)").matches && answered()) $("situation").open = false;
+  $("loading").remove();
+  showTab(store.get("atlas2-tab", "find"));
+  window.ATLAS_READY = true;
 }
+window.atlasTest = { fit: p => fit(p), buildIcs, tasks, get programs() { return P; }, setProfile(p) { profile = Object.assign(profile, p); saveProfile(); buildSituation(); } };
 init();
 </script>
 </body>

@@ -1,0 +1,74 @@
+{
+  "id": "northeastern--physics",
+  "university": "northeastern",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics (College of Science)",
+  "program_page": "https://cos.northeastern.edu/connected-science-community-and-physics-phd-program/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Priority deadline December 1 (year inferred); rolling admission afterwards, listed as March 1 on the Physics PhD page but \"through March 15, pending availability\" on the College of Science pages",
+      "quote": "Priority deadline: December 1 | Rolling deadline: March 1",
+      "url": "https://cos.northeastern.edu/connected-science-community-and-physics-phd-program/",
+      "inferred": "year",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Fall Admission Priority Deadline: December 1 | Rolling Admissions Deadline: Through March 15, pending availability",
+          "url": "https://cos.northeastern.edu/admissions/graduate-programs/connected-phd-programs/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "Physics GRE subject test recommended but not required",
+      "quote": "Physics: GRE general test recommended but NOT required, GRE Subject Test recommended but NOT required",
+      "url": "https://cos.northeastern.edu/admissions/graduate-programs/how-to-apply/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No pre-application supervisor requirement mentioned",
+      "quote": "",
+      "url": "https://cos.northeastern.edu/connected-science-community-and-physics-phd-program/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The Connected Science Community PhD package includes a full tuition scholarship, a graduate assistantship with stipend, and health insurance",
+      "quote": "Upon acceptance to your program, you are also admitted into the Connected Science Community | The program includes a full tuition scholarship, a graduate assistant position with stipend, and health insurance.",
+      "url": "https://cos.northeastern.edu/admissions/graduate-programs/connected-phd-programs/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The Physics PhD has a Bachelor's Degree Entrance track; a bachelor's or equivalent is an accepted prerequisite",
+      "quote": "Bachelor’s Degree Entrance | Complete all courses and requirements listed here unless otherwise indicated.",
+      "url": "https://cos.northeastern.edu/connected-science-community-and-physics-phd-program/",
+      "also": [
+        {
+          "quote": "Have received a bachelor’s degree or equivalent from an accredited college or university",
+          "url": "https://cos.northeastern.edu/admissions/graduate-programs/how-to-apply/"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "100 USD",
+      "value": "USD 100 (required for PhD applications)",
+      "quote": "The application fee is $100 | PhD – required",
+      "url": "https://cos.northeastern.edu/admissions/graduate-programs/how-to-apply/"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "General GRE recommended but not required",
+      "quote": "Physics: GRE general test recommended but NOT required, GRE Subject Test recommended but NOT required",
+      "url": "https://cos.northeastern.edu/admissions/graduate-programs/how-to-apply/"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "A degree (earned or in progress) from an institution where English is the only medium of instruction counts as proof of English proficiency",
+      "quote": "Proof of English Proficiency is required for all applicants and for all programs (from one of the following): | Degree earned or in progress at an institution where English is the only medium of instruction",
+      "url": "https://cos.northeastern.edu/admissions/graduate-programs/how-to-apply/"
+    }
+  },
+  "notes": "PhD admission is for fall only. Applied to via the College of Science Connected Science Community PhD; the old physics.northeastern.edu site was unreachable."
+}
