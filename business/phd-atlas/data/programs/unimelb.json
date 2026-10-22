@@ -1,0 +1,94 @@
+{
+  "id": "unimelb",
+  "institution": "University of Melbourne",
+  "department": "School of Physics",
+  "country": "Australia",
+  "region": "Victoria",
+  "program_page": "https://physics.unimelb.edu.au/study/graduate-research",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://physics.unimelb.edu.au/study/graduate-research"
+    },
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "No application fee for graduate research applicants (international coursework applicants pay AUD 154)",
+      "quote": "All new direct international applicants pay a non-refundable fee of AUD$154 for each application. | Applying for a graduate research course | (Note: Graduate coursework applicants are not exempt.) | You will not be prompted to pay the application fee.",
+      "url": "https://study.unimelb.edu.au/how-to-apply/fees/application-fee"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "Graduate research applicants are exempt from the application fee",
+      "quote": "Applying for a graduate research course | (Note: Graduate coursework applicants are not exempt.) | You will not be prompted to pay the application fee.",
+      "url": "https://study.unimelb.edu.au/how-to-apply/fees/application-fee"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Not stated",
+      "quote": "",
+      "url": "https://physics.unimelb.edu.au/study/graduate-research"
+    },
+    "gre_physics": {
+      "code": "Not stated",
+      "value": "Not stated",
+      "quote": "",
+      "url": "https://physics.unimelb.edu.au/study/graduate-research"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://physics.unimelb.edu.au/study/graduate-research"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://physics.unimelb.edu.au/study/graduate-research"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You need a prospective supervisor's written support before applying; send them your CV, transcripts, a research summary and the names of at least two prospective supervisors",
+      "quote": "You need the written support of a supervisor before submitting an application to the University.",
+      "url": "https://physics.unimelb.edu.au/study/graduate-research",
+      "also": [
+        {
+          "quote": "have obtained the endorsement of a prospective supervisor",
+          "url": "https://handbook.unimelb.edu.au/2026/courses/dr-philsci/entry-participation-requirements"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Applicants are automatically considered for Graduate Research Scholarships, which go to the highest-ranked applicants; more than 300 go to international graduate researchers each year. The Melbourne Research Scholarship stipend is AUD 41,100 per year (2027 full-time rate) for up to 3.5 years for a doctorate, plus full fee offset for up to 4 years. Without a fee scholarship you may be offered a full fee-paying place. (The astrophysics group says all its PhD students receive a stipend and tuition waiver.)",
+      "quote": "If eligible, you'll automatically be considered for a Graduate Research Scholarship that provides a living allowance and/or tuition fee remission scholarship. More than 300 of these scholarships are offered to international graduate researchers each year. | If you're unsuccessful in gaining a tuition fee remission scholarship, you may be offered a place as a full fee-paying student.",
+      "url": "https://study.unimelb.edu.au/how-to-apply/graduate-research/international-applications/applications",
+      "also": [
+        {
+          "quote": "A fortnightly stipend with a rate of $41,100 per year pro rata (2027 full-time rate) for up to two years for students undertaking a Masters by Research degree or up to 3.5 years for students undertaking a doctoral degree. | The Melbourne Research Scholarship is offered to students who are ranked highest by relevant selection panels",
+          "url": "https://scholarships.unimelb.edu.au/awards/melbourne-research-scholarship"
+        },
+        {
+          "quote": "Funding: All of our PhD students receive a stipend sufficient to support them over the course of their PhD. This also comes with a tuition fee waiver.",
+          "url": "https://astro.physics.unimelb.edu.au/studying-astrophysics/phd-program/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A four-year bachelor's in a relevant discipline with a research component of at least 25% of a full-time year and a final-year average of at least 75%, or a master's with such a research component and a 75% average. A 3-year bachelor's does not meet the four-year bachelor's route; the School of Physics says those who have just finished a BSc should start with the Master of Science (Physics) or MPhil (Science).",
+      "quote": "a four-year Bachelor degree in a relevant discipline which includes a substantial research component equivalent to at least 25% of one year of full-time study and have achieved a minimum weighted average of 75% in the final year subjects or (University of Melbourne) equivalent; or | a Masters degree in a relevant discipline which includes a substantial research component equivalent to at least 25% of one year of full-time study and achieved a minimum weighted average of 75% or (University of Melbourne) equivalent",
+      "url": "https://handbook.unimelb.edu.au/2026/courses/dr-philsci/entry-participation-requirements",
+      "also": [
+        {
+          "quote": "If you've just finished a Bachelor of Science degree, you should start with the Master of Science (Physics) or the Master of Philosophy (Science) – they're both pathways into graduate research with us.",
+          "url": "https://physics.unimelb.edu.au/study/graduate-research"
+        }
+      ]
+    }
+  },
+  "notes": "PhD (Science), course code DR-PHILSCI, 4 years full time with flexible intake. The course page's How to apply, Fees and English tabs on study.unimelb.edu.au were blocked or collapsed when fetched, so the application closing date, TOEFL score and English exemption rules were not captured; the University says closing dates are on each course's How to apply tab."
+}

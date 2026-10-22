@@ -39,7 +39,7 @@ OUT = DIST / PRODUCT
 CONTENT = ROOT / "product" / "content"
 TEMPLATES = ROOT / "product" / "templates"
 BUILD = ROOT / ".cache" / "build"
-SAMPLE_IDS = ["rice", "pennstate", "stanford", "utaustin", "utoronto", "waterloo", "ualberta", "ubc", "cambridge", "epfl"]
+SAMPLE_IDS = ["rice", "pennstate", "stanford", "utaustin", "imperial", "qmul", "epfl", "kth", "anu", "ubc"]
 NORTH_AMERICA = {"USA", "Canada"}
 AUS_NZ = {"Australia", "New Zealand"}
 CURRENCIES = ["USD", "GBP", "EUR", "AUD", "CAD", "CHF", "NZD"]
@@ -107,6 +107,15 @@ SHORT = {
     "carleton": "Carleton", "dalhousie": "Dalhousie", "guelph": "Guelph", "umanitoba": "Manitoba", "usask": "Saskatchewan",
     "western": "Western", "yorku": "York", "laval": "Laval", "umontreal": "Montréal", "concordia": "Concordia",
     "uvic": "Victoria", "mun": "Memorial (Newfoundland)",
+    "oxford": "Oxford", "ucl": "UCL", "kcl": "King's College London", "qmul": "Queen Mary (QMUL)",
+    "rhul": "Royal Holloway", "sussex": "Sussex", "southampton": "Southampton", "bath": "Bath", "surrey": "Surrey",
+    "exeter": "Exeter", "glasgow": "Glasgow", "standrews": "St Andrews", "strathclyde": "Strathclyde",
+    "warwick": "Warwick", "nottingham": "Nottingham", "birmingham": "Birmingham", "leeds": "Leeds",
+    "sheffield": "Sheffield", "lancaster": "Lancaster", "liverpool": "Liverpool", "cardiff": "Cardiff",
+    "manchester": "Manchester", "anu": "ANU", "unimelb": "Melbourne", "usyd": "Sydney", "unsw": "UNSW Sydney",
+    "monash": "Monash", "uq": "Queensland (UQ)", "adelaide": "Adelaide", "uwa": "Western Australia (UWA)",
+    "macquarie": "Macquarie", "swinburne": "Swinburne", "curtin": "Curtin", "wollongong": "Wollongong",
+    "auckland": "Auckland", "otago": "Otago",
 }
 
 
@@ -178,7 +187,9 @@ def stats(recs):
     dated = sorted((r["fields"]["deadline"]["code"], short(r)) for r in recs if deadline_cell(r))
     first = dated[:4]
     fw = lambda code: (lambda r: r["fields"]["fee_waiver"]["code"] == code)
-    eu = [r for r in recs if area(r) == "Europe"]
+    eu = [r for r in recs if area(r) == "Europe" and r["country"] != "United Kingdom"]
+    uk = [r for r in recs if r["country"] == "United Kingdom"]
+    au = [r for r in recs if area(r) == "Australia & NZ"]
     code = lambda r, f: r["fields"][f]["code"]
     by_deadline = sorted(recs, key=lambda r: r["fields"]["deadline"]["code"] if deadline_cell(r) else "9" + r["fields"]["deadline"]["code"])
     return {
@@ -189,6 +200,9 @@ def stats(recs):
         "N_CA": str(sum(r["country"] == "Canada" for r in recs)),
         "N_EU": str(len(eu)),
         "EU_COUNTRIES": ", ".join(sorted({r["country"] for r in eu})),
+        "N_UK": str(len(uk)),
+        "N_AU": str(len(au)),
+        "AU_COUNTRIES": " and ".join(sorted({r["country"] for r in au})) or "none in this edition",
         "MEDIAN_USD": f"{statistics.median(fees['USD']):.0f}" if fees["USD"] else "n/a",
         "MEDIAN_CAD": f"{statistics.median(fees['CAD']):.0f}" if fees["CAD"] else "n/a",
         "MEDIAN_USD_INR": fmt_inr(convert(statistics.median(fees["USD"]), "USD", "INR")) if fees["USD"] else "n/a",
@@ -237,6 +251,24 @@ def stats(recs):
             ["Program", "Supervisor before admission", "What the page says"],
             [[short(r), code(r, "supervisor"), r["fields"]["supervisor"]["value"]] for r in recs if r["country"] == "Canada"],
         ),
+        "EU_NO_FEE_LIST": names(eu, lambda r: code(r, "app_fee") == "0 (no fee)"),
+        "UK_NO_FEE_LIST": names(uk, lambda r: code(r, "app_fee") == "0 (no fee)"),
+        "UK_ENGLISH_ROUTE_LIST": names(uk, lambda r: code(r, "english_waiver") in ("Yes", "Conditional")),
+        "UK_ENGLISH_NO_LIST": names(uk, lambda r: code(r, "english_waiver") == "No"),
+        "UK_BACHELORS_LIST": names(uk, lambda r: code(r, "entry_route") in ("Direct from bachelor's", "Either")),
+        "UK_TABLE": md_table(
+            ["Program", "Funding deadline", "Fee", "Supervisor first?", "English route for an Indian degree", "Funding", "Entry"],
+            [[short(r), deadline_text(r), code(r, "app_fee"), code(r, "supervisor"), code(r, "english_waiver"), code(r, "funding"),
+              code(r, "entry_route")] for r in sorted(uk, key=lambda r: (code(r, "deadline") if deadline_cell(r) else "9", short(r)))],
+        ),
+        "AU_NO_FEE_LIST": names(au, lambda r: code(r, "app_fee") == "0 (no fee)"),
+        "AU_SUP_REQUIRED_LIST": names(au, lambda r: code(r, "supervisor") == "Required"),
+        "AU_ENGLISH_YES_LIST": names(au, lambda r: code(r, "english_waiver") in ("Yes", "Conditional")),
+        "AU_TABLE": md_table(
+            ["Program", "Country", "Next scholarship deadline", "Fee", "Supervisor first?", "English route", "Funding", "Entry"],
+            [[short(r), r["country"], deadline_text(r), code(r, "app_fee"), code(r, "supervisor"), code(r, "english_waiver"),
+              code(r, "funding"), code(r, "entry_route")] for r in sorted(au, key=lambda r: short(r))],
+        ) if au else "*No Australian or New Zealand programs in this edition yet.*",
         "EU_TABLE": md_table(
             ["Program", "Country", "Deadline", "Supervisor first?", "Funding", "Entry", "Fee"],
             [[short(r), r["country"], deadline_text(r), code(r, "supervisor"), code(r, "funding"), code(r, "entry_route"),
@@ -528,15 +560,15 @@ def write_sample(recs, path, values):
     body = f"""
 <div class="cover" style="padding-top:6mm"><span class="tag">FREE SAMPLE · {values['CHECKED']}</span>
 <h1>Physics PhD Atlas 2027</h1>
-<p><b>{len(chosen)} of {values['N']} programs</b> from the full Atlas for international physics applicants (US, Canada and Europe), with every value copied from the program's own official page.</p></div>
+<p><b>{len(chosen)} of {values['N']} programs</b> from the full Atlas for international physics applicants (US, UK, Europe, Australia and Canada), with every value copied from the program's own official page.</p></div>
 <h2>Six things international physics applicants miss this cycle</h2>
 <ol>
 <li><b>The Physics GRE is back at some top programs.</b> In the full Atlas, it's required this cycle at {html.escape(values['PGRE_REQUIRED_NAMES'])}.</li>
 <li><b>Some fees are free right now.</b> Penn State waives its fee for everyone with code PHYS2027. Rice runs a worldwide fee-waiver window until {values['RICE_WAIVER_DATE']}.</li>
-<li><b>"My degree was in English" isn't always enough.</b> Waterloo rejects medium-of-instruction letters. Alberta's exemption list includes the IITs and IISc but not the IISERs. UT Austin exempts applicants from India outright.</li>
+<li><b>"My degree was in English" isn't always enough.</b> Most UK universities don't exempt Indian degrees, but QMUL accepts 70% in CBSE/ISC Class XII English and Royal Holloway 80% in Class 12 English. In Sweden, KTH and Chalmers accept CBSE/CISCE Class XII English grades. In North America, UT Austin exempts applicants from India outright, while Alberta's list includes the IITs and IISc but not the IISERs.</li>
 <li><b>TOEFL changed scales on Jan 21, 2026.</b> Programs now list two minimums (e.g., UBC: 90 old scale / 4.5 new scale).</li>
-<li><b>Canada often admits supervisor-first.</b> Waterloo requires a supervisor match, Ottawa wants a supervisor's name at application, and Calgary admits only if a supervisor will fund you.</li>
-<li><b>Europe runs on different rules.</b> EPFL charges no application fee; Cambridge charges £20 per year for up to 7 doctoral applications; Heidelberg's physics graduate-school portal closes Nov 1; at ETH Zurich and Leiden you apply to a professor or an advertised paid position instead of a central committee.</li>
+<li><b>In Australia (and much of Canada), the supervisor comes first.</b> ANU requires a supervisor's written approval before admission and Melbourne a supervisor's written support before you apply. Waterloo requires a supervisor match.</li>
+<li><b>The UK and Europe run on funding deadlines and positions.</b> UK funding deadlines come first (Imperial's first scholarship round closes Nov 2, Warwick's Dec 7, Cambridge's Dec 8). Many UK, European and Australian programs charge no application fee (Imperial, Glasgow, EPFL, ANU among them). In Sweden, the Netherlands and Switzerland you usually apply for an advertised paid position.</li>
 </ol>
 <h2>Sample: {len(chosen)} programs</h2>
 {table}
@@ -545,7 +577,7 @@ def write_sample(recs, path, values):
 <ul>
 <li><b>Offline explorer</b> for all {values['N']} programs: filter by Physics GRE, English waiver, fee waivers and supervisor rules, and tap any value to see the official quote.</li>
 <li><b>Planner workbook</b>: auto-filling shortlist, deadline countdown, fee budget, recommender and supervisor-outreach trackers.</li>
-<li><b>Playbook</b>: timeline, English-test rules, GRE decisions, Canadian supervisor emails, how Europe differs, physics SOP framework, letter kit, ethical fee-waiver requests.</li>
+<li><b>Playbook</b>: timeline, rupee budget, English-test rules for Indian degrees, GRE decisions, how the UK, Europe, Australia and Canada differ, supervisor emails, physics SOP framework, letter kit, ethical fee-waiver requests.</li>
 <li>Free updates for the Fall 2027 cycle. 14-day refund.</li>
 </ul>
 <p><b>{PRICE_LINE}</b></p>

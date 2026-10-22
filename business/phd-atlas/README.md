@@ -1,6 +1,6 @@
 # Physics PhD Atlas 2027
 
-A low-input online business: a verified, source-cited guide to 40 physics PhD programs in the US, Canada and Europe for international applicants (mostly from India). It is sold as an instant download on Gumroad, with a free sample as the lead magnet.
+A low-input online business: a verified, source-cited guide to 100+ physics PhD programs in the US, UK, Europe, Australia and Canada for international applicants (mostly from India). It is sold as an instant download on Gumroad, with a free sample as the lead magnet.
 
 **Status (2026-10-21):** product built and tested. **Not launched.** There are no customers, sales or revenue yet. Launch needs the owner actions below.
 
@@ -9,7 +9,7 @@ A low-input online business: a verified, source-cited guide to 40 physics PhD pr
 | Folder | Contents |
 |---|---|
 | `research/` | Opportunity comparison with sources, validation plan and gates, business design, financial model (`financials.py`) |
-| `data/` | 40 program records (21 US, 10 Canada, 9 Europe) (`programs/*.json`): each value has an exact official quote, URL and date. Also the schema and source manifest |
+| `data/` | One record per program (`programs/*.json`), each value with an exact official quote, URL and date. Also the schema, exchange rates (`fx.json`), source manifest, and incomplete records in `pending/` |
 | `scripts/` | `research.py` (fetch and extract), `validate_data.py` (schema check, plus proof that every quote appears on its page), `check_sources.py` (weekly change detection), `rec.py` |
 | `product/` | `build.py` builds everything into `dist/`; templates and content (playbook, start-here, licence) |
 | `dist/` | **The deliverables.** `Physics-PhD-Atlas-2027-v1.1.zip` (upload to Gumroad) and `Free-Sample-Physics-PhD-Atlas-2027.pdf` |

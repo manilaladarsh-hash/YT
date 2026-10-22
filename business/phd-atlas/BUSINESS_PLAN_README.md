@@ -25,7 +25,7 @@ The research questions where your work would change the plan most are in **§13*
 
 ## 1. One-paragraph summary
 
-**Physics PhD Atlas 2027** is a downloadable kit for international, mostly Indian, students applying to physics PhD programs for 2027 entry in the US, Canada and Europe. Other directories don't collect the rules that trip international applicants up, so the Atlas does:
+**Physics PhD Atlas 2027** is a downloadable kit for international, mostly Indian, students applying to physics PhD programs for 2027 entry. It focuses on the **US, the UK, continental Europe and Australia**, with Canada as a secondary market. Other directories don't collect the rules that trip international applicants up, so the Atlas does:
 - international fee waivers;
 - whether an English-medium Indian degree waives TOEFL or IELTS;
 - whether the Physics GRE is required this cycle;
@@ -67,6 +67,8 @@ Every value carries the exact official sentence it came from, the link and the c
 ## 4. Customer and problem
 
 **Customer.** Self-directed final-year BS-MS, MSc or BSc physics and astronomy students applying abroad for 2027 entry. Most are at Indian institutions (IISERs, IITs, IISc, NISER, central and state universities). They are budget-constrained, apply to 8–15 programs, and often first learn the rules from forums.
+
+**Where they apply [D, owner's market knowledge, 2026-10-22]:** "less people apply to Canada. Most people apply for PhD in US, UK, Australia, Europe." The product, sample and copy were rebalanced accordingly. Canadian coverage stays, but stopped growing. (Q1 below asks for data to confirm or refine the split.)
 
 **Market size signals:**
 - 177,892 Indian graduate students were in the US in 2024/25 [F, Open Doors].
@@ -231,7 +233,7 @@ These don't count as validation: views, likes, compliments, friends buying to be
 
 Please research these, cite primary sources, and say what you would change.
 
-1. **Market size.** Roughly how many students from India apply to physics or astronomy PhD programs abroad each cycle (US, Canada, Europe)? Possible sources: AIP, NSF NCSES (SED and GSS data), Open Doors by field, IRCC study-permit data, DAAD.
+1. **Market size and destination split.** Roughly how many students from India apply to physics or astronomy PhD programs abroad each cycle, and how do they split across the US, UK, Germany and the rest of Europe, Australia and Canada? This would test the owner's view that Canada is a minor destination. Possible sources: AIP, NSF NCSES (SED and GSS data), Open Doors by field, UK HESA, Australian DESE data, DAAD, IRCC study-permit data.
 2. **Where these students actually gather in 2026.** Telegram and WhatsApp communities, Discord servers, IISER/IIT/NISER/IISc physics clubs, YouTube or Instagram creators covering "PhD abroad", r/Indian_Academia's rules, and Indian physics societies. Which allow posts, and who are the gatekeepers?
 3. **Price benchmarks in India** for comparable digital study products (Topmate, Gumroad, Instamojo, Notion-template sellers; study-abroad counsellors such as Yocket or Leverage Edu and what they charge). Is about ₹190 right, too high or too low? Would pay-what-you-want with a ₹99–₹149 floor raise total reach without breaking Gumroad's fixed fees?
 4. **Distribution leverage.** Would an affiliate programme (Gumroad affiliates), student-society batch deals, or free institutional licences to IISER/IIT career cells grow reach more than direct posts? What commission would student creators accept?
@@ -262,6 +264,7 @@ Please research these, cite primary sources, and say what you would change.
 | 2026-10-21 | **$5 list, PPP up to 60% (about ₹190 India), $20 batch licence, free copies on request, tips on** | Owner: "$10 is a lot for them"; Gumroad's fixed fees set a floor of about $2 | $15 list (the original plan, about $7.50 in India), ₹99 (nets about $0.11) |
 | 2026-10-21 | UTM links instead of discount codes | PPP and codes don't stack on Gumroad | Discount codes NETWORK and REDDIT (the original plan) |
 | 2026-10-21 | Exclude records that are too thin (Manchester, IFAE) and keep them in `data/pending/` | Quality over count | Shipping records with 3 of 10 fields known |
+| 2026-10-22 | **Reposition to the US, UK, Europe and Australia; Canada secondary.** Stop adding Canadian programs; add about 20 UK and about 10 Australian/NZ programs; restructure the Playbook (UK §6, rest of Europe §7, Australia & NZ §8, Canada §9); rebalance the sample to 4 US, 2 UK, 2 Europe, 1 Australia and 1 Canada | Owner: most Indian applicants target the US, UK, Australia and Europe | Equal weight on Canada (the original plan, which followed the owner's own route to Canada) |
 
 ---
 

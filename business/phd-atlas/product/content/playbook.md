@@ -4,11 +4,11 @@ title: "Physics PhD Atlas 2027 · The International Applicant's Playbook"
 
 # Physics PhD Atlas 2027
 
-## The International Applicant's Playbook (US, Canada + Europe)
+## The International Applicant's Playbook (US, UK, Europe, Australia + Canada)
 
-**Version {{VERSION}} · program data checked {{CHECKED}} · {{N}} programs ({{N_US}} US, {{N_CA}} Canada, {{N_EU}} Europe: {{EU_COUNTRIES}})**
+**Version {{VERSION}} · program data checked {{CHECKED}} · {{N}} programs: {{N_US}} US, {{N_UK}} UK, {{N_EU}} rest of Europe, {{N_AU}} Australia & NZ, {{N_CA}} Canada**
 
-This playbook is the "how" that goes with the Atlas data. Every program-specific fact below comes from the Atlas, where each value links to an exact quote on the program's official page. General advice is labelled as advice. Nothing here is immigration, visa or legal advice. For those topics, use only official government sources (see Section 13).
+This playbook is the "how" that goes with the Atlas data. Every program-specific fact below comes from the Atlas, where each value links to an exact quote on the program's official page. General advice is labelled as advice. Nothing here is immigration, visa or legal advice. For those topics, use only official government sources (see Section 15).
 
 ---
 
@@ -16,7 +16,7 @@ This playbook is the "how" that goes with the Atlas data. Every program-specific
 
 1. Open **Atlas.html** in any browser. It works offline. Filter by what blocks you most (Physics GRE, English-test waiver, fee waivers), then star programs to build a shortlist.
 2. Open **Atlas.xlsx** (Excel, Google Sheets, or LibreOffice). Pick your starred programs in the **Shortlist** tab. Deadlines, fees and rules fill in automatically. The **Budget**, **Recommenders** and **Supervisor outreach** tabs do the rest of the tracking.
-3. Read Sections 2 to 7 of this playbook today. They cover the decisions with deadlines attached: fee waivers, English tests, GRE scores, Canadian supervisors, and Europe's different system.
+3. Read Sections 2 to 9 of this playbook today. They cover the decisions with deadlines attached: fee waivers, English tests, GRE scores, the UK's funding competitions, Europe's position system, Australia's supervisor-first rules and Canada.
 4. Before you pay any fee or book any test, click the value in the Atlas and open the official page. Programs change rules mid-cycle. When the Atlas says *Not stated*, the pages we checked did not say. It does **not** mean "no".
 
 ---
@@ -30,7 +30,7 @@ Treat these as working targets (advice). The fixed dates come from the programs.
 | This week | Shortlist 8 to 15 programs. Check which need the **Physics GRE** (Section 5) and whether your English-test plan covers every program (Section 4). |
 | By **{{RICE_WAIVER_DATE}}** | If Rice is on your list, request its worldwide **Doctoral Application Fee Waiver Weeks** waiver; Rice says it then needs a completed application by **Nov 27**. |
 | **Oct 31 – Nov 3** | Europe's first wave. EPFL's autumn round closes **Oct 31** (next round Apr 30). Heidelberg's HGSFP portal and IMPRS Quantum Dynamics close **Nov 1**. Imperial's first President's PhD Scholarship round closes **Nov 2**. IMPRS Astronomy (Heidelberg) closes **Nov 3**. |
-| Early November | Email Canadian supervisors (Section 6), and the European professors or advertised positions you want (Section 7). Send recommenders their packet (Section 10). |
+| Early November | Email supervisors wherever they decide admission: Australia and New Zealand (Section 8), many UK and European programs (Sections 6–7) and Canada (Section 9). Send recommenders their packet (Section 12). |
 | **Nov 30 – Dec 3** | IMPRS Quantum Materials (Dresden) closes **Nov 30** for its February selection workshop. The early US group closes too: {{US_DEC1_LIST}}. Several programs start reviewing the moment a deadline passes. |
 | Mid-December | **Dec 15** is the most common US date: {{US_DEC15_COUNT}} of the {{US_DATED_COUNT}} dated US programs here use it. Cambridge's funding deadline is **Dec 8**; Durham's is **Dec 15** for full scholarship consideration. |
 | January | Most Canadian deadlines ({{CA_JAN_LIST}}), plus a few US programs (see the table). Later or rolling in Canada: {{CA_LATE_LIST}}. Bristol's funding deadline: applications must arrive before **Jan 18**. Edinburgh's physics funding deadline is **Jan 22**. |
@@ -50,7 +50,7 @@ Treat these as working targets (advice). The fixed dates come from the programs.
 
 - **Fit test:** for each program, name two faculty members and one recent paper from each that you could discuss. If you can't, it isn't a fit yet.
 - **Spread:** mix programs where your profile is typical of admits with a few reaches. Use each department's own descriptions (several state typical GPAs or class sizes on their pages) rather than forum rumours.
-- **Cost reality:** the median international application fee in this Atlas is **{{MEDIAN_USD}} USD (about {{MEDIAN_USD_INR}})** for US programs and **{{MEDIAN_CAD}} CAD (about {{MEDIAN_CAD_INR}})** for Canadian programs, where stated. Ten US applications therefore cost roughly **{{TEN_US_INR}}** before test-score fees. Many European programs charge nothing (Section 7). Rupee figures use the Bank of Canada rate of {{FX_DATE}} (1 USD ≈ ₹{{USD_INR}}), and your bank adds a margin.
+- **Cost reality:** the median international application fee in this Atlas is **{{MEDIAN_USD}} USD (about {{MEDIAN_USD_INR}})** for US programs and **{{MEDIAN_CAD}} CAD (about {{MEDIAN_CAD_INR}})** for Canadian programs, where stated. Ten US applications therefore cost roughly **{{TEN_US_INR}}** before test-score fees. Many UK, European and Australian programs charge no application fee (Sections 6–8). Rupee figures use the Bank of Canada rate of {{FX_DATE}} (1 USD ≈ ₹{{USD_INR}}), and your bank adds a margin.
 - **Budget it** in the **Budget** tab, which converts every currency to rupees with an editable rate. Add score-sending and transcript costs from the official sites; we don't estimate those for you.
 
 ---
@@ -86,7 +86,117 @@ Programs that will not consider **any** GRE score, even if you send one: {{GRE_N
 
 ---
 
-## 6. Canada works differently: supervisors and master's-first rules
+## 6. The UK: funding competitions, and English rules for Indian degrees
+
+The {{N_UK}} UK programs in this Atlas mostly work like this:
+- you apply to a department, usually naming a project or a supervisor;
+- funding is decided in separate studentship and scholarship competitions, which close well before the final admission deadline.
+
+{{UK_TABLE}}
+
+**Apply by the funding deadline, not the final one.** Examples:
+- Imperial's President's PhD Scholarship rounds: Nov 2, Jan 11 and Mar 1.
+- Warwick's Chancellor's Scholarship: Dec 7.
+- Cambridge: Dec 8.
+- Durham: Dec 15.
+- Bristol: before Jan 18.
+- Edinburgh: Jan 22.
+- QMUL studentships: Jan 28.
+- Glasgow studentships: Jan 31.
+
+**Funding for international students is limited.**
+- St Andrews says research councils permit only 30% of their funded places to go to international applicants.
+- Warwick says its funded projects are in most cases limited to UK nationals.
+- Imperial says studentships for overseas applicants are very restricted.
+
+Without funding, international tuition is high: Glasgow lists £33,708 a year for 2027/28. Apply for every scholarship you're eligible for, and check each university's India page for country-specific schemes (advice).
+
+**No application fee at many UK universities:** {{UK_NO_FEE_LIST}}. Cambridge charges £20 per applicant per year for up to 7 doctoral applications.
+
+**English is the biggest UK trap for Indian applicants.**
+- **No route without a test.** Most UK universities exempt only degrees from UKVI "majority English-speaking" countries, and India isn't one of them. In this Atlas, no exemption route for an Indian degree: {{UK_ENGLISH_NO_LIST}}.
+- **India-specific evidence accepted elsewhere:**
+  - QMUL accepts at least 70% in the English component of CBSE or ISC Class XII.
+  - Royal Holloway accepts Class 12 English of at least 80% for research degrees, or a degree from a listed Indian university.
+  - Bristol and St Andrews accept an official medium-of-instruction letter.
+  - Edinburgh accepts English-taught degrees only from institutions on its approved list.
+
+  In this Atlas, some India route exists: {{UK_ENGLISH_ROUTE_LIST}}.
+- **Advice:** if your list mixes both kinds, book IELTS or TOEFL anyway. It's the only evidence every UK university accepts.
+
+**A strong bachelor's is often enough.** Most UK programs ask for a first or 2:1 honours degree or the international equivalent: {{UK_BACHELORS_LIST}}. Check the university's India page, though: Royal Holloway's says Indian applicants are considered for a PhD after a master's.
+
+**Name a supervisor, and plan for ATAS.**
+- Glasgow, King's College London and QMUL want you to contact or name a supervisor before applying; others recommend it.
+- King's College London notes that successful applicants whose nationality isn't exempt need an **ATAS** security clearance certificate, which takes time. Check the UK government's ATAS page as soon as you get an offer.
+
+---
+
+## 7. The rest of Europe: positions, calls and master's-first rules
+
+The {{N_EU}} programs in continental Europe and Ireland ({{EU_COUNTRIES}}) use two very different ways in.
+
+1. **Calls with a deadline.** You apply to a graduate school or program by a published date, often followed by interviews. Examples:
+   - Nov 1: IMPRS Quantum Dynamics, and Heidelberg's HGSFP portal.
+   - Nov 3: IMPRS Astronomy (Heidelberg).
+   - Nov 30: IMPRS Quantum Materials (Dresden).
+   - Spring: SISSA's exam-based call.
+   - Oct 31 and Apr 30: EPFL's two rounds.
+2. **Apply for a paid position, or agree a supervisor first.** There is no central committee: PhD places are advertised as jobs, or a professor must accept you before you apply. Sweden (Stockholm, KTH, Chalmers, Uppsala), Denmark (Copenhagen), the Netherlands (Leiden, Amsterdam, Delft), Switzerland (ETH Zurich, Zurich), TU Munich, ICFO and Trinity College Dublin work this way. In this Atlas, position- or supervisor-based: {{EU_POSITION_LIST}}.
+
+{{EU_TABLE}}
+
+**Fees are often low or zero.**
+- **No application fee:** {{EU_NO_FEE_LIST}}.
+- **Small fees:** Zurich (UZH) charges CHF 100.
+- **Watch for tuition instead.** From January 2027, Copenhagen charges PhD tuition of DKK 85,000 a year, which your funding must cover.
+
+**A master's is usually expected first.** In this Atlas: {{EU_MASTERS_LIST}}. Bachelor's holders can enter at: {{EU_BACHELORS_LIST}}. Other routes:
+- Heidelberg (HGSFP and IMPRS Astronomy) has 4+4 tracks for excellent candidates with a 4-year bachelor's.
+- EPFL accepts 4- or 5-year bachelor's holders who explain their education in the Statement of Objectives.
+- Swedish rules (KTH, Stockholm) accept 240 credits including at least 60 at advanced level, so a 4-year degree with enough advanced courses can qualify.
+
+If you hold a 5-year BS-MS, ask each program how it assesses your degree, and keep the reply.
+
+**Funding usually means a job contract.**
+- **Sweden:** funding for the whole doctorate is a condition of admission, and doctoral students are usually salaried. KTH quotes SEK 33,000–37,100 a month.
+- **Funded-only admission elsewhere:** Copenhagen, ICFO and Paris-Saclay admit only students who are funded.
+- **Positions:** Leiden's PhD projects are 4-year paid positions, and ETH doctorates are, with few exceptions, linked to a position.
+
+In this Atlas, paid or typically funded: {{EU_FUNDED_LIST}}; competitive: {{EU_COMPETITIVE_LIST}}.
+
+**English rules for Indian degrees are often friendlier than in the UK.**
+- **Friendly:**
+  - Aalto lists India for English-medium degrees.
+  - Stockholm and IMPRS Solar System count an English-taught degree.
+  - TU Delft exempts English-taught master's degrees in principle.
+  - IMPRS Astronomy (Heidelberg) and Copenhagen assess English at interview instead of by test.
+- **School-level English counts in Sweden:** at KTH and Chalmers, your CBSE or CISCE Class XII English grades can meet the requirement.
+
+**Advice.**
+- In position-based systems, your supervisor email (Section 10) *is* the application. Check the vacancy pages weekly; KTH, for example, announces positions nine times a year.
+- Allow time after an offer for contracts and permits. EPFL says about 3 months is usually needed for visas and work permits.
+
+---
+
+## 8. Australia and New Zealand: supervisor first, scholarship rounds
+
+The {{N_AU}} programs in this Atlas ({{AU_COUNTRIES}}) share a pattern.
+
+{{AU_TABLE}}
+
+- **Find a supervisor before you apply.** ANU requires written approval from an identified supervisor, and Melbourne needs a prospective supervisor's written support before you apply. In this Atlas, supervisor required: {{AU_SUP_REQUIRED_LIST}}.
+- **No application fee for research degrees** at {{AU_NO_FEE_LIST}}.
+- **Scholarships run in rounds and are competitive.** ANU says an offer of admission doesn't guarantee a scholarship. Its main international round for starts by March 2027 closed on Aug 31, 2026, and later rounds are shown in the table. The Australian academic year starts around February–March.
+- **Entry needs research experience.**
+  - ANU asks for an honours bachelor's of at least Second Class Upper (H2A), or equivalent research.
+  - Melbourne asks for a four-year bachelor's whose research component is at least 25% of a full-time year, with a final-year average of 75%, or a master's.
+  - Advice: a 4-year BS or a BS-MS with a thesis fits these rules better than a 3-year BSc. Ask the university if you're unsure.
+- **English:** ANU accepts a bachelor's of at least 3 years taught and assessed entirely in English. In this Atlas, an English-medium route exists at: {{AU_ENGLISH_YES_LIST}}.
+
+---
+
+## 9. Canada: supervisors and master's-first rules
 
 ### Supervisor first
 
@@ -106,63 +216,7 @@ Canadian programs often publish guaranteed minimums (e.g., UBC at least CAD 40,0
 
 ---
 
-## 7. Europe works differently
-
-The {{N_EU}} European programs in this Atlas ({{EU_COUNTRIES}}) use two very different ways in.
-
-1. **Calls with a deadline.** You apply to a graduate school or program by a published date, often followed by interviews. Examples:
-   - Nov 1: IMPRS Quantum Dynamics, and Heidelberg's HGSFP portal.
-   - Nov 2: Imperial's first President's PhD Scholarship round.
-   - Nov 3: IMPRS Astronomy (Heidelberg).
-   - Nov 30: IMPRS Quantum Materials (Dresden).
-   - Dec 8: Cambridge's funding deadline.
-   - Dec 15: Durham, for full scholarship consideration.
-   - Before Jan 18: Bristol's funding deadline.
-   - Jan 22: Edinburgh.
-   - Spring: SISSA's exam-based call.
-   - Oct 31 and Apr 30: EPFL's two rounds.
-2. **Apply for a paid position, or agree a supervisor first.** There is no central committee: PhD places are advertised as jobs, or a professor must accept you before you apply. Sweden (Stockholm, KTH, Chalmers, Uppsala), Denmark (Copenhagen), the Netherlands (Leiden, Amsterdam, Delft), Switzerland (ETH Zurich, Zurich), TU Munich, ICFO and Trinity College Dublin work this way. In this Atlas, position- or supervisor-based: {{EU_POSITION_LIST}}.
-
-{{EU_TABLE}}
-
-**Fees are often low or zero.**
-- **No application fee:** {{NO_FEE_LIST}}.
-- **Small fees:** Cambridge charges £20 per applicant per year for up to 7 doctoral applications. Zurich (UZH) charges CHF 100.
-- **Watch for tuition instead.** From January 2027, Copenhagen charges PhD tuition of DKK 85,000 a year, which your funding must cover.
-
-**A master's is usually expected first.** In this Atlas: {{EU_MASTERS_LIST}}. Bachelor's holders can enter at: {{EU_BACHELORS_LIST}}. Other routes:
-- Heidelberg (HGSFP and IMPRS Astronomy) has 4+4 tracks for excellent candidates with a 4-year bachelor's.
-- EPFL accepts 4- or 5-year bachelor's holders who explain their education in the Statement of Objectives.
-- Edinburgh says most of its current PhD students had no master's before starting.
-- Swedish rules (KTH, Stockholm) accept 240 credits including at least 60 at advanced level, so a 4-year degree with enough advanced courses can qualify.
-
-If you hold a 5-year BS-MS, ask each program how it assesses your degree, and keep the reply.
-
-**Funding usually means a job contract.**
-- **Sweden:** funding for the whole doctorate is a condition of admission, and doctoral students are usually salaried. KTH quotes SEK 33,000–37,100 a month.
-- **Funded-only admission elsewhere:** Copenhagen, ICFO and Paris-Saclay admit only students who are funded.
-- **Positions:** Leiden's PhD projects are 4-year paid positions, and ETH doctorates are, with few exceptions, linked to a position.
-- **The UK:** funding is competitive. Imperial says studentships for overseas applicants are very restricted.
-
-In this Atlas, paid or typically funded: {{EU_FUNDED_LIST}}; competitive: {{EU_COMPETITIVE_LIST}}.
-
-**English rules for Indian degrees vary a lot.**
-- **Friendly:**
-  - Aalto lists India for English-medium degrees.
-  - Bristol accepts an official medium-of-instruction letter.
-  - Stockholm and IMPRS Solar System count an English-taught degree.
-  - TU Delft exempts English-taught master's degrees in principle.
-  - IMPRS Astronomy (Heidelberg) and Copenhagen assess English at interview instead of by test.
-- **School-level English counts in Sweden:** at KTH and Chalmers, your CBSE or CISCE Class XII English grades can meet the requirement.
-- **Strict:** Cambridge, Imperial and Durham exempt only degrees from listed countries, and India isn't one of them. Edinburgh accepts English-taught degrees only from institutions on its approved list.
-
-**Advice.**
-- In position-based systems, your supervisor email (Section 8) *is* the application. Check the vacancy pages weekly; KTH, for example, announces positions nine times a year.
-- Allow time after an offer for contracts and permits. EPFL says about 3 months is usually needed for visas and work permits.
-
----
-
-## 8. Supervisor emails that get answered (advice)
+## 10. Supervisor emails that get answered (advice)
 
 **Find people, not just programs.** Use faculty pages, the group's own website (look for "accepting students"), and papers from the last two years. Shortlist 2-4 people per university.
 
@@ -183,7 +237,7 @@ In this Atlas, paid or typically funded: {{EU_FUNDED_LIST}}; competitive: {{EU_C
 
 ---
 
-## 9. Statement of purpose: a physics framework (advice)
+## 11. Statement of purpose: a physics framework (advice)
 
 Programs set their own length rules. Alberta, for example, wants **500 words or less on a single page**. Read each program's prompt and obey it exactly.
 
@@ -199,7 +253,7 @@ Programs set their own length rules. Alberta, for example, wants **500 words or 
 
 ---
 
-## 10. Recommendation letters: the request kit (advice)
+## 12. Recommendation letters: the request kit (advice)
 
 - **Who:** research supervisors first, then instructors of advanced courses who know your work. Programs differ on number: Toronto wants **exactly two** (no more), while UIUC, Columbia and Maryland list three.
 - **When:** ask at least 4-6 weeks before your earliest deadline, and send portal invitations early.
@@ -208,7 +262,7 @@ Programs set their own length rules. Alberta, for example, wants **500 words or 
 
 ---
 
-## 11. Fee waivers, ethically
+## 13. Fee waivers, ethically
 
 What this Atlas found for international applicants:
 
@@ -226,7 +280,7 @@ What this Atlas found for international applicants:
 
 ---
 
-## 12. Submission checklist
+## 14. Submission checklist
 
 - [ ] Program-specific statement prompt answered (length, format, required sections)
 - [ ] CV in PDF, with research section, publications/posters, skills
@@ -240,7 +294,7 @@ What this Atlas found for international applicants:
 
 ---
 
-## 13. Money, safety and what this kit does not cover
+## 15. Money, safety and what this kit does not cover
 
 - **Scams:** be wary of anyone who guarantees admission, sells "special" fee-waiver codes, or asks for your portal passwords. Real waiver codes come from the program itself; Penn State, for example, publishes its own code on its admissions page.
 - **Paying fees:** many portals take Visa or Mastercard credit cards. Some accept debit cards selected as "credit" (UBC says this). Enable international online transactions with your bank before the deadline week.
@@ -248,7 +302,7 @@ What this Atlas found for international applicants:
 
 ---
 
-## 14. How this data was built (and how to report an error)
+## 16. How this data was built (and how to report an error)
 
 - Each of the {{N}} programs was checked against its own department and graduate-school pages on {{CHECKED}}. Every value stores the exact sentence it came from, the URL and the date. A script confirms that each quote appears verbatim on the fetched page.
 - Research and drafting were AI-assisted. Every published value is tied to an official quote, and uncertain items are labelled *Not stated*, *Conditional*, *year inferred* or *sources conflict* instead of guessed.

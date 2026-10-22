@@ -1,7 +1,7 @@
 # Business design: Physics PhD Atlas 2027
 
 ## Customer
-Self-directed final-year BS-MS, MSc or BSc physics and astronomy students applying to US, Canadian and European PhD programs for 2027 entry. Most are in India (IISERs, IITs, IISc, NISER, central and state universities); there are secondary buyers in other countries. They are budget-conscious and often unaware of rules specific to international applicants.
+Self-directed final-year BS-MS, MSc or BSc physics and astronomy students applying to PhD programs for 2027 entry, mainly in the US, UK, Europe and Australia, with Canada secondary (owner's market knowledge, 2026-10-22). Most are in India (IISERs, IITs, IISc, NISER, central and state universities); there are secondary buyers in other countries. They are budget-conscious and often unaware of rules specific to international applicants.
 
 ## Problem
 Each program publishes its own rules on different pages, and some of them contradict each other. The details that matter most to international applicants are the hardest to find:
@@ -16,7 +16,7 @@ Getting these wrong costs $75–155 per application, missed deadlines, or a reje
 ## Offer (v1.1)
 | Component | What it does |
 |---|---|
-| Atlas.html | Offline explorer covering 40 programs (21 US, 10 Canada, 9 Europe: UK, Switzerland, Germany, Italy, Netherlands) and 10 fields each. Every value shows the exact official quote and link. |
+| Atlas.html | Offline explorer covering 100+ programs (US, UK, rest of Europe, Australia, Canada) and 10 fields each. Every value shows the exact official quote and link. Quick picks, fees in ₹ and a days-left countdown. |
 | Atlas.xlsx | Planner: auto-filling shortlist, deadline countdown, fee budget by currency, recommender tracker, supervisor-outreach log, full sources sheet. |
 | Atlas.csv | Raw data. |
 | Playbook.pdf | 11 pages: timeline, English-test rules, GRE strategy, Canadian supervisors, how Europe differs (positions, fees, master's-first rules), email template, SOP framework, letter kit, ethical fee-waiver requests, checklist. |

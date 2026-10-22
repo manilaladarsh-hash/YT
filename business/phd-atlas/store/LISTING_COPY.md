@@ -6,7 +6,7 @@ Everything here is factual and drawn from the verified dataset. No testimonials,
 
 ## Product 1 (paid): Physics PhD Atlas 2027
 
-**Name:** Physics PhD Atlas 2027: US, Canada + Europe programs for international applicants
+**Name:** Physics PhD Atlas 2027: US, UK, Europe & Australia (+ Canada) programs for international applicants
 
 **URL slug:** `physics-phd-atlas-2027`
 
@@ -17,34 +17,45 @@ Everything here is factual and drawn from the verified dataset. No testimonials,
 - **Batch licence (share with up to 30 students)**: $20, about ₹750 in India. Meant for a batch, student society or mentor sharing with juniors, which works out to about ₹25 per student.
 
 **Summary line (under the title):**
-40 physics PhD programs in the US, Canada and Europe, checked for international applicants: deadlines, fees, fee waivers, Physics GRE, English-test waivers, supervisor rules and funding. Every value is linked to the official page it came from.
+100+ physics PhD programs in the US, UK, Europe, Australia and Canada, checked for international (especially Indian) applicants. Covers deadlines, fees in ₹, fee waivers, Physics GRE, English-test waivers for Indian degrees, supervisor rules and funding. Every value is linked to the official page it came from.
 
 **Description:**
 
-Applying from India (or anywhere else abroad) means hunting the same answers across 30+ websites:
+Applying from India means hunting the same answers across dozens of websites:
 
-- Does this program waive the application fee for **international** applicants?
-- Does my **English-medium degree** waive TOEFL/IELTS, or does this program use a country list?
-- Is the **Physics GRE required** this year? (It is at several top programs again.)
-- In Canada, do I need a **supervisor before** I'm admitted?
+- Does this program waive the application fee for **international** applicants, or charge no fee at all?
+- Does my **English-medium degree**, or my **Class XII English marks**, waive TOEFL or IELTS? Or does this program use a country list that leaves India out?
+- Is the **Physics GRE required** this year? It is again at several top US programs.
+- In the UK, when is the **funding deadline**? It usually comes months before the final one.
+- In Australia, do I need a **supervisor's approval** before I apply?
+- In Europe, is there a **deadline at all**, or do I apply for an advertised paid position?
 - Do I need a **master's first**?
-- In Europe, is there a **deadline at all**, or do I apply to a professor or an advertised paid position?
 
-The Atlas answers them for 40 programs: 21 US, 10 Canada and 9 in Europe (UK, Switzerland, Germany, Italy, Netherlands), with the exact official sentence behind every answer.
+The Atlas answers these for 100+ programs across the US, UK, Europe, Australia and Canada. Every answer comes with the exact official sentence behind it.
 
 **What you get**
-- **Offline explorer (Atlas.html):** filter by Physics GRE, English-test waiver, fee waivers, supervisor rules and deadline; star a shortlist and export it. Tap any value to see the official quote and link.
-- **Planner workbook (Atlas.xlsx):** pick programs from a drop-down and deadlines, fees and rules fill in. Includes a deadline countdown, fee budget by currency, recommender tracker and supervisor-outreach log with automatic follow-up dates.
-- **Playbook (PDF):** the late-season timeline, how 2026's TOEFL scale change affects you, when the Physics GRE is worth it, how Europe's PhD system differs, a 6-sentence supervisor email, a physics SOP framework, a letter-request kit, and ethical fee-waiver requests.
+- **Offline explorer (Atlas.html):**
+  - **Quick picks:** "No fee or a waiver route", "Physics GRE not needed", "English-test waiver possible", "Bachelor's OK", "Funded" and "Closing in 6 weeks".
+  - **Built for budgeting:** fees in approximate rupees and a days-left countdown.
+  - **Phone-first.** Tap any value to see the official quote and link.
+- **Planner workbook (Atlas.xlsx):** pick programs from a drop-down and deadlines, fees and rules fill in. Includes a deadline countdown, a fee budget that converts every currency to rupees, a recommender tracker, and a supervisor-outreach log with automatic follow-up dates.
+- **Playbook (PDF):**
+  - the late-season timeline and a rupee budget;
+  - English-test rules for Indian degrees, including how 2026's TOEFL scale change affects you;
+  - when the Physics GRE is worth it;
+  - how the UK (funding competitions), Europe (paid positions), Australia (supervisor first) and Canada each work;
+  - a 6-sentence supervisor email, a physics SOP framework, a letter-request kit and ethical fee-waiver requests.
 - **Free updates** for the Fall 2027 cycle, emailed to you by Gumroad.
 
 **Priced for students.** It costs about ₹190 in India, less than 3% of one US application fee. Gumroad applies the regional price automatically and you can pay by UPI. Buying for your batch or society? The batch licence covers up to 30 people. If even ₹190 is a real barrier, reply to your free-sample receipt and ask for a free copy.
 
-**A few things the Atlas found (checked Oct 21, 2026)**
-- Physics GRE **required** this cycle at Berkeley, Caltech, Stanford and UChicago, at Cornell for theory applicants, and at Calgary for international applicants.
-- Penn State Physics waives its application fee for **all** applicants this cycle (code on its admissions page). Rice runs a worldwide fee-waiver window until **Nov 1**.
-- UT Austin exempts applicants from India from TOEFL/IELTS. Waterloo does **not** accept medium-of-instruction letters. Alberta's exemption list includes the IITs and IISc but **not** the IISERs.
-- Europe: EPFL charges **no** application fee, and Cambridge charges £20 per year for up to 7 doctoral applications. Heidelberg's physics graduate-school portal closes **Nov 1**. At ETH Zurich and Leiden you apply to a professor or an advertised paid position.
+**A few things the Atlas found (checked Oct 21–22, 2026)**
+- **Physics GRE required** this cycle at Harvard, Berkeley, Caltech, Stanford, UChicago and Virginia. It's also required at Cornell for theory, on Brown's physics track, and at Calgary and Guelph for international or non-Canadian degrees.
+- **UK English rules:** most UK universities don't exempt Indian degrees (Cambridge, Imperial, Warwick, KCL, Glasgow among them). QMUL accepts **70% in CBSE/ISC Class XII English** instead, and Royal Holloway accepts **80% in Class 12 English**.
+- **No application fee** at Imperial, Glasgow, Warwick, QMUL, EPFL, Chalmers, Uppsala, ANU and Melbourne, among others.
+- **UK funding deadlines come first:** Imperial's first President's Scholarship round closes **Nov 2**, Warwick's Chancellor's Scholarship **Dec 7** and Cambridge **Dec 8**.
+- **Australia is supervisor-first:** ANU and Melbourne need a supervisor's written approval or support before you apply.
+- **In the US,** UT Austin exempts applicants from India from TOEFL/IELTS, and Penn State Physics waives its fee for all applicants this cycle.
 
 **How the data was built**
 Each value was copied from the program's own department or graduate-school page, with the quote, link and date stored. A script checks that every quote really appears on its page, and a weekly check flags pages that change. Where a page doesn't say, the Atlas says *Not stated* instead of guessing. The research was AI-assisted, and every value is tied to an official quote.
@@ -67,11 +78,17 @@ Thanks for getting the Atlas! Unzip the download, open START-HERE.pdf, then Atla
 **Price:** $0+ (pay what you want, minimum $0)
 
 **Description:**
-A free PDF covering 10 programs (Rice, Penn State, Stanford, UT Austin, Toronto, Waterloo, Alberta, UBC, Cambridge, EPFL): deadlines, fees, international fee waivers, Physics GRE, English-test waivers and supervisor rules, each copied from the official page.
+A free PDF covering 10 programs across the US, UK, Europe, Australia and Canada: Rice, Penn State, Stanford, UT Austin, Imperial, QMUL, EPFL, KTH, ANU and UBC. It gives deadlines, fees, international fee waivers, Physics GRE, English-test waivers and supervisor rules, each copied from the official page.
 
-Plus six things international physics applicants miss this cycle: the programs that require the Physics GRE again, fees you may not have to pay, why "my degree was in English" isn't always enough, the 2026 TOEFL scale change, Canada's supervisor-first admissions, and how Europe's PhD system differs.
+Plus six things international physics applicants miss this cycle:
+- the programs that require the Physics GRE again;
+- fees you may not have to pay;
+- why "my degree was in English" isn't always enough, and where Class XII English marks count instead;
+- the 2026 TOEFL scale change;
+- supervisor-first admissions in Australia and Canada;
+- UK funding deadlines and Europe's paid positions.
 
-The full Atlas covers 40 programs in the US, Canada and Europe, with an offline explorer, planner workbook and playbook.
+The full Atlas covers 100+ programs, with an offline explorer, a planner workbook and a playbook. It costs about ₹190 in India.
 
 ---
 
@@ -81,7 +98,10 @@ The full Atlas covers 40 programs in the US, Canada and Europe, with an offline 
 
 **How current is it?** Values were checked on the date shown in the kit, and a weekly automated check flags changed pages. Always confirm on the official page before paying a fee.
 
-**Does it cover Europe?** Yes, 9 European programs in v1.1 (Cambridge, Edinburgh, EPFL, ETH Zurich, Heidelberg, Munich MCQST, Bonn-Cologne, SISSA, Leiden). A few, such as Oxford and ISTA, block automated checks and will be added once their pages can be verified. Australia and other fields are not covered.
+**Which countries does it cover?**
+- The US, the UK, Ireland, Australia, Canada, and continental Europe: Germany, Switzerland, the Netherlands, Sweden, Denmark, Finland, France, Italy and Spain.
+- A few well-known programs blocked automated checks or were down when checked, so they aren't in this edition. They'll be added as free updates once their pages can be verified.
+- Asia isn't covered yet, and the Atlas covers physics only.
 
 **How do I pay from India?** Gumroad shows the price in rupees and offers UPI to buyers in India. Cards and PayPal also work. If a card is declined, it probably has *international online transactions* switched off; RBI rules made that the default for cards issued since 2020. Switch it on in your banking app, or just use UPI.
 
@@ -91,6 +111,6 @@ The full Atlas covers 40 programs in the US, Canada and Europe, with an offline 
 
 **I can't afford it.** Email me. A limited number of free copies go to students who ask, no questions asked.
 
-**Is this visa or study-permit advice?** No. For those, use travel.state.gov (US) and canada.ca/IRCC (Canada).
+**Is this visa or study-permit advice?** No. Use the official government sites: travel.state.gov (US), gov.uk (UK), immi.homeaffairs.gov.au (Australia) and canada.ca/IRCC (Canada).
 
 **Refunds?** Yes, within 14 days, no questions asked.

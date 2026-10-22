@@ -16,7 +16,7 @@ Thank you for buying the Atlas. Your kit contains:
 
 1. Open **Atlas.html** and tap the **Quick picks** that match you, e.g. *Physics GRE not needed*, *English-test waiver possible*, *Bachelor's OK* or *Funded*. On a phone, tap **Filters** for the full set.
 2. Star 8-15 programs and click **Export shortlist (CSV)**, or pick them in the **Shortlist** tab of Atlas.xlsx.
-3. Read Playbook Sections 2-7, which cover the decisions with deadlines this month (including Europe).
+3. Read Playbook Sections 2-9, which cover the decisions with deadlines this month: the UK, the rest of Europe, Australia and Canada each work differently.
 4. Before paying any fee, click the value and open the official page. Rules change mid-cycle.
 
 ### What the labels mean

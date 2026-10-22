@@ -2,16 +2,16 @@
 
 Hi all, {your name} here ({IISER TVM BS-MS '23 / McMaster Physics PhD}; edit as you like).
 
-For anyone applying to physics PhDs abroad for 2027 (US, Canada, Europe): I checked 40 programs' official pages for international-applicant rules, and a few things surprised me:
+For anyone applying to physics PhDs abroad for 2027: I checked 100+ programs' official pages (US, UK, Europe, Australia, Canada) for the rules that trip up Indian applicants. A few things surprised me:
 
-1. The Physics GRE is **required** this cycle at Berkeley, Caltech, Stanford and UChicago, plus Cornell (theory applicants) and Calgary (international applicants).
-2. Penn State Physics waives the application fee for **all** applicants this year. Rice has a worldwide fee-waiver window until **Nov 1**.
-3. "My degree was in English" isn't always enough: Waterloo rejects medium-of-instruction letters; Alberta's exemption list has IITs/IISc but not IISERs; UT Austin exempts India.
-4. TOEFL moved to a new 1–6 scale on Jan 21, 2026, so check which minimum applies to your score.
-5. In Canada, many programs admit supervisor-first (Waterloo requires a match; Ottawa wants a supervisor's name at application).
-6. Europe is different again: EPFL charges no application fee, Cambridge charges £20 for up to 7 PhD applications, Heidelberg's physics graduate-school portal closes **Nov 1**, and at ETH Zurich and Leiden you apply to a professor or an advertised paid position.
+1. **Physics GRE is required** this cycle at Harvard, Berkeley, Caltech, Stanford, UChicago and Virginia, plus Cornell (theory) and Brown's physics track.
+2. **UK English rules:** most UK universities (Cambridge, Imperial, Warwick, KCL, Glasgow…) won't accept an English-medium Indian degree instead of IELTS/TOEFL. QMUL accepts **70% in CBSE/ISC Class XII English**, and Royal Holloway accepts **80% in Class 12 English**.
+3. **UK funding deadlines come first.** Imperial's President's Scholarship rounds, Warwick's Chancellor's Scholarship (Dec 7) and Cambridge (Dec 8) close months before the final deadlines.
+4. **No application fee** at Imperial, Glasgow, Warwick, QMUL, EPFL, Chalmers, Uppsala, ANU and Melbourne.
+5. **Australia is supervisor-first:** ANU and Melbourne want a supervisor's written approval or support before you apply.
+6. **Sweden and the Netherlands hire PhD students as paid employees** through advertised positions. In Sweden, funding is a condition of admission. KTH and Chalmers accept CBSE/CISCE Class XII English grades.
 
 Free 10-program sample: {SAMPLE_URL}?utm_source=group&utm_medium=post&utm_campaign=launch2026
-Full version: 40 programs, every value linked to the official quote, offline explorer, planner and playbook. About ₹190 in India (UPI works), or about ₹750 for a batch licence the whole group can share (up to 30 people): {PAID_URL}?utm_source=group&utm_medium=post&utm_campaign=launch2026
+Full version: 100+ programs, every value linked to the official quote, offline explorer, planner and playbook. About ₹190 in India (UPI works), or about ₹750 for a batch licence the whole group can share (up to 30 people): {PAID_URL}?utm_source=group&utm_medium=post&utm_campaign=launch2026
 
 Happy to answer questions here. (If you'd rather I not post about this again, just say so.)

@@ -72,9 +72,9 @@ def pdf_text(path):
 def test_playbook_has_all_sections_and_no_unfilled_placeholders():
     text = pdf_text(OUT / "Playbook.pdf")
     for heading in ["1. Start here", "2. Your remaining timeline", "4. English tests in 2026", "5. GRE and Physics GRE",
-                    "6. Canada works differently", "7. Europe works differently", "8. Supervisor emails",
-                    "9. Statement of purpose", "10. Recommendation letters", "11. Fee waivers", "12. Submission checklist",
-                    "14. How this data was built"]:
+                    "6. The UK", "7. The rest of Europe", "8. Australia and New Zealand", "9. Canada",
+                    "10. Supervisor emails", "11. Statement of purpose", "12. Recommendation letters", "13. Fee waivers",
+                    "14. Submission checklist", "16. How this data was built"]:
         assert heading in text, heading
     assert "{{" not in text and "}}" not in text
 
