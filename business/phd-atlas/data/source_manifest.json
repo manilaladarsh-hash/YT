@@ -6,12 +6,103 @@
     "chars": 29167,
     "sha256": "db581bdc15874b9cde70a16616d47fcf9a18fd9508ed6f27ed2035641e794867"
   },
+  "https://admission.asu.edu/graduate/apply": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 16413,
+    "sha256": "fc31e11585ff9a0319740e8962a57e31395a89936f9ba3bdf4d2f1d57f7343de"
+  },
+  "https://admission.asu.edu/international/english-speaking-countries": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 3377,
+    "sha256": "abb7a4a337f9f0e7d7f16e310bb3a18dd1b2493200c875d08655b1e7dc56a2cd"
+  },
+  "https://admission.asu.edu/international/graduate/english-proficiency": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 8913,
+    "sha256": "4717a404dc2c4049c8daa82cb443f78de0e01a10bc827823230a23cdac88007e"
+  },
+  "https://admission.umontreal.ca/admission/depot-de-la-demande/payer-les-frais-dadmission/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 13990,
+    "sha256": "e6fae909ed5ef35ca24fd5eca9c7da501e683a27ef2535d0c4681714eeaabec0"
+  },
+  "https://admission.umontreal.ca/bourses-pour-etudiants-internationaux/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 18235,
+    "sha256": "8ecfd41964074da29b71cda8e7729e5b1d511c66fa2a3a1ef3150bc326631921"
+  },
+  "https://admission.umontreal.ca/decouvrir-ludem/planifier-ses-etudes/trouver-sa-direction-de-recherche/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 18222,
+    "sha256": "85c5bbfe7cc9c6372d2841fdb654c344d7ef3147174af467dd484a1a92d14e05"
+  },
+  "https://admission.umontreal.ca/programmes/doctorat-en-physique/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 32129,
+    "sha256": "7687b06ede66dce3202a1a55521eda396c5f50b659029300670e42e98e3fe56d"
+  },
+  "https://admission.umontreal.ca/programmes/doctorat-en-physique/52/conditions-pays.html": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 1721,
+    "sha256": "d3b2ba5c087621ba003eb0c031bd6df1ae244b9e1fe5aa067ec257e3a07856a9"
+  },
+  "https://admissions.utah.edu/apply/international/english-proficiency/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 8931,
+    "sha256": "ca6afcfbbe6c949595c78f151882789b937bfc5db1e6878199086633ec811a64"
+  },
   "https://admissions.utexas.edu/info-for/international-students/": {
     "fetched": "2026-10-21",
     "method": "http",
     "status": 200,
     "chars": 6009,
     "sha256": "d90d3f86b2738e95d86d84b6fecf06199b0757780c7c6f5b3b0513afa4c136ec"
+  },
+  "https://arts-sciences.buffalo.edu/physics/graduate/admissions.html": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 4613,
+    "sha256": "51464db397454a82eebb8da3c54aa456289f12c9121429414fa1352f29cb2fd4"
+  },
+  "https://arts-sciences.buffalo.edu/physics/graduate/fellowships-assistantships-awards.html": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 9315,
+    "sha256": "b548aed29c4d91d1e3a30b2f0882f58720de0cc67396674edc31a7ba2a53f9d6"
+  },
+  "https://arts-sciences.buffalo.edu/physics/graduate/graduate-overview/phd.html": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 4930,
+    "sha256": "fdadf689bd1e2468f545b55553550d70e99e6d11ec68f32f2e5571f72b4c1301"
+  },
+  "https://artsandscience.usask.ca/physics/students/graduates/index.php": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 8968,
+    "sha256": "6f26452d935eb77d51bce48591bed985ccb4e1263eb972565a40c141434a351f"
   },
   "https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/faqs.html": {
     "fetched": "2026-10-21",
@@ -27,12 +118,54 @@
     "chars": 5246,
     "sha256": "03c4fadee9403676fd0c07838e44190e68a23857836d6f7707536f651687c246"
   },
+  "https://as.vanderbilt.edu/physics-astronomy/phd-physics-admissions/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 9675,
+    "sha256": "6d6da670bbbe2a214d1b9ff0b3e93b248b3f321bd6df043877e9b4d0303ef00a"
+  },
+  "https://astro.physics.unimelb.edu.au/studying-astrophysics/phd-program/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 2833,
+    "sha256": "c3ba83e8f8607600b18713645b9b724cf23ab7aad7ce02de3de3a86a153900d5"
+  },
+  "https://bloomington.iu.edu/admissions/apply/international/english-proficiency.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 21154,
+    "sha256": "ef146150f6340468e3f757f52947bf9881bef7eb7251d2ddff28efe84046ca60"
+  },
+  "https://calendar.carleton.ca/grad/gradprograms/physics/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 32464,
+    "sha256": "16428afdbede494116555ccb1966aa1197281096668dd8d58665cf23782a1d85"
+  },
+  "https://calendar.uoguelph.ca/graduate-calendar/graduate-programs/physics/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 78847,
+    "sha256": "181da10ed34d133cc9adf369c82e1294566f2095762b4ece527d9b9dc273eb46"
+  },
   "https://catalog.caltech.edu/current/information-for-graduate-students/special-regulations-for-graduate-options/physics-ph/": {
     "fetched": "2026-10-21",
     "method": "http",
     "status": 200,
     "chars": 20153,
     "sha256": "0bc41fb06166d21f5d0f1a80c5a19d00d123a0c5bb248eb261d7c474989ac0cb"
+  },
+  "https://catalogue.uci.edu/schoolofphysicalsciences/departmentofphysicsandastronomy/physics_phd/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 20999,
+    "sha256": "31142ea8d296c95986cdb0c693412663f86dc452ba9e4466a6ed40628b0df0a2"
   },
   "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-physics/": {
     "fetched": "2026-10-21",
@@ -48,6 +181,27 @@
     "chars": 1746,
     "sha256": "94e781c49906a8c1e47863127f0769b0d38a99d397a58291a526e8f1f4786628"
   },
+  "https://cos.northeastern.edu/admissions/graduate-programs/connected-phd-programs/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 11502,
+    "sha256": "4205cb53eeee10b3680d805d2e38a8d93b7138f50875f71e4c02a11b7248de6f"
+  },
+  "https://cos.northeastern.edu/admissions/graduate-programs/how-to-apply/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 14383,
+    "sha256": "30775be43dc6ff9e9b7e532904a77059fb0ea242d1f1a03747029cd5b136eedc"
+  },
+  "https://cos.northeastern.edu/connected-science-community-and-physics-phd-program/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 8195,
+    "sha256": "c34893862c5ceb116bd5d4170a0eff12de506d60c0b268370f33481c864dfb2c"
+  },
   "https://cse.umn.edu/physics/graduate-admissions": {
     "fetched": "2026-10-21",
     "method": "http",
@@ -55,12 +209,47 @@
     "chars": 9368,
     "sha256": "c784a6c7ef6e60ef9e51f7fe9bc8c0be218f51e839cf7f240de365191d968428"
   },
+  "https://degrees.apps.asu.edu/masters-phd/major/ASU00/LAPHYSIPHD/physics-phd": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 15001,
+    "sha256": "de4289ef03904ce05eaaa18ae11699f785a439e4f9486585249622a6349e1391"
+  },
   "https://ethz.ch/en/doctorate/finding-a-place.html": {
     "fetched": "2026-10-21",
     "method": "http",
     "status": 200,
     "chars": 3272,
     "sha256": "943da579ab432f85c6a132c2cd1efce0c0e48bba6d93f4a79fe4f320dbc2494c"
+  },
+  "https://futurestudents.yorku.ca/graduate/apply-now/entry-requirements": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 3974,
+    "sha256": "b9ed0a0a3f00db5627a5c0e9d339a39e2b465116164bd21213be8d919715cc70"
+  },
+  "https://futurestudents.yorku.ca/graduate/programs/physics-and-astronomy": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 4132,
+    "sha256": "b45c663a37ed1b09c770cf37e3a2da92228581f8a7374c735876a40349b796ac"
+  },
+  "https://grad.arizona.edu/admissions/requirements/international-applicants": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 18406,
+    "sha256": "ee6dc0b219850f577bf142697bbfbeac883288aff29425d9b9cd93e12444f614"
+  },
+  "https://grad.arizona.edu/intladmissionsreqs/intl_reqs_by_country.json": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 25122,
+    "sha256": "71bcd12bff00fb35655ce1afbe565d16905a6714861cc18e6c1078334b5bf02e"
   },
   "https://grad.berkeley.edu/admissions/application-process/fee-waiver/": {
     "fetched": "2026-10-21",
@@ -76,6 +265,111 @@
     "chars": 6649,
     "sha256": "638e1cbf412831c9d58a889bd19744c4d3b2feaff48cce038a59e47817e78bad"
   },
+  "https://grad.msu.edu/english-language-competency": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 17788,
+    "sha256": "8b3c3f15eabb0d852ae7a06d632d42b1a8d714c338daa969b79e844b957f19b1"
+  },
+  "https://grad.uci.edu/admissions/application-fee-fee-waivers/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 7889,
+    "sha256": "94a35ceba2027509d0fbbf7e5a8eee00a2f5368603d784c657c228405eb80dc6"
+  },
+  "https://grad.uci.edu/admissions/applying-to-uci/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 15975,
+    "sha256": "365b4224de78938e489e0f10cd0d968a47458b4b7c673bb0f77f14803e633164"
+  },
+  "https://grad.uci.edu/funding/teaching-assistantships/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 20072,
+    "sha256": "3a1ecf1cee311364eb6ff0d3b8dfcd19319593b1d6d08749d47447e500154c4e"
+  },
+  "https://grad.ucla.edu/admissions/english-requirements/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 9728,
+    "sha256": "fbe50f7cf0da984fff2a00f4a7349c0406d3e2d8e21b6ff25a46fce3ee68aa64"
+  },
+  "https://grad.ucla.edu/admissions/faqs/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 32436,
+    "sha256": "9b0501dae16c02553cb45895a1606329bfe814cca64f55c53f37dd182da96b82"
+  },
+  "https://grad.ucla.edu/admissions/research-requirements/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 25792,
+    "sha256": "b6677cc61e389549428e5c2734440cca03f6483ee2335ffb03107745134dea1a"
+  },
+  "https://grad.ucla.edu/requirements/?app=admission&major=0666": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 1539,
+    "sha256": "95cc78da55ca16be53e0b50179776708952f2748d15845a9900c2893e46bf4bd"
+  },
+  "https://grad.usask.ca/admissions/admission-requirements.php": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 9234,
+    "sha256": "8c14b574c4d4ee4ee26a766ec6c253b616e276522c87efdc8162f031d210bd6a"
+  },
+  "https://grad.usask.ca/programs/physics-engineering-physics.php": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 27349,
+    "sha256": "a19e1de52175e5bc4171e537d155129aa6caf493cb5a3bc10bf5c40d1a0a08ab"
+  },
+  "https://grad.uw.edu/policies/3-2-graduate-school-english-language-proficiency-requirements/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 8430,
+    "sha256": "d542fcf55d8a2c76a56ee8533df6f22cb3f73c3f60423bb26f7488f1688d1ac3"
+  },
+  "https://grad.uw.edu/prospective-students/how-to-apply/application-fee-waivers/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 9659,
+    "sha256": "aeb8594afb78ac2b83748dd0b956c4984608450cf9e123e16f0ce7403a439ef5"
+  },
+  "https://grad.uw.edu/prospective-students/how-to-apply/apply-now/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 4501,
+    "sha256": "19762c696b40f8201a1c85f2d86553fff14fad651a8b9861e266e76e54e5f33c"
+  },
+  "https://grad.uwo.ca/admissions/apply-for-admission/index.cfm": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 13760,
+    "sha256": "2385e949e65c442175e28ae9610a4347cf8f7b8a14358f02c57ed2b6a295dd87"
+  },
+  "https://grad.uwo.ca/admissions/international/index.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 9512,
+    "sha256": "26f398abfe83a533aeed255a644c56d75aa6c40fbb953af14bbab06e10553eef"
+  },
   "https://grad.wisc.edu/apply/fee-grant/": {
     "fetched": "2026-10-21",
     "method": "http",
@@ -83,12 +377,159 @@
     "chars": 5504,
     "sha256": "6698ba6974a236886eb261ef56e3f6503b476d6e531d690cf109d62a7ecf17a6"
   },
+  "https://gradschool.duke.edu/admissions/application-deadlines/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 10405,
+    "sha256": "d7b60ed1556bbbcc48f71b47a9d0eab78b3b04e16fb53b2e6a84e7f5bf15ce2d"
+  },
+  "https://gradschool.duke.edu/admissions/application-instructions/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 7762,
+    "sha256": "baafef9a05866c0aaf5f80947fb5aab9371fd1ce673a5f1b2c8dbb3d0cfc0c10"
+  },
+  "https://gradschool.duke.edu/admissions/application-instructions/application-fee/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 4461,
+    "sha256": "73fff48e2ec50f9672c4a6219e47f58e6076403a91747e94694e00fbea58dc4e"
+  },
+  "https://gradschool.duke.edu/admissions/application-instructions/english-language-proficiency-test-scores/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 5295,
+    "sha256": "b0fc345945daf7c4bd81431155d38ce76a05b033af30cebfd5a9470c89c85746"
+  },
+  "https://gradschool.duke.edu/financial-support/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 2545,
+    "sha256": "91a0570d73925442316fd08417549e723d8e71455972a4f26dbc89a8f37e47c0"
+  },
+  "https://gradschool.vanderbilt.edu/application-requirements/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 33787,
+    "sha256": "9a87fd0c07fe16f897884f87b2dc006ed81331eedba6ae14d61642ce4b7e6c48"
+  },
+  "https://graduate.as.virginia.edu/deadlines": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 3733,
+    "sha256": "e43d7755d6a4a87ad1913833f4df51fd222ffd21343ec10199378919cc031ee3"
+  },
+  "https://graduate.as.virginia.edu/graduate-student-financial-support": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 3493,
+    "sha256": "38c8f7804b6fd53d687a94bb6be41b83c9726a1583a0fada6d0b56a53409ae70"
+  },
+  "https://graduate.as.virginia.edu/requirements": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 11526,
+    "sha256": "e9d38f63f51e90ed5ad1127654a23870af2ce856d554129318de818b881a810d"
+  },
+  "https://graduate.carleton.ca/apply-online/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 12150,
+    "sha256": "dc57a4a58ed36957834fbb035ccbf220fb407cd6e192bc2a10b8f0a4b7da4358"
+  },
+  "https://graduate.carleton.ca/financial-assistance/admissions-funding/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 6149,
+    "sha256": "c30340a2b388013e38046e9feb934e957544d70bc07bc995757d510e6902cfe5"
+  },
+  "https://graduate.carleton.ca/international/english-second-language/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 6540,
+    "sha256": "f6245b8ee23b407c221beddaba4cd33b7ea863a9c09b9567fb1053630a4ced29"
+  },
+  "https://graduate.carleton.ca/program/physics-doctoral-programs/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 6352,
+    "sha256": "8cf93cc2139398377d8fcb84bd2c04e821a447295f9b7973d4b6472288349a3e"
+  },
   "https://graduate.rice.edu/application-fee-waiver-weeks": {
     "fetched": "2026-10-21",
     "method": "http",
     "status": 200,
     "chars": 9236,
     "sha256": "9a5c23f2d32ab83db69c1657a243433cd2a6b2e2cf426e0449e2af5bfaac8bb1"
+  },
+  "https://graduateschool.brown.edu/application-information/international-applicants": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 6839,
+    "sha256": "8c41f6beafbeb969fa02771be422941ae9304b0661e4a1d862c44cb8af12f195"
+  },
+  "https://graduateschool.brown.edu/apply/international-applicants/language-proficiency-toefl-or-ielts": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 7424,
+    "sha256": "e746bb0e5e2a50b51fa53680be56215d5a1804b463a9dca7ef1b41bd9de9ca00"
+  },
+  "https://graduateschool.nd.edu/admissions/application-requirements/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 7441,
+    "sha256": "6e3efc72c79b7c70e1f47bfdddd73a765c6a95f48d1736b8686107c63feb8c4c"
+  },
+  "https://graduateschool.nd.edu/admissions/application-requirements/application-fee-and-waiver/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 4505,
+    "sha256": "002bd2fc4b2b8c7c8e80769a31b05059b90cb347721f2a56906540dc1695866d"
+  },
+  "https://graduateschool.nd.edu/admissions/international-students/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 5653,
+    "sha256": "421ebf589058bcbe4b6c07ea002cdfa00032e9f9de00f76880b1ff84f947451a"
+  },
+  "https://graduatestudies.uoguelph.ca/future/applying-guelph": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 11584,
+    "sha256": "18e2a873681446cf793835875d058d8c43fc1ba4c1ee346f89c6d7e149986789"
+  },
+  "https://graduatestudies.uoguelph.ca/future/international/english": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 6503,
+    "sha256": "8ffa36ae5547a14c93a9f8d1c3acf8920093333821e39f23fc5332513aa74a56"
+  },
+  "https://graduatestudies.uoguelph.ca/prospective-students/international-applicants": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 11356,
+    "sha256": "849b0a1d8b5cdf403d61ed7f150711cb94ba010b943da734231ae1a2a45b4122"
   },
   "https://gs.mcmaster.ca/how-to-apply/": {
     "fetched": "2026-10-21",
@@ -103,6 +544,76 @@
     "status": 200,
     "chars": 45798,
     "sha256": "21f84417280ab8297c22f67b1347d5efff5ba369c6abf5bb2e928c093456a5bb"
+  },
+  "https://gsas.harvard.edu/apply/applying-degree-programs": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 15951,
+    "sha256": "d6502424f1692b33d0b42182f491db1a70d593c06ea481373ddeb132bf94a681"
+  },
+  "https://gsas.harvard.edu/apply/applying-degree-programs/english-proficiency": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 8013,
+    "sha256": "4157b8a1e47cfafeb52bd8e821596b2c3c75cd0e10bc63eef1ea471ea9d4d059"
+  },
+  "https://gsas.harvard.edu/financial-support/funding-and-aid": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 4575,
+    "sha256": "709fab228dc8f3da8efc49549f87f9be70f0398cca893e30b8de093894d4f63f"
+  },
+  "https://gsas.harvard.edu/program/physics": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 5799,
+    "sha256": "a44ce4df7c9e819efc8f5843e9b830631789e831dbcff743a67db7708e1ea83d"
+  },
+  "https://gsas.yale.edu/admissions/phdmasters-application-process": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 8986,
+    "sha256": "74a8d14ab4e4f6785a1177ac2ecc294ceb15a430bfa8ad2f0839bb20c753df30"
+  },
+  "https://gsas.yale.edu/admissions/phdmasters-application-process/application-fees-fee-waivers": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 6288,
+    "sha256": "ba69ac860c57382682d5a6f902291d7a0c39055e7e631b0da4f1c7c60830cff8"
+  },
+  "https://gsas.yale.edu/admissions/phdmasters-application-process/dates-deadlines": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 5034,
+    "sha256": "0009c7a11482dc215e78a1e3069e0add2c5793df2111e98ba59095b0ad8d4a7c"
+  },
+  "https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 11901,
+    "sha256": "09019e2c4e7c0a3571d2db855d2c8dc1a053300b71336326f183dad8cd8b35d3"
+  },
+  "https://gsas.yale.edu/resources/graduate-financial-aid": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 6083,
+    "sha256": "3c5019e0fbc62bab8b88c6cd09ee19bc96a03ab87598142d3c81ff18e113cd00"
+  },
+  "https://handbook.unimelb.edu.au/2026/courses/dr-philsci/entry-participation-requirements": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 4149,
+    "sha256": "dd959cb1006273d68b64bd0dd2b0f7205e8d3490c18af18283c2d31389b9005d"
   },
   "https://hgsfp.physik.uni-heidelberg.de/howtoapply#start": {
     "fetched": "2026-10-21",
@@ -125,12 +636,152 @@
     "chars": 3716,
     "sha256": "061f4d2b7c91952fff59cbaf9d9c187b0c99469925aff9bb08028584c0a61b7d"
   },
+  "https://imprs-cpqm.mpg.de/101737/Selection": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 2251,
+    "sha256": "8fd87aacd5d219bcf7ab470b86a4096a30ad76a7a11cb099908fbad9b6e6083c"
+  },
+  "https://imprs-cpqm.mpg.de/15626/faq": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 9711,
+    "sha256": "847d16f572a3f6d95fbe56e9449d4df81efe76b91e23b31091bda22d7fa129e1"
+  },
+  "https://imprs-cpqm.mpg.de/3403/Financial_Support": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 1486,
+    "sha256": "6f5688be9b5d1aa389cdc0b49333c73f230bce50a00abffc9fa5d9c7df1be96d"
+  },
+  "https://imprs-cpqm.mpg.de/apply-now": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 3832,
+    "sha256": "bfd27523a39dd10658819e4b9983dda9fbf59301c6ea58218f9a2e4c5c83369b"
+  },
+  "https://jobs.icfo.eu/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 16922,
+    "sha256": "eb79dc36443c76092053a68404901cf946da98782b0341869bff159f2c58dd0a"
+  },
+  "https://mattertolife.maxplanckschools.org/application": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 10764,
+    "sha256": "131de741742ba911069a368e028829cb9670340eae25f63bdc0cb8da23d97ad6"
+  },
+  "https://mattertolife.maxplanckschools.org/faq": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 27992,
+    "sha256": "56454deeb16407eb6afa82e70878ce7b171308a0248fa717fdca376da3ae107d"
+  },
+  "https://oge.mit.edu/graduate-admissions/admissions-policies/elp-test-requirement/elp-exemptions/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 8473,
+    "sha256": "ba70f0d78b31187c36378efdf7749e3201002a6034213e10e7037a8437a26445"
+  },
+  "https://oge.mit.edu/graduate-admissions/applications/application-fee-waiver/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 13784,
+    "sha256": "de2aa241135ed1acc6e01e2784fded0768c774d107892e8fe9e9d9ac1401ec31"
+  },
+  "https://oge.mit.edu/programs/physics/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 7970,
+    "sha256": "bdece90240da9cfaaa14a3e6906bf78e295acff2afb665e55dee8293d447f138"
+  },
+  "https://pa.msu.edu/graduate-program/prospective-grad-students/index.aspx": {
+    "fetched": "2026-10-22",
+    "method": "chromium",
+    "status": 200,
+    "chars": 20818,
+    "sha256": "fd4070e3fda0f6f789509d76b5e97295e315aa84ef7b00eea68d8f149bb2d13a"
+  },
+  "https://pan-school.sas.upenn.edu/index.php/graduate-division/prospective-students/application-information": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 11043,
+    "sha256": "c04a2b22b2ff87869b078e8389f949b5957d809a60d269739a1753c90825c8a2"
+  },
+  "https://phd.ku.dk/english/enrolment/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 4714,
+    "sha256": "ebf33d329b64bdaaf2281b243699fcaeacbc3f0957198edb0cfb3767dc1f0bcc"
+  },
+  "https://photonics.maxplanckschools.org/application": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 8888,
+    "sha256": "5b9ab91f610ebfecf0b2b75b13046f969a6dfaf3fc437da45e4f2c97f5567214"
+  },
+  "https://photonics.maxplanckschools.org/faq": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 26767,
+    "sha256": "1fa426a8da550a097e3a6b9a3fa00d211e84f9c6cd8091a0c1d9f7f889f1d034"
+  },
+  "https://phys.washington.edu/graduate-programs": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 23616,
+    "sha256": "e73ee6f53904da9294f66d85bb2b3868c83cb718d792e7ac7f36f30e366ab51e"
+  },
   "https://physicalsciences.uchicago.edu/academics/application-requirements/": {
     "fetched": "2026-10-21",
     "method": "http",
     "status": 200,
     "chars": 6696,
     "sha256": "a1e1a983e9a4bdb2ab96321240381c98602ea302e0e2cc66044ea69107e50960"
+  },
+  "https://physics-astronomy.jhu.edu/graduate/admissions/": {
+    "fetched": "2026-10-21",
+    "method": "chromium",
+    "status": 200,
+    "chars": 8406,
+    "sha256": "9549d74215081ce09b5473545cd4463ce0597b214ac91d574be27e710d792622"
+  },
+  "https://physics.arizona.edu/graduate-studies/apply-programs/phd-application-procedure": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 6133,
+    "sha256": "943f2c5400d5570c92888f08363240ddef8a422503c2cc41d4107bafd1f82d51"
+  },
+  "https://physics.arizona.edu/graduate-studies/frequently-asked-questions": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 12193,
+    "sha256": "b676ccfcec8226623dab86ff512f1fc49f3cae89ef134f55b5fde06648377920"
+  },
+  "https://physics.asu.edu/admissions/phd-admissions": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 14236,
+    "sha256": "1e32098076d5debd86764f64a49d63b1a4d321f8098f496753db339521792643"
   },
   "https://physics.berkeley.edu/academic/graduate-degree/graduate-admissions": {
     "fetched": "2026-10-21",
@@ -139,12 +790,47 @@
     "chars": 5191,
     "sha256": "6d53d2aa1fdd681be55d2a9990a3d6019f9e6a4ca2bd0113a474b520abcd6779"
   },
+  "https://physics.brown.edu/academics/graduate/how-apply": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 8322,
+    "sha256": "a4480a53d2c4d65a9047327aef1b76783abe9d261a6a5de05a2560f4a3cb01a1"
+  },
+  "https://physics.brown.edu/academics/graduate/how-apply/fees-and-financial-assistance": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 5588,
+    "sha256": "04887855a88bb549a7c099952eb6a3d55ee2a8ea2909542bdcf628d6e926f01b"
+  },
+  "https://physics.brown.edu/academics/graduate/how-apply/testing-requirements": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 4900,
+    "sha256": "ddd06d8f3a682f418aa5837855e9d392155e48b4241a850bb0d0caa326e9f47f"
+  },
   "https://physics.cornell.edu/prospective-graduate-students": {
     "fetched": "2026-10-21",
     "method": "http",
     "status": 200,
     "chars": 22973,
     "sha256": "8109ba3b5fbcc73811b86a7085526a7a81a625a76f9715a4ea5b84f109370610"
+  },
+  "https://physics.duke.edu/graduate/prospective-students/admissions": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 7166,
+    "sha256": "e9c134a2ebb1df2c441e587603e63817d40439edcc56e249936caf14cfd72146"
+  },
+  "https://physics.duke.edu/graduate/prospective-students/financial-support": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 12575,
+    "sha256": "54eb54a1be867c31ffce8807ec640bf54455ba4f01e857c88640002d453151ed"
   },
   "https://physics.gatech.edu/academics/graduate/admissions-info": {
     "fetched": "2026-10-21",
@@ -167,12 +853,47 @@
     "chars": 8955,
     "sha256": "d16ff464518a94615983e7d30365128fa671a8ce50b818ca00fd2513aaab4026"
   },
+  "https://physics.indiana.edu/graduate/financial-support.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 3820,
+    "sha256": "e650a837e812586d1f2d4c0c943e4a97d29e19d261906dee971c543a65d8e616"
+  },
+  "https://physics.indiana.edu/graduate/how-to-apply/index.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 5909,
+    "sha256": "cf55f144f18f78e5e558118d501cdf6194ec09ba8eb22b20bf8742d187eec99e"
+  },
+  "https://physics.indiana.edu/graduate/how-to-apply/international-applications.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 8126,
+    "sha256": "0a2bd554087cf980fd77045e25c4ce7d4dcfc9a897d403809b2e27a85d739caf"
+  },
   "https://physics.mcmaster.ca/graduate-studies/how-to-apply/": {
     "fetched": "2026-10-21",
     "method": "http",
     "status": 200,
     "chars": 10109,
     "sha256": "aa0b9bfef8e9f587de7f12e7a41f62c292b831a8fd7d8325dab72e126f6b293e"
+  },
+  "https://physics.nd.edu/graduate/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 4822,
+    "sha256": "da8a0fc3ee550822c89f5c6b005acf69373b62eac731d9ebdb61e9471c885cb0"
+  },
+  "https://physics.nd.edu/graduate/apply/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 4154,
+    "sha256": "d74c6622897ebd4c458f0239f667e6b1839b32b7135eb60bb0025a340943e9ff"
   },
   "https://physics.osu.edu/graduate/prospective-students": {
     "fetched": "2026-10-21",
@@ -202,6 +923,20 @@
     "chars": 17904,
     "sha256": "44d2c2414b1df4efeddd745fd150aa1900bf3b79f4e948f6f29f9cb807be459d"
   },
+  "https://physics.sciences.ncsu.edu/graduate/apply/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 11792,
+    "sha256": "aeb2bc15c22546d8970f4096dbd27ea6b10483ea028f9414d87422d647cea1be"
+  },
+  "https://physics.sciences.ncsu.edu/graduate/apply/graduate_application_faq/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 15436,
+    "sha256": "75892951b88dbfa2164fc88da51f2ba6245ab12820977ea80a2c4ac833ecebfd"
+  },
   "https://physics.stanford.edu/graduate/graduate-admissions": {
     "fetched": "2026-10-21",
     "method": "http",
@@ -216,6 +951,13 @@
     "chars": 12340,
     "sha256": "d47f86dff940baf882fa9d763e52a8ea4c30a86d630af7674c1f433ea8185521"
   },
+  "https://physics.unimelb.edu.au/study/graduate-research": {
+    "fetched": "2026-10-22",
+    "method": "chromium",
+    "status": 200,
+    "chars": 4582,
+    "sha256": "3be96fa823d57dd320f4d46a80cb31e6eb74414892ee702300678f55e67958f7"
+  },
   "https://physics.utexas.edu/academics/admissions": {
     "fetched": "2026-10-21",
     "method": "http",
@@ -223,12 +965,89 @@
     "chars": 20645,
     "sha256": "79bb7b9841ad9105c69314b6058a9a6423de29ced7b23da29b1d7bef9337317b"
   },
+  "https://physics.yale.edu/apply": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 2905,
+    "sha256": "fdee13d73ad54806c309fc7983ef6c30db9f82566092457725b0f46f314e5eca"
+  },
+  "https://physics.yale.edu/prospective-graduate-student-faq": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 7896,
+    "sha256": "fbb37b0b6be5789c6f703fc9332f3702ee6a23bb07b1f09915eb69bfe316cece"
+  },
   "https://physicsrecruitment.psd.uchicago.edu/apply/": {
     "fetched": "2026-10-21",
     "method": "http",
     "status": 200,
     "chars": 981,
     "sha256": "e99a2a78d37deb500a9ba9a4aada967f0fb4b3881cd061de315e14402cd9d0eb"
+  },
+  "https://policies.anu.edu.au/ppl/document/ANUP_000408": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 60418,
+    "sha256": "f4a7c43c75ada535eebd175b759b71b25663aa8b12ce84d0f01d54b5f80cbdbc"
+  },
+  "https://programsandcourses.anu.edu.au/program/9680xphd": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 8579,
+    "sha256": "8c5412719ae09f731b642f5aa95b4c2229e15bb0f1f01781a7162d4909d49d4e"
+  },
+  "https://scholarships.unimelb.edu.au/awards/melbourne-research-scholarship": {
+    "fetched": "2026-10-22",
+    "method": "chromium",
+    "status": 200,
+    "chars": 5739,
+    "sha256": "abd9410b65c7853b1186590761de25911dc1040b656ba5bed13289e9877bf793"
+  },
+  "https://science.anu.edu.au/study/research/doctor-philosophy-phd": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 13158,
+    "sha256": "95f64be472d1c55742a30f29ec03d2fe88a3d53c859e638b5cfaf10e71282d2b"
+  },
+  "https://science.ku.dk/phd/appguide/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 2937,
+    "sha256": "d36c8f5f44b8dca5d0b1de9742335daa38c75d92788cf3609e3ce31d8d1677ce"
+  },
+  "https://science.ku.dk/phd/appguide/admission-requirements/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 2761,
+    "sha256": "3c71e9a338f56ba13110d6ff58b0702d074e603a0660212471397544c966c781"
+  },
+  "https://science.ku.dk/phd/appguide/funding-and-tuition-fee/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 2766,
+    "sha256": "d2e555876c487dedcad9d8a44771093570c55d1ee5be5fdb44b7ef0cf1fde8b5"
+  },
+  "https://science.ku.dk/phd/appguide/how-to-find-a-project-and-a-supervisor/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 2469,
+    "sha256": "8ff8269ea9572dbf62393a1fa837d07c0d5a5d919051ca73d19e769dde3c032e"
+  },
+  "https://science.ku.dk/phd/appguide/studystructure/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 2321,
+    "sha256": "ae2025790acfe550b75a8ef6042d1304c5fda0765721be78b76171e5c3a747d7"
   },
   "https://science.psu.edu/physics/graduate/applying": {
     "fetched": "2026-10-21",
@@ -243,6 +1062,90 @@
     "status": 200,
     "chars": 10587,
     "sha256": "0ca805276797aab4b48e424ae8ff6ca2752b8fa894b32a2ba2f30488756ea5a8"
+  },
+  "https://study.anu.edu.au/apply/postgraduate-research": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 9546,
+    "sha256": "d307ba5008b584a1aee74b63d311b11252ff37a379174afb93f3d91e29bed74e"
+  },
+  "https://study.anu.edu.au/related-information/information-postgraduate-research-students": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 4008,
+    "sha256": "8bb55708479329c208978655b5bdbd284729f8630f8eca06671cdcd46d99ff69"
+  },
+  "https://study.anu.edu.au/scholarships/find-scholarship/anu-hdr-fee-merit-scholarship": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 4482,
+    "sha256": "73f4bd72bd3a05639037b9b2c3906786e0a21521af0e10cf7e8cad7a7ff9115d"
+  },
+  "https://study.anu.edu.au/scholarships/find-scholarship/australian-government-research-training-program-rtp-stipend": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 8199,
+    "sha256": "77fdec4fb3f00aa8c2f613f1002692a15403f3efef3e69e0aa1b0d0eba064611"
+  },
+  "https://study.anu.edu.au/scholarships/find-scholarship/research-training-program-rtp-international-fee-offset-scholarship": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 5876,
+    "sha256": "7d5410fe60d662fbafa2e72f0e85a7bc0a6aab849f1ba490e711dd6a5b137403"
+  },
+  "https://study.unimelb.edu.au/how-to-apply/fees/application-fee": {
+    "fetched": "2026-10-22",
+    "method": "chromium",
+    "status": 200,
+    "chars": 5070,
+    "sha256": "60be07b6f8e85d7a3bf1170cd6bcc384b28bd0ef8380029526f7744ec72a3df1"
+  },
+  "https://study.unimelb.edu.au/how-to-apply/graduate-research/international-applications/applications": {
+    "fetched": "2026-10-22",
+    "method": "chromium",
+    "status": 200,
+    "chars": 8418,
+    "sha256": "846b1782214034248440197ab9940d658d23e7ffcd395879acf0b387f78b62e3"
+  },
+  "https://umanitoba.ca/explore/programs-of-study/physics-phd": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 57084,
+    "sha256": "26ef956b097398fa3cfca5fc615817aa493908d57283eb285694ed2215d54260"
+  },
+  "https://umanitoba.ca/graduate-studies/graduate-student-admissions/apply-graduate-studies": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 16355,
+    "sha256": "2c5855603994e5bdb1f9986ecc41c0329ff5d3bc5a0ebf05ad06471952a74cbf"
+  },
+  "https://umanitoba.ca/graduate-studies/graduate-student-admissions/requirements": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 12418,
+    "sha256": "015b32c697c9ee3755a006fc31a4b32cf21cf11443eae1beb061fde9406d0d0d"
+  },
+  "https://umanitoba.ca/science/physics-and-astronomy/graduate-programs-application-info": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 5543,
+    "sha256": "1973bfeadee0965bec28eb956fdb8a8afa95bfce43f7ca6b3e5c7f1d7b93890b"
+  },
+  "https://umanitoba.ca/science/student-experience/financial-aid-awards/physics-and-astronomy": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 5193,
+    "sha256": "7bb9cf2a46bf2bca445d0dd6c301f06764f252f64017bc8f6415c29fa4a1bec7"
   },
   "https://uwaterloo.ca/future-graduate-students/admissions/admission-and-english-language-proficiency-requirements": {
     "fetched": "2026-10-21",
@@ -286,6 +1189,97 @@
     "chars": 38756,
     "sha256": "a1bb70428b7d22d265e891b8e12e389144c4ff19da848625b741d5f9ed460f10"
   },
+  "https://warwick.ac.uk/fac/sci/physics/admissions/postgraduate/funding/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 11051,
+    "sha256": "1ffc7c8fac583647606c74fda7bae4ee6b55cb804e667397c402d0891c031ba4"
+  },
+  "https://warwick.ac.uk/fac/sci/physics/admissions/postgraduate/how-to-apply/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 12346,
+    "sha256": "8842dbb54f3ed474b26e835c01d82ccc1176751589bc3c14a3240d7793e4d6a1"
+  },
+  "https://warwick.ac.uk/study/postgraduate/apply/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 16582,
+    "sha256": "47f4e6089766c5c421d6507144314907ed3383c471f8089c883d9f031d6f01eb"
+  },
+  "https://warwick.ac.uk/study/postgraduate/apply/english/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 5373,
+    "sha256": "33b1798166843ccd0d06b7f684e948ab50daf8c3e1a1df2ee4509682771976c3"
+  },
+  "https://warwick.ac.uk/study/postgraduate/apply/english/englishlanguagealternative/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 7491,
+    "sha256": "36011e92dd641a4c6e45b8c3d0c45fdefa2460ba46829765de17ba1a88fa6588"
+  },
+  "https://warwick.ac.uk/study/postgraduate/apply/pgadmissions/applicants/onlineformhelp/appfee/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 30691,
+    "sha256": "9ab09522e723fb4019648780e1601370e40590f1fff52e2f35318576220df946"
+  },
+  "https://warwick.ac.uk/study/postgraduate/courses/phd-physics/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 14846,
+    "sha256": "5bd90d45776eb03ee0fe2d4058d995a0cc1df085c619e88e37f52b9fd028e9a9"
+  },
+  "https://webforms.grad.arizona.edu/gradapp-application-fee-waiver-verification": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 3896,
+    "sha256": "d6f9d56b585688f858cc2436ad0dcabba1b0cc16a3abf1fde3fb0ad85ccc5c53"
+  },
+  "https://www.aalto.fi/en/doctoral-education/eligibility-and-language-requirements-in-doctoral-admissions": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 60525,
+    "sha256": "961db29b3e20f47efed182cd711aacb6d9cc7ddc094c12bfa12a9418ee015124"
+  },
+  "https://www.aalto.fi/en/doctoral-education/how-to-apply-for-doctoral-studies": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 11084,
+    "sha256": "4fa51c862483b78bf0dc86f412cfc0fcd47af511788b3864eb5f4a65b8507d93"
+  },
+  "https://www.aalto.fi/en/study-options/aalto-doctoral-programme-in-science-0": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 44878,
+    "sha256": "d860943854e1b1680e5516681c88d719b08ffe0b1f69d8b4846da0a2f3ae30fb"
+  },
+  "https://www.bristol.ac.uk/study/language-requirements/profile-f/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 18307,
+    "sha256": "e7ab16d233458b83f098cda68df2b7e7758f5896c2b7bf309744c9c809839796"
+  },
+  "https://www.bristol.ac.uk/study/postgraduate/research/physics/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 14999,
+    "sha256": "fcdcef7278dc0e94a5eb6953a1f93586e7ce989387b4f4af930652e83d1e053e"
+  },
   "https://www.bu.edu/cas/admissions/phd-mfa/apply/fee-waiver/": {
     "fetched": "2026-10-21",
     "method": "http",
@@ -299,6 +1293,181 @@
     "status": 200,
     "chars": 8338,
     "sha256": "70369d3dbadfa72180489310068d3bce95815786a306927b9ae51f10b9dcae61"
+  },
+  "https://www.buffalo.edu/grad/explore/admissions/requirements.html": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 9993,
+    "sha256": "818be7127216bd4a551a2a89c5e9dc3c0cd3a836f858cbbdc3e9639bca6839bb"
+  },
+  "https://www.chalmers.se/en/research/doctoral-studies/about-doctoral-studies/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 9949,
+    "sha256": "629156bb6e65831aa4dfd0221490c73eefc784be54bae7221deb5f243810380b"
+  },
+  "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students/english-proficiency-requirements": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 13131,
+    "sha256": "2407407564583fdf8fd95893f491c94c823f3dfc47aa27c7911fbc0fb676cbf2"
+  },
+  "https://www.colorado.edu/physics/admissions/graduate-application-information": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 5345,
+    "sha256": "6dc58ef503751ff644174cdb0d3d86403f192305b2eee6205894935394dc00a4"
+  },
+  "https://www.colorado.edu/physics/graduate-application-information/graduate-application-faqs": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 10816,
+    "sha256": "9dcdc3b8dce63fbb98e00c5f775de12addcd483707d2ea61dd5a5d4dbc8adce6"
+  },
+  "https://www.concordia.ca/academics/graduate/physics-phd.html": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 11446,
+    "sha256": "75c841a4ad25f41953baa5166df9d3fa921f877aee7056012bdf20844be06377"
+  },
+  "https://www.concordia.ca/artsci/physics/programs/graduate.html": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 4604,
+    "sha256": "48a5691b8e1ad389772f63d3ee7cf68150b1412e470d2e305b759a8fe4b7031a"
+  },
+  "https://www.concordia.ca/artsci/physics/student-life/funding-awards.html": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 10875,
+    "sha256": "96481c52d86e1f69a094d02f6ba9e7dcd6112ffef24bee907ecf2235a4fb4476"
+  },
+  "https://www.concordia.ca/gradstudies/future-students/how-to-apply/english-language-proficiency.html": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 20708,
+    "sha256": "fe1ccc4f478ac3031a287741ec40581530986882a97f214e23b2cbe37edde04a"
+  },
+  "https://www.concordia.ca/gradstudies/future-students/how-to-apply/english-language-proficiency/exempt-countries.html": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 3551,
+    "sha256": "8a6c29aff722ab456da456e77c8e77165b6562c0f54fd906e2763b850702a1ed"
+  },
+  "https://www.concordia.ca/gradstudies/future-students/how-to-apply/programs-with-additional-requirements.html": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 63819,
+    "sha256": "8e7cb0bc83190d9a8dcd5b4057f92f3ddda4d9aa9d51b701527f7bec20ad179c"
+  },
+  "https://www.concordia.ca/gradstudies/future-students/how-to-apply/start-your-application.html": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 3887,
+    "sha256": "a52ed7c370f5edd63e5e28bd2a4ed0c7f98959493957ee93bfdfffc427a0d836"
+  },
+  "https://www.dal.ca/faculty/gradstudies/apply-graduate-studies/admission-requirements/english-requirements.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 5651,
+    "sha256": "748076cd452d06e7badacec54b35a7b668b1e4d485e1c7ee8f3dc43f53fe6c8f"
+  },
+  "https://www.dal.ca/faculty/gradstudies/apply-graduate-studies/how-to-apply.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 6057,
+    "sha256": "87b8708e78a6a593141bc470d02fb6eb873f7fcfb7cb9e5af5ca29ce12a036fb"
+  },
+  "https://www.dal.ca/faculty/science/physics/graduate/apply.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 6172,
+    "sha256": "78559378cdd40fe96a16f4a30c5db0fc56be4dad399c7c539bba9db740db605d"
+  },
+  "https://www.dal.ca/faculty/science/physics/graduate/degrees.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 7901,
+    "sha256": "ab74974612efa2deafe4d6d36d688c2c2a500623fc1af48af57a574261a7df8c"
+  },
+  "https://www.dal.ca/faculty/science/physics/graduate/funding.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 5645,
+    "sha256": "94de1c7c5ff6e7e0bcbb98d20bea1ab2c5a56d6bb1ba9f942792a7b6725a1675"
+  },
+  "https://www.dal.ca/faculty/science/physics/graduate/international.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 4991,
+    "sha256": "b2cf0cfc63a75349c570b57995aba4391fb3f9db4c412176c28767aa6d28f0e8"
+  },
+  "https://www.durham.ac.uk/departments/academic/physics/postgraduate-study/research-degrees/how-to-apply/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 11491,
+    "sha256": "426805b790fb78f8c3fb39183ea0bab46dbdc5122983e1fc2abf27b00a75c3e4"
+  },
+  "https://www.durham.ac.uk/departments/academic/physics/postgraduate-study/studentships-funding/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 6026,
+    "sha256": "59b7134f90db93e438c72c7c5a3e4b43406e664507ed711d6adcff82da5f103a"
+  },
+  "https://www.durham.ac.uk/study/doctoral-school/study-with-us/how-to-apply/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 6994,
+    "sha256": "24ebea92ad9183ac11e05e136d502f3b91f7eef0f7859c57d0382f078a17783d"
+  },
+  "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/direct-entry-band-b/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 7021,
+    "sha256": "ed847ab345abb15fbe718aa7c6aab6d21e28b5553cf553d62d7d1ecdad8c46ff"
+  },
+  "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/english-language-levels-required/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 10484,
+    "sha256": "4cdb72ab179c7b91b17087b9c0716dc080c8cc4fb17c7a369b52551bb9a28b5f"
+  },
+  "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/exemptions-for-undergraduate-and-postgraduate-taught/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 6266,
+    "sha256": "ab78bce938165da3f3fefb8009238a66154621c1aab90307c887ee1c67915e48"
+  },
+  "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/recognised-english-speaking-countries/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 6429,
+    "sha256": "5fe36bae24fabce192b09229893c37a597f0b5ded827bf1049cb232d3eaa6328"
   },
   "https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application/": {
     "fetched": "2026-10-21",
@@ -321,6 +1490,34 @@
     "chars": 6304,
     "sha256": "f213e8a7b1806cb4277a8fc91f92073d2e97e2f2a3170bd16ca9bd8bf6b46775"
   },
+  "https://www.gla.ac.uk/postgraduate/research/physicsastronomy/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 26959,
+    "sha256": "1a0051f08392e5bb3440d880e427fe5bcdb4f09900123f75dc8fae724eed5982"
+  },
+  "https://www.gla.ac.uk/scholarships/stfc/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 4741,
+    "sha256": "2d05fe17a6e80ffed6d034af94a9003af717f14dd11c4a74b97025c8e4ac0ede"
+  },
+  "https://www.gla.ac.uk/schools/physics/research/postgraduate/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 6718,
+    "sha256": "ad7d5b5d4db2975720f269fa3c56e20a2047c12d26ad6fc58081e9baa48d8a44"
+  },
+  "https://www.gla.ac.uk/schools/physics/research/postgraduate/faq/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 9452,
+    "sha256": "70174895d0f06eb1fa4cbc0b65edf0f0fc589b278d08f6365bd39f2ece9b3dba"
+  },
   "https://www.grad.ubc.ca/prospective-students/application-admission/online-application-fee": {
     "fetched": "2026-10-21",
     "method": "http",
@@ -335,6 +1532,118 @@
     "chars": 37658,
     "sha256": "55f9650b6d7cbe7386b027692ba274d57ce3f198dac83b6d068ef280664a9d12"
   },
+  "https://www.gs.tum.de/en/gs/path-to-a-doctorate/application/application-steps/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 12829,
+    "sha256": "60039b645282c089fa697407fa27857ff5e69f4a178e8933c1a04985a6adb6e7"
+  },
+  "https://www.gs.tum.de/en/gs/path-to-a-doctorate/application/requirements/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 9650,
+    "sha256": "879e401f855199c451efb2d2dc0fb5de1dd0741d2a0aed57d4ba4485cd81e913"
+  },
+  "https://www.icfo.eu/studies/phd-program/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 7412,
+    "sha256": "0bf61dc2c13ee95184a1cdc836430e7a0dce8ce475f31c752ee0288bc3b50385"
+  },
+  "https://www.icfo.eu/studies/phd-program/general-eligibility/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 8899,
+    "sha256": "a69968a5b689bdcf553f9b5175dfdee87043c90af7ad9dd3e7ab2418a4141ab1"
+  },
+  "https://www.icfo.eu/studies/phd-program/phd-fellowship-programs/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 7792,
+    "sha256": "1eeeb01b362615c62629843a7218ff18f37fc348ad5d1145cec4db230424851f"
+  },
+  "https://www.imperial.ac.uk/a-z-research/theoretical-physics/postgraduate-study/phd-programme-/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 12456,
+    "sha256": "f2f779e2ac03d0db3cebea194a7350646e0dbd8cc5b4fc0bd4aa051a63e5ba95"
+  },
+  "https://www.imperial.ac.uk/natural-sciences/departments/physics/research/communities/light/phd-opportunities/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 12685,
+    "sha256": "044e24e7154a3fab11694abe2f3f8182550a40d1bff404766684fbcf8be71b21"
+  },
+  "https://www.imperial.ac.uk/natural-sciences/departments/physics/research/communities/matter/phd-opportunities/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 12363,
+    "sha256": "7c72ba4ef6b97d1a56a03960bfb74d20666f8d2ae8ba15919e5a9a4c5c824552"
+  },
+  "https://www.imperial.ac.uk/study/apply/english-language/english-language-exemption/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 8878,
+    "sha256": "c22bc0dc7bcf68caa15641563d37a39b6183602abd8cbe959c66bf136abc4e60"
+  },
+  "https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 11334,
+    "sha256": "e79a57c9acd858a91d889070356da31870fe6f6b71cad64232ae8d5f19c07228"
+  },
+  "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 17874,
+    "sha256": "7ca006543f86f3d468e00220c6959bc75d5cb04e95de77a702a18952953825e2"
+  },
+  "https://www.imprs-hd.mpg.de/3192/Application": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 3465,
+    "sha256": "2b0580b7f16fdba9429842d9bf96f45cbd9817bebea52758696a4fd6cf141189"
+  },
+  "https://www.imprs-hd.mpg.de/3334/Qualifications": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 4184,
+    "sha256": "f7e05946255606ce5eb4535072164bb0dda8d4283ce8ff8fa66d3705c65af9cf"
+  },
+  "https://www.imprs-hd.mpg.de/3344/Evaluation": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 3091,
+    "sha256": "b7a9ad5789ffb5e5d93aedaa45385eababf810ac7b4217ddf38f7fbda76bd928"
+  },
+  "https://www.imprs-hd.mpg.de/3354/How-to-apply": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 4715,
+    "sha256": "8bc96c1dd6bcb9657ae2f6087c0961f1c11ca5edee7f92a0cca7ae72d57101b2"
+  },
+  "https://www.imprs-hd.mpg.de/3374/Fellowships": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 3104,
+    "sha256": "a6e58a86dac19dcb48e8c9404ca816172193671f48662cfa733255f2f65561ee"
+  },
   "https://www.imprs-quantum.mpg.de/3192/Application": {
     "fetched": "2026-10-21",
     "method": "http",
@@ -342,12 +1651,124 @@
     "chars": 2707,
     "sha256": "b09e92017c628f90bb1befd028daed8af6a4f3350d777f9ffb41810c167fb810"
   },
+  "https://www.kcl.ac.uk/physics/study-with-us/research-degrees": {
+    "fetched": "2026-10-22",
+    "method": "chromium",
+    "status": 200,
+    "chars": 5321,
+    "sha256": "7713f8832945a8d2e8f3de07a829330d633f4ab36089324f532e13cccbbeb1b9"
+  },
+  "https://www.kcl.ac.uk/physics/study-with-us/research-degrees?tab=funding": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 11871,
+    "sha256": "5ed97abe240aa914fb76838d68df4cc98fd8534da1584816c8071bdbea25ea66"
+  },
+  "https://www.kcl.ac.uk/study/postgraduate-research/areas/physics-research-mphil-phd": {
+    "fetched": "2026-10-22",
+    "method": "chromium",
+    "status": 200,
+    "chars": 9059,
+    "sha256": "f86d0c8ef6fae570bae5e4acdea6bbb0e85d4f003bf39ab91f8ef46916fdbcc2"
+  },
+  "https://www.kcl.ac.uk/study/postgraduate-research/how-to-apply": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 14897,
+    "sha256": "f2e51dbb12e2f280e658e9b31614bf2d00610596f728b6761cada7f80fee28c9"
+  },
+  "https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply/entry-requirements/english-language-requirements": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 22243,
+    "sha256": "dd151cf8d9bf6f917d9e1c5bb7c8c2cbca171baa8d3a7cc4664450bc930910f3"
+  },
+  "https://www.kth.se/en/sci/utbildning/forskarutbildning/forskaramnet-fysik-1.795636": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 3674,
+    "sha256": "fe19a7978c94e60e462e1c26ebeb2bb68362e7836b601a6c22b4548835460043"
+  },
+  "https://www.kth.se/en/studies/phd/become-a-phd-student/entry-requirements-for-doctoral-studies-1.520175": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 3210,
+    "sha256": "35d77ea2e604d4f91a54c2082a1aef39cfe8bdd00306a7407c5a8b6f474dfd4a"
+  },
+  "https://www.kth.se/en/studies/phd/become-a-phd-student/how-to-apply-1.520089": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 2858,
+    "sha256": "124d81b148c2fcab5cfc3191f998331adf7bf54c4cce8e62acc7e785e27e96db"
+  },
+  "https://www.kth.se/en/studies/phd/become-a-phd-student/introduction-to-doctoral-studies-at-kth-1.527044": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 8284,
+    "sha256": "0fab1ab132fe79ee571ddda14c4f4a36c50b95dd72184b362e628808cf4aa700"
+  },
+  "https://www.maxplanckschools.org/en/application": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 4388,
+    "sha256": "686d8cffcf57d387d4b3a547946105d21d44d92bf0a125a137bc904d2d9dbb84"
+  },
   "https://www.mcgill.ca/gradapplicants/how-apply/you-apply-mcgill/proficiency": {
     "fetched": "2026-10-21",
     "method": "http",
     "status": 200,
     "chars": 5187,
     "sha256": "d7dd9f15674a252ad0e0edc7dcc428ec8212e2080989c68a66274f081e4c14ab"
+  },
+  "https://www.mpi-hd.mpg.de/imprs-qd/application/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 1198,
+    "sha256": "dc945d323f70ca4c195cbd04c6c9e9a859a0d3359f38b39b7d5c110137b0c5d2"
+  },
+  "https://www.mpi-hd.mpg.de/imprs-qd/offers/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 873,
+    "sha256": "41e8e634fc4eea8bbbcd7c62076ff240ebfd780e613788a00361f16b9cdc212e"
+  },
+  "https://www.mps.mpg.de/phd/application": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 8994,
+    "sha256": "d45feebcc3fe3eb384bb5acceb943f68eafeaf0205083152bbd5d9b676afb616"
+  },
+  "https://www.mps.mpg.de/phd/applynow": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 10788,
+    "sha256": "cdb248e3096efcfb9a0b9aa9032bf6b825da768f34bdf5ff48bc5e89cdb0d66e"
+  },
+  "https://www.mps.mpg.de/phd/faq": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 24466,
+    "sha256": "33b29590ce5a91daad62e72f2d53bb171be49299bd61ce3353dac133ba612b51"
+  },
+  "https://www.mps.mpg.de/phd/funding": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 13322,
+    "sha256": "c681c2d26f8a24ed600faeccde0d6cad83b86ea74ee69d28b6995db5ea80cefc"
   },
   "https://www.ph.ed.ac.uk/studying/postgraduate-research/how-apply": {
     "fetched": "2026-10-21",
@@ -391,12 +1812,61 @@
     "chars": 12043,
     "sha256": "af106aec5380a38aa0c186449b2b706a4999e8180b2ef5ea72245c57fef2c1fb"
   },
+  "https://www.physics.uci.edu/apply": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 4749,
+    "sha256": "f40f29692cc17ddca875b87b3414d54cafa4f907cbe4139b768462ba414421b5"
+  },
   "https://www.physics.ucsb.edu/academics/graduate/apply": {
     "fetched": "2026-10-21",
     "method": "http",
     "status": 200,
     "chars": 7078,
     "sha256": "d9952f23de25de6976805969a324f16c66e28e64776cbe84b4bb637e45b5bc72"
+  },
+  "https://www.physics.upenn.edu/graduate": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 4265,
+    "sha256": "1f543eb1d0855be5804e9db9dcbec215953b8578e84c510f091dc795a502014c"
+  },
+  "https://www.physics.upenn.edu/graduate/admissions": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 5500,
+    "sha256": "ead894abe2116e2708302874a18a5371b33fe7203a4a39cf6324ba1cf406aa3b"
+  },
+  "https://www.physics.upenn.edu/graduate/frequently-asked-questions": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 8135,
+    "sha256": "67ffa46a95502506249b572ed804be50c872c07240b589a8086031303c8435cc"
+  },
+  "https://www.physics.utah.edu/graduate-programs/gradadmission/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 7169,
+    "sha256": "4e64091e3c49e6fda9060948a621be5e3f3d258716caecb132b3a060385c5a40"
+  },
+  "https://www.physics.utah.edu/graduate-programs/gradadmission/graduate-faq/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 13438,
+    "sha256": "8f19ebf1d0ffb615663e53cd2f0a51f85108674d58f4c1814cc5f59ca31e5a3b"
+  },
+  "https://www.physics.utah.edu/graduate-programs/gradadmission/how-to-apply/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 13315,
+    "sha256": "b2a4af208d81678cd978e24a94ed2675cc23e53984c1f1d175451729066715fb"
   },
   "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/application-procedure/": {
     "fetched": "2026-10-21",
@@ -412,12 +1882,54 @@
     "chars": 9601,
     "sha256": "3389b757eaa5c2e5a50bee44976d57f742aaa53bba7f78076853e48e9f09d24c"
   },
+  "https://www.physics.uwo.ca/graduate/future_students/admission_requirements.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 5044,
+    "sha256": "2a483ba99e32a1fc2787490a908bded6d1de1b4e30e8f153478d95b6c17540e1"
+  },
+  "https://www.physics.uwo.ca/graduate/future_students/financial_info.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 2081,
+    "sha256": "655f781ef20d7afa69d24befdbcee68c29f3a14f44d60773342bdf7bfa2193d2"
+  },
+  "https://www.physics.uwo.ca/graduate/future_students/how_to_apply.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 3624,
+    "sha256": "bc21ff52eaf9066dcc3bc9423f3eb87fafd5b194c9ae32444906f0ffccb19e92"
+  },
   "https://www.physics.wisc.edu/graduate/phd-program/": {
     "fetched": "2026-10-21",
     "method": "http",
     "status": 200,
     "chars": 10319,
     "sha256": "9c49e87c81128626563314e00ee4b811b34ef05330b5db4df471f2781d6194d7"
+  },
+  "https://www.physicsandastronomy.pitt.edu/graduate/graduate-applicants-faq": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 33533,
+    "sha256": "88f6f3b9f1ea6c40ab69788c4c3fb32eafdded6ab745aeccb439e3b51ee8da50"
+  },
+  "https://www.physicsandastronomy.pitt.edu/graduate/how-apply": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 18221,
+    "sha256": "0aa65afd5d445fcc19133a133aab78ecd73f2e791981b1dac02c50a60da29a1f"
+  },
+  "https://www.physik.uzh.ch/en/study/Study-Degree-Programmes/phd.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 12551,
+    "sha256": "f6418ccff5017c93a7517a70e54c48f37e392ec6a2df299150be398be796102b"
   },
   "https://www.postgraduate.study.cam.ac.uk/courses/directory/pcphpdphy": {
     "fetched": "2026-10-21",
@@ -440,6 +1952,62 @@
     "chars": 46582,
     "sha256": "66aa526a6a9b2fb426e704270205e45eb1ccefacffac34700f8ed8375ec42c72"
   },
+  "https://www.qmul.ac.uk/international-students/englishlanguagerequirements/accepted-english-language-tests-and-qualifications/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 65413,
+    "sha256": "3d9431a1d1156f0d38bc4fb7ee690d18e851d62644b4a0024490f0c21bc4c781"
+  },
+  "https://www.qmul.ac.uk/international-students/englishlanguagerequirements/undergraduate-and-postgraduate-programmes/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 18010,
+    "sha256": "3a3d47fda08eb3a787ba8d4622cb4119524fed5ba602a86f497dc4300497d9b9"
+  },
+  "https://www.qmul.ac.uk/postgraduate/research/applying-for-a-research-degree/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 16457,
+    "sha256": "3094d3ce06e381905a25b61fd8484f759f66305e67eba150a0b0e17724b2b917"
+  },
+  "https://www.qmul.ac.uk/postgraduate/research/deadlines/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 7125,
+    "sha256": "7b60b1ac53ff5e29a419143f816ccdf7feff9daa4cdaa9444a2521b969f1358f"
+  },
+  "https://www.qmul.ac.uk/spcs/phdresearch/application-process/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 9824,
+    "sha256": "44261769c5b971f06afee7941d8c5a001dc000a042034736a48b14a0b3cba9d1"
+  },
+  "https://www.qmul.ac.uk/spcs/phdresearch/entry-requirements/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 6785,
+    "sha256": "fd846c6951835d84495da08f7b891e956f03aa36d8eeee26be241b63d8176d7a"
+  },
+  "https://www.qmul.ac.uk/spcs/phdresearch/fees-funding/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 6762,
+    "sha256": "90fb4479a8b9d7b1e8db76404fe051f69fb79116cb136657fe5d6f5e77b1baa2"
+  },
+  "https://www.qmul.ac.uk/spcs/phdresearch/research-studentships/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 8416,
+    "sha256": "4e0f76b2d70fd2a1a34d56c11a6c9859361289e6101adb06e1f57bce48c96914"
+  },
   "https://www.queensu.ca/physics/grad-studies/admission-requirements": {
     "fetched": "2026-10-21",
     "method": "http",
@@ -461,6 +2029,69 @@
     "chars": 4809,
     "sha256": "4b7667e65e6ea4527aef11becdfad96b52bfbab68ab9b38b9f251f4385c9f98e"
   },
+  "https://www.rochester.edu/college/gradstudies/admissions/international-students/application.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 7840,
+    "sha256": "63cf158daf9e6399a765792913f17266c4969b62fe41d972d99d394acf8d4fe6"
+  },
+  "https://www.rochester.edu/college/gradstudies/admissions/international-students/costs.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 5048,
+    "sha256": "8d5046a2e96d82a9a737f983d303144259a22a12dffcca4a0d91e0fac3c9fc0c"
+  },
+  "https://www.rochester.edu/college/gradstudies/admissions/test-requirements.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 5698,
+    "sha256": "f1fb64ec35b4eb46ee9d14d2ebc21d35e6362be3e7eb3245e20dbd1880233cfe"
+  },
+  "https://www.royalholloway.ac.uk/research-and-education/subjects/physics-and-astronomy/studying-here/research-degrees": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 8214,
+    "sha256": "67b0fe50152fe79e8bca0eb6194e886b7ae04b24a7e2e714b0547c15d0d6b65e"
+  },
+  "https://www.royalholloway.ac.uk/studying-here/applying/research-degrees/how-to-apply": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 5640,
+    "sha256": "03727dfeb775fa93c4f4b77c421988c0d7d0a8b0b8245d18c6126fe25b65d839"
+  },
+  "https://www.royalholloway.ac.uk/studying-here/international-students/english-language-requirements": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 29912,
+    "sha256": "b1064a15fadfb455da85c80c16cb125bb8e87be9e9f1327bce661c21c0a783e2"
+  },
+  "https://www.royalholloway.ac.uk/studying-here/international-students/find-your-country/india": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 17570,
+    "sha256": "62997cb75209e648c20968d576c52fe277d9e63539dfd11649eebbe18c922fbd"
+  },
+  "https://www.sas.rochester.edu/pas/graduate/applying.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 6424,
+    "sha256": "7df71767856b150aaeb498f532e811d2c998b2077e9d95c867ac7052d61dcd2e"
+  },
+  "https://www.sas.rochester.edu/pas/graduate/requirements.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 18489,
+    "sha256": "2513efbed67185a8517b3a98421c1b8e6d1a89662bda989ded79cc7c132aaf27"
+  },
   "https://www.sfu.ca/physics/graduate/prospective/admission-requirements.html": {
     "fetched": "2026-10-21",
     "method": "http",
@@ -474,6 +2105,181 @@
     "status": 200,
     "chars": 10533,
     "sha256": "fb7ac068e91e2f89a605574c16c6aa161dbc08341c68cf05a7a65b0225c5f285"
+  },
+  "https://www.st-andrews.ac.uk/physics-astronomy/prospective/pgr/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 11374,
+    "sha256": "8e69c381c1863fdddb7e2bfce379a95a5d06c36d76af2f3321708d3b61a9f32b"
+  },
+  "https://www.st-andrews.ac.uk/subjects/entry/india/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 10800,
+    "sha256": "a833a2371d0d84d1de3cb43b852ba9b95d58bf5dbf9bd732a4da79656714ac0b"
+  },
+  "https://www.st-andrews.ac.uk/subjects/entry/language-requirements/postgraduate/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 10550,
+    "sha256": "e6a7573076d86d2e6551f17b805c0dde0eb188a54614f56e11968c68f61502a1"
+  },
+  "https://www.st-andrews.ac.uk/subjects/entry/language-requirements/profiles/7-d/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 1906,
+    "sha256": "59c77233a9425219d46c27f84e5eeb57721e2f11489bf1ae01255699b73928fb"
+  },
+  "https://www.strath.ac.uk/courses/research/physics/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 38055,
+    "sha256": "ec586b9b7c2c9b67b7c58218370a5280e98e9b922c6dba1fbb3d19d165ce7c54"
+  },
+  "https://www.strath.ac.uk/studywithus/englishlanguagerequirements/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 5826,
+    "sha256": "15a45ae84416f9b90978f4d972617fd1fddb32fb3d870578c240d59223fc6ca2"
+  },
+  "https://www.strath.ac.uk/studywithus/englishlanguagerequirements/recognisedenglishlanguagequalifications/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 19487,
+    "sha256": "a54c7acd50d6708067f5395389868b4f4b6236727538b94f0911bddc7a686d20"
+  },
+  "https://www.strath.ac.uk/studywithus/internationalstudents/entryrequirements/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 96591,
+    "sha256": "5858c0eac01b5c277da5a62f01c2a2acae9b56f3d9ca6cebab41fa0af327b786"
+  },
+  "https://www.strath.ac.uk/studywithus/postgraduateresearch/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 8727,
+    "sha256": "b318e9c0e7a3b4048d83f59efe2b78f3afef587f26dfc140ba21abaa2da3e7aa"
+  },
+  "https://www.strath.ac.uk/studywithus/scholarships/johnandersonresearchstudentshipschemejarss/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 7868,
+    "sha256": "9bd3b7e893d62a89e0cf44519a36eccc52df5d2d5fb415257cf9bfe745a920c9"
+  },
+  "https://www.su.se/english/divisions/department-of-physics/education/courses-and-programmes/doctoral-studies-at-the-department-of-physics": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 10175,
+    "sha256": "e81ea6915540fd4620a5fb1ae69d7aac69272a105e20cc33818a095031ecf8de"
+  },
+  "https://www.su.se/english/divisions/department-of-physics/education/courses-and-programmes/eligibility-application-and-admission": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 4817,
+    "sha256": "efb2df6fb2a54c480593a848de573f7244b33de8f648ad5ba6104fa60a185b24"
+  },
+  "https://www.su.se/english/divisions/department-of-physics/education/courses-and-programmes/study-funding-during-postgraduate-education": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 5486,
+    "sha256": "292d1cae2222384660b600d3fdff740a7be201ab984fa0305c9338eae577f5f6"
+  },
+  "https://www.tcd.ie/courses/postgraduate/closing-dates/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 12559,
+    "sha256": "b59821b8315315701db587135a5d158423978e5f927477171a4614d084a96f12"
+  },
+  "https://www.tcd.ie/courses/postgraduate/how-to-apply/entry-requirements/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 14754,
+    "sha256": "d12760015777eeeab2888a4b6ed746522812ed96b1b3dfedfac9ff3115ba370f"
+  },
+  "https://www.tcd.ie/courses/postgraduate/postgraduate-research/engineering-mathematics-and-science/school-of-physics/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 16213,
+    "sha256": "6bf60419ed981db27f41e9a5e9be9d7978bd9ec481da3b3acee24eaaa781cb89"
+  },
+  "https://www.tcd.ie/physics/study/prospective/postgraduate/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 25797,
+    "sha256": "8cac4cea87a079548b15758e1a4cb712b164d79cca97f616f07cdbf0abf2ba6f"
+  },
+  "https://www.tcd.ie/physics/study/prospective/postgraduate/how-to-apply/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 11883,
+    "sha256": "a2156c9bca05764424a9913b7adb05d52a5fddddbcf01ec91479a49fea149157"
+  },
+  "https://www.tcd.ie/study/apply/faqs/postgraduate/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 11444,
+    "sha256": "a7e42b584f3b0f5827bc4decc98aa21e929a9990c1397eff3285d5da1092b882"
+  },
+  "https://www.tcd.ie/study/apply/making-an-application/postgraduate/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 6676,
+    "sha256": "31b0a3177b70297a14093977dc9c63f331070d5996e3de3f66da8c9f5e9ef219"
+  },
+  "https://www.tcd.ie/study/english-language-requirements/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 7322,
+    "sha256": "08ed222ca23e08dbf860a4a6fbab0c394b8de3db92ac069083df02e0a3f979b2"
+  },
+  "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/phd": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 3602,
+    "sha256": "42c48b303bb2525c313366a53f36a9af7e195bebafc317d1bc08d878cb7d0dc6"
+  },
+  "https://www.tudelft.nl/en/education/programmes/phd/phd-admission": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 6130,
+    "sha256": "57c8c92d7d41858ec6dbc1374290cdfd47aee49d16481b953654faaa7f50c0c7"
+  },
+  "https://www.tudelft.nl/en/education/programmes/phd/phd-admission/fees-and-funding": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 4211,
+    "sha256": "ef202044ef9dfd4b948e4fef7acf1874dbe1be5fdb56b83ef5de380ea539717f"
+  },
+  "https://www.tudelft.nl/en/faculty-of-applied-sciences/research/phd": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 5069,
+    "sha256": "632301e4f3df85ef660faf0ea3ebcce61befd91798e91bb92571371a08842a4e"
   },
   "https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/index.html": {
     "fetched": "2026-10-21",
@@ -524,6 +2330,62 @@
     "chars": 5912,
     "sha256": "62074c641c50db09e3436b7a2119f3aa64b0cee1ccce79a79bc648638b186920"
   },
+  "https://www.umass.edu/graduate/apply/how-apply": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 12472,
+    "sha256": "e78b6e030dab28bf0d2fb32b464c7cbea91bb03fd5fc463a4200c61da5ad9f67"
+  },
+  "https://www.umass.edu/graduate/apply/international-applicants": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 8957,
+    "sha256": "81e58a03e44610f4a01ca72d885fccc0de796150a600b486be3cbdb2a85fcac2"
+  },
+  "https://www.umass.edu/physics/graduate/prospective-students-letter": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 7352,
+    "sha256": "29a59b42c61affb6d71c100f8787ca1dfbf83a1d1020a5b7ed5e4c52473167d6"
+  },
+  "https://www.unipd.it/en/dottorato": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 4965,
+    "sha256": "f1a61418a7a13990404a24dc5210d79dad798b1a0ff1e1a40ecabc9f81a8e7ca"
+  },
+  "https://www.unipd.it/en/dottorato/dottorati-41-ciclo": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 8462,
+    "sha256": "386192188d9cd30697e15783f1a6354a9935e6f7a9b3097f600bc6f18a9b423c"
+  },
+  "https://www.unipd.it/en/dottorato/dottorati-42-ciclo": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 15355,
+    "sha256": "8e46d33802364493498b3f32f63c3aca51076d4afea1052e175dbeef8f3870da"
+  },
+  "https://www.universite-paris-saclay.fr/en/phd-program-physics-graduate-school-physics": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 22616,
+    "sha256": "a9bbb8c02835fbce9406c51e7e36371e058ca67a82b5e00691f4f77f7c3cd2dd"
+  },
+  "https://www.universite-paris-saclay.fr/en/recherche/doctorat-et-hdr/what-framework-my-phd": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 10911,
+    "sha256": "4a61a97d3bec0a1707498cd6a2b1d1f4b26a8933ab776f76a5a0b4647865b06c"
+  },
   "https://www.universiteitleiden.nl/en/science/graduate-school-of-science/phd-programmes/physics": {
     "fetched": "2026-10-21",
     "method": "http",
@@ -537,5 +2399,124 @@
     "status": 200,
     "chars": 5390,
     "sha256": "7201be0684e00f12d7f89f9082fef59f1f51dd0c70255bc61c370fea2af044d2"
+  },
+  "https://www.universityadmissions.se/en/apply-to-masters/provide-application-documents-masters/country-instructions/india/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 9226,
+    "sha256": "4574b1d92a05c1d3dbe02a2360bacd4d54ccbbd6466b0960de1f4805232b697b"
+  },
+  "https://www.universityadmissions.se/en/entry-requirements/english-language-requirements/": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 14583,
+    "sha256": "ed1bac08a53a4b4caa8439c9edf0df8592c9c02123832b9b6ec91bd2a6a5877a"
+  },
+  "https://www.uoguelph.ca/physics/future-students/grad-apply": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 5809,
+    "sha256": "a1333d9f12b02980851c176ea6c637f647bd850f40e84d1ad577d251fdba7aaa"
+  },
+  "https://www.uoguelph.ca/programs/phd-physics": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 8654,
+    "sha256": "8834adef7a1eed8e17ac9b82970d360539e9a1178b2cf53c56677bef6484520a"
+  },
+  "https://www.uu.se/en/department/physics-and-astronomy/study/phd-studies": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 8549,
+    "sha256": "ce9558e636b4c3febc41f8292eb9335b900ba93bca19347fc49f33fbb339519b"
+  },
+  "https://www.uu.se/en/disciplinary-domain/science-and-technology/study/doctoral-studies": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 4989,
+    "sha256": "c9c15aa3398f674d6709fa23f1e1b96ab05c07c9ff4c64dcf94cd22fa225bdd8"
+  },
+  "https://www.uu.se/en/research/phd-studies": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 5636,
+    "sha256": "74b056524794e9dbbc9f0f105e67823a8ff9dbc8ff9c001c3265f78c62e5f5e1"
+  },
+  "https://www.uu.se/en/staff/faculty/science-and-technology/education-and-teaching/doctoral-studies/funding": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 11091,
+    "sha256": "b371caf4f35275a16f2afe72525b474ea7e8b3b29269eb15b39f8e0c546bb448"
+  },
+  "https://www.uu.se/en/staff/faculty/science-and-technology/education-and-teaching/doctoral-studies/subjects-and-study-plans/subjects/physics": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 21860,
+    "sha256": "53e480671116b54516afe69fba3fbf9ce9634dedef7ca6462684182f97975b5c"
+  },
+  "https://www.uva.nl/en/research/phd/admission-to-a-doctoral-programme/admission-to-a-doctoral-programme.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 4358,
+    "sha256": "d5380bf1159ec30c759ce7a0498bd6918b545c813c19a1395ea3a20f82feb108"
+  },
+  "https://www.uva.nl/en/research/phd/how-do-i-find-a-phd-position/how-do-i-find-a-phd-position.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 3477,
+    "sha256": "fc82e55ee5fb4c4806c5a875f95f57e1119cba3515f673d776bde114174810b1"
+  },
+  "https://www.uzh.ch/en/studies/application/deadlines.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 4358,
+    "sha256": "d8e57029de21ee2adb5d024c4fd4a7ffe56252e30dd3b59fa14f1c055f3870fd"
+  },
+  "https://www.uzh.ch/en/studies/application/fees.html": {
+    "fetched": "2026-10-21",
+    "method": "http",
+    "status": 200,
+    "chars": 3014,
+    "sha256": "14383fb198bbdf8a7e035da0d5a4a3303f41981f36f95c9425b1dba50adb2bc0"
+  },
+  "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/admission-requirements/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 3102,
+    "sha256": "8db9b6645e48786b2c41bfb2d2d87ff3c8c7c5714a6a6b9835a3c228f16c9310"
+  },
+  "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 4970,
+    "sha256": "0798655d16da23f56c65b64d2f47c163263ff133d3b65fee2432df432c6c02a5"
+  },
+  "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/york-graduate-funding/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 2705,
+    "sha256": "f2c55e1aaa8a35f655ceb5f59686fffd3bba3bf31bedde37c07a7cc99bdfeb0c"
+  },
+  "https://www.yorku.ca/gradstudies/students/future-students/funding-packages-by-program/": {
+    "fetched": "2026-10-22",
+    "method": "http",
+    "status": 200,
+    "chars": 5318,
+    "sha256": "4f0702d11914e653fa6ac37c105530f8ce12500410d55422b26280b0be3d6697"
   }
 }

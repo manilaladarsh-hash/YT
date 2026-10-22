@@ -140,6 +140,7 @@ The {{N_EU}} programs in continental Europe and Ireland ({{EU_COUNTRIES}}) use t
    - Nov 1: IMPRS Quantum Dynamics, and Heidelberg's HGSFP portal.
    - Nov 3: IMPRS Astronomy (Heidelberg).
    - Nov 30: IMPRS Quantum Materials (Dresden).
+   - Dec 1: the Max Planck Schools of Photonics and Matter to Life, which both take bachelor's graduates (see below).
    - Spring: SISSA's exam-based call.
    - Oct 31 and Apr 30: EPFL's two rounds.
 2. **Apply for a paid position, or agree a supervisor first.** There is no central committee: PhD places are advertised as jobs, or a professor must accept you before you apply. Sweden (Stockholm, KTH, Chalmers, Uppsala), Denmark (Copenhagen), the Netherlands (Leiden, Amsterdam, Delft), Switzerland (ETH Zurich, Zurich), TU Munich, ICFO and Trinity College Dublin work this way. In this Atlas, position- or supervisor-based: {{EU_POSITION_LIST}}.
@@ -150,6 +151,7 @@ The {{N_EU}} programs in continental Europe and Ireland ({{EU_COUNTRIES}}) use t
 - **No application fee:** {{EU_NO_FEE_LIST}}.
 - **Small fees:** Zurich (UZH) charges CHF 100.
 - **Watch for tuition instead.** From January 2027, Copenhagen charges PhD tuition of DKK 85,000 a year, which your funding must cover.
+- **German fees are appearing.** The Max Planck School of Photonics notes that FAU Erlangen, one of its teaching universities, charges students from non-EU countries €100 per application.
 
 **A master's is usually expected first.** In this Atlas: {{EU_MASTERS_LIST}}. Bachelor's holders can enter at: {{EU_BACHELORS_LIST}}. Other routes:
 - Heidelberg (HGSFP and IMPRS Astronomy) has 4+4 tracks for excellent candidates with a 4-year bachelor's.
@@ -172,6 +174,22 @@ In this Atlas, paid or typically funded: {{EU_FUNDED_LIST}}; competitive: {{EU_C
   - TU Delft exempts English-taught master's degrees in principle.
   - IMPRS Astronomy (Heidelberg) and Copenhagen assess English at interview instead of by test.
 - **School-level English counts in Sweden:** at KTH and Chalmers, your CBSE or CISCE Class XII English grades can meet the requirement.
+
+### Two routes beyond university departments
+
+**Max Planck Schools (Germany).**
+- You apply from September 1 to December 1, 2026 for a fall 2027 start, through one central portal. The Atlas covers Photonics and Matter to Life.
+- Bachelor's graduates are welcome as well as master's graduates. Bachelor's holders start with an integrated master's phase on a stipend (about €1,565 a month), then move to a salaried PhD contract (TVöD/TV-L E13).
+- Admission includes full funding for up to five years, and there are no tuition fees.
+- Matter to Life charges no application fee and accepts an English-taught previous degree as proof of English. The Photonics FAQ says the GRE is not required and won't be evaluated.
+
+**Marie Skłodowska-Curie Doctoral Networks (MSCA-DN, EU-funded).**
+- These are individual paid PhD positions across Europe, open to **any nationality**. You must **not already have a doctorate** when you're recruited.
+- **Mobility rule:** you must not have lived or had your main activity (work, studies) in the recruiting organisation's country for more than 12 months in the 36 months before your recruitment date. Applying from India, you'll usually meet it. Check it if you've recently studied or worked in that country.
+- The EU pays a living allowance and a mobility allowance. Each position has its own deadline and its own application.
+- **How to find them:** search EURAXESS (euraxess.ec.europa.eu → Jobs) for "MSCA Doctoral Network" plus your field, and check weekly; new calls appear all year.
+
+**APS certificate (Germany).** Many German programs and the German student visa route ask Indian applicants for an APS certificate. In this Atlas, Matter to Life explicitly asks for APS verification for Indian certificates. Check each program's page and aps-india.de, and if you need it, apply early.
 
 **Advice.**
 - In position-based systems, your supervisor email (Section 10) *is* the application. Check the vacancy pages weekly; KTH, for example, announces positions nine times a year.
@@ -210,6 +228,17 @@ Many Canadian PhD programs expect a master's degree. A BSc holder usually starts
 
 **Important for 5-year integrated BS-MS students (IISER, IISc, IIT and others):** whether your degree counts as a master's equivalent is decided by each university's credential assessment. **Ask each program in writing.** Don't assume either way. Put the question in your first email to the graduate office and keep the reply.
 
+### Study permits in 2026: two changes worth knowing (facts, not advice)
+
+- **No provincial letter for graduate students.** Starting January 1, 2026, if you'll attend a master's or doctoral degree program at a public institution, you don't need a provincial or territorial attestation letter (PAL or TAL) for your study permit. Quebec still has its own requirements. [canada.ca: graduate students](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/graduate-student/how-to-apply.html)
+- **About 2-week processing for PhD students.** IRCC says it is processing doctoral students' applications (and their family members') in 2 weeks. To qualify, you must:
+  - apply from outside Canada, online, with a complete application;
+  - give biometrics within 2 weeks of your instruction letter.
+
+  The clock starts once your university verifies your letter of acceptance. [canada.ca: faster processing](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/graduate-student/faster-processing.html)
+
+These rules change. Check canada.ca on the day you apply. This kit is not immigration advice.
+
 ### Funding is stated more often
 
 Canadian programs often publish guaranteed minimums (e.g., UBC at least CAD 40,000 a year for years 1-4; Alberta CAD 100,000 over four years; McMaster at least CAD 21,000 after tuition and fees). Note whether a figure is before or after tuition.
@@ -225,7 +254,7 @@ Canadian programs often publish guaranteed minimums (e.g., UBC at least CAD 40,0
 > **Subject:** Prospective PhD student (Fall 2027): [specific topic] in your group
 >
 > 1. Who you are: degree, institution, expected graduation.
-> 2. The specific work of theirs you read, and one genuine question or connection.
+> 2. The specific work of theirs you read, and one genuine connection to your own work. Don't add a quiz-style question they'd have to research to answer.
 > 3. Your most relevant research experience and what *you* did in it.
 > 4. One skill or result that would help their group (a technique, code, measurement).
 > 5. The ask: "Are you planning to take new PhD students for Fall 2027, and would you be open to my application?"
@@ -233,7 +262,12 @@ Canadian programs often publish guaranteed minimums (e.g., UBC at least CAD 40,0
 
 **Cadence:** one polite follow-up after about 10 days if you get no reply, then move on. Log every email in the **Supervisor outreach** tab; it calculates the follow-up date for you.
 
-**Don'ts:** no mass emails with swapped names, no long life stories, no attachments over a few MB, and no generic praise ("your esteemed research").
+**Don'ts:**
+- no mass emails with swapped names;
+- no long life stories;
+- no attachments over a few MB;
+- no generic praise ("your esteemed research");
+- no request for a video call in the first email. If they're interested, they'll suggest one.
 
 ---
 
@@ -307,5 +341,5 @@ What this Atlas found for international applicants:
 - Each of the {{N}} programs was checked against its own department and graduate-school pages on {{CHECKED}}. Every value stores the exact sentence it came from, the URL and the date. A script confirms that each quote appears verbatim on the fetched page.
 - Research and drafting were AI-assisted. Every published value is tied to an official quote, and uncertain items are labelled *Not stated*, *Conditional*, *year inferred* or *sources conflict* instead of guessed.
 - A weekly automated check re-reads the cited pages and flags quotes that disappear. Updates are sent to buyers as new versions at no charge.
-- Some well-known programs couldn't be verified on the check date because their sites blocked automated checks or were down for maintenance. They are not in this edition: Oxford, UCL, Manchester, ISTA Austria, Vienna, Göttingen's central pages, Geneva, KU Leuven, ENS Paris (ICFP) and the University of Barcelona. They'll be added once their pages can be verified.
+- Some well-known programs couldn't be verified on the check date because their sites blocked automated checks or were down for maintenance. They are not in this edition: Oxford, UCL, Manchester, Michigan, ISTA Austria, Vienna, Göttingen's central pages, Geneva, KU Leuven, ENS Paris (ICFP) and the University of Barcelona. They'll be added once their pages can be verified.
 - **Found something wrong or changed?** Reply to your purchase email with the program and the page link. Confirmed corrections ship in the next update.
