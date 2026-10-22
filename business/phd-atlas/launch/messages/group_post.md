@@ -12,6 +12,6 @@ For anyone applying to physics PhDs abroad for 2027 (US, Canada, Europe): I chec
 6. Europe is different again: EPFL charges no application fee, Cambridge charges £20 for up to 7 PhD applications, Heidelberg's physics graduate-school portal closes **Nov 1**, and at ETH Zurich and Leiden you apply to a professor or an advertised paid position.
 
 Free 10-program sample: {SAMPLE_URL}?utm_source=group&utm_medium=post&utm_campaign=launch2026
-Full version: 40 programs, every value linked to the official quote, offline explorer, planner and playbook. About ₹180 in India (UPI works), or about ₹700 for a batch licence the whole group can share (up to 30 people): {PAID_URL}?utm_source=group&utm_medium=post&utm_campaign=launch2026
+Full version: 40 programs, every value linked to the official quote, offline explorer, planner and playbook. About ₹190 in India (UPI works), or about ₹750 for a batch licence the whole group can share (up to 30 people): {PAID_URL}?utm_source=group&utm_medium=post&utm_campaign=launch2026
 
 Happy to answer questions here. (If you'd rather I not post about this again, just say so.)

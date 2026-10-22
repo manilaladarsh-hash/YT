@@ -41,6 +41,25 @@ const { chromium } = require("playwright");
     out.free = await page.locator("#rows tr").count();
     await page.selectOption("#waiver", "");
 
+    // Quick pick: Bachelor's OK toggles the entry filter.
+    await page.locator('[data-pick="entry=bachelor"]').click();
+    out.pickBachelor = await page.locator("#rows tr").count();
+    out.pickBachelorPressed = await page.locator('[data-pick="entry=bachelor"]').getAttribute("aria-pressed");
+    out.filtersSummary = await page.locator("#filtersSummary").textContent();
+    await page.locator('[data-pick="entry=bachelor"]').click();
+    await page.selectOption("#fund", "funded");
+    out.funded = await page.locator("#rows tr").count();
+    await page.selectOption("#fund", "");
+
+    // Approximate rupee fees under each numeric fee, and in the fee dialog.
+    out.inrHints = await page.locator("#rows .hint", { hasText: "₹" }).count();
+    await page.selectOption("#sort", "fee");
+    const feeBtn = page.locator("#rows tr").filter({ has: page.locator(".hint", { hasText: "₹" }) }).first().locator("td").nth(3).locator("button");
+    await feeBtn.click();
+    out.feeDialogExtra = await page.locator("#dExtra").textContent();
+    await page.locator("#detail button.primary").click();
+    await page.selectOption("#sort", "deadline");
+
     await page.fill("#q", "Waterloo");
     out.search = await page.locator("#rows tr").count();
     await page.fill("#q", "");
@@ -74,6 +93,14 @@ const { chromium } = require("playwright");
     await page.setViewportSize({ width: 375, height: 800 });
     out.cardsVisible = await page.locator("#cards").isVisible();
     out.horizontalOverflow = await page.evaluate(() => document.documentElement.scrollWidth > window.innerWidth + 1);
+
+    // Fresh load at phone width: filters folded so programs appear near the top.
+    const phone = await ctx.newPage();
+    await phone.setViewportSize({ width: 390, height: 844 });
+    await phone.goto(file, { waitUntil: "load" });
+    out.phoneFiltersOpen = await phone.locator("#filters").evaluate((d) => d.open);
+    out.phoneFirstCardTop = await phone.locator("#cards .card").first().evaluate((e) => e.getBoundingClientRect().top);
+    await phone.close();
 
     // Dark mode toggle.
     await page.locator("#theme").click();

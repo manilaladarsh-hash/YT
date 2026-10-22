@@ -1,0 +1,91 @@
+{
+  "id": "ncsu",
+  "institution": "North Carolina State University",
+  "department": "Department of Physics and Astronomy",
+  "country": "USA",
+  "region": "North Carolina",
+  "program_page": "https://physics.sciences.ncsu.edu/graduate/apply/",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-04",
+      "value": "Priority deadline January 4, 2027 for Fall 2027; in exceptional cases international applications accepted until March 1",
+      "quote": "Priority Deadline for Fall 2027 Applications: January 4, 2027 | In exceptional cases, we will accept US applications until June 25 and international applications until March 1.",
+      "url": "https://physics.sciences.ncsu.edu/graduate/apply/"
+    },
+    "app_fee": {
+      "code": "95 USD",
+      "value": "USD 95 for international applicants (USD 85 for US citizens/permanent residents)",
+      "quote": "The application fee for international applicants is $95.00 in U.S. currency drawn from a U.S. bank or from an international bank with a U.S. affiliate.",
+      "url": "https://physics.sciences.ncsu.edu/graduate/apply/graduate_application_faq/"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Waiver only for the first 100 U.S.-citizen applicants with GPA above 3.0; department does not waive the fee for international students",
+      "quote": "For 2027 admission, we will waive the application fee for the first 100 applicants that are American citizens and that have an undergraduate GPA of better than 3.0 . | The Physics department does NOT waive the application fee for international students.",
+      "url": "https://physics.sciences.ncsu.edu/graduate/apply/graduate_application_faq/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "Not listed as required; GRE scores may be added as extra material at the applicant's discretion",
+      "quote": "Applicants are able to submit additional materials at their discretion. For instance, applicants include publications or copies of posters that were presented at scientific meetings, or GRE test scores if available.",
+      "url": "https://physics.sciences.ncsu.edu/graduate/apply/",
+      "scope": "stated in the US applicants section; international materials list names only the Physics GRE"
+    },
+    "gre_physics": {
+      "code": "Optional",
+      "value": "Not required; encouraged if it helps, valuable for international applicants from institutions the department rarely sees",
+      "quote": "We encourage students take the Physics GRE and submit scores if they believe that it helps their application, but submission is not required.",
+      "url": "https://physics.sciences.ncsu.edu/graduate/apply/",
+      "also": [
+        {
+          "quote": "We routinely admit students without Physics GRE scores.",
+          "url": "https://physics.sciences.ncsu.edu/graduate/apply/graduate_application_faq/"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "TOEFL iBT 80 (before Jan 21, 2026) or 4 (new scale) with section minimums; IELTS 6.5; Duolingo 110",
+      "quote": "Passing the TOEFL (Test of English as a Foreign Language) with a score of 80 or above if taken prior to January 21, 2026 or with a total score of at least 4 on the Internet-based",
+      "url": "https://physics.sciences.ncsu.edu/graduate/apply/"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "Exempt if a citizen of a country where English is an official language and the language of instruction in higher education (FAQ says \"the official language\"); no country list on the pages checked, so India's status is not confirmed. Medium-of-instruction letters not mentioned.",
+      "quote": "Be a citizen of a country where English is an official language and the language of instruction in higher education",
+      "url": "https://physics.sciences.ncsu.edu/graduate/apply/",
+      "also": [
+        {
+          "quote": "be a citizen of a country where English is the official language and the language of instruction in higher education;",
+          "url": "https://physics.sciences.ncsu.edu/graduate/apply/graduate_application_faq/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked (candidate statement should list possible advisers)",
+      "quote": "",
+      "url": "https://physics.sciences.ncsu.edu/graduate/apply/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Admits usually offered support; over 95% of students on TA/RA/fellowship (~$30,000/yr in Fall 2026)",
+      "quote": "If a student is offered admission, our department usually offers financial support to the student. | Most students (>95%) in the PY graduate program are supported by a teaching assistantship (TA), research assistantship (RA) or fellowship.",
+      "url": "https://physics.sciences.ncsu.edu/graduate/apply/graduate_application_faq/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants with a bachelor's from an accredited institution by Fall 2027 welcome; exceptions for some three-year international degrees",
+      "quote": "We welcome applications from students who will have earned bachelor’s degrees at accredited institutions by Fall 2027.",
+      "url": "https://physics.sciences.ncsu.edu/graduate/apply/",
+      "also": [
+        {
+          "quote": "Exceptions to standard accreditation may be granted for applicants with international degrees, including applicants with three-year degrees from institutions in Europe participating in the Bologna Process.",
+          "url": "https://physics.sciences.ncsu.edu/graduate/apply/graduate_application_faq/"
+        }
+      ]
+    }
+  },
+  "notes": "International applicants are usually interviewed by Skype or phone. TA eligibility needs the SPEAK test plus higher IELTS speaking (7.0) or Duolingo sub-scores (125). Graduate School site (grad.ncsu.edu) could not be fetched (TLS failure)."
+}

@@ -1,0 +1,81 @@
+{
+  "id": "brown",
+  "institution": "Brown University",
+  "department": "Department of Physics",
+  "country": "USA",
+  "region": "Rhode Island",
+  "program_page": "https://physics.brown.edu/academics/graduate/how-apply",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-09",
+      "value": "January 9 (applications open early September); year inferred",
+      "quote": "Applications for the Physics and Astrophysics Ph.D. program are open annually from early September to a deadline of January 9th.",
+      "url": "https://physics.brown.edu/academics/graduate/how-apply",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "75 USD",
+      "value": "USD 75 per program application",
+      "quote": "A $75 application fee must be paid when an application is submitted.",
+      "url": "https://physics.brown.edu/academics/graduate/how-apply/fees-and-financial-assistance"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Not available to international applicants as a rule; in exceptional cases the department may grant one (exceptional circumstances and a very strong record). Email physics-student-affairs@brown.edu before December 1.",
+      "quote": "Application fee waivers are not available for international applicants. In exceptional cases, the department may offer a fee waiver to international students, but this is really done for students with exceptional circumstances and a very well-established academic record. If you think this may be applicable to your case, you should contact physics-student-affairs@brown.edu before December 1.",
+      "url": "https://physics.brown.edu/academics/graduate/how-apply/fees-and-financial-assistance",
+      "time_sensitive": "2026-11-30"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "General GRE optional (both tracks)",
+      "quote": "The submission of Physics Subject GRE scores is required for applications to the PhD program; the General GRE is optional.",
+      "url": "https://physics.brown.edu/academics/graduate/how-apply/testing-requirements"
+    },
+    "gre_physics": {
+      "code": "Required",
+      "value": "Required for the Physics track; not considered for the Astrophysics track; waived if you hold a master's in physics or a related field",
+      "quote": "For the Physics track, GRE subject scores are required. For the Astrophysics track, the GRE subject will not be considered. | The GRE Subject Test score requirement is waived for applicants who have a master's degree in physics or a related field.",
+      "url": "https://physics.brown.edu/academics/graduate/how-apply",
+      "scope": "Physics track"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "TOEFL 90 (tests before Jan 21, 2026) or 4.5 (new scale); IELTS 7 recommended; Duolingo not accepted",
+      "quote": "For TOEFL exams taken before January 21, 2026: Minimum total score: 90 | For TOEFL exams taken on or after January 21, 2026: Minimum total score: 4.5",
+      "url": "https://graduateschool.brown.edu/apply/international-applicants/language-proficiency-toefl-or-ielts"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "India is not on Brown's country list, but a degree from a university whose primary language of instruction is English qualifies if your Registrar or Dean sends the Graduate School a letter confirming it; the waiver must be requested",
+      "quote": "Language proficiency exams are not required of those students who have earned a degree from a non-U.S. university where the primary language of instruction is English | Students with degrees from universities in countries not on this list should have their university Registrar or Dean send a letter to the Graduate School, referencing the applicant's name and proposed area of study, stating that English is the primary language of instruction for that program or institution.",
+      "url": "https://graduateschool.brown.edu/apply/international-applicants/language-proficiency-toefl-or-ielts"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No pre-admission supervisor requirement stated; applicants are encouraged to contact faculty to judge Physics vs Astrophysics track fit",
+      "quote": "Prospective students are also encouraged to contact specific faculty members to determine whether their current research projects align more closely with the Physics or Astrophysics tracks.",
+      "url": "https://physics.brown.edu/academics/graduate/how-apply"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "At least five years of guaranteed funding (stipend, tuition, health fee and insurance) while in good standing",
+      "quote": "Admission to our Ph.D. program includes at least five years of guaranteed funding – including stipend, tuition, health services fee and health insurance – for students who maintain good standing in the program.",
+      "url": "https://physics.brown.edu/academics/graduate/how-apply/fees-and-financial-assistance"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Holders of a degree equivalent to a US bachelor's may apply; a physics bachelor's is not required if your physics background is strong",
+      "quote": "Graduates of non-U.S. colleges and universities who have completed the equivalent of a U.S. bachelor's degree may apply for admission to the Brown University Graduate School.",
+      "url": "https://graduateschool.brown.edu/application-information/international-applicants",
+      "also": [
+        {
+          "quote": "A bachelor’s degree in physics is not required to apply; however, applicants are expected to have a strong background in physics.",
+          "url": "https://physics.brown.edu/academics/graduate/how-apply"
+        }
+      ]
+    }
+  },
+  "notes": "Two PhD tracks (Physics, Astrophysics) are chosen at application and can't be switched. International applicants need verified transcripts (WES/CertiFile course-by-course) before an offer."
+}

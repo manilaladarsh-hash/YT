@@ -122,7 +122,9 @@ def test_explorer_filters_match_the_data(explorer):
     assert explorer["pgreRequired"] == sum(r["fields"]["gre_physics"]["code"] == "Required" for r in RECS)
     assert explorer["free"] == sum(r["fields"]["app_fee"]["code"].startswith("0") for r in RECS)
     assert explorer["perPositionShown"] is True
-    assert explorer["search"] == 1
+    hay = lambda r: " ".join([build.short(r), r["institution"], r["department"], r["region"], r["country"], r["notes"]]
+                             + [f["value"] for f in r["fields"].values()]).lower()
+    assert explorer["search"] == sum("waterloo" in hay(r) for r in RECS) >= 1
 
 
 def test_explorer_detail_shows_official_quote(explorer):
@@ -144,8 +146,27 @@ def test_explorer_phone_layout(explorer):
 
 
 def test_explorer_earliest_deadline_first(explorer):
-    first = min((r for r in RECS if build.deadline_cell(r)), key=lambda r: r["fields"]["deadline"]["code"])
-    assert explorer["firstByDeadline"] == first["institution"]
+    first = min((r for r in RECS if build.deadline_cell(r)), key=lambda r: (r["fields"]["deadline"]["code"], build.short(r)))
+    assert explorer["firstByDeadline"] == build.short(first)
+
+
+def test_explorer_quick_picks_and_new_filters(explorer):
+    bachelor = sum(r["fields"]["entry_route"]["code"] in ("Direct from bachelor's", "Either") for r in RECS)
+    funded = sum(r["fields"]["funding"]["code"] in ("Guaranteed", "Typical") for r in RECS)
+    assert explorer["pickBachelor"] == bachelor > 0
+    assert explorer["pickBachelorPressed"] == "true"
+    assert explorer["funded"] == funded > 0
+    assert explorer["filtersSummary"].startswith("Filters (")
+
+
+def test_explorer_shows_rupee_estimates(explorer):
+    assert explorer["inrHints"] >= sum(1 for r in RECS if build.fee_parts(r["fields"]["app_fee"]["code"])[0])
+    assert "₹" in explorer["feeDialogExtra"]
+
+
+def test_explorer_phone_starts_with_filters_folded(explorer):
+    assert explorer["phoneFiltersOpen"] is False
+    assert explorer["phoneFirstCardTop"] < 800, "first program should be visible without scrolling far"
 
 
 @pytest.mark.skipif(shutil.which("soffice") is None, reason="LibreOffice not installed")
@@ -157,8 +178,8 @@ def test_workbook_formulas_calculate_in_libreoffice():
     toronto = next(r for r in RECS if r["id"] == "utoronto")
     uiuc = next(r for r in RECS if r["id"] == "uiuc")
     sl = wb["Shortlist"]
-    sl["A2"] = toronto["institution"]
-    sl["A3"] = uiuc["institution"]
+    sl["A2"] = build.short(toronto)
+    sl["A3"] = build.short(uiuc)
     sl["N3"] = "Waived"
     wb["Supervisor outreach"]["E2"] = __import__("datetime").date(2026, 11, 3)
     with tempfile.TemporaryDirectory() as tmp:

@@ -15,13 +15,13 @@ Everything else is ready. These steps need **your** identity, bank and approval,
 ## Product 1: paid kit (10 min)
 1. **New product → Digital product.**
 2. Name, URL slug, summary and description: copy from `store/LISTING_COPY.md`, Product 1. Set the price to **$5**.
-3. **Versions:** add two versions with these exact names and prices: **Personal licence**, $5, and **Batch licence (share with up to 30 students)**, $20. Indian buyers should then see roughly ₹180 and ₹700, in rupees, with UPI offered at checkout. **Before announcing, ask one friend in India to open the link and confirm the rupee price and the UPI option for both versions.** This is the one pricing assumption I couldn't test without an account.
+3. **Versions:** add two versions with these exact names and prices: **Personal licence**, $5, and **Batch licence (share with up to 30 students)**, $20. Indian buyers should then see roughly ₹190 and ₹750, in rupees, with UPI offered at checkout. **Before announcing, ask one friend in India to open the link and confirm the rupee price and the UPI option for both versions.** This is the one pricing assumption I couldn't test without an account.
 4. Cover: upload `store/images/cover-paid.png`. Thumbnail: `store/images/thumb-paid.png`.
 5. Content/file: upload `dist/Physics-PhD-Atlas-2027-v1.1.zip`.
 6. Custom receipt: paste the receipt text from `LISTING_COPY.md`.
 7. Refund policy: "14-day no-questions refund."
 8. Publish, then buy it once yourself with a 100% discount code (Discounts → new code, 100%, 1 use) to see exactly what customers get. Delete the code afterwards.
-9. **Student-aid code (2 min):** Discounts → new code `STUDENTAID`, **100% off**, Product 1 Personal licence only, **limited to 20 uses**. Never post it publicly. When a student writes that even ₹180 is a barrier, reply with the "Free copy" template in `store/EMAILS.md`. When it runs out, decide whether to top it up.
+9. **Student-aid code (2 min):** Discounts → new code `STUDENTAID`, **100% off**, Product 1 Personal licence only, **limited to 20 uses**. Never post it publicly. When a student writes that even ₹190 is a barrier, reply with the "Free copy" template in `store/EMAILS.md`. When it runs out, decide whether to top it up.
 
 ## Product 2: free sample (5 min)
 1. New digital product with Product 2's text from `LISTING_COPY.md`. Price **$0+**.

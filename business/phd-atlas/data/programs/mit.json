@@ -1,0 +1,86 @@
+{
+  "id": "mit",
+  "institution": "Massachusetts Institute of Technology",
+  "department": "Department of Physics",
+  "country": "USA",
+  "region": "Massachusetts",
+  "program_page": "https://oge.mit.edu/programs/physics/",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "December 15 at 11:59 PM Eastern (application opens September 15); year inferred",
+      "quote": "Deadline: December 15 at 11:59 PM Eastern Time",
+      "url": "https://oge.mit.edu/programs/physics/",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "90 USD",
+      "value": "USD 90",
+      "quote": "Deadline: December 15 at 11:59 PM Eastern Time Fee: $90.00",
+      "url": "https://oge.mit.edu/programs/physics/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "International applicants qualify only if currently at a US college AND in a select research-preparation program; no hardship-only waivers for internationals. Requests due Dec 1 for Dec 15 deadlines.",
+      "quote": "International applicants may request a graduate application fee waiver if they meet both criteria below: | Currently attending a college or university in the U.S. | Participated in select graduate research preparation programs | Fee waiver requests are due by December 1 for all programs with an application deadline between December 15–23",
+      "url": "https://oge.mit.edu/graduate-admissions/applications/application-fee-waiver/",
+      "time_sensitive": "2026-12-01",
+      "also": [
+        {
+          "quote": "At this time, we are not able to consider international applicants’ requests for fee waivers on the basis of financial hardship.",
+          "url": "https://oge.mit.edu/graduate-admissions/applications/application-fee-waiver/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "General GRE recommended but not required",
+      "quote": "General test and subject test are recommended but not required",
+      "url": "https://oge.mit.edu/programs/physics/"
+    },
+    "gre_physics": {
+      "code": "Recommended",
+      "value": "Physics GRE recommended but not required",
+      "quote": "General test and subject test are recommended but not required",
+      "url": "https://oge.mit.edu/programs/physics/"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "TOEFL iBT 100; IELTS 7",
+      "quote": "Minimum score required: 100 (iBT)",
+      "url": "https://oge.mit.edu/programs/physics/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Automatic exemption only for undergraduate degrees from Australia, Canada, Ireland, New Zealand, UK or US; English-medium degrees from other countries (e.g. India) explicitly do not qualify. Physics says a department waiver \"may be available\" (discretionary, requested in the application).",
+      "quote": "Graduate Admissions does not consider the following to be circumstances eligible for an exemption: | You received an undergraduate degree from an institution where the Medium of Instruction was in English in a country that is not listed above.",
+      "url": "https://oge.mit.edu/graduate-admissions/admissions-policies/elp-test-requirement/elp-exemptions/",
+      "also": [
+        {
+          "quote": "Department ELP policy: A waiver of TOEFL/IELTS may be available for eligible applicants.",
+          "url": "https://oge.mit.edu/programs/physics/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No pre-application supervisor requirement mentioned",
+      "quote": "",
+      "url": "https://oge.mit.edu/programs/physics/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD students fully supported for the whole program, given satisfactory progress (tuition, health insurance, stipend)",
+      "quote": "Our PhD students are fully supported financially throughout the duration of their program, provided that they make satisfactory progress.",
+      "url": "https://oge.mit.edu/programs/physics/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://oge.mit.edu/programs/physics/"
+    }
+  },
+  "notes": "physics.mit.edu blocked automated fetches (403, also with a headless browser), so facts come from the MIT Office of Graduate Education program page. OGE grants up to three fee waivers per applicant."
+}

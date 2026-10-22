@@ -22,7 +22,7 @@ A low-input online business: a verified, source-cited guide to 40 physics PhD pr
 
 1. **Confirm eligibility (10 min):** check that your study permit allows off-campus work, and log business hours in `ops/Business-Dashboard.xlsx` → *Hours* (self-employment counts toward the 24 h/week limit).
 2. **Review the kit (60–90 min):** open `dist/Physics-PhD-Atlas-2027/Atlas.html` and `Playbook.pdf`. Spot-check 5 values against the official pages. Edit or remove the "Built by an IISER → McMaster physics PhD student" line if you prefer (`store/LISTING_COPY.md`, `store/render_images.py`).
-3. **Gumroad (45 min):** follow `store/GUMROAD_SETUP.md` (account, payout, tax form, PPP on at 60%, two products, $5 personal / $20 batch versions, two email workflows, one `STUDENTAID` code). Then ask a friend in India to confirm they see about ₹180 and a UPI option.
+3. **Gumroad (45 min):** follow `store/GUMROAD_SETUP.md` (account, payout, tax form, PPP on at 60%, two products, $5 personal / $20 batch versions, two email workflows, one `STUDENTAID` code). Then ask a friend in India to confirm they see about ₹190 and a UPI option.
 4. **Approve and send messages (30 min):** paste your two Gumroad URLs into `launch/messages/*.md`, then send E1 and E2 (see `launch/LAUNCH_PLAN.md`).
 5. **Activate the weekly source watch:** merge this branch into the repo's default branch. Scheduled GitHub Actions only run from there. Ask me to open a pull request if you want.
 

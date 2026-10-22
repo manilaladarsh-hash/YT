@@ -6,7 +6,7 @@ Desk research is not customer validation. Everything below the "Customer tests" 
 
 | # | Assumption | Why it might fail | Cheapest test | Signal |
 |---|---|---|---|---|
-| A1 | Applicants will pay about ₹180 (India, via Gumroad PPP) to $5 when free sources exist | Reddit, GradCafe and department pages are free | Live paid listing next to a free sample | Paid orders; sample-to-paid conversion |
+| A1 | Applicants will pay about ₹190 (India, via Gumroad PPP) to $5 when free sources exist | Reddit, GradCafe and department pages are free | Live paid listing next to a free sample | Paid orders; sample-to-paid conversion |
 | A2 | We can reach applicants late in the season with no audience | Many lists are already final by November | One network message plus one Reddit post, each with its own UTM-tagged link | Views, downloads and orders per channel |
 | A3 | Indian buyers can complete checkout and see the rupee price | Cards issued since 2020 have international online use off by default (RBI); PPP or UPI might not show as expected | Before launch, a friend in India opens the link and confirms the rupee price and the UPI option. Then the day-10 survey question | Friend's check; survey answers; "payment failed" emails; share of orders from India |
 | A4 | The data stays accurate cheaply | Programs edit pages mid-cycle | Weekly `check_sources.py` via GitHub Actions; error-report channel | Missing-quote count; reported errors |
@@ -23,7 +23,7 @@ Desk research is not customer validation. Everything below the "Customer tests" 
 
 | Test | What | Cost | Your time | Window |
 |---|---|---|---|---|
-| T1a | Gumroad live: paid kit ($5 / about ₹180 in India; $20 batch licence) plus free 10-program sample | $0 | 45 min setup | From launch |
+| T1a | Gumroad live: paid kit ($5 / about ₹190 in India; $20 batch licence) plus free 10-program sample | $0 | 45 min setup | From launch |
 | T1b | Personal messages to ~10 people you know who are applying or mentoring applicants (exact drafts in `launch/messages/`) | $0 | 20 min | Week 1 |
 | T1c | Reddit post leading with free value, within each subreddit's rules (drafts provided) | $0 | 10 min plus replies | Week 1–2 |
 | T2 | Day-10 automated email: "What did the Atlas change for you?" (Gumroad workflow) | $0 | 5 min/week to read | Ongoing |

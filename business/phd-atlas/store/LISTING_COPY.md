@@ -10,11 +10,11 @@ Everything here is factual and drawn from the verified dataset. No testimonials,
 
 **URL slug:** `physics-phd-atlas-2027`
 
-**Price:** $5, with purchasing power parity on at Gumroad's full 60% maximum. Indian buyers should see about ₹180, in rupees, payable by UPI.
+**Price:** $5, with purchasing power parity on at Gumroad's full 60% maximum. Indian buyers should see about ₹190, in rupees, payable by UPI.
 
 **Versions:**
 - **Personal licence**: $5.
-- **Batch licence (share with up to 30 students)**: $20, about ₹700 in India. Meant for a batch, student society or mentor sharing with juniors, which works out to about ₹25 per student.
+- **Batch licence (share with up to 30 students)**: $20, about ₹750 in India. Meant for a batch, student society or mentor sharing with juniors, which works out to about ₹25 per student.
 
 **Summary line (under the title):**
 40 physics PhD programs in the US, Canada and Europe, checked for international applicants: deadlines, fees, fee waivers, Physics GRE, English-test waivers, supervisor rules and funding. Every value is linked to the official page it came from.
@@ -38,7 +38,7 @@ The Atlas answers them for 40 programs: 21 US, 10 Canada and 9 in Europe (UK, Sw
 - **Playbook (PDF):** the late-season timeline, how 2026's TOEFL scale change affects you, when the Physics GRE is worth it, how Europe's PhD system differs, a 6-sentence supervisor email, a physics SOP framework, a letter-request kit, and ethical fee-waiver requests.
 - **Free updates** for the Fall 2027 cycle, emailed to you by Gumroad.
 
-**Priced for students.** It costs about ₹180 in India, less than 3% of one US application fee. Gumroad applies the regional price automatically and you can pay by UPI. Buying for your batch or society? The batch licence covers up to 30 people. If even ₹180 is a real barrier, reply to your free-sample receipt and ask for a free copy.
+**Priced for students.** It costs about ₹190 in India, less than 3% of one US application fee. Gumroad applies the regional price automatically and you can pay by UPI. Buying for your batch or society? The batch licence covers up to 30 people. If even ₹190 is a real barrier, reply to your free-sample receipt and ask for a free copy.
 
 **A few things the Atlas found (checked Oct 21, 2026)**
 - Physics GRE **required** this cycle at Berkeley, Caltech, Stanford and UChicago, at Cornell for theory applicants, and at Calgary for international applicants.
@@ -87,7 +87,7 @@ The full Atlas covers 40 programs in the US, Canada and Europe, with an offline 
 
 **Why is it cheaper in India?** Gumroad adjusts the price to local purchasing power (World Bank data), so students in India and similar countries pay about 60% less. The price changes automatically; you don't need a code.
 
-**Can I share it with my batch?** Buy the batch licence ($20, about ₹700 in India). It covers up to 30 people in one batch, society or mentoring group. The personal licence is for you only.
+**Can I share it with my batch?** Buy the batch licence ($20, about ₹750 in India). It covers up to 30 people in one batch, society or mentoring group. The personal licence is for you only.
 
 **I can't afford it.** Email me. A limited number of free copies go to students who ask, no questions asked.
 

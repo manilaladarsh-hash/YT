@@ -1,0 +1,97 @@
+{
+  "id": "yorku",
+  "institution": "York University",
+  "department": "Graduate Program in Physics & Astronomy",
+  "country": "Canada",
+  "region": "Ontario",
+  "program_page": "https://futurestudents.yorku.ca/graduate/programs/physics-and-astronomy",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "PhD Fall 2027 deadline January 15, 2027 (all applicants). Program page notes later applications are considered on a rolling basis until seats fill (it still shows the previous cycle's dates).",
+      "quote": "Deadline - Fall (All Applicants) | 2027-01-15",
+      "url": "https://futurestudents.yorku.ca/graduate/programs/physics-and-astronomy",
+      "also": [
+        {
+          "quote": "Applications received after these dates will be considered on a rolling basis until all seats are filled.",
+          "url": "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "140 CAD",
+      "value": "CAD 140; files are not considered without it",
+      "quote": "An application fee of $140.00 (Canadian) is required. Admission files will not be considered without an application fee.",
+      "url": "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://futurestudents.yorku.ca/graduate/programs/physics-and-astronomy"
+    },
+    "gre_physics": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://futurestudents.yorku.ca/graduate/programs/physics-and-astronomy"
+    },
+    "toefl_min": {
+      "code": "88",
+      "value": "Program listing: TOEFL iBT 88 (tests before January 2026) or 4.5 (from January 2026); IELTS 6.5; Duolingo 120. An older program page still cites 79-80 iBT for sciences, so the two official pages disagree; 88 is the current program listing.",
+      "quote": "Minimum TOEFL (Internet-based) | 88 (for tests taken prior to January 2026) or 4.5 (January 2026 and after)",
+      "url": "https://futurestudents.yorku.ca/graduate/programs/physics-and-astronomy",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "TOEFL (Test of English as a Foreign Language): 550 paper-based, 79-80 internet-based",
+          "url": "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exempt after 1+ year of full-time study at an accredited university whose language of instruction is English, but the institution must be listed as English-only on WHED; medium-of-instruction letters are not accepted",
+      "quote": "You completed at least one year of full-time study at an accredited university in a country (or institution) where English is the official language of instruction. | We do not accept letters from other institutions stating that the medium of instruction was English. | *An institution must be listed as ENGLISH-ONLY on whed.net to qualify.",
+      "url": "https://futurestudents.yorku.ca/graduate/apply-now/entry-requirements"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Physics PhD has a standard funding package for domestic and international students; international PhD package CAD 46,180/year for years 1-5 (fellowship 8,467 + TA employment 30,713 + RA 7,000). Pages do not say every admitted student receives it.",
+      "quote": "Annual Funding Summary Years 1 - 5 | International | York University Fellowship | Research Assistantship | Package Total | 46,180",
+      "url": "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/york-graduate-funding/",
+      "also": [
+        {
+          "quote": "Standard Funding Packages by Program | Phsyics (PhD)",
+          "url": "https://www.yorku.ca/gradstudies/students/future-students/funding-packages-by-program/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "PhD entry requires a master's; bachelor's holders must first register in the MSc and may transfer after one year. Applicants from India normally cannot be admitted directly to the PhD and need an Indian MSc even to be considered for York's MSc.",
+      "quote": "Graduates with a master's degree in physics, astronomy, or engineering physics from a recognized university may be admitted directly as candidates (PhD I) into a program leading to the PhD degree. | However, such graduates must first register as candidates for the MSc degree",
+      "url": "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/admission-requirements/",
+      "also": [
+        {
+          "quote": "Applicants from India, Pakistan and Bangladesh should note that normally they cannot be considered for admission directly to the doctoral program. A student must have an M.Sc. degree from the home country to be eligible to be considered for admission to an M.Sc. program at York.",
+          "url": "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/"
+        }
+      ]
+    }
+  },
+  "notes": "Key for Indian applicants: York says applicants from India normally cannot enter the PhD directly and need an Indian MSc to be considered for its MSc. The department site (physics.yorku.ca) returned errors, so GRE and supervisor policy could not be checked."
+}

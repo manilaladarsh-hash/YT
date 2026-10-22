@@ -42,8 +42,31 @@ BUILD = ROOT / ".cache" / "build"
 SAMPLE_IDS = ["rice", "pennstate", "stanford", "utaustin", "utoronto", "waterloo", "ualberta", "ubc", "cambridge", "epfl"]
 NORTH_AMERICA = {"USA", "Canada"}
 CURRENCIES = ["USD", "CAD", "GBP", "EUR", "CHF"]
-PRICE_LINE = ("Priced for students: about ₹180 in India (Gumroad shows rupees and accepts UPI), $5 elsewhere. "
-              "A batch licence covers up to 30 students for about ₹700. Can't afford it? Reply to your receipt for a free copy.")
+PRICE_LINE = ("Priced for students: about ₹190 in India (Gumroad shows rupees and accepts UPI), $5 elsewhere. "
+              "A batch licence covers up to 30 students for about ₹750. Can't afford it? Reply to your receipt for a free copy.")
+
+FX = json.loads((ROOT / "data" / "fx.json").read_text())
+
+
+def convert(amount, cur, to):
+    rates = FX["cad_per_unit"]
+    if amount is None or cur not in rates or to not in rates:
+        return None
+    return amount * rates[cur] / rates[to]
+
+
+def fmt_inr(amount):
+    """Rupees rounded to the nearest 100, with Indian digit grouping (₹1,23,400)."""
+    n = int(round(amount, -2))
+    head, tail = str(n)[:-3], str(n)[-3:]
+    groups = []
+    while len(head) > 2:
+        groups.insert(0, head[-2:])
+        head = head[:-2]
+    if head:
+        groups.insert(0, head)
+    return "₹" + ",".join(groups + [tail]) if groups else "₹" + tail
+
 
 FIELD_LABELS = {
     "deadline": "Deadline (2027 entry)",
@@ -67,6 +90,22 @@ SHORT = {
     "georgiatech": "Georgia Tech", "bostonu": "Boston University",
     "cambridge": "Cambridge", "edinburgh": "Edinburgh", "epfl": "EPFL", "ethz": "ETH Zurich", "heidelberg": "Heidelberg (HGSFP)",
     "munich-mcqst": "Munich (MCQST)", "bonn-cologne": "Bonn-Cologne (BCGS)", "sissa-cm": "SISSA", "leiden": "Leiden",
+    "bristol": "Bristol", "durham": "Durham", "imperial": "Imperial College London",
+    "imprs-solar": "IMPRS Solar System (Göttingen)", "imprs-qd": "IMPRS Quantum Dynamics (Heidelberg)",
+    "imprs-cpqm": "IMPRS Quantum Materials (Dresden)", "imprs-hd": "IMPRS Astronomy (Heidelberg)",
+    "uzh": "Zurich (UZH)", "tum": "TU Munich", "tcd-physics": "Trinity College Dublin", "icfo-phd": "ICFO (Barcelona)",
+    "paris-saclay-physics": "Paris-Saclay", "padova-physics": "Padova", "nbi-copenhagen": "Copenhagen (NBI)",
+    "stockholm": "Stockholm", "kth": "KTH Stockholm", "chalmers": "Chalmers", "uppsala": "Uppsala",
+    "uva": "Amsterdam (UvA)", "tudelft": "TU Delft", "aalto": "Aalto",
+    "arizona": "Arizona", "brown": "Brown", "cuboulder": "CU Boulder", "duke": "Duke", "harvard": "Harvard",
+    "iub": "Indiana (Bloomington)", "jhu": "Johns Hopkins", "mit": "MIT", "msu": "Michigan State", "ncsu": "NC State",
+    "notredame": "Notre Dame", "pitt": "Pittsburgh", "rochester": "Rochester", "uci": "UC Irvine", "ucla": "UCLA",
+    "upenn": "Penn (UPenn)", "utah": "Utah", "uwashington": "U Washington (Seattle)", "vanderbilt": "Vanderbilt",
+    "virginia": "Virginia (UVA)", "yale": "Yale", "ucsd": "UC San Diego", "ucdavis": "UC Davis", "asu": "Arizona State",
+    "princeton": "Princeton", "umass": "UMass Amherst", "northeastern": "Northeastern", "buffalo": "Buffalo",
+    "carleton": "Carleton", "dalhousie": "Dalhousie", "guelph": "Guelph", "umanitoba": "Manitoba", "usask": "Saskatchewan",
+    "western": "Western", "yorku": "York", "laval": "Laval", "umontreal": "Montréal", "concordia": "Concordia",
+    "uvic": "Victoria", "mun": "Memorial (Newfoundland)",
 }
 
 
@@ -145,7 +184,17 @@ def stats(recs):
         "EU_COUNTRIES": ", ".join(sorted({r["country"] for r in eu})),
         "MEDIAN_USD": f"{statistics.median(fees['USD']):.0f}" if fees["USD"] else "n/a",
         "MEDIAN_CAD": f"{statistics.median(fees['CAD']):.0f}" if fees["CAD"] else "n/a",
+        "MEDIAN_USD_INR": fmt_inr(convert(statistics.median(fees["USD"]), "USD", "INR")) if fees["USD"] else "n/a",
+        "MEDIAN_CAD_INR": fmt_inr(convert(statistics.median(fees["CAD"]), "CAD", "INR")) if fees["CAD"] else "n/a",
+        "TEN_US_INR": fmt_inr(10 * convert(statistics.median(fees["USD"]), "USD", "INR")) if fees["USD"] else "n/a",
+        "FX_DATE": date.fromisoformat(FX["date"]).strftime("%B %d, %Y").replace(" 0", " "),
+        "USD_INR": f"{FX['cad_per_unit']['USD'] / FX['cad_per_unit']['INR']:.1f}",
         "RICE_WAIVER_DATE": "Nov 1, 2026",
+        "US_DEC15_COUNT": str(sum(r["country"] == "USA" and code(r, "deadline") == "2026-12-15" for r in recs)),
+        "US_DATED_COUNT": str(sum(r["country"] == "USA" and deadline_cell(r) is not None for r in recs)),
+        "US_DEC1_LIST": names(recs, lambda r: r["country"] == "USA" and code(r, "deadline") <= "2026-12-03" and deadline_cell(r) is not None),
+        "CA_JAN_LIST": names(recs, lambda r: r["country"] == "Canada" and code(r, "deadline").startswith("2027-01")),
+        "CA_LATE_LIST": names(recs, lambda r: r["country"] == "Canada" and (code(r, "deadline") >= "2027-02" or code(r, "deadline") == "Rolling")),
         "EARLIEST_DEADLINES": "; ".join(f"{date.fromisoformat(d).strftime('%b %d')}: {n}" for d, n in first),
         "PGRE_REQUIRED_LIST": "\n".join(
             f"- **{short(r)}**: {r['fields']['gre_physics']['value']}" for r in recs if code(r, "gre_physics") == "Required"
@@ -182,8 +231,9 @@ def stats(recs):
             [[short(r), code(r, "supervisor"), r["fields"]["supervisor"]["value"]] for r in recs if r["country"] == "Canada"],
         ),
         "EU_TABLE": md_table(
-            ["Program", "Country", "Deadline", "How you get in", "Funding"],
-            [[short(r), r["country"], deadline_text(r), r["fields"]["supervisor"]["value"], r["fields"]["funding"]["value"]] for r in eu],
+            ["Program", "Country", "Deadline", "Supervisor first?", "Funding", "Entry", "Fee"],
+            [[short(r), r["country"], deadline_text(r), code(r, "supervisor"), code(r, "funding"), code(r, "entry_route"),
+              code(r, "app_fee")] for r in sorted(eu, key=lambda r: (r["country"], short(r)))],
         ),
     }
 
@@ -262,7 +312,7 @@ def write_xlsx(recs, path, values):
 
     # Programs
     ws = wb.create_sheet("Programs")
-    head = ["Program", "Department", "Country", "Region", "Deadline", "Deadline note", "Fee amount", "Fee currency",
+    head = ["Program", "Institution and department", "Country", "Region", "Deadline", "Deadline note", "Fee amount", "Fee currency",
             "Intl fee waiver", "Fee waiver detail", "GRE General", "Physics GRE", "TOEFL minimum", "English waiver",
             "English detail", "Supervisor", "Supervisor detail", "Funding", "Funding detail", "Entry route",
             "Notes", "Admissions page", "Checked"]
@@ -272,7 +322,7 @@ def write_xlsx(recs, path, values):
         amount, cur = fee_parts(F["app_fee"]["code"])
         dl = deadline_cell(r)
         ws.append([
-            r["institution"], r["department"], r["country"], r["region"],
+            short(r), f"{r['institution']} · {r['department']}", r["country"], r["region"],
             dl if dl else F["deadline"]["code"], F["deadline"]["value"],
             amount if amount is not None else "Not stated", cur,
             F["fee_waiver"]["code"], F["fee_waiver"]["value"], F["gre_general"]["code"], F["gre_physics"]["code"],
@@ -347,9 +397,12 @@ def write_xlsx(recs, path, values):
         bd.append([item] + [None] * len(CURRENCIES) + [note])
     bd.append(["Total"] + [f"=SUM({c}2:{c}6)" for c in cols] + [""])
     bd.append([])
-    bd.append(["Your currency (e.g. INR): rate per 1 unit"] + [None] * len(CURRENCIES) + ["Enter today's rate under each currency you use"])
+    inr = FX["cad_per_unit"]["INR"]
+    bd.append([f"Rupees per 1 unit (Bank of Canada, {FX['date']}): edit to today's rate, or your own currency"]
+              + [round(FX["cad_per_unit"][c] / inr, 2) for c in CURRENCIES] + ["Pre-filled; banks and cards add a margin"])
     conv = "+".join(f'IF({c}9="",0,{c}7*{c}9)' for c in cols)
-    bd.append(["Total in your currency", f"={conv}"] + [None] * (len(CURRENCIES) - 1) + ["Currencies without a rate are left out"])
+    bd.append(["Total in rupees (approximate)", f"={conv}"] + [None] * (len(CURRENCIES) - 1) + ["Currencies without a rate are left out"])
+    bd["B10"].number_format = "#,##0"
     for c in bd[1]:
         c.fill, c.font = HEADER_FILL, HEADER_FONT
     for r in range(3, 7):
@@ -405,7 +458,15 @@ def write_xlsx(recs, path, values):
 
 def write_explorer(recs, path, values):
     tpl = (TEMPLATES / "atlas.html").read_text()
-    payload = {"version": VERSION, "checked": max(r["checked"] for r in recs), "programs": recs}
+    progs = []
+    for r in recs:
+        amount, cur = fee_parts(r["fields"]["app_fee"]["code"])
+        usd, inr = (convert(amount, cur, "USD"), convert(amount, cur, "INR")) if cur else (None, None)
+        progs.append({**r, "short": short(r),
+                      "fee_usd": round(usd) if usd is not None else (0 if amount == 0 else None),
+                      "fee_inr": round(inr, -2) if inr is not None else (0 if amount == 0 else None)})
+    fx = {"date": FX["date"], "source": FX["source"], "usd_inr": round(FX["cad_per_unit"]["USD"] / FX["cad_per_unit"]["INR"], 2)}
+    payload = {"version": VERSION, "checked": max(r["checked"] for r in recs), "fx": fx, "programs": progs}
     data = json.dumps(payload, ensure_ascii=False).replace("</", "<\\/")
     marker = "/*__ATLAS_DATA__*/null"
     if marker not in tpl:
@@ -488,6 +549,10 @@ def build():
         print("\n".join(errors))
         raise SystemExit("data validation failed; not building")
     recs = load()
+    labels = [short(r) for r in recs]
+    dupes = {x for x in labels if labels.count(x) > 1}
+    if dupes:
+        raise SystemExit(f"program labels must be unique (add SHORT names): {sorted(dupes)}")
     values = stats(recs)
     if OUT.exists():
         shutil.rmtree(OUT)

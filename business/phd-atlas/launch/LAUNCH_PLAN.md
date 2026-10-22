@@ -4,7 +4,7 @@
 
 You've given me authority to decide, but the messages have to go out from your own accounts, which I can't access. Every message is drafted in `launch/messages/`, with links already tagged by channel (`utm_source=whatsapp`, `group`, `reddit`, `linkedin`). Replace `{PAID_URL}` and `{SAMPLE_URL}` after Gumroad setup, and keep the `?utm_...` endings.
 
-**Price:** $5 personal / $20 batch licence. India sees about ₹180 / ₹700 through Gumroad's regional pricing, and can pay by UPI. Students who can't pay get a free copy on request (code `STUDENTAID`, 20 uses).
+**Price:** $5 personal / $20 batch licence. India sees about ₹190 / ₹750 through Gumroad's regional pricing, and can pay by UPI. Students who can't pay get a free copy on request (code `STUDENTAID`, 20 uses).
 
 ## Experiments
 

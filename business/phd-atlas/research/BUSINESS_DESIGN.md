@@ -33,9 +33,9 @@ Getting these wrong costs $75–155 per application, missed deadlines, or a reje
 5. **Works offline**, and costs a fraction of one application fee.
 
 ## Pricing (owner decision 2026-10-21: affordable for Indian students first)
-- **Personal licence: $5.** Gumroad's purchasing-power parity is on at its full 60% maximum. India's World Bank PPP factor (~22 INR per international dollar) is far below the market exchange rate, so Indian buyers are expected to pay about **$2 (≈₹180)**, shown in rupees, with **UPI** available at checkout (Gumroad help, checked Oct 21, 2026). That's under 3% of one US application fee.
-- **Batch licence: $20** (about ₹700 in India), shared with up to 30 people in one batch, society or mentoring group, so about ₹25 per student. This tier keeps the per-student price tiny while letting one purchase cover many students.
-- **Why not cheaper:** Gumroad takes 10% + $0.50 per sale, plus 2.9% + $0.30 card processing. A $2 sale nets about $0.94; a ₹99 sale ($1.19) would net about $0.24.
+- **Personal licence: $5.** Gumroad's purchasing-power parity is on at its full 60% maximum. India's World Bank PPP factor (~22 INR per international dollar) is far below the market exchange rate (about 94.5 INR per USD; Bank of Canada, Oct 21, 2026), so Indian buyers are expected to pay about **$2 (≈₹190)**, shown in rupees, with **UPI** available at checkout (Gumroad help, checked Oct 21, 2026). That's under 3% of one US application fee.
+- **Batch licence: $20** (about ₹750 in India), shared with up to 30 people in one batch, society or mentoring group, so about ₹25 per student. This tier keeps the per-student price tiny while letting one purchase cover many students.
+- **Why not cheaper:** Gumroad takes 10% + $0.50 per sale, plus 2.9% + $0.30 card processing. A $2 sale nets about $0.94; a ₹99 sale (about $1.05) would net about $0.11.
 - **Free tiers:** the 10-program sample is free for everyone, and a free full copy goes to any student who says they can't afford it (single code `STUDENTAID`, 20 uses at a time).
 - **Tips:** Gumroad's tipping is on (default 0%) for buyers who can afford more.
 - 14-day no-questions refund.

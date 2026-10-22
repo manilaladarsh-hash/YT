@@ -29,11 +29,11 @@ Treat these as working targets (advice). The fixed dates come from the programs.
 |---|---|
 | This week | Shortlist 8 to 15 programs. Check which need the **Physics GRE** (Section 5) and whether your English-test plan covers every program (Section 4). |
 | By **{{RICE_WAIVER_DATE}}** | If Rice is on your list, request its worldwide **Doctoral Application Fee Waiver Weeks** waiver; Rice says it then needs a completed application by **Nov 27**. |
-| **Oct 31 / Nov 1** | EPFL's autumn round closes Oct 31 (next round Apr 30). Heidelberg's physics graduate-school portal closes **Nov 1**. |
+| **Oct 31 – Nov 3** | Europe's first wave. EPFL's autumn round closes **Oct 31** (next round Apr 30). Heidelberg's HGSFP portal and IMPRS Quantum Dynamics close **Nov 1**. Imperial's first President's PhD Scholarship round closes **Nov 2**. IMPRS Astronomy (Heidelberg) closes **Nov 3**. |
 | Early November | Email Canadian supervisors (Section 6), and the European professors or advertised positions you want (Section 7). Send recommenders their packet (Section 10). |
-| {{EARLIEST_DEADLINES}} | The earliest deadlines in this Atlas. Several programs review applications the moment the deadline passes. |
-| Mid-December | Most US deadlines fall on Dec 11-16 (see the deadline table). Cambridge's funding deadline is **Dec 8**. |
-| January | Most Canadian deadlines (Jan 7-15), plus UIUC, Penn State, Texas A&M and Rutgers. Edinburgh's physics funding deadline is Jan 22. |
+| **Nov 30 – Dec 3** | IMPRS Quantum Materials (Dresden) closes **Nov 30** for its February selection workshop. The early US group closes too: {{US_DEC1_LIST}}. Several programs start reviewing the moment a deadline passes. |
+| Mid-December | **Dec 15** is the US default: {{US_DEC15_COUNT}} of the {{US_DATED_COUNT}} dated US programs here use it. Cambridge's funding deadline is **Dec 8**; Durham's is **Dec 15** for full scholarship consideration. |
+| January | Most Canadian deadlines ({{CA_JAN_LIST}}), plus a few US programs (see the table). Later or rolling in Canada: {{CA_LATE_LIST}}. Bristol's funding deadline: applications must arrive before **Jan 18**. Edinburgh's physics funding deadline is **Jan 22**. |
 | Feb-April | Interviews and offers. Several programs in this Atlas (e.g., Stony Brook and Texas A&M) ask admitted students to respond by **April 15**. SISSA's spring call closes in early March; EPFL's second round on Apr 30. |
 
 ### Deadlines in this Atlas (earliest first)
@@ -50,7 +50,8 @@ Treat these as working targets (advice). The fixed dates come from the programs.
 
 - **Fit test:** for each program, name two faculty members and one recent paper from each that you could discuss. If you can't, it isn't a fit yet.
 - **Spread:** mix programs where your profile is typical of admits with a few reaches. Use each department's own descriptions (several state typical GPAs or class sizes on their pages) rather than forum rumours.
-- **Cost reality:** the median international application fee in this Atlas is **{{MEDIAN_USD}} USD** for US programs and **{{MEDIAN_CAD}} CAD** for Canadian programs (where stated), so twelve applications cost roughly twelve times that before test-score fees. Budget it in the **Budget** tab, and add score-sending and transcript costs from the official sites. We do not estimate those for you.
+- **Cost reality:** the median international application fee in this Atlas is **{{MEDIAN_USD}} USD (about {{MEDIAN_USD_INR}})** for US programs and **{{MEDIAN_CAD}} CAD (about {{MEDIAN_CAD_INR}})** for Canadian programs, where stated. Ten US applications therefore cost roughly **{{TEN_US_INR}}** before test-score fees. Many European programs charge nothing (Section 7). Rupee figures use the Bank of Canada rate of {{FX_DATE}} (1 USD ≈ ₹{{USD_INR}}), and your bank adds a margin.
+- **Budget it** in the **Budget** tab, which converts every currency to rupees with an editable rate. Add score-sending and transcript costs from the official sites; we don't estimate those for you.
 
 ---
 
@@ -109,26 +110,54 @@ Canadian programs often publish guaranteed minimums (e.g., UBC at least CAD 40,0
 
 The {{N_EU}} European programs in this Atlas ({{EU_COUNTRIES}}) use two very different ways in.
 
-1. **Graduate-school calls with deadlines.** You apply to a school or program by a published date: Heidelberg's HGSFP (portal closes Nov 1), Cambridge (funding deadline Dec 8), Edinburgh (funding deadline Jan 22), SISSA (exam-based spring call, early March), Munich's MCQST fellowships (call opens October 2026), and EPFL (rounds close Oct 31 and Apr 30, but you also need a thesis advisor to offer you a position).
-2. **Apply to a professor or an advertised paid position.** There is no central committee. At ETH Zurich each professor recruits their own students. Leiden fills paid positions advertised as vacancies. The Bonn-Cologne graduate school says it does not provide PhD positions: you find one yourself. In this Atlas, position- or supervisor-based: {{EU_POSITION_LIST}}.
+1. **Calls with a deadline.** You apply to a graduate school or program by a published date, often followed by interviews. Examples:
+   - Nov 1: IMPRS Quantum Dynamics, and Heidelberg's HGSFP portal.
+   - Nov 2: Imperial's first President's PhD Scholarship round.
+   - Nov 3: IMPRS Astronomy (Heidelberg).
+   - Nov 30: IMPRS Quantum Materials (Dresden).
+   - Dec 8: Cambridge's funding deadline.
+   - Dec 15: Durham, for full scholarship consideration.
+   - Before Jan 18: Bristol's funding deadline.
+   - Jan 22: Edinburgh.
+   - Spring: SISSA's exam-based call.
+   - Oct 31 and Apr 30: EPFL's two rounds.
+2. **Apply for a paid position, or agree a supervisor first.** There is no central committee: PhD places are advertised as jobs, or a professor must accept you before you apply. Sweden (Stockholm, KTH, Chalmers, Uppsala), Denmark (Copenhagen), the Netherlands (Leiden, Amsterdam, Delft), Switzerland (ETH Zurich, Zurich), TU Munich, ICFO and Trinity College Dublin work this way. In this Atlas, position- or supervisor-based: {{EU_POSITION_LIST}}.
 
 {{EU_TABLE}}
 
-**Fees are often low or zero.** {{NO_FEE_LIST}} charges no application fee. Cambridge charges £20 per applicant per year for up to 7 doctoral applications.
+**Fees are often low or zero.**
+- **No application fee:** {{NO_FEE_LIST}}.
+- **Small fees:** Cambridge charges £20 per applicant per year for up to 7 doctoral applications. Zurich (UZH) charges CHF 100.
+- **Watch for tuition instead.** From January 2027, Copenhagen charges PhD tuition of DKK 85,000 a year, which your funding must cover.
 
-**A master's is usually expected first.** In this Atlas: {{EU_MASTERS_LIST}}. There are exceptions:
-- Heidelberg has an integrated 4+4 master/doctoral track for excellent candidates with four years of physics.
+**A master's is usually expected first.** In this Atlas: {{EU_MASTERS_LIST}}. Bachelor's holders can enter at: {{EU_BACHELORS_LIST}}. Other routes:
+- Heidelberg (HGSFP and IMPRS Astronomy) has 4+4 tracks for excellent candidates with a 4-year bachelor's.
 - EPFL accepts 4- or 5-year bachelor's holders who explain their education in the Statement of Objectives.
 - Edinburgh says most of its current PhD students had no master's before starting.
+- Swedish rules (KTH, Stockholm) accept 240 credits including at least 60 at advanced level, so a 4-year degree with enough advanced courses can qualify.
 
 If you hold a 5-year BS-MS, ask each program how it assesses your degree, and keep the reply.
 
-**Funding often means a job contract.** Leiden's PhD projects are 4-year paid positions. At EPFL, enrolment requires secured funding and lab-appointed students get an employment contract. ETH doctorates are, with few exceptions, linked to a position. In the UK, funding is competitive: Cambridge runs a funding competition with a December deadline, and Edinburgh notes limits on how many international students UKRI grants can fund. In this Atlas, paid or typically funded: {{EU_FUNDED_LIST}}; competitive: {{EU_COMPETITIVE_LIST}}.
+**Funding usually means a job contract.**
+- **Sweden:** funding for the whole doctorate is a condition of admission, and doctoral students are usually salaried. KTH quotes SEK 33,000–37,100 a month.
+- **Funded-only admission elsewhere:** Copenhagen, ICFO and Paris-Saclay admit only students who are funded.
+- **Positions:** Leiden's PhD projects are 4-year paid positions, and ETH doctorates are, with few exceptions, linked to a position.
+- **The UK:** funding is competitive. Imperial says studentships for overseas applicants are very restricted.
 
-**English rules in the UK are strict for Indian degrees.** Cambridge's exemption depends on the UK government's list of majority English-speaking countries, and India is not on it. Edinburgh accepts English-taught degrees only from institutions on its approved list. EPFL requires English proficiency but makes no test mandatory (it strongly recommends TOEFL).
+In this Atlas, paid or typically funded: {{EU_FUNDED_LIST}}; competitive: {{EU_COMPETITIVE_LIST}}.
+
+**English rules for Indian degrees vary a lot.**
+- **Friendly:**
+  - Aalto lists India for English-medium degrees.
+  - Bristol accepts an official medium-of-instruction letter.
+  - Stockholm and IMPRS Solar System count an English-taught degree.
+  - TU Delft exempts English-taught master's degrees in principle.
+  - IMPRS Astronomy (Heidelberg) and Copenhagen assess English at interview instead of by test.
+- **School-level English counts in Sweden:** at KTH and Chalmers, your CBSE or CISCE Class XII English grades can meet the requirement.
+- **Strict:** Cambridge, Imperial and Durham exempt only degrees from listed countries, and India isn't one of them. Edinburgh accepts English-taught degrees only from institutions on its approved list.
 
 **Advice.**
-- In position-based systems, your supervisor email (Section 8) *is* the application. Check the vacancy pages weekly.
+- In position-based systems, your supervisor email (Section 8) *is* the application. Check the vacancy pages weekly; KTH, for example, announces positions nine times a year.
 - Allow time after an offer for contracts and permits. EPFL says about 3 months is usually needed for visas and work permits.
 
 ---
@@ -224,5 +253,5 @@ What this Atlas found for international applicants:
 - Each of the {{N}} programs was checked against its own department and graduate-school pages on {{CHECKED}}. Every value stores the exact sentence it came from, the URL and the date. A script confirms that each quote appears verbatim on the fetched page.
 - Research and drafting were AI-assisted. Every published value is tied to an official quote, and uncertain items are labelled *Not stated*, *Conditional*, *year inferred* or *sources conflict* instead of guessed.
 - A weekly automated check re-reads the cited pages and flags quotes that disappear. Updates are sent to buyers as new versions at no charge.
-- A few well-known European programs (for example, Oxford and ISTA Austria) block automated checks, so they are not in this edition. They will be added once their pages can be verified.
+- Some well-known programs couldn't be verified on the check date because their sites blocked automated checks or were down for maintenance. They are not in this edition: Oxford, UCL, Manchester, ISTA Austria, Vienna, Göttingen's central pages, Geneva, KU Leuven, ENS Paris (ICFP) and the University of Barcelona. They'll be added once their pages can be verified.
 - **Found something wrong or changed?** Reply to your purchase email with the program and the page link. Confirmed corrections ship in the next update.

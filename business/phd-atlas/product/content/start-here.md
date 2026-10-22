@@ -14,7 +14,7 @@ Thank you for buying the Atlas. Your kit contains:
 
 ### Your first 15 minutes
 
-1. Open **Atlas.html**, then set *Physics GRE* and *English-test waiver* to match your situation.
+1. Open **Atlas.html** and tap the **Quick picks** that match you, e.g. *Physics GRE not needed*, *English-test waiver possible*, *Bachelor's OK* or *Funded*. On a phone, tap **Filters** for the full set.
 2. Star 8-15 programs and click **Export shortlist (CSV)**, or pick them in the **Shortlist** tab of Atlas.xlsx.
 3. Read Playbook Sections 2-7, which cover the decisions with deadlines this month (including Europe).
 4. Before paying any fee, click the value and open the official page. Rules change mid-cycle.
@@ -25,6 +25,8 @@ Thank you for buying the Atlas. Your kit contains:
 - **Year inferred**: the page gave a day and month only; we assumed the 2027-entry cycle.
 - **Per position / Rolling**: no central deadline. You apply to a professor or an advertised position (common in Europe).
 - **Sources conflict**: two official pages disagree. We show both and use the safer number.
+- **≈ ₹ amounts**: application fees converted to rupees at the Bank of Canada rate on the date shown at the bottom of Atlas.html. They're approximate, and your bank adds a margin.
+- **Licence**: a *Personal* licence is for you. A *Batch* licence lets you share the files with up to 30 people in one batch, society or mentoring group.
 
 ### Updates and corrections
 
