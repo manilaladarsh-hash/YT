@@ -43,8 +43,9 @@ def cached_texts():
     for p in CACHE.glob("*.json"):
         rec = json.loads(p.read_text())
         t = norm(rec.get("text", "").replace("\n", " "))
-        texts[rec["url"]] = t
-        texts[rec.get("final_url", rec["url"])] = t
+        # Several cache entries can resolve to one URL (redirects, re-fetches); a quote may match any of them.
+        for u in {rec["url"], rec.get("final_url", rec["url"])}:
+            texts[u] = texts[u] + " \x00 " + t if u in texts else t
     return texts
 
 
