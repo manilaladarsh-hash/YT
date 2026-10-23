@@ -70,11 +70,11 @@
     },
     "toefl_min": {
       "label": "TOEFL minimum",
-      "code": "integer on the 0-120 scale, '<n> (new scale)', 'Sections' or 'Not stated'"
+      "code": "integer on the 0-120 scale, '<n> (new scale)', 'Sections', 'Not required' (no English certificate needed at all) or 'Not stated'"
     },
     "ielts_min": {
       "label": "IELTS Academic minimum (overall)",
-      "code": "band like '6.5' or 'Not stated'"
+      "code": "band like '6.5', 'Not required' (no English certificate needed at all) or 'Not stated'"
     },
     "english_waiver": {
       "label": "English-test waiver for an English-medium Indian degree",

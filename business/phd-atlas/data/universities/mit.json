@@ -3,45 +3,68 @@
   "institution": "Massachusetts Institute of Technology",
   "country": "USA",
   "region": "Massachusetts",
-  "grad_page": "https://oge.mit.edu/programs/physics/",
-  "checked": "2026-10-21",
+  "grad_page": "https://oge.mit.edu/graduate-admissions/applications/procedures/",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://oge.mit.edu/programs/physics/"
+      "code": "90 USD",
+      "value": "Every graduate program applied to through GradSlate costs USD 90; each department needs its own application and fee.",
+      "quote": "All degree program applications on GradSlate have a $90 application fee.",
+      "url": "https://oge.mit.edu/graduate-admissions/applications/procedures/"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://oge.mit.edu/programs/physics/"
+      "code": "Limited",
+      "value": "International applicants qualify only if they are currently studying at a US college AND took part in a select graduate research-preparation programme; financial hardship alone is not accepted for internationals. Waiver requests are due Nov 18 (Dec 1 deadlines) or Dec 1 (Dec 15–23 deadlines).",
+      "quote": "International applicants may request a graduate application fee waiver if they meet both criteria below: | Currently attending a college or university in the U.S. | Participated in select graduate research preparation programs",
+      "url": "https://oge.mit.edu/graduate-admissions/applications/application-fee-waiver/",
+      "time_sensitive": "2026-11-18",
+      "also": [
+        {
+          "quote": "At this time, we are not able to consider international applicants’ requests for fee waivers on the basis of financial hardship.",
+          "url": "https://oge.mit.edu/graduate-admissions/applications/application-fee-waiver/"
+        },
+        {
+          "quote": "Fee waiver requests are due by November 18 for all programs with a December 1 application deadline | Fee waiver requests are due by December 1 for all programs with an application deadline between December 15–23",
+          "url": "https://oge.mit.edu/graduate-admissions/applications/application-fee-waiver/"
+        }
+      ]
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://oge.mit.edu/programs/physics/"
+      "value": "Each department sets its own GRE General and Subject policy; see the program records.",
+      "quote": "Each academic department determines its own policy regarding the GRE General Test and GRE Subject Test.",
+      "url": "https://oge.mit.edu/graduate-admissions/applications/standardized-tests/graduate-record-examination-gre/"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://oge.mit.edu/programs/physics/"
+      "code": "100",
+      "value": "Graduate Admissions recommends at least TOEFL iBT 100; department minimums override this.",
+      "quote": "TOEFL iBT: 100 minimum score",
+      "url": "https://oge.mit.edu/graduate-admissions/admissions-policies/elp-test-requirement/",
+      "also": [
+        {
+          "quote": "Department minimum score requirements supersede GradAdmissions recommended minimum scores.",
+          "url": "https://oge.mit.edu/graduate-admissions/admissions-policies/elp-test-requirement/"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://oge.mit.edu/programs/physics/"
+      "code": "7",
+      "value": "IELTS Academic 7.0 overall recommended minimum; department minimums override this.",
+      "quote": "IELTS Academic: 7 overall band score",
+      "url": "https://oge.mit.edu/graduate-admissions/admissions-policies/elp-test-requirement/"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://oge.mit.edu/programs/physics/"
+      "code": "No",
+      "value": "Automatic exemption covers only applicants whose first language is English or who earned an undergraduate degree in Australia, Canada, Ireland, New Zealand, the UK or the US. An English-medium degree from India does not qualify centrally; some departments consider their own waiver requests (see program records).",
+      "quote": "Graduate Admissions does not consider the following to be circumstances eligible for an exemption: | You received an undergraduate degree from an institution where the Medium of Instruction was in English in a country that is not listed above.",
+      "url": "https://oge.mit.edu/graduate-admissions/admissions-policies/elp-test-requirement/elp-exemptions/",
+      "also": [
+        {
+          "quote": "Some departments will consider requests for waivers for the English language proficiency test Requirement if an applicant can demonstrate fluency in the English language.",
+          "url": "https://oge.mit.edu/graduate-admissions/admissions-policies/elp-test-requirement/elp-exemptions/"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "Applications go through the MIT Office of Graduate Education (GradSlate); each department runs its own review and may set higher English minimums, its own GRE policy and its own ELP waiver rules. OGE grants up to three fee waivers per applicant. Duolingo (135) and Cambridge (190) are accepted only by some departments."
 }

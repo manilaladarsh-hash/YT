@@ -24,8 +24,8 @@ UNI_LIST = json.loads((DATA / "universities.json").read_text())
 CACHE = ROOT / ".cache" / "pages"
 
 FEE_RE = re.compile(r"^(\d+(\.\d+)? (USD|CAD|GBP|EUR|CHF|SEK|DKK|NOK|AUD|NZD)|0 \(waived\)|0 \(no fee\)|Not stated)$")
-TOEFL_RE = re.compile(r"^(\d{2,3}|\d(\.\d)? \(new scale\)|Sections|Not stated)$")
-IELTS_RE = re.compile(r"^(\d(\.[05])?|Not stated)$")
+TOEFL_RE = re.compile(r"^(\d{2,3}|\d(\.\d)? \(new scale\)|Sections|Not required|Not stated)$")
+IELTS_RE = re.compile(r"^(\d(\.[05])?|Not required|Not stated)$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 

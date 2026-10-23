@@ -3,45 +3,61 @@
   "institution": "Stanford University",
   "country": "USA",
   "region": "California",
-  "grad_page": "https://physics.stanford.edu/graduate/graduate-admissions",
-  "checked": "2026-10-21",
+  "grad_page": "https://gradadmissions.stanford.edu/apply/test-scores",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.stanford.edu/graduate/graduate-admissions"
+      "code": "125 USD",
+      "value": "The application fee is $125 (nonrefundable) for every graduate program.",
+      "quote": "The application fee is $125 and is nonrefundable.",
+      "url": "https://gradadmissions.stanford.edu/apply/application-fee"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.stanford.edu/graduate/graduate-admissions"
+      "code": "Limited",
+      "value": "School-based fee waivers exist for applicants with financial need; priority goes to US/domestic applicants and international PhD applicants are reviewed case by case. Request it at least 10 business days before your program's deadline.",
+      "quote": "International applicants are eligible to apply, but will be reviewed on a case-by-case basis.",
+      "url": "https://gradadmissions.stanford.edu/apply/application-fee/school-based-waivers",
+      "also": [
+        {
+          "quote": "International students applying to doctoral programs will be reviewed on a case-by-case basis.",
+          "url": "https://gradadmissions.stanford.edu/apply/application-fee/school-based-waivers"
+        },
+        {
+          "quote": "U.S. citizens or permanent residents who have received a GRE Fee Reduction Voucher from ETS | 10 business days (two weeks) before application deadline",
+          "url": "https://gradadmissions.stanford.edu/apply/application-fee"
+        }
+      ]
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.stanford.edu/graduate/graduate-admissions"
+      "value": "Each Stanford program sets its own GRE policy (required, optional or not considered); see the program record.",
+      "quote": "Each graduate program sets its own policy on GRE General Test and GRE Subject Test scores — required, optional, or not considered.",
+      "url": "https://gradadmissions.stanford.edu/apply/test-scores"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.stanford.edu/graduate/graduate-admissions"
+      "code": "90",
+      "value": "University minimum is TOEFL iBT 90 (tests before 21 Jan 2026) or 4.5 on the new scale (tests from 21 Jan 2026). Below 109 / 5.5 you take the English Placement Test on arrival; programs may set higher minimums.",
+      "quote": "TOEFL (Taken before January 21, 2026) TOEFL (Taken on or after January 21, 2026) IELTS Minimum Score for Admission Consideration* 90 4.5 7",
+      "url": "https://gradadmissions.stanford.edu/apply/test-scores",
+      "also": [
+        {
+          "quote": "Each graduate program may set a higher minimum score for admission consideration as appropriate for the specific field of study.",
+          "url": "https://gradadmissions.stanford.edu/apply/test-scores"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.stanford.edu/graduate/graduate-admissions"
+      "code": "7",
+      "value": "IELTS Academic 7 overall is the university minimum (8 exempts you from the English Placement Test).",
+      "quote": "TOEFL (Taken before January 21, 2026) TOEFL (Taken on or after January 21, 2026) IELTS Minimum Score for Admission Consideration* 90 4.5 7",
+      "url": "https://gradadmissions.stanford.edu/apply/test-scores"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.stanford.edu/graduate/graduate-admissions"
+      "code": "Yes",
+      "value": "No English test is needed if your degree (e.g. an Indian bachelor's) is from a university where all instruction was in English; you self-declare this in the application, though documentation may be requested after you accept an offer.",
+      "quote": "You earned a U.S. bachelor’s, master’s or doctoral degree, or international equivalent from a university where all instruction was conducted in English. | You will not be required to submit English proficiency test scores in the application if your responses on the Personal Background page reflect that you meet the above criteria; no additional documentation is required at the time of application.",
+      "url": "https://gradadmissions.stanford.edu/apply/test-scores"
     }
   },
-  "notes": ""
+  "notes": "Each program sets its own GRE policy, and some (Chemistry, Earth System Science) set higher TOEFL/IELTS minimums. Fee waivers are school-based and need to be requested at least 10 business days before the program deadline."
 }

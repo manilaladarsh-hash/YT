@@ -2,7 +2,9 @@
   "id": "stanford--physics",
   "university": "stanford",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "astronomy"
+  ],
   "department": "Department of Physics",
   "program_page": "https://physics.stanford.edu/graduate/graduate-admissions",
   "checked": "2026-10-21",
@@ -32,10 +34,10 @@
       "url": "https://physics.stanford.edu/graduate/graduate-admissions"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked",
-      "quote": "",
-      "url": "https://physics.stanford.edu/graduate/graduate-admissions"
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree (or international equivalent) is the minimum requirement for Stanford graduate study.",
+      "quote": "You must hold, or expect to hold before enrollment at Stanford, a U.S. bachelor’s degree or its international equivalent from a college or university of recognized standing.",
+      "url": "https://gradadmissions.stanford.edu/apply/eligibility"
     },
     "fee_waiver": {
       "code": "Limited",
@@ -56,5 +58,5 @@
       "url": "https://physics.stanford.edu/graduate/graduate-admissions/application-faqs"
     }
   },
-  "notes": "Two GRE requirements make Stanford one of the most test-heavy programs this cycle."
+  "notes": "Two GRE requirements make Stanford one of the most test-heavy programs this cycle. Applicants pick theoretical, experimental or astrophysics; astrophysics is part of this PhD (Stanford has no separate astronomy PhD)."
 }

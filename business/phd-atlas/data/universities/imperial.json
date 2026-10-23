@@ -3,45 +3,61 @@
   "institution": "Imperial College London",
   "country": "United Kingdom",
   "region": "England",
-  "grad_page": "https://www.imperial.ac.uk/natural-sciences/departments/physics/students/postgraduate-admissions/phd-opportunities/",
-  "checked": "2026-10-21",
+  "grad_page": "https://www.imperial.ac.uk/study/apply/postgraduate-doctoral/application-process/",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.imperial.ac.uk/natural-sciences/departments/physics/students/postgraduate-admissions/phd-opportunities/"
+      "code": "0 (no fee)",
+      "value": "There is no application fee for doctoral degrees such as the PhD or EngD, including combined MRes + PhD CDT programmes (master's applications cost GBP 90; the Business School charges GBP 90 for doctoral applications).",
+      "quote": "You do not need to pay an application fee for: | Postgraduate Doctoral degrees (e.g. PhD, EngD) | Combined MRes + PhD (1+3) Centre for Doctoral Training programmes",
+      "url": "https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.imperial.ac.uk/natural-sciences/departments/physics/students/postgraduate-admissions/phd-opportunities/"
+      "code": "No fee",
+      "value": "PhD applications carry no application fee, so no waiver is needed.",
+      "quote": "Postgraduate Doctoral degrees (e.g. PhD, EngD)",
+      "url": "https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Imperial's doctoral entry requirements do not mention the GRE; requirements are set by each department.",
       "quote": "",
-      "url": "https://www.imperial.ac.uk/natural-sciences/departments/physics/students/postgraduate-admissions/phd-opportunities/"
+      "url": "https://www.imperial.ac.uk/study/apply/postgraduate-doctoral/application-process/entry-requirements/"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.imperial.ac.uk/natural-sciences/departments/physics/students/postgraduate-admissions/phd-opportunities/"
+      "code": "92",
+      "value": "TOEFL iBT 92 overall (min 20 in each section) at the Standard level, or 100 (min 22) at the Higher level; new 1-6 scale: 4.5 (Standard) or 5.0 (Higher). Each course states which level applies.",
+      "quote": "92 overall (minimum 20 in all elements) | 100 overall (minimum 22 in all elements) | 4.5 (minimum 4.5 in all elements)",
+      "url": "https://www.imperial.ac.uk/study/apply/english-language/",
+      "also": [
+        {
+          "quote": "See our course pages to find out whether you will need to meet the standard or higher level for your chosen course.",
+          "url": "https://www.imperial.ac.uk/study/apply/english-language/"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.imperial.ac.uk/natural-sciences/departments/physics/students/postgraduate-admissions/phd-opportunities/"
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall (min 6.0 in every element) at the Standard level, or 7.0 (min 6.5) at the Higher level, in a single sitting.",
+      "quote": "6.5 overall (minimum 6.0 in all elements) | 7.0 overall (minimum 6.5 in all elements) | Candidates must meet the IELTS requirements on a single test sitting.",
+      "url": "https://www.imperial.ac.uk/study/apply/english-language/"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.imperial.ac.uk/natural-sciences/departments/physics/students/postgraduate-admissions/phd-opportunities/"
+      "code": "No",
+      "value": "A degree from India does not exempt you: only degrees from a listed set of countries (Australia, Canada, Guyana, Ireland, Malta, New Zealand, South Africa, UK, USA, West Indies) do. However, Imperial accepts Indian 12th Standard English (CBSE or CISCE boards only) at 70% as an English qualification instead of a test.",
+      "quote": "You do not need to prove your knowledge of English as part of your application if you’ve completed a qualification equivalent to a UK degree in one of the following countries:",
+      "url": "https://www.imperial.ac.uk/study/apply/english-language/english-language-exemption/",
+      "also": [
+        {
+          "quote": "Indian 12th Standard *CBSE & CISCE boards only Standard Higher 70% 70%",
+          "url": "https://www.imperial.ac.uk/study/apply/english-language/"
+        },
+        {
+          "quote": "Here are all of the English language tests and qualifications that we accept for entry to undergraduate and postgraduate study.",
+          "url": "https://www.imperial.ac.uk/study/apply/english-language/"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "Departments set whether the Standard or Higher English level applies. Doctoral applications are accepted all year round, but some departments and funded schemes have fixed deadlines; whether you need a supervisor before applying depends on the department."
 }

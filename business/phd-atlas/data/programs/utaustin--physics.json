@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Department of Physics",
   "program_page": "https://physics.utexas.edu/academics/admissions",
-  "checked": "2026-10-21",
+  "checked": "2026-10-22",
   "fields": {
     "deadline": {
       "code": "2026-12-01",
@@ -27,10 +27,16 @@
       "url": "https://physics.utexas.edu/academics/admissions"
     },
     "funding": {
-      "code": "Not stated",
-      "value": "PhD funding terms not stated on the admissions page (master's applicants get no support)",
-      "quote": "Please note: Admitted Master’s applicants are not awarded financial support regardless of semester.",
-      "url": "https://physics.utexas.edu/academics/admissions"
+      "code": "Guaranteed",
+      "value": "All doctoral students are funded: new students typically get a five-year commitment as a TA, GRA or Fellow, contingent on adequate progress. Master's applicants get no support.",
+      "quote": "New students typically receive a commitment for five years of funding as a TA (Teaching Assistant), GRA (Graduate Research Assistant), or Fellow, all are contingent upon adequate progress toward completing the degree. | there is no separate application for funding and all doctoral students are funded as described above",
+      "url": "https://physics.utexas.edu/prospective-graduate-students",
+      "also": [
+        {
+          "quote": "Please note: Admitted Master’s applicants are not awarded financial support regardless of semester.",
+          "url": "https://physics.utexas.edu/academics/admissions"
+        }
+      ]
     },
     "entry_route": {
       "code": "Direct from bachelor's",
@@ -68,6 +74,12 @@
       "value": "India is on UT's list of qualifying countries exempt from TOEFL/IELTS (also exempt with a bachelor's from a U.S./qualifying-country institution)",
       "quote": "Students from the following countries are exempt from the TOEFL/IELTS requirement: American Samoa Australia Bahamas Barbados Belize Canada (except Quebec) Dominica Ghana Grenada Grand Cayman Guyana India Ireland ...",
       "url": "https://admissions.utexas.edu/info-for/international-students/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic overall band 6.5 (same as the Graduate School minimum).",
+      "quote": "IELTS: An overall band of 6.5 on the Academic Examination",
+      "url": "https://physics.utexas.edu/academics/admissions"
     }
   },
   "notes": "Review begins mid-January; international decisions typically early to mid-March."

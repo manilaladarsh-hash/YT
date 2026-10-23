@@ -2,10 +2,12 @@
   "id": "ethz--physics",
   "university": "ethz",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "astronomy"
+  ],
   "department": "Department of Physics (D-PHYS)",
   "program_page": "https://ethz.ch/en/doctorate/finding-a-place.html",
-  "checked": "2026-10-21",
+  "checked": "2026-10-22",
   "fields": {
     "deadline": {
       "code": "Per position",
@@ -32,11 +34,21 @@
       "url": "https://ethz.ch/en/doctorate/finding-a-place.html"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
-      "url": "https://ethz.ch/en/doctorate/finding-a-place.html"
+      "code": "Either",
+      "value": "Normally a Master's degree is required; exceptional Bachelor's graduates can apply for the Direct Doctorate in Physics (Master's + doctorate) in the 1-30 November 2026 window, with a future ETH supervisor's funding confirmation.",
+      "quote": "You must have a university Master's degree.",
+      "url": "https://ethz.ch/en/doctorate/registration-admission/zulassungsbedingungen.html",
+      "also": [
+        {
+          "quote": "Direct Doctorate (applications in the first application window only) | For a successful application, a confirmation of the future supervisor (ETH professor) is required.",
+          "url": "https://ethz.ch/en/studies/master/application/master-physik.html"
+        },
+        {
+          "quote": "The Department of Physics hosts four institutes: Particle Physics and Astrophysics, Quantum Electronics, Solid State Physics and Theoretical Physics.",
+          "url": "https://phys.ethz.ch/research.html"
+        }
+      ]
     }
   },
-  "notes": "Individual doctorate model: no overarching doctoral school. See the AVETH survival guide linked from the page."
+  "notes": "Individual doctorate model: no overarching doctoral school. See the AVETH survival guide linked from the page. Astrophysics is covered by D-PHYS (Institute for Particle Physics and Astrophysics)."
 }

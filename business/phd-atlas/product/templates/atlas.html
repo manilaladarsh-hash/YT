@@ -427,6 +427,7 @@ function fit(p) {
     else add("good", "English-medium degree accepted instead of a test");
   } else if (pr.english === "test") {
     const t = parseFloat(pr.toefl), ts = c("toefl_min"), tm = parseFloat(ts);
+    if (ts === "Not required") add("good", "No English test required");
     const i = parseFloat(pr.ielts), im = parseFloat(c("ielts_min"));
     if (t && /^\d{2,3}$/.test(ts) && t < tm) add("bad", "Your TOEFL " + t + " is below the minimum " + tm);
     else if (t && /^\d{2,3}$/.test(ts)) add("good", "TOEFL minimum " + tm + " met");
@@ -745,7 +746,9 @@ function tasks(p) {
   if (f.gre_subject.code === "Required" || f.gre_subject.code === "Recommended") out.push(["sgre", "Take the GRE Subject test and send scores (" + f.gre_subject.code.toLowerCase() + ")"]);
   if (f.gre_general.code === "Required" || f.gre_general.code === "Recommended") out.push(["ggre", "Send GRE General scores (" + f.gre_general.code.toLowerCase() + ")"]);
   const e = f.english_waiver.code;
-  if (e === "Yes" || e === "Conditional") out.push(["eng", "Get an English-medium (MOI) certificate from your university" + (e === "Conditional" ? " and check the conditions" : "")]);
+  if (f.toefl_min.code === "Not required" && f.ielts_min.code !== "Not required" && f.ielts_min.code !== "Not stated") out.push(["eng", "Send IELTS scores (minimum " + f.ielts_min.code + ")"]);
+  else if (f.toefl_min.code === "Not required") { /* no English certificate needed */ }
+  else if (e === "Yes" || e === "Conditional") out.push(["eng", "Get an English-medium (MOI) certificate from your university" + (e === "Conditional" ? " and check the conditions" : "")]);
   else {
     const mins = [f.toefl_min.code !== "Not stated" ? "TOEFL " + f.toefl_min.code : "", f.ielts_min.code !== "Not stated" ? "IELTS " + f.ielts_min.code : ""].filter(Boolean).join(" / ");
     out.push(["eng", "Send English-test scores" + (mins ? " (minimum " + mins + ")" : "")]);

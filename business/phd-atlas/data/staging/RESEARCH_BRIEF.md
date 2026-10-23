@@ -42,8 +42,8 @@ Work in `/home/user/YT/business/phd-atlas`. Write **only** to `data/staging/` (s
 | app_fee | `90 USD`, `75 GBP`, `100 CHF`, `125 CAD`, `0 (no fee)`, `0 (waived)` or `Not stated`. Currencies: USD CAD GBP EUR CHF SEK DKK NOK AUD NZD |
 | fee_waiver | `Available` (internationals can get one), `Limited` (narrow criteria or few), `Domestic only`, `None`, `No fee`, `Not stated` |
 | gre_general, gre_subject | `Required`, `Recommended`, `Optional`, `Not required`, `Not considered`, `Not stated`. gre_subject is the field's own GRE Subject test (Physics, Chemistry, Mathematics; Psychology for neuroscience). Where no subject test exists for the field (CS, engineering, biology since 2023…), use `Not stated` unless the page says something |
-| toefl_min | an integer such as `90`, `4.5 (new scale)`, `Sections` (only section minimums) or `Not stated` |
-| ielts_min | an overall band like `6.5` or `7` (`Not stated` if absent) |
+| toefl_min | an integer such as `90`, `4.5 (new scale)`, `Sections` (only section minimums), `Not required` (the university asks for no English certificate at all, quoted) or `Not stated` |
+| ielts_min | an overall band like `6.5` or `7`, `Not required` (as above) or `Not stated` |
 | english_waiver | for a degree taught in English in India: `Yes` (India or "medium of instruction English" accepted outright), `Conditional` (needs a certificate or letter, or a minimum duration…), `No` (India not accepted; a test is required), `Check tool`, `Not stated` |
 | supervisor | `Required` (must have a supervisor's agreement before or as part of admission), `Recommended` (advised to contact faculty), `Not required` (admission by committee, e.g. US cohorts with rotations), `Not stated` |
 | funding | `Guaranteed` (all admitted PhD students are funded, e.g. a US 5-year guarantee or a salaried position), `Typical` (most are funded), `Competitive` (funding is competitive or scholarship-based), `Not stated` |

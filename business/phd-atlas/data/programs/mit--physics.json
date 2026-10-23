@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Department of Physics",
   "program_page": "https://oge.mit.edu/programs/physics/",
-  "checked": "2026-10-21",
+  "checked": "2026-10-22",
   "fields": {
     "deadline": {
       "code": "2026-12-15",
@@ -33,10 +33,16 @@
       "url": "https://oge.mit.edu/programs/physics/"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
-      "url": "https://oge.mit.edu/programs/physics/"
+      "code": "Direct from bachelor's",
+      "value": "MIT does not require a master's degree to apply for a PhD; you can apply in the final year of a bachelor's degree, provided it is awarded before you enrol.",
+      "quote": "The Institute does not require applicants to hold a master’s or other advanced degree in order to apply to a Ph.D program.",
+      "url": "https://oge.mit.edu/graduate-admissions/applications/procedures/",
+      "also": [
+        {
+          "quote": "Students in their final year of undergraduate study may be admitted on the condition that their bachelor’s degree is awarded before they enroll at MIT.",
+          "url": "https://oge.mit.edu/graduate-admissions/applications/procedures/"
+        }
+      ]
     },
     "app_fee": {
       "code": "90 USD",
@@ -80,6 +86,12 @@
           "url": "https://oge.mit.edu/programs/physics/"
         }
       ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic 7.0 overall minimum for Physics.",
+      "quote": "International English Language Testing System (IELTS) Minimum score required: 7",
+      "url": "https://oge.mit.edu/programs/physics/"
     }
   },
   "notes": "physics.mit.edu blocked automated fetches (403, also with a headless browser), so facts come from the MIT Office of Graduate Education program page. OGE grants up to three fee waivers per applicant."

@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Department of Physics",
   "program_page": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/application-procedure/",
-  "checked": "2026-10-21",
+  "checked": "2026-10-22",
   "fields": {
     "deadline": {
       "code": "2026-12-11",
@@ -33,10 +33,16 @@
       ]
     },
     "funding": {
-      "code": "Not stated",
-      "value": "Funding package not described on the admissions pages checked",
-      "quote": "",
-      "url": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/"
+      "code": "Guaranteed",
+      "value": "All admitted students get departmental funding: 4 years for the PhD (5 years for direct-entry PhD), offered automatically on admission.",
+      "quote": "The department provides financial support for one year of the MSc and four years of the PhD program (five years for direct-entry PhD).",
+      "url": "https://www.sgs.utoronto.ca/programs/physics/",
+      "also": [
+        {
+          "quote": "You are not required to submit a separate application for the financial support offered by the Department of Physics. You will be automatically offered financial support upon admission.",
+          "url": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/frequently-asked-questions/"
+        }
+      ]
     },
     "entry_route": {
       "code": "Either",

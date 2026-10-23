@@ -27,10 +27,16 @@
       "url": "https://physics.gatech.edu/academics/graduate/admissions-info"
     },
     "funding": {
-      "code": "Not stated",
-      "value": "PhD support terms not stated (MS students get no support)",
-      "quote": "Our MS students are given no financial support and must pay full tuition.",
-      "url": "https://physics.gatech.edu/academics/graduate/admissions-info"
+      "code": "Guaranteed",
+      "value": "All physics PhD students get a tuition waiver plus a TA, RA or fellowship stipend (USD 35,504 a year); top international applicants may get an extra Amelio Fellowship of USD 5,500 a year.",
+      "quote": "All Ph.D. students in the School of Physics receive a tuition waiver and financial support through teaching assistantships (TAs), research assistantships (RAs), or fellowships. | The current stipend for Ph.D. students is $35,504 per year.",
+      "url": "https://physics.gatech.edu/node/6015",
+      "also": [
+        {
+          "quote": "The School of Physics provides these top-up awards to our top international applicants thanks to a generous donation from alumnus Gil Amelio.",
+          "url": "https://physics.gatech.edu/node/6015"
+        }
+      ]
     },
     "entry_route": {
       "code": "Direct from bachelor's",
@@ -66,6 +72,12 @@
       "code": "No",
       "value": "All applicants must demonstrate English proficiency at application, regardless of citizenship",
       "quote": "All applicants must demonstrate English proficiency at the time of application, regardless of citizenship status.",
+      "url": "https://physics.gatech.edu/academics/graduate/admissions-info"
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "Physics requires IELTS 7.5 overall with every band at 7 or above (higher than the Institute minimum of 7).",
+      "quote": "The IELTS test minimum is 7.5, and all skills must be greater than or equal to 7.",
       "url": "https://physics.gatech.edu/academics/graduate/admissions-info"
     }
   },
