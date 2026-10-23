@@ -33,7 +33,7 @@ Treat these as working targets (advice). The dates themselves come from the prog
 | January | {{JAN_COUNT}} programs close in January, including most Canadian programs and many US biology, neuroscience and engineering programs. |
 | February–April | Interviews and offers. US programs commonly hold interview or visit weekends for biology, neuroscience and chemistry. Most US programs ask admitted students to decide by **April 15** (advice: check each offer letter). Spring rounds in Europe, and positions advertised all year. |
 
-### The 40 earliest dated deadlines in this Atlas
+### The earliest deadlines in this Atlas
 
 {{DEADLINE_TABLE}}
 

@@ -9,6 +9,37 @@ import statistics
 from datetime import date
 
 
+def date_of(text):
+    from datetime import datetime
+    return datetime.strptime(text, "%b %d, %Y").date()
+
+
+def deadline_groups(upcoming, b):
+    """One row per university and date, so a graduate school's shared deadline doesn't fill the table."""
+    rows, at = [], {}
+    for r in upcoming:
+        key = (r["fields"]["deadline"]["code"], r["uni"])
+        if key not in at:
+            at[key] = len(rows)
+            rows.append([b.deadline_text(r), b.short_uni(r), [], []])
+        row = rows[at[key]]
+        row[2].append(b.FIELD_BY_ID[r["field"]]["name"])
+        for note in filter(None, b.flags_text(r["fields"]["deadline"]).split("; ")):
+            if note not in row[3]:
+                row[3].append(note)
+
+    def progs(f):
+        return ", ".join(f) if len(f) <= 3 else f"{', '.join(f[:2])} and {len(f) - 2} more"
+
+    def notes(n):
+        acts = sorted({x for x in n if x.startswith("act by ")}, key=lambda x: date_of(x[7:]))
+        rest = [x for x in n if not x.startswith("act by ")]
+        if acts:
+            rest.append(acts[0] if len(acts) == 1 else f"{acts[0]} (earliest)")
+        return "; ".join(rest)
+    return [[d, u, progs(f), notes(n)] for d, u, f, n in rows]
+
+
 def compute(recs, b):
     code = lambda r, k: r["fields"][k]["code"]
     by_uni = {}
@@ -83,8 +114,7 @@ def compute(recs, b):
         "NOV_COUNT": month("2026-11"), "DEC_COUNT": month("2026-12"), "JAN_COUNT": month("2027-01"),
         "TOP_US_DATE": b.nice_date(date.fromisoformat(top_us[0])), "TOP_US_DATE_COUNT": str(top_us[1]),
         "US_DATED_COUNT": str(sum(us_dates.values())), "N_DATED": f"{len(dated):,}",
-        "DEADLINE_TABLE": b.md_table(["Deadline", "Program", "Country", "Note"],
-                                     [[b.deadline_text(r), b.label(r), r["country"], b.flags_text(r["fields"]["deadline"])] for r in upcoming[:40]]),
+        "DEADLINE_TABLE": b.md_table(["Deadline", "University", "Programs", "Note"], deadline_groups(upcoming, b)[:15]),
         "MEDIAN_USD": usd[0], "MEDIAN_USD_INR": usd[1], "MEDIAN_GBP": gbp[0], "MEDIAN_GBP_INR": gbp[1],
         "MEDIAN_CAD": cad[0], "MEDIAN_CAD_INR": cad[1],
         "TEN_US_INR": b.fmt_inr(10 * b.convert(median_fee("USD"), "USD", "INR")) if median_fee("USD") else "n/a",

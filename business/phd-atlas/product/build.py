@@ -6,7 +6,7 @@ Outputs (dist/):
   STEM-PhD-Atlas-2027-v<version>.zip
   Free-Sample-STEM-PhD-Atlas-2027.pdf
 
-Usage: python3 product/build.py [--only explorer]
+Usage: python3 product/build.py [--only explorer|sample]
 Refuses to build if scripts/validate_data.py reports errors.
 """
 
@@ -255,7 +255,7 @@ def flags_text(f):
         out.append("rolling")
     if f.get("conflict"):
         out.append("sources conflict")
-    if f.get("time_sensitive"):
+    if f.get("time_sensitive") and f["time_sensitive"] != f.get("code"):
         out.append(f"act by {nice_date(date.fromisoformat(f['time_sensitive']))}")
     if f.get("scope"):
         out.append(f["scope"])
@@ -603,6 +603,10 @@ def build(only=None):
         return None
     sys.path.insert(0, str(ROOT / "product"))
     values = stats(recs)
+    import sample  # product/sample.py
+    if only == "sample":
+        sample.write(recs, DIST / f"Free-Sample-{PRODUCT}.pdf", values, sys.modules[__name__])
+        return None
     for f in OUT.iterdir():
         if f.name != "Atlas.html":
             f.unlink()
@@ -618,7 +622,6 @@ def build(only=None):
     to_pdf(html_doc("Start here", md_to_html(start_md)), OUT / "START-HERE.pdf", "start-here")
     shutil.copy(CONTENT / "LICENSE.txt", OUT / "LICENSE.txt")
 
-    import sample  # product/sample.py
     sample.write(recs, DIST / f"Free-Sample-{PRODUCT}.pdf", values, sys.modules[__name__])
 
     zpath = DIST / f"{PRODUCT}-v{VERSION}.zip"
@@ -633,5 +636,5 @@ def build(only=None):
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("--only", choices=["explorer"])
+    ap.add_argument("--only", choices=["explorer", "sample"])
     build(ap.parse_args().only)

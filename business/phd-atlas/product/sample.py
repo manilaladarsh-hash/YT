@@ -9,7 +9,7 @@ import html
 N_CARDS = 12
 CARD_FIELDS = [("deadline", "Deadline"), ("app_fee", "Fee"), ("fee_waiver", "Fee waiver"), ("funding", "Funding"),
                ("gre_general", "GRE General"), ("gre_subject", "Subject GRE"), ("english_waiver", "English waiver"),
-               ("supervisor", "Supervisor first"), ("entry_route", "Entry")]
+               ("supervisor", "Supervisor"), ("entry_route", "Entry")]
 TONE = {
     "fee_waiver": {"Available": "good", "No fee": "good", "Limited": "warn", "Domestic only": "bad", "None": "bad"},
     "gre_general": {"Required": "bad", "Recommended": "warn", "Optional": "good", "Not required": "good", "Not considered": "good"},
@@ -20,16 +20,17 @@ TONE = {
     "entry_route": {"Direct from bachelor's": "good", "Either": "good", "Master's usually required": "warn"},
 }
 CSS = """
-.cards { display: grid; grid-template-columns: 1fr 1fr; gap: 8pt; }
-.card { border: 1px solid #dcdfe4; border-left: 3pt solid var(--gc); border-radius: 5pt; padding: 7pt 9pt; break-inside: avoid; font-size: 8.8pt; }
-.card .ftag { font-size: 7.5pt; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: var(--gc); }
-.card h3 { margin: 1pt 0 0; font-size: 11pt; }
-.card .meta { color: #5b6573; font-size: 8pt; margin-bottom: 4pt; }
-.card dl { display: grid; grid-template-columns: auto 1fr auto 1fr; gap: 2pt 6pt; margin: 0; align-items: baseline; }
-.card dl .wide { grid-column: 2 / 5; }
+.cards { display: grid; grid-template-columns: 1fr; gap: 6pt; }
+.card { border: 1px solid #dcdfe4; border-left: 3pt solid var(--gc); border-radius: 5pt; padding: 6pt 9pt; break-inside: avoid; font-size: 8.4pt; }
+.card header { display: flex; align-items: baseline; gap: 6pt; margin-bottom: 3pt; }
+.card .ftag { margin-left: auto; font-size: 7.5pt; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: var(--gc); }
+.card h3 { margin: 0; font-size: 11pt; }
+.card .meta { color: #5b6573; font-size: 8pt; }
+.card dl { display: grid; grid-template-columns: max-content 1.25fr max-content 1fr max-content 1fr; gap: 1.5pt 6pt; margin: 0; align-items: baseline; }
+.card dd { white-space: nowrap; }
 .card dt { color: #5b6573; }
 .card dd { margin: 0; }
-.card q { display: block; margin-top: 5pt; padding: 3pt 6pt; background: #f4f6f8; border-left: 2pt solid #1f5f8b; font-size: 8pt; quotes: "\\201C" "\\201D"; }
+.card q { display: block; margin-top: 4pt; padding: 3pt 6pt; background: #f4f6f8; border-left: 2pt solid #1f5f8b; font-size: 8pt; quotes: "\\201C" "\\201D"; }
 .card .src { font-size: 7.5pt; }
 .facts li { margin: 3pt 0; }
 """
@@ -81,13 +82,13 @@ def card(r, b):
     f = b.FIELD_BY_ID[r["field"]]
     also = ", ".join(b.FIELD_BY_ID[x]["name"] for x in r["also_fields"])
     meta = " · ".join(x for x in [r["name"] or r["department"], r["country"]] if x)
-    rows = "".join(f"<dt>{lab}</dt><dd{' class=wide' if k == 'entry_route' else ''}>{cell(k, r, b)}</dd>" for k, lab in CARD_FIELDS)
+    rows = "".join(f"<dt>{lab}</dt><dd>{cell(k, r, b)}</dd>" for k, lab in CARD_FIELDS)
     q = r["fields"]["deadline"] if r["fields"]["deadline"]["quote"] else next(
         (r["fields"][k] for k in b.ALL_FIELDS if r["fields"][k]["quote"]), None)
     quote = (f"<q>{html.escape(q['quote'].split(' | ')[0])}</q><a class='src' href='{html.escape(q['url'], quote=True)}'>Source ↗</a>" if q else "")
     return (f"<div class='card' style='--gc:{GROUP_COLOR.get(f['group'], '#1f5f8b')}'>"
-            f"<div class='ftag'>{html.escape(f['name'])}{(' + ' + html.escape(also)) if also else ''}</div>"
-            f"<h3>{html.escape(b.short_uni(r))}</h3><div class='meta'>{html.escape(meta)}</div>"
+            f"<header><h3>{html.escape(b.short_uni(r))}</h3><span class='meta'>{html.escape(meta)}</span>"
+            f"<span class='ftag'>{html.escape(f['name'])}{(' + ' + html.escape(also)) if also else ''}</span></header>"
             f"<dl>{rows}</dl>{quote}</div>")
 
 
