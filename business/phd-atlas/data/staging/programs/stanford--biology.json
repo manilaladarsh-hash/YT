@@ -1,0 +1,65 @@
+{
+  "id": "stanford--biology",
+  "university": "stanford",
+  "field": "biology",
+  "also_fields": [
+    "biomed",
+    "neuro",
+    "datasci"
+  ],
+  "department": "Stanford Biosciences (Office of Graduate Education)",
+  "program_page": "https://biosciences.stanford.edu/how-to-apply/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "One common deadline for all 14 Biosciences PhD home programs: 11:59:59pm PST, December 1, 2026.",
+      "quote": "The application deadline for Autumn 2027-28 is Tuesday, December 1, 2026, at 11:59:59 pm (PST).",
+      "url": "https://biosciences.stanford.edu/how-to-apply/"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "GRE Subject scores are not considered by Biology, Neurosciences, Biomedical Data Science or most home programs (Biophysics alone lists a Math/Physics subject test as optional).",
+      "quote": "Home Program GRE General Test GRE Subject Test GRE Subject Test Notes Biochemistry Not Considered Not Considered Biology Not Considered Not Considered Biomedical Data Science Not Considered Not Considered",
+      "url": "https://biosciences.stanford.edu/how-to-apply/"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "None of the 14 home programs considers the GRE General Test.",
+      "quote": "Home Program GRE General Test GRE Subject Test GRE Subject Test Notes Biochemistry Not Considered Not Considered Biology Not Considered Not Considered",
+      "url": "https://biosciences.stanford.edu/how-to-apply/",
+      "also": [
+        {
+          "quote": "Neurosciences Not Considered Not Considered",
+          "url": "https://biosciences.stanford.edu/how-to-apply/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You are admitted to a home program and do lab rotations across all 14 programs before choosing a thesis lab.",
+      "quote": "Regardless of your Home Program, you have full access to faculty in all of the other Home Programs for laboratory rotations and potential thesis work.",
+      "url": "https://biosciences.stanford.edu/how-to-apply/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All Biosciences PhD students in good standing get a stipend, tuition and health insurance. But funding for international students is limited, so the number of international admits each year depends on funding and space.",
+      "quote": "All Biosciences PhD students in good standing receive a competitive stipend, as well as tuition and health insurance.",
+      "url": "https://biosciences.stanford.edu/prospective-students/support-for-students",
+      "also": [
+        {
+          "quote": "We have a limited number of fellowships (which include a yearly stipend, tuition, and health and dental insurance) available to the most highly competitive international applicants. | Admittance to the Biosciences Programs for international applicants varies from year to year, depending on funding and available space.",
+          "url": "https://biosciences.stanford.edu/faqs/do-you-offer-fellowships-to-international-applicants"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree (or international equivalent) is the minimum requirement.",
+      "quote": "You must hold, or expect to hold before enrollment at Stanford, a U.S. bachelor’s degree or its international equivalent from a college or university of recognized standing.",
+      "url": "https://biosciences.stanford.edu/how-to-apply/"
+    }
+  },
+  "notes": "One application covers 14 home programs (choose up to two), including Biology, Neurosciences, Biomedical Data Science, Genetics, Immunology, Biochemistry, Biophysics and Cancer Biology. 2026-27 stipend: $58,460. International places are limited by funding.",
+  "name": "Stanford Biosciences PhD Programs (14 Home Programs)"
+}

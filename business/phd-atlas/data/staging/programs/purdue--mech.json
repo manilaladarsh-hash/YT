@@ -1,0 +1,49 @@
+{
+  "id": "purdue--mech",
+  "university": "purdue",
+  "field": "mech",
+  "also_fields": [],
+  "department": "School of Mechanical Engineering",
+  "program_page": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/mechanical-engineering/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026 for the fall research (PhD) program; spring deadline September 15.",
+      "quote": "December 1 – research program",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/mechanical-engineering/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no GRE Subject test for mechanical engineering.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/mechanical-engineering/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/mechanical-engineering/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All PhD students are funded through fellowships or assistantships.",
+      "quote": "We fund all PhD students with fellowships or assistantships.",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/mechanical-engineering/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A completed master's is required unless you apply for the Direct PhD from a bachelor's.",
+      "quote": "Master’s Degree Completion: Required, except for those applying for Direct PhD",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/mechanical-engineering/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional; applicants from less well-known schools are encouraged to submit it (recent admits: Quant above 162, AWA above 4).",
+      "quote": "Graduate Record Examination (GRE) (optional) | Applicants from schools that are not well known are encouraged to submit GRE general test scores.",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/mechanical-engineering/"
+    }
+  },
+  "notes": "Aeronautics and Astronautics (AAE) is a separate PhD: December 1 deadline for funding, expected GRE 156V/159Q/4.0AWA, and a commitment from an AAE faculty member to be your advisor is required. The engineering.purdue.edu department site could not be fetched (TLS failure)."
+}

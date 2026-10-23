@@ -1,0 +1,49 @@
+{
+  "id": "uiuc--statistics",
+  "university": "uiuc",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Statistics",
+  "program_page": "https://stat.illinois.edu/admissions/prospective-graduate-students/application-requirements",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Apply by December 15, 2026 for Fall 2027 (fall entry only); same deadline for international applicants.",
+      "quote": "PhD Fall Admission - Dec 15 (Fall admit only) | *Application deadlines are the same for both domestic and international applicants",
+      "url": "https://stat.illinois.edu/admissions/prospective-graduate-students/application-requirements",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned; the GRE in general is optional.",
+      "quote": "",
+      "url": "https://stat.illinois.edu/admissions/prospective-graduate-students/application-requirements"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional for all Statistics graduate programs.",
+      "quote": "The GRE is optional for admission to all graduate programs in Statistics.",
+      "url": "https://stat.illinois.edu/admissions/prospective-graduate-students/application-requirements"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Statistics pages checked do not say whether you need an advisor before applying.",
+      "quote": "",
+      "url": "https://stat.illinois.edu/admissions/prospective-graduate-students/application-requirements"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "PhD applicants are automatically considered for a tuition-waiving TA or RA, but support is awarded competitively.",
+      "quote": "PhD applicants in Statistics are automatically considered for a tuition-waiver-generating assistantship. Departmental teaching and research assistantship support is available on a competitive basis.",
+      "url": "https://stat.illinois.edu/admissions/prospective-students/financial-support"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A four-year degree with a solid maths background (advanced calculus or real analysis, probability) is enough; minor gaps can be fixed in year one.",
+      "quote": "All graduate programs in Statistics require an applicant to have obtained, or will have obtained by date of enrollment, a minimum of a 4 year post-secondary degree from an accredited institute as recognized by the Graduate College.",
+      "url": "https://stat.illinois.edu/admissions/prospective-graduate-students/application-requirements"
+    }
+  },
+  "notes": "English minimums follow the Graduate College (TOEFL 79 old scale, IELTS 6.5); TA roles need spoken-English proof."
+}

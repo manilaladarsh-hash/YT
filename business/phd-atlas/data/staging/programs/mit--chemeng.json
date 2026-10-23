@@ -1,0 +1,55 @@
+{
+  "id": "mit--chemeng",
+  "university": "mit",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Department of Chemical Engineering",
+  "program_page": "https://oge.mit.edu/programs/chemical-engineering/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026, 11:59 PM US Eastern (application opens October 1); English test scores must be verified by the same deadline.",
+      "quote": "Deadline: December 1 at 11:59 PM Eastern Time",
+      "url": "https://oge.mit.edu/programs/chemical-engineering/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "ChemE does not accept GRE scores.",
+      "quote": "ChemE does not accept GRE scores and will not consider GRE scores in the evaluation of your application.",
+      "url": "https://oge.mit.edu/programs/chemical-engineering/"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "No GRE scores are considered.",
+      "quote": "will not consider GRE scores in the evaluation of your application",
+      "url": "https://oge.mit.edu/programs/chemical-engineering/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "ChemE grants no English-test waivers under any circumstances.",
+      "quote": "The Department of Chemical Engineering does not grant waivers for the English Language Proficiency test requirement under any circumstances.",
+      "url": "https://oge.mit.edu/programs/chemical-engineering/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the OGE page; the ChemE department site returned errors (502).",
+      "quote": "",
+      "url": "https://oge.mit.edu/programs/chemical-engineering/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All PhD/ScD students in good standing are fully funded by the department (tuition, stipend, health cover).",
+      "quote": "All Chemical Engineering graduate students in good standing are fully funded by the department.",
+      "url": "https://oge.mit.edu/programs/chemical-engineering/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "MIT does not require a master's degree to apply for a PhD; you can apply from a bachelor's degree (final-year students may be admitted if the degree is awarded before enrolment).",
+      "quote": "The Institute does not require applicants to hold a master’s or other advanced degree in order to apply to a Ph.D program.",
+      "url": "https://oge.mit.edu/graduate-admissions/applications/procedures/"
+    }
+  },
+  "notes": "Duolingo 135 and Cambridge 190 accepted. Test scores must be verified before December 1, 11:59 pm EST. Also offers the PhD in Chemical Engineering Practice (PhDCEP). cheme.mit.edu pages returned 502."
+}

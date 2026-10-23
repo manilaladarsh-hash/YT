@@ -1,0 +1,81 @@
+{
+  "id": "mit--cs",
+  "university": "mit",
+  "field": "cs",
+  "also_fields": [
+    "ece"
+  ],
+  "department": "Department of Electrical Engineering and Computer Science (EECS)",
+  "program_page": "https://oge.mit.edu/programs/electrical-engineering-and-computer-science/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026, 11:59 PM US Eastern (application opens September 15, 2026). OGE fee-waiver requests for December 1 deadlines are due November 18.",
+      "quote": "The deadline for submitting completed applications is December 1, 2026.",
+      "url": "https://www.eecs.mit.edu/academics/graduate-programs/admission-process/",
+      "time_sensitive": "2026-11-18",
+      "also": [
+        {
+          "quote": "Deadline: December 1 at 11:59 PM Eastern Time",
+          "url": "https://oge.mit.edu/programs/electrical-engineering-and-computer-science/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "EECS does not use GRE scores in admission (except for the LGO programme).",
+      "quote": "We do not use the GRE test scores during the admission process — regardless of citizenship — unless you are applying to the LGO Program, which does require the GRE.",
+      "url": "https://www.eecs.mit.edu/academics/graduate-programs/admission-process/graduate-admissions-faqs/"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "No GRE scores are used.",
+      "quote": "We do not use the GRE test scores during the admission process",
+      "url": "https://www.eecs.mit.edu/academics/graduate-programs/admission-process/graduate-admissions-faqs/"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "TOEFL iBT 100; IELTS 7 (IELTS preferred); Duolingo 130 accepted.",
+      "quote": "100 for the Internet-based test. EECS requires a minimum score of 7 on the IELTS. EECS requires a minimum of 130 on the Duolingo English test.",
+      "url": "https://www.eecs.mit.edu/academics/graduate-programs/admission-process/graduate-admissions-faqs/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS 7.0 overall; IELTS is preferred over TOEFL.",
+      "quote": "IELTS exam is preferred over the TOEFL.",
+      "url": "https://oge.mit.edu/programs/electrical-engineering-and-computer-science/",
+      "also": [
+        {
+          "quote": "EECS requires a minimum score of 7 on the IELTS.",
+          "url": "https://www.eecs.mit.edu/academics/graduate-programs/admission-process/graduate-admissions-faqs/"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "EECS waives the test only for applicants meeting the central MIT exemption criteria, which exclude English-medium degrees from India.",
+      "quote": "The Department will grant a waiver to any students who fit the criteria outlined on the central MIT admissions website.",
+      "url": "https://www.eecs.mit.edu/academics/graduate-programs/admission-process/graduate-admissions-faqs/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The EECS pages checked do not require a pre-arranged supervisor; research assistantships are offered by faculty after admission.",
+      "quote": "",
+      "url": "https://www.eecs.mit.edu/academics/graduate-programs/admission-process/graduate-admissions-faqs/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "EECS PhD students are fully funded (tuition, monthly stipend, medical insurance) for the whole programme, given satisfactory progress.",
+      "quote": "In the EECS PhD program, students are fully funded throughout the duration of their graduate program, assuming satisfactory progress in their research and in their academic PhD milestones.",
+      "url": "https://www.eecs.mit.edu/academics/graduate-programs/admission-process/graduate-admissions-faqs/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Admission is straight into the PhD from a bachelor's; students without a master's earn the MIT SM on the way. No terminal master's admission.",
+      "quote": "When we admit an applicant, it is into the PhD program. If you do not have a master’s degree when you apply, you will get that degree first before proceeding to the PhD.",
+      "url": "https://www.eecs.mit.edu/academics/graduate-programs/admission-process/graduate-admissions-faqs/"
+    }
+  },
+  "notes": "One EECS PhD admission covers Electrical Engineering, Computer Science and AI + Decision-making. Fee waivers go through OGE criteria only."
+}

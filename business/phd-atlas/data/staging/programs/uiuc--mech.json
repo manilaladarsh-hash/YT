@@ -1,0 +1,49 @@
+{
+  "id": "uiuc--mech",
+  "university": "uiuc",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Science and Engineering (MechSE)",
+  "program_page": "https://mechse.illinois.edu/graduate/MS-PhD-requirements",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026 for Fall 2027; late applications are not reviewed.",
+      "quote": "Fall admissions deadline is December 1.",
+      "url": "https://mechse.illinois.edu/graduate/MS-PhD-FAQ",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no mechanical engineering subject GRE; GRE scores are not reviewed.",
+      "quote": "",
+      "url": "https://mechse.illinois.edu/graduate/MS-PhD-requirements"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The GRE is not required and the committee will not review GRE scores.",
+      "quote": "GRE test scores are not currently required for MechSE admission. The admissions committee will not review any GRE test scores submitted.",
+      "url": "https://mechse.illinois.edu/graduate/MS-PhD-requirements"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Most offers come with a faculty RA offer, so contact potential advisors about openings and list faculty of interest in your application.",
+      "quote": "Most of our admissions come from RA offers so we highly recommend applicants to reach out to potential faculty members to see about openings.",
+      "url": "https://mechse.illinois.edu/graduate/MS-PhD-FAQ"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "As a Grainger Engineering PhD program, students get a five-year guarantee of fall/spring funding with full tuition waiver and stipend, if in good standing.",
+      "quote": "Grainger Engineering Ph.D. students in their first five years of enrollment are guaranteed a funded appointment for fall and spring that includes a full tuition waiver, a partial fee waiver, and a stipend.",
+      "url": "https://grainger.illinois.edu/academics/graduate/phd-funding-guarantee"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's in mechanical engineering or a related field (maths, physics, other engineering) is enough; a master's is not required.",
+      "quote": "A Master’s degree is not required to apply to the PhD program.",
+      "url": "https://mechse.illinois.edu/graduate/MS-PhD-requirements"
+    }
+  },
+  "notes": "Applications without verified English scores by the deadline may not be reviewed. Aerospace Engineering is a separate department with its own PhD (not recorded here)."
+}

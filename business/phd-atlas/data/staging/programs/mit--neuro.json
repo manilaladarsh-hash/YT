@@ -1,0 +1,56 @@
+{
+  "id": "mit--neuro",
+  "university": "mit",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Department of Brain and Cognitive Sciences (BCS)",
+  "program_page": "https://oge.mit.edu/programs/brain-and-cognitive-sciences/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026, 11:59 PM US Eastern (application opens September 1). English-test waiver requests close November 25.",
+      "quote": "Deadline: December 1 at 11:59 PM Eastern Time",
+      "url": "https://oge.mit.edu/programs/brain-and-cognitive-sciences/",
+      "inferred": "year",
+      "time_sensitive": "2026-11-25"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "BCS does not accept GRE scores.",
+      "quote": "BCS does not accept GRE scores and will not consider GRE scores in the evaluation of your application.",
+      "url": "https://oge.mit.edu/programs/brain-and-cognitive-sciences/"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "The Psychology Subject GRE is not considered either.",
+      "quote": "Scores sent to MIT will not be reviewed during application review.",
+      "url": "https://oge.mit.edu/programs/brain-and-cognitive-sciences/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "BCS accepts a waiver request if you earned a degree from an English-medium institution in any country, including India; you must upload proof such as an official medium-of-instruction letter, by November 25.",
+      "quote": "You have earned a degree from an institution where the language of instruction is English (this applies regardless of the country in which the institution is located). | Please plan to submit documentation, such as an official MOI from your institution or verification of your residency, in order to request a waiver. | The last day to request a waiver is November 25.",
+      "url": "https://oge.mit.edu/programs/brain-and-cognitive-sciences/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by the department; students do at least three lab rotations in year 1 and pick a thesis advisor by April 30.",
+      "quote": "Students complete a minimum of three lab rotations by March 31. | Students select a thesis advisor by April 30.",
+      "url": "https://bcs.mit.edu/academic-program/brain-and-cognitive-sciences-phd-program"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "BCS aims to fund all PhD students, whatever their citizenship, for their whole time at MIT (12-month stipend, tuition, health insurance); labs fund students after year 3.",
+      "quote": "The Department of Brain and Cognitive Sciences aims to support all graduate students for their entire time of study at MIT, regardless of citizenship.",
+      "url": "https://oge.mit.edu/programs/brain-and-cognitive-sciences/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "MIT does not require a master's degree to apply for a PhD; you can apply from a bachelor's degree (final-year students may be admitted if the degree is awarded before enrolment).",
+      "quote": "The Institute does not require applicants to hold a master’s or other advanced degree in order to apply to a Ph.D program.",
+      "url": "https://oge.mit.edu/graduate-admissions/applications/procedures/"
+    }
+  },
+  "notes": "Duolingo 135 accepted. Areas: cellular/molecular, systems and computational neuroscience and cognitive science. BCS participates in IDPS (statistics)."
+}

@@ -1,0 +1,47 @@
+{
+  "id": "uiuc",
+  "institution": "University of Illinois Urbana-Champaign",
+  "country": "USA",
+  "region": "Illinois",
+  "grad_page": "https://grad.illinois.edu/admissions/international-applicants",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "90 USD",
+      "value": "The Graduate College charges a USD 90 application fee, paid by credit card before the program deadline.",
+      "quote": "Once you have submitted your application, you will be required to pay a $90.00 application fee by credit card.",
+      "url": "https://grad.illinois.edu/application-fee"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "International applicants cannot get a fee waiver unless they come under an exchange agreement with an approved waiver.",
+      "quote": "International applicants are not eligible for an application fee waiver unless coming under a valid exchange agreement that has an approved application fee waiver.",
+      "url": "https://grad.illinois.edu/application-fee"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Graduate College does not require the GRE, but individual programs may; check the program record.",
+      "quote": "The GRE and GMAT tests are not required for admission to the Graduate College, but they may be required for admission to your proposed program of study",
+      "url": "https://grad.illinois.edu/application-fee"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "TOEFL iBT minimum is 4.0 on the new 1-6 scale (79 on the old scale) for limited-status admission; full status needs 5.0 (103 old). Below full status you take the ESL Placement Test on arrival.",
+      "quote": "Limited Status Admission Minimum | Full Status Admission Minimum | 4.0 (for scores dated after 1/20/2026) | 79 (for scores dated prior to 1/21/2026) | 5.0 (for scores dated after 1/20/2026) | 103 (for scores dated prior to 1/21/2026)",
+      "url": "https://grad.illinois.edu/admissions/international-applicants"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall for limited-status admission; 7.5 for full status.",
+      "quote": "IELTS Academic Exam | 6.5 | 7.5",
+      "url": "https://grad.illinois.edu/admissions/international-applicants"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Only degrees or two years of study/work in the US or an approved English-primary country exempt you; India is not on the list, so Indian applicants need a test score.",
+      "quote": "Received a post-secondary degree from a U.S. institution (or an institution within an approved country) within five years of the proposed admission term. | Illinois Graduate Admissions recognizes the following countries as having English as the primary language: Australia, Bahamas, Barbados, Belize, Bermuda, Canada,",
+      "url": "https://grad.illinois.edu/admissions/international-applicants"
+    }
+  },
+  "notes": "Programs may set higher English scores. Teaching assistants need separate spoken-English proof; Duolingo does not satisfy the TA requirement."
+}

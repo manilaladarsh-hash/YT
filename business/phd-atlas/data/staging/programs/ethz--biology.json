@@ -1,0 +1,64 @@
+{
+  "id": "ethz--biology",
+  "university": "ethz",
+  "field": "biology",
+  "also_fields": [
+    "biomed"
+  ],
+  "department": "Department of Biology (D-BIOL) / Life Science Zurich Graduate School",
+  "program_page": "https://biol.ethz.ch/en/doctoral-studies.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-01",
+      "value": "The Life Science Zurich Graduate School (ETH + UZH) has two rounds a year: 1 November 2026 (23:59 CET) and 1 May 2027. You can also apply directly to D-BIOL group leaders at any time.",
+      "quote": "Every year there are two application deadlines: May 1st and November 1st.",
+      "url": "https://biol.ethz.ch/en/doctoral-studies.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Our deadlines are 1 May (23:59 CEST) and 1 November (23:59 CET).",
+          "url": "https://www.lifescience-graduateschool.uzh.ch/en/application.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Life Science Zurich Graduate School does not ask for the GRE.",
+      "quote": "At present, the LSZGS does not ask for a GRE test.",
+      "url": "https://www.lifescience-graduateschool.uzh.ch/en/application/faq.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://www.lifescience-graduateschool.uzh.ch/en/application/faq.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "For the graduate school route you should not contact group leaders first; invited applicants see the open positions before interviews. (For a direct application you contact group leaders yourself.)",
+      "quote": "No. It is neither necessary nor recommended to contact group leaders individually. | Students who are invited for an interview will get access to a list of open positions and project descriptions before coming to Zurich.",
+      "url": "https://www.lifescience-graduateschool.uzh.ch/en/application/faq.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Graduate-school positions are funded and open to non-EU students; ETH-employed PhD students earn about CHF 50,700 gross in year one.",
+      "quote": "Our funded positions are open for national and international (also non-EU) students.",
+      "url": "https://www.lifescience-graduateschool.uzh.ch/en/application.html",
+      "also": [
+        {
+          "quote": "For our PhD students with an employment at ETH the amounts will change as of 1 January 2024 to CHF 50'700 in the 1st year",
+          "url": "https://www.lifescience-graduateschool.uzh.ch/en/application/faq.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A Master's (or equivalent) is required; a Bachelor's, B.Tech or BSc (Hons) is not accepted. You may apply if you will finish your Master's within 6 months of the deadline.",
+      "quote": "Unfortunately, our universities do not consider a Bachelor's Degree/B.Tech/B.Sc (Hons) as equivalent to a Masters and therefore an application is not possible.",
+      "url": "https://www.lifescience-graduateschool.uzh.ch/en/application/faq.html"
+    }
+  },
+  "notes": "LSZGS runs about 17-19 joint ETH/UZH PhD programmes (e.g. Molecular Life Sciences, Systems Biology, Microbiology and Immunology, Biomedicine, Cancer Biology). The LSZGS charges no application fee, but ETH's CHF 150 registration fee applies when you enrol at ETH. English proof (IELTS/TOEFL/CPE) is recommended but not mandatory.",
+  "name": "Life Science Zurich Graduate School (with UZH)"
+}

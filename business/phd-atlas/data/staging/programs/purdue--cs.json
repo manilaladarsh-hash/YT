@@ -1,0 +1,55 @@
+{
+  "id": "purdue--cs",
+  "university": "purdue",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.cs.purdue.edu/graduate/admission/faq-application.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026 for the fall cohort (spring cohort: October 1). Late applications are not guaranteed a review.",
+      "quote": "Fall cohort: application deadline is December 1",
+      "url": "https://www.cs.purdue.edu/graduate/admission/faq-application.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no GRE Subject test for CS.",
+      "quote": "",
+      "url": "https://www.cs.purdue.edu/graduate/admission/faq-application.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You do not need to find a faculty advisor before admission.",
+      "quote": "Do I need to secure a faculty advisor before admission? | No, there is no need to secure a faculty advisor prior to admission.",
+      "url": "https://cs.purdue.edu/graduate/admission/faq.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Fellowships and assistantships are offered to top PhD applicants without a separate application; admission without funding is possible.",
+      "quote": "Financial support of fellowships, research assistantships and teaching assistantships are offered to top applicants with a doctoral degree objective.",
+      "url": "https://www.cs.purdue.edu/graduate/admission/faq-application.html",
+      "also": [
+        {
+          "quote": "If admitted for PhD, you will automatically be considered for financial support in the form of fellowships, teaching assistantships, and research assistantships. | However, admission without financial support is possible.",
+          "url": "https://cs.purdue.edu/graduate/admission/process.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "You need a four-year bachelor's (or equivalent) before you enrol; a master's is not required.",
+      "quote": "Applicants must have received a four-year bachelor's or equivalent degree before the term they intend to enroll into our program.",
+      "url": "https://cs.purdue.edu/graduate/admission/requirements.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required.",
+      "quote": "GRE scores are not required by the CS Admissions Committee.",
+      "url": "https://www.cs.purdue.edu/graduate/admission/faq-application.html"
+    }
+  },
+  "notes": "CS considers TOEFL 100 (sections 22+) or IELTS 7.5 competitive, but university minimums are enough to apply. CS does not grant its own fee waivers or Discover Purdue nominations, though some university waiver programs are honoured. First-year stipend quoted for 2023-24: $23,389 (academic year)."
+}

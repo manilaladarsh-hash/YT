@@ -1,0 +1,54 @@
+{
+  "id": "utoronto--materials",
+  "university": "utoronto",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Department of Materials Science & Engineering",
+  "program_page": "https://mse.utoronto.ca/future/graduate/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "MASc and PhD applications for September 2027 close February 1, 2027 (domestic and international). Late applications only with written backing from an MSE supervisor.",
+      "quote": "MASc and PhD Programs | Application deadline for Fall start (September 2027) | February 1, 2027",
+      "url": "https://mse.utoronto.ca/future/graduate/"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE is not required and should not be submitted.",
+      "quote": "No. GRE scores are not required for application to graduate studies in Materials Science & Engineering at the University of Toronto. | do not submit GRE scores",
+      "url": "https://mse.utoronto.ca/future/graduate/"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "No GRE scores are used.",
+      "quote": "do not submit GRE scores",
+      "url": "https://mse.utoronto.ca/future/graduate/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A supervisor must be secured before admission. You can apply without one (eligible files are shared with professors), but contacting MSE professors first is encouraged.",
+      "quote": "MASc, PhD: must be identified/secured before admission",
+      "url": "https://www.sgs.utoronto.ca/programs/materials-science-and-engineering/",
+      "also": [
+        {
+          "quote": "Prior to applying for MASc or PhD, students are encouraged to contact professors within the MSE department to determine whether or not they have the resources, interest or relevant research focus to accept you as a graduate student.",
+          "url": "https://mse.utoronto.ca/future/graduate/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Guaranteed funding for the normal program length: 4 years for PhD, 5 for direct-entry PhD.",
+      "quote": "MASc and PhD students are guaranteed funding to support them for the normal program length (e.g., 2 years for MASc, 4 years for PhD, 5 years for direct PhD entry.)",
+      "url": "https://mse.utoronto.ca/future/graduate/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "PhD normally needs a research master's in engineering (B+); direct entry from a bachelor's is possible with an A- in the final four sessions.",
+      "quote": "PhD: Yes A- over the final four sessions of undergraduate studies",
+      "url": "https://www.sgs.utoronto.ca/programs/materials-science-and-engineering/"
+    }
+  },
+  "notes": "Applicants with science (not only engineering) backgrounds are considered."
+}

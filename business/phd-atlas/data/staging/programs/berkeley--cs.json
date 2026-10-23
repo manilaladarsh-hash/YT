@@ -1,0 +1,51 @@
+{
+  "id": "berkeley--cs",
+  "university": "berkeley",
+  "field": "cs",
+  "also_fields": [
+    "ece"
+  ],
+  "department": "Department of Electrical Engineering and Computer Sciences (EECS)",
+  "program_page": "https://eecs.berkeley.edu/academics/graduate/research-programs/admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026, 8:59 pm Pacific; late applications or materials are not accepted.",
+      "quote": "The deadline to apply is December 1, 2026, at 8:59 pm PST.",
+      "url": "https://eecs.berkeley.edu/academics/graduate/research-programs/admissions/"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "EECS neither requires nor accepts GRE scores.",
+      "quote": "Please note that Berkeley EECS no longer requires, nor accepts, GRE scores.",
+      "url": "https://eecs.berkeley.edu/academics/graduate/research-programs/admissions/"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "GRE scores of any kind are not accepted.",
+      "quote": "The GRE is no longer required nor accepted.",
+      "url": "https://eecs.berkeley.edu/academics/graduate/faq-3/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You do not need to contact faculty or find an advisor before applying; list faculty of interest on the application.",
+      "quote": "No, you do not need to contact faulty or establish an advisor in order to apply.",
+      "url": "https://eecs.berkeley.edu/academics/graduate/faq-3/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All incoming PhD and MS/PhD students are offered financial support.",
+      "quote": "All incoming students to our doctoral programs (MS/PhD and PhD) and some incoming students to our two-year MS program are offered support",
+      "url": "https://eecs.berkeley.edu/academics/graduate/faq-3/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "You can enter the PhD from a bachelor's (5-6 years) or a master's (3-5 years).",
+      "quote": "Full-time Commitment: 5-6 years (starting with a Bachelor’s), 3-5 years (starting with a Master’s)",
+      "url": "https://eecs.berkeley.edu/academics/graduate/research-programs/admissions/"
+    }
+  },
+  "notes": "One EECS application covers the separate EE and CS PhD degrees; applicants choose PhD or MS/PhD.",
+  "name": "EECS PhD (Computer Science / Electrical Engineering)"
+}

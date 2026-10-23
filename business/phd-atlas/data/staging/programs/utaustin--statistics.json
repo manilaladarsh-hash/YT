@@ -1,0 +1,62 @@
+{
+  "id": "utaustin--statistics",
+  "university": "utaustin",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Statistics and Data Sciences",
+  "program_page": "https://stat.utexas.edu/academics/phd-statistics/phd-statistics-admissions-process",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The department's admissions page says all materials are due December 1 (2026 for Fall 2027); the Graduate School's program list says December 15. Apply by December 1 to be safe. Fall entry only.",
+      "quote": "Applications to the Ph.D. in Statistics program are due by December 1. Newly admitted students enter the program in the fall only.",
+      "url": "https://stat.utexas.edu/academics/phd-statistics/phd-statistics-admissions-process",
+      "inferred": "year",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Statistics (665400) ... Ph.D. Fall only; Dec. 15",
+          "url": "https://graduate.utexas.edu/degrees-programs"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE General test is required for Fall 2027 admission.",
+      "quote": "The GRE will be required for Fall 2027 admissions.",
+      "url": "https://stat.utexas.edu/academics/phd-statistics/phd-statistics-admissions-process"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned.",
+      "quote": "",
+      "url": "https://stat.utexas.edu/academics/phd-statistics/phd-statistics-admissions-process"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by the program's faculty admissions committee; students work with several faculty before choosing an advisor.",
+      "quote": "Admissions to the Ph.D. in Statistics program is overseen by the Admissions Committee that is composed of experienced faculty members",
+      "url": "https://stat.utexas.edu/academics/phd-statistics/phd-statistics-admissions-process"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted PhD students are guaranteed five years of support through teaching or research assistantships (tuition plus stipend), subject to satisfactory progress.",
+      "quote": "Some students are able to finish the program in four years, but all admitted students are guaranteed five years of financial support.",
+      "url": "https://stat.utexas.edu/academics/phd-statistics",
+      "also": [
+        {
+          "quote": "Financial support will consist of an assistantship with either teaching or research duties.",
+          "url": "https://stat.utexas.edu/academics/phd-statistics/phd-statistics-funding"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Apply with a master's in statistics/biostatistics or a bachelor's in mathematics, statistics or a closely related field, with calculus-based probability and introductory statistics.",
+      "quote": "An earned master’s degree in Applied Statistics, Mathematical Statistics, Biostatistics, or an equivalent to any of these from an accredited college or university OR | An earned bachelor’s degree in Mathematics, Statistics, or a course of study that satisfactorily covers many of the key subjects in these degrees",
+      "url": "https://stat.utexas.edu/academics/phd-statistics/phd-statistics-admissions-process"
+    }
+  },
+  "notes": "Average GPA of recent admits is 3.80/4.0; a Mathematics Preparation Form is required."
+}

@@ -1,0 +1,54 @@
+{
+  "id": "berkeley--math",
+  "university": "berkeley",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://math.berkeley.edu/programs/graduate/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by Tuesday, December 1, 2026, 8:59 pm Pacific, for Fall 2027 (fall intake only).",
+      "quote": "The deadline to apply is Tuesday, December 1st, 2026 at 8:59pm Pacific Time.",
+      "url": "https://math.berkeley.edu/programs/graduate/admissions"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "Only the Mathematics Subject GRE is required; you may also submit the General GRE.",
+      "quote": "You may still submit other GRE results, such as the General exam; however, only the subject test in Mathematics is required.",
+      "url": "https://math.berkeley.edu/programs/graduate/admissions"
+    },
+    "gre_subject": {
+      "code": "Required",
+      "value": "The Mathematics Subject GRE is required for Fall 2027; a low score makes admission very unlikely.",
+      "quote": "For the Fall 2027 Admissions Cycle, the Mathematics Subject GRE will be required.",
+      "url": "https://math.berkeley.edu/programs/graduate/admissions",
+      "also": [
+        {
+          "quote": "it is very unlikely that an applicant with a low GRE score will be admitted.",
+          "url": "https://math.berkeley.edu/programs/graduate/admissions"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by the department's Graduate Admissions Committee; no supervisor agreement is needed.",
+      "quote": "Applicants for admission are considered by the department's Graduate Admissions Committee.",
+      "url": "https://math.berkeley.edu/programs/graduate/admissions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The department pledges at least 5 years of funding to incoming PhD students, subject to good progress and satisfactory teaching.",
+      "quote": "The Department pledges incoming PhD students sufficient financial support so that they have funding for at least 5 years of graduate study at Berkeley, subject to the student making good progress toward the degree and satisfactory performance of all teaching duties.",
+      "url": "https://math.berkeley.edu/programs/graduate/financial-aid"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants are expected to have preparation comparable to a Berkeley undergraduate major in mathematics or applied mathematics.",
+      "quote": "Applicants for admission to either Ph.D. program are expected to have preparation comparable to the undergraduate major at Berkeley in Mathematics or in Applied Mathematics.",
+      "url": "https://math.berkeley.edu/programs/graduate/admissions"
+    }
+  },
+  "notes": "One admissions process covers the PhD in Mathematics and the PhD in Applied Mathematics."
+}

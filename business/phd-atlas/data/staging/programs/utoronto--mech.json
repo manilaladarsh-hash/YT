@@ -1,0 +1,56 @@
+{
+  "id": "utoronto--mech",
+  "university": "utoronto",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical & Industrial Engineering",
+  "program_page": "https://www.mie.utoronto.ca/programs/graduate/phd/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "For September 2027 entry, submit and pay by January 1 (window opens October 1); documents by January 15. Same dates for international applicants.",
+      "quote": "September start: | Application window: October 1 - January 1 (application fee deadline) | Document deadline January 15",
+      "url": "https://www.mie.utoronto.ca/programs/graduate/phd/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE requirement is mentioned.",
+      "quote": "",
+      "url": "https://www.mie.utoronto.ca/programs/graduate/phd/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admission is granted only once a professor agrees to supervise (and fund) you; contact MIE faculty before or after applying.",
+      "quote": "Students should actively pursue confirming a supervisor as admission can only be granted to students who have secured a supervisor. | PhD applicants are strongly encouraged to contact professors with whom they would like to work, either before or after submitting an application.",
+      "url": "https://www.mie.utoronto.ca/programs/graduate/phd/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted full-time PhD students get tuition and fees covered plus at least CAD 26,000 a year for 4 years (5 for direct entry); admission depends on a professor or scholarship providing that funding.",
+      "quote": "Registered PhD candidates receive enough funding to cover tuition and incidental fees. In addition, PhD candidates receive a minimum of $26,000 per year for up to four years (5 years for PhD direct-entry and fast-track students).",
+      "url": "https://www.mie.utoronto.ca/programs/graduate/phd/",
+      "also": [
+        {
+          "quote": "these students must be funded, either by external scholarships or by a professor's research funds",
+          "url": "https://www.mie.utoronto.ca/programs/graduate/phd/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A master's is typical; exceptional bachelor's graduates (A- or higher) can enter the PhD directly if nominated by an MIE professor.",
+      "quote": "Students entering the PhD program typically have a Master’s degree. | Exceptionally strong applicants (GPA: A- or higher) with a bachelor's degree may be nominated by an MIE professor for direct entry to the PhD program.",
+      "url": "https://www.mie.utoronto.ca/programs/graduate/phd/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "The page conflicts: one section accepts official proof of English instruction, but the application section says MIE requires a test from non-exempt countries such as India even if instruction was in English. Plan to take TOEFL/IELTS.",
+      "quote": "MIE requires proof of ELP even if their language of instruction and examination was English. | the applicant can provide official documentation from their admitting institution that instruction was in English",
+      "url": "https://www.mie.utoronto.ca/programs/graduate/phd/",
+      "conflict": true
+    }
+  },
+  "notes": "Two academic references, at least one a previous thesis supervisor. Aerospace research is in the separate UTIAS PhD (Aerospace Science and Engineering)."
+}

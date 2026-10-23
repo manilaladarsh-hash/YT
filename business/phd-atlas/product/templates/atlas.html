@@ -102,10 +102,10 @@ button:focus-visible, input:focus-visible, select:focus-visible, summary:focus-v
 .meta { color: var(--muted); font-size: .83rem; line-height: 1.35; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 .star { font-size: 1.25rem; line-height: 1; padding: 4px 8px; border-radius: 8px; background: transparent; }
 .star[aria-pressed="true"] { color: var(--star); border-color: var(--star); }
-.facts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; }
+.facts { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1.3fr); gap: 6px; }
 .fact { background: var(--panel-2); border: 1px solid var(--line-2); border-radius: 9px; padding: 6px 8px; min-width: 0; text-align: left; }
 .fact small { display: block; color: var(--muted); font-size: .7rem; text-transform: uppercase; letter-spacing: .04em; }
-.fact span { display: block; font-weight: 600; font-size: .86rem; line-height: 1.3; overflow-wrap: anywhere; }
+.fact span { display: block; font-weight: 600; font-size: .86rem; line-height: 1.3; overflow-wrap: break-word; }
 .fact em { display: block; font-style: normal; font-size: .72rem; line-height: 1.3; color: var(--muted); margin-top: 1px; }
 .fact em.soon { color: var(--bad); font-weight: 600; }
 .fact.t-good span { color: var(--good); } .fact.t-bad span { color: var(--bad); } .fact.t-warn span { color: var(--warn); }
@@ -236,7 +236,7 @@ footer { max-width: 1400px; margin: 0 auto; padding: 6px 16px 34px; color: var(-
   <section id="view-find" role="tabpanel" aria-labelledby="tab-find" hidden>
     <div class="layout">
       <details class="panel situation" id="situation" open>
-        <summary><span>Your situation</span><small id="sitCount">tell us, and every program shows how it fits</small></summary>
+        <summary><span>Your situation</span><small id="sitCount"></small></summary>
         <div class="sit-body" id="sitBody"></div>
       </details>
       <div>
@@ -260,7 +260,7 @@ footer { max-width: 1400px; margin: 0 auto; padding: 6px 16px 34px; color: var(-
           <button class="opt" type="button" data-quick="soon" aria-pressed="false">Closing in 6 weeks</button>
           <button class="opt" type="button" data-quick="funded" aria-pressed="false">Guaranteed funding</button>
           <button class="opt" type="button" data-quick="hideobs" aria-pressed="false">Hide obstacles</button>
-          <button class="opt" type="button" data-quick="starred" aria-pressed="false">★ Shortlist only</button>
+          <button class="opt" type="button" data-quick="starred" aria-pressed="false">★ In my plan</button>
         </div>
         <div class="summary" id="summary" aria-live="polite"></div>
         <div id="results"></div>
@@ -286,7 +286,7 @@ footer { max-width: 1400px; margin: 0 auto; padding: 6px 16px 34px; color: var(-
   <div class="d-body" id="dBody"></div>
 </dialog>
 
-<footer><p id="foot"></p><p>Not affiliated with any university. Always confirm on the official page before you pay or submit. Nothing here is immigration, visa or legal advice.</p></footer>
+<footer><p id="foot"></p><p>Not affiliated with any university. Confirm on the official page before you pay or submit. Not immigration, visa or legal advice.</p></footer>
 
 <script>
 "use strict";
@@ -340,6 +340,7 @@ let quick = new Set();
 let shown = PAGE, view = store.get("atlas2-view", "cards");
 
 /* ---------- dates, money ---------- */
+function lc(s) { return s.replace(/^[A-Z](?=[a-z])/, c => c.toLowerCase()); }
 function isDate(s) { return /^\d{4}-\d{2}-\d{2}$/.test(s); }
 function todayIso() { const d = new Date(); return new Date(d.getTime() - d.getTimezoneOffset() * 60000).toISOString().slice(0, 10); }
 function daysLeft(iso) { return Math.round((new Date(iso + "T00:00:00") - new Date(todayIso() + "T00:00:00")) / DAY); }
@@ -468,14 +469,13 @@ function saveProfile() { store.set("atlas2-profile", profile); shown = PAGE; ren
 function optButton(text, pressed, onclick, n) {
   return el("button", { class: "opt", type: "button", "aria-pressed": pressed ? "true" : "false", onclick }, text, n !== undefined ? el("span", { class: "n", text: n }) : null);
 }
-function single(key, label, options, help) {
+function single(key, label, options) {
   const fs = el("fieldset", { class: "q" }, el("legend", { text: label }));
   const box = el("div", { class: "opts" });
   for (const [val, text] of options) {
     box.append(optButton(text, profile[key] === val, () => { profile[key] = profile[key] === val ? "" : val; saveProfile(); buildSituation(); }));
   }
   fs.append(box);
-  if (help) fs.append(el("div", { class: "hint", text: help }));
   return fs;
 }
 function buildSituation() {
@@ -495,7 +495,7 @@ function buildSituation() {
       }, counts[t.id]));
     }
   }
-  fs.append(box, el("div", { class: "hint", text: profile.fields.length ? "" : "None picked = all fields." }));
+  fs.append(box);
   body.append(fs);
   const rs = el("fieldset", { class: "q" }, el("legend", { text: "Where" }));
   const rbox = el("div", { class: "opts" });
@@ -505,14 +505,13 @@ function buildSituation() {
     rbox.append(optButton(reg, on, () => { profile.regions = on ? profile.regions.filter(x => x !== reg) : profile.regions.concat(reg); saveProfile(); buildSituation(); }, n));
   }
   rs.append(rbox); body.append(rs);
-  body.append(single("degree", "Your degree by mid-2027", [["bachelor", "Bachelor's (3–4 years)"], ["master", "Master's or 5-year integrated"]],
-    "A 5-year integrated BS-MS or MSc usually counts as a master's. Check each program."));
-  body.append(single("sgre", "GRE Subject test (Physics, Chemistry, Maths…)", [["yes", "I have it / will take it"], ["no", "I won't take it"]]));
+  body.append(single("degree", "Degree by 2027", [["bachelor", "Bachelor's (3–4 years)"], ["master", "Master's or 5-year integrated"]]));
+  body.append(single("sgre", "GRE Subject test", [["yes", "I have it / will take it"], ["no", "I won't take it"]]));
   body.append(single("ggre", "GRE General", [["yes", "I have it / will take it"], ["no", "I won't take it"]]));
   const eng = single("english", "English", [["test", "I have / will take TOEFL or IELTS"], ["avoid", "Use my English-medium degree"]]);
   if (profile.english === "test") {
     const sc = el("div", { class: "scores" });
-    for (const [k, lab, ph] of [["toefl", "TOEFL iBT (0–120)", "e.g. 100"], ["ielts", "IELTS overall", "e.g. 7"]]) {
+    for (const [k, lab, ph] of [["toefl", "TOEFL iBT", "100"], ["ielts", "IELTS", "7"]]) {
       const inp = el("input", { type: "number", inputmode: "decimal", min: "0", max: k === "toefl" ? "120" : "9", step: k === "toefl" ? "1" : "0.5", placeholder: ph, value: profile[k] || "" });
       inp.addEventListener("change", () => { profile[k] = inp.value; saveProfile(); });
       sc.append(el("label", {}, lab, inp));
@@ -525,13 +524,12 @@ function buildSituation() {
   body.append(single("supervisor", "Contacting supervisors first", [["ok", "Fine with it"], ["avoid", "Prefer programs that don't need it"]]));
   const n = answered();
   body.append(el("div", { class: "sit-foot" },
-    el("span", { class: "hint", text: "Saved on this device only." }),
     el("button", { type: "button", class: "ghost", onclick: () => { profile = { fields: [], regions: [], degree: "", sgre: "", ggre: "", english: "", toefl: "", ielts: "", fees: "", funding: "", supervisor: "" }; saveProfile(); buildSituation(); } }, "Clear all")));
   const parts = [];
   if (profile.fields.length) parts.push(profile.fields.length + (profile.fields.length === 1 ? " field" : " fields"));
   if (profile.regions.length) parts.push(profile.regions.join(", "));
   if (n) parts.push(n + (n === 1 ? " answer" : " answers"));
-  $("sitCount").textContent = parts.length ? parts.join(" · ") : "tell us, and every program shows how it fits";
+  $("sitCount").textContent = parts.join(" · ");
   $("sort").value = $("sort").value || "fit";
 }
 
@@ -587,13 +585,13 @@ function feeFact(p) {
 }
 function deadlineFact(p) {
   const d = p.f.deadline;
-  if (!isDate(d.code)) return { v: d.code === "Not stated" ? "Not stated" : d.code, s: d.code === "Per position" ? "apply to adverts" : d.code === "Rolling" ? "open now" : "", soon: false };
+  if (!isDate(d.code)) return { v: d.code, s: "", soon: false };
   const n = daysLeft(d.code);
   return { v: fmtDate(d.code, { day: "numeric", month: "short" }), s: leftText(n) + (d.inferred ? " · year inferred" : ""), soon: n >= 0 && n <= 21 };
 }
 function fundFact(p) {
   const c = p.f.funding.code;
-  return { v: c === "Not stated" ? "Not stated" : c, s: c === "Guaranteed" ? "all admitted" : c === "Typical" ? "most funded" : c === "Competitive" ? "apply for it" : "", t: c === "Guaranteed" ? "good" : "" };
+  return { v: c, s: "", t: c === "Guaranteed" ? "good" : "" };
 }
 function fact(label, x, k, p) {
   return el("button", { type: "button", class: "fact" + (x.t ? " t-" + x.t : ""), onclick: () => openDetail(p, k), title: "Show the official sentence" },
@@ -612,7 +610,7 @@ function metaText(p, full) {
 function fieldTag(p) {
   return el("div", { class: "ftag", style: "--gc: var(" + (GROUP_COLOR[p.group] || "--accent") + ")" }, p.fname, p.also.length ? el("span", { class: "also", text: " + " + p.also.join(", ") }) : null);
 }
-const FIT_TEXT = { match: "Strong match for you", check: "Check first", obstacle: "Obstacle for you" };
+const FIT_TEXT = { match: "Strong match", check: "Check first", obstacle: "Obstacle" };
 function card(p, ft) {
   const c = el("article", { class: "panel card" + (ft.status !== "none" ? " fit-" + ft.status : "") });
   c.append(el("div", { class: "card-top" }, el("div", {}, fieldTag(p), el("h3", { text: p.title }), el("div", { class: "meta", text: metaText(p, false) })), starBtn(p)));
@@ -636,8 +634,8 @@ function card(p, ft) {
     c.append(bs);
   }
   const unstated = FIELDS.filter(([k]) => p.f[k].code === "Not stated").map(([, n]) => n.replace(/ \(.*\)$/, ""));
-  if (unstated.length) c.append(el("div", { class: "unstated", text: "Not stated on official pages: " + unstated.join(", ") }));
-  c.append(el("div", { class: "card-foot" }, el("button", { type: "button", class: "ghost", onclick: () => openDetail(p) }, "Details and sources"),
+  if (unstated.length) c.append(el("div", { class: "unstated", text: "Not stated: " + unstated.join(", ") }));
+  c.append(el("div", { class: "card-foot" }, el("button", { type: "button", class: "ghost", onclick: () => openDetail(p) }, "Details"),
     el("a", { href: p.page, target: "_blank", rel: "noopener" }, "Program page ↗")));
   return c;
 }
@@ -672,11 +670,9 @@ function render(keepPage) {
   for (const [, ft] of list) if (counts[ft.status] !== undefined) counts[ft.status]++;
   const sum = $("summary"); sum.replaceChildren(el("span", {}, el("b", { text: list.length.toLocaleString("en-IN") }), " of " + P.length.toLocaleString("en-IN") + " programs"));
   if (answered()) {
-    sum.append(el("span", {}, el("i", { class: "dot good" }), counts.match + " strong matches"), el("span", {}, el("i", { class: "dot warn" }), counts.check + " to check"), el("span", {}, el("i", { class: "dot bad" }), counts.obstacle + " with an obstacle"));
-  } else {
-    sum.append(el("span", { text: "· answer “Your situation” to see what fits you" }));
+    sum.append(el("span", {}, el("i", { class: "dot good" }), counts.match + " match"), el("span", {}, el("i", { class: "dot warn" }), counts.check + " to check"), el("span", {}, el("i", { class: "dot bad" }), counts.obstacle + (counts.obstacle === 1 ? " obstacle" : " obstacles")));
   }
-  if (!list.length) { res.append(el("div", { class: "panel empty", text: "No programs match. Remove a field, a region or a quick filter." })); $("moreBtn").hidden = true; return; }
+  if (!list.length) { res.append(el("div", { class: "panel empty", text: "No programs match." })); $("moreBtn").hidden = true; return; }
   const page = list.slice(0, shown);
   if (view === "table" && matchMedia("(min-width: 921px)").matches) res.append(table(page));
   else { const g = el("div", { class: "cards" }); for (const [p, ft] of page) g.append(card(p, ft)); res.append(g); }
@@ -689,10 +685,11 @@ function render(keepPage) {
 /* ---------- detail ---------- */
 function flags(f) {
   const out = [];
-  if (f.inferred) out.push("year inferred from the day and month on the page");
+  const ts = f.time_sensitive && f.time_sensitive !== f.code ? f.time_sensitive : "";
+  if (f.inferred) out.push("year inferred");
   if (f.rolling) out.push("rolling review");
-  if (f.conflict) out.push("official pages disagree; we show the safer value");
-  if (f.time_sensitive) out.push("act by " + fmtDate(f.time_sensitive));
+  if (f.conflict) out.push("pages disagree; safer value shown");
+  if (ts) out.push("act by " + fmtDate(ts));
   if (f.scope) out.push(f.scope);
   return out;
 }
@@ -704,7 +701,7 @@ function openDetail(p, focusKey) {
   const ft = fit(p);
   if (ft.status !== "none") {
     const ul = el("ul", { class: "reasons" }); for (const r of ft.reasons) ul.append(el("li", { class: r.tone, text: r.text }));
-    body.append(el("div", { class: "d-sec", text: "For you: " + FIT_TEXT[ft.status] }), ul);
+    body.append(el("div", { class: "d-sec", text: FIT_TEXT[ft.status] }), ul);
   }
   const unstated = [];
   let focusRow = null;
@@ -715,18 +712,18 @@ function openDetail(p, focusKey) {
       if (f.code === "Not stated") { unstated.push(name); continue; }
       const val = el("div", {}, el("span", { class: "b b-" + tone(k, f.code), text: k === "deadline" && isDate(f.code) ? fmtDate(f.code) + " (" + leftText(daysLeft(f.code)) + ")" : f.code }),
         el("p", { text: f.value }));
-      if (k === "app_fee" && p.inr) val.append(el("p", { class: "hint", text: "About " + inr(p.inr) + (p.usd ? " (USD " + p.usd + ")" : "") + " at the " + A.fx.source + " rate of " + fmtDate(A.fx.date) + ". Your bank or card adds a margin." }));
+      if (k === "app_fee" && p.inr) val.append(el("p", { class: "hint", text: "≈ " + inr(p.inr) }));
       if (f.quote) val.append(el("blockquote", { text: "“" + f.quote + "”" }));
-      for (const a of (f.also || [])) val.append(el("blockquote", { text: "“" + a.quote + "”" }), el("a", { class: "src", href: a.url, target: "_blank", rel: "noopener", text: "Second source ↗" }));
+      val.append(el("a", { class: "src", href: f.url, target: "_blank", rel: "noopener", text: "Source ↗" }));
+      for (const a of (f.also || [])) val.append(el("blockquote", { text: "“" + a.quote + "”" }), el("a", { class: "src", href: a.url, target: "_blank", rel: "noopener", text: "Source ↗" }));
       const fl = flags(f); if (fl.length) val.append(el("span", { class: "flag", text: fl.join(" · ") }));
-      val.append(el("a", { class: "src", href: f.url, target: "_blank", rel: "noopener", text: "Official source ↗" }));
-      const row = el("div", { class: "row" }, el("div", { class: "k" }, name, el("span", { class: "lvl", text: p.lvl[k] === "university" ? "University-wide rule" : "Set by the program" })), val);
+      const row = el("div", { class: "row" }, el("div", { class: "k" }, name, p.lvl[k] === "university" ? el("span", { class: "lvl", text: "University-wide" }) : null), val);
       if (k === focusKey) focusRow = row;
       rows.push(row);
     }
     if (rows.length) body.append(el("div", { class: "d-sec", text: title }), ...rows);
   }
-  if (unstated.length) body.append(el("div", { class: "note-box" }, el("b", { text: "Not stated on the official pages we checked: " }), unstated.join(", ") + ". That is not a “no”. Ask the program before you rely on it."));
+  if (unstated.length) body.append(el("div", { class: "note-box" }, el("b", { text: "Not stated: " }), unstated.join(", ")));
   if (p.notes) body.append(el("div", { class: "d-sec", text: "Notes" }), el("p", { text: p.notes }));
   body.append(el("p", { class: "hint" }, "Checked " + fmtDate(p.checked) + " · ", el("a", { href: p.page, target: "_blank", rel: "noopener", text: "Program page ↗" }), " · ",
     el("a", { href: A.urls[p.u.g], target: "_blank", rel: "noopener", text: "Graduate admissions page ↗" })));
@@ -757,7 +754,7 @@ function tasks(p) {
   out.push(["sop", "Tailor your statement of purpose to this program"]);
   if (fee !== "Not stated" && !fee.startsWith("0")) out.push(["fee", "Pay the application fee (" + (p.inr ? inr(p.inr) : fee) + ") unless waived"]);
   out.push(["submit", isDate(dl.code) ? "Submit by " + fmtDate(dl.code) : dl.code === "Per position" ? "Find and apply to an advertised position" : dl.code === "Rolling" ? "Submit early (rolling review)" : "Find the deadline on the program page"]);
-  const ns = FIELDS.filter(([k]) => f[k].code === "Not stated").map(([, n]) => n.replace(/ \(.*\)$/, "").toLowerCase());
+  const ns = FIELDS.filter(([k]) => f[k].code === "Not stated").map(([, n]) => lc(n.replace(/ \(.*\)$/, "")));
   if (ns.length) out.push(["ask", "Ask the program about: " + ns.join(", ")]);
   return out;
 }
@@ -768,7 +765,7 @@ function planEvents(list) {
     if (isDate(dl.code)) ev.push({ date: dl.code, p, what: "Application deadline" + (dl.inferred ? " (year inferred)" : "") });
     for (const [k, n] of FIELDS) {
       const ts = p.f[k].time_sensitive;
-      if (ts && !(k === "deadline" && ts === dl.code)) ev.push({ date: ts, p, what: "Act by: " + n.replace(/ \(.*\)$/, "").toLowerCase() });
+      if (ts && !(k === "deadline" && ts === dl.code)) ev.push({ date: ts, p, what: "Act by: " + lc(n.replace(/ \(.*\)$/, "")) });
     }
   }
   return ev.sort((a, b) => a.date.localeCompare(b.date) || a.p.label.localeCompare(b.p.label));
@@ -777,8 +774,7 @@ function renderPlan() {
   const v = $("view-plan"); v.replaceChildren();
   const list = P.filter(p => stars.has(p.id));
   if (!list.length) {
-    v.append(el("div", { class: "panel empty" }, el("p", {}, el("b", { text: "Your plan is empty." })),
-      el("p", { text: "Tap ☆ on any program in Find programs. Your plan then shows every deadline in date order, the total fees in rupees and a checklist per program, and you can download it all to your calendar." }),
+    v.append(el("div", { class: "panel empty" }, el("p", { text: "Tap ☆ on a program to add it here." }),
       el("button", { type: "button", class: "primary", onclick: () => showTab("find") }, "Find programs")));
     return;
   }
@@ -788,18 +784,17 @@ function renderPlan() {
   const unknownFee = list.filter(p => p.inr === null || p.inr === undefined).length;
   const allT = list.flatMap(p => tasks(p).map(([k]) => p.id + ":" + k)), doneN = allT.filter(k => done[k]).length;
   v.append(el("div", { class: "plan-grid" },
-    el("div", { class: "panel stat" }, el("small", { text: "Programs" }), el("b", { text: list.length }), el("span", { text: [...new Set(list.map(p => p.fname))].length + " fields · " + [...new Set(list.map(p => p.country))].length + " countries" })),
-    el("div", { class: "panel stat" }, el("small", { text: "Next deadline" }), el("b", { text: dated.length ? fmtDate(dated[0].f.deadline.code, { day: "numeric", month: "short" }) : "—" }), el("span", { text: dated.length ? dated[0].label + " · " + leftText(daysLeft(dated[0].f.deadline.code)) : "no dated deadlines ahead" })),
-    el("div", { class: "panel stat" }, el("small", { text: "Application fees" }), el("b", { text: inr(total) }), el("span", { text: (waivable.length ? waivable.length + " offer a waiver route (up to " + inr(waivable.reduce((s, p) => s + p.inr, 0)) + ")" : "no waiver routes on your list") + (unknownFee ? " · " + unknownFee + " not stated" : "") })),
+    el("div", { class: "panel stat" }, el("small", { text: "Programs" }), el("b", { text: list.length })),
+    el("div", { class: "panel stat" }, el("small", { text: "Next deadline" }), el("b", { text: dated.length ? fmtDate(dated[0].f.deadline.code, { day: "numeric", month: "short" }) : "—" }), el("span", { text: dated.length ? dated[0].label + " · " + leftText(daysLeft(dated[0].f.deadline.code)) : "" })),
+    el("div", { class: "panel stat" }, el("small", { text: "Application fees" }), el("b", { text: inr(total) }), el("span", { text: [waivable.length ? inr(waivable.reduce((s, p) => s + p.inr, 0)) + " waivable" : "", unknownFee ? unknownFee + " not stated" : ""].filter(Boolean).join(" · ") })),
     el("div", { class: "panel stat" }, el("small", { text: "Checklist" }), el("b", { text: doneN + " / " + allT.length }), el("div", { class: "progress" }, el("i", { style: "width:" + (allT.length ? Math.round(100 * doneN / allT.length) : 0) + "%" })))));
   v.append(el("div", { class: "plan-actions" },
-    el("button", { type: "button", class: "primary", onclick: () => downloadIcs(list) }, "Add deadlines to my calendar (.ics)"),
-    el("button", { type: "button", onclick: () => downloadCsv(list) }, "Download as spreadsheet (.csv)"),
+    el("button", { type: "button", class: "primary", onclick: () => downloadIcs(list) }, "Add to calendar (.ics)"),
+    el("button", { type: "button", onclick: () => downloadCsv(list) }, "Spreadsheet (.csv)"),
     el("button", { type: "button", onclick: () => window.print() }, "Print")));
   const tl = el("div", { class: "panel timeline" }, el("div", { class: "d-sec", text: "Timeline" }));
   let month = "";
   const ev = planEvents(list);
-  if (!ev.length) tl.append(el("p", { class: "hint", text: "None of your programs has a fixed date. They are rolling or per-position; see each checklist." }));
   for (const e of ev) {
     const m = fmtDate(e.date, { month: "long", year: "numeric" });
     if (m !== month) { tl.append(el("div", { class: "tl-month", text: m })); month = m; }
@@ -810,7 +805,7 @@ function renderPlan() {
   const undated = list.filter(p => !isDate(p.f.deadline.code));
   if (undated.length) tl.append(el("div", { class: "tl-month", text: "No fixed date" }), ...undated.map(p => el("div", { class: "tl-item" }, el("span", { class: "when", text: p.f.deadline.code }), el("span", {}, el("b", { text: p.label })), el("span"))));
   v.append(tl);
-  v.append(el("div", { class: "d-sec", text: "Checklist per program" }));
+  v.append(el("div", { class: "d-sec", text: "Checklists" }));
   const byDate = list.slice().sort((a, b) => (isDate(a.f.deadline.code) ? a.f.deadline.code : "9") .localeCompare(isDate(b.f.deadline.code) ? b.f.deadline.code : "9"));
   for (const p of byDate) {
     const box = el("div", { class: "panel todo" });
@@ -823,7 +818,7 @@ function renderPlan() {
       cb.addEventListener("change", () => { if (cb.checked) done[key] = 1; else delete done[key]; store.set("atlas2-done", done); renderPlan(); });
       ul.append(el("li", { class: done[key] ? "done" : "" }, el("label", {}, cb, el("span", { text: text }))));
     }
-    box.append(ul, el("div", { class: "card-foot" }, el("button", { type: "button", class: "ghost", onclick: () => openDetail(p) }, "Details and sources"),
+    box.append(ul, el("div", { class: "card-foot" }, el("button", { type: "button", class: "ghost", onclick: () => openDetail(p) }, "Details"),
       el("button", { type: "button", class: "ghost", onclick: () => { stars.delete(p.id); store.set("atlas2-stars", [...stars]); $("starCount").textContent = stars.size; renderPlan(); } }, "Remove")));
     v.append(box);
   }
@@ -867,23 +862,22 @@ function renderGuide() {
   const g = $("guideBody"); g.replaceChildren();
   const ns = Math.round(100 * P.reduce((s, p) => s + FIELDS.filter(([k]) => p.f[k].code === "Not stated").length, 0) / (P.length * FIELDS.length));
   const sec = (h, ...items) => [el("h2", { text: h }), el("ul", {}, items.map(t => el("li", {}, t)))];
-  g.append(...sec("Where every value comes from",
-    "Each value is copied from an official university page, with the exact sentence and a link. Tap any value or “Details and sources” to read it.",
-    "Rules a graduate school sets for every department (application fee, fee waiver, GRE General, TOEFL, IELTS, English-test waiver) are marked “University-wide rule”. A program's own statement always takes priority over the university-wide one.",
-    "Data checked " + fmtDate(A.checked) + ". Programs can change rules mid-cycle, so open the official page before you pay or submit."));
+  g.append(...sec("Sources",
+    "Every value is copied from an official university page, with the exact sentence and a link. Tap any value to read it.",
+    "“University-wide” marks a rule the graduate school sets for every department. A program's own rule takes priority.",
+    "Checked " + fmtDate(A.checked) + ". Rules can change mid-cycle, so confirm on the official page before you pay or submit."));
   g.append(...sec("“Not stated”",
-    "It means the official pages we checked did not say. It is not a “no”. About " + ns + "% of all values are not stated; most are tests that a region rarely uses (for example the GRE in Europe) or fees a page leaves out.",
-    "Your plan's checklist lists what to ask each program."));
-  g.append(...sec("How “fit” works",
-    "Answer “Your situation” once. Each program then shows ✕ obstacles (a stated rule conflicts with your answers), ! things to check (a condition, or a rule that is not stated) and ✓ confirmed points.",
-    "Strong match: no obstacle and nothing to check for the questions you answered. Check first: no obstacle, but something to confirm. Obstacle: at least one stated rule works against you, though you can still read the program.",
-    "Outside the US and Canada, programs rarely use GRE scores, so a European, UK or Australian page that says nothing about the GRE is not counted against it.",
-    "Fit only covers what the official pages state. It can't judge your research fit or your chances. The Playbook covers those."));
+    "The official pages we checked did not say. It is not a “no”. About " + ns + "% of values are not stated, mostly tests a region rarely uses (such as the GRE in Europe).",
+    "Each checklist in My plan lists what to ask."));
+  g.append(...sec("Fit",
+    "✕ a stated rule conflicts with your answers. ! something to confirm. ✓ confirmed.",
+    "Outside the US and Canada, a page that says nothing about the GRE is not counted against the program.",
+    "Fit covers only what official pages state, not your research fit or your chances. The Playbook covers those."));
   g.append(...sec("Labels",
     "Year inferred: the page gave a day and month only; we assumed the 2026–27 cycle.",
-    "Per position: no central deadline; you apply to an advertised position (common in Europe).",
-    "Fees in ₹ are approximate, converted at the " + A.fx.source + " rate of " + fmtDate(A.fx.date) + " (1 USD ≈ ₹" + A.fx.usd_inr + "). Banks and cards add a margin."));
-  g.append(...sec("Privacy", "Everything stays on this device. The Atlas works offline and sends nothing anywhere. Your answers, shortlist and ticks are kept in this browser only, so clearing site data removes them."));
+    "Per position: no central deadline; apply to an advertised position.",
+    "₹ amounts are approximate (" + A.fx.source + ", " + fmtDate(A.fx.date) + "). Banks and cards add a margin."));
+  g.append(...sec("Privacy", "The Atlas works offline and sends nothing anywhere. Your answers, plan and ticks stay in this browser."));
 }
 
 /* ---------- tabs, init ---------- */
@@ -899,8 +893,8 @@ async function init() {
   try { A = await decode(PACKED); } catch (e) { $("loading").textContent = e.message || String(e); return; }
   prepare();
   const unis = new Set(P.map(p => p.uni)).size, fieldsN = new Set(P.flatMap(p => p.fieldsAll)).size;
-  $("tagline").textContent = P.length.toLocaleString("en-IN") + " PhD programs · " + fieldsN + (fieldsN === 1 ? " STEM field · " : " STEM fields · ") + unis + " universities · checked " + fmtDate(A.checked) + " · v" + A.version;
-  $("foot").textContent = "Version " + A.version + ". Every value links to the official sentence it came from. “Not stated” means the official pages checked did not say. Rupee amounts are approximate (" + A.fx.source + ", " + fmtDate(A.fx.date) + ").";
+  $("tagline").textContent = P.length.toLocaleString("en-IN") + " programs · " + fieldsN + (fieldsN === 1 ? " field · " : " fields · ") + unis + " universities · checked " + fmtDate(A.checked);
+  $("foot").textContent = "v" + A.version + " · ₹ via " + A.fx.source + ", " + fmtDate(A.fx.date) + " (1 USD ≈ ₹" + A.fx.usd_inr + ")";
   $("starCount").textContent = stars.size;
   buildSituation(); renderGuide();
   $("q").addEventListener("input", () => render());

@@ -1,0 +1,43 @@
+{
+  "id": "purdue--bme",
+  "university": "purdue",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Weldon School of Biomedical Engineering",
+  "program_page": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/biomedical-engineering/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "December 1, 2026 is the final fall deadline for the PhD (spring: September 15).",
+      "quote": "December 1 Final Deadline September 15 No Entry PhD and Thesis Master’s Programs",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/biomedical-engineering/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no GRE Subject test for biomedical engineering.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/biomedical-engineering/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/biomedical-engineering/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/biomedical-engineering/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/biomedical-engineering/"
+    }
+  },
+  "notes": "The engineering.purdue.edu department site could not be fetched (TLS failure), so funding and advisor rules are Not stated."
+}

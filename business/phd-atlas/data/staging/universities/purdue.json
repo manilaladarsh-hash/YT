@@ -1,0 +1,47 @@
+{
+  "id": "purdue",
+  "institution": "Purdue University (West Lafayette)",
+  "country": "USA",
+  "region": "Indiana",
+  "grad_page": "https://www.purdue.edu/academics/ogsps/admissions/how-to-apply/",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The application fee is USD 75 for international applicants (USD 60 for domestic); one application and fee covers up to two campuses or majors.",
+      "quote": "The graduate application fee is $60 (U.S. dollars) for domestic applicants and $75 (U.S. dollars) for international applicants. | With just one application and a single fee, you can apply to up to two different campuses or majors",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/how-to-apply/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Fee waivers are tied to recognised undergraduate achievement or Purdue-affiliated recruitment events; the economic-hardship waiver is only for US citizens and permanent residents.",
+      "quote": "Purdue provides application fee waivers to recognize outstanding undergraduate achievement, and engage prospective students in recruitment events where Purdue is affiliated. | Applicants who are U.S. citizens or permanent residents experiencing economic hardship may request a waiver of the application fee.",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/how-to-apply/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school does not require the GRE; each program sets its own GRE policy (see the program record).",
+      "quote": "Although the Graduate Record Examination (GRE) is not an Office of the Vice Provost for Graduate Students and Postdoctoral Scholars (OGSPS) admission requirement, many graduate programs require this test.",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/how-to-apply/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "TOEFL iBT 80 overall with section minimums (R19, L14, S18, W18) for tests taken before 21 January 2026; for tests on or after that date the minimum is 4.0 overall on the new 1-6 scale. Many programs set higher minimums.",
+      "quote": "Minimum TOEFL Scores Required by OGSPS for Admission (For exams taken before January 21, 2026) | Minimum Overall Required for Admission 80‡ | Minimum TOEFL Scores Required by OGSPS for Admission (For exams taken on or after January 21, 2026) | Minimum Overall Required for Admission 4.0‡ | Some graduate programs require higher minimum scores than those listed above",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/how-to-apply/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall (Reading 6.5, Listening 6.0, Speaking 6.0, Writing 5.5); some programs require more.",
+      "quote": "Minimum IELTS Scores Required by OGSPS for Admission | Minimum Overall Required for Admission 6.5",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/how-to-apply/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "The test waiver applies only to degrees from countries where English is the native language; India is not on Purdue's list, so Indian applicants need a TOEFL, IELTS or Duolingo score.",
+      "quote": "The OGSPS will routinely waive the English Proficiency testing requirements for applicants who have received a baccalaureate degree or graduate or professional degree, within the last 36 months prior to the time of recommendation for admission, from a school where English is the primary language of instruction in a country/location where English is the native language. | Official English-speaking countries/locations, in addition to the U.S., include",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/how-to-apply/"
+    }
+  },
+  "notes": "Duolingo English Test accepted (115 overall). From August 15, 2026, Indiana law adds review steps for applicants from certain countries (not India). Programs may set higher English minimums; see each program record."
+}

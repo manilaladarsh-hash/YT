@@ -1,0 +1,80 @@
+{
+  "id": "mit--civil",
+  "university": "mit",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil and Environmental Engineering (CEE)",
+  "program_page": "https://oge.mit.edu/programs/civil-and-environmental-engineering/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Apply by December 15, 2026, 11:59 PM US Eastern (application opens September 15). ELP waiver requests close December 1; OGE fee-waiver requests are due December 1.",
+      "quote": "Deadline: December 15 at 11:59 PM Eastern Time",
+      "url": "https://oge.mit.edu/programs/civil-and-environmental-engineering/",
+      "inferred": "year",
+      "time_sensitive": "2026-12-01"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE is optional; if sent it is considered (scores within five years).",
+      "quote": "CEE will no longer require GRE scores, and sending GRE scores for consideration is optional.",
+      "url": "https://oge.mit.edu/programs/civil-and-environmental-engineering/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies.",
+      "quote": "",
+      "url": "https://oge.mit.edu/programs/civil-and-environmental-engineering/"
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "CEE requires IELTS Academic 7.5 overall, higher than MIT's general 7.",
+      "quote": "International English Language Testing System (IELTS) Minimum score required: 7.5",
+      "url": "https://oge.mit.edu/programs/civil-and-environmental-engineering/",
+      "also": [
+        {
+          "quote": "The minimum score for the IELTS is 7.5 on the Academic exam.",
+          "url": "https://cee.mit.edu/education/graduate/graduate-admissions/"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "TOEFL iBT 100 (or 5 on the new band scale); Duolingo 135.",
+      "quote": "Minimum score required: 100 (iBT) or 5 (iBT26)",
+      "url": "https://oge.mit.edu/programs/civil-and-environmental-engineering/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "The CEE department site lists English-medium undergraduate education as grounds for a waiver (ticked in the application), but the OGE entry for CEE mentions only earlier qualifying scores; request it by December 1 and be ready to submit a score.",
+      "quote": "you are required to take the Cambridge English, TOEFL, or IELTS exam unless: 1) English is your first language, or 2) English was the language of instruction for your undergraduate education",
+      "url": "https://cee.mit.edu/education/graduate/graduate-admissions/",
+      "also": [
+        {
+          "quote": "applicants may request a waiver for the English language test requirement if you previously scored above the CEE minimum scores for TOEFL, DET, or IELTS prior to entering a graduate program in the US.",
+          "url": "https://oge.mit.edu/programs/civil-and-environmental-engineering/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Name the faculty you want to work with in your statement; CEE suggests asking your prospective faculty match about the GRE. Every CEE PhD student must have secured funding.",
+      "quote": "including the name(s) of faculty members with whom you would like to work. | You might consider asking your prospective faculty match if they have a preference.",
+      "url": "https://cee.mit.edu/education/graduate/graduate-admissions/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All students admitted to the SM/PhD track receive an RA or fellowship (tuition, health insurance, monthly stipend), depending on availability of funds.",
+      "quote": "All students admitted to the SM/PhD track receive Research Assistantships (RA) or Fellowships, depending on availability of such funds. | All students pursuing a Ph.D. in CEE must have secured funding.",
+      "url": "https://oge.mit.edu/programs/civil-and-environmental-engineering/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is required; admission is to the SM/PhD track.",
+      "quote": "All applicants to graduate programs in Civil and Environmental Engineering and the Interdepartmental Program in Transportation must hold a Bachelor’s degree.",
+      "url": "https://cee.mit.edu/education/graduate/graduate-admissions/"
+    }
+  },
+  "notes": "Covers civil and environmental engineering. Test scores must be verified by December 31, 2026; recommendation letters accepted until December 31."
+}

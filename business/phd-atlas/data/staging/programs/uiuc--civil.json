@@ -1,0 +1,61 @@
+{
+  "id": "uiuc--civil",
+  "university": "uiuc",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil and Environmental Engineering",
+  "program_page": "https://cee.illinois.edu/admissions/graduate/admission-requirements-and-process",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026 to be considered for fellowships, scholarships and RA positions; the final Fall 2027 deadline for international applicants is February 15, 2027.",
+      "quote": "Applicants who want to be considered for Fellowships, Scholarships, and Research Assistant positions should submit their complete application by: | December 1 for Fall terms | February 15 for International Applicants",
+      "url": "https://cee.illinois.edu/admissions/graduate/information-deadlines",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no civil engineering subject GRE.",
+      "quote": "",
+      "url": "https://cee.illinois.edu/admissions/graduate/admission-requirements-and-process"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE is optional but strongly recommended for all PhD applicants, to help admission and funding decisions; no minimum scores.",
+      "quote": "GRE test scores are currently optional for all CEE graduate school applicants. However, it is strongly recommended that the GRE test be submitted to help faculty with admission and funding decisions for all PhD applicants.",
+      "url": "https://cee.illinois.edu/admissions/graduate/admission-requirements-and-process"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "An English-medium degree does not exempt you unless your country is on the Graduate College exempt list (India is not).",
+      "quote": "If your country is not exempted, then English proficiency requirements must be met for admission to the CEE graduate programs, irrespective of medium of instruction.",
+      "url": "https://cee.illinois.edu/admissions/graduate/frequently-asked-questions-graduate-applicants"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "CEE pages say funding goes to applicants who match professors' research needs, but do not say a supervisor's agreement is needed to apply.",
+      "quote": "",
+      "url": "https://cee.illinois.edu/admissions/graduate/admission-requirements-and-process"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Grainger Engineering guarantees PhD students five years of fall/spring funding (tuition waiver and stipend); CEE notes departmental funding is very competitive at the application stage.",
+      "quote": "Grainger Engineering Ph.D. students in their first five years of enrollment are guaranteed a funded appointment for fall and spring that includes a full tuition waiver, a partial fee waiver, and a stipend.",
+      "url": "https://cee.illinois.edu/admissions/graduate/graduate-funding",
+      "also": [
+        {
+          "quote": "Only the most talented applicants who match the research needs of our professors receive funding from CEE.",
+          "url": "https://cee.illinois.edu/admissions/graduate/graduate-funding"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "With a bachelor's you can apply to the Direct PhD; with a master's you apply to the PhD.",
+      "quote": "Students with a Bachelor of Science (B.S.) degree or the equivalent from an accredited college in the United States or a recognized institution of higher learning abroad are eligible to apply to one of the CEE Master's or Direct Ph.D. programs.",
+      "url": "https://cee.illinois.edu/admissions/graduate/admission-requirements-and-process"
+    }
+  },
+  "notes": "IELTS official scores are verified by the department from an unofficial upload."
+}

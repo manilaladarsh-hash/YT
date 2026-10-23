@@ -1,0 +1,73 @@
+{
+  "id": "utaustin--bme",
+  "university": "utaustin",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biomedical Engineering",
+  "program_page": "https://bme.utexas.edu/academics/graduate-program/admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The Graduate School lists a December 1 deadline (2026 for Fall 2027), fall only; the deadline is absolute and incomplete applications are not fully considered.",
+      "quote": "Biomedical Engineering (614800) ... MSE, Ph.D. Fall only; Dec. 1",
+      "url": "https://graduate.utexas.edu/degrees-programs",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "The deadline is absolute, and we cannot grant extensions due to the condensed timeline of the admission process.",
+          "url": "https://bme.utexas.edu/academics/graduate-program/admissions/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE scores are not considered.",
+      "quote": "GRE scores are not considered in the admissions process.",
+      "url": "https://bme.utexas.edu/academics/graduate-program/admissions/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies.",
+      "quote": "",
+      "url": "https://bme.utexas.edu/academics/graduate-program/admissions/"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "Recommended (not strict minimum) scores: TOEFL 100+, Duolingo 135+, IELTS 7.0+.",
+      "quote": "Recommended scores are 100 or greater on the TOEFL, 135 or greater on the Duolingo English Test, and 7.0 or greater on the IELTS.",
+      "url": "https://bme.utexas.edu/academics/graduate-program/admissions/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS 7.0 or higher is recommended.",
+      "quote": "7.0 or greater on the IELTS",
+      "url": "https://bme.utexas.edu/academics/graduate-program/admissions/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Direct Admit: after an interview weekend, faculty choose applicants for their labs; admission comes with a confirmed advisor.",
+      "quote": "At UT Austin BME, we use a Direct Admit process to match Ph.D. applicants with faculty advisors during admissions. | After the event, faculty select applicants they wish to directly admit into their research group.",
+      "url": "https://bme.utexas.edu/academics/graduate-program/admissions/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Matched PhD students receive a full funding package with admission (about 95% of doctoral students have full support), subject to funds and progress.",
+      "quote": "Matched students receive admission to the Ph.D. program, a full funding package and a confirmed spot in a faculty lab.",
+      "url": "https://bme.utexas.edu/academics/graduate-program/admissions/",
+      "also": [
+        {
+          "quote": "The vast majority of doctoral students—approximately 95%—receive full financial support through teaching assistantships, graduate research assistantships or a variety of UT Austin and external fellowships.",
+          "url": "https://bme.utexas.edu/academics/graduate-program/funding/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's in a field compatible with biomedical engineering is enough; a master's is not required.",
+      "quote": "Doctoral applicants should possess a bachelor’s degree in an area compatible with the field of biomedical engineering. | A master’s degree is not required to apply.",
+      "url": "https://bme.utexas.edu/academics/graduate-program/admissions/"
+    }
+  },
+  "notes": "Spring doctoral entry only by faculty nomination. The admissions page still describes the 'fall 2026' cycle."
+}

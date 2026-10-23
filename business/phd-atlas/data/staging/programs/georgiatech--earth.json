@@ -1,0 +1,69 @@
+{
+  "id": "georgiatech--earth",
+  "university": "georgiatech",
+  "field": "earth",
+  "also_fields": [
+    "environment"
+  ],
+  "department": "School of Earth and Atmospheric Sciences",
+  "program_page": "https://eas.gatech.edu/graduate/graduate-application-requirements",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "EAS gives 1 January as the application deadline; the Georgia Tech portal lists 5 January 2027 for the Fall 2027 PhD. Review starts mid-January.",
+      "quote": "it is important that prospective students contact potential advisors to determine if their research interests and backgrounds are aligned well before the application deadline: January 1.",
+      "url": "https://eas.gatech.edu/graduate/graduate-application-requirements",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Earth & Atmospheric Science Earth and Atmospheric Sciences Sciences Atlanta Doctoral Fall 2026 Fall 2027 01/05/2026 01/05/2027",
+          "url": "https://grad.gatech.edu/degree-programs"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required.",
+      "quote": "The GRE is not required for our program.",
+      "url": "https://eas.gatech.edu/graduate/graduate-application-requirements"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no GRE Subject test for earth sciences and the pages do not mention one.",
+      "quote": "",
+      "url": "https://eas.gatech.edu/graduate/graduate-application-requirements"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Contact potential advisors well before the deadline to check fit; admitted students get a temporary advisor and choose a permanent one by the end of the first semester.",
+      "quote": "it is important that prospective students contact potential advisors to determine if their research interests and backgrounds are aligned well before the application deadline",
+      "url": "https://eas.gatech.edu/graduate/graduate-application-requirements",
+      "also": [
+        {
+          "quote": "All incoming students are assigned to a temporary faculty advisor until the end of the first semester.",
+          "url": "https://www.eas.gatech.edu/graduate-application-process"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All enrolled graduate students receive financial support, normally a GRA or GTA; the EAS stipend is USD 37,500 a year with tuition paid. Admission is competitive because it is limited by assistantships (about 10-15 admits a year).",
+      "quote": "All enrolled graduate students will receive financial support (see financial assistance for details). | Our admission process is highly competitive because the number of graduate students we can admit is limited by the availability of assistantships.",
+      "url": "https://www.eas.gatech.edu/graduate-application-process",
+      "also": [
+        {
+          "quote": "The current EAS stipend for its graduate students is $37,500, or $3,125.00 per month, and includes tuition payment.",
+          "url": "https://eas.gatech.edu/graduate/graduate-student-financial-assistance"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The EAS pages fetched do not say whether a master's is needed before the PhD.",
+      "quote": "",
+      "url": "https://eas.gatech.edu/graduate/graduate-application-requirements"
+    }
+  },
+  "notes": "EAS covers geology/geophysics, atmospheric science, oceanography and planetary science. First-year students must TA a lab section in their first semester. Georgia Tech also runs an interdisciplinary Ocean Science & Engineering PhD (portal deadline 5 January 2027)."
+}

@@ -1,0 +1,61 @@
+{
+  "id": "purdue--statistics",
+  "university": "purdue",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Statistics",
+  "program_page": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/statistics",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026 for fall entry to the residential PhD (spring deadline October 1).",
+      "quote": "Residential Fall Spring Summer December 1 October 1 No Entry",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/statistics",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/statistics"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/statistics"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/statistics"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree with a 3.0 GPA (or equivalent) and calculus is the stated requirement for the PhD.",
+      "quote": "Doctoral and Master’s Degree Program Requirements A bachelor’s degree from an accredited institution",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/statistics"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional.",
+      "quote": "Graduate Record Exam (GRE) – optional",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/statistics"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Statistics requires TOEFL iBT 80 with at least 20 in each section (tests before 21 January 2026), or 4.0 overall on the new scale.",
+      "quote": "TOEFL: Internet-Based Test (IBT): Minimum Overall Required Score: 80 (For exams taken before January 21, 2026) | TOEFL: Internet-Based Test (IBT): Minimum Overall Required Score: 4 (For exams taken on or after January 21, 2026)",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/statistics"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall with 6.5 in every section.",
+      "quote": "IELTS (Academic Module): Minimum Overall Required Score: 6.5",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/statistics"
+    }
+  },
+  "notes": "The statistics department website (stat.purdue.edu) could not be fetched (TLS failure), so funding and advisor rules are Not stated."
+}

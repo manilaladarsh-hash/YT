@@ -1,0 +1,47 @@
+{
+  "id": "utaustin",
+  "institution": "University of Texas at Austin",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://graduate.utexas.edu/admissions/apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "90 USD",
+      "value": "The application fee is USD 90 for international applicants (USD 65 for U.S. applicants) for all programs other than the MBA and MPA.",
+      "quote": "All other programs: U.S. Graduate: $65 International Graduate: $90",
+      "url": "https://graduate.utexas.edu/admissions/apply"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Application fee waivers are only for U.S. citizens and permanent residents; they are not available to international applicants.",
+      "quote": "Fee waivers are not available for international citizens.",
+      "url": "https://graduate.utexas.edu/admissions/apply"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School leaves the GRE to each program; check the program record.",
+      "quote": "Most programs require the GRE or GMAT. Check with your program of application to see which test is required or if a waiver is available.",
+      "url": "https://graduate.utexas.edu/admissions/apply"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "TOEFL iBT 79 (or 4 on the 6-point scale) is the Graduate School minimum; departments may set higher scores.",
+      "quote": "TOEFL: 79 (120 scale) or 4 (6-point scale) internet-based test",
+      "url": "https://graduate.utexas.edu/admissions/apply/international"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic overall band 6.5 minimum (DET 115 also accepted at university level).",
+      "quote": "IELTS: An overall band of 6.5 on the Academic Examination",
+      "url": "https://graduate.utexas.edu/admissions/apply/international"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "India is on UT Austin's list of qualifying countries, so applicants from India (or with a bachelor's from an Indian institution) are exempt from the English test.",
+      "quote": "International applicants who are from a qualifying country are exempt from this requirement. Additionally, applicants are exempt from the requirement if they possess a bachelor’s degree from an institution in the U.S. or a qualifying country. | Guyana India Ireland",
+      "url": "https://graduate.utexas.edu/admissions/apply/international"
+    }
+  },
+  "notes": "Each graduate program sets its own application deadline. Departments may set higher English minimums."
+}

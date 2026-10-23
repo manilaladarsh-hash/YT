@@ -1,0 +1,56 @@
+{
+  "id": "berkeley--bme",
+  "university": "berkeley",
+  "field": "bme",
+  "also_fields": [],
+  "department": "UC Berkeley-UCSF Graduate Program in Bioengineering",
+  "program_page": "https://bioegrad.berkeley.edu/prospectivegrads/application",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1 (2026 for Fall 2027), 8:59 pm Pacific; transcripts, letters and scores due the same day.",
+      "quote": "DEADLINE: December 1, 8:59 PM PST",
+      "url": "https://bioegrad.berkeley.edu/prospectivegrads/application",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE has been optional since the Fall 2020 cycle.",
+      "quote": "The Graduate Record Examination (GRE) became optional for all applicants beginning the Fall 2020 admission cycle.",
+      "url": "https://bioegrad.berkeley.edu/prospectivegrads/application"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies.",
+      "quote": "",
+      "url": "https://bioegrad.berkeley.edu/prospectivegrads/application"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Faculty of interest go in the Statement of Purpose; the pages do not say whether contact is needed.",
+      "quote": "",
+      "url": "https://bioegrad.berkeley.edu/prospectivegrads/application"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Full support (stipend, tuition, fees, insurance) for all students in good standing; because of this, international applicants may be turned down if funding cannot be found.",
+      "quote": "Full financial support is provided to all students maintaining satisfactory academic progress.",
+      "url": "https://bioegrad.berkeley.edu/prospectivegrads/financial",
+      "also": [
+        {
+          "quote": "Because of our commitment to fund all of our students, even the most qualified international applicants may not gain admission if funding cannot be found.",
+          "url": "https://bioegrad.berkeley.edu/prospectivegrads/financial"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Anyone with a BA/BS in engineering, biology or other sciences is eligible.",
+      "quote": "Anyone with a Bachelor of Arts or Bachelor of Science degree in engineering, biology, or other sciences, is eligible for admission.",
+      "url": "https://bioegrad.berkeley.edu/prospectivegrads/admissions"
+    }
+  },
+  "notes": "Joint PhD with UCSF; successful applicants generally have a GPA of 3.5+.",
+  "name": "Bioengineering (joint UC Berkeley-UCSF) PhD"
+}

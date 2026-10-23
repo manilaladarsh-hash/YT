@@ -1,0 +1,55 @@
+{
+  "id": "utoronto--astronomy",
+  "university": "utoronto",
+  "field": "astronomy",
+  "also_fields": [],
+  "department": "David A. Dunlap Department of Astronomy & Astrophysics",
+  "program_page": "https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/application/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-11",
+      "value": "Apply by Friday, December 11 (one round a year, September entry). The page prints 2025 but the weekdays match the 2027-entry cycle (opens Monday, October 12).",
+      "quote": "We have only one admissions round annually for September entry. | Application open: Monday, October 12, 2025 | Application deadline: Friday, December 11, 2025",
+      "url": "https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/application/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The GRE is not accepted.",
+      "quote": "The Graduate Record Examination (GRE) is not accepted.",
+      "url": "https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/application/"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "GRE scores, including Physics Subject, are not accepted.",
+      "quote": "The Graduate Record Examination (GRE) is not accepted.",
+      "url": "https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/application/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No supervisor needed to apply; direct-entry PhD students choose one during the first year.",
+      "quote": "You do not need to find a faculty supervisor during the application stage. We do not admit students at the onset to work with a particular faculty member.",
+      "url": "https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/faqs/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted PhD students are funded: 5 years for direct-entry, at least CAD 40,000 a year after tuition and fees.",
+      "quote": "All successful doctoral stream program applicants are guaranteed financial support: 5 years of funding for the PhD direct-entry and 4 years of funding for those with a qualifying MSc degree. | The intent of the departmental graduate student funding level is to ensure that all students have at least $40,000 (inclusive of top-ups) after payment of tuition, non-academic fees and UTGSU fees.",
+      "url": "https://www.astro.utoronto.ca/academics/graduate-studies/current/funding/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "For 2027 entry only the 5-year direct-entry PhD (from a bachelor's) is open; the 4-year track for master's holders is paused. There is no separate master's program.",
+      "quote": "Please note that we have paused admissions for the PhD 4-year track for the 2027 cycle. We are accepting applications for the direct entry PhD program.",
+      "url": "https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/application/",
+      "also": [
+        {
+          "quote": "the default entry point for an applicant with a qualifying bachelor’s degree is the PhD direct-entry program",
+          "url": "https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/faqs/"
+        }
+      ]
+    }
+  },
+  "notes": "Three reference letters; A- average in final two years required for direct entry. Fee CAD 135."
+}

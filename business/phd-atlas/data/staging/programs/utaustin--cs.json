@@ -1,0 +1,43 @@
+{
+  "id": "utaustin--cs",
+  "university": "utaustin",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://graduate.utexas.edu/degrees-programs",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The Graduate School lists a December 15 deadline (2026 for Fall 2027), fall entry only. The department's own pages could not be fetched; confirm there.",
+      "quote": "Computer Science (627800) ... MSCS, Ph.D. Fall only; Dec. 15",
+      "url": "https://graduate.utexas.edu/degrees-programs",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to CS.",
+      "quote": "",
+      "url": "https://graduate.utexas.edu/degrees-programs"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department's admissions pages could not be fetched.",
+      "quote": "",
+      "url": "https://www.cs.utexas.edu/graduate/apply"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department's admissions pages could not be fetched.",
+      "quote": "",
+      "url": "https://www.cs.utexas.edu/graduate/apply"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The department's admissions pages could not be fetched.",
+      "quote": "",
+      "url": "https://www.cs.utexas.edu/graduate/apply"
+    }
+  },
+  "notes": "cs.utexas.edu was unreachable when checked (connection reset), so only the Graduate School's deadline listing is used."
+}

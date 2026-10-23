@@ -1,0 +1,50 @@
+{
+  "id": "georgiatech--datasci",
+  "university": "georgiatech",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "Machine Learning PhD (interdisciplinary; nine home schools)",
+  "program_page": "https://ml.gatech.edu/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Deadlines follow the home school: the earliest is 1 December, most close 15 December (the School of Computer Science home unit closes 15 December 2026). Fall entry only.",
+      "quote": "The application deadline varies by home school with the earliest deadline of December 1. Most home schools have a final deadline of December 15.",
+      "url": "https://ml.gatech.edu/admissions",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Machine Learning (School of Computer Science) Computer Science Computing Atlanta Doctoral Fall 2026 Fall 2027 12/15/2025 12/15/2026",
+          "url": "https://grad.gatech.edu/degree-programs"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies; requirements follow the home school.",
+      "quote": "",
+      "url": "https://ml.gatech.edu/admissions"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The ML PhD page does not say whether a supervisor's agreement is needed before applying.",
+      "quote": "",
+      "url": "https://ml.gatech.edu/admissions"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Funding, including any teaching-assistantship or fellowship guarantee, is set by the home school you apply through.",
+      "quote": "support for incoming students (including guarantees of teaching assistantships and/or fellowships) are determined by the home units",
+      "url": "https://ml.gatech.edu/admissions"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants are judged on a B.S. or M.S. record, so you can apply from a bachelor's or a master's.",
+      "quote": "prior academic performance of the applicant in a B.S. or M.S. program at a recognized institution",
+      "url": "https://ml.gatech.edu/admissions"
+    }
+  },
+  "notes": "You apply through one home school (e.g., Computer Science, CSE, Interactive Computing, ECE, ISyE, Mathematics, ChBE, BME, Aerospace) and must meet its GPA, GRE and TOEFL rules; the ML faculty committee makes the final decision.",
+  "name": "PhD in Machine Learning"
+}

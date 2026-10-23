@@ -1,0 +1,61 @@
+{
+  "id": "uiuc--cs",
+  "university": "uiuc",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Siebel School of Computing and Data Science",
+  "program_page": "https://siebelschool.illinois.edu/admissions/graduate/applications-process-requirements",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026 for Fall 2027 (fall entry only); late applications are not accepted.",
+      "quote": "Ph.D. in Computer Science | Fall only | December 1",
+      "url": "https://siebelschool.illinois.edu/admissions/graduate/application-deadlines",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no CS subject GRE; GRE scores of any kind are optional.",
+      "quote": "",
+      "url": "https://siebelschool.illinois.edu/admissions/graduate/applications-process-requirements"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is recommended but not required; you can attach a scanned score report.",
+      "quote": "The Graduate Record Examination (GRE) general aptitude tests (Verbal, Quantitative, and Analytical) and subject test scores are recommended but not required.",
+      "url": "https://siebelschool.illinois.edu/admissions/graduate/applications-process-requirements"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "An English-medium degree does not exempt you unless your country is on the Graduate College list (India is not); PhD applicants must also send TOEFL/IELTS for the TA requirement.",
+      "quote": "If your country is not on this list, then English proficiency requirements must be met for admission to the Siebel School of Computing and Data Science graduate programs, irrespective of medium of instruction.",
+      "url": "https://siebelschool.illinois.edu/admissions/graduate/faqs"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The School's pages do not say whether you need a faculty advisor's agreement before applying.",
+      "quote": "",
+      "url": "https://siebelschool.illinois.edu/admissions/graduate/applications-process-requirements"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD students are funded by an RA or TA with stipend and full tuition waiver, and Grainger Engineering guarantees five years of fall/spring funding.",
+      "quote": "Our PhD students, with very few exceptions, are funded by a research or a teaching assistantship. These provide a stipend and a full tuition waiver.",
+      "url": "https://siebelschool.illinois.edu/admissions/financial-aid",
+      "also": [
+        {
+          "quote": "Grainger Engineering Ph.D. students in their first five years of enrollment are guaranteed a funded appointment for fall and spring that includes a full tuition waiver, a partial fee waiver, and a stipend.",
+          "url": "https://grainger.illinois.edu/academics/graduate/phd-funding-guarantee"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Strong applicants can enter the PhD with only a bachelor's degree; a master's is not required.",
+      "quote": "Applicants with a strong computing and data science record can be admitted to the PhD program with only a bachelor's degree.",
+      "url": "https://siebelschool.illinois.edu/admissions/graduate/faqs"
+    }
+  },
+  "notes": "Speaking minimums for TA funding: TOEFL iBT 24 (old) / 5.0 (new) or IELTS 8; a speak score below 22 means a low chance of admission. Three-year bachelor's degrees may not be eligible."
+}

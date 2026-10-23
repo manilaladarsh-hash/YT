@@ -1,0 +1,43 @@
+{
+  "id": "purdue--biology",
+  "university": "purdue",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/biological-sciences/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026 for fall entry.",
+      "quote": "Application Deadlines Fall Spring Summer December 1 Contact Program Contact Program",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/biological-sciences/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no GRE Subject test for biology; the program page does not mention one.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/biological-sciences/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/biological-sciences/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/biological-sciences/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not needed after a four-year bachelor's. With a three-year bachelor's (e.g. Indian BSc), you must have completed, or be in the final year of, a two-year MS, finished before August entry.",
+      "quote": "A Master’s is not needed to apply to the Ph.D. program UNLESS the Bachelor’s degree earned was a three-year program. If that is the case, the applicant must have completed or be in the final year of a two-year MS program when applying.",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/biological-sciences/"
+    }
+  },
+  "notes": "The biology department website (bio.purdue.edu) could not be fetched (TLS failure), so funding and advisor rules are Not stated. Purdue's interdisciplinary life-science PhD (PULSe) is a second route; see the biomed record."
+}

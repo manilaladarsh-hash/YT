@@ -1,0 +1,48 @@
+{
+  "id": "utoronto--biomed",
+  "university": "utoronto",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Department of Molecular Genetics (Temerty Faculty of Medicine)",
+  "program_page": "https://moleculargenetics.utoronto.ca/grad-deadlines",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-15",
+      "value": "International applicants must have complete applications in by November 15, 2026 for September 2027 (opens October 5, 2026); domestic applicants have until January 15, 2027. Incomplete international applications are not reviewed.",
+      "quote": "Applications from international students (those requiring study permits) will be accepted until November 15, 2026",
+      "url": "https://moleculargenetics.utoronto.ca/grad-deadlines"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE requirement is mentioned.",
+      "quote": "",
+      "url": "https://www.sgs.utoronto.ca/programs/molecular-genetics/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "International applicants need a Molecular Genetics faculty sponsor before applying, who must submit a sponsorship form by the deadline. Admitted students still do lab rotations.",
+      "quote": "international applicants must have secured a sponsoring faculty member before submitting their online application. | International students are still expected to complete rotations.",
+      "url": "https://moleculargenetics.utoronto.ca/international-students",
+      "also": [
+        {
+          "quote": "No, international applicants must have a sponsor from within the Department of Molecular Genetics before submitting an online application.",
+          "url": "https://moleculargenetics.utoronto.ca/faqs"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD students get five guaranteed years of funding plus up to two automatic one-year extensions while in good standing.",
+      "quote": "PhD students are guaranteed five years of funding, and will be automatically granted two additional one-year funding extensions as long as they have maintained good academic standing",
+      "url": "https://moleculargenetics.utoronto.ca/student-funding"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply to the direct-entry PhD from a bachelor's (A- average); the regular PhD is only for those with a Molecular Genetics master's from U of T.",
+      "quote": "Applicants are advised to apply to the direct-entry PhD program. Only applicants who have completed a Master’s degree in our department are eligible for the regular PhD program",
+      "url": "https://moleculargenetics.utoronto.ca/faqs"
+    }
+  },
+  "notes": "Other U of T biomedical PhDs (Biochemistry, Laboratory Medicine & Pathobiology, Medical Biophysics, Immunology, Institute of Medical Science, Physiology, Pharmacology) are separate programs with their own rules."
+}

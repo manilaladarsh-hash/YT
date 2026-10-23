@@ -1,0 +1,62 @@
+{
+  "id": "utaustin--mech",
+  "university": "utaustin",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Walker Department of Mechanical Engineering",
+  "program_page": "https://me.utexas.edu/academics/graduate/graduate-admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The Graduate School lists a Fall deadline of December 1 (2026 for Fall 2027); spring entry (October 1) has very limited funding.",
+      "quote": "Mechanical Engineering (665900) ... MSE, Ph.D. Fall: Dec. 1; Spring: Oct. 1",
+      "url": "https://graduate.utexas.edu/degrees-programs",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "It is recommended that both masters and doctoral applicants to the Mechanical Engineering program apply for the Fall semester, as extremely limited funding is available during the Spring.",
+          "url": "https://me.utexas.edu/academics/graduate/graduate-admissions/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are no longer required; submitting them is optional.",
+      "quote": "Applications to the M.S. and Ph.D. programs in Mechanical Engineering no longer require the submission of GRE scores. Submitting these scores is optional.",
+      "url": "https://me.utexas.edu/academics/graduate/graduate-admissions/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies.",
+      "quote": "",
+      "url": "https://me.utexas.edu/academics/graduate/graduate-admissions/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Besides the Graduate School waiver (U.S. only), ME has a limited number of mainly need-based fee waiver awards, with preference for Fall 2027 PhD applicants; request between August 1 and November 1, 2026.",
+      "quote": "the ME Department has a limited number of awards to encourage applications to the Department. These awards are mainly financial need based but could also be given to outstanding candidates who are applying to or have received certain fellowships. | You may request a waiver of the application fee between August 1, 2026 – November 1, 2026 here.",
+      "url": "https://me.utexas.edu/academics/graduate/graduate-admissions/",
+      "time_sensitive": "2026-11-01"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "You do not need a faculty advisor before applying, but connecting with potential advisors to check research fit is recommended.",
+      "quote": "It is not necessary to secure a faculty advisor before submitting your application materials, but we recommend connecting with potential advisors to determine whether your research interests would be a good fit.",
+      "url": "https://me.utexas.edu/academics/graduate/graduate-faqs/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Admitted students are automatically considered for fellowships, research and teaching assistantships; the pages do not promise funding to every PhD admit.",
+      "quote": "All eligible admitted students are automatically considered for departmental financial support through fellowships, research assistantships and teaching assistantships.",
+      "url": "https://me.utexas.edu/academics/graduate/funding/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's in engineering or the physical sciences with a 3.0 GPA in upper-division work is the minimum; master's students are also welcome to apply for the PhD.",
+      "quote": "Hold a bachelor’s degree in physical sciences (e.g., chemistry, physics) or in an engineering discipline from an accredited institution.",
+      "url": "https://me.utexas.edu/academics/graduate/graduate-admissions/"
+    }
+  },
+  "notes": "Average TOEFL of ME/ORIE admits is 106. 200-230 graduate students admitted per year. Aerospace Engineering is a separate UT PhD program (Fall deadline December 1)."
+}

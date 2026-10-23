@@ -1,0 +1,68 @@
+{
+  "id": "ethz--math",
+  "university": "ethz",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Department of Mathematics (D-MATH)",
+  "program_page": "https://math.ethz.ch/doctorate/admission.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-05",
+      "value": "Apply through the Zurich Graduate School in Mathematics (ZGSM) by 5 December 2026; the next round closes 5 April 2027. Bachelor's holders wanting the Direct Doctorate must apply 1-30 November 2026.",
+      "quote": "There are two application periods with deadline April 05 and December 05. | Next deadline: December 05, 2026",
+      "url": "https://www.zgsm.ch/admission",
+      "time_sensitive": "2026-11-30",
+      "also": [
+        {
+          "quote": "offers international applicants the possibility of doing a doctorate at ETH Zurich or the University of Zurich. If you want to apply, please use the",
+          "url": "https://math.ethz.ch/doctorate/admission.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://www.zgsm.ch/faqs1"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You apply to ZGSM (you may name preferred advisors); after an assessment talk and interview, successful applicants are offered a position with a designated advisor.",
+      "quote": "Please indicate on the online application form the name(s) of preferred advisors.",
+      "url": "https://www.zgsm.ch/faqs1",
+      "also": [
+        {
+          "quote": "In case of a successful assessment applicants will be offered a doctoral position with a designated advisor.",
+          "url": "https://www.zgsm.ch/process1"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Admitted students are typically offered a teaching assistantship whose salary is sufficient to live in Zurich.",
+      "quote": "Students who get admitted to the ZGSM are typically offered a teaching assistantship. | In any case the salary is largely sufficient to live and study in Zurich.",
+      "url": "https://www.zgsm.ch/faqs1"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "ZGSM expects a Master's in mathematics; exceptional Bachelor's graduates can instead apply for the Direct Doctorate in Mathematics with a future supervisor's funding confirmation.",
+      "quote": "Applicants are expected to have a master degree in mathematics.",
+      "url": "https://www.zgsm.ch/faqs1",
+      "also": [
+        {
+          "quote": "Direct Doctorate (applications in the first application window only) | For a successful application, a confirmation of the future supervisor (ETH professor) is required.",
+          "url": "https://ethz.ch/en/studies/master/application/master-mathematik.html"
+        },
+        {
+          "quote": "Mathematical Physics, Number Theory, Numerical Analysis, Operation Research, Probability Theory, Scientifc Computing, Statistics",
+          "url": "https://www.zgsm.ch/graduate-program"
+        }
+      ]
+    }
+  },
+  "notes": "ZGSM is the joint doctoral program of D-MATH (ETH) and I-MATH (UZH); its research areas include Statistics (ETH Seminar for Statistics). 10-20 positions for international students per year. German for teaching tutorials is expected within two years.",
+  "name": "Zurich Graduate School in Mathematics (ZGSM)"
+}

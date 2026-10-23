@@ -1,0 +1,49 @@
+{
+  "id": "utaustin--chemistry",
+  "university": "utaustin",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://chemistry.utexas.edu/academics/graduate-programs/admissions-how-apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The Fall 2027 application deadline is December 1 (2026). Fall entry only.",
+      "quote": "The Fall 2027 Application Deadline is December 1.",
+      "url": "https://chemistry.utexas.edu/academics/graduate-programs/admissions-how-apply",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The admissions page does not mention the GRE.",
+      "quote": "",
+      "url": "https://chemistry.utexas.edu/academics/graduate-programs/admissions-how-apply"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by the program's faculty committee; most students choose a research group in the fall of their first year after interviews with faculty.",
+      "quote": "Most graduate students select a research group in the fall semester of their first year based on interviews with faculty and current graduate students",
+      "url": "https://chemistry.utexas.edu/academics/graduate-programs/program-overview",
+      "also": [
+        {
+          "quote": "Admissions to graduate programs at UT Austin are overseen by the Admissions Committee within the individual programs.",
+          "url": "https://chemistry.utexas.edu/academics/graduate-programs/admissions-how-apply"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "New students are typically supported as Teaching Assistants in year one, then by TA, fellowship or research assistant positions depending on the group's funding; continued support depends on good standing and available funds.",
+      "quote": "New graduate students are typically supported as teaching assistantships (TA) during their first year, and then financial support is generally provided by TA positions, fellowships, or by graduate research assistant positions thereafter depending on the funding status of the permanent research group.",
+      "url": "https://chemistry.utexas.edu/academics/graduate-programs/fellowships-funding"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply with a bachelor's that includes at least 24 semester hours of chemistry; doctoral program only, master's applicants not considered. Extensive research experience is critical.",
+      "quote": "Undergraduate coursework must include at least 24 semester hours of work in chemistry, with 12 or more semester hours of upper-division coursework. | We recruit for the doctoral program only; master’s applicants will not be considered.",
+      "url": "https://chemistry.utexas.edu/academics/graduate-programs/admissions-how-apply"
+    }
+  },
+  "notes": "Research experience is described as absolutely critical; heavy generative-AI use in statements is penalised."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "utoronto--cs",
+  "university": "utoronto",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://web.cs.toronto.edu/graduate/phd",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Firm deadline December 1, 2026 for Fall 2027 (applications already open).",
+      "quote": "Applications for Fall 2027 are now open and close on December 1, 2026. | Our application deadline is December 1, 2026, and it is firm.",
+      "url": "https://web.cs.toronto.edu/graduate/how-to-apply"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE General is optional but strongly encouraged for applicants without a Canadian degree.",
+      "quote": "Applicants who do not have a Canadian university degree are strongly encouraged, but not required, to submit scores from the GRE General Test.",
+      "url": "https://web.cs.toronto.edu/graduate/phd",
+      "also": [
+        {
+          "quote": "GRE scores are optional to include in our applications, but it is recommended that applicants who completed their degree(s) outside of Canada include the scores.",
+          "url": "https://web.cs.toronto.edu/graduate/faq"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no CS subject test; only the GRE General is mentioned.",
+      "quote": "",
+      "url": "https://web.cs.toronto.edu/graduate/phd"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No supervisor needed before applying; you list up to 8 faculty and are assigned a supervisor based on your stated interests.",
+      "quote": "Do I need to find a supervisor before applying? No.",
+      "url": "https://web.cs.toronto.edu/graduate/faq",
+      "also": [
+        {
+          "quote": "All PhD students are assigned a supervisor or research group based on the research interests indicated in their application.",
+          "url": "https://web.cs.toronto.edu/graduate/phd"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Funding is guaranteed (60 months for direct-entry PhD) with tuition covered and a take-home living allowance of CAD 39,500 after tuition.",
+      "quote": "Conditional on satisfactory progress, we guarantee funding for a defined period for each of our programs. | The enhanced package ensures that students have a take-home living allowance of $39,500 after tuition and incidentals are paid.",
+      "url": "https://web.cs.toronto.edu/graduate/funding-tuition-awards"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Indian applicants with a bachelor's apply to the Direct-Entry PhD (PhD-U, A- average in relevant courses); those with a related master's apply to the PhD. Internationals are not considered for the MSc.",
+      "quote": "International students with equivalency to a U of T honours bachelor’s degree in a closely related field should apply to the Direct-Entry PhD (PhD U). | Domestic and International students with a qualifying Masters in a closely related field should apply to the PhD.",
+      "url": "https://web.cs.toronto.edu/graduate/faq"
+    }
+  },
+  "notes": "Only 5-10% of applicants receive an offer. Vector Institute applications are separate and do not replace the DCS application."
+}

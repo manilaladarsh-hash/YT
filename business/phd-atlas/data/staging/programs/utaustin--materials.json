@@ -1,0 +1,61 @@
+{
+  "id": "utaustin--materials",
+  "university": "utaustin",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Materials Science & Engineering Graduate Program (Texas Materials Institute)",
+  "program_page": "https://tmi.utexas.edu/academics/graduate-program/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "All materials are due December 1 (2026) for Fall 2027; international applicants may send TOEFL/IELTS/DET scores until January 15. A spring intake has a September 15 deadline.",
+      "quote": "International Students: ALL materials are due by December 1st. We will accept TOEFL/IELTS/DET until January 15th.",
+      "url": "https://tmi.utexas.edu/academics/graduate-program/admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is not required; scores are considered if you send them.",
+      "quote": "There is no GRE requirement for the MS&E program. However, if you want to send your GRE scores, UT Austin's code is 6882 and we will consider them along with the rest of your application during the decision process.",
+      "url": "https://tmi.utexas.edu/academics/graduate-program/admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned.",
+      "quote": "",
+      "url": "https://tmi.utexas.edu/academics/graduate-program/admissions"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Students are admitted directly into a lab: during admissions, applicants are matched with a recruiting faculty member and the offer comes from that supervisor. Contacting faculty before applying is not required but research fit matters.",
+      "quote": "Entering a graduate program with a faculty supervisor in place allows students to begin research immediately | when an admitted applicant receives an offer, it comes directly from a specific faculty member",
+      "url": "https://tmi.utexas.edu/academics/graduate-program/admissions",
+      "also": [
+        {
+          "quote": "All of our students are \"direct admits,\" meaning that all our students are matched with a supervisor and admitted directly into their labs.",
+          "url": "https://tmi.utexas.edu/academics/graduate-program/funding"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "As a rule all students are supported (stipend, tuition and health insurance) via research or teaching assistantships or fellowships, contingent on progress and available funds; the program says almost all students have such a package.",
+      "quote": "This means, as a rule, all of our students are financially supported. | Financial support is contingent upon satisfactory progress twoard the degree and continued availability of funds.",
+      "url": "https://tmi.utexas.edu/academics/graduate-program/funding",
+      "also": [
+        {
+          "quote": "Almost all students in the program have a funding package of this quality.",
+          "url": "https://tmi.utexas.edu/academics/graduate-program"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree (or foreign equivalent) is enough; a master's is not required. The program admits PhD students almost exclusively.",
+      "quote": "A master's degree is not required to apply.",
+      "url": "https://tmi.utexas.edu/academics/graduate-program/admissions"
+    }
+  },
+  "notes": "Spring entry also possible (September 15 deadline). The program follows Graduate School English minimums (TOEFL 79, IELTS 6.5, DET 115)."
+}

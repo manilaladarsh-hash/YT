@@ -1,0 +1,50 @@
+{
+  "id": "utaustin--environment",
+  "university": "utaustin",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Marine Science (Marine Science Institute)",
+  "program_page": "https://marinescience.utexas.edu/graduate-admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "All materials are due December 1 (2026 for Fall 2027); later applications go to an alternate list. Decisions before April 1.",
+      "quote": "All application materials listed below must be received no later than December 1, for admission in Fall Semester. Applications completed after this date will be considered for an alternate list.",
+      "url": "https://marinescience.utexas.edu/graduate-admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department no longer requires the GRE.",
+      "quote": "Our department no longer requires the GRE.",
+      "url": "https://marinescience.utexas.edu/graduate-admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned.",
+      "quote": "",
+      "url": "https://marinescience.utexas.edu/graduate-admissions"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admission depends on a faculty member being willing to supervise you; contact faculty whose research matches yours before applying.",
+      "quote": "Admission to our program is based on academic credentials AND willingness of a faculty member to supervise a prospective student. | We strongly encourage prospective students to make direct contact with individual faculty members whose research matches their own",
+      "url": "https://marinescience.utexas.edu/graduate-admissions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every graduate student is fully supported (research or teaching assistantship or fellowship) with a living stipend plus tuition and fees.",
+      "quote": "Each of our graduate students is fully supported as a graduate research assistant, teaching assistant, or on a fellowship, with a stipend sufficient to cover living expenses and university tuition and fees.",
+      "url": "https://marinescience.utexas.edu/graduate-admissions"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's in an appropriate science discipline (or foreign equivalent) with a GPA of at least 3.0 in upper-division work.",
+      "quote": "Bachelor's degree in an appropriate science discipline from an accredited United States Institution or proof of equivalent training at an institution outside the United States",
+      "url": "https://marinescience.utexas.edu/graduate-admissions"
+    }
+  },
+  "notes": "Most of the program is based at the Marine Science Institute in Port Aransas, 200 miles south of Austin.",
+  "name": "Marine Science"
+}

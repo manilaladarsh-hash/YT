@@ -1,0 +1,54 @@
+{
+  "id": "stanford--ece",
+  "university": "stanford",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical Engineering",
+  "program_page": "https://ee.stanford.edu/admissions/phd",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by 11:59pm PST, December 1, 2026 for Autumn 2027; decisions in late February 2027.",
+      "quote": "December 1, 2026 is the application deadline for Autumn 2027-2028.",
+      "url": "https://ee.stanford.edu/admissions/phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject Test exists for EE.",
+      "quote": "",
+      "url": "https://ee.stanford.edu/admissions/phd"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required.",
+      "quote": "The GRE exam is not required.",
+      "url": "https://ee.stanford.edu/admissions/required-materials"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by a committee, not individual faculty, so no advisor agreement is needed.",
+      "quote": "Admissions decisions are made by the Admissions Committee, not by individual faculty members.",
+      "url": "https://ee.stanford.edu/admissions/phd/faq"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All PhD students making satisfactory progress get full financial support for the whole program.",
+      "quote": "All PhD students who maintain satisfactory academic progress receive full financial support for the duration of the doctoral program.",
+      "url": "https://ee.stanford.edu/admissions/phd"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not required; apply to the PhD straight from a bachelor's.",
+      "quote": "No; the minimum degree requirement is a bachelor’s degree.",
+      "url": "https://ee.stanford.edu/admissions/phd/faq",
+      "also": [
+        {
+          "quote": "A master's degree is not required prior to applying to the PhD program in Electrical Engineering.",
+          "url": "https://ee.stanford.edu/admissions/phd"
+        }
+      ]
+    }
+  },
+  "notes": "All EE PhD applicants may request an application fee waiver (subject to review)."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "purdue--chemistry",
+  "university": "purdue",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "James Tarpo Jr. and Margaret Tarpo Department of Chemistry",
+  "program_page": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/chemistry/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026 for fall entry; there is no spring or summer entry.",
+      "quote": "Application Deadlines Fall Spring Summer December 1 No Entry No Entry",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/chemistry/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/chemistry/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/chemistry/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/chemistry/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The department admits to the PhD (it is not taking MS applicants); applicants from outside the US need the equivalent of a US bachelor's degree before starting.",
+      "quote": "The Tarpo Department of Chemistry is not actively seeking Master’s Degree applicants at this time, and students who apply for the MS program will be declined. | Students enrolled in programs outside of the United States must complete the equivalent of a United States Bachelor’s Degree prior to matriculation.",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/chemistry/"
+    },
+    "toefl_min": {
+      "code": "88",
+      "value": "Chemistry requires TOEFL iBT 88 overall (Speaking 23 preferred) for tests before 21 January 2026, or 4.5 on the new scale for later tests.",
+      "quote": "TOEFL: Internet-Based Test (IBT): Minimum Overall Required Score: 88 (For exams taken before January 21, 2026) | TOEFL: Internet-Based Test (IBT): Minimum Overall Required Score: 4.5 (For exams taken on or after January 21, 2026)",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/chemistry/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Chemistry requires IELTS Academic 7.0 overall with Speaking 7 (6.5 considered for exceptional applicants).",
+      "quote": "IELTS (Academic Module): Minimum Overall Required Score: 7",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/chemistry/"
+    }
+  },
+  "notes": "The chemistry department website (chem.purdue.edu) could not be fetched (TLS failure), so GRE, funding and advisor rules come only from the graduate school's program page and are mostly Not stated."
+}

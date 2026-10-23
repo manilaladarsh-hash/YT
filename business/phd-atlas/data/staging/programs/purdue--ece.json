@@ -1,0 +1,49 @@
+{
+  "id": "purdue--ece",
+  "university": "purdue",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Elmore Family School of Electrical and Computer Engineering",
+  "program_page": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/electrical-and-computer-engineering/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "December 1, 2026 is the priority deadline for funding; the final deadline is April 1, 2027, with few admissions after December 1.",
+      "quote": "*December 1 is the deadline for priority consideration for financial support. Only a limited number of admissions will be granted to applicants whose application is completed after December 1. The final deadline is April 1.",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/electrical-and-computer-engineering/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no GRE Subject test for ECE.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/electrical-and-computer-engineering/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/electrical-and-computer-engineering/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/electrical-and-computer-engineering/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Bachelor's-level applicants are normally admitted to the MS; only those with exceptionally strong records are considered for direct PhD admission.",
+      "quote": "Bachelor’s level students are normally considered for admission into the Master’s program; however, bachelor’s level students with exceptionally strong undergraduate records may apply for and be considered for direct admission into the Ph.D. degree program.",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/electrical-and-computer-engineering/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional, but applicants with a lower GPA or from less familiar schools may benefit from strong scores.",
+      "quote": "The GRE is optional for all applicants. Be aware that applicants with a lower GPA or from a school that Purdue ECE may not be familiar with may benefit from providing strong GRE scores.",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/electrical-and-computer-engineering/"
+    }
+  },
+  "notes": "On top of university minimums, ECE requires TOEFL Writing 22 (4.5 on the new scale) or IELTS Writing 6. TA consideration needs a TOEFL iBT with Speaking 23. The engineering.purdue.edu department site could not be fetched (TLS failure)."
+}

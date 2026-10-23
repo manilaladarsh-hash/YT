@@ -1,0 +1,62 @@
+{
+  "id": "uiuc--ece",
+  "university": "uiuc",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical and Computer Engineering",
+  "program_page": "https://ece.illinois.edu/admissions/graduate/phd",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Apply by December 15, 2026 for full fellowship and award consideration; the final Fall 2027 deadline is January 15, 2027.",
+      "quote": "January 15 for the fall semester (Apply by December 15 for complete consideration for fellowships and awards)",
+      "url": "https://ece.illinois.edu/admissions/graduate/phd",
+      "inferred": "year",
+      "time_sensitive": "2026-12-15"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no ECE subject GRE; the GRE General is optional.",
+      "quote": "",
+      "url": "https://ece.illinois.edu/admissions/graduate/admissions-requirements-and-process"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE General scores are optional; the at-home GRE is accepted.",
+      "quote": "Scores on the GRE general aptitude tests verbal, quantitative, and analytical portions are optional.",
+      "url": "https://ece.illinois.edu/admissions/graduate/admissions-requirements-and-process"
+    },
+    "toefl_min": {
+      "code": "96",
+      "value": "ECE needs TOEFL iBT 96 (old scale) from non-native English speakers.",
+      "quote": "All applicants whose native language is not English must submit a minimum TOEFL score of 96 (iBT), 243 (CBT), or 590 (PBT); or minimum International English Language Testing System (IELTS) academic exam scores of 6.5 overall and 6.0 in all subsections.",
+      "url": "https://ece.illinois.edu/admissions/graduate/admissions-requirements-and-process"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall with at least 6.0 in every section.",
+      "quote": "minimum International English Language Testing System (IELTS) academic exam scores of 6.5 overall and 6.0 in all subsections",
+      "url": "https://ece.illinois.edu/admissions/graduate/admissions-requirements-and-process"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The ECE admissions pages only ask for a Preferences Form listing research interests; they do not say whether an advisor's agreement is needed.",
+      "quote": "",
+      "url": "https://ece.illinois.edu/admissions/graduate/admissions-requirements-and-process"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "As a Grainger Engineering PhD program, students get a five-year guarantee of fall/spring funding with full tuition waiver and stipend, if in good standing.",
+      "quote": "Grainger Engineering Ph.D. students in their first five years of enrollment are guaranteed a funded appointment for fall and spring that includes a full tuition waiver, a partial fee waiver, and a stipend.",
+      "url": "https://grainger.illinois.edu/academics/graduate/phd-funding-guarantee"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "With a bachelor's you can apply to the direct PhD; with an MS you apply to the PhD.",
+      "quote": "Students with a bachelor’s degree in electrical or computer engineering (or related field) may apply to the MS program or to the direct Ph.D. program. Students with an MS degree in electrical or computer engineering (or related field) should apply to the PhD program.",
+      "url": "https://ece.illinois.edu/admissions/graduate/admissions-requirements-and-process"
+    }
+  },
+  "notes": "An ECE Applicant Preferences Form (research interests) must be filed after the main application. Spring entry is also possible (September 1 deadline)."
+}

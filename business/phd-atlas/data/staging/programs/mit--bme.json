@@ -1,0 +1,55 @@
+{
+  "id": "mit--bme",
+  "university": "mit",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biological Engineering (BE)",
+  "program_page": "https://oge.mit.edu/programs/biological-engineering-2/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026, 11:59 PM US Eastern (application opens September 15).",
+      "quote": "Deadline: December 1 at 11:59 PM Eastern Time",
+      "url": "https://oge.mit.edu/programs/biological-engineering-2/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "BE does not accept GRE scores.",
+      "quote": "The Department of Biological Engineering does not accept GRE scores and will not consider GRE scores during the evaluation of your application.",
+      "url": "https://oge.mit.edu/programs/biological-engineering-2/"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "No GRE scores are considered.",
+      "quote": "will not consider GRE scores during the evaluation of your application",
+      "url": "https://oge.mit.edu/programs/biological-engineering-2/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "BE offers no English-test waivers; Indian applicants must submit TOEFL, IELTS or Duolingo.",
+      "quote": "the Biological Engineering Department does not offer ELP waivers.",
+      "url": "https://oge.mit.edu/programs/biological-engineering-2/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students do research rotations in the fall and winter of year 1, then match with a BE faculty advisor.",
+      "quote": "BE PhD students complete research rotations in the fall and winter of their first year and match with a BE Faculty member as a research advisor.",
+      "url": "https://be.mit.edu/graduate-program/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All BE PhD students are fully funded (tuition, health insurance, living stipend).",
+      "quote": "All MIT Biological Engineering Ph.D. students are fully funded for tuition, health insurance, and a stipend that covers living costs.",
+      "url": "https://oge.mit.edu/programs/biological-engineering-2/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "MIT does not require a master's degree to apply for a PhD; you can apply from a bachelor's degree (final-year students may be admitted if the degree is awarded before enrolment).",
+      "quote": "The Institute does not require applicants to hold a master’s or other advanced degree in order to apply to a Ph.D program.",
+      "url": "https://oge.mit.edu/graduate-admissions/applications/procedures/"
+    }
+  },
+  "notes": "MIT's biomedical-engineering-type PhD department. The Harvard-MIT HST Medical Engineering and Medical Physics PhD is recorded under biomed."
+}

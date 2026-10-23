@@ -1,0 +1,53 @@
+{
+  "id": "purdue--biomed",
+  "university": "purdue",
+  "field": "biomed",
+  "also_fields": [
+    "biology",
+    "neuro"
+  ],
+  "department": "Office of Interdisciplinary Graduate Programs",
+  "program_page": "https://www.purdue.edu/academics/ogsps/oigp/program/pulse/admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026; review starts in November and entry is fall only.",
+      "quote": "The application deadline is December 1 each year, however we begin reviewing applications in November.",
+      "url": "https://www.purdue.edu/academics/ogsps/oigp/program/pulse/admissions/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/oigp/program/pulse/admissions/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by the PULSe committee; first-year students do lab rotations before choosing a lab.",
+      "quote": "Completed submissions will be reviewed by the PULSe Admissions Committee, which includes representatives from each of the PULSe Training Groups. | to allow them to complete core requirements and participate in laboratory rotations",
+      "url": "https://www.purdue.edu/academics/ogsps/oigp/program/pulse/admissions/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted students, including international students, get paid tuition and an assistantship (stipend $33,000) in year one; later support from grants or assistantships at least matches it.",
+      "quote": "All students admitted to PULSe, both U.S. and international students, receive paid tuition and an assistantship for the entire first year of study | The PULSe Stipend is $33,000. | The level of support in subsequent years will meet or exceed the level of support provided in the student’s first year.",
+      "url": "https://www.purdue.edu/academics/ogsps/oigp/program/pulse/admissions/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated; PULSe is doctoral only and expects a background in mathematics, biology and chemistry (including organic chemistry).",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/oigp/program/pulse/admissions/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required.",
+      "quote": "Beginning July 1, 2020, the GRE is not required for admission to PULSe.",
+      "url": "https://www.purdue.edu/academics/ogsps/oigp/program/pulse/admissions/"
+    }
+  },
+  "notes": "About 20 students enter each fall across nine training groups (e.g. Cancer Biology, Integrative Neuroscience, Biomolecular Structure & Biophysics). Choose 'Life Science Interdisciplinary Program' on the application.",
+  "name": "Purdue University Interdisciplinary Life Science Program (PULSe)"
+}

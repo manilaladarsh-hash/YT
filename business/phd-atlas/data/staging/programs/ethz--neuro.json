@@ -1,0 +1,49 @@
+{
+  "id": "ethz--neuro",
+  "university": "ethz",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Neuroscience Center Zurich (ZNZ, ETH and UZH)",
+  "program_page": "https://www.neuroscience.uzh.ch/en/education/application.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "The ZNZ programme is not recruiting through the LSZGS portal for now; contact ZNZ group leaders about openings at any time.",
+      "quote": "Until further notice we do not recruit PhD students via the Life Science Zurich Graduate School online application portal (Track 1).",
+      "url": "https://www.neuroscience.uzh.ch/en/education/application.html",
+      "also": [
+        {
+          "quote": "Neuroscience (only for the deadlines of 1 November 2026 and 1 May 2027)",
+          "url": "https://www.lifescience-graduateschool.uzh.ch/en/application.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://www.neuroscience.uzh.ch/en/education/application.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Apply directly to a ZNZ group leader (Track II); registration starts once you and the supervisor agree on a project and a funded position.",
+      "quote": "You can contact ZNZ group leaders directly to enquire about PhD openings and apply to the group of your choice (Track II). | If the candidate and the future supervisor have both agreed on the PhD research project and a position is provided by the supervisor, the registration process can be started.",
+      "url": "https://www.neuroscience.uzh.ch/en/education/application.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "The supervisor provides the position and the group handles the employment contract.",
+      "quote": "a position is provided by the supervisor",
+      "url": "https://www.neuroscience.uzh.ch/en/education/application.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A completed university Master's degree is required before you can register for the doctorate.",
+      "quote": "You must have a university Master's degree.",
+      "url": "https://ethz.ch/en/doctorate/registration-admission/zulassungsbedingungen.html"
+    }
+  },
+  "notes": "Joint ETH/UZH programme; you matriculate at ETH if your supervisor is at ETH. Group leaders must hold a formal admission interview with another PI present.",
+  "name": "ZNZ PhD Program in Neuroscience"
+}

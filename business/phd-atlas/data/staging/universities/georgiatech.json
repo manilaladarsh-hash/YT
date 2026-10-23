@@ -1,0 +1,59 @@
+{
+  "id": "georgiatech",
+  "institution": "Georgia Institute of Technology",
+  "country": "USA",
+  "region": "Georgia",
+  "grad_page": "https://grad.gatech.edu/admissions/international",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "105 USD",
+      "value": "The application fee for international applicants is USD 105 per application (USD 95 for domestic).",
+      "quote": "As of August 1, 2023, the fee for international applicants is $105 per application.",
+      "url": "https://grad.gatech.edu/admissions/international/ready-to-apply"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Institute-level waivers only cover listed programs (e.g., Fulbright, McNair, GEM, recruiting events); Georgia Tech does not grant hardship waivers to international applicants, though some departments may consider their own waiver. Internationals must submit all materials, including English scores, before requesting one.",
+      "quote": "The Office of Graduate Education provides Institute-level application fee waivers for participants of the specific programs listed below. | The Office of Graduate Education does not review or approve requests based on financial hardship for international applicants. | If you don't meet the criteria for an Institute-level waiver, we encourage you to reach out directly to the graduate program you are applying to.",
+      "url": "https://grad.gatech.edu/admissions/application-fee-waivers",
+      "also": [
+        {
+          "quote": "International applicants must submit all required application materials prior to requesting a fee waiver.",
+          "url": "https://grad.gatech.edu/admissions/international/ready-to-apply"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Georgia Tech sets no Institute-wide GRE rule; each program decides (see the program records).",
+      "quote": "",
+      "url": "https://grad.gatech.edu/degree-programs"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "TOEFL iBT 90 overall with 19+ in each section (tests before January 2026), or 4.5 on the new scale (Reading/Listening/Writing 4+, Speaking 3.5+). Many programs require more; MyBest scores and Duolingo/PTE are not accepted.",
+      "quote": "TOEFL iBT Prior to January 2026: 90 or higher TOEFL iBT After January 2026: 4.5 or higher | Below are minimum institutional requirements. Individual graduate programs may require higher scores.",
+      "url": "https://grad.gatech.edu/english-proficiency"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic 7.0 overall with Reading, Listening and Speaking 6.5+ and Writing 5.5+.",
+      "quote": "IELTS Academic 7 or higher Reading ≥ 6.5 Listening ≥ 6.5 Speaking ≥ 6.5 Writing ≥ 5.5",
+      "url": "https://grad.gatech.edu/english-proficiency"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "From Fall 2027, India is not on the approved-country list, but a post-secondary degree taught in English satisfies the requirement if confirmed by a transcript notation, institutional letter or Medium of Instruction certificate; otherwise a TOEFL/IELTS score is needed.",
+      "quote": "Applicant has earned a post-secondary degree and can confirm English was the official language of instruction through one of these documents: Transcript notation Institutional letter Medium of Instruction certificate | If English was the language of instruction for your degree program, you may satisfy the English proficiency requirement by providing documentation from your institution confirming this.",
+      "url": "https://grad.gatech.edu/english-proficiency",
+      "also": [
+        {
+          "quote": "You have earned a post-secondary degree in one of the countries listed below.",
+          "url": "https://grad.gatech.edu/english-proficiency/exemptions"
+        }
+      ]
+    }
+  },
+  "notes": "New for Fall 2027: citizenship alone no longer satisfies the English requirement; an English-medium degree (with MOI proof) does. TOEFL MyBest, Duolingo and PTE are not accepted. Several departments set higher English minimums."
+}

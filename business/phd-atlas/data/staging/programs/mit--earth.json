@@ -1,0 +1,74 @@
+{
+  "id": "mit--earth",
+  "university": "mit",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Earth, Atmospheric and Planetary Sciences (EAPS)",
+  "program_page": "https://oge.mit.edu/programs/earth-atmospheric-and-planetary-sciences/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026, 11:59 PM US Eastern (application opens September 1). All supporting materials, including GRE and English scores, must arrive by the deadline; ELP waiver requests close November 28.",
+      "quote": "Deadline: December 1 at 11:59 PM Eastern Time",
+      "url": "https://oge.mit.edu/programs/earth-atmospheric-and-planetary-sciences/",
+      "inferred": "year",
+      "time_sensitive": "2026-11-28"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE General Test is required for the 2027-entry cycle (no minimum score).",
+      "quote": "The GRE General Test is required for the current (AY 2027) admissions cycle.",
+      "url": "https://eaps.mit.edu/education/graduate-program/graduate-admissions/",
+      "also": [
+        {
+          "quote": "General test required",
+          "url": "https://oge.mit.edu/programs/earth-atmospheric-and-planetary-sciences/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Physics Subject GRE is optional.",
+      "quote": "Physics subject test is optional",
+      "url": "https://oge.mit.edu/programs/earth-atmospheric-and-planetary-sciences/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "EAPS waives TOEFL/IELTS if you completed a four-year bachelor's taught exclusively in English (e.g. a 4-year Indian B.Tech/BS in English); request it in the application with proof, by November 28. Three-year degrees do not qualify for this waiver.",
+      "quote": "The department will waive the requirement for either the IELTS or TOEFL exam for those students who have completed a four year bachelor’s program that is taught exclusively in English.",
+      "url": "https://eaps.mit.edu/education/graduate-program/graduate-admissions/",
+      "also": [
+        {
+          "quote": "The last date to request an ELP waiver is November 28.",
+          "url": "https://oge.mit.edu/programs/earth-atmospheric-and-planetary-sciences/"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Besides OGE waivers, EAPS has a very limited number of its own fee waivers, with preference for economically disadvantaged international applicants who have already identified a potential EAPS advisor.",
+      "quote": "A very limited number of application fee waivers are available from the department directly to students who are not eligible for the MIT OGE program. Preference will be given to economically disadvantaged international applicants who have already identified a potential EAPS advisor.",
+      "url": "https://eaps.mit.edu/education/graduate-program/graduate-admissions/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages checked do not require a pre-arranged supervisor, though identifying a potential advisor helps for a department fee waiver.",
+      "quote": "",
+      "url": "https://eaps.mit.edu/education/graduate-program/graduate-admissions/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted doctoral students get full funding (stipend, tuition, health insurance), continued for five years with adequate progress.",
+      "quote": "All students admitted to our doctoral programs are provided with full funding that includes a stipend, tuition, and health insurance.",
+      "url": "https://oge.mit.edu/programs/earth-atmospheric-and-planetary-sciences/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "No master's needed; three-year international bachelor's degrees are also eligible.",
+      "quote": "Students who hold the equivalent of a bachelor’s degree from an international program that is three years in length are eligible to apply. | You do not need to hold a master’s degree to apply to our PhD program.",
+      "url": "https://eaps.mit.edu/education/graduate-program/graduate-admissions/"
+    }
+  },
+  "notes": "Areas: atmospheric science, climate, geobiology, geochemistry, geology, geophysics, planetary sciences. Test scores must be verified by December 15. EAPS covers up to $100 of the GRE fee for applicants with an ETS fee reduction or OGE fee waiver."
+}

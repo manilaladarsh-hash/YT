@@ -1,0 +1,60 @@
+{
+  "id": "berkeley--earth",
+  "university": "berkeley",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Earth and Planetary Science",
+  "program_page": "https://eps.berkeley.edu/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026, 8:59 pm Pacific.",
+      "quote": "Our application deadline for the 2027-2028 academic year is December 1, 2026 (8:59pm PST)",
+      "url": "https://eps.berkeley.edu/admissions"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional.",
+      "quote": "GRE scores are optional.",
+      "url": "https://eps.berkeley.edu/admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies.",
+      "quote": "",
+      "url": "https://eps.berkeley.edu/admissions"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Fee waivers are for US citizens/residents, but for international applicants a prospective advisor may sometimes pay the $155 fee; ask well before the deadline.",
+      "quote": "If you are an international applicant and cannot afford to pay the application fee, prospective faculty advisors might, in some cases, be able to pay your application fee from their own funds",
+      "url": "https://eps.berkeley.edu/admissions"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You are admitted directly into an advisor's research group and must pick at least one advisor; contacting faculty is strongly recommended.",
+      "quote": "Students are simultaneously admitted to the EPS Ph.D. program and to the research group of a faculty advisor, so the online application requires you to select at least one advisor.",
+      "url": "https://eps.berkeley.edu/admissions",
+      "also": [
+        {
+          "quote": "It is strongly recommended to contact professors you are interested in working with.",
+          "url": "https://eps.berkeley.edu/graduate-admissions-frequently-asked-questions"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Admitted students receive a funding package (fellowships, teaching, research appointments) covering fees, nonresident tuition and a stipend.",
+      "quote": "Upon admission to the PhD program, prospective students are provided a detailed funding package that specifies the length of funding and source of financial support.",
+      "url": "https://eps.berkeley.edu/graduate-admissions-frequently-asked-questions"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not required.",
+      "quote": "We accept applicants with masters degrees, but they are not required for admission.",
+      "url": "https://eps.berkeley.edu/graduate-admissions-frequently-asked-questions"
+    }
+  },
+  "notes": "All EPS PhD students must teach as a GSI for two semesters (higher English speaking standard)."
+}

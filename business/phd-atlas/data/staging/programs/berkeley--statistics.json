@@ -1,0 +1,54 @@
+{
+  "id": "berkeley--statistics",
+  "university": "berkeley",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Statistics",
+  "program_page": "https://statistics.berkeley.edu/academics/phd-program-admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026 for Fall 2027 (no spring intake).",
+      "quote": "The Fall 2027 application deadline is December 1, 2026.",
+      "url": "https://statistics.berkeley.edu/programs/graduate/admissions/requirements"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The General GRE is not required and will not be accepted.",
+      "quote": "General GRE: Not required and will not be accepted",
+      "url": "https://statistics.berkeley.edu/academics/phd-program-admissions"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Mathematics Subject GRE is optional; you may submit it if you have it.",
+      "quote": "Subject Tests: Optional",
+      "url": "https://statistics.berkeley.edu/academics/phd-program-admissions",
+      "also": [
+        {
+          "quote": "we do not require the Math subject test but if the scores are available you will have the option to submit as part of your application.",
+          "url": "https://statistics.berkeley.edu/programs/graduate/admissions/requirements"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You do not need to contact faculty before applying; list faculty you would like to work with on the application.",
+      "quote": "Does the Department require applicants to contact faculty before submitting an application? | No, this is not required.",
+      "url": "https://statistics.berkeley.edu/programs/graduate/admissions/requirements"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted PhD students receive up to five years of support (fellowships, GSI/GSR) with tuition and fees paid; nonresident tuition stays covered for international students.",
+      "quote": "all admitted Ph.D. students receive up to five years of financial support through a combination of fellowships, Graduate Student Instructor (GSI) appointments",
+      "url": "https://statistics.berkeley.edu/node/7727"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is enough; final-year students graduating by mid-August may apply.",
+      "quote": "A bachelor's degree or recognized equivalent from an accredited institution. If you are in your final year of studies, and you expect to earn your degree by mid-August of the following year, you may apply.",
+      "url": "https://statistics.berkeley.edu/programs/graduate/admissions/requirements"
+    }
+  },
+  "notes": "Biostatistics is a separate PhD (School of Public Health), not covered here."
+}

@@ -1,0 +1,71 @@
+{
+  "id": "imperial--chemistry",
+  "university": "imperial",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.imperial.ac.uk/natural-sciences/departments/chemistry/postgraduate/phd/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-02",
+      "value": "Chemistry accepts PhD applications all year, but international applicants seeking funding should target the college-wide President's PhD Scholarship rounds: 2 Nov 2026, 11 Jan 2027 or 1 Mar 2027 (23:59 UK time). The department's own scholarships (deadline 30 Nov 2026) are for home-fee students only.",
+      "quote": "Applicants who apply by 23:59 (UK time) 2 November 2026 and are awarded a scholarship will be notified by 31 January 2027. | Applicants who apply by 23:59 (UK time) 11 January 2027 | Applicants who apply by 23:59 (UK time) 1 March 2027",
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/",
+      "time_sensitive": "2026-11-02",
+      "also": [
+        {
+          "quote": "Applications are accepted throughout the year. We strongly recommend that candidates apply early to increase the chances of securing funding and supervision.",
+          "url": "https://imperial.ac.uk/dev-sites/study/in-progress/phd-courses-work-in-progress/chemistry"
+        },
+        {
+          "quote": "The date for submission of this documentation is Monday 30th November 2026.",
+          "url": "https://www.imperial.ac.uk/natural-sciences/departments/chemistry/postgraduate/phd/phd-studentships/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated",
+      "quote": "",
+      "url": "https://www.imperial.ac.uk/natural-sciences/departments/chemistry/postgraduate/phd/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You find a Chemistry supervisor whose research matches your idea and contact them to discuss it before you apply online. President's PhD Scholarship applicants must already have a supervisor's agreement.",
+      "quote": "To search for opportunities based on your own research idea, identify a supervisor whose objectives best match your idea and contact them to discuss your research ideas before you apply online",
+      "url": "https://www.imperial.ac.uk/natural-sciences/departments/chemistry/postgraduate/phd/",
+      "also": [
+        {
+          "quote": "You must have made contact with a supervisor in an academic department at Imperial College London who has agreed to supervise your research project.",
+          "url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "PhD funding comes from EPSRC, industry, scholarships and self-funding. Departmental scholarships and most advertised studentships are for home-fee students only, so Indian applicants usually rely on the competitive President's PhD Scholarship (open to all nationalities) or external scholarships.",
+      "quote": "Funding for these students comes from a diverse range of sources, including the EPSRC, industry, scholarships and self-funded students. | This scheme is only eligible to applicants who have home fee status.",
+      "url": "https://www.imperial.ac.uk/natural-sciences/departments/chemistry/postgraduate/phd/phd-studentships/",
+      "also": [
+        {
+          "quote": "This competitive scheme has higher than usual eligibility requirements, attracting candidates that show excellent academic performance and promising research potential.",
+          "url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The minimum is a 2:1 (upper second class) or equivalent degree in a relevant field, so a bachelor's can be enough; some advertised studentships ask for a master's.",
+      "quote": "Upper second class (2:1) or equivalent degree in a relevant field",
+      "url": "https://imperial.ac.uk/dev-sites/study/in-progress/phd-courses-work-in-progress/chemistry",
+      "also": [
+        {
+          "quote": "The position is available to candidates holding, or about to hold, a Masters degree in Chemistry",
+          "url": "https://www.imperial.ac.uk/natural-sciences/departments/chemistry/postgraduate/phd/phd-studentships/"
+        }
+      ]
+    }
+  },
+  "notes": "Apply for 'Chemistry Research (PhD)'. The 2:1 entry rule comes from Imperial's draft PhD course page (dev-sites), as the live department page gives no grade. The department admits 50-60 PhD students a year."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "utaustin--astronomy",
+  "university": "utaustin",
+  "field": "astronomy",
+  "also_fields": [],
+  "department": "Department of Astronomy",
+  "program_page": "https://astronomy.utexas.edu/academics-overview/admissions-how-apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-21",
+      "value": "Departmental deadline is December 21 (2026 for Fall 2027 entry); all materials must be in by then. Fall entry only.",
+      "quote": "Our Departmental Admissions Deadline is December 21. All materials must be received by this date in order for your application to be considered by our admissions committee.",
+      "url": "https://astronomy.utexas.edu/academics-overview/admissions-how-apply",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "Neither the General GRE nor the Physics GRE is required or considered.",
+      "quote": "GRE Scores are not required to apply to the Astronomy graduate program, and are not taken into account when reviewing applications. This includes the General GRE as well as the Physics GRE.",
+      "url": "https://astronomy.utexas.edu/academics-overview/admissions-how-apply"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "The Physics GRE is not required and not taken into account.",
+      "quote": "GRE Scores are not required to apply to the Astronomy graduate program, and are not taken into account when reviewing applications. This includes the General GRE as well as the Physics GRE.",
+      "url": "https://astronomy.utexas.edu/academics-overview/admissions-how-apply"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Fee waivers are not available for international applicants.",
+      "quote": "Waivers are not available for international applicants.",
+      "url": "https://astronomy.utexas.edu/academics-overview/admissions-how-apply"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applications are judged by the department's admissions committee; GRAs with a supervisor are arranged informally, and new students usually start as Teaching Assistants.",
+      "quote": "All materials must be received by this date in order for your application to be considered by our admissions committee. | New students are usually employed as Teaching Assistants unless they make arrangements for a GRA position prior to the beginning of the fall semester in which they enter the program.",
+      "url": "https://astronomy.utexas.edu/academics-overview/admissions-how-apply"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "The department aims to support all students via TA/GRA positions (wages plus tuition); all current students not on fellowships are employed by the department.",
+      "quote": "The Astronomy Department makes an effort to provide support to all of its students through Teaching Assistantships and Graduate Research Assistantships. | All of our current students are employed in the department if they are not on a fellowship, as has been the rule throughout the Department’s history.",
+      "url": "https://astronomy.utexas.edu/academics-overview/admissions-how-apply"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply with a bachelor's including 15-18 upper-division hours of astronomy and physics; PhD-only admission, with an optional master's along the way.",
+      "quote": "Prerequisites for graduate work in astronomy are at least fifteen to eighteen semester hours of upper-division course work in astronomy and physics | If you are admitted to our Ph.D. program, you have the option of applying for a masters in your second or third year.",
+      "url": "https://astronomy.utexas.edu/academics-overview/admissions-how-apply"
+    }
+  },
+  "notes": "Fall entry only. No master's-only admission."
+}
