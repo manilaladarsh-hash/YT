@@ -1,0 +1,48 @@
+{
+  "id": "uzh--datasci",
+  "university": "uzh",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "Graduate School for Data Science (PhD Program in Data Science)",
+  "program_page": "https://dm3l.uzh.ch/en/studies/phdds",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "No call: a faculty member must first offer you a position.",
+      "quote": "Students have to be offered a PhD position by an individual faculty member of a participating research group.",
+      "url": "https://dm3l.uzh.ch/en/studies/phdds"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "The prospective supervisor submits your application with a signed Confirmation of Supervision.",
+      "quote": "The prospective supervisor should send the application to the PhD Coordination",
+      "url": "https://dm3l.uzh.ch/en/studies/phdds",
+      "also": [
+        {
+          "quote": "a signed Confirmation of Supervision",
+          "url": "https://dm3l.uzh.ch/en/studies/phdds"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A Master's in science, mathematics or computer science or equivalent is required.",
+      "quote": "A Master's degree in Science, Mathematics, or Computer Science or an equivalent degree.",
+      "url": "https://dm3l.uzh.ch/en/studies/phdds"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://dm3l.uzh.ch/en/studies/phdds"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://dm3l.uzh.ch/en/studies/phdds"
+    }
+  },
+  "notes": ""
+}
