@@ -1,0 +1,61 @@
+{
+  "id": "dalhousie--bme",
+  "university": "dalhousie",
+  "field": "bme",
+  "also_fields": [],
+  "department": "School of Biomedical Engineering",
+  "program_page": "https://www.dal.ca/faculty/school-biomedical-engineering/education.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "Non-Canadian applicants apply by April 1, 2027 for September entry (Canadians June 1).",
+      "quote": "For September admission: June 1 (Canadian applicants), April 1 (non-Canadian applicants)",
+      "url": "https://www.dal.ca/faculty/school-biomedical-engineering/education.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the department's pages.",
+      "quote": "",
+      "url": "https://www.dal.ca/faculty/school-biomedical-engineering/education.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Acceptance is conditional on finding and confirming a supervisor; name two or more potential supervisors in your application letter.",
+      "quote": "Acceptance is conditional upon finding and confirming a supervisor. | The names of two or more potential thesis supervisors (see Our Faculty for faculty research interests) should be included in your letter.",
+      "url": "https://www.dal.ca/faculty/school-biomedical-engineering/education.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All graduate students in the School receive funding.",
+      "quote": "All graduate students in the School of Biomedical Engineering receive funding to support their studies.",
+      "url": "https://www.dal.ca/faculty/school-biomedical-engineering/education.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Apply from a thesis-based master's in health, engineering or physical science, or transfer from the School's MASc.",
+      "quote": "You may apply from a thesis-based master's programs in any health, engineering or physical science discipline. | If you are already in the MASc program, you may transfer to a PhD program after you complete three half-classes and a successful PhD Transfer Examination.",
+      "url": "https://www.dal.ca/faculty/school-biomedical-engineering/education.html"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE scores are recommended for applicants whose undergraduate degree is from outside Canada (PhD applicants must meet the MASc entry requirements).",
+      "quote": "GRE Aptitude and Advanced scores in one of the sciences are recommended for all applicants whose undergraduate work has been completed outside Canada. | In such cases, all of the requirements for entry into the MASc program must be satisfied.",
+      "url": "https://www.dal.ca/faculty/school-biomedical-engineering/education.html"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "Biomedical Engineering asks for TOEFL iBT 100.",
+      "quote": "Department-specific English language requirements | Biomedical Engineering 100 7.5 A",
+      "url": "https://www.dal.ca/study/program-sites/chemistry/admissions.html"
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "Biomedical Engineering asks for IELTS 7.5.",
+      "quote": "Department-specific English language requirements | Biomedical Engineering 100 7.5 A",
+      "url": "https://www.dal.ca/study/program-sites/chemistry/admissions.html"
+    }
+  },
+  "notes": "Department minimum GPA 3.3/4.3; most admits have 3.7 or better."
+}

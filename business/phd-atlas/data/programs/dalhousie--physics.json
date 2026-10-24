@@ -56,35 +56,11 @@
         }
       ]
     },
-    "app_fee": {
-      "code": "115 CAD",
-      "value": "CAD 115 for the formal FGS application (the department pre-application is free)",
-      "quote": "To apply, complete the online application form and pay the $115 application fee.",
-      "url": "https://www.dal.ca/faculty/gradstudies/apply-graduate-studies/how-to-apply.html",
-      "also": [
-        {
-          "quote": "There is an application fee for this step.",
-          "url": "https://www.dal.ca/faculty/science/physics/graduate/apply.html"
-        }
-      ]
-    },
     "gre_general": {
       "code": "Not required",
       "value": "GRE not required",
       "quote": "No GRE: you don't need to take the GRE (Graduate Record Examination).",
       "url": "https://www.dal.ca/faculty/science/physics/graduate/apply.html"
-    },
-    "toefl_min": {
-      "code": "92",
-      "value": "TOEFL iBT 92 (tests before Jan 21, 2026); 4.5 on the new 1-6 scale for later tests; IELTS 7",
-      "quote": "For tests taken before January 21, 2026 | Minimum acceptable score: 92 | For tests taken on or after January 21, 2026, only the 1-6 score scale* is considered: Overall score of at least 4.5. | IELTS (Academic, in-person and online) | Minimum acceptable score: 7",
-      "url": "https://www.dal.ca/faculty/gradstudies/apply-graduate-studies/admission-requirements/english-requirements.html"
-    },
-    "english_waiver": {
-      "code": "Conditional",
-      "value": "Waiver can be requested (not automatic) if your degree is from a recognized university with English as the language of instruction in a country where English is an official language; English is an official language of India, but confirm the waiver with the program",
-      "quote": "It is possible to have this requirement waived if you completed your degree at a recognized university where the language of instruction is English and in a country where English is one of the official languages. You will be able to request this waiver during the application process.",
-      "url": "https://www.dal.ca/faculty/gradstudies/apply-graduate-studies/admission-requirements/english-requirements.html"
     }
   },
   "notes": "Apply via a free department pre-application first; a professor interviews you and funding is fixed before the formal FGS application. International PhD tuition equals domestic. Department Graduate Scholarship (CAD 20,000/yr, GPA 3.7+) open to internationals."

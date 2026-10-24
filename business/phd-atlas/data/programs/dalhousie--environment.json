@@ -1,0 +1,50 @@
+{
+  "id": "dalhousie--environment",
+  "university": "dalhousie",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Oceanography",
+  "program_page": "https://www.dal.ca/faculty/science/oceanography/GraduatePrograms1/ProspectiveStudents.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "Apply by April 1, 2027 (the Faculty of Graduate Studies deadline for non-Canadian applicants for September entry; the department sets no earlier date).",
+      "quote": "For September admission: | June 1 (Canadian applicants), April 1 (non-Canadian applicants)",
+      "url": "https://www.dal.ca/faculty/gradstudies/apply-graduate-studies/how-to-apply.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Many departments have their own deadlines, which can be much earlier than the above deadlines.",
+          "url": "https://www.dal.ca/study/program-sites/chemistry/admissions/how-to-apply.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the department's pages.",
+      "quote": "",
+      "url": "https://www.dal.ca/faculty/science/oceanography/GraduatePrograms1/ProspectiveStudents.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applications are reviewed only with a supervisor's support; contact faculty before applying.",
+      "quote": "Applicants to graduate programs are strongly advised to establish personal contact with potential faculty supervisors before beginning the formal application process. | Applications must have the support of a supervisor to be reviewed.",
+      "url": "https://www.dal.ca/faculty/science/oceanography/GraduatePrograms1/ProspectiveStudents.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Students typically pay no tuition; living and research costs come mainly from supervisors' research grants.",
+      "quote": "Students do not typically pay tuition. Instead, support for the students’ living and research expenses comes mainly from supervisors’ research grants.",
+      "url": "https://www.dal.ca/faculty/science/oceanography/GraduatePrograms1/ProspectiveStudents.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the department's pages.",
+      "quote": "",
+      "url": "https://www.dal.ca/faculty/science/oceanography/GraduatePrograms1/ProspectiveStudents.html"
+    }
+  },
+  "notes": "",
+  "name": "Oceanography (PhD)"
+}

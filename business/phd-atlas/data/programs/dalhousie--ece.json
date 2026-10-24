@@ -1,0 +1,49 @@
+{
+  "id": "dalhousie--ece",
+  "university": "dalhousie",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical and Computer Engineering",
+  "program_page": "https://www.dal.ca/faculty/engineering/electrical/programs/JRD-GraduatePrograms.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "Non-Canadian applicants apply by April 1, 2027 for September entry (Canadians June 1).",
+      "quote": "Application Deadlines Term Canadian Applicants Non-Canadian Applicants September Admission June 1 April 1",
+      "url": "https://www.dal.ca/faculty/engineering/electrical/programs/JRD-GraduatePrograms.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the department's pages.",
+      "quote": "",
+      "url": "https://www.dal.ca/faculty/engineering/electrical/programs/JRD-GraduatePrograms.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A professor must accept you into their research program before admission.",
+      "quote": "In order to be admitted to an academic graduate program, an applicant must be accepted by a professor into his/her research program, in addition to meeting all the above requirements for admission.",
+      "url": "https://www.dal.ca/faculty/engineering/electrical/programs/JRD-GraduatePrograms.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Only limited scholarships and research/teaching assistantships may be available, depending on merit and funds.",
+      "quote": "Limited financial aid in the form of scholarships, research and teaching assistantships may be available, depending on (1) an applicant’s request in his/her application, (2) excellence of the applicant and (3) availability of funds.",
+      "url": "https://www.dal.ca/faculty/engineering/electrical/programs/JRD-GraduatePrograms.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "With a research master's the PhD needs 4 courses, otherwise 12; foreign students may be asked to start in the MASc as a qualifying period.",
+      "quote": "this degree program requires the candidates to complete 4 courses (12 credits), a seminar course and a research dissertation if a candidate already has a research Master's degree; otherwise the candidates have to complete 12 courses | Foreign students may be required to enter the M.A.Sc. program as a qualifying period prior to consideration for the Ph.D. program.",
+      "url": "https://www.dal.ca/faculty/engineering/electrical/programs/JRD-GraduatePrograms.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "The department exempts English-taught degrees only from a country where English is the principal language, which may not cover India; otherwise request the FGS waiver or submit a test.",
+      "quote": "Possession of a baccalaureate degree or its academic equivalent from an academic institution recognized by Dalhousie, in which the language of instruction is English, and in a country where English is the principal language",
+      "url": "https://www.dal.ca/faculty/engineering/electrical/programs/JRD-GraduatePrograms.html"
+    }
+  },
+  "notes": "Department page still quotes TOEFL on the old paper scale (580); the FGS iBT minimum applies."
+}

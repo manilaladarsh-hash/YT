@@ -1,0 +1,64 @@
+{
+  "id": "sfu--ece",
+  "university": "sfu",
+  "field": "ece",
+  "also_fields": [
+    "bme"
+  ],
+  "department": "School of Engineering Science",
+  "program_page": "https://www.sfu.ca/fas/study/future-graduates/programs/phd-engineering-science.html",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The school's Fall intake window runs September 1 to January 15 (year inferred); Graduate Studies lists Fall 2027 applications as open until February 15, 2027. Apply by January 15 to be safe.",
+      "quote": "Fall (September) | September 1 – January 15",
+      "url": "https://www.sfu.ca/fas/study/future-graduates/apply/engineering-science.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Accepting applications for Fall 2027 start: September 1, 2026 - February 15, 2027",
+          "url": "https://www.sfu.ca/gradstudies/apply/common-questions-answers-applicants.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required.",
+      "quote": "We do not require GRE test.",
+      "url": "https://www.sfu.ca/fas/study/future-graduates/apply/engineering-science.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test exists for engineering; the GRE is not required.",
+      "quote": "",
+      "url": "https://www.sfu.ca/fas/study/future-graduates/apply/engineering-science.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must find a faculty member willing to supervise you before admission; contact professors directly.",
+      "quote": "PhD program is a research-based program and applicants are expected to identify a Supervisor prior to admission. Applicants are required to reach out to individual professors / faculty members to seek commitment as their thesis supervisor.",
+      "url": "https://www.sfu.ca/fas/study/future-graduates/programs/phd-engineering-science.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Thesis-based PhD students get guaranteed funding, mostly as research funding from the supervisor for 4 years; TA posts and fellowships are extra and competitive. The package is stated in the offer letter.",
+      "quote": "The School of Engineering Science provides financial support to thesis based PhD and MASc students. | The research funding for PhD lasts for 4 years.",
+      "url": "https://www.sfu.ca/fas/study/current-students/school-of-engineering-science/graduates/financial-support.html",
+      "also": [
+        {
+          "quote": "The research funding for PhD lasts for 4 years.",
+          "url": "https://www.sfu.ca/fas/study/future-graduates/programs/phd-engineering-science.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's degree in electrical or mechanical engineering, physics, computer science or a related field is required.",
+      "quote": "must have a master's degree in electrical engineering, mechanical engineering, physics, computer science or a related field",
+      "url": "https://www.sfu.ca/fas/study/future-graduates/programs/phd-engineering-science.html"
+    }
+  },
+  "notes": "Research areas include communications and signal processing, biomedical engineering, microelectronics, systems and robotics, and computer engineering.",
+  "name": "PhD in Engineering Science"
+}

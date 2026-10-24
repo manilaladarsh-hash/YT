@@ -1,0 +1,49 @@
+{
+  "id": "dalhousie--chemistry",
+  "university": "dalhousie",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.dal.ca/study/program-sites/chemistry/program-details/doctor-of-science.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "Apply by April 1, 2027 as a non-Canadian applicant for September entry (Canadians June 1). Funding is considered with the admission application.",
+      "quote": "For September: June 1st (Canadian), April 1st (Non-Canadian)",
+      "url": "https://www.dal.ca/study/program-sites/chemistry/program-details/doctor-of-science.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the department's pages.",
+      "quote": "",
+      "url": "https://www.dal.ca/study/program-sites/chemistry/program-details/doctor-of-science.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "The department encourages you to contact potential supervisors before you start; the Graduate Studies Committee reviews applications.",
+      "quote": "Before you begin your studies at Dalhousie, we encourage you to visit the department or start an email correspondence with faculty members whose research interests you.",
+      "url": "https://www.dal.ca/study/program-sites/chemistry/program-details/doctor-of-science.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Full-time students are supported by supervisors' research awards plus paid teaching in undergraduate labs, normally for four years in the PhD.",
+      "quote": "The Chemistry Program considers financial support for students at the same time as admission. | We support full-time graduate students by research awards from their supervisors and by remuneration for teaching in undergraduate laboratories. | Normally, that is two years for MSc students, and four years for PhD students.",
+      "url": "https://www.dal.ca/study/program-sites/chemistry/funding-and-support/awards-and-grants.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Most PhD entrants hold a master's, but you can enter from a BSc (with more coursework) or transfer from the MSc.",
+      "quote": "PhD degree candidates proceeding from a BSc degree require a minimum of four one-term courses at the graduate level",
+      "url": "https://www.dal.ca/study/program-sites/chemistry/program-details/doctor-of-science.html",
+      "also": [
+        {
+          "quote": "Most candidates for admission to a doctoral program possess a Master's Degree. Direct entry to some programs is possible for those with exceptional academic standing",
+          "url": "https://www.dal.ca/study/program-sites/chemistry/admissions.html"
+        }
+      ]
+    }
+  },
+  "notes": "MSc students can transfer to the PhD without finishing the MSc. PhD Qualifying Report within 18 months."
+}

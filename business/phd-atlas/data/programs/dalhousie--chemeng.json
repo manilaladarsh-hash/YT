@@ -1,0 +1,56 @@
+{
+  "id": "dalhousie--chemeng",
+  "university": "dalhousie",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Department of Process Engineering and Applied Science",
+  "program_page": "https://www.dal.ca/faculty/engineering/peas/programs/graduate/grad-chemical-engineering.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "Apply by April 1, 2027 (the Faculty of Graduate Studies deadline for non-Canadian applicants for September entry; the department sets no earlier date).",
+      "quote": "For September admission: | June 1 (Canadian applicants), April 1 (non-Canadian applicants)",
+      "url": "https://www.dal.ca/faculty/gradstudies/apply-graduate-studies/how-to-apply.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Many departments have their own deadlines, which can be much earlier than the above deadlines.",
+          "url": "https://www.dal.ca/study/program-sites/chemistry/admissions/how-to-apply.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the department's pages.",
+      "quote": "",
+      "url": "https://www.dal.ca/faculty/engineering/peas/programs/graduate/grad-chemical-engineering.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A professor must accept you into their research program.",
+      "quote": "To be admitted to the MASc or PhD programs, an applicant must be accepted by a professor into his/her research program in addition to meeting the other requirements for admission.",
+      "url": "https://www.dal.ca/faculty/engineering/peas/programs/graduate/grad-chemical-engineering.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the department's pages.",
+      "quote": "",
+      "url": "https://www.dal.ca/faculty/engineering/peas/programs/graduate/grad-chemical-engineering.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "With a research master's the PhD needs 4 courses; without one, 8 courses.",
+      "quote": "The PhD Degree requires 4 courses if a candidate already has a research Master’s degree; otherwise, it requires 8 courses.",
+      "url": "https://www.dal.ca/faculty/engineering/peas/programs/graduate/grad-chemical-engineering.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "The department exempts a bachelor's from a recognized institution taught in English, subject to FGS verification.",
+      "quote": "Possession of a baccalaureate degree or its academic equivalent from an academic institution recognized by Dalhousie University, in which the language of instruction is English",
+      "url": "https://www.dal.ca/faculty/engineering/peas/programs/graduate/grad-chemical-engineering.html"
+    }
+  },
+  "notes": "Department page quotes TOEFL on the old paper scale (580); the FGS iBT minimum applies.",
+  "name": "Chemical Engineering (PhD)"
+}

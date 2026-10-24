@@ -3,45 +3,45 @@
   "institution": "Dalhousie University",
   "country": "Canada",
   "region": "Nova Scotia",
-  "grad_page": "https://www.dal.ca/faculty/science/physics/graduate/apply.html",
-  "checked": "2026-10-21",
+  "grad_page": "https://www.dal.ca/faculty/gradstudies/apply-graduate-studies.html",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.dal.ca/faculty/science/physics/graduate/apply.html"
+      "code": "115 CAD",
+      "value": "The Faculty of Graduate Studies application fee is CAD 115, paid before the application is processed.",
+      "quote": "To apply, complete the online application form and pay the $115 application fee. | Payment must be received before your application is processed.",
+      "url": "https://www.dal.ca/faculty/gradstudies/apply-graduate-studies/how-to-apply.html"
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "The graduate studies pages don't mention an application-fee waiver.",
       "quote": "",
-      "url": "https://www.dal.ca/faculty/science/physics/graduate/apply.html"
+      "url": "https://www.dal.ca/faculty/gradstudies/apply-graduate-studies/how-to-apply.html"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.dal.ca/faculty/science/physics/graduate/apply.html"
+      "value": "No university-wide GRE rule; a few programs ask for it, so check the program record.",
+      "quote": "Some require GMAT or GRE test results, a portfolio of applied work, or a minimum GPA that exceeds 3.0.",
+      "url": "https://www.dal.ca/faculty/gradstudies/apply-graduate-studies/admission-requirements.html"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.dal.ca/faculty/science/physics/graduate/apply.html"
+      "code": "92",
+      "value": "TOEFL iBT 92 for tests taken before 21 January 2026; for later tests, 4.5 overall on the new 1-6 scale. Some programs ask for more.",
+      "quote": "Test of English as a Foreign Language | For tests taken before January 21, 2026 | Minimum acceptable score: 92 | For tests taken on or after January 21, 2026, only the 1-6 score scale* is considered: Overall score of at least 4.5.",
+      "url": "https://www.dal.ca/faculty/gradstudies/apply-graduate-studies/admission-requirements/english-requirements.html"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.dal.ca/faculty/science/physics/graduate/apply.html"
+      "code": "7",
+      "value": "IELTS Academic 7.0 overall. Some programs ask for more.",
+      "quote": "IELTS (Academic, in-person and online) | Minimum acceptable score: 7",
+      "url": "https://www.dal.ca/faculty/gradstudies/apply-graduate-studies/admission-requirements/english-requirements.html"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.dal.ca/faculty/science/physics/graduate/apply.html"
+      "code": "Conditional",
+      "value": "You can request a waiver during the application if your degree is from a recognized university taught in English, in a country where English is an official language (India qualifies on that wording); it is not automatic.",
+      "quote": "It is possible to have this requirement waived if you completed your degree at a recognized university where the language of instruction is English and in a country where English is one of the official languages. | You will be able to request this waiver during the application process.",
+      "url": "https://www.dal.ca/faculty/gradstudies/apply-graduate-studies/admission-requirements/english-requirements.html"
     }
   },
-  "notes": ""
+  "notes": "All graduate programs apply through the Faculty of Graduate Studies. General deadline for non-Canadians is April 1 for September entry; several departments set earlier dates. FGS minimum for a PhD is a thesis-based master's with a 3.0 GPA over the last 60 credit hours."
 }

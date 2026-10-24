@@ -1,0 +1,55 @@
+{
+  "id": "dalhousie--biology",
+  "university": "dalhousie",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://www.dal.ca/faculty/science/biology/graduate/graduate-program-faqs.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "Apply by April 1, 2027 (the Faculty of Graduate Studies deadline for non-Canadian applicants for September entry; the department sets no earlier date).",
+      "quote": "For September admission: | June 1 (Canadian applicants), April 1 (non-Canadian applicants)",
+      "url": "https://www.dal.ca/faculty/gradstudies/apply-graduate-studies/how-to-apply.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Many departments have their own deadlines, which can be much earlier than the above deadlines.",
+          "url": "https://www.dal.ca/study/program-sites/chemistry/admissions/how-to-apply.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the department's pages.",
+      "quote": "",
+      "url": "https://www.dal.ca/faculty/science/biology/graduate/graduate-program-faqs.html"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are not required, though the department appreciates receiving them.",
+      "quote": "Are GRE scores required/mandatory for my application? | No, but we do appreciate receiving them",
+      "url": "https://www.dal.ca/faculty/science/biology/graduate/graduate-program-faqs.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "An application is only complete once a supervisor has agreed to support your studies and funding; without one it is usually rejected.",
+      "quote": "A supervisor has agreed to support your studies and funding | Applicants who apply without a supervisor in place may sometimes have their application accepted if a supervisor can be found, but more frequently their application is rejected for lack of a",
+      "url": "https://www.dal.ca/faculty/science/biology/graduate/graduate-application-process.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every accepted PhD student is guaranteed a minimum stipend after tuition and fees for four years; nobody is accepted without funding.",
+      "quote": "A student will not be accepted unless funding is assured. | Every graduate student who is accepted into either a MSc (two-year) or PhD (four-year) program in the Department of Biology is guaranteed a minimum stipend after tuition and other fees.",
+      "url": "https://www.dal.ca/faculty/science/biology/graduate/graduate-program-faqs.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Without a graduate degree you must apply to the MSc and can transfer to the PhD at the candidacy exam after 4-8 months.",
+      "quote": "If you do not already have a graduate degree you must apply to the MSc program. | At your Admission to Candidacy exam, which occurs after four to eight months in the program, you may apply to transfer to the PhD program.",
+      "url": "https://www.dal.ca/faculty/science/biology/graduate/graduate-program-faqs.html"
+    }
+  },
+  "notes": "Students are rarely admitted without an honours degree."
+}

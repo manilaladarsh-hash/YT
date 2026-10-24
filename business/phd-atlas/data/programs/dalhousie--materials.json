@@ -1,0 +1,62 @@
+{
+  "id": "dalhousie--materials",
+  "university": "dalhousie",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering",
+  "program_page": "https://www.dal.ca/faculty/engineering/mechanical/programs/graduate/PhD.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "Apply by April 1, 2027 (the Faculty of Graduate Studies deadline for non-Canadian applicants for September entry; the department sets no earlier date).",
+      "quote": "For September admission: | June 1 (Canadian applicants), April 1 (non-Canadian applicants)",
+      "url": "https://www.dal.ca/faculty/gradstudies/apply-graduate-studies/how-to-apply.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Many departments have their own deadlines, which can be much earlier than the above deadlines.",
+          "url": "https://www.dal.ca/study/program-sites/chemistry/admissions/how-to-apply.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the department's pages.",
+      "quote": "",
+      "url": "https://www.dal.ca/faculty/engineering/mechanical/programs/graduate/PhD.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A department faculty member must first select you as a supervisee before FGS considers your application; contact supervisors well before applying.",
+      "quote": "In order to be considered for admission by the Faculty of Graduate Studies, an applicant must first be selected by a potential supervisor (faculty member) in the department.",
+      "url": "https://www.dal.ca/faculty/engineering/mechanical/programs/graduate/PhD.html",
+      "also": [
+        {
+          "quote": "Materials Engineering (PhD) | Unit Department of Mechanical Engineering",
+          "url": "https://www.dal.ca/study/programs/graduate-professional/materials-engineering-phd.html"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Depends on whether your supervisor has project funding; no general commitment is stated.",
+      "quote": "",
+      "url": "https://www.dal.ca/faculty/engineering/mechanical/programs/graduate/PhD.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The PhD requires a thesis-based research master's degree.",
+      "quote": "The Doctor of Philosophy is primarily a research degree and requires a thesis-based research master’s degree for admission.",
+      "url": "https://www.dal.ca/faculty/engineering/mechanical/programs/graduate/PhD.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "The department accepts prior instruction in English in place of a test (IELTS 7.0 otherwise), subject to FGS verification.",
+      "quote": "English proficiency minimums: | Instruction in English or | IELTS – overall band of 7.0",
+      "url": "https://www.dal.ca/faculty/engineering/mechanical/programs/graduate/PhD.html"
+    }
+  },
+  "notes": "The Materials Engineering PhD is run by the Department of Mechanical Engineering under the same admission rules.",
+  "name": "Materials Engineering (PhD)"
+}

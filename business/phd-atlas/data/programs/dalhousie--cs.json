@@ -1,0 +1,43 @@
+{
+  "id": "dalhousie--cs",
+  "university": "dalhousie",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Faculty of Computer Science",
+  "program_page": "https://www.dal.ca/study/programs/graduate-professional/computer-science-phd.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "Apply by April 1, 2027 as an international applicant for September entry (Canadians June 1).",
+      "quote": "April 1 (international) / June 1 (Canadian) for a September start.",
+      "url": "https://www.dal.ca/study/programs/graduate-professional/computer-science-phd.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the department's pages.",
+      "quote": "",
+      "url": "https://www.dal.ca/study/programs/graduate-professional/computer-science-phd.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must find a supervisor who will support and fund your research before you are accepted.",
+      "quote": "Before being accepted into the program, you need to find a supervisor who can support your research interests, provide funding and has the capacity to take on the supervisory responsibility.",
+      "url": "https://www.dal.ca/study/programs/graduate-professional/computer-science-phd.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "PhD students are admitted with funding tied to a professor's research project, confirmed by the supervisor; you can also apply for faculty and FGS scholarships.",
+      "quote": "The Faculty of Computer Science admits PhD students with funding tied to research projects, and you can also apply for Faculty assessed and FGS scholarships. | Ultimately, funding is therefore confirmed by a professor who agrees to supervise your PhD.",
+      "url": "https://www.dal.ca/study/programs/graduate-professional/computer-science-phd.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's in CS or a related field with an A- average is normally required; an exceptional post-bachelor route may be considered.",
+      "quote": "A Master’s degree in Computer Science or a related technical field is normally required with a minimum A ... an exceptional post bachelor pathway may be considered.",
+      "url": "https://www.dal.ca/study/programs/graduate-professional/computer-science-phd.html"
+    }
+  },
+  "notes": "Needs a 700-word research proposal, CV and two references."
+}
