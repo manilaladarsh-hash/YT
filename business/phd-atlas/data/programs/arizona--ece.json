@@ -1,0 +1,55 @@
+{
+  "id": "arizona--ece",
+  "university": "arizona",
+  "field": "ece",
+  "also_fields": [],
+  "department": "School of Electrical, Computing, and Software Engineering",
+  "program_page": "https://ece.engineering.arizona.edu/grad-programs/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "PhD fall priority deadline December 1; final deadline March 15.",
+      "quote": "Fall Semester - Main Campus only | Priority deadline - December 1",
+      "url": "https://ece.engineering.arizona.edu/grad-programs/admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE is not required for MS or PhD.",
+      "quote": "GRE results are not required for the MS and PhD programs.",
+      "url": "https://ece.engineering.arizona.edu/grad-programs/admissions"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Direct-track PhD from a bachelor's and a post-MS PhD both exist.",
+      "quote": "If you are applying to the direct track PhD, at least one letter must be from a faculty member of your undergraduate program.",
+      "url": "https://ece.engineering.arizona.edu/grad-programs/admissions",
+      "also": [
+        {
+          "quote": "If you are applying to the post-MS PhD, at least one letter must be from a faculty member of your graduate program.",
+          "url": "https://ece.engineering.arizona.edu/grad-programs/admissions"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://ece.engineering.arizona.edu/grad-programs/admissions"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://ece.engineering.arizona.edu/grad-programs/admissions"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://ece.engineering.arizona.edu/grad-programs/admissions"
+    }
+  },
+  "notes": ""
+}

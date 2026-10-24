@@ -1,0 +1,61 @@
+{
+  "id": "arizona--environment",
+  "university": "arizona",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Environmental Science",
+  "program_page": "https://envs.arizona.edu/graduate/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "International applicants: fall deadline December 1.",
+      "quote": "International applications: Fall semester: December 1st",
+      "url": "https://envs.arizona.edu/graduate/admissions",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The department cannot provide application fee waivers.",
+      "quote": "the Department of Environmental Science is unable to provide application fee waivers",
+      "url": "https://envs.arizona.edu/graduate/admissions"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are requested but not required.",
+      "quote": "GRE scores are requested, but not required",
+      "url": "https://envs.arizona.edu/graduate/admissions"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Department asks for TOEFL iBT 80 (550 paper).",
+      "quote": "TOEFL score must be at least 550 (paper-based) or 80 (Internet-based).",
+      "url": "https://envs.arizona.edu/graduate/admissions"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admission depends on a faculty member being available to supervise you.",
+      "quote": "Acceptance into our department is granted to a student based on the availability of a faculty member to supervise a student.",
+      "url": "https://envs.arizona.edu/graduate/admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://envs.arizona.edu/graduate/admissions"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://envs.arizona.edu/graduate/admissions"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://envs.arizona.edu/graduate/admissions"
+    }
+  },
+  "notes": ""
+}

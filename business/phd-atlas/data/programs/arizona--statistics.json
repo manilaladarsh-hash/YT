@@ -1,0 +1,51 @@
+{
+  "id": "arizona--statistics",
+  "university": "arizona",
+  "field": "statistics",
+  "also_fields": [
+    "datasci"
+  ],
+  "department": "Statistics & Data Science Graduate Interdisciplinary Program",
+  "program_page": "https://stat.arizona.edu/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Fall admission only; apply by January 1.",
+      "quote": "Fall Admission Only - Application Deadline, January 1",
+      "url": "https://stat.arizona.edu/admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE is not required but highly recommended.",
+      "quote": "GRE is not required but is highly recommended.",
+      "url": "https://stat.arizona.edu/admissions"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants need a relevant bachelor's degree or an advanced degree in a quantitative field.",
+      "quote": "Applicants must have or be in the process of completing a bachelor's degree in Statistics, Biostatistics, Mathematics or Applied Mathematics or an advanced degree in a field that makes significant use of quantitative methods.",
+      "url": "https://stat.arizona.edu/admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://stat.arizona.edu/admissions"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://stat.arizona.edu/admissions"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://stat.arizona.edu/admissions"
+    }
+  },
+  "notes": "Regular or statistical informatics track. Extra English requirements apply for program financial aid (see handbook)."
+}

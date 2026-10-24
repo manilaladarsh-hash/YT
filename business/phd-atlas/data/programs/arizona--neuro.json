@@ -1,0 +1,55 @@
+{
+  "id": "arizona--neuro",
+  "university": "arizona",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Program in Neuroscience",
+  "program_page": "https://neuroscience.arizona.edu/admissions/how-apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall only; applications due December 1.",
+      "quote": "The deadline for applications is December 1st.",
+      "url": "https://neuroscience.arizona.edu/admissions/how-apply",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Fee waived case by case on request.",
+      "quote": "Fee waived on case by case based upon request.",
+      "url": "https://neuroscience.arizona.edu/admissions/how-apply"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "First-year students take courses and do lab rotations before joining a lab.",
+      "quote": "First-year students are supported by Program funds while they take courses and do lab rotations.",
+      "url": "https://neuroscience.arizona.edu/admissions/financial-support"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All students in good standing receive stipend, tuition waiver and health insurance.",
+      "quote": "All students in good standing in the Program of Neuroscience receive financial support in the form of an annual stipend, out-of-state tuition waiver, and health insurance.",
+      "url": "https://neuroscience.arizona.edu/admissions/financial-support"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's is the minimum; MS or MD holders are also encouraged.",
+      "quote": "Applicants must complete at least a baccalaureate degree or its equivalent prior to enrollment in the Program.",
+      "url": "https://neuroscience.arizona.edu/admissions/admission-requirements",
+      "also": [
+        {
+          "quote": "Students with the M.S. or M.D. or other advanced degrees are also encouraged to apply for admission to the Program.",
+          "url": "https://neuroscience.arizona.edu/admissions/admission-requirements"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://neuroscience.arizona.edu/admissions/how-apply"
+    }
+  },
+  "notes": ""
+}

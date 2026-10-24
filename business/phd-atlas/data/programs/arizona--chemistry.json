@@ -1,0 +1,55 @@
+{
+  "id": "arizona--chemistry",
+  "university": "arizona",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry and Biochemistry",
+  "program_page": "https://cbc.arizona.edu/graduate-studies/how-apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Applications due before December 15 for fall, all applicants.",
+      "quote": "Application materials must be submitted before December 15th (for all applicants).",
+      "url": "https://cbc.arizona.edu/graduate-studies/how-apply",
+      "inferred": "year"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Department requires TOEFL iBT 80 with at least 24 on speaking; higher than the Graduate College minimum.",
+      "quote": "A minimum aggregate TOEFL score of 80, with a score of at least 24 on the speaking portion, is required for admission.",
+      "url": "https://cbc.arizona.edu/graduate-studies/how-apply"
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "Department requires IELTS composite 7.5 with no band below 6.",
+      "quote": "An IELTS (International English Language Testing System) minimum composite score of 7.5, with no subject area below a 6.",
+      "url": "https://cbc.arizona.edu/graduate-studies/how-apply"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students do three lab rotations in fall before choosing a dissertation advisor.",
+      "quote": "students undertake three laboratory rotations in the Fall semester prior to choosing a dissertation advisor",
+      "url": "https://cbc.arizona.edu/graduate-studies/how-apply"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All PhD students in good standing receive an assistantship plus tuition remission and health insurance.",
+      "quote": "All Ph.D. students in good standing are provided financial support in the form of a teaching or research assistantship.",
+      "url": "https://cbc.arizona.edu/graduate-studies/how-apply"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://cbc.arizona.edu/graduate-studies/how-apply"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://cbc.arizona.edu/graduate-studies/how-apply"
+    }
+  },
+  "notes": "Same department also runs the Biochemistry PhD (rotation-based)."
+}
