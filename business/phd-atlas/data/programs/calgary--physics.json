@@ -2,10 +2,12 @@
   "id": "calgary--physics",
   "university": "calgary",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "astronomy"
+  ],
   "department": "Physics and Astronomy",
   "program_page": "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/physics-and-astronomy-phd",
-  "checked": "2026-10-21",
+  "checked": "2026-10-24",
   "fields": {
     "deadline": {
       "code": "2027-01-15",
@@ -34,10 +36,16 @@
       "url": "https://science.ucalgary.ca/physics-astronomy/future-students/graduate/application-faqs"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "PhD entry rules not stated; note a 3-year BSc needs an MSc before any graduate admission",
-      "quote": "With a 3-year B.Sc. degree, we also require a M.Sc. degree if you want to apply for our graduate program.",
-      "url": "https://science.ucalgary.ca/physics-astronomy/future-students/graduate/application-faqs"
+      "code": "Master's usually required",
+      "value": "An MSc in physics, engineering physics, astronomy/astrophysics or a related field is required; a 3-year BSc always needs an MSc first.",
+      "quote": "An MSc degree (or equivalent) in physics, engineering physics, astronomy/astrophysics or a related scientific field.",
+      "url": "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/physics-and-astronomy-phd",
+      "also": [
+        {
+          "quote": "With a 3-year B.Sc. degree, we also require a M.Sc. degree if you want to apply for our graduate program.",
+          "url": "https://science.ucalgary.ca/physics-astronomy/future-students/graduate/application-faqs"
+        }
+      ]
     },
     "fee_waiver": {
       "code": "None",
@@ -50,6 +58,18 @@
       "value": "Test required if your degree is from a country where English is not a native language (English-taught courses alone do not exempt you)",
       "quote": "English Proficiency Test is required from all applicants if their degrees are granted from institutions of countries where English is not a native language.",
       "url": "https://science.ucalgary.ca/physics-astronomy/future-students/graduate/application-faqs"
+    },
+    "toefl_min": {
+      "code": "97",
+      "value": "Faculty of Science programs need TOEFL iBT 97 with 23 in each section (5.0 with 5.0 in each section on the new scale for tests on or after January 21, 2026).",
+      "quote": "Graduate programs in the Faculty of Science require higher minimum scores than those specified by the Faculty of Graduate Studies. | TOEFL iBT (tests taken before January 21, 2026): 97 (minimum 23 in each section) | TOEFL iBT (tests taken on or after January 21, 2026): 5.0 (minimum 5.0 in each section)",
+      "url": "https://calendar.ucalgary.ca/pages/AtZIGQMl4WHoCe2qWSTP"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Faculty of Science programs need IELTS Academic 7.0 with at least 6.5 in each section.",
+      "quote": "IELTS (Academic): 7.0 (minimum 6.5 in each section)",
+      "url": "https://calendar.ucalgary.ca/pages/AtZIGQMl4WHoCe2qWSTP"
     }
   },
   "notes": "First-round offers take at least a month after January 15."
