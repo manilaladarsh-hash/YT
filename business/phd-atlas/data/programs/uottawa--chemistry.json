@@ -1,0 +1,49 @@
+{
+  "id": "uottawa--chemistry",
+  "university": "uottawa",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry (Ottawa-Carleton Chemistry Institute)",
+  "program_page": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-chemistry/",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "International applicants apply by 1 February for Fall entry.",
+      "quote": "International Students: February 1",
+      "url": "https://dnn.uottawa.ca/en/Utilities/Specific-Requirements/Graduate-programs?Id=22",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The program pages do not mention the GRE.",
+      "quote": "",
+      "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-chemistry/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Name a professor who agrees to supervise you when you apply; you must be accepted by a thesis supervisor to register.",
+      "quote": "To register, you need to have been accepted by a thesis supervisor. | The supervisor’s name is required at the time of application.",
+      "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-chemistry/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Doctoral admits (including international) with an admission average of 8.0/10 (A-) or higher get an admission scholarship of at least CA$72,000 over four years; others rely on supervisor or other funding. International students must also show proof of funding (supervisor stipend plus awards or trust funds).",
+      "quote": "Have an admission average of 8.0/10 or higher. | This financial support offers a minimum value of $72,000 over a period of four (4) years",
+      "url": "https://www.uottawa.ca/study/graduate-studies/funding-financing/awards/admission-scholarship",
+      "also": [
+        {
+          "quote": "International students must provide proof of financial support: i.e., a stipend provided by a supervisor as well as a combination of awards and/or trust funds.",
+          "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-chemistry/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Master's in chemistry (or equivalent) with 75% (B+). Students already in the uOttawa master's can fast-track to the PhD.",
+      "quote": "Have a master's degree in Chemistry (or equivalent) with a minimum admission average of 75% (B+).",
+      "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-chemistry/"
+    }
+  },
+  "notes": "Joint uOttawa-Carleton institute; your supervisor's home university awards the degree."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ualberta--biomed",
+  "university": "ualberta",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Department of Biochemistry (Faculty of Medicine & Dentistry)",
+  "program_page": "https://www.ualberta.ca/en/biochemistry/graduate/how-to-apply.html",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-01",
+      "value": "International applicants: May 1 for Fall 2027 (four months before start).",
+      "quote": "USA and International Students: Application deadlines are four months prior to the term start date. May 1 (Fall admission)",
+      "url": "https://www.ualberta.ca/en/biochemistry/graduate/how-to-apply.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE requirement is mentioned.",
+      "quote": "",
+      "url": "https://www.ualberta.ca/en/biochemistry/graduate/how-to-apply.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must have a supervisor's tentative agreement and upload a signed Supervisor Confirmation and Funding form.",
+      "quote": "A research supervisor is required in order to be admitted to our department. You must have previously corresponded with this faculty member and have agreed to a tentative supervisory arrangement.",
+      "url": "https://www.ualberta.ca/en/biochemistry/graduate/how-to-apply.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "U of A guarantees every PhD student at least CAD 100,000 over years 1-4 and at least CAD 25,000 in year 1 (not sponsored or part-time students).",
+      "quote": "minimum guaranteed funding of $100K CAD over four years and not less than $25K CAD in their first year",
+      "url": "https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/minimum-guaranteed-funding-for-phd-students.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages checked do not say whether a master's is needed for the PhD.",
+      "quote": "",
+      "url": "https://www.ualberta.ca/en/biochemistry/graduate/how-to-apply.html"
+    }
+  },
+  "notes": "Faculty of Medicine and Dentistry does not accept Duolingo for English proficiency. Minimum GPA 3.0/4."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "uottawa--cs",
+  "university": "uottawa",
+  "field": "cs",
+  "also_fields": [],
+  "department": "School of Electrical Engineering and Computer Science (OCICS)",
+  "program_page": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-computer-science/",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "International applicants apply by 1 February for Fall entry.",
+      "quote": "International Students: February 1",
+      "url": "https://dnn.uottawa.ca/en/Utilities/Specific-Requirements/Graduate-programs?Id=32",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The program pages do not mention the GRE.",
+      "quote": "",
+      "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-computer-science/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must identify at least one professor willing to supervise your thesis to be eligible.",
+      "quote": "Identify at least one professor who is willing to supervise your research and thesis.",
+      "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-computer-science/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Doctoral admits (including international) with an admission average of 8.0/10 (A-) or higher get an admission scholarship of at least CA$72,000 over four years; others rely on supervisor or other funding.",
+      "quote": "Have an admission average of 8.0/10 or higher. | This financial support offers a minimum value of $72,000 over a period of four (4) years",
+      "url": "https://www.uottawa.ca/study/graduate-studies/funding-financing/awards/admission-scholarship"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Master's in computer science (thesis or equivalent publications) with B+ (75%). Students already in the uOttawa master's can fast-track to the PhD.",
+      "quote": "Have a master's degree in Computer Science (with thesis or equivalent in terms of scholarly publications) with a minimum average of B+ (75%).",
+      "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-computer-science/"
+    }
+  },
+  "notes": "Joint uOttawa-Carleton program (OCICS)."
+}

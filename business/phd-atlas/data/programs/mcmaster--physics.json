@@ -2,10 +2,12 @@
   "id": "mcmaster--physics",
   "university": "mcmaster",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "astronomy"
+  ],
   "department": "Physics and Astronomy",
   "program_page": "https://physics.mcmaster.ca/graduate-studies/how-to-apply/",
-  "checked": "2026-10-21",
+  "checked": "2026-10-24",
   "fields": {
     "deadline": {
       "code": "2027-02-01",
@@ -40,22 +42,10 @@
       "url": "https://physics.mcmaster.ca/graduate-studies/how-to-apply/"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "MSc entry from an Honours BSc (B+ final year) is described; PhD entry rules for master's-equivalent degrees not stated on the pages checked",
-      "quote": "The minimum requirement for admission to the M.Sc. programmes is an Honours B.Sc. degree in Physics or Engineering Physics with at least a B+ average in the final year",
-      "url": "https://physics.mcmaster.ca/graduate-studies/how-to-apply/"
-    },
-    "app_fee": {
-      "code": "150 CAD",
-      "value": "CAD 150, non-refundable, by credit or debit card",
-      "quote": "Have a valid credit card or debit card ready for the application fee ($150 CAD).",
-      "url": "https://gs.mcmaster.ca/how-to-apply/"
-    },
-    "english_waiver": {
-      "code": "Conditional",
-      "value": "The application asks whether your degree's official language of instruction AND evaluation was English; programs may add their own requirements",
-      "quote": "In the application, indicate whether you have completed a degree where the official language of instruction and evaluation is in English by choosing Yes or No.",
-      "url": "https://gs.mcmaster.ca/how-to-apply/"
+      "code": "Master's usually required",
+      "value": "The PhD expects a master's in physics, astronomy or a related area; students holding a bachelor's normally start in the MSc (thesis) and can move on to the PhD.",
+      "quote": "Required Credentials Master's degree in Physics or Astronomy or a related area",
+      "url": "https://gs.mcmaster.ca/program/physics-and-astronomy/"
     }
   },
   "notes": "About 25 new MSc/PhD students per year; first offers often go out before Christmas, so earlier is better."

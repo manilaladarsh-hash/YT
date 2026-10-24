@@ -3,12 +3,12 @@
 
 Hi {name}! Are you (or anyone in your batch) applying for PhDs abroad this cycle?
 
-I've spent the last few weeks checking the official pages of 437 STEM PhD programs (106 universities in the US, UK, Europe, Canada and Australia) for the things that trip up Indian applicants. Some findings:
+I've spent the last few weeks checking the official pages of 538 STEM PhD programs (106 universities in the US, UK, Europe, Canada and Australia) for the things that trip up Indian applicants. Some findings:
 
 • 49 programs charge no application fee at all, including ANU, Chalmers, EPFL, Glasgow, IMPRS Quantum Materials (Dresden), Imperial College London, Max Planck School Matter to Life, Melbourne and 4 more
-• 22 universities accept an English-medium Indian degree instead of IELTS/TOEFL; 25 need a test regardless
+• 23 universities accept an English-medium Indian degree instead of IELTS/TOEFL; 24 need a test regardless
 • A GRE Subject test is still required at 16 programs, including Berkeley, Brown, Calgary, Caltech, Cornell, Guelph and 6 more
-• 119 programs need a supervisor's agreement before you apply
+• 184 programs need a supervisor's agreement before you apply
 • Dec 1, 2026 is the most common US deadline (130 programs)
 
 Free 12-program sample: {SAMPLE_URL}?utm_source=whatsapp&utm_medium=personal&utm_campaign=launch2026

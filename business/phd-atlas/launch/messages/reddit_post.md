@@ -3,7 +3,7 @@
 
 Read each subreddit's rules first, and skip any that ban self-promotion (or ask the mods). Pin `reddit_profile_post.md` to your profile **before** posting this. The body below deliberately has **no links**: store links get posts removed.
 
-**Title:** I checked 437 STEM PhD programs' official pages (US, UK, Europe, Canada, Australia) for rules that trip up Indian/international applicants: here's what I found
+**Title:** I checked 538 STEM PhD programs' official pages (US, UK, Europe, Canada, Australia) for rules that trip up Indian/international applicants: here's what I found
 
 **Body:**
 
@@ -11,13 +11,13 @@ I'm a physics PhD student (came to Canada from India) and spent the past few wee
 
 **Application fees:** 49 programs charge none, including ANU, Chalmers, EPFL, Glasgow, IMPRS Quantum Materials (Dresden), Imperial College London, Max Planck School Matter to Life, Melbourne and 4 more. Of the rest, many offer fee waivers only to domestic applicants; 21 say internationals can get one outright.
 
-**English tests:** 22 universities accept an English-medium Indian degree instead of TOEFL/IELTS (ANU, Aalto, Arizona, Bristol, CU Boulder, Copenhagen, EPFL, ETH Zurich and 14 more). 33 accept it with conditions (a medium-of-instruction letter, a named list, or a minimum duration), and 25 require a test regardless, usually because they only exempt "majority English-speaking" countries.
+**English tests:** 23 universities accept an English-medium Indian degree instead of TOEFL/IELTS (ANU, Aalto, Arizona, Bristol, CU Boulder, Copenhagen, EPFL, ETH Zurich and 15 more). 34 accept it with conditions (a medium-of-instruction letter, a named list, or a minimum duration), and 24 require a test regardless, usually because they only exempt "majority English-speaking" countries.
 
-**GRE:** the General GRE is required at only 15 programs; 70 won't look at a score even if you send one. But a GRE Subject test is still required at 16 programs, including Berkeley, Brown, Calgary, Caltech, Cornell, Guelph and 6 more.
+**GRE:** the General GRE is required at only 15 programs; 74 won't look at a score even if you send one. But a GRE Subject test is still required at 16 programs, including Berkeley, Brown, Calgary, Caltech, Cornell, Guelph and 6 more.
 
-**Supervisor first:** 119 programs need a supervisor's agreement before admission. In most of Europe you apply for an advertised paid position, and in Australia and much of Canada you find a supervisor before you apply.
+**Supervisor first:** 184 programs need a supervisor's agreement before admission. In most of Europe you apply for an advertised paid position, and in Australia and much of Canada you find a supervisor before you apply.
 
-**Funding:** 200 programs say every admitted PhD student is funded. Elsewhere it's competitive or tied to an adviser's grant.
+**Funding:** 253 programs say every admitted PhD student is funded. Elsewhere it's competitive or tied to an adviser's grant.
 
 **Deadlines:** Dec 1, 2026 is the most common US deadline (130 programs), and 35 programs close in November, mostly European calls and UK scholarship rounds.
 

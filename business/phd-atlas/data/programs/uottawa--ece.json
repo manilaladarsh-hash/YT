@@ -1,0 +1,43 @@
+{
+  "id": "uottawa--ece",
+  "university": "uottawa",
+  "field": "ece",
+  "also_fields": [],
+  "department": "School of Electrical Engineering and Computer Science (OCIECE)",
+  "program_page": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-electrical-computer-engineering/",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "International applicants apply by 1 February for Fall entry.",
+      "quote": "International Students: February 1",
+      "url": "https://dnn.uottawa.ca/en/Utilities/Specific-Requirements/Graduate-programs?Id=45",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The program pages do not mention the GRE.",
+      "quote": "",
+      "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-electrical-computer-engineering/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Name a professor who agrees to supervise you when you apply; you must be accepted by a thesis supervisor to register.",
+      "quote": "To enroll, you need to have been accepted by a thesis supervisor. | The supervisor’s name is required at the time of application.",
+      "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-electrical-computer-engineering/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Doctoral admits (including international) with an admission average of 8.0/10 (A-) or higher get an admission scholarship of at least CA$72,000 over four years; others rely on supervisor or other funding. This program's A- admission minimum matches the scholarship threshold.",
+      "quote": "Have an admission average of 8.0/10 or higher. | This financial support offers a minimum value of $72,000 over a period of four (4) years",
+      "url": "https://www.uottawa.ca/study/graduate-studies/funding-financing/awards/admission-scholarship"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Master's in ECE or a related field with an A- average. Students already in the uOttawa master's can fast-track to the PhD.",
+      "quote": "Have a master’s degree in electrical and computer engineering or in a related discipline (or equivalent) with a minimum average of A-.",
+      "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-electrical-computer-engineering/"
+    }
+  },
+  "notes": "Joint uOttawa-Carleton institute (OCIECE)."
+}

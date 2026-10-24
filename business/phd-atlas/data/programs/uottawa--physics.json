@@ -5,13 +5,14 @@
   "also_fields": [],
   "department": "Department of Physics",
   "program_page": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-physics/",
-  "checked": "2026-10-21",
+  "checked": "2026-10-24",
   "fields": {
     "deadline": {
-      "code": "Not stated",
-      "value": "Physics-specific deadline not shown on the catalogue page checked",
-      "quote": "",
-      "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-physics/"
+      "code": "2027-02-01",
+      "value": "International applicants apply by 1 February for Fall entry.",
+      "quote": "International Students: February 1 September 1 February 1",
+      "url": "https://dnn.uottawa.ca/en/Utilities/Specific-Requirements/Graduate-programs?Id=99",
+      "inferred": "year"
     },
     "gre_subject": {
       "code": "Not stated",
@@ -26,10 +27,16 @@
       "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-physics/"
     },
     "funding": {
-      "code": "Not stated",
-      "value": "International students must show financial support (supervisor stipend plus awards/trust funds)",
-      "quote": "Note: International students must provide proof of financial support: i.e., a stipend provided by a supervisor as well as a combination of awards and/or trust funds.",
-      "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-physics/"
+      "code": "Competitive",
+      "value": "Doctoral admits (including international) with an admission average of 8.0/10 (A-) or higher get an admission scholarship of at least CA$72,000 over four years; others rely on supervisor or other funding. International students must also show proof of funding (supervisor stipend plus awards or trust funds).",
+      "quote": "Have an admission average of 8.0/10 or higher. | This financial support offers a minimum value of $72,000 over a period of four (4) years",
+      "url": "https://www.uottawa.ca/study/graduate-studies/funding-financing/awards/admission-scholarship",
+      "also": [
+        {
+          "quote": "Note: International students must provide proof of financial support: i.e., a stipend provided by a supervisor as well as a combination of awards and/or trust funds.",
+          "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-physics/"
+        }
+      ]
     },
     "entry_route": {
       "code": "Master's usually required",

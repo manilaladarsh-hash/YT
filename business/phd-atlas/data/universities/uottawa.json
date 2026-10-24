@@ -1,47 +1,53 @@
 {
   "id": "uottawa",
-  "institution": "University of Ottawa (Ottawa-Carleton Institute for Physics)",
+  "institution": "University of Ottawa",
   "country": "Canada",
   "region": "Ontario",
-  "grad_page": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-physics/",
-  "checked": "2026-10-21",
+  "grad_page": "https://www.uottawa.ca/study/graduate-studies/how-to-apply",
+  "checked": "2026-10-24",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-physics/"
+      "code": "125 CAD",
+      "value": "Non-refundable CA$125 graduate application fee, paid through OUAC.",
+      "quote": "Graduate studies — application $125.00",
+      "url": "https://www.uottawa.ca/study/fees-financial-support/university-fees/administrative-fees",
+      "also": [
+        {
+          "quote": "Non-refundable fees are charged for all admission applications. Pay the fees on the OUAC website.",
+          "url": "https://www.uottawa.ca/study/graduate-studies/how-to-apply"
+        }
+      ]
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "No application-fee waiver is described on the graduate admission pages.",
       "quote": "",
-      "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-physics/"
+      "url": "https://www.uottawa.ca/study/graduate-studies/how-to-apply"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "The graduate and program admission pages do not mention the GRE.",
       "quote": "",
-      "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-physics/"
+      "url": "https://www.uottawa.ca/study/graduate-studies/how-to-apply"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-physics/"
+      "code": "86",
+      "value": "TOEFL iBT 86 overall (or 4.5 on the new 1-6 scale) for tests taken after 21 January 2026, with section minimums; 84 for older tests. Some programs ask for more.",
+      "quote": "for tests taken after January 21, 2026 | 4.5 or 86 (overall); 4.5 or 21 (writing) | 84 (overall); 24 (writing); no partial score below 20 | Some programs require a higher test score.",
+      "url": "https://www.uottawa.ca/study/graduate-studies/how-to-apply"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-physics/"
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall with 6.5 in writing and no band below 6; some programs ask for more.",
+      "quote": "IELTS Academic/ IELTS Academic One Skill Retake 6.5 (overall); 6.5 (writing); no partial score below 6",
+      "url": "https://www.uottawa.ca/study/graduate-studies/how-to-apply"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-physics/"
+      "code": "No",
+      "value": "Only studies in the listed countries (at least two years, English the only language of instruction) waive the test; India is not on the list, so Indian applicants need a test score.",
+      "quote": "You may be eligible for an exemption from an English or French language test if you have completed your studies in one of the locations listed below, as long you have completed at least two years of full-time studies in an institution where English or French, respectively, is the only language of instruction. | Countries and regions eligible for an English language test exemption",
+      "url": "https://www.uottawa.ca/study/graduate-studies/how-to-apply"
     }
   },
-  "notes": ""
+  "notes": "Applications go through OUAC. Since 2018 international PhD students pay the same tuition as Canadian PhD students."
 }

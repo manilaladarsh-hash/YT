@@ -1,0 +1,56 @@
+{
+  "id": "uottawa--environment",
+  "university": "uottawa",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Institute of the Environment",
+  "program_page": "https://catalogue.uottawa.ca/en/graduate/doctorate-environmental-sustainability/",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "International applicants apply by 1 December for Fall entry; only on-time applicants are automatically considered for funding.",
+      "quote": "International Students: December 1 (English Program only) | Only students who apply by the deadline will be automatically considered for funding.",
+      "url": "https://dnn.uottawa.ca/en/Utilities/Specific-Requirements/Graduate-programs?Id=261",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The program pages do not mention the GRE.",
+      "quote": "",
+      "url": "https://dnn.uottawa.ca/en/Utilities/Specific-Requirements/Graduate-programs?Id=261"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must obtain a commitment from at least one professor to act as your thesis supervisor.",
+      "quote": "Obtain a commitment from at least one professor who is willing and available to act as thesis supervisor",
+      "url": "https://dnn.uottawa.ca/en/Utilities/Specific-Requirements/Graduate-programs?Id=261"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Doctoral admits (including international) with an admission average of 8.0/10 (A-) or higher get an admission scholarship of at least CA$72,000 over four years; others rely on supervisor or other funding.",
+      "quote": "Have an admission average of 8.0/10 or higher. | This financial support offers a minimum value of $72,000 over a period of four (4) years",
+      "url": "https://www.uottawa.ca/study/graduate-studies/funding-financing/awards/admission-scholarship"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Master's with thesis or research paper in a relevant discipline, 75% (B+) average.",
+      "quote": "Hold a Master’s degree with thesis or research paper in a relevant discipline.",
+      "url": "https://dnn.uottawa.ca/en/Utilities/Specific-Requirements/Graduate-programs?Id=261"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "TOEFL iBT 100 (5 on the new scale).",
+      "quote": "English Program: TOEFL 100 / New TOEFL 5 / IELTS Overall 7.0 - Individual 7.0 (Internet-based)",
+      "url": "https://dnn.uottawa.ca/en/Utilities/Specific-Requirements/Graduate-programs?Id=261"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS 7.0 overall with 7.0 in each band.",
+      "quote": "English Program: TOEFL 100 / New TOEFL 5 / IELTS Overall 7.0 - Individual 7.0 (Internet-based)",
+      "url": "https://dnn.uottawa.ca/en/Utilities/Specific-Requirements/Graduate-programs?Id=261"
+    }
+  },
+  "notes": "Interdisciplinary PhD spanning environmental science, economics, law and policy.",
+  "name": "PhD in Environmental Sustainability"
+}

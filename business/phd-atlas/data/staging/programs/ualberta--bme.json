@@ -1,0 +1,67 @@
+{
+  "id": "ualberta--bme",
+  "university": "ualberta",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biomedical Engineering",
+  "program_page": "https://www.ualberta.ca/en/biomedical-engineering/graduate/phd-program.html",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "For September 2027 start, applications open December 1 and close April 1.",
+      "quote": "September (Fall semester) program start date Applications open December 1 Applications close April 1",
+      "url": "https://www.ualberta.ca/en/biomedical-engineering/graduate/phd-program.html",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The CAD 135 fee cannot be waived.",
+      "quote": "A $135 CAD non-refundable application fee payment is required. This fee cannot be waived.",
+      "url": "https://www.ualberta.ca/en/biomedical-engineering/graduate/phd-program.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE requirement is mentioned.",
+      "quote": "",
+      "url": "https://www.ualberta.ca/en/biomedical-engineering/graduate/phd-program.html"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "Thesis programs: TOEFL iBT 100 with at least 25 in each section.",
+      "quote": "In-person or special at-home edition – 100 with at least 25 on each individual skills areas",
+      "url": "https://www.ualberta.ca/en/biomedical-engineering/graduate/phd-program.html"
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "Thesis programs: IELTS 7.5 overall with at least 7.0 in each band.",
+      "quote": "7.5 with at least 7.0 on each test band",
+      "url": "https://www.ualberta.ca/en/biomedical-engineering/graduate/phd-program.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A research professor must agree to take you (with financial support) before you apply.",
+      "quote": "It is necessary for applicants to the thesis-based programs to have a supervising research professor willing to take you on as a student before applying to the program.",
+      "url": "https://www.ualberta.ca/en/biomedical-engineering/graduate/phd-program.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The department requires every PhD student to be funded; U of A guarantees at least CAD 100,000 over years 1-4.",
+      "quote": "The department requires all PhD students to receive financial support and have an academic supervisor.",
+      "url": "https://www.ualberta.ca/en/biomedical-engineering/graduate/phd-program.html",
+      "also": [
+        {
+          "quote": "minimum guaranteed funding of $100K CAD over four years and not less than $25K CAD in their first year",
+          "url": "https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/minimum-guaranteed-funding-for-phd-students.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Without an MSc you first enrol in the BME MSc and then transfer to the PhD; MSc holders take only two courses.",
+      "quote": "Students must first enroll in the biomedical MSc program and then transfer to the PhD program.",
+      "url": "https://www.ualberta.ca/en/biomedical-engineering/graduate/phd-program.html"
+    }
+  },
+  "notes": "Joint department of Engineering and Medicine & Dentistry."
+}
