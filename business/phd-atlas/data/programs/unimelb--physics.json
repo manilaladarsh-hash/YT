@@ -2,10 +2,12 @@
   "id": "unimelb--physics",
   "university": "unimelb",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "astronomy"
+  ],
   "department": "School of Physics",
   "program_page": "https://physics.unimelb.edu.au/study/graduate-research",
-  "checked": "2026-10-22",
+  "checked": "2026-10-24",
   "fields": {
     "deadline": {
       "code": "Not stated",
@@ -58,19 +60,7 @@
           "url": "https://physics.unimelb.edu.au/study/graduate-research"
         }
       ]
-    },
-    "app_fee": {
-      "code": "0 (no fee)",
-      "value": "No application fee for graduate research applicants (international coursework applicants pay AUD 154)",
-      "quote": "All new direct international applicants pay a non-refundable fee of AUD$154 for each application. | Applying for a graduate research course | (Note: Graduate coursework applicants are not exempt.) | You will not be prompted to pay the application fee.",
-      "url": "https://study.unimelb.edu.au/how-to-apply/fees/application-fee"
-    },
-    "fee_waiver": {
-      "code": "No fee",
-      "value": "Graduate research applicants are exempt from the application fee",
-      "quote": "Applying for a graduate research course | (Note: Graduate coursework applicants are not exempt.) | You will not be prompted to pay the application fee.",
-      "url": "https://study.unimelb.edu.au/how-to-apply/fees/application-fee"
     }
   },
-  "notes": "PhD (Science), course code DR-PHILSCI, 4 years full time with flexible intake. The course page's How to apply, Fees and English tabs on study.unimelb.edu.au were blocked or collapsed when fetched, so the application closing date, TOEFL score and English exemption rules were not captured; the University says closing dates are on each course's How to apply tab."
+  "notes": "PhD (Science), course code DR-PHILSCI, 4 years full time with flexible intake. The course page's How to apply, Fees and English tabs on study.unimelb.edu.au were blocked or collapsed when fetched, so the application closing date, TOEFL score and English exemption rules were not captured; the University says closing dates are on each course's How to apply tab. Astrophysics and cosmology PhDs are supervised in the School of Physics under the same course, so astronomy is covered here."
 }

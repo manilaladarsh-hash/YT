@@ -1,0 +1,50 @@
+{
+  "id": "cornell--biology",
+  "university": "cornell",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Field of Biochemistry, Molecular and Cell Biology (BMCB)",
+  "program_page": "https://cals.cornell.edu/molecular-biology-genetics/academics/graduate/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-16",
+      "value": "The 2026-27 catalog lists November 16; the department admissions page says December 1. Apply by November 16 to be safe.",
+      "quote": "Fall, November 16; no spring admission",
+      "url": "https://catalog.cornell.edu/programs/molecular-cell-biology-phd/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "The deadline for fall admission is December 1; there is no spring admission.",
+          "url": "https://cals.cornell.edu/molecular-biology-genetics/academics/graduate/admissions"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://catalog.cornell.edu/programs/molecular-cell-biology-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://catalog.cornell.edu/programs/molecular-cell-biology-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://catalog.cornell.edu/programs/molecular-cell-biology-phd/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Admitted students have usually majored in biology, chemistry or physics; no GPA cutoff.",
+      "quote": "matriculating students will have commonly majored in one of the many areas of biology, chemistry, or physics",
+      "url": "https://catalog.cornell.edu/programs/molecular-cell-biology-phd/"
+    }
+  },
+  "notes": "BMCB offers PhDs in Biochemistry and in Molecular and Cell Biology; Genetics, Genomics and Development is a partner field with the same catalog deadline. BMCB and GGD welcome international applicants.",
+  "name": "Biochemistry, Molecular and Cell Biology (BMCB)"
+}

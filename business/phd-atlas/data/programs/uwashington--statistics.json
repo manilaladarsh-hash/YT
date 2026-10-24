@@ -1,0 +1,55 @@
+{
+  "id": "uwashington--statistics",
+  "university": "uwashington",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Biostatistics",
+  "program_page": "https://www.biostat.washington.edu/apply/instructions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "PhD applications are due December 1, 2026, with test scores and three letters received by then.",
+      "quote": "Applications for the MS Thesis and PhD programs are due December 1.",
+      "url": "https://www.biostat.washington.edu/apply/instructions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE General is optional for all PhD applicants.",
+      "quote": "GRE general test scores are optional for all applicants to the MS and PhD programs, regardless of prior degrees or other background.",
+      "url": "https://www.biostat.washington.edu/apply/requirements"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages do not mention the Mathematics GRE.",
+      "quote": "",
+      "url": "https://www.biostat.washington.edu/apply/requirements"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "No department minimum; competitive applicants usually have TOEFL 100+ with speaking 23+ (Graduate School minimums apply).",
+      "quote": "While our department does not have minimum score requirements, most competitive applicants will have: TOEFL total score ≥ 100 TOEFL speaking score ≥ 23",
+      "url": "https://www.biostat.washington.edu/apply/requirements"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The admissions pages do not say whether you need a supervisor first.",
+      "quote": "",
+      "url": "https://www.biostat.washington.edu/apply/requirements"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD students get up to five years of guaranteed 12-month RA/TA funding (stipend, tuition, insurance) with satisfactory progress.",
+      "quote": "Students in the PhD program are offered up to five years of guaranteed funding, contingent upon satisfactory academic progress and job performance. | Guaranteed funding covers all 12 months of the year.",
+      "url": "https://www.biostat.washington.edu/apply/costs"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's (usually maths/statistics, with about 30 quarter credits of maths and statistics) is enough.",
+      "quote": "Applicants to the MS and PhD program should have a bachelor’s degree or higher.",
+      "url": "https://www.biostat.washington.edu/apply/requirements"
+    }
+  },
+  "notes": "Saved from the Biostatistics PhD because the Department of Statistics site (stat.uw.edu) returned 502 errors."
+}

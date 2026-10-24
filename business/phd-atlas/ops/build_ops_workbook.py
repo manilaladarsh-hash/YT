@@ -43,7 +43,7 @@ def main():
     rd = wb.active
     rd.title = "Read me"
     for i, line in enumerate([
-        "Physics PhD Atlas: owner dashboard",
+        "STEM PhD Atlas: owner dashboard",
         "Weekly (20 min): copy last week's numbers from Gumroad into 'Weekly actuals' (yellow cells only).",
         "'Gates' turns green or red automatically against the Dec 15 decision rules.",
         "'Forecast' is the scenario model from research/financials.py ($5 list; about $2 in India via Gumroad PPP). It is NOT actual data.",

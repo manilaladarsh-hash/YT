@@ -1,0 +1,62 @@
+{
+  "id": "cornell--environment",
+  "university": "cornell",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Earth and Atmospheric Sciences (Field of Atmospheric Science)",
+  "program_page": "https://www.duffield.cornell.edu/eas/phd-programs/phd-atmospheric-science/admission-requirements-phd-atmospheric-science/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The catalog lists December 15 for Fall; the department page says January 1. Apply by December 15.",
+      "quote": "Fall, December 15; Spring, September 1",
+      "url": "https://catalog.cornell.edu/programs/atmospheric-science-phd/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Deadlines Fall January 1 Spring September 15",
+          "url": "https://www.duffield.cornell.edu/eas/phd-programs/phd-atmospheric-science/admission-requirements-phd-atmospheric-science/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required.",
+      "quote": "GRE scores are no longer required.",
+      "url": "https://catalog.cornell.edu/programs/atmospheric-science-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://www.duffield.cornell.edu/eas/phd-programs/phd-atmospheric-science/admission-requirements-phd-atmospheric-science/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Test waived after at least two years of English-taught study in a country where English is the official language.",
+      "quote": "TOEFL or IELTS exam is required of all international applicants from countries where English is not the official language unless the applicant has studied for at least two years in a country where English is the official language and the language of instruction was English.",
+      "url": "https://www.duffield.cornell.edu/eas/phd-programs/phd-atmospheric-science/admission-requirements-phd-atmospheric-science/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated; the field admits only students it can fund and match to a research program.",
+      "quote": "",
+      "url": "https://www.duffield.cornell.edu/eas/phd-programs/phd-atmospheric-science/admission-requirements-phd-atmospheric-science/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Full support (tuition, stipend, health insurance) for every admitted student.",
+      "quote": "The graduate field of atmospheric science offers full financial support, including tuition, stipend, and health insurance, to all students accepted into our program.",
+      "url": "https://www.duffield.cornell.edu/eas/phd-programs/phd-atmospheric-science/admission-requirements-phd-atmospheric-science/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree (or equivalent) is required.",
+      "quote": "Applicants for admission to the Graduate School should hold a baccalaureate degree granted by a faculty or university of recognized standing",
+      "url": "https://www.duffield.cornell.edu/eas/phd-programs/phd-atmospheric-science/admission-requirements-phd-atmospheric-science/"
+    }
+  },
+  "notes": "",
+  "name": "Atmospheric Science"
+}

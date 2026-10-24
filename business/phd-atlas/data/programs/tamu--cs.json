@@ -1,0 +1,61 @@
+{
+  "id": "tamu--cs",
+  "university": "tamu",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science and Engineering",
+  "program_page": "https://engineering.tamu.edu/cse/admissions-and-aid/graduate-admissions/index.html",
+  "checked": "2026-10-23",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Apply by December 15 for fall PhD admission; all applicants are considered for aid.",
+      "quote": "Dec. 15 is the deadline for Ph.D. applications to be considered for fall (September) admission.",
+      "url": "https://engineering.tamu.edu/cse/academics/degrees/graduate/faq.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to computer science.",
+      "quote": "",
+      "url": "https://engineering.tamu.edu/cse/academics/degrees/graduate/faq.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "An admissions committee reviews the whole application; research assistantships come from individual faculty.",
+      "quote": "The admissions committee considers the entire application when making a decision",
+      "url": "https://engineering.tamu.edu/cse/academics/degrees/graduate/faq.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Fellowships and assistantships are awarded at admission, with PhD students given the highest priority; not every admit is funded.",
+      "quote": "There are a number of fellowships and assistantships available within the department. All applicants will be considered for all such opportunities. Ph.D. students receive the highest priority.",
+      "url": "https://engineering.tamu.edu/cse/academics/degrees/graduate/faq.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "You can start the PhD after a bachelor's (five to six years) or a master's (three to five years).",
+      "quote": "The Ph.D. degree typically takes five to six years after the Bachelor of Science or three to five years after the Master of Science.",
+      "url": "https://engineering.tamu.edu/cse/academics/degrees/graduate/faq.html"
+    },
+    "app_fee": {
+      "code": "148 USD",
+      "value": "International applicants pay $148: the $90 Texas A&M fee plus the $58 EngineeringCAS fee.",
+      "quote": "International Applicants: $148 - Texas A&M University fee ($90) + EngineeringCAS Processing Fee ($58)",
+      "url": "https://engineering.tamu.edu/admissions-and-aid/graduate-admissions/index.html"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The department cannot waive or pay the fee.",
+      "quote": "The fee is required by Admissions and EngineeringCAS. We cannot pay the fee for you either.",
+      "url": "https://engineering.tamu.edu/cse/academics/degrees/graduate/faq.html"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE is optional; scores can help applicants with a lower GPA or from less familiar schools.",
+      "quote": "The GRE is optional for all applicants.",
+      "url": "https://engineering.tamu.edu/cse/academics/degrees/graduate/faq.html"
+    }
+  },
+  "notes": "Applications via EngineeringCAS. TOEFL iBT below 100 makes admission unlikely, per the FAQ."
+}

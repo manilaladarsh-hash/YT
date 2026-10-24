@@ -3,45 +3,63 @@
   "institution": "University of Melbourne",
   "country": "Australia",
   "region": "Victoria",
-  "grad_page": "https://physics.unimelb.edu.au/study/graduate-research",
-  "checked": "2026-10-22",
+  "grad_page": "https://study.unimelb.edu.au/how-to-apply/graduate-research/international-applications/applications",
+  "checked": "2026-10-24",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.unimelb.edu.au/study/graduate-research"
+      "code": "0 (no fee)",
+      "value": "International applicants to graduate research courses (PhD) pay no application fee; the AUD 154 fee applies to coursework applicants.",
+      "quote": "All new direct international applicants pay a non-refundable fee of AUD$154 for each application. | Applying for a graduate research course | (Note: Graduate coursework applicants are not exempt.) | You will not be prompted to pay the application fee.",
+      "url": "https://study.unimelb.edu.au/how-to-apply/fees/application-fee"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.unimelb.edu.au/study/graduate-research"
+      "code": "No fee",
+      "value": "Graduate research applicants are exempt from the application fee, so no waiver is needed.",
+      "quote": "Applying for a graduate research course | (Note: Graduate coursework applicants are not exempt.) | You will not be prompted to pay the application fee.",
+      "url": "https://study.unimelb.edu.au/how-to-apply/fees/application-fee"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "The GRE is not mentioned on the University's graduate research application or entry-requirement pages.",
       "quote": "",
-      "url": "https://physics.unimelb.edu.au/study/graduate-research"
+      "url": "https://study.unimelb.edu.au/how-to-apply/graduate-research/international-applications/entry-requirements"
     },
     "toefl_min": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.unimelb.edu.au/study/graduate-research"
+      "value": "Each research course sets its own English score (shown on the course page's Entry requirements tab, which was blocked).",
+      "quote": "Each graduate research course has a specific English language standard you must meet. The required scores are published on each course page.",
+      "url": "https://study.unimelb.edu.au/how-to-apply/graduate-research/international-applications/entry-requirements",
+      "also": [
+        {
+          "quote": "English language test score requirements for graduate study vary by faculty and course.",
+          "url": "https://study.unimelb.edu.au/how-to-apply/english-language-requirements/graduate-english-language-requirements"
+        }
+      ]
     },
     "ielts_min": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.unimelb.edu.au/study/graduate-research"
+      "value": "Each research course sets its own English score (shown on the course page's Entry requirements tab, which was blocked).",
+      "quote": "Each graduate research course has a specific English language standard you must meet. The required scores are published on each course page.",
+      "url": "https://study.unimelb.edu.au/how-to-apply/graduate-research/international-applications/entry-requirements",
+      "also": [
+        {
+          "quote": "English language test score requirements for graduate study vary by faculty and course.",
+          "url": "https://study.unimelb.edu.au/how-to-apply/english-language-requirements/graduate-english-language-requirements"
+        }
+      ]
     },
     "english_waiver": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.unimelb.edu.au/study/graduate-research"
+      "value": "Prior tertiary study taught and assessed entirely in English can meet the requirement, but it must be in an English-speaking country the University recognises; the fetched pages did not show whether India is on that list.",
+      "quote": "If you’re from an English-speaking background or have completed tertiary study taught and assessed entirely in English, you will likely meet the University’s English language requirements without needing to take an additional test. | Recognised English-speaking countries",
+      "url": "https://study.unimelb.edu.au/how-to-apply/english-language-requirements/graduate-english-language-requirements",
+      "also": [
+        {
+          "quote": "If you are not from an English-speaking background, you may still qualify if you have completed secondary or tertiary education in a recognised English-speaking country.",
+          "url": "https://study.unimelb.edu.au/how-to-apply/english-language-requirements"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "All graduate research applications go through the University's central online portal; English scores are set per course. Course-page tabs (Entry requirements, How to apply, Fees) on study.unimelb.edu.au were blocked by Cloudflare for most courses."
 }

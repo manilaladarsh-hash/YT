@@ -1,0 +1,56 @@
+{
+  "id": "cornell--chemeng",
+  "university": "cornell",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Smith School of Chemical and Biomolecular Engineering",
+  "program_page": "https://www.duffield.cornell.edu/cbe/phd-program/phd-admission-requirements/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The catalog deadline is December 15; complete applications received by January 7 are automatically considered for financial aid.",
+      "quote": "Fall, December 15; no spring admission",
+      "url": "https://catalog.cornell.edu/programs/chemical-engineering-phd/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Completed applications and all accompanying online materials received by January 7 will be automatically considered for financial aid.",
+          "url": "https://www.duffield.cornell.edu/cbe/phd-program/phd-admission-requirements/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required.",
+      "quote": "GRE scores are not required.",
+      "url": "https://catalog.cornell.edu/programs/chemical-engineering-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://www.duffield.cornell.edu/cbe/phd-program/phd-admission-requirements/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students do at least two rotations and are matched to a group by the Director of Graduate Studies.",
+      "quote": "All Ph.D. students complete at least two rotations before matching with a research group.",
+      "url": "https://www.duffield.cornell.edu/cbe/phd-program/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted PhD students get a full tuition waiver, stipend and health insurance; nine-month stipends, summer support usually available.",
+      "quote": "All students admitted to the Ph.D. program receive full financial aid in the form of a full tuition waiver, stipend, and health insurance, either from a fellowship, research assistantship, or teaching assistantship.",
+      "url": "https://www.duffield.cornell.edu/cbe/phd-program/phd-admission-requirements/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Most applicants have an accredited-equivalent undergraduate chemical engineering background; chemistry, materials, microbiology and physics majors are also encouraged.",
+      "quote": "Most applicants have satisfactorily completed the equivalent of the fundamental work required by an accredited curriculum in chemical engineering.",
+      "url": "https://catalog.cornell.edu/programs/chemical-engineering-phd/"
+    }
+  },
+  "notes": "A video essay is required.",
+  "name": "Chemical Engineering"
+}

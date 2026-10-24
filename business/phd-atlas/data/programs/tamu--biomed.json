@@ -1,0 +1,50 @@
+{
+  "id": "tamu--biomed",
+  "university": "tamu",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "College of Veterinary Medicine & Biomedical Sciences",
+  "program_page": "https://vetmed.tamu.edu/graduate-programs/bims/phd/",
+  "checked": "2026-10-23",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Submit by December 1 to be considered for the February recruiting event; later applicants can still be admitted if they secure a mentor.",
+      "quote": "All prospective BIMS PhD students who submit a complete application by December 1 are eligible for invitation to the graduate research symposium and recruiting event in the Spring.",
+      "url": "https://vetmed.tamu.edu/graduate-programs/bims/phd/rotation-program/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to this field.",
+      "quote": "",
+      "url": "https://vetmed.tamu.edu/graduate-programs/bims/phd/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants living outside the US are unlikely to get one of the four rotation places, so in practice you need to find and confirm a faculty mentor for direct admission.",
+      "quote": "Applicants who do not currently reside in the United States are not eligible for the rotation program recruiting event and are unlikely to gain a spot in the rotation program. We encourage ALL applicants to peruse our Curricular Training Tracks to review current faculty/research and attempt to locate and confirm a mentor for direct admit purposes.",
+      "url": "https://vetmed.tamu.edu/graduate-programs/bims/phd/rotation-program/",
+      "also": [
+        {
+          "quote": "Prospective PhD students have the option of applying for direct admission (under the mentorship of a specific faculty member) or to the PhD Rotation Program.",
+          "url": "https://vetmed.tamu.edu/graduate-programs/bims/phd/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Rotation students get a $26,000 first-year assistantship from the college; funding for direct admits comes from the faculty mentor and is not described.",
+      "quote": "",
+      "url": "https://vetmed.tamu.edu/graduate-programs/bims/phd/rotation-program/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages checked do not state the degree needed to enter.",
+      "quote": "",
+      "url": "https://vetmed.tamu.edu/graduate-programs/bims/phd/"
+    }
+  },
+  "notes": "Four curricular tracks. The rotation program takes four students a year, fall entry only.",
+  "name": "Biomedical Sciences (BIMS) PhD"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "cornell--cs",
+  "university": "cornell",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://catalog.cornell.edu/programs/computer-science-phd/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Apply by December 15; no spring admission.",
+      "quote": "Fall, December 15; no spring admission",
+      "url": "https://catalog.cornell.edu/programs/computer-science-phd/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://catalog.cornell.edu/programs/computer-science-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://catalog.cornell.edu/programs/computer-science-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://catalog.cornell.edu/programs/computer-science-phd/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://catalog.cornell.edu/programs/computer-science-phd/"
+    }
+  },
+  "notes": "www.cs.cornell.edu returned errors (502) for every page tried, so only the Cornell catalog entry could be used."
+}

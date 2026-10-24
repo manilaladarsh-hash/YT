@@ -1,0 +1,61 @@
+{
+  "id": "cornell--astronomy",
+  "university": "cornell",
+  "field": "astronomy",
+  "also_fields": [],
+  "department": "Department of Astronomy (Field of Astronomy and Space Sciences)",
+  "program_page": "https://astro.cornell.edu/graduate-how-to-apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "All materials, including letters and test scores, must reach Cornell by December 1; no spring admission.",
+      "quote": "All application materials must be received by Cornell no later than December 1st.",
+      "url": "https://astro.cornell.edu/graduate-how-to-apply",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Fall, December 1; no spring admission",
+          "url": "https://catalog.cornell.edu/programs/astronomy-space-sciences-phd/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE General scores are not accepted.",
+      "quote": "The General and Physics GRE exams are not required for admission, nor will scores be accepted as part of the admissions process.",
+      "url": "https://astro.cornell.edu/graduate-how-to-apply"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "Physics GRE scores are not accepted.",
+      "quote": "The General and Physics GRE exams are not required for admission, nor will scores be accepted as part of the admissions process.",
+      "url": "https://astro.cornell.edu/graduate-how-to-apply"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "The department grants an automatic exemption after two or more years of English-taught study in the last five years in a country whose primary language is English; Graduate School standing exemptions also apply.",
+      "quote": "An applicant will automatically be granted a TOEFL exemption if he or she studied for two or more years (in the last five years) in a country where the primary language is English and the instruction was in English.",
+      "url": "https://astro.cornell.edu/graduate-how-to-apply"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://astro.cornell.edu/graduate-how-to-apply"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The field offers funding to all admitted PhD students.",
+      "quote": "In addition to offering generous funding to all admitted PhD students, we encourage applicants who are experiencing financial hardships to seek an application fee waiver",
+      "url": "https://astro.cornell.edu/graduate-how-to-apply"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree or international equivalent is required.",
+      "quote": "a Bachelor's degree (or international equivalent) from an academic institution of recognized standing.",
+      "url": "https://astro.cornell.edu/graduate-how-to-apply"
+    }
+  },
+  "notes": "The page also states an outdated TOEFL minimum of 600 paper-based / 250 computer-based; the Graduate School iBT section minimums apply."
+}

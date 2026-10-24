@@ -1,0 +1,49 @@
+{
+  "id": "mcgill--mech",
+  "university": "mcgill",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering",
+  "program_page": "https://www.mcgill.ca/mecheng/grad/admission",
+  "checked": "2026-10-23",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "December 1 for Fall 2027, international and Canadian applicants.",
+      "quote": "Application Deadline - International | FALL September 15 December 1 December 1",
+      "url": "https://www.mcgill.ca/gradapplicants/program/mechanical-engineering-phd",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies.",
+      "quote": "",
+      "url": "https://www.mcgill.ca/mecheng/grad/admission"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "You may name preferred supervisors in the application; the pages don't say an agreement is needed first.",
+      "quote": "Applicants to the Ph.D. program may specify, in their application, their preferred area(s) of research and/or preferred supervisor(s).",
+      "url": "https://www.mcgill.ca/mecheng/grad/admission"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department's pages give no funding guarantee.",
+      "quote": "",
+      "url": "https://www.mcgill.ca/mecheng/grad/finance"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's in engineering or physical sciences (CGPA 3.3) is required; the course catalogue allows direct entry only in exceptional cases.",
+      "quote": "Applicants to the Ph.D. program must have successfully completed a Master's degree program, or the equivalent, in Engineering or the Physical Sciences, with a minimum CGPA equivalent to 3.3 on a scale of 4.0. | Students are not admitted directly from an undergraduate program.",
+      "url": "https://www.mcgill.ca/mecheng/grad/admission",
+      "also": [
+        {
+          "quote": "In exceptional circumstances, students with outstanding performance at the bachelor's level may be offered direct entry into the Ph.D. program (Ph.D. 1).",
+          "url": "https://coursecatalogue.mcgill.ca/en/graduate/engineering/mechanical-engineering/"
+        }
+      ]
+    }
+  },
+  "notes": ""
+}

@@ -579,6 +579,17 @@ def pct(recs, pred, base_pred=lambda r: True):
     return f"{round(100 * sum(1 for r in base if pred(r)) / len(base))}%" if base else "n/a"
 
 
+def write_copy(values):
+    """Fill the store and launch templates (*.src.md) with the current numbers."""
+    out = []
+    for src in sorted(list((ROOT / "store").rglob("*.src.md")) + list((ROOT / "launch").rglob("*.src.md"))):
+        dst = src.with_name(src.name.replace(".src.md", ".md"))
+        note = f"<!-- Generated from {src.name} by product/build.py. Edit that file, not this one. -->\n"
+        dst.write_text(note + fill(src.read_text(), values))
+        out.append(dst)
+    return out
+
+
 def stats(recs):
     import playbook_stats  # product/playbook_stats.py: numbers quoted in the Playbook and sample
     return playbook_stats.compute(recs, sys.modules[__name__])
@@ -623,6 +634,7 @@ def build(only=None):
     shutil.copy(CONTENT / "LICENSE.txt", OUT / "LICENSE.txt")
 
     sample.write(recs, DIST / f"Free-Sample-{PRODUCT}.pdf", values, sys.modules[__name__])
+    write_copy(values)
 
     zpath = DIST / f"{PRODUCT}-v{VERSION}.zip"
     if zpath.exists():

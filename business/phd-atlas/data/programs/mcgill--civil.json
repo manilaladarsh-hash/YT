@@ -1,0 +1,67 @@
+{
+  "id": "mcgill--civil",
+  "university": "mcgill",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil Engineering",
+  "program_page": "https://www.mcgill.ca/civil/grad/admissions",
+  "checked": "2026-10-23",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "January 1 for Fall 2027, international and Canadian applicants.",
+      "quote": "Application Deadline - International | FALL September 15 January 1 January 1",
+      "url": "https://www.mcgill.ca/gradapplicants/program/civil-engineering-phd",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies.",
+      "quote": "",
+      "url": "https://www.mcgill.ca/civil/grad/admissions"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "Not required, but highly recommended.",
+      "quote": "The GRE is not required, but is highly recommended.",
+      "url": "https://www.mcgill.ca/civil/grad/admissions"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admission depends on a professor agreeing to supervise you, though you need not name one when you apply; contacting faculty is recommended.",
+      "quote": "Admission to the PhD program is contingent upon a faculty member agreeing to supervise the research to be performed by an applicant.",
+      "url": "https://www.mcgill.ca/civil/grad",
+      "also": [
+        {
+          "quote": "The identification of a prospective research supervisor is not mandatory at the application stage.",
+          "url": "https://www.mcgill.ca/civil/grad/admissions"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Support comes from TA posts (most but not all students), supervisor grants and merit fellowships such as MEDA; no guarantee is stated.",
+      "quote": "A majority, but not all, full-time graduate students can be offered a Teaching Assistantship. | Fellowships of $22,000 to $25,000 a year for 3 years, for high caliber PhD students (MEDA)",
+      "url": "https://www.mcgill.ca/civil/grad/financial"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "PhD applicants are expected to hold a master's (one reference must come from your master's supervisor).",
+      "quote": "This applies to the Bachelor's degree as well as to the Master's degree for PhD applicants. | For PhD applicants, one letter must be from your Master's supervisor.",
+      "url": "https://www.mcgill.ca/civil/grad/admissions"
+    },
+    "toefl_min": {
+      "code": "94",
+      "value": "TOEFL iBT 94 with at least 20 in each section.",
+      "quote": "a minimum TOEFL score on the iBT (internet based test) of 94 overall and no less than 20 in each of the four component areas",
+      "url": "https://www.mcgill.ca/civil/grad/admissions"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS 7.0 overall with at least 6.0 in each band.",
+      "quote": "a minimum band score of 7 or greater (Academic module) and no less than 6.0 for each of listening, reading, writing and speaking",
+      "url": "https://www.mcgill.ca/civil/grad/admissions"
+    }
+  },
+  "notes": ""
+}

@@ -1,4 +1,4 @@
-# Business policies (Physics PhD Atlas)
+# Business policies (STEM PhD Atlas)
 
 Paste the short versions into Gumroad's product description or refund-policy field. The licence text ships inside the ZIP as LICENSE.txt.
 

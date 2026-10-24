@@ -1,0 +1,55 @@
+{
+  "id": "tamu--mech",
+  "university": "tamu",
+  "field": "mech",
+  "also_fields": [],
+  "department": "J. Mike Walker '66 Department of Mechanical Engineering",
+  "program_page": "https://engineering.tamu.edu/mechanical/admissions-and-aid/graduate-admissions/index.html",
+  "checked": "2026-10-23",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "December 15 for funding priority; February 1 is the final fall deadline.",
+      "quote": "December 15 for Fall admission funding priority | February 1 for Fall admission final application deadline",
+      "url": "https://engineering.tamu.edu/mechanical/admissions-and-aid/graduate-admissions/index.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to this field.",
+      "quote": "",
+      "url": "https://engineering.tamu.edu/mechanical/admissions-and-aid/graduate-admissions/index.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Research assistantships are awarded directly by faculty, so contact faculty whose research matches yours.",
+      "quote": "If you are interested in pursuing a GAR position, reach out to faculty whose research aligns with your interests to see what opportunities may be available in their labs.",
+      "url": "https://engineering.tamu.edu/mechanical/admissions-and-aid/scholarships-aid/index.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Research assistantships come from individual faculty and teaching assistantships are limited; both pay a salary, insurance and tuition/fees.",
+      "quote": "These positions are awarded directly to the students by the faculty. | Our department has a limited number of Graduate Assistant – Teaching (GAT) positions available each semester.",
+      "url": "https://engineering.tamu.edu/mechanical/admissions-and-aid/scholarships-aid/index.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages checked do not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://engineering.tamu.edu/mechanical/admissions-and-aid/graduate-admissions/index.html"
+    },
+    "app_fee": {
+      "code": "148 USD",
+      "value": "International applicants pay $148: the $90 Texas A&M fee plus the $58 EngineeringCAS fee.",
+      "quote": "International Applicants: $148 - Texas A&M University fee ($90) + EngineeringCAS Processing Fee ($58)",
+      "url": "https://engineering.tamu.edu/admissions-and-aid/graduate-admissions/index.html"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE is not required, but submitted scores are considered.",
+      "quote": "GRE scores are not required. However, if a student has GRE scores and wants to include them in their application, the scores will be considered in the review process.",
+      "url": "https://engineering.tamu.edu/mechanical/admissions-and-aid/graduate-admissions/index.html"
+    }
+  },
+  "notes": "Applications via EngineeringCAS. Includes aerospace-adjacent research; Aerospace Engineering is a separate TAMU department not researched here."
+}

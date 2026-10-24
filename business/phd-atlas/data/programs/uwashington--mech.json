@@ -1,0 +1,55 @@
+{
+  "id": "uwashington--mech",
+  "university": "uwashington",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering",
+  "program_page": "https://www.me.washington.edu/future-students/grad/application/deadlines",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Apply by December 15, 2026 for autumn 2027 to be considered for funding; applications by July 1 are considered without funding.",
+      "quote": "U.S. & International Applicants Will be considered for funding Dec 15",
+      "url": "https://www.me.washington.edu/future-students/grad/application/deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required; you can leave that part of the application blank.",
+      "quote": "Our department does not require the GRE for admission to our graduate programs. Applicants can leave this portion of the application blank.",
+      "url": "https://www.me.washington.edu/future-students/grad/admissions/criteria"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE applies.",
+      "quote": "",
+      "url": "https://www.me.washington.edu/future-students/grad/admissions/criteria"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "You may mention faculty whose research fits you in your statement; no rule on prior faculty agreement is stated.",
+      "quote": "You may also mention faculty members whose research aligns with your interests, along with a brief explanation of your choices.",
+      "url": "https://www.me.washington.edu/future-students/grad/admissions/criteria"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Funding comes through fellowships, TAs and RAs; the pages do not say how many PhD students are funded.",
+      "quote": "The department most commonly employs three types of financial assistance for graduate students: fellowships, teaching assistantships and research assistantships.",
+      "url": "https://www.me.washington.edu/prospective/grad/funding"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "You can enter the PhD directly without an MS or after an MS; PhD applicants with an MS need an MS GPA of 3.5+.",
+      "quote": "Pre-M.S. Direct entry into the Ph.D. program without an MS degree | Post-M.S. Entry with an M.S. degree from another University",
+      "url": "https://www.me.washington.edu/phd",
+      "also": [
+        {
+          "quote": "Ph.D. applicants are required to have an M.S. cumulative GPA of 3.5 or better.",
+          "url": "https://www.me.washington.edu/future-students/grad/admissions/criteria"
+        }
+      ]
+    }
+  },
+  "notes": "Aeronautics & Astronautics runs a separate PhD, not covered here."
+}

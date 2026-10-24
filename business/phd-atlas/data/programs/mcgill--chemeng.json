@@ -1,0 +1,49 @@
+{
+  "id": "mcgill--chemeng",
+  "university": "mcgill",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Department of Chemical Engineering",
+  "program_page": "https://www.mcgill.ca/chemeng/grad/degrees",
+  "checked": "2026-10-23",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "January 15 for international applicants for Fall 2027 (Canadians: June 21).",
+      "quote": "Application Deadline - International | FALL September 15 January 15 June 21",
+      "url": "https://www.mcgill.ca/gradapplicants/program/chemical-engineering-phd",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies.",
+      "quote": "",
+      "url": "https://www.mcgill.ca/chemeng/grad/degrees"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must secure a research supervisor before you can be admitted.",
+      "quote": "All students applying to the graduate program in Chemical Engineering at McGill University must have secured a research supervisor before they can be admitted!",
+      "url": "https://www.mcgill.ca/chemeng/grad/degrees",
+      "also": [
+        {
+          "quote": "when a qualified applicant is matched with a supervisor and financial support",
+          "url": "https://www.mcgill.ca/chemeng/grad/applicationprocess"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD students receive a minimum stipend of CAD 25,000; without your own award, the supervisor provides it.",
+      "quote": "Applicants without confirmed scholarships, fellowships, or awards must secure funding from their potential supervisor. | PhD students will receive a minimum stipend of $25,000.",
+      "url": "https://www.mcgill.ca/chemeng/grad/funding"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's is required; exceptional applicants without one can ask to be considered for direct PhD admission.",
+      "quote": "Admission requires a master's degree (or equivalent) from a recognized university. | applicants (without a master's degree) with exceptionally high Academic Standing and outstanding research potential will be considered for direct admission to the Ph.D. program.",
+      "url": "https://coursecatalogue.mcgill.ca/en/graduate/engineering/chemical-engineering/"
+    }
+  },
+  "notes": ""
+}

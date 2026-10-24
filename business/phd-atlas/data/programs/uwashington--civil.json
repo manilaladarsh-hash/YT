@@ -1,0 +1,55 @@
+{
+  "id": "uwashington--civil",
+  "university": "uwashington",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil & Environmental Engineering",
+  "program_page": "https://www.ce.washington.edu/phd/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Applications received by December 15, 2026 (11:59 pm PST) get preference for admission and funding; later ones only if space remains.",
+      "quote": "Preference is given to applications for admission and financial support that are received by December 15, 11:59 p.m. Pacific Standard Time. Applications received after the deadline are considered on a space available basis.",
+      "url": "https://www.ce.washington.edu/phd/admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE scores are no longer accepted.",
+      "quote": "Official GRE scores No longer accepted for applications.",
+      "url": "https://www.ce.washington.edu/future-students/grad/apply"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE applies.",
+      "quote": "",
+      "url": "https://www.ce.washington.edu/future-students/grad/apply"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Contact faculty you want to work with before applying and name them in your statement of purpose.",
+      "quote": "contact the faculty they are interested in working with before they submit an application",
+      "url": "https://www.ce.washington.edu/future-students/grad/apply",
+      "also": [
+        {
+          "quote": "In your statement of purpose, indicate which faculty member you are interested in working with.",
+          "url": "https://www.ce.washington.edu/phd/funding"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Full-time PhD students are funded via RA/TA, departmental support and fellowships, but assistantships are limited and competitive.",
+      "quote": "Full-time Ph.D. students are responsible for covering their student fees, but they receive full funding through research or teaching assistantships, departmental support and fellowships from a variety of organizations. | Funding for research and teaching assistantships is limited, and awards are made on a competitive basis by departmental faculty in each research area.",
+      "url": "https://www.ce.washington.edu/phd/funding"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's is the minimum, but PhD applicants typically already have a previous CEE degree and research experience.",
+      "quote": "Ph.D. applicants typically have a previous degree and research experience in civil and environmental engineering. | applicants must hold a baccalaureate degree from a regionally accredited college or university in the United States, its equivalent from a foreign institution",
+      "url": "https://www.ce.washington.edu/phd/admissions"
+    }
+  },
+  "notes": ""
+}

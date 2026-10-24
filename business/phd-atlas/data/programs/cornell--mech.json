@@ -1,0 +1,56 @@
+{
+  "id": "cornell--mech",
+  "university": "cornell",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Sibley School of Mechanical and Aerospace Engineering",
+  "program_page": "https://www.engineering.cornell.edu/mae/phd/phd-admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1; fall entry only.",
+      "quote": "Applications are due on December 1.",
+      "url": "https://www.duffield.cornell.edu/mae/phd/phd-faqs/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE scores are not accepted for Fall 2027 PhD applications.",
+      "quote": "Note that GRE scores are not being accepted as part of our M.S. and Ph.D. applications for Fall 2027.",
+      "url": "https://www.engineering.cornell.edu/mae/phd/phd-admissions/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://www.engineering.cornell.edu/mae/phd/phd-admissions/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Test waived after at least two years of English-taught study in a country where English is the official language.",
+      "quote": "TOEFL or IELTS exam is required of all international applicants from countries where English is not the official language unless the applicant has studied for at least two years in a country where English is the official language and the language of instruction was English.",
+      "url": "https://www.engineering.cornell.edu/mae/phd/phd-admissions/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Most students find an advisor during their first semester on a fellowship or TA.",
+      "quote": "Most students do not choose a Ph.D. advisor before applying.",
+      "url": "https://www.duffield.cornell.edu/mae/phd/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Five years of funding for all admitted PhD students in good standing.",
+      "quote": "We offer five years of funding to all admitted Ph.D. students (contingent upon maintaining good academic standing).",
+      "url": "https://www.duffield.cornell.edu/mae/phd/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applying with only a B.S. is the typical path.",
+      "quote": "Can I apply for a Ph.D. degree even if I will only have a B.S. degree? | Yes. This is the typical application path.",
+      "url": "https://www.duffield.cornell.edu/mae/phd/phd-faqs/"
+    }
+  },
+  "notes": "Aerospace Engineering, Robotics and Theoretical and Applied Mechanics are separate MAE PhD fields with the same December 1 deadline; choose one field when applying.",
+  "name": "Mechanical Engineering"
+}

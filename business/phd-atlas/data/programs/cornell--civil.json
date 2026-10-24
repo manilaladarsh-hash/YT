@@ -1,0 +1,49 @@
+{
+  "id": "cornell--civil",
+  "university": "cornell",
+  "field": "civil",
+  "also_fields": [],
+  "department": "School of Civil and Environmental Engineering",
+  "program_page": "https://www.duffield.cornell.edu/cee/phd-program/phd-admission-requirements/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-04",
+      "value": "The catalog lists January 4 for Fall; the department page says January 7. Apply by January 4.",
+      "quote": "Fall, January 4; Spring, November 2",
+      "url": "https://catalog.cornell.edu/programs/civil-environmental-engineering-phd/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Deadline Fall January 7 Required Admissions Items",
+          "url": "https://www.duffield.cornell.edu/cee/phd-program/phd-admission-requirements/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://www.duffield.cornell.edu/cee/phd-program/phd-admission-requirements/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://www.duffield.cornell.edu/cee/phd-program/phd-admission-requirements/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Doctoral students receive funding for the whole program while in good standing and making progress.",
+      "quote": "Doctoral students enrolled in our program normally complete their degrees within 3-5 years and receive funding support for the duration of their graduate studies if they remain in good academic standing",
+      "url": "https://www.duffield.cornell.edu/cee/civil-environmental-engineering-phd-handbook/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://www.duffield.cornell.edu/cee/phd-program/phd-admission-requirements/"
+    }
+  },
+  "notes": ""
+}

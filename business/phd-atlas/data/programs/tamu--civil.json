@@ -1,0 +1,61 @@
+{
+  "id": "tamu--civil",
+  "university": "tamu",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Zachry Department of Civil and Environmental Engineering",
+  "program_page": "https://engineering.tamu.edu/civil/admissions-and-aid/graduate-admissions/index.html",
+  "checked": "2026-10-23",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Apply by December 15 for all assistantships and fellowships; fall applications without aid are accepted until April 15 for internationals.",
+      "quote": "To be eligible for all teaching assistantships, research assistantships and fellowships, you must apply by December 15 for admission the following fall semester. Applications for the fall semester not seeking financial aid will continue to be accepted until April 15 for international applicants",
+      "url": "https://engineering.tamu.edu/civil/admissions-and-aid/graduate-admissions/faq.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to this field.",
+      "quote": "",
+      "url": "https://engineering.tamu.edu/civil/admissions-and-aid/graduate-admissions/faq.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You don't pick a faculty member when applying; an initial advisor is assigned after admission.",
+      "quote": "select a faculty member as part of the application? No. Students will be assigned an initial advisor once admitted",
+      "url": "https://engineering.tamu.edu/civil/admissions-and-aid/graduate-admissions/faq.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Admission does not guarantee funding; admitted students are considered for all assistantships and fellowships.",
+      "quote": "Will admission into the program guarantee me some form of funding? No. Admission and funding are separate issues.",
+      "url": "https://engineering.tamu.edu/civil/admissions-and-aid/graduate-admissions/faq.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "You can apply straight from a bachelor's; if not admitted to the PhD, you are considered for the master's.",
+      "quote": "You can apply directly to the Ph.D. program from your undergraduate degree without completing a master's degree.",
+      "url": "https://engineering.tamu.edu/civil/admissions-and-aid/graduate-admissions/faq.html"
+    },
+    "app_fee": {
+      "code": "148 USD",
+      "value": "International applicants pay $148: the $90 Texas A&M fee plus the $58 EngineeringCAS fee.",
+      "quote": "International Applicants: $148 - Texas A&M University fee ($90) + EngineeringCAS Processing Fee ($58)",
+      "url": "https://engineering.tamu.edu/admissions-and-aid/graduate-admissions/index.html"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The department cannot waive the application fee.",
+      "quote": "Unfortunately, no. The application fee is set by EngineeringCAS and Texas A&M University.",
+      "url": "https://engineering.tamu.edu/civil/admissions-and-aid/graduate-admissions/faq.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is no longer required.",
+      "quote": "The Graduate Record Examinations (GRE) are no longer required.",
+      "url": "https://engineering.tamu.edu/civil/admissions-and-aid/graduate-admissions/faq.html"
+    }
+  },
+  "notes": "Applications via EngineeringCAS. Offers an Artificial Intelligence and Data Science specialty within the civil engineering PhD."
+}

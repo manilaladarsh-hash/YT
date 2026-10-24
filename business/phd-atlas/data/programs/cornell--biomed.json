@@ -1,0 +1,50 @@
+{
+  "id": "cornell--biomed",
+  "university": "cornell",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "College of Veterinary Medicine (BBS Program)",
+  "program_page": "https://www.vet.cornell.edu/education/biomedical-biological-sciences-bbs-phd-program/phd-program/admissions/faq",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1; no spring admission.",
+      "quote": "Yes, December 1st annually. We do not accept applications for spring admission.",
+      "url": "https://www.vet.cornell.edu/education/biomedical-biological-sciences-bbs-phd-program/phd-program/admissions/faq",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE scores are not accepted.",
+      "quote": "The BBS program does not accept any submissions of GRE scores.",
+      "url": "https://www.vet.cornell.edu/education/biomedical-biological-sciences-bbs-phd-program/phd-program/admissions/faq"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "GRE scores are not accepted.",
+      "quote": "The BBS program does not accept any submissions of GRE scores.",
+      "url": "https://www.vet.cornell.edu/education/biomedical-biological-sciences-bbs-phd-program/phd-program/admissions/faq"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is to a first-year cohort, not a lab; contacting faculty is encouraged but not required, and students do three rotations.",
+      "quote": "Applicants to the BBS program are strongly encouraged to contact faculty members prior to applying to the program, however, it is not required. | Individuals admitted to the BBS PhD program are admitted to the 1st year cohort and not a specific faculty member's lab.",
+      "url": "https://www.vet.cornell.edu/education/biomedical-biological-sciences-bbs-phd-program/phd-program/admissions/faq"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted domestic and international students are funded for the whole program (tuition, health insurance, stipend; $45,240/12 months in 2024-25).",
+      "quote": "All domestic and international students admitted into the BBS Program are guaranteed funding for the duration of your program, contingent upon satisfactory performance toward your degree completion.",
+      "url": "https://www.vet.cornell.edu/education/biomedical-biological-sciences-bbs-phd-program/phd-program/admissions/faq"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://www.vet.cornell.edu/education/biomedical-biological-sciences-bbs-phd-program/phd-program/admissions/faq"
+    }
+  },
+  "notes": "",
+  "name": "Biomedical and Biological Sciences (BBS)"
+}

@@ -56,11 +56,11 @@
       "quote": "a minimum score of 86 for the internet based test with each component not less than 20. For the IELTS exam, with a minimum overall band score of 6.5 is required.",
       "url": "https://www.physics.mcgill.ca/grads/application.html"
     },
-    "english_waiver": {
-      "code": "Yes",
-      "value": "Normally exempt with a degree from a recognized foreign institution where English is the language of instruction; send proof to the department",
-      "quote": "Has obtained (or is about to obtain) an undergraduate or graduate degree from a recognized foreign institution where English is the language of instruction | you must send documentation proving you meet one of the conditions directly to your department",
-      "url": "https://www.mcgill.ca/gradapplicants/how-apply/you-apply-mcgill/proficiency"
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS 6.5 overall.",
+      "quote": "For the IELTS exam, with a minimum overall band score of 6.5 is required.",
+      "url": "https://www.physics.mcgill.ca/grads/application.html"
     }
   },
   "notes": "The department FAQ answers 'Do I need to speak French?'; read it before applying. A Winter (January) intake also exists."

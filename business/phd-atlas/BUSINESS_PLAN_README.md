@@ -1,6 +1,6 @@
-# Physics PhD Atlas 2027: business plan and research handoff
+# STEM PhD Atlas 2027: business plan and research handoff
 
-**Status as of 2026-10-22 (UTC).** Version 1.2 is built, tested and **ready to launch now**. It is waiting only on the owner's Gumroad setup. A Gemini deep-research audit was checked claim by claim, and the changes are in `research/AUDIT_RESPONSE.md`. There are **zero customers, sales, revenue and testimonials**. Every number below is labelled as one of:
+**Status as of 2026-10-24 (UTC).** After testing v1.2 (physics only), the owner asked for a full overhaul before launch and for **every STEM field** [D, 2026-10-22]. The STEM edition (v2.0) is being researched and built; **launch is paused until the release gate in §2 passes**. A Gemini deep-research audit was checked claim by claim, and the changes are in `research/AUDIT_RESPONSE.md`. There are **zero customers, sales, revenue and testimonials**. Every number below is labelled as one of:
 
 - **[F] fact:** verified, with a source and date in §16;
 - **[E] estimate or assumption:** not verified;
@@ -25,16 +25,16 @@ The research questions where your work would change the plan most are in **§13*
 
 ## 1. One-paragraph summary
 
-**Physics PhD Atlas 2027** is a downloadable kit for international, mostly Indian, students applying to physics PhD programs for 2027 entry. It focuses on the **US, the UK, continental Europe and Australia**, with Canada as a secondary market. Other directories don't collect the rules that trip international applicants up, so the Atlas does:
+**STEM PhD Atlas 2027** is a downloadable kit for international, mostly Indian, students applying to PhD programs in **any STEM field** (physics, astronomy, chemistry, materials, maths, statistics, computer science, data science and AI, biology, biomedical sciences, neuroscience, earth and environmental science, and five engineering fields) for 2027 entry. It covers about 200 universities in the **US, the UK, continental Europe, Canada and Australia & NZ**. Other directories don't collect the rules that trip international applicants up, so the Atlas does:
 - international fee waivers;
 - whether an English-medium Indian degree waives TOEFL or IELTS;
-- whether the Physics GRE is required this cycle;
+- whether the GRE General or the field's GRE Subject test is required this cycle;
 - whether you need a supervisor before admission;
 - whether a master's is required first;
 - whether funding is guaranteed;
 - deadlines.
 
-Every value carries the exact official sentence it came from, the link and the check date. It is sold on **Gumroad** for **$5**. Gumroad's purchasing-power pricing brings that to **about ₹190 in India**, and Indian buyers can pay by **UPI**. A **$20 batch licence** covers up to 30 students. There is a **free 10-program sample** as the lead magnet, and a free copy for any student who can't pay. Alumni abroad can **sponsor a batch** by buying the batch licence at full price.
+Every value carries the exact official sentence it came from, the link and the check date. It is sold on **Gumroad** for **$5**. Gumroad's purchasing-power pricing brings that to **about ₹190 in India**, and Indian buyers can pay by **UPI**. A **$20 batch licence** covers up to 30 students. There is a **free 12-program sample** across fields as the lead magnet, and a free copy for any student who can't pay. Alumni abroad can **sponsor a batch** by buying the batch licence at full price.
 
 ---
 
@@ -42,10 +42,11 @@ Every value carries the exact official sentence it came from, the link and the c
 
 | Item | State |
 |---|---|
-| Dataset | **106 programs in v1.2**: 46 US, 12 UK, 27 in the rest of Europe (10 countries, including the Max Planck Schools of Photonics and Matter to Life), 2 Australia and 19 Canada. About 20 UK and 10 Australia/NZ programs are being researched for a free **v1.3 (target Nov 5)**. Launch doesn't wait for them. |
-| Verification | A script checks that every quote appears verbatim on the cached official page: 106 records, 0 errors. Pages that block automated reads (Oxford, UCL, Michigan) can be saved by the owner in a browser and imported with `scripts/import_saved_page.py`. |
+| Dataset | **Schema 2.0, two levels:** a university record holds the graduate-school rules (fee, fee waiver, GRE General, TOEFL and IELTS minimums, English waiver for Indian degrees); a program record per field holds the department's rules (deadline, GRE Subject, supervisor-first, funding, entry route) and any override. The frozen list has 222 universities and 18 fields. One research agent per university writes to `data/staging/`; each university is reviewed and promoted. `python3 scripts/coverage.py` shows live progress. |
+| Release gate | ≥180 universities, ≥12 fields, every quote verified, Not stated under 15% overall and under 25% in every field with 30+ programs, explorer tests on desktop and phone, explorer ≤5 MB and loading in under 2 s on a 4× slower CPU, PDFs clean. `python3 scripts/coverage.py --gate`. |
+| Verification | A script checks that every quote appears verbatim on the cached official page (0 errors required at both levels). Pages that block automated reads (Oxford, UCL, Michigan) can be saved by the owner in a browser and imported with `scripts/import_saved_page.py`. |
 | Product | Offline explorer (HTML), planner workbook (XLSX), CSV, Playbook (PDF), START-HERE (PDF), licence, and a free sample (PDF). Built into a ZIP by `product/build.py`. |
-| Tests | 22 automated end-to-end tests pass: data checks, ZIP contents, PDFs, the explorer in a real browser with the network blocked, phone layout, and workbook formulas recalculated in LibreOffice. |
+| Tests | 24 automated end-to-end tests: data checks, ZIP contents, PDFs (START-HERE one page, sample ≤3 pages), the explorer in a real browser with the network blocked (the fit engine checked against the written rules for a fixture applicant, My plan, a valid .ics, CSV, persistence, phone layout, load time) and workbook formulas recalculated in LibreOffice. |
 | Store | Listing copy, cover images, Gumroad setup steps, emails and policies are written. **The Gumroad account doesn't exist yet** (owner action). Gumroad emails stay locked until the first $100 payout, so the receipt does the welcome (§11). |
 | Launch | Messages are drafted for WhatsApp, group posts, alumni sponsors, Reddit (no links, with a pinned profile post) and LinkedIn, all with per-channel tracking links. **Nothing has been sent.** |
 | Ops | Weekly checklist, maintenance plan, support playbook, and an owner dashboard workbook with actuals, gates, forecast, expenses and a study-permit hours log. A weekly GitHub Action re-checks every cited page (live on `main`). |
@@ -70,7 +71,7 @@ Every value carries the exact official sentence it came from, the link and the c
 
 ## 4. Customer and problem
 
-**Customer.** Self-directed final-year BS-MS, MSc or BSc physics and astronomy students applying abroad for 2027 entry. Most are at Indian institutions (IISERs, IITs, IISc, NISER, central and state universities). They are budget-constrained, apply to 8–15 programs, and often first learn the rules from forums.
+**Customer.** Self-directed final-year BS-MS, MSc, BSc, BTech or MTech students in any STEM field applying abroad for 2027 entry. The largest groups are computer science, data science, biology and engineering; physics remains the owner's home network. Most are at Indian institutions (IISERs, IITs, IISc, NISER, central and state universities). They are budget-constrained, apply to 8–15 programs, and often first learn the rules from forums.
 
 **Where they apply [D, owner's market knowledge, 2026-10-22]:** "less people apply to Canada. Most people apply for PhD in US, UK, Australia, Europe." The product, sample and copy were rebalanced accordingly. Canadian coverage stays, but stopped growing. (Q1 below asks for data to confirm or refine the split.)
 
@@ -84,7 +85,7 @@ Every value carries the exact official sentence it came from, the link and the c
 **Canada, a fact for the playbook, not a pivot:** since Jan 1, 2026, master's and doctoral students at public institutions need no provincial attestation letter, and IRCC targets 2-week study-permit processing for PhD applicants [F, canada.ca].
 
 **Problem.** Each program publishes its rules across 2–4 pages, and the rules international applicants most need are the hardest to find. Getting them wrong costs money (US application fees: median USD 95, about ₹9,000, in this dataset [F, computed]), missed deadlines or rejected files. Real examples from the data [F]:
-- the Physics GRE is required again at Berkeley, Caltech, Stanford and UChicago, at Cornell for theory applicants, and at Calgary for international applicants;
+- GRE Subject tests are still required at a number of US physics, maths and chemistry programs (for example the Physics GRE at Berkeley, Caltech, Stanford and UChicago);
 - Alberta's English-exemption list includes the IITs and IISc but not the IISERs;
 - Waterloo rejects medium-of-instruction letters;
 - UT Austin exempts applicants from India;
@@ -99,11 +100,11 @@ Every value carries the exact official sentence it came from, the link and the c
 
 | Component | What it does |
 |---|---|
-| `Atlas.html` | Offline single-file explorer. Filters cover region, country, fee or waiver, Physics GRE, English waiver, supervisor rule, funding, entry route and deadline. Quick picks: "No fee or a waiver route", "Physics GRE not needed", "English-test waiver possible", "Bachelor's OK", "Funded" and "Closing in 6 weeks". Fees also show in rupees (approximate), and deadlines count down in days. Tap any value to see the official quote and link. You can star a shortlist, export it to CSV, and use dark mode. It's phone-first, with filters folded on small screens. |
+| `Atlas.html` | Offline single-file explorer (gzip-embedded data). **Your situation:** fields, regions, degree, GRE Subject and General plans, English route or scores, fee budget, funding need, supervisor preference. A **fit engine** marks each program Strong match / Check first / Obstacle and names the reasons; best fit sorts first. Results are cards (or a table on desktop), with fees in ₹ and deadline countdowns; tap any value to read the official quote, marked university-wide or department. **My plan:** starred programs' deadlines in date order, total fees in ₹ net of waivers, an auto-generated checklist per program, and export to calendar (.ics with a 7-day reminder), CSV and print. Light/dark theme, phone-first. |
 | `Atlas.xlsx` | Planner workbook. The **Shortlist** sheet auto-fills from a drop-down. There is a deadline countdown, a **Budget** sheet converting all fees to rupees (with an editable rate pre-filled from the Bank of Canada), a recommender tracker, a supervisor-outreach log with automatic follow-up dates, and a Sources sheet with every quote. |
-| `Playbook.pdf` | 19 pages. It covers:<br>• late-season timeline and deadline calendar;<br>• budgeting in rupees;<br>• English tests (including TOEFL's January 2026 scale change);<br>• GRE and Physics GRE strategy;<br>• the UK (funding deadlines, English rules for Indian degrees);<br>• **how the rest of Europe differs** (positions versus calls, fees, master's-first rules, funding as a job, English rules), plus **Max Planck Schools, MSCA Doctoral Networks and APS**;<br>• Australia and NZ (supervisor first);<br>• Canada (supervisor-first rules and the 2026 study-permit changes);<br>• a 6-sentence supervisor email;<br>• an SOP framework (outline only, no ghost-writing);<br>• a letter-request kit;<br>• ethical fee-waiver requests;<br>• a checklist;<br>• scam warnings. |
+| `Playbook.pdf` | About 13 pages. Facts are computed from the data at build time (field-by-field admission table, GRE by field, English rules, deadlines grouped by university). It covers:<br>• late-season timeline and deadline calendar;<br>• budgeting in rupees;<br>• English tests (including TOEFL's January 2026 scale change);<br>• the GRE and GRE Subject tests by field;<br>• how each field admits PhD students (physical, mathematical, computing, life, earth and engineering sciences);<br>• the UK (funding deadlines, English rules for Indian degrees);<br>• **how the rest of Europe differs** (positions versus calls, fees, master's-first rules, funding as a job, English rules), plus **Max Planck Schools, MSCA Doctoral Networks and APS**;<br>• Australia and NZ (supervisor first);<br>• Canada (supervisor-first rules and the 2026 study-permit changes);<br>• a 6-sentence supervisor email;<br>• an SOP framework (outline only, no ghost-writing);<br>• a letter-request kit;<br>• ethical fee-waiver requests;<br>• a checklist;<br>• scam warnings. |
 | `START-HERE.pdf`, `LICENSE.txt` | Quick start, and the personal or batch licence terms. |
-| Free sample PDF | 10 programs plus "Six things international physics applicants miss", with the price line and the free-copy offer. |
+| Free sample PDF | 3 pages: 12 program cards across fields and regions, chosen from the best-documented records, plus data-driven "What applicants miss", the price line and the free-copy offer. |
 | Updates | Free for the 2027 cycle. The owner replaces the ZIP, and each buyer's receipt link and Gumroad Library serve the new file. No email is needed, which matters while Gumroad's email lock applies. |
 
 **Data method.** Program pages are fetched (plain HTTP, falling back to headless Chromium) and cached. Values are extracted with exact quotes. `scripts/validate_data.py` checks every quote appears on its cached page. `scripts/check_sources.py` runs weekly through GitHub Actions and opens an issue when a cited quote disappears.
@@ -288,6 +289,9 @@ Please research these, cite primary sources, and say what you would change.
 | 2026-10-21 | **$5 list, PPP up to 60% (about ₹190 India), $20 batch licence, free copies on request, tips on** | Owner: "$10 is a lot for them"; Gumroad's fixed fees set a floor of about $2 | $15 list (the original plan, about $7.50 in India), ₹99 (nets about $0.11) |
 | 2026-10-21 | UTM links instead of discount codes | PPP and codes don't stack on Gumroad | Discount codes NETWORK and REDDIT (the original plan) |
 | 2026-10-21 | Exclude records that are too thin (Manchester, IFAE) and keep them in `data/pending/` | Quality over count | Shipping records with 3 of 10 fields known |
+| 2026-10-22 | **Overhaul into the STEM PhD Atlas: every STEM field, about 200 universities, one kit at $5 (about ₹190), $20 batch** | Owner tested v1.2 and asked for a full overhaul and all STEM fields; CS, data science and biology are far larger applicant groups than physics | Physics-only launch; separate kits per field; a higher price for the bigger kit |
+| 2026-10-22 | Two-level data and one research agent per university | ~2,800 department entries are only feasible if graduate-school rules are verified once per university | One agent per program (too slow, inconsistent university rules) |
+| 2026-10-24 | Don't ship program records whose every field is Not stated; separate schools (engineering, medicine) get their own overrides | An empty card or a graduate-school rule shown for an engineering school would mislead | Inheriting the graduate-school rule silently |
 | 2026-10-22 | **Act on the Gemini audit:**<br>• launch v1.2 now, with UK/AU as v1.3;<br>• design around Gumroad's email lock;<br>• add the alumni sponsor-a-batch channel;<br>• make the Reddit post link-free;<br>• keep Topmate as a fallback only;<br>• sell under the legal name;<br>• add Max Planck Schools and MSCA;<br>• fix the AIP figures;<br>• stop tracking the paid ZIP in git | Checked against primary sources (`research/AUDIT_RESPONSE.md`) | A dual Gumroad + Topmate checkout (GST uncertainty, double ops); a 3-email funnel (blocked by Gumroad); a 15-program sample; Asia now |
 | 2026-10-22 | **Reposition to the US, UK, Europe and Australia; Canada secondary.** Stop adding Canadian programs; add about 20 UK and about 10 Australian/NZ programs; restructure the Playbook (UK §6, rest of Europe §7, Australia & NZ §8, Canada §9); rebalance the sample to 4 US, 2 UK, 2 Europe, 1 Australia and 1 Canada | Owner: most Indian applicants target the US, UK, Australia and Europe | Equal weight on Canada (the original plan, which followed the owner's own route to Canada) |
 

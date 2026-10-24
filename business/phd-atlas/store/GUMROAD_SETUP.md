@@ -4,9 +4,9 @@ Everything else is ready. These steps need **your** identity, bank and approval,
 
 ## Before you start (10 min, your judgement)
 1. **Confirm you can sell.** Check that your study permit allows off-campus work. Count every business hour (building, posting, emails) toward your 24 h/week off-campus limit. Thesis-based graduate students usually have no scheduled summer break, so treat the limit as applying **all year**. If unsure, ask McMaster's International Student Services; it's free. Log hours in the *Hours* sheet of `ops/Business-Dashboard.xlsx`.
-2. **Sell under your full legal name.** Set the Gumroad name (Settings → Profile) to your full legal name exactly, and use "Physics PhD Atlas 2027" only as the product title.
+2. **Sell under your full legal name.** Set the Gumroad name (Settings → Profile) to your full legal name exactly, and use "STEM PhD Atlas 2027" only as the product title.
    - Under Ontario's Business Names Act, a sole proprietor trading under their own full name doesn't register anything.
-   - Trading under any other name (for example "Physics PhD Atlas" as the shop name) needs a business-name registration, and not registering can bring a fine of up to $2,000.
+   - Trading under any other name (for example "STEM PhD Atlas" as the shop name) needs a business-name registration, and not registering can bring a fine of up to $2,000.
 3. **Decide the credibility line.** The listing copy says "Built by an IISER → McMaster physics PhD student." Keep it, edit it, or delete it. It's a credibility signal, but it reveals where you study.
 
 ## Account (15 min)
@@ -20,17 +20,17 @@ Everything else is ready. These steps need **your** identity, bank and approval,
 2. Name, URL slug, summary and description: copy from `store/LISTING_COPY.md`, Product 1. Set the price to **$5**.
 3. **Versions:** add two versions with these exact names and prices: **Personal licence**, $5, and **Batch licence (share with up to 30 students)**, $20. Indian buyers should then see roughly ₹190 and ₹750, in rupees, with UPI offered at checkout. **Before announcing, ask one friend in India to open the link and confirm the rupee price and the UPI option for both versions.** This is the one pricing assumption I couldn't test without an account.
 4. Cover: upload `store/images/cover-paid.png`. Thumbnail: `store/images/thumb-paid.png`.
-5. Content/file: upload `dist/Physics-PhD-Atlas-2027-v1.2.zip` (I've also sent it to you in chat).
+5. Content/file: upload `dist/STEM-PhD-Atlas-2027-v2.0.zip` (I've also sent it to you in chat).
 6. Custom receipt: paste the receipt text from `LISTING_COPY.md`.
 7. Refund policy: "14-day no-questions refund."
 8. Publish, then buy it once yourself with a 100% discount code (Discounts → new code, 100%, 1 use) to see exactly what customers get, including the receipt. Delete the code afterwards, but **keep that test purchase**. When an update ships, replace the ZIP and open your own receipt link to confirm it serves the new version. That's how buyers get updates while Gumroad emails are locked (see below).
 9. **Student-aid code (2 min):** Discounts → new code `STUDENTAID`, **100% off**, Product 1 Personal licence only, **limited to 20 uses**. Never post it publicly. When a student writes that even ₹190 is a barrier, reply with the "Free copy" template in `store/EMAILS.md`. When it runs out, decide whether to top it up.
-10. **Club-coordinator code (optional, 1 min):** `CLUBCOPY`, 100% off, Personal licence only, **10 uses**. It's for physics club or batch coordinators you message under experiment E6 in `launch/LAUNCH_PLAN.md`. It's a free copy with no obligation, and you never ask for a review in return.
+10. **Club-coordinator code (optional, 1 min):** `CLUBCOPY`, 100% off, Personal licence only, **10 uses**. It's for student-society or batch coordinators you message under experiment E6 in `launch/LAUNCH_PLAN.md`. It's a free copy with no obligation, and you never ask for a review in return.
 
 ## Product 2: free sample (5 min)
 1. New digital product with Product 2's text from `LISTING_COPY.md`. Price **$0+**.
 2. Cover `store/images/cover-sample.png`, thumbnail `store/images/thumb-sample.png`.
-3. File: `dist/Free-Sample-Physics-PhD-Atlas-2027.pdf`.
+3. File: `dist/Free-Sample-STEM-PhD-Atlas-2027.pdf`.
 4. In the description, add a link to Product 1 (paste its URL once it's published).
 
 ## Emails (nothing to set up at launch)

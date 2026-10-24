@@ -3,45 +3,57 @@
   "institution": "McGill University",
   "country": "Canada",
   "region": "Quebec",
-  "grad_page": "https://www.physics.mcgill.ca/grads/application.html",
-  "checked": "2026-10-21",
+  "grad_page": "https://www.mcgill.ca/gradapplicants/how-apply/you-apply-mcgill",
+  "checked": "2026-10-23",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.mcgill.ca/grads/application.html"
+      "code": "143.82 CAD",
+      "value": "CAD 143.82, non-refundable (the 2027 figure in the GPS FAQ; it was CAD 139.63 for Fall 2026). One fee covers up to two programs in the same term.",
+      "quote": "The non-refundable application fee for Summer 2027 is $143.82 CAD. With one application fee, you can submit up to two applications in the same term to two different programs.",
+      "url": "https://www.mcgill.ca/gradapplicants/how-apply/application-support",
+      "also": [
+        {
+          "quote": "McGill charges a non-refundable fee of $139.63 (Summer and Fall 2026) for graduate applications.",
+          "url": "https://www.mcgill.ca/gradapplicants/how-apply/you-apply-mcgill"
+        }
+      ]
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.mcgill.ca/grads/application.html"
+      "code": "None",
+      "value": "McGill's graduate office does not waive the application fee.",
+      "quote": "Graduate & Postdoctoral Studies (GPS) does not offer application fee waivers.",
+      "url": "https://www.mcgill.ca/gradapplicants/how-apply/application-support"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.mcgill.ca/grads/application.html"
+      "value": "No university-wide GRE rule; each program decides, so check the program record.",
+      "quote": "Some graduate programs require GRE or GMAT results as part of the application process.",
+      "url": "https://www.mcgill.ca/gradapplicants/how-apply/application-support"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.mcgill.ca/grads/application.html"
+      "code": "86",
+      "value": "TOEFL iBT 86 overall with at least 20 in each section (old 120-point scale), or 4.5 overall on the new 6-point scale used since January 2026. Some programs ask for more.",
+      "quote": "120-point scale | Minimum overall score of 86 | Minimum component scores of 20 | 6-point scale (as of January 2026) | Minimum overall score of 4.5",
+      "url": "https://www.mcgill.ca/gradapplicants/how-apply/you-apply-mcgill/proficiency"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.mcgill.ca/grads/application.html"
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall; IELTS Online is not accepted. Some programs ask for more.",
+      "quote": "A band score of 6.5 or greater (Academic module) | McGill does not accept the IELTS Online test",
+      "url": "https://www.mcgill.ca/gradapplicants/how-apply/you-apply-mcgill/proficiency"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.mcgill.ca/grads/application.html"
+      "code": "Conditional",
+      "value": "A degree from a university where English is the language of instruction normally exempts you, but you must send your department official proof (e.g. a letter from your university) that English was the medium of instruction.",
+      "quote": "Has obtained (or is about to obtain) an undergraduate or graduate degree from a recognized foreign institution where English is the language of instruction | you must send documentation proving you meet one of the conditions directly to your department",
+      "url": "https://www.mcgill.ca/gradapplicants/how-apply/you-apply-mcgill/proficiency",
+      "also": [
+        {
+          "quote": "You must submit documents that corroborate you qualify (e.g. Official confirmation from your institution stating English was the primary medium of instruction.)",
+          "url": "https://www.mcgill.ca/gradapplicants/how-apply/application-support"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "Duolingo and PTE are not accepted for graduate admission. Many departments set higher English scores than the university minimum."
 }

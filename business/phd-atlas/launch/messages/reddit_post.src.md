@@ -1,0 +1,23 @@
+# E3: Reddit post (no links in the body)
+
+Read each subreddit's rules first, and skip any that ban self-promotion (or ask the mods). Pin `reddit_profile_post.md` to your profile **before** posting this. The body below deliberately has **no links**: store links get posts removed.
+
+**Title:** I checked {{N}} STEM PhD programs' official pages (US, UK, Europe, Canada, Australia) for rules that trip up Indian/international applicants: here's what I found
+
+**Body:**
+
+I'm a physics PhD student (came to Canada from India) and spent the past few weeks reading PhD programs' own admissions pages, across {{N_FIELDS}} fields from physics and chemistry to CS, biology and engineering, for the things that are hard to find as an international applicant. Everything below is from official pages as of {{CHECKED}}; check the pages yourself before acting.
+
+**Application fees:** {{NO_FEE_COUNT}} programs charge none, including {{NO_FEE_NAMES}}. Of the rest, many offer fee waivers only to domestic applicants; {{WAIVER_AVAILABLE_COUNT}} say internationals can get one outright.
+
+**English tests:** {{ENGLISH_YES_COUNT}} universities accept an English-medium Indian degree instead of TOEFL/IELTS ({{ENGLISH_YES_NAMES}}). {{ENGLISH_CONDITIONAL_COUNT}} accept it with conditions (a medium-of-instruction letter, a named list, or a minimum duration), and {{ENGLISH_NO_COUNT}} require a test regardless, usually because they only exempt "majority English-speaking" countries.
+
+**GRE:** the General GRE is required at only {{GRE_REQUIRED_COUNT}} programs; {{GRE_NOT_CONSIDERED_COUNT}} won't look at a score even if you send one. But a GRE Subject test is still required at {{SUBJECT_REQUIRED_COUNT}} programs, including {{SUBJECT_REQUIRED_NAMES}}.
+
+**Supervisor first:** {{SUPERVISOR_REQUIRED_COUNT}} programs need a supervisor's agreement before admission. In most of Europe you apply for an advertised paid position, and in Australia and much of Canada you find a supervisor before you apply.
+
+**Funding:** {{GUARANTEED_COUNT}} programs say every admitted PhD student is funded. Elsewhere it's competitive or tied to an adviser's grant.
+
+**Deadlines:** {{TOP_US_DATE}} is the most common US deadline ({{TOP_US_DATE_COUNT}} programs), and {{NOV_COUNT}} programs close in November, mostly European calls and UK scholarship rounds.
+
+Disclosure: I made a paid kit out of this (every value with its official quote and link, an offline explorer that checks programs against your situation, fees in ₹, and a planner sheet), plus a free 12-program sample. I'm not linking it here because of the sub's rules; details are pinned on my profile. Happy to answer questions in the comments either way.

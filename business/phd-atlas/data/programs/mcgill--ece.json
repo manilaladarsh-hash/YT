@@ -1,0 +1,61 @@
+{
+  "id": "mcgill--ece",
+  "university": "mcgill",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical and Computer Engineering",
+  "program_page": "https://www.mcgill.ca/ece/graduate/graduate/process",
+  "checked": "2026-10-23",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "December 15 for Fall 2027, international and Canadian applicants.",
+      "quote": "Application Deadline - International | FALL September 15 December 15 December 15",
+      "url": "https://www.mcgill.ca/gradapplicants/program/electrical-engineering-phd",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies.",
+      "quote": "",
+      "url": "https://www.mcgill.ca/ece/graduate/graduate/process"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "Not mandatory; you may send scores if you have them.",
+      "quote": "Submission of GRE (General Aptitude Test) scores is not mandatory. Applicants who have written the GRE are welcome to submit their scores for consideration.",
+      "url": "https://www.mcgill.ca/ece/graduate/graduate/process"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You don't need a supervisor before applying; emailing potential supervisors is optional.",
+      "quote": "Is it mandatory to find a supervisor before applying for admission? | No, you may email potential supervisors (see Research Areas) if you wish, but it is not required.",
+      "url": "https://www.mcgill.ca/ece/graduate/graduate/faqs"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Funding comes from the department, the Faculty and GPS, but no guarantee is stated.",
+      "quote": "Funding for graduate students is available from the Department of Electrical and Computer Engineering, the Faculty of Engineering and the Graduate and Postdoctoral Studies Office.",
+      "url": "https://www.mcgill.ca/ece/graduate/graduate/faqs"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "PhD applicants must hold a suitable master's degree.",
+      "quote": "Applicants to the Doctor of Philosophy (Ph.D.) program, in addition to satisfying the admission requirements for the MSc or MEng program, must hold a suitable Master's degree from a recognized university.",
+      "url": "https://www.mcgill.ca/ece/graduate/graduate/process"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "TOEFL iBT 100 with at least 20 in each section.",
+      "quote": "iBT (internet based test) - overall score of 100 (no less than 20 in each of the four component scores)",
+      "url": "https://www.mcgill.ca/ece/graduate/graduate/process"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS 7.0 overall with at least 6.0 in each band.",
+      "quote": "IELTS (International English Language Testing System) - overall band score of 7.0 or greater (no less than 6.0 in each of the four individual component scores)",
+      "url": "https://www.mcgill.ca/ece/graduate/graduate/process"
+    }
+  },
+  "notes": ""
+}

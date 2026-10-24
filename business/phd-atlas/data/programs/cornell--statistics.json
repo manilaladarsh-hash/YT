@@ -1,0 +1,55 @@
+{
+  "id": "cornell--statistics",
+  "university": "cornell",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Statistics and Data Science",
+  "program_page": "https://stat.cornell.edu/phd-statistics/apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-04",
+      "value": "All materials by January 4 for Fall entry; incomplete applications are not considered.",
+      "quote": "You will need the following materials submitted on or before January 4 for Fall applicants.",
+      "url": "https://stat.cornell.edu/phd-statistics/apply",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Fall, January 4; no spring admission",
+          "url": "https://catalog.cornell.edu/programs/statistics-phd/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE scores are not required or reviewed.",
+      "quote": "GRE scores are not required or reviewed.",
+      "url": "https://catalog.cornell.edu/programs/statistics-phd/"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "GRE scores (including Subject tests) are not reviewed.",
+      "quote": "GRE scores are not required or reviewed.",
+      "url": "https://catalog.cornell.edu/programs/statistics-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://stat.cornell.edu/phd-statistics/apply"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Nearly all students are fully supported (tuition, stipend, health insurance); the field generally admits only students it expects to fund, typically up to 5 years.",
+      "quote": "In general, the Field of Statistics only admits students for whom we expect to be able to provide financial support. | Nearly all of our graduate students are fully supported: full tuition, a generous stipend, and full health insurance.",
+      "url": "https://stat.cornell.edu/phd-statistics/apply"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://stat.cornell.edu/phd-statistics/apply"
+    }
+  },
+  "notes": ""
+}

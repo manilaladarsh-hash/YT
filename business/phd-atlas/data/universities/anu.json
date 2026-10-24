@@ -3,45 +3,51 @@
   "institution": "Australian National University",
   "country": "Australia",
   "region": "ACT",
-  "grad_page": "https://programsandcourses.anu.edu.au/program/9680xphd",
-  "checked": "2026-10-22",
+  "grad_page": "https://study.anu.edu.au/apply/postgraduate-research",
+  "checked": "2026-10-24",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://programsandcourses.anu.edu.au/program/9680xphd"
+      "code": "0 (no fee)",
+      "value": "There is no application fee for PhD (research degree) applications at ANU.",
+      "quote": "Once you have drafted a research proposal and found a potential | supervisor, applying to ANU is easy. And it’s free.",
+      "url": "https://study.anu.edu.au/related-information/information-postgraduate-research-students"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://programsandcourses.anu.edu.au/program/9680xphd"
+      "code": "No fee",
+      "value": "No application fee is charged for research degrees, so no waiver is needed.",
+      "quote": "Once you have drafted a research proposal and found a potential | supervisor, applying to ANU is easy. And it’s free.",
+      "url": "https://study.anu.edu.au/related-information/information-postgraduate-research-students"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "ANU's research-degree admission pages do not mention the GRE.",
       "quote": "",
-      "url": "https://programsandcourses.anu.edu.au/program/9680xphd"
+      "url": "https://study.anu.edu.au/apply/postgraduate-research"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://programsandcourses.anu.edu.au/program/9680xphd"
+      "code": "81",
+      "value": "For PhD study starting on or after 1 January 2027: TOEFL iBT 81 overall with Reading 16, Writing 19, Listening 16, Speaking 19 (80 for starts before 2027). A TOEFL iBT taken on or after 21 January 2026 must be the TOEFL iBT Australia; Home Edition is not accepted.",
+      "quote": "Table 8: Minimum requirements for accepted English Language Tests for admission into Higher Degree by Research Programs | TOEFL iBT [excluding Paper Edition and Home Edition] | If completed on or after 21 January 2026, only the TOEFL iBT Australia will be accepted (with an overall grading scale of 0 to 120). | For study commencing on or after 1 January 2027: | Overall score: 81 | Reading: 16 | Writing: 19 | Listening: 16 | Speaking: 19",
+      "url": "https://policies.anu.edu.au/ppl/document/ANUP_000408"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://programsandcourses.anu.edu.au/program/9680xphd"
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall with at least 6.0 in each band, taken at a test centre (online IELTS not accepted).",
+      "quote": "Table 8: Minimum requirements for accepted English Language Tests for admission into Higher Degree by Research Programs | All IELTS results must be completed at an IELTS testing centre, online test results are not accepted. | Overall score: 6.5 | Reading: 6.0 | Writing: 6.0 | Listening: 6.0 | Speaking: 6.0",
+      "url": "https://policies.anu.edu.au/ppl/document/ANUP_000408"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://programsandcourses.anu.edu.au/program/9680xphd"
+      "code": "Yes",
+      "value": "For research degrees, a bachelor's of at least 3 years (or a master's of at least 2 years) taught and assessed entirely in English meets the requirement, from any country. Indian Class XII results do not count for research degrees, and ANU grants no waivers beyond the listed routes.",
+      "quote": "Prior tertiary education | Completion of a minimum 3 year Bachelor degree or a minimum 2 year Master degree taught and assessed in entirely in English except for courses that are focused on the development of knowledge and skills in a language other than English",
+      "url": "https://policies.anu.edu.au/ppl/document/ANUP_000408",
+      "also": [
+        {
+          "quote": "Prior senior secondary education | 15–17; Tables 3, 4 | 25–26 | Not accepted | There are no waivers in relation to the application of this policy.",
+          "url": "https://policies.anu.edu.au/ppl/document/ANUP_000408"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "All PhDs apply through one ANU portal, open all year; scholarship consideration is automatic with the admission application. English scores can be supplied after an offer."
 }

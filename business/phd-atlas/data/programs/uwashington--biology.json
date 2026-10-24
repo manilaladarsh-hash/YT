@@ -1,0 +1,55 @@
+{
+  "id": "uwashington--biology",
+  "university": "uwashington",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://biology.washington.edu/graduate-admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026 (midnight) for autumn 2027; English scores must also arrive by then.",
+      "quote": "Application Deadline: December 1 at Midnight | Official scores must be received by the December 1 deadline.",
+      "url": "https://biology.washington.edu/graduate-admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE scores are not accepted or reviewed.",
+      "quote": "No, we no longer accept GRE scores.",
+      "url": "https://biology.washington.edu/faq-frequently-asked-questions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE applies.",
+      "quote": "",
+      "url": "https://biology.washington.edu/faq-frequently-asked-questions"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Students are admitted directly to a lab, so contact several faculty before applying (strongly recommended) and list three Biology faculty.",
+      "quote": "Although students will be admitted directly to a lab, incoming graduate students have the opportunity to pursue lab rotations and tutorials in their first year",
+      "url": "https://biology.washington.edu/phd-program",
+      "also": [
+        {
+          "quote": "We encourage prospective applicants to explore the research opportunities in the department and strongly encourage that you contact faculty members with whom you are interested in working before you submit an application.",
+          "url": "https://biology.washington.edu/graduate-admissions"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The department funds tuition, stipend and insurance for the first five years.",
+      "quote": "will ensure you are funded (tuition, stipend, insurance) for the first five years of your studies through a variety of assistantships, fellowships, and scholarships",
+      "url": "https://biology.washington.edu/faq-frequently-asked-questions"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A US-equivalent bachelor's is enough; no master's needed.",
+      "quote": "No, you do not need a masters degree. Many of our students do not have masters degrees.",
+      "url": "https://biology.washington.edu/faq-frequently-asked-questions"
+    }
+  },
+  "notes": "Students do 3-4 rotations in year one and must TA for at least two quarters."
+}

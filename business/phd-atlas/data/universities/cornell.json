@@ -3,45 +3,63 @@
   "institution": "Cornell University",
   "country": "USA",
   "region": "New York",
-  "grad_page": "https://physics.cornell.edu/prospective-graduate-students",
-  "checked": "2026-10-21",
+  "grad_page": "https://catalog.cornell.edu/graduate-school/",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.cornell.edu/prospective-graduate-students"
+      "code": "105 USD",
+      "value": "The Graduate School application fee is $105.",
+      "quote": "The Graduate School requires an application fee of $105.",
+      "url": "https://cam.cornell.edu/academics/phd-program-admissions",
+      "also": [
+        {
+          "quote": "The application fee is $105; in cases of extreme financial need, the Graduate School will consider a request for a fee waiver",
+          "url": "https://www.engineering.cornell.edu/mae/phd/phd-admissions/"
+        }
+      ]
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.cornell.edu/prospective-graduate-students"
+      "code": "Limited",
+      "value": "The Graduate School considers fee-waiver requests in cases of financial hardship (extreme financial need) or for pathway-program participants; no citizenship limit is stated.",
+      "quote": "in cases of extreme financial need, the Graduate School will consider a request for a fee waiver",
+      "url": "https://www.engineering.cornell.edu/mae/phd/phd-admissions/",
+      "also": [
+        {
+          "quote": "A fee waiver request will be considered if this fee presents a financial hardship.",
+          "url": "https://cam.cornell.edu/academics/phd-program-admissions"
+        }
+      ]
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.cornell.edu/prospective-graduate-students"
+      "value": "Set by each graduate field; see the program record.",
+      "quote": "if required by the field, take the Graduate Record Examinations (GRE) General Test or other specific examinations",
+      "url": "https://catalog.cornell.edu/graduate-school/"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.cornell.edu/prospective-graduate-students"
+      "code": "Sections",
+      "value": "No overall TOEFL iBT minimum; the Graduate School sets section minimums (old scale: Speaking 22, Reading 20, Listening 15, Writing 20). Speaking 27+ avoids the extra English assessment before TA work.",
+      "quote": "Score Tier B – Admissible with an English Language Assessment and support plan required before being appointed as a TA 7.0 – 7.5 Speaking: 22 – 26 Reading: 20 or above Listening: 15 or above Writing: 20 or above",
+      "url": "https://cam.cornell.edu/academics/phd-program-admissions",
+      "also": [
+        {
+          "quote": "TOEFL minimum scores of IBT Exam: listening, 15; writing, 20; reading, 20; speaking, 22",
+          "url": "https://catalog.cornell.edu/programs/electrical-computer-engineering-phd/"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
+      "code": "7",
+      "value": "IELTS Academic overall band 7.0 or higher (8.0+ avoids the extra English assessment before TA work).",
+      "quote": "The Graduate School requires an overall band score of 7.0 or higher on the IELTS.",
       "url": "https://physics.cornell.edu/prospective-graduate-students"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.cornell.edu/prospective-graduate-students"
+      "code": "Conditional",
+      "value": "Exempt if you will hold the international equivalent of a US bachelor's degree from a country where English is an official language and English was the medium of instruction, shown on the transcript or the institution's website; India is not named. Exempt students still take Cornell's English Language Assessment before TA work.",
+      "quote": "At the time of enrollment at Cornell, will have earned the international equivalent of a U.S. bachelor's degree from a college or university in a country where English is an official language, and where English is the language of instruction. (The medium of instruction must be indicated on the transcript or easily verified on the institution's website.)",
+      "url": "https://cam.cornell.edu/academics/phd-program-admissions"
     }
   },
-  "notes": ""
+  "notes": "gradschool.cornell.edu pages (fees, English proficiency, fields of study) are behind a Cloudflare check; Graduate School rules are quoted from department pages and the 2026-2027 Cornell catalog that restate them."
 }

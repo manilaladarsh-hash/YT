@@ -1,0 +1,55 @@
+{
+  "id": "mcgill--cs",
+  "university": "mcgill",
+  "field": "cs",
+  "also_fields": [],
+  "department": "School of Computer Science",
+  "program_page": "https://www.cs.mcgill.ca/graduate/future/phdadmission/",
+  "checked": "2026-10-23",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "December 15 for international applicants for Fall 2027 (Canadians: February 15).",
+      "quote": "Application Deadline - International | FALL September 15 December 15 February 15",
+      "url": "https://www.mcgill.ca/gradapplicants/program/computer-science-phd",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE subject test applies to CS.",
+      "quote": "",
+      "url": "https://www.cs.mcgill.ca/graduate/future/phdadmission/"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "Not required, but strongly suggested for applicants whose degrees are from outside Canada.",
+      "quote": "Applicants to the Ph.D. program are not required to take the Graduate Record Examinations. However, we strongly suggest that applicants who obtained their degrees outside Canada take the GRE general test",
+      "url": "https://www.cs.mcgill.ca/graduate/future/phdadmission/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "List at least 3 proposed supervisors in the application; contacting them directly is encouraged.",
+      "quote": "All our applicants to our PhD program must list at least 3 proposed supervisors they want to work with on their application. | Students are also encouraged to contact potential supervisors directly to discuss specific opportunities.",
+      "url": "https://www.cs.mcgill.ca/graduate/future/faq/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All PhD students are funded (average about CAD 25,000 a year); the offer letter states the package.",
+      "quote": "All our Ph.D. students and most of our Masters students are funded",
+      "url": "https://www.cs.mcgill.ca/academic/funding/overview/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Normally an MSc in CS; exceptional BSc holders can move to the PhD but must first apply to the MSc.",
+      "quote": "normally applicants should hold an M.Sc. degree in Computer Science or a closely related area, from a well-recognized university. Students who hold a B.Sc. degree in Computer Science but have an exceptionally strong academic record may be admitted directly to the Ph.D. program, but they must initially apply to the M.Sc. Program.",
+      "url": "https://www.cs.mcgill.ca/graduate/future/phdadmission/"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "TOEFL iBT 100 (or 5.0 on the new 6-point scale), unless your instruction was in English.",
+      "quote": "International students who have not received their instruction in English must pass the Test of English as a Foreign Language (TOEFL) with a minimum score of 100 on the 120-point scale (internet-based test), or a minimum score of 5.0 on the 6-point scale",
+      "url": "https://www.cs.mcgill.ca/graduate/future/phdadmission/"
+    }
+  },
+  "notes": ""
+}

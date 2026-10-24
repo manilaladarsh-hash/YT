@@ -1,16 +1,16 @@
+<!-- Generated from linkedin_post.src.md by product/build.py. Edit that file, not this one. -->
 # E4: LinkedIn post
 
-Applying to physics PhDs from India means hunting the same answers across dozens of websites. I checked 100+ programs' official pages in the US, UK, Europe, Australia and Canada for the rules that trip up international applicants:
+Applying to STEM PhDs from India means hunting the same answers across dozens of websites. I checked the official pages of 437 programs in 18 fields, at 106 universities in the US, UK, Europe, Canada and Australia:
 
-→ The Physics GRE is required again this cycle at Harvard, Berkeley, Caltech, Stanford, UChicago and Virginia
-→ Most UK universities won't accept an English-medium Indian degree instead of IELTS/TOEFL, but some accept Class XII English marks (QMUL: 70% CBSE/ISC; Royal Holloway: 80%)
-→ UK funding deadlines arrive months before the final ones
-→ Australia is supervisor-first: ANU and Melbourne want a supervisor's support before you apply
-→ In Sweden and the Netherlands, PhD places are paid jobs advertised as positions
-→ Many programs charge no application fee at all
+→ 49 programs charge no application fee at all
+→ 22 universities accept an English-medium Indian degree instead of IELTS/TOEFL; 25 don't
+→ A GRE Subject test is still required at 16 programs
+→ 119 programs need a supervisor's agreement before you apply
+→ Dec 1, 2026 is the most common US deadline
 
-I packaged it as the Physics PhD Atlas 2027. Every value is linked to the official sentence it came from, and it comes with an offline explorer (fees in ₹) and a planner. Free 10-program sample: {SAMPLE_URL}?utm_source=linkedin&utm_medium=post&utm_campaign=launch2026
+I packaged it as the STEM PhD Atlas 2027. Every value is linked to the official sentence it came from. The offline explorer checks each program against your own situation (degree, tests, fee budget, funding) and builds a deadline plan with fees in ₹. Free 12-program sample: {SAMPLE_URL}?utm_source=linkedin&utm_medium=post&utm_campaign=launch2026
 
 If you mentor students applying this year, I'd be grateful if you passed it on.
 
-#PhD #Physics #GradSchool #StudyAbroad
+#PhD #GradSchool #STEM #StudyAbroad

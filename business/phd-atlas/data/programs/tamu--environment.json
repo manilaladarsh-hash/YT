@@ -1,0 +1,50 @@
+{
+  "id": "tamu--environment",
+  "university": "tamu",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Oceanography",
+  "program_page": "https://artsci.tamu.edu/oceanography/academics/graduate/application.html",
+  "checked": "2026-10-23",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "No official deadline, but submit by January 1 for the full range of assistantships, scholarships and fellowships; decisions in March.",
+      "quote": "Although there is not an official application deadline, applicants for fall semester admissions are encouraged to submit all material by January 1 to be considered for the full range of available assistantships, scholarships, and fellowships.",
+      "url": "https://artsci.tamu.edu/oceanography/academics/graduate/application.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to this field.",
+      "quote": "",
+      "url": "https://artsci.tamu.edu/oceanography/academics/graduate/application.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "You are strongly encouraged to contact potential faculty advisors.",
+      "quote": "Students are strongly encouraged to contact potential faculty advisors in their field of interest.",
+      "url": "https://artsci.tamu.edu/oceanography/academics/graduate/application.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "The department typically funds all admitted MS and PhD students through research or teaching assistantships with tuition ($2,500 a month pre-candidacy).",
+      "quote": "The department of Oceanography typically offers financial assistance to all admitted MS and PhD students",
+      "url": "https://artsci.tamu.edu/oceanography/academics/graduate/funding.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's is required; a master's is not needed for the PhD.",
+      "quote": "A bachelor’s degree is a prerequisite for our M.S. and Ph.D. programs, however, individuals do not need a M.S. to apply for the Ph.D. program.",
+      "url": "https://artsci.tamu.edu/oceanography/academics/graduate/admissions.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are no longer required.",
+      "quote": "GRE scores are no longer required for admission to the Department",
+      "url": "https://artsci.tamu.edu/oceanography/academics/graduate/application.html"
+    }
+  },
+  "notes": "Atmospheric Sciences runs a separate PhD with the same January 1 guidance. Water Management & Hydrological Science (interdisciplinary PhD) pages were unreachable.",
+  "name": "Oceanography PhD"
+}

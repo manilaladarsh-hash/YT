@@ -1,0 +1,49 @@
+{
+  "id": "concordia--biology",
+  "university": "concordia",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://www.concordia.ca/academics/graduate/biology-phd.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall: January 15 for international applicants (February 1 for Canadian residents); year inferred for Fall 2027.",
+      "quote": "February 1 (Canadian resident) | January 15 (U.S. and international) | Priority will be given to complete applications submitted by the deadline.",
+      "url": "https://www.concordia.ca/academics/graduate/biology-phd.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE rule is stated.",
+      "quote": "",
+      "url": "https://www.concordia.ca/academics/graduate/biology-phd.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must secure a supervisor before applying and upload their approval letter; no offer is made until a supervisor match is made.",
+      "quote": "You are required to secure a supervisor when applying. | An admission offer will not be issued until a supervisor match has been made.",
+      "url": "https://www.concordia.ca/gradstudies/future-students/how-to-apply/programs-with-additional-requirements.html",
+      "also": [
+        {
+          "quote": "A thesis supervisor chosen by mutual agreement among the student, the Graduate Studies Committee and the potential supervisor.",
+          "url": "https://www.concordia.ca/academics/graduate/biology-phd.html"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Funding packages (awards, TA and RA positions) are offered at admission to most thesis-based PhD students; no guaranteed amount is stated.",
+      "quote": "Funding packages are generally available for students in thesis-based programs. | teaching and research assistantships are offered at the time of admission to most students to allow them to focus on their research and studies.",
+      "url": "https://www.concordia.ca/academics/graduate/biology-phd.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "An MSc in life sciences with at least a B average is required.",
+      "quote": "MSc degree in life sciences.",
+      "url": "https://www.concordia.ca/academics/graduate/biology-phd.html"
+    }
+  },
+  "notes": ""
+}

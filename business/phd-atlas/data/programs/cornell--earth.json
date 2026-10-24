@@ -1,0 +1,62 @@
+{
+  "id": "cornell--earth",
+  "university": "cornell",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Earth and Atmospheric Sciences (Field of Geological Sciences)",
+  "program_page": "https://www.duffield.cornell.edu/eas/phd-programs/phd-geological-sciences/admission-requirements-phd-geological-sciences/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "The department lists January 1 for Fall; the catalog lists January 4. Apply by January 1.",
+      "quote": "Deadlines Fall January 1",
+      "url": "https://www.duffield.cornell.edu/eas/phd-programs/phd-geological-sciences/admission-requirements-phd-geological-sciences/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Fall, January 4; Spring, check with field.",
+          "url": "https://catalog.cornell.edu/programs/geological-sciences-phd/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required.",
+      "quote": "Please note: GRE scores are not required.",
+      "url": "https://catalog.cornell.edu/programs/geological-sciences-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://www.duffield.cornell.edu/eas/phd-programs/phd-geological-sciences/admission-requirements-phd-geological-sciences/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Test waived after at least two years of English-taught study in a country where English is the official language.",
+      "quote": "TOEFL or IELTS exam is required of all international applicants from countries where English is not the official language unless the applicant has studied for at least two years in a country where English is the official language and the language of instruction was English.",
+      "url": "https://www.duffield.cornell.edu/eas/phd-programs/phd-geological-sciences/admission-requirements-phd-geological-sciences/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Contacting faculty before applying is strongly recommended.",
+      "quote": "We strongly recommend that potential applicants contact faculty members with whom they are interesting in studying before applying.",
+      "url": "https://www.duffield.cornell.edu/eas/phd-programs/phd-geological-sciences/admission-requirements-phd-geological-sciences/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Nearly all PhD students get tuition, academic-year stipend and health insurance for up to five years, mostly as research assistants on faculty grants.",
+      "quote": "Nearly all our Ph.D. and M.S. students receive financial aid that provides tuition, academic-year stipend and health insurance.",
+      "url": "https://www.duffield.cornell.edu/eas/phd-programs/phd-geological-sciences/admission-requirements-phd-geological-sciences/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Undergraduates from other fields are welcome; prior geology is not required.",
+      "quote": "applications from students with undergraduate degrees in other fields are welcome.",
+      "url": "https://www.duffield.cornell.edu/eas/phd-programs/phd-geological-sciences/admission-requirements-phd-geological-sciences/"
+    }
+  },
+  "notes": "",
+  "name": "Geological Sciences"
+}

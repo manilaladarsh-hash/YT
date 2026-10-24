@@ -1,0 +1,49 @@
+{
+  "id": "mcgill--biology",
+  "university": "mcgill",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://www.mcgill.ca/biology/graduate-studies/how-apply",
+  "checked": "2026-10-23",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "January 15 for international applicants for Fall 2027 (Canadians: March 15).",
+      "quote": "Application Deadline - International | FALL September 15 January 15 March 15",
+      "url": "https://www.mcgill.ca/gradapplicants/program/biology-phd",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not mentioned.",
+      "quote": "",
+      "url": "https://www.mcgill.ca/biology/graduate-studies/how-apply"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A faculty member must agree to supervise and fund you; contact supervisors before applying.",
+      "quote": "Admission is based on evaluation by the Graduate Training Committee and on acceptance by a faculty member within the department who agrees to supervise and fund the applicant. | Prospective students should have connected with prospective faculty supervisors prior to submitting their application for admission.",
+      "url": "https://www.mcgill.ca/biology/graduate-studies/how-apply"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admission requires a supervisor who agrees to fund you; Canadian and international students are supported.",
+      "quote": "acceptance by a faculty member within the department who agrees to supervise and fund the applicant",
+      "url": "https://www.mcgill.ca/biology/graduate-studies/how-apply",
+      "also": [
+        {
+          "quote": "both Canadian and international students benefit from financial support",
+          "url": "https://www.mcgill.ca/gradapplicants/program/biology-phd"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Apply with a master's, or fast-track to PhD 1 from a BSc with a CGPA of 3.7/4.",
+      "quote": "Students who wish to be fast tracked to Ph.D1 with a B.Sc must have a minimum CGPA of 3.7/4.",
+      "url": "https://www.mcgill.ca/biology/graduate-studies/how-apply"
+    }
+  },
+  "notes": ""
+}

@@ -17,7 +17,7 @@ You've given me authority to decide, but the messages have to go out from your o
 | E3 | Reddit, zero-link | r/gradadmissions, r/Indians_StudyAbroad, r/Indian_Academia, **only where the rules allow** | First pin `reddit_profile_post.md` on your profile. Then post `reddit_post.md`, which has **no links**, and answer comments for 2 days | $0 | 15 min + 20 min replies | Nov 15 | Orders and sample downloads from `utm_source=reddit_profile` links |
 | E4 | LinkedIn post | Your network | You post `linkedin_post.md` | $0 | 5 min | Nov 15 | Sample downloads from `utm_source=linkedin` links |
 | E5 | Alumni sponsor-a-batch | 5 IISER/NISER/IIT alumni now doing PhDs or postdocs abroad, whom you know | You send `alumni_sponsor.md` one by one | $0 | 15 min | Nov 15 | Batch licences from `utm_source=alumni`. Each nets about $16.62 (≈17 Indian personal sales) |
-| E6 | Club coordinators (optional) | Physics club or final-year batch coordinators at 5–10 IISERs/NISER/IITs | Send `whatsapp_personal.md` adapted with the CLUBCOPY free copy (template in `store/EMAILS.md`) | $0 | 15 min | Nov 22 | Batch licences or sample downloads from `utm_source=club` |
+| E6 | Club coordinators (optional) | Student-society or final-year batch coordinators at 5–10 IISERs/NISER/IITs | Send `whatsapp_personal.md` adapted with the CLUBCOPY free copy (template in `store/EMAILS.md`) | $0 | 15 min | Nov 22 | Batch licences or sample downloads from `utm_source=club` |
 | E7 | Passive marketplace | Gumroad Discover | Enable Discover listing | $0 (30% fee on those sales) | 0 | Dec 15 | Sales Gumroad labels "Recommended by Gumroad" |
 
 **Order of operations:**
@@ -28,7 +28,7 @@ You've given me authority to decide, but the messages have to go out from your o
 
 ## Reddit rules (why E3 has no links)
 Subreddits like these commonly ban self-promotion and commercial links, and Reddit filters often remove posts with store links. I couldn't fetch the current rules (Reddit blocks automated reads), so:
-1. Read each subreddit's rules in the app before posting. If promotion is banned, either skip it or message the mods first ("I compiled official-page rules for physics PhD applicants. Can I share a summary? It contains no links.").
+1. Read each subreddit's rules in the app before posting. If promotion is banned, either skip it or message the mods first ("I compiled official-page rules for STEM PhD applicants. Can I share a summary? It contains no links.").
 2. The post body has no links at all. It ends with a one-line disclosure that you made a kit and that details are on your profile.
 3. The links live only in the pinned profile post (`reddit_profile_post.md`).
 4. Never send unsolicited DMs with links. If someone asks for the link in comments, point them to your profile.

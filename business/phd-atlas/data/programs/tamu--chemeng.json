@@ -1,0 +1,67 @@
+{
+  "id": "tamu--chemeng",
+  "university": "tamu",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Artie McFerrin Department of Chemical Engineering",
+  "program_page": "https://engineering.tamu.edu/chemical/academics/degrees/graduate/phd.html",
+  "checked": "2026-10-23",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "International applicants apply by December 1 for fall (domestic December 15); applications before deadlines get priority review.",
+      "quote": "Fall | International: Dec. 1 | Domestic: Dec. 15",
+      "url": "https://engineering.tamu.edu/chemical/admissions-and-aid/graduate-admissions/index.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to this field.",
+      "quote": "",
+      "url": "https://engineering.tamu.edu/chemical/admissions-and-aid/graduate-admissions/index.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You apply to the program as a whole; advisors are chosen after seminars in the first fall semester.",
+      "quote": "Applicants do not need to contact a faculty member to be considered for the program. All applications are received for admissions to the program as a whole.",
+      "url": "https://engineering.tamu.edu/chemical/academics/degrees/graduate/phd.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All PhD students are fully funded with stipend, tuition, fees and health insurance ($35,000 a year on the funding page).",
+      "quote": "All of the Ph.D. students in the department are fully funded with a generous stipend, medical benefits, tuition and fees.",
+      "url": "https://engineering.tamu.edu/chemical/academics/degrees/graduate/phd.html",
+      "also": [
+        {
+          "quote": "Our graduate stipend for PhD students is $2,916.67/month or $35,000 annually.",
+          "url": "https://engineering.tamu.edu/chemical/admissions-and-aid/scholarships-and-aid/graduate-funding.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "You can enter after a bachelor's (96 credit hours) or a master's (64 credit hours).",
+      "quote": "To earn a PhD, students must complete 96 credit hours beyond a baccalaureate degree or 64 credit hours beyond a master’s degree.",
+      "url": "https://engineering.tamu.edu/chemical/academics/degrees/graduate/phd.html"
+    },
+    "app_fee": {
+      "code": "148 USD",
+      "value": "International applicants pay $90 plus the $58 EngineeringCAS fee.",
+      "quote": "International applicants must pay a $90 application fee plus the EngineeringCAS processing fee of $58.",
+      "url": "https://engineering.tamu.edu/chemical/admissions-and-aid/graduate-admissions/index.html"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "International fall PhD applicants can ask to waive only the $58 EngineeringCAS part of the fee.",
+      "quote": "International Ph.D. applicants may request a waiver of the $58 EngineeringCAS fee by submitting an online waiver form. Fee waiver requests are only considered for Fall Ph.D. applicants.",
+      "url": "https://engineering.tamu.edu/chemical/admissions-and-aid/graduate-admissions/index.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The College of Engineering says GRE rules vary by program, and the chemical engineering pages checked do not state one.",
+      "quote": "",
+      "url": "https://engineering.tamu.edu/chemical/admissions-and-aid/graduate-admissions/index.html"
+    }
+  },
+  "notes": "Applications via EngineeringCAS."
+}

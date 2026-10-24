@@ -3,45 +3,51 @@
   "institution": "Concordia University",
   "country": "Canada",
   "region": "Quebec",
-  "grad_page": "https://www.concordia.ca/academics/graduate/physics-phd.html",
-  "checked": "2026-10-21",
+  "grad_page": "https://www.concordia.ca/gradstudies/future-students/how-to-apply.html",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.concordia.ca/academics/graduate/physics-phd.html"
+      "code": "103 CAD",
+      "value": "The application fee is CAD 103 and is non-refundable.",
+      "quote": "pay the application fee of $103.00 CAD",
+      "url": "https://www.concordia.ca/gradstudies/future-students/how-to-apply/start-your-application.html"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.concordia.ca/academics/graduate/physics-phd.html"
+      "code": "None",
+      "value": "The application fee cannot be waived for anyone.",
+      "quote": "The application fee is non-refundable and cannot be waived.",
+      "url": "https://www.concordia.ca/gradstudies/future-students/how-to-apply/start-your-application.html"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "The School of Graduate Studies sets no GRE rule; any GRE policy is set by the program (see the program record).",
       "quote": "",
-      "url": "https://www.concordia.ca/academics/graduate/physics-phd.html"
+      "url": "https://www.concordia.ca/gradstudies/future-students/how-to-apply/requirements.html"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.concordia.ca/academics/graduate/physics-phd.html"
+      "code": "86",
+      "value": "Faculty of Arts and Science (science PhDs): TOEFL iBT 86 with no part under 20 (4.5 with no section below 4.0 on the new scale from January 2026); 79-85 may mean extra English courses, below 79 no admission. Engineering and computer science have their own minimum (see the program record).",
+      "quote": "86 or higher and no part under 20 in each of the four components. | Tests taken January 2026 or later (new TOEFL score scale): 4.5 with no section below 4.0 | Scores below 79: No admission",
+      "url": "https://www.concordia.ca/gradstudies/future-students/how-to-apply/english-language-proficiency.html"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.concordia.ca/academics/graduate/physics-phd.html"
+      "code": "6.5",
+      "value": "Faculty of Arts and Science: IELTS Academic 6.5 with 6.5 in each band for direct admission; 6.5 overall with no part under 6.0 may mean extra English courses; some programs ask more.",
+      "quote": "6.5 with at least a score of 6.5 in each of the four components | Overall score of 6.5 and no part under 6.0 | Scores below 6.0: No admission",
+      "url": "https://www.concordia.ca/gradstudies/future-students/how-to-apply/english-language-proficiency.html"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.concordia.ca/academics/graduate/physics-phd.html"
+      "code": "No",
+      "value": "Exemption needs 3+ years of university study in a listed country; India is not on the list, so Indian applicants need a test score.",
+      "quote": "Applicants who have completed a minimum of three full years of study at the undergraduate or graduate level at universities in the following countries are exempted from showing proof of proficiency in English or French:",
+      "url": "https://www.concordia.ca/gradstudies/future-students/how-to-apply/english-language-proficiency/exempt-countries.html",
+      "also": [
+        {
+          "quote": "Applicants, regardless of citizenship, who do not meet one of the above conditions outlined, will be required to provide proof of English proficiency prior to their admission to Concordia University.",
+          "url": "https://www.concordia.ca/gradstudies/future-students/how-to-apply/english-language-proficiency.html"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "English minimums are set per faculty: Arts and Science (sciences) vs the Gina Cody School of Engineering and Computer Science."
 }

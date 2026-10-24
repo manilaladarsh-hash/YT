@@ -1,0 +1,48 @@
+{
+  "id": "cornell--math",
+  "university": "cornell",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://www.math.cornell.edu/graduate-admissions-application",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "All materials by December 15, 2026; late letters may mean the file is not reviewed.",
+      "quote": "The application deadline is December 15th 2026, for all application materials.",
+      "url": "https://www.math.cornell.edu/graduate-admissions-application"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "General GRE scores are not considered.",
+      "quote": "Only the GRE MATH Subject scores will be considered, the General GRE scores will not be considered.",
+      "url": "https://www.math.cornell.edu/graduate-admissions-application"
+    },
+    "gre_subject": {
+      "code": "Required",
+      "value": "GRE Mathematics Subject score of 600 or above is required; applications without it, or below 600, are not reviewed.",
+      "quote": "GRE MATH Subject Score: Required 600 or above. Applications without a GRE MATH Subject score or with a score below 600 will not be reviewed for admission.",
+      "url": "https://www.math.cornell.edu/graduate-admissions-application"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://www.math.cornell.edu/graduate-admissions-application"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every PhD student making satisfactory progress receives full support (TA, fellowship or GRA), usually with summer support.",
+      "quote": "Every Graduate student who is making satisfactory progress towards the Ph.D. degree in mathematics, receives full financial support",
+      "url": "https://www.math.cornell.edu/graduate-admissions-application"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants must show mastery of an undergraduate mathematics major.",
+      "quote": "Applicants must demonstrate mastery of the material required for an undergraduate major in mathematics.",
+      "url": "https://catalog.cornell.edu/programs/mathematics-phd/"
+    }
+  },
+  "notes": "Applied Mathematics (Center for Applied Mathematics) is a separate PhD field with a December 15 deadline and no GRE; applicants may apply to only one of the two in a term."
+}

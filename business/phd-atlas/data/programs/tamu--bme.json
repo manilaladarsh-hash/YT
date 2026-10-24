@@ -1,0 +1,67 @@
+{
+  "id": "tamu--bme",
+  "university": "tamu",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biomedical Engineering",
+  "program_page": "https://engineering.tamu.edu/biomedical/admissions-and-aid/graduate-admissions/index.html",
+  "checked": "2026-10-23",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "December 1 is the fall funding-priority deadline; the regular fall deadline for internationals is March 1.",
+      "quote": "Fall (funding priority) December 1 December 1 | Fall May 1 March 1",
+      "url": "https://engineering.tamu.edu/biomedical/admissions-and-aid/graduate-admissions/index.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "The priority deadline for funding is December 1.",
+          "url": "https://engineering.tamu.edu/biomedical/admissions-and-aid/graduate-admissions/frequently-asked-questions.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "Subject tests are not required.",
+      "quote": "subject tests not required",
+      "url": "https://engineering.tamu.edu/biomedical/admissions-and-aid/graduate-admissions/frequently-asked-questions.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "The BME Graduate Program Committee admits by vote; naming faculty of interest in your statement is expected.",
+      "quote": "Admission applications to a degree program are evaluated by the BME Graduate Program Committee appointed by the department head.",
+      "url": "https://engineering.tamu.edu/biomedical/admissions-and-aid/graduate-admissions/index.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every admitted PhD student gets a 4- or 5-year funding offer (typically at least $31,500 a year plus tuition, fees and insurance).",
+      "quote": "The department currently offers 4 or 5-year funding packages upon admission for students pursuing the Ph.D. program. | The department sends every Ph.D. student a funding offer letter upon admission.",
+      "url": "https://engineering.tamu.edu/biomedical/admissions-and-aid/graduate-admissions/frequently-asked-questions.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A 96-hour PhD is for students straight from a bachelor's; a 64-hour PhD for master's holders.",
+      "quote": "The 96-hour Ph.D. is for students attaining their Ph.D. immediately following the completion of a bachelor’s degree.",
+      "url": "https://engineering.tamu.edu/biomedical/admissions-and-aid/graduate-admissions/frequently-asked-questions.html"
+    },
+    "app_fee": {
+      "code": "148 USD",
+      "value": "International applicants pay $148: the $90 Texas A&M fee plus the $58 EngineeringCAS fee.",
+      "quote": "International Applicants: $148 - Texas A&M University fee ($90) + EngineeringCAS Processing Fee ($58)",
+      "url": "https://engineering.tamu.edu/admissions-and-aid/graduate-admissions/index.html"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "A few fee-waiver codes are given by individual faculty to students they want to recruit; ask your intended supervisor.",
+      "quote": "The department provides limited fee waivers (i.e. coupon codes) to applicants. Fee waivers are provided by individual faculty to selected students whom they intend to recruit into their lab program.",
+      "url": "https://engineering.tamu.edu/biomedical/admissions-and-aid/graduate-admissions/frequently-asked-questions.html"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE is optional; scores are encouraged if you have them.",
+      "quote": "The GRE is optional for all applicants.",
+      "url": "https://engineering.tamu.edu/biomedical/admissions-and-aid/graduate-admissions/index.html"
+    }
+  },
+  "notes": "Applications via EngineeringCAS. Rolling decisions; admits 10-15% of applicants."
+}

@@ -1,0 +1,61 @@
+{
+  "id": "cornell--ece",
+  "university": "cornell",
+  "field": "ece",
+  "also_fields": [],
+  "department": "School of Electrical and Computer Engineering",
+  "program_page": "https://www.duffield.cornell.edu/ece/phd/phd-admission-requirements/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Hard deadline of December 15 for all materials; fall entry only.",
+      "quote": "The application deadline for submission of all completed application materials is December 15, this is a hard deadline and no exceptions will be made.",
+      "url": "https://www.duffield.cornell.edu/ece/phd/phd-admission-requirements/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required.",
+      "quote": "We do not require GRE scores.",
+      "url": "https://www.duffield.cornell.edu/ece/phd/phd-admission-requirements/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://www.duffield.cornell.edu/ece/phd/phd-admission-requirements/"
+    },
+    "toefl_min": {
+      "code": "Sections",
+      "value": "TOEFL section minimums: Reading 20, Writing 20, Listening 15, Speaking 22; lower scores are not considered.",
+      "quote": "TOEFL: 20-Reading, 20-Writing, 15-Listening, 22-Speaking | Applicants whose scores fall below the minimum requirements will not be considered for admission.",
+      "url": "https://www.duffield.cornell.edu/ece/phd/phd-faqs/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS overall 7.0 or higher.",
+      "quote": "IELTS: overall band score of 7.0 or higher",
+      "url": "https://www.duffield.cornell.edu/ece/phd/phd-faqs/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://www.duffield.cornell.edu/ece/phd/phd-admission-requirements/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages fetched.",
+      "quote": "",
+      "url": "https://www.duffield.cornell.edu/ece/phd/phd-admission-requirements/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Students are admitted directly to the PhD; a master's is not required.",
+      "quote": "Entering students are admitted directly to the Ph.D. program; a Master's Degree is not a requirement for admission.",
+      "url": "https://www.duffield.cornell.edu/ece/phd/"
+    }
+  },
+  "notes": "ECE also expects a GPA of 3.5 or above."
+}

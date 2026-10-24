@@ -1,0 +1,55 @@
+{
+  "id": "cornell--chemistry",
+  "university": "cornell",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry and Chemical Biology",
+  "program_page": "https://chemistry.cornell.edu/how-apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1 (catalog); the department starts review on the first Monday in December and late applicants may be at a disadvantage.",
+      "quote": "Fall, December 1. | Application Review begins Dec. 1.",
+      "url": "https://catalog.cornell.edu/programs/chemistry-chemical-biology-phd/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Review of applications to the Ph.D. program will begin on the first Monday in December each year for admission into the program beginning in the following August.",
+          "url": "https://chemistry.cornell.edu/how-apply"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The 2026-27 catalog says GRE scores are required (test not named); confirm with chemgrad@cornell.edu.",
+      "quote": "GRE scores are required.",
+      "url": "https://catalog.cornell.edu/programs/chemistry-chemical-biology-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether the Chemistry GRE Subject test is required.",
+      "quote": "",
+      "url": "https://catalog.cornell.edu/programs/chemistry-chemical-biology-phd/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students do three lab rotations in the first semester before joining a research group.",
+      "quote": "Each incoming student will complete three three-week rotations before officially joining a laboratory.",
+      "url": "https://chemistry.cornell.edu/phd-program"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "At least five years of full support (12-month stipend, tuition, health insurance) with satisfactory progress.",
+      "quote": "Each Ph.D. student is therefore guaranteed at least five years of full financial support as long as he or she makes satisfactory progress toward the Ph.D. degree.",
+      "url": "https://chemistry.cornell.edu/phd-program"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A US-equivalent bachelor's in chemistry (with analytical, inorganic, organic and physical chemistry) is expected.",
+      "quote": "Applicants should have the equivalent of a U.S. bachelor's degree in chemistry",
+      "url": "https://catalog.cornell.edu/programs/chemistry-chemical-biology-phd/"
+    }
+  },
+  "notes": "Interviews (Zoom or in person) may be part of the process."
+}

@@ -14,7 +14,7 @@ After your first payout, turn on the two workflows at the end of this file. Prod
 
 Hi {name}, of course. Here's a code for a free copy: open {PAID_URL}, choose *Personal licence*, and enter **STUDENTAID** at checkout. It's limited, so please don't share the code; send friends to the free sample instead. Good luck with your applications!
 
-## Template: free copy for a physics club or batch coordinator (optional, code CLUBCOPY)
+## Template: free copy for a student society or batch coordinator (optional, code CLUBCOPY)
 
 Hi {name}, thanks for running {club/batch}. Here's a free copy for you: open {PAID_URL}, choose *Personal licence*, and enter **CLUBCOPY** at checkout. No strings attached. If you think it's useful for your batch, the batch licence ($20, about ₹750 in India) lets you share it with up to 30 people. If not, no worries. Good luck to everyone applying this year.
 
@@ -57,7 +57,7 @@ Thanks,
 
 Hi,
 
-You downloaded the free 10-program sample of the Physics PhD Atlas. If it was useful, the full kit covers {N} programs in the US, UK, Europe, Australia and Canada. It includes an offline explorer that shows fees in rupees, a planner sheet with deadline countdowns, and the playbook. It's about ₹190 in India: {PAID_URL}
+You downloaded the free 12-program sample of the STEM PhD Atlas. If it was useful, the full kit covers {N} PhD programs in every STEM field across the US, UK, Europe, Canada and Australia. Its offline explorer checks each program against your situation and builds a deadline plan with fees in rupees, and it comes with a planner sheet and the playbook. It's about ₹190 in India: {PAID_URL}
 
 If it wasn't useful, reply and tell me why. That's useful too.
 
