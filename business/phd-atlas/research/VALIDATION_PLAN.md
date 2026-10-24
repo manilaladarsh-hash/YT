@@ -33,9 +33,9 @@ Desk research is not customer validation. Everything below the "Customer tests" 
 
 - **Cash:** $0 needed. A hard cap of **$30** applies this cycle for anything unforeseen, and only with your approval. No ads in v1.
 - **Your time:** ≤3 h before launch; ≤1 h/week after. Everything is logged in the *Hours* sheet of `ops/Business-Dashboard.xlsx`.
-- **Calendar:** launch by **Nov 1, 2026**. Gate review on **Dec 15, 2026**. Season closes **Jan 15, 2027**.
+- **Calendar:** launch when the release gate passes. Gate review **6 weeks after launch**, no later than **Jan 15, 2027**. Season closes **Jan 15, 2027**.
 
-## Decision rules (Dec 15 gate)
+## Decision rules (gate review, 6 weeks after launch)
 
 - **Proceed** (plan a 2028 edition, chemistry/maths editions, an SEO site) only if **all** of these hold:
   - ≥10 paid orders

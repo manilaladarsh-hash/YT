@@ -199,7 +199,7 @@ Batch licences aren't modelled. Each adds $6.17 (India) to $16.62 (abroad) net. 
 5. The kit changes real decisions.
 6. Selling is allowed under the owner's study permit.
 
-**Dec 15, 2026 gate (hard stop Jan 15, 2027):**
+**Gate review 6 weeks after launch (hard stop Jan 15, 2027):**
 - **Proceed** if all of these hold:
   - ≥10 paid orders;
   - ≥2 retained purchases from buyers unrelated to the owner;
@@ -222,7 +222,7 @@ These don't count as validation: views, likes, compliments, friends buying to be
   - log hours.
 - **Monthly in season:** a data refresh session. It re-fetches every source, updates values with new quotes, re-validates, rebuilds and uploads the new version. Buyers get the update through their existing link.
 - **Automated:** checkout, tax, delivery, receipts (which carry the welcome and the one feedback question), source-change detection and gate calculations. The day-10 survey and sample follow-up workflows are drafted in `store/EMAILS.md`, and the owner switches them on after the first payout lifts Gumroad's email lock.
-- **Needs judgement:** edge-case refunds, whether a flagged page change matters, the posts themselves, and the Dec 15 decision.
+- **Needs judgement:** edge-case refunds, whether a flagged page change matters, the posts themselves, and the gate decision.
 
 ---
 
