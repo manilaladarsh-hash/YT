@@ -1,0 +1,60 @@
+{
+  "id": "guelph--mech",
+  "university": "guelph",
+  "field": "mech",
+  "also_fields": [
+    "ece",
+    "civil",
+    "bme"
+  ],
+  "department": "College of Engineering",
+  "program_page": "https://www.uoguelph.ca/programs/phd-engineering",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-15",
+      "value": "International applicants apply through OUAC by April 15 for Fall entry; documents are due one month later. Apply nine months ahead.",
+      "quote": "International: Fall (September): April 15 | Application documents are due one month after the application deadline. | It is recommended that international applicants apply a minimum of 9 months in advance of the program’s start date.",
+      "url": "https://www.uoguelph.ca/programs/phd-engineering",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test exists for engineering.",
+      "quote": "",
+      "url": "https://www.uoguelph.ca/programs/phd-engineering"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must secure a faculty advisor; a thesis supervisor is required for admission.",
+      "quote": "securing a Graduate Faculty Advisor is a crucial step, as a thesis supervisor is required for admission.",
+      "url": "https://www.uoguelph.ca/programs/phd-engineering"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All full-time PhD students are guaranteed funding; from Summer 2026 the minimum for international students is CAD 37,500 a year for 4 years.",
+      "quote": "The College of Engineering guarantees financial support to all full-time thesis-based MASc. and PhD students admitted to the program. | For students commencing their full-time PhD engineering studies in S26 or later, the minimum guaranteed stipend is $27,000 per year for 4 years for domestic students, and $37,500 per year for 4 years for international students.",
+      "url": "https://www.uoguelph.ca/engineering/future/graduate-funding/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's in engineering (73%+) is normally required; direct entry from a bachelor's is rarely granted.",
+      "quote": "The minimum academic requirement for admission to the PhD program is normally a recognized Master's degree in engineering. | Direct admission to the PhD program from a Bachelor's program is rarely granted.",
+      "url": "https://calendar.uoguelph.ca/graduate-calendar/graduate-programs/engineering/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS 6.5 overall with no band below 6.0.",
+      "quote": "For IELTS tests, please note that the College of Engineering requires an overall score of 6.5 with no individual band less than 6.0.",
+      "url": "https://www.uoguelph.ca/programs/phd-engineering"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "A test is required if your degree is from a country whose first language is not English, so an English-medium Indian degree does not exempt you.",
+      "quote": "if your university degree was acquired in a country where the first language is not English, you are required to submit a passing English language test (IELTS test) in support of your application.",
+      "url": "https://www.uoguelph.ca/programs/phd-engineering"
+    }
+  },
+  "notes": "One PhD with eight fields: Biological, Biomedical, Computer, Engineering Systems & Computing, Environmental, Mechanical, Mechatronics and Water Resources Engineering.",
+  "name": "PhD in Engineering"
+}

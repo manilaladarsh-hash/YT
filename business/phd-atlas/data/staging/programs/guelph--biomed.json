@@ -1,0 +1,44 @@
+{
+  "id": "guelph--biomed",
+  "university": "guelph",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Department of Biomedical Sciences (Ontario Veterinary College)",
+  "program_page": "https://www.uoguelph.ca/programs/phd-biomedical-sciences",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "International applicants apply by March 1 for Fall entry.",
+      "quote": "International Student Application Deadlines: Fall: March 1 Winter: July 1 Summer: November 1",
+      "url": "https://www.uoguelph.ca/programs/phd-biomedical-sciences",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the program page.",
+      "quote": "",
+      "url": "https://www.uoguelph.ca/programs/phd-biomedical-sciences"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A faculty advisor is mandatory before admission; contact faculty before applying.",
+      "quote": "A Faculty Advisor is mandatory before you can be admitted into any of our programs. You should begin contacting Faculty doing research in your particular area of interest to determine if they are taking on new students, prior to applying.",
+      "url": "https://www.uoguelph.ca/programs/phd-biomedical-sciences"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD students are guaranteed support for 9 semesters (3 years) at a minimum of CAD 20,000 a year.",
+      "quote": "MSc students are guaranteed support for 6 semesters and PhD students for 9 semesters. | The minimum stipend for MSc students is $18,500/year and for PhD students is $20,000/year.",
+      "url": "https://www.uoguelph.ca/ovc/biomedical-sciences/financial-support"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A research MSc with a B+ average is generally required; transfer from the MSc is possible in exceptional cases.",
+      "quote": "Admission to the PhD program generally requires completion of an MSc program with a research component, a minimum 'B+' average in the prescribed courses taken during the master's degree program",
+      "url": "https://calendar.uoguelph.ca/graduate-calendar/graduate-programs/biomedical-sciences/"
+    }
+  },
+  "notes": "",
+  "name": "PhD in Biomedical Sciences"
+}
