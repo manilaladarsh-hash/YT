@@ -1,0 +1,61 @@
+{
+  "id": "pennstate--cs",
+  "university": "pennstate",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science and Engineering",
+  "program_page": "https://www.eecs.psu.edu/students/graduate/EECS-How-to-apply-CSE.aspx",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-20",
+      "value": "Apply by December 20 for full consideration for the following fall (year inferred); applications are accepted until April 15.",
+      "quote": "To guarantee full consideration, please ensure that you submit your application by December 20 for the following fall semester",
+      "url": "https://www.eecs.psu.edu/students/graduate/EECS-How-to-apply-CSE.aspx",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The school does not grant application fee waivers.",
+      "quote": "No, the fee is collected to help defray the cost of processing applications.",
+      "url": "https://www.eecs.psu.edu/students/graduate/EECS-Graduate-Frequently-Asked-Qs.aspx"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "PhD applicants may submit GRE scores but are not required to.",
+      "quote": "Ph.D. applicants may choose to submit GRE scores, but they are not required to.",
+      "url": "https://www.eecs.psu.edu/students/graduate/EECS-How-to-apply-CSE.aspx"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Outstanding applicants are considered for teaching and research assistantships and fellowships; support is not stated as automatic.",
+      "quote": "Our outstanding applicants are considered for support in the form of teaching assistantships, research assistantships, and various fellowships from the Department and the College of Engineering.",
+      "url": "https://www.eecs.psu.edu/students/graduate/EECS-students-graduate-funding-opportunities.aspx"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Both bachelor's holders and those with an M.S. are admitted to the PhD; students without an M.S. take more course credits.",
+      "quote": "Students admitted to the Ph.D. program with an M.S. degree in Computer Science or Computer Engineering must take a minimum of 21 credits",
+      "url": "https://bulletins.psu.edu/graduate/programs/majors/computer-science-engineering/",
+      "also": [
+        {
+          "quote": "students who do not have an M.S. degree in Computer Science or Computer Engineering must take a minimum of",
+          "url": "https://bulletins.psu.edu/graduate/programs/majors/computer-science-engineering/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages checked do not mention a GRE Subject test",
+      "quote": "",
+      "url": "https://www.eecs.psu.edu/students/graduate/EECS-How-to-apply-CSE.aspx"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages checked do not state a supervisor rule",
+      "quote": "",
+      "url": "https://www.eecs.psu.edu/students/graduate/EECS-How-to-apply-CSE.aspx"
+    }
+  },
+  "notes": "School-level page; the deadline is not tied to a year on the page. Department TOEFL (iBT 80/19) uses the old scale. No separate data science or AI PhD found; the AI degrees in the bulletin are master's programs."
+}

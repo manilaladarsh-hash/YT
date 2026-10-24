@@ -1,0 +1,61 @@
+{
+  "id": "ohiostate--ece",
+  "university": "ohiostate",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical and Computer Engineering",
+  "program_page": "https://ece.osu.edu/futurestudents/graduate/faqs",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-30",
+      "value": "Applications for fellowship consideration must arrive before November 30 (from the department FAQ; the current admissions page was blocked).",
+      "quote": "To be considered for a fellowship, applications (with the box marked \"fellowship\" checked) must be received before November 30.",
+      "url": "https://ece.osu.edu/futurestudents/graduate/faqs",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "A GRE score is not required for admission to ECE, though any scores submitted are considered.",
+      "quote": "A GRE score is not required for admission to ECE, though any scores submitted will be considered.",
+      "url": "https://ece.osu.edu/futurestudents/graduate/faqs"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "PhD applicants are told to email faculty about advising opportunities; some find advisors after arrival, and an advisor is needed by the end of the second semester.",
+      "quote": "Email the faculty member(s) to inquire about advising opportunities.",
+      "url": "https://ece.osu.edu/futurestudents/graduate/faqs",
+      "also": [
+        {
+          "quote": "All PhD students are required to have a faculty advisor by the end of their 2nd semester of enrollment.",
+          "url": "https://ece.osu.edu/futurestudents/graduate/faqs"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Fellowships are awarded by competition and GRA positions depend on faculty project funds; GTA positions are awarded by the department.",
+      "quote": "Fellowships are awarded through a rigorous university-wide competition.",
+      "url": "https://ece.osu.edu/futurestudents/graduate/faqs",
+      "also": [
+        {
+          "quote": "GRA appointments are awarded as grant money becomes available.",
+          "url": "https://ece.osu.edu/futurestudents/graduate/faqs"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "You can apply to the direct BS-to-PhD program.",
+      "quote": "Yes, you may apply to the direct BS to PhD program.",
+      "url": "https://ece.osu.edu/futurestudents/graduate/faqs"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://ece.osu.edu/futurestudents/graduate/faqs"
+    }
+  },
+  "notes": "The department admissions page (ece.osu.edu/graduate-admissions) returned 403; values come from an older FAQ."
+}

@@ -3,45 +3,61 @@
   "institution": "The Ohio State University",
   "country": "USA",
   "region": "Ohio",
-  "grad_page": "https://physics.osu.edu/graduate/prospective-students",
-  "checked": "2026-10-21",
+  "grad_page": "https://gpadmissions.osu.edu/intl/additional-requirements-to-apply.html",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.osu.edu/graduate/prospective-students"
+      "code": "70 USD",
+      "value": "International applicants pay a nonrefundable USD 70 per application (USD 60 for U.S. students).",
+      "quote": "A nonrefundable $60 fee for U.S. students and $70 for international students is charged for each regular or supplemental application",
+      "url": "https://gpadmissions.osu.edu/grad/apply-online.html"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.osu.edu/graduate/prospective-students"
+      "code": "Limited",
+      "value": "Several university waivers exist but some exclude international applicants (for example the economic-disadvantage waiver); recruitment-event and open-house waivers do apply.",
+      "quote": "Note: International students are not eligible for some fee waivers.",
+      "url": "https://gpadmissions.osu.edu/resources/fee-waivers.html",
+      "also": [
+        {
+          "quote": "International students are not eligible but are encouraged to research EducationUSA Opportunity Funds, which, if awarded, can be used to pay the application fee.",
+          "url": "https://gpadmissions.osu.edu/resources/fee-waivers.html"
+        },
+        {
+          "quote": "If you attended the Graduate Engineering Open House in October, you are eligible for an application fee waiver from Ohio State.",
+          "url": "https://gpadmissions.osu.edu/resources/fee-waivers.html"
+        }
+      ]
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.osu.edu/graduate/prospective-students"
+      "value": "The Graduate School sets no general GRE rule; each program decides whether to require it (see the program record).",
+      "quote": "A standardized test score (GRE or GMAT) is required only if: | your program requires the score",
+      "url": "https://gpadmissions.osu.edu/grad/know-deadlines-and-requirements.html"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.osu.edu/graduate/prospective-students"
+      "code": "79",
+      "value": "TOEFL iBT 79 minimum (4.0 on the updated TOEFL launched January 2026); many programs ask for more.",
+      "quote": "79 on the TOEFL iBT or TOEFL iBT Home Edition (4.0 on the updated TOEFL launched January 2026)",
+      "url": "https://gpadmissions.osu.edu/intl/additional-requirements-to-apply.html"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.osu.edu/graduate/prospective-students"
+      "code": "6.5",
+      "value": "IELTS Academic overall 6.5 minimum; many programs ask for more.",
+      "quote": "6.5 on the IELTS Academic test or IELTS Online",
+      "url": "https://gpadmissions.osu.edu/intl/additional-requirements-to-apply.html"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.osu.edu/graduate/prospective-students"
+      "code": "No",
+      "value": "India is not on the exempt-country list, and English-medium teaching alone does not exempt you, so Indian applicants need a TOEFL, IELTS or Duolingo score.",
+      "quote": "Note: If your courses were taught in English but you do not meet either of the above exceptions, you are still required to submit proof of English proficiency.",
+      "url": "https://gpadmissions.osu.edu/intl/additional-requirements-to-apply.html",
+      "also": [
+        {
+          "quote": "We are not granting test waivers or petitions to exempt countries not currently listed above at this time.",
+          "url": "https://gpadmissions.osu.edu/intl/additional-requirements-to-apply.html"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "Duolingo 120 is also accepted by the Graduate School, but some programs accept only TOEFL and IELTS."
 }

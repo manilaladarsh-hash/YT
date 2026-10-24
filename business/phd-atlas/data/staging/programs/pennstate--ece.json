@@ -1,0 +1,61 @@
+{
+  "id": "pennstate--ece",
+  "university": "pennstate",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical Engineering",
+  "program_page": "https://www.eecs.psu.edu/students/graduate/EECS-How-to-apply-EE.aspx",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Applications and supporting documents are due December 15 for fall (year inferred); the same date is the financial-aid date for international applicants.",
+      "quote": "Fall Admissions: The application and all supporting documents must be received by December 15.",
+      "url": "https://www.eecs.psu.edu/students/graduate/EECS-How-to-apply-EE.aspx",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The school does not grant application fee waivers.",
+      "quote": "No, the fee is collected to help defray the cost of processing applications.",
+      "url": "https://www.eecs.psu.edu/students/graduate/EECS-Graduate-Frequently-Asked-Qs.aspx"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional.",
+      "quote": "Note: GRE scores are optional for applications.",
+      "url": "https://www.eecs.psu.edu/students/graduate/EECS-How-to-apply-EE.aspx"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Outstanding applicants are considered for teaching and research assistantships and fellowships; support is not stated as automatic.",
+      "quote": "Outstanding applicants are considered for support in the form of teaching assistantships, research assistantships, and various fellowships from the Department and the College of Engineering.",
+      "url": "https://www.eecs.psu.edu/students/graduate/EECS-How-to-apply-EE.aspx"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Most bachelor's holders apply to the M.S. first, though highly qualified ones may request direct PhD entry; M.S. holders can enter the PhD directly.",
+      "quote": "Those holding B.S. degrees usually apply for the M.S. program, though highly qualified applicants with B.S. degrees may request immediate entry to the Ph.D. program.",
+      "url": "https://www.eecs.psu.edu/students/graduate/EECS-How-to-apply-EE.aspx",
+      "also": [
+        {
+          "quote": "Those holding M.S. degrees from other institutions may apply for entry directly to the Ph.D. program.",
+          "url": "https://www.eecs.psu.edu/students/graduate/EECS-How-to-apply-EE.aspx"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages checked do not mention a GRE Subject test",
+      "quote": "",
+      "url": "https://www.eecs.psu.edu/students/graduate/EECS-How-to-apply-EE.aspx"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages checked do not state a supervisor rule",
+      "quote": "",
+      "url": "https://www.eecs.psu.edu/students/graduate/EECS-How-to-apply-EE.aspx"
+    }
+  },
+  "notes": "Department TOEFL (iBT 80/19) uses the old scale, so no department TOEFL value is set."
+}

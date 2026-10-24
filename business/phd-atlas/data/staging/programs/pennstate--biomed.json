@@ -1,0 +1,61 @@
+{
+  "id": "pennstate--biomed",
+  "university": "pennstate",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Biochemistry, Microbiology, and Molecular Biology (BMMB)",
+  "program_page": "https://science.psu.edu/bmb/graduate/apply",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The application opens on the first day of fall classes and closes December 1 (year inferred); interviews follow.",
+      "quote": "with a submission deadline of December 1",
+      "url": "https://science.psu.edu/bmb/graduate/apply",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "A waiver can be requested by email only for financial hardship.",
+      "quote": "If the $65 application fee presents a financial hardship, please contact us by email to be considered for a fee waiver.",
+      "url": "https://science.psu.edu/bmb/graduate/apply"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE scores are not evaluated.",
+      "quote": "BMMB no longer evaluates GRE scores for admission to our graduate program.",
+      "url": "https://science.psu.edu/bmb/graduate/apply"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All BMMB students are offered full assistantships with tuition waiver and benefits while in good standing.",
+      "quote": "All BMMB students are offered full assistantships which include tuition waivers and subsidized benefits upon entering our program.",
+      "url": "https://science.psu.edu/bmb/graduate/funding"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Bachelor's holders are considered and everyone is admitted with the intent of a PhD.",
+      "quote": "Submissions from domestic and international applicants with a bachelor's degree or higher in a relevant field will be considered.",
+      "url": "https://science.psu.edu/bmb/graduate/apply",
+      "also": [
+        {
+          "quote": "All students are admitted with the intent of obtaining a Ph.D. degree, although a master's degree is obtained in some cases.",
+          "url": "https://bulletins.psu.edu/graduate/programs/majors/biochemistry-microbiology-molecular-biology/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages checked do not mention a GRE Subject test",
+      "quote": "",
+      "url": "https://science.psu.edu/bmb/graduate/apply"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages checked do not state a supervisor rule",
+      "quote": "",
+      "url": "https://science.psu.edu/bmb/graduate/apply"
+    }
+  },
+  "notes": "Hershey (College of Medicine) Biomedical Sciences is a separate campus program and was not researched."
+}

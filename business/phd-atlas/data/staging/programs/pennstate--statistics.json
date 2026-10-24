@@ -1,0 +1,61 @@
+{
+  "id": "pennstate--statistics",
+  "university": "pennstate",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Statistics",
+  "program_page": "https://science.psu.edu/stat/graduate-programs/how-to-apply",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-07",
+      "value": "PhD applications are due January 7 each year (year inferred).",
+      "quote": "Applications are due by January 7th each year for the Doctorate in Statistics.",
+      "url": "https://science.psu.edu/stat/graduate-programs/how-to-apply",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE is not required for the PhD; scores may be submitted and are given equal consideration.",
+      "quote": "Applying students may submit a GRE score if they choose to do so, but applications without GRE scores are given full consideration, as are applications with GRE scores.",
+      "url": "https://science.psu.edu/stat/graduate-programs/how-to-apply",
+      "also": [
+        {
+          "quote": "Applications to the PhD program in Statistics do NOT require a GRE score.",
+          "url": "https://science.psu.edu/stat/graduate-programs/how-to-apply"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All PhD students in good standing receive year-round support (stipend, tuition, fees) and are guaranteed five years on admission.",
+      "quote": "On admission, Ph.D. students are guaranteed five years of support.",
+      "url": "https://science.psu.edu/stat/graduate-programs/phd",
+      "also": [
+        {
+          "quote": "All Statistics Ph.D. students in good standing receive year-round financial support in the form of assistantships and fellowships.",
+          "url": "https://science.psu.edu/stat/graduate-programs/phd"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "You can apply directly to the PhD without a master's degree.",
+      "quote": "Students hoping to earn a Ph.D. in statistics may apply directly to the Ph.D. program without need for a master's degree.",
+      "url": "https://bulletins.psu.edu/graduate/programs/majors/statistics/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages checked do not mention a GRE Subject test",
+      "quote": "",
+      "url": "https://science.psu.edu/stat/graduate-programs/how-to-apply"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages checked do not state a supervisor rule",
+      "quote": "",
+      "url": "https://science.psu.edu/stat/graduate-programs/how-to-apply"
+    }
+  },
+  "notes": "Applying by January 7 also puts you in the first round of university and college fellowship competitions."
+}

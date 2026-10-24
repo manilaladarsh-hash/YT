@@ -1,0 +1,74 @@
+{
+  "id": "ohiostate--math",
+  "university": "ohiostate",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://math.osu.edu/grad/apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Regular PhD deadline is December 1 (standby applications until late January, reviewed only if space allows); the department fee-waiver request must be in by November 30, 2026.",
+      "quote": "the deadline for Regular PhD applications is December 1",
+      "url": "https://math.osu.edu/grad/apply",
+      "inferred": "year",
+      "time_sensitive": "2026-11-30"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "PhD applicants' GRE scores are optional and omitting them does not harm the application.",
+      "quote": "Applicants for the PhD GRE scores are optional; omitting them will not harm your application.",
+      "url": "https://math.osu.edu/grad/apply"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "PhD applicants' GRE scores (including subject) are optional.",
+      "quote": "Applicants for the PhD GRE scores are optional; omitting them will not harm your application.",
+      "url": "https://math.osu.edu/grad/apply"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "TOEFL iBT 79 (or 19 on each section of the paper test).",
+      "quote": "TOEFL: 79 on the TOEFL iBT or TOEFL iBT Home Edition",
+      "url": "https://math.osu.edu/grad/apply"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The department asks for IELTS 7.0.",
+      "quote": "IELTS: 7.0 on the IELTS Academic test or IELTS Indicator",
+      "url": "https://math.osu.edu/grad/apply"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "PhD applicants with financial need can request a department fee waiver before applying, no later than November 30, 2026.",
+      "quote": "PhD program applicants with financial need may apply to have their application fee waived via our department's fee waiver request form.",
+      "url": "https://math.osu.edu/grad/apply"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by the graduate admissions committee; no supervisor is arranged before applying.",
+      "quote": "The graduate admissions committee then reviews about 150 files in greater depth",
+      "url": "https://math.osu.edu/grad/future"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted PhD students are offered a renewable Graduate Teaching Associateship (stipend, tuition waiver, health insurance subsidy).",
+      "quote": "All admitted PhD students are offered a Graduate Teaching Associateships (GTA) during the academic year.",
+      "url": "https://math.osu.edu/grad/future",
+      "also": [
+        {
+          "quote": "All Graduate Associateships and Fellowships come with a competitive stipend, full tuition waiver, and full health insurance subsidy.",
+          "url": "https://math.osu.edu/grad/future"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A 4-year bachelor's degree or equivalent is the requirement.",
+      "quote": "4-year Bachelor's degree or the equivalent from an accredited college or university.",
+      "url": "https://math.osu.edu/grad/apply"
+    }
+  },
+  "notes": ""
+}

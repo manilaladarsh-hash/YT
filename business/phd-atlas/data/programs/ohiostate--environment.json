@@ -1,0 +1,55 @@
+{
+  "id": "ohiostate--environment",
+  "university": "ohiostate",
+  "field": "environment",
+  "also_fields": [],
+  "department": "School of Environment and Natural Resources",
+  "program_page": "https://senr.osu.edu/academics/graduate/graduate-admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-30",
+      "value": "November 30 is the priority deadline for funding consideration; a final deadline is April 30.",
+      "quote": "November 30 - Priority deadline for funding consideration.",
+      "url": "https://senr.osu.edu/academics/graduate/graduate-admissions",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "April 30 – Final application deadline.",
+          "url": "https://senr.osu.edu/academics/graduate/graduate-admissions"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A faculty member must agree to be your advisor before the application is reviewed in full.",
+      "quote": "MS and PhD applications will not be reviewed in full without the endorsement of an ENRGP faculty member willing to serve as your faculty advisor.",
+      "url": "https://senr.osu.edu/academics/graduate/graduate-admissions"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "PhD applicants are considered for a Regular-admit track (with a master's) or a Direct-admit track.",
+      "quote": "PhD applicants will be considered for either the Regular-admit Track or the Direct-admit Track.",
+      "url": "https://senr.osu.edu/academics/graduate/graduate-admissions",
+      "also": [
+        {
+          "quote": "Regular-admit Track: Upload a document providing a summary of the research done for your master’s degree.",
+          "url": "https://senr.osu.edu/academics/graduate/graduate-admissions"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://senr.osu.edu/academics/graduate/graduate-admissions"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://senr.osu.edu/academics/graduate/graduate-admissions"
+    }
+  },
+  "notes": "Environmental Sciences Graduate Program (ESGP) was not researched."
+}

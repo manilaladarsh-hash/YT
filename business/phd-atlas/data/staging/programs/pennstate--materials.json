@@ -1,0 +1,61 @@
+{
+  "id": "pennstate--materials",
+  "university": "pennstate",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Intercollege Graduate Degree Program in Materials Science and Engineering",
+  "program_page": "https://www.matse.psu.edu/graduate/prospective-students/how-apply-igdp",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Fall PhD and thesis-based M.S. applications are due January 1 (year not printed; the detailed page still lists Fall 2026).",
+      "quote": "Fall admissions for Ph.D. and thesis-based M.S. degree programs application deadline: January 1",
+      "url": "https://www.matse.psu.edu/graduate",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The program does not offer application fee waivers.",
+      "quote": "Please note that we do not offer application fee waivers.",
+      "url": "https://www.matse.psu.edu/graduate"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional.",
+      "quote": "Scores for the Graduate Record Examinations (GRE) are optional, not required for admission.",
+      "url": "https://www.matse.psu.edu/graduate/prospective-students/how-apply-igdp"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Offers are often made with a faculty member who has identified the student, so contacting faculty during admissions is encouraged.",
+      "quote": "Therefore, direct communication with faculty members during the admissions process is encouraged.",
+      "url": "https://www.matse.psu.edu/graduate/prospective-students/how-apply-igdp",
+      "also": [
+        {
+          "quote": "Offers for research assistantships are frequently made in coordination with faculty members who have identified a student for a particular research project.",
+          "url": "https://www.matse.psu.edu/graduate/prospective-students/how-apply-igdp"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most PhD students are supported by research assistantships with stipend and tuition; teaching assistantships are not a source of support at admission.",
+      "quote": "Most Ph.D. and thesis-based M.S. students are supported by research assistantships that provide both a stipend and tuition.",
+      "url": "https://www.matse.psu.edu/graduate/prospective-students/how-apply-igdp"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's degree is not a prerequisite for the PhD.",
+      "quote": "A master's degree is not a prerequisite for the doctorate.",
+      "url": "https://bulletins.psu.edu/graduate/programs/majors/materials-science-engineering/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages checked do not mention a GRE Subject test",
+      "quote": "",
+      "url": "https://www.matse.psu.edu/graduate/prospective-students/how-apply-igdp"
+    }
+  },
+  "notes": "Detailed how-to-apply page still lists Fall 2026 dates; the January 1 date comes from the program's main graduate page."
+}

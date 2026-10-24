@@ -1,0 +1,49 @@
+{
+  "id": "ohiostate--biology",
+  "university": "ohiostate",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Evolution, Ecology and Organismal Biology",
+  "program_page": "https://eeob.osu.edu/grad/program-admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-15",
+      "value": "Applications are due November 15 (the FAQ page still says December 1, so apply by November 15).",
+      "quote": "Applications for admission are due November 15 for programs beginning Autumn semester of the following academic year.",
+      "url": "https://eeob.osu.edu/grad/program-admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE General scores are not required (and the GRE is not needed if GPA is 3.0 or above).",
+      "quote": "Graduate Record Examination (GRE) scores from the general aptitude (verbal, quantitative, and written) tests are not required from our program applicants.",
+      "url": "https://eeob.osu.edu/grad/program-admissions"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must list an intended faculty advisor; no one is admitted without a designated advisor.",
+      "quote": "Students are not admitted to the EEOB graduate programs without a designated faculty advisor.",
+      "url": "https://eeob.osu.edu/grad/program-admissions"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most students are paid on teaching or research assistantships or fellowships, with a full tuition waiver.",
+      "quote": "Most of our graduate students are funded by teaching or research assistantships",
+      "url": "https://eeob.osu.edu/grad/graduate-program"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's is required; a master's is not needed for the PhD.",
+      "quote": "A Master’s degree is not required to apply to the Ph.D. program.",
+      "url": "https://eeob.osu.edu/grad/program-admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://eeob.osu.edu/grad/program-admissions"
+    }
+  },
+  "notes": "MCDB, Molecular Genetics, Microbiology and other biology PhD programs were not researched. The FAQ page gives December 1 while the admissions page gives November 15."
+}

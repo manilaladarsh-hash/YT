@@ -1,0 +1,49 @@
+{
+  "id": "pennstate--mech",
+  "university": "pennstate",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering",
+  "program_page": "https://www.me.psu.edu/students/graduate/admissions.aspx",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "December 1 is the deadline for fall admission (year inferred); decisions on admission and aid come around March 15.",
+      "quote": "December 1 is the deadline for fall admission.",
+      "url": "https://www.me.psu.edu/students/graduate/admissions.aspx",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department no longer requires GRE scores.",
+      "quote": "The Department of Mechanical Engineering no longer requires an applicant submit scores from the Graduate Record Examination (GRE).",
+      "url": "https://www.me.psu.edu/students/graduate/admissions.aspx"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Almost all arriving students hold a teaching or research assistantship covering tuition and a monthly stipend.",
+      "quote": "Almost all students who arrive at Penn State at the beginning of the academic year have received either teaching or research assistantships covering tuition and a monthly stipend.",
+      "url": "https://www.me.psu.edu/students/graduate/FAQ.aspx"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "You can apply directly to the PhD with only a bachelor's degree.",
+      "quote": "It is possible to apply directly to the Ph.D. program without having previously received a master’s degree.",
+      "url": "https://www.me.psu.edu/students/graduate/FAQ.aspx"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages checked do not mention a GRE Subject test",
+      "quote": "",
+      "url": "https://www.me.psu.edu/students/graduate/admissions.aspx"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages checked do not state a supervisor rule",
+      "quote": "",
+      "url": "https://www.me.psu.edu/students/graduate/admissions.aspx"
+    }
+  },
+  "notes": "Aerospace Engineering has its own PhD (not researched here). Department TOEFL (iBT 80/19) uses the old scale."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "pennstate--chemeng",
+  "university": "pennstate",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "McWhirter Graduate Program in Chemical Engineering",
+  "program_page": "https://www.che.psu.edu/academics/graduate/how-to-apply.aspx",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "PhD early-admission deadline is December 15 (year inferred); the regular deadline is January 8.",
+      "quote": "Key dates for Ph.D. applicants: December 15 for early admission, January 8 for regular admission.",
+      "url": "https://www.che.psu.edu/academics/graduate/how-to-apply.aspx",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Outstanding students may qualify for a waiver by contacting the graduate office.",
+      "quote": "Outstanding students may qualify for a waiver of the application fee.",
+      "url": "https://www.che.psu.edu/academics/graduate/phd.aspx"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required.",
+      "quote": "GRE scores are not required.",
+      "url": "https://www.che.psu.edu/academics/graduate/how-to-apply.aspx"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "The strongest applicants name several faculty whose work fits their interests; no prior agreement is required.",
+      "quote": "will identify several potential faculty advisors that align with their motivation and career goals",
+      "url": "https://www.che.psu.edu/academics/graduate/how-to-apply.aspx"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All PhD students making satisfactory progress get full support: tuition and fees, stipend and healthcare benefits.",
+      "quote": "we offer full financial support to all Ph.D. students making satisfactory progress toward their degree.",
+      "url": "https://www.che.psu.edu/academics/graduate/phd.aspx"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages checked do not mention a GRE Subject test",
+      "quote": "",
+      "url": "https://www.che.psu.edu/academics/graduate/how-to-apply.aspx"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages checked do not state whether a master's is needed first",
+      "quote": "",
+      "url": "https://www.che.psu.edu/academics/graduate/how-to-apply.aspx"
+    }
+  },
+  "notes": "Department TOEFL (iBT 80, speaking 19) uses the old scale, so no department TOEFL value is set."
+}

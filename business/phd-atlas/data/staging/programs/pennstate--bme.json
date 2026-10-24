@@ -1,0 +1,61 @@
+{
+  "id": "pennstate--bme",
+  "university": "pennstate",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biomedical Engineering",
+  "program_page": "https://www.bme.psu.edu/students/graduate/phd.aspx",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-07",
+      "value": "The fall PhD deadline is December 7 (year inferred); later applications are accepted on a rolling basis.",
+      "quote": "The deadline to apply for the fall semester is December 7.",
+      "url": "https://www.bme.psu.edu/students/graduate/phd.aspx",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "BME has no waiver funds; waivers exist only for applicants who engage with College of Engineering outreach or recruitment programming.",
+      "quote": "BME does not have funds for Application Fee Waivers.",
+      "url": "https://www.bme.psu.edu/students/graduate/how-to-apply.aspx",
+      "also": [
+        {
+          "quote": "Application fee waivers are available for prospective students who engage with the Center for Engineering Outreach & Inclusion or central College of Engineering graduate recruitment programming.",
+          "url": "https://www.bme.psu.edu/students/graduate/how-to-apply.aspx"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required for admission.",
+      "quote": "Scores from the Graduate Record Examinations (GRE) are not required for admission.",
+      "url": "https://bulletins.psu.edu/graduate/programs/majors/biomedical-engineering/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Faculty make the admission offers for their own labs, and applicants are told to contact and interview with faculty.",
+      "quote": "All decisions on admission offers will be made by individual faculty for applicant recruitment into their lab.",
+      "url": "https://www.bme.psu.edu/students/graduate/how-to-apply.aspx"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "All applicants are considered for assistantships and fellowships; support is not stated as automatic.",
+      "quote": "All applicants are considered for research or teaching assistantships and applicable fellowships.",
+      "url": "https://www.bme.psu.edu/students/graduate/how-to-apply.aspx"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages checked do not mention a GRE Subject test",
+      "quote": "",
+      "url": "https://www.bme.psu.edu/students/graduate/phd.aspx"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages checked do not state whether a master's is needed first",
+      "quote": "",
+      "url": "https://www.bme.psu.edu/students/graduate/phd.aspx"
+    }
+  },
+  "notes": "Department TOEFL (iBT 80, speaking 19) uses the old scale, so no department TOEFL value is set."
+}

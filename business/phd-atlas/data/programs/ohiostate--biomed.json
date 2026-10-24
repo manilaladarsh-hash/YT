@@ -1,0 +1,62 @@
+{
+  "id": "ohiostate--biomed",
+  "university": "ohiostate",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Biomedical Sciences Graduate Program (College of Medicine)",
+  "program_page": "https://medicine.osu.edu/education/phd/biomedical-sciences/admissions/before-you-apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Apply by December 1 (strongly encouraged); the final deadline for international applicants is February 1. Entry is summer only.",
+      "quote": "The final deadline for both U.S. and non-U.S./international applicants is February 1",
+      "url": "https://medicine.osu.edu/education/phd/biomedical-sciences/admissions/before-you-apply",
+      "inferred": "year",
+      "time_sensitive": "2026-12-01"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is no longer required.",
+      "quote": "No, as of 11/14/18, the GRE is no longer required.",
+      "url": "https://medicine.osu.edu/education/phd/biomedical-sciences/admissions/faqs"
+    },
+    "toefl_min": {
+      "code": "5.0 (new scale)",
+      "value": "TOEFL iBT 5.0 on the new scale (100 on the old scale).",
+      "quote": "5.0 or higher TOEFL iBT or iBT Home Edition (equivalent to 100 for tests taken prior to January 2026)",
+      "url": "https://medicine.osu.edu/education/phd/biomedical-sciences/admissions/before-you-apply"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic 7 or higher.",
+      "quote": "7 or higher IELTS Academic test",
+      "url": "https://medicine.osu.edu/education/phd/biomedical-sciences/admissions/before-you-apply"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "International applicants must find a faculty member who commits to funding them for 5+ years before applying.",
+      "quote": "You must find a faculty member who commits to funding you for 5+ years before applying.",
+      "url": "https://medicine.osu.edu/education/phd/biomedical-sciences/admissions/faqs"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every accepted student is offered a stipend and full tuition and fee waiver; the advisor funds later years.",
+      "quote": "Every student accepted is offered an annual stipend and a full waiver of tuition and fees.",
+      "url": "https://medicine.osu.edu/education/phd/biomedical-sciences/admissions/faqs"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The program offers only the PhD (no master's) and prefers a natural-sciences bachelor's.",
+      "quote": "Admission to the PhD program prefers an undergraduate degree in the natural sciences",
+      "url": "https://medicine.osu.edu/education/phd/biomedical-sciences/admissions/before-you-apply"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://medicine.osu.edu/education/phd/biomedical-sciences/admissions/before-you-apply"
+    }
+  },
+  "notes": "College of Medicine program with summer-only entry; international admits are few unless a faculty mentor already commits funding."
+}
