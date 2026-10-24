@@ -2,10 +2,12 @@
   "id": "heidelberg--physics",
   "university": "heidelberg",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "astronomy"
+  ],
   "department": "Heidelberg Graduate School for Physics (HGSFP)",
   "program_page": "https://hgsfp.physik.uni-heidelberg.de/howtoapply#start",
-  "checked": "2026-10-21",
+  "checked": "2026-10-24",
   "fields": {
     "deadline": {
       "code": "2026-11-01",
@@ -13,7 +15,13 @@
       "quote": "To application portal (Deadline 1 November)",
       "url": "https://hgsfp.physik.uni-heidelberg.de/howtoapply#start",
       "inferred": "year",
-      "time_sensitive": "2026-11-01"
+      "time_sensitive": "2026-11-01",
+      "also": [
+        {
+          "quote": "Deadline: 1st November 2026",
+          "url": "https://hgsfp.physik.uni-heidelberg.de/howtoapply/appregfel"
+        }
+      ]
     },
     "gre_subject": {
       "code": "Not stated",
@@ -28,10 +36,16 @@
       "url": "https://hgsfp.physik.uni-heidelberg.de/howtoapply#start"
     },
     "funding": {
-      "code": "Not stated",
-      "value": "The portal route is for applicants without prior financial support; funding terms are not stated on the pages checked",
-      "quote": "apply either through our webportal (for international students) and anyone without prior financial support)",
-      "url": "https://hgsfp.physik.uni-heidelberg.de/howtoapply#start"
+      "code": "Competitive",
+      "value": "Applicants without a supervisor or funding apply once a year to the HGSFP portal for a fellowship and to be matched with a supervisor; those who already have both register directly.",
+      "quote": "Apply for a fellowship | Be matched with a supervisor and doctoral project",
+      "url": "https://hgsfp.physik.uni-heidelberg.de/howtoapply/appregfel",
+      "also": [
+        {
+          "quote": "If no – you are missing either a supervisor or funding (or both)",
+          "url": "https://hgsfp.physik.uni-heidelberg.de/howtoapply/appregfel"
+        }
+      ]
     },
     "entry_route": {
       "code": "Master's usually required",
@@ -46,5 +60,5 @@
       ]
     }
   },
-  "notes": "Degree awarded: Dr. rer. nat."
+  "notes": "Degree awarded: Dr. rer. nat. The HGSFP forms page lists separate requirements for astronomy candidates, so astronomy is covered here."
 }
