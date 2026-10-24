@@ -7,41 +7,53 @@
   "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
+      "code": "0 (no fee)",
+      "value": "No application fee.",
+      "quote": "There is no fee to submit your application!",
       "url": "https://mattertolife.maxplanckschools.org/application"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
+      "code": "No fee",
+      "value": "There is no fee to waive.",
+      "quote": "There is no fee to submit your application!",
       "url": "https://mattertolife.maxplanckschools.org/application"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "The school's pages do not mention the GRE.",
       "quote": "",
-      "url": "https://mattertolife.maxplanckschools.org/application"
+      "url": "https://mattertolife.maxplanckschools.org/faq"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://mattertolife.maxplanckschools.org/application"
+      "code": "90",
+      "value": "TOEFL iBT 90 minimum (or IELTS 6.5); scores no older than four years at application, and the result may be submitted as late as July 15 of the start year.",
+      "quote": "TOEFL internetbased (IBT) - minimum 90 out of 120 points",
+      "url": "https://mattertolife.maxplanckschools.org/faq",
+      "also": [
+        {
+          "quote": "Please submit the results of a valid English test no later than July 15th of the year in which your program begins",
+          "url": "https://mattertolife.maxplanckschools.org/application"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://mattertolife.maxplanckschools.org/application"
+      "code": "6.5",
+      "value": "IELTS Academic (in person or online) minimum band score 6.5.",
+      "quote": "IELTS - In person or online; minimum band score of 6.5",
+      "url": "https://mattertolife.maxplanckschools.org/faq"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://mattertolife.maxplanckschools.org/application"
+      "code": "Yes",
+      "value": "No English test is needed if your previous program was taught in English, so an English-medium Indian degree qualifies.",
+      "quote": "Proof of English language proficiency is required for non-native English speakers unless your previous program was taught in English.",
+      "url": "https://mattertolife.maxplanckschools.org/application",
+      "also": [
+        {
+          "quote": "proof of completion of an English language bachelor program or proof of at least two years of relevant study/stay in an English language program in the three years prior",
+          "url": "https://mattertolife.maxplanckschools.org/faq"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "Applicants with Indian certificates must also submit APS verification, per the school's FAQ."
 }
