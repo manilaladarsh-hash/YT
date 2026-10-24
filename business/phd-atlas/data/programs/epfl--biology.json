@@ -1,0 +1,55 @@
+{
+  "id": "epfl--biology",
+  "university": "epfl",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Doctoral Program in Molecular Life Sciences (EDMS)",
+  "program_page": "https://www.epfl.ch/education/phd/edms-molecular-life-sciences/edms-how-to-apply/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-01",
+      "value": "Deadlines November 1 and March 31 (March 31 is new from 2027). Next for Fall 2027: November 1, 2026 (year inferred).",
+      "quote": "validated online before March 31st (new deadline as of 2027) or November 1st, respectively, at the latest.",
+      "url": "https://www.epfl.ch/education/phd/edms-molecular-life-sciences/edms-how-to-apply/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "TOEFL and/or GRE results are recommended for non-native English speakers.",
+      "quote": "We recommend that applicants whose first language is not English provide us with the results of the TOEFL and/or GRE test.",
+      "url": "https://www.epfl.ch/education/phd/edms-molecular-life-sciences/edms-how-to-apply/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You are enrolled only if accepted by EDMS and hired by a thesis director at the Hiring Days.",
+      "quote": "Only if they are accepted by EDMS and hired by a thesis director, they will be enrolled in the program.",
+      "url": "https://www.epfl.ch/education/phd/edms-molecular-life-sciences/edms-how-to-apply/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Enrolment requires secure funding, so admitted students are funded (typically as salaried EPFL doctoral assistants).",
+      "quote": "The final enrollment in the doctoral program is conditional to the choice of a thesis topic, a supervisor and a secure funding.",
+      "url": "https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application/",
+      "also": [
+        {
+          "quote": "The basic starting salary of an EPFL doctoral assistant is CHF 55’225.- gross per annum",
+          "url": "https://www.epfl.ch/education/phd/doctoral-studies-structure/doctoral-students-salary/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Typically a master's; 4- or 5-year bachelor's holders may apply with enough math and physics.",
+      "quote": "Typically, the prerequisite is a Master’s degree (M.Sc.) in the relevant discipline.",
+      "url": "https://www.epfl.ch/education/phd/edms-molecular-life-sciences/edms-how-to-apply/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The program page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.epfl.ch/education/phd/edms-molecular-life-sciences/edms-how-to-apply/"
+    }
+  },
+  "notes": "Interviews at Hiring Days in January and June; travel and accommodation reimbursed."
+}

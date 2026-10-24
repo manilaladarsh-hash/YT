@@ -1,0 +1,73 @@
+{
+  "id": "epfl--cs",
+  "university": "epfl",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Doctoral Program in Computer and Communication Sciences (EDIC)",
+  "program_page": "https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-how-to-apply/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Main round December 1 (23:59 CET); smaller second round April 15. Year inferred.",
+      "quote": "Applications must be submitted prior to December 1 (23:59 CET) in order to enroll for the following September.",
+      "url": "https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-how-to-apply/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE General is optional and a missing score does not hurt.",
+      "quote": "The result of the GRE general test is optional, and the lack of a GRE score will not harm your application.",
+      "url": "https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-how-to-apply/"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "TOEFL iBT 100 if a test is needed.",
+      "quote": "TOEFL iBT internet-based: 100 or 5(*)",
+      "url": "https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-how-to-apply/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic 7.0 if a test is needed.",
+      "quote": "IELTS Academic: 7.0",
+      "url": "https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-how-to-apply/"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "No test needed if your degree came from an institution whose main language of instruction is English.",
+      "quote": "If you are not a native speaker of English or have not received your degree from an institution where the main language of instruction is English, you should submit the results of a recognized English-language test",
+      "url": "https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-how-to-apply/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "A central committee admits; no need to contact faculty first. Admission also needs an IC fellowship or a lab hiring offer.",
+      "quote": "This means that you do not need to contact faculty or find an advisor in order to apply.",
+      "url": "https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-how-to-apply/",
+      "also": [
+        {
+          "quote": "You are awarded an IC school fellowship or are declared eligible for direct hiring by a lab.",
+          "url": "https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-how-to-apply/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted students are supported financially at competitive salaries.",
+      "quote": "The program supports all admitted students financially at competitive salaries.",
+      "url": "https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-how-to-apply/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A four- or five-year bachelor's or a master's with a strong background is enough.",
+      "quote": "an applicant should have a four or five-year Bachelor’s or Master’s degree",
+      "url": "https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-how-to-apply/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The program page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-how-to-apply/"
+    }
+  },
+  "notes": "55 one-year IC fellowships in 2027; other accepted applicants are hired directly by labs."
+}

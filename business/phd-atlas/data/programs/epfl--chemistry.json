@@ -1,0 +1,51 @@
+{
+  "id": "epfl--chemistry",
+  "university": "epfl",
+  "field": "chemistry",
+  "also_fields": [
+    "chemeng"
+  ],
+  "department": "Doctoral Program in Chemistry and Chemical Engineering (EDCH)",
+  "program_page": "https://www.epfl.ch/education/phd/edch-chemistry-and-chemical-engineering/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Three rounds a year: January 15, April 30 and September 15. Next for Fall 2027: January 15, 2027 (year inferred).",
+      "quote": "Deadlines: Submission prior to January 15, April 30 or September 15.",
+      "url": "https://www.epfl.ch/education/phd/edch-chemistry-and-chemical-engineering/",
+      "inferred": "year"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A thesis supervisor (lab) must be found; enrolment is conditional on a supervisor and secure funding.",
+      "quote": "The final enrollment in the doctoral program is conditional to the choice of a thesis topic, a supervisor and a secure funding.",
+      "url": "https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Enrolment requires secure funding, so admitted students are funded (typically as salaried EPFL doctoral assistants).",
+      "quote": "The final enrollment in the doctoral program is conditional to the choice of a thesis topic, a supervisor and a secure funding.",
+      "url": "https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application/",
+      "also": [
+        {
+          "quote": "The basic starting salary of an EPFL doctoral assistant is CHF 55’225.- gross per annum",
+          "url": "https://www.epfl.ch/education/phd/doctoral-studies-structure/doctoral-students-salary/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Doctoral studies usually begin after a master's; 4- or 5-year bachelor's holders may apply and should explain their education.",
+      "quote": "Doctoral studies at EPFL usually begin after a Master’s degree in the relevant discipline. | Candidates with a 4-year or 5-year Bachelor’s degree may also apply",
+      "url": "https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application/applications-faqs/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The program page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.epfl.ch/education/phd/edch-chemistry-and-chemical-engineering/"
+    }
+  },
+  "notes": "Covers chemical engineering too. 4-year program taught in English."
+}

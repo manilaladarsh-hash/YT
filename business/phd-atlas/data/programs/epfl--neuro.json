@@ -1,0 +1,61 @@
+{
+  "id": "epfl--neuro",
+  "university": "epfl",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Doctoral Program in Neuroscience (EDNE)",
+  "program_page": "https://www.epfl.ch/education/phd/edne-neuroscience/edne-neuroscience/edne-how-to-apply/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-01",
+      "value": "Two deadlines: March 31 and November 1. Next for Fall 2027: November 1, 2026 (year inferred).",
+      "quote": "they need time to write and upload them before the deadline (March 31st or November 1st).",
+      "url": "https://www.epfl.ch/education/phd/edne-neuroscience/edne-neuroscience/edne-how-to-apply/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "EDNE asks for neither TOEFL nor GRE.",
+      "quote": "EDNE does not require TOEFL or GRE.",
+      "url": "https://www.epfl.ch/education/phd/edne-neuroscience/edne-neuroscience/edne-how-to-apply/"
+    },
+    "toefl_min": {
+      "code": "Not required",
+      "value": "EDNE asks for neither TOEFL nor GRE.",
+      "quote": "EDNE does not require TOEFL or GRE.",
+      "url": "https://www.epfl.ch/education/phd/edne-neuroscience/edne-neuroscience/edne-how-to-apply/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A hiring lab PI chooses you after the Hiring Days; that secures the place.",
+      "quote": "The hiring lab PI will make their choice after the Hiring Days. | At that point you have secured a place in the EDNE program as a PhD student in a lab.",
+      "url": "https://www.epfl.ch/education/phd/edne-neuroscience/edne-neuroscience/edne-how-to-apply/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Students placed in a lab are EPFL employees and enrolment needs secure funding.",
+      "quote": "At EPFL, a PhD student has two statuses – one as an EPFL employee and one as a doctoral student.",
+      "url": "https://www.epfl.ch/education/phd/edne-neuroscience/edne-neuroscience/edne-how-to-apply/",
+      "also": [
+        {
+          "quote": "The final enrollment in the doctoral program is conditional to the choice of a thesis topic, a supervisor and a secure funding.",
+          "url": "https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's (any discipline) or equivalent is needed before starting.",
+      "quote": "Applicants must hold a Masters or the equivalent before starting a doctorate in the Neuroscience Program at EPFL.",
+      "url": "https://www.epfl.ch/education/phd/edne-neuroscience/edne-neuroscience/edne-how-to-apply/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The program page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.epfl.ch/education/phd/edne-neuroscience/edne-neuroscience/edne-how-to-apply/"
+    }
+  },
+  "notes": "Success rate close to 10%. Hiring Days follow each deadline."
+}

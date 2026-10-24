@@ -3,45 +3,51 @@
   "institution": "EPFL (École polytechnique fédérale de Lausanne)",
   "country": "Switzerland",
   "region": "Vaud (Lausanne)",
-  "grad_page": "https://www.epfl.ch/education/phd/edpy-physics/edpy-how-to-apply/",
-  "checked": "2026-10-21",
+  "grad_page": "https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application/",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.epfl.ch/education/phd/edpy-physics/edpy-how-to-apply/"
+      "code": "0 (no fee)",
+      "value": "No application fee at EPFL (enrolment fees apply later).",
+      "quote": "No, there is no application fees",
+      "url": "https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application/applications-faqs/"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.epfl.ch/education/phd/edpy-physics/edpy-how-to-apply/"
+      "code": "No fee",
+      "value": "Not needed: there is no application fee.",
+      "quote": "No, there is no application fees",
+      "url": "https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application/applications-faqs/"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.epfl.ch/education/phd/edpy-physics/edpy-how-to-apply/"
+      "code": "Recommended",
+      "value": "GRE General is not required but recommended; individual doctoral programs may differ (see program records).",
+      "quote": "The results of the GRE general test is not required but recommended.",
+      "url": "https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application/applications-faqs/"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.epfl.ch/education/phd/edpy-physics/edpy-how-to-apply/"
+      "code": "Not required",
+      "value": "As a general rule the Doctoral School asks for no TOEFL, but a program may require one or weigh it; check the program record. TOEFL is strongly recommended for non-native speakers.",
+      "quote": "As a general rule, the EPFL Doctoral School does not require GRE, TOEFL or IELTS results.",
+      "url": "https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application/applications-faqs/",
+      "also": [
+        {
+          "quote": "we strongly recommend that they provide us with the results of the TOEFL and/or GRE test.",
+          "url": "https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application/applications-faqs/"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.epfl.ch/education/phd/edpy-physics/edpy-how-to-apply/"
+      "code": "Not required",
+      "value": "As a general rule the Doctoral School asks for no IELTS; a specific program may require it.",
+      "quote": "As a general rule, the EPFL Doctoral School does not require GRE, TOEFL or IELTS results.",
+      "url": "https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application/applications-faqs/"
     },
     "english_waiver": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "The Doctoral School does not say whether an English-medium degree from India replaces a test; it only requires proficiency in English.",
       "quote": "",
-      "url": "https://www.epfl.ch/education/phd/edpy-physics/edpy-how-to-apply/"
+      "url": "https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application/applications-faqs/"
     }
   },
-  "notes": ""
+  "notes": "All PhD candidates apply through the central EPFL Doctoral School form to one of the doctoral programs (EDxx); each program sets its own deadlines and may add its own test rules."
 }

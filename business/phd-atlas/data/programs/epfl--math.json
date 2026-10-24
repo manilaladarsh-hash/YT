@@ -1,0 +1,55 @@
+{
+  "id": "epfl--math",
+  "university": "epfl",
+  "field": "math",
+  "also_fields": [],
+  "department": "Doctoral Program in Mathematics (EDMA)",
+  "program_page": "https://www.epfl.ch/education/phd/edma-mathematics/edma-how-to-apply/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Three rounds: April 15, September 15 and December 1. Next for Fall 2027: December 1, 2026 (year inferred).",
+      "quote": "Deadlines: prior to April 15, September 15 or December 1.",
+      "url": "https://www.epfl.ch/education/phd/edma-mathematics/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "TOEFL and GRE are highly recommended documents in the application.",
+      "quote": "Highly recommended: TOEFL and GRE (or other certificates of language proficiency)",
+      "url": "https://www.epfl.ch/education/phd/edma-mathematics/edma-how-to-apply/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You are admitted only once a PhD advisor agrees to accept you.",
+      "quote": "You will be admitted to the doctoral program if and when a PhD advisor has agreed to accept you as a student.",
+      "url": "https://www.epfl.ch/education/phd/edma-mathematics/edma-how-to-apply/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Enrolment requires secure funding, so admitted students are funded (typically as salaried EPFL doctoral assistants).",
+      "quote": "The final enrollment in the doctoral program is conditional to the choice of a thesis topic, a supervisor and a secure funding.",
+      "url": "https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application/",
+      "also": [
+        {
+          "quote": "The basic starting salary of an EPFL doctoral assistant is CHF 55’225.- gross per annum",
+          "url": "https://www.epfl.ch/education/phd/doctoral-studies-structure/doctoral-students-salary/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Master's degree expected; only exceptionally a 4-year bachelor's with excellent grades.",
+      "quote": "Candidates who have obtained a Master degree or an equivalent title | Exceptionally, holders of a Bachelor degree (at least 4 years; excellent grades)",
+      "url": "https://www.epfl.ch/education/phd/edma-mathematics/edma-how-to-apply/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The program page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.epfl.ch/education/phd/edma-mathematics/edma-how-to-apply/"
+    }
+  },
+  "notes": ""
+}
