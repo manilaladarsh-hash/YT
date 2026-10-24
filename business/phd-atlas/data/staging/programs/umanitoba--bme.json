@@ -1,0 +1,43 @@
+{
+  "id": "umanitoba--bme",
+  "university": "umanitoba",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Biomedical Engineering Program (Price Faculty of Engineering)",
+  "program_page": "https://umanitoba.ca/graduate-studies/admissions/programs-of-study/biomedical-engineering-phd",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-08",
+      "value": "International applicants: January 8 for Fall (September) entry (Winter March 15, Summer August 1); rolling review.",
+      "quote": "International applicants Term Annual application deadline Fall (September) January 8 Winter (January) March 15 Summer (May) August 1",
+      "url": "https://umanitoba.ca/graduate-studies/admissions/programs-of-study/biomedical-engineering-phd",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test exists for this field and the program page does not mention one.",
+      "quote": "",
+      "url": "https://umanitoba.ca/graduate-studies/admissions/programs-of-study/biomedical-engineering-phd"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must get tentative acceptance from a faculty advisor before applying.",
+      "quote": "Qualification for admission to the PhD in Biomedical Engineering program is contingent on first receiving tentative acceptance from a faculty advisor who will accept you into their research group.",
+      "url": "https://umanitoba.ca/graduate-studies/admissions/programs-of-study/biomedical-engineering-phd"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No guaranteed stipend is stated; BME members must have funded research programs that include funding for students.",
+      "quote": "",
+      "url": "https://umanitoba.ca/engineering/biomedical"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's degree in engineering, health sciences or science (or an MD) is normally required, plus first-year linear algebra, calculus and physics.",
+      "quote": "you must normally have completed a master's-level degree from a faculty of engineering, health sciences or science or a Doctor of Medicine (MD) from a recognized university",
+      "url": "https://umanitoba.ca/graduate-studies/admissions/programs-of-study/biomedical-engineering-phd"
+    }
+  },
+  "notes": ""
+}

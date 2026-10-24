@@ -1,0 +1,55 @@
+{
+  "id": "umanitoba--cs",
+  "university": "umanitoba",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://umanitoba.ca/graduate-studies/admissions/programs-of-study/computer-science-phd",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "International applicants: February 1 for Fall (September) entry, which is also the deadline for entrance-award consideration (Winter: June 1).",
+      "quote": "International applicants Term Annual application deadlines Fall (September) February 1 Winter (January) June 1 | Applicants must apply by February 1 in order to be considered for entrance awards in their first year.",
+      "url": "https://umanitoba.ca/graduate-studies/admissions/programs-of-study/computer-science-phd",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Application deadline to be considered for awards: February 1",
+          "url": "https://umanitoba.ca/science/computer-science/graduate-programs-application-info"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test exists for this field and the program page does not mention one.",
+      "quote": "",
+      "url": "https://umanitoba.ca/graduate-studies/admissions/programs-of-study/computer-science-phd"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You need a confirmed supervisor (a professor) and their support letter before applying; applications without faculty endorsement are not considered.",
+      "quote": "Applications without an endorsement from a faculty member will not be considered by the department admissions committee. | You must have a confirmed supervisor before you can be considered for admission.",
+      "url": "https://umanitoba.ca/science/computer-science/graduate-programs-application-info",
+      "also": [
+        {
+          "quote": "Supervisor support letter (must have secured supervisor support before applying; supervisor support letter will be requested within the application as a recommendation)",
+          "url": "https://umanitoba.ca/graduate-studies/admissions/programs-of-study/computer-science-phd"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All newly admitted students are considered for support; PhD students receive at least CAD 23,000 a year for four years (from grants, scholarships and TA work), subject to satisfactory progress.",
+      "quote": "PhD students receive a minimum of $23,000 per year for the first four years of their program. | Maintaining funding is contingent on satisfactory progress.",
+      "url": "https://umanitoba.ca/science/student-experience/financial-aid-awards/computer-science"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's degree with a 3.0 GPA in the last two years is required.",
+      "quote": "A master's degree or equivalent from a recognized university",
+      "url": "https://umanitoba.ca/graduate-studies/admissions/programs-of-study/computer-science-phd"
+    }
+  },
+  "notes": "Fall and Winter entry."
+}
