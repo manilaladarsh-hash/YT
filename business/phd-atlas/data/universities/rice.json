@@ -3,45 +3,64 @@
   "institution": "Rice University",
   "country": "USA",
   "region": "Texas",
-  "grad_page": "https://physics.rice.edu/how-apply",
-  "checked": "2026-10-21",
+  "grad_page": "https://graduate.rice.edu/admissions/how-to-apply",
+  "checked": "2026-10-24",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.rice.edu/how-apply"
+      "code": "85 USD",
+      "value": "The application fee is $85 for doctoral applicants.",
+      "quote": "$85 application fee",
+      "url": "https://graduate.rice.edu/admissions/how-to-apply"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.rice.edu/how-apply"
+      "code": "Available",
+      "value": "Rice runs Doctoral Application Fee Waiver Weeks (Oct 14 to Nov 1, 2026) open to students worldwide until the waivers run out; a completed application is then due by Nov 27. Texas and neighbouring-state applicants are also waived.",
+      "quote": "This waiver will be available for students worldwide to request at the link here from Oct. 14 - Nov. 1, or until all available waivers have been issued. | A completed application must be submitted by Nov. 27 at 10:59 p.m. CST",
+      "url": "https://graduate.rice.edu/application-fee-waiver-weeks",
+      "time_sensitive": "2026-11-01",
+      "also": [
+        {
+          "quote": "Rice waives application fees for doctoral applicants who are graduates of institutions in Texas and bordering states Louisiana, Arkansas, Oklahoma and New Mexico",
+          "url": "https://graduate.rice.edu/admissions/how-to-apply"
+        }
+      ]
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.rice.edu/how-apply"
+      "code": "Not required",
+      "value": "Rice generally does not require the GRE, but each program may recommend or require it, so check the program record.",
+      "quote": "For 2026 admissions, Rice generally is not requiring the GRE. | However, individual degree programs have the option of recommending, strongly recommending, or requiring the general GRE.",
+      "url": "https://graduate.rice.edu/admissions/how-to-apply"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.rice.edu/how-apply"
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT 4.5 on the new scale for exams taken on or after Jan 21, 2026 (90 on the old scale for earlier exams). Duolingo 115 is also accepted.",
+      "quote": "For exams taken on or after January 21, 2026: We require a minimum TOEFL iBT score of 4.5",
+      "url": "https://graduate.rice.edu/admissions/language-proficiency-requirements",
+      "also": [
+        {
+          "quote": "For exams taken before January 21, 2026: We require a minimum TOEFL iBT score of 90",
+          "url": "https://graduate.rice.edu/admissions/language-proficiency-requirements"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.rice.edu/how-apply"
+      "code": "7",
+      "value": "IELTS Academic overall 7 minimum.",
+      "quote": "At least 7 on the IELTS.",
+      "url": "https://graduate.rice.edu/admissions/language-proficiency-requirements"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.rice.edu/how-apply"
+      "code": "Conditional",
+      "value": "A degree from an institution where English is the language of instruction can replace the test, but the institution must be entered exactly as on Rice's list (which names many Indian universities); check with the program.",
+      "quote": "Proof of completion (or expected completion) of a post-secondary degree from an institution where the official language of instruction is in English* | If this applies to you, please ensure that you enter your institution on your application exactly as it appears below and that the language is identified as English.",
+      "url": "https://graduate.rice.edu/admissions/language-proficiency-requirements",
+      "also": [
+        {
+          "quote": "My university’s mode of instruction is English. Do I still need to take the language test? | Generally, no. Consult with your program of application for guidance.",
+          "url": "https://graduate.rice.edu/international-applicants"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "Applied Physics, CAAM (Computational Applied Mathematics and Operations Research) and Systems, Synthetic and Physical Biology are separate Rice PhD programs not saved here."
 }

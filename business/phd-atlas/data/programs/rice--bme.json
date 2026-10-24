@@ -1,0 +1,67 @@
+{
+  "id": "rice--bme",
+  "university": "rice",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Bioengineering",
+  "program_page": "https://bioengineering.rice.edu/academics",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026.",
+      "quote": "Application Deadline: December 1",
+      "url": "https://bioengineering.rice.edu/academics",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "0 (waived)",
+      "value": "The application fee is waived for PhD applicants.",
+      "quote": "The application fee has been waived for PhD applicants.",
+      "url": "https://bioengineering.rice.edu/academics"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "PhD applicants pay no fee.",
+      "quote": "The application fee is waived for PhD students.",
+      "url": "https://bioengineering.rice.edu/academics/frequently-asked-questions"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department no longer asks for GRE scores for doctoral applicants.",
+      "quote": "Effective immediately, the Rice University Department of Bioengineering has decided to remove the GRE as a requirement for all doctoral program applications.",
+      "url": "https://bioengineering.rice.edu/academics/frequently-asked-questions"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages do not mention a supervisor requirement.",
+      "quote": "",
+      "url": "https://bioengineering.rice.edu/academics/frequently-asked-questions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All PhD students receive a full tuition waiver, health insurance subsidy and stipend, subject to satisfactory progress.",
+      "quote": "All students seeking a PhD receive a full tuition waiver, health insurance subsidy, and a stipend",
+      "url": "https://bioengineering.rice.edu/academics/frequently-asked-questions"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "You can apply with a bachelor's degree; those with a master's get up to 12 credits waived.",
+      "quote": "Yes, you can apply to the PhD program with a bachelor's degree.",
+      "url": "https://bioengineering.rice.edu/academics/frequently-asked-questions",
+      "also": [
+        {
+          "quote": "we waive up to 12 credits for our students who enter with a masters degree",
+          "url": "https://bioengineering.rice.edu/academics/frequently-asked-questions"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages checked do not mention a GRE Subject test for this field.",
+      "quote": "",
+      "url": "https://bioengineering.rice.edu/academics"
+    }
+  },
+  "notes": ""
+}

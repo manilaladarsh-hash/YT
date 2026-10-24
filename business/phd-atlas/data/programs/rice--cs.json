@@ -1,0 +1,60 @@
+{
+  "id": "rice--cs",
+  "university": "rice",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://csweb.rice.edu/academics/graduate-programs/admission/graduate-program-application",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Apply by January 1, 2027; review continues on a rolling basis afterwards but early applications are preferred.",
+      "quote": "January 1, 2027: Ph.D. Program",
+      "url": "https://csweb.rice.edu/academics/graduate-programs/admission/graduate-program-application"
+    },
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "There is no application fee for the PhD program.",
+      "quote": "There is no application fee for the Ph.D. program.",
+      "url": "https://csweb.rice.edu/academics/graduate-programs/admission/graduate-program-application"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No fee is charged to PhD applicants, so no waiver is needed.",
+      "quote": "There is no application fee for the Ph.D. program.",
+      "url": "https://csweb.rice.edu/academics/graduate-programs/admission/graduate-program-application"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "Submitting the general GRE is optional.",
+      "quote": "Applicants may optionally (but are not required to) submit scores for the Graduate Record Examinations (GRE) general exam.",
+      "url": "https://csweb.rice.edu/academics/graduate-programs/admission/graduate-program-application"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "GRE Subject test scores are not required.",
+      "quote": "GRE subject test scores are not required.",
+      "url": "https://csweb.rice.edu/academics/graduate-programs/admission/graduate-program-application"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applications go to the department's admission committee; inquiries to individual faculty are not processed.",
+      "quote": "Information and inquiries directed to individual faculty members will not be processed.",
+      "url": "https://csweb.rice.edu/academics/graduate-programs/admission/graduate-program-application"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD students are fully supported by fellowships or research assistantships, including tuition and a monthly stipend.",
+      "quote": "Graduate students enrolled in the Ph.D. program are fully supported by graduate fellowships or research assistantships",
+      "url": "https://csweb.rice.edu/academics/graduate-programs/graduate-admission"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Apply directly to the PhD with either a bachelor's or a master's degree.",
+      "quote": "Applicants interested in pursuing a computer science Ph.D. should apply directly to the Ph.D. program if they have either a baccalaureate degree or a master's degree.",
+      "url": "https://csweb.rice.edu/faqs"
+    }
+  },
+  "notes": "The Data Science offerings at Rice (MDS, online MDS) are master's programs, so no datasci PhD record."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rice--chemistry",
+  "university": "rice",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://chemistry.rice.edu/phd-program/how-to-apply",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026 (11:59 PM EST); later applicants must contact the department.",
+      "quote": "The Department of Chemistry application deadline for the Ph.D. program is December 1st, 11:59 PM Eastern Standard Time.",
+      "url": "https://chemistry.rice.edu/phd-program/how-to-apply",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The general GRE is optional and not holding back anyone who skips it.",
+      "quote": "The GRE is optional and will not negatively impact your application if you do not submit scores.",
+      "url": "https://chemistry.rice.edu/phd-program/how-to-apply"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Chemistry GRE Subject test is optional.",
+      "quote": "The GRE Subject test is optional and not required.",
+      "url": "https://chemistry.rice.edu/phd-program/faqs"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must be lined up before applying.",
+      "quote": "",
+      "url": "https://chemistry.rice.edu/phd-program/how-to-apply"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every offer of admission includes a full tuition scholarship and a graduate fellowship stipend.",
+      "quote": "Each offer of admission to our Department's graduate program includes a full tuition scholarship and a graduate fellowship stipend.",
+      "url": "https://chemistry.rice.edu/phd-program/faqs"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Entering students should hold a bachelor's or master's degree in chemistry or a closely related field.",
+      "quote": "a Bachelor's or Master's degree in Chemistry or a closely related discipline",
+      "url": "https://chemistry.rice.edu/phd-program/faqs"
+    }
+  },
+  "notes": ""
+}
