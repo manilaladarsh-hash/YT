@@ -1,0 +1,54 @@
+{
+  "id": "queens--cs",
+  "university": "queens",
+  "field": "cs",
+  "also_fields": [],
+  "department": "School of Computing",
+  "program_page": "https://www.cs.queensu.ca/apply/graduate.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Complete your application by January 15, 2027 for funding consideration (September 2027 or January 2028 start).",
+      "quote": "The application deadline is January 15, 2027 for completed applications to be considered for funding for both September 2027 and January 2028 admission.",
+      "url": "https://www.cs.queensu.ca/apply/graduate.php"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required.",
+      "quote": "GRE is not required.",
+      "url": "https://www.cs.queensu.ca/apply/graduate.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies.",
+      "quote": "",
+      "url": "https://www.cs.queensu.ca/apply/graduate.php"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You can apply without a supervisor, but you are admitted only once a faculty member picks you from the applicant pool; contact a few faculty after applying.",
+      "quote": "Students are admitted to a supervisor if deemed admissible by the admission committee.",
+      "url": "https://www.cs.queensu.ca/apply/graduate.php",
+      "also": [
+        {
+          "quote": "When you apply you become part of a pool of potential applicants from which a potential supervisor may choose, at which point you must then be accepted by the university.",
+          "url": "https://www.cs.queensu.ca/graduate/faq.php"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD students get guaranteed minimum funding (CAD 25,000 in year 1 for international students as of February 2026), renewable for up to 4 years with satisfactory progress.",
+      "quote": "Funding to cover basic fees and living expenses is guaranteed for research-based MSc and PhD graduate students depending on: | Financial support for the PhD program is provided for a maximum of 4 years.",
+      "url": "https://www.cs.queensu.ca/graduate/finances/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's degree with first-class (A) standing is required for the PhD.",
+      "quote": "PhD Requirements Master's degree; and minimum \"A\" standing (first class)",
+      "url": "https://www.cs.queensu.ca/apply/graduate.php"
+    }
+  },
+  "notes": "Very limited places for international applicants."
+}

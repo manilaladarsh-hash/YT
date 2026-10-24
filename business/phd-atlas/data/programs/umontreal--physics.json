@@ -2,7 +2,9 @@
   "id": "umontreal--physics",
   "university": "umontreal",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "astronomy"
+  ],
   "department": "Département de physique",
   "program_page": "https://admission.umontreal.ca/programmes/doctorat-en-physique/",
   "checked": "2026-10-21",
@@ -43,13 +45,7 @@
       "value": "Requires a master's in physics (or equivalent) with 3.3/4.3; for Indian applicants the accepted degree is a 2-year Master with at least 55% (Second class Upper Division) or 8/10 CGPA",
       "quote": "être titulaire d'un diplôme de maîtrise en physique ou d'un diplôme de 2e cycle préparant adéquatement aux études qu'il veut entreprendre | Diplôme accepté : Master; durée : 2 ans | Système 0 - 100% : 55% = Second class Upper Division; Système 1 -10 : 8/10 = Very Good",
       "url": "https://admission.umontreal.ca/programmes/doctorat-en-physique/52/conditions-pays.html"
-    },
-    "app_fee": {
-      "code": "106.75 CAD",
-      "value": "CAD 83.40 base fee per admission term plus CAD 23.35 per regular program = CAD 106.75 for one program; base fee non-refundable",
-      "quote": "Frais de base par trimestre d'admission | 83,40 $ | Frais par programme régulier (sauf études libres, optométrie, stages de formation ou de recherche et stages postdoctoraux) | 23,35 $",
-      "url": "https://admission.umontreal.ca/admission/depot-de-la-demande/payer-les-frais-dadmission/"
     }
   },
-  "notes": "French-language program. Applicants need sufficient spoken and written French (no French test required) and good written English: \"Les candidats doivent avoir une connaissance suffisante du français parlé et écrit. Aucun test de français n'est exigé pour être admis dans le programme.\" No English test requirement was found on the pages checked. Department site (phys.umontreal.ca) returned errors."
+  "notes": "French-language program. Applicants need sufficient spoken and written French (no French test required) and good written English: \"Les candidats doivent avoir une connaissance suffisante du français parlé et écrit. Aucun test de français n'est exigé pour être admis dans le programme.\" No English test requirement was found on the pages checked. Department site (phys.umontreal.ca) returned errors. The PhD covers astronomy and astrophysics as a specialization: \"Plusieurs domaines de spécialisation sont proposés au doctorat en physique, notamment astronomie et astrophysique\"."
 }

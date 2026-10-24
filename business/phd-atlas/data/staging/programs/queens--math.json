@@ -1,0 +1,61 @@
+{
+  "id": "queens--math",
+  "university": "queens",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Department of Mathematics and Statistics",
+  "program_page": "https://www.queensu.ca/mathstat/graduate/prospective-graduate/application-info",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Apply by January 15 for full funding consideration; late applications are accepted until April 30 if places remain. Year inferred.",
+      "quote": "Our application deadline is January 15th.",
+      "url": "https://www.queensu.ca/mathstat/graduate/prospective-graduate/application-info",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Applicants are still able to submit an online application after the deadline and up to April 30th.",
+          "url": "https://www.queensu.ca/mathstat/graduate/prospective-graduate/application-info"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not mentioned on the department's application page.",
+      "quote": "",
+      "url": "https://www.queensu.ca/mathstat/graduate/prospective-graduate/application-info"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Not needed to apply, but contact prospective supervisors: PhD admission depends on supervision and funding being available.",
+      "quote": "You are not required to secure supervision prior to submitting an application. | applicants to our doctoral program are encouraged to contact prospective supervisors since admission to our doctoral program is always contingent upon the availability of supervision and financial support",
+      "url": "https://www.queensu.ca/mathstat/graduate/prospective-graduate/application-info"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admission is conditional on funding being available, and Queen's guarantees full-time PhD students at least CAD 25,000 a year (2026-27). International-fee students are usually given extra funding to cover the tuition difference.",
+      "quote": "admission to our doctoral program is always contingent upon the availability of supervision and financial support",
+      "url": "https://www.queensu.ca/mathstat/graduate/prospective-graduate/application-info",
+      "also": [
+        {
+          "quote": "For the 2026-27 academic year, our full-time PhD students will receive a guaranteed minimum funding package of $25,000 a year",
+          "url": "https://www.queensu.ca/grad-postdoc/grad-studies/funding/packages"
+        },
+        {
+          "quote": "Students assessed fees at the international rate are usually offered additional funding to cover the difference between the international and the domestic tuition fee.",
+          "url": "https://www.queensu.ca/mathstat/graduate/prospective-graduate/application-info"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "PhD applicants normally hold a master's in mathematics and/or statistics or a related field.",
+      "quote": "Applicants to our Ph.D. program will normally have a master's degree in Mathematics and/or Statistics or related field and have demonstrated research potential and clear research interests.",
+      "url": "https://www.queensu.ca/mathstat/graduate/prospective-graduate/application-info"
+    }
+  },
+  "notes": "One PhD covers pure and applied mathematics, probability and statistics."
+}

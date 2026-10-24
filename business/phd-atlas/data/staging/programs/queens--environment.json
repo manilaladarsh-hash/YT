@@ -1,0 +1,54 @@
+{
+  "id": "queens--environment",
+  "university": "queens",
+  "field": "environment",
+  "also_fields": [],
+  "department": "School of Environmental Studies",
+  "program_page": "https://www.queensu.ca/ensc/graduate/how-apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No deadline on the School's application page.",
+      "quote": "",
+      "url": "https://www.queensu.ca/ensc/graduate/how-apply"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The GRE is not required or used.",
+      "quote": "The GRE is not required or used.",
+      "url": "https://www.queensu.ca/ensc/graduate/how-apply"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies.",
+      "quote": "",
+      "url": "https://www.queensu.ca/ensc/graduate/how-apply"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "PhD students are admitted only with a named supervisor; contact faculty first.",
+      "quote": "Students are accepted to the programs with a named supervisor in the PhD and research-based MES or advisor in the course-based MES program.",
+      "url": "https://www.queensu.ca/ensc/graduate/how-apply"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Minimum guaranteed PhD funding of CAD 25,000 a year for 48 months; international students are admitted only if funding is available.",
+      "quote": "PhD: The minimum guaranteed funding is $25,000 per year for 48 months.",
+      "url": "https://www.queensu.ca/ensc/graduate/funding",
+      "also": [
+        {
+          "quote": "We accept international students into the program each year ONLY IF sufficient funding is available.",
+          "url": "https://www.queensu.ca/ensc/graduate/how-apply"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "PhD-specific entry requirements are not given on the pages fetched.",
+      "quote": "",
+      "url": "https://www.queensu.ca/ensc/graduate/how-apply"
+    }
+  },
+  "notes": ""
+}

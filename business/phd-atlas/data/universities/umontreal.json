@@ -3,45 +3,51 @@
   "institution": "Université de Montréal",
   "country": "Canada",
   "region": "Quebec",
-  "grad_page": "https://admission.umontreal.ca/programmes/doctorat-en-physique/",
-  "checked": "2026-10-21",
+  "grad_page": "https://admission.umontreal.ca/admission/preparation-de-la-demande/prevoir-les-entrevues-et-les-tests/",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://admission.umontreal.ca/programmes/doctorat-en-physique/"
+      "code": "106.75 CAD",
+      "value": "CAD 83.40 base fee per admission term plus CAD 23.35 per regular program, so CAD 106.75 for one PhD application; the base fee is non-refundable and paid only once per term if you apply to several programs.",
+      "quote": "Frais de base par trimestre d'admission | 83,40 $ | Frais par programme régulier (sauf études libres, optométrie, stages de formation ou de recherche et stages postdoctoraux) | 23,35 $ | Notez que les montants indiqués ci-dessus sont en dollars canadiens.",
+      "url": "https://admission.umontreal.ca/admission/depot-de-la-demande/payer-les-frais-dadmission/"
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "The admission-fee page lists no fee waiver; the base fee is non-refundable.",
       "quote": "",
-      "url": "https://admission.umontreal.ca/programmes/doctorat-en-physique/"
+      "url": "https://admission.umontreal.ca/admission/depot-de-la-demande/payer-les-frais-dadmission/"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "No UdeM admission page checked mentions the GRE.",
       "quote": "",
-      "url": "https://admission.umontreal.ca/programmes/doctorat-en-physique/"
+      "url": "https://admission.umontreal.ca/admission/preparation-de-la-demande/prevoir-les-entrevues-et-les-tests/"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://admission.umontreal.ca/programmes/doctorat-en-physique/"
+      "code": "Not required",
+      "value": "UdeM does not require English proficiency for admission (only English studies and translation programs test English), so no TOEFL score is needed.",
+      "quote": "À l’exception des programmes d’études anglaises et de traduction, qui imposent un test de connaissance de l’anglais, la maîtrise de l’anglais ne constitue pas une exigence d’admission.",
+      "url": "https://admission.umontreal.ca/admission/preparation-de-la-demande/prevoir-les-entrevues-et-les-tests/"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://admission.umontreal.ca/programmes/doctorat-en-physique/"
+      "code": "Not required",
+      "value": "No IELTS score is needed: English proficiency is not an admission requirement outside English studies and translation.",
+      "quote": "À l’exception des programmes d’études anglaises et de traduction, qui imposent un test de connaissance de l’anglais, la maîtrise de l’anglais ne constitue pas une exigence d’admission.",
+      "url": "https://admission.umontreal.ca/admission/preparation-de-la-demande/prevoir-les-entrevues-et-les-tests/"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://admission.umontreal.ca/programmes/doctorat-en-physique/"
+      "code": "Yes",
+      "value": "No English test is required of any applicant, so Indian applicants need no TOEFL/IELTS. UdeM teaches in French and asks for sufficient French; reading English is strongly recommended.",
+      "quote": "À l’exception des programmes d’études anglaises et de traduction, qui imposent un test de connaissance de l’anglais, la maîtrise de l’anglais ne constitue pas une exigence d’admission. | Il est toutefois fortement recommandé d’acquérir une compréhension de l’anglais écrit.",
+      "url": "https://admission.umontreal.ca/admission/preparation-de-la-demande/prevoir-les-entrevues-et-les-tests/",
+      "also": [
+        {
+          "quote": "Posséder une connaissance suffisante du français | Maîtriser suffisamment l’anglais ou une autre langue, si le programme d'études l’exige",
+          "url": "https://admission.umontreal.ca/admission/preparation-de-la-demande/verifier-les-conditions-dadmissibilite/"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "French-language university: applicants must have sufficient French (\"Posséder une connaissance suffisante du français\"); some programs add their own French/English expectations (see program notes). Doctoral international students can get the UdeM exemption scholarship, which reduces tuition to the Quebec rate. Engineering PhDs (electrical, mechanical, chemical, civil) are run by the affiliated but separate Polytechnique Montréal."
 }
