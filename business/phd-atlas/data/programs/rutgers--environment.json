@@ -1,0 +1,49 @@
+{
+  "id": "rutgers--environment",
+  "university": "rutgers",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Environmental Sciences",
+  "program_page": "https://grad.rutgers.edu/academics/programs/environmental-sciences",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Merit-based aid (funding) deadline is December 15; non-US applicants March 1 and US applicants June 1 for admission.",
+      "quote": "Application Type US Applicants Non-US Applicants Merit-Based Aid Ph.D. June 1 March 1 December, 15",
+      "url": "https://grad.rutgers.edu/academics/programs/environmental-sciences",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are no longer required.",
+      "quote": "We no longer require GRE scores.",
+      "url": "https://grad.rutgers.edu/academics/programs/environmental-sciences"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "The program generally does not admit PhD students without funding support.",
+      "quote": "The graduate program generally does not admit students to the Ph.D. program without funding support.",
+      "url": "https://grad.rutgers.edu/academics/programs/environmental-sciences"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree in a science or engineering discipline with core science and math is expected.",
+      "quote": "All are expected to have earned an undergraduate degree in a science or engineering discipline with appropriate backgrounds in core science and math.",
+      "url": "https://grad.rutgers.edu/academics/programs/environmental-sciences"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://grad.rutgers.edu/academics/programs/environmental-sciences"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://grad.rutgers.edu/academics/programs/environmental-sciences"
+    }
+  },
+  "notes": "Atmospheric Science and Oceanography are separate New Brunswick PhD programs; the department site (envsci.rutgers.edu) returned HTTP 502."
+}

@@ -1,0 +1,54 @@
+{
+  "id": "rutgers--cs",
+  "university": "rutgers",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science",
+  "program_page": "https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?id=a501U0000004gNjQAI",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Apply by January 1, 2027 (same date for US and non-US applicants); spring PhD applicants are typically not accepted.",
+      "quote": "Fall 2027 Jan 1, 2027 Jan 1, 2027",
+      "url": "https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?id=a501U0000004gNjQAI",
+      "also": [
+        {
+          "quote": "Fall only applicants: January 1st for both US and non-US citizens.",
+          "url": "https://grad.rutgers.edu/academics/programs/computer-science"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate-school program page lists GRE scores among PhD materials, but the admissions listing shows no test requirement; confirm with the department.",
+      "quote": "",
+      "url": "https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?id=a501U0000004gNjQAI"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?id=a501U0000004gNjQAI"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?id=a501U0000004gNjQAI"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?id=a501U0000004gNjQAI"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?id=a501U0000004gNjQAI"
+    }
+  },
+  "notes": "The department's own admissions pages (cs.rutgers.edu) returned HTTP 502, so funding, supervisor and entry route are Not stated. Data Science is a listed area of concentration inside this PhD, not a separate degree."
+}

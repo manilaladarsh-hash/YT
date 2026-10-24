@@ -1,0 +1,54 @@
+{
+  "id": "uchicago--cs",
+  "university": "uchicago",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://cs.uchicago.edu/academics/admission/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-10",
+      "value": "Apply by December 10, 2026.",
+      "quote": "To apply, you should use the online system (Deadline: December 10, 2026, a $90 application fee).",
+      "url": "https://cs.uchicago.edu/academics/admission/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is not required for this cycle but may be submitted.",
+      "quote": "UChicago CS will not require the GRE exam for this PhD application cycle. It is optional.",
+      "url": "https://cs.uchicago.edu/academics/admission/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to this field.",
+      "quote": "",
+      "url": "https://cs.uchicago.edu/academics/admission/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You may email faculty, but admission decisions are made by the department, not by individual supervisors.",
+      "quote": "while you are free to email faculty to explore possible common research interests, admission decisions are made by the Department.",
+      "url": "https://cs.uchicago.edu/academics/admission/",
+      "also": [
+        {
+          "quote": "the student demonstrates knowledge in several fundamental subareas of Computer Science through courses, starts doing research, and refines their research interests, including identifying a research advisor.",
+          "url": "https://cs.uchicago.edu/academics/phd/phd-program-overview/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Physical Sciences Division PhD admits are offered funding packages covering full tuition, health insurance and a stipend.",
+      "quote": "Applicants admitted to doctoral programs in the Physical Sciences Division are offered generous funding packages. | Offers include full tuition, student health insurance and student services fee coverage, and primary funding",
+      "url": "https://physicalsciences.uchicago.edu/academics/finances/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages do not say whether a master's degree is needed.",
+      "quote": "",
+      "url": "https://cs.uchicago.edu/academics/admission/"
+    }
+  },
+  "notes": "The Joint Math/CS PhD is a separate admission route."
+}

@@ -1,0 +1,61 @@
+{
+  "id": "rutgers--earth",
+  "university": "rutgers",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Earth and Planetary Sciences",
+  "program_page": "https://eps.rutgers.edu/academics/graduate/faq",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Submit by January 15 for full consideration with departmental support; applications are rolling.",
+      "quote": "For full consideration with support, submit by January 15 for fall admission.",
+      "url": "https://eps.rutgers.edu/academics/graduate/faq",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required.",
+      "quote": "We do not require the GRE.",
+      "url": "https://eps.rutgers.edu/academics/graduate/faq"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The department expects a TOEFL score of at least 80 from applicants with degrees from non-English-speaking countries.",
+      "quote": "A minimum TOEFL score of 80 is expected.",
+      "url": "https://eps.rutgers.edu/academics/graduate/faq"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "PhD applicants must identify and communicate with a potential advisor before applying.",
+      "quote": "Yes. For PhD applicants, identifying and communicating with a potential advisor is essential for a successful application.",
+      "url": "https://eps.rutgers.edu/academics/graduate/faq"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Nearly all full-time PhD students are supported by fellowships, TAs or research grants; five-year packages are offered to top applicants.",
+      "quote": "Nearly all full-time Ph.D. students are supported by fellowships, teaching assistantships (TAs), and/or research grants (GAs).",
+      "url": "https://eps.rutgers.edu/academics/graduate/graduate-program",
+      "also": [
+        {
+          "quote": "We offer competitive 5-year support packages for top PhD applicants",
+          "url": "https://eps.rutgers.edu/academics/graduate/faq"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://eps.rutgers.edu/academics/graduate/faq"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://eps.rutgers.edu/academics/graduate/faq"
+    }
+  },
+  "notes": "Atmospheric Science, Geological Sciences and Oceanography are separate New Brunswick PhD programs."
+}

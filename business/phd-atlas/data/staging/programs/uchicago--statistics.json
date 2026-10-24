@@ -1,0 +1,66 @@
+{
+  "id": "uchicago--statistics",
+  "university": "uchicago",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Statistics",
+  "program_page": "https://stat.uchicago.edu/academics/phd-in-statistics/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-04",
+      "value": "Apply by January 4, 2027; no late applications.",
+      "quote": "The PhD application and all supporting materials, such as score reports and letters of recommendation, are due January 4, 2027.",
+      "url": "https://stat.uchicago.edu/academics/phd-in-statistics/admissions-faqs/"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The General GRE is strongly recommended for all applicants; there is no minimum score.",
+      "quote": "We strongly recommend the Graduate Record Examinations (GRE) General Test of all applicants.",
+      "url": "https://stat.uchicago.edu/academics/phd-in-statistics/admissions-faqs/"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The Mathematics Subject test is strongly recommended for PhD applicants but not required.",
+      "quote": "We do not require any GRE subject tests. | We strongly recommend that applicants to the PhD program take the math subject test.",
+      "url": "https://stat.uchicago.edu/academics/phd-in-statistics/admissions-faqs/"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "TOEFL iBT 90 overall (or 4.5 on the new scale); no section minimums.",
+      "quote": "The Department of Statistics requires a minimum TOEFL score of 90 overall, and a minimum IELTS scores of 7.0 overall.",
+      "url": "https://stat.uchicago.edu/academics/phd-in-statistics/admissions-faqs/",
+      "also": [
+        {
+          "quote": "Our TOEFL minimum is 90 or 4.5. Our IELTS minimum is 7.0. We do not have minimum scores for each subsection.",
+          "url": "https://stat.uchicago.edu/academics/phd-in-statistics/admissions-faqs/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic 7.0 overall; no section minimums.",
+      "quote": "The Department of Statistics requires a minimum TOEFL score of 90 overall, and a minimum IELTS scores of 7.0 overall.",
+      "url": "https://stat.uchicago.edu/academics/phd-in-statistics/admissions-faqs/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You apply to the degree program, not to a professor; naming a professor of interest does not bind you.",
+      "quote": "You are welcome to discuss your interest in a particular specialization or professor in your application, but that does not bind you to pursuing that specialization or working with that professor if you enroll.",
+      "url": "https://stat.uchicago.edu/academics/phd-in-statistics/admissions-faqs/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "PhD students generally receive full support covering tuition, fees, health insurance and living expenses, the same for domestic and international students.",
+      "quote": "Our PhD students generally receive full support, including tuition, fees, health insurance, and living expenses. | Departmental support is the same for domestic and international students.",
+      "url": "https://stat.uchicago.edu/academics/phd-in-statistics/admissions-faqs/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not needed; most PhD students come straight from their bachelor's.",
+      "quote": "Do I need to have a MS in order to apply for the PhD program? | No, most of our students come directly from college.",
+      "url": "https://stat.uchicago.edu/academics/phd-in-statistics/admissions-faqs/"
+    }
+  },
+  "notes": "About 80% of students are from outside the US (department FAQ)."
+}

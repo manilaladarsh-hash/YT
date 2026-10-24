@@ -1,0 +1,55 @@
+{
+  "id": "rutgers--ece",
+  "university": "rutgers",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Electrical and Computer Engineering",
+  "program_page": "https://grad.rutgers.edu/academics/programs/electrical-computer-engineering",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Non-US PhD applicants: January 15 for full consideration (limited seats to April 1); US applicants February 15.",
+      "quote": "Non-US Applicants (Full Consideration): January 15",
+      "url": "https://grad.rutgers.edu/academics/programs/electrical-computer-engineering",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is no longer required for admission.",
+      "quote": "GRE is no longer a requirement for admission into the ECE Graduate Program.",
+      "url": "https://ece.rutgers.edu/graduate-application-requirements",
+      "also": [
+        {
+          "quote": "Note that GRE is not required for the application to be considered complete.",
+          "url": "https://grad.rutgers.edu/academics/programs/electrical-computer-engineering"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "The statement of purpose should discuss any ECE faculty you want to work with.",
+      "quote": "applicants are encouraged to discuss any faculty members at Rutgers ECE with whom they are interested in working",
+      "url": "https://ece.rutgers.edu/graduate-application-requirements"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not a prerequisite for the PhD.",
+      "quote": "An MS degree is not a prerequisite to apply for admission into the PhD degree program.",
+      "url": "https://grad.rutgers.edu/academics/programs/electrical-computer-engineering"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://grad.rutgers.edu/academics/programs/electrical-computer-engineering"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://grad.rutgers.edu/academics/programs/electrical-computer-engineering"
+    }
+  },
+  "notes": "Funding is not described on the department or school pages checked."
+}

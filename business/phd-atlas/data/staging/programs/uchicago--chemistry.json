@@ -1,0 +1,73 @@
+{
+  "id": "uchicago--chemistry",
+  "university": "uchicago",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://chemistry.uchicago.edu/graduate-program",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026. Attending an information session (November 4 or 11, 2026) earns a fee waiver code.",
+      "quote": "This year's deadline for applications is Monday, December 1st, 2026.",
+      "url": "https://chemistry.uchicago.edu/graduate-program/phd-application-information",
+      "time_sensitive": "2026-11-11",
+      "also": [
+        {
+          "quote": "Attendees of the sessions will receive a fee waiver code after the session.",
+          "url": "https://chemistry.uchicago.edu/graduate-program/phd-application-information"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The department says GRE scores are required but does not say which test, so check the portal for whether the Chemistry Subject test is expected.",
+      "quote": "GRE test scores are required.",
+      "url": "https://chemistry.uchicago.edu/graduate-program/phd-application-information"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not name the Chemistry Subject test separately.",
+      "quote": "",
+      "url": "https://chemistry.uchicago.edu/graduate-program/phd-application-information"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "TOEFL iBT 90 overall, or IELTS 7.0 overall.",
+      "quote": "The Department of Chemistry requires a minimum TOEFL score of 90 overall or a minimum IELTS scores of 7.0 overall.",
+      "url": "https://chemistry.uchicago.edu/graduate-program/phd-application-information"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic 7.0 overall, or TOEFL 90 overall.",
+      "quote": "The Department of Chemistry requires a minimum TOEFL score of 90 overall or a minimum IELTS scores of 7.0 overall.",
+      "url": "https://chemistry.uchicago.edu/graduate-program/phd-application-information"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You list faculty of interest on the application, but admission is not tied to a supervisor; lab rotations are available and most students pick an advisor by winter of the first year.",
+      "quote": "When applying online you will be asked to list faculty of interest before submitting your application.",
+      "url": "https://chemistry.uchicago.edu/graduate-program/phd-application-information",
+      "also": [
+        {
+          "quote": "Most students select their research advisor by the winter quarter of their first year and are engaged in research by spring.",
+          "url": "https://chemistry.uchicago.edu/graduate-program"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Physical Sciences Division PhD admits are offered funding packages covering full tuition, health insurance and a stipend.",
+      "quote": "Applicants admitted to doctoral programs in the Physical Sciences Division are offered generous funding packages. | Offers include full tuition, student health insurance and student services fee coverage, and primary funding",
+      "url": "https://physicalsciences.uchicago.edu/academics/finances/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages do not say whether a master's degree is needed.",
+      "quote": "",
+      "url": "https://chemistry.uchicago.edu/graduate-program/phd-application-information"
+    }
+  },
+  "notes": "The page calls December 1, 2026 a Monday; it is a Tuesday, so confirm the date on the portal. Info sessions are on November 4 and November 11, 2026."
+}

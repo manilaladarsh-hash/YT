@@ -1,0 +1,55 @@
+{
+  "id": "rutgers--biomed",
+  "university": "rutgers",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Graduate Programs in Molecular Biosciences",
+  "program_page": "https://grad.rutgers.edu/academics/graduate-programs/biomedical-and-health-sciences-phd-programs/molecular-biosciences",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1 (US and non-US applicants alike).",
+      "quote": "TOEFL scores are valid for two years and should not expire before the December 1st application deadline.",
+      "url": "https://molbiosci.rutgers.edu/admission/faq",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The GRE is not required and is not considered in the review.",
+      "quote": "A GRE test is not required, nor is it considered in the review process",
+      "url": "https://molbiosci.rutgers.edu/admission/application-instructions"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No advisor is needed before applying; you choose a thesis advisor after three lab rotations in the first year.",
+      "quote": "No. Admitted students are assigned a temporary academic advisor for the first year. At the end of the first year, after completing three lab rotations, students choose a thesis advisor.",
+      "url": "https://molbiosci.rutgers.edu/admission/faq"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Fellowship support covers the first year, and funding is assured for the whole PhD while you are in good standing.",
+      "quote": "Funding is assured for the duration of Ph.D. training provided students are making progress and in good academic standing.",
+      "url": "https://grad.rutgers.edu/academics/graduate-programs/biomedical-and-health-sciences-phd-programs/molecular-biosciences"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Both BS and MS holders apply; a 3-year bachelor's alone is not enough.",
+      "quote": "Having prior research experience gives you a definite advantage when applying, whether you have a BS or MS degree.",
+      "url": "https://molbiosci.rutgers.edu/admission/faq"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exempt from TOEFL/IELTS with at least three years of undergraduate or master's study taught in English.",
+      "quote": "You are exempt from submitting a TOEFL or IELTS score if you are a Permanent Resident, a US citizen, or an international applicant with a minimum of three years of undergraduate or master's degree studies with the mode of instruction being English.",
+      "url": "https://molbiosci.rutgers.edu/admission/faq"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://grad.rutgers.edu/academics/graduate-programs/biomedical-and-health-sciences-phd-programs/molecular-biosciences"
+    }
+  },
+  "notes": "Umbrella for Biochemistry, Cell and Developmental Biology, Cellular and Molecular Pharmacology, Microbiology and Molecular Genetics, and Physiology and Integrative Biology; single admissions committee with first-year rotations. The FAQ says an acceptable TOEFL total is above 100 despite the section minimums."
+}

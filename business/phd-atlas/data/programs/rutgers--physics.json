@@ -2,7 +2,9 @@
   "id": "rutgers--physics",
   "university": "rutgers",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "astronomy"
+  ],
   "department": "Physics and Astronomy",
   "program_page": "https://physics.rutgers.edu/academics/graduate-program/admissions",
   "checked": "2026-10-21",
@@ -21,9 +23,9 @@
       "url": "https://physics.rutgers.edu/academics/graduate-program/admissions"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "No pre-application supervisor requirement mentioned",
-      "quote": "",
+      "code": "Not required",
+      "value": "Admission is decided by the department's admissions review of the whole application; no faculty agreement is needed before applying.",
+      "quote": "The Physics and Astronomy program reviews all applications and makes recommendations on admissions and support packages.",
       "url": "https://physics.rutgers.edu/academics/graduate-program/admissions"
     },
     "funding": {
@@ -33,9 +35,9 @@
       "url": "https://physics.rutgers.edu/academics/graduate-program/graduate-program-faq"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked",
-      "quote": "",
+      "code": "Direct from bachelor's",
+      "value": "An undergraduate degree with a GPA of 3.0 or better is normally what is required; a master's degree is not.",
+      "quote": "An undergraduate degree with a cumulative grade-point average of 3.0 or better in undergraduate courses is normally required for admission.",
       "url": "https://physics.rutgers.edu/academics/graduate-program/admissions"
     },
     "fee_waiver": {
@@ -49,12 +51,6 @@
       "value": "Preferred for physics applicants (optional for astronomy)",
       "quote": "The Physics and General GREs are preferred for physics applicants.",
       "url": "https://physics.rutgers.edu/academics/graduate-program/admissions"
-    },
-    "english_waiver": {
-      "code": "Yes",
-      "value": "Exempt with 3+ years of undergraduate study or a master's where the mode of instruction was English",
-      "quote": "You are exempt from submitting TOEFL or IELTS scores if you are a Permanent Resident, US citizen, or an international applicant with a minimum of three years undergraduate studies or a masters degree with the mode of instruction being English.",
-      "url": "https://physics.rutgers.edu/academics/graduate-program/graduate-program-faq"
     }
   },
   "notes": "Final decisions generally before April 15 for complete applications received by January."

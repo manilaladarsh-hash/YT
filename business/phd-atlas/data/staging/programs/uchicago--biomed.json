@@ -1,0 +1,73 @@
+{
+  "id": "uchicago--biomed",
+  "university": "uchicago",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Biological Sciences Division",
+  "program_page": "http://biosciences.uchicago.edu/programs",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026; the same deadline applies to all Biological Sciences programs.",
+      "quote": "Applicants are responsible for ensuring that all materials are submitted by the December 1, 2026 deadline.",
+      "url": "https://biosciences.uchicago.edu/admissions/how-to-apply"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional; most Biological Sciences programs do not use them (Biochemistry and Molecular Biophysics, Medical Physics and Public Health Sciences do consider them).",
+      "quote": "GRE test scores are optional.",
+      "url": "https://biosciences.uchicago.edu/admissions/how-to-apply"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "GRE Subject scores are optional.",
+      "quote": "GRE Subject scores are optional for all programs.",
+      "url": "https://biosciences.uchicago.edu/admissions/how-to-apply/faq"
+    },
+    "toefl_min": {
+      "code": "Sections",
+      "value": "Biological Sciences sets section minimums only: on the new scale at least 5 in Reading and Writing, 5.5 in Listening and 4.5 in Speaking (100 total with sections of 26/26/26/22 before 21 January 2026).",
+      "quote": "The minimum score (on/post-January 21,2026) for admission to the BSD is no less than 5 on Reading and Writing, no less than 5.5 on Listening, and no less than 4.5 Speaking",
+      "url": "https://biosciences.uchicago.edu/admissions/how-to-apply/faq",
+      "also": [
+        {
+          "quote": "100 total, with no less than 26 on Reading, Writing, and Listening, and no less than 22 on Speaking",
+          "url": "https://grad.uchicago.edu/admissions/apply/english-language-requirements/required-scores/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic 7 overall and at least 7 in each section.",
+      "quote": "The minimum score for admission to the BSD is 7 overall with subscores of 7 each.",
+      "url": "https://biosciences.uchicago.edu/admissions/how-to-apply/faq"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to seek advice from programs and faculty before applying; the application is to the program, not a supervisor.",
+      "quote": "We encourage you to seek information and advice from any of our programs or their faculty members.",
+      "url": "https://biosciences.uchicago.edu/admissions/how-to-apply"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Funding (stipend, full tuition, health insurance) is guaranteed for the first five years, subject to satisfactory progress, and is available to international students.",
+      "quote": "Such assistance is guaranteed through the student's first five years of study, conditional on satisfactory degree progress",
+      "url": "https://biosciences.uchicago.edu/admissions/financial-support",
+      "also": [
+        {
+          "quote": "International applicants are welcome. Our financial package is available to all students.",
+          "url": "https://biosciences.uchicago.edu/admissions/how-to-apply/faq"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's or equivalent degree is expected by the time you start; there is no master's requirement.",
+      "quote": "applicants to the University of Chicago's graduate and professional programs are expected to have completed a Bachelor of Arts (BA), Bachelor of Science (BS) or equivalent degree from an accredited college or university by the time they matriculate.",
+      "url": "https://biosciences.uchicago.edu/admissions/how-to-apply/faq"
+    }
+  },
+  "notes": "Same Biological Sciences application, deadline and funding as the other BSD programs; this record covers the biomedical programs such as Immunology, Cancer Biology, Genetics, Genomics and Systems Biology, and Human Genetics.",
+  "name": "Biological Sciences PhD programs (immunology, cancer biology, genetics, development, molecular metabolism)"
+}
