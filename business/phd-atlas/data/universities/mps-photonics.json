@@ -1,6 +1,6 @@
 {
   "id": "mps-photonics",
-  "institution": "Max Planck Schools (Jena, Erlangen and Karlsruhe network)",
+  "institution": "Max Planck School of Photonics (Jena, Erlangen and Karlsruhe network)",
   "country": "Germany",
   "region": "Thuringia, Bavaria and Baden-Württemberg (network)",
   "grad_page": "https://photonics.maxplanckschools.org/application",
@@ -8,39 +8,39 @@
   "fields": {
     "app_fee": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "The school's application pages state no application fee; the only fee mentioned is FAU Erlangen's separate €100 non-EU fee for master's enrolment.",
       "quote": "",
       "url": "https://photonics.maxplanckschools.org/application"
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Not stated on the school's pages.",
       "quote": "",
       "url": "https://photonics.maxplanckschools.org/application"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://photonics.maxplanckschools.org/application"
+      "code": "Not considered",
+      "value": "Not required, and not evaluated if you upload it.",
+      "quote": "The test is not required and will not be evaluated by us if you upload it.",
+      "url": "https://photonics.maxplanckschools.org/faq"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://photonics.maxplanckschools.org/application"
+      "code": "71",
+      "value": "TOEFL iBT score above 70 (or IELTS above 6.0, CEFR B2) is accepted as proof of English.",
+      "quote": "TOEFL score> 70, IELTS score > 6.0",
+      "url": "https://photonics.maxplanckschools.org/faq"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://photonics.maxplanckschools.org/application"
+      "code": "6.5",
+      "value": "IELTS score above 6.0 is required, so the next band, 6.5, is the practical minimum.",
+      "quote": "TOEFL score> 70, IELTS score > 6.0",
+      "url": "https://photonics.maxplanckschools.org/faq"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://photonics.maxplanckschools.org/application"
+      "code": "Conditional",
+      "value": "A statement from your exam office that a previous degree was taught and examined solely in English replaces a test score.",
+      "quote": "Statement from an academic examination office that you completed/are completing a previous degree program where the medium of instruction and examination was solely English",
+      "url": "https://photonics.maxplanckschools.org/faq"
     }
   },
   "notes": ""
