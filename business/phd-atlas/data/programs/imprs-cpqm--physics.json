@@ -2,10 +2,12 @@
   "id": "imprs-cpqm--physics",
   "university": "imprs-cpqm",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "chemistry"
+  ],
   "department": "IMPRS for Chemistry and Physics of Quantum Materials (IMPRS-CPQM)",
   "program_page": "https://imprs-cpqm.mpg.de/apply-now",
-  "checked": "2026-10-21",
+  "checked": "2026-10-24",
   "fields": {
     "deadline": {
       "code": "2026-11-30",
@@ -49,26 +51,8 @@
       "value": "Outstanding bachelor's or master's accepted; bachelor's holders take extra graduate courses to reach master's level",
       "quote": "Applicants are expected to have an outstanding Bachelor or Master degree in a field of study which is well-aligned with our research activities. If you join IMPRS-CPQM holding a Bachelor degree, you will do extra graduate courses to take you to the equivalent Masters level.",
       "url": "https://imprs-cpqm.mpg.de/apply-now"
-    },
-    "app_fee": {
-      "code": "0 (no fee)",
-      "value": "No application fee",
-      "quote": "IMPRS-CPQM does not charge any application fee.",
-      "url": "https://imprs-cpqm.mpg.de/15626/faq"
-    },
-    "fee_waiver": {
-      "code": "No fee",
-      "value": "Not needed: no application fee",
-      "quote": "IMPRS-CPQM does not charge any application fee.",
-      "url": "https://imprs-cpqm.mpg.de/15626/faq"
-    },
-    "english_waiver": {
-      "code": "Conditional",
-      "value": "No English certificate is generally needed; the exception is projects involving the University of St Andrews, which requires evidence of English proficiency",
-      "quote": "In general, you don't need to provide any language certificates to get admitted to IMPRS-CPQM. The one exception to this rule is that the University of St Andrews does require evidence of your English language proficiency.",
-      "url": "https://imprs-cpqm.mpg.de/15626/faq"
     }
   },
-  "notes": "Tri-institutional with the University of St Andrews; which university you register at depends on your entry qualifications, home country and project. Choose from the listed projects; own research proposals are not accepted.",
+  "notes": "Tri-institutional with the University of St Andrews; which university you register at depends on your entry qualifications, home country and project. Choose from the listed projects; own research proposals are not accepted. Projects span condensed matter physics and solid-state chemistry (\"we are offering more than 20 projects in the fields of condensed matter physics or solid-state chemistry\", https://imprs-cpqm.mpg.de/), so chemistry is covered by this record.",
   "name": "Max Planck Institute for Chemical Physics of Solids (MPI CPfS) and TU Dresden"
 }
