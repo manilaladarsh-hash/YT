@@ -61,6 +61,13 @@
       "value": "A previously completed university degree taught in English is listed as meeting the English requirement (as an alternative to IELTS/TOEFL)",
       "quote": "Good knowledge in English is required. At least is needed something equivalent to the Swedish high-school course English B or: | Previously completed University degree taught in English",
       "url": "https://www.su.se/english/divisions/department-of-physics/education/courses-and-programmes/eligibility-application-and-admission"
+    },
+    "ielts_min": {
+      "code": "6",
+      "value": "Department page: IELTS Academic 6.0 overall with no section below 5.0 (alternative to TOEFL iBT 79). Sweden's national English 6 standard is higher, so confirm with the department",
+      "quote": "IELTS score (Academic) of 6.0 or more (with none of the sections scoring less than 5.0)",
+      "url": "https://www.su.se/english/divisions/department-of-physics/education/courses-and-programmes/eligibility-application-and-admission",
+      "conflict": true
     }
   },
   "notes": "Fysikum's doctoral subjects are Physics, Theoretical Physics, Chemical Physics and Medical Radiation Physics. Applicants not known from SU undergraduate studies normally have to show their qualifications by taking one or two advanced-level courses or doing a suitable project (eligibility page). The call dates on the page are for 2025; check the department vacancies page for the 2026-27 calls."
