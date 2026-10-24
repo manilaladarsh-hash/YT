@@ -1,0 +1,67 @@
+{
+  "id": "buffalo--math",
+  "university": "buffalo",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://www.buffalo.edu/cas/math/grad/grad-admissions.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-25",
+      "value": "All PhD materials must arrive by December 25 for fall admission with financial consideration.",
+      "quote": "PhD Program - December 25: All application materials for our PhD program must be received by December 25 for Fall admission with financial considerations.",
+      "url": "https://www.buffalo.edu/cas/math/grad/grad-admissions.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE General is strongly recommended but not mandatory.",
+      "quote": "The GRE General Score is strongly recommended but not mandatory.",
+      "url": "https://www.buffalo.edu/cas/math/grad/grad-admissions.html"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "GRE Mathematics Subject is optional, though applicants from science or engineering with little higher mathematics may submit it.",
+      "quote": "The GRE Subject Score is optional.",
+      "url": "https://www.buffalo.edu/cas/math/grad/grad-admissions.html",
+      "also": [
+        {
+          "quote": "Applicants with degrees in natural sciences and engineering who don’t have substantial exposure to higher mathematics may submit a GRE mathematics subject test score.",
+          "url": "https://www.buffalo.edu/cas/math/grad/grad-admissions.html"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "75 USD",
+      "value": "Non-refundable application fee of 75 USD.",
+      "quote": "Non-refundable application fee: $75",
+      "url": "https://www.buffalo.edu/cas/math/grad/grad-admissions.html"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Fee waivers can be requested only by US citizens and permanent residents.",
+      "quote": "U.S. citizens or current permanent residents may request a fee waiver through the application portal",
+      "url": "https://www.buffalo.edu/cas/math/grad/grad-admissions.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is enough (it need not be in mathematics) if you have the required upper-division math coursework and a 3.0 GPA.",
+      "quote": "a Bachelor's Degree in Mathematics is not required for admission | Applicants are expected to have completed the following undergraduate coursework with 3.0 average GPA",
+      "url": "https://www.buffalo.edu/cas/math/grad/grad-admissions.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.buffalo.edu/cas/math/grad/grad-admissions.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.buffalo.edu/cas/math/grad/grad-admissions.html"
+    }
+  },
+  "notes": ""
+}

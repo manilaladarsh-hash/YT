@@ -1,0 +1,61 @@
+{
+  "id": "buffalo--mech",
+  "university": "buffalo",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical and Aerospace Engineering",
+  "program_page": "https://engineering.buffalo.edu/mechanical-aerospace/graduate/admissions.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "December 1 for full funding/fellowship consideration; December 15 for department funding.",
+      "quote": "December 1: Full consideration for funding/fellowships",
+      "url": "https://engineering.buffalo.edu/mechanical-aerospace/graduate/admissions.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The page calls the GRE optional, but applicants whose bachelor's degree is from a non-US institution (including India) must submit scores. No minimum score.",
+      "quote": "Applicants are only required to submit GRE scores if their bachelor's degree was obtained from a non-U.S. institute.",
+      "url": "https://engineering.buffalo.edu/mechanical-aerospace/graduate/admissions.html",
+      "also": [
+        {
+          "quote": "GRE scores are optional for PhD and Master's applicants.",
+          "url": "https://engineering.buffalo.edu/mechanical-aerospace/graduate/admissions.html"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "100 USD",
+      "value": "SEAS application fee is 100 USD.",
+      "quote": "A non-refundable fee of $100 is required to apply for Spring 2025 or later terms.",
+      "url": "https://engineering.buffalo.edu/mechanical-aerospace/graduate/admissions.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://engineering.buffalo.edu/mechanical-aerospace/graduate/admissions.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://engineering.buffalo.edu/mechanical-aerospace/graduate/admissions.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://engineering.buffalo.edu/mechanical-aerospace/graduate/admissions.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://engineering.buffalo.edu/mechanical-aerospace/graduate/admissions.html"
+    }
+  },
+  "notes": "Aerospace Engineering PhD is run by the same department."
+}

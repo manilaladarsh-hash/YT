@@ -1,0 +1,67 @@
+{
+  "id": "buffalo--biomed",
+  "university": "buffalo",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "PhD Program in Biomedical Sciences (Jacobs School of Medicine and Biomedical Sciences)",
+  "program_page": "https://medicine.buffalo.edu/phdprogram/applying/how_to_apply.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Application and all documents are due December 1; no extensions.",
+      "quote": "Your application must be completed, and ALL supporting documentation must be received by December 1. No extensions will be granted.",
+      "url": "https://medicine.buffalo.edu/phdprogram/applying/how_to_apply.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is no longer required.",
+      "quote": "The GRE is no longer required.",
+      "url": "https://medicine.buffalo.edu/phdprogram/applying/how_to_apply.html"
+    },
+    "app_fee": {
+      "code": "85 USD",
+      "value": "The Jacobs School application fee is 85 USD.",
+      "quote": "link to pay your $85 application fee",
+      "url": "https://medicine.buffalo.edu/phdprogram/applying/how_to_apply.html"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "Waivers are limited to named programs; none for international applicants.",
+      "quote": "We cannot grant fee waivers for any other reasons, including for international applicants.",
+      "url": "https://medicine.buffalo.edu/phdprogram/applying/how_to_apply.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "First-year students do lab rotations before choosing a lab.",
+      "quote": "PPBS students do two laboratory rotations in the fall and two to three more in the spring to decide on a lab they would like to join.",
+      "url": "https://medicine.buffalo.edu/phdprogram/applying/faq.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Accepted students receive a full-tuition scholarship and a 35,000 USD stipend for five years.",
+      "quote": "All accepted students receive a full-tuition scholarship and stipend.",
+      "url": "https://medicine.buffalo.edu/phdprogram/applying/how_to_apply.html",
+      "also": [
+        {
+          "quote": "you will receive a full-tuition scholarship and financial stipend ($35,000/year) for all the years of your study (5)",
+          "url": "https://medicine.buffalo.edu/phdprogram/applying/faq.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://medicine.buffalo.edu/phdprogram/applying/how_to_apply.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://medicine.buffalo.edu/phdprogram/applying/how_to_apply.html"
+    }
+  },
+  "notes": "Umbrella entry for ten Jacobs PhD tracks. The separate Jacobs Neuroscience PhD (fee $85) is not covered; neuro record is the Psychology PhD in Behavioral Neuroscience."
+}
