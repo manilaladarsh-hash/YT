@@ -1,0 +1,61 @@
+{
+  "id": "minnesota--cs",
+  "university": "minnesota",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science and Engineering",
+  "program_page": "https://cse.umn.edu/cs/phd-admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "December 15 for fellowship consideration; the final deadline for assistantship funding is January 5.",
+      "quote": "December 15: Ph.D. application deadline to be considered for fellowships for fall.",
+      "url": "https://cse.umn.edu/cs/phd-admissions",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "January 5: Application deadline for fall",
+          "url": "https://cse.umn.edu/cs/phd-admissions"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE scores are neither required nor accepted and will not be reviewed.",
+      "quote": "We do not require or accept GRE scores as part of the application process.",
+      "url": "https://cse.umn.edu/cs/phd-admissions"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A master's is not required; a prior undergraduate or graduate degree with a strong CS background is.",
+      "quote": "A previous Master's degree is not required to apply to the Ph.D. program",
+      "url": "https://cse.umn.edu/cs/phd-admissions",
+      "also": [
+        {
+          "quote": "A candidate must have a prior undergraduate or graduate degree in a major with a substantial background in computer science",
+          "url": "https://cse.umn.edu/cs/phd-admissions"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://cse.umn.edu/cs/phd-admissions"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://cse.umn.edu/cs/phd-admissions"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://cse.umn.edu/cs/phd-admissions"
+    }
+  },
+  "notes": "TA positions need a TOEFL speaking score of 4.5 (new scale) or 23 (old), or IELTS speaking 7; many funding offers are TA-based."
+}

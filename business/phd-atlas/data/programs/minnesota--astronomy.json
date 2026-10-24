@@ -1,0 +1,62 @@
+{
+  "id": "minnesota--astronomy",
+  "university": "minnesota",
+  "field": "astronomy",
+  "also_fields": [],
+  "department": "Minnesota Institute for Astrophysics",
+  "program_page": "https://cse.umn.edu/mifa/grad/apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-22",
+      "value": "Complete the Graduate School application by January 22, 2027; fee waiver requests are due January 8. The FAQ still says January 10, so apply by January 10 to be safe.",
+      "quote": "Application to the graduate program in Astrophysics requires completion of the Graduate School application by January 22nd, 2027.",
+      "url": "https://cse.umn.edu/mifa/grad/apply",
+      "time_sensitive": "2027-01-10",
+      "conflict": true
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The institute has very limited funds to cover the application fee; email to request one by January 8.",
+      "quote": "We have very limited funds for the fee waiver.",
+      "url": "https://cse.umn.edu/mifa/grad/apply/faq",
+      "also": [
+        {
+          "quote": "Fee waiver applications are due January 8th and decisions will be announced January 15th.",
+          "url": "https://cse.umn.edu/mifa/grad/apply"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "A General GRE score is required for Fall 2027 applications.",
+      "quote": "A General GRE score is required for applications for Fall 2027.",
+      "url": "https://cse.umn.edu/mifa/grad/apply"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Physics Subject Test may be submitted but is completely optional.",
+      "quote": "The Physics Subject Test may be submitted as part of the application, but is completely optional.",
+      "url": "https://cse.umn.edu/mifa/grad/apply"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://cse.umn.edu/mifa/grad/apply"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://cse.umn.edu/mifa/grad/apply"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://cse.umn.edu/mifa/grad/apply"
+    }
+  },
+  "notes": "Application page and FAQ differ on dates (FAQ says January 10); the application page names January 22, 2027 for Fall 2027. Applicants primarily interested in physics are directed to the Physics program."
+}

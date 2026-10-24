@@ -1,0 +1,49 @@
+{
+  "id": "jhu--biology",
+  "university": "jhu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Cell, Molecular, Developmental Biology and Biophysics (CMDB) PhD, Department of Biology",
+  "program_page": "https://cmdb.jhu.edu/admissions/",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications for 2027-28 entry are due December 1 (year inferred).",
+      "quote": "The application portal will open in September and all applications are due by December 1.",
+      "url": "https://cmdb.jhu.edu/admissions/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are no longer required but may be submitted.",
+      "quote": "Submission of GRE scores is no longer required, but applicants who would like to submit them may continue to do so.",
+      "url": "https://cmdb.jhu.edu/admissions/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not mention contacting a supervisor before applying.",
+      "quote": "",
+      "url": "https://cmdb.jhu.edu/admissions/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The admissions page does not describe funding.",
+      "quote": "",
+      "url": "https://cmdb.jhu.edu/admissions/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not say whether a master's is expected.",
+      "quote": "",
+      "url": "https://cmdb.jhu.edu/admissions/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages checked do not state the GRE Subject test.",
+      "quote": "",
+      "url": "https://cmdb.jhu.edu/admissions/"
+    }
+  },
+  "notes": "Biophysics (PMB) and Chemical Biology PhDs are separate Krieger programs; their department pages were blocked."
+}

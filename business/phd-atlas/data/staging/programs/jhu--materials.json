@@ -1,0 +1,55 @@
+{
+  "id": "jhu--materials",
+  "university": "jhu",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Department of Materials Science and Engineering",
+  "program_page": "https://engineering.jhu.edu/materials/academics/graduate-programs/graduate-admissions-information/",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "PhD fall deadline is December 15; the engineering school states its dates apply to 2027 start terms.",
+      "quote": "PhD Materials Science December 15 October 15",
+      "url": "https://engineering.jhu.edu/admissions/graduate-admissions/full-time-programs/how-to-apply/application-deadlines/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "No GRE is required.",
+      "quote": "No GRE required.",
+      "url": "https://engineering.jhu.edu/materials/academics/graduate-programs/graduate-admissions-information/"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "Whiting School of Engineering sets the English-test waiver rule and the page listing it could not be fetched, so the Krieger rule is not shown for Materials Science and Engineering.",
+      "quote": "",
+      "url": "https://engineering.jhu.edu/admissions/graduate-admissions/full-time-programs/how-to-apply/general-application-requirements"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages checked do not state the GRE Subject test.",
+      "quote": "",
+      "url": "https://engineering.jhu.edu/materials/academics/graduate-programs/graduate-admissions-information/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages checked do not state the supervisor rule.",
+      "quote": "",
+      "url": "https://engineering.jhu.edu/materials/academics/graduate-programs/graduate-admissions-information/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages checked do not state the funding.",
+      "quote": "",
+      "url": "https://engineering.jhu.edu/materials/academics/graduate-programs/graduate-admissions-information/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages checked do not state the entry route.",
+      "quote": "",
+      "url": "https://engineering.jhu.edu/materials/academics/graduate-programs/graduate-admissions-information/"
+    }
+  },
+  "notes": "Department admissions page still showed 2025 dates, so the deadline comes from the engineering school deadline chart."
+}

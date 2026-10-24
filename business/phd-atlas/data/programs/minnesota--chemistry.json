@@ -1,0 +1,67 @@
+{
+  "id": "minnesota--chemistry",
+  "university": "minnesota",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://cse.umn.edu/chem/application",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "PhD applications are due December 1 for fall entry; the master's deadlines differ.",
+      "quote": "December 1 for admission to the PhD program the following fall.",
+      "url": "https://cse.umn.edu/chem/application",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "The department waives fees only for US citizens and permanent residents, not international applicants.",
+      "quote": "We do not offer fee waivers for international applicants.",
+      "url": "https://cse.umn.edu/chem/application"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The department does not consider GRE scores and asks you not to submit them.",
+      "quote": "Our department no longer considers the general or subject GRE scores in admission decisions.",
+      "url": "https://cse.umn.edu/chem/application"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "The department does not consider the Chemistry subject test either.",
+      "quote": "Our department no longer considers the general or subject GRE scores in admission decisions.",
+      "url": "https://cse.umn.edu/chem/application"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "The department asks for TOEFL iBT 90 with at least 21 in writing and 19 in reading, above the Graduate School minimum.",
+      "quote": "at least 90 on the Internet-based TOEFL with section scores of 21 on writing and 19 on reading",
+      "url": "https://cse.umn.edu/chem/application"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS 6.5 on writing, reading and total, with 7.0 on speaking.",
+      "quote": "6.5 on the IELTS writing, reading, and total scores",
+      "url": "https://cse.umn.edu/chem/application"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You cannot join a group before admission, so do not ask faculty for a place; students join groups in the first year.",
+      "quote": "you are not allowed to join a research group before you are admitted to the program.",
+      "url": "https://cse.umn.edu/chem/application"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All PhD students in good standing receive full support including tuition and health insurance.",
+      "quote": "All students in good academic standing receive complete financial support throughout their graduate career",
+      "url": "https://cse.umn.edu/chem/application"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree in chemistry or a closely related field is the stated requirement.",
+      "quote": "You must have a bachelor's degree in chemistry or closely-related field.",
+      "url": "https://cse.umn.edu/chem/application"
+    }
+  },
+  "notes": "Chemistry and Chemical Physics are separate applications; apply to one, not both. Interview weekend for finalists; international applicants may interview virtually."
+}

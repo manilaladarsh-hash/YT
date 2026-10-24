@@ -1,0 +1,61 @@
+{
+  "id": "minnesota--ece",
+  "university": "minnesota",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical and Computer Engineering",
+  "program_page": "https://cse.umn.edu/ece/how-apply-phd",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Priority deadline December 1 (fellowship nominations); final fall deadline March 1.",
+      "quote": "Our priority deadline is December 1 for admission for the following fall semester.",
+      "url": "https://cse.umn.edu/ece/how-apply-phd",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Our final deadline is March 1.",
+          "url": "https://cse.umn.edu/ece/how-apply-phd"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE is not required, but scores may help if your undergraduate institution is lesser known.",
+      "quote": "GRE scores are currently not required for admission to our program.",
+      "url": "https://cse.umn.edu/ece/how-apply-phd",
+      "also": [
+        {
+          "quote": "However if you earned your undergraduate degree at a lesser known institution, GRE scores could support your application",
+          "url": "https://cse.umn.edu/ece/how-apply-phd"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "You need not contact faculty before applying, but it is recommended.",
+      "quote": "PhD applicants are not required to contact faculty before applying, but it is recommended.",
+      "url": "https://cse.umn.edu/ece/program-and-admission-faqs"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding from faculty advisors is a significant factor in admission decisions.",
+      "quote": "Funding from faculty advisors is a significant factor in our admissions process.",
+      "url": "https://cse.umn.edu/ece/program-and-admission-faqs"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not required; a bachelor's is enough.",
+      "quote": "No, a master's degree is not required to apply for the PhD program. Only a bachelor's degree is required.",
+      "url": "https://cse.umn.edu/ece/program-and-admission-faqs"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://cse.umn.edu/ece/how-apply-phd"
+    }
+  },
+  "notes": "ECE also admits for spring (October 1 deadline), but international students are urged to apply for fall."
+}

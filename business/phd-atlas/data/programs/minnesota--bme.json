@@ -1,0 +1,62 @@
+{
+  "id": "minnesota--bme",
+  "university": "minnesota",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biomedical Engineering",
+  "program_page": "https://cse.umn.edu/bme/how-apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "PhD applications are due December 1 and are given priority for admission and funding.",
+      "quote": "The application deadline for PhD applicants is December 1.",
+      "url": "https://cse.umn.edu/bme/how-apply",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "A limited number of fee waivers are available; request by November 9.",
+      "quote": "A limited number of application fee waivers are available.",
+      "url": "https://cse.umn.edu/bme/how-apply",
+      "time_sensitive": "2026-11-09",
+      "also": [
+        {
+          "quote": "Please complete this application fee waiver request form no later than November 9 to submit your request.",
+          "url": "https://cse.umn.edu/bme/how-apply"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "Do not submit GRE scores; they are not used.",
+      "quote": "Applicants should not submit GRE scores. These scores will not be used as part of the admission process.",
+      "url": "https://cse.umn.edu/bme/how-apply"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not required; several students joined the PhD straight from their undergraduate degrees.",
+      "quote": "Several of our current students joined the PhD program directly after finishing their undergraduate degrees.",
+      "url": "https://cse.umn.edu/bme/frequently-asked-questions-graduate-program"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://cse.umn.edu/bme/how-apply"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://cse.umn.edu/bme/how-apply"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://cse.umn.edu/bme/how-apply"
+    }
+  },
+  "notes": "Top PhD applicants are invited to an online faculty interview."
+}

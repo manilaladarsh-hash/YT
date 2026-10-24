@@ -1,0 +1,55 @@
+{
+  "id": "jhu--cs",
+  "university": "jhu",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.cs.jhu.edu/academic-programs/graduate-studies/phd-program/phd-admissions-faqs",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The PhD deadline for fall is December 15; applications open around August 15; no spring PhD intake (year inferred).",
+      "quote": "The PhD deadline for fall is December 15th.",
+      "url": "https://www.cs.jhu.edu/academic-programs/graduate-studies/phd-program/phd-admissions-faqs",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required for PhD applicants.",
+      "quote": "Please note: The GRE is not required for PhD applicants.",
+      "url": "https://www.cs.jhu.edu/academic-programs/graduate-studies/phd-program/phd-admissions-faqs"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "A waiver is granted only to citizens of countries, or holders of degrees from countries or institutions, where English is the official language or language of higher education; confirm eligibility for Indian degrees with Graduate Admissions.",
+      "quote": "Graduate Affairs and Graduate Admissions will grant waivers only to students with citizenship from countries where the official language or language of instruction in higher education is English, or if a student has received or is about to receive a bachelors or master’s degree from an institution in the US or a country where English is the official language.",
+      "url": "https://www.cs.jhu.edu/academic-programs/graduate-studies/phd-program/phd-admissions-faqs"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students are admitted by the department and assigned an initial academic advisor, who may not become the thesis advisor.",
+      "quote": "You will be assigned an initial academic advisor who may or may not become your eventual thesis advisor.",
+      "url": "https://www.cs.jhu.edu/academic-programs/graduate-studies/phd-program/phd-admissions-faqs"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All full-time CS PhD students in good standing are guaranteed full funding (about USD 50,000 stipend, tuition, health insurance).",
+      "quote": "All full-time CS PhD students in good academic standing are guaranteed full funding.",
+      "url": "https://www.cs.jhu.edu/academic-programs/graduate-studies/phd-program/phd-admissions-faqs"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Entering students are expected to have a program equivalent to the BS in computer science; no master's is required.",
+      "quote": "Entering students are expected to have completed a program of study equivalent to that required by the BS in computer science.",
+      "url": "https://www.cs.jhu.edu/academic-programs/graduate-studies/phd-program/phd-admissions-faqs"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages checked do not state the GRE Subject test.",
+      "quote": "",
+      "url": "https://www.cs.jhu.edu/academic-programs/graduate-studies/phd-program/phd-admissions-faqs"
+    }
+  },
+  "notes": "No separate data science PhD; machine learning, AI and data science are research areas."
+}
