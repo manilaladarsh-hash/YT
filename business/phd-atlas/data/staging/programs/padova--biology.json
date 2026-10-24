@@ -30,6 +30,18 @@
       "value": "A master's degree (or equivalent) is required, plus passing the admission exam.",
       "quote": "You can access the PhD programme, which lasts 3 or 4 years, only after obtaining a master's degree and passing an admission examination",
       "url": "https://www.unipd.it/en/dottorato"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.unipd.it/en/dottorato/dottorati-42-ciclo"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.unipd.it/en/dottorato/dottorati-42-ciclo"
     }
   },
   "notes": "Only university-level pages could be read (course information sheets are PDFs the fetcher cannot parse); other fields Not stated."
