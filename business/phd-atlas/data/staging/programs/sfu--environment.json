@@ -1,0 +1,48 @@
+{
+  "id": "sfu--environment",
+  "university": "sfu",
+  "field": "environment",
+  "also_fields": [],
+  "department": "School of Environmental Science",
+  "program_page": "https://www.sfu.ca/evsc/prospective-students/graduate/admission.html",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-30",
+      "value": "Fall 2027 applications open in October 2026 and close June 30, 2027 (11:59 pm PT); apply earlier to be considered for entrance scholarships.",
+      "quote": "June 30, 2027 - 11:59 PM PT",
+      "url": "https://www.sfu.ca/evsc/prospective-students/graduate/admission.html",
+      "also": [
+        {
+          "quote": "Fall 2027: Accepting applications for Fall 2027 start: October 1, 2026 - June 30, 2027",
+          "url": "https://www.sfu.ca/gradstudies/apply/common-questions-answers-applicants.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Environmental Science pages checked do not mention the GRE.",
+      "quote": "",
+      "url": "https://www.sfu.ca/evsc/prospective-students/graduate/admission.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must secure a supervisor before applying and confirm this in the application.",
+      "quote": "Applicants should secure a supervisor prior to applying to the program. | applicants will be required to confirm that they have secured a supervisor prior to applying",
+      "url": "https://www.sfu.ca/evsc/prospective-students/graduate/admission.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD students get guaranteed minimum funding of CAD 30,000 a year for 12 terms, subject to progress.",
+      "quote": "Students in the program will be funded for a minimum of 12 terms. | Students in the PhD program will receive guaranteed minimum funding in the amount of $30,000",
+      "url": "https://www.sfu.ca/evsc/currentstudents/current-graduates/evsc-funding-policy-for-graduate-students.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A bachelor's plus an MSc in environmental science or a related discipline is required.",
+      "quote": "Completion of a Bachelor of Science degree (or equivalent) and a Master of Science in Environmental Sciences or a related discipline",
+      "url": "https://www.sfu.ca/evsc/prospective-students/graduate/doctor-of-philosophy.html"
+    }
+  },
+  "notes": "PhD applicants upload two writing samples."
+}

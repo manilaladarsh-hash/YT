@@ -1,0 +1,50 @@
+{
+  "id": "sfu--biology",
+  "university": "sfu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://www.sfu.ca/biology/graduate/prospective/how-to-apply.html",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-09",
+      "value": "Complete applications for a Fall start are due June 9 (year inferred), but internationals are encouraged to apply by April, and applying by mid-January keeps you in the entrance-scholarship competition.",
+      "quote": "FALL: June 9th | International Students are encouraged to apply early for the semester in which they wish to study, i.e. August for Spring intake, December for Summer intake and April for Fall intake.",
+      "url": "https://www.sfu.ca/biology/graduate/prospective/how-to-apply.html",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15",
+      "also": [
+        {
+          "quote": "you are strongly encouraged to submit an application for admission to the Department of Biological Sciences by mid-January",
+          "url": "https://www.sfu.ca/biology/graduate/prospective/how-to-apply.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The biology pages checked do not mention the GRE.",
+      "quote": "",
+      "url": "https://www.sfu.ca/biology/graduate/prospective/how-to-apply.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A faculty member must agree to support your application before you apply online.",
+      "quote": "Please do not submit an on-line application (Step 2) before a faculty member has agreed to support your appliction. | confirmation of supervisor is required for all programs except MET",
+      "url": "https://www.sfu.ca/biology/graduate/prospective/how-to-apply.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD students get guaranteed minimum funding of about CAD 34,800 a year for 12 terms, subject to a 3.5 CGPA and satisfactory progress.",
+      "quote": "Students in the program will be funded for a minimum of 12 terms. | Students in the PhD program will receive guaranteed minimum funding in the amount of $34,800",
+      "url": "https://www.sfu.ca/biology/graduate/current/financial/funding-policy.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Entry is possible from a bachelor's (CGPA 3.5 plus evidence of research ability) or from an MSc, in both cases with a committed supervisor.",
+      "quote": "Entry to the PhD program in Biological Sciences requires either: | completion of a Bachelor's degree from a recognized university with a minimun cgpa of 3.5 | completion of an MSc or equivalent from a recognized university",
+      "url": "https://www.sfu.ca/biology/graduate/prospective/degree-programs/PhD.html"
+    }
+  },
+  "notes": "Start in any term (January, May or September)."
+}
