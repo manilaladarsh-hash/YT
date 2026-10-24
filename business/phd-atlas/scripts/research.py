@@ -62,6 +62,17 @@ def normalize(text):
     return "\n".join(ln for ln in lines if ln)
 
 
+def pdf_to_text(data):
+    out = subprocess.run(
+        ["pdftotext", "-layout", "-", "-"], input=data, capture_output=True, timeout=60
+    )
+    return normalize(out.stdout.decode("utf-8", "replace"))
+
+
+def is_pdf(r):
+    return r.content[:5] == b"%PDF-" or "pdf" in r.headers.get("Content-Type", "")
+
+
 def render(url):
     env = dict(os.environ)
     env["NODE_PATH"] = subprocess.run(
@@ -80,17 +91,22 @@ def render(url):
 def fetch(url, refresh=False, force_render=False):
     path = cache_paths(url)
     if path.exists() and not refresh:
-        return json.loads(path.read_text())
+        cached = json.loads(path.read_text())
+        # Early caches stored PDFs as raw bytes; re-fetch those as text.
+        if not cached.get("text", "").startswith("%PDF"):
+            return cached
     status, final_url, text, method = 0, url, "", "http"
     try:
         r = requests.get(url, headers={"User-Agent": UA}, timeout=30)
         status, final_url = r.status_code, r.url
-        if r.ok:
+        if r.ok and is_pdf(r):
+            text, method = pdf_to_text(r.content), "pdf"
+        elif r.ok:
             text = html_to_text(r.text)
     except requests.RequestException as exc:
         text = ""
         status = f"error: {exc.__class__.__name__}"
-    if force_render or status != 200 or len(text) < 800:
+    if method != "pdf" and (force_render or status != 200 or len(text) < 800):
         try:
             status, final_url, text = render(url)
             method = "chromium"

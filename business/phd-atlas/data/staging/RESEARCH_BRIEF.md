@@ -31,6 +31,7 @@ Work in `/home/user/YT/business/phd-atlas`. Write **only** to `data/staging/` (s
   - `python3 scripts/research.py URL --profile` prints admissions facts by category;
   - `python3 scripts/research.py URL --kw deadline,fee,GRE,TOEFL,IELTS,India,waiver,stipend,funding,supervisor --max 20`;
   - `python3 scripts/research.py URL --links phd,doctoral,admission,apply,international,english,fee` lists the page's links.
+- PDFs (calls, handbooks, fact sheets) are converted to text, so you can quote them. A PDF cached earlier as raw bytes is re-fetched automatically.
 - Quote from the fetched text only. Quotes are matched against the cached page after whitespace and curly-quote normalisation.
   - Join separate sentences with ` | `, and mark a gap inside a sentence with `...`.
   - Each piece must be at least 12 characters and appear verbatim.

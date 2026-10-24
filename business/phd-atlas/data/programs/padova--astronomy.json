@@ -4,7 +4,7 @@
   "field": "astronomy",
   "also_fields": [],
   "department": "PhD in Astronomy",
-  "program_page": "https://www.dfa.unipd.it/didattica/dottorati-di-ricerca/phd-in-astronomy/admission/academic-year-20262027/",
+  "program_page": "https://www.unipd.it/en/dottorato/dottorati-42-ciclo",
   "checked": "2026-10-22",
   "fields": {
     "deadline": {
@@ -15,9 +15,15 @@
     },
     "funding": {
       "code": "Competitive",
-      "value": "For 2026/27, 7 funded positions: 4 open (University) and 3 thematic (INAF).",
-      "quote": "7 POSITIONS AVAILABLE, STARTING ON NOVEMBER 1, 2026",
-      "url": "https://www.dfa.unipd.it/didattica/dottorati-di-ricerca/phd-in-astronomy/admission/academic-year-20262027/"
+      "value": "Each course offers a limited number of places and scholarships, and some places are awarded without a scholarship.",
+      "quote": "applicants awarded a place without a scholarship",
+      "url": "https://www.unipd.it/en/dottorato/dottorati-42-ciclo",
+      "also": [
+        {
+          "quote": "the places and scholarships made available",
+          "url": "https://www.unipd.it/en/dottorato/dottorati-42-ciclo"
+        }
+      ]
     },
     "entry_route": {
       "code": "Master's usually required",
@@ -26,10 +32,10 @@
       "url": "https://www.unipd.it/en/dottorato"
     },
     "supervisor": {
-      "code": "Recommended",
-      "value": "Applicants are encouraged to contact staff to discuss research topics; the final topic is set with the selected candidate.",
-      "quote": "Applicants are encouraged to contact staff members of the DFA and INAF-OAPD to discuss potential PhD research topics.",
-      "url": "https://www.dfa.unipd.it/didattica/dottorati-di-ricerca/phd-in-astronomy/admission/academic-year-20262027/"
+      "code": "Not stated",
+      "value": "Not stated on the pages checked (the department page, http only, says applicants are encouraged to contact staff, but it could not be fetched over https).",
+      "quote": "",
+      "url": "https://www.unipd.it/en/dottorato/dottorati-42-ciclo"
     },
     "gre_subject": {
       "code": "Not stated",
@@ -38,5 +44,5 @@
       "url": "https://www.dfa.unipd.it/didattica/dottorati-di-ricerca/phd-in-astronomy/admission/academic-year-20262027/"
     }
   },
-  "notes": "Past-cycle dates only; deadline for Fall 2027 not yet published."
+  "notes": "Department page for 2026/27 is http-only; only university-level pages are quoted."
 }
