@@ -4,44 +4,44 @@
   "country": "Germany",
   "region": "Lower Saxony",
   "grad_page": "https://www.mps.mpg.de/phd/application",
-  "checked": "2026-10-21",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Not stated on the school's official pages checked.",
       "quote": "",
-      "url": "https://www.mps.mpg.de/phd/application"
+      "url": "https://www.mps.mpg.de/phd/applynow"
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Not stated on the school's official pages checked.",
       "quote": "",
-      "url": "https://www.mps.mpg.de/phd/application"
+      "url": "https://www.mps.mpg.de/phd/applynow"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.mps.mpg.de/phd/application"
+      "code": "Not required",
+      "value": "GRE General is not required; applicants may upload scores if they have them.",
+      "quote": "We do not require GRE General test results, but you will have the possibility to indicate and upload your test results if",
+      "url": "https://www.mps.mpg.de/phd/faq"
     },
     "toefl_min": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Not stated on the school's official pages checked.",
       "quote": "",
-      "url": "https://www.mps.mpg.de/phd/application"
+      "url": "https://www.mps.mpg.de/phd/faq"
     },
     "ielts_min": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Not stated on the school's official pages checked.",
       "quote": "",
-      "url": "https://www.mps.mpg.de/phd/application"
+      "url": "https://www.mps.mpg.de/phd/faq"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.mps.mpg.de/phd/application"
+      "code": "Yes",
+      "value": "A degree from a course taught in English counts as proof of English; a certificate is needed only if your recent education was not in English or German for at least two years.",
+      "quote": "Proficiency in English can also be demonstrated through a degree obtained in a course of study taught in English.",
+      "url": "https://www.mps.mpg.de/phd/faq"
     }
   },
-  "notes": ""
+  "notes": "No minimum TOEFL/IELTS score, application fee or fee waiver is stated on the school's pages."
 }
