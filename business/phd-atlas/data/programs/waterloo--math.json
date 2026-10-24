@@ -1,0 +1,67 @@
+{
+  "id": "waterloo--math",
+  "university": "waterloo",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Pure Mathematics",
+  "program_page": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/pure-mathematics-doctor-philosophy-phd",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The department's PhD deadline for full consideration is December 1, 2026 (Fall entry only); the graduate-studies program page lists January 7.",
+      "quote": "Application deadlines for Fall are as follows: PhD: December 1 | must be received by the above deadlines in order to be eligible for full consideration",
+      "url": "https://uwaterloo.ca/pure-mathematics/graduate-studies/future-students/application-procedure-and-admissions",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "January 7(for admission in September)",
+          "url": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/pure-mathematics-doctor-philosophy-phd"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are not required, but good scores may be submitted and can help.",
+      "quote": "No, we do not require them. However, if you have taken them and done well, you may submit them, and it may help your application.",
+      "url": "https://uwaterloo.ca/pure-mathematics/node/2871"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The GRE Mathematics subject test is not required, but a good score may be submitted and can help.",
+      "quote": "No, we do not require them. However, if you have taken them and done well, you may submit them, and it may help your application.",
+      "url": "https://uwaterloo.ca/pure-mathematics/node/2871"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL 4.5 on the new 1-6 scale, with 5 in writing and speaking.",
+      "quote": "TOEFL 4.5 (writing 5, speaking 5), IELTS 7.0 (writing 6.5, speaking 6.5)",
+      "url": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/pure-mathematics-doctor-philosophy-phd"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic 7.0 overall with at least 6.5 in writing and speaking.",
+      "quote": "TOEFL 4.5 (writing 5, speaking 5), IELTS 7.0 (writing 6.5, speaking 6.5)",
+      "url": "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/pure-mathematics-doctor-philosophy-phd"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "PhD offers need at least one willing supervisor; name one to three potential supervisors on the application.",
+      "quote": "For PhD applicants, we cannot offer admission unless there is at least one willing supervisor in our department.",
+      "url": "https://uwaterloo.ca/pure-mathematics/node/2871"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The department gives full financial support (TA work plus scholarships) to all admitted graduate students.",
+      "quote": "We offer full financial support to all admitted graduate students, and part of the package is made up of scholarships.",
+      "url": "https://uwaterloo.ca/pure-mathematics/node/2871"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A master's with 78% is the listed route, but the department accepts and prefers direct PhD entry from a strong bachelor's.",
+      "quote": "We can accept students into the PhD program who have not completed a master's degree. In fact, we prefer to admit students as PhD students when possible.",
+      "url": "https://uwaterloo.ca/pure-mathematics/node/2871"
+    }
+  },
+  "notes": "Waterloo also runs separate PhDs in Applied Mathematics and in Combinatorics and Optimization; this record covers Pure Mathematics."
+}

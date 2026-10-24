@@ -3,45 +3,55 @@
   "institution": "University of Waterloo",
   "country": "Canada",
   "region": "Ontario",
-  "grad_page": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply",
-  "checked": "2026-10-21",
+  "grad_page": "https://uwaterloo.ca/future-graduate-students/admissions/how-to-apply",
+  "checked": "2026-10-24",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply"
+      "code": "150 CAD",
+      "value": "The application fee is CAD 150 per program and is non-refundable.",
+      "quote": "pay the non-refundable application fee of $150 CAD per program",
+      "url": "https://uwaterloo.ca/future-graduate-students/admissions/how-to-apply"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply"
+      "code": "None",
+      "value": "Departments state that Waterloo does not waive the application fee for any applicant.",
+      "quote": "Unfortunately, we are unable to waive the application fee.",
+      "url": "https://uwaterloo.ca/electrical-computer-engineering/graduate-studies/future-students/faq",
+      "also": [
+        {
+          "quote": "We are unable to waive the application fee.",
+          "url": "https://uwaterloo.ca/civil-environmental-engineering/graduate-studies/future-students/faq"
+        },
+        {
+          "quote": "No, we do not provide fee waivers.",
+          "url": "https://uwaterloo.ca/statistics-and-actuarial-science/graduate-studies/applying"
+        }
+      ]
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply"
+      "value": "Graduate Studies leaves the GRE to each program; see the program record.",
+      "quote": "If your program requires a Graduate Record Examinations (GRE) or a Graduate Management Admission Test (GMAT) for admission consideration",
+      "url": "https://uwaterloo.ca/future-graduate-students/admissions/how-to-apply/application-documents-and-materials"
     },
     "toefl_min": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply"
+      "value": "Graduate Studies sends applicants to each program page for the minimum TOEFL score; see the program record.",
+      "quote": "Visit our program pages for specific ELP program requirements.",
+      "url": "https://uwaterloo.ca/future-graduate-students/admissions/admission-and-english-language-proficiency-requirements"
     },
     "ielts_min": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply"
+      "value": "Graduate Studies sends applicants to each program page for the minimum IELTS score; see the program record.",
+      "quote": "Visit our program pages for specific ELP program requirements.",
+      "url": "https://uwaterloo.ca/future-graduate-students/admissions/admission-and-english-language-proficiency-requirements"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply"
+      "code": "Conditional",
+      "value": "India is not on the exempt-country list. You are exempt only after 3+ years of study at a university that WHED lists with English as its only language of instruction (valid for two years after graduation); medium-of-instruction letters are not accepted.",
+      "quote": "You have completed three or more years of post-secondary education, or completed a graduate degree at a university where English is listed as the only language of instruction on the International Association of Universities World Higher Education Database (WHED). | Note: ELP exemption from a WHED institution expires two years after graduation. | Letters from your university stating the medium of instruction is English do not satisfy Waterloo admission requirements.",
+      "url": "https://uwaterloo.ca/future-graduate-students/admissions/admission-and-english-language-proficiency-requirements"
     }
   },
-  "notes": ""
+  "notes": "TOEFL scores on program pages use the new 1-6 TOEFL scale. Doctoral admission needs at least a 75% standing in the previous degree."
 }

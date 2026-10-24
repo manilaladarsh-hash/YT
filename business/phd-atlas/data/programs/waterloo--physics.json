@@ -2,7 +2,9 @@
   "id": "waterloo--physics",
   "university": "waterloo",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "astronomy"
+  ],
   "department": "Physics and Astronomy",
   "program_page": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply",
   "checked": "2026-10-21",
@@ -38,23 +40,17 @@
       "quote": "Normally a Master's degree in Physics, with at least a 75% standing.",
       "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/phd-programs"
     },
-    "app_fee": {
-      "code": "150 CAD",
-      "value": "CAD 150 per program, non-refundable",
-      "quote": "pay the non-refundable application fee of $150 CAD per program via the link in your portal.",
-      "url": "https://uwaterloo.ca/future-graduate-students/admissions/how-to-apply"
-    },
     "toefl_min": {
       "code": "90",
       "value": "TOEFL 90 (writing 25, speaking 25); IELTS 7.0 (writing 6.5, speaking 6.5)",
       "quote": "TOEFL 90 (writing 25 speaking 25), IELTS 7.0 (writing 6.5, speaking 6.5)",
       "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/phd-programs"
     },
-    "english_waiver": {
-      "code": "Conditional",
-      "value": "Exempt only if 3+ years of study at a university listed in WHED with English as the ONLY language of instruction; exemption expires 2 years after graduation; medium-of-instruction letters are not accepted",
-      "quote": "You have completed three or more years of post-secondary education, or completed a graduate degree at a university where English is listed as the only language of instruction on the International Association of Universities World Higher Education Database (WHED). | Letters from your university stating the medium of instruction is English do not satisfy Waterloo admission requirements.",
-      "url": "https://uwaterloo.ca/future-graduate-students/admissions/admission-and-english-language-proficiency-requirements"
+    "ielts_min": {
+      "code": "7",
+      "value": "Physics and Astronomy asks for IELTS Academic 7.0 overall with at least 6.5 in writing and speaking.",
+      "quote": "TOEFL 90 (writing 25 speaking 25), IELTS 7.0 (writing 6.5, speaking 6.5)",
+      "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/phd-programs"
     }
   },
   "notes": "Physics PhD streams include Nanotechnology and Quantum Information (IQC, Perimeter affiliations)."
