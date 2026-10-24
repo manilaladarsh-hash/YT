@@ -48,25 +48,7 @@
       "value": "General GRE optional for Physics PhD; no disadvantage if not submitted (Astronomy PhD does not accept it)",
       "quote": "For the Physics Ph.D. program, submission of physics or general GRE scores is optional - students can choose to submit GRE scores if they believe it adds to their application. There is no disadvantage if you do not submit your GRE scores.",
       "url": "https://pa.msu.edu/graduate-program/prospective-grad-students/index.aspx"
-    },
-    "toefl_min": {
-      "code": "80",
-      "value": "University minimum TOEFL iBT 80 (sub-scores R/L/S 19, W 22; new scale 4.5); department suggests 100+ but may accept slightly lower",
-      "quote": "No sub score below 19 for reading, listening, and speaking | No writing sub score below 22 | A minimum average score of 80**",
-      "url": "https://grad.msu.edu/english-language-competency",
-      "also": [
-        {
-          "quote": "Note that the Department of Physics and Astronomy generally requires higher scores than the University. For example, we suggest a total average score of 100 or better on the iBT, but may accept slightly lower scores for exceptional cases.",
-          "url": "https://pa.msu.edu/graduate-program/prospective-grad-students/index.aspx"
-        }
-      ]
-    },
-    "english_waiver": {
-      "code": "No",
-      "value": "Exempt-country list (Anguilla ... U.S. Virgin Islands) does not include India; automatic waivers only for a bachelor's from the U.S. or another listed English-speaking country, an MSU bachelor's, or an AAU master's on a U.S. campus",
-      "quote": "English Speaking Countries In most cases, candidates who are citizens from the following countries need NOT be held for proof of English Language Proficiency (ELP). Language of instruction at institution attended must be English. | Bachelor’s degree earned in the U.S. (or other English-speaking country).",
-      "url": "https://grad.msu.edu/english-language-competency"
     }
   },
-  "notes": "No minimum GPA. Department does not admit to Physics or Astronomy master's programs (only Accelerator Science MS). Astronomy/Astrophysics PhD has a separate application page. Department pages needed headless rendering (Incapsula)."
+  "notes": "No minimum GPA. Department does not admit to Physics or Astronomy master's programs (only Accelerator Science MS). Astronomy/Astrophysics PhD has a separate application page. Department pages needed headless rendering (Incapsula). Department suggests a TOEFL iBT total of 100 or better (may accept slightly lower), above the university minimum; university TOEFL/English-waiver rules are inherited."
 }
