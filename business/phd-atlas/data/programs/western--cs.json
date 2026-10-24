@@ -1,0 +1,43 @@
+{
+  "id": "western--cs",
+  "university": "western",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://grad.uwo.ca/admissions/program.cfm?p=38",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "International applicants for Fall: February 15, 2027; acceptance notification by mid-April.",
+      "quote": "International Applicants: February 15 - Fall term",
+      "url": "https://grad.uwo.ca/admissions/program.cfm?p=38",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked",
+      "quote": "",
+      "url": "https://grad.uwo.ca/admissions/program.cfm?p=38"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked",
+      "quote": "",
+      "url": "https://www.csd.uwo.ca/graduate/future/admission.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD students are fully funded through a combination of GTA, WGRS and supervisor support, with the same model for international students.",
+      "quote": "Fully funded through a combination of GTA, WGRS, and supervisor support.",
+      "url": "https://www.csd.uwo.ca/graduate/future/finances.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants must hold an MSc in Computer Science with at least 75%; most admitted PhD students had over 85%. A BSc holder can apply to the thesis MSc and request transfer to the PhD after three terms.",
+      "quote": "Applicants for admission to the PhD program must possess an MSc degree in Computer Science from a reputable university, college or institute.",
+      "url": "https://www.csd.uwo.ca/graduate/future/admission.html"
+    }
+  },
+  "notes": ""
+}

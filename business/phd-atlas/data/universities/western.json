@@ -3,45 +3,51 @@
   "institution": "Western University",
   "country": "Canada",
   "region": "Ontario",
-  "grad_page": "https://www.physics.uwo.ca/graduate/future_students/admission_requirements.html",
-  "checked": "2026-10-21",
+  "grad_page": "https://grad.uwo.ca/admissions/international/index.html",
+  "checked": "2026-10-24",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.uwo.ca/graduate/future_students/admission_requirements.html"
+      "code": "185 CAD",
+      "value": "CAD 185, non-refundable; some graduate programs charge a different amount.",
+      "quote": "$185 CAD Non-refundable | The application fee amount may be different for certain graduate programs.",
+      "url": "https://grad.uwo.ca/admissions/apply-for-admission/index.cfm"
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "No application fee waiver is described on the Western graduate school pages checked.",
       "quote": "",
-      "url": "https://www.physics.uwo.ca/graduate/future_students/admission_requirements.html"
+      "url": "https://grad.uwo.ca/admissions/apply-for-admission/index.cfm"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "The graduate school sets no GRE rule; programs state their own (see the program records).",
       "quote": "",
-      "url": "https://www.physics.uwo.ca/graduate/future_students/admission_requirements.html"
+      "url": "https://grad.uwo.ca/admissions/international/index.html"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.uwo.ca/graduate/future_students/admission_requirements.html"
+      "code": "4.5 (new scale)",
+      "value": "For tests taken on or after January 21, 2026 (so for Fall 2027 applications), the graduate-school minimum is 4.5 overall on the new TOEFL iBT scale with no section below 4; some programs ask for more.",
+      "quote": "On or after Jan 21, 2026: Overall 4.5+, no section below 4 | Some programs may require a higher minimum and/or specific band scores.",
+      "url": "https://grad.uwo.ca/admissions/international/index.html"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.uwo.ca/graduate/future_students/admission_requirements.html"
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 out of 9 overall at graduate-school level; programs may require more.",
+      "quote": "Minimum acceptable score: 6.5 out of 9",
+      "url": "https://grad.uwo.ca/admissions/international/index.html",
+      "also": [
+        {
+          "quote": "Programs at Western may require a higher minimum score than those listed above.",
+          "url": "https://grad.uwo.ca/admissions/international/index.html"
+        }
+      ]
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.uwo.ca/graduate/future_students/admission_requirements.html"
+      "code": "No",
+      "value": "Automatic exemption only if English is your first language or you completed 2+ full-time years of post-secondary study at an English-speaking institution in a listed country. India is not on the list, so Indian applicants need a test score.",
+      "quote": "They have completed at least two full-time years of post-secondary education in a degree program in an English-speaking institution located in a country whose primary language is English. | The list of eligible countries is as follows:",
+      "url": "https://grad.uwo.ca/admissions/international/index.html"
     }
   },
-  "notes": ""
+  "notes": "Program pages on grad.uwo.ca state program-specific deadlines and sometimes stricter English scores; see each program record."
 }

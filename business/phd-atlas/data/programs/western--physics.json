@@ -2,7 +2,9 @@
   "id": "western--physics",
   "university": "western",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "astronomy"
+  ],
   "department": "Department of Physics and Astronomy",
   "program_page": "https://www.physics.uwo.ca/graduate/future_students/admission_requirements.html",
   "checked": "2026-10-21",
@@ -44,18 +46,6 @@
       "quote": "Applicants for our PhD programs must have completed an MSc degree (or equivalent) in either Physics, Astronomy or Engineering with at least a 70% (or B) average taken over all MSc graduate courses.",
       "url": "https://www.physics.uwo.ca/graduate/future_students/admission_requirements.html"
     },
-    "app_fee": {
-      "code": "185 CAD",
-      "value": "CAD 185, non-refundable (SGPS standard fee; may differ for some programs). Physics & Astronomy refunds the fee to admitted students who accept and enrol, after their first month.",
-      "quote": "$185 CAD Non-refundable | The application fee amount may be different for certain graduate programs.",
-      "url": "https://grad.uwo.ca/admissions/apply-for-admission/index.cfm",
-      "also": [
-        {
-          "quote": "Students who are admitted to the Physics and Astronomy Graduate Program and accept our Admission Offer will be refunded their application fee at the end of their first month in the program.",
-          "url": "https://www.physics.uwo.ca/graduate/future_students/how_to_apply.html"
-        }
-      ]
-    },
     "gre_general": {
       "code": "Not required",
       "value": "GRE not required",
@@ -68,12 +58,12 @@
       "quote": "The minimum acceptable score is 90, with no individual score below 22 for the internet-based version | The minimum acceptable overall score is 7 out of 9. | The minimum acceptable score is 130.",
       "url": "https://www.physics.uwo.ca/graduate/future_students/admission_requirements.html"
     },
-    "english_waiver": {
-      "code": "No",
-      "value": "Automatic exemption only if English is your first language, or after 2+ full-time years at an English-speaking institution in a listed country whose primary language is English. India is not on the list.",
-      "quote": "Applicants are automatically exempted from our English language proficiency requirement if either: | They have completed at least two full-time years of post-secondary education in a degree program in an English-speaking institution located in a country whose primary language is English. | The list of eligible countries is as follows:",
-      "url": "https://grad.uwo.ca/admissions/international/index.html"
+    "ielts_min": {
+      "code": "7",
+      "value": "The Physics and Astronomy department requires IELTS Academic 7 overall, higher than the graduate-school 6.5.",
+      "quote": "The minimum acceptable overall score is 7 out of 9.",
+      "url": "https://www.physics.uwo.ca/graduate/future_students/admission_requirements.html"
     }
   },
-  "notes": "Exemption country list (SGPS) does not include India. Application fee is refunded to admitted students who enrol in Physics & Astronomy. Department TOEFL/IELTS minimums exceed SGPS minimums."
+  "notes": "Physics & Astronomy refunds the application fee to admitted students who accept and enrol (after their first month). Department TOEFL/IELTS minimums exceed SGPS minimums."
 }

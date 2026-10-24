@@ -1,0 +1,43 @@
+{
+  "id": "western--biomed",
+  "university": "western",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Department of Biochemistry (Schulich School of Medicine & Dentistry)",
+  "program_page": "https://www.schulich.uwo.ca/biochem/graduate/future_students/program_information_and_application_process.html",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-01",
+      "value": "International applicants for Fall (September start): June 1.",
+      "quote": "Fall (September start) Domestic: July 1 International: June 1",
+      "url": "https://grad.uwo.ca/admissions/program.cfm?p=16",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked",
+      "quote": "",
+      "url": "https://grad.uwo.ca/admissions/program.cfm?p=16"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "The department does not match supervisors; acceptance requires supervisory support, so applicants should contact faculty during or before applying.",
+      "quote": "full acceptance and registration in the graduate program require supervisory support",
+      "url": "https://www.schulich.uwo.ca/biochem/graduate/future_students/program_information_and_application_process.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Biochemistry PhD students are paid a yearly stipend; the 2026-27 minimum package is about CAD 28,800 (domestic) or 30,100 (international) plus eligibility for TA work.",
+      "quote": "Graduate students in the Department of Biochemistry are paid a yearly stipend available through a variety of sources depending on their degree program.",
+      "url": "https://www.schulich.uwo.ca/biochem/graduate/graduate_stipends_and_finances.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A BSc with a minimum 78% GPA in the undergraduate and master's degree; 85% is required for direct entry to the PhD.",
+      "quote": "Minimum 78% GPA in the undergraduate and master's degree; 85% for direct entry to the PhD program.",
+      "url": "https://grad.uwo.ca/admissions/program.cfm?p=16"
+    }
+  },
+  "notes": "Biochemistry stands for the Schulich basic-medical-science PhDs; Anatomy and Cell Biology, Medical Biophysics, Microbiology and Immunology, and Physiology and Pharmacology are separate programs with their own deadlines and, for some, higher English scores (Anatomy and Cell Biology IELTS 7; Physiology and Pharmacology TOEFL 100 and IELTS 7)."
+}

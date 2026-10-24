@@ -1,0 +1,55 @@
+{
+  "id": "western--biology",
+  "university": "western",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://www.uwo.ca/biology/graduate/future-students/admission-requirements.html",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-31",
+      "value": "International PhD applicants: January 31 (department page). The graduate-school program page lists March 15 for Fall; use the earlier date.",
+      "quote": "Note the application deadline of January 31 each year for international doctoral candidates.",
+      "url": "https://www.uwo.ca/biology/graduate/future-students/admission-requirements.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "March 15 - Fall Term",
+          "url": "https://grad.uwo.ca/admissions/program.cfm?p=18"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked",
+      "quote": "",
+      "url": "https://www.uwo.ca/biology/graduate/future-students/admission-requirements.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Prospective students are strongly encouraged to identify a supervisor before applying.",
+      "quote": "Prospective students are strongly encouraged to identify a prospective supervisor prior to applying to the graduate program.",
+      "url": "https://www.uwo.ca/biology/graduate/future-students/index.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department financial-support page checked has no funding amounts or guarantee.",
+      "quote": "",
+      "url": "https://www.uwo.ca/biology/graduate/future-students/financial-support.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A thesis-based Master's with at least 78% is required; a transfer from the MSc into the PhD is possible.",
+      "quote": "Successful completion of a thesis-based Master’s Degree in Biology or related discipline.",
+      "url": "https://grad.uwo.ca/admissions/program.cfm?p=18"
+    },
+    "toefl_min": {
+      "code": "5 (new scale)",
+      "value": "Biology asks for TOEFL iBT 5 overall with no section below 4.5 on the new scale (100 with no section below 23 on the old scale), higher than the graduate-school 4.5.",
+      "quote": "For tests taken on or after January 21, 2026, Western requires a minimum overall score of 5, with no individual section score below 4.5.",
+      "url": "https://grad.uwo.ca/admissions/program.cfm?p=18"
+    }
+  },
+  "notes": "IELTS 6.5 overall and in each band, the same overall score as the graduate school."
+}
