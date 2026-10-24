@@ -1,0 +1,61 @@
+{
+  "id": "umass--mech",
+  "university": "umass",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical and Industrial Engineering",
+  "program_page": "https://www.umass.edu/engineering/academics/mechanical-engineering/phd-mechanical-engineering",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Apply by January 15 for Fall admission.",
+      "quote": "MS or PhD in Mechanical Engineering: January 15th",
+      "url": "https://www.umass.edu/engineering/media/12001/download?inline",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required for any department graduate program.",
+      "quote": "The GRE exam is not required for any MIE graduate program application.",
+      "url": "https://www.umass.edu/engineering/media/12001/download?inline"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Only active-duty or veteran military applicants get a fee waiver; the department says there are no others.",
+      "quote": "Active duty or veteran military personnel are eligible for application fee waivers. | Otherwise, there are no application fee waivers.",
+      "url": "https://www.umass.edu/engineering/media/12001/download?inline"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "You do not need a supervisor to apply, but you need one before starting to be funded.",
+      "quote": "You do not need a supervisor before applying, but you would eventually need a supervisor before starting the program to be funded.",
+      "url": "https://www.umass.edu/engineering/media/12001/download?inline"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not required; bachelor's holders enter the PhD through an MS/PhD path.",
+      "quote": "To apply to the PhD program, a Master's degree is not required.",
+      "url": "https://www.umass.edu/engineering/academics/mechanical-engineering/phd-mechanical-engineering",
+      "also": [
+        {
+          "quote": "A master’s degree is not required to apply to a PhD program.",
+          "url": "https://www.umass.edu/engineering/media/12001/download?inline"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.umass.edu/engineering/academics/mechanical-engineering/phd-mechanical-engineering"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.umass.edu/engineering/academics/mechanical-engineering/phd-mechanical-engineering"
+    }
+  },
+  "notes": "Industrial Engineering and Operations Research is a separate PhD in the same department."
+}

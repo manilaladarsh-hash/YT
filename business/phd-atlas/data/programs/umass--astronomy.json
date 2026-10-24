@@ -1,0 +1,55 @@
+{
+  "id": "umass--astronomy",
+  "university": "umass",
+  "field": "astronomy",
+  "also_fields": [],
+  "department": "Department of Astronomy",
+  "program_page": "https://www.umass.edu/astronomy/academics/graduate-program",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Priority deadline December 15; applications are accepted and reviewed until January 15.",
+      "quote": "Application deadline: December 15 (priority deadline; applications will be accepted and reviewed until January 15).",
+      "url": "https://www.umass.edu/astronomy/academics/graduate-program",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "General GRE scores are not required; submitting them is optional.",
+      "quote": "Physics and general GRE scores are not required (optional).",
+      "url": "https://www.umass.edu/astronomy/academics/graduate-program"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Physics GRE is not required; submitting it is optional.",
+      "quote": "Physics and general GRE scores are not required (optional).",
+      "url": "https://www.umass.edu/astronomy/academics/graduate-program"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "The department has a few fee waivers for applicants who faced adversity, but only US applicants are considered for now.",
+      "quote": "Our resources are extremely limited, and only US applicants are considered for the moment.",
+      "url": "https://www.umass.edu/astronomy/academics/graduate-program"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students start with two project advisors in a two-year initial research project and choose a thesis advisor by the end of the fall of year three.",
+      "quote": "A student admitted to PhD candidacy has until the end of the fall semester of their third year in the program to find a PhD thesis advisor and identify a Dissertation Thesis Committee.",
+      "url": "https://www.umass.edu/astronomy/book/graduate-program-handbook/program-requirements"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Nearly all PhD students are supported by teaching and research fellowships.",
+      "quote": "Nearly all of our students in the PhD program are supported by teaching and research fellowships.",
+      "url": "https://www.umass.edu/astronomy/academics/graduate-program"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The program is designed to take a student from the bachelor's degree to the PhD in about six years.",
+      "quote": "Our graduate program requirements are designed to guide the average student from their bachelor's degree to a PhD within six years.",
+      "url": "https://www.umass.edu/astronomy/book/graduate-program-handbook/program-requirements"
+    }
+  },
+  "notes": "Students not admitted to candidacy after the first two years receive a master's degree."
+}

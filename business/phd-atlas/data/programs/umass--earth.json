@@ -1,0 +1,55 @@
+{
+  "id": "umass--earth",
+  "university": "umass",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Earth, Geographic, and Climate Sciences",
+  "program_page": "https://www.umass.edu/earth-geography-climate/graduate-programs-geology",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-05",
+      "value": "Apply by January 5 for the MS or PhD beginning the following September.",
+      "quote": "January 5th is the deadline for the receipt of application materials for acceptance into the Geosciences MS or PhD program beginning the following September.",
+      "url": "https://www.umass.edu/earth-geography-climate/graduate-programs-geology",
+      "inferred": "year"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admission depends on faculty support, and the sponsoring faculty member must agree to provide much of your funding, so contact potential advisors before applying.",
+      "quote": "Acceptance into the Geosciences graduate program depends upon meeting academic standards, having faculty support and securing funding. | The faculty member who sponsors your application must agree to provide a substantial portion of your financial package through their research grants.",
+      "url": "https://www.umass.edu/earth-geography-climate/graduate-programs-geology"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The program admits only students it can fund (typically four years for PhD students), but only about five to eight of 50 to 75 applicants are funded each year.",
+      "quote": "Our program does not accept students for whom it cannot provide financial support, thus many admission decisions come down to availability of funding.",
+      "url": "https://www.umass.edu/earth-geography-climate/graduate-programs-geology",
+      "also": [
+        {
+          "quote": "Of those, we are able to fund only five to eight students.",
+          "url": "https://www.umass.edu/earth-geography-climate/graduate-programs-geology"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The PhD does not take students without an MS; applicants with a bachelor's apply to the MS/PhD track instead.",
+      "quote": "The Geosciences program does not accept students without a MS degree into the PhD program.",
+      "url": "https://www.umass.edu/earth-geography-climate/graduate-programs-geology",
+      "also": [
+        {
+          "quote": "Students with a bachelor’s degree who wish to pursue a PhD can apply for the MS/PhD track",
+          "url": "https://www.umass.edu/earth-geography-climate/graduate-programs-geology"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.umass.edu/earth-geography-climate/graduate-programs-geology"
+    }
+  },
+  "notes": "Geography PhD is a separate program in the same department."
+}

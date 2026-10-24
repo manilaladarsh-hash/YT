@@ -1,0 +1,55 @@
+{
+  "id": "umass--materials",
+  "university": "umass",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Materials Science and Engineering Interdisciplinary Graduate Program",
+  "program_page": "https://websites.umass.edu/mseidgp/admissions/ph-d-track/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Apply by January 1 for Fall admission; there is no Spring admission.",
+      "quote": "Deadline: Jan. 1 for admission to the Fall semester (No Spring admissions)",
+      "url": "https://websites.umass.edu/mseidgp/admissions/ph-d-track/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is recommended but optional.",
+      "quote": "The GRE is recommended but optional",
+      "url": "https://websites.umass.edu/mseidgp/admissions/ph-d-track/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must name an MSE-affiliated faculty advisor when applying, and admission depends on that advisor agreeing to supervise and fund you.",
+      "quote": "Every Ph.D. applicant must identify an MSE-affiliated faculty advisor (or advisors) when applying to the program. | Eventual admission to the program is contingent upon a commitment from the advisor(s) to supervise the student and to support the student financially through the Ph.D. program.",
+      "url": "https://websites.umass.edu/mseidgp/admissions/ph-d-track/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admission requires the advisor's commitment to support you financially; students in good standing are supported through fellowships, TAs or RAs, subject to funds and progress.",
+      "quote": "Eventual admission to the program is contingent upon a commitment from the advisor(s) to supervise the student and to support the student financially through the Ph.D. program.",
+      "url": "https://websites.umass.edu/mseidgp/admissions/ph-d-track/",
+      "also": [
+        {
+          "quote": "Ph.D. students in good standing are supported through their graduate studies via a combination of fellowships, teaching assistantships, or research assistantships",
+          "url": "https://websites.umass.edu/mseidgp/admissions/ph-d-track/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may come with a bachelor's or a master's degree; the page asks for a GPA of 3.0 across undergraduate study and any M.S. program.",
+      "quote": "A GPA of at least 3.0 or its equivalent for undergraduate study and M.S. program (if applicable)",
+      "url": "https://websites.umass.edu/mseidgp/admissions/ph-d-track/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://websites.umass.edu/mseidgp/admissions/ph-d-track/"
+    }
+  },
+  "notes": "Polymer Science and Engineering is a separate UMass PhD program and is not covered here."
+}
