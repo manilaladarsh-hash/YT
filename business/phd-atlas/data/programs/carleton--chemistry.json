@@ -1,0 +1,43 @@
+{
+  "id": "carleton--chemistry",
+  "university": "carleton",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry (Ottawa-Carleton Chemistry Institute)",
+  "program_page": "https://graduate.carleton.ca/program/chemistry-doctoral-programs/",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Apply by March 1 for Fall 2027.",
+      "quote": "Application Deadline: March 1",
+      "url": "https://graduate.carleton.ca/program/chemistry-doctoral-programs/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://graduate.carleton.ca/program/chemistry-doctoral-programs/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admission normally requires acceptance into the research group of a Carleton chemistry faculty member, so line up a supervisor.",
+      "quote": "the normal requirement for admission to the Ph.D. program is an M.Sc. in Chemistry with a B+ (9.00 CGPA) average in the last two years of full-time study and acceptance into a research group of a member of the Department of Chemistry at Carleton University",
+      "url": "https://calendar.carleton.ca/grad/gradprograms/chemistry/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "You are automatically considered for funding (TA, research stipend, scholarships) when you apply; any offer comes with the admission letter, with no guaranteed amount stated.",
+      "quote": "When submitting an application for admission to Carleton, students are automatically considered for funding and if eligible, will be notified in the Offer of Admission and Funding.",
+      "url": "https://graduate.carleton.ca/financial-assistance/admissions-funding/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "An MSc in Chemistry (B+) is the normal route; exceptional bachelor's graduates with an A- average may be admitted directly.",
+      "quote": "the normal requirement for admission to the Ph.D. program is an M.Sc. in Chemistry | exceptional applicants holding a bachelor's degree, with demonstrated potential for independent thought and advanced research, with a minimum A- (10.00 CGPA) average in the last two years of study, may be directly admitted to the Ph.D. program",
+      "url": "https://calendar.carleton.ca/grad/gradprograms/chemistry/"
+    }
+  },
+  "notes": "Joint with the University of Ottawa through OCCI. Students from outside Canada or the US write orientation exams in their first term."
+}

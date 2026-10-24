@@ -1,0 +1,43 @@
+{
+  "id": "carleton--bme",
+  "university": "carleton",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Ottawa-Carleton Institute for Biomedical Engineering",
+  "program_page": "https://graduate.carleton.ca/program/biomedical-engineering-doctoral-programs/",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Apply by March 1; later applications are welcome if capacity allows.",
+      "quote": "March 1 (Students are encouraged to apply early but applications are welcome at any time prior to the start of the term depending on available program capacity.)",
+      "url": "https://graduate.carleton.ca/program/biomedical-engineering-doctoral-programs/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://graduate.carleton.ca/program/biomedical-engineering-doctoral-programs/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated; the institute site ocibme.ca could not be reached.",
+      "quote": "",
+      "url": "https://graduate.carleton.ca/program/biomedical-engineering-doctoral-programs/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Applicants are automatically considered for scholarships, TAs and RAs; international students with strong applications and high grades may receive some funding.",
+      "quote": "Applicants are automatically considered for financial support. | International students, who submit strong applications and have high grades, may be eligible to receive some funding for their studies.",
+      "url": "https://carleton.ca/sce/how-to-apply/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A thesis master's in engineering, science or CS with at least B+ is the normal requirement.",
+      "quote": "The normal requirement for admission into the Ph.D. program is a master's degree with thesis in engineering, science, computer science, or a related discipline, with an average of at least B+.",
+      "url": "https://calendar.carleton.ca/grad/gradprograms/biomedicalengineering/"
+    }
+  },
+  "notes": "Joint with the University of Ottawa; the institute site ocibme.ca returned 502 errors."
+}

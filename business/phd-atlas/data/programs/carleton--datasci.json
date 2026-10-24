@@ -1,0 +1,50 @@
+{
+  "id": "carleton--datasci",
+  "university": "carleton",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "Data Science, Analytics, and Artificial Intelligence (Faculty of Science and Faculty of Engineering and Design)",
+  "program_page": "https://graduate.carleton.ca/program/data-science-analytics-and-artificial-intelligence-doctoral-programs/",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-10",
+      "value": "Apply by January 10 for Fall 2027 (Fall entry only).",
+      "quote": "Application Deadline: January 10",
+      "url": "https://graduate.carleton.ca/program/data-science-analytics-and-artificial-intelligence-doctoral-programs/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required.",
+      "quote": "No, a Graduate Record Examination (GRE) is not required.",
+      "url": "https://carleton.ca/dsaai/admissions-faq/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://graduate.carleton.ca/program/data-science-analytics-and-artificial-intelligence-doctoral-programs/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Contacting potential supervisors first is advised, but you can apply directly to the program.",
+      "quote": "It is always best to reach out to potential supervisors first to confirm that they have openings in their lab for someone with your background and research interests. | It is also possible to apply directly to the program.",
+      "url": "https://carleton.ca/dsaai/admissions-faq/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "You are automatically considered for funding (TA, research stipend, scholarships) when you apply; any offer comes with the admission letter, with no guaranteed amount stated.",
+      "quote": "When submitting an application for admission to Carleton, students are automatically considered for funding and if eligible, will be notified in the Offer of Admission and Funding.",
+      "url": "https://graduate.carleton.ca/financial-assistance/admissions-funding/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's in data science or a field relevant to the supervisor's home unit, with at least B+ and significant research ability, is the normal requirement.",
+      "quote": "The normal requirement for admission to the DSAAI Ph.D. program is a master's degree in data science or in a discipline relevant to the home unit of the supervisor",
+      "url": "https://calendar.carleton.ca/grad/gradprograms/dsa/"
+    }
+  },
+  "notes": "Joint program spanning four academic units.",
+  "name": "PhD in Data Science, Analytics, and Artificial Intelligence"
+}

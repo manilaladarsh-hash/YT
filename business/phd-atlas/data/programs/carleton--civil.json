@@ -1,0 +1,43 @@
+{
+  "id": "carleton--civil",
+  "university": "carleton",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil and Environmental Engineering",
+  "program_page": "https://graduate.carleton.ca/program/civil-engineering-doctoral-programs/",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Apply by March 1; applications are welcome until the term starts.",
+      "quote": "March 1 (Students are encouraged to apply early but applications are welcome at any time prior to the start of the term.)",
+      "url": "https://graduate.carleton.ca/program/civil-engineering-doctoral-programs/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://graduate.carleton.ca/program/civil-engineering-doctoral-programs/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are highly encouraged to email faculty about supervision before applying.",
+      "quote": "Prospective students are highly encouraged to reach out to our faculty members via email for supervision opportunities.",
+      "url": "https://carleton.ca/cee/prospective-graduate-students-2/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "PhD students are offered a funding package (scholarships, TA, RA) on admission, and international PhD students get tuition support reducing fees to the domestic rate.",
+      "quote": "M.A.Sc. and Ph.D. students are offered a competitive funding package upon admission. | International Ph.D. students also receive an International Doctoral Tuition Support, reducing their tuition to the amount paid by domestic Ph.D. students in the same program.",
+      "url": "https://carleton.ca/cee/prospective-graduate-students-2/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A thesis master's in civil engineering is normal; exceptional honours bachelor's graduates (A-) may be admitted directly with extra coursework.",
+      "quote": "the normal requirement for admission into the Ph.D. program is a master's degree with a thesis in civil engineering | exceptional applicants holding an honours bachelor's degree in Civil Engineering with an average of A- or better",
+      "url": "https://calendar.carleton.ca/grad/gradprograms/civilengineering/"
+    }
+  },
+  "notes": "Environmental Engineering is a separate PhD in the same department (deadline March 1, via OCIENE); Building Engineering also has its own PhD."
+}

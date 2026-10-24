@@ -1,0 +1,43 @@
+{
+  "id": "carleton--biology",
+  "university": "carleton",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://graduate.carleton.ca/program/biology-doctoral-programs/",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "International applicants should apply by March 1 for Fall 2027 to be considered for full funding (domestic deadline July 1).",
+      "quote": "Students are encouraged to submit their applications on or before the following dates to be considered for full funding packages. | International Student Deadline | until July 1 at the latest) March 1",
+      "url": "https://carleton.ca/biology/admissions/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://graduate.carleton.ca/program/biology-doctoral-programs/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must secure a supervisor before applying by contacting faculty or adjunct professors in your research area.",
+      "quote": "All applicants for the MSc & PhD programs must have a supervisor for their graduate research program secured prior to applying.",
+      "url": "https://carleton.ca/biology/admissions/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "You are automatically considered for funding when you apply and told in the offer if eligible.",
+      "quote": "When you submit your application for admission to Carleton, you are automatically considered for funding and if you are eligible, you will be notified in your Offer of Admission and Funding.",
+      "url": "https://carleton.ca/biology/admissions/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A thesis master's in science is normal; honours bachelor's graduates with a biology thesis and A- average may enter directly.",
+      "quote": "the normal requirement for admission into the Ph.D. program is a master's degree with a thesis in science | applicants holding an honours bachelor's degree with thesis in biology with an average of A- or better, may be directly admitted to the Ph.D. program",
+      "url": "https://calendar.carleton.ca/grad/gradprograms/biology/"
+    }
+  },
+  "notes": "Joint with the University of Ottawa through OCIB."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "carleton--cs",
+  "university": "carleton",
+  "field": "cs",
+  "also_fields": [],
+  "department": "School of Computer Science",
+  "program_page": "https://graduate.carleton.ca/program/computer-science-doctoral-programs/",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-20",
+      "value": "Apply by January 20 for Fall 2027 (Fall entry only).",
+      "quote": "Application Deadline: January 20",
+      "url": "https://graduate.carleton.ca/program/computer-science-doctoral-programs/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://graduate.carleton.ca/program/computer-science-doctoral-programs/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must secure an SCS faculty supervisor to be admitted; you can apply first but must name at least one potential supervisor.",
+      "quote": "You will need to secure a supervisor from one of the SCS Faculty members in order to be admitted. | in your application, you will need to select at least one potential supervisor that you would like to work with",
+      "url": "https://carleton.ca/scs/program-information-and-admissions-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Applicants are considered for funding as part of the admission process and told in the offer if eligible.",
+      "quote": "When you submit your application for admission to Carleton, you will be considered for funding as part of the process. If you are eligible, you will be notified in your Offer of Admission.",
+      "url": "https://carleton.ca/scs/program-information-and-admissions-phd/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A thesis-based master's in CS is normal; exceptional honours BCS holders (A- in CS) with research potential may enter directly, ideally after contacting supervisors.",
+      "quote": "the normal requirement for admission to the Ph.D. program is a thesis-based Master of Computer Science (M.C.S.) or the equivalent demonstrating research potential | exceptional applicants holding an Honours Bachelor of Computer Science with thesis or equivalent, with demonstrated research potential and with a minimum GPA of A- in Computer Science, may be directly admitted to the Ph.D. program",
+      "url": "https://calendar.carleton.ca/grad/gradprograms/computerscience/"
+    }
+  },
+  "notes": "Joint program with the University of Ottawa through OCICS."
+}
