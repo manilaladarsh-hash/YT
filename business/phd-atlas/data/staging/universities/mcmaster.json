@@ -1,0 +1,59 @@
+{
+  "id": "mcmaster",
+  "institution": "McMaster University",
+  "country": "Canada",
+  "region": "Ontario",
+  "grad_page": "https://gs.mcmaster.ca/how-to-apply/",
+  "checked": "2026-10-24",
+  "fields": {
+    "app_fee": {
+      "code": "150 CAD",
+      "value": "CAD 150 per program, non-refundable, paid by credit or debit card.",
+      "quote": "Have a valid credit card or debit card ready for the application fee ($150 CAD).",
+      "url": "https://gs.mcmaster.ca/how-to-apply/"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "McMaster does not waive the graduate application fee; departments say they cannot waive it either.",
+      "quote": "The university does not waive application fees.",
+      "url": "https://www.eng.mcmaster.ca/civil/degree-options/civil-engineering-phd/",
+      "also": [
+        {
+          "quote": "We cannot waive the application fee for any reason.",
+          "url": "https://math.mcmaster.ca/graduate/application-procedure/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No university-wide GRE rule; individual programs may ask for GRE scores (see each program).",
+      "quote": "Departments or programs may establish additional requirements, such as scores on the Graduate Record Examination (GRE)",
+      "url": "https://academiccalendars.romcmaster.ca/content.php?catoid=64&navoid=14572"
+    },
+    "toefl_min": {
+      "code": "92",
+      "value": "TOEFL iBT 92 in most Faculties (Engineering accepts 88; programs may set higher). For tests taken after January 2026 the new-scale minimum is 4.5.",
+      "quote": "In most Faculties a minimum of 92 IBT (internet-based test) is required. | For tests taken after January 2026, a minimum overall score of 4.5 overall is required.",
+      "url": "https://academiccalendars.romcmaster.ca/content.php?catoid=64&navoid=14572"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall with at least 5.5 in each band.",
+      "quote": "Students taking the IELTS are required to achieve a minimum score of 6.5 with a minimum score of 5.5 in each category.",
+      "url": "https://academiccalendars.romcmaster.ca/content.php?catoid=64&navoid=14572"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Each graduate program may exempt applicants whose university degree was taught in English; the application asks whether your degree's language of instruction and evaluation was English. Check the program's rule.",
+      "quote": "At the discretion of the graduate program, applicants may be exempted from this requirement if they have completed a university degree at which English is the language of instruction.",
+      "url": "https://academiccalendars.romcmaster.ca/content.php?catoid=64&navoid=14572",
+      "also": [
+        {
+          "quote": "In the application, indicate whether you have completed a degree where the official language of instruction and evaluation is in English by choosing Yes or No.",
+          "url": "https://gs.mcmaster.ca/how-to-apply/"
+        }
+      ]
+    }
+  },
+  "notes": "Faculty of Engineering sets TOEFL 88 and exempts English-medium degree holders; see engineering program records."
+}

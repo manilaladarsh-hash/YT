@@ -1,0 +1,66 @@
+{
+  "id": "mcmaster--bme",
+  "university": "mcmaster",
+  "field": "bme",
+  "also_fields": [],
+  "department": "School of Biomedical Engineering",
+  "program_page": "https://www.eng.mcmaster.ca/msbe/degree-options/biomedical-engineering-phd/",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-28",
+      "value": "International applicants for September 2027 must apply by February 28, 2027 (domestic: July 31, 2027).",
+      "quote": "September 2027 July 31, 2027 February 28, 2027",
+      "url": "https://www.eng.mcmaster.ca/future-students/future-graduate-students/how-to-apply/",
+      "also": [
+        {
+          "quote": "International applicants: February 28",
+          "url": "https://gs.mcmaster.ca/program/biomedical-engineering/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test exists for this field; McMaster Engineering does not require the GRE.",
+      "quote": "",
+      "url": "https://www.eng.mcmaster.ca/future-students/future-graduate-students/how-to-apply/faqs/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "PhD students must have a supervisor; faculty see all complete applications, but you are expected to reach out to them yourself.",
+      "quote": "Yes, M.A.Sc and Ph.D students need to have a supervisor. | it is necessary that you reach out to them yourself",
+      "url": "https://www.eng.mcmaster.ca/msbe/degree-options/biomedical-engineering-phd/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Full-time PhD students are funded for 48 months through scholarships and/or TAships.",
+      "quote": "Full time PhD students receive funding from the department/supervisor in the form of scholarships and/or teaching assistantships (funding is for 48 months).",
+      "url": "https://www.eng.mcmaster.ca/msbe/degree-options/biomedical-engineering-phd/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's in a related field is required; bachelor's holders start in the MASc and strong students may transfer.",
+      "quote": "Students entering the program from a Bachelor's degree are expected to begin at the Master's level.",
+      "url": "https://www.eng.mcmaster.ca/msbe/degree-options/biomedical-engineering-phd/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "McMaster Engineering does not require GRE scores.",
+      "quote": "No. McMaster Engineering does not require a GRE score.",
+      "url": "https://www.eng.mcmaster.ca/future-students/future-graduate-students/how-to-apply/faqs/"
+    },
+    "toefl_min": {
+      "code": "88",
+      "value": "The Faculty of Engineering requires TOEFL iBT 88 with at least 20 per band.",
+      "quote": "Faculty of Engineering a minimum score of 88 (internet-based, iBT or iBT Home Edition); minimum of 20 per band.",
+      "url": "https://www.eng.mcmaster.ca/future-students/future-graduate-students/how-to-apply/faqs/"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "Engineering exempts applicants whose university degree was taught in English from the English test.",
+      "quote": "Applicants who have completed a university degree where the official language of instruction is English, do not need to submit a language proficiency test.",
+      "url": "https://www.eng.mcmaster.ca/future-students/future-graduate-students/how-to-apply/faqs/"
+    }
+  },
+  "notes": "Joint school of the Faculties of Engineering and Health Sciences."
+}
