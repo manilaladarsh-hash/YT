@@ -1,0 +1,55 @@
+{
+  "id": "ualberta--earth",
+  "university": "ualberta",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Earth and Atmospheric Sciences",
+  "program_page": "https://www.ualberta.ca/en/earth-sciences/graduate-studies/index.html",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Thesis programs: international document deadline February 1 for September entry (the entrance-requirements page says March 15). Files incomplete by early March have a much lower chance of funding.",
+      "quote": "Fall Term (September) September 1 February 1 February 1",
+      "url": "https://www.ualberta.ca/en/earth-sciences/graduate-studies/index.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "applications that are not complete (including reference letters and transcripts) by the beginning of March stand a considerably lower chance of receiving financial support than applications completed before that time.",
+          "url": "https://www.ualberta.ca/en/earth-sciences/graduate-studies/entrance-requirements.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE requirement is mentioned.",
+      "quote": "",
+      "url": "https://www.ualberta.ca/en/earth-sciences/graduate-studies/entrance-requirements.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must secure an EAS faculty member who agrees to supervise you before applying; applications without one are rejected.",
+      "quote": "Note that the supervisor(s) you list must have agreed to supervise you. | Applications without a supervisor will be rejected and application fees are non-refundable.",
+      "url": "https://www.ualberta.ca/en/earth-sciences/graduate-studies/entrance-requirements.html",
+      "also": [
+        {
+          "quote": "If no prospective supervisor expresses interest, please do not apply.",
+          "url": "https://www.ualberta.ca/en/earth-sciences/graduate-studies/index.html"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "U of A guarantees every PhD student at least CAD 100,000 over years 1-4 and at least CAD 25,000 in year 1 (not sponsored or part-time students).",
+      "quote": "minimum guaranteed funding of $100K CAD over four years and not less than $25K CAD in their first year",
+      "url": "https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/minimum-guaranteed-funding-for-phd-students.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's degree is required to apply to the PhD.",
+      "quote": "a Master's degree is required if applying to a PhD program",
+      "url": "https://www.ualberta.ca/en/earth-sciences/graduate-studies/entrance-requirements.html"
+    }
+  },
+  "notes": "Two reference letters; one referee may be a potential supervisor. ESP 550 not accepted as English proof."
+}

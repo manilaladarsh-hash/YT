@@ -1,0 +1,73 @@
+{
+  "id": "ualberta--datasci",
+  "university": "ualberta",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "Department of Computing Science",
+  "program_page": "https://www.ualberta.ca/en/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Applications for Fall 2027 open October 15 and close December 15, 2026; documents (transcripts, ELP scores) by January 15, 2027. Fall intake only.",
+      "quote": "October 15th - December 15th, 2026 - Applications Open | January 15th, 2027 - Documents such as transcripts, degree certificates, ELP tests should all be uploaded by this deadline",
+      "url": "https://www.ualberta.ca/en/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html"
+    },
+    "app_fee": {
+      "code": "135 CAD",
+      "value": "CAD 135 non-refundable application fee.",
+      "quote": "Yes, there is a non-refundable application fee of $135 CAD.",
+      "url": "https://www.ualberta.ca/en/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/frequently-asked-questions.html"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The department funds fee waivers for a small number of applicants from underdeveloped countries (separate 2027/28 waiver application).",
+      "quote": "the Department of Computing Science may have some funding to support application fee waivers for a small number of students from underdeveloped countries",
+      "url": "https://www.ualberta.ca/en/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE General is not required but highly recommended for degrees from outside Canada (strong applicants: Quant 155+, AWA 4.0+).",
+      "quote": "The GRE (General) is NOT required for application to our graduate programs, however it is highly recommended for applicants who have received their degree outside of Canada.",
+      "url": "https://www.ualberta.ca/en/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE Subject test is required.",
+      "quote": "We do not require the GRE Subject Test.",
+      "url": "https://www.ualberta.ca/en/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/frequently-asked-questions.html"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "TOEFL iBT 100 with at least 21 in each section.",
+      "quote": "A minimum TOEFL score of 100 with a minimum score of 21 on each of the individual skill areas (internet-based), or equivalent",
+      "url": "https://www.ualberta.ca/en/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic 7.0 overall with at least 6.5 in each band.",
+      "quote": "A minimum overall band score of 7.0 with a minimum score of 6.5 on each band",
+      "url": "https://www.ualberta.ca/en/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Name up to 3 potential supervisors when applying; you are admitted only if a professor agrees to supervise.",
+      "quote": "Ph.D. applicants: | Are required to select a research area and name up to 3 professors as potential supervisors when applying. | Students will only be admitted if a professor agrees to supervise.",
+      "url": "https://www.ualberta.ca/en/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/frequently-asked-questions.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "U of A guarantees every PhD student at least CAD 100,000 over years 1-4 and at least CAD 25,000 in year 1 (not sponsored or part-time students).",
+      "quote": "minimum guaranteed funding of $100K CAD over four years and not less than $25K CAD in their first year",
+      "url": "https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/minimum-guaranteed-funding-for-phd-students.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Apply to the CS PhD and choose SML as your area; PhD applicants need an MSc in CS or a related field.",
+      "quote": "Students are accepted into the Ph.D. - Statistical Machine Learning (SML) program at admission time | Applicants for the Ph.D. in Computing Science must have an M.Sc. degree in Computing Science or a related field.",
+      "url": "https://www.ualberta.ca/en/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html"
+    }
+  },
+  "notes": "Apply through the Computing Science PhD application and indicate SML as area of interest; transfer into SML later with supervisor support is also possible.",
+  "name": "PhD - Statistical Machine Learning"
+}

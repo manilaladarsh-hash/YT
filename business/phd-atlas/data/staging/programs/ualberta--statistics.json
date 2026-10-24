@@ -1,0 +1,73 @@
+{
+  "id": "ualberta--statistics",
+  "university": "ualberta",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Mathematical and Statistical Sciences",
+  "program_page": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/graduate-studies/admissions/index.html",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The page still shows the Fall 2026 cycle (deadline January 15, 2026, references included); expect January 15, 2027 for Fall 2027. Files are reviewed as they complete, so apply early.",
+      "quote": "The application deadline (including submission of references) is January 15 | Many of our successful applicants are admitted well before the listed deadlines.",
+      "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/graduate-studies/admissions/deadlines-and-faqs.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE is not required; you may upload scores if you have them.",
+      "quote": "Do I need to provide GRE (or similar) scores? | No. However, if you have taken the GRE test or similar, it does not hurt to upload the results.",
+      "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/graduate-studies/admissions/deadlines-and-faqs.html"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "No GRE (including the subject test) is required; scores may be uploaded.",
+      "quote": "No. However, if you have taken the GRE test or similar, it does not hurt to upload the results.",
+      "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/graduate-studies/admissions/deadlines-and-faqs.html"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "TOEFL iBT 100 with at least 22 in each section.",
+      "quote": "Minimum score of 100 (internet based), with a score of at least 22 in each individual skill area.",
+      "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/graduate-studies/admissions/english-proficiency-requirements.html"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic 7.0 overall with at least 6.0 in each band.",
+      "quote": "Minimum score of 7.0 overall with a minimum of 6.0 on each band for admission.",
+      "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/graduate-studies/admissions/english-proficiency-requirements.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exempt only with a degree from a Canadian institution or from a country/school on the GPS exemption list (for India, listed institutions such as IITs and IISc).",
+      "quote": "possession of a degree from a country or school listed on the Faculty of Graduate Studies Exemption List",
+      "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/graduate-studies/admissions/english-proficiency-requirements.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "You need not name a supervisor; the department matches applicants, but contacting faculty may strengthen your application.",
+      "quote": "Do I need to specify a prospective supervisor? | No. We will try to match applications with prospective supervisors as best we can. However, contacting a faculty member beforehand and making them aware that you are interested in working with them may strengthen your application.",
+      "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/graduate-studies/admissions/deadlines-and-faqs.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "U of A guarantees every PhD student at least CAD 100,000 over years 1-4; the department's guarantee is at least CAD 29,481/yr plus about CAD 4,500/yr extra for international students.",
+      "quote": "minimum guaranteed funding of $100K CAD over four years and not less than $25K CAD in their first year",
+      "url": "https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/minimum-guaranteed-funding-for-phd-students.html",
+      "also": [
+        {
+          "quote": "International students are guaranteed to receive the same amounts and an additional approximate $4,500 per year to partially cover their increased tuition and program fees.",
+          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/graduate-studies/funding.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "PhD entry needs an MSc in Statistics or a closely related area; others are admitted to the MSc and may transfer.",
+      "quote": "Hold an MSc degree in Mathematics or Statistics (depending on the choice of PhD program), or a closely related area. | Students seeking a PhD degree who do not hold an MSc degree or equivalent will be admitted into the MSc program instead.",
+      "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/graduate-studies/admissions/index.html"
+    }
+  },
+  "notes": "PhD with specialization in Statistics."
+}
