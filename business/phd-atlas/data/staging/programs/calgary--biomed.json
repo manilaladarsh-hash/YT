@@ -1,0 +1,68 @@
+{
+  "id": "calgary--biomed",
+  "university": "calgary",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Cumming School of Medicine, Medical Science Graduate Program",
+  "program_page": "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/medical-science-phd",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "International applicants for September 2027 apply by April 1, 2027 (May entry: December 1; January entry: August 1). Year inferred.",
+      "quote": "International students: Apr. 1 application deadline",
+      "url": "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/medical-science-phd",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The program lists no required test scores, so the GRE is not needed.",
+      "quote": "Test scores None",
+      "url": "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/medical-science-phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE exists for this field and the program page lists no test scores.",
+      "quote": "",
+      "url": "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/medical-science-phd"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must list potential supervisors when you apply.",
+      "quote": "A supervisor is required; potential supervisors must be listed when applying to the program",
+      "url": "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/medical-science-phd"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every full-time PhD student is guaranteed at least CAD 33,205 a year (international; CAD 31,426 domestic) for the first four years, if progress stays satisfactory.",
+      "quote": "Full-time PhD students beginning their program on or after January 1, 2026, are guaranteed a minimum funding package of $31,426 for domestic students and $33,205 for international students. | These annual amounts are guaranteed for the first four years of a PhD program",
+      "url": "https://grad.ucalgary.ca/awards-and-funding/funding-TB-students"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "An MSc or other relevant master's is required; a four-year BSc is accepted only in exceptional cases.",
+      "quote": "An MSc or other relevant Master's degree.",
+      "url": "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/medical-science-phd",
+      "also": [
+        {
+          "quote": "or, in exceptional cases, four year BSc degree or equivalent",
+          "url": "https://calendar.ucalgary.ca/programs/MDSCPHD/admissions-cMwRI"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "105",
+      "value": "Cumming School of Medicine programs need TOEFL iBT 105 with no section below 20 (or 5 on the new scale for tests after January 21, 2026).",
+      "quote": "a minimum TOEFL internet based score of 105 (with no section less than 20) (for tests taken prior to January 21, 2026) | a minimum TOEFL internet based score of 5 (with minimum section scores of 4.0 in reading, writing and speaking and 4.5 in listening)",
+      "url": "https://calendar.ucalgary.ca/programs/MDSCPHD/admissions-cMwRI"
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "Cumming School of Medicine programs need IELTS 7.5 overall with no band below 6.0.",
+      "quote": "a minimum IELTS overall band score of 7.5 (with no individual band less than 6.0)",
+      "url": "https://calendar.ucalgary.ca/programs/MDSCPHD/admissions-cMwRI"
+    }
+  },
+  "notes": "The Cumming School of Medicine also runs separate PhDs in Biochemistry and Molecular Biology, Cardiovascular and Respiratory Sciences, Immunology, Microbiology and Infectious Diseases, and Gastrointestinal Sciences.",
+  "name": "Medical Science PhD"
+}
