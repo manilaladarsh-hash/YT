@@ -1,0 +1,55 @@
+{
+  "id": "msu--civil",
+  "university": "msu",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil and Environmental Engineering",
+  "program_page": "https://engineering.msu.edu/academics/majors-degrees/civil-engineering-phd",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-31",
+      "value": "December 31 for full consideration for financial support for the following fall.",
+      "quote": "the application deadlines are December 31st for the subsequent fall semester",
+      "url": "https://engineering.msu.edu/academics/majors-degrees/civil-engineering-phd",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE is optional; if sent, the department lists minimum scores 160 Q / 150 V / 3.0 AW.",
+      "quote": "The GRE is optional.",
+      "url": "https://engineering.msu.edu/academics/majors-degrees/civil-engineering-phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://engineering.msu.edu/academics/majors-degrees/civil-engineering-phd"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://engineering.msu.edu/academics/majors-degrees/civil-engineering-phd"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Page says PhD admission depends on availability of funding",
+      "quote": "",
+      "url": "https://engineering.msu.edu/academics/majors-degrees/civil-engineering-phd"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The department's PhD standard asks for a GPA of 3.5+ in an M.S. in civil/environmental engineering or related; the PhD is described as 3+ years beyond the M.S.",
+      "quote": "A GPA of at least 3.5 (out of 4.0) or equivalent in an M.S. degree program in civil and/or environmental engineering or a related discipline.",
+      "url": "https://engineering.msu.edu/academics/majors-degrees/civil-engineering-phd",
+      "also": [
+        {
+          "quote": "typically involves at least 3 years of study beyond the M.S.",
+          "url": "https://engineering.msu.edu/academics/majors-degrees/civil-engineering-phd"
+        }
+      ]
+    }
+  },
+  "notes": "A separate Environmental Engineering PhD page exists (engineering.msu.edu/academics/majors-degrees/environmental-engineering-phd), not fetched."
+}
