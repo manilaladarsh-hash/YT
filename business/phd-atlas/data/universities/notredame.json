@@ -3,45 +3,51 @@
   "institution": "University of Notre Dame",
   "country": "USA",
   "region": "Indiana",
-  "grad_page": "https://physics.nd.edu/graduate/apply/",
-  "checked": "2026-10-21",
+  "grad_page": "https://graduateschool.nd.edu/admissions/application-requirements/",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.nd.edu/graduate/apply/"
+      "code": "75 USD",
+      "value": "Application fee is $75 for each application.",
+      "quote": "There is a $75 application fee for each application.",
+      "url": "https://graduateschool.nd.edu/admissions/application-requirements/application-fee-and-waiver/"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.nd.edu/graduate/apply/"
+      "code": "Available",
+      "value": "Applicants to Graduate School-administered programs, which include the STEM PhDs, can get a waiver for financial need or hardship (bank or mobile-money statement accepted), for veterans, for national fellowship applications, or at a department's discretion.",
+      "quote": "Applicants to Graduate School-administered degree programs [1] are eligible for an application fee waiver. | on the basis of need or financial hardship",
+      "url": "https://graduateschool.nd.edu/admissions/application-requirements/application-fee-and-waiver/"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Set by each program; see the program record.",
       "quote": "",
-      "url": "https://physics.nd.edu/graduate/apply/"
+      "url": "https://graduateschool.nd.edu/admissions/application-requirements/"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.nd.edu/graduate/apply/"
+      "code": "80",
+      "value": "TOEFL iBT 80 overall with at least 23 on Speaking (scores before February 2026), or 4.5 average with no section below 4.0 on the updated scale. Some programs may require more.",
+      "quote": "TOEFL iBT pre-February 2026 scoring system | 80 minimum overall score | Minimum of 23 on the Speaking section",
+      "url": "https://graduateschool.nd.edu/admissions/international-students/",
+      "also": [
+        {
+          "quote": "TOEFL iBT updated scoring system | 4.5 average | No lower than 4.0 on each section",
+          "url": "https://graduateschool.nd.edu/admissions/international-students/"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.nd.edu/graduate/apply/"
+      "code": "7",
+      "value": "IELTS Academic 7.0 composite score.",
+      "quote": "IELTS | 7.0 composite score",
+      "url": "https://graduateschool.nd.edu/admissions/international-students/"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.nd.edu/graduate/apply/"
+      "code": "Yes",
+      "value": "The English test is waived if you earned a bachelor's or higher degree, or completed at least two years of post-secondary study, at an institution taught in English.",
+      "quote": "The English proficiency exam is waived for | students who have earned a degree (bachelor’s or higher) or completed at least two years of post-secondary education at an institution where the medium of instruction is English.",
+      "url": "https://graduateschool.nd.edu/admissions/international-students/"
     }
   },
-  "notes": ""
+  "notes": "Mendoza business PhDs are admitted outside the Graduate School; not covered here."
 }

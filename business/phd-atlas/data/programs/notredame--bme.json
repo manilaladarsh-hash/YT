@@ -1,0 +1,49 @@
+{
+  "id": "notredame--bme",
+  "university": "notredame",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Bioengineering",
+  "program_page": "https://graduateschool.nd.edu/degree-programs/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-31",
+      "value": "Fall applications are due December 31 (spring: October 1).",
+      "quote": "Deadline: Fall: Dec 31; Spring: Oct. 1",
+      "url": "https://graduateschool.nd.edu/degree-programs/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE General Test is optional.",
+      "quote": "GRE General Test optional",
+      "url": "https://graduateschool.nd.edu/degree-programs/bioengineering-phd---doctoral/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://graduateschool.nd.edu/degree-programs/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://graduateschool.nd.edu/degree-programs/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://graduateschool.nd.edu/degree-programs/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://graduateschool.nd.edu/degree-programs/"
+    }
+  },
+  "notes": "Department page engineering.nd.edu returned 502; funding and other rules not stated on pages fetched."
+}

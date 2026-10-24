@@ -1,0 +1,49 @@
+{
+  "id": "notredame--chemistry",
+  "university": "notredame",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry and Biochemistry",
+  "program_page": "https://chemistry.nd.edu/graduate/admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Fall applications are due before December 15.",
+      "quote": "All applications for Fall admission should be received before December 15 for both the biochemistry program and the chemistry program.",
+      "url": "https://chemistry.nd.edu/graduate/admissions/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are no longer required.",
+      "quote": "Submission of GRE scores is no longer a requirement of the application to the doctoral programs in chemistry or biochemistry.",
+      "url": "https://chemistry.nd.edu/graduate/admissions/"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Chemistry GRE Subject score is not required but may help.",
+      "quote": "A Chemistry or Biochemistry GRE Subject Exam Score is not required but may aid your application.",
+      "url": "https://chemistry.nd.edu/graduate/admissions/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "The division you pick at application is administrative only and does not limit your choice of supervisor after admission.",
+      "quote": "does not affect your ability to select research areas or supervisors once admitted to the program.",
+      "url": "https://chemistry.nd.edu/graduate/admissions/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "The department offers a stipend, full tuition scholarship and health care subsidy.",
+      "quote": "We offer a generous stipend in addition to a full tuition scholarship and health care subsidy.",
+      "url": "https://chemistry.nd.edu/graduate/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://chemistry.nd.edu/graduate/admissions/"
+    }
+  },
+  "notes": "Biochemistry is a separate PhD admitted by the same department with the same December 15 deadline."
+}
