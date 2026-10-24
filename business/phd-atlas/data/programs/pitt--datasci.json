@@ -1,0 +1,85 @@
+{
+  "id": "pitt--datasci",
+  "university": "pitt",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "School of Computing and Information (Intelligent Systems Program)",
+  "program_page": "https://www.sci.pitt.edu/academics/doctoral-degrees/intelligent-systems-phd",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "85 USD",
+      "value": "USD 85 for all School of Computing and Information graduate programs.",
+      "quote": "There is an application fee of $85 for all SCI graduate programs.",
+      "url": "https://www.sci.pitt.edu/admissions/graduate-admissions-faqs"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Only currently enrolled Pitt students, or applicants who attend a full SCI information session (one waiver), get a fee waiver.",
+      "quote": "Currently enrolled Pitt students are eligible for an application fee waiver.",
+      "url": "https://www.sci.pitt.edu/admissions/graduate-admissions-faqs",
+      "also": [
+        {
+          "quote": "an application fee waiver is offered to those who attend a master’s or PhD information session with SCI",
+          "url": "https://www.sci.pitt.edu/admissions/graduate-admissions-faqs"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional for admission to this program.",
+      "quote": "The GRE is optional for admission to this program.",
+      "url": "https://www.sci.pitt.edu/academics/doctoral-degrees/intelligent-systems-phd"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The test is waived only for degrees from the U.S. or a country whose official language is English; India is not named, so confirm with the school. The Dietrich School country list does not apply to SCI.",
+      "quote": "",
+      "url": "https://www.sci.pitt.edu/admissions/graduate-admissions-faqs",
+      "also": [
+        {
+          "quote": "Computer Science programs: The test will be waived if the applicant has or will have a bachelor’s or master’s degree from the U.S. or a country whose official language is English.",
+          "url": "https://www.sci.pitt.edu/admissions/graduate-admissions-faqs"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "At the doctoral level, financial assistance is often offered through a graduate assistantship and sometimes a fellowship; no guarantee is stated.",
+      "quote": "At the doctoral level, financial assistance is often offered through a graduate assistantship, and sometimes through a fellowship.",
+      "url": "https://www.sci.pitt.edu/admissions/graduate-admissions-faqs"
+    },
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "January 15 for the Fall term (next start August 23, 2027).",
+      "quote": "Application Deadline: January 15 (Fall term) Next Start Date: August 23, 2027",
+      "url": "https://www.sci.pitt.edu/academics/doctoral-degrees/intelligent-systems-phd",
+      "also": [
+        {
+          "quote": "PhD in Intelligent Systems January 15",
+          "url": "https://www.sci.pitt.edu/graduate-admissions-deadlines"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.sci.pitt.edu/academics/doctoral-degrees/intelligent-systems-phd"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.sci.pitt.edu/academics/doctoral-degrees/intelligent-systems-phd"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.sci.pitt.edu/academics/doctoral-degrees/intelligent-systems-phd"
+    }
+  },
+  "notes": "PhD in artificial intelligence with a general track and a Biomedical Informatics track. English waiver rule for Intelligent Systems is the same as Computer Science.",
+  "name": "PhD in Intelligent Systems"
+}

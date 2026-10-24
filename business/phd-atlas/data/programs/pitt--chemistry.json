@@ -1,0 +1,61 @@
+{
+  "id": "pitt--chemistry",
+  "university": "pitt",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.chem.pitt.edu/graduate/how-apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "All application materials are due December 1 (Fall 2027 applications opened October 1, 2026); late or incomplete applications are not reviewed.",
+      "quote": "All application materials must be received by December 1.",
+      "url": "https://www.chem.pitt.edu/graduate/how-apply",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Online applications may be started for the Chemistry Department's Fall 2027 graduate class beginning October 1, 2026.",
+          "url": "https://www.chem.pitt.edu/graduate/how-apply"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "General and Chemistry subject GRE are recommended but not required.",
+      "quote": "Graduate Record Examination (GRE) scores, general and chemistry subject, are recommended but not required.",
+      "url": "https://www.chem.pitt.edu/graduate/how-apply"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "Chemistry subject GRE is recommended but not required.",
+      "quote": "Graduate Record Examination (GRE) scores, general and chemistry subject, are recommended but not required.",
+      "url": "https://www.chem.pitt.edu/graduate/how-apply"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You do not need an advisor before admission; contacting faculty is optional.",
+      "quote": "Must I secure a research advisor/PI prior to admission?",
+      "url": "https://www.chem.pitt.edu/graduate/how-apply/admission-faq",
+      "also": [
+        {
+          "quote": "but it is not required for the application process or admission",
+          "url": "https://www.chem.pitt.edu/graduate/how-apply/admission-faq"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All students in good academic standing are fully funded as teaching or research assistants.",
+      "quote": "All students in good academic standing are fully funded as either teaching assistants (TAs) or graduate research assistants (GSRs) while actively completing their degree.",
+      "url": "https://www.chem.pitt.edu/graduate/how-apply"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Dietrich School accepts a four-year bachelor's (an Indian 3-year bachelor's needs a following 2-year master's).",
+      "quote": "An international applicant must possess a college or university qualification that is comparable to a four-year American baccalaureate degree.",
+      "url": "https://www.asgraduate.pitt.edu/admissions/international-students"
+    }
+  },
+  "notes": "Department says most domestic applicants get fee waivers and 99% of submitted waiver requests are approved; the Dietrich waiver survey is open to all. International applicants outside the U.S. get a Zoom meeting instead of the Visit Weekend. Department prefers TOEFL 5.0 (new scale) but accepts the Dietrich minimum."
+}

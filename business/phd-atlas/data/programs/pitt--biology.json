@@ -1,0 +1,48 @@
+{
+  "id": "pitt--biology",
+  "university": "pitt",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://www.biology.pitt.edu/graduate/how-apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications are due by 11:59 pm Eastern on December 1, 2026.",
+      "quote": "Applications are due by 11:59 pm Eastern time, Tuesday the 1st of December, 2026",
+      "url": "https://www.biology.pitt.edu/graduate/how-apply"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "GRE scores are not required for application or admission.",
+      "quote": "Graduate Record Examination scores ARE NOT REQUIRED for application or admission to the Department of Biological Sciences Graduate Program.",
+      "url": "https://www.biology.pitt.edu/graduate/how-apply"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Ecology and Evolution applicants typically apply through a specific mentor; Molecular, Cellular and Developmental Biology students choose a mentor after first-year rotations, though contacting faculty is welcome.",
+      "quote": "if you are interested in the Ecology and Evolution Program, you would typically apply through a specific mentor",
+      "url": "https://www.biology.pitt.edu/graduate/how-apply",
+      "also": [
+        {
+          "quote": "you are of course welcome to contact faculty whose research you are excited about at any time during or after the application process",
+          "url": "https://www.biology.pitt.edu/graduate/how-apply"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD students receive full financial support (stipend, tuition waiver, health benefits).",
+      "quote": "Ph.D. students receive full financial support, including a competitive stipend, tuition waiver, and health benefits",
+      "url": "https://www.biology.pitt.edu/graduate/how-apply"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Apply from a bachelor's degree, or from a master's through the optional Advanced Level Entry route (needs a PhD mentor already agreed).",
+      "quote": "If you have a Master's degree or a Master's-level equivalent, you can optionally choose to apply for Advanced Level Entry (ALE).",
+      "url": "https://www.biology.pitt.edu/graduate/how-apply"
+    }
+  },
+  "notes": "Two PhD programs: Ecology and Evolution, and Molecular, Cellular, and Developmental Biology. Applicants list four preferred faculty members."
+}

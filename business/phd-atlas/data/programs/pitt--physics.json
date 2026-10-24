@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Department of Physics and Astronomy",
   "program_page": "https://www.physicsandastronomy.pitt.edu/graduate/how-apply",
-  "checked": "2026-10-21",
+  "checked": "2026-10-24",
   "fields": {
     "deadline": {
       "code": "2026-12-15",
@@ -60,7 +60,25 @@
       "value": "TOEFL 90 with at least 22 in each section (new scale: 4.5 overall, 4.5 S/R/W, 5.0 L); IELTS 7.0 (6.5 each); Duolingo 120",
       "quote": "The minimum TOEFL score is 90 (with at least a score of 22 in all of the four sections of speaking, listening, reading and writing.",
       "url": "https://www.physicsandastronomy.pitt.edu/graduate/how-apply"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS 7.0 overall with at least 6.5 in each section",
+      "quote": "The minimum IELTS scores is 7.0 (with at least 6.5 in each of its four sections)",
+      "url": "https://www.physicsandastronomy.pitt.edu/graduate/how-apply"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "English test exceptions are case by case for U.S. degrees or listed nationals; the department's country list marks India as not English-official with the test required, so Indian applicants need a test score.",
+      "quote": "English test exceptions have been made on a case-by-case basis for applicants with a bachelor's (or higher) degree from a U.S. institution or nationals from countries indicated on this LIST.",
+      "url": "https://www.physicsandastronomy.pitt.edu/graduate/how-apply",
+      "also": [
+        {
+          "quote": "India No Required",
+          "url": "https://www.physicsandastronomy.pitt.edu/sites/default/files/GA/Countries%20and%20exemption%20status.pdf"
+        }
+      ]
     }
   },
-  "notes": "Separate Astrophysics PhD in the same department. Admitted students with TOEFL below 100 take an English test at orientation. GPA 3.0 needed for a TA award."
+  "notes": "Separate Astrophysics PhD in the same department. Admitted students with TOEFL below 100 take an English test at orientation. GPA 3.0 needed for a TA award. The page's TOEFL minimum of 90 is the old 0-120 scale; for tests taken from 21 January 2026 it is 4.5 overall (4.5 speaking/reading/writing, 5.0 listening)."
 }

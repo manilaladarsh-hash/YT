@@ -3,45 +3,71 @@
   "institution": "University of Pittsburgh",
   "country": "USA",
   "region": "Pennsylvania",
-  "grad_page": "https://www.physicsandastronomy.pitt.edu/graduate/how-apply",
-  "checked": "2026-10-21",
+  "grad_page": "https://www.asgraduate.pitt.edu/admissions/international-students",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physicsandastronomy.pitt.edu/graduate/how-apply"
+      "code": "75 USD",
+      "value": "USD 75 for Dietrich School of Arts and Sciences PhD programs (physics, chemistry, math, statistics, biology, geology, neuroscience). The Swanson School of Engineering, School of Computing and Information and School of Medicine have their own fees; see those programs.",
+      "quote": "Application fee of $75.",
+      "url": "https://www.physicsandastronomy.pitt.edu/graduate/how-apply",
+      "also": [
+        {
+          "quote": "An application fee of $75 applies to domestic applications (all US citizens and current US residents) or international applications.",
+          "url": "https://www.biology.pitt.edu/graduate/how-apply"
+        }
+      ]
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physicsandastronomy.pitt.edu/graduate/how-apply"
+      "code": "Available",
+      "value": "The Dietrich School approves fee waivers case by case for financial hardship, and international applicants can document need with a parent or guardian's bank statement or pay slip; a waiver code works only for Dietrich programs.",
+      "quote": "If the application fee represents a financial hardship for an applicant they may qualify for a fee waiver.",
+      "url": "https://www.asgraduate.pitt.edu/prospective-students/admissions/application-fee-waivers",
+      "also": [
+        {
+          "quote": "International Student: Alternatively, you can submit a parent/guardian bank statement, pay slip showing monthly/annual salary, or proof of need-based scholarship from previous education eligible within the past three years.",
+          "url": "https://www.asgraduate.pitt.edu/prospective-students/admissions/application-fee-waivers"
+        },
+        {
+          "quote": "Please note that fee waivers are approved on a case-by-case basis and not all fee waiver requests will be granted.",
+          "url": "https://www.asgraduate.pitt.edu/prospective-students/admissions/application-fee-waivers"
+        }
+      ]
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physicsandastronomy.pitt.edu/graduate/how-apply"
+      "code": "Not required",
+      "value": "Most Dietrich School programs do not consider the GRE and the rest do not require it; some departments say otherwise, so check the program record.",
+      "quote": "The vast majority of our programs no longer consider GRE scores in their admissions process, and additional programs do not require GRE scores but will consider them as part of a holistic evaluation of application materials if submitted.",
+      "url": "https://www.asgraduate.pitt.edu/admissions/international-students"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physicsandastronomy.pitt.edu/graduate/how-apply"
+      "code": "4.5 (new scale)",
+      "value": "Dietrich School minimum is 4.5 overall on the new 1-6 TOEFL scale (4.5 in speaking, reading and writing, 5.0 in listening), which replaces the old minimum of 90 for tests taken from 21 January 2026.",
+      "quote": "The DSAS current TOEFL score 90 will shift to a minimum overall score of 4.5 with 4.5 in the speaking, reading, writing sub-section and a 5.0 in the listening sub-section.",
+      "url": "https://www.asgraduate.pitt.edu/admissions/international-students"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physicsandastronomy.pitt.edu/graduate/how-apply"
+      "code": "7",
+      "value": "IELTS Academic 7.0 overall with at least 6.5 in each section; Duolingo 120 is also accepted.",
+      "quote": "IELTS: score of 7.0, with at least 6.5 in each of its four sections.",
+      "url": "https://www.asgraduate.pitt.edu/admissions/international-students"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physicsandastronomy.pitt.edu/graduate/how-apply"
+      "code": "No",
+      "value": "The English test is waived only for degrees from English-language institutions located in countries whose official language is English. The Pitt country list marks India as not English-official with the test required, so Indian applicants need a test score.",
+      "quote": "graduates of institutions whose language of instruction is English and located in countries whose official language is English.",
+      "url": "https://www.asgraduate.pitt.edu/admissions/international-students",
+      "also": [
+        {
+          "quote": "India No Required",
+          "url": "https://www.physicsandastronomy.pitt.edu/sites/default/files/GA/Countries%20and%20exemption%20status.pdf"
+        },
+        {
+          "quote": "India No Required",
+          "url": "https://www.chem.pitt.edu/sites/default/files/assets/Procedure_AC_07_EXHIBIT_A.pdf"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "Pitt has no single graduate school. This record is the Kenneth P. Dietrich School of Arts and Sciences (physics and astronomy, chemistry, math, statistics, biology, geology, neuroscience). The Swanson School of Engineering, the School of Computing and Information and the School of Medicine (IBGP) run their own applications and carry their own fee, GRE and English overrides in each program. A three-year Indian bachelor's alone does not qualify; a two-year master's must follow it."
 }
