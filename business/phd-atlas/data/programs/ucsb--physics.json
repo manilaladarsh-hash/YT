@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Department of Physics",
   "program_page": "https://www.physics.ucsb.edu/academics/graduate/apply",
-  "checked": "2026-10-21",
+  "checked": "2026-10-24",
   "fields": {
     "deadline": {
       "code": "2026-12-16",
@@ -26,28 +26,22 @@
       "url": "https://www.physics.ucsb.edu/academics/graduate/apply"
     },
     "funding": {
-      "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
-      "url": "https://www.physics.ucsb.edu/academics/graduate/apply"
+      "code": "Guaranteed",
+      "value": "All students are supported; at least five years of support is usually guaranteed for students making satisfactory progress.",
+      "quote": "At least five years of support is usually guaranteed for students making satisfactory progress towards completion of the PhD degree.",
+      "url": "https://www.physics.ucsb.edu/academics/graduate/support",
+      "also": [
+        {
+          "quote": "All students are supported through a combination of fellowships, teaching assistantships and research assistantships.",
+          "url": "https://www.physics.ucsb.edu/academics/graduate/support"
+        }
+      ]
     },
     "entry_route": {
       "code": "Not stated",
       "value": "Not stated on the page checked",
       "quote": "",
       "url": "https://www.physics.ucsb.edu/academics/graduate/apply"
-    },
-    "app_fee": {
-      "code": "155 USD",
-      "value": "USD 155 for non-U.S. applicants (2026 figure; USD 135 U.S./PR)",
-      "quote": "The non-refundable graduate application fee is $135.00 for US citizens and Permanent Residents; and $155.00 for all others",
-      "url": "https://www.graddiv.ucsb.edu/admissions/faqs-applicants"
-    },
-    "fee_waiver": {
-      "code": "Domestic only",
-      "value": "Fee waivers are not available to international applicants",
-      "quote": "A limited number of fee waivers are available for qualified US citizens and permanent residents. Fee waivers are not available to international applicants.",
-      "url": "https://www.graddiv.ucsb.edu/admissions/faqs-applicants"
     },
     "gre_general": {
       "code": "Not considered",
@@ -59,6 +53,12 @@
       "code": "80",
       "value": "TOEFL 80 (before 1/21/2026) or 4.0 (new scale); IELTS 7; Duolingo 120",
       "quote": "TOEFL internet-based test (iBT) and TOEFL iBT Home Edition 80 (exams taken before 1/21/2026) or 4.0 (exams taken on or after 1/21/2026) IELTS Academic and IELTS Indicator Overall Band Score of 7 Duolingo English Test (DET) 120",
+      "url": "https://www.physics.ucsb.edu/academics/graduate/apply"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic overall band 7.",
+      "quote": "IELTS Academic and IELTS Indicator Overall Band Score of 7",
       "url": "https://www.physics.ucsb.edu/academics/graduate/apply"
     }
   },
