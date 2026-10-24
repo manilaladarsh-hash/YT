@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Department of Physics",
   "program_page": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/deadlines.html",
-  "checked": "2026-10-21",
+  "checked": "2026-10-24",
   "fields": {
     "deadline": {
       "code": "2026-12-01",
@@ -21,10 +21,10 @@
       "url": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/admission-requirements.html"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "Physics pages do not state a pre-application supervisor requirement; FGPS notes some thesis programs require one",
-      "quote": "If you are applying for a thesis-based program, please note that some programs require you to identify and contact a potential supervisor before applying.",
-      "url": "https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/index.html"
+      "code": "Recommended",
+      "value": "Physics strongly recommends contacting faculty in your area before applying; admission depends on finding a research match.",
+      "quote": "We strongly recommend that applicants reach out to faculty members who are in their area of study to determine whether the faculty member has any opportunities for the applicant in their research group.",
+      "url": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/how-to-apply.html"
     },
     "funding": {
       "code": "Guaranteed",
@@ -61,6 +61,12 @@
           "url": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/admission-requirements.html"
         }
       ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall with at least 6.0 in each band.",
+      "quote": "IELTS (Academic) - 6.5 overall with a min. of 6.0 on each band",
+      "url": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/admission-requirements.html"
     }
   },
   "notes": "Statement of purpose: 500 words max, one page. About 30 graduate admits per year. Committee meets late December, mid-January, late February, late March."

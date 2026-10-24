@@ -3,45 +3,51 @@
   "institution": "University of Alberta",
   "country": "Canada",
   "region": "Alberta",
-  "grad_page": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/deadlines.html",
-  "checked": "2026-10-21",
+  "grad_page": "https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/index.html",
+  "checked": "2026-10-24",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/deadlines.html"
+      "code": "135 CAD",
+      "value": "CAD 135 non-refundable fee per application, paid by Visa or Mastercard credit card.",
+      "quote": "A $135 CAD non-refundable application fee is required to submit your application.",
+      "url": "https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/graduate-studies-application-faqs.html"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/deadlines.html"
+      "code": "None",
+      "value": "The Faculty of Graduate & Postdoctoral Studies does not waive the application fee.",
+      "quote": "The application fee is mandatory. GPS does not offer application fee waivers upon request.",
+      "url": "https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/graduate-studies-application-faqs.html"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "No university-wide GRE rule; some programs ask for GRE scores, see the program record.",
       "quote": "",
-      "url": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/deadlines.html"
+      "url": "https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/index.html"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/deadlines.html"
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT taken on/after 21 Jan 2026: 4.5 overall with no band below 4.5 (older tests: 90 with no section below 21). Home Edition not accepted for 2027-28.",
+      "quote": "For tests taken on or after January 21, 2026, only the 1-6 score scale* is considered: | Overall score of at least 4.5, with no individual band score below 4.5 | Total score of 90 with no section less than 21",
+      "url": "https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/international-academic-requirements/english-language-proficiency/index.html"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/deadlines.html"
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall with at least 6.0 in each band; One Skill Retake not accepted.",
+      "quote": "6.5, with at least 6.0 on each test band",
+      "url": "https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/international-academic-requirements/english-language-proficiency/index.html"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/deadlines.html"
+      "code": "Conditional",
+      "value": "Degrees from listed Indian institutions (e.g. all IITs, IISc, Anna, Jadavpur, NIT Calicut, Hyderabad) meet the requirement; others may use a medium-of-instruction letter if the program accepts it.",
+      "quote": "Applicants with credentials from the following institutions will meet the English Language Requirement. | Indian Institute of Technology (All campuses) | If your institution or country is not listed here, we may accept a medium of instruction letter verifying that your institution or program was fully taught in English.",
+      "url": "https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/international-academic-requirements/english-language-proficiency/recognized-english-countries-institutions.html",
+      "also": [
+        {
+          "quote": "Do all departments accept Medium of Instruction letters? | No. Some departments may still require a formal English language test.",
+          "url": "https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/graduate-studies-application-faqs.html"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "Duolingo 120 (no subscore below 100) and PTE 61 also accepted. Each application needs a separate fee."
 }
