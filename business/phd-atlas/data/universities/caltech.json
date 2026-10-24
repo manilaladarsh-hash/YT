@@ -3,45 +3,51 @@
   "institution": "California Institute of Technology",
   "country": "USA",
   "region": "California",
-  "grad_page": "https://physics.caltech.edu/academics/graduate-studies/information-for-applicants",
-  "checked": "2026-10-21",
+  "grad_page": "https://www.gradoffice.caltech.edu/admissions/checklist",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.caltech.edu/academics/graduate-studies/information-for-applicants"
+      "code": "100 USD",
+      "value": "The application fee is $100 for all applicants.",
+      "quote": "There is an application fee of $100.00 USD.",
+      "url": "https://www.gradoffice.caltech.edu/admissions/applyonline"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.caltech.edu/academics/graduate-studies/information-for-applicants"
+      "code": "Limited",
+      "value": "Waivers go to a limited number of applicants who show financial need or belong to partner organisations; request one inside the online application.",
+      "quote": "Fee waivers will be granted to a limited number of applicants who can demonstrate financial need or are affiliated with organizations that have made special arrangements with our office.",
+      "url": "https://www.gradoffice.caltech.edu/admissions/applyonline"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "GRE policy is set by each department; see the program records.",
       "quote": "",
-      "url": "https://physics.caltech.edu/academics/graduate-studies/information-for-applicants"
+      "url": "https://www.gradoffice.caltech.edu/documents/35541/New_Updated_GRE2026.pdf"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.caltech.edu/academics/graduate-studies/information-for-applicants"
+      "code": "Not required",
+      "value": "Caltech does not require an English test for admission and sets no minimum TOEFL score; admitted students with limited English instruction get an evaluation at Orientation.",
+      "quote": "There is no minimum requirement for the English proficiency exams.",
+      "url": "https://www.gradoffice.caltech.edu/admissions/faq-applicants",
+      "also": [
+        {
+          "quote": "Although not required for admission",
+          "url": "https://www.gradoffice.caltech.edu/admissions/faq-applicants"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.caltech.edu/academics/graduate-studies/information-for-applicants"
+      "code": "Not required",
+      "value": "No minimum IELTS band; an English test is not required for admission.",
+      "quote": "There is no minimum requirement for the English proficiency exams.",
+      "url": "https://www.gradoffice.caltech.edu/admissions/faq-applicants"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.caltech.edu/academics/graduate-studies/information-for-applicants"
+      "code": "Yes",
+      "value": "A degree from a university where the primary language of instruction is English exempts the applicant from English proficiency evaluation, so an English-medium Indian degree should qualify.",
+      "quote": "Applicants with a degree from a college or university whose primary instruction is in English",
+      "url": "https://www.gradoffice.caltech.edu/admissions/faq-applicants"
     }
   },
-  "notes": ""
+  "notes": "English test is optional for all; GRE rules are per department."
 }
