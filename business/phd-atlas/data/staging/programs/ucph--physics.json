@@ -1,0 +1,66 @@
+{
+  "id": "ucph--physics",
+  "university": "ucph",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Niels Bohr Institute (Faculty of SCIENCE PhD School)",
+  "program_page": "https://science.ku.dk/phd/appguide/",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "No central deadline: apply to advertised PhD positions on the UCPH job portal (each has its own deadline); applications go through the relevant department",
+      "quote": "All applications for enrolment go through the relevant department at SCIENCE.",
+      "url": "https://science.ku.dk/phd/appguide/",
+      "also": [
+        {
+          "quote": "Look for advertised PhD positions at the University's job portal.",
+          "url": "https://science.ku.dk/phd/appguide/funding-and-tuition-fee/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://science.ku.dk/phd/appguide/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must have an agreement with a principal supervisor at the Faculty of Science before you apply for admission",
+      "quote": "You must have a principal supervisor employed at one of the departments at the Faculty of Science, and you must have an agreement with your supervisor before you apply for admission.",
+      "url": "https://science.ku.dk/phd/appguide/how-to-find-a-project-and-a-supervisor/",
+      "also": [
+        {
+          "quote": "Applicants must have an agreement with a principal supervisor.",
+          "url": "https://science.ku.dk/phd/appguide/admission-requirements/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "No unfunded admission: you need funding for salary and tuition fee to enrol (usually employment as a PhD fellow); UCPH stopped admitting self-paying PhD students in May 2025",
+      "quote": "To be enrolled as a PhD student, the applicant must have funding for salary and tuition fee. | Employment as a PhD fellow at the faculty",
+      "url": "https://science.ku.dk/phd/appguide/funding-and-tuition-fee/",
+      "also": [
+        {
+          "quote": "UCPH wants transparency in the funding of all research at UCPH and will not receive self-paying PhD students as of May 2025.",
+          "url": "https://phd.ku.dk/english/enrolment/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Qualifications equivalent to a Danish two-year master's degree (120 ECTS); most students enter via the 5+3 route (an integrated 3+5 route also exists)",
+      "quote": "Admission to the PhD programme is based on qualifications equivalent to a Danish two-year master's degree (120 ECTS).",
+      "url": "https://science.ku.dk/phd/appguide/admission-requirements/",
+      "also": [
+        {
+          "quote": "The majority of PhD students are admitted through the 5+3 entry, allowing 3 years of full-time PhD studies. | INTEGRATED PHD PROGRAMME (3+5)",
+          "url": "https://science.ku.dk/phd/appguide/studystructure/"
+        }
+      ]
+    }
+  },
+  "notes": "Rules are from the Faculty of SCIENCE PhD School, which covers NBI (no separate NBI English admissions page was found). The PhD lasts three years after a master's. From 1 Jan 2027 UCPH charges a PhD tuition fee of DKK 85,000 per year for three years, which your funding must cover (phd.ku.dk enrolment page). Check each job ad for extra requirements."
+}

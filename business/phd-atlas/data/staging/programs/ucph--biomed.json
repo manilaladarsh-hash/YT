@@ -1,0 +1,72 @@
+{
+  "id": "ucph--biomed",
+  "university": "ucph",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Graduate School of Health and Medical Sciences (Faculty of Health and Medical Sciences)",
+  "program_page": "https://healthsciences.ku.dk/phd/admission-requirements/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "No central deadline: vacant PhD positions are posted on the UCPH job portal, each with its own deadline.",
+      "quote": "Vacant PhD positions can be found in the university job portal.",
+      "url": "https://healthsciences.ku.dk/phd/admission-requirements/funding-and-tuition-fee/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You need a supervisor, a project, a workplace and funding in place before you start the application.",
+      "quote": "Before you start your application process, you must have a supervisor, a project, a workplace and a way to fund your study.",
+      "url": "https://healthsciences.ku.dk/phd/admission-requirements/how-to-complete-the-online-application-form/",
+      "also": [
+        {
+          "quote": "Your principal supervisor must be employed at the Faculty of Health and Medical Sciences at the University of Copenhagen.",
+          "url": "https://healthsciences.ku.dk/phd/admission-requirements/how-to-find-a-project-and-a-supervisor/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "You need a funding route (for example employment as a PhD fellow) lined up before you apply, including the tuition fee for all three years.",
+      "quote": "Before you start your application process, you must have a supervisor, a project, a workplace and a way to fund your study.",
+      "url": "https://healthsciences.ku.dk/phd/admission-requirements/how-to-complete-the-online-application-form/",
+      "also": [
+        {
+          "quote": "Tuition fee for all three years must be guaranteed when applying for enrolment.",
+          "url": "https://healthsciences.ku.dk/phd/admission-requirements/funding-and-tuition-fee/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://healthsciences.ku.dk/phd/admission-requirements/"
+    },
+    "toefl_min": {
+      "code": "83",
+      "value": "This school requires TOEFL iBT 83 (or IELTS Academic 6.5).",
+      "quote": "Students must have a minimum score of 6.5 on IELTS Academic, or 83 on the TOEFL iBT test.",
+      "url": "https://healthsciences.ku.dk/phd/admission-requirements/language/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "This school requires IELTS Academic 6.5 overall (or TOEFL iBT 83).",
+      "quote": "Students must have a minimum score of 6.5 on IELTS Academic, or 83 on the TOEFL iBT test.",
+      "url": "https://healthsciences.ku.dk/phd/admission-requirements/language/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "A BSc or MSc taught in English can be documented instead of a test, with documentation enclosed; the page does not name India.",
+      "quote": "You can document that you have completed a BSc or MSc education where English was the language of instruction (please enclose documentation with your application).",
+      "url": "https://healthsciences.ku.dk/phd/admission-requirements/language/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://healthsciences.ku.dk/phd/admission-requirements/"
+    }
+  },
+  "notes": "Separate graduate school from SCIENCE with its own English rules. Its tuition fee page states DKK 50,000 per year (150,000 for three years) from 1 Jan 2027. Covers biomedical PhDs; neuroscience and other SUND fields were not separately verified."
+}

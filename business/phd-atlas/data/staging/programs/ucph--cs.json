@@ -1,0 +1,60 @@
+{
+  "id": "ucph--cs",
+  "university": "ucph",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science (DIKU, Faculty of SCIENCE PhD School)",
+  "program_page": "https://di.ku.dk/english/research/phd/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "No central deadline: PhD scholarships are advertised as open positions at DIKU and on the UCPH job portal, each with its own deadline.",
+      "quote": "See all open positions at DIKU including PhD scholarships.",
+      "url": "https://di.ku.dk/english/research/phd/",
+      "also": [
+        {
+          "quote": "Look for advertised PhD positions at the University's job portal.",
+          "url": "https://science.ku.dk/phd/appguide/funding-and-tuition-fee/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must have an agreement with a principal supervisor at the Faculty of Science before you apply for admission.",
+      "quote": "You must have a principal supervisor employed at one of the departments at the Faculty of Science, and you must have an agreement with your supervisor before you apply for admission.",
+      "url": "https://science.ku.dk/phd/appguide/how-to-find-a-project-and-a-supervisor/",
+      "also": [
+        {
+          "quote": "Applicants must have an agreement with a principal supervisor.",
+          "url": "https://science.ku.dk/phd/appguide/admission-requirements/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "No unfunded admission: you need funding for salary and tuition fee to enrol, usually employment as a PhD fellow.",
+      "quote": "To be enrolled as a PhD student, the applicant must have funding for salary and tuition fee. | Employment as a PhD fellow at the faculty",
+      "url": "https://science.ku.dk/phd/appguide/funding-and-tuition-fee/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Admission is based on a qualification equivalent to a Danish two-year master's degree (120 ECTS); most students enter this way.",
+      "quote": "Admission to the PhD programme is based on qualifications equivalent to a Danish two-year master's degree (120 ECTS).",
+      "url": "https://science.ku.dk/phd/appguide/admission-requirements/",
+      "also": [
+        {
+          "quote": "The majority of PhD students are admitted through the 5+3 entry, allowing 3 years of full-time PhD studies.",
+          "url": "https://science.ku.dk/phd/appguide/studystructure/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://di.ku.dk/english/research/phd/"
+    }
+  },
+  "notes": "Programme described as three years: 'A PhD programme is a 3 year research programme carried out in close cooperation with researchers.'"
+}
