@@ -1,0 +1,79 @@
+{
+  "id": "iub--cs",
+  "university": "iub",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Luddy School of Informatics, Computing, and Engineering",
+  "program_page": "https://luddy.iu.edu/admissions/graduate/index.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "PhD applications (Computer Science, Informatics, Information Science, Intelligent Systems Engineering) are due December 15; open June 11, 2026.",
+      "quote": "Ph.D. programs Applications open Deadline Jun 11, 2026 December 15 Computer Science Informatics Information Science Intelligent Systems Engineering",
+      "url": "https://luddy.iu.edu/admissions/graduate/index.html",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Fee waivers are available only in certain circumstances.",
+      "quote": "Application fee waivers are available in certain circumstances.",
+      "url": "https://luddy.iu.edu/admissions/graduate/index.html"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional.",
+      "quote": "The submission of GRE scores is optional.",
+      "url": "https://luddy.iu.edu/admissions/graduate/index.html"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "Luddy recommends TOEFL iBT 100.",
+      "quote": "TOEFL Recommended minimum score 100",
+      "url": "https://luddy.iu.edu/admissions/graduate/index.html"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Luddy recommends IELTS 7.0.",
+      "quote": "IELTS Recommended minimum score 7.0",
+      "url": "https://luddy.iu.edu/admissions/graduate/index.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "All PhD applicants need an English test regardless of where they studied.",
+      "quote": "This includes ALL PhD applicants, regardless of location of their previous education.",
+      "url": "https://luddy.iu.edu/admissions/graduate/index.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://luddy.iu.edu/admissions/graduate/index.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "All PhD applicants are reviewed for support; many receive assistantships or fellowships with fee remission.",
+      "quote": "Many of our Ph.D. students receive financial support that helps them concentrate on their studies and research.",
+      "url": "https://luddy.iu.edu/cost-financial-aid/graduate-funding/index.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants with a 3- or 4-year bachelor's degree are considered; PhD applicants need GPA 3.5 or higher.",
+      "quote": "We consider applicants with a 3- or 4-year bachelor’s degree.",
+      "url": "https://luddy.iu.edu/admissions/graduate/index.html",
+      "also": [
+        {
+          "quote": "Ph.D. applicants: 3.5 GPA or higher",
+          "url": "https://luddy.iu.edu/admissions/graduate/index.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://luddy.iu.edu/admissions/graduate/index.html"
+    }
+  },
+  "notes": "Intelligent Systems Engineering (AI, robotics, computational engineering) and Informatics PhDs share this Luddy application and December 15 deadline; ISE has no matching field id so it is not saved separately."
+}

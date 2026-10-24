@@ -39,10 +39,10 @@
       "url": "https://physics.indiana.edu/graduate/financial-support.html"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
-      "url": "https://physics.indiana.edu/graduate/how-to-apply/international-applications.html"
+      "code": "Direct from bachelor's",
+      "value": "Applicants need a recognized four-year bachelor's degree with GPA of at least 3.0; a master's is not mentioned as required.",
+      "quote": "Graduation from a recognized four-year college, university, or institute of technology.",
+      "url": "https://physics.indiana.edu/graduate/how-to-apply/domestic-applications.html"
     },
     "app_fee": {
       "code": "70 USD",
@@ -68,17 +68,11 @@
       "quote": "Official Test of English as a Foreign Language (TOEFL) score report. A minimum score of 80 on the internet-based IBT TOEFL is required. Our TOEFL institution code is 1324, Dept. Code 76.",
       "url": "https://physics.indiana.edu/graduate/how-to-apply/international-applications.html"
     },
-    "english_waiver": {
-      "code": "No",
-      "value": "No exemption route shown for graduate applicants: non-native speakers may be required to test regardless of where educated, and all non-native speakers seeking any financial aid must submit TOEFL/IELTS/Duolingo",
-      "quote": "If your native language is not English, your department may require you to submit results for the TOEFL exam, regardless of where you were educated.",
-      "url": "https://bloomington.iu.edu/admissions/apply/international/english-proficiency.html",
-      "also": [
-        {
-          "quote": "All non-native English speakers who wish to be considered for financial aid of any type must demonstrate sufficient English proficiency by earning a sufficient score on the internet-based IBT TOEFL, IELTS, or DuoLingo.",
-          "url": "https://physics.indiana.edu/graduate/how-to-apply/international-applications.html"
-        }
-      ]
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 minimum (alternatively TOEFL iBT 80 or Duolingo 100).",
+      "quote": "International English Language Testing System (IELTS) score report. A minimum score of 6.5 is required.",
+      "url": "https://physics.indiana.edu/graduate/how-to-apply/international-applications.html"
     }
   },
   "notes": "Domestic-applications page lists graduation from a recognized four-year college and GPA 3.0 on transcripts. Separate Astrophysics, Chemical Physics and Mathematical Physics PhDs exist."

@@ -1,0 +1,79 @@
+{
+  "id": "iub--statistics",
+  "university": "iub",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Statistics",
+  "program_page": "https://stat.indiana.edu/graduates/degrees/phd-info-statistics.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-05",
+      "value": "International applications and documents are due January 5 (priority date); later ones considered if positions remain.",
+      "quote": "International student applications and supporting materials must be received by January 5.",
+      "url": "https://stat.indiana.edu/graduates/degrees/phd-info-statistics.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "The priority date for admission is January 5. Applications submitted after this date will be considered if positions are still available.",
+          "url": "https://stat.indiana.edu/graduates/degrees/phd-info-statistics.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The department requires the GRE; recommended minimums are 152 verbal, 153 quantitative, 4 analytical.",
+      "quote": "The Department of Statistics requires the GRE for admission.",
+      "url": "https://stat.indiana.edu/graduate-resources/phd-faq.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://stat.indiana.edu/graduate-resources/phd-faq.html"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "Department normally expects TOEFL iBT 100 (also required for any financial aid); the Graduate School floor is 79.",
+      "quote": "We normally expect a minimum TOEFL score of 100 on the Internet-based test",
+      "url": "https://stat.indiana.edu/graduate-resources/phd-faq.html",
+      "also": [
+        {
+          "quote": "All non-native English speakers who wish to be considered for financial aid of any type must demonstrate sufficient English proficiency by earning a minimum score on the TOEFL of 100 on the internet based test",
+          "url": "https://stat.indiana.edu/graduates/degrees/phd-info-statistics.html"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Graduate School minimum IELTS 6.5 (department expects higher TOEFL for funding).",
+      "quote": "IELTS score (minimum score of 6.5)",
+      "url": "https://stat.indiana.edu/graduates/degrees/phd-info-statistics.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "TOEFL waived only for a US undergraduate or graduate degree.",
+      "quote": "The TOEFL requirement may be waived for a student who has received or will receive an undergraduate or graduate degree from a US institution before the start date of our program.",
+      "url": "https://stat.indiana.edu/graduate-resources/phd-faq.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admissions are by a small committee; do not contact faculty directly.",
+      "quote": "Admissions are handled by a small committee, so there’s no need to contact specific faculty members directly.",
+      "url": "https://stat.indiana.edu/graduate-resources/phd-faq.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All PhD students are fully funded, usually as teaching assistants or associate instructors.",
+      "quote": "All of our PhD students are fully funded, generally acting as either teaching assistants or associate instructors for our undergraduate courses.",
+      "url": "https://stat.indiana.edu/graduate-resources/phd-faq.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants should hold a bachelor's or master's degree.",
+      "quote": "Students entering the Ph.D. in Informatics, Statistics Track should have a bachelor's or master's degree from an accredited university.",
+      "url": "https://stat.indiana.edu/graduates/degrees/phd-info-statistics.html"
+    }
+  },
+  "notes": "The Ph.D. in Statistical Science is marked sunset; applicants now enter the Ph.D. in Informatics, Statistics Track."
+}

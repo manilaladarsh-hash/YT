@@ -1,0 +1,73 @@
+{
+  "id": "iub--math",
+  "university": "iub",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://math.indiana.edu/graduate/how-to-apply/index.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Apply by January 15 (domestic and international).",
+      "quote": "The application deadline is January 15.",
+      "url": "https://math.indiana.edu/graduate/how-to-apply/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General is required for PhD applicants; a waiver can be requested if you cannot take it, but it may hurt admission and funding chances.",
+      "quote": "Official scores from the Graduate Record Examination, including the Advanced Test in Mathematics scores are required for Ph.D. and M.A. applicants",
+      "url": "https://math.indiana.edu/graduate/how-to-apply/index.html",
+      "also": [
+        {
+          "quote": "The GRE General and GRE Math Subject Test scores are required for Ph.D. and M.A. applicants",
+          "url": "https://math.indiana.edu/graduate/how-to-apply/faq.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Required",
+      "value": "GRE Mathematics Subject Test is required for PhD applicants.",
+      "quote": "Official scores from the Graduate Record Examination, including the Advanced Test in Mathematics scores are required for Ph.D. and M.A. applicants",
+      "url": "https://math.indiana.edu/graduate/how-to-apply/index.html"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "TOEFL iBT 80 minimum for admission; 90 or above is likely needed for financial assistance (100 preferred).",
+      "quote": "A minimum score of 80 is required for admission. Only those applicants with a TOEFL above 90 are likely to receive financial assistance.",
+      "url": "https://math.indiana.edu/graduate/how-to-apply/index.html"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://math.indiana.edu/graduate/how-to-apply/index.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "TOEFL required unless you have studied at a US college for two or more years.",
+      "quote": "international applicants are required to demonstrate proof of their English skills through the TOEFL unless they have been attending a college or university within the US for two or more years.",
+      "url": "https://math.indiana.edu/graduate/how-to-apply/faq.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "The Director of Graduate Studies assigns an initial advisor; you can change later.",
+      "quote": "The director of graduate studies will assign you an initial academic advisor when you first come to Indiana University.",
+      "url": "https://math.indiana.edu/graduate/how-to-apply/faq.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Financial support is committed for 5 years, with a sixth year by policy, subject to exam progress.",
+      "quote": "Financial support for Ph.D. students is committed for 5 years and departmental policy is to provide support for a sixth year.",
+      "url": "https://math.indiana.edu/graduate/how-to-apply/faq.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's in mathematics or 25 semester hours of math credit is the stated minimum.",
+      "quote": "A bachelor’s degree in Mathematics or at least 25 semester hours of mathematics credit",
+      "url": "https://math.indiana.edu/graduate/how-to-apply/index.html"
+    }
+  },
+  "notes": ""
+}

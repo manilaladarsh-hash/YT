@@ -1,0 +1,61 @@
+{
+  "id": "iub--astronomy",
+  "university": "iub",
+  "field": "astronomy",
+  "also_fields": [],
+  "department": "Department of Astronomy",
+  "program_page": "https://astro.indiana.edu/graduate/admissions.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "International applicants apply by December 1; domestic applicants by January 2.",
+      "quote": "Application deadlines are December 1 for international and January 2 for domestic.",
+      "url": "https://astro.indiana.edu/graduate/admissions.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE General is not considered; the department asks you not to send scores.",
+      "quote": "we do not consider GRE scores (neither the General nor the Subject) in our evaluation. Please do not send them.",
+      "url": "https://astro.indiana.edu/graduate/admissions.html"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "GRE Subject is not considered.",
+      "quote": "we do not consider GRE scores (neither the General nor the Subject) in our evaluation. Please do not send them.",
+      "url": "https://astro.indiana.edu/graduate/admissions.html"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The College requires TOEFL iBT 79 for non-native English speakers.",
+      "quote": "the College requires a score of at least 79 on the TOEFL iBT",
+      "url": "https://astro.indiana.edu/graduate/admissions.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 accepted in place of TOEFL.",
+      "quote": "The College requires a score of at least 6.5 on the IELTS for graduate admission.",
+      "url": "https://astro.indiana.edu/graduate/admissions.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://astro.indiana.edu/graduate/admissions.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://astro.indiana.edu/graduate/admissions.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://astro.indiana.edu/graduate/admissions.html"
+    }
+  },
+  "notes": "Separate Astrophysics PhD is run with Physics."
+}

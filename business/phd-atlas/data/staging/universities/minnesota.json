@@ -1,0 +1,65 @@
+{
+  "id": "minnesota",
+  "institution": "University of Minnesota (Twin Cities)",
+  "country": "USA",
+  "region": "Minnesota",
+  "grad_page": "https://grad.umn.edu/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "95 USD",
+      "value": "International applicants pay $95 per program application.",
+      "quote": "International ($95.00)",
+      "url": "https://grad.umn.edu/admissions/application-instructions/application-fees"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "The Graduate School waiver is for US citizens and permanent residents; the fees page says fees cannot be waived.",
+      "quote": "Be a U.S. citizen or permanent resident",
+      "url": "https://grad.umn.edu/admissions/application-instructions/application-fees/gsdo-application-fee-waiver",
+      "also": [
+        {
+          "quote": "Application fees cannot be waived or deferred, and are non-refundable.",
+          "url": "https://grad.umn.edu/admissions/application-instructions/application-fees"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each program; see the program record.",
+      "quote": "",
+      "url": "https://grad.umn.edu/admissions/application-instructions/gre"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT total 4.5 on the new scale for tests taken on or after 21 Jan 2026 (79 on the old scale); programs may ask for more.",
+      "quote": "For exams taken on or after January 21, 2026: | Total Score: 4.5",
+      "url": "https://grad.umn.edu/admissions/application-instructions/international-student-resources/english-language-proficiency",
+      "also": [
+        {
+          "quote": "For exams taken before January 21, 2026: | Total Score: 79",
+          "url": "https://grad.umn.edu/admissions/application-instructions/international-student-resources/english-language-proficiency"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall, with 6.5 in writing and reading; programs may ask for more.",
+      "quote": "Total Score: 6.5",
+      "url": "https://grad.umn.edu/admissions/application-instructions/international-student-resources/english-language-proficiency"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the exemption country list, so Indian applicants need a test score unless they studied in a listed country.",
+      "quote": "If you completed secondary school in the U.S. or in a country from the list below then you satisfy the basic English language proficiency requirements.",
+      "url": "https://grad.umn.edu/english-proficiency-exemption-list",
+      "also": [
+        {
+          "quote": "The University of Minnesota requires all applicants to demonstrate English language proficiency (ELP).",
+          "url": "https://grad.umn.edu/admissions/application-instructions/international-student-resources/english-language-proficiency"
+        }
+      ]
+    }
+  },
+  "notes": "Graduate School program directory (apps.grad.umn.edu) returned 502, so fields were chosen from department sites."
+}
