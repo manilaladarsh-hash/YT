@@ -2,17 +2,25 @@
   "id": "brown--physics",
   "university": "brown",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "astronomy"
+  ],
   "department": "Department of Physics",
   "program_page": "https://physics.brown.edu/academics/graduate/how-apply",
   "checked": "2026-10-21",
   "fields": {
     "deadline": {
-      "code": "2027-01-09",
-      "value": "January 9 (applications open early September); year inferred",
-      "quote": "Applications for the Physics and Astrophysics Ph.D. program are open annually from early September to a deadline of January 9th.",
-      "url": "https://physics.brown.edu/academics/graduate/how-apply",
-      "inferred": "year"
+      "code": "2026-12-15",
+      "value": "The Graduate School's application portal lists December 15, 2026 for Physics; the department page still says January 9. Apply by December 15 to be safe.",
+      "quote": "Physics Doctoral 09/08/2026 12/15/2026",
+      "url": "https://apply.graduateschool.brown.edu/portal/program_explorer",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Applications for the Physics and Astrophysics Ph.D. program are open annually from early September to a deadline of January 9th.",
+          "url": "https://physics.brown.edu/academics/graduate/how-apply"
+        }
+      ]
     },
     "gre_subject": {
       "code": "Required",
@@ -64,17 +72,11 @@
       "quote": "The submission of Physics Subject GRE scores is required for applications to the PhD program; the General GRE is optional.",
       "url": "https://physics.brown.edu/academics/graduate/how-apply/testing-requirements"
     },
-    "toefl_min": {
-      "code": "90",
-      "value": "TOEFL 90 (tests before Jan 21, 2026) or 4.5 (new scale); IELTS 7 recommended; Duolingo not accepted",
-      "quote": "For TOEFL exams taken before January 21, 2026: Minimum total score: 90 | For TOEFL exams taken on or after January 21, 2026: Minimum total score: 4.5",
-      "url": "https://graduateschool.brown.edu/apply/international-applicants/language-proficiency-toefl-or-ielts"
-    },
-    "english_waiver": {
-      "code": "Conditional",
-      "value": "India is not on Brown's country list, but a degree from a university whose primary language of instruction is English qualifies if your Registrar or Dean sends the Graduate School a letter confirming it; the waiver must be requested",
-      "quote": "Language proficiency exams are not required of those students who have earned a degree from a non-U.S. university where the primary language of instruction is English | Students with degrees from universities in countries not on this list should have their university Registrar or Dean send a letter to the Graduate School, referencing the applicant's name and proposed area of study, stating that English is the primary language of instruction for that program or institution.",
-      "url": "https://graduateschool.brown.edu/apply/international-applicants/language-proficiency-toefl-or-ielts"
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic overall band 7 is the recommended minimum.",
+      "quote": "For IELTS, the recommended minimum overall band score is 7.",
+      "url": "https://physics.brown.edu/academics/graduate/how-apply/testing-requirements"
     }
   },
   "notes": "Two PhD tracks (Physics, Astrophysics) are chosen at application and can't be switched. International applicants need verified transcripts (WES/CertiFile course-by-course) before an offer."

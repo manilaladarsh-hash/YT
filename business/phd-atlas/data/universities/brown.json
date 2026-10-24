@@ -3,45 +3,57 @@
   "institution": "Brown University",
   "country": "USA",
   "region": "Rhode Island",
-  "grad_page": "https://physics.brown.edu/academics/graduate/how-apply",
-  "checked": "2026-10-21",
+  "grad_page": "https://graduateschool.brown.edu/apply-mfa-or-doctoral-study-brown",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.brown.edu/academics/graduate/how-apply"
+      "code": "75 USD",
+      "value": "USD 75 per application; each program applied to needs its own application and fee.",
+      "quote": "A nonrefundable fee of $75 is charged for processing each application received by the Graduate School.",
+      "url": "https://graduateschool.brown.edu/apply-mfa-or-doctoral-study-brown"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.brown.edu/academics/graduate/how-apply"
+      "code": "Limited",
+      "value": "Waivers are need-based and need documents such as a FAFSA or CSS profile, or a GRE or TOEFL fee reduction voucher; apply at least two weeks before the program deadline.",
+      "quote": "To be eligible for a fee waiver, applicants to Brown University’s graduate programs must demonstrate financial need.",
+      "url": "https://graduateschool.brown.edu/apply/application-fee-waivers",
+      "also": [
+        {
+          "quote": "We recommend submitting your application with a fee waiver request at least two weeks prior to your program submission deadline.",
+          "url": "https://graduateschool.brown.edu/apply/application-fee-waivers"
+        }
+      ]
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.brown.edu/academics/graduate/how-apply"
+      "value": "Each program decides; see the program records.",
+      "quote": "Each program at Brown University may choose to require applicants to submit their official results from the Graduate Record Examination (GRE), or not.",
+      "url": "https://graduateschool.brown.edu/application-information/gre-information"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.brown.edu/academics/graduate/how-apply"
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT 4.5 on the new scale (tests taken on or after Jan 21, 2026); 90 on the old scale. Some programs set higher standards.",
+      "quote": "For TOEFL exams taken on or after January 21, 2026: Minimum total score: 4.5",
+      "url": "https://graduateschool.brown.edu/apply/international-applicants/language-proficiency-toefl-or-ielts",
+      "also": [
+        {
+          "quote": "For TOEFL exams taken before January 21, 2026: Minimum total score: 90",
+          "url": "https://graduateschool.brown.edu/apply/international-applicants/language-proficiency-toefl-or-ielts"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.brown.edu/academics/graduate/how-apply"
+      "code": "7",
+      "value": "IELTS Academic overall band 7 is the recommended minimum.",
+      "quote": "For IELTS, the recommended minimum overall band score is 7.",
+      "url": "https://graduateschool.brown.edu/apply/international-applicants/language-proficiency-toefl-or-ielts"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.brown.edu/academics/graduate/how-apply"
+      "code": "Conditional",
+      "value": "India is not on Brown's country list, but a degree taught in English qualifies if your university Registrar or Dean sends the Graduate School a letter confirming English was the primary language of instruction.",
+      "quote": "Language proficiency exams are not required of those students who have earned a degree from a non-U.S. university where the primary language of instruction is English | Students with degrees from universities in countries not on this list should have their university Registrar or Dean send a letter to the Graduate School, referencing the applicant's name and proposed area of study, stating that English is the primary language of instruction for that program or institution.",
+      "url": "https://graduateschool.brown.edu/apply/international-applicants/language-proficiency-toefl-or-ielts"
     }
   },
-  "notes": ""
+  "notes": "Duolingo is not accepted. Public health programs (SPH) apply through SOPHAS."
 }

@@ -1,0 +1,49 @@
+{
+  "id": "bostonu--astronomy",
+  "university": "bostonu",
+  "field": "astronomy",
+  "also_fields": [],
+  "department": "Department of Astronomy",
+  "program_page": "https://www.bu.edu/astronomy/graduate/admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Application closes December 15 23:59 Boston time; Fall-only entry.",
+      "quote": "Astronomy (PhD) ... Fall 2027 Application Deadline: December 15",
+      "url": "https://www.bu.edu/cas/admissions/phd-mfa/apply/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The general GRE is optional.",
+      "quote": "Official GRE General Test score report (optional)",
+      "url": "https://www.bu.edu/cas/admissions/phd-mfa/apply/"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Physics GRE is optional.",
+      "quote": "Official GRE Physics Subject Test score report (optional)",
+      "url": "https://www.bu.edu/cas/admissions/phd-mfa/apply/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students are admitted to the department and normally choose a research area in the first or second year.",
+      "quote": "a research area is usually chosen during the first or second year",
+      "url": "https://www.bu.edu/astronomy/graduate/phd-astronomy/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "GRS PhD students are eligible for up to five years of fellowship funding (tuition, fees, health-insurance credit and stipend).",
+      "quote": "Newly admitted domestic and international PhD students are eligible to receive up to five years of fellowship funding from Boston University.",
+      "url": "https://www.bu.edu/cas/admissions/phd-mfa/fellowship-aid/aid-for-phd-students/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply with a bachelor's in physics, astronomy or a related field; no master's needed.",
+      "quote": "Applicants to the PhD program in Astronomy should have a strong physics background implied by a Bachelor’s degree with a major or concentration in physics, astronomy or a related field.",
+      "url": "https://www.bu.edu/astronomy/graduate/admissions/"
+    }
+  },
+  "notes": "Department admissions page still shows the Fall 2026 deadline; deadline taken from the Graduate School's Fall 2027 list."
+}
