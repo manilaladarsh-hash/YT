@@ -1,0 +1,50 @@
+{
+  "id": "mcmaster--biomed",
+  "university": "mcmaster",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Department of Biochemistry and Biomedical Sciences",
+  "program_page": "https://gs.mcmaster.ca/program/biochemistry-and-biomedical-sciences/",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "International applicants for September admission: March 1.",
+      "quote": "September admission Domestic - March1 (early), June 30 (final) International - March 1",
+      "url": "https://gs.mcmaster.ca/program/biochemistry-and-biomedical-sciences/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies; the department site could not be reached.",
+      "quote": "",
+      "url": "https://gs.mcmaster.ca/program/biochemistry-and-biomedical-sciences/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages that could be reached (department site blocked).",
+      "quote": "",
+      "url": "https://gs.mcmaster.ca/program/biochemistry-and-biomedical-sciences/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "McMaster guarantees every full-time PhD student at least full tuition plus CAD 17,500 a year for the first four years.",
+      "quote": "All full-time Doctoral students who meet the stated criteria under Section 4 shall receive financial support of a minimum of full-time tuition plus $17,500",
+      "url": "https://academiccalendars.romcmaster.ca/content.php?catoid=64&navoid=14575",
+      "also": [
+        {
+          "quote": "the School of Graduate Studies (SGS) sets a minimum level of funding for full-time doctoral studies for the first four years of full-time enrolment",
+          "url": "https://academiccalendars.romcmaster.ca/content.php?catoid=64&navoid=14575"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "McMaster normally admits to the PhD after a master's; direct entry from a bachelor's is only for exceptional cases.",
+      "quote": "Applicants may be admitted to a regular Ph.D. program at one of three stages in their academic work: (1) after completion of a Master's program | (3) in exceptional cases, directly from a Bachelor's program",
+      "url": "https://academiccalendars.romcmaster.ca/content.php?catoid=64&navoid=14572"
+    }
+  },
+  "notes": "Medical Sciences also offers a biomedical PhD (Faculty of Health Sciences).",
+  "name": "Biochemistry and Biomedical Sciences PhD"
+}
