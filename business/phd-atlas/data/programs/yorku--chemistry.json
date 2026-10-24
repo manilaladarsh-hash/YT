@@ -1,0 +1,73 @@
+{
+  "id": "yorku--chemistry",
+  "university": "yorku",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Graduate Program in Chemistry",
+  "program_page": "https://futurestudents.yorku.ca/graduate/programs/chemistry",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Fall 2027 application deadline is February 15, 2027; later applications are accepted as space and funding permit.",
+      "quote": "Deadline - Fall (All Applicants) 2027-02-15",
+      "url": "https://futurestudents.yorku.ca/graduate/programs/chemistry",
+      "also": [
+        {
+          "quote": "Later applications accepted as space and funding permit",
+          "url": "https://futurestudents.yorku.ca/graduate/programs/chemistry"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The Chemistry GRE is strongly recommended for international students.",
+      "quote": "Chemistry GRE is strongly recommended for international students",
+      "url": "https://futurestudents.yorku.ca/graduate/programs/chemistry"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You cannot be accepted without a research supervisor who agrees to take you; apply online and then contact faculty.",
+      "quote": "Be advised that you cannot be accepted into the program without having a research supervisor.",
+      "url": "https://www.yorku.ca/gradstudies/chemistry/future-students/how-to-apply/",
+      "also": [
+        {
+          "quote": "Secured a potential supervisor",
+          "url": "https://www.yorku.ca/gradstudies/chemistry/future-students/admission-requirements/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Chemistry PhD has a standard funding package for international students: CAD 46,180 per year for years 1-5 (fellowship, TA employment and research assistantship).",
+      "quote": "Annual Funding Summary Years 1 - 5 | International | York University Fellowship | Research Assistantship | Package Total | 46,180",
+      "url": "https://www.yorku.ca/gradstudies/chemistry/future-students/york-graduate-funding/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "PhD applicants need a 2-year research-based MSc with a B+ average.",
+      "quote": "2-year research-based Master of Science degree (B+ average)",
+      "url": "https://www.yorku.ca/gradstudies/chemistry/future-students/admission-requirements/"
+    },
+    "toefl_min": {
+      "code": "88",
+      "value": "TOEFL iBT 88 (tests before January 2026) or 4.5 on the new scale (from January 2026), per the program listing. The older department page cites 79-80 iBT and IELTS 6.6, so the two official pages disagree.",
+      "quote": "Minimum TOEFL (Internet-based) 88 (for tests taken prior to January 2026) or 4.5 (January 2026 and after)",
+      "url": "https://futurestudents.yorku.ca/graduate/programs/chemistry",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Minimum TOEFL (Internet-based) 79–80",
+          "url": "https://www.yorku.ca/gradstudies/chemistry/future-students/admission-requirements/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall (program listing).",
+      "quote": "IELTS (Academic Module) 6.5",
+      "url": "https://futurestudents.yorku.ca/graduate/programs/chemistry"
+    }
+  },
+  "notes": ""
+}

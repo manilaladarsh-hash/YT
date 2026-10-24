@@ -2,10 +2,12 @@
   "id": "yorku--physics",
   "university": "yorku",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "astronomy"
+  ],
   "department": "Graduate Program in Physics & Astronomy",
   "program_page": "https://futurestudents.yorku.ca/graduate/programs/physics-and-astronomy",
-  "checked": "2026-10-21",
+  "checked": "2026-10-24",
   "fields": {
     "deadline": {
       "code": "2027-01-15",
@@ -74,11 +76,17 @@
         }
       ]
     },
-    "english_waiver": {
-      "code": "Conditional",
-      "value": "Exempt after 1+ year of full-time study at an accredited university whose language of instruction is English, but the institution must be listed as English-only on WHED; medium-of-instruction letters are not accepted",
-      "quote": "You completed at least one year of full-time study at an accredited university in a country (or institution) where English is the official language of instruction. | We do not accept letters from other institutions stating that the medium of instruction was English. | *An institution must be listed as ENGLISH-ONLY on whed.net to qualify.",
-      "url": "https://futurestudents.yorku.ca/graduate/apply-now/entry-requirements"
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall, per the program listing; the older department page also gives 6.5.",
+      "quote": "IELTS (Academic Module) 6.5",
+      "url": "https://futurestudents.yorku.ca/graduate/programs/physics-and-astronomy",
+      "also": [
+        {
+          "quote": "IELTS (International English Language Testing System): 6.5 academic module",
+          "url": "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/"
+        }
+      ]
     }
   },
   "notes": "Key for Indian applicants: York says applicants from India normally cannot enter the PhD directly and need an Indian MSc to be considered for its MSc. The department site (physics.yorku.ca) returned errors, so GRE and supervisor policy could not be checked."
