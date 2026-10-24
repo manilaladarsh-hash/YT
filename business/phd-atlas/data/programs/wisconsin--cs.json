@@ -1,0 +1,61 @@
+{
+  "id": "wisconsin--cs",
+  "university": "wisconsin",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Sciences",
+  "program_page": "https://www.cs.wisc.edu/grad/programs/admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Apply by December 15 (2026) for Fall 2027; fall entry only.",
+      "quote": "Admit Term: Fall semester only | Application Deadline: December 15",
+      "url": "https://www.cs.wisc.edu/grad/programs/admissions/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE policy stated; this field has no GRE Subject test.",
+      "quote": "",
+      "url": "https://www.cs.wisc.edu/grad/programs/admissions/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is not required, but scores are reviewed if you send them.",
+      "quote": "GRE test scores are optional but may be reviewed if submitted.",
+      "url": "https://www.cs.wisc.edu/grad/programs/admissions/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Traditional MS/PhD applicants are reviewed as one pool by the department; no advisor agreement is required.",
+      "quote": "applicants are reviewed for admission as one applicant pool regardless of their intention on pursuing the MS or PhD.",
+      "url": "https://www.cs.wisc.edu/grad/programs/admissions/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Many admitted students get a four-year funding guarantee (usually TAships first); funding decisions come with the admission decision.",
+      "quote": "Many students admitted to the traditional MS/PhD track are offered a funding guarantee of four years through the department, typically in the form of teaching assistantships for incoming students.",
+      "url": "https://www.cs.wisc.edu/grad/programs/funding/",
+      "also": [
+        {
+          "quote": "We offer financial support to a large number of our admitted students in the form of teaching assistantships, research assistantships and/or competitive fellowships.",
+          "url": "https://www.cs.wisc.edu/grad/programs/admissions/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply from a bachelor's to the single traditional MS/PhD track; you need programming, data structures, machine organization and calculus-level maths.",
+      "quote": "At a minimum, the applicant should have some programming experience, including courses in data structures and machine organization, along with a year of college-level mathematics at the calculus level or above.",
+      "url": "https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-phd/"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "The department gives no fee waivers; only Graduate School fee grants (US citizens/permanent residents) apply.",
+      "quote": "No, the department does not offer fee waivers to applicants.",
+      "url": "https://www.cs.wisc.edu/grad/programs/admissions/"
+    }
+  },
+  "notes": "Traditional CS MS/PhD is one admissions track."
+}

@@ -3,45 +3,51 @@
   "institution": "University of British Columbia (Vancouver)",
   "country": "Canada",
   "region": "British Columbia",
-  "grad_page": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-physics",
-  "checked": "2026-10-21",
+  "grad_page": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-physics"
+      "code": "168.25 CAD",
+      "value": "International applicants pay CAD 168.25 per program (applications for September 2026 to August 2027 and for the following year); some programs charge a different fee.",
+      "quote": "September 2026 to August 2027: | International Applicants: (CDN) $168.25 | Some programs have different application fees or charge supplemental application fees",
+      "url": "https://www.grad.ubc.ca/prospective-students/application-admission/online-application-fee"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-physics"
+      "code": "Limited",
+      "value": "The fee is waived only for citizens and residents of the UN's 50 least developed countries (India is not one of them) and for BC seniors.",
+      "quote": "The application fee for master and doctoral programs with applications submitted via the eVision application system is waived only in the following circumstances: | For international applicants whose citizenship and correspondence address is located in one of the world's 50 least developed countries, as declared by the United Nations.",
+      "url": "https://www.grad.ubc.ca/prospective-students/application-admission/online-application-fee"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Set by each program; most UBC STEM PhDs do not require it (see the program records).",
       "quote": "",
-      "url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-physics"
+      "url": "https://www.grad.ubc.ca/prospective-students/application-admission/gre-or-other-test-scores"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-physics"
+      "code": "90",
+      "value": "TOEFL iBT 90 overall (22 reading/listening, 21 writing/speaking) on the old scale, or 4.5 on the new 1-6 scale from 21 January 2026; many programs ask for more.",
+      "quote": "Tests taken prior to January 21, 2026 (1-120 scale): 90 overall with a minimum component score of 22 (reading, listening) and 21 (writing, speaking) | Tests taken as of January 21, 2026 (1-6 scale): 4.5 overall",
+      "url": "https://www.grad.ubc.ca/prospective-students/application-admission/english-language-test"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-physics"
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall with at least 6.0 in each band; some programs ask for more.",
+      "quote": "A minimum overall band score of 6.5 is required with a minimum score of 6.0 in each component of the academic (NOT general) IELTS test.",
+      "url": "https://www.grad.ubc.ca/prospective-students/application-admission/english-language-test"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-physics"
+      "code": "Conditional",
+      "value": "Graduates of an Indian university whose primary language of instruction is English may not need a test, but any program can still ask for one.",
+      "quote": "Applicants from a university in India in which English is the primary language of instruction may not need an English language proficiency examination as part of their application. | Please note that graduate programs have the right to request a language test when deemed necessary, even if the language of instruction has been English.",
+      "url": "https://www.grad.ubc.ca/country/india",
+      "also": [
+        {
+          "quote": "Applicants from a university outside Canada in which English is not the primary language of instruction must provide results of an English language proficiency examination as part of their application.",
+          "url": "https://www.grad.ubc.ca/prospective-students/application-admission/english-language-test"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "Fee is paid by Visa or Mastercard (credit or debit). Duolingo (125 overall) and PTE Academic (65) are also accepted."
 }

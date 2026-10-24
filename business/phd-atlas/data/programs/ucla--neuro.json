@@ -1,0 +1,60 @@
+{
+  "id": "ucla--neuro",
+  "university": "ucla",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Neuroscience Interdepartmental Program",
+  "program_page": "https://neuroscience.ucla.edu/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026, 11:59 pm Pacific; the deadline is strict.",
+      "quote": "Application Deadline is December 1st, 2026 (11:59PM PST or 2:59AM EST)",
+      "url": "https://neuroscience.ucla.edu/admissions"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE subject test is required.",
+      "quote": "GRE: General exam not required; subject exam not required",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=004F"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The General GRE is not required.",
+      "quote": "GRE: General exam not required; subject exam not required",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=004F"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Neuroscience is a Bioscience Home Area, whose rule exempts only degrees from countries where English is the primary spoken language of daily life and the medium of instruction, so an Indian degree does not waive the test.",
+      "quote": "Applicants who hold a Bachelor’s or higher degree from a university located in the United States or in another country in which English is both the primary spoken language of daily life (e.g., Australia, Barbados, Canada, Ireland, Jamaica, New Zealand, United Kingdom) and the medium of instruction",
+      "url": "https://bioscience.ucla.edu/application-procedure"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students do at least two lab rotations before committing to a lab.",
+      "quote": "Each student is required to complete two quarter-long rotations before committing to a lab",
+      "url": "https://neuroscience.ucla.edu/graduate-program-faq"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted students get a first-year support offer (stipend, tuition, fees, health insurance, non-resident tuition), and Bioscience students making timely progress stay funded.",
+      "quote": "Prospective students that are offered admission will receive a Financial Support Offer for the first-year of study. The Financial Support Offer provides a competitive stipend (taxable) for living and educational expenses as well as support for mandatory tuition, campus fees and health insurance benefits (taxable) and if applicable, non-resident supplemental tuition support.",
+      "url": "https://neuroscience.ucla.edu/admissions-faq-subject-revision",
+      "also": [
+        {
+          "quote": "All students making timely progress toward their degrees receive financial support that includes a competitive stipend, full tuition, health insurance, and various student services fees",
+          "url": "https://bioscience.ucla.edu/program-description"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply with (or while completing) a bachelor's degree.",
+      "quote": "An applicant must hold or be in the process of completing a bachelor’s degree from an accredited college or university",
+      "url": "https://neuroscience.ucla.edu/admissions-faq-subject-revision"
+    }
+  },
+  "notes": "A Home Area of Graduate Programs in Bioscience."
+}

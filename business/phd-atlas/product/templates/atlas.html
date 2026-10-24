@@ -65,6 +65,7 @@ button:focus-visible, input:focus-visible, select:focus-visible, summary:focus-v
 .situation > summary::-webkit-details-marker { display: none; }
 .situation > summary small { font-weight: 500; color: var(--muted); }
 .sit-body { padding: 0 16px 16px; }
+.show-results { display: none; }
 .q { margin: 0 0 14px; border: 0; padding: 0; min-width: 0; }
 .q legend, .q .qlabel { font-size: .8rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin-bottom: 6px; padding: 0; }
 .opts { display: flex; flex-wrap: wrap; gap: 6px; }
@@ -195,6 +196,7 @@ footer { max-width: 1400px; margin: 0 auto; padding: 6px 16px 34px; color: var(-
 @media (max-width: 920px) {
   .layout { grid-template-columns: minmax(0, 1fr); }
   .situation { position: static; max-height: none; }
+  .show-results { display: inline-flex; }
   .tabs button { padding: 6px 10px; }
   .seg.views { display: none; }
 }
@@ -524,7 +526,10 @@ function buildSituation() {
   body.append(single("funding", "Funding", [["need", "I need full funding"]]));
   body.append(single("supervisor", "Contacting supervisors first", [["ok", "Fine with it"], ["avoid", "Prefer programs that don't need it"]]));
   const n = answered();
+  const showN = visible().length;
   body.append(el("div", { class: "sit-foot" },
+    el("button", { type: "button", class: "primary show-results", onclick: () => { $("situation").open = false; $("results").scrollIntoView({ block: "start" }); } },
+      "Show " + showN.toLocaleString("en-IN") + (showN === 1 ? " program" : " programs")),
     el("button", { type: "button", class: "ghost", onclick: () => { profile = { fields: [], regions: [], degree: "", sgre: "", ggre: "", english: "", toefl: "", ielts: "", fees: "", funding: "", supervisor: "" }; saveProfile(); buildSituation(); } }, "Clear all")));
   const parts = [];
   if (profile.fields.length) parts.push(profile.fields.length + (profile.fields.length === 1 ? " field" : " fields"));

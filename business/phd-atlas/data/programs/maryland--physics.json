@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Department of Physics",
   "program_page": "https://academiccatalog.umd.edu/graduate/programs/physics-phys/",
-  "checked": "2026-10-21",
+  "checked": "2026-10-23",
   "fields": {
     "deadline": {
       "code": "2026-12-11",
@@ -32,11 +32,41 @@
       "url": "https://academiccatalog.umd.edu/graduate/programs/physics-phys/"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
-      "url": "https://academiccatalog.umd.edu/graduate/programs/physics-phys/"
+      "code": "Direct from bachelor's",
+      "value": "Apply straight from a bachelor's in physics; the department admits PhD students only (no master's-only admission).",
+      "quote": "Our graduate program is really designed for students with a solid background in undergraduate physics. | Our department does not admit students seeking only a Master's degree",
+      "url": "https://umdphysics.umd.edu/academics/graduate/grad-faq.html"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The GRE General is not used in physics admissions.",
+      "quote": "The General GRE will not be used in our admissions process.",
+      "url": "https://umdphysics.umd.edu/academics/graduate/grad-faq.html"
+    },
+    "toefl_min": {
+      "code": "96",
+      "value": "Physics only considers applicants who meet the Graduate School's full-enrollment scores: TOEFL iBT 96 (old scale) or 5 (new scale), with section minimums; no conditional English admission.",
+      "quote": "If you fall below the minimum requirements for \"full enrollment\", unfortunately your application will not be considered.",
+      "url": "https://umdphysics.umd.edu/academics/graduate/grad-faq.html",
+      "also": [
+        {
+          "quote": "iBT TOEFL (taken January 20, 2026 or before) Requirements for Full Enrollment | Total 96 96 88-95 87 and below* | iBT TOEFL (taken January 21, 2026 or after) Requirements for Full Enrollment | Overall 5 5 4.5 0-4",
+          "url": "https://gradschool.umd.edu/admissions/english-language-proficiency-requirements"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Physics only considers applicants who meet the full-enrollment IELTS score of 7.0 overall (sections 7, Speaking 6.5); no conditional English admission.",
+      "quote": "If you fall below the minimum requirements for \"full enrollment\", unfortunately your application will not be considered.",
+      "url": "https://umdphysics.umd.edu/academics/graduate/grad-faq.html",
+      "also": [
+        {
+          "quote": "IELTS Requirements for Full Enrollment | Overall 7 7 6.5 6.0 and below*",
+          "url": "https://gradschool.umd.edu/admissions/english-language-proficiency-requirements"
+        }
+      ]
     }
   },
-  "notes": "Three letters of recommendation; supplementary application required. Department site was unreachable (HTTP 502) on the check date."
+  "notes": "Three letters of recommendation; supplementary application required. Department site was unreachable (HTTP 502) on the check date. Physics GRE is formally optional but strongly recommended, especially for international applicants (FAQ). Faculty may be contacted before applying but this is not required."
 }

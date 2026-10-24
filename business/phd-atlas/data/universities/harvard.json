@@ -3,45 +3,51 @@
   "institution": "Harvard University",
   "country": "USA",
   "region": "Massachusetts",
-  "grad_page": "https://gsas.harvard.edu/program/physics",
-  "checked": "2026-10-21",
+  "grad_page": "https://gsas.harvard.edu/apply/applying-degree-programs",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://gsas.harvard.edu/program/physics"
+      "code": "105 USD",
+      "value": "The Harvard Griffin GSAS application fee is USD 105, paid by credit card only and not refundable; each application (up to three programs per year) needs its own fee.",
+      "quote": "The application fee is $105 payable by credit card. | The application fee is not refundable.",
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://gsas.harvard.edu/program/physics"
+      "code": "Available",
+      "value": "You can check fee-waiver eligibility by answering questions in the Application Fee section of the online application, which gives an immediate answer; the page does not restrict waivers by citizenship.",
+      "quote": "Harvard Griffin GSAS is committed to ensuring that our fee does not create a financial obstacle. | Applicants can determine eligibility for a fee waiver by completing a series of questions in the Application Fee section of the application.",
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://gsas.harvard.edu/program/physics"
+      "value": "Set by each program (Required, Optional or Not Accepted); see the program record.",
+      "quote": "Your degree program will note one of three options regarding submission of scores for the GRE General Test.",
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/gre"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://gsas.harvard.edu/program/physics"
+      "code": "95",
+      "value": "TOEFL iBT 5 on the new scale (95 for tests taken before January 21, 2026), with Speaking at least 4.5 (23 on the old scale); some programs set higher scores.",
+      "quote": "Earning a minimum score of 5 (95 for tests taken prior to January 21, 2026) on the TOEFL iBT and a minimum Speaking score of 4.5 (23 for tests taken prior to January 21, 2026).",
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/english-proficiency",
+      "also": [
+        {
+          "quote": "Some degree programs may require higher scores on either the TOEFL or IELTS.",
+          "url": "https://gsas.harvard.edu/apply/applying-degree-programs/english-proficiency"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://gsas.harvard.edu/program/physics"
+      "code": "7",
+      "value": "IELTS Academic 7 overall with Speaking at least 6.5.",
+      "quote": "Earning a minimum score of 7 on the IELTS Academic test and a minimum Speaking score of 6.5.",
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/english-proficiency"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://gsas.harvard.edu/program/physics"
+      "code": "Yes",
+      "value": "No test is needed if your undergraduate degree is from an institution where English is the primary language of instruction; a master's or other graduate degree does not count.",
+      "quote": "Receiving an undergraduate degree from an academic institution where English is the primary language of instruction. | A master’s degree or other graduate degree is not accepted as proof of English proficiency.",
+      "url": "https://gsas.harvard.edu/apply/applying-degree-programs/english-proficiency"
     }
   },
-  "notes": ""
+  "notes": "All PhD applications go through Harvard Kenneth C. Griffin GSAS. Up to three applications to different programs per year, each with its own fee. TOEFL/IELTS scores must be from tests taken no earlier than January 5, 2025 for fall 2027."
 }

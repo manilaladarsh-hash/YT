@@ -1,110 +1,106 @@
 // Drive dist/.../Atlas.html from file:// with the network blocked and report results as JSON.
 // Usage: NODE_PATH=$(npm root -g) node tests/explorer_check.cjs <path-to-Atlas.html>
+const fs = require("fs");
 const path = require("path");
 const { chromium } = require("playwright");
+
+const FIXTURE = { degree: "bachelor", sgre: "no", english: "avoid", fees: "free", funding: "need" };
+
+async function open(browser, file, opts, out) {
+  const ctx = await browser.newContext({ ...opts, acceptDownloads: true });
+  await ctx.route("**/*", (route) => {
+    const u = route.request().url();
+    if (/^(file|blob|data):/.test(u)) return route.continue();
+    out.requests.push(u);
+    return route.abort();
+  });
+  const page = await ctx.newPage();
+  page.on("console", (m) => { if (m.type() === "error") out.errors.push(m.text()); });
+  page.on("pageerror", (e) => out.errors.push(String(e)));
+  return { ctx, page };
+}
+
+async function ready(page) {
+  await page.waitForFunction(() => window.ATLAS_READY === true, null, { timeout: 20000 });
+}
+
+async function download(page, label) {
+  const [dl] = await Promise.all([page.waitForEvent("download"), page.locator("button", { hasText: label }).first().click()]);
+  return { name: dl.suggestedFilename(), text: fs.readFileSync(await dl.path(), "utf8") };
+}
 
 (async () => {
   const file = "file://" + path.resolve(process.argv[2]);
   const out = { errors: [], requests: [] };
   const browser = await chromium.launch();
   try {
-    const ctx = await browser.newContext({ acceptDownloads: true });
-    await ctx.route("**/*", (route) => {
-      const u = route.request().url();
-      if (u.startsWith("file://") || u.startsWith("blob:") || u.startsWith("data:")) return route.continue();
-      out.requests.push(u);
-      return route.abort();
-    });
-    const page = await ctx.newPage();
-    page.on("console", (m) => { if (m.type() === "error") out.errors.push(m.text()); });
-    page.on("pageerror", (e) => out.errors.push(String(e)));
-    await page.setViewportSize({ width: 1280, height: 900 });
+    // Desktop
+    const { ctx, page } = await open(browser, file, { viewport: { width: 1366, height: 900 } }, out);
+    const t0 = Date.now();
     await page.goto(file, { waitUntil: "load" });
+    await ready(page);
+    out.loadMs = Date.now() - t0;
+    out.total = await page.evaluate(() => window.atlasTest.programs.length);
+    out.firstPageCards = await page.locator(".card").count();
+    out.summaryAll = await page.locator("#summary").innerText();
 
-    out.total = await page.locator("#rows tr").count();
-    out.subtitle = await page.locator("#subtitle").textContent();
-
-    await page.selectOption("#country", "Canada");
-    out.canada = await page.locator("#rows tr").count();
-    await page.selectOption("#country", "");
-    out.countryOptions = await page.locator("#country option").count();
-    await page.selectOption("#area", "Europe");
-    out.europe = await page.locator("#rows tr").count();
-    out.perPositionShown = (await page.locator("#rows").textContent()).includes("Per position");
-    await page.selectOption("#area", "");
-
-    await page.selectOption("#pgre", "required");
-    out.pgreRequired = await page.locator("#rows tr").count();
-    await page.selectOption("#pgre", "");
-
-    await page.selectOption("#waiver", "free");
-    out.free = await page.locator("#rows tr").count();
-    await page.selectOption("#waiver", "");
-
-    // Quick pick: Bachelor's OK toggles the entry filter.
-    await page.locator('[data-pick="entry=bachelor"]').click();
-    out.pickBachelor = await page.locator("#rows tr").count();
-    out.pickBachelorPressed = await page.locator('[data-pick="entry=bachelor"]').getAttribute("aria-pressed");
-    out.filtersSummary = await page.locator("#filtersSummary").textContent();
-    await page.locator('[data-pick="entry=bachelor"]').click();
-    await page.selectOption("#fund", "funded");
-    out.funded = await page.locator("#rows tr").count();
-    await page.selectOption("#fund", "");
-
-    // Approximate rupee fees under each numeric fee, and in the fee dialog.
-    out.inrHints = await page.locator("#rows .hint", { hasText: "₹" }).count();
-    await page.selectOption("#sort", "fee");
-    const feeBtn = page.locator("#rows tr").filter({ has: page.locator(".hint", { hasText: "₹" }) }).first().locator("td").nth(3).locator("button");
-    await feeBtn.click();
-    out.feeDialogExtra = await page.locator("#dExtra").textContent();
-    await page.locator("#detail button.primary").click();
-    await page.selectOption("#sort", "deadline");
-
-    await page.fill("#q", "Waterloo");
-    out.search = await page.locator("#rows tr").count();
+    await page.fill("#q", "waterloo");
+    await page.waitForTimeout(400);
+    out.searchCards = await page.locator(".card").count();
     await page.fill("#q", "");
+    await page.waitForTimeout(400);
 
-    // Sorting by deadline: first row should have the earliest date.
-    out.firstByDeadline = await page.locator("#rows tr").first().locator("td.prog b").textContent();
+    // Answering one question through the panel marks the button and adds fit counts.
+    const btn = page.locator("#sitBody button", { hasText: "Only free or waivable" }).first();
+    await btn.click();
+    out.feeButtonPressed = await btn.getAttribute("aria-pressed");
 
-    // Open a detail dialog and read the quote.
-    await page.locator("#rows tr").first().locator("td").nth(2).locator("button").click();
-    out.dialogOpen = await page.locator("#detail").evaluate((d) => d.open);
-    out.dialogQuote = await page.locator("#dQuote").textContent();
-    out.dialogLink = await page.locator("#dLink").getAttribute("href");
-    await page.locator("#detail button.primary").click();
+    await page.evaluate((p) => window.atlasTest.setProfile(p), FIXTURE);
+    await page.waitForTimeout(300);
+    out.summaryFit = await page.locator("#summary").innerText();
+    out.fit = await page.evaluate(() => window.atlasTest.programs.map((p) => [p.id, window.atlasTest.fit(p).status]));
+    out.firstCardStatus = await page.locator(".card").first().getAttribute("class");
 
-    // Star two programs, filter to shortlist, export CSV.
-    await page.locator("#rows tr").nth(0).locator(".star").click();
-    await page.locator("#rows tr").nth(1).locator(".star").click();
-    await page.locator("#onlyStar").click();
-    out.starred = await page.locator("#rows tr").count();
-    const [dl] = await Promise.all([page.waitForEvent("download"), page.locator("#exportBtn").click()]);
-    const fs = require("fs");
-    const csvPath = await dl.path();
-    out.csvLines = fs.readFileSync(csvPath, "utf8").trim().split(/\r?\n/).length;
-    out.csvName = dl.suggestedFilename();
+    await page.locator(".card button", { hasText: "Details" }).first().click();
+    await page.waitForSelector("dialog[open]");
+    out.dialogLinks = await page.locator("dialog[open] a", { hasText: "Source" }).evaluateAll((as) => as.map((a) => a.href));
+    out.dialogText = await page.locator("dialog[open]").innerText();
+    await page.locator("#dClose").click();
 
-    // Reload: shortlist should persist via localStorage.
-    await page.reload({ waitUntil: "load" });
-    out.persistedStars = await page.locator(".star[aria-pressed='true']").count();
+    const starsBtn = page.locator(".card .star");
+    for (let i = 0; i < 3; i++) await starsBtn.nth(i).click();
+    out.starCount = (await page.locator("#starCount").innerText()).trim();
+    await page.locator("#tab-plan").click();
+    out.planText = await page.locator("#view-plan").innerText();
+    const ics = await download(page, "calendar");
+    out.icsName = ics.name;
+    out.ics = ics.text;
+    const csv = await download(page, "Spreadsheet");
+    out.csvName = csv.name;
+    out.csvLines = csv.text.trim().split("\r\n").length;
+    const todo = page.locator(".todo input[type=checkbox]").first();
+    await todo.check();
+    await page.reload();
+    await ready(page);
+    out.persistedStars = (await page.locator("#starCount").innerText()).trim();
+    out.planVisibleAfterReload = await page.locator("#view-plan").isVisible();
+    out.todoPersisted = await page.locator(".todo input[type=checkbox]").first().isChecked();
+    await ctx.close();
 
-    // Phone width: cards visible, no horizontal page scroll.
-    await page.setViewportSize({ width: 375, height: 800 });
-    out.cardsVisible = await page.locator("#cards").isVisible();
-    out.horizontalOverflow = await page.evaluate(() => document.documentElement.scrollWidth > window.innerWidth + 1);
-
-    // Fresh load at phone width: filters folded so programs appear near the top.
-    const phone = await ctx.newPage();
-    await phone.setViewportSize({ width: 390, height: 844 });
-    await phone.goto(file, { waitUntil: "load" });
-    out.phoneFiltersOpen = await phone.locator("#filters").evaluate((d) => d.open);
-    out.phoneFirstCardTop = await phone.locator("#cards .card").first().evaluate((e) => e.getBoundingClientRect().top);
-    await phone.close();
-
-    // Dark mode toggle.
-    await page.locator("#theme").click();
-    out.theme = await page.evaluate(() => document.documentElement.dataset.theme || "");
+    // Phone, with a 4x CPU slowdown for the load-time budget.
+    const ph = await open(browser, file, { viewport: { width: 390, height: 844 }, isMobile: true, hasTouch: true, deviceScaleFactor: 2 }, out);
+    const cdp = await ph.ctx.newCDPSession(ph.page);
+    await cdp.send("Emulation.setCPUThrottlingRate", { rate: 4 });
+    const t1 = Date.now();
+    await ph.page.goto(file, { waitUntil: "load" });
+    await ready(ph.page);
+    out.phoneLoadMs = Date.now() - t1;
+    out.phoneOverflow = await ph.page.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);
+    out.phoneFirstCardTop = await ph.page.locator(".card").first().evaluate((e) => e.getBoundingClientRect().top);
+    await ph.page.evaluate((p) => window.atlasTest.setProfile(p), FIXTURE);
+    await ph.page.locator("#tab-guide").click();
+    out.phoneGuideOverflow = await ph.page.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);
+    await ph.ctx.close();
   } finally {
     await browser.close();
   }

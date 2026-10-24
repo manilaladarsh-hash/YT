@@ -1,0 +1,54 @@
+{
+  "id": "ucla--chemeng",
+  "university": "ucla",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Department of Chemical and Biomolecular Engineering",
+  "program_page": "https://www.chemeng.ucla.edu/graduate-admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-31",
+      "value": "Apply by December 31, 2026 for Fall 2027; all materials must arrive by then.",
+      "quote": "Deadlines to apply | December 31, 2026",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0294",
+      "also": [
+        {
+          "quote": "The application deadline is December 31st for the following fall quarter.",
+          "url": "https://www.chemeng.ucla.edu/graduate-admissions/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies.",
+      "quote": "",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0294"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional.",
+      "quote": "GRE: Optional",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0294"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must name at least one faculty advisor and should email them directly; there are no rotations, and the selecting professor becomes the research advisor.",
+      "quote": "All Ph.D. and M.S. candidates including ESAP are required on the application to select at least one faculty advisor. It is important that you contact the faculty by email directly. | There are no rotations between labs. | Students are selected to the Ph.D. or M.S. program by one of the faculty selected.",
+      "url": "https://www.chemeng.ucla.edu/graduate-admissions/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Ph.D. students are fully supported (stipend, tuition and fees); discuss funding with the chosen advisor.",
+      "quote": "Ph.D. candidates are fully supported by the department (stipend, tuition & fees). Applicants should directly contact the faculty research advisers selected regarding funding.",
+      "url": "https://www.chemeng.ucla.edu/graduate-admissions/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "No master's is needed to apply for the Ph.D.",
+      "quote": "A student does not need to have a M.S degree in order to apply for the Ph.D. program.",
+      "url": "https://www.chemeng.ucla.edu/graduate-admissions/"
+    }
+  },
+  "notes": ""
+}

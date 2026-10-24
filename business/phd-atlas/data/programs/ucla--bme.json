@@ -1,0 +1,48 @@
+{
+  "id": "ucla--bme",
+  "university": "ucla",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Bioengineering",
+  "program_page": "https://www.bioeng.ucla.edu/graduate-admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026; letters are also due then.",
+      "quote": "Application Deadline: December 1, 2026",
+      "url": "https://www.bioeng.ucla.edu/graduate-admissions/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies.",
+      "quote": "",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0288"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional.",
+      "quote": "GRE: Optional",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0288"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Name a preferred faculty advisor so that professor reviews your application; otherwise list the field chair and name the advisor in your statement.",
+      "quote": "By entering the name of your preferred Faculty Advisor in the appropriate field for MS Thesis and PhD applicants allows your application to be reviewed by that particular Faculty Advisor.",
+      "url": "https://www.bioeng.ucla.edu/graduate-admissions/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated; the department says most financial offers are Graduate Student Researcher appointments.",
+      "quote": "",
+      "url": "https://www.bioeng.ucla.edu/graduate-admissions/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply to the Ph.D. with a B.S. in engineering, life science or physical science (GPA 3.0+).",
+      "quote": "To apply for the M.S. or PhD degree, applicants should have a B.S. degree in Engineering, Life Science, or Physical Science, with a grade point average (GPA) of 3.0 or higher.",
+      "url": "https://www.bioeng.ucla.edu/graduate-admissions/"
+    }
+  },
+  "notes": ""
+}

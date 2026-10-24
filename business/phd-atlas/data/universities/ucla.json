@@ -3,45 +3,51 @@
   "institution": "University of California, Los Angeles",
   "country": "USA",
   "region": "California",
-  "grad_page": "https://grad.ucla.edu/requirements/?app=admission&major=0666",
-  "checked": "2026-10-21",
+  "grad_page": "https://grad.ucla.edu/admissions/research-requirements/",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0666"
+      "code": "155 USD",
+      "value": "USD 155 for international applicants (USD 135 for U.S. citizens and permanent residents); paid online by card and non-refundable.",
+      "quote": "The $135.00 (for U.S. citizens and Permanent Residents) or $155.00 (for all other applicants) application fee must be submitted online by credit or debit card before the application can be processed.",
+      "url": "https://grad.ucla.edu/admissions/research-requirements/",
+      "also": [
+        {
+          "quote": "or $155 [for all other applicants]",
+          "url": "https://grad.ucla.edu/admissions/faqs/"
+        }
+      ]
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0666"
+      "code": "Limited",
+      "value": "Need-based waivers are open to non-citizens only if they receive need-based financial aid from the state of California; other waivers are tied to named (mostly U.S.) programs or in-person recruitment events, so most Indian applicants will pay the fee.",
+      "quote": "Waivers of UCLA’s application fee are available for U.S. citizens, Permanent Residents and others who demonstrate financial need by meeting the following criteria: | if not a U.S. citizen or Permanent Resident, this financial aid must come from the state of California | Only attendees at in-person events are eligible to receive this fee waiver.",
+      "url": "https://grad.ucla.edu/admissions/research-requirements/"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0666"
+      "value": "UCLA sets no campus-wide GRE rule; each program decides (see the program records).",
+      "quote": "GRE requirements vary by graduate program.",
+      "url": "https://grad.ucla.edu/admissions/faqs/"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0666"
+      "code": "87",
+      "value": "TOEFL iBT 87 overall for tests taken before January 21, 2026, or 4.5 on the new scale for tests from that date; some programs set higher or section minimums.",
+      "quote": "Minimum overall score on TOEFL iBT: 87 (for exams taken before January 21, 2026) or 4.5 (for exams taken on or after January 21, 2026). | Some majors may require higher overall scores or minimum section scores for admission in Departmental Information.",
+      "url": "https://grad.ucla.edu/admissions/english-requirements/"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0666"
+      "code": "7",
+      "value": "IELTS Academic 7.0 overall.",
+      "quote": "Minimum overall band score on IELTS Academic: 7.0.",
+      "url": "https://grad.ucla.edu/admissions/english-requirements/"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0666"
+      "code": "Check tool",
+      "value": "Exempt only with a bachelor's or higher from the U.S. or a country where English is the sole language of instruction according to the World Higher Education Database (WHED); UCLA lists no countries, so Indian applicants must check WHED or take the test. Several departments use a stricter 'primary spoken language' rule (see program records).",
+      "quote": "Prior education – A bachelor’s degree or higher from an accredited university located in the United States or in another country where English is the sole language of instruction according to the World Higher Education Database (WHED).",
+      "url": "https://grad.ucla.edu/admissions/english-requirements/"
     }
   },
-  "notes": ""
+  "notes": "Application fee, English and fee-waiver rules are set by the UCLA Division of Graduate Education; GRE and deadlines are set by each program."
 }

@@ -1,0 +1,61 @@
+{
+  "id": "wisconsin--statistics",
+  "university": "wisconsin",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Statistics",
+  "program_page": "https://stat.wisc.edu/graduate-admissions/phd-program/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1 (2026) for Fall 2027; this is also the deadline for assistantship consideration.",
+      "quote": "The application deadline is December 1 for a fall term start (no spring admissions). | To be considered for financial assistantship, all required application materials listed below should be submitted via the online application by the December 1 deadline.",
+      "url": "https://stat.wisc.edu/graduate-admissions/phd-program/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Mathematics Subject GRE policy is stated (the GRE is not required).",
+      "quote": "",
+      "url": "https://stat.wisc.edu/graduate-admissions/phd-program/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required.",
+      "quote": "The GRE is not required.",
+      "url": "https://stat.wisc.edu/graduate-admissions/phd-program/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department does not do pre-evaluations by email; no advisor rule for applicants is stated.",
+      "quote": "",
+      "url": "https://stat.wisc.edu/graduate-admissions/phd-program/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "The department strives to fund PhD students as TAs, RAs or PAs; admitted students can apply for TA positions, and December 1 applicants are considered for funding.",
+      "quote": "Students admitted to the PhD Statistics: Statistics option will have the opportunity to apply for teaching assistantships within the Department of Statistics.",
+      "url": "https://guide.wisc.edu/graduate/statistics/statistics-phd/statistics-statistics-phd/",
+      "also": [
+        {
+          "quote": "The department strives to support students in the PhD program as teaching, research, or project assistants.",
+          "url": "https://stat.wisc.edu/graduate-admissions/phd-program/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply from a bachelor's in a natural science, social science or engineering with a strong maths background.",
+      "quote": "Applicants holding a bachelor's degree with a natural science, social science, or engineering major and strong mathematical background are encouraged to apply for admission to the graduate program in statistics.",
+      "url": "https://guide.wisc.edu/graduate/statistics/statistics-phd/statistics-statistics-phd/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "A test is needed unless your undergraduate instruction was in English (Graduate School rules apply).",
+      "quote": "Applicants whose native language is not English, or whose undergraduate instruction was not in English, must provide an English proficiency test score.",
+      "url": "https://stat.wisc.edu/graduate-admissions/phd-program/"
+    }
+  },
+  "notes": "Apply to either the Statistics or the Biostatistics named option (not both); students can switch after enrolling."
+}

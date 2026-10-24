@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Department of Physics",
   "program_page": "https://www.physics.columbia.edu/content/applying-columbia-physics-graduate-program",
-  "checked": "2026-10-21",
+  "checked": "2026-10-23",
   "fields": {
     "deadline": {
       "code": "2026-12-03",
@@ -32,10 +32,16 @@
       "url": "https://www.physics.columbia.edu/content/applying-columbia-physics-graduate-program"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked",
-      "quote": "",
-      "url": "https://www.physics.columbia.edu/content/applying-columbia-physics-graduate-program"
+      "code": "Direct from bachelor's",
+      "value": "Apply straight from a bachelor's degree with three years of undergraduate physics; admitted students are treated as PhD candidates.",
+      "quote": "Three years of fundamental undergraduate physics courses, individual laboratories, and a working knowledge of ordinary differential equations are generally required for admission.",
+      "url": "https://www.physics.columbia.edu/content/applying-columbia-physics-graduate-program",
+      "also": [
+        {
+          "quote": "All students accepted for graduate study are usually assumed to be candidates for the PhD degree.",
+          "url": "https://www.gsas.columbia.edu/content/physics"
+        }
+      ]
     },
     "app_fee": {
       "code": "120 USD",
@@ -53,12 +59,6 @@
       "code": "Optional",
       "value": "Allowed but not required",
       "quote": "Submission of GRE scores is allowed but not required; the choice is yours.",
-      "url": "https://www.gsas.columbia.edu/content/physics"
-    },
-    "english_waiver": {
-      "code": "Conditional",
-      "value": "Rule is based on the official language of your degree institution's country; English is an official language in India, so ask GSAS how this applies to you",
-      "quote": "All applicants whose undergraduate degree is from an institution in a country whose official language is not English must submit English proficiency exam scores.",
       "url": "https://www.gsas.columbia.edu/content/physics"
     }
   },

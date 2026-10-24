@@ -1,0 +1,73 @@
+{
+  "id": "uwashington--cs",
+  "university": "uwashington",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Paul G. Allen School of Computer Science & Engineering",
+  "program_page": "https://www.cs.washington.edu/academics/graduate/phd-program/phd-admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Apply by December 15, 2026 for autumn 2027; one admissions cycle per year.",
+      "quote": "December 15, with students expected to enroll in the following autumn. The Allen School only holds one doctoral program admissions cycle each year.",
+      "url": "https://www.cs.washington.edu/academics/graduate/phd-program/phd-admissions/faq/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE scores are not required or accepted and are not reviewed.",
+      "quote": "GRE scores are no longer required or accepted for the Ph.D. program. GRE scores will not be reviewed or considered by the Allen School, even if they are submitted to the University of Washington.",
+      "url": "https://www.cs.washington.edu/academics/graduate/phd-program/phd-admissions/faq/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE applies to computer science.",
+      "quote": "",
+      "url": "https://www.cs.washington.edu/academics/graduate/phd-program/phd-admissions/faq/"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "TOEFL total (or MyBest) of 4.0 on the new scale.",
+      "quote": "TOEFL scores showing a minimum total score or MyBest score of 4.0 or higher.",
+      "url": "https://www.cs.washington.edu/academics/graduate/phd-program/phd-admissions/how-apply/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Academic IELTS 7.0 overall (higher than the university minimum).",
+      "quote": "Academic IELTS scores showing a total score of 7.0 or higher.",
+      "url": "https://www.cs.washington.edu/academics/graduate/phd-program/phd-admissions/how-apply/"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Graduate School waivers are only for some domestic applicants in need; the Allen School gives no waivers to international applicants.",
+      "quote": "Application fee waivers are available from the UW Graduate School to some domestic students who demonstrate financial need. The Ph.D. program does not offer fee waivers at the program/department level.",
+      "url": "https://www.cs.washington.edu/academics/graduate/phd-program/phd-admissions/how-apply/",
+      "also": [
+        {
+          "quote": "The Paul G. Allen School of Computer Science & Engineering is unable to offer fee waivers to international students due to budgetary constraints.",
+          "url": "https://www.cs.washington.edu/academics/graduate/phd-program/phd-admissions/faq/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You can name faculty of interest (strongly encouraged) but do not need to contact anyone or secure an advisor before applying.",
+      "quote": "If you are confident that you’d like to work with any particular faculty member(s), you may indicate their name(s) in the supplemental question. | You do not need to contact faculty prior to applying, nor is it expected.",
+      "url": "https://www.cs.washington.edu/academics/graduate/phd-program/phd-admissions/faq/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every admitted PhD student gets 3 years of guaranteed TA/RA or fellowship support (stipend, tuition waiver, health insurance); later years depend on assistantships.",
+      "quote": "The Allen School provides every student accepted to our Ph.D. program with 3 years of guaranteed financial support in the form of teaching and research assistantships or fellowships.",
+      "url": "https://www.cs.washington.edu/academics/graduate/phd-program/phd-admissions/faq/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply with a 4-year bachelor's (a master's is optional); there is no standalone full-time MS, and the PhD awards an MS along the way.",
+      "quote": "A 4-year degree from in a country with 12 years of pre-university formal education | consider applying to the Computer Science & Engineering Ph.D program, which awards an MS degree as you earn the doctorate",
+      "url": "https://www.cs.washington.edu/academics/graduate/phd-program/phd-admissions/faq/"
+    }
+  },
+  "notes": "About 3,000+ applicants a year; all students must TA for at least two quarters (Policy 5.2 English rules for TAs)."
+}

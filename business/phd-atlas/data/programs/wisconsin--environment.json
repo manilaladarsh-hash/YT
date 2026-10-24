@@ -1,0 +1,49 @@
+{
+  "id": "wisconsin--environment",
+  "university": "wisconsin",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Atmospheric and Oceanic Sciences",
+  "program_page": "https://aos.wisc.edu/academics/graduate/admission",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Apply by January 1 (2027) for highest consideration for Fall 2027.",
+      "quote": "Applications submitted by January 1st are given highest consideration for Fall semester admission.",
+      "url": "https://aos.wisc.edu/academics/graduate/admission",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE policy stated; this field has no GRE Subject test.",
+      "quote": "",
+      "url": "https://aos.wisc.edu/academics/graduate/admission"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The General GRE is optional; send it only if it adds evidence.",
+      "quote": "the GRE general test is not required (optional).",
+      "url": "https://aos.wisc.edu/academics/graduate/admission"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must have an advisor identified before admission; international students are generally admitted only once an advisor and funding are found, so contact faculty early.",
+      "quote": "PhD students must have an advisor before they can be recommended for admission. | International students are generally only admitted once an advisor and funding source are identified.",
+      "url": "https://aos.wisc.edu/academics/graduate/admission"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Admission does not guarantee funding; fewer than 10 students are funded most years, with RAs decided by faculty with grants.",
+      "quote": "An offer of admission for fall, typically made in February or early March, does not guarantee funding. | We can only offer funding to less than 10 in most years.",
+      "url": "https://aos.wisc.edu/academics/graduate/admission"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not required to start the PhD.",
+      "quote": "a master’s degree is not required to start a Ph.D. program.",
+      "url": "https://aos.wisc.edu/academics/graduate/admission"
+    }
+  },
+  "notes": ""
+}

@@ -1,47 +1,65 @@
 {
   "id": "wisconsin",
-  "institution": "University of Wisconsin-Madison",
+  "institution": "University of Wisconsin–Madison",
   "country": "USA",
   "region": "Wisconsin",
-  "grad_page": "https://www.physics.wisc.edu/graduate/phd-program/",
-  "checked": "2026-10-21",
+  "grad_page": "https://grad.wisc.edu/apply/",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.wisc.edu/graduate/phd-program/"
+      "code": "81 USD",
+      "value": "The application fee is $75, plus a $6 processing fee for international applicants ($81 total); one fee covers up to three programs in the same term.",
+      "quote": "Your application fee is $75, whether you apply to one, two, or three programs. | International applicants pay an extra $6 processing fee.",
+      "url": "https://grad.wisc.edu/apply/"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.wisc.edu/graduate/phd-program/"
+      "code": "Domestic only",
+      "value": "Graduate School fee grants are only for U.S. citizens and permanent residents; some programs buy their own fee grants with their own rules, so ask the department.",
+      "quote": "you must be a U.S. citizen or permanent resident as your current legal status to be eligible for a Graduate School fee grant. | This restriction does not apply to program-purchased fee grants.",
+      "url": "https://grad.wisc.edu/apply/",
+      "also": [
+        {
+          "quote": "Programs determine their own fee grant eligibility criteria, and not all programs offer fee grants.",
+          "url": "https://grad.wisc.edu/apply/"
+        }
+      ]
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.wisc.edu/graduate/phd-program/"
+      "code": "Not required",
+      "value": "The Graduate School does not require the GRE; each program decides, so check the program record.",
+      "quote": "The Graduate School does not require the GRE. Your academic program may or may not require it.",
+      "url": "https://info.grad.wisc.edu/requirements-for-admission"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.wisc.edu/graduate/phd-program/"
+      "code": "92",
+      "value": "TOEFL iBT 92 for tests taken before January 21, 2026, or 5.0 on the new scale for tests from that date; 80-91 (or 4.5) may be accepted with program approval plus an on-arrival English test (ESLAT).",
+      "quote": "Minimum TOEFL requirement:92 for tests taken before January 21, 2026 | Minimum TOEFL requirement:5.0 for tests taken on and after January 21, 2026",
+      "url": "https://info.grad.wisc.edu/requirements-for-admission",
+      "also": [
+        {
+          "quote": "TOEFL:80-91 for tests taken before January 21, 2026",
+          "url": "https://info.grad.wisc.edu/requirements-for-admission"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.wisc.edu/graduate/phd-program/"
+      "code": "7",
+      "value": "IELTS Academic 7.0 overall; 6.5 may be accepted with program approval plus an on-arrival English test (ESLAT).",
+      "quote": "Minimum IELTS requirement:7.0",
+      "url": "https://info.grad.wisc.edu/requirements-for-admission"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.wisc.edu/graduate/phd-program/"
+      "code": "Conditional",
+      "value": "Indian applicants are exempt only if the degree-granting university (not the affiliated college) teaches exclusively in English and this is stated on the official transcript or verified; otherwise a test is required.",
+      "quote": "English proficiency test required unless the language of instruction at your degree granting institution (not your affiliated college) is exclusively English.",
+      "url": "https://info.grad.wisc.edu/requirements-for-admission/country/100",
+      "also": [
+        {
+          "quote": "Earned the equivalent of a bachelor's degree from an institution outside of the U.S. where English is the exclusive language of instruction. The language of instruction must be stated on the official transcript or verified as the only language of instruction.",
+          "url": "https://info.grad.wisc.edu/requirements-for-admission"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "Apply to up to three programs per term for one fee. Duolingo (125) and IELTS Indicator (7.0) are also accepted; scores must be under two years old at the start of enrollment."
 }

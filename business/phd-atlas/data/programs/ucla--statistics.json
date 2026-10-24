@@ -1,0 +1,48 @@
+{
+  "id": "ucla--statistics",
+  "university": "ucla",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Statistics and Data Science",
+  "program_page": "https://grad.ucla.edu/requirements/?app=admission&major=0891",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-10",
+      "value": "Ph.D. applications are due December 10, 2026 (M.S.: January 15, 2027).",
+      "quote": "Ph.D.: December 10, 2026",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0891"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated; only the General GRE is mentioned.",
+      "quote": "",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0891"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE is highly recommended.",
+      "quote": "A GRE score is highly recommended when applying to the M.S. and Ph.D. programs of the Department of Statistics and Data Science.",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0891"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated; the department site (statistics.ucla.edu) could not be fetched.",
+      "quote": "",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0891"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated; the department site (statistics.ucla.edu) could not be fetched.",
+      "quote": "",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0891"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Direct admission to the Ph.D. is possible with a GPA of at least 3.5; a statistics bachelor's is not required.",
+      "quote": "Ph.D.: For direct admission to the doctoral program, a grade-point average of at least 3.5 must be presented. | A bachelor's degree in statistics is not required for the M.S. or Ph.D. programs",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0891"
+    }
+  },
+  "notes": "Biostatistics (Fielding School of Public Health) runs a separate Ph.D. Department site statistics.ucla.edu returned 502."
+}

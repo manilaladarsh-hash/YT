@@ -1,0 +1,61 @@
+{
+  "id": "wisconsin--earth",
+  "university": "wisconsin",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Geoscience",
+  "program_page": "https://geoscience.wisc.edu/academics/graduate-program/graduate-school-application",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-04",
+      "value": "Apply by January 4 (2027) for Fall 2027 to be considered for department support.",
+      "quote": "The application deadline is January 4 annually for those interested in Department support.",
+      "url": "https://geoscience.wisc.edu/academics/graduate-program/graduate-school-application",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE policy stated; this field has no GRE Subject test.",
+      "quote": "",
+      "url": "https://geoscience.wisc.edu/academics/graduate-program/graduate-school-application"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required.",
+      "quote": "GRE (Graduate Record Examinations) Not required.",
+      "url": "https://guide.wisc.edu/graduate/geoscience/geoscience-phd/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "The supplemental application asks you to list faculty you want to work with; having a faculty contact is expected.",
+      "quote": "The Supplemental Application asks that you indicate your top three areas of interest, to list the faculty members with whom you’d like to work",
+      "url": "https://geoscience.wisc.edu/academics/graduate-program/graduate-school-application",
+      "also": [
+        {
+          "quote": "If the fee is a burden, discuss with your faculty contact.",
+          "url": "https://geoscience.wisc.edu/academics/graduate-program/graduate-school-application"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding (TA, RA or PA) goes to the most highly qualified applicants; non-native English speakers can't TA in year one unless their degree was from an English-speaking university.",
+      "quote": "Financial support is available to the most highly qualified applicants.",
+      "url": "https://geoscience.wisc.edu/academics/graduate-program/graduate-school-application"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A BS or BA is required; you can enter with a bachelor's in geology or a related field.",
+      "quote": "A BS or BA is required. Graduate students may enter the department with a bachelor’s degree in geology or a related earth science, or some other field relevant to the intended field of specialization.",
+      "url": "https://geoscience.wisc.edu/academics/graduate-program/graduate-school-application"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The department may have money for fee waivers; discuss with your faculty contact.",
+      "quote": "The department may have funding available for fee waivers.",
+      "url": "https://geoscience.wisc.edu/academics/graduate-program/graduate-school-application"
+    }
+  },
+  "notes": ""
+}

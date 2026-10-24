@@ -3,45 +3,51 @@
   "institution": "University of Maryland, College Park",
   "country": "USA",
   "region": "Maryland",
-  "grad_page": "https://academiccatalog.umd.edu/graduate/programs/physics-phys/",
-  "checked": "2026-10-21",
+  "grad_page": "https://gradschool.umd.edu/admissions/international-admissions",
+  "checked": "2026-10-23",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://academiccatalog.umd.edu/graduate/programs/physics-phys/"
+      "code": "90 USD",
+      "value": "The application fee is $90 (non-refundable).",
+      "quote": "Pay the non-refundable $90 application fee",
+      "url": "https://gradschool.umd.edu/admissions/international-admissions"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://academiccatalog.umd.edu/graduate/programs/physics-phys/"
+      "code": "Limited",
+      "value": "Graduate School fee waivers are limited and mainly for applicants who completed certain career and professional preparatory programs; the FreeApp waiver is for domestic students only. Request a waiver at least three weeks before your program's deadline and before submitting.",
+      "quote": "The University of Maryland Graduate School's application fee waiver program helps applicants who have completed certain career and professional preparatory programs by reducing their application costs. | Please note: Fee waivers are limited and considered individually.",
+      "url": "https://gradschool.umd.edu/feewaiverinformation",
+      "also": [
+        {
+          "quote": "The FreeApp is designed to increase access to graduate education for domestic students.",
+          "url": "https://gradschool.umd.edu/feewaiverinformation"
+        }
+      ]
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "The Graduate School sets no GRE rule; each program decides (see the program records).",
       "quote": "",
-      "url": "https://academiccatalog.umd.edu/graduate/programs/physics-phys/"
+      "url": "https://gradschool.umd.edu/admissions/international-admissions"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://academiccatalog.umd.edu/graduate/programs/physics-phys/"
+      "code": "96",
+      "value": "TOEFL iBT 96 total (Reading 26, Listening 24, Speaking 22, Writing 24) for full enrollment on tests taken by January 20, 2026, or 5 overall on the new 1-6 scale for later tests. Lower scores (88-95, or 4.5 new scale) can mean admission with a required Maryland English Institute course; some programs refuse that.",
+      "quote": "iBT TOEFL (taken January 20, 2026 or before) Requirements for Full Enrollment | Total 96 96 88-95 87 and below* | iBT TOEFL (taken January 21, 2026 or after) Requirements for Full Enrollment | Overall 5 5 4.5 0-4",
+      "url": "https://gradschool.umd.edu/admissions/english-language-proficiency-requirements"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://academiccatalog.umd.edu/graduate/programs/physics-phys/"
+      "code": "7",
+      "value": "IELTS Academic 7.0 overall (Speaking 6.5, other sections 7) for full enrollment; 6.5 can mean admission with a required English bridge course.",
+      "quote": "IELTS Requirements for Full Enrollment | Overall 7 7 6.5 6.0 and below*",
+      "url": "https://gradschool.umd.edu/admissions/english-language-proficiency-requirements"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://academiccatalog.umd.edu/graduate/programs/physics-phys/"
+      "code": "No",
+      "value": "Only degrees from the US or the listed English-speaking countries exempt you; India is not on the list, so Indian applicants need a TOEFL, IELTS or PTE score.",
+      "quote": "Students who have received a degree from a regionally accredited institution in the U.S. or a nationally recognized university in one of the countries on the subsequent list do not need to submit TOEFL, IELTS or PTE scores",
+      "url": "https://gradschool.umd.edu/admissions/english-language-proficiency-requirements"
     }
   },
-  "notes": ""
+  "notes": "PTE Academic (68) also accepted. Individual programs may set stricter English rules; Spring 2027 Intensive English is not offered."
 }

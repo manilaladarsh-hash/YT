@@ -1,0 +1,49 @@
+{
+  "id": "maryland--chemeng",
+  "university": "maryland",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Department of Chemical and Biomolecular Engineering",
+  "program_page": "https://chbe.umd.edu/graduate/prospective-students/admissions",
+  "checked": "2026-10-23",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-03",
+      "value": "Apply by January 3 (2027 assumed) for Fall entry; the catalog still lists the January 6, 2026 date, so confirm with the department.",
+      "quote": "The deadline for submission of application materials for Fall semester admission is January 3. | Students wishing to be considered for financial aid should apply for Fall admission.",
+      "url": "https://chbe.umd.edu/graduate/prospective-students/admissions",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test exists for this field.",
+      "quote": "",
+      "url": "https://chbe.umd.edu/graduate/prospective-students/admissions"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional.",
+      "quote": "The Graduate Record Examinations (GRE) Aptitude Test is optional for all students but submission of the GRE is allowed to supplement your application.",
+      "url": "https://chbe.umd.edu/graduate/prospective-students/admissions"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No pre-application supervisor requirement is mentioned.",
+      "quote": "",
+      "url": "https://chbe.umd.edu/graduate/prospective-students/admissions"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Qualified PhD students are typically supported on research assistantships; fellowships are competitive and mainly for Fall entrants.",
+      "quote": "Graduate research assistantships typically support qualified Ph.D. students.",
+      "url": "https://chbe.umd.edu/graduate/prospective-students/financial-support"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply with a B.S.; non-chemical-engineering graduates may need extra courses.",
+      "quote": "The programs leading to the Master of Science and Doctor of Philosophy degrees are open to qualified students holding the Bachelor of Science degree.",
+      "url": "https://academiccatalog.umd.edu/graduate/programs/chemical-engineering-ench/"
+    }
+  },
+  "notes": "The department admissions page also cites an old TOEFL iBT 100 rule for unconditional admission; Graduate School minimums are the current reference."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "ucla--cs",
+  "university": "ucla",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.cs.ucla.edu/graduate-requirements/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Apply by December 15, 2026, 23:59 Pacific (Fall entry only).",
+      "quote": "Deadlines to apply | December 15, 2026",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0201",
+      "also": [
+        {
+          "quote": "The deadline to submit an application for admission is DECEMBER 15, 23:59, Pacific Time.",
+          "url": "https://www.cs.ucla.edu/graduate-requirements/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies.",
+      "quote": "",
+      "url": "https://www.cs.ucla.edu/graduate-requirements/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required.",
+      "quote": "GRE: Not required",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=0201"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Only degrees from countries where English is both the primary spoken language of daily life and the medium of instruction are exempt, so an Indian degree does not waive the test (TOEFL 87 / IELTS 7.0).",
+      "quote": "Applicants who hold a bachelor’s degree or higher from a university within the United States or in another country in which English is both the primarily spoken language of daily life (for the country) AND the medium of instruction",
+      "url": "https://www.cs.ucla.edu/graduate-requirements/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by the department; applicants list three faculty of interest, but no advisor agreement is needed and preferences are not guaranteed.",
+      "quote": "Applicants to the CS MS or PhD program are asked to identify which three CS faculty they are interested in working with. | The faculty preferences that students select are not guaranteed to be their assigned initial advisor.",
+      "url": "https://www.cs.ucla.edu/graduate-requirements/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every admitted Ph.D. student receives financial support from the department or faculty grants, offered shortly after admission.",
+      "quote": "All Ph.D. applicants who are offered admission are provided financial support from either department resources or the research grants of individual faculty members.",
+      "url": "https://www.cs.ucla.edu/graduate-requirements/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply straight from a bachelor's; most recent Ph.D. admits hold only a bachelor's.",
+      "quote": "Applicants who hold only a bachelor’s degree may apply to the Ph.D. program. In recent years, the majority of PhD admittees have completed only a bachelor’s degree.",
+      "url": "https://www.cs.ucla.edu/graduate-requirements/"
+    }
+  },
+  "notes": ""
+}

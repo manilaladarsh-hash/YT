@@ -13,10 +13,13 @@ Work in `/home/user/YT/business/phd-atlas`. Write **only** to `data/staging/` (s
    - Each program record holds the deadline, subject GRE, supervisor-first rule, funding and entry route. If the department states its own fee, GRE, TOEFL/IELTS or English rule, add that field to the program too (the department value wins).
    - Skip fields the university has no PhD in.
    - If one umbrella program covers several fields (e.g., "Biological and Biomedical Sciences", "Engineering Physics", a German graduate school), save it once under the main field and list the others in `also_fields`.
+   - Don't save a program record whose every field would be Not stated (for example, every department page was blocked); list it under blocked URLs instead.
+   - If a separate school inside the university admits the program (an engineering, medical or public-health school with its own application), and its fee, GRE or English rules differ from your university record, add them to the program as overrides. If you can't reach that school's rules, add those fields as `Not stated` overrides with a value saying the school sets them, so the graduate-school rule isn't shown by mistake.
    - Don't create a "datasci" record unless a PhD in data science, statistics + ML, AI or similar actually exists as its own program or official track.
 3. If the university already has a `physics` program in `data/programs/<uid>--physics.json`, don't redo it from scratch:
    - Copy it into `data/staging/programs/` (keep every existing value, quote and url exactly).
    - Only replace its `Not stated` fields when a fetched official page answers them. In particular, add `ielts_min` there if the physics department states its own IELTS rule.
+   - If one of its app_fee, fee_waiver, gre_general, toefl_min, ielts_min or english_waiver values quotes a graduate-school page (not a physics rule) and your university record covers the same field, delete that field from the physics record so it inherits the university value.
    - Then fill the university record and the other fields.
 4. **Schools** (a Max Planck/IMPRS school, ICFO, SISSA, a cluster graduate school) are their own "university" record:
    - Fill the university record from the school's own application pages (fee, English rules and so on).

@@ -1,0 +1,62 @@
+{
+  "id": "wisconsin--math",
+  "university": "wisconsin",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://www.math.wisc.edu/graduate/prospective-phd/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Apply by January 1, 2027 (application, letters and test scores) for Fall 2027; ask for a fee grant by December 1, 2026.",
+      "quote": "The deadline to submit the application, letters of recommendation, and test scores for Fall admission is January 1st (in the same year of the Fall you are applying to).",
+      "url": "https://www.math.wisc.edu/graduate/prospective-phd/",
+      "time_sensitive": "2026-12-01"
+    },
+    "gre_subject": {
+      "code": "Required",
+      "value": "The Mathematics Subject GRE is required for Fall 2027 applications.",
+      "quote": "Changes for Fall 2027 Applications: Math GRE required",
+      "url": "https://www.math.wisc.edu/graduate/prospective-phd/",
+      "also": [
+        {
+          "quote": "The Subject GRE is required for applications.",
+          "url": "https://math.wisc.edu/graduate/faq/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "General GRE scores are optional.",
+      "quote": "(optional) GRE general scores",
+      "url": "https://www.math.wisc.edu/graduate/prospective-phd/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No advisor is needed to apply; you get an academic advisor on arrival and have until the end of your 6th semester to find a dissertation advisor.",
+      "quote": "No, you do not need an advisor prior to applying. Incoming students are assigned academic advisors at the beginning of their programs.",
+      "url": "https://math.wisc.edu/graduate/faq/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Everyone offered PhD admission is also offered support (usually a TA), guaranteed for five years with satisfactory progress.",
+      "quote": "Students offered admission to the PhD program are also offered financial support, typically in the form of a teaching assistant position. This support is guaranteed for 5 years, assuming satisfactory progress.",
+      "url": "https://www.math.wisc.edu/graduate/prospective-phd/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Successful applicants have a bachelor's in mathematics, applied mathematics or statistics.",
+      "quote": "Successful applicants have a bachelor’s degree in mathematics/applied mathematics/statistics.",
+      "url": "https://guide.wisc.edu/graduate/mathematics/mathematics-phd/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The department considers applicants for an application fee grant if you email the graduate program before submitting; request by December 1, 2026 (decisions by December 10).",
+      "quote": "then email grad_program@math.wisc.edu indicating your desire to be considered. | The deadline is December 1st. Decisions will be made by December 10th.",
+      "url": "https://math.wisc.edu/graduate/faq/",
+      "time_sensitive": "2026-12-01"
+    }
+  },
+  "notes": "Supplementary application asks for a detailed list of advanced maths courses."
+}

@@ -4,44 +4,44 @@
   "country": "USA",
   "region": "New York",
   "grad_page": "https://www.physics.columbia.edu/content/applying-columbia-physics-graduate-program",
-  "checked": "2026-10-21",
+  "checked": "2026-10-23",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
+      "code": "120 USD",
+      "value": "GSAS charges a non-refundable $120 application fee.",
+      "quote": "A nonrefundable fee of $120 must accompany the completed form.",
       "url": "https://www.physics.columbia.edu/content/applying-columbia-physics-graduate-program"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
+      "code": "Available",
+      "value": "GSAS will consider a fee waiver if you show financial need or hardship; you request it with supporting documents after submitting the application.",
+      "quote": "The Graduate School will consider a waiver of the application fee for applicants who demonstrate financial need, personal hardship, or other circumstances that make paying the application fee unduly onerous.",
       "url": "https://www.physics.columbia.edu/content/applying-columbia-physics-graduate-program"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Set by each program; see the program record.",
       "quote": "",
       "url": "https://www.physics.columbia.edu/content/applying-columbia-physics-graduate-program"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.columbia.edu/content/applying-columbia-physics-graduate-program"
+      "code": "5.5 (new scale)",
+      "value": "GSAS needs TOEFL iBT 5.5 on the new scale for tests taken after 21 January 2026, or 100 on the old scale for earlier tests; scores are valid for two years.",
+      "quote": "GSAS requires a minimum TOEFL score of 100 on the internet-based test achieved before January 21, 2026, a minimum TOEFL score of 5.5 achieved after January 21, 2026",
+      "url": "https://www.vagelos.columbia.edu/education/academic-programs/vagelos-institutes-biomedical-research-education-phd-programs/becoming-student/prospective-student-frequently-asked-questions"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.columbia.edu/content/applying-columbia-physics-graduate-program"
+      "code": "7.5",
+      "value": "GSAS needs IELTS 7.5 overall.",
+      "quote": "or a 7.5 for the IELTS test for all admitted applicants",
+      "url": "https://www.vagelos.columbia.edu/education/academic-programs/vagelos-institutes-biomedical-research-education-phd-programs/becoming-student/prospective-student-frequently-asked-questions"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.columbia.edu/content/applying-columbia-physics-graduate-program"
+      "code": "No",
+      "value": "The rule follows the country of your bachelor's degree, and only degrees from countries where English is the sole official language are exempt, so Indian applicants should plan to submit TOEFL or IELTS.",
+      "quote": "Applicants whose undergraduate degree was awarded by an institution in a country where English is not the sole official language must complete the English proficiency requirement. | The English proficiency requirement is based on the official language of the country in which the undergraduate (or bachelor's) degree was earned, regardless of an applicant's citizenship.",
+      "url": "https://www.vagelos.columbia.edu/education/academic-programs/vagelos-institutes-biomedical-research-education-phd-programs/becoming-student/prospective-student-frequently-asked-questions"
     }
   },
-  "notes": ""
+  "notes": "GSAS minimums quoted from the GSAS medical-campus (Vagelos) FAQ and the Physics department page; gsas.columbia.edu itself was blocked (Cloudflare) when checked. Engineering (SEAS) PhDs apply through Columbia Engineering, whose fee and English rules could not be checked."
 }
