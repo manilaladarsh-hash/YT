@@ -1,0 +1,42 @@
+{
+  "id": "uva--astronomy",
+  "university": "uva",
+  "field": "astronomy",
+  "also_fields": [],
+  "department": "Anton Pannekoek Institute for Astronomy (API), Faculty of Science",
+  "program_page": "https://api.uva.nl/vacancies/doing-a-phd-at-api/doing-a-phd-at-api.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "No fixed deadline: the 2027 recruitment is delayed, with a job ad expected in December 2026 or January 2027 and the timeline to follow.",
+      "quote": "We expect to publish a job ad in December 2026 or January 2027 and this page will then be updated with the timeline for the recruitment process.",
+      "url": "https://api.uva.nl/vacancies/phd-recruitment-process/phd-recruitment-process.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You are hired for a specific funded project with its own supervisors; you cannot join first and pick a topic later.",
+      "quote": "It is not possible to join our PhD program and decide on a research topic later. | PhD level research is carried out under the supervision of two staff members",
+      "url": "https://api.uva.nl/vacancies/doing-a-phd-at-api/doing-a-phd-at-api.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD positions are salaried four-year posts funded by staff research grants.",
+      "quote": "Our PhD researchers are initially hired for 18 months. | You will be considered for specific PhD positions which are funded and offered by our research groups.",
+      "url": "https://api.uva.nl/vacancies/doing-a-phd-at-api/doing-a-phd-at-api.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "You need or be completing a Master's (or equivalent 4+ year degree) in physics, astrophysics or similar before starting.",
+      "quote": "You have or are studying for an advanced (Masters or equivalent) degree in physics, astrophysics or a related subject.",
+      "url": "https://api.uva.nl/vacancies/phd-recruitment-process/phd-recruitment-process.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://api.uva.nl/vacancies/doing-a-phd-at-api/doing-a-phd-at-api.html"
+    }
+  },
+  "notes": "English: 'we do not request formal qualifications in English, we may ask for them' (no test minimum). Salary EUR 3,059-3,881 gross per month."
+}
