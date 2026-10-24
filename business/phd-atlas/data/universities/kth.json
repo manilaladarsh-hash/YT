@@ -3,45 +3,63 @@
   "institution": "KTH Royal Institute of Technology",
   "country": "Sweden",
   "region": "Stockholm",
-  "grad_page": "https://www.kth.se/en/sci/utbildning/forskarutbildning/forskaramnet-fysik-1.795636",
-  "checked": "2026-10-21",
+  "grad_page": "https://www.kth.se/en/studies/phd/become-a-phd-student/how-to-apply-1.520089",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Not stated on the KTH doctoral admission pages checked",
       "quote": "",
-      "url": "https://www.kth.se/en/sci/utbildning/forskarutbildning/forskaramnet-fysik-1.795636"
+      "url": "https://www.kth.se/en/studies/phd/become-a-phd-student/how-to-apply-1.520089"
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Not stated on the KTH doctoral admission pages checked",
       "quote": "",
-      "url": "https://www.kth.se/en/sci/utbildning/forskarutbildning/forskaramnet-fysik-1.795636"
+      "url": "https://www.kth.se/en/studies/phd/become-a-phd-student/how-to-apply-1.520089"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Not stated on the KTH doctoral admission pages checked",
       "quote": "",
-      "url": "https://www.kth.se/en/sci/utbildning/forskarutbildning/forskaramnet-fysik-1.795636"
+      "url": "https://www.kth.se/en/studies/phd/become-a-phd-student/entry-requirements-for-doctoral-studies-1.520175"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.kth.se/en/sci/utbildning/forskarutbildning/forskaramnet-fysik-1.795636"
+      "code": "90",
+      "value": "English 6 level, the same as for KTH master's: TOEFL iBT total 90 with at least 20 in writing (results from 21 January 2026 and later).",
+      "quote": "The English proficiency requirement is the same as for master's studies at KTH.",
+      "url": "https://www.kth.se/en/studies/phd/become-a-phd-student/entry-requirements-for-doctoral-studies-1.520175",
+      "also": [
+        {
+          "quote": "For English 6/English Level 2*: Score of 20 (scale 0-30) in written test, total score of 90",
+          "url": "https://www.universityadmissions.se/en/entry-requirements/english-language-requirements/"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.kth.se/en/sci/utbildning/forskarutbildning/forskaramnet-fysik-1.795636"
+      "code": "6.5",
+      "value": "IELTS Academic overall 6.5 with no section below 5.5.",
+      "quote": "For English 6/English Level 2*: an overall score of 6.5 and no section below 5.5",
+      "url": "https://www.universityadmissions.se/en/entry-requirements/english-language-requirements/",
+      "also": [
+        {
+          "quote": "You need English proficiency equivalent to the Swedish upper secondary course English 6.",
+          "url": "https://www.kth.se/en/studies/phd/become-a-phd-student/entry-requirements-for-doctoral-studies-1.520175"
+        }
+      ]
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.kth.se/en/sci/utbildning/forskarutbildning/forskaramnet-fysik-1.795636"
+      "code": "Conditional",
+      "value": "Indian upper-secondary English (CBSE from 2008, CISCE Class XII, or a certificate with English as language of instruction) can meet the requirement; the India page lists no degree-based route, so otherwise take a test.",
+      "quote": "You can meet the requirement by passing an English test or, depending on your country of previous studies, your completed upper secondary or university studies.",
+      "url": "https://www.kth.se/en/studies/phd/become-a-phd-student/entry-requirements-for-doctoral-studies-1.520175",
+      "also": [
+        {
+          "quote": "grades in the subject English language stated in Senior School Certificate Examination / Marks Statement cum Certificate that are issued by Central Board of Secondary Education (CBSE) from 2008 and onwards | Previous university studies and English test",
+          "url": "https://www.universityadmissions.se/en/apply-to-masters/provide-application-documents-masters/country-instructions/india/"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "KTH doctoral positions are advertised vacancies; the pages checked state no application fee, fee waiver or GRE rule. English rules are those of University Admissions Sweden, written for master's applicants, which KTH says also apply to doctoral applicants."
 }
