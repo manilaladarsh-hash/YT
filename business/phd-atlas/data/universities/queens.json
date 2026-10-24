@@ -3,45 +3,57 @@
   "institution": "Queen's University",
   "country": "Canada",
   "region": "Ontario",
-  "grad_page": "https://www.queensu.ca/physics/grad-studies/applicants",
-  "checked": "2026-10-21",
+  "grad_page": "https://www.queensu.ca/grad-postdoc/grad-studies/apply",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.queensu.ca/physics/grad-studies/applicants"
+      "code": "120 CAD",
+      "value": "The application fee is CAD 120, non-refundable, paid by Visa or Mastercard.",
+      "quote": "The non-refundable application fee of $120 CAD can be paid by Visa or Mastercard.",
+      "url": "https://www.queensu.ca/grad-postdoc/grad-studies/apply",
+      "also": [
+        {
+          "quote": "A non-refundable application fee of $120 (Canadian) payable to Queen's University must accompany each application",
+          "url": "https://www.queensu.ca/academic-calendar/graduate-studies/admission-registration/"
+        }
+      ]
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "The graduate school's pages describe the fee as non-refundable and mention no fee waiver.",
       "quote": "",
-      "url": "https://www.queensu.ca/physics/grad-studies/applicants"
+      "url": "https://www.queensu.ca/grad-postdoc/grad-studies/apply"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.queensu.ca/physics/grad-studies/applicants"
+      "value": "No university-wide GRE rule; some programs require it, so check the program record.",
+      "quote": "Some programs require satisfactory achievement on the GRE. | Please check with the degree program for specific testing needed and scores.",
+      "url": "https://www.queensu.ca/grad-postdoc/grad-studies/apply"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.queensu.ca/physics/grad-studies/applicants"
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT average of 4.5 on the new 1-6 scale, with section minimums of Writing 5, Speaking 4, Reading 4.5 and Listening 4.5. The 2026-27 calendar still lists the old-scale minimum of 88 (W24/S22/R22/L20).",
+      "quote": "TOEFL iBT (Test of English as a Foreign Language Internet-based Test). Average overall score of 4.5. | Applicants must have the minimum score in each section.",
+      "url": "https://www.queensu.ca/grad-postdoc/grad-studies/apply",
+      "also": [
+        {
+          "quote": "TOEFL Internet-based Test (TOEFL iBT): The minimum overall score is 88, made up of the minimum scores in each component test",
+          "url": "https://www.queensu.ca/academic-calendar/graduate-studies/admission-registration/"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.queensu.ca/physics/grad-studies/applicants"
+      "code": "7",
+      "value": "IELTS Academic 7.0 overall.",
+      "quote": "IELTS Academic (International English Language Testing System) - 7 (minimum overall score)",
+      "url": "https://www.queensu.ca/grad-postdoc/grad-studies/apply"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.queensu.ca/physics/grad-studies/applicants"
+      "code": "Conditional",
+      "value": "You can request an exemption only if, in the 12 months before the month you apply, you completed at least one full year at a post-secondary institution taught in English; the transcript or an official institution letter must confirm English-medium instruction. An older Indian degree does not qualify, and a request is not normally considered if you already hold a valid passing score or failed an accepted test.",
+      "quote": "Any applicant whose first language is not English, but who, within the 12-month period prior to the month of application, has studied for at least one complete year at a post-secondary institution where English is the official language of instruction, may submit with their application a request to be exempted from the English language proficiency test requirement. | If it is not stated on or evident from the transcript that English is the language of instruction, the applicant must make arrangements for a separate, official letter that confirms this to be sent to the SGSPA from the issuing post-secondary institution.",
+      "url": "https://www.queensu.ca/academic-calendar/graduate-studies/admission-registration/"
     }
   },
-  "notes": ""
+  "notes": "All full-time PhD students in years 1-4 get a guaranteed minimum funding package (CAD 25,000/yr in 2026-27) if they request financial support on the application. International PhD students pay domestic tuition."
 }

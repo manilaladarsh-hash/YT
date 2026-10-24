@@ -2,7 +2,9 @@
   "id": "queens--physics",
   "university": "queens",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "astronomy"
+  ],
   "department": "Physics, Engineering Physics and Astronomy",
   "program_page": "https://www.queensu.ca/physics/grad-studies/applicants",
   "checked": "2026-10-21",
@@ -49,6 +51,12 @@
       "code": "Conditional",
       "value": "You may REQUEST an exemption if, in the 12 months before applying, you studied 1+ full year at a post-secondary institution where English is the official language of instruction",
       "quote": "Any applicant whose first language is not English, but who, within the 12 month period prior to the month of application, has studied for at least one complete year at a post-secondary institution where English is the official language of instruction, may submit with their application a request to be exempted",
+      "url": "https://www.queensu.ca/physics/grad-studies/admission-requirements"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic minimum overall 7.0.",
+      "quote": "IELTS Academic (International English Language Testing System) | Minimum overall score of 7",
       "url": "https://www.queensu.ca/physics/grad-studies/admission-requirements"
     }
   },
