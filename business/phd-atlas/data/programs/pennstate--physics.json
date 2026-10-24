@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Department of Physics",
   "program_page": "https://science.psu.edu/physics/graduate/applying",
-  "checked": "2026-10-21",
+  "checked": "2026-10-24",
   "fields": {
     "deadline": {
       "code": "2027-01-15",
@@ -15,28 +15,40 @@
       "inferred": "year"
     },
     "gre_subject": {
-      "code": "Not stated",
-      "value": "No GRE requirement listed on the current page",
-      "quote": "",
-      "url": "https://science.psu.edu/physics/graduate/applying"
+      "code": "Optional",
+      "value": "The Physics GRE is optional; submit it if you have it, but it is one of many inputs.",
+      "quote": "Both GRE general and GRE physics are optional.",
+      "url": "https://science.psu.edu/physics/graduate/frequently-asked-questions"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "No pre-application supervisor requirement mentioned",
-      "quote": "",
-      "url": "https://science.psu.edu/physics/graduate/applying"
+      "code": "Not required",
+      "value": "Admission is by committee; applicants only list up to 3 faculty of interest, and students move into a research group after starting.",
+      "quote": "As they transition to a group, research advisors and their group members join the mentoring team.",
+      "url": "https://science.psu.edu/physics/graduate/frequently-asked-questions",
+      "also": [
+        {
+          "quote": "The names of up to 3 Graduate Faculty from our department with whom you are interested in working and up to 3 subfields of your interest.",
+          "url": "https://science.psu.edu/physics/graduate/applying"
+        }
+      ]
     },
     "funding": {
-      "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
-      "url": "https://science.psu.edu/physics/graduate/applying"
+      "code": "Guaranteed",
+      "value": "Every admitted PhD student is offered tuition and stipend support (TA first, later RA) for the duration of the degree, subject to satisfactory progress.",
+      "quote": "Every student admitted to our department is offered financial support, usually in the form of a teaching assistantship at first | Students will receive financial support (tuition and stipend), through fellowships, teaching assistantships, or research assistantships, for the duration of the degree, contingent on satisfactory progress toward their degree.",
+      "url": "https://science.psu.edu/physics/graduate/frequently-asked-questions",
+      "also": [
+        {
+          "quote": "All students accepted for graduate study in the doctoral program are offered financial assistance, generally in the form of a teaching assistantship that cover both tuition and a graduate stipend.",
+          "url": "https://science.psu.edu/physics/graduate/graduate-life/finances"
+        }
+      ]
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
-      "url": "https://science.psu.edu/physics/graduate/applying"
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree in physics or an allied field is enough for the PhD; a master's is not required.",
+      "quote": "A bachelor's degree in physics or an allied field is required for admission to the M.S., and Ph.D. programs.",
+      "url": "https://bulletins.psu.edu/graduate/programs/majors/physics/"
     },
     "app_fee": {
       "code": "0 (waived)",
@@ -49,7 +61,19 @@
       "value": "Automatic for everyone this cycle via code PHYS2027 (international included)",
       "quote": "the Physics PhD program is waiving the fee for ALL applicants this year.",
       "url": "https://science.psu.edu/physics/graduate/applying"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The General GRE is optional for physics applicants.",
+      "quote": "Both GRE general and GRE physics are optional.",
+      "url": "https://science.psu.edu/physics/graduate/frequently-asked-questions"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Physics department states a minimum composite IELTS score of 6.5.",
+      "quote": "As for the IELTS, the minimum composite score is 6.5.",
+      "url": "https://science.psu.edu/physics/graduate/frequently-asked-questions"
     }
   },
-  "notes": "Free to apply this cycle; a low-cost 'safety-to-target' add for many lists."
+  "notes": "Free to apply this cycle; a low-cost 'safety-to-target' add for many lists. Department FAQ still quotes TOEFL iBT 80 (old scale), so no department TOEFL value is set; the university record applies."
 }
