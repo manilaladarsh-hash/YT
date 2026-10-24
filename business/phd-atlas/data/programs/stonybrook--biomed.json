@@ -1,0 +1,55 @@
+{
+  "id": "stonybrook--biomed",
+  "university": "stonybrook",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Molecular and Cell Biology Graduate Program",
+  "program_page": "https://www.stonybrook.edu/mcb/ph-d-program/application-requirements.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Application deadline is December 1.",
+      "quote": "Application Deadline: December 1",
+      "url": "https://www.stonybrook.edu/mcb/ph-d-program/application-requirements.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Molecular & Cellular Biology PhD Doctorate Fall 2027 1278 December 1, 2026 December 1, 2026",
+          "url": "https://graduateadmissions.stonybrook.edu/portal/deadline_dates"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GREs are not required.",
+      "quote": "GREs are not required.",
+      "url": "https://www.stonybrook.edu/mcb/ph-d-program/application-requirements.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the department pages checked",
+      "quote": "",
+      "url": "https://www.stonybrook.edu/mcb/ph-d-program/application-requirements.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You do not need an advisor before applying; admitted students do four lab rotations in the first year and then pick a thesis lab.",
+      "quote": "Applicants are not required to find a PI/Advisor for their graduate research prior to applying to the program.",
+      "url": "https://www.stonybrook.edu/mcb/ph-d-program/application-requirements.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All accepted students receive a full tuition waiver and a stipend ($40,000 for the academic year, with health insurance assistance).",
+      "quote": "All students accepted into the MCB Program receive a full tuition waiver and a stipend. | The stipend for the academic year is $40,000 with health insurance assistance.",
+      "url": "https://www.stonybrook.edu/mcb/ph-d-program/program-information.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A baccalaureate degree from an accredited institution is the stated requirement.",
+      "quote": "Applicants must have a baccalaureate degree from an accredited college or university.",
+      "url": "https://www.stonybrook.edu/mcb/ph-d-program/application-requirements.html"
+    }
+  },
+  "notes": "Stony Brook has several other biomedical PhDs (Biochemistry and Structural Biology, Genetics, Microbiology and Immunology, Molecular and Cellular Pharmacology, Physiology and Biophysics, Anatomical Sciences, Biomedical Informatics) that were not saved separately."
+}

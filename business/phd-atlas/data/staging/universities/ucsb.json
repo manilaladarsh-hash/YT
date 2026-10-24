@@ -1,0 +1,65 @@
+{
+  "id": "ucsb",
+  "institution": "University of California, Santa Barbara",
+  "country": "USA",
+  "region": "California",
+  "grad_page": "https://www.graddiv.ucsb.edu/admissions/how-complete-online-application",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "155 USD",
+      "value": "The application fee is USD 155 for international applicants (USD 135 for US citizens and permanent residents).",
+      "quote": "The non-refundable graduate application fee is $135.00 for US citizens and Permanent Residents; and $155.00 for all others",
+      "url": "https://www.graddiv.ucsb.edu/admissions/faqs-applicants"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Application fee waivers are only for US citizens and permanent residents; international applicants are not eligible.",
+      "quote": "INTERNATIONAL APPLICANTS ARE NOT ELIGIBLE for fee waivers",
+      "url": "https://www.graddiv.ucsb.edu/admissions/how-complete-online-application/how-request-application-fee-waiver",
+      "also": [
+        {
+          "quote": "Fee waivers are not available to international applicants.",
+          "url": "https://www.graddiv.ucsb.edu/admissions/faqs-applicants"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate Division leaves the GRE to each department; see the program record.",
+      "quote": "",
+      "url": "https://www.graddiv.ucsb.edu/admissions/faqs-applicants"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "TOEFL iBT 80 for tests taken before 21 Jan 2026, or 4.0 on the new 6-point scale for tests taken on or after that date. IELTS 7 and Duolingo 120 are also accepted; departments may set a higher minimum.",
+      "quote": "80 (exams taken before 1/21/2026) or 4.0 (exams taken on or after 1/21/2026)",
+      "url": "https://www.graddiv.ucsb.edu/admissions/how-complete-online-application",
+      "also": [
+        {
+          "quote": "Departments may require a higher minimum score for any test",
+          "url": "https://www.graddiv.ucsb.edu/admissions/how-complete-online-application"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic overall band 7.",
+      "quote": "Overall Band Score of 7",
+      "url": "https://www.graddiv.ucsb.edu/admissions/how-complete-online-application"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Waived only if your bachelor's or master's institution is listed with English as its sole language of instruction in the IAU World Higher Education Database (WHED). Indian degrees do not qualify automatically; transcripts, letters or school websites are not accepted as proof.",
+      "quote": "The institution lists English as the sole language of instruction in the WHED. If English is not the sole language of instruction listed (or if no language is listed at all), or if the institution does not appear on the WHED website, an exemption is not permitted.",
+      "url": "https://www.graddiv.ucsb.edu/admissions/how-complete-online-application",
+      "also": [
+        {
+          "quote": "No other documentation, including transcripts, letters, language certificates, school websites, etc. will be reviewed or accepted.",
+          "url": "https://www.graddiv.ucsb.edu/admissions/how-complete-online-application"
+        }
+      ]
+    }
+  },
+  "notes": "Fee, English rules apply to all graduate programs; departments may set higher test minimums."
+}

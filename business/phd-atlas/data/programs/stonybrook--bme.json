@@ -1,0 +1,54 @@
+{
+  "id": "stonybrook--bme",
+  "university": "stonybrook",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biomedical Engineering",
+  "program_page": "https://www.stonybrook.edu/bme/academics/graduate/grad_admission.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Graduate School lists December 1, 2026 for Fall 2027 PhD applicants; an older department page cites a January 1 deadline.",
+      "quote": "Biomedical Engineering PhD Doctorate Fall 2027 1278 December 1, 2026 December 1, 2026",
+      "url": "https://graduateadmissions.stonybrook.edu/portal/deadline_dates",
+      "also": [
+        {
+          "quote": "You should obtain this commitment in advance of the January 1st application deadline",
+          "url": "https://www.stonybrook.edu/bme/academics/graduate/_grad_admission_req.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is no longer required.",
+      "quote": "Do I need the GRE to apply? No, the GRE is no longer required.",
+      "url": "https://www.stonybrook.edu/bme/academics/graduate/grad_admission.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the department pages checked",
+      "quote": "",
+      "url": "https://www.stonybrook.edu/bme/academics/graduate/grad_admission.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are highly recommended to identify and engage with potential faculty mentors before applying.",
+      "quote": "It is highly recommended for applicants to the doctoral program (and even applicants to the master's program) to identify and engage with potential faculty mentors.",
+      "url": "https://www.stonybrook.edu/bme/academics/graduate/_grad_admission_req.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Doctoral students receive a tuition scholarship and a competitive TA or RA stipend, conditional on good standing and keeping the assistantship.",
+      "quote": "Doctoral students receive a tuition scholarship (good for the duration of their studies, as long as they are in “good academic standing” and maintain employment) and a competitive stipend for work as a teaching assistant (TA) or research assistant (RA).",
+      "url": "https://www.stonybrook.edu/bme/academics/graduate/_grad_admission_req.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students with only a bachelor's degree are admitted and earn an MS on the way; those with a relevant MS can apply with advanced standing if a lab commits to funding them.",
+      "quote": "All new doctoral students (i.e., those with only an undergraduate degree) will get a M.S. degree as part of their course of study towards their Ph.D. degree. | If you have already a relevant M.S. degree, you could apply to the doctoral program with advanced standing.",
+      "url": "https://www.stonybrook.edu/bme/academics/graduate/_grad_admission_req.html"
+    }
+  },
+  "notes": "Advanced standing requires a funding commitment from a BME faculty lab before applying."
+}

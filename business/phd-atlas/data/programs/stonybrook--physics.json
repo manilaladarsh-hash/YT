@@ -2,7 +2,9 @@
   "id": "stonybrook--physics",
   "university": "stonybrook",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "astronomy"
+  ],
   "department": "Physics and Astronomy",
   "program_page": "https://www.stonybrook.edu/physics/graduate/apply.html",
   "checked": "2026-10-21",
@@ -21,9 +23,9 @@
       "url": "https://www.stonybrook.edu/physics/graduate/apply.html"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "No pre-application supervisor requirement mentioned",
-      "quote": "",
+      "code": "Not required",
+      "value": "Admission is decided centrally by the Admissions Committee; you do not need to contact faculty first, but should name faculty you would like to work with in your application.",
+      "quote": "All applications are evaluated centrally by the Admissions Committee – there’s no need to contact individual faculty, though you should mention in your application which faculty you’d be interested in working with.",
       "url": "https://www.stonybrook.edu/physics/graduate/apply.html"
     },
     "funding": {
@@ -33,9 +35,9 @@
       "url": "https://www.stonybrook.edu/physics/graduate/apply.html"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree in physics or a closely related field is the stated requirement for the PhD; a Master's is not required.",
+      "quote": "For admission to the PhD, MA, or MSI programs, in addition to the Graduate School’s requirements, you need: | A bachelor’s degree in physics or a closely related field from an accredited institution.",
       "url": "https://www.stonybrook.edu/physics/graduate/apply.html"
     },
     "app_fee": {
@@ -69,5 +71,5 @@
       "url": "https://www.stonybrook.edu/physics/graduate/apply.html"
     }
   },
-  "notes": "Decisions only after December 15; offers must be accepted by April 15."
+  "notes": "Decisions only after December 15; offers must be accepted by April 15. The PhD in Physics offers a concentration in Astronomy (https://www.stonybrook.edu/commcms/grad-physics-astronomy/degrees/PhD.php), so astronomy is listed under also_fields. The Graduate School deadline table lists December 22, 2026 for Physics and Astronomy PhD; the department page says December 15."
 }
