@@ -1,0 +1,46 @@
+{
+  "id": "aalto--chemeng",
+  "university": "aalto",
+  "field": "chemeng",
+  "also_fields": [
+    "chemistry",
+    "materials"
+  ],
+  "department": "Doctoral Programme in Chemical Engineering (CHEM), School of Chemical Engineering",
+  "program_page": "https://www.aalto.fi/en/study-options/doctoral-programme-in-chemical-engineering",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-03",
+      "value": "Application round 30 Sep to 3 Nov 2026 (23:59 UTC+2); the programme has four rounds a year (Jan, May, Sep, Nov). 2027 rounds were not yet published.",
+      "quote": "30 Sep 2026 – 3 Nov 2026",
+      "url": "https://www.aalto.fi/en/study-options/doctoral-programme-in-chemical-engineering",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://www.aalto.fi/en/study-options/doctoral-programme-in-chemical-engineering"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You need a supervising professor who is willing to supervise you before you apply for the study right.",
+      "quote": "You need to have a supervising professor who is willing to supervise your doctoral studies",
+      "url": "https://www.aalto.fi/en/study-options/doctoral-programme-in-chemical-engineering"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding is not automatic: full-time doctoral students need funding allocated (project funding, grant or employer). No tuition fees.",
+      "quote": "Full-time doctoral students need to have funding allocated for the doctoral studies | Most Aalto doctoral students combine different funding sources during their studies. | Aalto University doctoral studies are free of tuition fees.",
+      "url": "https://www.aalto.fi/en/study-options/doctoral-programme-in-chemical-engineering"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "You must have a relevant master's degree or equivalent to be eligible to apply.",
+      "quote": "To be eligible to apply in doctoral admissions, you must have a relevant Master’s degree or equivalent.",
+      "url": "https://www.aalto.fi/en/study-options/doctoral-programme-in-chemical-engineering"
+    }
+  },
+  "notes": "Umbrella programme of three departments (Bio2, CMAT, CMET) with six research fields."
+}

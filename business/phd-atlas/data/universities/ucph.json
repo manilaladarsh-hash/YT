@@ -4,44 +4,44 @@
   "country": "Denmark",
   "region": "Capital Region",
   "grad_page": "https://science.ku.dk/phd/appguide/",
-  "checked": "2026-10-21",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Not stated on the pages checked",
       "quote": "",
       "url": "https://science.ku.dk/phd/appguide/"
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Not stated on the pages checked",
       "quote": "",
       "url": "https://science.ku.dk/phd/appguide/"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Not stated on the pages checked",
       "quote": "",
       "url": "https://science.ku.dk/phd/appguide/"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://science.ku.dk/phd/appguide/"
+      "code": "Not required",
+      "value": "The Faculty of SCIENCE (which runs most STEM PhDs) asks for no TOEFL certificate: English is checked in an interview with your principal supervisor.",
+      "quote": "Applicants whose principal language is not English must demonstrate that their English language skills are at a level corresponding to the requirements. | This is done by an interview with the principal supervisor.",
+      "url": "https://science.ku.dk/phd/appguide/admission-requirements/"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://science.ku.dk/phd/appguide/"
+      "code": "Not required",
+      "value": "The Faculty of SCIENCE asks for no IELTS certificate: English is checked in an interview with your principal supervisor.",
+      "quote": "Applicants whose principal language is not English must demonstrate that their English language skills are at a level corresponding to the requirements. | This is done by an interview with the principal supervisor.",
+      "url": "https://science.ku.dk/phd/appguide/admission-requirements/"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://science.ku.dk/phd/appguide/"
+      "code": "Yes",
+      "value": "No English test is needed for the Faculty of SCIENCE; non-native speakers show their English in an interview with the principal supervisor. The Faculty of Health and Medical Sciences differs (see biomed).",
+      "quote": "Applicants whose principal language is not English must demonstrate that their English language skills are at a level corresponding to the requirements. | This is done by an interview with the principal supervisor.",
+      "url": "https://science.ku.dk/phd/appguide/admission-requirements/"
     }
   },
-  "notes": ""
+  "notes": "Rules are from the Faculty of SCIENCE PhD School; the Faculty of Health and Medical Sciences sets its own English rules (biomed record). No application fee, fee waiver or GRE page was found: applications are made for advertised positions and go through the department. From 1 Jan 2027 UCPH charges a PhD tuition fee that your funding must cover."
 }
