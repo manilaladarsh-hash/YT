@@ -1,0 +1,67 @@
+{
+  "id": "uci--chemistry",
+  "university": "uci",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.chem.uci.edu/graduate/prospective-students",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1 for the best chance (review starts then, rolling admission); the final deadline is March 15, 2027.",
+      "quote": "Applicants are encouraged to apply by December 1st for the best chance of admission. | The final deadline for applications is March 15, 2027.",
+      "url": "https://www.chem.uci.edu/graduate/prospective-students",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The department requires the GRE General Test from the 2027-28 application cycle.",
+      "quote": "Effective for the 2027-28 application cycle, the Department of Chemistry requires the GRE General Test.",
+      "url": "https://www.chem.uci.edu/graduate/prospective-students"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The Chemistry Subject GRE is not required.",
+      "quote": "The GRE Chemistry Subject Test is not required.",
+      "url": "https://www.chem.uci.edu/graduate/prospective-students"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted students are offered financial support (stipend, tuition, fees, health insurance) for the normative 5 years; first-year students are funded as teaching assistants.",
+      "quote": "all admitted students are offered financial support for the program's normative time to degree.",
+      "url": "https://www.chem.uci.edu/grad/prospective-students/faq",
+      "also": [
+        {
+          "quote": "Chemistry Ph.D. students are funded as teaching assistants during their first year",
+          "url": "https://www.chem.uci.edu/graduate/prospective-students"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "TOEFL iBT overall 80, plus Speaking 26+ (tests before 21 Jan 2026) or 5 (on or after) for TA eligibility.",
+      "quote": "an overall score of 80 or higher for admission",
+      "url": "https://www.chem.uci.edu/grad/prospective-students/faq"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS overall 7, Speaking 8, and 6 in the remaining modules.",
+      "quote": "an overall score of 7 or higher to be admissible",
+      "url": "https://www.chem.uci.edu/grad/prospective-students/faq"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.chem.uci.edu/graduate/prospective-students"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.chem.uci.edu/graduate/prospective-students"
+    }
+  },
+  "notes": "Applicants choose an area of interest; the ChAMP-Chemistry route is a separate application. Supervisor and entry route are not stated on the pages checked."
+}

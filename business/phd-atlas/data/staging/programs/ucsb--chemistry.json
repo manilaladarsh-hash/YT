@@ -1,0 +1,61 @@
+{
+  "id": "ucsb--chemistry",
+  "university": "ucsb",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry and Biochemistry",
+  "program_page": "https://www.chem.ucsb.edu/graduate/prospective-students",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The department's application instructions say December 1 (year not shown); its FAQ page and the Graduate Division directory give December 2, 2026. Aim for December 1.",
+      "quote": "Application Deadline: December 1st",
+      "url": "https://www.chem.ucsb.edu/graduate/prospective-students/application-instructions",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Deadline to apply is December 2, 2026",
+          "url": "https://www.chem.ucsb.edu/graduate/prospective-students"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.chem.ucsb.edu/graduate/prospective-students"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.chem.ucsb.edu/graduate/prospective-students"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by committee; students rotate through at least three research groups before choosing an advisor.",
+      "quote": "Students are required to survey at least three groups by attending, at minimum, three of their group meetings before selecting a research advisor.",
+      "url": "https://www.chem.ucsb.edu/graduate/prospective-students"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All students in good standing are supported by a teaching assistantship, research assistantship or fellowship.",
+      "quote": "All graduate students in the Department who are in good academic standing and making normative progress toward the Ph.D. are financially supported by a teaching assistantship, graduate student research assistantship or fellowship.",
+      "url": "https://www.chem.ucsb.edu/graduate/prospective-students"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree with a GPA of 3.0 or above is the minimum; there is no separate master's route and students are admitted to the PhD only.",
+      "quote": "Bachelor’s Degree or its equivalent from an accredited university prior to the quarter for which the applicant seeks admission",
+      "url": "https://www.chem.ucsb.edu/graduate/prospective-students/application-instructions",
+      "also": [
+        {
+          "quote": "Students are accepted into the Ph.D. program, only.",
+          "url": "https://www.chem.ucsb.edu/graduate/prospective-students"
+        }
+      ]
+    }
+  },
+  "notes": "International TAs must pass an oral English exam after admission. The department FAQ also lists 'a country where the official speaking language is English' as a TOEFL exemption, which differs from the Graduate Division's WHED rule; check with the department."
+}

@@ -211,7 +211,7 @@ def short_uni(r):
 
 def label(r):
     """'Stanford · Chemistry', or a school's own name for physics-only schools."""
-    if UNI_LIST.get(r["uni"], {}).get("kind") == "school":
+    if UNI_LIST.get(r["uni"], {}).get("kind") == "school" and r["field"] == "physics":
         return short_uni(r)
     return f"{short_uni(r)} · {r['field_name']}"
 

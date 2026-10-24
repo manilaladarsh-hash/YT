@@ -1,0 +1,66 @@
+{
+  "id": "ucsb--chemeng",
+  "university": "ucsb",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Department of Chemical Engineering",
+  "program_page": "https://www.chemengr.ucsb.edu/graduate/admissions/how-apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-02",
+      "value": "All applications for Fall 2027 are due December 2, 2026.",
+      "quote": "The deadline for all applications is December 2, 2026",
+      "url": "https://www.chemengr.ucsb.edu/graduate/admissions/how-apply"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department no longer requires the GRE.",
+      "quote": "The GRE is no longer required by our department.",
+      "url": "https://www.chemengr.ucsb.edu/graduate-program-faqs"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department no longer requires the GRE.",
+      "quote": "The GRE is no longer required by our department.",
+      "url": "https://www.chemengr.ucsb.edu/graduate-program-faqs"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "The department asks applicants not to contact faculty before applying; students choose an advisor after admission.",
+      "quote": "Please do not contact faculty prior to submitting an application with regards to your qualifications for their groups.",
+      "url": "https://www.chemengr.ucsb.edu/graduate-program-faqs"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All PhD students making acceptable progress receive stipend and fee payments, with support usually up to five years.",
+      "quote": "It is a policy of this department that all Ph.D. students who are within normative time, with an overall GPA above 3.0, and are making acceptable progress towards dissertation completion will receive stipend and fee payments.",
+      "url": "https://www.chemengr.ucsb.edu/graduate/admissions/tuition-and-financial-support"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree or equivalent is the stated admission requirement, and no terminal M.S. is offered.",
+      "quote": "must hold a bachelor's degree or its equivalent from an institution of acceptable standing",
+      "url": "https://www.chemengr.ucsb.edu/graduate/admissions/how-apply"
+    },
+    "toefl_min": {
+      "code": "83",
+      "value": "The department FAQ asks for TOEFL iBT 83 (the Graduate Division directory lists 80, or 4.0 on the new scale). IELTS 7 and Duolingo 120.",
+      "quote": "The minimum test scores required for admission to Chemical Engineering are: TOEFL: 83 (Internet)",
+      "url": "https://www.chemengr.ucsb.edu/graduate-program-faqs"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The Graduate Division waives fees only for US citizens and permanent residents; the department can sponsor fees for a limited number of applicants, but priority goes to applicants with US bachelor's degrees.",
+      "quote": "the Chemical Engineering Department has the ability to sponsor application fees for a limited number of applicants",
+      "url": "https://www.chemengr.ucsb.edu/graduate/admissions/how-apply",
+      "also": [
+        {
+          "quote": "priority is given to students completing (or who have completed) bachelors degrees at domestic (U.S-based) institutions",
+          "url": "https://www.chemengr.ucsb.edu/graduate/admissions/how-apply"
+        }
+      ]
+    }
+  },
+  "notes": "The department FAQ's TOEFL 83 differs from the Graduate Division directory (80 / 4.0); the higher figure is shown to be safe."
+}

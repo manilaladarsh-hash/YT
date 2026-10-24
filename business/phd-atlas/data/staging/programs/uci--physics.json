@@ -1,0 +1,75 @@
+{
+  "id": "uci--physics",
+  "university": "uci",
+  "field": "physics",
+  "also_fields": [
+    "astronomy"
+  ],
+  "department": "Department of Physics and Astronomy",
+  "program_page": "https://www.physics.uci.edu/apply",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "December 15 (year not given; inferred 2026 for Fall 2027); all materials due by the deadline",
+      "quote": "The application deadline is December 15th. | Applicants should carefully check to make sure that all application materials are submitted by the December 15th deadline.",
+      "url": "https://www.physics.uci.edu/apply",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "Department does not accept GRE scores (no exception stated for the Physics GRE)",
+      "quote": "***PLEASE NOTE WE ARE NOT ACCEPTING GRE SCORES. GRE scores must not be included in the application, nor should any reference to them be made anywhere in the application.",
+      "url": "https://www.physics.uci.edu/apply"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No pre-application supervisor requirement mentioned",
+      "quote": "",
+      "url": "https://www.physics.uci.edu/apply"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked (catalogue lists TA, RA and fellowship support without a guarantee)",
+      "quote": "",
+      "url": "https://www.physics.uci.edu/apply"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Students without a prior master's are admitted and take more coursework (11 quarter courses vs 4 with a master's)",
+      "quote": "Students who do not have a prior Master's degree (or other equivalent degree) in Physics from UCI or another institution must take a minimum of 11 quarter courses",
+      "url": "https://catalogue.uci.edu/schoolofphysicalsciences/departmentofphysicsandastronomy/physics_phd/"
+    },
+    "app_fee": {
+      "code": "155 USD",
+      "value": "USD 155 for international applicants (USD 135 U.S./PR)",
+      "quote": "International Applicants: $155",
+      "url": "https://www.physics.uci.edu/apply",
+      "also": [
+        {
+          "quote": "The application fee is $135 for U.S. citizens and U.S. permanent residents, and $155 for all international applicants.",
+          "url": "https://grad.uci.edu/admissions/application-fee-fee-waivers/"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "International applicants are not eligible for fee waivers (no exceptions); waivers are for U.S. citizens, permanent residents and DACA/AB540 only",
+      "quote": "Foreign applicants are NOT eligible for graduate application fee waivers - no exceptions.",
+      "url": "https://www.physics.uci.edu/apply",
+      "also": [
+        {
+          "quote": "They are open to U.S. citizens, permanent residents, and DACA/AB540 eligible only; international students are not eligible.",
+          "url": "https://grad.uci.edu/admissions/application-fee-fee-waivers/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "Department does not accept GRE scores; they must not be included or mentioned",
+      "quote": "***PLEASE NOTE WE ARE NOT ACCEPTING GRE SCORES. GRE scores must not be included in the application, nor should any reference to them be made anywhere in the application.",
+      "url": "https://www.physics.uci.edu/apply"
+    }
+  },
+  "notes": "Same application route covers the Chemical and Materials Physics (ChaMP) concentration. International PhD students must be TA-eligible; check the TA oral-English rules. Astronomy and Astrophysics is a concentration of this Ph.D. International students must be TA-eligible: TOEFL Speaking 26+ or IELTS Speaking 8+ (physics.uci.edu/apply). TOEFL, IELTS and English-waiver rules come from the university record."
+}
