@@ -63,17 +63,11 @@
       "quote": "For English proficiency tests, the minimums are: | TOEFL: 80 | IELTS: 6.5 | Duolingo: 120",
       "url": "https://www.colorado.edu/physics/graduate-application-information/graduate-application-faqs"
     },
-    "english_waiver": {
-      "code": "Yes",
-      "value": "Citizens of listed countries are exempt, and India is on the list. The exception for Indian applicants applies only to the Engineering Management program, not Physics. Medium-of-instruction letters are not accepted. The application shows the test as required until International Admissions manually waives it.",
-      "quote": "Proof of English proficiency is NOT required if: | You are a citizen of a qualifying country | Grenada Guyana India** Ireland Jamaica | ** Applicants from India to the Engineering Management program must submit English Proficiency Scores. | Medium of Instruction (MOI) letters are NOT accepted and DO NOT meet the English proficiency requirement.",
-      "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students/english-proficiency-requirements",
-      "also": [
-        {
-          "quote": "The staff of International Admissions will manually evaluate applications and remove or waive the English proficiency requirement if they determine that the student is exempt.",
-          "url": "https://www.colorado.edu/physics/graduate-application-information/graduate-application-faqs"
-        }
-      ]
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 minimum per the physics FAQ.",
+      "quote": "For English proficiency tests, the minimums are: | TOEFL: 80 | IELTS: 6.5",
+      "url": "https://www.colorado.edu/physics/graduate-application-information/graduate-application-faqs"
     }
   },
   "notes": "PhD-only admission (no standalone master's). Astrophysical and Planetary Sciences is a separate department with its own application."

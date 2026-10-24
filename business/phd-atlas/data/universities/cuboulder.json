@@ -3,45 +3,57 @@
   "institution": "University of Colorado Boulder",
   "country": "USA",
   "region": "Colorado",
-  "grad_page": "https://www.colorado.edu/physics/admissions/graduate-application-information",
+  "grad_page": "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students",
   "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.colorado.edu/physics/admissions/graduate-application-information"
+      "code": "80 USD",
+      "value": "The Graduate School application fee is $80 for international applicants (nonrefundable).",
+      "quote": "Nonrefundable $80 Application Fee",
+      "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students",
+      "also": [
+        {
+          "quote": "Are application fees refundable? | Application fees are non-refundable.",
+          "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/graduate-application-faqs"
+        }
+      ]
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.colorado.edu/physics/admissions/graduate-application-information"
+      "code": "Domestic only",
+      "value": "Graduate School fee waivers go to U.S. citizens and permanent residents in listed programs; international applicants must ask the department, and some departments offer a few waivers.",
+      "quote": "The Graduate School offers application fee waivers to U.S. citizens and permanent residents who are participants in the following programs only:",
+      "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/graduate-application-faqs",
+      "also": [
+        {
+          "quote": "You may also contact the department directly to ask whether they have fee waivers.",
+          "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/graduate-application-faqs"
+        }
+      ]
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Set by each department; see the program records.",
       "quote": "",
-      "url": "https://www.colorado.edu/physics/admissions/graduate-application-information"
+      "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.colorado.edu/physics/admissions/graduate-application-information"
+      "code": "80",
+      "value": "TOEFL iBT 80 for most programs; some departments (e.g. Chemistry, Math, Electrical and Computer Engineering) require 91 to 100.",
+      "quote": "All Programs EXCEPT those listed below. 4.0 80 6.5 115 58 180",
+      "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students/english-proficiency-requirements"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.colorado.edu/physics/admissions/graduate-application-information"
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 for most programs; some departments require 7.0 to 7.5.",
+      "quote": "All Programs EXCEPT those listed below. 4.0 80 6.5 115 58 180",
+      "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students/english-proficiency-requirements"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.colorado.edu/physics/admissions/graduate-application-information"
+      "code": "Yes",
+      "value": "Citizens of India are on the exempt-country list, and study of a year or more at an institution in a listed country ending within two years also waives the test. Medium-of-instruction letters are not accepted. Engineering Management is the exception for India.",
+      "quote": "Proof of English proficiency is NOT required if: | You are a citizen of a qualifying country | Grenada Guyana India** Ireland Jamaica | ** Applicants from India to the Engineering Management program must submit English Proficiency Scores. | Medium of Instruction (MOI) letters are NOT accepted and DO NOT meet the English proficiency requirement.",
+      "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students/english-proficiency-requirements"
     }
   },
-  "notes": ""
+  "notes": "Departments set their own English minimums in the Graduate School table (higher for Chemistry, Math, ECEE, Chemical and Biological Engineering, Biochemistry, MCDB)."
 }

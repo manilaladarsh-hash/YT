@@ -1,0 +1,61 @@
+{
+  "id": "cuboulder--bme",
+  "university": "cuboulder",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Biomedical Engineering Program",
+  "program_page": "https://www.colorado.edu/bme/academics/phd-program",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The fall PhD application deadline is December 1 (year inferred for Fall 2027).",
+      "quote": "The application deadline for Fall is December 1.",
+      "url": "https://www.colorado.edu/bme/academics/phd-program",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE is not required and is not reviewed.",
+      "quote": "GRE is not required.",
+      "url": "https://www.colorado.edu/bme/academics/phd-program",
+      "also": [
+        {
+          "quote": "GRE scores are not required to apply for our program and are not reviewed during the application review process.",
+          "url": "https://www.colorado.edu/bme/graduate-admissions-0"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "International applicants can email the program to request a waiver after completing the application; waivers are very competitive and vary by year.",
+      "quote": "International applicants may reach out to bme@colorado.edu to request consideration for an application fee waiver after your application is complete and submitted in the online portal.",
+      "url": "https://www.colorado.edu/bme/graduate-admissions-0"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The PhD is fully funded: tuition, most fees and a stipend, for up to six years with satisfactory progress.",
+      "quote": "Our PhD program is fully funded, meaning all admitted students will receive a compensation package that includes the cost of tuition, most student fees, and a cost-of-living stipend.",
+      "url": "https://www.colorado.edu/bme/graduate-admissions-0"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need a baccalaureate degree; a master's is not mentioned as required.",
+      "quote": "Graduate applicants must hold a baccalaureate degree from an accredited college or university",
+      "url": "https://www.colorado.edu/bme/graduate-admissions-0"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.colorado.edu/bme/academics/phd-program"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.colorado.edu/bme/academics/phd-program"
+    }
+  },
+  "notes": "The FAQ page still shows the Fall 2026 cycle and a $50 domestic fee; the deadline comes from the PhD program page."
+}
