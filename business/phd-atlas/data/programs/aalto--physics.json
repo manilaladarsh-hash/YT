@@ -2,7 +2,13 @@
   "id": "aalto--physics",
   "university": "aalto",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "math",
+    "statistics",
+    "cs",
+    "neuro",
+    "bme"
+  ],
   "department": "Doctoral Programme in Science (SCI), School of Science (incl. Applied Physics)",
   "program_page": "https://www.aalto.fi/en/study-options/aalto-doctoral-programme-in-science-0",
   "checked": "2026-10-21",
@@ -42,19 +48,7 @@
       "value": "A relevant master's degree or equivalent; a degree from a non-Bologna country should normally include at least 4 years of study and a master's thesis",
       "quote": "To be eligible to apply in doctoral admissions, you must have a relevant Master’s degree or equivalent. | As a rule, a higher education degree (or degree combination) earned abroad in a country that does not follow the Bologna Process should include a minimum of 4 years of studies and a master’s thesis.",
       "url": "https://www.aalto.fi/en/doctoral-education/eligibility-and-language-requirements-in-doctoral-admissions"
-    },
-    "toefl_min": {
-      "code": "92",
-      "value": "TOEFL iBT 92 with 22 in Writing (2026 admissions; Home Edition accepted, MyBest not); IELTS Academic 6.5 with 6.0 in writing; results valid for two years",
-      "quote": "TOEFL iBT (Internet-based Test): 92, and 22 for Writing | IELTS Academic: overall score 6.5, and writing score 6.0. | Language proficiency requirements 2026 | TOEFL test results are valid for two years from the date of the test.",
-      "url": "https://www.aalto.fi/en/doctoral-education/eligibility-and-language-requirements-in-doctoral-admissions"
-    },
-    "english_waiver": {
-      "code": "Yes",
-      "value": "India is on Aalto's list: an English-medium degree (at least a 3-year bachelor's or a 1-year master's), at least half completed in English while living in India, counts if the language is stated on the certificate or transcript",
-      "quote": "English proficiency can be demonstrated with an English-medium bachelor’s, master’s, licentiate or doctoral degree in one of the following countries through studies that require residence in the country in question: | Hong Kong, India, Jamaica | A minimum of one half of the degree must be completed in English in a country listed above | The degree demonstrating language skills must be at least a three-year bachelor’s degree, at least a one-year master’s degree, or a licentiate or doctoral degree. | The language of the degree must be stated unambiguously on the degree certificate or its appendix, or on the transcript of records or other official document issued by the awarding institution",
-      "url": "https://www.aalto.fi/en/doctoral-education/eligibility-and-language-requirements-in-doctoral-admissions"
     }
   },
-  "notes": "Physics is one of the fields of the Aalto Doctoral Programme in Science (School of Science, e.g. Department of Applied Physics). There are two routes: get a salaried doctoral researcher position first and then apply for the study right, or apply for the study right with other funding. The language rules are labelled for 2026 admissions, and the TOEFL minimum is given only on the old 0-120 scale. Cut-off dates for 2027 were not yet published."
+  "notes": "Physics is one of the fields of the Aalto Doctoral Programme in Science (School of Science, e.g. Department of Applied Physics). There are two routes: get a salaried doctoral researcher position first and then apply for the study right, or apply for the study right with other funding. The language rules are labelled for 2026 admissions, and the TOEFL minimum is given only on the old 0-120 scale. Cut-off dates for 2027 were not yet published. The Doctoral Programme in Science also covers the research fields Mathematics and Statistics, Computer Science and Neuroscience and Biomedical Engineering, with the same application process, so those fields are listed here instead of separate records."
 }
