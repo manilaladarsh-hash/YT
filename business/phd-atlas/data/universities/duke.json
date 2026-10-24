@@ -3,45 +3,51 @@
   "institution": "Duke University",
   "country": "USA",
   "region": "North Carolina",
-  "grad_page": "https://physics.duke.edu/graduate/prospective-students/admissions",
-  "checked": "2026-10-21",
+  "grad_page": "https://gradschool.duke.edu/admissions/application-instructions/",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.duke.edu/graduate/prospective-students/admissions"
+      "code": "105 USD",
+      "value": "Application fee is $105, non-refundable.",
+      "quote": "The Duke University Graduate School application fee is $105.",
+      "url": "https://gradschool.duke.edu/admissions/application-instructions/application-fee/"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.duke.edu/graduate/prospective-students/admissions"
+      "code": "Limited",
+      "value": "Graduate School waivers need US citizenship or permanent residency; international applicants can only ask their department, which may have a limited number of waivers later in the fall.",
+      "quote": "Be a United States citizen or permanent resident; | If you do not qualify based on the above eligibility requirements, your department of interest may have a limited number of fee waivers available for prospective applicants starting later in the fall semester.",
+      "url": "https://gradschool.duke.edu/admissions/application-instructions/application-fee/"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Set by each program; see the program records.",
       "quote": "",
-      "url": "https://physics.duke.edu/graduate/prospective-students/admissions"
+      "url": "https://gradschool.duke.edu/admissions/application-instructions/"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.duke.edu/graduate/prospective-students/admissions"
+      "code": "90",
+      "value": "TOEFL iBT 90 for tests before 21 Jan 2026 (5 on the new scale after); IELTS 7.0; Duolingo 125. Average admitted scores are higher.",
+      "quote": "90 for an Internet-based TOEFL*",
+      "url": "https://gradschool.duke.edu/admissions/application-instructions/english-language-proficiency-test-scores/",
+      "also": [
+        {
+          "quote": "For exams taken on or after January 21, 2026, we generally seek scores no less than a minimum TOEFL iBT score of 5.",
+          "url": "https://gradschool.duke.edu/admissions/application-instructions/english-language-proficiency-test-scores/"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.duke.edu/graduate/prospective-students/admissions"
+      "code": "7",
+      "value": "IELTS Academic 7.0 overall.",
+      "quote": "7.0 for the IELTS Academic",
+      "url": "https://gradschool.duke.edu/admissions/application-instructions/english-language-proficiency-test-scores/"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.duke.edu/graduate/prospective-students/admissions"
+      "code": "Conditional",
+      "value": "Waiver needs 2+ years of full-time study at an institution where the sole language of instruction is English and in a country where English is the primary spoken language; no country list is given, so confirm whether India counts.",
+      "quote": "To be eligible for a TOEFL/IELTS/Duolingo English Test waiver, you must have studied fulltime for two years or more at a college or university where the sole language of instruction is English and in a country where English is the primary spoken language.",
+      "url": "https://gradschool.duke.edu/admissions/application-instructions/english-language-proficiency-test-scores/"
     }
   },
-  "notes": ""
+  "notes": "Graduate School sets fee and English rules for all PhD programs. Engineering and Nicholas School programs apply through the same Graduate School application."
 }
