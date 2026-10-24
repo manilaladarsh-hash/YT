@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "PhD in Theory and Numerical Simulation of Condensed Matter",
   "program_page": "https://cm.sissa.it/phd/admission",
-  "checked": "2026-10-21",
+  "checked": "2026-10-24",
   "fields": {
     "deadline": {
       "code": "Not stated",
@@ -26,16 +26,28 @@
       "url": "https://cm.sissa.it/phd/admission"
     },
     "funding": {
-      "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
-      "url": "https://cm.sissa.it/phd/admission"
+      "code": "Guaranteed",
+      "value": "All admitted candidates receive a SISSA fellowship (EUR 1,120 net per month per the FAQ) for the whole course.",
+      "quote": "All admitted candidates will receive a fellowship of the amount of € 1.120,00 net per month.",
+      "url": "https://www.sissa.it/phd-application-faq/",
+      "also": [
+        {
+          "quote": "Ai candidati ammessi verrà attribuita una borsa di studio dell’importo di € | 16.242.96 annui al lordo delle trattenute INPS",
+          "url": "https://www2.sissa.it/sites/default/files/2025-12/Bando_Italiano_2026_27.pdf"
+        }
+      ]
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
-      "url": "https://cm.sissa.it/phd/admission"
+      "code": "Master's usually required",
+      "value": "A Master's (or equivalent) degree is needed by the start of the course; a 4-year bachelor's is sometimes judged eligible by the Senate.",
+      "quote": "Yes you can, but you will have to obtain the Master degree (or equivalent) by the beginning of the courses.",
+      "url": "https://www.sissa.it/phd-application-faq/",
+      "also": [
+        {
+          "quote": "Usually a B.Sc. Hons. or a 4-year (or more) B.Sc. are sufficient.",
+          "url": "https://www.sissa.it/phd-application-faq/"
+        }
+      ]
     }
   },
   "notes": "SISSA can contribute up to EUR 150 toward travel for the exams. Each SISSA physics group runs its own call and exam; this record covers Condensed Matter only.",
