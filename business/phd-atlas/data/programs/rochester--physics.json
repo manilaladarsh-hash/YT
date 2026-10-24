@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Department of Physics and Astronomy",
   "program_page": "https://www.sas.rochester.edu/pas/graduate/applying.html",
-  "checked": "2026-10-21",
+  "checked": "2026-10-24",
   "fields": {
     "deadline": {
       "code": "2026-12-15",
@@ -62,11 +62,17 @@
       "quote": "General GRE test scores, as well as the Physics GRE subject test scores, are accepted, but not required.",
       "url": "https://www.sas.rochester.edu/pas/graduate/applying.html"
     },
-    "english_waiver": {
-      "code": "No",
-      "value": "Waived only for citizens of listed English-native countries or after 3+ years of full-time in-person study in those countries or the US; India is not on the list",
-      "quote": "The English proficiency test requirement is waived for citizens of the following countries whose native language is English: | Australia Canada Commonwealth Caribbean Nations Ghana Ireland Kenya Liberia New Zealand Nigeria Singapore South Africa Uganda United Kingdom Virgin Islands | The requirement may also be waived if a student has completed at least three years of full time and in-person postsecondary study in one of the countries listed above or the United States.",
-      "url": "https://www.rochester.edu/college/gradstudies/admissions/test-requirements.html"
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "No minimum TOEFL score; scores are considered in the context of the whole application (a TOEFL, IELTS or Duolingo score is still needed).",
+      "quote": "We do not have minimum required scores for the GRE, GRE Physics, TOEFL, IELTS or Duolingo.",
+      "url": "https://www.sas.rochester.edu/pas/graduate/applying.html"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "No minimum IELTS score; scores are considered in the context of the whole application (a TOEFL, IELTS or Duolingo score is still needed).",
+      "quote": "We do not have minimum required scores for the GRE, GRE Physics, TOEFL, IELTS or Duolingo.",
+      "url": "https://www.sas.rochester.edu/pas/graduate/applying.html"
     }
   },
   "notes": "Indian 3-year BSc holders need a WES equivalency evaluation. No minimum GPA or test scores."

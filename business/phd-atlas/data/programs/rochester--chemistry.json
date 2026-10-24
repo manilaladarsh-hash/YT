@@ -1,0 +1,79 @@
+{
+  "id": "rochester--chemistry",
+  "university": "rochester",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.sas.rochester.edu/chm/graduate/apply.html",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026; fall entry only.",
+      "quote": "The deadline for submitting the online application is December 1. | Applications are accepted for the fall entry term only.",
+      "url": "https://www.sas.rochester.edu/chm/graduate/apply.html",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "70 USD",
+      "value": "USD 70, waived automatically for applicants with a GPA of 3.5/4.0 or higher.",
+      "quote": "If you did not earn a 3.5 GPA or higher, then you will need to pay the $70 application fee.",
+      "url": "https://www.sas.rochester.edu/chm/graduate/apply.html"
+    },
+    "fee_waiver": {
+      "code": "Available",
+      "value": "Automatic if your GPA is 3.5/4.0 or higher (other scales such as 10-point are converted); lower GPAs can request a hardship waiver case by case.",
+      "quote": "If you earned a 3.5 out of 4.0 GPA or higher at your undergraduate or graduate institution, then an application fee waiver will automatically be applied to your application.",
+      "url": "https://www.sas.rochester.edu/chm/graduate/apply.html",
+      "also": [
+        {
+          "quote": "GPAs calculated on other scales (e.g. out of 5.0, 10.0, or 100) will automatically be converted to the 4.0 scale to determine fee-waiver eligibility.",
+          "url": "https://www.sas.rochester.edu/chm/graduate/apply.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required.",
+      "quote": "The Graduate Record Examination (GRE) is NOT required to apply to the graduate program in chemistry at the University of Rochester.",
+      "url": "https://www.sas.rochester.edu/chm/graduate/apply.html"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The GRE is not required (the page does not mention the Chemistry Subject test separately).",
+      "quote": "The Graduate Record Examination (GRE) is NOT required to apply to the graduate program in chemistry at the University of Rochester.",
+      "url": "https://www.sas.rochester.edu/chm/graduate/apply.html"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "Recommended TOEFL iBT score of 100 (the table lists it as '5 (or 100)'); a recommendation rather than a hard minimum.",
+      "quote": "RECOMMENDED SCORE Duolingo English Test 120 IELTS 7.5 TOEFL iBT or Paper-Delivered Test 5 (or 100)",
+      "url": "https://www.sas.rochester.edu/chm/graduate/apply.html"
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "Recommended IELTS overall score of 7.5; a recommendation rather than a hard minimum.",
+      "quote": "RECOMMENDED SCORE Duolingo English Test 120 IELTS 7.5 TOEFL iBT or Paper-Delivered Test 5 (or 100)",
+      "url": "https://www.sas.rochester.edu/chm/graduate/apply.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You do not need a faculty advisor before applying; advisors are chosen in year one (name three potential supervisors in your statement).",
+      "quote": "Applicants do not need to secure a faculty advisor before submitting an application. Faculty advisors are selected in year one of the graduate program.",
+      "url": "https://www.sas.rochester.edu/chm/graduate/apply.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All chemistry graduate students get full tuition, a living stipend ($35,520 for 2026-27) and health insurance, with teaching assistant duties.",
+      "quote": "Full tuition scholarships are awarded to all chemistry graduate students, and they receive a living stipend ($35,520 for the 2026-2027 academic year) and health insurance.",
+      "url": "https://www.sas.rochester.edu/chm/graduate/apply.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply straight from a bachelor's degree; there is no terminal master's.",
+      "quote": "Applicants can apply to the chemistry PhD program with a bachelor’s degree. | The department does not offer a terminal master’s degree in chemistry.",
+      "url": "https://www.sas.rochester.edu/chm/graduate/apply.html"
+    }
+  },
+  "notes": "International applicants are also interviewed over Zoom (30 minutes), which doubles as an English check."
+}

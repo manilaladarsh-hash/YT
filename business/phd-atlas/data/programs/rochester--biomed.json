@@ -1,0 +1,69 @@
+{
+  "id": "rochester--biomed",
+  "university": "rochester",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "School of Medicine and Dentistry biomedical sciences PhD programs",
+  "program_page": "https://www.urmc.rochester.edu/education/graduate/phd/admissions",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Complete application due December 1 (some programs accept until January 1 at their discretion); applying by November 15 waives the fee.",
+      "quote": "By December 1st* - Complete application due",
+      "url": "https://www.urmc.rochester.edu/education/graduate/phd/admissions",
+      "inferred": "year",
+      "time_sensitive": "2026-11-15"
+    },
+    "app_fee": {
+      "code": "60 USD",
+      "value": "USD 60 (Epidemiology and Health Services Research apply via SOPHAS at USD 100).",
+      "quote": "By December 1st* - Complete application due ($60 application fee applies).",
+      "url": "https://www.urmc.rochester.edu/education/graduate/phd/admissions"
+    },
+    "fee_waiver": {
+      "code": "Available",
+      "value": "Applications submitted by November 15, 2026 get an automatic waiver; hardship waivers can be requested later.",
+      "quote": "Applications submitted by November 15* receive an automatic waiver.",
+      "url": "https://www.urmc.rochester.edu/education/graduate/phd/admissions",
+      "time_sensitive": "2026-11-15"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional for all School of Medicine and Dentistry PhD programs; some programs ignore submitted scores.",
+      "quote": "Completion of the Graduate Record Examination (GRE) is optional for all PhD programs in the University of Rochester School of Medicine and Dentistry.",
+      "url": "https://www.urmc.rochester.edu/education/graduate/phd/faq"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Waiver possible for a bachelor's from a country where English is an official language and all instruction is in English, with at least six full semesters in good standing; India's eligibility is not stated.",
+      "quote": "from an accredited college or university in a country where English is an official language and where all instruction is provided in English. | A minimum of six full semesters of academic coursework in good standing is required to qualify for a waiver",
+      "url": "https://www.urmc.rochester.edu/education/graduate/phd/faq"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Biomedical science PhD students begin with lab rotations and choose a lab afterwards.",
+      "quote": "Students entering the University of Rochester School of Medicine and Dentistry via a biomedical science PhD program have the option of beginning a first lab rotation on July 1.",
+      "url": "https://www.urmc.rochester.edu/education/graduate/phd/faq"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "The fellowship package for full-time students is a full tuition scholarship, a stipend ($35,800 for 12-month programs in 2027-28) and health insurance.",
+      "quote": "Fellowship Package for Full-time Students Full tuition scholarship, including all academic fees.",
+      "url": "https://www.urmc.rochester.edu/education/graduate/phd/financial-aid"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree (US equivalent) is the stated requirement.",
+      "quote": "Applicants must have earned a U.S. baccalaureate degree or its equivalent from a college, university, or technical school of acceptable standing.",
+      "url": "https://www.urmc.rochester.edu/education/graduate/phd/admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to this field and the page does not mention one.",
+      "quote": "",
+      "url": "https://www.urmc.rochester.edu/education/graduate/phd/admissions"
+    }
+  },
+  "notes": "Umbrella record for the School of Medicine and Dentistry PhDs (Biochemistry, Genetics, Biophysics, Pharmacology/Physiology, Immunology/Microbiology, Pathology, Toxicology, Translational Biomedical Science); one application to one program per year."
+}

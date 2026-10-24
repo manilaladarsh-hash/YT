@@ -3,45 +3,45 @@
   "institution": "University of Rochester",
   "country": "USA",
   "region": "New York",
-  "grad_page": "https://www.sas.rochester.edu/pas/graduate/applying.html",
-  "checked": "2026-10-21",
+  "grad_page": "https://www.rochester.edu/college/gradstudies/admissions/apply.html",
+  "checked": "2026-10-24",
   "fields": {
     "app_fee": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.sas.rochester.edu/pas/graduate/applying.html"
+      "value": "The fee differs by program; see the program records.",
+      "quote": "The cost of application is different for different programs.",
+      "url": "https://www.rochester.edu/college/gradstudies/admissions/faq.html"
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.sas.rochester.edu/pas/graduate/applying.html"
+      "value": "Waivers are decided case by case by each program; see the program records.",
+      "quote": "Requests for application fee waivers are considered on a case-by-case basis.",
+      "url": "https://www.rochester.edu/college/gradstudies/admissions/faq.html"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.sas.rochester.edu/pas/graduate/applying.html"
+      "value": "GRE rules are set by each program; see the program records.",
+      "quote": "GRE requirements vary by program.",
+      "url": "https://www.rochester.edu/college/gradstudies/admissions/test-requirements.html"
     },
     "toefl_min": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.sas.rochester.edu/pas/graduate/applying.html"
+      "value": "Minimum scores are set by each department; see the program records.",
+      "quote": "allows each department to have different admission requirements, including minimum test scores",
+      "url": "https://www.rochester.edu/college/gradstudies/admissions/faq.html"
     },
     "ielts_min": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.sas.rochester.edu/pas/graduate/applying.html"
+      "value": "Minimum scores are set by each department; see the program records.",
+      "quote": "allows each department to have different admission requirements, including minimum test scores",
+      "url": "https://www.rochester.edu/college/gradstudies/admissions/faq.html"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.sas.rochester.edu/pas/graduate/applying.html"
+      "code": "No",
+      "value": "The English test is waived only for citizens of listed English-native countries or after 3+ years of full-time in-person study in those countries or the US; India is not on the list.",
+      "quote": "The English proficiency test requirement is waived for citizens of the following countries whose native language is English: | The requirement may also be waived if a student has completed at least three years of full time and in-person postsecondary study in one of the countries listed above or the United States.",
+      "url": "https://www.rochester.edu/college/gradstudies/admissions/test-requirements.html"
     }
   },
-  "notes": ""
+  "notes": "Applies to School of Arts & Sciences and Hajim School programs. The School of Medicine and Dentistry (biomedical sciences, neuroscience, statistics) has its own application, fee and English rules, recorded in those program records."
 }

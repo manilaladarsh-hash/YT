@@ -1,0 +1,67 @@
+{
+  "id": "rochester--bme",
+  "university": "rochester",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biomedical Engineering",
+  "program_page": "https://www.hajim.rochester.edu/bme/graduate/applicants.html",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-05",
+      "value": "PhD applications are due January 5.",
+      "quote": "Application due: January 5",
+      "url": "https://www.hajim.rochester.edu/bme/graduate/applicants.html",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "70 USD",
+      "value": "USD 70 per application.",
+      "quote": "There is a $70 application fee for each application.",
+      "url": "https://www.hajim.rochester.edu/bme/graduate/applicants.html"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE reporting is optional and not considered unless you submit it.",
+      "quote": "Reporting the results of the GRE is optional. We do not consider GRE scores unless you decide to submit them.",
+      "url": "https://www.hajim.rochester.edu/bme/graduate/applicants.html"
+    },
+    "toefl_min": {
+      "code": "105",
+      "value": "Qualified applicants have TOEFL iBT 105; a lower score is strongly considered but does not exclude you.",
+      "quote": "Qualified applicants have a minimum TOEFL score of 620 (paper-based test), 260 (computer-based test), or 105 (Internet test).",
+      "url": "https://www.hajim.rochester.edu/bme/graduate/applicants.html"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Qualified applicants have IELTS 7.2 (shown here as 7); a lower score does not exclude you but is strongly considered.",
+      "quote": "For the IELTS, qualified applicants have a minimum score of 7.2.",
+      "url": "https://www.hajim.rochester.edu/bme/graduate/applicants.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by committee, not by a supervisor; students join a research group after two semesters of courses.",
+      "quote": "Admission to the program is decided by the Graduate Admissions Committee rather than by a potential research supervisor. Only after being admitted and then completing two semesters of courses, do students join a research group.",
+      "url": "https://www.hajim.rochester.edu/bme/graduate/applicants.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All accepted PhD students get a full tuition waiver, a competitive stipend and health insurance.",
+      "quote": "All students accepted into our PhD program are granted financial support in the form of a full tuition waiver as well as a competitive stipend and health insurance coverage.",
+      "url": "https://www.hajim.rochester.edu/bme/graduate/applicants.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree in engineering, applied physics or a related technical field is required.",
+      "quote": "A bachelor's degree in engineering, applied physics, or a related technical field is required.",
+      "url": "https://www.hajim.rochester.edu/bme/graduate/applicants.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to this field and the page does not mention one.",
+      "quote": "",
+      "url": "https://www.hajim.rochester.edu/bme/graduate/applicants.html"
+    }
+  },
+  "notes": "The School of Medicine and Dentistry also lists a Biomedical Engineering PhD; this record uses the Hajim department's own application page."
+}

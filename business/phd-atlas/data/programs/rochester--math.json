@@ -1,0 +1,61 @@
+{
+  "id": "rochester--math",
+  "university": "rochester",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://www.sas.rochester.edu/mth/graduate/apply.html",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-05",
+      "value": "Completed applications are due January 5 (students start in September).",
+      "quote": "Students are admitted only in September. Completed applications should be received by January 5.",
+      "url": "https://www.sas.rochester.edu/mth/graduate/apply.html",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "70 USD",
+      "value": "USD 70, non-refundable.",
+      "quote": "There is a $70 non-refundable application fee (those in need can request an application fee waiver within the application).",
+      "url": "https://www.sas.rochester.edu/mth/graduate/apply.html"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Applicants in need can request a waiver within the application.",
+      "quote": "There is a $70 non-refundable application fee (those in need can request an application fee waiver within the application).",
+      "url": "https://www.sas.rochester.edu/mth/graduate/apply.html"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "GRE Math Subject scores are strongly encouraged but not required.",
+      "quote": "Applicants are strongly encouraged to submit GRE Math Subject exam scores.",
+      "url": "https://www.sas.rochester.edu/mth/graduate/apply.html"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "TOEFL iBT 100 with at least 21 in speaking.",
+      "quote": "The minimum TOEFL scores required are: 100 (IBT) with minimum of 21 on speaking portion",
+      "url": "https://www.sas.rochester.edu/mth/graduate/apply.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The admissions page does not say whether a supervisor is needed before admission.",
+      "quote": "",
+      "url": "https://www.sas.rochester.edu/mth/graduate/apply.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Students in good standing are supported for at least four years; most entering students get a teaching assistantship with full tuition waiver and a stipend.",
+      "quote": "Graduate students in good standing are supported for at least four years. | Most entering students are appointed teaching assistantships, which includes a full tuition waiver and a stipend of $26,000, depending on teaching duties.",
+      "url": "https://www.sas.rochester.edu/mth/graduate/apply.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://www.sas.rochester.edu/mth/graduate/apply.html"
+    }
+  },
+  "notes": "The page still contains an old line 'The deadline for fall 2026 admission is January 5, 2026', so the January 5 date for 2027 is inferred from the undated line. Incoming foreign students may first be graders until their spoken English is evaluated."
+}
