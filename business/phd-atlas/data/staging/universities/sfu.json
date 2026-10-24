@@ -1,0 +1,47 @@
+{
+  "id": "sfu",
+  "institution": "Simon Fraser University",
+  "country": "Canada",
+  "region": "British Columbia",
+  "grad_page": "https://www.sfu.ca/gradstudies/apply/applying.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "160 CAD",
+      "value": "CAD 160 for applicants with international transcripts (CAD 112 with Canadian transcripts); non-refundable.",
+      "quote": "Application Fees are $112 for applicants with Canadian transcripts, $160 for applicants with international transcripts.",
+      "url": "https://www.sfu.ca/gradstudies/apply/applying.html"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "The Graduate Studies application pages do not mention an application-fee waiver.",
+      "quote": "",
+      "url": "https://www.sfu.ca/gradstudies/apply/applying.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Graduate Studies sets no GRE rule; each program decides (see the program record).",
+      "quote": "",
+      "url": "https://www.sfu.ca/gradstudies/apply/applying/requirements.html"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT 4.5 overall on the new 1-6 scale with at least 4.0 in each section; for tests taken before January 21, 2026, 90 overall with 20 in each section. Some programs ask for more.",
+      "quote": "Internet-based TOEFL 4.5 or better overall, with a minimum of 4.0 in each section. | For tests taken prior to January 21, 2026: 90 with minimum of 20 in each category.",
+      "url": "https://www.sfu.ca/gradstudies/apply/applying/requirements.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall with at least 6.0 in each section. Some programs ask for more.",
+      "quote": "IELTS (academic) overall band score of 6.5 of the academic (NOT general) test with a minimum of 6.0 in each section",
+      "url": "https://www.sfu.ca/gradstudies/apply/applying/requirements.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "The test is waived only for a degree taught in English in a country on SFU's list of English-primary countries; India is not on the list, so Indian applicants need a test score (the program's Graduate Program Assistant can be asked about exceptions).",
+      "quote": "International applicants will not be required to complete an English-language test if they have completed a bachelor's degree or higher at an institution where the language of instruction and examination was in English in a country where English is the primary language. | Countries from which an English language proficiency test is not required | My previous education was in English but not in one of the countries above. Can I be exempt from the language requirements? | In this situation, you should contact the Graduate Program Assistant for the program to which you applied.",
+      "url": "https://www.sfu.ca/gradstudies/apply/applying/english-language.html"
+    }
+  },
+  "notes": "Duolingo (125) and CAEL (70) are also accepted. All PhD programs fall under SFU's guaranteed minimum funding policy."
+}

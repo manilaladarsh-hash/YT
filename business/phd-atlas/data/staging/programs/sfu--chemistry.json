@@ -1,0 +1,49 @@
+{
+  "id": "sfu--chemistry",
+  "university": "sfu",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.sfu.ca/chemistry/graduate/prospective/programs/eligibility-requirements.html",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-01",
+      "value": "Fall 2027 applications run October 1, 2026 to June 1, 2027, but international applicants are told to apply at least 6 months before the deadline (by about December 1, 2026) to allow for study permits.",
+      "quote": "Accepting applications for Fall 2027 start: October 1, 2026 - June 1, 2027.",
+      "url": "https://www.sfu.ca/gradstudies/apply/common-questions-answers-applicants.html",
+      "time_sensitive": "2026-12-01",
+      "also": [
+        {
+          "quote": "International applicants should apply at least 6 months before the noted deadlines",
+          "url": "https://www.sfu.ca/chemistry/graduate/prospective/programs/how-to-apply.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The chemistry pages checked do not mention the GRE.",
+      "quote": "",
+      "url": "https://www.sfu.ca/chemistry/graduate/prospective/programs/eligibility-requirements.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must secure a position with a faculty member before applying.",
+      "quote": "A position with a faculty member must be secured before applying to the chemistry graduate program.",
+      "url": "https://www.sfu.ca/chemistry/graduate/prospective/programs/eligibility-requirements.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All incoming graduate students are funded; PhD students currently receive CAD 36,400 a year including the CAD 5,400 PhD Research Scholarship.",
+      "quote": "The Department of Chemistry offers funding to all incoming graduate students. | PhD Students: $36,400*",
+      "url": "https://www.sfu.ca/chemistry/graduate/prospective/funding.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "PhD applicants should normally hold an MSc (CGPA 3.0/4.33); exceptional first-class BSc holders (CGPA 3.5/4.33) may be admitted directly.",
+      "quote": "Students looking to enter the PhD program should have MSc degree from Simon Fraser University or its equivalent from a recognized institution with at minimum cumulative grade point average of 3.0/4.33. In special circumstances, exceptionally able students with first-class BSc degrees may be admitted directly to the PhD program",
+      "url": "https://www.sfu.ca/chemistry/graduate/prospective/programs/eligibility-requirements.html"
+    }
+  },
+  "notes": "Flexible start terms (Fall, Spring, Summer)."
+}

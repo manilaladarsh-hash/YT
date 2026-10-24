@@ -41,7 +41,7 @@ Work in `/home/user/YT/business/phd-atlas`. Write **only** to `data/staging/` (s
 
 | Field | Codes |
 |---|---|
-| deadline | ISO `YYYY-MM-DD` for Fall 2027 entry, `Rolling`, `Per position` or `Not stated`. Use the deadline for international applicants who want funding consideration (the earliest if there are several, with the others in the value). If the page shows a day and month without a year, use the 2026/27 cycle date and add `{"inferred": "year"}`. If acting earlier matters (a fee-waiver window, a scholarship round), add `{"time_sensitive": "YYYY-MM-DD"}` |
+| deadline | ISO `YYYY-MM-DD` for Fall 2027 entry (2026-10-01 to 2027-08-31), `Rolling`, `Per position` or `Not stated`. Use the deadline for international applicants who want funding consideration (the earliest if there are several, with the others in the value). If the page shows a day and month without a year, use the 2026/27 cycle date and add `{"inferred": "year"}`. If acting earlier matters (a fee-waiver window, a scholarship round), add `{"time_sensitive": "YYYY-MM-DD"}` |
 | app_fee | `90 USD`, `75 GBP`, `100 CHF`, `125 CAD`, `0 (no fee)`, `0 (waived)` or `Not stated`. Currencies: USD CAD GBP EUR CHF SEK DKK NOK AUD NZD |
 | fee_waiver | `Available` (internationals can get one), `Limited` (narrow criteria or few), `Domestic only`, `None`, `No fee`, `Not stated` |
 | gre_general, gre_subject | `Required`, `Recommended`, `Optional`, `Not required`, `Not considered`, `Not stated`. gre_subject is the field's own GRE Subject test (Physics, Chemistry, Mathematics; Psychology for neuroscience). Where no subject test exists for the field (CS, engineering, biology since 2023…), use `Not stated` unless the page says something |

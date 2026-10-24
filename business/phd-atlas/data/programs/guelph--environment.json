@@ -10,10 +10,11 @@
   "checked": "2026-10-22",
   "fields": {
     "deadline": {
-      "code": "Rolling",
-      "value": "Applications for September 2027 are accepted until August 15, 2027 and take 6-8 weeks to process; apply much earlier to leave time for a study permit.",
+      "code": "2027-08-15",
+      "value": "Apply by August 15, 2027 for September 2027 entry. Processing takes 6-8 weeks and a study permit takes longer, so apply by mid-June.",
       "quote": "International Application Deadlines September start - Apply by August 15, 2027 | Please note that processing graduate applications can take approximately 6-8 weeks. | International students will need extra lead time due to processing of student permits.",
-      "url": "https://www.uoguelph.ca/programs/phd-environmental-sciences-thesisresearch"
+      "url": "https://www.uoguelph.ca/programs/phd-environmental-sciences-thesisresearch",
+      "time_sensitive": "2027-06-15"
     },
     "gre_subject": {
       "code": "Not stated",

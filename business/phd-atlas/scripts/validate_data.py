@@ -72,7 +72,7 @@ def check_field(where, name, spec, fld, texts, require_cache, errors, warnings):
             errors.append(f"{where}.deadline: code '{code}' is not ISO")
         else:
             d = date.fromisoformat(code)
-            if not (date(2026, 10, 1) <= d <= date(2027, 6, 30)):
+            if not (date(2026, 10, 1) <= d <= date(2027, 8, 31)):
                 errors.append(f"{where}.deadline: {code} outside the Fall 2027 cycle")
     if name == "app_fee" and not FEE_RE.match(code):
         errors.append(f"{where}.app_fee: code '{code}' has wrong format")
