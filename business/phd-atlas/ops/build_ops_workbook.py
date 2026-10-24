@@ -26,7 +26,7 @@ HFONT = Font(bold=True, color="FFFFFF")
 INPUT = PatternFill("solid", fgColor="FFF7D6")
 GOOD = PatternFill("solid", fgColor="E3F2E7")
 BAD = PatternFill("solid", fgColor="F8E1E1")
-WEEKS = [date(2026, 10, 26) + timedelta(weeks=i) for i in range(12)]  # Mondays, Oct 26 -> Jan 11
+WEEKS = [date(2026, 10, 26) + timedelta(weeks=i) for i in range(16)]  # Mondays, Oct 26 -> Feb 8
 
 
 def header(ws, cols, widths):
@@ -45,7 +45,7 @@ def main():
     for i, line in enumerate([
         "STEM PhD Atlas: owner dashboard",
         "Weekly (20 min): copy last week's numbers from Gumroad into 'Weekly actuals' (yellow cells only).",
-        "'Gates' turns green or red automatically against the Dec 15 decision rules.",
+        "'Gates' turns green or red automatically against the gate-review rules (6 weeks after launch).",
         "'Forecast' is the scenario model from research/financials.py ($5 list; about $2 in India via Gumroad PPP). It is NOT actual data.",
         "Free copies sent with STUDENTAID or CLUBCOPY count as neither paid orders nor revenue.",
         "'Hours' is your study-permit self-employment log. Count every business hour.",
@@ -79,7 +79,7 @@ def main():
     wa.add_chart(chart, f"A{tot + 3}")
 
     g = wb.create_sheet("Gates")
-    header(g, ["Dec 15 gate", "Target", "Actual", "Status"], [48, 10, 10, 12])
+    header(g, ["Gate review (launch + 6 weeks)", "Target", "Actual", "Status"], [48, 10, 10, 12])
     T = f"'Weekly actuals'!"
     rows = [
         ("Paid orders", ">=10", f"={T}D{tot}", f'=IF(C2>=10,"PASS","not yet")'),
@@ -93,7 +93,7 @@ def main():
         g.append(list(r))
     g["C4"].number_format = "0%"
     g.append([])
-    g.append(["Decision (Dec 15)", "", "", '=IF(COUNTIF(D2:D6,"PASS")=5,"PROCEED",IF(OR(C7>=50,C2>=5),"CHANGE offer/price/channel, one more cycle",IF(AND(C7<20,C3=0),"STOP (keep listing passive)","CHANGE")))'])
+    g.append(["Decision", "", "", '=IF(COUNTIF(D2:D6,"PASS")=5,"PROCEED",IF(OR(C7>=50,C2>=5),"CHANGE offer/price/channel, one more cycle",IF(AND(C7<20,C3=0),"STOP (keep listing passive)","CHANGE")))'])
     g["A9"].font = Font(bold=True)
     g.conditional_formatting.add("D2:D7", CellIsRule(operator="equal", formula=['"PASS"'], fill=GOOD))
     g.conditional_formatting.add("D2:D7", CellIsRule(operator="equal", formula=['"FAIL"'], fill=BAD))
