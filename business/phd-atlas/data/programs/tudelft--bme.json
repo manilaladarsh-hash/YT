@@ -1,0 +1,66 @@
+{
+  "id": "tudelft--bme",
+  "university": "tudelft",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Faculty of Mechanical Engineering, Department of BioMechanical Engineering",
+  "program_page": "https://www.tudelft.nl/en/me/research/graduate-school-me",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "No central deadline: apply to a specific advertised PhD position; each vacancy has its own deadline.",
+      "quote": "To become a PhD candidate you can apply to a specific PhD position that can be found on our vacancy website.",
+      "url": "https://www.tudelft.nl/en/education/programmes/phd/phd-admission",
+      "also": [
+        {
+          "quote": "The Graduate School of the TU Delft Faculty Mechanical, Maritime and Materials Engineering (ME GS) operates under the umbrella of the TU Delft Graduate School",
+          "url": "https://www.tudelft.nl/en/me/research/graduate-school-me"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The GRE Subject test is not mentioned on the pages checked.",
+      "quote": "",
+      "url": "https://www.tudelft.nl/en/education/programmes/phd/phd-admission"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You apply to a specific position and are employed in your supervisor's department; the application process includes a conversation with the professor.",
+      "quote": "Conversation with professor or mentor.",
+      "url": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/phd",
+      "also": [
+        {
+          "quote": "You are employed on a four-year contract at your supervisor’s department.",
+          "url": "https://www.tudelft.nl/en/education/programmes/phd/phd-admission/fees-and-funding"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Regular PhD positions are four-year employment contracts with a salary under the Dutch universities' collective labour agreement; if no position is available you must find your own scholarship or grant.",
+      "quote": "Regular PhD position | You are employed on a four-year contract at your supervisor’s department. | If there are no PhD positions available in your area of interest, you will have to find your own funding.",
+      "url": "https://www.tudelft.nl/en/education/programmes/phd/phd-admission/fees-and-funding",
+      "also": [
+        {
+          "quote": "If you are accepted for a PhD vacancy you will receive a salary in accordance with the Collective Labour Agreement for Dutch universities",
+          "url": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/phd"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A Dutch master's degree or foreign equivalent in a field relevant to the PhD research.",
+      "quote": "Have a Dutch master’s degree (or a foreign equivalent)",
+      "url": "https://www.tudelft.nl/en/education/programmes/phd/phd-admission",
+      "also": [
+        {
+          "quote": "You have completed a Master’s degree in one of the fields relevant to PhD research.",
+          "url": "https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft/phd"
+        }
+      ]
+    }
+  },
+  "notes": "The ME faculty lists a BioMechanical Engineering department; PhD candidates are supported by the ME Graduate School under the university-wide rules."
+}
