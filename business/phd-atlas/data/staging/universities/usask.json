@@ -3,45 +3,51 @@
   "institution": "University of Saskatchewan",
   "country": "Canada",
   "region": "Saskatchewan",
-  "grad_page": "https://grad.usask.ca/programs/physics-engineering-physics.php",
-  "checked": "2026-10-21",
+  "grad_page": "https://grad.usask.ca/admissions/admission-requirements.php",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://grad.usask.ca/programs/physics-engineering-physics.php"
+      "code": "145 CAD",
+      "value": "Non-refundable application fee of CAD 145 for international applicants (CAD 125 domestic), paid online by Visa/Mastercard or Flywire.",
+      "quote": "A non-refundable application fee of $125 CDN for domestic students and $145 CDN for international students.",
+      "url": "https://grad.usask.ca/admissions/how-to-apply.php"
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "The graduate college's application pages do not mention any application fee waiver.",
       "quote": "",
-      "url": "https://grad.usask.ca/programs/physics-engineering-physics.php"
+      "url": "https://grad.usask.ca/admissions/how-to-apply.php"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "The graduate college sets no GRE rule; none of the STEM program pages checked mention the GRE.",
       "quote": "",
-      "url": "https://grad.usask.ca/programs/physics-engineering-physics.php"
+      "url": "https://grad.usask.ca/admissions/admission-requirements.php"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://grad.usask.ca/programs/physics-engineering-physics.php"
+      "code": "86",
+      "value": "TOEFL iBT 86 overall with at least 19 in each section; for tests dated January 21, 2026 or later, 4.5 overall with no section below 4.0. Some programs set higher minimums.",
+      "quote": "Fully qualified: Overall score of 86 with minimum scores of 19 in each area | Tests dated January 21, 2026 or later: overall score of 4.5 with no score below 4.0 in each area.",
+      "url": "https://grad.usask.ca/admissions/admission-requirements.php"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://grad.usask.ca/programs/physics-engineering-physics.php"
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall with no band below 6.0. Some programs set higher minimums.",
+      "quote": "Fully qualified: Overall score of 6.5 with no score below 6.0 in each area",
+      "url": "https://grad.usask.ca/admissions/admission-requirements.php"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://grad.usask.ca/programs/physics-engineering-physics.php"
+      "code": "Conditional",
+      "value": "Possible after at least three consecutive years of full-time study at an institution that the WHED database lists as teaching solely in English (institutions listing several languages do not qualify); the academic unit decides and can still require a test.",
+      "quote": "A minimum of three consecutive years of full-time study or completion of a graduate degree at a recognized post-secondary institution, where the exclusive language of instruction and examination of the program and/or institution is English | approval is at the discretion of the academic unit in which the graduate program is housed",
+      "url": "https://grad.usask.ca/admissions/admission-requirements.php",
+      "also": [
+        {
+          "quote": "Exemption will only be considered for institutions which list English as the sole language of instruction. Institutions which list multiple languages, or for which no language is listed, will not be considered for exemption.",
+          "url": "https://grad.usask.ca/admissions/english-countries-institutions.php"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "PhD tuition is the same for international and domestic students (CAD 5,637/year in 2026-27). Duolingo 120 and PTE 63 are also accepted."
 }

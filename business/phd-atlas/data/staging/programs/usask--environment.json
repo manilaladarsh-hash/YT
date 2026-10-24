@@ -1,0 +1,43 @@
+{
+  "id": "usask--environment",
+  "university": "usask",
+  "field": "environment",
+  "also_fields": [],
+  "department": "School of Environment and Sustainability",
+  "program_page": "https://grad.usask.ca/programs/environment-sustainability.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-31",
+      "value": "Applications are open all year, but apply by January 31, 2027 for September 2027 entry to be considered for scholarships.",
+      "quote": "Applications for the MES and PhD programs are open all year. | To be considered for a scholarship, completed applications should be received by the following dates: | Start Term Application Deadline September January 31",
+      "url": "https://grad.usask.ca/programs/environment-sustainability.php",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The program page does not mention the GRE.",
+      "quote": "",
+      "url": "https://grad.usask.ca/programs/environment-sustainability.php"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must secure a SENS supervisor (with written support) before applying; applications without one are incomplete.",
+      "quote": "Applicants must contact SENS faculty and secure a supervisor before submitting your application. | Applicants who do not secure a supervisor will not be considered, and the application will be deemed incomplete.",
+      "url": "https://grad.usask.ca/programs/environment-sustainability.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding is scholarship-based; you need at least 80% in your last two years to be considered.",
+      "quote": "To be considered for potential scholarship funding, students must have obtained at least 80% in the last two years of undergraduate or graduate study.",
+      "url": "https://grad.usask.ca/programs/environment-sustainability.php"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A relevant master's degree (70%+) is required for the PhD.",
+      "quote": "Master's degree, or equivalent, from a recognized university in a relevant academic discipline",
+      "url": "https://grad.usask.ca/programs/environment-sustainability.php"
+    }
+  },
+  "notes": ""
+}
