@@ -1,0 +1,50 @@
+{
+  "id": "ncsu--cs",
+  "university": "ncsu",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://catalog.ncsu.edu/graduate/engineering/computer-science/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Fall-only admission; international applicants must apply by December 15, 2026.",
+      "quote": "Fall admission only: December 15",
+      "url": "https://catalog.ncsu.edu/graduate/engineering/computer-science/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The catalog says applicants must submit GRE General scores, but also lists GRE as 'where required'; the department site was blocked, so confirm before applying.",
+      "quote": "Applicants must also submit the GRE General Test scores and international applicants must provide TOEFL or IELTS scores",
+      "url": "https://catalog.ncsu.edu/graduate/engineering/computer-science/",
+      "conflict": true
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Financial aid is offered to all admitted PhD students.",
+      "quote": "Financial aid is offered to all admitted PhD students.",
+      "url": "https://catalog.ncsu.edu/graduate/engineering/computer-science/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Minimum requirement is an accredited bachelor's degree with at least a B average.",
+      "quote": "Minimum application requirements include an accredited Bachelor's degree with at least a B average",
+      "url": "https://catalog.ncsu.edu/graduate/engineering/computer-science/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://catalog.ncsu.edu/graduate/engineering/computer-science/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://catalog.ncsu.edu/graduate/engineering/computer-science/"
+    }
+  },
+  "notes": "csc.ncsu.edu returned 502; values are from the Graduate Catalog page only."
+}
