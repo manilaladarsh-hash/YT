@@ -3,45 +3,51 @@
   "institution": "Trinity College Dublin",
   "country": "Ireland",
   "region": "Leinster (Dublin)",
-  "grad_page": "https://www.tcd.ie/physics/study/prospective/postgraduate/how-to-apply/",
-  "checked": "2026-10-21",
+  "grad_page": "https://www.tcd.ie/study/postgraduate/phd/",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.tcd.ie/physics/study/prospective/postgraduate/how-to-apply/"
+      "code": "55 EUR",
+      "value": "The application fee is EUR 55 per course route and is non-refundable.",
+      "quote": "the application fee is €55 and is non-refundable",
+      "url": "https://www.tcd.ie/academicregistry/fees-and-payments/what-fees-do-I-need-to-pay/"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.tcd.ie/physics/study/prospective/postgraduate/how-to-apply/"
+      "code": "None",
+      "value": "The application fee cannot be waived.",
+      "quote": "The application fee cannot be waived as this is a mandatory fee required for the submission and assessment of each application.",
+      "url": "https://www.tcd.ie/study/apply/faqs/postgraduate/"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "No GRE rule found on the university pages; not stated.",
       "quote": "",
-      "url": "https://www.tcd.ie/physics/study/prospective/postgraduate/how-to-apply/"
+      "url": "https://www.tcd.ie/courses/postgraduate/how-to-apply/"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.tcd.ie/physics/study/prospective/postgraduate/how-to-apply/"
+      "code": "90",
+      "value": "Standard Trinity requirement (Band B): TOEFL iBT 90 overall with 21 in each section (4.5 overall, 4.0 each section for tests after January 2026). Trinity says exact requirements are set per course.",
+      "quote": "Band B (Standard entry) | UG & PG Standard requirements | TOEFL iBT (Before January 2026) | 90 overall | 21 in each section | TOEFL iBT (After January 2026) | 4.5 overall | 4.0 in each section",
+      "url": "https://www.tcd.ie/study/english-language-requirements/",
+      "also": [
+        {
+          "quote": "Please see our course website for exact requirements for each course.",
+          "url": "https://www.tcd.ie/study/english-language-requirements/"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.tcd.ie/physics/study/prospective/postgraduate/how-to-apply/"
+      "code": "6.5",
+      "value": "Standard Trinity requirement (Band B): IELTS Academic 6.5 overall with 6.0 in each band; courses may set a different band.",
+      "quote": "Band B (Standard entry) | UG & PG Standard requirements | 6.5 overall | 6.0 in each band",
+      "url": "https://www.tcd.ie/study/english-language-requirements/"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.tcd.ie/physics/study/prospective/postgraduate/how-to-apply/"
+      "code": "Conditional",
+      "value": "Postgraduate applicants whose primary degree was taught wholly in English may request an exemption with a formal letter from the awarding institution; the course director must approve it. India is not named.",
+      "quote": "Applicants for postgraduate courses who have completed a primary degree through the medium of English may request an exemption from the requirement to present an English proficiency qualification. | The applicant must provide a formal document from the awarding institution clearly stating their prior degree was delivered wholly through English.",
+      "url": "https://www.tcd.ie/study/english-language-requirements/"
     }
   },
-  "notes": ""
+  "notes": "Research degrees have two registration periods (September and March); no closing dates apply."
 }

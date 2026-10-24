@@ -1,0 +1,38 @@
+{
+  "id": "padova--mech",
+  "university": "padova",
+  "field": "mech",
+  "also_fields": [
+    "chemeng"
+  ],
+  "department": "PhD in Industrial Engineering (Mechanical, Electrical, Energy, Materials, Chemical and environmental curricula)",
+  "program_page": "https://www.unipd.it/en/dottorato/dottorati-42-ciclo",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "Annual call; the 2026/27 call closed May 20, 2026. The call for Fall 2027 entry (43rd cycle) is not yet published.",
+      "quote": "Application deadline: May 20, 2026, 1 p.m.",
+      "url": "https://www.unipd.it/en/dottorato/dottorati-42-ciclo"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Each course offers a limited number of places and scholarships, and some places are awarded without a scholarship.",
+      "quote": "applicants awarded a place without a scholarship",
+      "url": "https://www.unipd.it/en/dottorato/dottorati-42-ciclo",
+      "also": [
+        {
+          "quote": "the places and scholarships made available",
+          "url": "https://www.unipd.it/en/dottorato/dottorati-42-ciclo"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's degree (or equivalent) is required, plus passing the admission exam.",
+      "quote": "You can access the PhD programme, which lasts 3 or 4 years, only after obtaining a master's degree and passing an admission examination",
+      "url": "https://www.unipd.it/en/dottorato"
+    }
+  },
+  "notes": "Only university-level pages could be read (course information sheets are PDFs the fetcher cannot parse); other fields Not stated."
+}
