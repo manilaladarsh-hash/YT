@@ -2,10 +2,12 @@
   "id": "bristol--physics",
   "university": "bristol",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "astronomy"
+  ],
   "department": "School of Physics",
   "program_page": "https://www.bristol.ac.uk/study/postgraduate/research/physics/",
-  "checked": "2026-10-21",
+  "checked": "2026-10-22",
   "fields": {
     "deadline": {
       "code": "2027-01-17",
@@ -49,11 +51,17 @@
         }
       ]
     },
-    "english_waiver": {
-      "code": "Yes",
-      "value": "A degree from any country counts if it was fully taught and examined in English, shown by an official Medium of Instruction (MOI) letter from the awarding institution. It must have been awarded no more than 7 years before the start, and the University may still ask for more evidence.",
-      "quote": "Applicants with a university-level qualification listed above, when fully taught and examined in English (not including Study Abroad years) in any country, may also meet the University's English language requirements. This must be evidenced by means of an official Medium of Instruction (MOI) letter from the awarding institution, confirming that English is the medium of teaching and examination. | In all cases, qualifications must have been awarded no more than seven years prior to the start of the degree programme.",
-      "url": "https://www.bristol.ac.uk/study/language-requirements/profile-f/"
+    "ielts_min": {
+      "code": "6.0",
+      "value": "IELTS Academic 6.0 overall, with listening or speaking at 6.5 and no score below 6.0 (English profile F).",
+      "quote": "6.0 overall with either listening or speaking at 6.5, with no score below 6.0",
+      "url": "https://www.bristol.ac.uk/study/language-requirements/profile-f/",
+      "also": [
+        {
+          "quote": "If English is not your first language, you will need to reach the requirements outlined in our profile level F.",
+          "url": "https://www.bristol.ac.uk/study/postgraduate/research/physics/"
+        }
+      ]
     }
   },
   "notes": "The admissions statement linked from the page is still for 2026 entry (the 2027 version is due in the autumn). The University's 2025-26 application-fee policy (a PDF, not machine-checked) lists fees only for Business School and Economics taught programmes."

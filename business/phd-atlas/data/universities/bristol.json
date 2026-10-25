@@ -3,45 +3,57 @@
   "institution": "University of Bristol",
   "country": "United Kingdom",
   "region": "England",
-  "grad_page": "https://www.bristol.ac.uk/study/postgraduate/research/physics/",
-  "checked": "2026-10-21",
+  "grad_page": "https://www.bristol.ac.uk/study/postgraduate/apply/",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.bristol.ac.uk/study/postgraduate/research/physics/"
+      "code": "0 (no fee)",
+      "value": "No University-wide application fee for research degrees; individual schools may charge one and publish it in the programme finder. None of the STEM PhD pages checked lists a fee.",
+      "quote": "While there is no University-wide charge to applicants for consideration of their applications, individual schools may charge application fees.",
+      "url": "https://www.bristol.ac.uk/media-library/sites/study/documents/policies/Admissions principles and procedures for postgraduate research programmes 2026.pdf",
+      "also": [
+        {
+          "quote": "Applications for Postgraduate Taught programmes in the following Schools will require | an application fee of £60 per application.",
+          "url": "https://www.bristol.ac.uk/media-library/sites/study/postgraduate/documents/2026_Application Fee Policy_2026_v2.pdf"
+        }
+      ]
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.bristol.ac.uk/study/postgraduate/research/physics/"
+      "code": "No fee",
+      "value": "No application fee applies to the STEM research programmes checked, so no waiver is needed; the fee policy lists fees only for Business School and School of Economics taught programmes.",
+      "quote": "Applications for Postgraduate Taught programmes in the following Schools will require",
+      "url": "https://www.bristol.ac.uk/media-library/sites/study/postgraduate/documents/2026_Application Fee Policy_2026_v2.pdf"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "GRE is not mentioned in the University research admissions policy or the programme pages checked.",
       "quote": "",
-      "url": "https://www.bristol.ac.uk/study/postgraduate/research/physics/"
+      "url": "https://www.bristol.ac.uk/study/postgraduate/research/"
     },
     "toefl_min": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "No single University minimum: each programme names an English profile (C, E or F) with its own TOEFL iBT score. See the program records.",
       "quote": "",
-      "url": "https://www.bristol.ac.uk/study/postgraduate/research/physics/"
+      "url": "https://www.bristol.ac.uk/study/language-requirements/"
     },
     "ielts_min": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "No single University minimum: each programme names an English profile (C, E or F) with its own IELTS score. See the program records.",
       "quote": "",
-      "url": "https://www.bristol.ac.uk/study/postgraduate/research/physics/"
+      "url": "https://www.bristol.ac.uk/study/language-requirements/"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.bristol.ac.uk/study/postgraduate/research/physics/"
+      "code": "Conditional",
+      "value": "A degree taught and examined in English in any country can meet the English requirement, but you must supply an official Medium of Instruction letter from the awarding university (or an ECCTIS statement), and the degree must be awarded within the last 7 years. The University may still ask for more evidence.",
+      "quote": "Applicants with a university-level qualification listed above, when fully taught and examined in English (not including Study Abroad years) in any country, may also meet the University's English language requirements. This must be evidenced by means of an official Medium of Instruction (MOI) letter from the awarding institution, confirming that English is the medium of teaching and examination. | In all cases, qualifications must have been awarded no more than seven years prior to the start of the degree programme.",
+      "url": "https://www.bristol.ac.uk/study/language-requirements/profile-f/",
+      "also": [
+        {
+          "quote": "We can also accept an ECCTIS English Language Proficiency Statement confirming your degree is comparable to an English language level of B2 or above.",
+          "url": "https://www.bristol.ac.uk/study/language-requirements/profile-e/"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "Fees, GRE and English test scores are set per programme (English profile C, E or F). Application Fee Policy covers applications to 31 Aug 2026 only."
 }
