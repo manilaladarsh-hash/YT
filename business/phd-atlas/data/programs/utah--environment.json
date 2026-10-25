@@ -1,0 +1,72 @@
+{
+  "id": "utah--environment",
+  "university": "utah",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Atmospheric Sciences",
+  "program_page": "https://atmos.utah.edu/graduate/graduate-faq.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "Applications are accepted through January with the faculty admissions meeting in late January; the page gives no exact date.",
+      "quote": "Graduate applications to the Dept. of Atmospheric Sciences at the University of Utah are accepted through January.",
+      "url": "https://atmos.utah.edu/graduate/graduate-faq.php"
+    },
+    "app_fee": {
+      "code": "65 USD",
+      "value": "USD 65 for international applicants.",
+      "quote": "$65 for international applicants.",
+      "url": "https://atmos.utah.edu/graduate/graduate-faq.php"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Fees may be waived for some students case by case.",
+      "quote": "The application fee may be waived for some students on a case-by-case basis.",
+      "url": "https://atmos.utah.edu/graduate/graduate-faq.php"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE General Test is no longer required but may be submitted as supplementary information.",
+      "quote": "The Graduate Record Examinations (GRE) revised General Test is no longer required, however GRE revised General Test Scores may be submitted as supplementary information",
+      "url": "https://atmos.utah.edu/graduate/graduate-faq.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department does not mention a subject test.",
+      "quote": "",
+      "url": "https://atmos.utah.edu/graduate/graduate-faq.php"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Students are admitted only where a faculty member's grant can pay their stipend, benefits and tuition; the offer letter names the primary advisor.",
+      "quote": "We do not admit more students in a given admissions cycle than we have allocated funding to support through individual faculty grants.",
+      "url": "https://atmos.utah.edu/graduate/graduate-faq.php",
+      "also": [
+        {
+          "quote": "If you are admitted, you will receive an offer letter that lists the name of your primary research advisor",
+          "url": "https://atmos.utah.edu/graduate/graduate-faq.php"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The department does not accept students without a guarantee of funding; PhD stipend is at least USD 35,000 a year with no tuition cost.",
+      "quote": "Because funding is limited and we don't accept students without a guarantee of funding",
+      "url": "https://atmos.utah.edu/graduate/graduate-faq.php",
+      "also": [
+        {
+          "quote": "nearly all students are awarded a competitive research assistantship",
+          "url": "https://atmos.utah.edu/future/financial-info.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants with only a bachelor's degree apply to the master's program and must complete it before the exam that decides PhD admission.",
+      "quote": "We require all incoming graduate students holding Bachelor's Degrees to first complete their Master's Degree",
+      "url": "https://atmos.utah.edu/graduate/graduate-faq.php"
+    }
+  },
+  "notes": "Faculty grant funding limits how many students are admitted each year."
+}
