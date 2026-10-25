@@ -3,45 +3,57 @@
   "institution": "Vanderbilt University",
   "country": "USA",
   "region": "Tennessee",
-  "grad_page": "https://as.vanderbilt.edu/physics-astronomy/phd-physics-admissions/",
-  "checked": "2026-10-21",
+  "grad_page": "https://gradschool.vanderbilt.edu/application-requirements/",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://as.vanderbilt.edu/physics-astronomy/phd-physics-admissions/"
+      "code": "95 USD",
+      "value": "The Graduate School application fee is $95; one fee covers up to two programs.",
+      "quote": "The Graduate School application fee is $95.00 and can be paid online after you submit your application.",
+      "url": "https://gradschool.vanderbilt.edu/application-requirements/"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://as.vanderbilt.edu/physics-astronomy/phd-physics-admissions/"
+      "code": "Limited",
+      "value": "International applicants are eligible only for a small number of discretionary waivers granted by the department; some departments also have their own automatic rules.",
+      "quote": "International students are only eligible to receive a discretionary fee waiver from their department of interest.",
+      "url": "https://gradschool.vanderbilt.edu/application-requirements/",
+      "also": [
+        {
+          "quote": "Only a small number of waivers are granted at the discretion of the program you are applying to based on recruitment priorities and other circumstances.",
+          "url": "https://gradschool.vanderbilt.edu/application-requirements/"
+        }
+      ]
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://as.vanderbilt.edu/physics-astronomy/phd-physics-admissions/"
+      "value": "Set by each program; see the program records.",
+      "quote": "Refer to your program of interest to learn about GRE score requirements and average acceptance scores.",
+      "url": "https://gradschool.vanderbilt.edu/application-requirements/"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://as.vanderbilt.edu/physics-astronomy/phd-physics-admissions/"
+      "code": "89",
+      "value": "TOEFL iBT 89 is the Graduate School minimum; some departments may ask for more. Duolingo 130 is also accepted.",
+      "quote": "The minimum acceptable score on the TOEFL iBT (internet- based test) is 89.",
+      "url": "https://gradschool.vanderbilt.edu/application-requirements/"
     },
     "ielts_min": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://as.vanderbilt.edu/physics-astronomy/phd-physics-admissions/"
+      "value": "The IELTS minimum varies by program (7.0 is described as desirable in many cases); see the program records.",
+      "quote": "For IELTS, the minimum acceptable score will vary by program.",
+      "url": "https://gradschool.vanderbilt.edu/application-requirements/"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://as.vanderbilt.edu/physics-astronomy/phd-physics-admissions/"
+      "code": "Conditional",
+      "value": "Waived if the whole bachelor's was taught in English in a country with several official languages including English (India's case), with a Registrar/Controller of Examinations letter or a transcript or mark sheet stating English as the medium of instruction. The Graduate School also lists India among English-language university countries.",
+      "quote": "The language of instruction was English for the entirety of your bachelor’s degree program and the country has multiple official languages, including English. | An official or attested letter issued by the institution’s Registrar, Controller of Examinations, or equivalent central academic records office confirming that English was the language of instruction for the entirety of the applicant’s degree program.",
+      "url": "https://gradschool.vanderbilt.edu/application-requirements/",
+      "also": [
+        {
+          "quote": "you (will) have an equivalent degree from an English-language university in United Kingdom, Ireland, Australia, Nigeria, Ghana, India, New Zealand, and Canada (except Quebec).",
+          "url": "https://gradschool.vanderbilt.edu/application-requirements/"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "Fees, TOEFL and English-waiver rules are set by the Graduate School for all PhD programs; the School of Engineering says IELTS 7.0 for its programs. Data Science is a master's-only program (no PhD); Quantitative and Chemical Biology, Biomedical Informatics and other School of Medicine PhDs not saved separately."
 }
