@@ -1,0 +1,54 @@
+{
+  "id": "yale--math",
+  "university": "yale",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://math.yale.edu/graduates",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "December 15, 2026.",
+      "quote": "Deadline to Apply is December 15, 2026",
+      "url": "https://math.yale.edu/graduates"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The General GRE is optional.",
+      "quote": "GRE General Test scores are optional.",
+      "url": "https://math.yale.edu/graduates",
+      "also": [
+        {
+          "quote": "GRE is optional. GRE Mathematics Subject Test is required.",
+          "url": "https://gsas.yale.edu/programs-of-study/mathematics"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Required",
+      "value": "The GRE Mathematics Subject Test is required.",
+      "quote": "GRE Subject Math Test scores are required.",
+      "url": "https://math.yale.edu/graduates"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students spend the first two years on coursework and qualifying exams and only then connect with faculty advisors.",
+      "quote": "In their first two years, students focus on building their general knowledge and passing the qualifying exams, but are also encouraged to use the time to think about their areas of interest, work together to explore them, and begin making connections with faculty advisors.",
+      "url": "https://math.yale.edu/graduates"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every PhD student gets full tuition plus a stipend for at least five years.",
+      "quote": "Every PhD student receives a funding package that covers the full cost of tuition and provides a stipend to cover basic living costs like rent, food, and books — for a minimum of five years.",
+      "url": "https://gsas.yale.edu/resources/graduate-financial-aid"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not required to apply for a Yale PhD, so you can apply straight from a bachelor's (some programs prefer extra training).",
+      "quote": "A Master's degree is not required to apply for a PhD at Yale, although some programs give preference to applicants with post-baccalaureate training.",
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process"
+    }
+  },
+  "notes": "Applied & Computational Mathematics is a separate Yale PhD program (deadline January 2; GRE General required per GSAS), not saved here."
+}

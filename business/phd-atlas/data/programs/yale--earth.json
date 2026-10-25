@@ -1,0 +1,61 @@
+{
+  "id": "yale--earth",
+  "university": "yale",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Earth & Planetary Sciences",
+  "program_page": "https://earth.yale.edu/academics/graduate-program",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-02",
+      "value": "January 2, 11:59 pm Eastern (year inferred from the 2026-27 cycle).",
+      "quote": "Application Deadline January 2 11:59pm ET",
+      "url": "https://gsas.yale.edu/programs-of-study/earth-planetary-sciences",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE scores are required in the 2026 admissions cycle.",
+      "quote": "As of the 2026 admissions cycle, we require GRE scores.",
+      "url": "https://earth.yale.edu/graduate-program-faqs",
+      "also": [
+        {
+          "quote": "GRE is required.",
+          "url": "https://gsas.yale.edu/programs-of-study/earth-planetary-sciences"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Contacting potential advisors in the fall is encouraged but not strictly necessary.",
+      "quote": "While it’s not strictly necessary, we encourage you to contact relevant faculty via email before applying",
+      "url": "https://earth.yale.edu/graduate-program-faqs"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All accepted students are fully funded, including summers, through completion with satisfactory progress.",
+      "quote": "Yes, all students accepted into our graduate program are fully funded, including summers, through a combination of departmental/university support, grant-supported research assistantships, and/or outside fellowships. Funding is guaranteed through completion assuming satisfactory progress in the program.",
+      "url": "https://earth.yale.edu/graduate-program-faqs",
+      "also": [
+        {
+          "quote": "Every PhD student receives a funding package that covers the full cost of tuition and provides a stipend to cover basic living costs like rent, food, and books — for a minimum of five years.",
+          "url": "https://gsas.yale.edu/resources/graduate-financial-aid"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A master's is not needed; some applicants hold one and others come straight from a bachelor's.",
+      "quote": "Do I need to have a Master’s degree to apply to the Ph.D. program? No. Some of our applicants have a Master’s degree, while others are coming straight from a Bachelor’s degree.",
+      "url": "https://earth.yale.edu/graduate-program-faqs"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE listed for this field on the pages checked.",
+      "quote": "",
+      "url": "https://earth.yale.edu/academics/graduate-program"
+    }
+  },
+  "notes": ""
+}

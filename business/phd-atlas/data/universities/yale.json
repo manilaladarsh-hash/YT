@@ -3,45 +3,51 @@
   "institution": "Yale University",
   "country": "USA",
   "region": "Connecticut",
-  "grad_page": "https://physics.yale.edu/apply",
-  "checked": "2026-10-21",
+  "grad_page": "https://gsas.yale.edu/admissions/phdmasters-application-process",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.yale.edu/apply"
+      "code": "105 USD",
+      "value": "USD 105 for all degree-seeking applicants, non-refundable.",
+      "quote": "The application fee for all degree-seeking applicants is US $105.00.",
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process/application-fees-fee-waivers"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.yale.edu/apply"
+      "code": "Available",
+      "value": "International (non-US) applicants can request a fee waiver for documented financial hardship or a listed special program.",
+      "quote": "US citizens, permanent residents, and non-US citizens are all eligible to request a fee waiver.",
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process/application-fees-fee-waivers",
+      "also": [
+        {
+          "quote": "International students are eligible to request a fee waiver.",
+          "url": "https://gsas.yale.edu/admissions/phdmasters-application-process/guidance-international-students"
+        }
+      ]
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.yale.edu/apply"
+      "value": "Set program by program: Required, Optional or Not accepted depending on the PhD program; see each program record.",
+      "quote": "The GRE is required for some degree programs at the Graduate School.",
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements"
     },
     "toefl_min": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.yale.edu/apply"
+      "value": "The Graduate School sets no admission minimum for TOEFL; individual programs may.",
+      "quote": "Although the Graduate School does not have test minimums for admission, individual departments may have a minimum requirement",
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process/guidance-international-students"
     },
     "ielts_min": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.yale.edu/apply"
+      "value": "The Graduate School sets no admission minimum for IELTS Academic; individual programs may.",
+      "quote": "Although the Graduate School does not have test minimums for admission, individual departments may have a minimum requirement",
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process/guidance-international-students"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://physics.yale.edu/apply"
+      "code": "Conditional",
+      "value": "Exempt if your bachelor's degree is from an institution where English is the primary language of instruction and you studied in residence there for at least three years; no separate documents, you answer in the application. A master's or PhD does not count.",
+      "quote": "If you have received (or will receive) an undergraduate degree from a college or university where English is the primary language of instruction, and if you have studied in residence at that institution for at least three years, you are exempt from the English Language Test requirement and are not required to submit the TOEFL or IELTS. | No exemptions are made on the basis of an advanced degree",
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements"
     }
   },
-  "notes": ""
+  "notes": "Yale GSAS admits PhDs for all programs below; BBS and the Interdepartmental Neuroscience Program use the BBS application and set a TOEFL minimum."
 }

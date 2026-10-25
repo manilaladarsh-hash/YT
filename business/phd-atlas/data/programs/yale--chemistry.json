@@ -1,0 +1,67 @@
+{
+  "id": "yale--chemistry",
+  "university": "yale",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://chem.yale.edu/academics/graduate-program/prospective-students",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "December 1, 11:59 pm Eastern (year inferred from the 2026-27 cycle).",
+      "quote": "Application Deadline December 1 11:59pm ET",
+      "url": "https://gsas.yale.edu/programs-of-study/chemistry",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The General GRE is required for the Chemistry PhD.",
+      "quote": "The GRE general test is required.",
+      "url": "https://chem.yale.edu/academics/graduate-program/prospective-students/faqs",
+      "also": [
+        {
+          "quote": "GRE is required.",
+          "url": "https://gsas.yale.edu/programs-of-study/chemistry"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The Chemistry Subject GRE is no longer offered, so it is not required.",
+      "quote": "the GRE - Chemistry subject test is no longer offered and, therefore, is not required.",
+      "url": "https://chem.yale.edu/academics/graduate-program/prospective-students/faqs"
+    },
+    "toefl_min": {
+      "code": "Sections",
+      "value": "No overall minimum; the department typically looks for 25 or above on the TOEFL Speaking section.",
+      "quote": "The Chemistry Department typically looks for 25 or above TOEFL Speaking section.",
+      "url": "https://chem.yale.edu/academics/graduate-program/prospective-students/faqs"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students rotate through labs in the first year and then join a group; no supervisor is needed before applying.",
+      "quote": "During the fall term, first year chemistry graduate students in long rotations are introduced to research during their first laboratory rotation.",
+      "url": "https://catalog.yale.edu/gsas/degree-granting-departments-programs/chemistry/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every PhD student gets full tuition plus a stipend for at least five years.",
+      "quote": "Every PhD student receives a funding package that covers the full cost of tuition and provides a stipend to cover basic living costs like rent, food, and books — for a minimum of five years.",
+      "url": "https://gsas.yale.edu/resources/graduate-financial-aid",
+      "also": [
+        {
+          "quote": "Graduate students receive a full stipend, and tuition is also covered.",
+          "url": "https://chem.yale.edu/academics/graduate-program/prospective-students/faqs"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not required to apply for a Yale PhD, so you can apply straight from a bachelor's (some programs prefer extra training).",
+      "quote": "A Master's degree is not required to apply for a PhD at Yale, although some programs give preference to applicants with post-baccalaureate training.",
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process"
+    }
+  },
+  "notes": "The chemistry FAQ says the fee-waiver request deadline is December 15, but GSAS lists January 2 as its final date."
+}

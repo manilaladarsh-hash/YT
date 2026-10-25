@@ -1,0 +1,63 @@
+{
+  "id": "yale--statistics",
+  "university": "yale",
+  "field": "statistics",
+  "also_fields": [
+    "datasci"
+  ],
+  "department": "Department of Statistics & Data Science",
+  "program_page": "https://statistics.yale.edu/graduates",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "December 1, 11:59 pm Eastern (year inferred from the 2026-27 cycle).",
+      "quote": "PhD - December 1*",
+      "url": "https://gsas.yale.edu/programs-of-study/statistics-data-science",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The General GRE is optional.",
+      "quote": "Scores from the GRE General Test are now optional.",
+      "url": "https://statistics.yale.edu/graduates/phd-program/phd-admissions",
+      "also": [
+        {
+          "quote": "GRE is optional. GRE Mathematics Subject Test is optional.",
+          "url": "https://gsas.yale.edu/programs-of-study/statistics-data-science"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Mathematics Subject GRE is optional (not recommended if your major was not mathematics).",
+      "quote": "A GRE Subject Test is also optional, although the Mathematics Subject Test is not recommended for students whose undergraduate major was not Mathematics.",
+      "url": "https://statistics.yale.edu/graduates/phd-program/phd-admissions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every PhD student gets full tuition plus a stipend for at least five years.",
+      "quote": "Every PhD student receives a funding package that covers the full cost of tuition and provides a stipend to cover basic living costs like rent, food, and books — for a minimum of five years.",
+      "url": "https://gsas.yale.edu/resources/graduate-financial-aid",
+      "also": [
+        {
+          "quote": "The offer of admission typically includes full tuition ($48,300 in 2023-24) and a generous stipend (roughly $40,300 for 2023-24) for five years.",
+          "url": "https://statistics.yale.edu/graduates/phd-program/phd-admissions"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not required to apply for a Yale PhD, so you can apply straight from a bachelor's (some programs prefer extra training).",
+      "quote": "A Master's degree is not required to apply for a PhD at Yale, although some programs give preference to applicants with post-baccalaureate training.",
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://statistics.yale.edu/graduates"
+    }
+  },
+  "notes": "One combined PhD in Statistics and Data Science; the asterisk on the GSAS deadline concerns combined-degree applicants."
+}

@@ -1,0 +1,67 @@
+{
+  "id": "yale--biomed",
+  "university": "yale",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Biological & Biomedical Sciences (BBS)",
+  "program_page": "https://medicine.yale.edu/bbs/apply/requirements",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "December 1, 11:59 pm Eastern (year inferred from the 2026-27 cycle).",
+      "quote": "Application Deadline December 1 11:59pm ET",
+      "url": "https://gsas.yale.edu/programs-of-study/biological-biomedical-sciences-bbs",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The General GRE is not required and scores you send are not reviewed.",
+      "quote": "We do not require the Graduate Record Examination (GRE) General Test. If you submit GRE scores we will not include them in the review of your application.",
+      "url": "https://medicine.yale.edu/bbs/apply/requirements",
+      "also": [
+        {
+          "quote": "GRE is not accepted.",
+          "url": "https://gsas.yale.edu/programs-of-study/biological-biomedical-sciences-bbs"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "5.0 (new scale)",
+      "value": "BBS requires at least 5.0 on the new TOEFL scale (100 on the pre-2026 iBT); test no later than November.",
+      "quote": "TOEFL: We require a score of at least 5.0 (or 100 on the pre-2026 exam).",
+      "url": "https://medicine.yale.edu/bbs/apply/requirements"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "IELTS is accepted and BBS sets no minimum score; a speaking score of 7.5 or below means a summer English program at Yale.",
+      "quote": "There is no minimum score requirement for the IELTS.",
+      "url": "https://medicine.yale.edu/bbs/apply/requirements"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You apply to a BBS track and rotate through three labs in the first year before choosing a thesis adviser.",
+      "quote": "We will require you to rotate through three labs during your first year of study to help you explore your research interests and find a thesis adviser.",
+      "url": "https://medicine.yale.edu/bbs/apply/faq/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every PhD student gets full tuition plus a stipend for at least five years.",
+      "quote": "Every PhD student receives a funding package that covers the full cost of tuition and provides a stipend to cover basic living costs like rent, food, and books — for a minimum of five years.",
+      "url": "https://gsas.yale.edu/resources/graduate-financial-aid"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not required to apply for a Yale PhD, so you can apply straight from a bachelor's (some programs prefer extra training).",
+      "quote": "A Master's degree is not required to apply for a PhD at Yale, although some programs give preference to applicants with post-baccalaureate training.",
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE listed for this field on the pages checked.",
+      "quote": "",
+      "url": "https://medicine.yale.edu/bbs/apply/requirements"
+    }
+  },
+  "notes": "One application for nine tracks (biochemistry, computational biology, genome sciences, immunology, microbiology, MCGD, neuroscience, plant molecular biology, translational medicine/pharmacology). The Plant Molecular Biology track strongly encourages contacting its faculty before applying."
+}

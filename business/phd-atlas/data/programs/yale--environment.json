@@ -1,0 +1,61 @@
+{
+  "id": "yale--environment",
+  "university": "yale",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Yale School of the Environment (Environment PhD)",
+  "program_page": "https://environment.yale.edu/admissions/doctoral",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-02",
+      "value": "January 2 (year inferred from the 2026-27 cycle); combined-degree applicants face the earlier of the two programs' deadlines or December 15.",
+      "quote": "Application Deadline January 2* 11:59pm ET",
+      "url": "https://gsas.yale.edu/programs-of-study/environment",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The General GRE is optional; check the program website.",
+      "quote": "GRE is optional. Please check the program website for more information.",
+      "url": "https://gsas.yale.edu/programs-of-study/environment",
+      "also": [
+        {
+          "quote": "Environment* Optional",
+          "url": "https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must identify and contact one or two faculty who could be your major advisor before applying.",
+      "quote": "All applicants must identify and contact one or two faculty members who they think could serve as their major advisor.",
+      "url": "https://environment.yale.edu/admissions/doctoral"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The doctoral program is fully funded.",
+      "quote": "and what’s more, it is fully funded.",
+      "url": "https://environment.yale.edu/admissions/doctoral",
+      "also": [
+        {
+          "quote": "Every PhD student receives a funding package that covers the full cost of tuition and provides a stipend to cover basic living costs like rent, food, and books — for a minimum of five years.",
+          "url": "https://gsas.yale.edu/resources/graduate-financial-aid"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not required to apply for a Yale PhD, so you can apply straight from a bachelor's (some programs prefer extra training).",
+      "quote": "A Master's degree is not required to apply for a PhD at Yale, although some programs give preference to applicants with post-baccalaureate training.",
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE listed for this field on the pages checked.",
+      "quote": "",
+      "url": "https://environment.yale.edu/admissions/doctoral"
+    }
+  },
+  "notes": "Applications go through GSAS but the program is run by the Yale School of the Environment."
+}
