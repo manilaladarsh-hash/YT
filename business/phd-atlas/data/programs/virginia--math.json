@@ -1,0 +1,49 @@
+{
+  "id": "virginia--math",
+  "university": "virginia",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics (Graduate School of Arts and Sciences)",
+  "program_page": "https://graduate.as.virginia.edu/graduate-degree-programs/mathematics",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "PhD applications are due January 15.",
+      "quote": "Application Deadlines PhD: January 15",
+      "url": "https://graduate.as.virginia.edu/graduate-degree-programs/mathematics",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Astronomy, Classics, Environmental Sciences, Mathematics, Music, Philosophy, Sociology, Spanish (not accepting applications this cycle), Statistics",
+          "url": "https://graduate.as.virginia.edu/deadlines"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The Graduate School requires GRE scores only from a few programs, and Mathematics is not one of them.",
+      "quote": "Applicants to all other programs are not required to submit GRE scores.",
+      "url": "https://graduate.as.virginia.edu/requirements"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Doctoral students get at least five years of support, including a 12-month stipend of $37,260 and tuition remission.",
+      "quote": "The Graduate School offers doctoral students a minimum of five years of financial support upon admission, including twelve-month living support of $37,260",
+      "url": "https://graduate.as.virginia.edu/graduate-student-financial-support"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked (department site blocked)",
+      "quote": "",
+      "url": "https://graduate.as.virginia.edu/graduate-degree-programs/mathematics"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked (department site blocked)",
+      "quote": "",
+      "url": "https://graduate.as.virginia.edu/graduate-degree-programs/mathematics"
+    }
+  },
+  "notes": "Department site math.virginia.edu could not be fetched (502); supervisor and entry route are Not stated."
+}

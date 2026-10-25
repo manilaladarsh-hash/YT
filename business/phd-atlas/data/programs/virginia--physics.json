@@ -21,10 +21,10 @@
       "url": "https://graduate.as.virginia.edu/requirements"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
-      "url": "https://graduate.as.virginia.edu/requirements"
+      "code": "Not required",
+      "value": "No supervisor is needed to apply; first-year students try preliminary research with several faculty and move to a dissertation advisor of their choice later.",
+      "quote": "A student may engage in several such preliminary research periods before embarking upon their dissertation research by which time they would transfer to a faculty advisor of their choice.",
+      "url": "https://www.phys.virginia.edu/GraduateBrochure/"
     },
     "funding": {
       "code": "Guaranteed",
@@ -38,36 +38,18 @@
       "quote": "",
       "url": "https://graduate.as.virginia.edu/requirements"
     },
-    "app_fee": {
-      "code": "85 USD",
-      "value": "USD 85, non-refundable; one GSAS program per season",
-      "quote": "A non-refundable fee of $85 is due at the time the application is submitted.",
-      "url": "https://graduate.as.virginia.edu/requirements"
-    },
-    "fee_waiver": {
-      "code": "Limited",
-      "value": "Waivers for US citizens/PRs with hardship; internationals only if citizens of UN least developed countries (India is not on the list); GSAS gives no waiver codes",
-      "quote": "International Applicants: Citizens of the countries listed below, which are recognized by the United Nations as least developed countries (LDCs), are eligible to receive a need-based application fee waiver. | Please note that international applicants from countries not included in the United Nations' list of LDCs will not qualify for this fee waiver.",
-      "url": "https://graduate.as.virginia.edu/requirements"
-    },
     "gre_general": {
       "code": "Not required",
       "value": "General GRE not required for Physics",
       "quote": "Applicants to degree programs in Physics require a valid Physics GRE score; general GRE scores are not required.",
       "url": "https://graduate.as.virginia.edu/requirements"
     },
-    "toefl_min": {
-      "code": "90",
-      "value": "TOEFL iBT 90 with sections S22/W22/R23/L23 (before 1/21/26) or 4.5 overall (new scale); IELTS 7.0 each section; DET 130; committees may consider lower scores",
-      "quote": "Taken before 1/21/26: 90 overall, with sectional minimums of 22 in speaking, 22 in writing, 23 in reading, and 23 in listening",
-      "url": "https://graduate.as.virginia.edu/requirements"
-    },
-    "english_waiver": {
-      "code": "Conditional",
-      "value": "Automatic waiver if the whole undergraduate degree is from an institution where English is the primary language of instruction, with evidence (transcript or primary-language certificate); other proof considered case by case",
-      "quote": "Automatic waiver. The TOEFL requirement is waived for applicants who have earned or will earn an undergraduate degree entirely at an institution where English is the primary language of instruction. To receive this waiver, submit supporting evidence, such as a transcript or a primary language certificate, as part of the electronic application.",
-      "url": "https://graduate.as.virginia.edu/requirements"
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic 7.0 in each section (department admissions page).",
+      "quote": "The minimum IELTS score requirement is 7.0 in each section.",
+      "url": "https://www.phys.virginia.edu/GraduateBrochure/GraduateAdmissions.asp"
     }
   },
-  "notes": "Physics department site (physics.virginia.edu) could not be fetched (connection reset); all facts are from Graduate School of Arts and Sciences pages. Enrolling students without an English-medium undergraduate degree must take the UVELPE exam in May. Id \"uva\" is used by University of Amsterdam."
+  "notes": "Physics department admissions pages (www.phys.virginia.edu/GraduateBrochure) were fetched in this pass; physics.virginia.edu itself is unreachable. Application fee, fee waiver, TOEFL and English waiver inherit the university record. Department page also states: degree in physics or a related discipline expected (entry route kept Not stated). Enrolling students without an English-medium undergraduate degree must take the UVELPE exam in May."
 }

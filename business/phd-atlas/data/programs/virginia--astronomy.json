@@ -1,0 +1,61 @@
+{
+  "id": "virginia--astronomy",
+  "university": "virginia",
+  "field": "astronomy",
+  "also_fields": [],
+  "department": "Department of Astronomy (Graduate School of Arts and Sciences)",
+  "program_page": "https://astronomy.as.virginia.edu/information-prospective-graduate-applicants",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Complete the application by January 15 for full consideration.",
+      "quote": "To receive full consideration, application materials should be complete in the Astronomy Department by January 15.",
+      "url": "https://astronomy.as.virginia.edu/information-prospective-graduate-applicants",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The department neither accepts nor considers the General GRE.",
+      "quote": "The Department does not accept, nor consider, the Physics or General GRE as part of our application process.",
+      "url": "https://astronomy.as.virginia.edu/information-prospective-graduate-applicants"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "The Physics GRE is not accepted or considered (dropped from 2020).",
+      "quote": "The Department does not accept, nor consider, the Physics or General GRE as part of our application process.",
+      "url": "https://astronomy.as.virginia.edu/information-prospective-graduate-applicants",
+      "also": [
+        {
+          "quote": "Beginning in 2020, the Department no longer accepts, nor considers, the Physics GRE as part of our application process.",
+          "url": "https://astronomy.as.virginia.edu/frequently-asked-questions"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by committee; students are only encouraged to identify an advisor after admission, before starting.",
+      "quote": "We strongly encourage admitted students to identify an advisor before starting in the fall.",
+      "url": "https://astronomy.as.virginia.edu/frequently-asked-questions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The department does not admit PhD students without offering full financial support (tuition, stipend, health insurance); summer funding is not strictly guaranteed.",
+      "quote": "At the present time, the department does not admit students without offering them full financial support.",
+      "url": "https://astronomy.as.virginia.edu/information-prospective-graduate-applicants",
+      "also": [
+        {
+          "quote": "The Graduate School offers doctoral students a minimum of five years of financial support upon admission",
+          "url": "https://graduate.as.virginia.edu/graduate-student-financial-support"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A single 5-year route: the first two years include the master's, and students with a prior master's cannot skip coursework.",
+      "quote": "The first two years of the program are dedicated to your Masters. | do not allow students to skip over coursework required for both our M.S. and Ph.D. degrees",
+      "url": "https://astronomy.as.virginia.edu/frequently-asked-questions"
+    }
+  },
+  "notes": "Dept page says only 'TOEFL scores, for applicants whose native language is not English'; the Graduate School rules apply."
+}

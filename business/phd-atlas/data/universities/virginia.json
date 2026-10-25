@@ -7,41 +7,53 @@
   "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
+      "code": "85 USD",
+      "value": "USD 85, non-refundable, due when the application is submitted (Graduate School of Arts & Sciences).",
+      "quote": "A non-refundable fee of $85 is due at the time the application is submitted.",
       "url": "https://graduate.as.virginia.edu/requirements"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
+      "code": "Limited",
+      "value": "Waivers go to US citizens/PRs with hardship; international applicants get one only if citizens of UN least developed countries, and India is not on that list.",
+      "quote": "International Applicants: Citizens of the countries listed below, which are recognized by the United Nations as least developed countries (LDCs), are eligible to receive a need-based application fee waiver. | Please note that international applicants from countries not included in the United Nations' list of LDCs will not qualify for this fee waiver.",
       "url": "https://graduate.as.virginia.edu/requirements"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://graduate.as.virginia.edu/requirements"
+      "code": "Not required",
+      "value": "The General GRE is not required for most programs; Economics, Sociology and Statistics ask for it, and Physics requires the Physics subject test only.",
+      "quote": "Applicants to all other programs are not required to submit GRE scores.",
+      "url": "https://graduate.as.virginia.edu/requirements",
+      "also": [
+        {
+          "quote": "Applicants to degree programs in Economics, Sociology, and Statistics must record their GRE scores on their electronic application.",
+          "url": "https://graduate.as.virginia.edu/requirements"
+        }
+      ]
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://graduate.as.virginia.edu/requirements"
+      "code": "90",
+      "value": "TOEFL iBT 90 overall (22 speaking, 22 writing, 23 reading, 23 listening) for tests taken before 21 Jan 2026; 4.5 overall on the new scale after that. Committees may consider lower scores.",
+      "quote": "Taken before 1/21/26: 90 overall, with sectional minimums of 22 in speaking, 22 in writing, 23 in reading, and 23 in listening",
+      "url": "https://graduate.as.virginia.edu/requirements",
+      "also": [
+        {
+          "quote": "Taken after 1/21/26: 4.5 overall, with sectional minimums of 4 in speaking, 4.5 in writing, 4.5 in reading, and 5 in listening",
+          "url": "https://graduate.as.virginia.edu/requirements"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
+      "code": "7",
+      "value": "IELTS Academic 7.0 in each section.",
+      "quote": "The minimum IELTS score is 7.0 in each section.",
       "url": "https://graduate.as.virginia.edu/requirements"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
+      "code": "Conditional",
+      "value": "Automatic waiver if the whole undergraduate degree was taught in English, but you must upload evidence such as a transcript or a medium-of-instruction certificate; other proof is considered case by case.",
+      "quote": "The TOEFL requirement is waived for applicants who have earned or will earn an undergraduate degree entirely at an institution where English is the primary language of instruction. | To receive this waiver, submit supporting evidence, such as a transcript or a primary language certificate, as part of the electronic application.",
       "url": "https://graduate.as.virginia.edu/requirements"
     }
   },
-  "notes": ""
+  "notes": "Rules are from the Graduate School of Arts & Sciences (GSAS), which admits the A&S programs. The School of Data Science and the School of Medicine (BIMS) run their own applications and are recorded as overrides on their programs. The School of Engineering and Applied Science (engineering.virginia.edu and department sites) could not be fetched, so engineering PhDs are not recorded."
 }

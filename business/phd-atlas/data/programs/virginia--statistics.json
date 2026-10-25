@@ -1,0 +1,61 @@
+{
+  "id": "virginia--statistics",
+  "university": "virginia",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Statistics (Graduate School of Arts and Sciences)",
+  "program_page": "https://statistics.as.virginia.edu/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The application deadline is January 15.",
+      "quote": "The application deadline is January 15.",
+      "url": "https://statistics.as.virginia.edu/admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General scores are required for admission; this differs from most UVA programs.",
+      "quote": "Yes, GRE general exam scores are required for admission.",
+      "url": "https://statistics.as.virginia.edu/admissions",
+      "also": [
+        {
+          "quote": "Applicants to degree programs in Economics, Sociology, and Statistics must record their GRE scores on their electronic application.",
+          "url": "https://graduate.as.virginia.edu/requirements"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Doctoral students get at least five years of support; first-year PhD students are fully supported on fellowships with no teaching.",
+      "quote": "The Graduate School offers doctoral students a minimum of five years of financial support upon admission, including twelve-month living support of $37,260",
+      "url": "https://graduate.as.virginia.edu/graduate-student-financial-support",
+      "also": [
+        {
+          "quote": "First-year Ph.D. students are fully supported on fellowships requiring no teaching duties.",
+          "url": "https://statistics.as.virginia.edu/admissions"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not required; many PhD students do not have one.",
+      "quote": "Many of our Ph.D. students do not have a Masters degree.",
+      "url": "https://statistics.as.virginia.edu/admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://statistics.as.virginia.edu/admissions"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://statistics.as.virginia.edu/admissions"
+    }
+  },
+  "notes": "Dept says only some non-native speakers may need TOEFL/IELTS and defers to the Graduate School."
+}

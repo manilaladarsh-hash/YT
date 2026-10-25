@@ -1,0 +1,43 @@
+{
+  "id": "virginia--biology",
+  "university": "virginia",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology (Graduate School of Arts and Sciences)",
+  "program_page": "https://bio.as.virginia.edu/how-apply-graduate-program",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply between October 1 and December 1; letters must also arrive by then.",
+      "quote": "letters must be received prior to the December 1st application deadline for an application to receive consideration",
+      "url": "https://bio.as.virginia.edu/how-apply-graduate-program",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The Graduate School requires GRE scores only from a few programs, and Biology is not one of them.",
+      "quote": "Applicants to all other programs are not required to submit GRE scores.",
+      "url": "https://graduate.as.virginia.edu/requirements"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD students are guaranteed five years of support covering tuition, fees, health insurance and living support, subject to satisfactory progress.",
+      "quote": "PhD students are guaranteed financial support for five years of study",
+      "url": "https://bio.as.virginia.edu/how-apply-graduate-program"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://bio.as.virginia.edu/how-apply-graduate-program"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated for PhD applicants on the page checked",
+      "quote": "",
+      "url": "https://bio.as.virginia.edu/how-apply-graduate-program"
+    }
+  },
+  "notes": "Dept page says master's applicants need a faculty sponsor but is silent for PhD applicants, so supervisor is Not stated."
+}
