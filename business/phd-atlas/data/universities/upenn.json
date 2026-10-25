@@ -3,45 +3,52 @@
   "institution": "University of Pennsylvania",
   "country": "USA",
   "region": "Pennsylvania",
-  "grad_page": "https://www.physics.upenn.edu/graduate/admissions",
-  "checked": "2026-10-21",
+  "grad_page": "https://pan-school.sas.upenn.edu/graduate-division/prospective-students/application-information",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.upenn.edu/graduate/admissions"
+      "code": "90 USD",
+      "value": "Application fee is $90 for School of Arts and Sciences PhD programs.",
+      "quote": "Application fee payment ($90) or approval of Application Fee Waiver Request",
+      "url": "https://pan-school.sas.upenn.edu/graduate-division/prospective-students/application-information"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.upenn.edu/graduate/admissions"
+      "code": "Limited",
+      "value": "A limited number of waivers go to PhD applicants showing clear and compelling financial hardship; international eligibility is not addressed. Request inside the finalized application at least 2 weeks before the Dec 8 deadline.",
+      "quote": "A limited number of application fee waivers are available for Ph.D. applicants who demonstrate clear and compelling financial hardship.",
+      "url": "https://pan-school.sas.upenn.edu/graduate-division/prospective-students/application-information",
+      "time_sensitive": "2026-11-24",
+      "also": [
+        {
+          "quote": "please finalize your application and submit your waiver request at least 2 weeks prior to the application deadline",
+          "url": "https://pan-school.sas.upenn.edu/graduate-division/prospective-students/application-information"
+        }
+      ]
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.upenn.edu/graduate/admissions"
+      "value": "Set by each graduate group; see the program records.",
+      "quote": "GRE, where required. Check your graduate group for details on program requirements.",
+      "url": "https://pan-school.sas.upenn.edu/graduate-division/prospective-students/application-information"
     },
     "toefl_min": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "The Graduate Division gives no minimum score; each graduate group sets its own.",
       "quote": "",
-      "url": "https://www.physics.upenn.edu/graduate/admissions"
+      "url": "https://pan-school.sas.upenn.edu/graduate-division/prospective-students/application-information"
     },
     "ielts_min": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "The Graduate Division gives no minimum score; each graduate group sets its own.",
       "quote": "",
-      "url": "https://www.physics.upenn.edu/graduate/admissions"
+      "url": "https://pan-school.sas.upenn.edu/graduate-division/prospective-students/application-information"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.physics.upenn.edu/graduate/admissions"
+      "code": "Conditional",
+      "value": "Applicants whose native language is not English need TOEFL/IELTS, but some programs waive it if the whole post-secondary degree was taught in English; ask the program and upload a transcript.",
+      "quote": "Certain programs may waive this requirement if your post-secondary degree was conducted entirely in English.",
+      "url": "https://pan-school.sas.upenn.edu/graduate-division/prospective-students/application-information"
     }
   },
-  "notes": ""
+  "notes": "Penn has no single graduate school; this record uses the School of Arts and Sciences Graduate Division (physics, chemistry, math, biology, earth and environmental science). Penn Engineering (fee $95 per search snippet only) and Perelman School of Medicine pages were blocked (HTTP 502), so no engineering or biomedical program records were saved."
 }

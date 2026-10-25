@@ -1,0 +1,73 @@
+{
+  "id": "utah--bme",
+  "university": "utah",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biomedical Engineering",
+  "program_page": "https://www.bme.utah.edu/prospective-graduate-students/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Priority PhD deadline December 1; later applications considered on a space-available basis through April 1.",
+      "quote": "Priority Ph.D. application deadline is December 1.",
+      "url": "https://www.bme.utah.edu/prospective-graduate-students/",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "65 USD",
+      "value": "USD 65 for international PhD applicants.",
+      "quote": "International PhD | $65",
+      "url": "https://www.bme.utah.edu/prospective-graduate-students/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "A referral code waives the fee for domestic PhD applicants; nothing is said about international waivers.",
+      "quote": "Domestic PhD | $0",
+      "url": "https://www.bme.utah.edu/prospective-graduate-students/"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE is highly recommended; applications may be considered without it, but the committee may request scores.",
+      "quote": "scores are highly recommended for the BME graduate program",
+      "url": "https://www.bme.utah.edu/prospective-graduate-students/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department does not mention a subject test.",
+      "quote": "",
+      "url": "https://www.bme.utah.edu/prospective-graduate-students/"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "Department expects a composite TOEFL iBT of at least 90 (above the university minimum of 80); below 100 may require English classes.",
+      "quote": "International students should have a minimum composite TOEFL score of 90 on the internet-based test.",
+      "url": "https://www.bme.utah.edu/prospective-graduate-students/"
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "Department accepts a minimum IELTS of 7.5 (or Duolingo 125) in place of TOEFL.",
+      "quote": "The Department will also accept a minimum 7.5 IELTS score or 125 DUOLINGO score in lieu of the TOEFL.",
+      "url": "https://www.bme.utah.edu/prospective-graduate-students/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to contact faculty directly about research and funding, though the admissions committee does not place students in labs.",
+      "quote": "We encourage you to contact faculty members directly at the e-mail addresses shown on their web pages in order to seek out potential research projects and to explore avenues of funding.",
+      "url": "https://www.bme.utah.edu/prospective-graduate-students/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most PhD students are supported by individual faculty as research assistants; a few competitive fellowships exist.",
+      "quote": "Most Biomedical Engineering Ph.D. students are supported by individual faculty members as Research Assistants.",
+      "url": "https://www.bme.utah.edu/prospective-graduate-students/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Exceptionally qualified B.S. students are encouraged to apply directly to the PhD.",
+      "quote": "we encourage exceptionally qualified B.S. students to apply for direct admission to our Ph.D. program",
+      "url": "https://www.bme.utah.edu/prospective-graduate-students/"
+    }
+  },
+  "notes": ""
+}

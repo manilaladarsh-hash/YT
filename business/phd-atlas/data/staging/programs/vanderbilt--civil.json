@@ -1,0 +1,50 @@
+{
+  "id": "vanderbilt--civil",
+  "university": "vanderbilt",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil and Environmental Engineering",
+  "program_page": "https://engineering.vanderbilt.edu/departments/civil-environmental-engineering/graduate-programs/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "December 1 per the department FAQ (the School of Engineering lists December 1, 2026 as the fee-waiver date and January 8, 2027 as the final PhD deadline).",
+      "quote": "Q. WHAT IS THE ADMISSIONS DEADLINE? December 1",
+      "url": "https://engineering.vanderbilt.edu/departments/civil-environmental-engineering/graduate-programs/",
+      "inferred": "year",
+      "time_sensitive": "2026-12-01"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The School of Engineering does not require GRE scores for Fall 2027 entry.",
+      "quote": "For Spring and Fall 2027 entry, the School of Engineering does not require GRE scores for admission consideration.",
+      "url": "https://engineering.vanderbilt.edu/academics/graduate/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS 7.0 minimum (TOEFL 89).",
+      "quote": "The minimum acceptable score for the IELTS is 7.0.",
+      "url": "https://engineering.vanderbilt.edu/departments/civil-environmental-engineering/graduate-programs/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by the faculty as a group; faculty members cannot make offers.",
+      "quote": "Individual faculty members are not empowered to make graduate admission offers to prospective students. Admission decisions are made by the faculty as a group after reviewing all qualified applicants.",
+      "url": "https://engineering.vanderbilt.edu/departments/civil-environmental-engineering/graduate-programs/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "PhD students get full aid (tuition, stipend, health insurance) as teaching or research assistants, but the number of positions is limited and admission is competitive.",
+      "quote": "Full-Time Teaching Assistantships - a monthly stipend, 100% tuition scholarship, 100% health insurance scholarship, and 100% activity and recreation fees scholarship. | That varies with the total number of applicants and the amount of financial aid available to support Ph.D. students.",
+      "url": "https://engineering.vanderbilt.edu/departments/civil-environmental-engineering/graduate-programs/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "PhD students are admitted with either a B.S. or an M.S.; direct entry from a bachelor's is allowed for degrees from English-medium institutions.",
+      "quote": "The minimum time required to complete the Ph.D. degree by those admitted with a B.S. degree is four years | Those admitted with a M.S. degree can complete the Ph.D. degree in the minimum time of three years.",
+      "url": "https://engineering.vanderbilt.edu/departments/civil-environmental-engineering/graduate-programs/"
+    }
+  },
+  "notes": "The department FAQ is older than the School page and says there are no PhD fee waivers; the School of Engineering page lists waivers for U.S.-school students and select international institutions, so no fee override was saved. Environmental Engineering PhD is part of the same department."
+}

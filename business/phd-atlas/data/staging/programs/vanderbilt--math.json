@@ -1,0 +1,49 @@
+{
+  "id": "vanderbilt--math",
+  "university": "vanderbilt",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://as.vanderbilt.edu/math/graduate-admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "December 1 (the page still refers to the Fall 2026 cycle, so the year is inferred).",
+      "quote": "The deadline for submitting your application is December 1st.",
+      "url": "https://as.vanderbilt.edu/math/graduate-admissions/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The GRE General Test is not considered when evaluating applications.",
+      "quote": "The GRE General Test is not considered when the applications are evaluated.",
+      "url": "https://as.vanderbilt.edu/math/graduate-admissions/"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The Mathematics Subject Test is optional but highly recommended; unofficial copies are considered.",
+      "quote": "GRE Mathematics Subject Test: Optional, but we highly recommend that you take the test and submit the score",
+      "url": "https://as.vanderbilt.edu/math/graduate-admissions/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS 7.0 minimum (TOEFL 89).",
+      "quote": "The minimum acceptable score is 89 on TOEFL and 7.0 on IELTS.",
+      "url": "https://as.vanderbilt.edu/math/graduate-admissions/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by the graduate recruitment committee, not by individual professors.",
+      "quote": "The admission decisions are done by the graduate recruitment committee and not by individual professors.",
+      "url": "https://as.vanderbilt.edu/math/graduate-admissions/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All successful applicants get a teaching assistantship with a stipend plus a full tuition scholarship and health insurance.",
+      "quote": "All successful applicants are offered Graduate Teaching Assistantships that are supplemented by a full University Tuition Scholarship",
+      "url": "https://as.vanderbilt.edu/math/graduate-admissions/"
+    }
+  },
+  "notes": "Department also has a limited number of extra fee waivers on request (Google/REDCap form)."
+}

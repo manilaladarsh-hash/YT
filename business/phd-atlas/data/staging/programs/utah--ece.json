@@ -1,0 +1,61 @@
+{
+  "id": "utah--ece",
+  "university": "utah",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical and Computer Engineering",
+  "program_page": "https://www.ece.utah.edu/grad-admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall 2027 PhD priority deadline December 1; final deadline February 1.",
+      "quote": "Fall 2027 Dec 1 – Priority Feb 1 – Final",
+      "url": "https://www.ece.utah.edu/grad-admissions/",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "PhD fee waivers are for domestic applicants with a 3.5+ GPA from an ABET-accredited program.",
+      "quote": "Waivers are available for domestic PhD applicants who have graduated/will graduate with a 3.5+ GPA from an ABET accredited program.",
+      "url": "https://www.ece.utah.edu/grad-admissions/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is waived for all applicants with a prior STEM degree; scores can still be submitted.",
+      "quote": "We are currently waiving the GRE is waived for all applicants with a prior STEM degree.",
+      "url": "https://www.ece.utah.edu/grad-admissions/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department does not mention a subject test.",
+      "quote": "",
+      "url": "https://www.ece.utah.edu/grad-admissions/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Faculty choose which PhD applicants to hire as research assistants; you are admitted only if a faculty member selects you.",
+      "quote": "If a member of the faculty selects you, you will be accepted to our program and will be guaranteed funding through tuition benefits and a stipend.",
+      "url": "https://www.ece.utah.edu/grad-admissions/",
+      "also": [
+        {
+          "quote": "Required for PhD applicants, optional for Master's applicants",
+          "url": "https://www.ece.utah.edu/grad-admissions/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted PhD students are guaranteed funding through tuition benefits and a stipend once a faculty member selects them.",
+      "quote": "If a member of the faculty selects you, you will be accepted to our program and will be guaranteed funding through tuition benefits and a stipend.",
+      "url": "https://www.ece.utah.edu/grad-admissions/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A completed bachelor's degree is the entry requirement; a master's is not required.",
+      "quote": "A completed Bachelor's degree issued by either a regionally accredited",
+      "url": "https://www.ece.utah.edu/grad-admissions/"
+    }
+  },
+  "notes": "The page's own deadline table lists Fall 2027 PhD with Dec 1 priority and Feb 1 final. Test cutoffs are the university's, which the department cannot change."
+}

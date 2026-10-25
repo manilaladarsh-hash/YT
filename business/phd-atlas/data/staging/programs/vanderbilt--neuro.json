@@ -1,0 +1,37 @@
+{
+  "id": "vanderbilt--neuro",
+  "university": "vanderbilt",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Neuroscience Graduate Program (Vanderbilt Brain Institute)",
+  "program_page": "https://medschool.vanderbilt.edu/brain-institute/neuroscience-ph-d-program/application-procedure/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "December 1 (the page does not name the year).",
+      "quote": "Application Deadline: December 1",
+      "url": "https://medschool.vanderbilt.edu/brain-institute/neuroscience-ph-d-program/application-procedure/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE is not required for the Neuroscience PhD (only the Educational Neuroscience program asks for it).",
+      "quote": "Graduate Record Examination (GRE) scores are not required for applying to the Neuroscience Ph.D. Program.",
+      "url": "https://medschool.vanderbilt.edu/brain-institute/neuroscience-ph-d-program/application-procedure/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students do laboratory rotations and choose a thesis mentor in the first year.",
+      "quote": "Students in both pathways will perform laboratory rotations and select a thesis mentor in their first year.",
+      "url": "https://medschool.vanderbilt.edu/brain-institute/neuroscience-ph-d-program/application-procedure/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Tuition and stipend are provided for all students in good academic standing.",
+      "quote": "All students in good academic standing will have their tuition and stipend provided.",
+      "url": "https://medschool.vanderbilt.edu/brain-institute/neuroscience-ph-d-program/"
+    }
+  },
+  "notes": "Entry through the Neuroscience Graduate Program directly, or through the IGP for broad biomedical interests."
+}

@@ -1,0 +1,67 @@
+{
+  "id": "utah--mech",
+  "university": "utah",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering",
+  "program_page": "https://www.mech.utah.edu/grads/admissions/application-deadlines-and-instructions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "International deadline for Fall is January 1; international students are typically admitted for Fall only.",
+      "quote": "International Student Deadline Fall 1 January",
+      "url": "https://www.mech.utah.edu/grads/admissions/application-deadlines-and-instructions/",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "65 USD",
+      "value": "USD 65 for international PhD applicants.",
+      "quote": "Application Fees: International PhD and International MS fee is $65.",
+      "url": "https://www.mech.utah.edu/grads/admissions/application-deadlines-and-instructions/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "The page gives a fee waiver code only for domestic PhD applicants and says nothing about international waivers.",
+      "quote": "The Domestic PhD fee is $0",
+      "url": "https://www.mech.utah.edu/grads/admissions/application-deadlines-and-instructions/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE General Test is optional.",
+      "quote": "GRE General Test (optional)",
+      "url": "https://www.mech.utah.edu/grads/admissions/application-deadlines-and-instructions/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department does not mention a subject test.",
+      "quote": "",
+      "url": "https://www.mech.utah.edu/grads/admissions/application-deadlines-and-instructions/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department page does not say whether a supervisor is needed before applying.",
+      "quote": "",
+      "url": "https://www.mech.utah.edu/grads/admissions/application-deadlines-and-instructions/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page notes most funding goes to Fall starters but does not say PhD students are funded.",
+      "quote": "",
+      "url": "https://www.mech.utah.edu/grads/admissions/application-deadlines-and-instructions/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The department offers PhD tracks both after a B.S. and after an M.S.",
+      "quote": "Ph.D. Post-B.S.",
+      "url": "https://www.mech.utah.edu/grads/admissions/application-deadlines-and-instructions/",
+      "also": [
+        {
+          "quote": "Ph.D. Post-M.S.",
+          "url": "https://www.mech.utah.edu/grads/admissions/application-deadlines-and-instructions/"
+        }
+      ]
+    }
+  },
+  "notes": "The department also hosts a separate Robotics PhD."
+}

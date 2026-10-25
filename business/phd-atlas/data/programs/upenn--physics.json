@@ -2,7 +2,9 @@
   "id": "upenn--physics",
   "university": "upenn",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "astronomy"
+  ],
   "department": "Department of Physics and Astronomy",
   "program_page": "https://www.physics.upenn.edu/graduate/admissions",
   "checked": "2026-10-21",
@@ -55,13 +57,6 @@
       "quote": "Graduate application fee required: $90",
       "url": "https://www.physics.upenn.edu/graduate/admissions"
     },
-    "fee_waiver": {
-      "code": "Limited",
-      "value": "A limited number for PhD applicants with clear and compelling financial hardship (international eligibility not addressed). Request inside the finalized application at least 2 weeks before the Dec 8 deadline.",
-      "quote": "A limited number of application fee waivers are available for Ph.D. applicants who demonstrate clear and compelling financial hardship. | please finalize your application and submit your waiver request at least 2 weeks prior to the application deadline",
-      "url": "https://pan-school.sas.upenn.edu/index.php/graduate-division/prospective-students/application-information",
-      "time_sensitive": "2026-11-24"
-    },
     "gre_general": {
       "code": "Not required",
       "value": "GRE not required, but scores can add information if submitted",
@@ -74,18 +69,12 @@
       "quote": "The TOEFL scores should be computer base at least 100.",
       "url": "https://www.physics.upenn.edu/graduate/frequently-asked-questions"
     },
-    "english_waiver": {
-      "code": "Conditional",
-      "value": "Physics FAQ names only a US-degree exemption; the SAS Graduate Division says certain programs may waive the test if your post-secondary degree was taught entirely in English. Ask Physics directly.",
-      "quote": "Certain programs may waive this requirement if your post-secondary degree was conducted entirely in English. Please contact your program of interest directly regarding their policy",
-      "url": "https://pan-school.sas.upenn.edu/index.php/graduate-division/prospective-students/application-information",
-      "also": [
-        {
-          "quote": "You do not have to submit a TOEFL exam if you received a degree from a US institution.",
-          "url": "https://www.physics.upenn.edu/graduate/frequently-asked-questions"
-        }
-      ]
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS accepted; the minimum is stated as a 6.5-7 range, so aim for 7.",
+      "quote": "We will accept IELTS scores. The minimum score would be: 6.5-7",
+      "url": "https://www.physics.upenn.edu/graduate/frequently-asked-questions"
     }
   },
-  "notes": "Physics FAQ still contains older wording ('GRE exams are not required for Fall 2026 admissions'); the admissions page states the current GRE policy. Duolingo is not accepted by Physics."
+  "notes": "Physics FAQ still contains older wording ('GRE exams are not required for Fall 2026 admissions'); the admissions page states the current GRE policy. Duolingo is not accepted by Physics. Astronomy is part of the single Physics and Astronomy PhD graduate group (SAS graduate groups list). Fee waiver and English waiver inherit from the university record."
 }

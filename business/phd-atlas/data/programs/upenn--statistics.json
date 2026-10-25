@@ -1,0 +1,87 @@
+{
+  "id": "upenn--statistics",
+  "university": "upenn",
+  "field": "statistics",
+  "also_fields": [
+    "datasci"
+  ],
+  "department": "Department of Statistics and Data Science, The Wharton School",
+  "program_page": "https://statistics.wharton.upenn.edu/programs/phd/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The Wharton Doctoral application for Fall 2027 closes December 15, 2026 (11:59 PM EST); all tests must be taken by then.",
+      "quote": "The application for Fall 2027 will close on December 15th, 2026.",
+      "url": "https://doctoral.wharton.upenn.edu/admissions/",
+      "time_sensitive": "2026-11-30"
+    },
+    "app_fee": {
+      "code": "80 USD",
+      "value": "Wharton Doctoral application fee is $80, nonrefundable.",
+      "quote": "A nonrefundable application fee of $80 must accompany your application.",
+      "url": "https://doctoral.wharton.upenn.edu/application-requirements/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Only Military, Fulbright and SUMMIT applicants can waive the fee; there are no other exceptions.",
+      "quote": "Military, Fulbright, and SUMMIT applicants may waive the application fee.",
+      "url": "https://doctoral.wharton.upenn.edu/application-requirements/",
+      "also": [
+        {
+          "quote": "There are no other exceptions for offering application fee waivers.",
+          "url": "https://doctoral.wharton.upenn.edu/faq/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Statistics and Data Science applicants must submit GRE scores (GMAT is not accepted for this program); there is no minimum score.",
+      "quote": "Statistics and Data Science: GRE only",
+      "url": "https://doctoral.wharton.upenn.edu/application-requirements/",
+      "also": [
+        {
+          "quote": "While there is no minimum test score required to apply",
+          "url": "https://doctoral.wharton.upenn.edu/faq/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is mentioned.",
+      "quote": "",
+      "url": "https://doctoral.wharton.upenn.edu/application-requirements/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "TOEFL or IELTS is required for non-native speakers, but you can request a waiver if your degree was taught in English, documented by transcripts; no minimum score is stated.",
+      "quote": "You may request an English Language Test Waiver if you have earned an undergraduate or master’s degree (or will receive the degree by June 2027) in an English-speaking country or from an institution in which English is the language of instruction.",
+      "url": "https://doctoral.wharton.upenn.edu/application-requirements/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted Wharton PhD students receive a full fellowship covering stipend, tuition and health insurance.",
+      "quote": "All students admitted to the Wharton Doctoral Programs receive a full fellowship that includes a stipend and covers the cost of tuition and health insurance.",
+      "url": "https://doctoral.wharton.upenn.edu/admissions/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A degree equivalent to a four-year US bachelor's is enough, including a 3-year bachelor's; a master's is not required.",
+      "quote": "International candidates must have a college-level education equivalent to a four-year United States baccalaureate degree.",
+      "url": "https://doctoral.wharton.upenn.edu/international-students/",
+      "also": [
+        {
+          "quote": "Many candidates from three-year programs have a master’s degree as well, but it is not required.",
+          "url": "https://doctoral.wharton.upenn.edu/international-students/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages do not say whether a supervisor is needed before admission.",
+      "quote": "",
+      "url": "https://doctoral.wharton.upenn.edu/admissions/"
+    }
+  },
+  "notes": "Admitted through the Wharton Doctoral Programs (own application, fee and GRE rules), not the SAS Graduate Division. TOEFL/IELTS minimums are not stated; supervisor rule not stated."
+}

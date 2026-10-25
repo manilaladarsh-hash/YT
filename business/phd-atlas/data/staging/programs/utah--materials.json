@@ -1,0 +1,66 @@
+{
+  "id": "utah--materials",
+  "university": "utah",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Department of Materials Science and Engineering",
+  "program_page": "https://mse.utah.edu/admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The admissions page mentions a January application deadline for tests but gives no PhD deadline date; confirm with the department.",
+      "quote": "we recommend taking your tests in October in order to meet the January application deadline.",
+      "url": "https://mse.utah.edu/admissions/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Highly qualified PhD applicants may petition for a fee waiver; endorsement by a faculty member is advised.",
+      "quote": "*Highly qualified Ph.D. students may petition for an application fee waiver at this link.",
+      "url": "https://mse.utah.edu/admissions/"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE is not required but highly recommended by the department.",
+      "quote": "GRE Score (Not required, but highly recommended by department)",
+      "url": "https://mse.utah.edu/admissions/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Contacting professors is optional, but you must list preferred faculty on the application.",
+      "quote": "A. It is not required for consideration for admission or for support.",
+      "url": "https://mse.utah.edu/admissions/",
+      "also": [
+        {
+          "quote": "You should indicate your preference for faculty advisors in your online application via Slate.",
+          "url": "https://mse.utah.edu/admissions/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Support is mostly research assistantships from individual professors; the department offers no scholarships and fellowships are very competitive.",
+      "quote": "Financial assistance, when offered, is usually in the form of a position as a research assistant.",
+      "url": "https://mse.utah.edu/admissions/",
+      "also": [
+        {
+          "quote": "We don't offer scholarships for graduate students. The few fellowships available are extremely competitive.",
+          "url": "https://mse.utah.edu/admissions/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree with at least a 3.0 GPA meets the graduate school minimum.",
+      "quote": "A bachelor's degree from a regionally-accredited college/university",
+      "url": "https://mse.utah.edu/admissions/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department does not mention a subject test.",
+      "quote": "",
+      "url": "https://mse.utah.edu/admissions/"
+    }
+  },
+  "notes": "The same department also runs a Metallurgical Engineering PhD."
+}

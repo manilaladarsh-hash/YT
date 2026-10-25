@@ -1,0 +1,74 @@
+{
+  "id": "upenn--math",
+  "university": "upenn",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://www.math.upenn.edu/graduate/admissions/application-admission-faqs/how-apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-08",
+      "value": "PhD applications are due December 8, 2026 at 11:59 PM EST (late letters or scores must still arrive by December 7).",
+      "quote": "The deadline for submission of Ph.D. applications is December 8 at 11:59 PM EST",
+      "url": "https://www.math.upenn.edu/graduate/admissions/application-admission-faqs/how-apply",
+      "inferred": "year",
+      "time_sensitive": "2026-11-24"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is not required, but you may submit scores.",
+      "quote": "The GRE is not required at this time, but you are welcome to submit your scores if you have them.",
+      "url": "https://www.math.upenn.edu/graduate/admissions/application-admission-faqs/how-apply"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The GRE Mathematics Subject Test is optional and used only as a point of information.",
+      "quote": "The GRE Mathematics Subject Test (Institution code is 2926 and Department code is 0703) scores are optional for admission to our graduate program.",
+      "url": "https://www.math.upenn.edu/graduate/admissions/application-admission-faq"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "The department looks for a TOEFL total of at least 100 and at least 20 on speaking.",
+      "quote": "On the TOEFL, we look for total scores of at least 100, and scores of at least 20 on the spoken English portion.",
+      "url": "https://www.math.upenn.edu/graduate/admissions/application-admission-faq"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS accepted in place of TOEFL with a minimum score of 7.",
+      "quote": "a score on the IELTS--minimum score 7",
+      "url": "https://www.math.upenn.edu/graduate/admissions/application-admission-faq"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "A test is required unless the 4-year undergraduate degree was entirely in a country whose primary language is English, which does not cover India; the committee may also exempt applicants who have shown spoken English.",
+      "quote": "unless their 4-year undergraduate studies were undertaken entirely in a country whose primary language is English",
+      "url": "https://www.math.upenn.edu/graduate/admissions/application-admission-faq",
+      "also": [
+        {
+          "quote": "those who have adequately demonstrated their spoken English skills to our admissions committee",
+          "url": "https://www.math.upenn.edu/graduate/admissions/application-admission-faqs/how-apply"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by the committee, not by individual professors; do not ask faculty for admission.",
+      "quote": "Admissions decisions are determined by the Mathematics Graduate Admissions Committee, not by individual professors.",
+      "url": "https://www.math.upenn.edu/graduate/admissions/application-admission-faq"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Five-year support package with full tuition scholarship, fees, health insurance and stipend, provided good progress is made.",
+      "quote": "Ph.D. students are offered a five-year support package including a full tuition scholarship, coverage of fees, health insurance, and an annual stipend",
+      "url": "https://www.math.upenn.edu/graduate/admissions/application-admission-faq"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is enough to apply; a master's is not necessary.",
+      "quote": "a masters degree is not necessary in order to apply to our Ph.D. program",
+      "url": "https://www.math.upenn.edu/graduate/admissions/application-admission-faq"
+    }
+  },
+  "notes": "The FAQ gives December 7 for the online application; the how-to-apply page and SAS calendar give December 8. Applied Math and Computational Science (AMCS) is a separate SAS graduate group and was not researched."
+}

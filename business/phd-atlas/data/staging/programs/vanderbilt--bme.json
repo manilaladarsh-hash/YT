@@ -1,0 +1,49 @@
+{
+  "id": "vanderbilt--bme",
+  "university": "vanderbilt",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biomedical Engineering",
+  "program_page": "https://engineering.vanderbilt.edu/departments/biomedical-engineering/graduate-programs/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-08",
+      "value": "Final PhD deadline January 8, 2027; December 1, 2026 is the application-fee-waiver deadline (waivers for U.S.-school students and select international institutions).",
+      "quote": "December 1, 2026 Fee waiver* deadline for Ph.D. applicants for Fall 2027 admission. January 8, 2027 Final Ph.D. application deadline for Fall 2027 admission.",
+      "url": "https://engineering.vanderbilt.edu/academics/graduate/",
+      "time_sensitive": "2026-12-01"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE scores are not required and are not used to evaluate PhD applications.",
+      "quote": "GRE scores are not required and will not be used to evaluate applications to the Biomedical Engineering graduate program",
+      "url": "https://engineering.vanderbilt.edu/departments/biomedical-engineering/graduate-programs/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "School of Engineering minimum: TOEFL 89, IELTS 7.0.",
+      "quote": "proficiency in English must be shown by a minimum score of 89 on the TOEFL, 7.0 on the IELTS test",
+      "url": "https://engineering.vanderbilt.edu/academics/graduate/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants should name the faculty they want to work with in the personal statement.",
+      "quote": "Please make sure to identify faculty you are interested in working with and list them in your Personal Statement.",
+      "url": "https://engineering.vanderbilt.edu/departments/biomedical-engineering/graduate-programs/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "PhD students supported as teaching or research assistants typically get a stipend, health insurance and tuition support; admission is limited by funding and lab positions.",
+      "quote": "PhD students in our program that are supported as either a teaching assistant or research assistant typically receive a stipend, coverage of health insurance, and tuition support. | Admission to the program is competitive and limited by financial support and available positions in laboratories.",
+      "url": "https://engineering.vanderbilt.edu/departments/biomedical-engineering/graduate-programs/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants should hold a bachelor's degree in engineering or science with some preparation in biology, math and physics; a master's is not required.",
+      "quote": "Applicants for study in biomedical engineering should have a bachelor's degree in engineering or science",
+      "url": "https://engineering.vanderbilt.edu/departments/biomedical-engineering/graduate-programs/"
+    }
+  },
+  "notes": "The BME page still carries an older TOEFL 100 line; the School of Engineering page (TOEFL 89, IELTS 7.0) was used."
+}
