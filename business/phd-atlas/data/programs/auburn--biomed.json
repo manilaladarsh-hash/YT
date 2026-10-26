@@ -1,0 +1,54 @@
+{
+  "id": "auburn--biomed",
+  "university": "auburn",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Biomedical Sciences (College of Veterinary Medicine)",
+  "program_page": "https://www.vetmed.auburn.edu/academics/graduate-students/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The 2023 BMS handbook says to check the academic calendar; it gives no program deadline.",
+      "quote": "",
+      "url": "https://www.vetmed.auburn.edu/academics/graduate-students/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Biomedical sciences has no subject test, and none is stated.",
+      "quote": "",
+      "url": "https://www.vetmed.auburn.edu/academics/graduate-students/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The handbook sets the advisory committee after enrollment; no supervisor-before-admission rule is stated.",
+      "quote": "",
+      "url": "https://www.vetmed.auburn.edu/academics/graduate-students/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The handbook says to apply for an assistantship if applicable; no funding rule is stated.",
+      "quote": "",
+      "url": "https://www.vetmed.auburn.edu/academics/graduate-students/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "No entry route is stated.",
+      "quote": "",
+      "url": "https://www.vetmed.auburn.edu/academics/graduate-students/"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The College of Veterinary Medicine says a GRE score is required for all its graduate programs. The Graduate School's waiver list shows Biomedical Sciences waiving it, so confirm with the program.",
+      "quote": "A satisfactory Graduate Records Examination (GRE) score is required for all graduate programs",
+      "url": "https://www.vetmed.auburn.edu/academics/graduate-students/",
+      "also": [
+        {
+          "quote": "Biomedical Sciences, MS, PhD",
+          "url": "https://graduate.auburn.edu/admissions/test-score-waivers.php"
+        }
+      ]
+    }
+  },
+  "notes": "College-wide program with no separate school application. The 2023 BMS handbook (vetmed.auburn.edu PDF) gives no deadline, supervisor, funding or entry rule. The GRE conflict between the college page and the Graduate School list should be resolved before publishing."
+}
