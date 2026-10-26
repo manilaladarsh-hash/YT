@@ -1,0 +1,50 @@
+{
+  "id": "cwru--earth",
+  "university": "cwru",
+  "field": "earth",
+  "also_fields": [
+    "environment"
+  ],
+  "department": "Earth, Environmental, and Planetary Sciences",
+  "program_page": "https://eeps.case.edu/graduate-programs/phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The School's table lists PhD dates for this department, but the layout cannot be quoted safely, so no date is recorded.",
+      "quote": "",
+      "url": "https://eeps.case.edu/graduate-programs/phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is stated on the page.",
+      "quote": "",
+      "url": "https://eeps.case.edu/graduate-programs/phd/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Each incoming student is assigned an advisor by the Graduate Committee after arrival, so admission does not need one.",
+      "quote": "Each incoming graduate student will be assigned an advisor from the faculty of the Department by the Graduate Committee.",
+      "url": "https://eeps.case.edu/graduate-programs/phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Assistantships are mentioned, but the page does not say most or all students are funded.",
+      "quote": "",
+      "url": "https://eeps.case.edu/graduate-programs/phd/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's in earth, environmental, planetary or related technical sciences is expected. A student with a master's can finish in about a year less.",
+      "quote": "a bachelor’s degree in the earth, environmental, or planetary sciences or a related technical field is expected",
+      "url": "https://eeps.case.edu/graduate-programs/phd/",
+      "also": [
+        {
+          "quote": "For a student already holding a Master’s Degree at least 18 hours will be devoted to a 1 year program",
+          "url": "https://eeps.case.edu/graduate-programs/phd/"
+        }
+      ]
+    }
+  },
+  "notes": "Covers environmental sciences as well (also_fields environment). The page refers to the 2015-2016 and 2021-2022 review cycles, so it looks dated. Its GRE General sentence ('applicants must provide official scores') is therefore not used. Blocked: none."
+}

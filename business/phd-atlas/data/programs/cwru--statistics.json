@@ -1,0 +1,66 @@
+{
+  "id": "cwru--statistics",
+  "university": "cwru",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Mathematics, Applied Mathematics and Statistics",
+  "program_page": "https://mathstats.case.edu/phd-in-statistics/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-05",
+      "value": "The department admission page gives a PhD priority deadline of January 5, 2027 for its MS and PhD programmes.",
+      "quote": "PhD Priority – January 5, 2027",
+      "url": "https://mathstats.case.edu/admission/",
+      "also": [
+        {
+          "quote": "MS & PhD Final – May 10, 2027",
+          "url": "https://mathstats.case.edu/admission/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "Neither the university nor the department requires the GRE Subject test (Mathematics).",
+      "quote": "Neither the university, nor the department requires taking the GRE Subject test.",
+      "url": "https://mathstats.case.edu/admission/faq/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department pages give no rule on a supervisor's agreement before admission.",
+      "quote": "",
+      "url": "https://mathstats.case.edu/phd-in-statistics/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantships include tuition and a stipend, but support goes to only a select number of PhD students.",
+      "quote": "support is only available to a select number PhD students",
+      "url": "https://mathstats.case.edu/admission/financial-aid/",
+      "also": [
+        {
+          "quote": "All assistantship awards include tuition and stipend to cover basic living expenses.",
+          "url": "https://mathstats.case.edu/admission/financial-aid/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Any accredited bachelor's holder can apply. Students with a relevant master's need 18 hours of approved courses instead of 36.",
+      "quote": "The holder of a bachelor’s degree from any accredited college or university is eligible for consideration for admission to our graduate program.",
+      "url": "https://mathstats.case.edu/admission/",
+      "also": [
+        {
+          "quote": "A student with a master’s degree in a mathematical subject compatible with our program",
+          "url": "https://mathstats.case.edu/phd-in-statistics/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE General is optional but preferred.",
+      "quote": "Graduate Record Examination (GRE) scores are optional but preferred",
+      "url": "https://mathstats.case.edu/admission/"
+    }
+  },
+  "notes": "Shares the department admission and financial-aid pages with Mathematics. The PhD page says the programme 'will begin admitting students for Fall 2025', which is older than the 2027 deadlines and was not used for any field. Epidemiology and Biostatistics PhD (http://epbiwww.case.edu/phd-in-epidemiology-biostatistics/) is an official PhD that covers biostatistics; it was not separately researched."
+}

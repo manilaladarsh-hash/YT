@@ -1,0 +1,65 @@
+{
+  "id": "cwru",
+  "institution": "Case Western Reserve University",
+  "country": "USA",
+  "region": "Ohio",
+  "grad_page": "https://case.edu/gradstudies/prospective-students/instructions-requirements",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "85 USD",
+      "value": "The School of Graduate Studies lists an $85 non-refundable application fee, which the page says applies 'if applicable'.",
+      "quote": "If applicable, pay your non-refundable $85 application fee.",
+      "url": "https://case.edu/gradstudies/prospective-students/instructions-requirements"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Hardship-based waivers only, set by each program; the page says they are not guaranteed.",
+      "quote": "If you are experiencing a severe financial hardship which prevents you from paying the application fee, please contact your program of interest to see about an application fee waiver.",
+      "url": "https://case.edu/gradstudies/prospective-students/instructions-requirements",
+      "also": [
+        {
+          "quote": "Fee waivers are specific to programs and are not to be shared, and not guaranteed to be available.",
+          "url": "https://case.edu/gradstudies/prospective-students/instructions-requirements"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No minimum GRE score; applications are evaluated holistically. Each department decides whether it needs the GRE.",
+      "quote": "There is no minimum GRE score, applications are evaluated holistically.",
+      "url": "https://case.edu/gradstudies/prospective-students/instructions-requirements"
+    },
+    "toefl_min": {
+      "code": "5.0 (new scale)",
+      "value": "TOEFL iBT minimum of 5.0 on the new scale for tests taken from 21 January 2026 (90 for earlier tests). Some departments set higher scores.",
+      "quote": "For TOEFL exams taken on or after January 21, 2026, the minimum score is 5.0",
+      "url": "https://case.edu/gradstudies/prospective-students/instructions-requirements",
+      "also": [
+        {
+          "quote": "For exams taken on or before January 20, 2026, the minimum score is 90 if internet-based",
+          "url": "https://case.edu/gradstudies/prospective-students/instructions-requirements"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic minimum of 7.0 overall.",
+      "quote": "IELTS - 7.0 minimum",
+      "url": "https://case.edu/gradstudies/prospective-students/instructions-requirements"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "A degree taught in English can waive the test, but the applicant must send a transcript stating English was the method of instruction, or a letter from the school.",
+      "quote": "If you graduated from a university outside of the U.S. that the instruction was in English, the score requirement will be waived upon receipt of the transcripts with degree verification. You must be able to provide a transcript stating that English was the method of instruction or a letter from the school.",
+      "url": "https://case.edu/gradstudies/prospective-students/international-applicant-info",
+      "also": [
+        {
+          "quote": "Language score waivers can only be granted if you have 1) completed a bachelors or higher from a university where the primary medium of instruction was English",
+          "url": "https://case.edu/gradstudies/prospective-students/instructions-requirements"
+        }
+      ]
+    }
+  },
+  "notes": "Official PhD list: https://case.edu/gradstudies/prospective-students/degree-programs-offered. Application deadlines are on the School's table at https://case.edu/gradstudies/prospective-students/admissions-information/application-deadlines but the text does not show which term each date belongs to, so no deadline is taken from it. Blocked (HTTP 502 from both the plain and headless fetch): https://astronomy.case.edu/academic-programs/graduate-program/ and https://astronomy.case.edu/. The School's table marks Astronomy (PhD) as not accepting 2027 applications, so no astronomy record was saved. Data Science has an MS only, so no datasci record. Not separately researched: Epidemiology and Biostatistics PhD, Clinical Translational Science PhD, Nutrition PhD (BSTP track), Macromolecular Science and Engineering PhD, Applied Mathematics PhD, Computer Engineering PhD and Systems and Control Engineering PhD."
+}

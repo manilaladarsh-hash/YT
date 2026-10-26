@@ -1,0 +1,62 @@
+{
+  "id": "cwru--biomed",
+  "university": "cwru",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Biomedical Sciences Training Program (BSTP)",
+  "program_page": "https://case.edu/medicine/bstp/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "The priority round (October 15) has closed. The final deadline for 2027 admission is January 1, 2027.",
+      "quote": "The priority deadline is October 15th, and the final deadline is January 1st.",
+      "url": "https://case.edu/medicine/bstp/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "The application for 2027 admission is open.",
+          "url": "https://case.edu/medicine/bstp/"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Free application only for US citizens and permanent residents, through October 15. International applicants get no waiver.",
+      "quote": "Application fee waivers are not available to international students.",
+      "url": "https://case.edu/medicine/bstp/",
+      "also": [
+        {
+          "quote": "All US citizens or permanent residents are eligible to apply free of charge through October 15th.",
+          "url": "https://case.edu/medicine/bstp/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to this umbrella programme, and the page says nothing on GRE.",
+      "quote": "",
+      "url": "https://case.edu/medicine/bstp/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The BSTP page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://case.edu/medicine/bstp/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Students in laboratory-based biomedical PhD programmes receive financial support throughout their studies.",
+      "quote": "As a Case Western Reserve University biomedical PhD student in a laboratory-based program, you’ll receive financial support throughout your studies.",
+      "url": "https://case.edu/medicine/bstp/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The BSTP page does not state the degree needed for entry.",
+      "quote": "",
+      "url": "https://case.edu/medicine/bstp/"
+    }
+  },
+  "notes": "Umbrella PhD for the biomedical tracks that say 'apply through BSTP': Biochemistry, Cell Biology, Genetics, Molecular Biology and Microbiology, Molecular Virology, Pharmacology, Physiology and Biophysics, Pathology, Systems Biology and Bioinformatics, Nutrition and Neurosciences (Neurosciences has its own record). The track pages were not fetched. The MSTP (MD/PhD) route uses AMCAS, not this application. Blocked: none.",
+  "name": "Biomedical Sciences Training Program PhD"
+}

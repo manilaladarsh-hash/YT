@@ -1,0 +1,60 @@
+{
+  "id": "cwru--chemistry",
+  "university": "cwru",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://chemistry.case.edu/grad/phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The apply page says Fall 2027 applications are open but gives no date, and the School's table is not quoted.",
+      "quote": "",
+      "url": "https://chemistry.case.edu/grad/apply/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required for the chemistry PhD.",
+      "quote": "The Graduate Record Examination (GRE) is not required for admission into our program.",
+      "url": "https://chemistry.case.edu/grad/phd/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department does not require the Chemistry GRE Subject test or the general GRE.",
+      "quote": "The Graduate Record Examination (GRE) is not required for admission into our program.",
+      "url": "https://chemistry.case.edu/grad/phd/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students join a research advisor normally at the end of their first semester, so admission is not tied to one.",
+      "quote": "Graduate students become affiliated with a research advisor normally at the end of their first semester.",
+      "url": "https://chemistry.case.edu/grad/phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Support is through teaching and research assistantships at a competitive stipend, with a full tuition waiver and health insurance.",
+      "quote": "The Department of Chemistry financially supports PhD students through a combination of teaching and research assistantships at a competitive stipend level.",
+      "url": "https://chemistry.case.edu/grad/phd/",
+      "also": [
+        {
+          "quote": "Financial support includes a full tuition waiver, health insurance coverage, and a stipend for living expenses.",
+          "url": "https://chemistry.case.edu/grad/phd/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's in chemistry, biochemistry or a related field is required for the PhD, with a GPA of 3.0 or a top-third class rank.",
+      "quote": "A bachelor’s degree in chemistry, biochemistry, or related field is required for admission to the PhD program",
+      "url": "https://chemistry.case.edu/grad/phd/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Students with financial need can apply for an application fee waiver.",
+      "quote": "Students with financial need may apply for an application fee waiver.",
+      "url": "https://chemistry.case.edu/grad/apply/"
+    }
+  },
+  "notes": "Application fee is $85 (apply page), the same as the School rule, so app_fee is inherited."
+}

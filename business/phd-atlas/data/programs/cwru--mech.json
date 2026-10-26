@@ -1,0 +1,48 @@
+{
+  "id": "cwru--mech",
+  "university": "cwru",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Mechanical and Aerospace Engineering (EMAE)",
+  "program_page": "https://engineering.case.edu/mechanical-aerospace-engineering/academics/mechanical-engineering/doctor-philosophy",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page says to visit the School of Graduate Studies for deadlines, and the School table cannot be quoted cell by cell.",
+      "quote": "",
+      "url": "https://engineering.case.edu/mechanical-aerospace-engineering/academics/mechanical-engineering/doctor-philosophy"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to this field, and the page says nothing on GRE.",
+      "quote": "",
+      "url": "https://engineering.case.edu/mechanical-aerospace-engineering/academics/mechanical-engineering/doctor-philosophy"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://engineering.case.edu/mechanical-aerospace-engineering/academics/mechanical-engineering/doctor-philosophy"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The quick guide describes teaching and seminar requirements but no funding rule.",
+      "quote": "",
+      "url": "https://engineering.case.edu/mechanical-aerospace-engineering/academics/mechanical-engineering/doctor-philosophy"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students can enter with a bachelor's (about five years) or a master's (about four years).",
+      "quote": "If you enter the program with a master’s degree, you can complete your PhD in four years.",
+      "url": "https://engineering.case.edu/mechanical-aerospace-engineering/academics/mechanical-engineering/doctor-philosophy",
+      "also": [
+        {
+          "quote": "If you come into the program directly from an undergraduate program, you can expect to invest about five years working on your PhD.",
+          "url": "https://engineering.case.edu/mechanical-aerospace-engineering/academics/mechanical-engineering/doctor-philosophy"
+        }
+      ]
+    }
+  },
+  "notes": "Covers both the Mechanical Engineering and Aerospace Engineering PhDs (EMAE). The EMAE quick guide (https://engineering.case.edu/node/82451) describes teaching and seminar requirements but gives no admission or funding rule. Funded PhD openings are listed on a separate page that was not fetched."
+}

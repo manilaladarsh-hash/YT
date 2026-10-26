@@ -1,0 +1,119 @@
+{
+  "id": "cwru--physics",
+  "university": "cwru",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://physics.case.edu/graduate-studies/phd-gradstudies/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The department gives January 5 for fall admission, but the page gives no year, so no date is recorded.",
+      "quote": "For application to the Ph.D. program, the application deadline is January 5 for admission to the program in the fall.",
+      "url": "https://physics.case.edu/graduate-studies/apply-gradstudies/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department does not require or recommend the physics GRE Subject test and does not use GRE scores.",
+      "quote": "CWRU Physics neither requires nor recommends that applicants submit GRE scores.",
+      "url": "https://physics.case.edu/graduate-studies/phd-gradstudies/",
+      "also": [
+        {
+          "quote": "This applies to both the general GRE and the physics subject test GRE.",
+          "url": "https://physics.case.edu/graduate-studies/phd-gradstudies/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission does not name a supervisor. The Director of Graduate Studies advises students at entry, and a research advisor is found later.",
+      "quote": "Upon entry to graduate school the Master’s and Ph.D. student’s academic advisor will be the department’s Director of Graduate Studies.",
+      "url": "https://physics.case.edu/graduate-studies/phd-gradstudies/",
+      "also": [
+        {
+          "quote": "Eventually, each successful student will acquire a research advisor and dissertation committee.",
+          "url": "https://physics.case.edu/graduate-studies/phd-gradstudies/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every Ph.D. offer includes at least the first year of full support (stipend, health insurance and tuition). Renewal depends on progress.",
+      "quote": "ALL offers of admission to our Ph.D. graduate program in physics will include at least one year of full support",
+      "url": "https://physics.case.edu/graduate-studies/apply-gradstudies/faq-for-prospective-graduate-students/",
+      "also": [
+        {
+          "quote": "CWRU Physics does NOT admit students into our Ph.D. program without also offering financial support for stipend and tuition.",
+          "url": "https://physics.case.edu/graduate-studies/apply-gradstudies/faq-for-prospective-graduate-students/"
+        },
+        {
+          "quote": "Renewal of a student’s support will be contingent upon evidence of progress toward a degree.",
+          "url": "https://physics.case.edu/graduate-studies/phd-gradstudies/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's in physics, mathematics or a related field is required. Students with a master's can also enter and take fewer course credits.",
+      "quote": "For admission to the Ph.D. program, a bachelors degree in physics, mathematics, or a related field is required.",
+      "url": "https://physics.case.edu/graduate-studies/phd-gradstudies/",
+      "also": [
+        {
+          "quote": "Students entering the PhD program with a masters degree are only required to take 18 credit hours of course work.",
+          "url": "https://physics.case.edu/graduate-studies/phd-gradstudies/"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "The department says international applicants pay no application fee. Its FAQ also mentions a $50 fee for lower-GPA applicants, and the School lists $85, so the pages disagree.",
+      "quote": "for international students, there is no application fee",
+      "url": "https://physics.case.edu/graduate-studies/apply-gradstudies/faq-for-prospective-graduate-students/",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Applicants with lower GPAs are welcome to apply but will be charged a $50 application fee by CWRU.",
+          "url": "https://physics.case.edu/graduate-studies/apply-gradstudies/faq-for-prospective-graduate-students/"
+        },
+        {
+          "quote": "If applicable, pay your non-refundable $85 application fee.",
+          "url": "https://case.edu/gradstudies/prospective-students/instructions-requirements"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "International applicants pay no application fee, so no waiver is needed.",
+      "quote": "for international students, there is no application fee",
+      "url": "https://physics.case.edu/graduate-studies/apply-gradstudies/faq-for-prospective-graduate-students/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department does not require or recommend the general GRE and does not use GRE scores.",
+      "quote": "CWRU Physics neither requires nor recommends that applicants submit GRE scores.",
+      "url": "https://physics.case.edu/graduate-studies/phd-gradstudies/"
+    },
+    "toefl_min": {
+      "code": "5.0 (new scale)",
+      "value": "The FAQ still says 90, but the School's rule for tests from 21 January 2026 is 5.0 on the new scale.",
+      "quote": "For TOEFL exams taken on or after January 21, 2026, the minimum score is 5.0",
+      "url": "https://case.edu/gradstudies/prospective-students/instructions-requirements",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "The minimum TOEFL score is 90, if internet-based (iBT) and 577 if paper-based",
+          "url": "https://physics.case.edu/graduate-studies/apply-gradstudies/faq-for-prospective-graduate-students/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The department requires an IELTS of at least 7.0 for admission consideration.",
+      "quote": "The minimum IELTS score for admission consideration is 7.0.",
+      "url": "https://physics.case.edu/graduate-studies/apply-gradstudies/faq-for-prospective-graduate-students/"
+    }
+  },
+  "notes": "Admission in the fall only. The department's FAQ says applicants need a passing IELTS, TOEFL or PTE score and that the School decides English waiver petitions. The grad-school table lists a PhD date of January 5, 2027, but that table cannot be quoted cell by cell, so the deadline is Not stated.",
+  "name": "Physics PhD"
+}

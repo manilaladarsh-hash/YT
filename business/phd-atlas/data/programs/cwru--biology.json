@@ -1,0 +1,54 @@
+{
+  "id": "cwru--biology",
+  "university": "cwru",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://biology.case.edu/graduate/phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The department gives December 15th with no year, so no date is recorded.",
+      "quote": "December 15th for full consideration into PhD, MS Plan A (thesis), and MS Plan B (non-thesis).",
+      "url": "https://biology.case.edu/graduate/admission/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department says the GRE is not required.",
+      "quote": "GRE is NOT required.",
+      "url": "https://biology.case.edu/graduate/admission/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE Subject test applies, and the department says the GRE is not required.",
+      "quote": "GRE is NOT required.",
+      "url": "https://biology.case.edu/graduate/admission/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly advised to check faculty research and name the professors they would like to work with.",
+      "quote": "Students seeking admission into our PhD program are strongly recommended to check current faculty research activities and identify faculty of interest.",
+      "url": "https://biology.case.edu/graduate/admission/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching and research assistantships and stipends are offered, but the department says the offers are competitive.",
+      "quote": "Financial aid offers are competitive and based on the availability of funding each year.",
+      "url": "https://biology.case.edu/graduate/financial-aid/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's is expected. Students with an approved master's need 18 hours of coursework instead of 36.",
+      "quote": "For students entering with an approved Master’s degree, completion of at least 18 semester hours of course work is required.",
+      "url": "https://biology.case.edu/graduate/phd/",
+      "also": [
+        {
+          "quote": "Students entering with a Bachelor’s degree will satisfactorily complete a minimum of 36 credit hours",
+          "url": "https://biology.case.edu/graduate/phd/"
+        }
+      ]
+    }
+  },
+  "notes": "The department's $85 fee and TOEFL 5.0 or 90 / IELTS 7.0 rules match the School rules, so they are inherited. Doctoral rules PDF listed on the PhD page was not fetched."
+}
