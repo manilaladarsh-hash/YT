@@ -1,0 +1,49 @@
+{
+  "id": "binghamton--biomed",
+  "university": "binghamton",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Department of Biochemistry and Chemical Biology",
+  "program_page": "https://www.binghamton.edu/biochemistry-and-chemical-biology/graduate/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The programme reviews applications from December 1 and sets its deadline as January 15 (the page gives no year, so the Fall 2027 cycle is assumed).",
+      "quote": "The deadline for applications is Jan 15.",
+      "url": "https://www.binghamton.edu/biochemistry-and-chemical-biology/graduate/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores may be submitted but are not required.",
+      "quote": "Scores for Graduate Record Examination may be submitted but are not required.",
+      "url": "https://www.binghamton.edu/biochemistry-and-chemical-biology/graduate/index.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree in biochemistry, chemistry or biology is the stated minimum for all applicants.",
+      "quote": "A bachelor's degree in biochemistry, chemistry or biology is generally required for all applicants.",
+      "url": "https://www.binghamton.edu/biochemistry-and-chemical-biology/graduate/index.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.binghamton.edu/biochemistry-and-chemical-biology/graduate/index.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not describe funding for PhD students.",
+      "quote": "",
+      "url": "https://www.binghamton.edu/biochemistry-and-chemical-biology/graduate/index.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned on the department page.",
+      "quote": "",
+      "url": "https://www.binghamton.edu/biochemistry-and-chemical-biology/graduate/index.html"
+    }
+  },
+  "notes": "Saved under biomed because the biomedical field slot is one record per field; the pharmaceutical sciences PhD (school admissions) was not saved. The catalog table lists GRE Required, which conflicts with this page; the department page is used because it is prose."
+}

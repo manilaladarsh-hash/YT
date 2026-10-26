@@ -1,0 +1,70 @@
+{
+  "id": "binghamton--physics",
+  "university": "binghamton",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics, Applied Physics and Astronomy",
+  "program_page": "https://www.binghamton.edu/physics/graduate/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Applications for full consideration are due January 15 (the page gives no year, so the Fall 2027 cycle is assumed).",
+      "quote": "For full consideration, applications must be submitted by Jan. 15.",
+      "url": "https://www.binghamton.edu/physics/graduate/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The physics department says the GRE is optional.",
+      "quote": "Note: GRE is optional.",
+      "url": "https://www.binghamton.edu/physics/graduate/index.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The physics pages do not mention the Physics GRE Subject test.",
+      "quote": "",
+      "url": "https://www.binghamton.edu/physics/graduate/index.html"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The physics page gives an iBT minimum of 80; the graduate school now uses a 0-6 scale with a minimum of 4 for new test takers.",
+      "quote": "The minimum required TOEFL score is 80",
+      "url": "https://www.binghamton.edu/physics/graduate/index.html",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Binghamton University requires a minimum TOEFL score of 4, with no band below 4.",
+          "url": "https://www.binghamton.edu/admissions/graduate/apply/international-application-requirements.html"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The department waives the application fee for a limited number of qualified PhD candidates who request it by January 1.",
+      "quote": "We are able to waive the application fee for a limited number of qualified PhD candidates who submit a request by Jan. 1.",
+      "url": "https://www.binghamton.edu/physics/graduate/index.html",
+      "inferred": "year",
+      "time_sensitive": "2027-01-01"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The physics pages do not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.binghamton.edu/physics/graduate/index.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "PhD candidates are funded through assistantships and fellowships that include a stipend, tuition and health insurance.",
+      "quote": "PhD candidates are funded through teaching assistantships, research assistantships, and fellowships, which include a stipend, tuition and health insurance.",
+      "url": "https://www.binghamton.edu/physics/graduate/index.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The department welcomes applicants with an undergraduate degree in physics or a closely related field.",
+      "quote": "We welcome applications from students who have successfully completed an undergraduate degree in physics or closely related fields.",
+      "url": "https://www.binghamton.edu/physics/graduate/index.html"
+    }
+  },
+  "notes": "The physics TOEFL minimum of 80 is the pre-2026 iBT scale and differs from the graduate school's 0-6 scale (4); both are kept. The catalog table (GRE Not required; Fall January 15) is not quoted because table cells are not usable. Fee waiver request date Jan. 1 has no year; the 2026/27 cycle is assumed."
+}

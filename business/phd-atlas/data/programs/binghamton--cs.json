@@ -1,0 +1,60 @@
+{
+  "id": "binghamton--cs",
+  "university": "binghamton",
+  "field": "cs",
+  "also_fields": [],
+  "department": "School of Computing (PhD in Computer Science)",
+  "program_page": "https://www.binghamton.edu/computer-science/graduate-programs/phd-program.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE scores are strongly recommended for PhD applicants.",
+      "quote": "GRE scores are strongly recommended for PhD applications and master’s applicants who want to be considered for graduate assistantship (TA, RA).",
+      "url": "https://www.binghamton.edu/computer-science/graduate-programs/index.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Students usually hold a master's degree; a few exceptional applicants with a bachelor's may be admitted directly.",
+      "quote": "Students admitted into the program typically have a master’s degree in computer science or a closely related discipline.",
+      "url": "https://www.binghamton.edu/computer-science/graduate-programs/phd-program.html",
+      "also": [
+        {
+          "quote": "In rare cases, an exceptional student with a bachelor’s degree and a strong academic record may also be directly admitted.",
+          "url": "https://www.binghamton.edu/computer-science/graduate-programs/phd-program.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students identify a dissertation advisor at the start of their studies, after admission.",
+      "quote": "At the beginning of their studies, identify a dissertation advisor from a full-time CS faculty member who shares their research interests",
+      "url": "https://www.binghamton.edu/computer-science/graduate-programs/phd-program.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantships are allocated on academic performance and course-coverage needs; all eligible admitted applicants are considered.",
+      "quote": "These assistantships are allocated based on academic performance and the need for course coverage.",
+      "url": "https://www.binghamton.edu/computer-science/graduate-programs/index.html",
+      "also": [
+        {
+          "quote": "Essentially, all applicants who are eligible for admission, including current students, are considered for assistantships.",
+          "url": "https://www.binghamton.edu/computer-science/graduate-programs/index.html"
+        }
+      ]
+    },
+    "deadline": {
+      "code": "Not stated",
+      "value": "The department pages give no deadline; the catalog table is not quoted.",
+      "quote": "",
+      "url": "https://www.binghamton.edu/computer-science/graduate-programs/phd-program.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE applies to computer science.",
+      "quote": "",
+      "url": "https://www.binghamton.edu/computer-science/graduate-programs/phd-program.html"
+    }
+  },
+  "notes": "The deadline is not stated on the department pages (catalog says Rolling in a table, not quoted). Contact applycs@binghamton.edu."
+}

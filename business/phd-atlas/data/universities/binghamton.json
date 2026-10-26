@@ -1,0 +1,65 @@
+{
+  "id": "binghamton",
+  "institution": "Binghamton University (SUNY)",
+  "country": "USA",
+  "region": "New York",
+  "grad_page": "https://www.binghamton.edu/admissions/graduate/apply/international-application-requirements.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The application fee is $75 (USD) and is non-refundable.",
+      "quote": "the application fee is $75 (USD) and is non-refundable",
+      "url": "https://www.binghamton.edu/admissions/graduate/apply/international-graduate-faqs.html"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Some applicants may get a fee waiver, but only when departments periodically offer one based on academic eligibility and need, and the request is approved before you submit.",
+      "quote": "Academic departments may periodically offer application fee waivers dependent upon students' academic eligibility, enrollment needs of the department and other extraordinary situations.",
+      "url": "https://www.binghamton.edu/admissions/graduate/apply/international-graduate-faqs.html",
+      "also": [
+        {
+          "quote": "Before submitting your application, wait for an email stating that your request has been approved.",
+          "url": "https://www.binghamton.edu/admissions/graduate/apply/international-graduate-faqs.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school sets no single GRE rule; each program sets its own.",
+      "quote": "GRE requirements vary by program with some requiring GRE Subject Test scores in addition to standard GRE scores.",
+      "url": "https://www.binghamton.edu/admissions/graduate/apply/application-materials.html"
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "For new TOEFL test takers from 21 January 2026 the minimum is 4 on the new 0-6 scale; the old iBT minimum was 80.",
+      "quote": "As of January 21, 2026, any new TOEFL test takers will receive a score on the new 0-6 score scale. Binghamton University requires a minimum TOEFL score of 4, with no band below 4.",
+      "url": "https://www.binghamton.edu/admissions/graduate/apply/international-application-requirements.html",
+      "also": [
+        {
+          "quote": "Binghamton University requires a minimum TOEFL score of 80 on the internet-Based Test",
+          "url": "https://www.binghamton.edu/admissions/graduate/apply/international-application-requirements.html"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The IELTS Academic minimum is an overall 6.5, with no band below 5.0.",
+      "quote": "Binghamton University requires a minimum IELTS score of 6.5, with no band below 5.0.",
+      "url": "https://www.binghamton.edu/admissions/graduate/apply/international-application-requirements.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the waiver country list, so Indian applicants must send a test score; without one, an offer is provisional.",
+      "quote": "Waiver eligible countries are restricted to the following: United States, United Kingdom (England, Northern Ireland, Scotland and Wales), Ireland, Australia, New Zealand, Ghana, Liberia, Kenya, Nigeria, Sierra Leone, Uganda, Zimbabwe, Namibia, Botswana, Zambia, Malawi, Gambia, Tanzania and some Canadian provinces.",
+      "url": "https://www.binghamton.edu/admissions/graduate/apply/international-application-requirements.html",
+      "also": [
+        {
+          "quote": "Certify their English proficiency by submitting official scores from one of the tests listed above",
+          "url": "https://www.binghamton.edu/admissions/graduate/apply/international-application-requirements.html"
+        }
+      ]
+    }
+  },
+  "notes": "Graduate-school rules. Program pages (apps/catalog application-requirement) are catalog tables and were used only for the list of PhD programmes, not for values. Test scores go to Graduate Admissions, not departments."
+}
