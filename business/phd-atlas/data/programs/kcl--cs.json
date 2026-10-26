@@ -1,0 +1,48 @@
+{
+  "id": "kcl--cs",
+  "university": "kcl",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Informatics",
+  "program_page": "https://www.kcl.ac.uk/informatics/study-with-us/research-degrees",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The deadline for funded 2027/28 PhD positions is 15 January 2027; applications may be considered after that on a rolling basis if funding remains.",
+      "quote": "The application deadline for these positions is 15 January 2027.",
+      "url": "https://www.kcl.ac.uk/informatics/study-with-us/research-degrees"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "King's does not consider the GRE in its selection processes, so no GRE Subject test is used.",
+      "quote": "Please note that at King's we do not consider the GRE in our selection processes.",
+      "url": "https://www.kcl.ac.uk/study/postgraduate-research/how-to-apply/policies-and-guidance"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Written agreement from a supervisor is needed before the application can go forward; the department also asks applicants to contact the supervisor first.",
+      "quote": "You must receive written confirmation that your supervisor(s) have agreed to submit you before progressing with your application.",
+      "url": "https://www.kcl.ac.uk/study/postgraduate-research/how-to-apply",
+      "also": [
+        {
+          "quote": "Prior to application, the applicant should contact the potential supervisor to discuss the applicant's suitability for the proposed project.",
+          "url": "https://www.kcl.ac.uk/informatics/study-with-us/research-degrees"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "All scholarships and awards are competitive; the department notes high competition for funded studentships.",
+      "quote": "All scholarships, bursaries or other awards are offered on a competitive basis.",
+      "url": "https://www.kcl.ac.uk/informatics/study-with-us/research-degrees"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "An undergraduate degree or an MSc in Computer Science or a relevant discipline is accepted.",
+      "quote": "Applicants should have an undergraduate degree or MSc in Computer Science or another discipline relevant for their PhD project",
+      "url": "https://www.kcl.ac.uk/informatics/study-with-us/research-degrees"
+    }
+  },
+  "notes": "Funded places are for 2027/28. The page also names EPSRC Doctoral Landscape Award and Centre for Doctoral Training funding. No separate AI or data science PhD is listed."
+}

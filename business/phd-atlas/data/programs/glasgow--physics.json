@@ -2,7 +2,9 @@
   "id": "glasgow--physics",
   "university": "glasgow",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "astronomy"
+  ],
   "department": "School of Physics & Astronomy",
   "program_page": "https://www.gla.ac.uk/postgraduate/research/physicsastronomy/",
   "checked": "2026-10-22",
@@ -27,7 +29,7 @@
       "url": "https://www.gla.ac.uk/postgraduate/research/physicsastronomy/"
     },
     "supervisor": {
-      "code": "Required",
+      "code": "Recommended",
       "value": "The School says all applicants should contact potential supervisors before applying, and the application must name a potential supervisor. Agreement from the supervisor is not stated as a condition.",
       "quote": "Do I need to contact supervisors before applying? | Yes, all applicants should contact potential supervisors to discuss Research topics and available positions before submitting an application. | Applicants must input the name of a potential supervisor in their application.",
       "url": "https://www.gla.ac.uk/schools/physics/research/postgraduate/faq/"
@@ -67,18 +69,6 @@
       "value": "No fee to waive",
       "quote": "We do not charge any application fee, unlike some Universities in other countries",
       "url": "https://www.gla.ac.uk/schools/physics/research/postgraduate/"
-    },
-    "toefl_min": {
-      "code": "92",
-      "value": "TOEFL iBT tests from Jan 21, 2026: 92 overall, no subtest below 4.5; tests up to Jan 20, 2026: 90 overall (R20, L19, S19, W21). IELTS Academic 6.5 with no subtest under 6.0. Single test, taken within 2 years 5 months of the start.",
-      "quote": "Tests taken up to 20 January 2026 | 90 Overall, no subtest lower than Reading 20; Listening 19; Speaking 19; Writing 21 | Tests taken from 21 January 2026 | 92 Overall, no subtest lower than 4.5 | 6.5 with no subtests under 6.0",
-      "url": "https://www.gla.ac.uk/postgraduate/research/physicsastronomy/"
-    },
-    "english_waiver": {
-      "code": "No",
-      "value": "The only alternatives to a test are a degree from a UKVI majority-English-speaking country (final undergraduate year or 9 months of a master's studied there, within 6 years) or a UK university degree taught at an overseas campus. An English-medium Indian degree is not listed.",
-      "quote": "Alternatives to English Language qualification | Degree from majority-English speaking country (as defined by the UKVI including Canada if taught in English) | Students must have studied for a minimum of their final year at Undergraduate level, or 9 months at Master's level, and must have completed their degree in that majority-English speaking country within 6 years of programme start. | TNE degree for UK University taught at a campus outside of the UK.",
-      "url": "https://www.gla.ac.uk/postgraduate/research/physicsastronomy/"
     }
   },
   "notes": "2027/28 international PhD tuition is listed as £33,708 per year. Personal statements and research proposals are optional; naming a supervisor matters more. The required-documents list includes an \"Indian Backlog (if applicable)\" item."

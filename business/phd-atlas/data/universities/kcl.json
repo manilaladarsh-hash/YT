@@ -3,45 +3,51 @@
   "institution": "King's College London",
   "country": "United Kingdom",
   "region": "England",
-  "grad_page": "https://www.kcl.ac.uk/study/postgraduate-research/areas/physics-research-mphil-phd",
+  "grad_page": "https://www.kcl.ac.uk/study/postgraduate-research/how-to-apply",
   "checked": "2026-10-22",
   "fields": {
     "app_fee": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "The King's pages checked for research degrees do not state an application fee.",
       "quote": "",
-      "url": "https://www.kcl.ac.uk/study/postgraduate-research/areas/physics-research-mphil-phd"
+      "url": "https://www.kcl.ac.uk/study/postgraduate-research/how-to-apply"
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "No application fee waiver for research degrees is stated on the pages checked.",
       "quote": "",
-      "url": "https://www.kcl.ac.uk/study/postgraduate-research/areas/physics-research-mphil-phd"
+      "url": "https://www.kcl.ac.uk/study/postgraduate-research/how-to-apply"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.kcl.ac.uk/study/postgraduate-research/areas/physics-research-mphil-phd"
+      "code": "Not considered",
+      "value": "King's does not consider the GRE in its selection processes.",
+      "quote": "Please note that at King's we do not consider the GRE in our selection processes.",
+      "url": "https://www.kcl.ac.uk/study/postgraduate-research/how-to-apply/policies-and-guidance"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.kcl.ac.uk/study/postgraduate-research/areas/physics-research-mphil-phd"
+      "code": "4.5 (new scale)",
+      "value": "For most science, engineering and medicine PhDs (Band D), TOEFL iBT tests taken from 21 January 2026 need 4.5 overall with at least 4 in each skill; arts, social science and some other faculties use different bands.",
+      "quote": "Faculty of Natural, Mathematical & Engineering Sciences (PGR only) | Tests taken from 21 January 2026: | 4.5 overall with a minimum of 4 in each skill",
+      "url": "https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply/entry-requirements/english-language-requirements"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.kcl.ac.uk/study/postgraduate-research/areas/physics-research-mphil-phd"
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall with at least 6.0 in each skill for the Band D faculties, including Natural, Mathematical & Engineering Sciences.",
+      "quote": "6.5 overall with a minimum of 6.0 in each skill",
+      "url": "https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply/entry-requirements/english-language-requirements"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.kcl.ac.uk/study/postgraduate-research/areas/physics-research-mphil-phd"
+      "code": "No",
+      "value": "India is not on King's list of majority English-speaking countries, so an English-medium degree from India does not waive the test; exemptions are assessed case by case.",
+      "quote": "Applicants who have successfully completed an undergraduate degree (of at least three years duration), a postgraduate taught degree (of at least one year), or a PhD in one of the following UKVI-defined majority English speaking countries are not usually required to complete an additional English language test.",
+      "url": "https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply/entry-requirements/english-language-requirements",
+      "also": [
+        {
+          "quote": "English Language competency exemptions will be assessed on a case-by-case basis in line with the below guidance.",
+          "url": "https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply/entry-requirements/english-language-requirements"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "English rules are set by faculty band (Band B, C, D); the STEM values above are Band D. Research programmes are listed on the King's postgraduate research areas pages. The areas list is filtered and paged; the Health category's pages past G could not be read."
 }
