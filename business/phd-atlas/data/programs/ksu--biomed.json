@@ -1,0 +1,61 @@
+{
+  "id": "ksu--biomed",
+  "university": "ksu",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Department of Biochemistry and Molecular Biophysics",
+  "program_page": "https://www.k-state.edu/bmb/academics/graduate-program/apply.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Biochemistry takes applications for the following fall by December 15.",
+      "quote": "An application must be completed and submitted before December 15 for enrollment in the following fall semester.",
+      "url": "https://www.k-state.edu/bmb/academics/graduate-program/apply.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional; the group prefers 80th percentile or higher.",
+      "quote": "Official Graduate Record Examination (GRE) scores (optional)",
+      "url": "https://www.k-state.edu/bmb/academics/graduate-program/apply.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Biochemistry requires IELTS 6.5 overall, with at least 7 in speaking.",
+      "quote": "A minimum score of 6.5 on the IELTS is required",
+      "url": "https://www.k-state.edu/bmb/academics/graduate-program/apply.html",
+      "also": [
+        {
+          "quote": "A minimum score of 7 in the speak portion of the IELTS is required",
+          "url": "https://www.k-state.edu/bmb/academics/graduate-program/apply.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students choose a research advisor from 22 faculty after admission.",
+      "quote": "They may select their research advisors from among 22 faculty members in our interdepartmental BMB Graduate Group",
+      "url": "https://www.k-state.edu/bmb/academics/graduate-program/faqs.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The group admits only applicants it can fund with a teaching or research assistantship and tuition waiver.",
+      "quote": "The Biochemistry and Molecular Biophysics Graduate Group admits only those applicants for whom financial support is available.",
+      "url": "https://www.k-state.edu/bmb/academics/graduate-program/faqs.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A four-year bachelor's is expected; a three-year bachelor's followed by a master's is also accepted.",
+      "quote": "Applicants are expected to have a four-year Bachelor's degree from an accredited institution (a three-year Bachelor's degree followed by a Master's degree is also acceptable)",
+      "url": "https://www.k-state.edu/bmb/academics/graduate-program/apply.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The GRE Subject test is not mentioned on the pages fetched.",
+      "quote": "",
+      "url": "https://www.k-state.edu/bmb/academics/graduate-program/apply.html"
+    }
+  },
+  "notes": "Pathobiology and physiology PhDs in the College of Veterinary Medicine are on the official list but not researched here."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ksu--cs",
+  "university": "ksu",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.cs.ksu.edu/academics/graduate/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-08",
+      "value": "Computer Science takes fall applications by January 8.",
+      "quote": "Fall – January 8th prior to Fall start.",
+      "url": "https://www.cs.ksu.edu/academics/graduate/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "PhD applicants must take the GRE with at least 146 verbal, 151 quantitative and 3.0 analytical writing.",
+      "quote": "PhD applicants must have taken the Graduate Record Exam (GRE) and received minimum scores of 146 Verbal, 151 Quantitative, 3.0 Analytical Writing",
+      "url": "https://www.cs.ksu.edu/academics/graduate/phd/PhD_Handbook_2025_07.pdf",
+      "also": [
+        {
+          "quote": "along with Graduate Record Examination (GRE) scores which should be at least 146 Verbal, 151 Quantitative, 3.0 Analytical Writing",
+          "url": "https://www.cs.ksu.edu/academics/graduate/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students are assigned a faculty advisor on admission and choose a research advisor later.",
+      "quote": "Upon admission to the PhD program, the student will be assigned a faculty advisor who will remain their advisor until the student selects a research advisor.",
+      "url": "https://www.cs.ksu.edu/academics/graduate/phd/PhD_Handbook_2025_07.pdf"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's or master's in computer science or a closely related field is accepted.",
+      "quote": "a Bachelor’s or Master’s degree in computer science (or a closely related field) from an accredited institution in the United States",
+      "url": "https://www.cs.ksu.edu/academics/graduate/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The GRE Subject test is not mentioned on the pages fetched.",
+      "quote": "",
+      "url": "https://www.cs.ksu.edu/academics/graduate/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages fetched do not state a funding rule.",
+      "quote": "",
+      "url": "https://www.cs.ksu.edu/academics/graduate/"
+    }
+  },
+  "notes": "The CS handbook (July 2025) is the department's PhD rule. GRE applies to all PhD applicants per handbook 2.2."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ksu--physics",
+  "university": "ksu",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://www.phys.ksu.edu/academics/graduate/admissions.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-08",
+      "value": "Physics takes fall applications by January 8, earlier than the Graduate School's Feb. 1.",
+      "quote": "January 8 for fall (August) enrollment.",
+      "url": "https://www.phys.ksu.edu/academics/graduate/admissions.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "Physics does not require the GRE, and a Physics GRE Subject score is not considered.",
+      "quote": "Our program does NOT require GRE scores and lack of a physics GRE subject score will not influence your application at all.",
+      "url": "https://www.phys.ksu.edu/academics/graduate/admissions.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department does not require GRE scores.",
+      "quote": "Our program does NOT require GRE scores",
+      "url": "https://www.phys.ksu.edu/academics/graduate/admissions.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applications go to the admissions committee; students join a research group after their first year.",
+      "quote": "Applications are reviewed by our graduate admissions committee after the January 8 deadline.",
+      "url": "https://www.phys.ksu.edu/academics/graduate/admissions.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted students receive full financial support as a teaching or research assistantship unless they choose to self-fund.",
+      "quote": "We offer full financial support to admitted students unless they indicate they would like to attend on their own funds.",
+      "url": "https://www.phys.ksu.edu/academics/graduate/financial-information.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The physics pages do not say whether a bachelor's or master's is required.",
+      "quote": "",
+      "url": "https://www.phys.ksu.edu/academics/graduate/admissions.html"
+    }
+  },
+  "notes": "Department deadline (Jan 8) is earlier than the Graduate School's Feb. 1, so the department date is used. Physics GRE not considered."
+}

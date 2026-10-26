@@ -1,0 +1,43 @@
+{
+  "id": "ksu--chemeng",
+  "university": "ksu",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Department of Chemical Engineering",
+  "program_page": "https://che.k-state.edu/academics/graduate/phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "No department date stated; the Graduate School's international fall deadline is Feb. 1.",
+      "quote": "Fall (August start) ... Feb. 1",
+      "url": "https://www.k-state.edu/grad/admissions/application-process/",
+      "inferred": "year"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A chemical engineering B.S. with at least a 3.0 GPA normally gets regular admission.",
+      "quote": "Students who have received a B.S. Degree in Chemical Engineering, with at least a 3.0-grade point average, normally receive regular admission.",
+      "url": "https://che.k-state.edu/academics/graduate/additional-info/Revised%20K-State%20Grad%20Guide%202022_APPROVED_4-25-2025.pdf"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The GRE Subject test is not mentioned on the pages fetched.",
+      "quote": "",
+      "url": "https://che.k-state.edu/academics/graduate/phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages fetched do not say whether a supervisor's agreement is needed.",
+      "quote": "",
+      "url": "https://che.k-state.edu/academics/graduate/phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages fetched do not state a funding rule.",
+      "quote": "",
+      "url": "https://che.k-state.edu/academics/graduate/phd/"
+    }
+  },
+  "notes": "The chemical engineering PhD page and grad guide give no application deadline, GRE or English rule; the Graduate School's international rules apply."
+}

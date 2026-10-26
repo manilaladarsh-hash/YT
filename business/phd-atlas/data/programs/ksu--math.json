@@ -1,0 +1,49 @@
+{
+  "id": "ksu--math",
+  "university": "ksu",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://www.math.ksu.edu/academics/graduate/admission/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-08",
+      "value": "Mathematics gives January 8 for international applicants to fall (August) enrollment.",
+      "quote": "For fall (August) enrollment International January 8",
+      "url": "https://www.math.ksu.edu/academics/graduate/admission/",
+      "inferred": "year"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by the department's committee and the Graduate School, not by a supervisor's agreement.",
+      "quote": "Admission is granted upon approval by the Graduate Program Advisory Committee (GPAC), the Department Head, and the Graduate School.",
+      "url": "https://www.math.ksu.edu/academics/graduate/admission/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants need bachelor's-level mathematics, and a master's can transfer up to 30 hours toward the PhD.",
+      "quote": "an applicant to the PhD program or the M.S. program should have completed work in mathematics equivalent to that required for a Bachelor's Degree at Kansas State University",
+      "url": "https://www.math.ksu.edu/academics/graduate/admission/",
+      "also": [
+        {
+          "quote": "Students entering with a Master's Degree from an accredited program may transfer up to 30 hours of that degree toward the PhD coursework requirement",
+          "url": "https://www.math.ksu.edu/academics/graduate/degrees/phd-prog.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The GRE Subject test is not mentioned on the pages fetched.",
+      "quote": "",
+      "url": "https://www.math.ksu.edu/academics/graduate/admission/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages fetched do not state a funding rule.",
+      "quote": "",
+      "url": "https://www.math.ksu.edu/academics/graduate/admission/"
+    }
+  },
+  "notes": "Department's January 8 date differs from the Graduate School's Feb. 1 and is used. Funding and GRE subject not stated on the pages fetched."
+}

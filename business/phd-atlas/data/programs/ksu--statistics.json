@@ -1,0 +1,49 @@
+{
+  "id": "ksu--statistics",
+  "university": "ksu",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Statistics",
+  "program_page": "https://www.k-state.edu/stats/academics/gradstudents/AdmitInternational.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-08",
+      "value": "Statistics requires fall (August) applications by January 8 for international applicants.",
+      "quote": "If you are applying for fall (August) enrollment, completed applications must be submitted on-line no later than January 8.",
+      "url": "https://www.k-state.edu/stats/academics/gradstudents/AdmitInternational.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "Statistics highly recommends GRE scores but does not require them.",
+      "quote": "we highly recommend GRE scores be submitted; however they are not required.",
+      "url": "https://www.k-state.edu/stats/academics/gradstudents/AdmitInternational.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The GRE Subject test is not mentioned on the pages fetched.",
+      "quote": "",
+      "url": "https://www.k-state.edu/stats/academics/gradstudents/AdmitInternational.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages fetched do not say whether a supervisor's agreement is needed.",
+      "quote": "",
+      "url": "https://www.k-state.edu/stats/academics/gradstudents/AdmitInternational.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages fetched do not state a funding rule.",
+      "quote": "",
+      "url": "https://www.k-state.edu/stats/academics/gradstudents/AdmitInternational.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages fetched do not say whether a bachelor's or master's is required.",
+      "quote": "",
+      "url": "https://www.k-state.edu/stats/academics/gradstudents/AdmitInternational.html"
+    }
+  },
+  "notes": "The statistics PhD pages fetched do not say whether a master's is required, nor give supervisor or funding rules, so those stay Not stated."
+}

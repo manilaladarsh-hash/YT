@@ -1,0 +1,49 @@
+{
+  "id": "ksu--biology",
+  "university": "ksu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Division of Biology",
+  "program_page": "https://www.k-state.edu/biology/academics/graduate-programs/admission.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Biology takes applications for admission the following August by December 15.",
+      "quote": "December 15 for admission the following August",
+      "url": "https://www.k-state.edu/biology/academics/graduate-programs/admission.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are not required but can be sent if available.",
+      "quote": "GRE scores are NOT required but can be provided if available",
+      "url": "https://www.k-state.edu/biology/academics/graduate-programs/admission.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The division admits only students it can fully fund.",
+      "quote": "we only admit students for whom we provide full financial support",
+      "url": "https://www.k-state.edu/biology/academics/graduate-programs/admission.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The GRE Subject test is not mentioned on the pages fetched.",
+      "quote": "",
+      "url": "https://www.k-state.edu/biology/academics/graduate-programs/admission.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages fetched do not say whether a supervisor's agreement is needed.",
+      "quote": "",
+      "url": "https://www.k-state.edu/biology/academics/graduate-programs/admission.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages fetched do not say whether a bachelor's or master's is required.",
+      "quote": "",
+      "url": "https://www.k-state.edu/biology/academics/graduate-programs/admission.html"
+    }
+  },
+  "notes": "Biology's own page also covers microbiology and genetics applicants. Biology gives no subject GRE rule, so gre_subject stays Not stated."
+}

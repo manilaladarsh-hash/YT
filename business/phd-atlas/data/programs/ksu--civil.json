@@ -1,0 +1,67 @@
+{
+  "id": "ksu--civil",
+  "university": "ksu",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil Engineering",
+  "program_page": "https://ce.k-state.edu/academics/graduate/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-08",
+      "value": "Civil Engineering takes fall (August) international applications by January 8.",
+      "quote": "Fall: January 8 (August enrollment)",
+      "url": "https://ce.k-state.edu/academics/graduate/",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The civil engineering handbook says the application fee cannot be waived under any circumstances.",
+      "quote": "The university does not allow waiver of the application fee under any circumstances.",
+      "url": "https://ce.k-state.edu/docs/handbooks/graduate-student-handbook.pdf"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "International applicants need an 80th-percentile quantitative GRE; ABET-accredited civil engineering bachelor's graduates may be waived.",
+      "quote": "K-State CE’s minimum requirement for admission is 80th percentile rank on quantitative portion of the exam.",
+      "url": "https://ce.k-state.edu/docs/handbooks/graduate-student-handbook.pdf",
+      "also": [
+        {
+          "quote": "Students who have got their bachelor’s degree from an ABET - accredited civil engineering program may be waived from the GRE requirement",
+          "url": "https://ce.k-state.edu/docs/handbooks/graduate-student-handbook.pdf"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The civil engineering handbook (version 8/21) sets 79 on the internet-based TOEFL; the Graduate School's current rule is 4.5 for tests from January 21, 2026.",
+      "quote": "K-State CE’s minimum requirement for TOEFL is 550 paper-based / 213 computer-based / 79 internet-based.",
+      "url": "https://ce.k-state.edu/docs/handbooks/graduate-student-handbook.pdf"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The primary admission requirement is a bachelor's degree from an ABET-accredited civil engineering program.",
+      "quote": "The primary requirement for admission to the civil engineering graduate program is the receipt of a bachelor of science degree from a civil engineering undergraduate program that is accredited by the Accreditation Board of Engineering and Technology (ABET)",
+      "url": "https://ce.k-state.edu/docs/handbooks/graduate-student-handbook.pdf"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The GRE Subject test is not mentioned on the pages fetched.",
+      "quote": "",
+      "url": "https://ce.k-state.edu/academics/graduate/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages fetched do not say whether a supervisor's agreement is needed.",
+      "quote": "",
+      "url": "https://ce.k-state.edu/academics/graduate/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages fetched do not state a funding rule.",
+      "quote": "",
+      "url": "https://ce.k-state.edu/academics/graduate/"
+    }
+  },
+  "notes": "Civil handbook is dated 8/21, so its fee, GRE and TOEFL rules may be older than the Graduate School's; they are used because the department rule wins. Check with the department."
+}

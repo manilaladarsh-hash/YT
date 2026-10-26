@@ -1,0 +1,43 @@
+{
+  "id": "ksu--ece",
+  "university": "ksu",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Mike Wiegers Department of Electrical and Computer Engineering",
+  "program_page": "https://ece.k-state.edu/academics/graduate/admission/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "The Graduate School's international fall deadline is Feb. 1; ECE publishes no separate date.",
+      "quote": "Fall (August start) ... Feb. 1",
+      "url": "https://www.k-state.edu/grad/admissions/application-process/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The GRE Subject test is not mentioned on the pages fetched.",
+      "quote": "",
+      "url": "https://ece.k-state.edu/academics/graduate/admission/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages fetched do not say whether a supervisor's agreement is needed.",
+      "quote": "",
+      "url": "https://ece.k-state.edu/academics/graduate/admission/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages fetched do not state a funding rule.",
+      "quote": "",
+      "url": "https://ece.k-state.edu/academics/graduate/admission/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages fetched do not say whether a bachelor's or master's is required.",
+      "quote": "",
+      "url": "https://ece.k-state.edu/academics/graduate/admission/"
+    }
+  },
+  "notes": "ECE's admissions page gives only an application timing window (November to December for fall), not a deadline. Deadline is the Graduate School's international fall date. No ECE funding or supervisor rules on the pages fetched."
+}

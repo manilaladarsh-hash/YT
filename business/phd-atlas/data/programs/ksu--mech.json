@@ -1,0 +1,49 @@
+{
+  "id": "ksu--mech",
+  "university": "ksu",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical and Nuclear Engineering",
+  "program_page": "https://www.mne.k-state.edu/academics/graduate/phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "No department date stated; the Graduate School's international fall deadline is Feb. 1.",
+      "quote": "Fall (August start) ... Feb. 1",
+      "url": "https://www.k-state.edu/grad/admissions/application-process/",
+      "inferred": "year"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Mechanical engineering offers a bachelor's-to-doctorate route (90 credits) or a PhD after a master's (60 credits beyond it).",
+      "quote": "Both mechanical and nuclear engineering programs offer a straight bachelor’s-to-doctorate option, which requires 90 credit hours.",
+      "url": "https://www.mne.k-state.edu/academics/graduate/phd/",
+      "also": [
+        {
+          "quote": "The doctorate program requires 60 credit hours beyond the master’s degree",
+          "url": "https://www.mne.k-state.edu/academics/graduate/phd/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The GRE Subject test is not mentioned on the pages fetched.",
+      "quote": "",
+      "url": "https://www.mne.k-state.edu/academics/graduate/phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages fetched do not say whether a supervisor's agreement is needed.",
+      "quote": "",
+      "url": "https://www.mne.k-state.edu/academics/graduate/phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages fetched do not state a funding rule.",
+      "quote": "",
+      "url": "https://www.mne.k-state.edu/academics/graduate/phd/"
+    }
+  },
+  "notes": "Nuclear engineering PhD (same department) is not a field in the Atlas list and is not saved. Department pages fetched give no admissions deadline, GRE or funding rule."
+}
