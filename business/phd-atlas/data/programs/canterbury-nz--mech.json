@@ -1,0 +1,48 @@
+{
+  "id": "canterbury-nz--mech",
+  "university": "canterbury-nz",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Faculty of Engineering, Mechanical Engineering",
+  "program_page": "https://www.canterbury.ac.nz/study/academic-study/subjects/mechanical-engineering-pg",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No application closing date is given on the official pages; a PhD may begin on the first day of any month.",
+      "quote": "",
+      "url": "https://www.canterbury.ac.nz/study/academic-study/qualifications/doctor-of-philosophy"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on the official pages checked for this PhD.",
+      "quote": "",
+      "url": "https://www.canterbury.ac.nz/study/academic-study/subjects/mechanical-engineering-pg"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must contact a potential supervisor before applying, and written evidence of their agreement must be included in the myUC application.",
+      "quote": "PhD students must contact a potential supervisor before applying.",
+      "url": "https://www.canterbury.ac.nz/study/academic-study/qualifications/doctor-of-philosophy",
+      "also": [
+        {
+          "quote": "This evidence of supervision must be included in your application in myUC for your application to be assessed.",
+          "url": "https://www.canterbury.ac.nz/study/uc-graduate-school/future-research-students/become-a-research-student"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No official page states that most PhD students are funded or that funding is competitive.",
+      "quote": "",
+      "url": "https://www.canterbury.ac.nz/study/uc-graduate-school/future-research-students/become-a-research-student"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A research-focused honours or master's degree at First or Second Class Division I Honours or Distinction level is needed, so both routes are accepted.",
+      "quote": "Enrolment in a PhD requires completion of a research-focused honours or master’s degree, at First or Second Class (Division I) Honours or Distinction level (or equivalent qualifications).",
+      "url": "https://www.canterbury.ac.nz/study/academic-study/qualifications/doctor-of-philosophy"
+    }
+  },
+  "notes": "The official mechanical engineering page lists a Doctor of Philosophy. Renewable Energy Engineering is a separate PhD and is not mapped. No department-level rule was found."
+}
