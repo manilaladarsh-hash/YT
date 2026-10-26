@@ -1,0 +1,42 @@
+{
+  "id": "fsu--biology",
+  "university": "fsu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Science",
+  "program_page": "https://www.bio.fsu.edu/grad/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The final PhD deadline is listed as December 1st, but the page gives no year. PhD applications are accepted for fall only.",
+      "quote": "",
+      "url": "https://www.bio.fsu.edu/grad/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is named for biology.",
+      "quote": "",
+      "url": "https://www.bio.fsu.edu/grad/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Each area reviews applications on its own, and applicants name faculty of interest in the supplemental application.",
+      "quote": "each area conducts its own review of applications and guides its students to the completion of their degrees",
+      "url": "https://www.bio.fsu.edu/grad/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every PhD student receives a stipend, tuition waiver and health subsidy, usually as a TA or RA.",
+      "quote": "All PhD and thesis-based Masters students are provided financial support in the form of a stipend, tuition waiver, and health insurance subsidy throughout their tenure",
+      "url": "https://www.bio.fsu.edu/grad/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The University minimum accepts a bachelor's or a graduate degree; the department page adds no rule.",
+      "quote": "A bachelor's degree from a regionally accredited U.S. institution, or a comparable degree from an international institution | A graduate degree from a regionally accredited U.S. institution, or a comparable degree from an international institution",
+      "url": "https://gradschool.fsu.edu/prospective-students/graduate-admissions"
+    }
+  },
+  "notes": "Three areas: Ecology and Evolution, Cellular and Molecular Biology, Neuroscience. Each area has its own review and instructions. The interdisciplinary Program in Neuroscience is saved separately as neuro. GRE not required for PhD applicants granted a waiver."
+}

@@ -1,0 +1,61 @@
+{
+  "id": "fsu--math",
+  "university": "fsu",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://www.math.fsu.edu/apply/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The December 15 and April 30 dates are given without a year.",
+      "quote": "December 15: Students with complete applications by this date will be considered for the university's Graduate School fellowships",
+      "url": "https://www.math.fsu.edu/apply/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department says GRE scores are not required.",
+      "quote": "Note that GRE scores are not required",
+      "url": "https://www.math.fsu.edu/apply/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department says GRE scores are not required.",
+      "quote": "Note that GRE scores are not required",
+      "url": "https://www.math.fsu.edu/apply/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The department asks for an Internet TOEFL minimum of 80, an old-scale figure; the Graduate School's current rule is 4.0 on the new scale, so confirm which scale applies.",
+      "quote": "The minimum score on the Internet based TOEFL is 80",
+      "url": "https://www.math.fsu.edu/apply/",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Internet based TOEFL (IBTOEFL): 80 (if taken before January 21, 2026) or 4.0 (if taken on or after January 21, 2026)",
+          "url": "https://gradschool.fsu.edu/prospective-students/graduate-admissions/international-admissions"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants apply to a research area and the area, not a named supervisor, decides admission.",
+      "quote": "Admission and funding decisions are made by areas",
+      "url": "https://www.math.fsu.edu/apply/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Tuition waivers, TAs, RAs and fellowships are awarded competitively.",
+      "quote": "Financial aid is available and awarded competitively in the form of tuition waivers, teaching assistantships (TAs), research assistantships (RAs), and university fellowships",
+      "url": "https://www.math.fsu.edu/apply/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The University minimum accepts a bachelor's or a graduate degree; the department page adds no rule.",
+      "quote": "A bachelor's degree from a regionally accredited U.S. institution, or a comparable degree from an international institution | A graduate degree from a regionally accredited U.S. institution, or a comparable degree from an international institution",
+      "url": "https://gradschool.fsu.edu/prospective-students/graduate-admissions"
+    }
+  },
+  "notes": "Four PhD areas: pure, applied and computational, financial, biomathematics. Page also mentions an Interdisciplinary Data Science degree (see the datasci note in the reply). Area directors may ask for higher TOEFL."
+}

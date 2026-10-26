@@ -1,0 +1,48 @@
+{
+  "id": "fsu--chemeng",
+  "university": "fsu",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Chemical & Biomedical Engineering, FAMU-FSU College of Engineering",
+  "program_page": "https://eng.famu.fsu.edu/cbe/graduate-admissions",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The 15 January date for full departmental funding consideration appears without a year.",
+      "quote": "For full consideration for departmental funding, please complete the application by 15 January",
+      "url": "https://eng.famu.fsu.edu/cbe/graduate-admissions"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE is recommended with percentile minima, not required; the decision uses the full application.",
+      "quote": "A recommended Graduate Record Examination General Test (GRE) score of a minimum GRE percentile of at least 48% on the verbal portion and 75% on the quantitative portion of the test",
+      "url": "https://eng.famu.fsu.edu/cbe/graduate-admissions"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://eng.famu.fsu.edu/cbe/graduate-admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies.",
+      "quote": "",
+      "url": "https://eng.famu.fsu.edu/cbe/graduate-admissions"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "All current PhD students are supported by assistantships; funding is limited and priority goes to doctoral applicants.",
+      "quote": "all current PhD students are supported by these assistantships",
+      "url": "https://eng.famu.fsu.edu/cbe/graduate-admissions"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The PhD accepts an undergraduate or a graduate GPA of 3.0 or higher.",
+      "quote": "An undergraduate upper-division or graduate GPA of 3.0 (on a 4.0 scale) or higher",
+      "url": "https://eng.famu.fsu.edu/cbe/graduate-admissions"
+    }
+  },
+  "notes": "One admissions block covers the PhD in Chemical Engineering and the PhD in Biomedical Engineering, so bme is listed in also_fields. Prerequisite courses may apply to non-majors."
+}

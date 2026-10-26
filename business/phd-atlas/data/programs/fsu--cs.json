@@ -1,0 +1,55 @@
+{
+  "id": "fsu--cs",
+  "university": "fsu",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.cs.fsu.edu/admissions/graduate-admissions/minimum-admissions-requirements-for-computer-science-ms-and-phd-programs/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No PhD application deadline appears on the department pages checked.",
+      "quote": "",
+      "url": "https://www.cs.fsu.edu/admissions/graduate-admissions/minimum-admissions-requirements-for-computer-science-ms-and-phd-programs/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is named for computer science.",
+      "quote": "",
+      "url": "https://www.cs.fsu.edu/admissions/graduate-admissions/minimum-admissions-requirements-for-computer-science-ms-and-phd-programs/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The department's IBTOEFL minimum for admission consideration is 80, an old-scale figure; it treats 100-105 as competitive, especially for assistantships. The Graduate School's current rule is 4.0 on the new scale.",
+      "quote": "The minimum required score on the IBTOEFL for admission consideration is 80",
+      "url": "https://www.cs.fsu.edu/admissions/graduate-admissions/minimum-admissions-requirements-for-computer-science-ms-and-phd-programs/",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Internet based TOEFL (IBTOEFL): 80 (if taken before January 21, 2026) or 4.0 (if taken on or after January 21, 2026)",
+          "url": "https://gradschool.fsu.edu/prospective-students/graduate-admissions/international-admissions"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "The major professor is secured after admission, not before.",
+      "quote": "As early as is feasible in the student’s program, the student should identify an area for dissertation research and secure an informal agreement with a faculty member to serve as the student’s major professor",
+      "url": "https://www.cs.fsu.edu/academics/graduate-programs/phd-degree-info/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The admissions pages state no stipend or funding guarantee. A one-year faculty funding offer is only a GRE-waiver criterion.",
+      "quote": "",
+      "url": "https://www.cs.fsu.edu/admissions/graduate-admissions/minimum-admissions-requirements-for-computer-science-ms-and-phd-programs/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's or graduate degree in computer science or a related field is expected.",
+      "quote": "you should have an undergraduate or graduate degree in Computer Science or related field from an accredited university",
+      "url": "https://www.cs.fsu.edu/admissions/graduate-admissions/minimum-admissions-requirements-for-computer-science-ms-and-phd-programs/"
+    }
+  },
+  "notes": "PhD applicants must still submit the GRE (from the department page). From Fall 2025 PhD applicants can petition for a GRE waiver if they meet two or more criteria, including a 1-year funding offer from a faculty member. The Computational Science PhD (Department of Scientific Computing) is not saved here."
+}

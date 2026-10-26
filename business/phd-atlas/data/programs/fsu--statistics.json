@@ -1,0 +1,61 @@
+{
+  "id": "fsu--statistics",
+  "university": "fsu",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Statistics",
+  "program_page": "https://stat.fsu.edu/graduate-program/admissions",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The priority date is December 1 and the international priority date January 15, both without a year.",
+      "quote": "Priority deadline for admission consideration for University fellowships, departmental assistantships, and other awards: Dec.1",
+      "url": "https://stat.fsu.edu/graduate-program/admissions"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department waives the GRE for PhD programs.",
+      "quote": "The Department of Statistics waives the GRE requirement for Ph.D. programs",
+      "url": "https://stat.fsu.edu/graduate-program/admissions"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department waives the GRE for PhD programs.",
+      "quote": "The Department of Statistics waives the GRE requirement for Ph.D. programs",
+      "url": "https://stat.fsu.edu/graduate-program/admissions"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Internet TOEFL 80 for applicants not seeking funding; the page sets 90 overall for TA eligibility. The Graduate School's current rule is 4.0 on the new scale, so confirm which applies.",
+      "quote": "Internet Based TOEFL (IBTOEFL): 80",
+      "url": "https://stat.fsu.edu/graduate-program/admissions",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Internet based TOEFL (IBTOEFL): 80 (if taken before January 21, 2026) or 4.0 (if taken on or after January 21, 2026)",
+          "url": "https://gradschool.fsu.edu/prospective-students/graduate-admissions/international-admissions"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The admissions page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://stat.fsu.edu/graduate-program/admissions"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantship eligibility is considered during admission review, and aid is usually offered to fall applicants.",
+      "quote": "An applicant's eligibility for a departmental teaching or research assistantship will be considered during the evaluation for admission",
+      "url": "https://stat.fsu.edu/graduate-program/admissions"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The department accepts a bachelor's or a graduate degree.",
+      "quote": "At least a Baccalaureate degree from an accredited U.S. institution, or a comparable degree from an international institution | A graduate degree from a regionally accredited U.S. institution, or a comparable degree from an international institution",
+      "url": "https://stat.fsu.edu/graduate-program/admissions"
+    }
+  },
+  "notes": "Department states its own TOEFL minimum of 80 for applicants not seeking funding and 90 overall for TA eligibility."
+}
