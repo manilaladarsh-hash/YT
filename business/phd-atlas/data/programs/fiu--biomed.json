@@ -1,0 +1,67 @@
+{
+  "id": "fiu--biomed",
+  "university": "fiu",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Herbert Wertheim College of Medicine",
+  "program_page": "https://medicine.fiu.edu/academics/phd-in-biomedical-science/apply/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Apply by February 15 for Fall entry; applications go through the FIU Graduate School.",
+      "quote": "Fall: February 15th",
+      "url": "https://admissions.fiu.edu/how-to-apply/graduate-applicant/admission-requirements/",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The medical school states there are no application fee waivers for this PhD.",
+      "quote": "There are no application fee waivers.",
+      "url": "https://medicine.fiu.edu/academics/phd-in-biomedical-science/apply/index.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE scores were waived for the 2026 cycle; the page does not give the rule for Fall 2027.",
+      "quote": "GRE scores are waived for the 2026 admissions cycle.",
+      "url": "https://medicine.fiu.edu/academics/phd-in-biomedical-science/apply/index.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Biomedical Sciences GRE Subject test applies and the page does not mention one.",
+      "quote": "",
+      "url": "https://medicine.fiu.edu/academics/phd-in-biomedical-science/apply/index.html"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The medical school requires 80 on the internet-based TOEFL and 550 on the paper-based test.",
+      "quote": "must take an English proficiency test and earn 550 paper-based, 80 internet-based on TOEFL, or 6.5 on IELTS",
+      "url": "https://medicine.fiu.edu/academics/phd-in-biomedical-science/apply/index.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The medical school requires an IELTS overall score of 6.5.",
+      "quote": "must take an English proficiency test and earn 550 paper-based, 80 internet-based on TOEFL, or 6.5 on IELTS",
+      "url": "https://medicine.fiu.edu/academics/phd-in-biomedical-science/apply/index.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://medicine.fiu.edu/academics/phd-in-biomedical-science/apply/index.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted students receive a stipend for the 2026-27 year and tuition is paid by the Graduate School.",
+      "quote": "Students admitted into the Ph.D. in Biomedical Science program receive a $30,000 stipend",
+      "url": "https://medicine.fiu.edu/academics/phd-in-biomedical-science/financial-support/stipend-and-tuition/index.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A graduate degree or a bachelor's degree from an accredited US college is accepted.",
+      "quote": "Applicants must have a graduate degree or bachelor's degree from an accredited college in the United States",
+      "url": "https://medicine.fiu.edu/academics/phd-in-biomedical-science/apply/index.html"
+    }
+  },
+  "notes": "Interview required for admission. Application fee is $30 and is processed by the FIU Graduate School. Medical school English rule overrides the university value."
+}

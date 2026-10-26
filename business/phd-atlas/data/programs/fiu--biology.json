@@ -1,0 +1,61 @@
+{
+  "id": "fiu--biology",
+  "university": "fiu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://case.fiu.edu/biology/students/graduate-programs/phd-in-biology/admissions/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1 for the following Fall; assistantship applications for Fall are also due December 1.",
+      "quote": "The deadline for applications is December 1 for the following fall.",
+      "url": "https://case.fiu.edu/biology/students/graduate-programs/phd-in-biology/admissions/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The catalog lists the GRE as not required for the Biological Sciences PhD.",
+      "quote": "GRE | Not Required",
+      "url": "https://admissions.fiu.edu/how-to-apply/graduate-applicant/admission-requirements/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Biology GRE Subject test applies and the page does not mention one.",
+      "quote": "",
+      "url": "https://case.fiu.edu/biology/students/graduate-programs/phd-in-biology/admissions/index.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A letter from a faculty sponsor must be submitted with the application for it to be complete.",
+      "quote": "the student must have a letter from their faculty sponsor submitted for the application to be considered complete",
+      "url": "https://case.fiu.edu/biology/students/graduate-programs/phd-in-biology/admissions/index.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page mentions assistantship deadlines but does not say most admitted students are funded.",
+      "quote": "",
+      "url": "https://case.fiu.edu/biology/students/graduate-programs/phd-in-biology/admissions/index.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A 3.0 average in the last two undergraduate years or a master's degree in a relevant discipline is accepted.",
+      "quote": "GPA: 3.0 average or higher during the last two years of the undergraduate program, or a master's degree in a relevant discipline",
+      "url": "https://case.fiu.edu/biology/students/graduate-programs/phd-in-biology/admissions/index.html"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The department requires 80 on the TOEFL iBT, which is above the university's new-scale 4.5 entry.",
+      "quote": "minimum score of 80/550 on the TOEFL iBT",
+      "url": "https://case.fiu.edu/biology/students/graduate-programs/phd-in-biology/admissions/index.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department requires an IELTS overall score of 6.5.",
+      "quote": "a minimum score of 6.5 overall on the IELTS",
+      "url": "https://case.fiu.edu/biology/students/graduate-programs/phd-in-biology/admissions/index.html"
+    }
+  },
+  "notes": "The separate Biochemistry PhD (co-sponsored by Chemistry and Biochemistry, Biological Sciences and the Herbert Wertheim College of Medicine) is not saved as its own record because field ids are unique per university. Its catalog deadline is University Graduate School deadlines, February 15, December 1 for financial support; it requires general GRE (no minimum) and is funded for all full-time students; it asks for a faculty sponsor letter for biology."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "fiu--cs",
+  "university": "fiu",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Knight Foundation School of Computing and Information Sciences",
+  "program_page": "https://cec.fiu.edu/degrees-programs/graduate/phd-in-computer-science/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "The university's standard PhD deadline for Fall is February 15; the program page does not give its own date.",
+      "quote": "Ph.D. applications & supporting documents | December 1 | February 15 | August 1",
+      "url": "https://admissions.fiu.edu/international/graduate-school/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required for admission to the CS PhD.",
+      "quote": "GRE not required for admission",
+      "url": "https://cec.fiu.edu/degrees-programs/graduate/phd-in-computer-science/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE is required, including the subject test.",
+      "quote": "GRE not required for admission",
+      "url": "https://cec.fiu.edu/degrees-programs/graduate/phd-in-computer-science/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://cec.fiu.edu/degrees-programs/graduate/phd-in-computer-science/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding is offered depending on qualifications and performance.",
+      "quote": "Ph.D. applicants may be considered for teaching assistantships, research assistantships and fellowships depending on qualifications and performance",
+      "url": "https://cec.fiu.edu/degrees-programs/graduate/phd-in-computer-science/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's or master's degree in computer science or a related field is accepted.",
+      "quote": "A bachelor’s or master’s degree in computer science or a related field as judged by the School’s Graduate Committee",
+      "url": "https://cec.fiu.edu/degrees-programs/graduate/phd-in-computer-science/"
+    }
+  },
+  "notes": "The cis.fiu.edu program pages returned 502 (blocked); this record uses the cec.fiu.edu program page. Catalog GPA: 3.2 without a related master's, 3.0 with one (plus 3.3 in graduate work)."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "fiu--bme",
+  "university": "fiu",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biomedical Engineering",
+  "program_page": "https://cec.fiu.edu/degrees-programs/graduate/phd-in-biomedical-engineering/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-31",
+      "value": "Fall priority deadline is December 31 (for visit invitations); a regular Admissions deadline also applies.",
+      "quote": "Fall priority deadline: December 31 to be eligible for invitation to visit for graduate recruitment",
+      "url": "https://admissions.fiu.edu/how-to-apply/graduate-applicant/admission-requirements/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE is required but there is no minimum score; higher scores get preference.",
+      "quote": "GRE required with no minimum score, but higher scores will be given preference",
+      "url": "https://cec.fiu.edu/degrees-programs/graduate/phd-in-biomedical-engineering/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Biomedical Engineering GRE Subject test applies and the page does not mention one.",
+      "quote": "",
+      "url": "https://cec.fiu.edu/degrees-programs/graduate/phd-in-biomedical-engineering/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://cec.fiu.edu/degrees-programs/graduate/phd-in-biomedical-engineering/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding is offered depending on qualifications and performance.",
+      "quote": "Ph.D. applicants may be considered for teaching assistantships, research assistantships and fellowships depending on qualifications and performance",
+      "url": "https://cec.fiu.edu/degrees-programs/graduate/phd-in-biomedical-engineering/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A 4-year bachelor's degree or a master's in biomedical engineering or a closely related field is accepted.",
+      "quote": "4-year bachelor’s or a master’s degree in biomedical engineering or a closely related field from an accredited institution",
+      "url": "https://cec.fiu.edu/degrees-programs/graduate/phd-in-biomedical-engineering/"
+    }
+  },
+  "notes": "Requires GPA of 3.0 in the bachelor's (last 60 credits) and 3.3 in a master's per the department page."
+}

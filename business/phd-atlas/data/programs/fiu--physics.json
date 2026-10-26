@@ -1,0 +1,49 @@
+{
+  "id": "fiu--physics",
+  "university": "fiu",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://case.fiu.edu/physics/students/graduate/phd-in-physics/admissions/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Apply by January 1 to be considered for an assistantship; the regular deadline is January 15.",
+      "quote": "To be considered for a graduate assistantship, you are strongly encouraged to submit your application by January 1",
+      "url": "https://case.fiu.edu/physics/students/graduate/phd-in-physics/admissions/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The university catalog lists the GRE as not required for this PhD.",
+      "quote": "GRE | Not Required",
+      "url": "https://admissions.fiu.edu/how-to-apply/graduate-applicant/admission-requirements/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The physics pages do not mention the Physics GRE Subject test.",
+      "quote": "",
+      "url": "https://case.fiu.edu/physics/students/graduate/phd-in-physics/admissions/index.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://case.fiu.edu/physics/students/graduate/phd-in-physics/admissions/index.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page describes assistantships but does not say that most or all admitted students receive one.",
+      "quote": "",
+      "url": "https://case.fiu.edu/physics/students/graduate/phd-in-physics/admissions/index.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree in Physics is the stated requirement.",
+      "quote": "Additional Requirements: Bachelor's degree in Physics",
+      "url": "https://case.fiu.edu/physics/students/graduate/phd-in-physics/admissions/index.html"
+    }
+  },
+  "notes": "Regular deadline Jan 15 per department; catalog lists University Graduate School deadlines."
+}
