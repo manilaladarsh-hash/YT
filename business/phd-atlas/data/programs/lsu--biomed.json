@@ -1,0 +1,61 @@
+{
+  "id": "lsu--biomed",
+  "university": "lsu",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Department of Comparative Biomedical Sciences (School of Veterinary Medicine)",
+  "program_page": "https://www.lsu.edu/vetmed/cbs/graduate_study.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Applications are accepted at any time, but they are evaluated only once the file is complete; the scholarship round closes February 28.",
+      "quote": "Applications are accepted at any time, but we cannot formally evaluate students for admission or financial assistance until completed application materials have been received",
+      "url": "https://www.lsu.edu/vetmed/cbs/graduate_study.php",
+      "time_sensitive": "2027-02-28",
+      "also": [
+        {
+          "quote": "The application must be submitted by February 28 to be considered for the open slots",
+          "url": "https://www.lsu.edu/vetmed/cbs/graduate_study.php"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Department TOEFL minimum is 79 (internet-based) or 550 (paper-based).",
+      "quote": "minimum score of 550 (paper-based) or 79 (internet-based)",
+      "url": "https://www.lsu.edu/vetmed/cbs/graduate_study.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Department IELTS minimum is 6.5.",
+      "quote": "International English Language Testing System (IELTS): minimum score of 6.5",
+      "url": "https://www.lsu.edu/vetmed/cbs/graduate_study.php"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission does not require a named advisor; students choose a lab through three rotations after admission.",
+      "quote": "Upon admission, candidates must contact faculty advisors to set up rotations in potential areas of their research interest",
+      "url": "https://www.lsu.edu/vetmed/cbs/graduate_study.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Departmental scholarship slots are limited and vary by cycle; the page does not say most students are funded.",
+      "quote": "Some departmental scholarship slots are available and vary per cycle",
+      "url": "https://www.lsu.edu/vetmed/cbs/graduate_study.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page does not address this.",
+      "quote": "",
+      "url": "https://www.lsu.edu/vetmed/cbs/graduate_study.php"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The department page does not address this.",
+      "quote": "",
+      "url": "https://www.lsu.edu/vetmed/cbs/graduate_study.php"
+    }
+  },
+  "notes": "Program is MS or PhD in Biomedical and Veterinary Medical Sciences with a Comparative Biomedical Sciences concentration. Admission is by the Graduate School and department. The guidelines PDF says every effort will be made to fund PhD students in good standing. Entry route and GRE are not stated on the department page; the GRE is inherited from the Graduate School."
+}

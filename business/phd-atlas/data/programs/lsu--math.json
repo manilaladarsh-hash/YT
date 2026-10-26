@@ -1,0 +1,68 @@
+{
+  "id": "lsu--math",
+  "university": "lsu",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://www.math.lsu.edu/grad/applprocd",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Complete your file by January 15 to be considered for department financial aid; later applications are still considered for admission.",
+      "quote": "The application should be completed, including all supporting documents, by January 15 if you wish to be considered for available math department financial aid | Applications completed after January 15 will still be considered for admission, and even for financial support, if it is still available",
+      "url": "https://www.math.lsu.edu/grad/faqs",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required for admission.",
+      "quote": "GRE scores are not required for admission",
+      "url": "https://www.math.lsu.edu/grad/admissionreqs"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "GRE scores are not required for admission.",
+      "quote": "GRE scores are not required for admission",
+      "url": "https://www.math.lsu.edu/grad/admissionreqs"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You do not need to secure an advisor before applying or being admitted.",
+      "quote": "It is not necessary to secure an advisor prior to submission or admission",
+      "url": "https://www.math.lsu.edu/grad/admissionreqs"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantships and fellowships are decided by the department and are competitive.",
+      "quote": "Decisions on applications and financial support are competitive, and quantifiable data are only a part of the evaluation process",
+      "url": "https://www.math.lsu.edu/grad/faqs"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's degree is not needed to apply to the PhD.",
+      "quote": "Note that an MS is not required for application to the PhD program in Mathematics",
+      "url": "https://www.math.lsu.edu/grad/admissionreqs"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Department TOEFL minimum is 79 (internet-based).",
+      "quote": "On the TOEFL (Test of English as a Foreign Language), the following minimum scores are required for admission: 550 (paper-based exam) 213 (computer-based exam) 79 (internet-based exam)",
+      "url": "https://www.math.lsu.edu/grad/admissionreqs"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Department IELTS minimum is 6.5.",
+      "quote": "On the IELTS (International English Language Testing Service), the following minimum score is required for admission: 6.5",
+      "url": "https://www.math.lsu.edu/grad/admissionreqs"
+    },
+    "app_fee": {
+      "code": "70 USD",
+      "value": "The application fee is $70 for international applicants, and the Math Department cannot waive it.",
+      "quote": "The application fee is $70 for international applicants and $50 for U.S. citizens and permanent residents | it cannot be waived by the Math Department",
+      "url": "https://www.math.lsu.edu/grad/faqs"
+    }
+  },
+  "notes": "The department's applprocd page gives a January 15 priority deadline for fall admission and financial aid. Funding is decided by the department from first-round offers in February. The Graduate School's May 15 deadline is also stated on the FAQ."
+}

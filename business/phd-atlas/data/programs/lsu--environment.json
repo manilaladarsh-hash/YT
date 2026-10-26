@@ -1,0 +1,55 @@
+{
+  "id": "lsu--environment",
+  "university": "lsu",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Environmental Sciences",
+  "program_page": "https://www.lsu.edu/cce/academics/graduate/envs/envs-phd.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-15",
+      "value": "Materials submitted by May 15 guarantee fall admission; the spring deadline is October 15.",
+      "quote": "To guarantee admission for the fall semester, application materials should be submitted prior to May 15",
+      "url": "https://www.lsu.edu/cce/academics/graduate/envs/envs-admission.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE is required unless you hold a master's degree; the page prefers a score above 300.",
+      "quote": "GRE Score preferably above 300 OR a Master's degree",
+      "url": "https://www.lsu.edu/cce/academics/graduate/envs/envs-phd.php"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Students should identify an advisor and funding before they apply.",
+      "quote": "We ask that students do not submit an application until funding and an advisor has been identified",
+      "url": "https://www.lsu.edu/cce/academics/graduate/envs/envs-phd.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page says to discuss funding with faculty first; it does not say funding is guaranteed.",
+      "quote": "All students are encouraged to reach out to faculty whose research interests align with their own to discuss potential funding and advising",
+      "url": "https://www.lsu.edu/cce/academics/graduate/envs/envs-phd.php"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students from a bachelor's need 60 credit hours; students from a master's need 30.",
+      "quote": "Students entering with a Bachelor's Degree are required to take a total of 60 credit hours",
+      "url": "https://www.lsu.edu/cce/academics/graduate/envs/envs-phd.php",
+      "also": [
+        {
+          "quote": "Students entering with a Master’s Degree are required to take a total of 30 credit",
+          "url": "https://www.lsu.edu/cce/academics/graduate/envs/envs-phd.php"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page does not address this.",
+      "quote": "",
+      "url": "https://www.lsu.edu/cce/academics/graduate/envs/envs-phd.php"
+    }
+  },
+  "notes": "Requires statistics (C or higher) and a 3.0 GPA. The department's Oceanography & Coastal Sciences PhD is a separate programme with a separate page and is not saved here. The Environmental Sciences admission page lists GRE scores and TOEFL for international students."
+}

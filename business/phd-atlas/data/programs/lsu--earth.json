@@ -1,0 +1,43 @@
+{
+  "id": "lsu--earth",
+  "university": "lsu",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Geology & Geophysics",
+  "program_page": "https://www.lsu.edu/science/geology/student-resources/grad-students/application-process.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Fall applications are due January 1 to the Graduate School; do not apply for other semesters.",
+      "quote": "Fully completed applications must be submitted to the LSU Graduate School by the deadlines listed below for the semester applying | Fall: January 1",
+      "url": "https://www.lsu.edu/science/geology/student-resources/grad-students/application-process.php",
+      "inferred": "year"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Contact a faculty member first to gain a potential advisor upon admission.",
+      "quote": "attempt to contact a Department Faculty Member in order to gain a potential advisor upon admission into the program",
+      "url": "https://www.lsu.edu/science/geology/student-resources/grad-students/application-process.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page does not address this.",
+      "quote": "",
+      "url": "https://www.lsu.edu/science/geology/student-resources/grad-students/application-process.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department page does not address this.",
+      "quote": "",
+      "url": "https://www.lsu.edu/science/geology/student-resources/grad-students/application-process.php"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The department page does not address this.",
+      "quote": "",
+      "url": "https://www.lsu.edu/science/geology/student-resources/grad-students/application-process.php"
+    }
+  },
+  "notes": "The department's admissions pages (graduate_admissions/index.php and faqs.php) return 404 on the official site, so the application-process page is used. Funding and PhD entry route are not stated on the degree page. Admission is competitive: 'meeting the minimum requirements does not guarantee admission'."
+}

@@ -1,0 +1,74 @@
+{
+  "id": "lsu--chemeng",
+  "university": "lsu",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Department of Chemical Engineering",
+  "program_page": "https://www.lsu.edu/eng/che/academics/graduate/admissions.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-15",
+      "value": "The fall deadline is May 15, but the department recommends January 1 for the best chance; it starts admitting in early February.",
+      "quote": "Our deadline for fall admission is May 15, but we start admitting students in early",
+      "url": "https://www.lsu.edu/eng/che/academics/graduate/faqs.php",
+      "inferred": "year",
+      "time_sensitive": "2027-01-01",
+      "also": [
+        {
+          "quote": "For fall applicants, we recommend that the application be submitted no later than January 1 in order to have the best chance of admission",
+          "url": "https://www.lsu.edu/eng/che/academics/graduate/faqs.php"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional for both programmes; an outstanding score can help.",
+      "quote": "GRE scores are optional for both programs",
+      "url": "https://www.lsu.edu/eng/che/academics/graduate/admissions.php"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Faculty do not admit applicants directly; students submit a ranked list of projects once the semester begins.",
+      "quote": "Individual faculty members do not admit applicants directly to their groups",
+      "url": "https://www.lsu.edu/eng/che/academics/graduate/admissions.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page says a large number of students get aid, which is not the same as most or all being funded.",
+      "quote": "we can say that a large number of our students are granted financial aid",
+      "url": "https://www.lsu.edu/eng/che/academics/graduate/faqs.php"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is the entry requirement, and PhD applicants are asked to plan how they will combine coursework and research.",
+      "quote": "Bachelor's degree from an accredited U.S. institution or an equivalent foreign degree",
+      "url": "https://www.lsu.edu/eng/che/academics/graduate/admissions.php",
+      "also": [
+        {
+          "quote": "If you are applying to the PhD program, discuss how will you manage the academic demand of graduate school while completing research",
+          "url": "https://www.lsu.edu/eng/che/academics/graduate/admissions.php"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Department TOEFL minimum is 79 (internet-based), matching the Graduate School; the department prefers 105 but does not require it.",
+      "quote": "a minimum TOEFL score of 550 (paper based exam), 213 (computer based exam), or 79 (internet based exam)",
+      "url": "https://www.lsu.edu/eng/che/academics/graduate/faqs.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Department IELTS minimum is 6.5.",
+      "quote": "The minimum IELTS requirement is 6.5",
+      "url": "https://www.lsu.edu/eng/che/academics/graduate/admissions.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page does not address this.",
+      "quote": "",
+      "url": "https://www.lsu.edu/eng/che/academics/graduate/admissions.php"
+    }
+  },
+  "notes": "The admissions page shows a Fall 2026 table (May 1 international); that is a past cycle and is not used. Entry is through a department committee that reviews GPA, undergraduate preparation and recommendation letters."
+}

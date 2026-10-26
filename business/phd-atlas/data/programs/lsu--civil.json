@@ -1,0 +1,79 @@
+{
+  "id": "lsu--civil",
+  "university": "lsu",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil & Environmental Engineering",
+  "program_page": "https://www.lsu.edu/eng/cee/academics/graduate/phd-civil-engineering.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The department follows the Graduate School's deadlines, which are shown only in a split table.",
+      "quote": "The Department of Civil & Environmental Engineering follows the application deadlines set forth by the LSU Graduate School",
+      "url": "https://www.lsu.edu/eng/cee/academics/graduate/gradfaq.php"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The department says its application fee is mandatory and cannot be waived.",
+      "quote": "All applications require an application fee. This fee is mandatory and cannot be waived",
+      "url": "https://www.lsu.edu/eng/cee/academics/graduate/index.php"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Department lists TOEFL 79 (internet-based) as the Graduate School minimum.",
+      "quote": "Internet-Based Minimum Score: 79",
+      "url": "https://www.lsu.edu/eng/cee/academics/graduate/index.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Department lists IELTS minimum 6.5.",
+      "quote": "IELTS Minimum Score: 6.5",
+      "url": "https://www.lsu.edu/eng/cee/academics/graduate/index.php"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "The department's copy of the rule exempts degrees from universities where English is the primary language of instruction; the Graduate School page gives a narrower country rule, so this is flagged.",
+      "quote": "from a university where English is the primary language of instruction are exempt from the English proficiency requirement",
+      "url": "https://www.lsu.edu/eng/cee/academics/graduate/index.php",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "An applicant whose native language is not English and/or who has been educated outside of the U.S. in a country or province where English is not the only official language must demonstrate proof of English proficiency",
+          "url": "https://www.lsu.edu/graduateschool/admissions/international_admissions.php"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "The department recommends contacting faculty for funding; advisors are assigned after enrolment.",
+      "quote": "we recommend contacting faculty whose research interests align with yours",
+      "url": "https://www.lsu.edu/eng/cee/academics/graduate/gradfaq.php",
+      "also": [
+        {
+          "quote": "Prior to registration for the first time (or upon re-entering), a new student should first meet with their assigned faculty advisor",
+          "url": "https://www.lsu.edu/eng/cee/academics/graduate/index.php"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Funding decisions rest with the faculty who hold the grants; the page states no guarantee.",
+      "quote": "Decisions regarding funding are made by the faculty in charge of the grants from which our graduate assistants are paid",
+      "url": "https://www.lsu.edu/eng/cee/academics/graduate/gradfaq.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page does not address this.",
+      "quote": "",
+      "url": "https://www.lsu.edu/eng/cee/academics/graduate/phd-civil-engineering.php"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The department page does not address this.",
+      "quote": "",
+      "url": "https://www.lsu.edu/eng/cee/academics/graduate/phd-civil-engineering.php"
+    }
+  },
+  "notes": "PhD requirements: a Qualifying Examination, and a peer-reviewed manuscript accepted before the final defense (phd-civil-engineering.php). Funding for graduate assistants depends on grant-holding faculty."
+}

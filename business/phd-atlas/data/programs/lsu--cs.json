@@ -1,0 +1,68 @@
+{
+  "id": "lsu--cs",
+  "university": "lsu",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Division of Computer Science and Engineering",
+  "program_page": "https://www.lsu.edu/eng/cse/programs/graduate_program/index.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The priority deadline for regular admission with full financial consideration is January 15 for fall; late admission closes May 15.",
+      "quote": "Priority deadlines for regular admission with full financial consideration: | Fall Semester: January 15",
+      "url": "https://www.lsu.edu/eng/cse/programs/graduate_program/index.php",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15",
+      "also": [
+        {
+          "quote": "Final deadlines for late admission: | Fall Semester: May 15",
+          "url": "https://www.lsu.edu/eng/cse/programs/graduate_program/index.php"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional for both the MS and PhD programmes.",
+      "quote": "GRE scores are optional for both programs",
+      "url": "https://www.lsu.edu/eng/cse/programs/graduate_program/index.php"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The page lists a master's degree for PhD applicants, with 'and/or' wording.",
+      "quote": "is required for MS applicants (and/or a master’s degree for the PhD program)",
+      "url": "https://www.lsu.edu/eng/cse/programs/graduate_program/index.php"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Department TOEFL minimum is 79 (internet-based) or 213 (computer-based).",
+      "quote": "Foreign applicants must submit TOEFL scores of at least 213 (computer-based test) or 79 (internet-based test), or an IELTS score of at least 6.5",
+      "url": "https://www.lsu.edu/eng/cse/programs/graduate_program/index.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Department IELTS minimum is 6.5.",
+      "quote": "Foreign applicants must submit TOEFL scores of at least 213 (computer-based test) or 79 (internet-based test), or an IELTS score of at least 6.5",
+      "url": "https://www.lsu.edu/eng/cse/programs/graduate_program/index.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page does not address this.",
+      "quote": "",
+      "url": "https://www.lsu.edu/eng/cse/programs/graduate_program/index.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department page does not address this.",
+      "quote": "",
+      "url": "https://www.lsu.edu/eng/cse/programs/graduate_program/index.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department page does not address this.",
+      "quote": "",
+      "url": "https://www.lsu.edu/eng/cse/programs/graduate_program/index.php"
+    }
+  },
+  "notes": "Minimum undergraduate GPA of 3.0 is stated. Admission requires acceptance by both the Graduate School and the division. The financial support page has no funding terms, so funding is Not stated. The division's page says a split between PhD and MSc students of about 100 total."
+}

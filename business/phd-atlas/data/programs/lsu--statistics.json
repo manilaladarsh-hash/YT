@@ -1,0 +1,55 @@
+{
+  "id": "lsu--statistics",
+  "university": "lsu",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Experimental Statistics",
+  "program_page": "https://www.lsu.edu/agriculture/exst/programs/doctorate.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page gives no deadline.",
+      "quote": "",
+      "url": "https://www.lsu.edu/agriculture/exst/programs/doctorate.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page sets no subject-test rule.",
+      "quote": "",
+      "url": "https://www.lsu.edu/agriculture/exst/programs/doctorate.php"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The page says the PhD is open to MS holders in statistics-related programs, but its eligibility text also says BS holders; flagged.",
+      "quote": "The Doctor of Philosophy in Experimental Statistics is open to students holding an MS in statistics-related degree programs",
+      "url": "https://www.lsu.edu/agriculture/exst/programs/doctorate.php",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "The Doctor of Philosophy in Experimental Statistics is open to students holding a BS or MS in statistics-related degree programs",
+          "url": "https://www.lsu.edu/agriculture/exst/programs/doctorate.php"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate assistantships are awarded competitively at $30,667 for twelve months, and are normally supported for at most two calendar years.",
+      "quote": "Graduate assistantships, awarded competitively with the approval of the department chair, pay $30,667 for twelve months per year",
+      "url": "https://www.lsu.edu/agriculture/exst/programs/doctorate.php",
+      "also": [
+        {
+          "quote": "The department normally will provide assistantship support for a maximum of two calendar years",
+          "url": "https://www.lsu.edu/agriculture/exst/programs/doctorate.php"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must be agreed before admission.",
+      "quote": "",
+      "url": "https://www.lsu.edu/agriculture/exst/programs/doctorate.php"
+    }
+  },
+  "notes": "Admission follows the Graduate School rules. The page says GRE scores and prior grades are the main evidence of aptitude, but gives no GRE rule. The university record says the GRE is not required, so it is inherited. The math prerequisite is multidimensional calculus and linear algebra."
+}

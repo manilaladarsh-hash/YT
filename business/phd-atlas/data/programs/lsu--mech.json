@@ -1,0 +1,72 @@
+{
+  "id": "lsu--mech",
+  "university": "lsu",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical & Industrial Engineering",
+  "program_page": "https://www.lsu.edu/eng/mie/graduate/me/pme-program.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The department follows the Graduate School's deadlines, which are shown only in a split table.",
+      "quote": "Deadlines for application to the ME Graduate Program follow those set by LSU's Pinkie Gordon Lane Graduate School",
+      "url": "https://www.lsu.edu/eng/mie/graduate/me/application-guidelines.php"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The department does not give routine fee waivers; exceptions are possible for exceptional academic credentials.",
+      "quote": "As resources are limited, the department does not offer routine application fee waivers",
+      "url": "https://www.lsu.edu/eng/mie/graduate/me/application-guidelines.php",
+      "also": [
+        {
+          "quote": "exceptions may be made for applicants that are able to document exceptional academic credentials",
+          "url": "https://www.lsu.edu/eng/mie/graduate/me/application-guidelines.php"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE scores are not required, but the department will consider them and highly encourages them.",
+      "quote": "Although GRE scores are not required, they will be considered in the review process and thus are highly encouraged",
+      "url": "https://www.lsu.edu/eng/mie/graduate/me/application-guidelines.php"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Prospective students are strongly encouraged to contact professors; funded positions depend on a major professor.",
+      "quote": "Prospective students are strongly encouraged to reach out to professors whose research aligns with their interests",
+      "url": "https://www.lsu.edu/eng/mie/graduate/me/financial-aid.php",
+      "also": [
+        {
+          "quote": "it is imperative to reach out to professors before initiating the application process",
+          "url": "https://www.lsu.edu/eng/mie/graduate/me/financial-aid.php"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Acceptance does not ensure funding; the department offers a limited number of competitive nine-month PhD teaching fellowships.",
+      "quote": "For incoming PhD students, the department offers a limited number of nine-month teaching fellowships through a competitive selection process",
+      "url": "https://www.lsu.edu/eng/mie/graduate/me/financial-aid.php",
+      "also": [
+        {
+          "quote": "acceptance into the ME graduate program does not automatically ensure funding",
+          "url": "https://www.lsu.edu/eng/mie/graduate/me/financial-aid.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A PhD can start from a bachelor's degree (36 hours of coursework) or from a master's (18 hours of coursework).",
+      "quote": "directly from a Bachelor of Science degree or at least 18 hours of approved coursework from a Master of Science degree",
+      "url": "https://www.lsu.edu/eng/mie/graduate/me/pme-program.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page does not address this.",
+      "quote": "",
+      "url": "https://www.lsu.edu/eng/mie/graduate/me/pme-program.php"
+    }
+  },
+  "notes": "Department GRE rule is 'recommended' and the department writing sample is required, which is not a field here. The department decides on admissions about a month after the deadline."
+}

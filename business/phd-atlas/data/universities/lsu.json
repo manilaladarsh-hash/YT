@@ -1,0 +1,54 @@
+{
+  "id": "lsu",
+  "institution": "Louisiana State University",
+  "country": "USA",
+  "region": "Louisiana",
+  "grad_page": "https://www.lsu.edu/graduateschool/admissions/before_you_apply.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "70 USD",
+      "value": "The Graduate School application processing fee is $70 for international applicants and is non-refundable.",
+      "quote": "The Pinkie Gordon Lane Graduate School application processing fee for domestic and permanent resident applicants is $50 and $70 for international applicants",
+      "url": "https://www.lsu.edu/graduateschool/admissions/before_you_apply.php",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Complete the online application for admission and pay the $50 non-refundable application fee.",
+          "url": "https://www.lsu.edu/admissions/apply/international.php"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Graduate School fee waivers are limited and open to eligible domestic applicants; international students do not qualify.",
+      "quote": "LSU offers a limited number of fee waiver options on a first-come, first-serve basis to eligible domestic applicants. International students do not qualify for Graduate School application fee waivers",
+      "url": "https://www.lsu.edu/graduateschool/admissions/before_you_apply.php"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Graduate School does not require GRE or other standardized tests; departments set their own rules.",
+      "quote": "The Pinkie Gordon Lane Graduate School does not require the submission of standardized admission test scores",
+      "url": "https://www.lsu.edu/graduateschool/admissions/before_you_apply.php"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "TOEFL iBT minimum of 79 (internet-based) for graduate admission.",
+      "quote": "The following minimum scores are required for admission: 79 (internet-based exam)",
+      "url": "https://www.lsu.edu/graduateschool/admissions/international_admissions.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS minimum of 6.5 for graduate admission.",
+      "quote": "The following minimum score is required for admission: 6.5",
+      "url": "https://www.lsu.edu/graduateschool/admissions/international_admissions.php"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The English rule does not name India, so the exemption is not confirmed.",
+      "quote": "",
+      "url": "https://www.lsu.edu/graduateschool/admissions/international_admissions.php"
+    }
+  },
+  "notes": "Graduate School rules. The international fee and waiver rule come from before_you_apply.php. The requirements-deadlines table is split across lines, so no deadline is recorded here. The undergraduate international page (admissions/apply/international.php) gives $50, which is flagged as a conflict. The Graduate School deadline table is split and not quoted."
+}

@@ -1,0 +1,74 @@
+{
+  "id": "lsu--biology",
+  "university": "lsu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://www.lsu.edu/science/biosci/programs/graduate/prospective-students.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-03",
+      "value": "Submit all material by January 3 for fall admission; the department encourages submitting by December 17.",
+      "quote": "To ensure full consideration of your application, please submit all material by September 28 (for Spring admission) or January 3rd (for Fall admission)",
+      "url": "https://www.lsu.edu/science/biosci/programs/graduate/prospective-students.php",
+      "inferred": "year",
+      "time_sensitive": "2026-12-17",
+      "also": [
+        {
+          "quote": "Applications may stack up over the winter holiday, so earlier submission for Fall admission (by 17 December) is encouraged",
+          "url": "https://www.lsu.edu/science/biosci/programs/graduate/prospective-students.php"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly encouraged to contact faculty before applying.",
+      "quote": "We strongly encourage you to contact specific professors who match your interests before applying",
+      "url": "https://www.lsu.edu/science/biosci/programs/graduate/prospective-students.php"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "All accepted students can receive TA support for up to five years, although the department calls its awards competitive.",
+      "quote": "All accepted students can receive support from the department as a Teaching Assistant for up to 5 years assuming that they continue to make progress toward their degree",
+      "url": "https://www.lsu.edu/science/biosci/programs/graduate/prospective-students.php",
+      "also": [
+        {
+          "quote": "All awards are competitive",
+          "url": "https://www.lsu.edu/science/biosci/programs/graduate/biological-sciences.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Qualified students usually go straight into the PhD without first earning a master's.",
+      "quote": "Qualified students usually enter the Ph.D. program without first earning a M.S. degree",
+      "url": "https://www.lsu.edu/science/biosci/programs/graduate/biological-sciences.php"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "Department requires a TOEFL iBT of 100 (or equivalent) for international applicants without an English-based degree.",
+      "quote": "Applicants must score at least 100 (iBT) or equivalent on the TOEFL (for international students who have not received a degree from an English-based institution) to be considered for admission",
+      "url": "https://www.lsu.edu/science/biosci/programs/graduate/biological-sciences.php"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exemption depends on having a degree from an English-based institution; the page does not define that term.",
+      "quote": "for international students who have not received a degree from an English-based institution",
+      "url": "https://www.lsu.edu/science/biosci/programs/graduate/biological-sciences.php"
+    },
+    "app_fee": {
+      "code": "70 USD",
+      "value": "The department's fee for nonimmigrant applicants is $70.",
+      "quote": "A non-refundable fee of $50.00 (U.S.) and $70.00 (nonimmigrant)",
+      "url": "https://www.lsu.edu/science/biosci/programs/graduate/biological-sciences.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page does not address this.",
+      "quote": "",
+      "url": "https://www.lsu.edu/science/biosci/programs/graduate/prospective-students.php"
+    }
+  },
+  "notes": "The department lists Biochemistry and Biological Sciences degrees. Teaching assistantships are provided for up to five years; the minimum PhD stipend is stated as $23,000 over nine months. The GRE is no longer required (page statements dated 2020 onward)."
+}
