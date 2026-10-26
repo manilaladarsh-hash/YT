@@ -1,0 +1,55 @@
+{
+  "id": "illinoistech--mech",
+  "university": "illinoistech",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Mechanical, Materials, and Aerospace Engineering",
+  "program_page": "https://catalog.iit.edu/graduate/colleges/engineering/mmae/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-31",
+      "value": "Fall priority deadline is January 31 for admission; Priority 2 is April 15. The page gives no department-specific deadline.",
+      "quote": "Fall Term Priority# 1 January 31",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/admission-dates-and-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Department catalog minimum for MMAE graduate applicants is 300 quantitative plus verbal and 3.0 analytical writing.",
+      "quote": "300 (quantitative + verbal), 3.0 (analytical writing)",
+      "url": "https://catalog.iit.edu/graduate/colleges/engineering/mmae/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No official page mentions a subject GRE test for this field.",
+      "quote": "",
+      "url": "https://catalog.iit.edu/graduate/colleges/engineering/mmae/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Department catalog minimum is TOEFL iBT 80 (internet-based) or 550 (paper-based).",
+      "quote": "80/550 (internet-based/paper-based test scores)",
+      "url": "https://catalog.iit.edu/graduate/colleges/engineering/mmae/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No official page says a supervisor must be agreed before admission.",
+      "quote": "",
+      "url": "https://catalog.iit.edu/graduate/colleges/engineering/mmae/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Departmental funding goes to a limited number of applicants at admission, per the Graduate College.",
+      "quote": "Departmental funding is awarded to a limited number of highly qualified, full-time students at the time of admission.",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/admission-dates-and-deadlines"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Admission normally requires a bachelor's degree in mechanical, aerospace, metallurgical, or materials engineering.",
+      "quote": "normally requires a bachelor’s degree from an accredited institution in mechanical engineering, aerospace engineering, metallurgical engineering, materials engineering",
+      "url": "https://catalog.iit.edu/graduate/colleges/engineering/mmae/"
+    }
+  },
+  "notes": "The MMAE catalog minimums cover its graduate programs; the mechanical and aerospace PhD has no separate admission text."
+}

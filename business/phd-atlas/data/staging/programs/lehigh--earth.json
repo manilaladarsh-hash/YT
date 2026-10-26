@@ -1,0 +1,81 @@
+{
+  "id": "lehigh--earth",
+  "university": "lehigh",
+  "field": "earth",
+  "also_fields": [
+    "environment"
+  ],
+  "department": "Earth & Environmental Sciences",
+  "program_page": "https://ees.cas.lehigh.edu/graduate/admissions",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The Arts & Sciences application fee is $50, and it is not refunded.",
+      "quote": "$50 non-refundable application fee",
+      "url": "https://cas.lehigh.edu/graduate/admissions/application-requirements-deadlines"
+    },
+    "toefl_min": {
+      "code": "94",
+      "value": "Arts & Sciences sets a TOEFL iBT composite of 94 (old scale).",
+      "quote": "College of Arts & Sciences ... Composite: 94",
+      "url": "https://www2.lehigh.edu/admissions/english-proficiency-requirement-for-graduate-studies",
+      "also": [
+        {
+          "quote": "Our graduate program follows the College of Arts and Sciences English Language Proficiency Policy.",
+          "url": "https://wordpress.lehigh.edu/physics/graduate/application-requirements/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Arts & Sciences sets an IELTS overall band of 6.5.",
+      "quote": "College of Arts & Sciences ... Overall: 6.5",
+      "url": "https://www2.lehigh.edu/admissions/english-proficiency-requirement-for-graduate-studies"
+    },
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Financial aid consideration needs completed applications by January 1; regular admission runs to July 1.",
+      "quote": "to be considered for financial aid, completed applications must be received by the College of Arts and Sciences Graduate Programs Office by January 1",
+      "url": "https://ees.cas.lehigh.edu/graduate/admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required for the EES PhD.",
+      "quote": "GRE scores are not required as part of your application for graduate studies in our department",
+      "url": "https://ees.cas.lehigh.edu/graduate/admissions"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "GRE scores are not required for the EES PhD.",
+      "quote": "GRE scores are not required as part of your application for graduate studies in our department",
+      "url": "https://ees.cas.lehigh.edu/graduate/admissions"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admission depends on support from one or more EES faculty, so you should contact faculty before applying.",
+      "quote": "support by one or more EES faculty advocates",
+      "url": "https://ees.cas.lehigh.edu/graduate/admissions",
+      "also": [
+        {
+          "quote": "find one or two faculty members you are interested in working with",
+          "url": "https://ees.cas.lehigh.edu/graduate/admissions"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantships, scholarships and fellowships are awarded on a competitive basis.",
+      "quote": "awarded to applicants on a competitive basis",
+      "url": "https://ees.cas.lehigh.edu/graduate/prospective-students"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants typically hold a science bachelor's degree, though work experience is also considered.",
+      "quote": "Typically, applicants to the Earth & Environmental Sciences (EES) graduate program have earned science baccalaureate degrees",
+      "url": "https://ees.cas.lehigh.edu/graduate/admissions"
+    }
+  },
+  "notes": "Arts & Sciences program. The department name covers environmental science, so the environment field is listed here."
+}

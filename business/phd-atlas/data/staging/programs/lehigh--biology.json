@@ -1,0 +1,73 @@
+{
+  "id": "lehigh--biology",
+  "university": "lehigh",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Biological Sciences",
+  "program_page": "https://bio.cas.lehigh.edu/graduate/phd-program-guidelines",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The Arts & Sciences application fee is $50, and it is not refunded.",
+      "quote": "$50 non-refundable application fee",
+      "url": "https://cas.lehigh.edu/graduate/admissions/application-requirements-deadlines"
+    },
+    "toefl_min": {
+      "code": "94",
+      "value": "Arts & Sciences sets a TOEFL iBT composite of 94 (old scale).",
+      "quote": "College of Arts & Sciences ... Composite: 94",
+      "url": "https://www2.lehigh.edu/admissions/english-proficiency-requirement-for-graduate-studies",
+      "also": [
+        {
+          "quote": "Our graduate program follows the College of Arts and Sciences English Language Proficiency Policy.",
+          "url": "https://wordpress.lehigh.edu/physics/graduate/application-requirements/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Arts & Sciences sets an IELTS overall band of 6.5.",
+      "quote": "College of Arts & Sciences ... Overall: 6.5",
+      "url": "https://www2.lehigh.edu/admissions/english-proficiency-requirement-for-graduate-studies"
+    },
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Applications and supporting materials are due January 1 for fall enrollment.",
+      "quote": "Applications and all supporting materials are due by the following deadlines: ... Ph.D. Biology - fall enrollment",
+      "url": "https://cas.lehigh.edu/graduate/degrees/biological-sciences",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional for the Biology PhD, as for most Arts & Sciences programs.",
+      "quote": "It is optional for all other programs.",
+      "url": "https://cas.lehigh.edu/graduate/admissions/faqs"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students join the program first and rotate through labs before choosing a major advisor.",
+      "quote": "The Pre-Candidacy Phase includes Course Work, Lab Rotations and Teaching or Research Assistantships",
+      "url": "https://bio.cas.lehigh.edu/graduate/phd-program-guidelines",
+      "also": [
+        {
+          "quote": "Graduate students are strongly encouraged to rotate among different labs during the Pre-Candidacy Phase",
+          "url": "https://bio.cas.lehigh.edu/graduate/phd-program-guidelines"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The department commits to a 12-month stipend for up to five years for students in good standing.",
+      "quote": "committed to providing a competitive 12-month stipend for up to five years for all graduate students in good standing",
+      "url": "https://bio.cas.lehigh.edu/graduate/phd-program-guidelines"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The PhD takes 72 credits beyond a bachelor's or 48 beyond a master's.",
+      "quote": "Admission to Candidacy requires 72 credits beyond the Bachelor’s degree or 48 credits beyond the Master’s degree",
+      "url": "https://bio.cas.lehigh.edu/graduate/phd-program-guidelines"
+    }
+  },
+  "notes": "Arts & Sciences program. The department page gives the stipend policy; no biology-specific GRE subject test is stated."
+}

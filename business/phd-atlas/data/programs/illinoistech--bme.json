@@ -1,0 +1,49 @@
+{
+  "id": "illinoistech--bme",
+  "university": "illinoistech",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Biomedical Engineering",
+  "program_page": "https://catalog.iit.edu/graduate/colleges/engineering/bme/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-31",
+      "value": "Fall priority deadline is January 31 for admission; Priority 2 is April 15. The page gives no department-specific deadline.",
+      "quote": "Fall Term Priority# 1 January 31",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/admission-dates-and-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Department catalog minimum is 1800 combined, 1200 quantitative plus verbal, and 3.0 analytical writing.",
+      "quote": "1800 (combined), 1200 (quantitative + verbal), 3.0 (analytical writing)",
+      "url": "https://catalog.iit.edu/graduate/colleges/engineering/bme/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No official page mentions a subject GRE test for this field.",
+      "quote": "",
+      "url": "https://catalog.iit.edu/graduate/colleges/engineering/bme/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No official page says a supervisor must be agreed before admission.",
+      "quote": "",
+      "url": "https://catalog.iit.edu/graduate/colleges/engineering/bme/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Departmental funding goes to a limited number of applicants at admission, per the Graduate College.",
+      "quote": "Departmental funding is awarded to a limited number of highly qualified, full-time students at the time of admission.",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/admission-dates-and-deadlines"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The BME catalog does not say whether a bachelor's or master's is needed for the PhD.",
+      "quote": "",
+      "url": "https://catalog.iit.edu/graduate/colleges/engineering/bme/"
+    }
+  },
+  "notes": "The department catalog states no TOEFL or IELTS rule, so the university's English minimums apply."
+}

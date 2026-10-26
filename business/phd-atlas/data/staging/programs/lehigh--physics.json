@@ -1,0 +1,85 @@
+{
+  "id": "lehigh--physics",
+  "university": "lehigh",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Physics",
+  "program_page": "https://wordpress.lehigh.edu/physics/graduate",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The Arts & Sciences application fee is $50, and it is not refunded.",
+      "quote": "$50 non-refundable application fee",
+      "url": "https://cas.lehigh.edu/graduate/admissions/application-requirements-deadlines"
+    },
+    "toefl_min": {
+      "code": "94",
+      "value": "Arts & Sciences sets a TOEFL iBT composite of 94 (old scale).",
+      "quote": "College of Arts & Sciences ... Composite: 94",
+      "url": "https://www2.lehigh.edu/admissions/english-proficiency-requirement-for-graduate-studies",
+      "also": [
+        {
+          "quote": "Our graduate program follows the College of Arts and Sciences English Language Proficiency Policy.",
+          "url": "https://wordpress.lehigh.edu/physics/graduate/application-requirements/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Arts & Sciences sets an IELTS overall band of 6.5.",
+      "quote": "College of Arts & Sciences ... Overall: 6.5",
+      "url": "https://www2.lehigh.edu/admissions/english-proficiency-requirement-for-graduate-studies"
+    },
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Full consideration for Fall admission is January 15; later applications may be considered if space and funding remain.",
+      "quote": "The Physics Department’s full-consideration deadline for Fall admission is January 15 of each year",
+      "url": "https://wordpress.lehigh.edu/physics/graduate/application-requirements/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE General Test is optional for the physics PhD, though the department encourages it.",
+      "quote": "The GRE General Test and the Physics GRE Subject Test are optional; neither is required for admission to the Physics MS or PhD programs",
+      "url": "https://wordpress.lehigh.edu/physics/graduate/application-requirements/"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Physics GRE Subject Test is optional and not required for admission.",
+      "quote": "The GRE General Test and the Physics GRE Subject Test are optional; neither is required for admission to the Physics MS or PhD programs",
+      "url": "https://wordpress.lehigh.edu/physics/graduate/application-requirements/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students are admitted to the PhD generally and pair with advisors after their first two semesters.",
+      "quote": "Students admitted to our PhD program are not expected to immediately work with a specific advisor",
+      "url": "https://wordpress.lehigh.edu/physics/graduate",
+      "also": [
+        {
+          "quote": "After the first two semesters of classes, students are paired with temporary advisors",
+          "url": "https://wordpress.lehigh.edu/physics/graduate"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every admitted PhD student gets TA, RA or fellowship support, and tuition for coursework is covered.",
+      "quote": "All students admitted to the physics PhD program are supported financially",
+      "url": "https://wordpress.lehigh.edu/physics/graduate",
+      "also": [
+        {
+          "quote": "the tuition for their coursework will also be covered",
+          "url": "https://wordpress.lehigh.edu/physics/graduate"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants with a bachelor's degree can apply straight to the PhD and earn an MS along the way.",
+      "quote": "Students who have a bachelor’s degree can apply directly to the Lehigh PhD program",
+      "url": "https://wordpress.lehigh.edu/physics/graduate"
+    }
+  },
+  "notes": "College of Arts & Sciences program. The physics page says it follows the Arts & Sciences English policy."
+}

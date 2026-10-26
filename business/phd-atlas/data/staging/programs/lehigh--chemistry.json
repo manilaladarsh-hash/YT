@@ -1,0 +1,73 @@
+{
+  "id": "lehigh--chemistry",
+  "university": "lehigh",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Chemistry",
+  "program_page": "https://chemistry.cas.lehigh.edu/graduate/graduate-faqs",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Apply by January 1; later applications may be considered if space permits, but may lose scholarships.",
+      "quote": "Applications received after the Jan. 1 deadline for admission",
+      "url": "https://chemistry.cas.lehigh.edu/graduate/graduate-faqs",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The application fee is $50, set by the University.",
+      "quote": "Yes, the fee is $50",
+      "url": "https://chemistry.cas.lehigh.edu/graduate/graduate-faqs"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The department no longer considers GRE scores for any applicant.",
+      "quote": "we no longer consider GRE scores",
+      "url": "https://chemistry.cas.lehigh.edu/graduate/graduate-faqs"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "The department no longer considers GRE scores, so no subject test is used.",
+      "quote": "we no longer consider GRE scores",
+      "url": "https://chemistry.cas.lehigh.edu/graduate/graduate-faqs"
+    },
+    "toefl_min": {
+      "code": "85",
+      "value": "The department FAQ sets a TOEFL iBT composite of at least 85.",
+      "quote": "The TOEFL composite score should be at least 85.",
+      "url": "https://chemistry.cas.lehigh.edu/graduate/graduate-faqs"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department FAQ sets an IELTS band of at least 6.5.",
+      "quote": "The IELTS band score should be at least 6.5.",
+      "url": "https://chemistry.cas.lehigh.edu/graduate/graduate-faqs"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by the committee, and students join a research group only after matriculating.",
+      "quote": "all students, whichever professor they eventually work for, must first apply to and be accepted into the program",
+      "url": "https://chemistry.cas.lehigh.edu/graduate/graduate-faqs",
+      "also": [
+        {
+          "quote": "Individual professors do not make decisions regarding admissions",
+          "url": "https://chemistry.cas.lehigh.edu/graduate/graduate-faqs"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Students in good standing get full tuition, health care and a stipend through TA, RA or fellowship awards.",
+      "quote": "Students in good standing are provided full tuition, health care benefits and stipend support for living expenses",
+      "url": "https://chemistry.cas.lehigh.edu/graduate/graduate-faqs"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's in chemistry or a related field is enough, but applicants with an Indian degree must also hold a master's (4-year Indian biotech degrees excepted).",
+      "quote": "A Master’s degree is not required, with one exception | applicants who have received their degree from an institution in India must have also completed a Master's degree",
+      "url": "https://chemistry.cas.lehigh.edu/graduate/graduate-faqs"
+    }
+  },
+  "notes": "The department FAQ sets TOEFL 85 and IELTS 6.5, below the Arts & Sciences table (TOEFL 94), so the department value is used; confirm with the department. The FAQ's fee-waiver link refers to a 2025 open house that has passed."
+}

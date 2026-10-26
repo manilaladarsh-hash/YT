@@ -1,0 +1,80 @@
+{
+  "id": "lehigh--math",
+  "university": "lehigh",
+  "field": "math",
+  "also_fields": [],
+  "department": "Mathematics",
+  "program_page": "https://math.cas.lehigh.edu/graduate",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The Arts & Sciences application fee is $50, and it is not refunded.",
+      "quote": "$50 non-refundable application fee",
+      "url": "https://cas.lehigh.edu/graduate/admissions/application-requirements-deadlines"
+    },
+    "toefl_min": {
+      "code": "94",
+      "value": "Arts & Sciences sets a TOEFL iBT composite of 94 (old scale).",
+      "quote": "College of Arts & Sciences ... Composite: 94",
+      "url": "https://www2.lehigh.edu/admissions/english-proficiency-requirement-for-graduate-studies",
+      "also": [
+        {
+          "quote": "Our graduate program follows the College of Arts and Sciences English Language Proficiency Policy.",
+          "url": "https://wordpress.lehigh.edu/physics/graduate/application-requirements/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Arts & Sciences sets an IELTS overall band of 6.5.",
+      "quote": "College of Arts & Sciences ... Overall: 6.5",
+      "url": "https://www2.lehigh.edu/admissions/english-proficiency-requirement-for-graduate-studies"
+    },
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Apply by January 1; the department considers later M.S. applications only.",
+      "quote": "The deadline to be considered for admission is January 1",
+      "url": "https://math.cas.lehigh.edu/graduate/faqs",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE General Test is not required but recommended.",
+      "quote": "The GRE General Test is not required, but they are recommended.",
+      "url": "https://math.cas.lehigh.edu/graduate/faqs"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The GRE Mathematics Subject Test is helpful but less important than the General Test.",
+      "quote": "The GRE Mathematics Subject Test score is also helpful, but it is less important than the General Test scores.",
+      "url": "https://math.cas.lehigh.edu/graduate/faqs"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department pages do not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://math.cas.lehigh.edu/graduate"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD students are funded through TA, RA or fellowship support, with tuition remission and a stipend.",
+      "quote": "PhD students are funded through teaching assistantships, research assistantships, or fellowships",
+      "url": "https://math.cas.lehigh.edu/graduate/faqs"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's degree is required, and most applicants hold a bachelor's or master's in mathematics.",
+      "quote": "A bachelor's degree or an equivalent degree is required",
+      "url": "https://math.cas.lehigh.edu/graduate/faqs",
+      "also": [
+        {
+          "quote": "Most applicants to our Ph.D. programs have a bachelor's or master's degree in mathematics",
+          "url": "https://math.cas.lehigh.edu/graduate/faqs"
+        }
+      ]
+    }
+  },
+  "notes": "One department offers the PhD in Mathematics and the PhD in Applied Mathematics. The Statistics and Data Science degree is an M.S. only.",
+  "name": "PhD in Mathematics; PhD in Applied Mathematics"
+}

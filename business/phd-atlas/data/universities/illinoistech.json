@@ -1,0 +1,65 @@
+{
+  "id": "illinoistech",
+  "institution": "Illinois Institute of Technology",
+  "country": "USA",
+  "region": "Illinois",
+  "grad_page": "https://www.iit.edu/admissions-aid/graduate-admission",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The catalog says a non-refundable application fee is required, but no official page fetched gives the amount.",
+      "quote": "A non-refundable application fee is also required.",
+      "url": "https://catalog.iit.edu/graduate/graduate-admission/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No official fee waiver for international applicants is stated; the catalog only exempts current or former Illinois Tech students.",
+      "quote": "Any current or former Illinois Tech student is not required to submit an application fee",
+      "url": "https://catalog.iit.edu/graduate/graduate-admission/"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE is required for PhD applicants; each department sets its own minimum score in its program record.",
+      "quote": "Ph.D. applications do require GRE scores.",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission",
+      "also": [
+        {
+          "quote": "GRE testing is required for PhD. applicants",
+          "url": "https://www.iit.edu/admissions-aid/graduate-admission/how-apply"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "The TOEFL iBT minimum is 4.5 overall for tests taken on or after Jan 21, 2026; the older 80 applies to earlier tests.",
+      "quote": "Taken on or after Jan 21, 2026: 4.5 overall (4.5 in each subsection)",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/international-students/admission-and-english-language-requirements",
+      "also": [
+        {
+          "quote": "Taken before Jan 21, 2026: 80 overall (15 in each subsection)",
+          "url": "https://www.iit.edu/admissions-aid/graduate-admission/international-students/admission-and-english-language-requirements"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic minimum is 6.5 overall, with at least 6.0 in each section.",
+      "quote": "IELTS: 6.5 overall (6.0 in each subsection)",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/international-students/admission-and-english-language-requirements"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "An Indian degree from a NAAC 'A' institution counts only with a 60% undergraduate English course or a Medium of Instruction letter.",
+      "quote": "if they have completed a degree from a NAAC ... accredited institution in India and have earned a minimum of 60% in the undergraduate-level English course",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/international-students/admission-and-english-language-requirements",
+      "also": [
+        {
+          "quote": "an official Medium of Instruction (MOI) letter may be submitted in lieu of English coursework",
+          "url": "https://www.iit.edu/admissions-aid/graduate-admission/international-students/admission-and-english-language-requirements"
+        }
+      ]
+    }
+  },
+  "notes": "Application fee amount and any international fee waiver are not on the official pages fetched; the catalog only says a fee is required."
+}

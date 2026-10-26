@@ -1,0 +1,55 @@
+{
+  "id": "illinoistech--chemistry",
+  "university": "illinoistech",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://catalog.iit.edu/graduate/colleges/science-letters/chemistry/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-31",
+      "value": "Fall priority deadline is January 31 for admission; Priority 2 is April 15. The page gives no department-specific deadline.",
+      "quote": "Fall Term Priority# 1 January 31",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/admission-dates-and-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Chemistry catalog: GRE is required for PhD applicants; no minimum score is given in the text fetched.",
+      "quote": "The Graduate Record Examination (GRE) is required for PhD applicants.",
+      "url": "https://catalog.iit.edu/graduate/colleges/science-letters/chemistry/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No official page mentions a subject GRE test for this field.",
+      "quote": "",
+      "url": "https://catalog.iit.edu/graduate/colleges/science-letters/chemistry/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Chemistry catalog minimum is TOEFL iBT 80 (internet-based), 213 (computer-based) or 550 (paper-based).",
+      "quote": "80/213/550 (internet-based/computer-based/paper-based test scores)",
+      "url": "https://catalog.iit.edu/graduate/colleges/science-letters/chemistry/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No official page says a supervisor must be agreed before admission.",
+      "quote": "",
+      "url": "https://catalog.iit.edu/graduate/colleges/science-letters/chemistry/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Departmental funding goes to a limited number of applicants at admission, per the Graduate College.",
+      "quote": "Departmental funding is awarded to a limited number of highly qualified, full-time students at the time of admission.",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/admission-dates-and-deadlines"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants are expected to hold a bachelor's degree in chemistry or a closely allied major.",
+      "quote": "Applicants are expected to have a bachelor’s degree from an accredited institution with a major in that same discipline",
+      "url": "https://catalog.iit.edu/graduate/colleges/science-letters/chemistry/"
+    }
+  },
+  "notes": "After admission, PhD students join a research group and form a four-member Supervisory Committee by the end of semester two; this is not an admission rule."
+}

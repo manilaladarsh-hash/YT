@@ -1,0 +1,53 @@
+{
+  "id": "lehigh",
+  "institution": "Lehigh University",
+  "country": "USA",
+  "region": "Pennsylvania",
+  "grad_page": "https://www2.lehigh.edu/admissions/applying-to-graduate-studies-at-lehigh",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No single fee for all PhDs: each college sets its own, and the program records give it.",
+      "quote": "",
+      "url": "https://www2.lehigh.edu/admissions/applying-to-graduate-studies-at-lehigh"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Fee waivers are limited in number, and you must start an application to be considered.",
+      "quote": "There are a limited number of fee waivers offered each year. You must start an application in the system to be considered for a fee waiver.",
+      "url": "https://www2.lehigh.edu/admissions/applying-to-graduate-studies-at-lehigh"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school sets no single GRE rule, so each program record gives its college or department rule.",
+      "quote": "",
+      "url": "https://www2.lehigh.edu/admissions/applying-to-graduate-studies-at-lehigh"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "Minimums are set by college, so each program record gives its own.",
+      "quote": "",
+      "url": "https://www2.lehigh.edu/admissions/applying-to-graduate-studies-at-lehigh"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "Minimums are set by college, so each program record gives its own.",
+      "quote": "",
+      "url": "https://www2.lehigh.edu/admissions/applying-to-graduate-studies-at-lehigh"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "An India degree taught in English waives the test only if the transcript shows English as the medium of instruction and you were physically in India for two consecutive years.",
+      "quote": "will have earned the international equivalent of a U.S. degree from a college or university located in a country where English is an official language, and where English is the language of instruction ... | The medium of instruction must be indicated on the transcript or easily verified on the institution’s website.",
+      "url": "https://www2.lehigh.edu/admissions/english-proficiency-requirement-for-graduate-studies",
+      "also": [
+        {
+          "quote": "physically present in the country of study for a minimum of 2 consecutive years",
+          "url": "https://www2.lehigh.edu/admissions/english-proficiency-requirement-for-graduate-studies"
+        }
+      ]
+    }
+  },
+  "notes": "Each college sets its own fee, GRE and test minimums. Arts & Sciences: $50 fee, TOEFL iBT composite 94 (old scale), IELTS overall 6.5. Rossin Engineering: $50 fee, TOEFL iBT 81 (old scale) or 4 (new scale), IELTS overall 6.5, GRE not considered. Indian citizens also qualify outright under the citizenship path, which lists India. Not mapped to a field: the Industrial and Systems Engineering PhD (Rossin), the Population Health PhD (College of Health) and the Psychology PhD (Arts & Sciences)."
+}

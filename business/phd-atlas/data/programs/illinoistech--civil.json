@@ -1,0 +1,56 @@
+{
+  "id": "illinoistech--civil",
+  "university": "illinoistech",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Civil, Architectural, and Environmental Engineering",
+  "program_page": "https://catalog.iit.edu/graduate/colleges/engineering/caee/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-31",
+      "value": "Fall priority deadline is January 31 for admission; Priority 2 is April 15. The page gives no department-specific deadline.",
+      "quote": "Fall Term Priority# 1 January 31",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/admission-dates-and-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Department catalog minimum for the PhD is 292 quantitative plus verbal and 2.5 analytical writing.",
+      "quote": "Doctor of Philosophy (Ph.D.): 292 (quantitative + verbal), 2.5 (analytical writing)",
+      "url": "https://catalog.iit.edu/graduate/colleges/engineering/caee/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No official page mentions a subject GRE test for this field.",
+      "quote": "",
+      "url": "https://catalog.iit.edu/graduate/colleges/engineering/caee/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Department catalog minimum is TOEFL iBT 80 (internet-based) or 213 (computer-based).",
+      "quote": "80/213 (internet-based/computer-based test scores)",
+      "url": "https://catalog.iit.edu/graduate/colleges/engineering/caee/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No official page says a supervisor must be agreed before admission.",
+      "quote": "",
+      "url": "https://catalog.iit.edu/graduate/colleges/engineering/caee/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Departmental funding goes to a limited number of applicants at admission, per the Graduate College.",
+      "quote": "Departmental funding is awarded to a limited number of highly qualified, full-time students at the time of admission.",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/admission-dates-and-deadlines"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether a bachelor's or master's is needed for the PhD.",
+      "quote": "",
+      "url": "https://catalog.iit.edu/graduate/colleges/engineering/caee/"
+    }
+  },
+  "notes": "One record covers the Civil Engineering and Environmental Engineering PhDs in CAEE; the Architectural Engineering PhD is outside the field list and is not saved.",
+  "name": "Civil and Environmental Engineering (Ph.D.)"
+}

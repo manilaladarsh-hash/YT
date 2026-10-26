@@ -1,0 +1,55 @@
+{
+  "id": "illinoistech--physics",
+  "university": "illinoistech",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://catalog.iit.edu/graduate/colleges/science-letters/physics/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-31",
+      "value": "Fall priority deadline is January 31 for admission; Priority 2 is April 15. The page gives no department-specific deadline.",
+      "quote": "Fall Term Priority# 1 January 31",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/admission-dates-and-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Physics catalog: GRE is required for all applicants, with a Ph.D. minimum of 310 quantitative plus verbal.",
+      "quote": "The Graduate Record Examination (GRE) is required for all applicants. | Ph.D.: 310 (quantitative + verbal), 3.0 (analytical writing)",
+      "url": "https://catalog.iit.edu/graduate/colleges/science-letters/physics/"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "Doctoral applicants are strongly encouraged, but not required, to take the physics subject GRE.",
+      "quote": "Applicants to the doctoral program in physics are strongly encouraged, but not required, to take the subject-area GRE exam in physics.",
+      "url": "https://catalog.iit.edu/graduate/colleges/science-letters/physics/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Physics catalog minimum is TOEFL iBT 80 (internet-based) or 550 (paper-based).",
+      "quote": "80/550 (internet-based/paper-based test scores)",
+      "url": "https://catalog.iit.edu/graduate/colleges/science-letters/physics/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No official page says a supervisor must be agreed before admission.",
+      "quote": "",
+      "url": "https://catalog.iit.edu/graduate/colleges/science-letters/physics/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Departmental funding goes to a limited number of applicants at admission, per the Graduate College.",
+      "quote": "Departmental funding is awarded to a limited number of highly qualified, full-time students at the time of admission.",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/admission-dates-and-deadlines"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's in physics or a closely allied major is enough; a master's is not needed for the PhD.",
+      "quote": "The M.S. degree is not a prerequisite for the Ph.D.",
+      "url": "https://catalog.iit.edu/graduate/colleges/science-letters/physics/"
+    }
+  },
+  "notes": "Catalog lists a TOEFL minimum of 80 that predates the university's new-scale 4.5 rule."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "illinoistech--math",
+  "university": "illinoistech",
+  "field": "math",
+  "also_fields": [],
+  "department": "Applied Mathematics",
+  "program_page": "https://catalog.iit.edu/graduate/colleges/computing/applied-mathematics/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-31",
+      "value": "Fall priority deadline is January 31 for admission; Priority 2 is April 15. The page gives no department-specific deadline.",
+      "quote": "Fall Term Priority# 1 January 31",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/admission-dates-and-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "Applied mathematics catalog: GRE scores are optional; suggested Ph.D. scores are 304 quantitative plus verbal and 3.0 analytical writing.",
+      "quote": "GRE Scores - Optional | Ph.D.: 304 (quantitative + verbal), 3.0 (analytical writing)",
+      "url": "https://catalog.iit.edu/graduate/colleges/computing/applied-mathematics/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No official page mentions a subject GRE test for this field.",
+      "quote": "",
+      "url": "https://catalog.iit.edu/graduate/colleges/computing/applied-mathematics/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Department catalog minimum is TOEFL iBT 80 (internet-based) or 550 (paper-based).",
+      "quote": "80/550 (internet-based/paper-based test scores)",
+      "url": "https://catalog.iit.edu/graduate/colleges/computing/applied-mathematics/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No official page says a supervisor must be agreed before admission.",
+      "quote": "",
+      "url": "https://catalog.iit.edu/graduate/colleges/computing/applied-mathematics/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Departmental funding goes to a limited number of applicants at admission, per the Graduate College.",
+      "quote": "Departmental funding is awarded to a limited number of highly qualified, full-time students at the time of admission.",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/admission-dates-and-deadlines"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Admission normally requires a bachelor's degree in mathematics or applied mathematics.",
+      "quote": "Admission to the Master of Science and the Ph.D. program normally requires a bachelor’s degree in mathematics or applied mathematics",
+      "url": "https://catalog.iit.edu/graduate/colleges/computing/applied-mathematics/"
+    }
+  },
+  "notes": "Catalog Ph.D. GPA minimum is 3.5/4.0.",
+  "name": "Applied Mathematics (Ph.D.)"
+}

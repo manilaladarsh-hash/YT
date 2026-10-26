@@ -1,0 +1,67 @@
+{
+  "id": "illinoistech--cs",
+  "university": "illinoistech",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science",
+  "program_page": "https://catalog.iit.edu/graduate/colleges/computing/computer-science/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-31",
+      "value": "Fall priority deadline is January 31 for admission; Priority 2 is April 15. The page gives no department-specific deadline.",
+      "quote": "Fall Term Priority# 1 January 31",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/admission-dates-and-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "CS catalog: PhD minimum is 304 with 3.5 analytical writing for master's holders, or 310 with 4.0 for bachelor's holders, and quantitative at least 70th percentile.",
+      "quote": "Ph.D.: 304 (quantitative + verbal), 3.5 (analytical writing) for applicants with a master’s degree in or related to computer science | 310 (quantitative + verbal), 4.0 (analytical writing) for applicants with a bachelor’s degree in computer science",
+      "url": "https://catalog.iit.edu/graduate/colleges/computing/computer-science/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No official page mentions a subject GRE test for this field.",
+      "quote": "",
+      "url": "https://catalog.iit.edu/graduate/colleges/computing/computer-science/"
+    },
+    "toefl_min": {
+      "code": "70",
+      "value": "Department rule: TOEFL 70 or IELTS 5.5 unless the degree came from a school where English was the primary language.",
+      "quote": "Otherwise, a TOEFL score of 70, a PTE score of 47, or an IELTS score of 5.5",
+      "url": "https://catalog.iit.edu/graduate/colleges/computing/computer-science/"
+    },
+    "ielts_min": {
+      "code": "5.5",
+      "value": "Department rule: IELTS 5.5 unless the degree came from a school where English was the primary language.",
+      "quote": "Otherwise, a TOEFL score of 70, a PTE score of 47, or an IELTS score of 5.5",
+      "url": "https://catalog.iit.edu/graduate/colleges/computing/computer-science/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Waived only for a degree from a school where the primary language was English; the catalog does not say whether an Indian degree qualifies.",
+      "quote": "A degree from a school where the primary language was English",
+      "url": "https://catalog.iit.edu/graduate/colleges/computing/computer-science/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No official page says a supervisor must be agreed before admission.",
+      "quote": "",
+      "url": "https://catalog.iit.edu/graduate/colleges/computing/computer-science/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Departmental funding goes to a limited number of applicants at admission, per the Graduate College.",
+      "quote": "Departmental funding is awarded to a limited number of highly qualified, full-time students at the time of admission.",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/admission-dates-and-deadlines"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with a master's in or related to CS and applicants with a bachelor's in CS are both considered, with different GRE minimums.",
+      "quote": "for applicants with a master’s degree in or related to computer science | for applicants with a bachelor’s degree in computer science",
+      "url": "https://catalog.iit.edu/graduate/colleges/computing/computer-science/"
+    }
+  },
+  "notes": "The catalog also requires a three-letter recommendation set for the PhD and a 3.5 GPA for master's holders."
+}

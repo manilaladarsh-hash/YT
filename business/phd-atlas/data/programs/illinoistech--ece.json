@@ -1,0 +1,56 @@
+{
+  "id": "illinoistech--ece",
+  "university": "illinoistech",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Electrical and Computer Engineering",
+  "program_page": "https://catalog.iit.edu/graduate/colleges/engineering/ece/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-31",
+      "value": "Fall priority deadline is January 31 for admission; Priority 2 is April 15. The page gives no department-specific deadline.",
+      "quote": "Fall Term Priority# 1 January 31",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/admission-dates-and-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Department catalog minimum for the PhD is 304 quantitative plus verbal and 3.5 analytical writing.",
+      "quote": "Ph.D.: 304 (quantitative + verbal), 3.5 (analytical writing)",
+      "url": "https://catalog.iit.edu/graduate/colleges/engineering/ece/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No official page mentions a subject GRE test for this field.",
+      "quote": "",
+      "url": "https://catalog.iit.edu/graduate/colleges/engineering/ece/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Department catalog minimum is TOEFL iBT 80 (internet-based) or 550 (paper-based).",
+      "quote": "80/550 (internet-based/paper-based test scores)",
+      "url": "https://catalog.iit.edu/graduate/colleges/engineering/ece/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No official page says a supervisor must be agreed before admission.",
+      "quote": "",
+      "url": "https://catalog.iit.edu/graduate/colleges/engineering/ece/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Departmental funding goes to a limited number of applicants at admission, per the Graduate College.",
+      "quote": "Departmental funding is awarded to a limited number of highly qualified, full-time students at the time of admission.",
+      "url": "https://www.iit.edu/admissions-aid/graduate-admission/admission-dates-and-deadlines"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's in electrical, computer or another engineering discipline is enough for PhD study.",
+      "quote": "Admission to graduate study in one of the programs requires the completion of an undergraduate degree or its equivalent in electrical engineering, computer engineering, or other engineering disciplines from an accredited university",
+      "url": "https://catalog.iit.edu/graduate/colleges/engineering/ece/"
+    }
+  },
+  "notes": "One record covers the Electrical Engineering and Computer Engineering PhDs in the same department.",
+  "name": "Electrical and Computer Engineering (Ph.D.)"
+}
