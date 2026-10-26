@@ -1,0 +1,53 @@
+{
+  "id": "usyd",
+  "institution": "University of Sydney",
+  "country": "Australia",
+  "region": "New South Wales",
+  "grad_page": "https://www.sydney.edu.au/study/applying/how-to-apply/postgraduate-research.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "150 AUD",
+      "value": "The non-refundable application processing fee is A$150, with waivers only in the limited cases listed on the fees page.",
+      "quote": "You need to pay a non-refundable application processing fee of A$150.00.",
+      "url": "https://www.sydney.edu.au/study/fees-and-loans/other-costs.html"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The fee is waived only for sponsored applicants, current students and some recruitment-event attendees, and generally not for programs with a quota.",
+      "quote": "Generally, fee waivers are not available for programs that have a quota.",
+      "url": "https://www.sydney.edu.au/study/fees-and-loans/other-costs.html",
+      "also": [
+        {
+          "quote": "Recipient of a full scholarship or sponsorship",
+          "url": "https://www.sydney.edu.au/study/fees-and-loans/other-costs.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The application and faculty pages checked do not mention a GRE General requirement, so check each department.",
+      "quote": "",
+      "url": "https://www.sydney.edu.au/study/applying/how-to-apply/postgraduate-research.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The University accepts TOEFL iBT (TOEFL Australia version only, 0-120 scale), but the minimum is set in a concordance table not read here.",
+      "quote": "",
+      "url": "https://www.sydney.edu.au/study/applying/how-to-apply/international-students/english-language-requirements.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The standard research-degree minimum is an overall IELTS of 6.5 with no band below 6.0; some faculties and courses set higher.",
+      "quote": "The University's standard English language proficiency requirement is set at an overall IELTS score of 6.5 with no band below 6.0, however, some faculties and courses have different requirements.",
+      "url": "https://www.sydney.edu.au/study/applying/how-to-apply/international-students/english-language-requirements.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "India is not on the English-speaking country list, so an Indian degree counts only if the University assesses it case by case; it must be completed within five years of the course start.",
+      "quote": "If you completed studies in a different country, you can prove your proficiency through satisfactory achievement in: | one-year of full-time study in a postgraduate degree conducted entirely in English, including all teaching, assessments and examinations, assessed on a case-by-case basis by the University. | Your studies must be undertaken in English within five years of the date you will commence your course.",
+      "url": "https://www.sydney.edu.au/study/applying/how-to-apply/international-students/english-language-requirements.html"
+    }
+  },
+  "notes": "Graduate-school rules from the international how-to-apply, English requirements and fee pages. Faculties can set their own IELTS and course-page rules; the engineering course page could not be read."
+}

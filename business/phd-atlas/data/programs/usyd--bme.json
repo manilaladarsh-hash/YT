@@ -1,0 +1,67 @@
+{
+  "id": "usyd--bme",
+  "university": "usyd",
+  "field": "bme",
+  "also_fields": [],
+  "department": "School of Biomedical Engineering",
+  "program_page": "https://www.sydney.edu.au/engineering/study/postgraduate-research.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Applications are accepted all year; the RTP stipend has earlier dates that the fetched page does not show as text.",
+      "quote": "Postgraduate research degree applications are open all year round, with most research intakes starting in Research Period 2 (March) and Research Period 3 (July).",
+      "url": "https://www.sydney.edu.au/study/applying/how-to-apply/postgraduate-research.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned on the pages checked.",
+      "quote": "",
+      "url": "https://www.sydney.edu.au/engineering/study/postgraduate-research.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must secure a supervisor before you apply, with evidence that a primary supervisor agreed to supervise you.",
+      "quote": "Before submitting your application, you must secure a supervisor.",
+      "url": "https://www.sydney.edu.au/study/applying/how-to-apply/postgraduate-research.html",
+      "also": [
+        {
+          "quote": "Evidence that a primary supervisor has agreed to supervise you.",
+          "url": "https://www.sydney.edu.au/study/applying/how-to-apply/postgraduate-research.html"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Stipends are competitive and awarded on merit; international students pay tuition unless a scholarship package covers it.",
+      "quote": "These competitive stipends are awarded based on academic merit and research potential.",
+      "url": "https://www.sydney.edu.au/study/applying/how-to-apply/postgraduate-research.html",
+      "also": [
+        {
+          "quote": "International students pay tuition fees.",
+          "url": "https://www.sydney.edu.au/study/applying/how-to-apply/postgraduate-research.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A first-class honours bachelor's degree or a master's with a substantial research component is usually needed.",
+      "quote": "a bachelor's degree with first-class honours, or | a master's degree performed at a high academic standard, which includes a substantial component of research",
+      "url": "https://www.sydney.edu.au/study/applying/how-to-apply/postgraduate-research.html"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The faculty sets its own English rule on its PhD course page, which could not be read; check it before applying.",
+      "quote": "",
+      "url": "https://www.sydney.edu.au/courses/courses/pr/doctor-of-philosophy-engineering.html"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The faculty sets its own English rule on its PhD course page, which could not be read; check it before applying.",
+      "quote": "",
+      "url": "https://www.sydney.edu.au/courses/courses/pr/doctor-of-philosophy-engineering.html"
+    }
+  },
+  "notes": "Faculty of Engineering PhD. The faculty course page could not be read (blocked), so English rules are Not stated overrides.",
+  "name": "Doctor of Philosophy (Engineering)"
+}
