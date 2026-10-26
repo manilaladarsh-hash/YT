@@ -1,0 +1,61 @@
+{
+  "id": "uml--physics",
+  "university": "uml",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics and Applied Physics",
+  "program_page": "https://www.uml.edu/catalog/graduate/sciences/physics/doctoral-program.aspx",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "Neither the physics pages nor the graduate office give a Physics deadline; the graduate office says some programs have fixed dates and advises contacting the department.",
+      "quote": "",
+      "url": "https://www.uml.edu/sciences/physics/graduate/doctorate.aspx"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Kennedy College lists GRE only for Medical Physics and Radiological Sciences, so the Physics Ph.D. does not require it.",
+      "quote": "Graduate Record Examination (GRE) scores are only required for the following programs: | Medical Physics and Radiological Sciences.",
+      "url": "https://www.uml.edu/catalog/graduate/admissions/sciences.aspx"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The Physics GRE Subject test is not required for the Physics Ph.D.",
+      "quote": "Graduate Record Examination (GRE) scores are only required for the following programs: | Medical Physics and Radiological Sciences.",
+      "url": "https://www.uml.edu/catalog/graduate/admissions/sciences.aspx"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog says a research supervisor is chosen once research starts, but does not say whether one must agree before admission.",
+      "quote": "",
+      "url": "https://www.uml.edu/catalog/graduate/sciences/physics/doctoral-program.aspx"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "The department says it strives to fund all admitted PhD students through assistantships that depend on availability.",
+      "quote": "UMass Lowell strives to provide financial support for all admitted Ph.D. students.",
+      "url": "https://www.uml.edu/sciences/physics/graduate/doctorate.aspx",
+      "also": [
+        {
+          "quote": "Assistantships are contingent upon availability and may be subject to change.",
+          "url": "https://www.uml.edu/sciences/physics/graduate/doctorate.aspx"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The Ph.D. requires 60 credits beyond the bachelor's degree, and a completed master's thesis can replace part of the entry examination.",
+      "quote": "60 credit hours beyond the bachelors' degree",
+      "url": "https://www.uml.edu/catalog/graduate/sciences/physics/doctoral-program.aspx",
+      "also": [
+        {
+          "quote": "a waiver of the above requirements for a student who has completed a master's thesis",
+          "url": "https://www.uml.edu/catalog/graduate/sciences/physics/doctoral-program.aspx"
+        }
+      ]
+    }
+  },
+  "notes": "Physics PhD with a Radiological Science option. Department page repeats the Kennedy TOEFL 79+ and IELTS 6.5+ rule, so no override is needed.",
+  "name": "Physics (PhD)"
+}

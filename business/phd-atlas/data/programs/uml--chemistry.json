@@ -1,0 +1,61 @@
+{
+  "id": "uml--chemistry",
+  "university": "uml",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.uml.edu/sciences/chemistry/programs-of-study/graduate/doctoral-program/doctoral-program.aspx",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Applicants to the Chemistry PhD must have all documents in by February 15 for full fall consideration.",
+      "quote": "All required documents are due to the Office of Graduate Admissions by February 15 for full fall consideration.",
+      "url": "https://www.uml.edu/catalog/graduate/admissions/sciences.aspx",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Applied Biology, Chemistry and Polymer Science Doctor of Philosophy (Ph.D.) Applicants",
+          "url": "https://www.uml.edu/catalog/graduate/admissions/sciences.aspx"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Kennedy College lists GRE only for Medical Physics and Radiological Sciences, so the Chemistry Ph.D. does not require it.",
+      "quote": "Graduate Record Examination (GRE) scores are only required for the following programs: | Medical Physics and Radiological Sciences.",
+      "url": "https://www.uml.edu/catalog/graduate/admissions/sciences.aspx"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The Chemistry GRE Subject test is not required for the Chemistry Ph.D.",
+      "quote": "Graduate Record Examination (GRE) scores are only required for the following programs: | Medical Physics and Radiological Sciences.",
+      "url": "https://www.uml.edu/catalog/graduate/admissions/sciences.aspx"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Research may begin as late as the second semester, so admission does not depend on a named advisor.",
+      "quote": "The dissertation research of each graduate student may be initiated at any time but not later than the end of the second semester in the program.",
+      "url": "https://www.uml.edu/catalog/graduate/sciences/chemistry/doctoral-chemistry.aspx"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "The department says it strives to fund all admitted PhD students through assistantships that depend on availability.",
+      "quote": "UMass Lowell strives to provide financial support for all admitted Ph.D. students.",
+      "url": "https://www.uml.edu/sciences/chemistry/programs-of-study/graduate/doctoral-program/doctoral-program.aspx",
+      "also": [
+        {
+          "quote": "Assistantships are contingent upon availability and may be subject to change.",
+          "url": "https://www.uml.edu/sciences/chemistry/programs-of-study/graduate/doctoral-program/doctoral-program.aspx"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need an earned bachelor's degree in chemistry or a listed related field.",
+      "quote": "applicant will have an earned bachelor's degree in one of the following fields: chemistry, chemical or civil engineering, biology, environmental sciences, geology or physics",
+      "url": "https://www.uml.edu/catalog/graduate/sciences/chemistry/doctoral-chemistry.aspx"
+    }
+  },
+  "notes": "Options: Biochemistry, Environmental Studies and Sustainability. The Ph.D. in Polymer Science is saved as the materials program."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "uml--materials",
+  "university": "uml",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Department of Chemistry (Polymer Science PhD)",
+  "program_page": "https://www.uml.edu/catalog/graduate/sciences/chemistry/doctoral-polymer-science.aspx",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Polymer Science applicants must have all documents in by February 15 for full fall consideration.",
+      "quote": "All required documents are due to the Office of Graduate Admissions by February 15 for full fall consideration.",
+      "url": "https://www.uml.edu/catalog/graduate/admissions/sciences.aspx",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Applied Biology, Chemistry and Polymer Science Doctor of Philosophy (Ph.D.) Applicants",
+          "url": "https://www.uml.edu/catalog/graduate/admissions/sciences.aspx"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Kennedy College lists GRE only for Medical Physics and Radiological Sciences, so the Polymer Science PhD does not require it.",
+      "quote": "Graduate Record Examination (GRE) scores are only required for the following programs: | Medical Physics and Radiological Sciences.",
+      "url": "https://www.uml.edu/catalog/graduate/admissions/sciences.aspx"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to Polymer Science, and the catalog does not mention one.",
+      "quote": "",
+      "url": "https://www.uml.edu/catalog/graduate/sciences/chemistry/doctoral-polymer-science.aspx"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page says the plan of study is set with an advisory committee but does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.uml.edu/catalog/graduate/sciences/chemistry/doctoral-polymer-science.aspx"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The Polymer Science page does not describe PhD funding.",
+      "quote": "",
+      "url": "https://www.uml.edu/catalog/graduate/sciences/chemistry/doctoral-polymer-science.aspx"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The degree takes four years beyond a bachelor's, or two to three years beyond a master's.",
+      "quote": "The doctoral degree normally requires four years of full-time study beyond the bachelor's degree or a minimum of two to three years of full-time study beyond the master's degree.",
+      "url": "https://www.uml.edu/catalog/graduate/sciences/chemistry/doctoral-polymer-science.aspx"
+    }
+  },
+  "notes": "Polymer Science PhD in the Chemistry department, saved as the materials program. The Plastics Engineering PhD (Francis College of Engineering, a second materials-type doctorate) is not saved as a separate record because the materials field holds one record."
+}

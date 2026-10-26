@@ -1,0 +1,47 @@
+{
+  "id": "uml",
+  "institution": "University of Massachusetts Lowell",
+  "country": "USA",
+  "region": "Massachusetts",
+  "grad_page": "https://www.uml.edu/International-applicants/Application-Requirements/international-grad-admissions.aspx",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The Kennedy College of Sciences lists a $50 application fee; the graduate office calls the application fee non-waivable.",
+      "quote": "Application Fee: $50",
+      "url": "https://www.uml.edu/catalog/graduate/admissions/sciences.aspx"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The graduate office says the application fee cannot be waived for any applicant.",
+      "quote": "A non-waivable and non-refundable application fee must be received before the application is processed.",
+      "url": "https://www.uml.edu/catalog/graduate/admissions/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE rules are set by each college: sciences require it only for Medical Physics and Radiological Sciences, while engineering PhD programs require it; see each program.",
+      "quote": "",
+      "url": "https://www.uml.edu/catalog/graduate/admissions/sciences.aspx"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The graduate office sets a minimum TOEFL score of 79.",
+      "quote": "minimum 79 TOEFL score, 6.5 IELTS score",
+      "url": "https://www.uml.edu/International-applicants/Application-Requirements/international-grad-admissions.aspx"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The graduate office sets a minimum IELTS Academic score of 6.5.",
+      "quote": "minimum 79 TOEFL score, 6.5 IELTS score",
+      "url": "https://www.uml.edu/International-applicants/Application-Requirements/international-grad-admissions.aspx"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The pages name only a two-semester full-time U.S. study waiver; India and English-medium degrees are not addressed.",
+      "quote": "",
+      "url": "https://www.uml.edu/International-applicants/Application-Requirements/international-grad-admissions.aspx"
+    }
+  },
+  "notes": "Application fee: the Kennedy College of Sciences page lists $50; the engineering page names the fee without an amount. Institutionally approved English tests include Duolingo (115+ on the Kennedy page) and PTE (53+), which the university fields do not cover. Thresholds are set by departments; the sciences and international pages both give 79 TOEFL and 6.5 IELTS."
+}

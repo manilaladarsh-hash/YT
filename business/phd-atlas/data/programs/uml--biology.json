@@ -1,0 +1,61 @@
+{
+  "id": "uml--biology",
+  "university": "uml",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://www.uml.edu/sciences/biology/programs-of-study/phd-applied-biology.aspx",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Applied Biology applicants must have all documents in by February 15 for full fall consideration.",
+      "quote": "All required documents are due to the Office of Graduate Admissions by February 15 for full fall consideration.",
+      "url": "https://www.uml.edu/catalog/graduate/admissions/sciences.aspx",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Applied Biology, Chemistry and Polymer Science Doctor of Philosophy (Ph.D.) Applicants",
+          "url": "https://www.uml.edu/catalog/graduate/admissions/sciences.aspx"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required for admission, though a faculty sponsor may ask for it during evaluation.",
+      "quote": "The Graduate Record Exam (GRE) is not required for admission but may be requested by a faculty sponsor during the evaluation process.",
+      "url": "https://www.uml.edu/sciences/biology/programs-of-study/phd-applied-biology.aspx"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "The Applied Biology Ph.D. requires a TOEFL score of at least 90, higher than the university minimum.",
+      "quote": "A minimum score of 90 is required on the TOEFL",
+      "url": "https://www.uml.edu/catalog/graduate/sciences/biology/phd-applied-biology.aspx"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admission depends on a faculty sponsor who agrees to supervise and writes a letter of sponsorship.",
+      "quote": "Admission to the Applied Biology Ph.D. program is contingent on securing a faculty sponsor and obtaining a letter of sponsorship from that faculty member.",
+      "url": "https://www.uml.edu/sciences/biology/programs-of-study/phd-applied-biology.aspx"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "The department says it strives to fund all admitted PhD students through assistantships that depend on availability.",
+      "quote": "UMass Lowell strives to provide financial support for all admitted Ph.D. students.",
+      "url": "https://www.uml.edu/sciences/biology/programs-of-study/phd-applied-biology.aspx"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "First-year applicants need a bachelor's or master's in biology or a related field with a 3.000 GPA.",
+      "quote": "First year and transfer students must show evidence of having earned a Bachelors or Master’s degree in Biology or a related discipline",
+      "url": "https://www.uml.edu/catalog/graduate/sciences/biology/phd-applied-biology.aspx"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to biology, and the page does not mention one.",
+      "quote": "",
+      "url": "https://www.uml.edu/sciences/biology/programs-of-study/phd-applied-biology.aspx"
+    }
+  },
+  "notes": "Umbrella program: Applied Biology with options including Biomedical Science, Developmental & Evolutionary Biology, Quantitative Biology & Biophysics and Cellular & Molecular Biology. The Biology department also lists a Biomedical Engineering & Biotechnology PhD, not researched further."
+}

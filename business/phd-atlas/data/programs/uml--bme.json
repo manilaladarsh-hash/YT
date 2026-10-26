@@ -1,0 +1,54 @@
+{
+  "id": "uml--bme",
+  "university": "uml",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biomedical Engineering (Francis College of Engineering)",
+  "program_page": "https://www.uml.edu/catalog/graduate/engineering/biomedical-engineering/doctoral.aspx",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No deadline is stated on the biomedical engineering page.",
+      "quote": "",
+      "url": "https://www.uml.edu/catalog/graduate/engineering/biomedical-engineering/doctoral.aspx"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The biomedical engineering PhD requires GRE scores, and TOEFL if applicable.",
+      "quote": "GRE and TOEFL (if applicable) are required.",
+      "url": "https://www.uml.edu/catalog/graduate/engineering/biomedical-engineering/doctoral.aspx"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to biomedical engineering.",
+      "quote": "",
+      "url": "https://www.uml.edu/catalog/graduate/engineering/biomedical-engineering/doctoral.aspx"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.uml.edu/catalog/graduate/engineering/biomedical-engineering/doctoral.aspx"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most doctoral students are supported, mainly by research grants and TA or RA positions for the first two years.",
+      "quote": "It is expected that the bulk of the funding will be from externally funded research grants.",
+      "url": "https://www.uml.edu/catalog/graduate/engineering/biomedical-engineering/doctoral.aspx",
+      "also": [
+        {
+          "quote": "Doctoral students will be supported from a variety of sources.",
+          "url": "https://www.uml.edu/catalog/graduate/engineering/biomedical-engineering/doctoral.aspx"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants need a bachelor's or master's in engineering or in basic, applied or health sciences.",
+      "quote": "Applicants to the BME doctoral option are required to have a degree at the level of Bachelor or Master's in engineering or basic/applied/health sciences",
+      "url": "https://www.uml.edu/catalog/graduate/engineering/biomedical-engineering/doctoral.aspx"
+    }
+  },
+  "notes": "Doctor of Philosophy in Engineering, Biomedical Engineering. The Biology department also lists a Biomedical Engineering & Biotechnology PhD, not researched further."
+}

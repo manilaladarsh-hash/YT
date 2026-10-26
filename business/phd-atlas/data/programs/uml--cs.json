@@ -1,0 +1,48 @@
+{
+  "id": "uml--cs",
+  "university": "uml",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.uml.edu/catalog/graduate/sciences/computer-science/doctoral-program.aspx",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No Computer Science deadline is stated on the department or catalog page.",
+      "quote": "",
+      "url": "https://www.uml.edu/sciences/computer-science/programs/doctorate.aspx"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Kennedy College lists GRE only for Medical Physics and Radiological Sciences, so the Computer Science Ph.D. does not require it.",
+      "quote": "Graduate Record Examination (GRE) scores are only required for the following programs: | Medical Physics and Radiological Sciences.",
+      "url": "https://www.uml.edu/catalog/graduate/admissions/sciences.aspx"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages name the letters of recommendation but do not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.uml.edu/sciences/computer-science/programs/doctorate.aspx"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The Computer Science pages do not describe funding for PhD students.",
+      "quote": "",
+      "url": "https://www.uml.edu/sciences/computer-science/programs/doctorate.aspx"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A master's in computer science is needed for the PhD, but students without one can enter the combined MS/PhD route.",
+      "quote": "Admission into the Doctor of Philosophy degree program requires a Master’s degree in Computer Science. If the student does not already have an MS in CS, they may be admitted into the MS/Ph.D. program",
+      "url": "https://www.uml.edu/catalog/graduate/sciences/computer-science/doctoral-program.aspx"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to computer science, and the pages do not mention one.",
+      "quote": "",
+      "url": "https://www.uml.edu/sciences/computer-science/programs/doctorate.aspx"
+    }
+  },
+  "notes": "Computational Mathematics option (6 courses in CS and math) sits inside this PhD."
+}
