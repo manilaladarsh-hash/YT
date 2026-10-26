@@ -1,0 +1,49 @@
+{
+  "id": "sc--mech",
+  "university": "sc",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering (Molinaroli College of Engineering and Computing)",
+  "program_page": "https://sc.edu/study/colleges_schools/engineering_and_computing/academics/graduate_programs/mechanical_engineering/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-01",
+      "value": "International applicants' Fall deadline is May 1 (domestic applicants May 15); spring deadline is October 1.",
+      "quote": "International Applicants Fall Deadline: May 1",
+      "url": "https://www.sc.edu/study/colleges_schools/graduate_school/apply/degree_programs-application-requirements/mechanical-engineering-phd/index.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE General test is required for PhD applicants.",
+      "quote": "GRE General Test scores are required for all applicants applying for a research-based degree program (Ph.D. or M.S.)",
+      "url": "https://sc.edu/study/colleges_schools/engineering_and_computing/academics/graduate_programs/mechanical_engineering/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages do not mention a GRE subject test.",
+      "quote": "",
+      "url": "https://sc.edu/study/colleges_schools/engineering_and_computing/academics/graduate_programs/mechanical_engineering/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages do not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://sc.edu/study/colleges_schools/engineering_and_computing/academics/graduate_programs/mechanical_engineering/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages reviewed do not state funding terms.",
+      "quote": "",
+      "url": "https://sc.edu/study/colleges_schools/engineering_and_computing/academics/graduate_programs/mechanical_engineering/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The PhD can be completed in four years beyond a B.S. degree.",
+      "quote": "Complete a research-based dissertation, grounded in coursework, in just four years beyond your B.S. degree",
+      "url": "https://sc.edu/study/colleges_schools/engineering_and_computing/academics/graduate_programs/mechanical_engineering/"
+    }
+  },
+  "notes": "Nuclear Engineering is a specialization track within this PhD; a separate Nuclear Engineering PhD is not mapped."
+}

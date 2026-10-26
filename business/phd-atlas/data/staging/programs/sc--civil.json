@@ -1,0 +1,55 @@
+{
+  "id": "sc--civil",
+  "university": "sc",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil and Environmental Engineering (Molinaroli College of Engineering and Computing)",
+  "program_page": "https://sc.edu/study/colleges_schools/engineering_and_computing/academics/graduate_programs/civil_engineering/index.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-01",
+      "value": "Fall preferred deadline is May 1; international applicants should finish three months before.",
+      "quote": "Fall Preferred Application Deadline: May 1",
+      "url": "https://www.sc.edu/study/colleges_schools/graduate_school/apply/degree_programs-application-requirements/civil-engineering-phd/index.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE General test is required for all PhD entrants.",
+      "quote": "The general Graduate Record Examination (GRE) is required for all students entering the Ph.D. degree program",
+      "url": "https://sc.edu/study/colleges_schools/engineering_and_computing/academics/graduate_programs/civil_engineering/index.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages do not mention a GRE subject test.",
+      "quote": "",
+      "url": "https://sc.edu/study/colleges_schools/engineering_and_computing/academics/graduate_programs/civil_engineering/index.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages do not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://sc.edu/study/colleges_schools/engineering_and_computing/academics/graduate_programs/civil_engineering/index.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages reviewed do not state funding terms.",
+      "quote": "",
+      "url": "https://sc.edu/study/colleges_schools/engineering_and_computing/academics/graduate_programs/civil_engineering/index.php"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Exceptional students may enter the PhD from a B.S.; others generally need to exceed master's-level requirements.",
+      "quote": "Exceptional students may be eligible to enter directly the Ph.D. degree program with a B.S. degree in civil engineering or closely related engineering field",
+      "url": "https://sc.edu/study/colleges_schools/engineering_and_computing/academics/graduate_programs/civil_engineering/index.php",
+      "also": [
+        {
+          "quote": "Ph.D. applicants without a master’s degree must generally exceed the minimum GPA and test score requirements for the master’s degree programs",
+          "url": "https://sc.edu/study/colleges_schools/engineering_and_computing/academics/graduate_programs/civil_engineering/index.php"
+        }
+      ]
+    }
+  },
+  "notes": "Department handbook (PDF) not fetched; the graduate director is the default advisor per search results only, not quoted."
+}

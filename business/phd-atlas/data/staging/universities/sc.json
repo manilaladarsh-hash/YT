@@ -1,0 +1,53 @@
+{
+  "id": "sc",
+  "institution": "University of South Carolina",
+  "country": "USA",
+  "region": "South Carolina",
+  "grad_page": "https://www.sc.edu/study/colleges_schools/graduate_school/apply/index.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "Graduate application fee is $50 per primary application, reinstated for applications from August 1, 2026.",
+      "quote": "Effective August 1, 2026, our $50 graduate application fee will be reinstated",
+      "url": "https://www.sc.edu/study/colleges_schools/graduate_school/apply/index.php"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The Graduate School does not grant individual fee waivers.",
+      "quote": "The Graduate School does not grant individual student requests for application fee",
+      "url": "https://www.sc.edu/study/colleges_schools/graduate_school/apply/index.php"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School sets no general GRE rule; each program states its own (see program records).",
+      "quote": "",
+      "url": "https://www.sc.edu/study/colleges_schools/graduate_school/apply/index.php"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "TOEFL iBT minimum is 4.0 on the new scale for tests taken after January 21, 2026 (80 for earlier tests).",
+      "quote": "Minimum score of 4.0 (for tests taken after January 21, 2026)",
+      "url": "https://www.sc.edu/study/colleges_schools/graduate_school/apply/international_applicants/index.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic minimum is an overall 6.5.",
+      "quote": "IELTS International Academic Course Type 2 | Minimum score of 6.5",
+      "url": "https://www.sc.edu/study/colleges_schools/graduate_school/apply/international_applicants/index.php"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Indian degrees are not exempt; the English-official-country list does not include India, and language of instruction alone is not accepted, so a test is required.",
+      "quote": "We do not waive the requirement based solely on language of instruction",
+      "url": "https://www.sc.edu/study/colleges_schools/graduate_school/apply/international_applicants/index.php",
+      "also": [
+        {
+          "quote": "If you earned a degree where the language of instruction was English in a country where English is not an official language, then you will be required to submit scores",
+          "url": "https://www.sc.edu/study/colleges_schools/graduate_school/apply/international_applicants/index.php"
+        }
+      ]
+    }
+  },
+  "notes": "Most PhD programs use the general Graduate School application. Separate systems: Moore School of Business, Arnold School of Public Health (SOPHAS; Biostatistics PhD final deadline February 15), College of Nursing. No PhD in astronomy, materials science or data science found; neuroscience is a concentration in the Biomedical Science PhD. Not mapped: Pharmaceutical Sciences, Nuclear Engineering, Environmental Health Sciences, Epidemiology, Informatics (health informatics) PhDs."
+}

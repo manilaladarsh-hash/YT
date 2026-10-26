@@ -1,0 +1,49 @@
+{
+  "id": "sc--ece",
+  "university": "sc",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical Engineering (Molinaroli College of Engineering and Computing)",
+  "program_page": "https://sc.edu/study/colleges_schools/engineering_and_computing/academics/graduate_programs/electrical_engineering/index.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Fall or summer preferred deadline is March 1; spring deadline is September 1.",
+      "quote": "Fall or Summer Preferred Application Deadline: March 1",
+      "url": "https://www.sc.edu/study/colleges_schools/graduate_school/apply/degree_programs-application-requirements/electrical-engineering-phd/index.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "A GRE General score is required; the page gives typical admitted scores.",
+      "quote": "Official GRE Score (higher than 153 verbal, 155 quantitative, 3 analytical)",
+      "url": "https://www.sc.edu/study/colleges_schools/graduate_school/apply/degree_programs-application-requirements/electrical-engineering-phd/index.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages do not mention a GRE subject test.",
+      "quote": "",
+      "url": "https://sc.edu/study/colleges_schools/engineering_and_computing/academics/graduate_programs/electrical_engineering/index.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The college page does not state the advisor rule; the bulletin page that does is blocked (HTTP 502).",
+      "quote": "",
+      "url": "https://sc.edu/study/colleges_schools/engineering_and_computing/academics/graduate_programs/electrical_engineering/index.php"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Paid research assistantships and tuition are offered to full-time PhD students.",
+      "quote": "We offer paid research assistantships and tuition for full-time Ph.D. students",
+      "url": "https://sc.edu/study/colleges_schools/engineering_and_computing/academics/graduate_programs/electrical_engineering/index.php"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants are normally expected to hold a bachelor's in electrical engineering with at least a B average.",
+      "quote": "Normally, applicants are expected to have an earned baccalaureate degree in electrical engineering with at least a B average",
+      "url": "https://sc.edu/study/colleges_schools/engineering_and_computing/academics/graduate_programs/electrical_engineering/index.php"
+    }
+  },
+  "notes": "Computer Engineering PhD is a separate program in the same college (CSE admissions page: February 1 Fall deadline); not saved. Department page quotes TOEFL 80 (pre-2026 scale), not saved. Blocked: academicbulletins.sc.edu EE admissions PDF and PhD page (HTTP 502)."
+}

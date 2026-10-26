@@ -1,0 +1,55 @@
+{
+  "id": "sc--cs",
+  "university": "sc",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science and Engineering",
+  "program_page": "https://www.cse.sc.edu/graduate/admissions",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Fall applications are due February 1; PhD applicants from outside the US have until February 28.",
+      "quote": "For Fall semester admission, February 1",
+      "url": "https://www.cse.sc.edu/graduate/admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE General test is not required for entry to the graduate programs.",
+      "quote": "The general Graduate Record Examination (GRE) is not required for students entering our graduate programs",
+      "url": "https://www.cse.sc.edu/graduate/admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a Computer Science GRE subject test.",
+      "quote": "",
+      "url": "https://www.cse.sc.edu/graduate/admissions"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.cse.sc.edu/graduate/admissions"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Admitted applicants are considered for teaching assistantships; the page does not promise funding for all.",
+      "quote": "All admitted applicants are automatically considered for teaching assistantships (TAs), without any separate application process",
+      "url": "https://www.cse.sc.edu/graduate/admissions"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants with only a bachelor's degree are encouraged to apply directly to the PhD.",
+      "quote": "applicants with Bachelor degree only and a desire to pursue Ph.D. are encouraged to apply for our Ph.D. programs directly",
+      "url": "https://www.cse.sc.edu/graduate/admissions"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Only a degree from a US, UK or Canadian university waives the test; an Indian degree does not.",
+      "quote": "If you have a degree from a university in the US, UK, or Canada, we can waive the language test requirement",
+      "url": "https://www.cse.sc.edu/graduate/admissions"
+    }
+  },
+  "notes": "Department page quotes TOEFL 80, IELTS 6.5 and Duolingo 115 for international applicants; the TOEFL figure is on the pre-2026 scale, so no TOEFL override was saved. Computer Engineering PhD is also run by this department (same February 1 Fall deadline); see the ECE record notes."
+}
