@@ -1,0 +1,47 @@
+{
+  "id": "uhm",
+  "institution": "University of Hawaii at Manoa",
+  "country": "USA",
+  "region": "Hawaii",
+  "grad_page": "https://manoa.hawaii.edu/graduate/documentation-requirements/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "100 USD",
+      "value": "The Graduate Division application fee is $100 for all applicants, and it is non-refundable.",
+      "quote": "Application fee is $100 for all applicants",
+      "url": "https://manoa.hawaii.edu/graduate/documentation-requirements/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "The Graduate Division pages checked do not mention an application fee waiver.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/documentation-requirements/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Each graduate program sets its own GRE rule; see the program record.",
+      "quote": "Many graduate programs require or recommend applicants to take standardized exams",
+      "url": "https://manoa.hawaii.edu/graduate/standardized-exams/"
+    },
+    "toefl_min": {
+      "code": "3.5 (new scale)",
+      "value": "The Graduate Division minimum is an overall 3.5 on the new TOEFL iBT; programs may set higher.",
+      "quote": "Overall score of 3.5 TOEFL iBT (scores may vary for each graduate program)",
+      "url": "https://manoa.hawaii.edu/graduate/english-proficiency-exemption-eligibility/index.php"
+    },
+    "ielts_min": {
+      "code": "5.5",
+      "value": "The Graduate Division minimum is an overall IELTS Academic band of 5.5.",
+      "quote": "IELTS Academic (International English Language Testing System) | Overall score of 5.5",
+      "url": "https://manoa.hawaii.edu/graduate/english-proficiency-exemption-eligibility/index.php"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the Graduate Division's list of English-exempt countries, so an English-medium degree from India does not waive the test.",
+      "quote": "Applicants are exempt from the English proficiency exams if they are native speakers of English or have received within the last five years a bachelor's degree or advanced degree from an accredited/recognized college or university in the English Language Proficiency Exempt Countries",
+      "url": "https://manoa.hawaii.edu/graduate/english-proficiency-exemption-eligibility/index.php"
+    }
+  },
+  "notes": "GRE conflict: the documentation-requirements page says 'All other applicants submit GRE General Test scores', but the standardized-exams page limits required exams to non-traditional grades and English tests, so the university GRE value is Not stated. No Graduate Division fee-waiver rule was found. Epidemiology and Public Health PhDs have no matching STEM field and are not saved."
+}

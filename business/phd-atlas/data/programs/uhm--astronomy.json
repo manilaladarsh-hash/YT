@@ -1,0 +1,43 @@
+{
+  "id": "uhm--astronomy",
+  "university": "uhm",
+  "field": "astronomy",
+  "also_fields": [],
+  "department": "Institute for Astronomy (Graduate Program in Astronomy)",
+  "program_page": "https://manoa.hawaii.edu/graduate/astronomy/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Fall applicants should apply by December 15; the program does not admit in spring.",
+      "quote": "Application deadlines Fall Spring December 15 No Spring admission",
+      "url": "https://manoa.hawaii.edu/graduate/astronomy/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Graduate Division page says each program sets its own GRE rule; the program's own page could not be fetched.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/astronomy/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The program page could not be fetched, so the supervisor rule is not recorded.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/astronomy/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The program page could not be fetched, so funding is not recorded.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/astronomy/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The program page could not be fetched, so the entry route is not recorded.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/astronomy/"
+    }
+  },
+  "notes": "Institute for Astronomy site (gradprog.ifa.hawaii.edu) returned HTTP 502 on every attempt, including https://gradprog.ifa.hawaii.edu/how-to-apply/. Its GRE, funding and fee-waiver pages are not recorded."
+}

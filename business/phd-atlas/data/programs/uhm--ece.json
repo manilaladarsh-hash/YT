@@ -1,0 +1,49 @@
+{
+  "id": "uhm--ece",
+  "university": "uhm",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical and Computer Engineering",
+  "program_page": "https://ee.hawaii.edu/student/graduate/how-to-apply",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "International applicants who want financial assistance consideration should apply by January 15.",
+      "quote": "International August 1 January 15",
+      "url": "https://ee.hawaii.edu/student/graduate/how-to-apply",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "ECE has no subject test on its page; the general GRE rule is in the GRE General field.",
+      "quote": "",
+      "url": "https://ee.hawaii.edu/student/graduate/how-to-apply"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "PhD applicants must submit official GRE scores, except UH ECE or EE graduates who meet the department's conditions.",
+      "quote": "PhD Applicants: Submit official GRE scores directly to the Graduate Division Student Services | For PhD applicants who received a BS or an MS degree in ECE or EE from UH within the five years of their PhD application, the GRE requirement is waived",
+      "url": "https://ee.hawaii.edu/student/graduate/how-to-apply"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page says each doctoral student is assigned an advisor on entry, not before admission.",
+      "quote": "",
+      "url": "https://ece.hawaii.edu/student/graduate/doctoral-degree"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page only points applicants to an assistantship step; no funding rule is stated.",
+      "quote": "",
+      "url": "https://ee.hawaii.edu/student/graduate/how-to-apply"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "PhD students need a master's in ECE or an equivalent, or must complete the MS course requirements.",
+      "quote": "Doctoral students must have a Master of Science (MS) degree in ECE or its equivalent; otherwise, the MS program course requirements must be met",
+      "url": "https://ece.hawaii.edu/student/graduate/doctoral-degree"
+    }
+  },
+  "notes": "The Graduate Division's international deadline for fall is January 15, matching the department's priority date."
+}

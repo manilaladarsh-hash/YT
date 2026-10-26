@@ -1,0 +1,49 @@
+{
+  "id": "uhm--math",
+  "university": "uhm",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://math.hawaii.edu/wordpress/graduate-application/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Fall applicants should apply by February 1; late applications are reviewed on a space-available basis.",
+      "quote": "Perferred deadline for the Fall semester is February 1",
+      "url": "https://math.hawaii.edu/wordpress/graduate-application/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "GRE scores are optional.",
+      "quote": "GRE scores are optional.",
+      "url": "https://math.hawaii.edu/wordpress/graduate-application/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional.",
+      "quote": "GRE scores are optional.",
+      "url": "https://math.hawaii.edu/wordpress/graduate-application/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://math.hawaii.edu/wordpress/graduate-application/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "PhD students are usually assured of six years of support if they are in good standing.",
+      "quote": "PhD students are usually assured of 6 years support if they are in good standing",
+      "url": "https://math.hawaii.edu/wordpress/graduate-application/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page sets an undergraduate mathematics background but does not say whether a master's is needed for the PhD.",
+      "quote": "",
+      "url": "https://math.hawaii.edu/wordpress/graduate-application/"
+    }
+  },
+  "notes": "Teaching-assistant applicants face a higher TOEFL threshold (600/250/100 per the page), so the TOEFL general minimum is not overridden here."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "uhm--biology",
+  "university": "uhm",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology (Zoology)",
+  "program_page": "https://manoa.hawaii.edu/graduate/zoology/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Apply by December 15 for fall; there is no spring admission.",
+      "quote": "Application deadlines Fall Spring December 15 No Spring admission",
+      "url": "https://manoa.hawaii.edu/graduate/zoology/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Graduate Division leaves GRE to each program; the program page gives no GRE rule.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/zoology/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The program page does not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/zoology/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The program page does not describe funding.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/zoology/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The program page does not say whether a master's is needed before the PhD.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/zoology/"
+    }
+  },
+  "notes": "One biology record for the field id. Botany, Microbiology, Entomology, Marine Biology and Tropical Plant and Soil Sciences PhDs share this field and are not saved."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "uhm--earth",
+  "university": "uhm",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Geology and Geophysics",
+  "program_page": "https://manoa.hawaii.edu/graduate/earth-planetary-sciences/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1 for fall.",
+      "quote": "Application deadlines Fall Spring December 1 August 15",
+      "url": "https://manoa.hawaii.edu/graduate/earth-planetary-sciences/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Graduate Division page does not give a GRE rule for this program.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/earth-planetary-sciences/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department admissions page could not be fetched.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/earth-planetary-sciences/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department admissions page could not be fetched, so funding is not recorded.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/earth-planetary-sciences/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The department admissions page could not be fetched, so the entry route is not recorded.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/earth-planetary-sciences/"
+    }
+  },
+  "notes": "Blocked: https://www.soest.hawaii.edu/earthsciences_archive/academics/es_graduate_admissions.html returned HTTP 502."
+}

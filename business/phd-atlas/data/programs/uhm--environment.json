@@ -1,0 +1,43 @@
+{
+  "id": "uhm--environment",
+  "university": "uhm",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Atmospheric Sciences",
+  "program_page": "https://manoa.hawaii.edu/graduate/atmospheric-sciences/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Apply by December 15 for fall.",
+      "quote": "Application deadlines Fall Spring December 15 August 15",
+      "url": "https://manoa.hawaii.edu/graduate/atmospheric-sciences/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Graduate Division leaves GRE to each program; the department page returned HTTP 502.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/atmospheric-sciences/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department page returned HTTP 502, so the supervisor rule is not recorded.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/atmospheric-sciences/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department page returned HTTP 502, so funding is not recorded.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/atmospheric-sciences/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The department page returned HTTP 502, so the entry route is not recorded.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/atmospheric-sciences/"
+    }
+  },
+  "notes": "Blocked: https://www.soest.hawaii.edu/atmo/ returned HTTP 502. The Oceanography PhD and NREM PhD share this field id, so only Atmospheric Sciences is saved."
+}

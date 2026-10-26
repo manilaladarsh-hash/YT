@@ -1,0 +1,43 @@
+{
+  "id": "uhm--civil",
+  "university": "uhm",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil, Environmental and Construction Engineering",
+  "program_page": "https://manoa.hawaii.edu/graduate/civil-engineering/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "PhD applicants should apply by March 1 for fall.",
+      "quote": "PhD March 1 September 1",
+      "url": "https://manoa.hawaii.edu/graduate/civil-engineering/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department's own pages returned HTTP 502; the Graduate Division leaves GRE to each program.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/civil-engineering/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department's own pages returned HTTP 502, so the supervisor rule is not recorded.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/civil-engineering/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department's own pages returned HTTP 502, so funding is not recorded.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/civil-engineering/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The department's own pages returned HTTP 502, so the entry route is not recorded.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/civil-engineering/"
+    }
+  },
+  "notes": "Blocked: https://www.cee.hawaii.edu/graduate/phd/admission/ and the graduate handbook PDF returned HTTP 502."
+}

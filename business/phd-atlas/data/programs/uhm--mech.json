@@ -1,0 +1,43 @@
+{
+  "id": "uhm--mech",
+  "university": "uhm",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering",
+  "program_page": "https://manoa.hawaii.edu/graduate/mechanical-engineering/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "International applicants should apply by January 15 for fall.",
+      "quote": "International January 15 August 1",
+      "url": "https://manoa.hawaii.edu/graduate/mechanical-engineering/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department's own pages returned HTTP 502; the Graduate Division leaves GRE to each program.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/mechanical-engineering/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department's own pages returned HTTP 502, so the supervisor rule is not recorded.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/mechanical-engineering/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department's own pages returned HTTP 502, so funding is not recorded.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/mechanical-engineering/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The department's own pages returned HTTP 502, so the entry route is not recorded.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/mechanical-engineering/"
+    }
+  },
+  "notes": "Blocked: the graduate handbook PDF https://me.hawaii.edu/wp-content/uploads/2023/08/ME-Grad-Program-Handbook-2023.pdf returned HTTP 502, so the department rules are not recorded."
+}
