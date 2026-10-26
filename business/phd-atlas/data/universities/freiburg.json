@@ -1,0 +1,47 @@
+{
+  "id": "freiburg",
+  "institution": "University of Freiburg (Albert-Ludwigs-Universität Freiburg)",
+  "country": "Germany",
+  "region": "Baden-Württemberg",
+  "grad_page": "https://uni-freiburg.de/en/research/doctoral-studies/doctoral-programmes/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No doctoral application fee is stated. Doctoral candidates are accepted by the faculty through HISinOne, and the official pages only list semester fees after acceptance.",
+      "quote": "",
+      "url": "https://uni-freiburg.de/en/studies/getting-started/enrolment/enrolment-doctoral-candidates/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No fee waiver is stated on the official doctoral pages that were fetched.",
+      "quote": "",
+      "url": "https://uni-freiburg.de/en/research/doctoral-studies/doctoral-programmes/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement is stated on the official doctoral pages that were fetched; each faculty sets its own rules.",
+      "quote": "",
+      "url": "https://uni-freiburg.de/en/research/doctoral-studies/doctoral-programmes/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The official doctoral pages set no TOEFL minimum; the faculty regulations only ask for documented knowledge of German or English.",
+      "quote": "",
+      "url": "https://uni-freiburg.de/en/research/doctoral-studies/doctoral-programmes/"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The official doctoral pages set no IELTS minimum; the faculty regulations only ask for documented knowledge of German or English.",
+      "quote": "",
+      "url": "https://uni-freiburg.de/en/research/doctoral-studies/doctoral-programmes/"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "No India or English-medium exemption is stated on the official doctoral pages that were fetched.",
+      "quote": "",
+      "url": "https://uni-freiburg.de/en/research/doctoral-studies/doctoral-programmes/"
+    }
+  },
+  "notes": "Official list: six graduate schools (Environment, Society and Global Change; Humanities; Robotics; Hermann Paul School of Linguistics; Hermann Staudinger Graduate School (Chemistry and Pharmacy); Spemann Graduate School of Biology and Medicine). Faculty-level doctoral pages used for physics, math, chemistry, engineering and environment. Doctoral pages with a university-wide English or fee rule were not found; third-party aggregator figures (IELTS 6.5-7, TOEFL 90-100) were not used. Blocked or broken official pages: https://sgbm.uni-freiburg.de/node/29 (502 upstream, twice); https://www.sgbm.uni-freiburg.de/node/1847 (502 upstream, twice); https://sgbm.uni-freiburg.de/welcome-to-sgbm (502 upstream); https://www.math.uni-freiburg.de/nlehre/en/page/promotion/ (500 Internal Server Error). The German math doctoral page (https://www.math.uni-freiburg.de/lehre/promotion.html) returned only navigation, no doctoral text."
+}

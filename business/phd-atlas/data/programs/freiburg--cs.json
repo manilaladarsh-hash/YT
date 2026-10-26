@@ -1,0 +1,42 @@
+{
+  "id": "freiburg--cs",
+  "university": "freiburg",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Faculty of Engineering (Institute of Computer Science, IIF)",
+  "program_page": "https://www.tf.uni-freiburg.de/en/research/Doctoral%20Studies/step-by-step",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "Acceptance applications are handled separately by the doctoral committee; the page gives no deadline or funding round.",
+      "quote": "The applications for acceptance are handled separately by the Doctoral Committee",
+      "url": "https://www.tf.uni-freiburg.de/en/research/Doctoral%20Studies/step-by-step"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on the engineering faculty doctoral pages.",
+      "quote": "",
+      "url": "https://www.tf.uni-freiburg.de/en/research/Doctoral%20Studies/step-by-step"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A doctoral supervision agreement must be finalised with the supervisor before the application for acceptance.",
+      "quote": "Once your thesis project supervision is confirmed, the next step is to finalize a doctoral supervision agreement with your supervisor.",
+      "url": "https://www.tf.uni-freiburg.de/en/research/Doctoral%20Studies/step-by-step"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding rule is stated for computer science on the engineering faculty pages.",
+      "quote": "",
+      "url": "https://www.tf.uni-freiburg.de/en/research/Doctoral%20Studies/step-by-step"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page lists a German master's, a German four-year programme, or a programme based on an undergraduate degree at a German or other doctorate-awarding university, in computer science, mathematics, engineering or natural science; it does not say which applies to Indian degrees.",
+      "quote": "in the field of computer science, mathematics, in an engineering field or in a natural science field",
+      "url": "https://www.tf.uni-freiburg.de/en/research/Doctoral%20Studies/step-by-step"
+    }
+  },
+  "notes": "Faculty of Engineering doctoral page: the computer science doctoral subject is listed under IIF (Informatik / Computer Science) and Dr.-Ing. or Dr. rer. nat. can be awarded. The Robotics graduate school and the ML lab hire PhD students through their own calls, not this page. The IMTEK doctoral subject (Microsystems Engineering) is not mapped to ECE or mechanical engineering here, so those fields are not saved."
+}

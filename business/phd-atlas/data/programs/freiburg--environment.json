@@ -1,0 +1,54 @@
+{
+  "id": "freiburg--environment",
+  "university": "freiburg",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Faculty of Environment and Natural Resources",
+  "program_page": "https://www.unr.uni-freiburg.de/en/doctoral-studies/general-information",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No application deadline or funding round is stated on the faculty pages.",
+      "quote": "",
+      "url": "https://www.unr.uni-freiburg.de/en/doctoral-studies/general-information"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on the faculty doctoral pages.",
+      "quote": "",
+      "url": "https://www.unr.uni-freiburg.de/en/doctoral-studies/general-information"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Each doctoral student needs a first and second supervisor, and the faculty page makes finding a supervisor the first step.",
+      "quote": "If you want to pursue a doctorate at our faculty, the first and most important step is to find a supervisor.",
+      "url": "https://uni-freiburg.de/enr/research/promotion/",
+      "also": [
+        {
+          "quote": "All doctoral students need a first and a second supervisor.",
+          "url": "https://www.unr.uni-freiburg.de/en/doctoral-studies/general-information"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The faculty offers no scholarships; some doctoral students get a paid research position, but this is not a guaranteed or typical rule.",
+      "quote": "The faculty does not offer scholarships.",
+      "url": "https://www.unr.uni-freiburg.de/en/doctoral-studies/general-information",
+      "also": [
+        {
+          "quote": "In some cases, doctoral students can be integrated into research projects of the faculty and thus receive a paid position.",
+          "url": "https://www.unr.uni-freiburg.de/en/doctoral-studies/general-information"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The most important prerequisite for a doctorate at this faculty is an especially qualified Master or Diploma university degree.",
+      "quote": "The most important prerequisite for pursuing a doctorate is an especially qualified Master or Diploma university degree.",
+      "url": "https://www.unr.uni-freiburg.de/en/doctoral-studies/general-information"
+    }
+  },
+  "notes": "Faculty-level page; the doctoral regulation (PromO, German only) was not read. The page does not name the disciplines covered, so only environment is saved. Graduate school Environment, Society and Global Change is listed as a structured option."
+}
