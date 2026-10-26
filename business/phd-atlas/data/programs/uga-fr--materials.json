@@ -1,0 +1,46 @@
+{
+  "id": "uga-fr--materials",
+  "university": "uga-fr",
+  "field": "materials",
+  "also_fields": [
+    "mech",
+    "chemeng",
+    "civil"
+  ],
+  "department": "Doctoral School Engineering - Materials, Mechanical, Environment, Energetics, Processes, Production (ED I-MEP²)",
+  "program_page": "https://edimep2.univ-grenoble-alpes.fr/apply/conditions-and-prerequisites/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No 2027 contract or admission deadline appears on the fetched pages.",
+      "quote": "",
+      "url": "https://edimep2.univ-grenoble-alpes.fr/apply/conditions-and-prerequisites/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on the I-MEP² pages.",
+      "quote": "",
+      "url": "https://edimep2.univ-grenoble-alpes.fr/apply/conditions-and-prerequisites/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must be supervised by an HDR thesis director from the school.",
+      "quote": "Be supervised by an HDR (Habilité à Diriger des Recherches) thesis director from ED I-MEP²",
+      "url": "https://edimep2.univ-grenoble-alpes.fr/apply/conditions-and-prerequisites/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Doctoral contracts are awarded after a jury review, with a complementary list for withdrawals.",
+      "quote": "The results will only be known after the I-MEP² Doctoral School Council meeting | In the event of withdrawal, contracts will be awarded in the order of the complementary list",
+      "url": "https://edimep2.univ-grenoble-alpes.fr/apply/competitions-and-phd-contracts/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "You need a Master 2 (with a research internship) or an engineering degree, French or foreign.",
+      "quote": "Hold a French or foreign* degree: Master 2 (including a research internship), Engineer or equivalent",
+      "url": "https://edimep2.univ-grenoble-alpes.fr/apply/conditions-and-prerequisites/"
+    }
+  },
+  "notes": "Foreign degrees go through the UGA Doctoral College's CD3 commission, with applications due 15 days before each meeting. Mechanical, civil, electrochemistry and process engineering are specialities of this school."
+}

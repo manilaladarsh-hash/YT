@@ -1,0 +1,48 @@
+{
+  "id": "uga-fr--bme",
+  "university": "uga-fr",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Doctoral school Health, cognition and environmental engineering (ED ISCE)",
+  "program_page": "https://edisce.univ-grenoble-alpes.fr/thesis/application-and-registration-in-1st-year/application-and-registration-in-1st-year-788000.kjsp",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The school's contract procedure is a yearly PDF that is not in the page text, so no Fall 2027 date is stated.",
+      "quote": "",
+      "url": "https://edisce.univ-grenoble-alpes.fr/thesis/application-and-registration-in-1st-year/application-and-registration-in-1st-year-788000.kjsp"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on the ISCE pages.",
+      "quote": "",
+      "url": "https://edisce.univ-grenoble-alpes.fr/thesis/application-and-registration-in-1st-year/application-and-registration-in-1st-year-788000.kjsp"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You apply on ADUM and wait for the thesis supervisor's favourable assessment before the school processes your file.",
+      "quote": "Wait for the thesis supervisor’s assessment (favourable or unfavourable) of your application",
+      "url": "https://edisce.univ-grenoble-alpes.fr/thesis/application-and-registration-in-1st-year/application-and-registration-in-1st-year-788000.kjsp"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The contract procedure is linked but the page does not describe it as competitive.",
+      "quote": "",
+      "url": "https://edisce.univ-grenoble-alpes.fr/thesis/application-and-registration-in-1st-year/application-and-registration-in-1st-year-788000.kjsp",
+      "also": [
+        {
+          "quote": "The research allowance is one of the many possible ways to finance a thesis",
+          "url": "https://edisce.univ-grenoble-alpes.fr/thesis/ed-isce-competition/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "You need a French master-level degree or an equivalence granted by the school.",
+      "quote": "hold a French diploma conferring the grade of master at the end of a training course establishing the aptitude for research",
+      "url": "https://edisce.univ-grenoble-alpes.fr/thesis/application-and-registration-in-1st-year/application-and-registration-in-1st-year-788000.kjsp"
+    }
+  },
+  "notes": "Funding is Not stated because the ISCE competition page's body text does not describe the contract selection as competitive; this may need a check of the 2026 procedure PDF."
+}

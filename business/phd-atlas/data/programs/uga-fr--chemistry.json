@@ -1,0 +1,52 @@
+{
+  "id": "uga-fr--chemistry",
+  "university": "uga-fr",
+  "field": "chemistry",
+  "also_fields": [
+    "biology",
+    "biomed",
+    "neuro"
+  ],
+  "department": "Doctoral School Chemistry and Life Sciences (ED CSV)",
+  "program_page": "https://edcsv.univ-grenoble-alpes.fr/la-these/candidater-au-concours-edcsv/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The 2026 contract competition closed on 9 April 2026, and no 2027 round or date is published.",
+      "quote": "",
+      "url": "https://edcsv.univ-grenoble-alpes.fr/la-these/candidater-au-concours-edcsv/",
+      "also": [
+        {
+          "quote": "Date limite de dépôt des candidatures par les candidats sur ADUM : jeudi 9 avril, 23h59",
+          "url": "https://edcsv.univ-grenoble-alpes.fr/la-these/candidater-au-concours-edcsv/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on the CSV pages.",
+      "quote": "",
+      "url": "https://edcsv.univ-grenoble-alpes.fr/la-these/candidater-au-concours-edcsv/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You apply directly to a thesis subject and the thesis director must validate your application.",
+      "quote": "Vous devez candidater directement sur le sujet de thèse de votre choix",
+      "url": "https://edcsv.univ-grenoble-alpes.fr/la-these/candidater-au-concours-edcsv/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Doctoral contracts are awarded by a competitive process at UGA.",
+      "quote": "La procédure de sélection et d'attribution des contrats doctoraux de l'UGA se fait sur concours",
+      "url": "https://edcsv.univ-grenoble-alpes.fr/la-these/candidater-au-concours-edcsv/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "You need a national master's degree with a mention or an equivalent diploma.",
+      "quote": "Pour être inscrit en doctorat, le candidat doit être titulaire d'un diplôme national de master avec mention",
+      "url": "https://edcsv.univ-grenoble-alpes.fr/la-these/candidatures-et-admissions/candidatures/"
+    }
+  },
+  "notes": "Covers the school's life-science specialities (cell biology, physiology and pharmacology, virology, neurobiology) as well as chemistry. Foreign or professional master's files go to the equivalence commission (CD3)."
+}
