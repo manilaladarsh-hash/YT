@@ -37,29 +37,17 @@
       "quote": "For students who only hold a bachelor's degree, a master's degree is normally required as well.",
       "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/pcphpdphy/requirements"
     },
-    "app_fee": {
-      "code": "20 GBP",
-      "value": "GBP 20 per applicant per year of entry for doctoral courses (up to 7 applications)",
-      "quote": "Doctoral courses (including combined MRes + PhD courses): £20 per applicant, per academic year of entry. You can submit up to a maximum of 7 applications.",
-      "url": "https://www.postgraduate.study.cam.ac.uk/apply/how/application-fee"
-    },
-    "fee_waiver": {
-      "code": "Limited",
-      "value": "A waiver exists for eligible applicants; eligibility criteria not shown on the page checked",
-      "quote": "You need to pay an application fee when you apply for a postgraduate course at Cambridge, unless you are eligible for an application fee waiver.",
-      "url": "https://www.postgraduate.study.cam.ac.uk/apply/how/application-fee"
-    },
     "toefl_min": {
       "code": "100",
       "value": "TOEFL iBT 100 with 25 in each section; IELTS 7.0 overall (Listening/Writing/Speaking 7.0, Reading 6.5)",
       "quote": "TOEFL Internet Score Element Score Listening 25 Writing 25 Reading 25 Speaking 25 Total 100",
       "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/pcphpdphy/requirements"
     },
-    "english_waiver": {
-      "code": "No",
-      "value": "Exemption needs nationality of, or a degree from, a 'majority English-speaking country' (UKVI list); India is not on that list",
-      "quote": "you are a national of a majority English-speaking country and were educated in such a country",
-      "url": "https://www.postgraduate.study.cam.ac.uk/apply/before/english-language-requirements"
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic 7.0 overall (Listening 7.0, Writing 7.0, Reading 6.5, Speaking 7.0).",
+      "quote": "IELTS (Academic) Element Score Listening 7.0 Writing 7.0 Reading 6.5 Speaking 7.0 Total 7.0",
+      "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/pcphpdphy/requirements"
     }
   },
   "notes": "Funding offers start being considered from February; offers of admission from November at the earliest."

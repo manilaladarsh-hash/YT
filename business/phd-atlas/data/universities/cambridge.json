@@ -3,45 +3,57 @@
   "institution": "University of Cambridge",
   "country": "United Kingdom",
   "region": "England",
-  "grad_page": "https://www.postgraduate.study.cam.ac.uk/courses/directory/pcphpdphy",
-  "checked": "2026-10-21",
+  "grad_page": "https://www.postgraduate.study.cam.ac.uk/apply",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/pcphpdphy"
+      "code": "20 GBP",
+      "value": "The fee for doctoral courses is GBP 20 per applicant per academic year of entry, for up to 7 applications.",
+      "quote": "Doctoral courses (including combined MRes + PhD courses): £20 per applicant, per academic year of entry. You can submit up to a maximum of 7 applications.",
+      "url": "https://www.postgraduate.study.cam.ac.uk/apply/how/application-fee"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/pcphpdphy"
+      "code": "Limited",
+      "value": "Automatic waivers apply only to nationals of a listed set of countries (India is not listed); other international applicants must pay.",
+      "quote": "International applicants from other countries must pay the application fee.",
+      "url": "https://www.postgraduate.study.cam.ac.uk/apply/how/application-fee-waiver",
+      "also": [
+        {
+          "quote": "You do not need to pay an application fee if you are a national of an eligible country listed below and have lived there since birth.",
+          "url": "https://www.postgraduate.study.cam.ac.uk/apply/how/application-fee-waiver"
+        }
+      ]
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/pcphpdphy"
+      "value": "Set by each course; a course page says if it needs a GRE score.",
+      "quote": "Some departments may ask you for a Graduate Record Examination (GRE) test score.",
+      "url": "https://www.postgraduate.study.cam.ac.uk/apply/how/supporting-documents"
     },
     "toefl_min": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/pcphpdphy"
+      "value": "Each course sets its own TOEFL level; see the program records.",
+      "quote": "Check your course page for the scores required for your course.",
+      "url": "https://www.postgraduate.study.cam.ac.uk/apply/before/english-language-requirements"
     },
     "ielts_min": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/pcphpdphy"
+      "value": "Each course sets its own IELTS level; see the program records.",
+      "quote": "Check your course page for the scores required for your course.",
+      "url": "https://www.postgraduate.study.cam.ac.uk/apply/before/english-language-requirements"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/pcphpdphy"
+      "code": "No",
+      "value": "The test exemption is for nationals of, or degree-holders from, majority English-speaking countries; India is not on that list, so Indian applicants need a test.",
+      "quote": "you are a national of a majority English-speaking country and were educated in such a country",
+      "url": "https://www.postgraduate.study.cam.ac.uk/apply/before/english-language-requirements",
+      "also": [
+        {
+          "quote": "you have a 3-year qualification equivalent to at least a UK Bachelor's Degree from a majority English-speaking country, excluding Canada.",
+          "url": "https://www.postgraduate.study.cam.ac.uk/apply/before/english-language-requirements"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "English test is usually only needed once an offer is made."
 }
