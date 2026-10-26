@@ -1,0 +1,54 @@
+{
+  "id": "unibo",
+  "institution": "University of Bologna",
+  "country": "Italy",
+  "region": "Emilia-Romagna",
+  "grad_page": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/applying-for-phd-programmes/how-to-apply-for-a-phd-if-you-come-from-a-non-eu-country",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "10 EUR",
+      "value": "The 42nd-cycle call sets a EUR 10 non-refundable application fee, paid through PagoPA; the Health and Technology PhD page says no fee is payable.",
+      "quote": "A €10 application fee, non-refundable, is to be paid within the above-mentioned deadline.",
+      "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/attachments/42-second-round-call-for-applications/@@download/file/42%20cycle_CallforApplications_SecondRound_ENG.pdf",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "No application fee is to be paid.",
+          "url": "https://phd.unibo.it/hat/en/admission-procedure"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No fee waiver for international applicants is stated in the call or the non-EU application page.",
+      "quote": "",
+      "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/attachments/42-second-round-call-for-applications/@@download/file/42%20cycle_CallforApplications_SecondRound_ENG.pdf"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The call and the programme pages checked do not require a GRE; one department page lists it 'if available' (see Statistics).",
+      "quote": "",
+      "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/attachments/42-second-round-call-for-applications/@@download/file/42%20cycle_CallforApplications_SecondRound_ENG.pdf"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The call sets no TOEFL minimum; it only requires documents in Italian or English.",
+      "quote": "",
+      "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/attachments/42-second-round-call-for-applications/@@download/file/42%20cycle_CallforApplications_SecondRound_ENG.pdf"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The call sets no IELTS minimum.",
+      "quote": "",
+      "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/attachments/42-second-round-call-for-applications/@@download/file/42%20cycle_CallforApplications_SecondRound_ENG.pdf"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The call contains no English-test exemption for Indian degrees; each department checks English at its entrance or oral exam.",
+      "quote": "",
+      "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/attachments/42-second-round-call-for-applications/@@download/file/42%20cycle_CallforApplications_SecondRound_ENG.pdf"
+    }
+  },
+  "notes": "Source for the university-wide rules is the 42nd-cycle (A.Y. 2026/27) second-round call, the latest call in the data (the third round closed 8 October 2026). No Fall 2027 (43rd cycle) call is published yet. Saved programmes: physics, astronomy (Astrophysics), chemistry, math, statistics, cs, datasci, ece, mech, civil (umbrella), bme, biology, earth (umbrella), environment (Future Earth), biomed. Not saved as separate records (one record per field): Industrial Chemistry (Chemistry field), Health and Technology (the bme field is used by Biomedical Electrical and System Engineering; this page says no fee), Automotive Engineering for Intelligent Mobility and Science and Technology for Aerospace and Marine Engineering (mech field), Nanoscience for Medicine and the Environment (materials field, covered only through the civil umbrella), Drug Discovery and Development (biomed field), Agricultural, Environmental and Food Science and Technology (biology field), EIT4SEMM (civil field; listed but not fetched). Neuroscience has no dedicated PhD; Psychology (not saved) is a separate programme. Clinical medical PhDs (oncology, cardio-nephro-thoracic, surgical sciences, medical sciences, veterinary, sport) were not saved as STEM fields. Not checked: the PhD call PDFs for other rounds and each department's programme table, beyond the physics table. Blocked URLs: none."
+}
