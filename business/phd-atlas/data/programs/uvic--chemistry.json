@@ -1,0 +1,55 @@
+{
+  "id": "uvic--chemistry",
+  "university": "uvic",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Chemistry",
+  "program_page": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/chemistry-cred/chemistry-phd.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-01",
+      "value": "The page lists two September deadlines, May 1 and June 15, 2027; the earlier date is shown.",
+      "quote": "September entry – May 1",
+      "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/chemistry-cred/chemistry-phd.php",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Chemistry GRE Subject test is not mentioned on the program page.",
+      "quote": "",
+      "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/chemistry-cred/chemistry-phd.php"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE scores are required if the bachelor's is from a non-Canadian university, which covers Indian applicants. The page says applicants 'may have to' submit them.",
+      "quote": "If you received your bachelor’s degree from a non-Canadian university, you may have to submit your scores from the Graduate Record Examination (GRE).",
+      "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/chemistry-cred/chemistry-phd.php"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants need not list a supervisor; the admissions committee decides first, then supervisors make offers.",
+      "quote": "You are not required to list a supervisor as part of your application",
+      "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/chemistry-cred/chemistry-phd.php",
+      "also": [
+        {
+          "quote": "Once your application has been approved by our admissions committee, our supervisors will be able to make you an offer.",
+          "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/chemistry-cred/chemistry-phd.php"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages checked do not say whether chemistry PhD students receive funding.",
+      "quote": "",
+      "url": "https://www.uvic.ca/graduate/finances/funding-employment/index.php"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Doctoral admission needs a completed master's degree (or equivalent) from a recognized institution.",
+      "quote": "Completion of an acceptable master’s degree (or equivalent) from an institution recognized by UVic",
+      "url": "https://www.uvic.ca/graduate/admissions/admission-requirements/index.php"
+    }
+  },
+  "notes": "Two sets of September deadlines appear on the page without labels, so the earlier is shown. The GRE line is the department's own rule."
+}

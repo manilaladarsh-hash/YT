@@ -1,0 +1,45 @@
+{
+  "id": "uvic--earth",
+  "university": "uvic",
+  "field": "earth",
+  "also_fields": [
+    "environment"
+  ],
+  "department": "Earth and Ocean Sciences",
+  "program_page": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/earth-and-ocean-sciences-cred/earth-and-ocean-sciences-phd.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Applications may be submitted at any time; entry is in September, January or May.",
+      "quote": "Applications may be submitted at any time.",
+      "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/earth-and-ocean-sciences-cred/earth-and-ocean-sciences-phd.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE rule is stated on the Earth and Ocean Sciences program page.",
+      "quote": "",
+      "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/earth-and-ocean-sciences-cred/earth-and-ocean-sciences-phd.php"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A faculty member must agree to supervise you and recommend your admission before you apply.",
+      "quote": "this faculty member must agree to be your supervisor and recommend your admission",
+      "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/earth-and-ocean-sciences-cred/earth-and-ocean-sciences-phd.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages checked do not say whether Earth and Ocean Sciences PhD students are funded.",
+      "quote": "",
+      "url": "https://www.uvic.ca/graduate/finances/funding-employment/index.php"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The department asks for a bachelor's (or equivalent) in Earth and Ocean Sciences or a closely related science. The university doctoral rule asks for a master's, so confirm.",
+      "quote": "You must have a bachelor’s degree (or equivalent) in Earth and Ocean Sciences or a closely-related science.",
+      "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/earth-and-ocean-sciences-cred/earth-and-ocean-sciences-phd.php",
+      "conflict": true
+    }
+  },
+  "notes": "Covers geology, geophysics, oceanography and atmosphere and climate sciences, so environment is listed as also_fields. The university doctoral rule conflicts with this page's bachelor's rule."
+}

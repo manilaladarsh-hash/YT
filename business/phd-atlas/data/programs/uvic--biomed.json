@@ -1,0 +1,55 @@
+{
+  "id": "uvic--biomed",
+  "university": "uvic",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Biochemistry and Microbiology",
+  "program_page": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/molecular-cred/biochemistry-phd.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-31",
+      "value": "Apply by March 31 for September entry to be considered for UVic Fellowships. The regular September deadline is August 1.",
+      "quote": "You must apply by March 31 for September entry to be guaranteed consideration for University of Victoria Fellowships.",
+      "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/molecular-cred/biochemistry-phd.php",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE rule is stated on the biochemistry or microbiology program pages.",
+      "quote": "",
+      "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/molecular-cred/biochemistry-phd.php"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must list a potential supervisor who agrees to be your supervisor and recommend your admission.",
+      "quote": "This faculty member must agree to be your supervisor and recommend your admission.",
+      "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/molecular-cred/biochemistry-phd.php"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All students in the program receive financial support; the minimum yearly stipend was $26,000 as of 2022/23.",
+      "quote": "All students in this program receive financial support.",
+      "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/molecular-cred/biochemistry-phd.php",
+      "also": [
+        {
+          "quote": "As of 2022/23, the minimum yearly stipend is $26,000",
+          "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/molecular-cred/biochemistry-phd.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The master's must be in a field related to biochemistry (or microbiology for the microbiology PhD).",
+      "quote": "Your master’s degree must be in a field related to biochemistry.",
+      "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/molecular-cred/biochemistry-phd.php",
+      "also": [
+        {
+          "quote": "Your master’s degree must be in a field related to microbiology.",
+          "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/molecular-cred/microbiology-phd.php"
+        }
+      ]
+    }
+  },
+  "notes": "One record covers the Biochemistry (PhD) and Microbiology (PhD) programs from the Molecular Life Sciences department, which share deadlines, supervisor and funding rules. Mapped to biomedical sciences as an interpretation: the page covers pathogenesis, immunology and vaccines. Biology PhD is saved separately."
+}

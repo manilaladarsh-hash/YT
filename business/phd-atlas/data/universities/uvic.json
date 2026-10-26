@@ -1,0 +1,47 @@
+{
+  "id": "uvic",
+  "institution": "University of Victoria",
+  "country": "Canada",
+  "region": "British Columbia",
+  "grad_page": "https://www.uvic.ca/graduate/admissions/admission-requirements/index.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "187 CAD",
+      "value": "Applicants with any document from outside Canada pay $187.00. The page names no currency; UVic is in Canada.",
+      "quote": "Application fee if any documents originate outside Canada: $187.00",
+      "url": "https://www.uvic.ca/graduate/admissions/how-to-apply/index.php"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No international fee waiver is stated on the graduate admissions pages checked.",
+      "quote": "",
+      "url": "https://www.uvic.ca/graduate/admissions/how-to-apply/index.php"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate admissions pages checked set no GRE rule; each department sets its own.",
+      "quote": "",
+      "url": "https://www.uvic.ca/graduate/admissions/admission-requirements/index.php"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT 4.5 with no section below 4.0 for tests taken after January 21, 2026. The older 90 applies only to earlier tests.",
+      "quote": "for tests taken after January 21, 2026: a score of at least 4.5 with no section less than 4.0",
+      "url": "https://www.uvic.ca/graduate/admissions/language-proficiency/index.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic overall 6.5, with no section below 6.0.",
+      "quote": "a score of at least 6.5 with no section less than 6.0",
+      "url": "https://www.uvic.ca/graduate/admissions/language-proficiency/index.php"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "A degree from a recognized institution taught in English meets the English requirement. India is not on the designated English-speaking country list, so this route applies.",
+      "quote": "you have a degree from a recognized institution at which the language of instruction is English",
+      "url": "https://www.uvic.ca/graduate/admissions/language-proficiency/index.php"
+    }
+  },
+  "notes": "Official pages fetched: graduate how-to-apply (fee), language proficiency (TOEFL, IELTS, English waiver), admission requirements (doctoral entry), funding and employment, the designated English-speaking countries list (India not on it), and the additional international applicant information page. No graduate-school GRE or fee-waiver rule was found; departments set GRE. PhD programs from the department credential pages: Physics, Chemistry, Biology, Biochemistry, Microbiology, Computer Science, Mathematics, Statistics, Neuroscience, Earth and Ocean Sciences, Electrical and Computer Engineering, Mechanical Engineering, Civil Engineering, and Environmental Studies (interdisciplinary; not saved as a STEM record). No PhD in materials, chemical engineering, biomedical engineering or data science was found."
+}

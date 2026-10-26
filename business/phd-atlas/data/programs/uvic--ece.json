@@ -1,0 +1,43 @@
+{
+  "id": "uvic--ece",
+  "university": "uvic",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Electrical and Computer Engineering",
+  "program_page": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/electrical-computer-engineering-cred/electrical-and-computer-engineering-phd.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-31",
+      "value": "Apply by May 31 for September entry.",
+      "quote": "September entry – apply by May 31",
+      "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/electrical-computer-engineering-cred/electrical-and-computer-engineering-phd.php",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE rule is stated on the program page.",
+      "quote": "",
+      "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/electrical-computer-engineering-cred/electrical-and-computer-engineering-phd.php"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must list a potential supervisor who agrees to be your supervisor and recommend your admission.",
+      "quote": "This faculty member must agree to be your supervisor and recommend your admission.",
+      "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/electrical-computer-engineering-cred/electrical-and-computer-engineering-phd.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages checked do not say whether ECE PhD students are funded.",
+      "quote": "",
+      "url": "https://www.uvic.ca/graduate/finances/funding-employment/index.php"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Doctoral admission needs a completed master's degree (or equivalent) from a recognized institution.",
+      "quote": "Completion of an acceptable master’s degree (or equivalent) from an institution recognized by UVic",
+      "url": "https://www.uvic.ca/graduate/admissions/admission-requirements/index.php"
+    }
+  },
+  "notes": "Entry rule taken from the university-wide doctoral requirement; the program page states none."
+}
