@@ -1,0 +1,54 @@
+{
+  "id": "rpi--chemeng",
+  "university": "rpi",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Chemical and Biological Engineering",
+  "program_page": "https://cbe.rpi.edu/graduate/doctoral-program",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Doctoral applications for Fall 2027 are due December 15, 2026.",
+      "quote": "Fall 2027 Doctoral Application Deadline: December 15, 2026",
+      "url": "https://gradadmissions.rpi.edu/deadlines-and-requirements"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The department says GRE scores are part of the application, but its GRE policy is on a graduate-application page we could not open (403), so the graduate-school default is not used here.",
+      "quote": "",
+      "url": "https://cbe.rpi.edu/graduate/doctoral-program",
+      "also": [
+        {
+          "quote": "policy regarding the GRE requirement can be found on the graduate application website",
+          "url": "https://cbe.rpi.edu/graduate/doctoral-program"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Chemical engineering has no subject-test rule on the page.",
+      "quote": "",
+      "url": "https://cbe.rpi.edu/graduate/doctoral-program"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Incoming doctoral students get a research advisor in the first semester, after admission.",
+      "quote": "Advisor assignment takes place in the first semester and is designed to most effectively match student interests and talents with the research needs of faculty",
+      "url": "https://cbe.rpi.edu/graduate/doctoral-program"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The doctoral page does not say how students are funded.",
+      "quote": "",
+      "url": "https://cbe.rpi.edu/graduate/doctoral-program"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The doctoral page does not state an entry route.",
+      "quote": "",
+      "url": "https://cbe.rpi.edu/graduate/doctoral-program"
+    }
+  },
+  "notes": "Blocked (403): https://admissions.rpi.edu/graduate/masters-and-phd-applicants, which holds the CBE GRE policy."
+}

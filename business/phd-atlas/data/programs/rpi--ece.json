@@ -1,0 +1,60 @@
+{
+  "id": "rpi--ece",
+  "university": "rpi",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Electrical, Computer, and Systems Engineering",
+  "program_page": "https://ecse.rpi.edu/academics/graduate-programs/doctoral-programs",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Doctoral applications for Fall 2027 are due December 15, 2026.",
+      "quote": "Fall 2027 Doctoral Application Deadline: December 15, 2026",
+      "url": "https://gradadmissions.rpi.edu/deadlines-and-requirements",
+      "also": [
+        {
+          "quote": "Students applying for fall should submit a complete application package no later than December 15 (PhD applicants)",
+          "url": "https://ecse.rpi.edu/academics/graduate-programs/graduate-admissions"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The department lists the GRE as optional.",
+      "quote": "(Optional) Unofficial GRE scores that are fewer than five years old",
+      "url": "https://ecse.rpi.edu/academics/graduate-programs/graduate-admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject-test rule applies to electrical engineering.",
+      "quote": "",
+      "url": "https://ecse.rpi.edu/academics/graduate-programs/doctoral-programs"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to contact potential research advisors by email before or shortly after applying.",
+      "quote": "Applicants to the PhD program are strongly encouraged to reach out to potential research advisors via email either before or shortly after submitting the application",
+      "url": "https://ecse.rpi.edu/academics/graduate-programs/graduate-admissions"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "TA, RA and fellowship awards go to top applicants; the page does not say all admitted students are funded.",
+      "quote": "These are awarded to top applicants who are interested in pursuing the PhD degree and are a good match with our research and our faculty",
+      "url": "https://ecse.rpi.edu/academics/graduate-programs/graduate-admissions"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A PhD takes 48 credits after a master's or 72 after a bachelor's; a master's is strongly encouraged.",
+      "quote": "48 credits beyond the master's or 72 credits beyond the bachelor's degree",
+      "url": "https://ecse.rpi.edu/academics/graduate-programs/doctoral-programs",
+      "also": [
+        {
+          "quote": "strongly encouraged from those who already possess a master's degree and wish to pursue the PhD",
+          "url": "https://ecse.rpi.edu/academics/graduate-programs/graduate-admissions"
+        }
+      ]
+    }
+  },
+  "notes": "Combined ELEC/CSYS doctorate; the page does not cover computer science. Admission requires a TOEFL or IELTS for international applicants without a US degree (no minimum stated on the department page)."
+}

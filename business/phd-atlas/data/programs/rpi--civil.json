@@ -1,0 +1,48 @@
+{
+  "id": "rpi--civil",
+  "university": "rpi",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Civil and Environmental Engineering",
+  "program_page": "https://cee.rpi.edu/graduate",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Doctoral applications for Fall 2027 are due December 15, 2026.",
+      "quote": "Fall 2027 Doctoral Application Deadline: December 15, 2026",
+      "url": "https://gradadmissions.rpi.edu/deadlines-and-requirements"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Civil engineering has no subject-test rule on the page.",
+      "quote": "",
+      "url": "https://cee.rpi.edu/graduate"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not state a supervisor rule for admission.",
+      "quote": "",
+      "url": "https://cee.rpi.edu/graduate"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not say how PhD students are funded.",
+      "quote": "",
+      "url": "https://cee.rpi.edu/graduate"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The PhD is 72 credit hours beyond a bachelor's, and a master's counts for 24 of the course credits.",
+      "quote": "The Ph.D. program consists of a total of 72 credit hours beyond the Bachelors degree",
+      "url": "https://cee.rpi.edu/graduate",
+      "also": [
+        {
+          "quote": "If the student holds a Masters degree, 24 course credit hours can be applied towards the 42 course credit hours requirement.",
+          "url": "https://cee.rpi.edu/graduate"
+        }
+      ]
+    }
+  },
+  "notes": "One page covers the Civil, Environmental and Transportation Engineering PhDs. Environmental and transportation are not saved as separate records; the civil record covers them."
+}

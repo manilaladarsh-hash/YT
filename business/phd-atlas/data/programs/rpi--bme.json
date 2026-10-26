@@ -1,0 +1,48 @@
+{
+  "id": "rpi--bme",
+  "university": "rpi",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Biomedical Engineering",
+  "program_page": "https://bme.rpi.edu/programs/phd-biomedical-engineering",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Doctoral applications for Fall 2027 are due December 15, 2026.",
+      "quote": "Fall 2027 Doctoral Application Deadline: December 15, 2026",
+      "url": "https://gradadmissions.rpi.edu/deadlines-and-requirements"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Biomedical engineering has no subject-test rule on the page.",
+      "quote": "",
+      "url": "https://bme.rpi.edu/programs/phd-biomedical-engineering"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page says research is under a faculty member's guidance but does not state a rule for admission.",
+      "quote": "",
+      "url": "https://bme.rpi.edu/programs/phd-biomedical-engineering"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page says it is common for doctoral students to receive support but does not say most or all are funded.",
+      "quote": "",
+      "url": "https://bme.rpi.edu/programs/phd-biomedical-engineering",
+      "also": [
+        {
+          "quote": "it is common for doctoral students to receive financial support from the department and/or the faculty",
+          "url": "https://bme.rpi.edu/programs/phd-biomedical-engineering"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admission rests on academic achievement in graduate or undergraduate work, so either route can qualify.",
+      "quote": "based upon prior demonstration of a high level of academic achievement in graduate and/or undergraduate work",
+      "url": "https://bme.rpi.edu/programs/phd-biomedical-engineering"
+    }
+  },
+  "notes": "The M.Eng. in Biomedical Engineering Data Science is a master's only, so no datasci PhD is saved."
+}

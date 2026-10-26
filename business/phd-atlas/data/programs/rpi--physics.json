@@ -1,0 +1,69 @@
+{
+  "id": "rpi--physics",
+  "university": "rpi",
+  "field": "physics",
+  "also_fields": [
+    "astronomy"
+  ],
+  "department": "Physics, Applied Physics, and Astronomy",
+  "program_page": "https://physics.rpi.edu/programs/phd-physics",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Doctoral applications for Fall 2027 are due December 15, 2026.",
+      "quote": "Fall 2027 Doctoral Application Deadline: December 15, 2026",
+      "url": "https://gradadmissions.rpi.edu/deadlines-and-requirements"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page gives the GRE Physics rule only for Spring and Fall 2024 admissions, so no current rule is stated.",
+      "quote": "",
+      "url": "https://physics.rpi.edu/programs/graduate-program",
+      "also": [
+        {
+          "quote": "The GRE Physics is optional for Spring and Fall 2024 admissions.",
+          "url": "https://physics.rpi.edu/programs/graduate-program"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "The physics department lists a suggested iBT minimum of 100, above the Institute's 88.",
+      "quote": "iBT score: 100 | The above are the suggested minimum.",
+      "url": "https://physics.rpi.edu/programs/graduate-program"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The physics pages do not say a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://physics.rpi.edu/programs/graduate-program"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All incoming PhD students are fully supported by teaching assistant positions, per the graduate-programme page.",
+      "quote": "All incoming Ph.D. students are fully supported by TA positions",
+      "url": "https://physics.rpi.edu/programs/graduate-program",
+      "also": [
+        {
+          "quote": "PhD students are generally supported for two years on teaching assistantships, followed by two to three years of external support.",
+          "url": "https://physics.rpi.edu/programs/phd-physics"
+        }
+      ],
+      "conflict": true
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is the entry point, with 72 credits needed beyond it.",
+      "quote": "Bachelor’s degree is required with courses and grades demonstrating ability and preparation adequate for graduate study in Physics",
+      "url": "https://physics.rpi.edu/programs/graduate-program",
+      "also": [
+        {
+          "quote": "Seventy-two credits beyond the bachelor’s degree are required.",
+          "url": "https://physics.rpi.edu/programs/phd-physics"
+        }
+      ]
+    }
+  },
+  "notes": "Conflict: the graduate-programme page says all incoming PhD students are fully supported, but the PhD page says support is generally for two years then external. Astronomy & Astrophysics is covered by this PhD (special requirements for astrophysics students), so astronomy is listed in also_fields. Department GRE General rule is for 2024 only, so the university value stands. Engineering Physics PhD is on the official list but no own page was found; not saved."
+}

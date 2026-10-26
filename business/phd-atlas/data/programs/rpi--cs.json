@@ -1,0 +1,54 @@
+{
+  "id": "rpi--cs",
+  "university": "rpi",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science",
+  "program_page": "https://compsci.rpi.edu/programs/phd-computer-science",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Doctoral applications for Fall 2027 are due December 15, 2026.",
+      "quote": "Fall 2027 Doctoral Application Deadline: December 15, 2026",
+      "url": "https://gradadmissions.rpi.edu/deadlines-and-requirements"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "CS strongly recommends the GRE General, unlike most RPI programmes where it is optional.",
+      "quote": "Strongly recommended for all Computer Science and Cognitive Science programs",
+      "url": "https://gradadmissions.rpi.edu/deadlines-and-requirements"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "CS has no subject-test rule on the page.",
+      "quote": "",
+      "url": "https://compsci.rpi.edu/programs/phd-computer-science"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page says PhD students work with faculty advisers but does not state a supervisor rule for admission.",
+      "quote": "",
+      "url": "https://compsci.rpi.edu/programs/phd-computer-science"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most CS graduate students receive teaching or research assistantships with tuition and a stipend.",
+      "quote": "Most CS graduate students receive financial support as teaching or research assistants",
+      "url": "https://compsci.rpi.edu/programs/phd-computer-science",
+      "also": [
+        {
+          "quote": "These assistantships provide both tuition and a stipend, and guarantee funding for the duration of the PhD studies",
+          "url": "https://compsci.rpi.edu/programs/phd-computer-science"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A PhD can be taken with or without a master's degree.",
+      "quote": "It is possible to obtain a PhD with or without an MS degree",
+      "url": "https://compsci.rpi.edu/programs/phd-computer-science"
+    }
+  },
+  "notes": "Financial aid consideration needs all materials by January 1 for fall admission (CS page, no year given); the December 15, 2026 doctoral deadline is earlier."
+}

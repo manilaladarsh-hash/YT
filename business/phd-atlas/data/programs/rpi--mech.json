@@ -1,0 +1,48 @@
+{
+  "id": "rpi--mech",
+  "university": "rpi",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Mechanical Engineering (also Aerospace Engineering)",
+  "program_page": "https://mane.rpi.edu/graduate/mechanical-engineering",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Doctoral applications for Fall 2027 are due December 15, 2026.",
+      "quote": "Fall 2027 Doctoral Application Deadline: December 15, 2026",
+      "url": "https://gradadmissions.rpi.edu/deadlines-and-requirements"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Mechanical and aerospace engineering have no subject-test rule on the pages.",
+      "quote": "",
+      "url": "https://mane.rpi.edu/graduate/mechanical-engineering"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages do not state a supervisor rule for admission.",
+      "quote": "",
+      "url": "https://mane.rpi.edu/graduate/mechanical-engineering"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages do not say how PhD students are funded.",
+      "quote": "",
+      "url": "https://mane.rpi.edu/graduate/mechanical-engineering"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A PhD takes 72 credits after a bachelor's or 48 credits after a master's.",
+      "quote": "72 credits for students entering the graduate program with a bachelor’s degree or 48 credits for students entering with a master’s degree",
+      "url": "https://mane.rpi.edu/graduate/mechanical-engineering",
+      "also": [
+        {
+          "quote": "72 credits for students entering the graduate program with a bachelor’s degree or 48 credits for students entering with a master’s degree",
+          "url": "https://mane.rpi.edu/graduate/aeronautical-engineering"
+        }
+      ]
+    }
+  },
+  "notes": "The mechanical and aeronautical (aerospace) PhD pages carry the same text. Nuclear Engineering and Science PhD is on the mane.rpi.edu pages but has no matching field, so it is not saved."
+}
