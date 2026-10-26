@@ -1,0 +1,50 @@
+{
+  "id": "baylor--ece",
+  "university": "baylor",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Electrical and Computer Engineering (School of Engineering and Computer Science)",
+  "program_page": "https://www.ecs.baylor.edu/students-academics/degree-programs/graduate/phd-ece",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The fall financial-aid priority deadline is January 15, 2027; the spring deadline is December 1.",
+      "quote": "Electrical & Computer Engineering Ph.D. Fall (financial aid priority) - January 15",
+      "url": "https://graduate.baylor.edu/programs",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE is required of all applicants.",
+      "quote": "All applicants accepted into the ECE doctoral program must have received a Bachelor of Science or Master of Science degree ... The GRE exam is required of all applicants.",
+      "url": "https://www.ecs.baylor.edu/students-academics/degree-programs/graduate/phd-ece"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is mentioned for ECE.",
+      "quote": "",
+      "url": "https://www.ecs.baylor.edu/students-academics/degree-programs/graduate/phd-ece"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The ECE pages checked do not say whether a faculty sponsor is needed before admission.",
+      "quote": "",
+      "url": "https://www.ecs.baylor.edu/students-academics/degree-programs/graduate/phd-ece"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Nearly all incoming PhD students receive full tuition remission and a multi-year assistantship, per the School's page.",
+      "quote": "Nearly all incoming Ph.D. students receive full tuition remission and a multi-year research or teaching assistantship.",
+      "url": "https://www.ecs.baylor.edu/graduate/tuition-and-financial-support"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants need a bachelor's or master's in ECE or a closely related field.",
+      "quote": "All applicants accepted into the ECE doctoral program must have received a Bachelor of Science or Master of Science degree",
+      "url": "https://www.ecs.baylor.edu/students-academics/degree-programs/graduate/phd-ece"
+    }
+  },
+  "notes": "The catalog's ECE page repeats the GRE requirement. The Graduate School's general rule for GRE is 'Not stated', so the program overrides it.",
+  "name": "Electrical and Computer Engineering, Ph.D."
+}

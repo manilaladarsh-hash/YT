@@ -1,0 +1,46 @@
+{
+  "id": "msstate--math",
+  "university": "msstate",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Department of Mathematics and Statistics",
+  "program_page": "https://www.math.msstate.edu/graduate/procedure",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-01",
+      "value": "On-campus international applicants apply by May 1 for Fall; online international applicants by August 1.",
+      "quote": "Application Semester International (on-campus) Domestic and International (online) Fall May 1 August 1",
+      "url": "https://www.math.msstate.edu/graduate/procedure",
+      "inferred": "year"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by the Graduate Coordinating Committee; a faculty advisor is assigned after entry.",
+      "quote": "Each student in the Ph.D. program is assigned an academic advisor at the beginning of the program.",
+      "url": "https://www.math.msstate.edu/graduate/phd-mathscience"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate teaching assistantships are awarded competitively, mostly for the Fall intake.",
+      "quote": "GTA is available on a COMPETITIVE basis.",
+      "url": "https://www.math.msstate.edu/graduate/procedure"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://www.math.msstate.edu/graduate/procedure"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://www.math.msstate.edu/graduate/procedure"
+    }
+  },
+  "notes": "The Ph.D. in Mathematical Sciences has a Statistics path (path II), so statistics is listed in also_fields. The deadline table is for the Fall term. No GRE or entry-route statement was found on the department pages.",
+  "name": "PhD in Mathematical Sciences"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "baylor",
+  "institution": "Baylor University",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://graduate.baylor.edu/admissions/how-apply",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "International applicants pay a $60 application fee; domestic applicants pay $50.",
+      "quote": "The application fee is $50 for domestic students and $60 for international students.",
+      "url": "https://graduate.baylor.edu/admissions/how-apply"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Application fee waivers are offered only to McNair Scholars and active or retired U.S. military.",
+      "quote": "Application fee waivers are offered only for McNair Scholars and active/retired U.S. military.",
+      "url": "https://graduate.baylor.edu/admissions/how-apply"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School leaves GRE or GMAT to each program; see the program records.",
+      "quote": "Confirm with your prospective program what tests they require/prefer (GRE/GMAT).",
+      "url": "https://graduate.baylor.edu/admissions/how-apply"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "PhD research doctorates need a TOEFL minimum of 4.5.",
+      "quote": "PhD Research Doctorates 4.5",
+      "url": "https://graduate.baylor.edu/admissions/international-applicants/english-proficiency-examination"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS minimum is 6.5 for PhD applicants; Business programs need 7.0.",
+      "quote": "Business 7.0 All others 6.5",
+      "url": "https://graduate.baylor.edu/admissions/international-applicants/english-proficiency-examination"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "An Indian degree counts only if English was the only language of instruction, and you must email Graduate Admissions to request the exemption.",
+      "quote": "You have a conferred bachelor's (or higher) degree from an institution where English is the only language of instruction.",
+      "url": "https://graduate.baylor.edu/admissions/international-applicants/english-proficiency-examination",
+      "also": [
+        {
+          "quote": "you may request an exemption by emailing GraduateAdmissions@baylor.edu.",
+          "url": "https://graduate.baylor.edu/admissions/international-applicants/english-proficiency-examination"
+        }
+      ]
+    }
+  },
+  "notes": "Graduate School rules. The chemistry FAQ says the Graduate School's minimum TOEFL is 80, which conflicts with the Graduate School's 4.5 on its English proficiency page, so 4.5 is kept. Physics FAQ answers on GRE and English tests are collapsed on the cached page and could not be quoted."
+}

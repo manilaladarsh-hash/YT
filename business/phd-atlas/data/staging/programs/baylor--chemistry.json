@@ -1,0 +1,62 @@
+{
+  "id": "baylor--chemistry",
+  "university": "baylor",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry and Biochemistry",
+  "program_page": "https://chemistry.artsandsciences.baylor.edu/graduate/graduate-faqs",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-05",
+      "value": "The deadline is January 5, 2027 for fall 2027 admission; earlier applications are encouraged.",
+      "quote": "January 5 is the deadline, but submission of application materials earlier is strongly encouraged.",
+      "url": "https://chemistry.artsandsciences.baylor.edu/graduate/graduate-faqs",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Chemistry & Biochemistry PhD January 5",
+          "url": "https://graduate.baylor.edu/programs"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "The department waives the application fee only for domestic applicants who apply before December 1.",
+      "quote": "At the moment, only Domestic applicants who submit their application prior to December 1st are eligible for application fee waiver.",
+      "url": "https://chemistry.artsandsciences.baylor.edu/graduate/graduate-faqs",
+      "time_sensitive": "2026-12-01"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The department says GRE scores are optional.",
+      "quote": "GRE and Subject GRE scores are optional.",
+      "url": "https://chemistry.artsandsciences.baylor.edu/graduate/graduate-faqs"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Subject GRE is optional.",
+      "quote": "GRE and Subject GRE scores are optional.",
+      "url": "https://chemistry.artsandsciences.baylor.edu/graduate/graduate-faqs"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No faculty sponsor is needed; first-year students rotate through three labs before choosing one.",
+      "quote": "No, all first year students will do 3 rotations in different labs during their first semester.",
+      "url": "https://chemistry.artsandsciences.baylor.edu/graduate/graduate-faqs"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All graduate students in good standing receive full tuition remission and a competitive stipend.",
+      "quote": "All our graduate students in good standing receive full tuition remission and a competitive stipend.",
+      "url": "https://chemistry.artsandsciences.baylor.edu/graduate/graduate-faqs"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Students are recruited directly into the PhD, with no master's first.",
+      "quote": "all students are recruited directly into our Ph.D. program",
+      "url": "https://chemistry.artsandsciences.baylor.edu/graduate/graduate-faqs"
+    }
+  },
+  "notes": "The FAQ says the Graduate School's minimum TOEFL is 80, but the Graduate School page says 4.5; the university value is kept. The FAQ says most successful applicants score above 90, which is an expectation rather than a rule. Stipend is listed as $33,000 on the FAQ."
+}

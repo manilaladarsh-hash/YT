@@ -1,0 +1,50 @@
+{
+  "id": "msstate--civil",
+  "university": "msstate",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Richard A. Rula School of Civil and Environmental Engineering (Bagley College of Engineering)",
+  "program_page": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/civil-environmental/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-15",
+      "value": "The Ph.D. in Civil Engineering is reviewed for Fall on March 15.",
+      "quote": "all campuses for the Doctor of Philosophy in Engineering with a Civil Engineering Concentration (Ph.D.) degree program are reviewed three times a year, March 15 for Fall semester admission",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/civil-environmental/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE is required unless the bachelor's is from an EAC/ABET-accredited civil, construction or environmental program; no minimum score is set.",
+      "quote": "GRE scores are required for all applicants who do not have an EAC/ABET-accredited civil, construction, or environmental engineering degree.",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/civil-environmental/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admission requires a faculty member in the applicant's sub-discipline who will serve as major professor.",
+      "quote": "Admission requires that the applicant be accepted by a faculty member in their sub-discipline area who is willing to serve as their major professor.",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/civil-environmental/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Regular admission needs a bachelor's or master's in civil engineering (or a related degree).",
+      "quote": "Regular admission requires that the applicant have a Bachelor of Science (B.S., Master of Science (M.S.), or Master of Engineering (M.E.) in Civil Engineering.",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/civil-environmental/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/civil-environmental/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/civil-environmental/"
+    }
+  },
+  "notes": "Covers the Engineering PhD with Civil Engineering concentration; the department's March 15 review date replaces the college's June 1 date. Its lower TOEFL 69 and IELTS 6.0 figures apply to contingent admission, so they were not recorded as the regular minimum.",
+  "name": "Doctor of Philosophy in Engineering (Civil Engineering concentration)"
+}

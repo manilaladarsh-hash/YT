@@ -1,0 +1,68 @@
+{
+  "id": "msstate--mech",
+  "university": "msstate",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering and Department of Aerospace Engineering (Bagley College of Engineering)",
+  "program_page": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/mechanical/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-01",
+      "value": "The college review date for Fall is June 1, unless a department sets an earlier one.",
+      "quote": "The application deadlines for all students are as follows: Fall Semester – June 1",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General is required for applicants whose bachelor's is not from an EAC/ABET-accredited program; the catalog does not say whether Indian degrees count.",
+      "quote": "An entering graduate student with a bachelor’s degree from a program that is not accredited by the Engineering Accreditation Commission of the Accreditation Board for Engineering and Technology (EAC/ABET) must submit GRE general-test scores",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/mechanical/"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Department minimum is TOEFL 550 paper-based (79 iBT).",
+      "quote": "An international student must have a minimum TOEFL score of 550 PBT (79 iBT) or IELTS score of 6.5",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/mechanical/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Department minimum is an IELTS score of 6.5.",
+      "quote": "An international student must have a minimum TOEFL score of 550 PBT (79 iBT) or IELTS score of 6.5",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/mechanical/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Exceptionally qualified bachelor's students can enter the Engineering PhD directly; the degree is also offered after a master's.",
+      "quote": "For exceptionally qualified bachelor’s students, the BCoE offers several direct-admit to the PhD pathways into its various doctoral programs",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/",
+      "also": [
+        {
+          "quote": "Doctor of Philosophy in Engineering - Post Master's",
+          "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/chemical/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/mechanical/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/mechanical/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/mechanical/"
+    }
+  },
+  "notes": "Covers the Engineering PhD with Mechanical and Aerospace concentrations; the Bagley College's June 1 date applies. Aerospace's own catalog page was only checked for admission rules, not for a separate deadline or GRE rule.",
+  "name": "Doctor of Philosophy in Engineering (Mechanical and Aerospace concentrations)"
+}

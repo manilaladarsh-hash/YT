@@ -1,0 +1,56 @@
+{
+  "id": "msstate--cs",
+  "university": "msstate",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science and Engineering",
+  "program_page": "https://www.cse.msstate.edu/grad/admission/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "The primary admission deadline is February 1 for Fall intake.",
+      "quote": "The primary deadlines for admission in all program is February 1 for Fall intake and October 1 for Spring intake.",
+      "url": "https://www.cse.msstate.edu/grad/admission/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department says the GRE is not required for any graduate program, though it helps with assistantships.",
+      "quote": "The GRE is not required of any graduate program at MSState",
+      "url": "https://www.cse.msstate.edu/grad/admission/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Admission and assistantship offers are separate decisions, and faculty select their own research assistants.",
+      "quote": "Admission and financial assistantships are separate decisions.",
+      "url": "https://www.cse.msstate.edu/grad/phd-cs/",
+      "also": [
+        {
+          "quote": "Each faculty member selects his/her own Research Assistants (RA)",
+          "url": "https://www.cse.msstate.edu/assistantships/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students can enter directly from a bachelor's degree or with a previous master's degree.",
+      "quote": "Direct admit with a B.S. and programs for students with a previous M.S. are both available.",
+      "url": "https://www.cse.msstate.edu/grad/phd-cs/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://www.cse.msstate.edu/grad/admission/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://www.cse.msstate.edu/grad/admission/"
+    }
+  },
+  "notes": "The page says online PhD applicants must name a major professor in their statement; no rule for on-campus applicants is stated, so supervisor is Not stated.",
+  "name": "Doctor of Philosophy in Computer Science"
+}

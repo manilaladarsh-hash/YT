@@ -1,0 +1,62 @@
+{
+  "id": "msstate--bme",
+  "university": "msstate",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Agricultural and Biological Engineering (Biomedical Engineering program)",
+  "program_page": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/biomedical/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-01",
+      "value": "The college review date for Fall is June 1; the program page gives no separate date.",
+      "quote": "The application deadlines for all students are as follows: Fall Semester – June 1",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE scores are required for regular admission to the MS or PhD.",
+      "quote": "Regular admission into the M.S. or Ph.D. programs requires the student meet the following criteria | Submit GRE scores",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/biomedical/"
+    },
+    "toefl_min": {
+      "code": "96",
+      "value": "Department minimum is TOEFL 600 paper-based (96 iBT) if the test applies.",
+      "quote": "if applicable, a TOEFL score of 600 PBT (96 iBT) or IELTS score of 7.5 or greater",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/biomedical/"
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "Department minimum is an IELTS score of 7.5.",
+      "quote": "if applicable, a TOEFL score of 600 PBT (96 iBT) or IELTS score of 7.5 or greater",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/biomedical/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A member of the biomedical engineering graduate faculty must accept the applicant.",
+      "quote": "Be accepted as a student by a member of the biomedical engineering graduate faculty",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/biomedical/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A PhD applicant should hold an M.S. in an engineering discipline; exceptional B.S. holders may be considered.",
+      "quote": "A student entering the Ph.D. program should have an M.S. in an engineering discipline",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/biomedical/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/biomedical/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://catalog.msstate.edu/graduate/colleges-degree-programs/engineering/biomedical/"
+    }
+  },
+  "notes": "Administered through Agricultural and Biological Engineering for the College of Engineering. The GPA rule for the PhD is 3.00 or higher. No funding rule was found on the program page.",
+  "name": "Doctor of Philosophy in Biomedical Engineering"
+}

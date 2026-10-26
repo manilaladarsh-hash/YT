@@ -1,0 +1,46 @@
+{
+  "id": "msstate--earth",
+  "university": "msstate",
+  "field": "earth",
+  "also_fields": [
+    "environment"
+  ],
+  "department": "Department of Geosciences",
+  "program_page": "https://www.geosciences.msstate.edu/academics/graduate/apply",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Submit the assistantship application and CV by January 15 to be considered in the first funding round.",
+      "quote": "the Department of Geosciences has a deadline of January 15th for the given year to be considered for assistantship funding for the subsequent Fall semester",
+      "url": "https://www.geosciences.msstate.edu/academics/graduate/apply",
+      "inferred": "year"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Doctoral applicants must identify a dissertation mentor before admission.",
+      "quote": "All applicants for the Doctoral program must identify a mentor (dissertation supervisor) prior to acceptance into the program.",
+      "url": "https://www.geosciences.msstate.edu/academics/graduate/phd-earth-and-atmospheric-sciences"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "There are more applicants than assistantship positions.",
+      "quote": "We often have more applications than available assistantship positions",
+      "url": "https://www.geosciences.msstate.edu/academics/graduate/apply"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Doctoral applicants must already hold a thesis-based master's degree.",
+      "quote": "Applicants to the Doctoral program are required to have completed a thesis-based Master’s degree",
+      "url": "https://www.geosciences.msstate.edu/academics/graduate/phd-earth-and-atmospheric-sciences"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://www.geosciences.msstate.edu/academics/graduate/apply"
+    }
+  },
+  "notes": "The degree is Earth and Atmospheric Sciences, so environment is included in also_fields. The program requires a GPA of at least 3.00 and Starkville residency for coursework. No GRE or English rule is stated, so the university values apply.",
+  "name": "Doctor of Philosophy in Earth and Atmospheric Sciences"
+}

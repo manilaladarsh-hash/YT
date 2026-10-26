@@ -1,0 +1,61 @@
+{
+  "id": "baylor--biology",
+  "university": "baylor",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://biology.artsandsciences.baylor.edu/graduate/graduate-programs-and-degrees",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications for fall 2027 admission are due December 1, 2026.",
+      "quote": "Deadline for applications to the Biology PhD, MS, and MA Health Professions programs is December 1 of the year preceding admission.",
+      "url": "https://biology.artsandsciences.baylor.edu/graduate/graduate-programs-and-degrees",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Biology PhD December 1",
+          "url": "https://graduate.baylor.edu/programs"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The biology page lists a $50 application fee; the Graduate School lists $60 for international applicants.",
+      "quote": "$50 application fee (can be submitted electronically with your application).",
+      "url": "https://biology.artsandsciences.baylor.edu/graduate/graduate-programs-and-degrees"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE General scores may be submitted but are not required for admission.",
+      "quote": "Applicants may also submit official scores from the Graduate Record Examination (GRE) General Test, taken within the last five years, but it is not required for admission.",
+      "url": "https://catalog.baylor.edu/graduate-school/curriculum-departments-institutes-instruction/college-arts-sciences/biology/phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is mentioned for biology.",
+      "quote": "",
+      "url": "https://catalog.baylor.edu/graduate-school/curriculum-departments-institutes-instruction/college-arts-sciences/biology/phd/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "EEO applicants are expected to contact faculty directly; CMHD students match with a mentor after first-year rotations.",
+      "quote": "It's critical for EEO applicants to contact faculty directly to express their interest in working with them.",
+      "url": "https://biology.artsandsciences.baylor.edu/graduate/graduate-programs-and-degrees"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Assistantship funding is prioritized for PhD students and follows fall admission.",
+      "quote": "we prioritize assistantship funding for Ph.D. students.",
+      "url": "https://biology.artsandsciences.baylor.edu/graduate/graduate-programs-and-degrees"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's in biology is required, and an M.S. is preferred for PhD applicants.",
+      "quote": "Applicants accepted to our Ph.D. or Master-level programs possess at least a B.S. degree (M.S. preferred for Ph.D. degree applicants)",
+      "url": "https://biology.artsandsciences.baylor.edu/graduate/graduate-programs-and-degrees"
+    }
+  },
+  "notes": "The biology page says a CMHD track exists within the Biology PhD. That track was not mapped to the biomedical field, since Baylor has no separate biomedical PhD in the Graduate School table."
+}

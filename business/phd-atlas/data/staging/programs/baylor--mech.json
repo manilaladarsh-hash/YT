@@ -1,0 +1,50 @@
+{
+  "id": "baylor--mech",
+  "university": "baylor",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Mechanical Engineering (School of Engineering and Computer Science)",
+  "program_page": "https://www.ecs.baylor.edu/students-academics/degree-programs/graduate-degrees/doctor-philosophy-mechanical-engineering",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The fall financial-aid priority deadline is January 15, 2027; the spring deadline is December 1.",
+      "quote": "Mechanical Engineering Ph.D. Fall (financial aid priority) - January 15",
+      "url": "https://graduate.baylor.edu/programs",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE is required of all applicants.",
+      "quote": "The GRE exam is required of all applicants.",
+      "url": "https://www.ecs.baylor.edu/students-academics/degree-programs/graduate-degrees/doctor-philosophy-mechanical-engineering"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is mentioned for mechanical engineering.",
+      "quote": "",
+      "url": "https://www.ecs.baylor.edu/students-academics/degree-programs/graduate-degrees/doctor-philosophy-mechanical-engineering"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The ME pages checked do not say whether a faculty sponsor is needed before admission.",
+      "quote": "",
+      "url": "https://www.ecs.baylor.edu/students-academics/degree-programs/graduate-degrees/doctor-philosophy-mechanical-engineering"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Nearly all incoming PhD students receive full tuition remission and a multi-year assistantship, per the School's page.",
+      "quote": "Nearly all incoming Ph.D. students receive full tuition remission and a multi-year research or teaching assistantship.",
+      "url": "https://www.ecs.baylor.edu/graduate/tuition-and-financial-support"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants must hold a Bachelor of Science in mechanical engineering or a closely related field.",
+      "quote": "All applicants accepted into the Mechanical Engineering (ME) doctoral program must have received a Bachelor of Science degree in mechanical engineering or closely related fields.",
+      "url": "https://www.ecs.baylor.edu/students-academics/degree-programs/graduate-degrees/doctor-philosophy-mechanical-engineering"
+    }
+  },
+  "notes": "The ME catalog repeats the GRE requirement. No ME-specific funding page was found; the School's general PhD funding statement is used.",
+  "name": "Mechanical Engineering, Ph.D."
+}

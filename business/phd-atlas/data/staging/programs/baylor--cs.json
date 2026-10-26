@@ -1,0 +1,80 @@
+{
+  "id": "baylor--cs",
+  "university": "baylor",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science (School of Engineering and Computer Science)",
+  "program_page": "https://www.ecs.baylor.edu/departments/computer-science/graduate-application-requirements",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "The financial-aid deadline for fall 2027 is February 15, 2027; the spring deadline is October 1.",
+      "quote": "The PhD application deadlines for financial aid are February 15 for the fall semester and October 1 for the spring semester.",
+      "url": "https://www.ecs.baylor.edu/departments/computer-science/graduate-application-requirements",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Computer Science Ph.D. Fall (eligible for financial aid) - February 15",
+          "url": "https://graduate.baylor.edu/programs"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The computer science application fee is $50 and cannot be waived.",
+      "quote": "$50 Application Fee (cannot be waived)",
+      "url": "https://www.ecs.baylor.edu/departments/computer-science/graduate-application-requirements"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The computer science application fee cannot be waived.",
+      "quote": "$50 Application Fee (cannot be waived)",
+      "url": "https://www.ecs.baylor.edu/departments/computer-science/graduate-application-requirements"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional for PhD admission; the department encourages submitting them if you have them.",
+      "quote": "The submission of GRE scores is optional for PhD applicants, but you are highly recommended to submit the scores if you already have them.",
+      "url": "https://www.ecs.baylor.edu/departments/computer-science/graduate-application-requirements",
+      "also": [
+        {
+          "quote": "The submission of GRE score is optional for admission.",
+          "url": "https://catalog.baylor.edu/graduate-school/curriculum-departments-institutes-instruction/school-engineering-computer-science/computer-science/computer-science-phd/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is mentioned for computer science.",
+      "quote": "",
+      "url": "https://www.ecs.baylor.edu/departments/computer-science/graduate-application-requirements"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The computer science page does not say whether a faculty sponsor is needed.",
+      "quote": "",
+      "url": "https://www.ecs.baylor.edu/departments/computer-science/graduate-application-requirements"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Nearly all incoming PhD students receive full tuition remission and a multi-year assistantship.",
+      "quote": "Nearly all incoming Ph.D. students receive full tuition remission and a multi-year research or teaching assistantship.",
+      "url": "https://www.ecs.baylor.edu/graduate/tuition-and-financial-support"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants need a bachelor's or master's in computer science or a closely related field.",
+      "quote": "All students in the Computer Science (CSI) doctoral program must have a Bachelor of Science or Master of Science degree in computer science or a closely related field.",
+      "url": "https://catalog.baylor.edu/graduate-school/curriculum-departments-institutes-instruction/school-engineering-computer-science/computer-science/computer-science-phd/"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "A degree from an institution where English is the language of instruction waives the test, so an English-medium Indian degree qualifies.",
+      "quote": "International applicants must submit their TOEFL or IELTS scores unless you have a degree from an institution where the language of instruction is English.",
+      "url": "https://www.ecs.baylor.edu/departments/computer-science/graduate-application-requirements"
+    }
+  },
+  "notes": "The department's $50 fee differs from the Graduate School's $60 for international applicants; the department value is used.",
+  "name": "Computer Science, Ph.D."
+}

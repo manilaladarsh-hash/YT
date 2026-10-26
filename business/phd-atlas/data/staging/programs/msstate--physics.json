@@ -1,0 +1,58 @@
+{
+  "id": "msstate--physics",
+  "university": "msstate",
+  "field": "physics",
+  "also_fields": [
+    "astronomy"
+  ],
+  "department": "Department of Physics and Astronomy",
+  "program_page": "https://www.physics.msstate.edu/graduate/how-apply",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Complete the application by February 1 for Fall admission; the domestic deadline is July 1.",
+      "quote": "An interested international student should try to complete the application by February 1 for Fall admission in order to receive full attention.",
+      "url": "https://www.physics.msstate.edu/graduate/how-apply",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE General and Subject tests are recommended, not required.",
+      "quote": "The GRE exam and GRE subject exam are recommended, but not required",
+      "url": "https://www.physics.msstate.edu/graduate/how-apply"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The GRE Physics subject test is recommended, not required.",
+      "quote": "The GRE exam and GRE subject exam are recommended, but not required",
+      "url": "https://www.physics.msstate.edu/graduate/how-apply"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission does not depend on a faculty supervisor; the graduate coordinator advises until a research advisor is found within a year.",
+      "quote": "Before that, the graduate coordinator is the academic advisor of the student.",
+      "url": "https://www.physics.msstate.edu/graduate/phd-degree-programs"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The department admits a student only if it can offer a teaching or research assistantship.",
+      "quote": "The department has the policy to only admit a student if we can offer that student an assistantship (teaching or research assistant).",
+      "url": "https://www.physics.msstate.edu/graduate/how-apply",
+      "also": [
+        {
+          "quote": "Continuing financial support is contingent upon the student maintaining at least a 3.00 GPA and making satisfactory progress towards the degree",
+          "url": "https://www.physics.msstate.edu/graduate/phd-degree-programs"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://www.physics.msstate.edu/graduate/how-apply"
+    }
+  },
+  "notes": "The Applied Physics PhD is applied for through the Bagley College of Engineering (Engineering major, Applied Physics concentration); its rules were not checked. The catalog lists Astrophysics among the Physics PhD major areas, which is why astronomy is included. No entry-route statement was found.",
+  "name": "Doctor of Philosophy in Physics"
+}

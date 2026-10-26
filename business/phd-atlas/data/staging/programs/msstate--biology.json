@@ -1,0 +1,68 @@
+{
+  "id": "msstate--biology",
+  "university": "msstate",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://www.biology.msstate.edu/degree-programs/graduate-programs",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-07-01",
+      "value": "Apply by July 1 for the Fall term to have priority for assistantships; international applicants should aim about a month earlier.",
+      "quote": "priority for assigning assistantships will be given to students who apply no later than July 1st for the Fall semester",
+      "url": "https://www.biology.msstate.edu/degree-programs/graduate-programs",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "If you are not a US citizen you should target a deadline of about one month earlier than stated above.",
+          "url": "https://www.biology.msstate.edu/degree-programs/graduate-programs"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "A GRE General score is required, with no department minimum score.",
+      "quote": "and submission of GRE general examination scores",
+      "url": "https://www.biology.msstate.edu/degree-programs/graduate-programs"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The GRE Subject exam is not required.",
+      "quote": "We do not require the GRE subject area exam.",
+      "url": "https://www.biology.msstate.edu/degree-programs/graduate-programs"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The page equates 550 paper-based with an internet-based TOEFL of 79-80; 80 is recorded to be safe.",
+      "quote": "International students should score at least 550 on the TOEFL (written exam: CBSS, or Computer-Based Score Scale = 213; Internet-based TOEFL = 79-80) or a score of at least 6.5 on the IELTS (International English Language Testing System) exam",
+      "url": "https://www.biology.msstate.edu/degree-programs/graduate-programs"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Department minimum is an IELTS score of 6.5.",
+      "quote": "International students should score at least 550 on the TOEFL (written exam: CBSS, or Computer-Based Score Scale = 213; Internet-based TOEFL = 79-80) or a score of at least 6.5 on the IELTS (International English Language Testing System) exam",
+      "url": "https://www.biology.msstate.edu/degree-programs/graduate-programs"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are advised to contact a potential major professor before applying; few are admitted without contact.",
+      "quote": "it is advised that potential applicants make contact with an appropriate major professor/thesis advisor prior to applying",
+      "url": "https://www.biology.msstate.edu/degree-programs/graduate-programs"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Only a limited number of teaching and research assistantships are available.",
+      "quote": "A limited number of teaching and research assistantships are available in the Department.",
+      "url": "https://www.biology.msstate.edu/degree-programs/graduate-programs"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The page's general requirement is a bachelor's degree; no master's is named.",
+      "quote": "The general requirements for students wishing to pursue graduate studies at Mississippi State are a bachelor's degree",
+      "url": "https://www.biology.msstate.edu/degree-programs/graduate-programs"
+    }
+  },
+  "notes": "Covers the Biological Sciences PhD only. The Life Sciences and Molecular Biology PhDs are separate catalog programs and were not saved. The page refers to Fall 2023 workshops, so it may be dated.",
+  "name": "Doctor of Philosophy in Biological Sciences"
+}

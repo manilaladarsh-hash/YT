@@ -1,0 +1,64 @@
+{
+  "id": "baylor--statistics",
+  "university": "baylor",
+  "field": "statistics",
+  "also_fields": [
+    "datasci"
+  ],
+  "department": "Department of Statistical Science",
+  "program_page": "https://statistics.artsandsciences.baylor.edu/graduate/how-apply",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Admission is for summer 2027 only; materials must arrive by January 15, 2027 to be considered for funding.",
+      "quote": "To be considered for funding, required admissions materials must be received by January 15.",
+      "url": "https://statistics.artsandsciences.baylor.edu/graduate/how-apply",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Statistical Science Ph.D. January 15",
+          "url": "https://graduate.baylor.edu/programs"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General verbal and quantitative scores are required.",
+      "quote": "GRE scores (verbal & quantitative)",
+      "url": "https://statistics.artsandsciences.baylor.edu/graduate/how-apply"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is mentioned on the statistics page.",
+      "quote": "",
+      "url": "https://statistics.artsandsciences.baylor.edu/graduate/how-apply"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The statistics page does not say whether a faculty sponsor is needed.",
+      "quote": "",
+      "url": "https://statistics.artsandsciences.baylor.edu/graduate/how-apply"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Ph.D. applicants are considered for an assistantship and tuition waiver, awarded competitively.",
+      "quote": "Ph.D. applicants will be considered for a graduate assistantship and a tuition waiver. These awards are made on a competitive basis.",
+      "url": "https://statistics.artsandsciences.baylor.edu/graduate/how-apply"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The Graduate School requires a bachelor's or equivalent degree, and the statistics page lists no master's requirement.",
+      "quote": "Graduate School applicants must hold a bachelor's or equivalent professional degree.",
+      "url": "https://graduate.baylor.edu/admissions/international-applicants"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "The statistics page waives TOEFL only for a U.S.-accredited degree, so an Indian degree does not qualify here.",
+      "quote": "International students are required to submit TOEFL scores unless they have received a degree from a U.S.-accredited higher education institution.",
+      "url": "https://statistics.artsandsciences.baylor.edu/graduate/how-apply"
+    }
+  },
+  "notes": "The Data Science concentration is a track of this PhD (https://statistics.artsandsciences.baylor.edu/graduate/doctor-philosophy-phd/data-science-concentration), so datasci is listed as an also_field rather than a separate program. Admits summer only, per the statistics page and the Graduate School table.",
+  "name": "Statistics, Ph.D."
+}

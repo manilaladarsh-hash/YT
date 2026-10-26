@@ -1,0 +1,79 @@
+{
+  "id": "tulane--biology",
+  "university": "tulane",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Cell and Molecular Biology",
+  "program_page": "https://sse.tulane.edu/cell/graduate-doctoral-program/apply-doctoral-program",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "No application fee for the Cell and Molecular Biology PhD.",
+      "quote": "There is no application fee.",
+      "url": "https://sse.tulane.edu/cell/graduate-doctoral-program/apply-doctoral-program"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The School of Science and Engineering does not require the GRE.",
+      "quote": "The GRE is not required.",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The GRE is not required for School of Science and Engineering applicants.",
+      "quote": "The GRE is not required.",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "Cell and Molecular Biology requires TOEFL iBT 100 from applicants whose country does not use English as its official language.",
+      "quote": "A minimum TOEFL score of 600 on the paper version, 250 on the computer version, or 100 on the Internet based version is required.",
+      "url": "https://sse.tulane.edu/cell/graduate-doctoral-program/apply-doctoral-program"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "School of Science and Engineering minimum: IELTS Academic 7.0 overall.",
+      "quote": "Minimum overall band score on IELTS Academic: 7.0.",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Advised to identify at least one faculty member whose research matches theirs before applying.",
+      "quote": "it is helpful to identify at least one faculty member who has a background and research in the area in which you are most interested in studying",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The school offers teaching or research assistantships to all incoming PhD students.",
+      "quote": "offers Teaching Assistantships and/or Research Assistantships to all incoming PhD students",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need an undergraduate degree before starting; no master's is listed as required.",
+      "quote": "Earned an undergraduate degree from an accredited institution prior to the first semester of proposed graduate study",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    },
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Ecology and Evolutionary Biology closes December 1, 2026; Cell and Molecular Biology closes January 1, 2027.",
+      "quote": "PhD Ecology and Evolutionary Biology 12/01/2026",
+      "url": "https://sse.tulane.edu/graduate/admissions",
+      "also": [
+        {
+          "quote": "Applications for Fall 2027 admission into the Cell and Molecular Biology Doctoral Program will be accepted from October 1, 2026 through January 1, 2027.",
+          "url": "https://sse.tulane.edu/cell/graduate-doctoral-program/apply-doctoral-program"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The page requires TOEFL only from countries where English is not the official language; it does not say whether India counts.",
+      "quote": "TOEFL scores are required of students from countries in which English is not the official language.",
+      "url": "https://sse.tulane.edu/cell/graduate-doctoral-program/apply-doctoral-program"
+    }
+  },
+  "notes": "Covers two School PhDs. Cell and Molecular Biology page: deadline January 1, 2027 and TOEFL 100. Ecology and Evolutionary Biology: only the School table deadline (December 1, 2026) was available; its department admissions page returned 403.",
+  "name": "Cell and Molecular Biology, PhD (with Ecology and Evolutionary Biology, PhD)"
+}

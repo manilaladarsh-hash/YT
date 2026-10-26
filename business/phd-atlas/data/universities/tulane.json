@@ -1,0 +1,47 @@
+{
+  "id": "tulane",
+  "institution": "Tulane University",
+  "country": "USA",
+  "region": "Louisiana",
+  "grad_page": "https://ogps.tulane.edu/prospective-graduate-students",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The graduate school lists an application fee only for some programs, so each school sets its own.",
+      "quote": "Application fee (some programs)",
+      "url": "https://tulane.edu/graduate-admission"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "The graduate school does not handle fee waivers; applicants contact the program's Director of Graduate Studies.",
+      "quote": "Please contact the department's Director of Graduate Studies of the program of interest for information related to fee waivers.",
+      "url": "https://ogps.tulane.edu/faqs"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE requirements vary by department; see each program record.",
+      "quote": "Requirements for applicants taking the General Test of the Graduate Record Examination (GRE) vary by department.",
+      "url": "https://ogps.tulane.edu/prospective-students"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The graduate school sets no number; each program states its own minimum.",
+      "quote": "Be sure to check with your program of interest for information on the required minimum test scores.",
+      "url": "https://ogps.tulane.edu/prospective-graduate-students"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The graduate school sets no number; each program states its own minimum.",
+      "quote": "Be sure to check with your program of interest for information on the required minimum test scores.",
+      "url": "https://ogps.tulane.edu/prospective-graduate-students"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The graduate school names no exemption for an English-medium Indian degree; the school or program states its own rule.",
+      "quote": "",
+      "url": "https://ogps.tulane.edu/prospective-graduate-students"
+    }
+  },
+  "notes": "Graduate school (OGPS) sets no university-wide fee, GRE or English minimum. The School of Science and Engineering, School of Medicine (Biomedical Sciences) and School of Public Health each set their own rules, recorded as overrides in their program records."
+}

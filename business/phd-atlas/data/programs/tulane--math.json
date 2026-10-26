@@ -1,0 +1,73 @@
+{
+  "id": "tulane--math",
+  "university": "tulane",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://sse.tulane.edu/math/phd/admissions",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "The mathematics PhD has no application fee.",
+      "quote": "No application fee is required.",
+      "url": "https://sse.tulane.edu/math/phd/admissions"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The mathematics PhD does not require the GRE.",
+      "quote": "The GRE Test is not required for admission to any of our graduate programs.",
+      "url": "https://sse.tulane.edu/math/phd/admissions"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The mathematics PhD does not require the GRE.",
+      "quote": "The GRE Test is not required for admission to any of our graduate programs.",
+      "url": "https://sse.tulane.edu/math/phd/admissions"
+    },
+    "toefl_min": {
+      "code": "87",
+      "value": "School of Science and Engineering minimum: TOEFL iBT 87 overall.",
+      "quote": "Minimum overall score on TOEFL iBT: 87.",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "School of Science and Engineering minimum: IELTS Academic 7.0 overall.",
+      "quote": "Minimum overall band score on IELTS Academic: 7.0.",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Advised to identify at least one faculty member whose research matches theirs before applying.",
+      "quote": "it is helpful to identify at least one faculty member who has a background and research in the area in which you are most interested in studying",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted students get full funding: a tuition waiver plus a stipend.",
+      "quote": "The Tulane Mathematics Ph.D. program offers full funding (tuition waiver plus stipend) to all admitted students.",
+      "url": "https://sse.tulane.edu/math/phd/admissions"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Students who already hold undergraduate degrees in mathematics or other sciences are encouraged to apply.",
+      "quote": "people who already hold undergraduate degrees in mathematics or other sciences, are encouraged to apply for admission to PhD program in Mathematics",
+      "url": "https://catalog.tulane.edu/science-engineering/mathematics/mathematics-phd/"
+    },
+    "deadline": {
+      "code": "2026-12-05",
+      "value": "Application deadline December 5, 2026 for Fall 2027 entry; the page shows no year.",
+      "quote": "Application Deadline: December 5",
+      "url": "https://sse.tulane.edu/math/phd/admissions",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "PhD Mathematics 12/5/2026",
+          "url": "https://sse.tulane.edu/graduate/admissions"
+        }
+      ]
+    }
+  },
+  "notes": "The math page defers English rules to the School of Science and Engineering (TOEFL 87, IELTS 7.0). A placement exam is taken in the first semester (catalog); not an admissions rule."
+}
