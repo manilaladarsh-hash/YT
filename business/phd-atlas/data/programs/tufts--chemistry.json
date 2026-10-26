@@ -1,0 +1,54 @@
+{
+  "id": "tufts--chemistry",
+  "university": "tufts",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://asegrad.tufts.edu/program/chemistry-doctorate",
+  "checked": "2026-10-26",
+  "fields": {
+    "gre_general": {
+      "code": "Not required",
+      "value": "The chemistry department says no GRE scores are required for its applications.",
+      "quote": "No GRE scores are required for Chemistry applications.",
+      "url": "https://chem.tufts.edu/academics/graduate-programs"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE, including the Chemistry subject test, is required for Tufts chemistry applications.",
+      "quote": "No GRE scores are required for Chemistry applications.",
+      "url": "https://chem.tufts.edu/academics/graduate-programs"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You do not need a faculty member's support to apply; you choose a research supervisor in your first semester.",
+      "quote": "Applicants do not need the support of a current faculty member to apply to this program.",
+      "url": "https://asegrad.tufts.edu/program/chemistry-doctorate",
+      "also": [
+        {
+          "quote": "Doctoral students become well acquainted with the faculty and, based on mutual interests, select a research supervisor during their first semester.",
+          "url": "https://chem.tufts.edu/academics/graduate-programs"
+        }
+      ]
+    },
+    "deadline": {
+      "code": "Not stated",
+      "value": "The official page prints a day and month without a year (for example 'Fall: December 1 (final)'), so no Fall 2027 date is stated.",
+      "quote": "",
+      "url": "https://asegrad.tufts.edu/program/chemistry-doctorate"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The official pages checked do not state that all or most admitted students are funded.",
+      "quote": "",
+      "url": "https://asegrad.tufts.edu/program/chemistry-doctorate"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The official programme page does not say whether a bachelor's or a master's is needed.",
+      "quote": "",
+      "url": "https://asegrad.tufts.edu/program/chemistry-doctorate"
+    }
+  },
+  "notes": "Separate GSAS doctorates also exist for Chemistry/Biotechnology and Chemical Physics (run with Physics); their pages were not used for field values. The official deadline lists 'Fall: December 1 (final)' with no year, so deadline is Not stated. Stipend terms are not stated on the programme pages."
+}

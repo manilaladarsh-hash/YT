@@ -1,0 +1,54 @@
+{
+  "id": "tufts--cs",
+  "university": "tufts",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://asegrad.tufts.edu/program/computer-science-doctorate",
+  "checked": "2026-10-26",
+  "fields": {
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE is required unless you will already hold a degree from a US or Canadian institution by the time you enrol, so most applicants from India must sit it.",
+      "quote": "GRE General Test scores are not required for applicants who will have received a degree from an institution located in the U.S. or Canada by the time of enrollment.",
+      "url": "https://asegrad.tufts.edu/program/computer-science-doctorate",
+      "also": [
+        {
+          "quote": "GRE General Test scores are not required for applicants who will have received a degree from an institution located in the U.S. or Canada by the time of enrollment.",
+          "url": "https://asegrad.tufts.edu/program/computer-science-doctorate"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is granted by the department, not to a faculty member's research group, so you do not need a supervisor's agreement to apply.",
+      "quote": "Tufts offers a PhD program in Computer Science, with admission granted at the department level, not to individual faculty members’ research groups.",
+      "url": "https://engineering.tufts.edu/cs/prospective-students/phd"
+    },
+    "deadline": {
+      "code": "Not stated",
+      "value": "The official page prints a day and month without a year (for example 'Fall: December 1 (final)'), so no Fall 2027 date is stated.",
+      "quote": "",
+      "url": "https://asegrad.tufts.edu/program/computer-science-doctorate"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The official programme page states no subject GRE rule.",
+      "quote": "",
+      "url": "https://asegrad.tufts.edu/program/computer-science-doctorate"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The official pages checked do not state that all or most admitted students are funded.",
+      "quote": "",
+      "url": "https://asegrad.tufts.edu/program/computer-science-doctorate"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The official programme page does not say whether a bachelor's or a master's is needed.",
+      "quote": "",
+      "url": "https://asegrad.tufts.edu/program/computer-science-doctorate"
+    }
+  },
+  "notes": "The Human-Robot Interaction doctorate is a joint PhD with Mechanical and ECE; its own page is not used for field values here. The programme lists machine-learning research areas, but no separate data-science, AI or ML PhD exists, so no datasci record. Competitive TOEFL 100 / IELTS 7.5 are not minimums and are not used. The official deadline 'Fall: December 15 (final)' has no year, so deadline is Not stated."
+}
