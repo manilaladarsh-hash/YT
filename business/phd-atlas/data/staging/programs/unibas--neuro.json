@@ -1,0 +1,43 @@
+{
+  "id": "unibas--neuro",
+  "university": "unibas",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Neuroscience Network",
+  "program_page": "https://neuronetwork.unibas.ch/en/education/admission/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The neuroscience admission page links to general application pages and gives no deadline.",
+      "quote": "",
+      "url": "https://neuronetwork.unibas.ch/en/education/admission/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Psychology or other GRE subject test is mentioned.",
+      "quote": "",
+      "url": "https://neuronetwork.unibas.ch/en/education/admission/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The fetched admission page does not describe supervisor rules.",
+      "quote": "",
+      "url": "https://neuronetwork.unibas.ch/en/education/admission/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The fetched admission page does not describe funding.",
+      "quote": "",
+      "url": "https://neuronetwork.unibas.ch/en/education/admission/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Matriculation requires a master's degree; neurosciences are not offered as a bachelor's or master's field in Basel.",
+      "quote": "Matriculants are required to have a Master’s degree",
+      "url": "https://neuronetwork.unibas.ch/en/education/admission/"
+    }
+  },
+  "notes": "Neurobiology is an official PhD subject of the Faculty of Science. The admission page is thin and links to general pages, so most fields are Not stated.",
+  "name": "PhD in Neurobiology"
+}

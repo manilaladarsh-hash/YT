@@ -1,0 +1,48 @@
+{
+  "id": "lund--chemistry",
+  "university": "lund",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Chemistry (LTH third-cycle subject)",
+  "program_page": "https://www.phd.lth.se/fileadmin/phd/files/allm_studieplaner/Kemi_2026-06-25_en.pdf",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "LTH advertises doctoral positions throughout the year, with no fixed application date.",
+      "quote": "LTH does not apply fixed application times, but a doctoral position can be advertised at any time throughout the year",
+      "url": "https://www.lth.se/english/study-at-lth/phd-studies/how-to-become-a-phd-student/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The LTH chemistry syllabus does not mention the GRE Chemistry subject test.",
+      "quote": "",
+      "url": "https://www.phd.lth.se/fileadmin/phd/files/allm_studieplaner/Kemi_2026-06-25_en.pdf"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The LTH pages set no rule on supervisor agreement before admission.",
+      "quote": "",
+      "url": "https://www.lth.se/english/study-at-lth/phd-studies/how-to-become-a-phd-student/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "LTH says the most common route is employment as a doctoral student, and funding must be secured for the whole education.",
+      "quote": "The most common form of funding is through employment as a doctoral student",
+      "url": "https://www.lth.se/english/study-at-lth/phd-studies/how-to-become-a-phd-student/",
+      "also": [
+        {
+          "quote": "For you to be enrolled as a doctoral student, funding is required for your entire education",
+          "url": "https://www.lth.se/english/study-at-lth/phd-studies/how-to-become-a-phd-student/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Entry needs a second-cycle qualification, or 240 credits including 60 at second-cycle level. The chemistry syllabus adds a 120-credit specific requirement, typically chemistry courses.",
+      "quote": "has been awarded a second-cycle qualification",
+      "url": "https://www.phd.lth.se/fileadmin/phd/files/allm_studieplaner/Kemi_2026-06-25_en.pdf"
+    }
+  },
+  "notes": "Only the LTH Chemistry subject plan was reached. Science Faculty chemistry department pages (chem.lu.se) returned HTTP 502 through the proxy, so Analytical, Inorganic, Organic and Physical Chemistry are not separately covered."
+}

@@ -1,0 +1,47 @@
+{
+  "id": "upc",
+  "institution": "Universitat Politècnica de Catalunya (UPC)",
+  "country": "Spain",
+  "region": "Catalonia",
+  "grad_page": "https://doctorat.upc.edu/en/future-doctoral-candidates/access-and-admission/general-entrance-requirements",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The fee pages list enrolment, tutorial and certificate fees set by the Catalan government; no application fee is stated.",
+      "quote": "",
+      "url": "https://doctorat.upc.edu/en/programmes/doctoral-candidates/enrolment/fees"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application fee exists on the pages checked, so no application fee waiver is stated.",
+      "quote": "",
+      "url": "https://doctorat.upc.edu/en/programmes/doctoral-candidates/enrolment/fees"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement appears on the Doctoral School's general entrance or admission pages.",
+      "quote": "",
+      "url": "https://doctorat.upc.edu/en/future-doctoral-candidates/access-and-admission/general-entrance-requirements"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The Doctoral School sets no university-wide TOEFL score; each programme sets its own English rule.",
+      "quote": "",
+      "url": "https://doctorat.upc.edu/en/future-doctoral-candidates/access-and-admission/general-entrance-requirements"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The Doctoral School sets no university-wide IELTS score; each programme sets its own English rule.",
+      "quote": "",
+      "url": "https://doctorat.upc.edu/en/future-doctoral-candidates/access-and-admission/general-entrance-requirements"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The general entrance page does not mention Indian or English-medium degrees; each programme sets its own English rule.",
+      "quote": "",
+      "url": "https://doctorat.upc.edu/en/future-doctoral-candidates/access-and-admission/general-entrance-requirements"
+    }
+  },
+  "notes": "Fetched: general entrance requirements; admissions calendar; enrolment fees page (2025-26 decree, enrolment and certificate fees only); predoctoral grants page; admission procedure page (its accordion text is not visible to the fetcher, so it is not used). No UPC-wide English test, GRE, application fee or fee waiver found. Programme-level English rules are on each programme record. Not fetched: the department-level admission sites for Statistics and Operations Research and Mechanical Engineering (Terrassa). Two eebe.upc.edu department pages (Chemical Process Engineering and Materials Science, Catalan URLs) returned 404; programme overview text on doctorat.upc.edu was used instead."
+}

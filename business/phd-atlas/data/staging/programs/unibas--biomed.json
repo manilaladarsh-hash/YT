@@ -1,0 +1,51 @@
+{
+  "id": "unibas--biomed",
+  "university": "unibas",
+  "field": "biomed",
+  "also_fields": [
+    "bme"
+  ],
+  "department": "Graduate School of Medical and Health Sciences (GSMHS)",
+  "program_page": "https://gsmhs.unibas.ch/en/join-us/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The GSMHS join-us page gives no deadline; admission follows the university's central application.",
+      "quote": "",
+      "url": "https://gsmhs.unibas.ch/en/join-us/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE subject test is mentioned.",
+      "quote": "",
+      "url": "https://gsmhs.unibas.ch/en/join-us/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Find a PhD supervisor first; joining the graduate school is possible once you are registered at the University.",
+      "quote": "Your first step is to find a PhD supervisor who guides you during the PhD project and studies",
+      "url": "https://gsmhs.unibas.ch/en/join-us/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The graduate school does not offer funded positions; many students rely on third-party project funding or their own fellowships.",
+      "quote": "",
+      "url": "https://gsmhs.unibas.ch/en/join-us/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Admission needs a master's degree that qualifies for the chosen subject; other degrees are judged for equivalence by the interfaculty board.",
+      "quote": "Candidates seeking admission to this doctorate must hold a master’s degree from a Swiss university or a Swiss Federal Institute of Technology that qualifies for the chosen doctoral subject",
+      "url": "https://www.unibas.ch/dam/jcr:a3ad0751-af08-4c4a-942b-9f686cdc7e48/Doctoral_Studies_at_the_Faculties_FS27.289227038ce2f687daa49678b39ca819.pdf",
+      "also": [
+        {
+          "quote": "Other degrees from a higher education institution recognized by the University of Basel may be classified as entirely, partially or not equivalent by the interfaculty doctoral board",
+          "url": "https://www.unibas.ch/dam/jcr:a3ad0751-af08-4c4a-942b-9f686cdc7e48/Doctoral_Studies_at_the_Faculties_FS27.289227038ce2f687daa49678b39ca819.pdf"
+        }
+      ]
+    }
+  },
+  "notes": "One interfaculty graduate school (Faculties of Medicine and Science) covering Medicines Development, Infection Biology and Biomedical Engineering. Application uses the central university process, so the university fee applies. The interfaculty entry rule quoted here names Swiss degrees first and is not the central rule.",
+  "name": "Graduate School of Medical and Health Sciences"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "lund",
+  "institution": "Lund University",
+  "country": "Sweden",
+  "region": "Skåne",
+  "grad_page": "https://www.lunduniversity.lu.se/study/study-opportunities-lund-university/doctoral-studies",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "Lund's doctoral pages state no application fee. The SEK 900 application fee on its site applies to degree programmes and courses applied for through universityadmissions.se.",
+      "quote": "",
+      "url": "https://www.lunduniversity.lu.se/study/admission-degree-studies/applying-studies-when-apply/application-fee"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No fee waiver for doctoral applicants is stated on Lund's doctoral pages.",
+      "quote": "",
+      "url": "https://www.lunduniversity.lu.se/study/study-opportunities-lund-university/doctoral-studies"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement is mentioned on Lund's doctoral pages or in its doctoral admission rules.",
+      "quote": "",
+      "url": "https://www.lunduniversity.lu.se/study/study-opportunities-lund-university/doctoral-studies"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "Lund's doctoral pages give no TOEFL score; a department may ask for a TOEFL or IELTS test. The 6.5 / TOEFL 90 standard on the English page is for degree programmes and courses, not stated for doctoral admission.",
+      "quote": "Candidates must have a very good command of English and you may be asked to include proof of proficiency in the form of a TOEFL or IELTS test, if requested by the individual department",
+      "url": "https://www.lunduniversity.lu.se/study/study-opportunities-lund-university/doctoral-studies"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "Lund's doctoral pages give no IELTS score; a department may ask for a TOEFL or IELTS test. The IELTS 6.5 standard on the English page is for degree programmes and courses.",
+      "quote": "Candidates must have a very good command of English and you may be asked to include proof of proficiency in the form of a TOEFL or IELTS test, if requested by the individual department",
+      "url": "https://www.lunduniversity.lu.se/study/study-opportunities-lund-university/doctoral-studies"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "No Lund page says whether an English-medium degree from India is accepted for doctoral admission.",
+      "quote": "",
+      "url": "https://www.lunduniversity.lu.se/study/study-opportunities-lund-university/doctoral-studies"
+    }
+  },
+  "notes": "Lund has no central doctoral school: doctoral students are admitted by each faculty through advertised positions (apply via Varbi). Official pages used: the doctoral studies page, the 2024 Admission rules for doctoral education PDF, the English requirements page, the application fee page, and the faculty pages for Science, Medicine, LTH and the Centre for Mathematical Sciences. Blocked or unavailable: https://www.chem.lu.se/ and https://www.chem.lu.se/education/phd-studies (HTTP 502 via proxy); https://www.geo.lu.se/ (ERR_TUNNEL_CONNECTION_FAILED); https://www.cs.lth.se/education/phd-studies/ (404); the Chemistry physical chemistry fact sheet URL on lunduniversity.prodwebb8.lu.se (404). The 2020 Science general syllabi (PDFs linked on the Science page) are older than five years and were not used."
+}

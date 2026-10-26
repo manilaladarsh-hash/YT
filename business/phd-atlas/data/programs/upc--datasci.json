@@ -1,0 +1,55 @@
+{
+  "id": "upc--datasci",
+  "university": "upc",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "Artificial Intelligence (Barcelona School of Informatics, FIB)",
+  "program_page": "https://artificialintelligence.phd.upc.edu/en/phd",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Applications are accepted throughout the academic year under UPC's general rule; the programme page sets no separate date.",
+      "quote": "As a general rule, you can apply for a doctoral programme throughout the academic year.",
+      "url": "https://doctorat.upc.edu/en/future-doctoral-candidates/access-and-admission/admissions-calendar"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Before acceptance, a programme teacher must agree in writing to supervise the PhD.",
+      "quote": "All candidates must have before being accepted a letter from a teacher in the program agreeing in supervising the PhD.",
+      "url": "https://artificialintelligence.phd.upc.edu/en/phd"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Admission does not include tuition; grants and scholarships exist through UPC calls and some research groups, and the page does not say how many students receive one.",
+      "quote": "Acceptance in the program does not include any form of tuition.",
+      "url": "https://artificialintelligence.phd.upc.edu/en/phd/grants-and-scholarships",
+      "also": [
+        {
+          "quote": "General calls of predoctoral grants, financed by state and autonomous public bodies, the UPC, and private foundations.",
+          "url": "https://doctorat.upc.edu/en/future-doctoral-candidates/grants"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The programme's ideal candidate holds a master's, most often in Computer Science or Artificial Intelligence.",
+      "quote": "the ideal background of a candidate for our program is a degree in Computer Science and a Master in Artificial Intelligence",
+      "url": "https://artificialintelligence.phd.upc.edu/en/phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on the programme pages.",
+      "quote": "",
+      "url": "https://artificialintelligence.phd.upc.edu/en/phd"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "Candidates must show English at B1 level; no certificate type or waiver for Indian or English-medium degrees is stated.",
+      "quote": "",
+      "url": "https://artificialintelligence.phd.upc.edu/en/phd"
+    }
+  },
+  "notes": "Covers data science, machine learning and AI as a single UPC doctoral programme. Application deadlines are not on the programme admission page; the programme calendar shows only evaluation and thesis dates.",
+  "name": "PhD in Artificial Intelligence"
+}

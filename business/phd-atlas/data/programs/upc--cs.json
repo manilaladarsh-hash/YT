@@ -1,0 +1,61 @@
+{
+  "id": "upc--cs",
+  "university": "upc",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computing (Barcelona School of Informatics, FIB)",
+  "program_page": "https://computing.phd.upc.edu/en/phd-data/admission/admission",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Applications are accepted throughout the academic year under UPC's general rule; the programme analyses requests twice a year, in July and February.",
+      "quote": "As a general rule, you can apply for a doctoral programme throughout the academic year.",
+      "url": "https://doctorat.upc.edu/en/future-doctoral-candidates/access-and-admission/admissions-calendar",
+      "also": [
+        {
+          "quote": "The Academic Commission will analyze the requests at least twice every academic year (July and February)",
+          "url": "https://computing.phd.upc.edu/en/phd-data/admission/admission"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "The Academic Commission admits candidates first and assigns a supervisor afterwards.",
+      "quote": "The Commission will assign a supervisor (tutor) to each admitted student",
+      "url": "https://computing.phd.upc.edu/en/phd-data/admission/admission"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "UPC predoctoral grants are awarded through annual general calls; the programme pages do not say how many students are funded.",
+      "quote": "General calls of predoctoral grants, financed by state and autonomous public bodies, the UPC, and private foundations.",
+      "url": "https://doctorat.upc.edu/en/future-doctoral-candidates/grants"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Holders of a 300-ECTS Spanish bachelor's degree may apply (with bridging courses), as may those with a bachelor's plus master's.",
+      "quote": "b) Individuals holding an official Bachelor degree from Spain consisting of at least 300 ECTS credits",
+      "url": "https://computing.phd.upc.edu/en/phd-data/admission/admission",
+      "also": [
+        {
+          "quote": "According to the Royal Decree 99/2011, to be eligible for a doctoral degree studies a candidate must hold an official Spanish bachelor's degree (or equivalent) and a master's degree.",
+          "url": "https://computing.phd.upc.edu/en/phd-data/admission/admission"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on the programme pages.",
+      "quote": "",
+      "url": "https://computing.phd.upc.edu/en/phd-data/admission/admission"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The programme requires English at B1 level; no waiver or certificate rule for Indian or English-medium degrees is stated.",
+      "quote": "",
+      "url": "https://computing.phd.upc.edu/en/phd-data/admission/admission"
+    }
+  },
+  "notes": "Applications go through the electronic admission request with academic records, CV, specialisation and research group. Pre-enrolment is handled through the UPC system.",
+  "name": "PhD in Computing"
+}

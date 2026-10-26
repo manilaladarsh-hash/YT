@@ -1,0 +1,60 @@
+{
+  "id": "lund--biomed",
+  "university": "lund",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Faculty of Medicine (postgraduate research studies)",
+  "program_page": "https://www.medicine.lu.se/research/postgraduate-research-studies/admission-process",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Admission to Medicine PhD studies happens continuously through the year, in steps.",
+      "quote": "Admission to PhD studies at the Faculty of Medicine takes place continuously during the year",
+      "url": "https://www.medicine.lu.se/research/postgraduate-research-studies/admission-process"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Faculty of Medicine requires at least 79 on the internet-based TOEFL for PhD admission, where English proof is needed.",
+      "quote": "at least 79 points on the Internet-based test",
+      "url": "https://www.medicine.lu.se/research/postgraduate-research-studies/admission-process"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Faculty of Medicine requires an IELTS Academic overall score of 6.5, with no section below 5.0, where English proof is needed.",
+      "quote": "the Academic Module must be completed with a score of at least 6.5 and no section below 5.0",
+      "url": "https://www.medicine.lu.se/research/postgraduate-research-studies/admission-process"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Applicants with a non-Nordic degree and a native language other than English must prove English equivalent to a three-year upper secondary qualification, or take TOEFL or IELTS if no certified English results exist.",
+      "quote": "you must also prove that you have English language skills equivalent to a three-year upper secondary school qualification | If no previous certified English results can be proven",
+      "url": "https://www.medicine.lu.se/research/postgraduate-research-studies/admission-process"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Faculty of Medicine page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.medicine.lu.se/research/postgraduate-research-studies/admission-process"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A supervisor must propose the PhD project before admission, and the project must be approved by the faculty.",
+      "quote": "before admission, a supervisor (researcher) must propose a PhD project",
+      "url": "https://www.medicine.lu.se/research/postgraduate-research-studies/admission-process"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Supervision and financing for the whole programme must be in place at admission. Funding type is not stated as typical or guaranteed.",
+      "quote": "the supervision and financing of the entire programme must be in place at the time of admission",
+      "url": "https://www.medicine.lu.se/research/postgraduate-research-studies/admission-process"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Basic eligibility is a second-cycle (master level) qualification, or 240 credits including 60 at second-cycle level.",
+      "quote": "a second-cycle qualification (master level)",
+      "url": "https://www.medicine.lu.se/research/postgraduate-research-studies/admission-process"
+    }
+  },
+  "notes": "This record covers the Faculty of Medicine's PhD admission process; the subject list was not reached, so Neuroscience (Medical Science) is not saved as a separate field. The Medicine English rule is a faculty override of the university record."
+}

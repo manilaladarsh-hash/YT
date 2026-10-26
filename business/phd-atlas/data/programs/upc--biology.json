@@ -1,0 +1,55 @@
+{
+  "id": "upc--biology",
+  "university": "upc",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Bioinformatics (interuniversity; School of Mathematics and Statistics, FME)",
+  "program_page": "https://doctorat.upc.edu/en/programmes/bioinformatics",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Applications are accepted throughout the academic year under UPC's general rule; the programme page sets no separate date.",
+      "quote": "As a general rule, you can apply for a doctoral programme throughout the academic year.",
+      "url": "https://doctorat.upc.edu/en/future-doctoral-candidates/access-and-admission/admissions-calendar"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "An endorsement from a researcher who will serve as potential supervisor must be submitted with the application.",
+      "quote": "Students must submit an endorsement from a researcher willing to serve as the potential supervisor for their doctoral thesis.",
+      "url": "https://doctorat.upc.edu/en/programmes/bioinformatics"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "UPC predoctoral grants are awarded through annual general calls; the programme pages do not say how many students are funded.",
+      "quote": "General calls of predoctoral grants, financed by state and autonomous public bodies, the UPC, and private foundations.",
+      "url": "https://doctorat.upc.edu/en/future-doctoral-candidates/grants"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The main route is a research master's in bioinformatics or a related discipline.",
+      "quote": "the primary and preferred pathway for admission to the Program is the completion of a research-oriented master's degree",
+      "url": "https://doctorat.upc.edu/en/programmes/bioinformatics",
+      "also": [
+        {
+          "quote": "have completed a bachelor’s degree of at least 300 ECTS credits",
+          "url": "https://doctorat.upc.edu/en/programmes/bioinformatics"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on the programme pages.",
+      "quote": "",
+      "url": "https://doctorat.upc.edu/en/programmes/bioinformatics"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "English at B2 is required; without a certificate the local coordinator tests it in an interview. No rule for Indian or English-medium degrees is stated.",
+      "quote": "",
+      "url": "https://doctorat.upc.edu/en/programmes/bioinformatics"
+    }
+  },
+  "notes": "Recorded under Biology & Biosciences as the nearest UPC PhD; the Agri-Food Technology and Biotechnology programme is not saved, since its scope is agri-food rather than biology. The programme's own pages were not fetched; the overview on doctorat.upc.edu was used.",
+  "name": "Bioinformatics"
+}

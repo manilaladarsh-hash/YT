@@ -1,0 +1,43 @@
+{
+  "id": "unibas--datasci",
+  "university": "unibas",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "Department of Mathematics and Computer Science",
+  "program_page": "https://dmi.unibas.ch/en/studies/computer-science/doctoral-program-data-science/admission/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The data science admission page gives no application deadline.",
+      "quote": "",
+      "url": "https://dmi.unibas.ch/en/studies/computer-science/doctoral-program-data-science/admission/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE subject test is mentioned.",
+      "quote": "",
+      "url": "https://dmi.unibas.ch/en/studies/computer-science/doctoral-program-data-science/admission/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The admission rules do not mention a supervisor.",
+      "quote": "",
+      "url": "https://dmi.unibas.ch/en/studies/computer-science/doctoral-program-data-science/admission/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The data science PhD page does not describe funding.",
+      "quote": "",
+      "url": "https://dmi.unibas.ch/en/studies/computer-science/doctoral-program-data-science/admission/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants need a master's degree in mathematics or computer science; the executive committee judges related subjects.",
+      "quote": "The Data Science doctoral program requires a master's degree in mathematics or computer science",
+      "url": "https://dmi.unibas.ch/en/studies/computer-science/doctoral-program-data-science/admission/"
+    }
+  },
+  "notes": "Official PhD programme of the department with its own admission rule.",
+  "name": "Doctoral Program Data Science"
+}

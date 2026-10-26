@@ -1,0 +1,50 @@
+{
+  "id": "lund--earth",
+  "university": "lund",
+  "field": "earth",
+  "also_fields": [
+    "environment"
+  ],
+  "department": "Geobiosphere Science (Faculty of Science)",
+  "program_page": "https://www.science.lu.se/education/programmes-and-courses/doctoral-studies",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "Doctoral positions are advertised individually; apply when a position is advertised.",
+      "quote": "You apply directly to the relevant faculty or department when a doctoral position is advertised",
+      "url": "https://www.lunduniversity.lu.se/study/study-opportunities-lund-university/doctoral-studies"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Faculty of Science page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.science.lu.se/education/programmes-and-courses/doctoral-studies"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Faculty of Science page sets no rule on supervisor agreement before admission.",
+      "quote": "",
+      "url": "https://www.science.lu.se/education/programmes-and-courses/doctoral-studies"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Science Faculty doctoral students are usually employed through a doctoral studentship.",
+      "quote": "You are usually employed through a doctoral studentship",
+      "url": "https://www.science.lu.se/education/programmes-and-courses/doctoral-studies",
+      "also": [
+        {
+          "quote": "Geobiosphere Science, with specialisation in Physical Geography and Ecosystem Science",
+          "url": "https://www.science.lu.se/education/programmes-and-courses/doctoral-studies"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Lund's general rule is a second-cycle qualification, or 240 credits including 60 at second-cycle level.",
+      "quote": "been awarded a second-cycle qualification",
+      "url": "https://www.staff.lu.se/sites/staff.lu.se/files/2024-10/admission-rules-for-doctoral-education-at-lun-university.pdf"
+    }
+  },
+  "notes": "The Geobiosphere Science programme includes the Physical Geography and Ecosystem Science specialisation, so environment is listed in also_fields. The department page geo.lu.se was unavailable (ERR_TUNNEL_CONNECTION_FAILED). Environmental Science is a separate Faculty of Science subject; only its 2020 syllabus was linked, which is too old to use."
+}

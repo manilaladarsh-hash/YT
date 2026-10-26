@@ -1,0 +1,43 @@
+{
+  "id": "upc--environment",
+  "university": "upc",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Natural Resources and Environment (UPC Manresa, EMIT)",
+  "program_page": "https://emit.upc.edu/en/doctorate",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Applications are open all year; the applicant chooses the year to start.",
+      "quote": "Open all year. Choose the year you wish to start in.",
+      "url": "https://emit.upc.edu/en/doctorate"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A director's endorsement must be attached to the application.",
+      "quote": "Have the endorsement of a director and attach it to the application.",
+      "url": "https://emit.upc.edu/en/doctorate"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page says having a means of funding is essential for admission, which is a funding-before-admission rule, so no funding code is given.",
+      "quote": "",
+      "url": "https://emit.upc.edu/en/doctorate"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants must hold a Spanish bachelor's and master's degree, or the equivalent.",
+      "quote": "As a rule, applicants seeking admission to an official doctoral programme must hold a Spanish bachelor’s degree or equivalent and a Spanish master’s degree or equivalent",
+      "url": "https://doctorat.upc.edu/en/future-doctoral-candidates/access-and-admission/general-entrance-requirements"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on the programme page.",
+      "quote": "",
+      "url": "https://emit.upc.edu/en/doctorate"
+    }
+  },
+  "notes": "The page says the academic committee prioritises students who already have a thesis supervisor appointed. Admission letters are issued by the UPC Manresa doctoral support unit. Marine Sciences (Civil and Environmental Engineering school) is a separate UPC doctorate and not included here.",
+  "name": "Natural Resources and Environment"
+}

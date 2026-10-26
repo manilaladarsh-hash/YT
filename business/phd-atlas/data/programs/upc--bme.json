@@ -1,0 +1,43 @@
+{
+  "id": "upc--bme",
+  "university": "upc",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Biomedical Engineering (UPC with Universidad de Zaragoza; ESAII)",
+  "program_page": "https://doctorat.upc.edu/en/programmes/biomedical-engineering",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Applications are accepted throughout the academic year under UPC's general rule; the programme page sets no separate date.",
+      "quote": "As a general rule, you can apply for a doctoral programme throughout the academic year.",
+      "url": "https://doctorat.upc.edu/en/future-doctoral-candidates/access-and-admission/admissions-calendar"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The programme overview gives no rule on a supervisor before admission.",
+      "quote": "",
+      "url": "https://doctorat.upc.edu/en/programmes/biomedical-engineering"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "UPC predoctoral grants are awarded through annual general calls; the programme pages do not say how many students are funded.",
+      "quote": "General calls of predoctoral grants, financed by state and autonomous public bodies, the UPC, and private foundations.",
+      "url": "https://doctorat.upc.edu/en/future-doctoral-candidates/grants"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The natural route is the master's degree in Biomedical Engineering.",
+      "quote": "The natural pathway for entry to the doctoral programme is via the master’s degree in Biomedical Engineering.",
+      "url": "https://doctorat.upc.edu/en/programmes/biomedical-engineering"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on the programme pages.",
+      "quote": "",
+      "url": "https://doctorat.upc.edu/en/programmes/biomedical-engineering"
+    }
+  },
+  "notes": "Interuniversity programme (UPC and Universidad de Zaragoza); admission includes a personal contact and interview step (25%). The department's admission subpage was not fetched.",
+  "name": "Biomedical Engineering"
+}

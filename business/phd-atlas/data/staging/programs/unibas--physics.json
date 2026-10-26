@@ -1,0 +1,49 @@
+{
+  "id": "unibas--physics",
+  "university": "unibas",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://physik.unibas.ch/en/study/phd-doctoral-program/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The physics PhD page gives no application deadline.",
+      "quote": "",
+      "url": "https://physik.unibas.ch/en/study/phd-doctoral-program/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Physics GRE subject test is mentioned.",
+      "quote": "",
+      "url": "https://physik.unibas.ch/en/study/phd-doctoral-program/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You apply directly to the professor leading the group you want to join; PI approval lets you skip further entrance examinations.",
+      "quote": "Apply directly to the professor heading the group (PI) your are interested and qualified to work in",
+      "url": "https://physik.unibas.ch/en/study/phd-doctoral-program/",
+      "also": [
+        {
+          "quote": "Applicants who are eligible for the Physics doctoral degree program, whom the PI of the respective research group has approved, do not have to undergo any further examinations",
+          "url": "https://physik.unibas.ch/en/study/phd-doctoral-program/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Doctoral students are in general employed as teaching assistants, on a salary meant to cover living and studying costs in Basel.",
+      "quote": "In general all doctoral students at our Department will be employed, usually as a teaching assistant, with a salary sufficient to cover the cost of living and studying in Basel",
+      "url": "https://physik.unibas.ch/en/study/phd-doctoral-program/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants need a master's degree (usually in physics) or an equivalent; a bachelor's degree alone is considered insufficient.",
+      "quote": "the University of Basel requires a master’s degree (usually, but not necessarily, in Physics) or a degree considered equivalent to a master’s degree | A bachelor’s degree in general is considered insufficient for an admission into the doctoral degree program",
+      "url": "https://physik.unibas.ch/en/study/phd-doctoral-program/"
+    }
+  },
+  "notes": "Department page says English is the main language and German is not required for PhD research; that is not an English test, so the university English values apply. The page links an FS19 faculty PDF, which is too old and was not used.",
+  "name": "PhD in Physics"
+}

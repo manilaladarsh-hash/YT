@@ -1,0 +1,55 @@
+{
+  "id": "upc--ece",
+  "university": "upc",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Electronic Engineering (UPC)",
+  "program_page": "https://electronicengineering.phd.upc.edu/en/admission/admission",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Each application is reviewed when received, and the admission decision follows the committee's review.",
+      "quote": "Upon receipt, each application is reviewed by the Academic Committee of the Doctorate Program (CAPD).",
+      "url": "https://electronicengineering.phd.upc.edu/en/admission/admission"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A professor of the programme must agree to act as tutor before the candidate is admitted.",
+      "quote": "Having a professor of the Program who values positively the skills and motivation of the candidate, and who accepts to act as a tutor",
+      "url": "https://electronicengineering.phd.upc.edu/en/admission/admission"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "UPC predoctoral grants are awarded through annual general calls; the programme pages do not say how many students are funded.",
+      "quote": "General calls of predoctoral grants, financed by state and autonomous public bodies, the UPC, and private foundations.",
+      "url": "https://doctorat.upc.edu/en/future-doctoral-candidates/grants"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Holders of a 300-ECTS Spanish bachelor's degree are eligible (with bridging courses), as are holders of a Spanish bachelor's and master's.",
+      "quote": "Holders of an official Spanish bachelor’s degree which, in accordance with EU regulations, carries at least 300 ECTS credits",
+      "url": "https://electronicengineering.phd.upc.edu/en/admission/admission",
+      "also": [
+        {
+          "quote": "Being in possession of an official Spanish degrees of Grado and Master.",
+          "url": "https://electronicengineering.phd.upc.edu/en/admission/admission"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on the programme pages.",
+      "quote": "",
+      "url": "https://electronicengineering.phd.upc.edu/en/admission/admission"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "Fluent English must be shown by interview or an official certificate (Cambridge, TOEFL, IELTS, TOEIC, EOI); no waiver for Indian or English-medium degrees is stated.",
+      "quote": "",
+      "url": "https://electronicengineering.phd.upc.edu/en/admission/admission"
+    }
+  },
+  "notes": "Other UPC doctorates in electrical and electronic fields (Electrical Engineering, Signal Theory and Communications, Automatic Control, Robotics and Vision, Network Engineering, Electric Energy Systems) are not separate records; this record covers the Electronic Engineering programme only. Admission request is made through the UPC pre-enrolment site.",
+  "name": "PhD in Electronic Engineering"
+}
