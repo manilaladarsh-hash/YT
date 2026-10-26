@@ -1,0 +1,51 @@
+{
+  "id": "lmu--math",
+  "university": "lmu",
+  "field": "math",
+  "also_fields": [
+    "statistics",
+    "cs"
+  ],
+  "department": "Faculty of Mathematics, Informatics and Statistics, Promotionsausschuss",
+  "program_page": "https://www.mathematik-informatik-statistik.uni-muenchen.de/promotion/allgemeines/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No application deadline is stated; applications go to the doctoral committee through the online doctoral portal.",
+      "quote": "Die Anmeldung zum Promotionsausschuss erfolgt",
+      "url": "https://www.mathematik-informatik-statistik.uni-muenchen.de/promotion/allgemeines/index.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The faculty pages do not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.mathematik-informatik-statistik.uni-muenchen.de/promotion/allgemeines/index.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admission needs a supervisor confirmation (Betreuungsbestätigung) from the supervisor and two referees before the acceptance notice is issued.",
+      "quote": "Betreuungsbestätigung (Betreuer/in und zwei Befürworter/innen)",
+      "url": "https://www.mathematik-informatik-statistik.uni-muenchen.de/promotion/allgemeines/index.html",
+      "also": [
+        {
+          "quote": "Der Annahmebescheid kann nur gegen Vorlage aller erforderlichen Unterlagen ausgehändigt werden",
+          "url": "https://www.mathematik-informatik-statistik.uni-muenchen.de/promotion/allgemeines/index.html"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The faculty pages do not say how doctoral students are funded.",
+      "quote": "",
+      "url": "https://www.mathematik-informatik-statistik.uni-muenchen.de/promotion/allgemeines/index.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants submit bachelor's or master's certificates; a bachelor's-only candidate needs the doctoral aptitude exam.",
+      "quote": "Ggf. Nachweis der bestandenen Promotionseignungsprüfung (Kopie)",
+      "url": "https://www.mathematik-informatik-statistik.uni-muenchen.de/promotion/allgemeines/index.html"
+    }
+  },
+  "notes": "One faculty doctorate: the faculty's doctoral regulations (Promotionsordnung) cover Mathematik, Informatik und Statistik, so statistics and computer science are listed as also_fields. The page does not mention a GRE, funding or English rule."
+}

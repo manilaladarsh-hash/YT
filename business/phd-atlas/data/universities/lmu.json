@@ -1,0 +1,47 @@
+{
+  "id": "lmu",
+  "institution": "Ludwig-Maximilians-Universität München (LMU Munich)",
+  "country": "Germany",
+  "region": "Bavaria",
+  "grad_page": "https://www.lmu.de/en/study/degree-students/applications-for-admission/guidelines-and-faqs/guide-to-applying-for-doctoral-studies/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No application fee for doctoral applicants is stated on the official LMU pages fetched.",
+      "quote": "",
+      "url": "https://www.lmu.de/en/study/degree-students/applications-for-admission/guidelines-and-faqs/guide-to-applying-for-doctoral-studies/index.html"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No fee waiver for doctoral applicants is stated on the official LMU pages fetched.",
+      "quote": "",
+      "url": "https://www.lmu.de/en/study/degree-students/applications-for-admission/guidelines-and-faqs/guide-to-applying-for-doctoral-studies/index.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE General requirement is stated on the official LMU pages; the LSM sets its own advice, shown on its program record.",
+      "quote": "",
+      "url": "https://www.lmu.de/en/study/degree-students/applications-for-admission/guidelines-and-faqs/guide-to-applying-for-doctoral-studies/index.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "No central TOEFL minimum is stated for doctoral applicants on the official LMU pages.",
+      "quote": "",
+      "url": "https://www.lmu.de/en/study/degree-students/applications-for-admission/guidelines-and-faqs/guide-to-applying-for-doctoral-studies/index.html"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "No central IELTS minimum is stated for doctoral applicants on the official LMU pages.",
+      "quote": "",
+      "url": "https://www.lmu.de/en/study/degree-students/applications-for-admission/guidelines-and-faqs/guide-to-applying-for-doctoral-studies/index.html"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The central pages set no English rule for doctoral applicants; India is named only for the APS certificate.",
+      "quote": "should submit the certificate from the Akademische",
+      "url": "https://www.lmu.de/en/study/degree-students/applications-for-admission/"
+    }
+  },
+  "notes": "Two routes: individual doctoral studies (find a supervisor, apply to the faculty's doctoral committee) and structured programs coordinated by the GraduateCenter. The International Office registration deadlines are 15 January (summer semester) and 15 July (winter semester), receipt by LMU, per the admissions page. Doctoral applications for winter 2026/27 closed 21 October 2026 per the FAQ (the Master's and doctoral registration window ran 2 September to 28 October 2026); these are not Fall 2027 deadlines. The APS certificate is required for school leaving certificates and degrees from China, India and Vietnam (admissions page and non-EU info sheet). LMU has no engineering faculty in the doctoral committee list, so no ECE, mechanical, chemical engineering, civil or biomedical engineering PhD was saved. Not reached: the Faculty of Biology's individual doctorate page (the Dekanat PDF info_docstud_bio22 returned 404); the Munich School for Data Science page was reached but gives no fields; the IMPRS, Max Planck Schools, HELENA, relAI, METEOR, GSN and Center for NanoScience programs are separate schools and were not researched here. Blocked or unavailable: https://www.bio.lmu.de/de/downloads/dekanat/info_docstud_bio22.pdf (404); https://www.geo.lmu.de/de/promotion-und-habilitation/promotion/ (404); https://www.munich-data-science.de/ (proxy tunnel error; https://www.mu-ds.de/ used instead)."
+}

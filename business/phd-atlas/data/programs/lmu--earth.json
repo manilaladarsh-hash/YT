@@ -1,0 +1,48 @@
+{
+  "id": "lmu--earth",
+  "university": "lmu",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Faculty of Geosciences, Promotionsamt",
+  "program_page": "https://www.geo.lmu.de/de/promotion-und-habilitation/promotion.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No application deadline is given; the page says there are no current deadlines for submitting a dissertation.",
+      "quote": "Aktuell gibt es keine Fristen zur Abgabe",
+      "url": "https://www.geo.lmu.de/de/promotion-und-habilitation/promotion.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The geosciences page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.geo.lmu.de/de/promotion-und-habilitation/promotion.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "The application for admission as a doctoral candidate must carry a supervision confirmation signed by both supervisors.",
+      "quote": "unterschrieben von beiden Betreuungspersonen",
+      "url": "https://www.geo.lmu.de/de/promotion-und-habilitation/promotion.html",
+      "also": [
+        {
+          "quote": "Betreuungszusage (Seite 2 im Antrag)",
+          "url": "https://www.geo.lmu.de/de/promotion-und-habilitation/promotion.html"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The geosciences page does not say how doctoral students are funded.",
+      "quote": "",
+      "url": "https://www.geo.lmu.de/de/promotion-und-habilitation/promotion.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants must present master's and bachelor's certificates or equivalent degrees.",
+      "quote": "Master- und Bachelorabschluss oder",
+      "url": "https://www.geo.lmu.de/de/promotion-und-habilitation/promotion.html"
+    }
+  },
+  "notes": "The page names no GRE, fee or English rule; the university record applies."
+}

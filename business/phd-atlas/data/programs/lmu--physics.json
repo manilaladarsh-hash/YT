@@ -1,0 +1,45 @@
+{
+  "id": "lmu--physics",
+  "university": "lmu",
+  "field": "physics",
+  "also_fields": [
+    "astronomy",
+    "environment"
+  ],
+  "department": "Faculty of Physics (Fakultät für Physik), Dekanat",
+  "program_page": "https://www.physik.lmu.de/de/forschung/promotion-und-habilitation/promotion/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The physics page gives no application deadline; you contact a supervisor, then apply to the Dekanat.",
+      "quote": "",
+      "url": "https://www.physik.lmu.de/de/forschung/promotion-und-habilitation/promotion/"
+    },
+    "gre_subject": {
+      "code": "Required",
+      "value": "Applicants whose degree was earned outside the EU must submit a GRE Subject Test result in Physics or Mathematics.",
+      "quote": "GRE Subject Test in Physik oder Mathematik vorlegen",
+      "url": "https://www.physik.lmu.de/de/forschung/promotion-und-habilitation/promotion/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must get a supervisor's written commitment (Betreuungszusage) before the faculty accepts your doctoral application.",
+      "quote": "Formular Betreuungszusage (PDF, 82 KB)",
+      "url": "https://www.physik.lmu.de/de/forschung/promotion-und-habilitation/promotion/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The physics page does not say how doctoral students are funded.",
+      "quote": "",
+      "url": "https://www.physik.lmu.de/de/forschung/promotion-und-habilitation/promotion/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admission is by a 5-year master's with grade good or better, or by a 3-year bachelor's with grade very good, which also needs a mentor.",
+      "quote": "Zulassung zur Promotion ist ein 5...Bachelor-Abschluss mit der Note",
+      "url": "https://www.physik.lmu.de/de/forschung/promotion-und-habilitation/promotion/"
+    }
+  },
+  "notes": "The faculty states that doctorates are possible in Astronomie, Meteorologie und Physik, so astronomy and atmospheric science are listed as also_fields. The department page applies the GRE Subject rule to non-EU degrees only; it names no deadline or funding. The English-medium and English-test rules are not on the physics pages, so the university record applies."
+}
