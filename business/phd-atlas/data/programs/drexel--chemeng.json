@@ -1,0 +1,73 @@
+{
+  "id": "drexel--chemeng",
+  "university": "drexel",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Chemical Engineering (College of Engineering)",
+  "program_page": "https://drexel.edu/engineering/academics/graduate-programs/doctoral/chemical-engineering/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The engineering PhD deadlines are in split table cells, so none is quoted.",
+      "quote": "",
+      "url": "https://drexel.edu/engineering/admissions/graduate/admission-guidelines/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Chemical engineering has no GRE Subject test.",
+      "quote": "",
+      "url": "https://drexel.edu/engineering/academics/graduate-programs/doctoral/chemical-engineering/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "The thesis topic and plan of study are set after admission, in consultation with the faculty advisor.",
+      "quote": "The plan of study and a doctoral thesis topic will be formulated after consultation with your faculty advisor early in the program",
+      "url": "https://drexel.edu/engineering/academics/graduate-programs/doctoral/chemical-engineering/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The chemical engineering page does not describe PhD funding.",
+      "quote": "",
+      "url": "https://drexel.edu/engineering/academics/graduate-programs/doctoral/chemical-engineering/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A four-year bachelor's is the minimum; students entering with an MS need fewer credits.",
+      "quote": "or 45 credits if entering with an MS degree in chemical engineering",
+      "url": "https://drexel.edu/engineering/academics/graduate-programs/doctoral/chemical-engineering/",
+      "also": [
+        {
+          "quote": "Admission for graduate study at Drexel University requires a four-year bachelor's degree",
+          "url": "https://drexel.edu/admissions/apply/grad-instructions/application-process"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The engineering guidelines do not state an application fee amount.",
+      "quote": "",
+      "url": "https://drexel.edu/engineering/admissions/graduate/admission-guidelines/"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The College of Engineering offers no fee waivers.",
+      "quote": "No fee waivers are offered.",
+      "url": "https://drexel.edu/engineering/admissions/graduate/admission-guidelines/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The College of Engineering treats the GRE General Test as optional for PhD applicants.",
+      "quote": "GRE (optional)",
+      "url": "https://drexel.edu/engineering/admissions/graduate/admission-guidelines/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Only a US institution degree waives the English test; an English-medium degree from India does not.",
+      "quote": "This requirement will be waived if the applicant graduated from a US institution of higher education.",
+      "url": "https://drexel.edu/engineering/admissions/graduate/admission-guidelines/"
+    }
+  },
+  "notes": "Engineering school rules apply: no fee waivers, GRE optional, English test waived only for a US degree.",
+  "name": "PhD in Chemical Engineering"
+}

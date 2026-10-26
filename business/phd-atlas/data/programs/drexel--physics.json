@@ -1,0 +1,82 @@
+{
+  "id": "drexel--physics",
+  "university": "drexel",
+  "field": "physics",
+  "also_fields": [
+    "astronomy"
+  ],
+  "department": "Department of Physics (College of Arts & Sciences)",
+  "program_page": "https://drexel.edu/academics/grad-professional-programs/coas/physics/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall (domestic and international) applicants: December 1. A separate January 1 date applies to assistantship consideration; no year is printed on either.",
+      "quote": "Fall (Domestic/International) - December 1",
+      "url": "https://drexel.edu/coas/academics/graduate-programs/physics/doctorate/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The GRE Subject test in Physics is recommended, not required, and no minimum is used.",
+      "quote": "GRE Subject Test is recommended, but not required",
+      "url": "https://drexel.edu/academics/grad-professional-programs/coas/physics/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applications are judged by the Admissions Committee; the supervisor is appointed in the first year, after admission.",
+      "quote": "The Admissions Committee evaluates all credentials submitted by applicants",
+      "url": "https://drexel.edu/admissions/apply/grad-instructions/application-process",
+      "also": [
+        {
+          "quote": "are expected to complete both the Supervisor Appointment and Plan of Study tabs",
+          "url": "https://drexel.edu/~/media/Files/coas2/physics/drexel-physics-graduate-student-handbook.ashx?la=en"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page advertises fellowships with 12-month stipends but does not say that most or all students receive them.",
+      "quote": "",
+      "url": "https://drexel.edu/coas/academics/graduate-programs/physics/doctorate/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A four-year bachelor's is the minimum, and students may also be admitted with post-master's status.",
+      "quote": "Admission for graduate study at Drexel University requires a four-year bachelor's degree",
+      "url": "https://drexel.edu/admissions/apply/grad-instructions/application-process",
+      "also": [
+        {
+          "quote": "Students who are admitted for PhD study with \"post-masters\" status must take 15 credits of graduate coursework",
+          "url": "https://drexel.edu/~/media/Files/coas2/physics/drexel-physics-graduate-student-handbook.ashx?la=en"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "65 USD",
+      "value": "The physics page states an application fee of $65 U.S.",
+      "quote": "Please note, an application fee of $65 U.S. is required.",
+      "url": "https://drexel.edu/academics/grad-professional-programs/coas/physics/"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE General is recommended, not required.",
+      "quote": "GRE test scores are recommended, but not required.",
+      "url": "https://drexel.edu/academics/grad-professional-programs/coas/physics/"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "TOEFL internet test minimum 100 (the page also lists 600 paper and 250 computer scores).",
+      "quote": "TOEFL minimum scores: 100/600/250",
+      "url": "https://drexel.edu/academics/grad-professional-programs/coas/physics/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic overall band 7.0 is the physics minimum.",
+      "quote": "IELTS minimum Overall Band Score: 7.0",
+      "url": "https://drexel.edu/academics/grad-professional-programs/coas/physics/"
+    }
+  },
+  "notes": "Also covers Astronomy & Astrophysics: the PhD lists an 'Astrophysics (Experimental and Theoretical)' concentration on the official how-to-apply page. Assistantship consideration date January 1 (no year printed). The admissions table cells (PhD Dec. 1) are split, so the list line on the doctorate page is quoted instead. Physics handbook: post-master's students take 15 credits before candidacy.",
+  "name": "PhD in Physics"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "drexel--biomed",
+  "university": "drexel",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "School of Biomedical Engineering, Science & Health Systems",
+  "program_page": "https://drexel.edu/biomed/academics/graduate-programs/biomedical-science-phd-degree/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The school admits rolling by term; no PhD deadline date is stated.",
+      "quote": "",
+      "url": "https://drexel.edu/biomed/admissions/graduate/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Biomedical science has no GRE Subject test.",
+      "quote": "",
+      "url": "https://drexel.edu/biomed/academics/graduate-programs/biomedical-science-phd-degree/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not state a supervisor agreement before admission.",
+      "quote": "",
+      "url": "https://drexel.edu/biomed/academics/graduate-programs/biomedical-science-phd-degree/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Calhoun Fellowships go to a number of qualified incoming students; funding is not promised.",
+      "quote": "A number of qualified incoming students are awarded Calhoun Fellowships",
+      "url": "https://drexel.edu/biomed/admissions/graduate/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Post-baccalaureate and post-master's PhD routes are both offered.",
+      "quote": "credits earned toward a master's degree may apply toward the 90",
+      "url": "https://drexel.edu/biomed/academics/graduate-programs/biomedical-science-phd-degree/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The school says no GRE is needed for PhD applicants.",
+      "quote": "No GRE needed!",
+      "url": "https://drexel.edu/biomed/academics/graduate-programs/how-to-apply/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Applicants with a degree from outside the US must submit TOEFL; an Indian degree does not waive it.",
+      "quote": "TOEFL scores are required for all international applicants or applicants who earned a degree outside the US",
+      "url": "https://drexel.edu/biomed/academics/graduate-programs/how-to-apply/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "TOEFL is required, but no minimum score is stated on the school pages checked.",
+      "quote": "",
+      "url": "https://drexel.edu/biomed/academics/graduate-programs/how-to-apply/"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The school's page names only TOEFL, and no IELTS minimum is stated.",
+      "quote": "",
+      "url": "https://drexel.edu/biomed/academics/graduate-programs/how-to-apply/"
+    }
+  },
+  "notes": "School override as for the biomedical engineering PhD. Biomedical Science PhD is the School's 'Biomedical Science' program.",
+  "name": "PhD in Biomedical Science"
+}

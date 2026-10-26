@@ -1,0 +1,86 @@
+{
+  "id": "drexel--cs",
+  "university": "drexel",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science (College of Computing & Informatics)",
+  "program_page": "https://drexel.edu/academics/grad-professional-programs/cci/computer-science",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The priority PhD deadline for the Computer Science and Information Science programs is December 15, 2026.",
+      "quote": "Priority deadline: December 15, 2026",
+      "url": "https://drexel.edu/cci/admissions/doctoral/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Computer science has no GRE Subject test.",
+      "quote": "",
+      "url": "https://drexel.edu/academics/grad-professional-programs/cci/computer-science"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Files go to the Doctoral Committee for review; no supervisor agreement is stated before admission.",
+      "quote": "your file will be sent to be reviewed by the Doctoral Committee",
+      "url": "https://drexel.edu/cci/admissions/doctoral/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "All PhD students are supported with an assistantship; part-time students cannot be considered for one.",
+      "quote": "All PhD students are fully supported with an assistantship",
+      "url": "https://drexel.edu/cci/admissions/doctoral/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A four-year bachelor's is the minimum; post-master's applicants are also considered.",
+      "quote": "Admission for graduate study at Drexel University requires a four-year bachelor's degree",
+      "url": "https://drexel.edu/admissions/apply/grad-instructions/application-process",
+      "also": [
+        {
+          "quote": "Applicants for post-master's status must show potential for further study",
+          "url": "https://drexel.edu/admissions/apply/grad-instructions/application-process"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "65 USD",
+      "value": "The computer science page states an application fee of $65 U.S.",
+      "quote": "Please note, an application fee of $65 U.S. is required.",
+      "url": "https://drexel.edu/academics/grad-professional-programs/cci/computer-science"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The program page says GRE scores are not required; the doctoral page calls them optional but recommended.",
+      "quote": "Graduate Record Examination (GRE) scores are not required.",
+      "url": "https://drexel.edu/academics/grad-professional-programs/cci/computer-science",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Graduate Record Examination (GRE) Scores (must be five years old or less) are optional but recommended.",
+          "url": "https://drexel.edu/cci/admissions/doctoral/"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "TOEFL internet test minimum 90 (the page also lists 577 paper and 233 computer scores).",
+      "quote": "TOEFL minimum scores: 90/577/233",
+      "url": "https://drexel.edu/academics/grad-professional-programs/cci/computer-science"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic overall band 6.5.",
+      "quote": "IELTS minimum Overall Band Score: 6.5",
+      "url": "https://drexel.edu/academics/grad-professional-programs/cci/computer-science"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "The waiver covers US degrees and degrees from English-primary nations, so an Indian English-medium degree does not waive the test.",
+      "quote": "or if completed in a nation with English as its primary language",
+      "url": "https://drexel.edu/cci/admissions/doctoral/"
+    }
+  },
+  "notes": "Regular deadline Mar. 15 appears only in a split table cell. The CCI page also lists a PhD in Information Science (not a field in this Atlas). The CS program says one letter is required and two are preferred.",
+  "name": "PhD in Computer Science"
+}
