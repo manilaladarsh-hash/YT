@@ -1,0 +1,91 @@
+{
+  "id": "villanova--ece",
+  "university": "villanova",
+  "field": "ece",
+  "also_fields": [
+    "mech",
+    "chemeng",
+    "civil",
+    "bme"
+  ],
+  "department": "College of Engineering",
+  "program_page": "https://live-villanova-engineering.cleancatalog.io/engineering/engineering-bs-to-phd",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "The college's table gives April 1 for fall entry for foreign students from non-U.S. institutions; the PhD page itself gives no date.",
+      "quote": "The completed application materials are submitted by the applicant prior to the following dates",
+      "url": "https://live-villanova-engineering.cleancatalog.io/master-of-science-program",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Fall semester | for foreign students from non-U.S. institutions",
+          "url": "https://live-villanova-engineering.cleancatalog.io/master-of-science-program"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned; the page covers only the general GRE.",
+      "quote": "",
+      "url": "https://live-villanova-engineering.cleancatalog.io/engineering/engineering-bs-to-phd"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether a faculty advisor must agree before admission.",
+      "quote": "",
+      "url": "https://live-villanova-engineering.cleancatalog.io/engineering/engineering-bs-to-phd"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog does not describe PhD funding or assistantships.",
+      "quote": "",
+      "url": "https://live-villanova-engineering.cleancatalog.io/engineering/engineering-bs-to-phd"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may hold a master's in engineering or only a bachelor's in engineering; bachelor's entrants take 24 more graduate credits.",
+      "quote": "Applicants with only a bachelor’s degree in engineering may also apply. If admitted, B.S. only students must complete an additional 24 credits of graduate coursework to complete the PhD program.",
+      "url": "https://live-villanova-engineering.cleancatalog.io/engineering/engineering-bs-to-phd"
+    },
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The College of Engineering sets its own application fee, which the fetched catalog does not state.",
+      "quote": "",
+      "url": "https://live-villanova-engineering.cleancatalog.io/engineering/engineering-bs-to-phd"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The college does not require GRE scores but will consider them if submitted.",
+      "quote": "The College of Engineering does not require the submission of GRE scores, but we will consider your GRE scores as part of the application review if submitted.",
+      "url": "https://live-villanova-engineering.cleancatalog.io/engineering/engineering-bs-to-phd"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "A TOEFL score of at least 90 is expected for international applicants, with a mandatory ESL course.",
+      "quote": "TOEFL - Score of at least 90 for international applicants is expected with mandatory ESL course.",
+      "url": "https://live-villanova-engineering.cleancatalog.io/engineering/engineering-bs-to-phd"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "An IELTS score of at least 7.0 is expected for international applicants, with a mandatory ESL course.",
+      "quote": "IELTS - Score of at least 7.0 for international applicants is expected with mandatory ESL course.",
+      "url": "https://live-villanova-engineering.cleancatalog.io/engineering/engineering-bs-to-phd"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "The Associate Dean may waive the TOEFL or IELTS with proof of strong English, such as several years working in an engineering job in English.",
+      "quote": "The TOEFL / IELTS examination may be waived by the Associate Dean if there is sufficient proof of the candidate’s ability to speak, comprehend, and write high-quality English.",
+      "url": "https://live-villanova-engineering.cleancatalog.io/engineering/engineering-bs-to-phd",
+      "also": [
+        {
+          "quote": "An example of this is if the candidate were successfully working for at least several years in an engineering position.",
+          "url": "https://live-villanova-engineering.cleancatalog.io/engineering/engineering-bs-to-phd"
+        }
+      ]
+    }
+  },
+  "notes": "One Engineering Ph.D. covers both BS-to-PhD and MS-to-PhD entry, with a concentration in any College of Engineering program. The catalog's graduate programs in chemical/biochemical, civil/water resources and environmental, electrical/computer, mechanical/aerospace and biomedical engineering are listed as also_fields. Sustainable Engineering and Cybersecurity are not mapped to a field because the catalog names no department for them. The deadline comes from the college-wide table on the Master of Science page. The college's own PhD application page and handbook PDF returned 502, so its fee, deadline and funding were not checked.",
+  "name": "Engineering, Ph.D."
+}

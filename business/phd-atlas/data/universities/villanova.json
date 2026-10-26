@@ -1,0 +1,47 @@
+{
+  "id": "villanova",
+  "institution": "Villanova University",
+  "country": "USA",
+  "region": "Pennsylvania",
+  "grad_page": "https://gradclashandbook.villanova.edu/admission-policies-and-requirements",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "Liberal Arts and Sciences graduate applicants pay a $50 non-refundable application fee, including the Philosophy and Theology PhDs.",
+      "quote": "$50 non-refundable application fee",
+      "url": "https://gradclashandbook.villanova.edu/admission-policies-and-requirements"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Waivers go through a request form reviewed against internal criteria the page does not list; no international-specific waiver is given.",
+      "quote": "Keep in mind that all waivers are subject to review and approval by Office of Graduate Studies admissions staff and internal waiver criteria.",
+      "url": "https://gradclashandbook.villanova.edu/admission-policies-and-requirements"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE rules are set program by program; the Philosophy PhD says the GRE is not required.",
+      "quote": "NOTE: GRE is not required.",
+      "url": "https://gradclashandbook.villanova.edu/admission-policies-and-requirements"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "Non-US citizens must submit TOEFL, IELTS or Duolingo scores, but the page gives no TOEFL minimum.",
+      "quote": "Official TOEFL, IELTS or Duolingo scores (for applicants who are non-US citizens)",
+      "url": "https://gradclashandbook.villanova.edu/admission-policies-and-requirements"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "Non-US citizens must submit an IELTS score, but the page gives no IELTS minimum.",
+      "quote": "Official TOEFL, IELTS or Duolingo scores (for applicants who are non-US citizens)",
+      "url": "https://gradclashandbook.villanova.edu/admission-policies-and-requirements"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Indian applicants are non-US citizens and must submit TOEFL, IELTS or Duolingo scores; the page names no exemption for an English-medium degree.",
+      "quote": "Official TOEFL, IELTS or Duolingo scores (for applicants who are non-US citizens)",
+      "url": "https://gradclashandbook.villanova.edu/admission-policies-and-requirements"
+    }
+  },
+  "notes": "Office of Graduate Studies rules for Liberal Arts and Sciences (its doctoral programs are Philosophy and Theology, both non-STEM). The College of Engineering PhD sets its own fee, GRE and English rules (see the engineering program overrides). The full International Applicant policy page (www1.villanova.edu .../applying-to-villanova/international.html) and the villanova.edu graduate pages returned 502 and were not checked."
+}
