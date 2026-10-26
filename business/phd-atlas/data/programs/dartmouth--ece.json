@@ -1,0 +1,85 @@
+{
+  "id": "dartmouth--ece",
+  "university": "dartmouth",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Thayer School of Engineering (Dartmouth Engineering)",
+  "program_page": "https://engineering.dartmouth.edu/graduate-admissions/phd-admissions",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page gives a December 15 priority deadline for fall term admission but no year, so it is not dated for Fall 2027.",
+      "quote": "",
+      "url": "https://engineering.dartmouth.edu/graduate-admissions/phd-admissions"
+    },
+    "app_fee": {
+      "code": "75 USD",
+      "value": "Thayer charges a non-refundable $75 application fee, except for Dartmouth College and Dartmouth Engineering students and alumni.",
+      "quote": "A non-refundable application fee of $75 is required of all applicants",
+      "url": "https://engineering.dartmouth.edu/graduate-admissions/phd-admissions"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Thayer waives the fee only for a few criteria: fellowship members, US military service, Dartmouth students or alumni, and attendees of qualifying recruiting events.",
+      "quote": "Applicants may be eligible for a fee waiver based on one or more of the criteria below | Fellowship Program Affiliation: Are a current member of an established fellowship program",
+      "url": "https://engineering.dartmouth.edu/graduate-admissions/phd-admissions"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional for all Thayer engineering graduate programs.",
+      "quote": "GREs are optional for all Dartmouth Engineering graduate programs",
+      "url": "https://engineering.dartmouth.edu/graduate-admissions/phd-admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject GRE for engineering.",
+      "quote": "",
+      "url": "https://engineering.dartmouth.edu/graduate-admissions/phd-admissions"
+    },
+    "toefl_min": {
+      "code": "5 (new scale)",
+      "value": "Thayer recommends a TOEFL iBT score of 5 or higher, with no section below 5, for tests taken on or after 21 January 2026; before that it recommends 100.",
+      "quote": "For TOEFL iBT exams taken on or after January 21, 2026: 5 or higher, with no section score below 5",
+      "url": "https://engineering.dartmouth.edu/graduate-admissions/phd-admissions",
+      "also": [
+        {
+          "quote": "For TOEFL iBT exams taken before January 21, 2026: 100 or higher",
+          "url": "https://engineering.dartmouth.edu/graduate-admissions/phd-admissions"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Thayer recommends an IELTS Academic overall score of 7.0 or higher.",
+      "quote": "IELTS: 7.0 or higher",
+      "url": "https://engineering.dartmouth.edu/graduate-admissions/phd-admissions"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on Thayer's list of countries exempt from language tests, so Indian applicants need a TOEFL, IELTS or Duolingo score.",
+      "quote": "Language proficiency test scores are required for non-US citizens, with the exception of those who are earning or have earned a degree from institutions in the US or Canada | Asia: Singapore, Philippines",
+      "url": "https://engineering.dartmouth.edu/graduate-admissions/phd-admissions"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to contact individual faculty members about potential projects before applying.",
+      "quote": "Students interested in applying to the PhD program are encouraged to reach out to individual faculty members to discuss potential projects",
+      "url": "https://engineering.dartmouth.edu/graduate-admissions/phd-admissions"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "PhD students typically enter with full support from a research assistantship or an external fellowship.",
+      "quote": "PhD students typically enter with full support from either a Graduate Research Assistantship (GRA) or an external fellowship",
+      "url": "https://engineering.dartmouth.edu/graduate-admissions/phd-admissions"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants need a bachelor's or master's degree, and a master's is not required.",
+      "quote": "Applicants must hold a bachelor's or master's degree to be considered for the program, although a master's degree is not required",
+      "url": "https://engineering.dartmouth.edu/graduate-admissions/phd-admissions"
+    }
+  },
+  "notes": "One PhD for all Thayer engineering areas. The page says students 'may elect one of the six program areas to be reflected as a concentration': Biological/Chemical, Biomedical, Electrical/Computer, Energy, Materials Science, Mechanical/Operations/Systems. Primary field ece; also_fields map Biomedical to bme, Mechanical to mech, Biological/Chemical to chemeng and Materials Science to materials. Energy has no field id. Civil is not listed. Separate Thayer application (apply.gs portal). Deadline has no year on the page, so it is Not stated.",
+  "name": "PhD Program, Thayer School of Engineering"
+}

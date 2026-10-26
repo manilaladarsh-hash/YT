@@ -1,0 +1,47 @@
+{
+  "id": "dartmouth",
+  "institution": "Dartmouth College",
+  "country": "USA",
+  "region": "New Hampshire",
+  "grad_page": "https://graduate.dartmouth.edu/admissions/applying-dartmouth/admissions-information",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The Guarini School page that sets this was not reachable, so no application fee is recorded.",
+      "quote": "",
+      "url": "https://graduate.dartmouth.edu/admissions/applying-dartmouth/admissions-information"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "The Guarini School fee-waiver page that sets this was not reachable.",
+      "quote": "",
+      "url": "https://graduate.dartmouth.edu/admissions/applying-dartmouth/admissions-information"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Guarini School page that sets the university-wide GRE rule was not reachable; the department rules are on the program records.",
+      "quote": "",
+      "url": "https://graduate.dartmouth.edu/admissions/applying-dartmouth/admissions-information"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The Guarini School page that sets the university-wide TOEFL rule was not reachable.",
+      "quote": "",
+      "url": "https://graduate.dartmouth.edu/admissions/applying-dartmouth/admissions-information"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The Guarini School page that sets the university-wide IELTS rule was not reachable.",
+      "quote": "",
+      "url": "https://graduate.dartmouth.edu/admissions/applying-dartmouth/admissions-information"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The Guarini School page that sets the university-wide English rule was not reachable.",
+      "quote": "",
+      "url": "https://graduate.dartmouth.edu/admissions/applying-dartmouth/admissions-information"
+    }
+  },
+  "notes": "All graduate.dartmouth.edu pages returned 502 'upstream request failed' from the agent proxy (admissions information, fee-waiver criteria, programs list, Mathematics and Physics program pages, Psychological and Brain Sciences). Rules are Not stated until those pages can be fetched. The Guarini application portal (https://apply.gs.dartmouth.edu/portal/guarini_apply) states: 'Engineering programs use a separate application: Thayer School of Engineering application.' Thayer's own rules are on the engineering program record."
+}
