@@ -1,0 +1,85 @@
+{
+  "id": "clemson--chemistry",
+  "university": "clemson",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.clemson.edu/science/academics/departments/chemistry/academics/grad-apply.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Complete applications, including letters and English test scores, must be received by December 1.",
+      "quote": "Complete applications, including letters of recommendation and English language test scores, must be received by December 1.",
+      "url": "https://www.clemson.edu/science/academics/departments/chemistry/academics/grad-apply.html",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "The program charges no application fee.",
+      "quote": "There is no fee to apply to the program.",
+      "url": "https://www.clemson.edu/science/academics/departments/chemistry/academics/grad-apply.html"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No application fee is charged, so no waiver is needed.",
+      "quote": "There is no fee to apply to the program.",
+      "url": "https://www.clemson.edu/science/academics/departments/chemistry/academics/grad-apply.html"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE General is recommended but not required, with no minimum score cutoffs.",
+      "quote": "GRE scores are recommended, but not required if taking the GRE presents a hardship.",
+      "url": "https://www.clemson.edu/science/academics/departments/chemistry/academics/grad-apply.html",
+      "also": [
+        {
+          "quote": "There are no minimum GRE score cutoffs for applications.",
+          "url": "https://www.clemson.edu/science/academics/departments/chemistry/academics/grad-apply.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a Chemistry GRE Subject test.",
+      "quote": "",
+      "url": "https://www.clemson.edu/science/academics/departments/chemistry/academics/grad-apply.html"
+    },
+    "toefl_min": {
+      "code": "85",
+      "value": "The department requires a TOEFL score of 85 or above.",
+      "quote": "A TOEFL score of 85 or above is required of international students whose native language is not English.",
+      "url": "https://www.clemson.edu/science/academics/departments/chemistry/academics/grad-apply.html"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The department requires an overall IELTS score of 7.0.",
+      "quote": "An overall score of 7.0 or above is required for the IELTS exam",
+      "url": "https://www.clemson.edu/science/academics/departments/chemistry/academics/grad-apply.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.clemson.edu/science/academics/departments/chemistry/academics/grad-apply.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Entering PhD students are typically appointed as teaching assistants at a gross stipend of $27,000 a year; many move to research assistantships after year one.",
+      "quote": "Entering Ph.D. students are typically appointed as teaching assistants, with a gross annual stipend of $27,000.",
+      "url": "https://www.clemson.edu/science/academics/departments/chemistry/academics/doctorate.html",
+      "also": [
+        {
+          "quote": "After the first year, many Ph.D. students are supported on research assistantships.",
+          "url": "https://www.clemson.edu/science/academics/departments/chemistry/academics/doctorate.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The PhD needs 30 credits beyond a master's or 60 beyond a bachelor's, so both routes exist.",
+      "quote": "This degree requires a minimum of 30 credits beyond the master's degree, and at least 60 credits beyond the bachelor's degree.",
+      "url": "https://www.clemson.edu/science/academics/departments/chemistry/academics/doctorate.html"
+    }
+  },
+  "notes": "Department states its own TOEFL 85 and IELTS 7.0 minimums and no application fee. The December 1 date has no year, so 2026-12-01 is inferred."
+}

@@ -1,0 +1,67 @@
+{
+  "id": "clemson--civil",
+  "university": "clemson",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Glenn Department of Civil Engineering",
+  "program_page": "https://www.clemson.edu/cecas/departments/ce/academics/graduate/admissions.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "The Fall priority deadline is February 1; applications are reviewed on a rolling basis until April 15.",
+      "quote": "*Applications may be submitted after February 1 and will be reviewed on a rolling basis until April 15.",
+      "url": "https://www.clemson.edu/cecas/departments/ce/academics/graduate/admissions.html",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "The department says the University no longer charges an application fee.",
+      "quote": "Clemson University no longer charges an application fee.",
+      "url": "https://www.clemson.edu/cecas/departments/ce/academics/graduate/admissions.html"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No application fee, so no waiver is needed.",
+      "quote": "Clemson University no longer charges an application fee.",
+      "url": "https://www.clemson.edu/cecas/departments/ce/academics/graduate/admissions.html"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE is optional; not submitting one does not count against an applicant.",
+      "quote": "GRE SCORES OPTIONAL: Not submitting GRE scores will not count against an applicant",
+      "url": "https://www.clemson.edu/cecas/departments/ce/academics/graduate/admissions.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants need not contact an advisor to be considered for funding when they apply.",
+      "quote": "It is not necessary to contact an advisor to secure funding when you apply.",
+      "url": "https://www.clemson.edu/cecas/departments/ce/academics/graduate/admissions.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantships are decided by faculty on several factors, including availability of funding.",
+      "quote": "Teaching and research assistantships are made by individual faculty members based on several factors, including credentials, compatibility of research interests, and availability of funding.",
+      "url": "https://www.clemson.edu/cecas/departments/ce/academics/graduate/admissions.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Civil Engineering accepts direct entry to the PhD from a B.S.; direct applicants need strong credentials and research experience.",
+      "quote": "Direct entry from the B.S. Degree",
+      "url": "https://www.clemson.edu/cecas/departments/ce/academics/graduate/degrees/phd.html",
+      "also": [
+        {
+          "quote": "Civil Engineering accepts “direct entry to Ph.D.” applicants",
+          "url": "https://www.clemson.edu/cecas/departments/ce/academics/graduate/admissions.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned for this field.",
+      "quote": "",
+      "url": "https://www.clemson.edu/cecas/departments/ce/academics/graduate/admissions.html"
+    }
+  },
+  "notes": "Civil Engineering PhD (the department also houses environmental engineering in EEES, saved separately as environment). The page says Civil Engineering does not offer conditional language admission for ESL students. No department TOEFL or IELTS minimum is stated, so the University row applies."
+}

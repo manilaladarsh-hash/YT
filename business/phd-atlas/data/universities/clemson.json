@@ -1,0 +1,57 @@
+{
+  "id": "clemson",
+  "institution": "Clemson University",
+  "country": "USA",
+  "region": "South Carolina",
+  "grad_page": "https://www.clemson.edu/admissions/graduate-admissions/apply/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "Clemson's graduate school charges no application fee for any graduate program.",
+      "quote": "There is no fee to apply to graduate programs at Clemson University.",
+      "url": "https://www.clemson.edu/admissions/graduate-admissions/apply/"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No application fee is charged, so no waiver is needed.",
+      "quote": "There is no fee to apply to graduate programs at Clemson University.",
+      "url": "https://www.clemson.edu/admissions/graduate-admissions/apply/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School sets no GRE rule; each program sets its own.",
+      "quote": "",
+      "url": "https://www.clemson.edu/admissions/graduate-admissions/apply/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The English page's minimum table extracted as split fragments, so no university TOEFL minimum is recorded. Programs quote their own minimums.",
+      "quote": "",
+      "url": "https://www.clemson.edu/admissions/graduate-admissions/apply/international-applicants/elp-requirement.html"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The English page's minimum table extracted as split fragments, so no university IELTS minimum is recorded. Programs quote their own minimums.",
+      "quote": "",
+      "url": "https://www.clemson.edu/admissions/graduate-admissions/apply/international-applicants/elp-requirement.html"
+    },
+    "english_waiver": {
+      "code": "Check tool",
+      "value": "For an English-medium Indian degree, the applicant checks the WHED database; if the institution is listed with English as its sole language of instruction, the test is waived. Letters and certificates are not accepted.",
+      "quote": "You may verify whether your institution meets this requirement by looking up your institution in the IAU WHED World Higher Education Database.",
+      "url": "https://www.clemson.edu/admissions/graduate-admissions/apply/international-applicants/elp-requirement.html",
+      "also": [
+        {
+          "quote": "A foreign college or university that provides instruction solely in English and is equivalent to a U.S. bachelor’s or graduate degree can satisfy the English proficiency requirement.",
+          "url": "https://www.clemson.edu/admissions/graduate-admissions/apply/international-applicants/elp-requirement.html"
+        },
+        {
+          "quote": "No other documentation (e.g., letters, language certificates, school websites) may be used.",
+          "url": "https://www.clemson.edu/admissions/graduate-admissions/apply/international-applicants/elp-requirement.html"
+        }
+      ]
+    }
+  },
+  "notes": "The English page's minimum score table (TOEFL iBT, IELTS, Duolingo, PTE) extracted as split fragments and was not used. Blocked or failed: https://degrees.clemson.edu/s/search.html (program finder, 403 Cloudflare); https://catalog.clemson.edu/ (502 proxy error). Doctoral program list therefore built from official department pages found by search. Checked 2026-10-26."
+}

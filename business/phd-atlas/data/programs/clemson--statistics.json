@@ -1,0 +1,82 @@
+{
+  "id": "clemson--statistics",
+  "university": "clemson",
+  "field": "statistics",
+  "also_fields": [
+    "datasci"
+  ],
+  "department": "School of Mathematical and Statistical Sciences",
+  "program_page": "https://www.clemson.edu/science/academics/departments/mathstat/academics/grad-stat-ds.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "For fall admission (mid-August start), submit by January 15; spring applicants by October 1.",
+      "quote": "If you are applying for admission in the fall term (which begins in mid-August), it is recommended that you submit your application materials by Jan. 15.",
+      "url": "https://www.clemson.edu/science/academics/departments/mathstat/academics/grad-apply.html",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "The School charges no application fee for Summer 2023 and later.",
+      "quote": "The application fee will no longer be charged for anyone applying to Summer 2023 and beyond.",
+      "url": "https://www.clemson.edu/science/academics/departments/mathstat/academics/grad-apply.html"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No application fee is charged, so no waiver is needed.",
+      "quote": "The application fee will no longer be charged for anyone applying to Summer 2023 and beyond.",
+      "url": "https://www.clemson.edu/science/academics/departments/mathstat/academics/grad-apply.html"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE General is recommended but not required.",
+      "quote": "recommends that all students submit GRE general test scores",
+      "url": "https://www.clemson.edu/science/academics/departments/mathstat/academics/grad-apply.html",
+      "also": [
+        {
+          "quote": "Note: The GRE general test scores are not required.",
+          "url": "https://www.clemson.edu/science/academics/departments/mathstat/academics/grad-apply.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a Mathematics GRE Subject test.",
+      "quote": "",
+      "url": "https://www.clemson.edu/science/academics/departments/mathstat/academics/grad-apply.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The School requires TOEFL scores but gives no minimum on these pages.",
+      "quote": "The School of Mathematical and Statistical Sciences requires international students to submit TOEFL scores",
+      "url": "https://www.clemson.edu/science/academics/departments/mathstat/academics/grad-apply.html"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "No IELTS minimum is given on these pages.",
+      "quote": "",
+      "url": "https://www.clemson.edu/science/academics/departments/mathstat/academics/grad-apply.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission turns on background and ability, and the research advisor is chosen after admission.",
+      "quote": "The most important criterion for admission is whether a student's background and ability are sufficient to indicate successful completion of the degree program.",
+      "url": "https://www.clemson.edu/science/academics/departments/mathstat/academics/grad-apply.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Financial aid is more competitive than admission to the School.",
+      "quote": "Selection for financial aid is more competitive than just admission to the school.",
+      "url": "https://www.clemson.edu/science/academics/departments/mathstat/academics/grad-apply.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's in mathematics, statistics or computer science is expected; no master's is required.",
+      "quote": "it is expected that students possess a bachelor's degree in mathematics, statistics or computer science",
+      "url": "https://www.clemson.edu/science/academics/departments/mathstat/academics/grad-stat-ds.html"
+    }
+  },
+  "notes": "The PhD covers machine learning and computational methods, so datasci is listed as also_fields. Deadline and fee rules come from the School page.",
+  "name": "Statistics and Data Science PhD"
+}

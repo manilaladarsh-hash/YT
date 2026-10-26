@@ -1,0 +1,67 @@
+{
+  "id": "clemson--biology",
+  "university": "clemson",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://www.clemson.edu/science/academics/departments/biosci/academics/grad-apply.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The graduate application deadline is December 1, generally for a start the following fall semester.",
+      "quote": "The graduate student application deadline is December 1, generally for a start in the following fall semester.",
+      "url": "https://www.clemson.edu/science/academics/departments/biosci/academics/grad-apply.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required.",
+      "quote": "GRE scores are not required.",
+      "url": "https://www.clemson.edu/science/academics/departments/biosci/academics/grad-apply.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned.",
+      "quote": "",
+      "url": "https://www.clemson.edu/science/academics/departments/biosci/academics/grad-apply.html"
+    },
+    "toefl_min": {
+      "code": "102",
+      "value": "Non-exempt international applicants should have a TOEFL iBT score of at least 102 (out of 120), with a speaking score above 20.",
+      "quote": "should have a TOEFL score of at least 102 (out of 120) with a speaking score greater than 20",
+      "url": "https://www.clemson.edu/science/academics/departments/biosci/academics/grad-apply.html"
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "The department's alternative is an IELTS score of at least 7.5.",
+      "quote": "an IELTS score of at least a 7.5 or a Duolingo English test score of at least 120",
+      "url": "https://www.clemson.edu/science/academics/departments/biosci/academics/grad-apply.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Direct-admission PhD applicants need a faculty letter of support; rotation applicants do not.",
+      "quote": "Faculty send the Graduate Admissions Committee a letter of support for Ph.D. direct admission applicants to their lab",
+      "url": "https://www.clemson.edu/science/academics/departments/biosci/academics/grad-apply.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Support can come from a TA, RA or fellowship, but the page does not say most or all students are funded.",
+      "quote": "",
+      "url": "https://www.clemson.edu/science/academics/departments/biosci/academics/grad-apply.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A PhD takes 30 credit hours after an M.S. or 60 after a B.S./B.A.",
+      "quote": "Ph.D. students entering with only a B.S./B.A. degree must complete 60 credit hours",
+      "url": "https://www.clemson.edu/science/academics/departments/biosci/academics/grad-biosci.html",
+      "also": [
+        {
+          "quote": "Ph.D. students entering the program who already have an M.S. degree must complete 30 credit hours",
+          "url": "https://www.clemson.edu/science/academics/departments/biosci/academics/grad-biosci.html"
+        }
+      ]
+    }
+  },
+  "notes": "Biological Sciences PhD. Application goes through the Graduate School; the department asks for three letters for PhD applicants. Toxicology and microbiology are mentioned only as course advice, so they are not separate records."
+}

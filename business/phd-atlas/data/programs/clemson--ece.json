@@ -1,0 +1,96 @@
+{
+  "id": "clemson--ece",
+  "university": "clemson",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Holcombe Department of Electrical and Computer Engineering",
+  "program_page": "https://www.clemson.edu/cecas/departments/ece/academics/grad/phd_degrees.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "The priority deadline for Fall is February 1; later applications are reviewed on a rolling basis until May 1.",
+      "quote": "February 1 is the priority deadline.",
+      "url": "https://www.clemson.edu/cecas/departments/ece/academics/grad/faq.html",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "The department's FAQ says there is no application fee.",
+      "quote": "There is no fee to apply to graduate programs at Clemson University.",
+      "url": "https://www.clemson.edu/cecas/departments/ece/academics/grad/faq.html"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No application fee, so no waiver is needed.",
+      "quote": "There is no fee to apply to graduate programs at Clemson University.",
+      "url": "https://www.clemson.edu/cecas/departments/ece/academics/grad/faq.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The FAQ says GRE scores are not required, though they can be submitted. The degree page conflicts on whether a GRE is required.",
+      "quote": "GRE - Scores are not required but may be submitted",
+      "url": "https://www.clemson.edu/cecas/departments/ece/academics/grad/faq.html",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "The GRE is required for admission to both the Ph.D. in Electrical Engineering and Ph.D. in Computer Engineering programs",
+          "url": "https://www.clemson.edu/cecas/departments/ece/academics/grad/phd_degrees.html"
+        },
+        {
+          "quote": "The GRE is not required for Ph.D. or M.S. applications.",
+          "url": "https://www.clemson.edu/cecas/departments/ece/academics/grad/phd_degrees.html"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The department requires TOEFL iBT 80 or higher.",
+      "quote": "A satisfactory score (80 or higher) is required of international students whose native language is not English.",
+      "url": "https://www.clemson.edu/cecas/departments/ece/academics/grad/faq.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS 6.5 or higher can be taken in place of TOEFL.",
+      "quote": "IELTS: Can be taken in lieu of TOEFL. A satisfactory score (6.5 or higher) is required of international students whose native language is not English.",
+      "url": "https://www.clemson.edu/cecas/departments/ece/academics/grad/faq.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "An advisor is assigned after acceptance, not needed to be admitted.",
+      "quote": "You are assigned an initial academic advisor if a decision of acceptance is made on your application.",
+      "url": "https://www.clemson.edu/cecas/departments/ece/academics/grad/faq.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Each admitted student is evaluated for available financial support awards, with priority to PhD applicants.",
+      "quote": "Each student admitted into the ECE graduate program is evaluated for available financial support awards.",
+      "url": "https://www.clemson.edu/cecas/departments/ece/academics/grad/faq.html",
+      "also": [
+        {
+          "quote": "Priority is given to Ph.D. applicants.",
+          "url": "https://www.clemson.edu/cecas/departments/ece/academics/grad/faq.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The page sets separate credit rules for PhD students with and without an M.S.",
+      "quote": "Ph.D. students without an M.S. Degree",
+      "url": "https://www.clemson.edu/cecas/departments/ece/academics/grad/phd_degrees.html",
+      "also": [
+        {
+          "quote": "Ph.D. students with an M.S. Degree",
+          "url": "https://www.clemson.edu/cecas/departments/ece/academics/grad/phd_degrees.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned for this field.",
+      "quote": "",
+      "url": "https://www.clemson.edu/cecas/departments/ece/academics/grad/phd_degrees.html"
+    }
+  },
+  "notes": "ECE PhD in Electrical Engineering and Computer Engineering. The GRE rule conflicts within the department's own pages (degree page intro vs. its Applying section and the FAQ), so conflict is flagged. The FAQ's English minimums match the degree page's own rules."
+}

@@ -1,0 +1,81 @@
+{
+  "id": "clemson--environment",
+  "university": "clemson",
+  "field": "environment",
+  "also_fields": [
+    "earth"
+  ],
+  "department": "Department of Environmental Engineering & Earth Sciences (EEES)",
+  "program_page": "https://www.clemson.edu/cecas/departments/eees/academics/gradprog/eees.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "No firm deadline; apply by January 15 to be considered for Fall assistantships.",
+      "quote": "Apply by January 15th to be automatically considered for Fall assistantships",
+      "url": "https://www.clemson.edu/cecas/departments/eees/academics/gradprog/faqs.html",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "The department says there is no application fee.",
+      "quote": "No Application Fee or GRE Required",
+      "url": "https://www.clemson.edu/cecas/departments/eees/academics/gradprog/eees.html"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No application fee, so no waiver is needed.",
+      "quote": "No Application Fee or GRE Required",
+      "url": "https://www.clemson.edu/cecas/departments/eees/academics/gradprog/eees.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department does not require GRE scores.",
+      "quote": "Applicants are not required to report GRE scores.",
+      "url": "https://www.clemson.edu/cecas/departments/eees/academics/gradprog/faqs.html"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "The department lists a TOEFL minimum of 90.",
+      "quote": "we currently accept the following tests (minimum scores in parentheses): TOEFL (90), IELTS (7.0), PTE (61), or Duolingo (115)",
+      "url": "https://www.clemson.edu/cecas/departments/eees/academics/gradprog/faqs.html"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The department lists an IELTS minimum of 7.0.",
+      "quote": "we currently accept the following tests (minimum scores in parentheses): TOEFL (90), IELTS (7.0), PTE (61), or Duolingo (115)",
+      "url": "https://www.clemson.edu/cecas/departments/eees/academics/gradprog/faqs.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A faculty member must agree to be the research advisor before final admission.",
+      "quote": "The applicant must have a faculty member who has agreed to be the research advisor before final admission.",
+      "url": "https://www.clemson.edu/cecas/departments/eees/academics/gradprog/eees.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Competition for assistantships is intense, so applying early is key.",
+      "quote": "Competition for assistantships is intense, so submitting your application early is crucial.",
+      "url": "https://www.clemson.edu/cecas/departments/eees/academics/gradprog/faqs.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students with a bachelor's or master's in a related field may apply directly; most admitted students already hold an M.S.",
+      "quote": "Students with a baccalaureate or master’s degree in a related science or engineering field may apply directly to the Ph.D. EEES program.",
+      "url": "https://www.clemson.edu/cecas/departments/eees/academics/gradprog/eees.html",
+      "also": [
+        {
+          "quote": "most students admitted to the Ph.D. program will have previously earned their M.S. degree",
+          "url": "https://www.clemson.edu/cecas/departments/eees/academics/gradprog/eees.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned for this field.",
+      "quote": "",
+      "url": "https://www.clemson.edu/cecas/departments/eees/academics/gradprog/eees.html"
+    }
+  },
+  "notes": "Environmental Engineering and Earth Sciences PhD. Earth sciences is part of the programme name, so earth is listed as also_fields. Forest Resources and Plant and Environmental Sciences PhDs (CAFLS) also exist; they are not saved because this file takes the single environment slot."
+}

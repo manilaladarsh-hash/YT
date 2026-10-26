@@ -1,0 +1,91 @@
+{
+  "id": "clemson--physics",
+  "university": "clemson",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics and Astronomy",
+  "program_page": "https://www.clemson.edu/science/academics/departments/physics/academics/graduateapply.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Fall applications are due January 1; later ones are reviewed only at the department's discretion.",
+      "quote": "The application deadline for Fall admission is January 1 of the year for which you are applying for admission",
+      "url": "https://www.clemson.edu/science/academics/departments/physics/academics/graduateapply.html",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "The department charges no application fee.",
+      "quote": "There is no fee to apply for admission to our graduate programs.",
+      "url": "https://www.clemson.edu/science/academics/departments/physics/academics/graduateapply.html"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No fee is charged, so no waiver is needed.",
+      "quote": "There is no fee to apply for admission to our graduate programs.",
+      "url": "https://www.clemson.edu/science/academics/departments/physics/academics/graduateapply.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department does not require the general GRE for admission.",
+      "quote": "does not require the general GRE or the physics GRE for admission consideration",
+      "url": "https://www.clemson.edu/science/academics/departments/physics/academics/graduateapply.html"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The physics GRE is not required either.",
+      "quote": "does not require the general GRE or the physics GRE for admission consideration",
+      "url": "https://www.clemson.edu/science/academics/departments/physics/academics/graduateapply.html"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The department's TOEFL iBT minimum is 80.",
+      "quote": "Minimum score of 80.",
+      "url": "https://www.clemson.edu/science/academics/departments/physics/academics/graduateapply.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department's IELTS minimum is 6.5 overall.",
+      "quote": "Minimum score of 6.5.",
+      "url": "https://www.clemson.edu/science/academics/departments/physics/academics/graduateapply.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No advisor needs to be chosen before applying; admission is decided by the department's Graduate Admissions Committee.",
+      "quote": "No, you do not need to select a research advisor prior to applying for admission.",
+      "url": "https://www.clemson.edu/science/academics/departments/physics/academics/graduateapply.html",
+      "also": [
+        {
+          "quote": "All admission decisions are made by the department's Graduate Admissions Committee, not individual faculty members.",
+          "url": "https://www.clemson.edu/science/academics/departments/physics/academics/graduateapply.html"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching assistantships with a tuition waiver and stipend are not guaranteed; they depend on available funding and positions.",
+      "quote": "While a TA is not guaranteed, we strive to offer a TA to each student selected for admission.",
+      "url": "https://www.clemson.edu/science/academics/departments/physics/academics/graduateapply.html",
+      "also": [
+        {
+          "quote": "Applications receive full consideration for assistantship and fellowship opportunities.",
+          "url": "https://www.clemson.edu/science/academics/departments/physics/academics/graduateapply.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's degree is the minimum to apply; students who finish a master's in the department must reapply to the PhD.",
+      "quote": "You must have a minimum of a bachelor's degree",
+      "url": "https://www.clemson.edu/science/academics/departments/physics/academics/graduateapply.html",
+      "also": [
+        {
+          "quote": "Students who pass their master's defense and intend to pursue a Ph.D. must reapply to the Ph.D. program.",
+          "url": "https://www.clemson.edu/science/academics/departments/physics/academics/grad-physics.html"
+        }
+      ]
+    }
+  },
+  "notes": "Department states its own TOEFL 80 and IELTS 6.5 minimums. The deadline page gives 'January 1' with no year, so 2027-01-01 is inferred. Astronomy and Astrophysics is listed only as a research area, so no astronomy record. Medical Biophysics (mbio.html) is a separate PhD run by this department and has no field slot in this file."
+}

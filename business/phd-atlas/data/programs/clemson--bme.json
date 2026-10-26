@@ -1,0 +1,91 @@
+{
+  "id": "clemson--bme",
+  "university": "clemson",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Bioengineering",
+  "program_page": "https://www.clemson.edu/cecas/departments/bioe/academics/graduate/phd.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "January 15 gets early consideration for financial aid; February 15 is the regular Fall deadline.",
+      "quote": "January 15 for Fall (early admission consideration)",
+      "url": "https://www.clemson.edu/cecas/departments/bioe/academics/graduate/faq.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Applicants for August enrollment whose files are completed prior to January 15 will be given preferential consideration for financial aid",
+          "url": "https://www.clemson.edu/cecas/departments/bioe/academics/graduate/faq.html"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "The department's FAQ says there is no application fee.",
+      "quote": "There is no fee to apply to graduate programs at Clemson University.",
+      "url": "https://www.clemson.edu/cecas/departments/bioe/academics/graduate/faq.html"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No application fee, so no waiver is needed.",
+      "quote": "There is no fee to apply to graduate programs at Clemson University.",
+      "url": "https://www.clemson.edu/cecas/departments/bioe/academics/graduate/faq.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required for PhD applications, though scores may be included.",
+      "quote": "The GRE is not required for Ph.D. applications",
+      "url": "https://www.clemson.edu/cecas/departments/bioe/academics/graduate/phd.html"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "The department lists a TOEFL minimum of 100.",
+      "quote": "TOEFL - 100 or higher | IELTS - 7.0 or higher",
+      "url": "https://www.clemson.edu/cecas/departments/bioe/academics/graduate/faq.html"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The department lists an IELTS minimum of 7.0.",
+      "quote": "TOEFL - 100 or higher | IELTS - 7.0 or higher",
+      "url": "https://www.clemson.edu/cecas/departments/bioe/academics/graduate/faq.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "All doctoral applicants are considered for available assistantships; financial aid is prioritised for PhD students.",
+      "quote": "All applicants to our doctoral program are considered for available assistantship support opportunities.",
+      "url": "https://www.clemson.edu/cecas/departments/bioe/academics/graduate/faq.html",
+      "also": [
+        {
+          "quote": "Financial aid is prioritized for Ph.D. students.",
+          "url": "https://www.clemson.edu/cecas/departments/bioe/academics/graduate/faq.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A PhD needs 60 credits beyond a bachelor's, or 36 beyond a master's for students who already hold an M.S.",
+      "quote": "60 credits minimum beyond the bachelor's degree",
+      "url": "https://www.clemson.edu/cecas/departments/bioe/academics/graduate/phd.html",
+      "also": [
+        {
+          "quote": "36 credits minimum beyond the master's degree",
+          "url": "https://www.clemson.edu/cecas/departments/bioe/academics/graduate/phd.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned for this field.",
+      "quote": "",
+      "url": "https://www.clemson.edu/cecas/departments/bioe/academics/graduate/phd.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.clemson.edu/cecas/departments/bioe/academics/graduate/phd.html"
+    }
+  },
+  "notes": "Bioengineering PhD. The department's FAQ lists January 15 and February 15. Supervisor not stated for admission: students meet their advisor after admission."
+}

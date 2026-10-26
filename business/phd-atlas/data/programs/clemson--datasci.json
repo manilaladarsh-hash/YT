@@ -1,0 +1,85 @@
+{
+  "id": "clemson--datasci",
+  "university": "clemson",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "School of Computing",
+  "program_page": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/degrees/phd-bdsi.html/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall-only PhD: priority consideration December 1; final deadline January 15.",
+      "quote": "Priority consideration: December 1 | Final deadline for complete applications: January 15",
+      "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/faq.html",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "The BDSI PhD charges no application fee.",
+      "quote": "Application fees are not required.",
+      "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/degrees/phd-bdsi.html/"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No application fee is charged, so no waiver is needed.",
+      "quote": "Application fees are not required.",
+      "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/degrees/phd-bdsi.html/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required for the BDSI PhD.",
+      "quote": "GRE scores are not required for application to the BDSI Ph.D.",
+      "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/degrees/phd-bdsi.html/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned.",
+      "quote": "",
+      "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/degrees/phd-bdsi.html/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The Clemson campus accepts TOEFL, IELTS, PTE or Duolingo, but no minimum is stated.",
+      "quote": "For our Clemson campus, official scores from TOEFL, IELTS, PTE Academic, and Duolingo are accepted.",
+      "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/degrees/phd-bdsi.html/"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "No IELTS minimum is stated.",
+      "quote": "",
+      "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/degrees/phd-bdsi.html/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Applicants state a faculty preference, but the page does not say a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/degrees/phd-bdsi.html/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding is reserved for PhD students, and assistantships are awarded on a competitive basis.",
+      "quote": "Assistantships are awarded on a competitive basis to qualified students, both domestic and international.",
+      "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/faq.html",
+      "also": [
+        {
+          "quote": "Funding is reserved for Ph.D. study.",
+          "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/faq.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's degree in a related discipline is required; the page also gives a route for students who already hold a B.S. or M.S.",
+      "quote": "Ph.D. Students with a B.S. or M.S. Degree",
+      "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/degrees/phd-bdsi.html/",
+      "also": [
+        {
+          "quote": "67 credits minimum beyond the bachelor",
+          "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/degrees/phd-bdsi.html/"
+        }
+      ]
+    }
+  },
+  "notes": "Biomedical Data Science and Informatics PhD, School of Computing, on the Clemson and MUSC campuses; the page says it admits only in the Fall. The Clemson-campus rule is used. Mapped to datasci as its own PhD."
+}

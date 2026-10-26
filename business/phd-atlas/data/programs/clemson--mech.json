@@ -1,0 +1,85 @@
+{
+  "id": "clemson--mech",
+  "university": "clemson",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering",
+  "program_page": "https://www.clemson.edu/cecas/departments/me/academics/graduate/admissions.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Materials for Summer and Fall enrollment are due February 15; PhD admission is rolling as funding and advisors allow.",
+      "quote": "All application materials must be submitted by February 15 for student enrollment in Summer & Fall semesters",
+      "url": "https://www.clemson.edu/cecas/departments/me/academics/graduate/admissions.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "the ME department admits Ph.D. students on a rolling basis as funding and advisors become available",
+          "url": "https://www.clemson.edu/cecas/departments/me/academics/graduate/admissions.html"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "The department lists no application fee.",
+      "quote": "Application fee: None",
+      "url": "https://www.clemson.edu/cecas/departments/me/academics/graduate/admissions.html"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No application fee, so no waiver is needed.",
+      "quote": "Application fee: None",
+      "url": "https://www.clemson.edu/cecas/departments/me/academics/graduate/admissions.html"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional; the department looks for competitive scores but reviews holistically.",
+      "quote": "looking for applicants with competitive GRE scores (optional)",
+      "url": "https://www.clemson.edu/cecas/departments/me/academics/graduate/admissions.html"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The department's TOEFL minimum is 80.",
+      "quote": "NOTE: the minimum score requirements for admissions TOEFL – 80 IELTS – 6.5",
+      "url": "https://www.clemson.edu/cecas/departments/me/academics/graduate/admissions.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department's IELTS minimum is 6.5.",
+      "quote": "NOTE: the minimum score requirements for admissions TOEFL – 80 IELTS – 6.5",
+      "url": "https://www.clemson.edu/cecas/departments/me/academics/graduate/admissions.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to contact ME faculty to identify a research advisor.",
+      "quote": "Thesis master's and Ph.D. students are encouraged to reach out to ME faculty members whose research interests align with their own to identify a research advisor.",
+      "url": "https://www.clemson.edu/cecas/departments/me/academics/graduate/admissions.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Fellowships are merit-based, and assistantship funding is driven by faculty research advisors.",
+      "quote": "Typically, fellowships are awarded on merit.",
+      "url": "https://www.clemson.edu/cecas/departments/me/academics/graduate/admissions.html",
+      "also": [
+        {
+          "quote": "The allocation of assistantship funding is driven primarily by students' faculty research advisors.",
+          "url": "https://www.clemson.edu/cecas/departments/me/academics/graduate/admissions.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A student with a B.S. but no M.S. may apply directly to the PhD.",
+      "quote": "Students with a B.S. degree but not an M.S. degree may apply directly to the Ph.D. program.",
+      "url": "https://www.clemson.edu/cecas/departments/me/academics/graduate/degrees/phd.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned for this field.",
+      "quote": "",
+      "url": "https://www.clemson.edu/cecas/departments/me/academics/graduate/admissions.html"
+    }
+  },
+  "notes": "Mechanical Engineering PhD. Application fee is 'None' on the admissions page."
+}

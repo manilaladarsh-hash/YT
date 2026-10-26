@@ -1,0 +1,73 @@
+{
+  "id": "clemson--cs",
+  "university": "clemson",
+  "field": "cs",
+  "also_fields": [],
+  "department": "School of Computing",
+  "program_page": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/degrees/phd-cs.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Fall priority deadline is January 1; complete applications are due by March 15.",
+      "quote": "Priority consideration: January 1 | Final deadline for complete applications: March 15",
+      "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/faq.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE scores are recommended for the CS PhD but not required.",
+      "quote": "For applications to our Computer Science M.S. and Ph.D. and MAC programs, GRE scores are recommended, but not required.",
+      "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/faq.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject GRE for computer science.",
+      "quote": "",
+      "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/degrees/phd-cs.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The University requires TOEFL, IELTS, PTE or Duolingo, but no minimum is stated on the department pages.",
+      "quote": "",
+      "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/degrees/phd-cs.html"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "No IELTS minimum is stated on the department pages.",
+      "quote": "",
+      "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/degrees/phd-cs.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/degrees/phd-cs.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate assistantships in the School are highly competitive; all qualified PhD applicants are considered without a separate application.",
+      "quote": "Graduate assistantships within the School of Computing are highly competitive.",
+      "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/faq.html",
+      "also": [
+        {
+          "quote": "All qualified Ph.D. applicants are considered for assistantships when applications are processed.",
+          "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/faq.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students with a bachelor's need 60 credits beyond it; students with a master's need 40 credits beyond it.",
+      "quote": "60 credits minimum beyond the bachelor's degree",
+      "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/degrees/phd-cs.html",
+      "also": [
+        {
+          "quote": "entering the program with an M.S. degree must complete a minimum of 40 credit hours",
+          "url": "https://www.clemson.edu/cecas/departments/computing/academics/graduates/degrees/phd-cs.html"
+        }
+      ]
+    }
+  },
+  "notes": "The deadline block is headed 'Computer Science and Human-Centered Computing Ph.D.' on the FAQ page. The January 1 date has no year, so 2027-01-01 is inferred. The FAQ's spring deadline is September 15 and is not used."
+}

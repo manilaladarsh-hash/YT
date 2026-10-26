@@ -1,0 +1,74 @@
+{
+  "id": "clemson--biomed",
+  "university": "clemson",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Department of Genetics and Biochemistry",
+  "program_page": "https://www.clemson.edu/science/academics/departments/genbio/academics/grad-apply.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "PhD applications for fall admission are due December 1; spring admission September 1.",
+      "quote": "For the Ph.D. programs, the application deadlines for fall and spring admittance are Dec. 1 and Sept. 1, respectively.",
+      "url": "https://www.clemson.edu/science/academics/departments/genbio/academics/grad-apply.html",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The department does not waive application fees.",
+      "quote": "The Department of Genetics and Biochemistry does not waive application fees.",
+      "url": "https://www.clemson.edu/science/academics/departments/genbio/academics/grad-apply.html",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "There is no fee to apply to graduate programs at Clemson University.",
+          "url": "https://www.clemson.edu/admissions/graduate-admissions/apply/"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Applicants whose second language is English need a TOEFL score of 80 or higher.",
+      "quote": "If English is your second language, you must have a TOEFL score of 80 or higher or an IELTS score of 6.5 or higher.",
+      "url": "https://www.clemson.edu/science/academics/departments/genbio/academics/grad-apply.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS 6.5 or higher is accepted in place of TOEFL 80.",
+      "quote": "If English is your second language, you must have a TOEFL score of 80 or higher or an IELTS score of 6.5 or higher.",
+      "url": "https://www.clemson.edu/science/academics/departments/genbio/academics/grad-apply.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Candidates may contact potential supervisors before applying; some are admitted under a named supervisor and others rotate.",
+      "quote": "Candidates may wish to contact potential supervisors prior to submitting a formal application",
+      "url": "https://www.clemson.edu/science/academics/departments/genbio/academics/grad-apply.html",
+      "also": [
+        {
+          "quote": "Some students are admitted directly under a specific supervisor, whereas others rotate with different potential supervisors during their first semester.",
+          "url": "https://www.clemson.edu/science/academics/departments/genbio/academics/grad-apply.html"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "A stipend of $25,000 to $30,000 is stated, but the page does not say all or most PhD students are funded.",
+      "quote": "",
+      "url": "https://www.clemson.edu/science/academics/departments/genbio/academics/grad-apply.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Admitted PhD students need a four-year bachelor's with a GPA of 3.0 or higher.",
+      "quote": "Students admitted to the program typically have some prior research experience and are required to have completed a four-year bachelor’s degree or equivalent with a GPA of 3.0 or higher on a scale of 4.0",
+      "url": "https://www.clemson.edu/science/academics/departments/genbio/academics/doctorate.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject GRE.",
+      "quote": "",
+      "url": "https://www.clemson.edu/science/academics/departments/genbio/academics/grad-apply.html"
+    }
+  },
+  "notes": "Genetics and Biochemistry PhD (genetics or biochemistry and molecular biology). The department says it does not waive application fees but gives no amount, while the Graduate School says no fee applies; conflict flagged on fee_waiver. The FAQ stipend page is not used for funding. Mapped to biomed as one record; genetics is a biology subject but no second record is made for it."
+}
