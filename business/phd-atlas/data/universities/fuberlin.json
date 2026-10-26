@@ -1,0 +1,65 @@
+{
+  "id": "fuberlin",
+  "institution": "Freie Universität Berlin",
+  "country": "Germany",
+  "region": "Berlin",
+  "grad_page": "https://www.fu-berlin.de/en/sites/drs/doctorate/admission/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No application fee for doctoral admission is stated on the central FU pages. The only fees listed are per-semester enrolment contributions of about €313.",
+      "quote": "",
+      "url": "https://www.fu-berlin.de/en/studium/bewerbung/immatrikulation/promotion/index.html",
+      "also": [
+        {
+          "quote": "There are some fees and required contributions of approximately €313 per semester.",
+          "url": "https://www.lai.fu-berlin.de/en/studium/Promotion/FAQ-Promotion/Are-there-registration-fees-for-doctoral-programmes_.html"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application-fee waiver is stated. The enrolment page only waives the 50 € administrative fee for foreign doctoral students on publicly funded scholarships.",
+      "quote": "",
+      "url": "https://www.fu-berlin.de/en/studium/bewerbung/immatrikulation/promotion/index.html",
+      "also": [
+        {
+          "quote": "pay the semester fees and contributions without the administrative fee of 50.00 €",
+          "url": "https://www.fu-berlin.de/en/studium/bewerbung/immatrikulation/promotion/index.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement appears on the central doctoral pages or the department regulations fetched.",
+      "quote": "",
+      "url": "https://www.fu-berlin.de/en/sites/drs/doctorate/admission/index.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The central FU doctoral pages set no TOEFL minimum. English rules are set by each department's regulations.",
+      "quote": "",
+      "url": "https://www.fu-berlin.de/en/sites/drs/doctorate/admission/index.html"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The central FU doctoral pages set no IELTS minimum. English rules are set by each department's regulations.",
+      "quote": "",
+      "url": "https://www.fu-berlin.de/en/sites/drs/doctorate/admission/index.html"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "No central FU rule on English for Indian applicants was found. Departments differ: some ask for English proof only when the thesis is in English.",
+      "quote": "",
+      "url": "https://www.fu-berlin.de/en/sites/drs/doctorate/admission/index.html",
+      "also": [
+        {
+          "quote": "Sufficient English language skills corresponding to level B2 of the Common European Framework of Reference for Languages (CEFR)",
+          "url": "https://www.fu-berlin.de/sites/naturalsciences/application/index.html"
+        }
+      ]
+    }
+  },
+  "notes": "Admission rules are set by each department's doctoral regulations, saved on the program records. Central pages fetched: DRS admission (https://www.fu-berlin.de/en/sites/drs/doctorate/admission/index.html), enrolment (https://www.fu-berlin.de/en/studium/bewerbung/immatrikulation/promotion/index.html), deadlines (https://www.fu-berlin.de/en/studium/bewerbung/bewerbungsfristen/index.html, undergraduate only), Natural Sciences doctoral programme (https://www.fu-berlin.de/sites/naturalsciences/application/index.html; no funding). Guessed URL https://www.fu-berlin.de/en/sites/graduate-school/ returned 404 (not a block). The programme list used is the archived DRS page https://www.fu-berlin.de/en/sites/drs/z_archiv_drs_en/drs_programs/natural_and_life/index.html; no PhD route found for astronomy, statistics, datasci, materials, neuro, biomed or the engineering fields in the pages fetched. Only the 2013 English translation of the physics regulations was fetched (superseded; the 2023 amendment in German was not fetched)."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "fuberlin--math",
+  "university": "fuberlin",
+  "field": "math",
+  "also_fields": [
+    "cs"
+  ],
+  "department": "Department of Mathematics and Computer Science",
+  "program_page": "https://www.imp.fu-berlin.de/fbv/prom-habil/Promotionsordnungen/Promotionsordnung_Mathe_Informatik_EN.pdf",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Doctoral applications can be made at any time, though committees do not meet during lecture-free periods, so delays may occur.",
+      "quote": "You may apply and be admitted at any time.",
+      "url": "https://www.fu-berlin.de/en/sites/drs/doctorate/admission/index.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The regulations mention no GRE Subject test.",
+      "quote": "",
+      "url": "https://www.imp.fu-berlin.de/fbv/prom-habil/Promotionsordnungen/Promotionsordnung_Mathe_Informatik_EN.pdf"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A professor must declare they are available to supervise the doctoral project, and the declaration must be submitted with the application.",
+      "quote": "A declaration from a professor that they are available to serve as supervisor and examiner for the doctoral research project must be submitted.",
+      "url": "https://www.imp.fu-berlin.de/fbv/prom-habil/Promotionsordnungen/Promotionsordnung_Mathe_Informatik_EN.pdf"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The regulations do not say whether doctoral students are funded.",
+      "quote": "",
+      "url": "https://www.imp.fu-berlin.de/fbv/prom-habil/Promotionsordnungen/Promotionsordnung_Mathe_Informatik_EN.pdf"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The regulations require a master's degree in a closely related subject, with a bachelor's admission possible only as an exception.",
+      "quote": "The applicant must have obtained a master’s degree by examination in a subject closely related",
+      "url": "https://www.imp.fu-berlin.de/fbv/prom-habil/Promotionsordnungen/Promotionsordnung_Mathe_Informatik_EN.pdf"
+    }
+  },
+  "notes": "One set of regulations (2020, English translation) covers Mathematics and Computer Science, so CS is listed here as also_fields. The English text is an unofficial translation; the German text is binding."
+}
