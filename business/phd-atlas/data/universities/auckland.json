@@ -1,0 +1,57 @@
+{
+  "id": "auckland",
+  "institution": "University of Auckland",
+  "country": "New Zealand",
+  "region": "Auckland",
+  "grad_page": "https://www.auckland.ac.nz/en/study/applications-and-admissions/how-to-apply/postgraduate-admission/doctoral-applications.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The official fee table lists application fees for international applicants by qualification, but the table cannot be quoted cleanly, so no amount is recorded.",
+      "quote": "",
+      "url": "https://www.auckland.ac.nz/en/study/applications-and-admissions/how-to-apply/application-fees.html"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application fee waiver for PhD applicants is stated on the official pages checked.",
+      "quote": "",
+      "url": "https://www.auckland.ac.nz/en/study/applications-and-admissions/how-to-apply/postgraduate-admission/doctoral-applications.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement is stated on the official doctoral pages checked.",
+      "quote": "",
+      "url": "https://www.auckland.ac.nz/en/study/applications-and-admissions/entry-requirements/postgraduate-entry-requirements/doctoral-entry-requirements.html"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT overall 4.5 on the new 6-point scale, with writing 4.5; the older 120-point scale (overall 90, writing 21) is still accepted within the two-year validity period.",
+      "quote": "Paper-based TOEFL (iBT): 6-point scale | Overall score of 4.5 and a writing score of 4.5",
+      "url": "https://www.auckland.ac.nz/en/study/applications-and-admissions/entry-requirements/postgraduate-entry-requirements/postgraduate-english-language-requirements.html",
+      "also": [
+        {
+          "quote": "Overall score of 90 and a writing score of 21",
+          "url": "https://www.auckland.ac.nz/en/study/applications-and-admissions/entry-requirements/postgraduate-entry-requirements/postgraduate-english-language-requirements.html"
+        },
+        {
+          "quote": "The latter may continue to be used as long as the test was taken within the normal 2-year validity period.",
+          "url": "https://www.auckland.ac.nz/en/study/applications-and-admissions/entry-requirements/postgraduate-entry-requirements/postgraduate-english-language-requirements.html"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic overall 6.5 with no band below 6.0.",
+      "quote": "Overall score of 6.5 and no bands below 6.0",
+      "url": "https://www.auckland.ac.nz/en/study/applications-and-admissions/entry-requirements/postgraduate-entry-requirements/postgraduate-english-language-requirements.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "An Indian degree taught in English counts only if the awarding institution is on the university's list; otherwise an English test is needed.",
+      "quote": "India (if degree has been taught in English, and the awarding institution is on this list)",
+      "url": "https://www.auckland.ac.nz/assets/study/applications-and-admissions/entry-requirements/postgraduate-entry-requirements/University-of-Auckland-postgraduate-English-language-requirements.pdf"
+    }
+  },
+  "notes": "Fee table for international applicants is split in the fetched text, so app_fee is Not stated. Scholarship round dates are in a split table and are not recorded. The doctoral English waiver policy page is dated 2020 and was not used. Subject list from the official PhD page: astronomy, neuroscience and data science have no PhD subject; Software Engineering, Computer Systems Engineering, Mechatronics Engineering, Engineering Science, Marine Science, Food Science and Operations Research were not mapped to records."
+}

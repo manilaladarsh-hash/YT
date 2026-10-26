@@ -1,0 +1,50 @@
+{
+  "id": "auckland--chemeng",
+  "university": "auckland",
+  "field": "chemeng",
+  "also_fields": [
+    "materials"
+  ],
+  "department": "Chemical and Materials Engineering",
+  "program_page": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/chemical-materials-engineering/doctoral.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Applications can be submitted at any time, so there is no fixed closing date for this PhD.",
+      "quote": "For other doctoral programmes, you can submit an Application for Admission at any time.",
+      "url": "https://www.auckland.ac.nz/en/study/applications-and-admissions/how-to-apply/postgraduate-admission/doctoral-applications.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test requirement is stated on the department's doctoral page.",
+      "quote": "",
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/chemical-materials-engineering/doctoral.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You do not need a supervisor agreed before applying, but acceptance depends on staff availability for supervision.",
+      "quote": "You are not required to have organised a supervisor yet. The department will contact you to confirm or discuss available supervision.",
+      "url": "https://www.auckland.ac.nz/en/study/applications-and-admissions/how-to-apply/postgraduate-admission/doctoral-applications/doctoral-application-help.html",
+      "also": [
+        {
+          "quote": "Acceptance is subject to staff availability for supervision, and appropriate facilities.",
+          "url": "https://www.auckland.ac.nz/en/study/applications-and-admissions/entry-requirements/postgraduate-entry-requirements/doctoral-entry-requirements.html"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding comes through the competitive University of Auckland Doctoral Scholarship; no guaranteed funding is stated.",
+      "quote": "The University of Auckland Doctoral Scholarship (UoADS) is a competitive scholarship scheme in 4 rounds each year.",
+      "url": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/postgraduate-scholarships/doctoral-scholarships.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Entry needs an honours or master's degree in engineering, with a University of Auckland equivalent B+ grade and a research component.",
+      "quote": "To gain entry into the PhD programme in Engineering, you will need to have already completed an honours or masters degree in Engineering",
+      "url": "https://www.auckland.ac.nz/en/engineering/study-with-us/study-options/doctoral-study/doctoral-study-in-engineering/pathways-to-a-phd-in-engineering.html"
+    }
+  },
+  "notes": "Department page lists research areas and an apply link only. The programme name covers materials, so materials is listed as also_fields."
+}
