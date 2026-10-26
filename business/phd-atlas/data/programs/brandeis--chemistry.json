@@ -1,0 +1,49 @@
+{
+  "id": "brandeis--chemistry",
+  "university": "brandeis",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.brandeis.edu/chemistry/graduate/phd-program.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026 (Round 1) for Fall 2027 entry.",
+      "quote": "Chemistry, Psychology, Molecular and Cell Biology, Neuroscience, Biochemistry and Biophysics | December 1",
+      "url": "https://www.brandeis.edu/graduate-admissions/apply/index.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Chemistry subject test requirement is stated on the pages checked.",
+      "quote": "",
+      "url": "https://www.brandeis.edu/chemistry/graduate/phd-program.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages checked do not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.brandeis.edu/chemistry/graduate/phd-program.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most doctoral students receive a competitive fellowship, a full-tuition scholarship and health insurance for five years.",
+      "quote": "Most of our doctoral students enroll full-time and receive competitive funding packages.",
+      "url": "https://www.brandeis.edu/graduate-admissions/tuition-financial-aid/phd.html",
+      "also": [
+        {
+          "quote": "Funding includes a competitive fellowship, a full-tuition scholarship, and health insurance benefits for five years.",
+          "url": "https://www.brandeis.edu/graduate-admissions/programs/chemistry.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need a bachelor's degree to apply.",
+      "quote": "You must hold (or be about to earn) a bachelor’s degree from an accredited U.S. or international institution.",
+      "url": "https://www.brandeis.edu/graduate-admissions/apply/phd.html"
+    }
+  },
+  "notes": "Chemistry department page gives no admission rules beyond the graduate school table."
+}

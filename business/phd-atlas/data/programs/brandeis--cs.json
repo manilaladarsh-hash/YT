@@ -1,0 +1,55 @@
+{
+  "id": "brandeis--cs",
+  "university": "brandeis",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science",
+  "program_page": "https://www.brandeis.edu/computer-science/phd/requirements.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Apply by January 15, 2027 for Fall 2027 entry.",
+      "quote": "Computer Science, Mathematics, Physics, Near Eastern & Judaic Studies, Social Policy (Heller), History | January 15",
+      "url": "https://www.brandeis.edu/graduate-admissions/apply/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Applicants who have not earned or will not earn a US degree before enrolling must submit the GRE; only US-degree holders are waived.",
+      "quote": "the GRE is required if you have not earned or will not earn a degree from an accredited institution of higher education in the United States prior to enrolling at Brandeis",
+      "url": "https://www.brandeis.edu/graduate-admissions/apply/phd.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test requirement is stated for Computer Science.",
+      "quote": "",
+      "url": "https://www.brandeis.edu/graduate-admissions/apply/phd.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No supervisor agreement is needed to be admitted; a faculty adviser must agree by the end of the first year.",
+      "quote": "By the end of the first year, students must obtain the consent of a computer science faculty member to serve as adviser and dissertation committee chair.",
+      "url": "https://www.brandeis.edu/computer-science/phd/requirements.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most doctoral students receive a competitive fellowship, a full-tuition scholarship and health insurance for five years.",
+      "quote": "Most of our doctoral students enroll full-time and receive competitive funding packages.",
+      "url": "https://www.brandeis.edu/graduate-admissions/tuition-financial-aid/phd.html",
+      "also": [
+        {
+          "quote": "Funding for PhD students includes a competitive fellowship, a full-tuition scholarship, and health insurance benefits for five years.",
+          "url": "https://www.brandeis.edu/gsas/programs/computer_science.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need a bachelor's degree to apply.",
+      "quote": "You must hold (or be about to earn) a bachelor’s degree from an accredited U.S. or international institution.",
+      "url": "https://www.brandeis.edu/graduate-admissions/apply/phd.html"
+    }
+  },
+  "notes": "Applicants without a US degree must submit the GRE, so this is the one program where the GRE is required for most Indian applicants."
+}
