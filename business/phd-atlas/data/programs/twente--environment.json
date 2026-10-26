@@ -1,0 +1,78 @@
+{
+  "id": "twente--environment",
+  "university": "twente",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Faculty of Geo-information Science and Earth Observation (ITC)",
+  "program_page": "https://www.utwente.nl/en/itc/research/phd-at-itc/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The ITC page gives no closing date; a PhD study can start from a proposal in the registration procedure.",
+      "quote": "A PhD study programme may be initiated on the basis of a proposal submitted by the PhD candidate as part of the registration procedure.",
+      "url": "https://www.utwente.nl/en/itc/research/phd-at-itc/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE subject test is stated for ITC.",
+      "quote": "",
+      "url": "https://www.utwente.nl/en/itc/research/phd-at-itc/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The ITC page says a PhD runs under a promoter and daily supervisors, but does not say whether a supervisor must agree before admission.",
+      "quote": "under the supervision of a promoter and one or more daily supervisors",
+      "url": "https://www.utwente.nl/en/itc/research/phd-at-itc/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "ITC does not offer fellowships or similar funding for self-initiated PhD candidates, except for advertised vacancies it has already funded.",
+      "quote": "ITC does not offer fellowships or similar funding for PhD candidates (except for advertised vacancies for which ITC has already secured funding).",
+      "url": "https://www.utwente.nl/en/itc/research/phd-at-itc/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants must hold a master's degree or an equivalent qualification.",
+      "quote": "Hold a MSc degree or an equivalent qualification from an officially recognised university or accredited academic institution.",
+      "url": "https://www.utwente.nl/en/education/tgs/phd/application-and-admission/"
+    },
+    "app_fee": {
+      "code": "Not stated",
+      "value": "ITC sets its own registration; its application fee was not found on the pages checked, so the university-wide rule does not apply.",
+      "quote": "",
+      "url": "https://www.utwente.nl/en/itc/research/phd-at-itc/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "ITC sets its own registration; its fee waiver rules were not found on the pages checked.",
+      "quote": "",
+      "url": "https://www.utwente.nl/en/itc/research/phd-at-itc/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "ITC sets its own registration; its GRE rule was not found on the pages checked.",
+      "quote": "",
+      "url": "https://www.utwente.nl/en/itc/research/phd-at-itc/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "ITC sets its own registration; its TOEFL minimum was not found on the pages checked, so the university-wide score does not apply.",
+      "quote": "",
+      "url": "https://www.utwente.nl/en/itc/research/phd-at-itc/"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "ITC sets its own registration; its IELTS minimum was not found on the pages checked, so the university-wide score does not apply.",
+      "quote": "",
+      "url": "https://www.utwente.nl/en/itc/research/phd-at-itc/"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "ITC sets its own registration; its English waiver rules were not found on the pages checked.",
+      "quote": "",
+      "url": "https://www.utwente.nl/en/itc/research/phd-at-itc/"
+    }
+  },
+  "notes": "ITC runs its own registration (quote on the program page: At the end of the self-assessment, you can find a link to on-line application for registration in the Graduate Programme). The ITC admission page returned 404 (https://www.utwente.nl/en/itc/education/admission/), so ITC's own English and fee rules are not checked. The tuition table on the ITC page is split and not quoted. Discipline is not named on the page, so 'environment' is a judgement from the ITC Earth Observation remit. Checked 2026-10-26."
+}

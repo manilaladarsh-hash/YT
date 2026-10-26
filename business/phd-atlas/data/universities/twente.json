@@ -1,0 +1,63 @@
+{
+  "id": "twente",
+  "institution": "University of Twente",
+  "country": "Netherlands",
+  "region": "Overijssel",
+  "grad_page": "https://www.utwente.nl/en/education/tgs/phd/application-and-admission/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No application fee is stated for PhD applicants. The fees on this page are an annual doctoral contribution (EUR 3,000 tuition) for candidates not employed by the university.",
+      "quote": "",
+      "url": "https://www.utwente.nl/en/education/tgs/phd/application-and-admission/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No international fee waiver is stated on the Twente Graduate School PhD pages.",
+      "quote": "",
+      "url": "https://www.utwente.nl/en/education/tgs/phd/application-and-admission/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement is stated on the Twente Graduate School PhD pages or the university language page checked.",
+      "quote": "",
+      "url": "https://www.utwente.nl/en/education/tgs/phd/application-and-admission/"
+    },
+    "toefl_min": {
+      "code": "5 (new scale)",
+      "value": "For the September 2027 intake, a TOEFL iBT taken after January 2026 needs an overall score of 5, with at least 5 on reading, listening and writing and 4.5 on speaking. Tests taken before January 2026 use the old scale, with a minimum of 100.",
+      "quote": "Not older than two years, with an overall score of 5, and a minimum score of 5 on reading, listening and writing.",
+      "url": "https://www.utwente.nl/en/education/master/admission-requirements/language-requirement/",
+      "also": [
+        {
+          "quote": "For speaking a minimum score of 4.5 is required.",
+          "url": "https://www.utwente.nl/en/education/master/admission-requirements/language-requirement/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic overall band of 6.5 for the September 2027 intake, with at least 6.0 in each section, and the certificate must be no more than two years old.",
+      "quote": "Not older than two years, with an overall band score of at least 6.5, and a minimum score on each section of at least 6.0.",
+      "url": "https://www.utwente.nl/en/education/master/admission-requirements/language-requirement/"
+    },
+    "english_waiver": {
+      "code": "Check tool",
+      "value": "Twente says it offers no English waivers beyond listed exceptions, which are in its English Language Tool; India is not named on the pages checked, so an Indian applicant must check the tool.",
+      "quote": "Please consult the English Language Tool to determine whether any of the listed exceptions may apply to your situation.",
+      "url": "https://www.utwente.nl/en/education/master/admission-requirements/language-requirement/",
+      "also": [
+        {
+          "quote": "Please note that individual requests for waivers outside the stated exceptions cannot be considered, as the University of Twente does not offer English waivers.",
+          "url": "https://www.utwente.nl/en/education/master/admission-requirements/language-requirement/"
+        },
+        {
+          "quote": "Doctoral candidates with a non-Dutch MSc degree or qualification are admitted if they have sufficient command of the English language.",
+          "url": "https://www.utwente.nl/en/education/tgs/phd/application-and-admission/"
+        }
+      ]
+    }
+  },
+  "notes": "Checked 2026-10-26. The official pages give no per-field PhD list: Twente Graduate School (TGS) coordinates all doctoral programmes, so program records exist only where a department or school page describes its own PhD. The English rules are the master's language page, which the TGS page says PhD candidates follow. Blocked or unavailable: https://www.utwente.nl/en/itc/education/admission/ returned 404 (Dutch-only page). Fetch budget: seven university-wide fetches (one over the brief's six, needed for the English thresholds)."
+}
