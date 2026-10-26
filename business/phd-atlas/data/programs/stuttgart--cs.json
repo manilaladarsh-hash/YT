@@ -1,0 +1,44 @@
+{
+  "id": "stuttgart--cs",
+  "university": "stuttgart",
+  "field": "cs",
+  "also_fields": [
+    "ece"
+  ],
+  "department": "Faculty 5 - Computer Science, Electrical Engineering and Information Technology",
+  "program_page": "https://www.f05.uni-stuttgart.de/en/research/phd_and_post_docs/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No application deadline is stated on the faculty doctoral page.",
+      "quote": "",
+      "url": "https://www.f05.uni-stuttgart.de/en/research/phd_and_post_docs/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The faculty doctoral page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.f05.uni-stuttgart.de/en/research/phd_and_post_docs/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A signed agreement on doctoral studies with the supervisor is part of the application.",
+      "quote": "Then you need to draft and sign an agreement on doctoral studies with your supervisor.",
+      "url": "https://www.f05.uni-stuttgart.de/en/research/phd_and_post_docs/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most doctoral candidates at Stuttgart already hold a paid doctoral job; this is a university-wide statement.",
+      "quote": "Most individual doctoral degree candidates at the University of Stuttgart already have a paid doctoral student job and work as research assistants for the University.",
+      "url": "https://www.uni-stuttgart.de/en/research/early-career-researchers/doctoral-degree-studies/stipends-support/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's degree, or a degree of at least four study years, is the entry rule.",
+      "quote": "a) master’s degree studies at a university in the Federal Republic of Germany or | b) degree studies with a standard period of study of at least four study years",
+      "url": "https://www.f04.uni-stuttgart.de/documents/Promotionsordnung-englisch.pdf"
+    }
+  },
+  "notes": "The faculty doctoral page covers Computer Science and Electrical Engineering, so ece is listed under also_fields. Independent doctorates need a professor of an institute as mentor."
+}

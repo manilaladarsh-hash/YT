@@ -1,0 +1,54 @@
+{
+  "id": "stuttgart--mech",
+  "university": "stuttgart",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Faculty 7 - Engineering Design, Production Engineering and Automotive Engineering (individual doctorate); GSaME for the structured route",
+  "program_page": "https://www.f07.uni-stuttgart.de/en/research/doctorate-habilitation/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "GSaME advertises open research topics continuously and processes applications on submission; check its current deadlines.",
+      "quote": "Open research topics are advertised continuously by GSaME.",
+      "url": "https://www.gsame.uni-stuttgart.de/en/admission/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Faculty 7 and GSaME pages do not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.f07.uni-stuttgart.de/en/research/doctorate-habilitation/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A supervising professor from the faculty doctoral committee, and a signed agreement, are needed.",
+      "quote": "Together with your supervisor, you will draw up an agreement on doctoral studies including the required qualification program",
+      "url": "https://www.f07.uni-stuttgart.de/en/research/doctorate-habilitation/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most doctoral candidates at Stuttgart already hold a paid doctoral job; this is a university-wide statement.",
+      "quote": "Most individual doctoral degree candidates at the University of Stuttgart already have a paid doctoral student job and work as research assistants for the University.",
+      "url": "https://www.uni-stuttgart.de/en/research/early-career-researchers/doctoral-degree-studies/stipends-support/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's degree in the field of the research topic is required for GSaME; the faculty route follows the doctoral regulations.",
+      "quote": "A Master’s or equivalent university degree in the field of the research topic",
+      "url": "https://www.gsame.uni-stuttgart.de/en/admission/"
+    },
+    "toefl_min": {
+      "code": "94",
+      "value": "GSaME asks for English C1, equivalent to 94 or more on the internet-based TOEFL.",
+      "quote": "corresponds to 94 or more points in the Internet-Based TOEFL test (iBT-TOEFL)",
+      "url": "https://www.gsame.uni-stuttgart.de/en/admission/"
+    },
+    "ielts_min": {
+      "code": "7.0",
+      "value": "GSaME asks for English C1, such as IELTS 7.0 or higher. Individual faculty doctorates state no English rule.",
+      "quote": "Language certificates of English language proficiency (at least Level C1, e.g. proven by IELTS 7.0 or higher",
+      "url": "https://www.gsame.uni-stuttgart.de/en/admission/"
+    }
+  },
+  "notes": "Two routes: the individual Faculty 7 doctorate and the GSaME graduate school. The English overrides come from the GSaME page only. Faculty 6 (Aerospace Engineering) has a PhD page with links only and no admission rule, so no aerospace-specific values are saved."
+}

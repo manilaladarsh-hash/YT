@@ -1,0 +1,44 @@
+{
+  "id": "stuttgart--chemistry",
+  "university": "stuttgart",
+  "field": "chemistry",
+  "also_fields": [
+    "materials"
+  ],
+  "department": "Faculty 3 - Chemistry and Materials Science",
+  "program_page": "https://www.f03.uni-stuttgart.de/en/research/promotion/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Admission is requested through GRADUS at the start of the thesis work; no fixed deadline is stated.",
+      "quote": "You have to submit your application for admission via GRADUS at the beginning of the work on your PhD thesis.",
+      "url": "https://www.f03.uni-stuttgart.de/en/research/promotion/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The faculty doctoral page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.f03.uni-stuttgart.de/en/research/promotion/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A signed agreement on doctoral studies with the supervisor is part of the application.",
+      "quote": "Signed agreement on doctoral studies with: Work plan and timetable and information on your individual qualification program",
+      "url": "https://www.uni-stuttgart.de/en/research/early-career-researchers/doctoral-degree-studies/enrollment/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most doctoral candidates at Stuttgart already hold a paid doctoral job; this is a university-wide statement.",
+      "quote": "Most individual doctoral degree candidates at the University of Stuttgart already have a paid doctoral student job and work as research assistants for the University.",
+      "url": "https://www.uni-stuttgart.de/en/research/early-career-researchers/doctoral-degree-studies/stipends-support/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's degree, or a degree of at least four study years, is the entry rule.",
+      "quote": "a) master’s degree studies at a university in the Federal Republic of Germany or | b) degree studies with a standard period of study of at least four study years",
+      "url": "https://www.f04.uni-stuttgart.de/documents/Promotionsordnung-englisch.pdf"
+    }
+  },
+  "notes": "The faculty doctoral page covers Chemistry and Materials Science, so materials is listed under also_fields."
+}

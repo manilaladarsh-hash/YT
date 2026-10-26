@@ -1,0 +1,60 @@
+{
+  "id": "stuttgart--environment",
+  "university": "stuttgart",
+  "field": "environment",
+  "also_fields": [],
+  "department": "International Doctoral Program Environment Water (ENWAT), Faculty 2",
+  "program_page": "https://www.enwat.uni-stuttgart.de/application/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "The programme lists no application deadline for its project positions.",
+      "quote": "Application deadline: none",
+      "url": "https://www.enwat.uni-stuttgart.de/application/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The ENWAT application page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.enwat.uni-stuttgart.de/application/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A signed agreement on doctoral studies with the supervisor is part of the application.",
+      "quote": "Signed agreement on doctoral studies with: Work plan and timetable and information on your individual qualification program",
+      "url": "https://www.uni-stuttgart.de/en/research/early-career-researchers/doctoral-degree-studies/enrollment/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Applicants must already have verified full funding; applications without it are not considered.",
+      "quote": "",
+      "url": "https://www.enwat.uni-stuttgart.de/application/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A relevant master's degree or equivalent is required.",
+      "quote": "MSc (or an equivalent degree) relevant for the respective project",
+      "url": "https://www.enwat.uni-stuttgart.de/application/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The programme accepts 80 or more on the internet-based TOEFL.",
+      "quote": "TOEFL test results indicating a minimum score of 80 points (internet-based testing)",
+      "url": "https://www.enwat.uni-stuttgart.de/application/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The programme asks for an IELTS Academic band score of 6.5.",
+      "quote": "IELTS test results indicating an Academic Bandscore: 6.5",
+      "url": "https://www.enwat.uni-stuttgart.de/application/"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "A bachelor's or master's course taught in English is accepted as proof of English, so an English-medium degree waives the test.",
+      "quote": "Medium of Instruction (MoI): Proof that the candidate has successfully completed a university course (e.g. B.Sc. or M.Sc.) taught in English.",
+      "url": "https://www.enwat.uni-stuttgart.de/application/"
+    }
+  },
+  "notes": "Project-based programme in Faculty 2; applicants must bring verified full funding. Civil engineering applicants can also apply, but civil is saved separately under the faculty rules."
+}

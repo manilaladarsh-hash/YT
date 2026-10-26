@@ -1,0 +1,54 @@
+{
+  "id": "stuttgart--biology",
+  "university": "stuttgart",
+  "field": "biology",
+  "also_fields": [],
+  "department": "DPP-Biotech (Dual Cooperative Doctoral Program in Biotechnology)",
+  "program_page": "https://www.dpp-biotech.uni-stuttgart.de/en/application/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No application deadline is stated on the DPP-Biotech application page.",
+      "quote": "",
+      "url": "https://www.dpp-biotech.uni-stuttgart.de/en/application/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The DPP-Biotech page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.dpp-biotech.uni-stuttgart.de/en/application/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A signed agreement on doctoral studies with the supervisor is part of the application.",
+      "quote": "Signed agreement on doctoral studies with: Work plan and timetable and information on your individual qualification program",
+      "url": "https://www.uni-stuttgart.de/en/research/early-career-researchers/doctoral-degree-studies/enrollment/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Structured-programme students are also supported financially, per the university stipends page.",
+      "quote": "If they are in structured PhD programs, they are also supported financially.",
+      "url": "https://www.uni-stuttgart.de/en/research/early-career-researchers/doctoral-degree-studies/stipends-support/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Admission needs a successful relevant master's programme or equivalent degree.",
+      "quote": "A successful graduation in a relevant Master's program or equivalent program in the subject area",
+      "url": "https://www.dpp-biotech.uni-stuttgart.de/en/application/"
+    },
+    "ielts_min": {
+      "code": "7.0",
+      "value": "Applicants show English at C1 level, such as IELTS 7.0, or German C1 instead.",
+      "quote": "proof of sufficient English language skills (min. C1, e.g. proven by IELTS 7.0, equivalent to 94 or more points on the Internet-Based TOEFL test (iBT-TOEFL) or higher)",
+      "url": "https://www.dpp-biotech.uni-stuttgart.de/en/application/"
+    },
+    "toefl_min": {
+      "code": "94",
+      "value": "English C1 is shown by 94 or more on the internet-based TOEFL, as an alternative to German C1.",
+      "quote": "proof of sufficient English language skills (min. C1, e.g. proven by IELTS 7.0, equivalent to 94 or more points on the Internet-Based TOEFL test (iBT-TOEFL) or higher)",
+      "url": "https://www.dpp-biotech.uni-stuttgart.de/en/application/"
+    }
+  },
+  "notes": "Dual cooperative programme with industry partners. The programme accepts German C1 (TDN4) as an alternative to English C1."
+}

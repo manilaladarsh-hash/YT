@@ -1,0 +1,47 @@
+{
+  "id": "stuttgart",
+  "institution": "University of Stuttgart",
+  "country": "Germany",
+  "region": "Baden-Württemberg",
+  "grad_page": "https://www.uni-stuttgart.de/en/research/early-career-researchers/doctoral-degree-studies/graduate-schools-graduate-colleges-doctoral-programs/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No application fee for doctoral admission is stated on the official doctoral pages checked.",
+      "quote": "",
+      "url": "https://www.uni-stuttgart.de/en/research/early-career-researchers/doctoral-degree-studies/graduate-schools-graduate-colleges-doctoral-programs/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No doctoral application fee is stated, so no waiver rule was found.",
+      "quote": "",
+      "url": "https://www.uni-stuttgart.de/en/research/early-career-researchers/doctoral-degree-studies/graduate-schools-graduate-colleges-doctoral-programs/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement is mentioned on the university doctoral pages; faculties set their own rules.",
+      "quote": "",
+      "url": "https://www.uni-stuttgart.de/en/research/early-career-researchers/doctoral-degree-studies/graduate-schools-graduate-colleges-doctoral-programs/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "No university-wide TOEFL rule for doctoral applicants is stated; the English pages cover degree-seeking students, and each programme sets its own.",
+      "quote": "",
+      "url": "https://www.uni-stuttgart.de/en/research/early-career-researchers/doctoral-degree-studies/graduate-schools-graduate-colleges-doctoral-programs/"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "No university-wide IELTS rule for doctoral applicants is stated; each programme sets its own.",
+      "quote": "",
+      "url": "https://www.uni-stuttgart.de/en/research/early-career-researchers/doctoral-degree-studies/graduate-schools-graduate-colleges-doctoral-programs/"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "No university-wide English-medium waiver for doctoral applicants is stated.",
+      "quote": "",
+      "url": "https://www.uni-stuttgart.de/en/research/early-career-researchers/doctoral-degree-studies/graduate-schools-graduate-colleges-doctoral-programs/"
+    }
+  },
+  "notes": "University-wide doctoral pages (list of programmes, registration and application, stipends) give no fee, GRE or English rule. Doctoral admission runs through GRADUS and each faculty's doctoral committee. Schools with their own English rules are on the programme records. SimTech (graduate school) and KIC InnoEnergy are cross-faculty programmes; SimTech's doctoral page has no admission or English rule, so neither is saved as a field."
+}
