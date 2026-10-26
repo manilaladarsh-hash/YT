@@ -1,0 +1,47 @@
+{
+  "id": "mizzou",
+  "institution": "University of Missouri",
+  "country": "USA",
+  "region": "Missouri",
+  "grad_page": "https://gradschool.missouri.edu/admissions/apply/international-applicants/",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "100 USD",
+      "value": "Nonresident international applicants pay $100 (U.S. citizens and permanent residents pay $75).",
+      "quote": "Degree-seeking applicants pay a non-refundable application processing fee of $75 (U.S. citizens and permanent residents) or $100 (nonresident internationals)",
+      "url": "https://gradschool.missouri.edu/admissions/apply/application-fees/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The Graduate School waives the fee only for a few groups: Missouri Pell Grant recipients, certain Missouri service-program members and honorably discharged veterans. International applicants are not on that list; some programs may pay it.",
+      "quote": "The Graduate School will waive the application fee for the following applicant groups | Pell Grant recipients (within the past five years) who are Missouri residents",
+      "url": "https://gradschool.missouri.edu/admissions/apply/application-fees/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School sets no GRE rule for PhD applicants; each program sets its own (see program records).",
+      "quote": "",
+      "url": "https://gradschool.missouri.edu/admissions/apply/international-applicants/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Minimum total TOEFL iBT score of 80 on the 0-120 scale, with subsection minimums of 17; some programs require more.",
+      "quote": "TOEFL iBT (0-120 scale) 80",
+      "url": "https://gradschool.missouri.edu/admissions/apply/international-applicants/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic overall band of 6.5, with no subsection below 6; some programs require more.",
+      "quote": "IELTS Academic 6.5 6 6 6 6",
+      "url": "https://gradschool.missouri.edu/admissions/apply/international-applicants/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the Graduate School's list of recognized English-speaking countries, and an Indian degree does not count as an exemption, so a TOEFL or IELTS score is required.",
+      "quote": "Hold a degree from an institution in a recognized English-speaking country | Are a citizen or legal resident of a recognized English-speaking country",
+      "url": "https://gradschool.missouri.edu/admissions/apply/international-applicants/"
+    }
+  },
+  "notes": "Program-level English minimums are on the Graduate School table (Biological Sciences, Biomedical Sciences, Statistics and others); see those program records. Chemistry fee waiver is for US citizens and permanent residents only."
+}

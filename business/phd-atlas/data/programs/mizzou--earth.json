@@ -1,0 +1,55 @@
+{
+  "id": "mizzou--earth",
+  "university": "mizzou",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Geological Sciences",
+  "program_page": "https://geology.missouri.edu/graduate-program",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-28",
+      "value": "Applications must be complete by January 28 to ensure consideration for departmental support in the fall semester; later ones are considered if funding is available.",
+      "quote": "Applications must be complete by January 28 in order to insure consideration for departmental support during the fall academic semester",
+      "url": "https://geology.missouri.edu/graduate-program",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "January 28 for guaranteed consideration for departmental financial aid",
+          "url": "https://gradschool.missouri.edu/degreecategory/geological-sciences/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE scores are optional but recommended.",
+      "quote": "GRE scores (optional, but recommended)",
+      "url": "https://gradschool.missouri.edu/degreecategory/geological-sciences/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to ask faculty about research assistantship support before applying.",
+      "quote": "applicants are encouraged to inquire about potential GRA support with relevant faculty",
+      "url": "https://geology.missouri.edu/graduate-program"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Graduate students are typically supported by teaching or research assistantships.",
+      "quote": "Graduate students are typically supported by either Graduate Teaching Assistantships (GTA) or Graduate Research Assistantship (GRA)",
+      "url": "https://geology.missouri.edu/graduate-program"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The PhD requires 72 hours beyond a bachelor's, with up to 24 hours credit for a master's degree.",
+      "quote": "The Doctoral degree requires 72 hours beyond a bachelor's degree, including 24 hours credit for a master's degree",
+      "url": "https://geology.missouri.edu/graduate-program"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages reached for this field.",
+      "quote": "",
+      "url": "https://geology.missouri.edu/graduate-program"
+    }
+  },
+  "notes": "The Graduate School page lists the Fall priority date as January 28. The PhD catalog page was not retrieved (it returned 502 on a related page)."
+}

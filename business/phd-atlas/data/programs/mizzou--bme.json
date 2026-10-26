@@ -1,0 +1,44 @@
+{
+  "id": "mizzou--bme",
+  "university": "mizzou",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Bioengineering",
+  "program_page": "https://gradschool.missouri.edu/degreecategory/bioengineering/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Priority deadline for Fall is December 1; final deadline March 15.",
+      "quote": "Fall December 1 March 15",
+      "url": "https://gradschool.missouri.edu/degreecategory/bioengineering/",
+      "inferred": "year"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The page expects a BS and an MS; only rarely can an exceptional student start the PhD without an MS.",
+      "quote": "In rare instances, an exceptional student will be allowed to study for the PhD without first completing an MS degree",
+      "url": "https://gradschool.missouri.edu/degreecategory/bioengineering/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages reached for this field.",
+      "quote": "",
+      "url": "https://gradschool.missouri.edu/degreecategory/bioengineering/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages reached for this field.",
+      "quote": "",
+      "url": "https://gradschool.missouri.edu/degreecategory/bioengineering/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages reached for this field.",
+      "quote": "",
+      "url": "https://gradschool.missouri.edu/degreecategory/bioengineering/"
+    }
+  },
+  "notes": "Mapped to bme (biomedical/bio-engineering) because the department is Bioengineering. Minimum GPA 3.2 on the program page. GRE, supervisor and funding not stated on the page reached.",
+  "name": "Biological Engineering, PhD"
+}

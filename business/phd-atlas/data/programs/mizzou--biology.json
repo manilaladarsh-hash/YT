@@ -1,0 +1,61 @@
+{
+  "id": "mizzou--biology",
+  "university": "mizzou",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Division of Biological Sciences",
+  "program_page": "https://biology.missouri.edu/grad/graduate-admission",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applicants are considered once a year for fall admission, with a December 1 application deadline.",
+      "quote": "Applicants are considered once a year for fall admission, with a December 1 application deadline",
+      "url": "https://biology.missouri.edu/grad/graduate-admission",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The division does not accept GRE scores as criteria for admission.",
+      "quote": "The Division of Biological Sciences does not accept GRE scores as criteria for admission to the graduate program",
+      "url": "https://biology.missouri.edu/grad/graduate-admission"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "The division does not accept GRE scores as criteria for admission.",
+      "quote": "The Division of Biological Sciences does not accept GRE scores as criteria for admission to the graduate program",
+      "url": "https://biology.missouri.edu/grad/graduate-admission"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "Biological Sciences sets a TOEFL iBT total of 100 (0-120 scale), above the university minimum of 80.",
+      "quote": "Some academic programs require test scores that are higher than the minimum university requirements | Biological Sciences 100",
+      "url": "https://gradschool.missouri.edu/admissions/apply/international-applicants/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Biological Sciences sets an IELTS Academic overall band of 7.",
+      "quote": "Some academic programs require test scores that are higher than the minimum university requirements | Biological Sciences 7",
+      "url": "https://gradschool.missouri.edu/admissions/apply/international-applicants/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to contact the faculty member they want to work with before applying.",
+      "quote": "All prospective students are encouraged to make contact with the doctoral faculty member with whom they wish to work before they apply",
+      "url": "https://biology.missouri.edu/grad/graduate-admission"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted students receive financial support while making acceptable progress, usually as a teaching assistantship.",
+      "quote": "Students admitted students to our program receive financial support while making acceptable progress | In most cases, support comes in the form of a teaching assistantship",
+      "url": "https://biology.missouri.edu/grad/graduate-admission"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages reached for this field.",
+      "quote": "",
+      "url": "https://biology.missouri.edu/grad/graduate-admission"
+    }
+  },
+  "notes": "The Graduate School table lists this program's English minimums; the table does not say whether they apply to the PhD only. Entry route not stated."
+}
