@@ -1,0 +1,91 @@
+{
+  "id": "cmu--cs",
+  "university": "cmu",
+  "field": "cs",
+  "also_fields": [],
+  "department": "School of Computer Science, Ph.D. in Computer Science",
+  "program_page": "https://www.cs.cmu.edu/academics/phd/programs",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-09",
+      "value": "Final graduate deadline is December 9, 2026; the early deadline of November 18 gives a lower fee.",
+      "quote": "Final deadline: December 9, 2026 (3 p.m. EST)",
+      "url": "https://www.cs.cmu.edu/education/graduate-admissions",
+      "time_sensitive": "2026-11-18",
+      "also": [
+        {
+          "quote": "Early deadline: November 18, 2026 (3 p.m. EST)",
+          "url": "https://www.cs.cmu.edu/education/graduate-admissions"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "100 USD",
+      "value": "The SCS application fee is $100 per program, or $80 before the early deadline.",
+      "quote": "The application fee is $100 per program.",
+      "url": "https://www.cs.cmu.edu/education/graduate-admissions"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "A fee waiver is available only for financial hardship, within the application.",
+      "quote": "you may apply for a financial or participants of program fee waiver, which is available within the application",
+      "url": "https://www.cs.cmu.edu/education/graduate-admissions"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Each program sets its own GRE policy; the CS PhD page could not be fetched.",
+      "quote": "Each program sets its policy on whether Graduate Record Examination (GRE) scores are required",
+      "url": "https://www.cs.cmu.edu/education/graduate-admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No CS subject test is named on the official pages.",
+      "quote": "",
+      "url": "https://www.cs.cmu.edu/education/graduate-admissions"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "No minimum is stated; the page gives only the score ranges admitted applicants usually submit.",
+      "quote": "In the past few years, most of our admitted applicants submitted total test scores in the ranges below",
+      "url": "https://www.cs.cmu.edu/education/graduate-admissions"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "No minimum is stated; the page gives only the score ranges admitted applicants usually submit.",
+      "quote": "In the past few years, most of our admitted applicants submitted total test scores in the ranges below",
+      "url": "https://www.cs.cmu.edu/education/graduate-admissions"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "No waiver for non-native speakers, even after US or English-language study; MOI certificates are not accepted.",
+      "quote": "We do not issue waivers for non-native speakers of English.",
+      "url": "https://www.cs.cmu.edu/education/graduate-admissions",
+      "also": [
+        {
+          "quote": "Medium of Instruction (MOI) certificates are not accepted as a substitute for an English proficiency test.",
+          "url": "https://www.cs.cmu.edu/education/graduate-admissions"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students are matched with an adviser after admission, based on mutual research interests.",
+      "quote": "you’ll be matched with an adviser based primarily on mutual research interests and begin a research project on day one",
+      "url": "https://www.cs.cmu.edu/academics/phd/programs"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All PhD students get full financial support while in good academic standing.",
+      "quote": "All of our Ph.D. students receive full financial support while in good academic standing",
+      "url": "https://www.cs.cmu.edu/academics/phd/programs"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages reached do not say whether a bachelor's or master's is required.",
+      "quote": "",
+      "url": "https://www.cs.cmu.edu/academics/phd/programs"
+    }
+  },
+  "notes": "School-level rules from the SCS graduate admissions page (its own application). The CS PhD page (csd.cmu.edu) returned a 502 error, so its own GRE rule is Not stated."
+}

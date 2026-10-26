@@ -1,0 +1,85 @@
+{
+  "id": "cmu--neuro",
+  "university": "cmu",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Neuroscience Institute, Ph.D. in Neural Computation",
+  "program_page": "https://www.cmu.edu/ni/academics/grad/programs/phd-neural-computation",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Final deadline is December 1 for admission to the following fall.",
+      "quote": "must be submitted by December 1st for admission to the following fall semester",
+      "url": "https://www.cmu.edu/ni/academics/grad/grad-application-process",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "There is no fee to submit Ph.D. applications to the Neuroscience Institute.",
+      "quote": "There is no fee to submit Ph.D. applications to the Neuroscience Institute.",
+      "url": "https://www.cmu.edu/ni/academics/grad/grad-application-process"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No application fee is charged for Ph.D. applications.",
+      "quote": "There is no fee to submit Ph.D. applications to the Neuroscience Institute.",
+      "url": "https://www.cmu.edu/ni/academics/grad/grad-application-process"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores may be submitted but are not required; applications with and without them are fully reviewed.",
+      "quote": "You may submit GRE scores, but we do not require them.",
+      "url": "https://www.cmu.edu/ni/academics/grad/grad-application-process"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject test.",
+      "quote": "",
+      "url": "https://www.cmu.edu/ni/academics/grad/grad-application-process"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "No minimum is stated; the TOEFL or Duolingo is required for non-native applicants.",
+      "quote": "",
+      "url": "https://www.cmu.edu/ni/academics/grad/grad-application-process"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "IELTS is accepted but TOEFL or Duolingo is preferred; no minimum is stated.",
+      "quote": "Yes, but we prefer TOEFL or the Duolingo English Test.",
+      "url": "https://www.cmu.edu/ni/academics/grad/grad-application-process"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Non-native applicants who took their undergraduate degree outside the US must submit TOEFL, even UK and Canadian graduates.",
+      "quote": "You must submit TOEFL scores if your first language is not English and you completed your undergraduate degree at a non-US institution (even UK and Canada).",
+      "url": "https://www.cmu.edu/ni/academics/grad/grad-application-process"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are advised to email a potential faculty advisor before applying.",
+      "quote": "We recommend that you label your email with a subject header like",
+      "url": "https://www.cmu.edu/ni/academics/grad/grad-application-process"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All PhD candidates are fully funded, with tuition covered for at least five years and a stipend.",
+      "quote": "All Ph.D. candidates at the Neuroscience Institute are fully funded, regardless of their immigration status.",
+      "url": "https://www.cmu.edu/ni/academics/grad/grad-application-process",
+      "also": [
+        {
+          "quote": "100% Tuition Waiver: Your tuition is covered in full for at least five years",
+          "url": "https://www.cmu.edu/ni/academics/grad/grad-application-process"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not say whether a bachelor's or master's is required.",
+      "quote": "",
+      "url": "https://www.cmu.edu/ni/academics/grad/grad-application-process"
+    }
+  },
+  "notes": "Neuroscience Institute PhD (Ph.D. in Neural Computation). The CNBC page (cnbc.cmu.edu) returned a 502 error."
+}

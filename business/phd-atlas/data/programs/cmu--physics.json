@@ -1,0 +1,85 @@
+{
+  "id": "cmu--physics",
+  "university": "cmu",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics, Mellon College of Science",
+  "program_page": "https://www.cmu.edu/physics/graduate-program/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Application deadline is December 15 for the following fall.",
+      "quote": "Application deadline: December 15.",
+      "url": "https://www.cmu.edu/physics/graduate-program/admission.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Apply Now for Fall 2027 Admission!",
+          "url": "https://www.cmu.edu/physics/graduate-program/admission.html"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "25 USD",
+      "value": "A $25 application fee is required.",
+      "quote": "A $25 application fee is required.",
+      "url": "https://www.cmu.edu/physics/graduate-program/admission.html"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The fee cannot be waived except for GEM Fellowship and Rales Fellowship applicants.",
+      "quote": "with the exception of specific cases (at present for GEM Fellowship and Rales Fellowship applicants only)",
+      "url": "https://www.cmu.edu/physics/graduate-program/admission.html"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE General or Subject scores are recommended if available, but not required.",
+      "quote": "GRE General or GRE Subject Test scores are recommended if available but not required.",
+      "url": "https://www.cmu.edu/physics/graduate-program/admission.html"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "GRE Subject scores are recommended if available, but not required.",
+      "quote": "GRE General or GRE Subject Test scores are recommended if available but not required.",
+      "url": "https://www.cmu.edu/physics/graduate-program/admission.html"
+    },
+    "toefl_min": {
+      "code": "86",
+      "value": "TOEFL iBT composite minimum is 86 for Physics.",
+      "quote": "Composite Score TOEFL IBT, TOEFL Home: 86",
+      "url": "https://www.cmu.edu/physics/graduate-program/admission.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic overall 6.5, with 6.0 for speaking and writing.",
+      "quote": "Composite Score IELTS, IELTS Indicator: 6.5",
+      "url": "https://www.cmu.edu/physics/graduate-program/admission.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "The waiver covers only four-year degrees from an English-speaking region, which an Indian degree is not, so a test is required.",
+      "quote": "Exceptions to this policy will not be granted except in the case of non-native English speakers who have completed or expect to complete a four-year undergraduate degree in an English-speaking region.",
+      "url": "https://www.cmu.edu/physics/graduate-program/admission.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students choose a research advisor after entry, by the end of the second week of their first fall semester.",
+      "quote": "Students are required to choose a research project advisor by the end of the second week of their first fall semester.",
+      "url": "https://www.cmu.edu/physics/graduate-program/degree-req.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department says it gives substantial support to doctoral students, but not that all or most are funded.",
+      "quote": "The Physics Department provides substantial financial support for doctoral students",
+      "url": "https://www.cmu.edu/physics/graduate-program/mcs_physics_phd-26271.pdf"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants finishing a B.S., B.A. or M.S. in Physics or a closely related subject are considered.",
+      "quote": "Students who are finishing a B.S., B.A. or M.S. degree in Physics or a closely related subject will be considered for admission",
+      "url": "https://www.cmu.edu/physics/graduate-program/admission.html"
+    }
+  },
+  "notes": "Existing data/programs/cmu--physics.json was not present, so this record was researched from scratch."
+}

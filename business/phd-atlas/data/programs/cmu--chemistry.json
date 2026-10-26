@@ -1,0 +1,79 @@
+{
+  "id": "cmu--chemistry",
+  "university": "cmu",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry, Mellon College of Science",
+  "program_page": "https://www.cmu.edu/chemistry/grad/prospective/apply.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications received after December 1 are not considered for the following fall.",
+      "quote": "Applications received after December 1 will not be considered for fall admission of the following year.",
+      "url": "https://www.cmu.edu/chemistry/grad/prospective/apply.html",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "25 USD",
+      "value": "The application fee is $25 for all applicants.",
+      "quote": "Application Fee: $25 for all applicants",
+      "url": "https://www.cmu.edu/chemistry/grad/prospective/apply.html"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "Fee waivers are not considered.",
+      "quote": "requests for waivers will not be considered",
+      "url": "https://www.cmu.edu/chemistry/grad/prospective/apply.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "Chemistry does not require the GRE for admission.",
+      "quote": "CMU Chemistry does not require the GRE (general or subject) for admission.",
+      "url": "https://www.cmu.edu/chemistry/grad/prospective/apply.html"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "Chemistry does not require the GRE Subject test for admission.",
+      "quote": "CMU Chemistry does not require the GRE (general or subject) for admission.",
+      "url": "https://www.cmu.edu/chemistry/grad/prospective/apply.html"
+    },
+    "toefl_min": {
+      "code": "84",
+      "value": "TOEFL total 84 with a speaking score of at least 18, or 100 with speaking 22 preferred.",
+      "quote": "TOEFL: total 84 with a speaking score of at least 18 (minimum)",
+      "url": "https://www.cmu.edu/chemistry/grad/prospective/apply.html"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS band 7 with a speaking score of 6.5.",
+      "quote": "IELTS: band score of 7 with a speaking score of 6.5",
+      "url": "https://www.cmu.edu/chemistry/grad/prospective/apply.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "No waiver: earlier study in the US or another English-speaking country does not waive the test.",
+      "quote": "Previous academic work in the US (or other English speaking countries) is not a sufficient reason to waive the TOEFL/IELTS requirement",
+      "url": "https://www.cmu.edu/chemistry/grad/prospective/apply.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students may arrange 2 to 3 rotations and join a group by mid-second semester.",
+      "quote": "Students may arrange 2–3 rotations of typically 4–6 weeks each",
+      "url": "https://www.cmu.edu/chemistry/grad/forms_policies/uploads/handbooks/chemistry_handbook_2024.pdf"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All full-time PhD students get full financial support, including tuition and a stipend.",
+      "quote": "Full financial support is offered to all full-time Ph.D. students, including tuition and stipend",
+      "url": "https://www.cmu.edu/chemistry/grad/prospective/apply.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not say whether a bachelor's or master's is required.",
+      "quote": "",
+      "url": "https://www.cmu.edu/chemistry/grad/prospective/apply.html"
+    }
+  },
+  "notes": "Chemistry sets its own fee, GRE and English rules."
+}

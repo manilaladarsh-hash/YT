@@ -1,0 +1,79 @@
+{
+  "id": "cmu--biology",
+  "university": "cmu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences, Mellon College of Science",
+  "program_page": "https://www.cmu.edu/bio/graduate/phd_program/faqs.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Application submission deadline is December 1; materials are due by December 5 for priority review.",
+      "quote": "December 1: Application submission deadline.",
+      "url": "https://www.cmu.edu/bio/graduate/phd_program/faqs.html",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "25 USD",
+      "value": "The application fee is $25 for all applicants.",
+      "quote": "$25 for all applicants",
+      "url": "https://www.cmu.edu/bio/graduate/phd_program/faqs.html"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The fee cannot be waived.",
+      "quote": "We regret that this cannot be waived; requests for waivers will not be considered.",
+      "url": "https://www.cmu.edu/bio/graduate/phd_program/faqs.html"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are not required but are reviewed if submitted.",
+      "quote": "GRE scores are not required, but will be reviewed if submitted.",
+      "url": "https://www.cmu.edu/bio/graduate/phd_program/faqs.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject test.",
+      "quote": "",
+      "url": "https://www.cmu.edu/bio/graduate/phd_program/faqs.html"
+    },
+    "toefl_min": {
+      "code": "86",
+      "value": "TOEFL overall 86, with section minimums.",
+      "quote": "TOEFL: Overall 86, Reading 22, Listening 22, Speaking 20, Writing 22",
+      "url": "https://www.cmu.edu/bio/graduate/phd_program/faqs.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS overall 6.5, with 6.0 for speaking and writing.",
+      "quote": "IELTS: Overall 6.5, Reading 6.5, Listening 6.5, Speaking 6.0, Writing 6.0",
+      "url": "https://www.cmu.edu/bio/graduate/phd_program/faqs.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Exemptions cover only US or majority English-speaking-country degrees, not degrees from other countries.",
+      "quote": "Note that exemptions cannot be granted for students studying in other countries, including students at all-English universities located in other countries",
+      "url": "https://www.cmu.edu/bio/graduate/phd_program/faqs.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students do three lab rotations in the first year before choosing a thesis advisor.",
+      "quote": "During the first year, students complete three lab rotations with faculty of their choice.",
+      "url": "https://www.cmu.edu/bio/graduate/phd_program/faqs.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not describe a stipend or tuition guarantee for PhD students.",
+      "quote": "",
+      "url": "https://www.cmu.edu/bio/graduate/phd_program/faqs.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not say whether a bachelor's or master's is required.",
+      "quote": "",
+      "url": "https://www.cmu.edu/bio/graduate/phd_program/faqs.html"
+    }
+  },
+  "notes": "The page redirects to phd_bs/index.html; the same text is in that cache. No separate biomedical PhD was found on the pages reached."
+}

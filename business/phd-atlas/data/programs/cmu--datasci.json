@@ -1,0 +1,91 @@
+{
+  "id": "cmu--datasci",
+  "university": "cmu",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "Machine Learning Department, Ph.D. in Machine Learning",
+  "program_page": "https://ml.cmu.edu/academics/machine-learning-phd",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-09",
+      "value": "Final application deadline is December 9, 2026; the early deadline of November 18 gives a lower fee.",
+      "quote": "Final Application Deadline: | Dec. 9, 2026 (3 p.m. EST)",
+      "url": "https://ml.cmu.edu/academics/machine-learning-phd",
+      "time_sensitive": "2026-11-18",
+      "also": [
+        {
+          "quote": "Early Application Deadline: | Nov. 18, 2026 (3 p.m. EST)",
+          "url": "https://ml.cmu.edu/academics/machine-learning-phd"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "100 USD",
+      "value": "The SCS application fee is $100 per program, or $80 before the early deadline.",
+      "quote": "The application fee is $100 per program.",
+      "url": "https://www.cs.cmu.edu/education/graduate-admissions"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "A fee waiver is available only for financial hardship, within the application.",
+      "quote": "you may apply for a financial or participants of program fee waiver, which is available within the application",
+      "url": "https://www.cs.cmu.edu/education/graduate-admissions"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional for the Machine Learning PhD.",
+      "quote": "GRE scores are OPTIONAL.",
+      "url": "https://ml.cmu.edu/academics/machine-learning-phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is named on the official pages.",
+      "quote": "",
+      "url": "https://ml.cmu.edu/academics/machine-learning-phd"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "No minimum is stated on the official pages.",
+      "quote": "",
+      "url": "https://ml.cmu.edu/academics/machine-learning-phd"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "No minimum is stated on the official pages.",
+      "quote": "",
+      "url": "https://ml.cmu.edu/academics/machine-learning-phd"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "No waiver for non-native speakers; the test must be submitted.",
+      "quote": "We do not issue waivers for nonnative speakers of English.",
+      "url": "https://ml.cmu.edu/academics/machine-learning-phd"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students are matched with an adviser after admission, based on mutual research interests.",
+      "quote": "you’ll be matched with an adviser based primarily on mutual research interests and begin a research project on day one",
+      "url": "https://www.cs.cmu.edu/academics/phd/programs"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Full tuition and stipend support is committed for the academic year; students without outside funding get assistantships.",
+      "quote": "We are committed to providing you with full tuition and stipend support for the coming academic year",
+      "url": "https://ml.cmu.edu/academics/machine-learning-phd",
+      "also": [
+        {
+          "quote": "Students who do not have external financial support will be funded via graduate assistantships",
+          "url": "https://ml.cmu.edu/academics/machine-learning-phd"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not say whether a bachelor's or master's is required.",
+      "quote": "",
+      "url": "https://ml.cmu.edu/academics/machine-learning-phd"
+    }
+  },
+  "notes": "Joint ML PhD programs are not separate records. The application fee and deadline are from the SCS admissions page."
+}
