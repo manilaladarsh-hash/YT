@@ -1,0 +1,47 @@
+{
+  "id": "macquarie",
+  "institution": "Macquarie University",
+  "country": "Australia",
+  "region": "New South Wales",
+  "grad_page": "https://policies.mq.edu.au/document/view.php?id=369",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No application fee amount is stated; the policy only says the university may charge one.",
+      "quote": "",
+      "url": "https://policies.mq.edu.au/document/view.php?id=369"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No international fee waiver is stated on a fetched page.",
+      "quote": "",
+      "url": "https://policies.mq.edu.au/document/view.php?id=369"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE policy is stated on a fetched page.",
+      "quote": "",
+      "url": "https://policies.mq.edu.au/document/view.php?id=369"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The score table for graduate research courses is in Schedule 1, which could not be fetched.",
+      "quote": "",
+      "url": "https://policies.mq.edu.au/document/view.php?id=369"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The score table for graduate research courses is in Schedule 1, which could not be fetched.",
+      "quote": "",
+      "url": "https://policies.mq.edu.au/document/view.php?id=369"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The graduate research English schedule could not be fetched, so the India rule is unknown.",
+      "quote": "",
+      "url": "https://policies.mq.edu.au/document/view.php?id=369"
+    }
+  },
+  "notes": "Only one official page could be fetched: the Graduate Research Admissions Policy (policies.mq.edu.au id=369). It says all Graduate Research applicants must meet the English requirements in 'Schedule 1 - English Language Admission Requirements for Graduate Research Courses' and that the university 'may charge an application fee' without an amount. The graduate research English schedule and the Graduate Research pages on mq.edu.au and students.mq.edu.au are blocked (Cloudflare 403). The coursework schedule (policies.mq.edu.au id=360) was fetched but covers undergraduate, postgraduate and non-award courses, not graduate research, so its IELTS and TOEFL figures were not used. Entry rule for doctoral degrees (policy clause 30): an MRes at 75% or above, an MPhil, a two-year Masters with a research component at 75% or above, or an approved equivalent. No department PhD list or program page could be fetched, so no program records were saved."
+}
