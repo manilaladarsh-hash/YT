@@ -1,0 +1,79 @@
+{
+  "id": "udel--math",
+  "university": "udel",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematical Sciences",
+  "program_page": "https://www.udel.edu/academics/colleges/cas/units/departments/mathematical-sciences/graduate-programs/phd-degrees/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall applications are due January 15; the Graduate College lists July 1 as the final date.",
+      "quote": "Each year, the deadline for spring admission is November 15 and January 15 for fall admission",
+      "url": "https://www.udel.edu/academics/colleges/cas/units/departments/mathematical-sciences/graduate-programs/phd-degrees/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "January 15: To be considered for departmental funding | July 1: Final deadline to apply",
+          "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/programs/mathematics/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional for the PhD in Mathematics or Applied Mathematics.",
+      "quote": "GRE scores are optional",
+      "url": "https://www.udel.edu/academics/colleges/cas/units/departments/mathematical-sciences/graduate-programs/phd-degrees/"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "GRE scores are optional; no separate subject test is stated.",
+      "quote": "GRE scores are optional",
+      "url": "https://www.udel.edu/academics/colleges/cas/units/departments/mathematical-sciences/graduate-programs/phd-degrees/"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "Non-native applicants must score at least 100 on the TOEFL iBT (20 in each section), or 600 on the paper test.",
+      "quote": "Score at least 100 on the TOEFL iBT, with a minimum score of 20 in each section",
+      "url": "https://www.udel.edu/academics/colleges/cas/units/departments/mathematical-sciences/graduate-programs/phd-degrees/"
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "IELTS 7.5 overall with at least 6.0 in each subsection.",
+      "quote": "Score at least 7.5 on the IELTS with a minimum score of 6.0 in each subsection",
+      "url": "https://www.udel.edu/academics/colleges/cas/units/departments/mathematical-sciences/graduate-programs/phd-degrees/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Students from countries where English is not primary must show proficiency with a test.",
+      "quote": "students from a country where English is not a primary language must demonstrate proficiency in English by meeting at least one of the following criteria",
+      "url": "https://www.udel.edu/academics/colleges/cas/units/departments/mathematical-sciences/graduate-programs/phd-degrees/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The math pages do not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.udel.edu/academics/colleges/cas/units/departments/mathematical-sciences/graduate-programs/phd-degrees/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Successful applicants are offered a package including a $30,000 stipend for nine months.",
+      "quote": "Successful applicants are offered a competitive package, including:",
+      "url": "https://www.udel.edu/academics/colleges/cas/units/departments/mathematical-sciences/graduate-programs/phd-degrees/",
+      "also": [
+        {
+          "quote": "an annual stipend of $30,000 for 9 month",
+          "url": "https://www.udel.edu/academics/colleges/cas/units/departments/mathematical-sciences/graduate-programs/phd-degrees/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Admission is open to students who have completed the equivalent of a bachelor's degree in mathematics or a related field.",
+      "quote": "Admission to the Ph.D. programs in Applied Mathematics and Mathematics is open to students who have completed the equivalent of a baccalaureate degree in mathematics or related fields",
+      "url": "https://www.udel.edu/academics/colleges/cas/units/departments/mathematical-sciences/graduate-programs/phd-degrees/"
+    }
+  },
+  "notes": "One department covers Mathematics and Applied Mathematics PhDs. The CAS page gives January 15 for fall; the Graduate College listing gives July 1 as the final date."
+}

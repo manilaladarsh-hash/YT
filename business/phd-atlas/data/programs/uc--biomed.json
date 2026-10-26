@@ -1,0 +1,62 @@
+{
+  "id": "uc--biomed",
+  "university": "uc",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "College of Medicine: Cancer & Cell Biology PhD",
+  "program_page": "https://med.uc.edu/education/cancer-biology-graduate/about-doctoral",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-01",
+      "value": "Applications received by November 1 are considered for early interviews and admission decisions; the page gives no final date.",
+      "quote": "Applications for PhD program received by November 1 will be considered for early interviews and admission decision.",
+      "url": "https://med.uc.edu/education/cancer-biology-graduate/about-doctoral",
+      "inferred": "year",
+      "time_sensitive": "2026-11-01",
+      "also": [
+        {
+          "quote": "Accepting applications for the CCB PhD and Master of Science programs starting August 1 for admission consideration for the following Fall.",
+          "url": "https://med.uc.edu/education/cancer-biology-graduate/about-doctoral"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted PhD students receive full tuition remission, a competitive stipend and health insurance.",
+      "quote": "All PhD students accepted to the program receive full tuition remission, a nationally competitive stipend and a health insurance plan.",
+      "url": "https://med.uc.edu/education/cancer-biology-graduate/about-doctoral"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The College of Medicine sets GRE rules per program; many programs have waived it.",
+      "quote": "Many, but not all, of the College of Medicine graduate programs have waived this requirement.",
+      "url": "https://med.uc.edu/admissions/phd-admissions"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The College of Medicine says each program sets its own TOEFL minimum; check the program page.",
+      "quote": "It is essential that you visit the individual program website(s) of interest and check on their specific TOEFL requirements before you submit an application.",
+      "url": "https://med.uc.edu/admissions/phd-admissions"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not say whether applicants come directly from a bachelor's.",
+      "quote": "",
+      "url": "https://med.uc.edu/education/cancer-biology-graduate/about-doctoral"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not state a supervisor rule.",
+      "quote": "",
+      "url": "https://med.uc.edu/education/cancer-biology-graduate/about-doctoral"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a GRE Subject test for this field.",
+      "quote": "",
+      "url": "https://med.uc.edu/education/cancer-biology-graduate/about-doctoral"
+    }
+  },
+  "notes": "Only the Cancer & Cell Biology PhD was researched. Other College of Medicine PhDs (Immunology, Pharmacology & Physiology, Molecular Genetics, Pathobiology, Development & Stem Cells, Environmental Genetics, Environmental & Industrial Hygiene, Epidemiology, Biomedical Informatics) are listed at med.uc.edu/education/programs/doctoral-degrees and were not researched."
+}

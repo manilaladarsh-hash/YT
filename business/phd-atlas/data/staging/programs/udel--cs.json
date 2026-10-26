@@ -1,0 +1,61 @@
+{
+  "id": "udel--cs",
+  "university": "udel",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer and Information Sciences",
+  "program_page": "https://www.cis.udel.edu/academics/graduate-programs/graduate-admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "February 1 is the deadline to be considered for departmental funding; the final date is July 1.",
+      "quote": "February 1: To be considered for departmental funding (Ph.D.) | July 1: Final deadline to apply (Ph.D.)",
+      "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/programs/computer-science/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE test scores are optional and not required for admission.",
+      "quote": "GRE test scores are optional and not required for admission",
+      "url": "https://www.cis.udel.edu/academics/graduate-programs/graduate-admissions/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Computer science has no subject test, and the page says nothing more about it.",
+      "quote": "",
+      "url": "https://www.cis.udel.edu/academics/graduate-programs/graduate-admissions/"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "Internet TOEFL 100 is the minimum for admission with a teaching assistantship; 79 without aid.",
+      "quote": "Minimum scores for admission with a teaching assistantship: | Internet test: 100",
+      "url": "https://www.cis.udel.edu/academics/graduate-programs/graduate-admissions/"
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "IELTS 7.5 is the minimum for admission with a teaching assistantship; 6.5 without aid.",
+      "quote": "Minimum scores for admission with a teaching assistantship: | IELTS 7.5",
+      "url": "https://www.cis.udel.edu/academics/graduate-programs/graduate-admissions/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is reviewed by the department; faculty consider top applicants for research assistant positions.",
+      "quote": "During the admissions process, we routinely show the applications of our topmost applicants to faculty in the appropriate research areas to be considered for possible RA positions",
+      "url": "https://www.cis.udel.edu/academics/graduate-programs/graduate-admissions/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "All or nearly all doctoral students receive a stipend and full tuition scholarship.",
+      "quote": "All or nearly all doctoral students receive a stipend and full tuition scholarship",
+      "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/programs/computer-science/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not required, and strong applicants with a bachelor's may apply directly.",
+      "quote": "A master’s degree is not required for admission to the PhD program. Strong applicants with a Bachelor’s degree are encouraged to apply directly for admission to the PhD program",
+      "url": "https://www.cis.udel.edu/academics/graduate-programs/graduate-admissions/"
+    }
+  },
+  "notes": "Department sets its own TOEFL and IELTS minimums by funding level."
+}

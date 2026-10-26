@@ -1,0 +1,47 @@
+{
+  "id": "uc",
+  "institution": "University of Cincinnati",
+  "country": "USA",
+  "region": "Ohio",
+  "grad_page": "https://www.admissions.uc.edu/apply/graduate/requirements.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "70 USD",
+      "value": "International applicants pay a $70 non-refundable application fee for most degree programs; some colleges charge more.",
+      "quote": "$70.00 for international applicants to most degree programs",
+      "url": "https://www.admissions.uc.edu/apply/graduate/requirements.html"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "The only automatic fee waivers listed are for US armed forces members and veterans, so Indian applicants get none.",
+      "quote": "Fee waivers are automatically applied for applicants who: | are currently serving in the US armed forces, or",
+      "url": "https://www.admissions.uc.edu/apply/graduate/requirements.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school does not set GRE rules; each program does.",
+      "quote": "",
+      "url": "https://www.admissions.uc.edu/apply/graduate/requirements.html"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The graduate school's TOEFL minimum is 80 iBT (or 4.5 on the new 1-6 scale).",
+      "quote": "TOEFL: minimum score of 4.5 (on the 1-6 scale) or 80 iBT (on the 0-120 scale)",
+      "url": "https://www.admissions.uc.edu/apply/graduate/requirements.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The graduate school's IELTS Academic minimum is an overall band of 6.5.",
+      "quote": "IELTS: minimum score of 6.5 overall band",
+      "url": "https://www.admissions.uc.edu/apply/graduate/requirements.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "India is not on the automatic-exemption country list, but a degree from an entirely English-instructing institution waives the test if the university documents English as its medium of instruction.",
+      "quote": "Received or will receive a bachelor's or higher degree from an entirely English-instructing institution. | Please provide documentation stating that the entire university uses English as the medium of instruction.",
+      "url": "https://www.admissions.uc.edu/apply/graduate/requirements.html"
+    }
+  },
+  "notes": "Graduate College rules. Engineering (CEAS) charges $80 to international applicants and gives no fee waivers; the College of Medicine and the Physics Department set their own English and GRE rules in the program records."
+}

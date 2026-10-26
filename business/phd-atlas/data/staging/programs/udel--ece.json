@@ -1,0 +1,61 @@
+{
+  "id": "udel--ece",
+  "university": "udel",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical and Computer Engineering",
+  "program_page": "https://www.ece.udel.edu/academics/graduate/phd/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "February 1 is the deadline for departmental funding; the final fall deadline is August 1.",
+      "quote": "February 1 is the deadline to be considered for departmental funding",
+      "url": "https://www.ece.udel.edu/academics/graduate/phd/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Applications for the Fall semester must be received by August 1",
+          "url": "https://www.ece.udel.edu/academics/graduate/phd/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is competitive and not tied to a named advisor; first-year students choose an advisor after one semester.",
+      "quote": "Admission to the ECE Ph.D. program is competitive. Those who meet stated requirements are not guaranteed admission",
+      "url": "https://www.ece.udel.edu/academics/graduate/phd/",
+      "also": [
+        {
+          "quote": "At the end of the first semester, first year scholars will choose a doctoral advisor",
+          "url": "https://www.ece.udel.edu/academics/graduate/phd/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Financial support is available as research or teaching assistantships or scholarships, with a full tuition waiver.",
+      "quote": "Financial support is available in the form of Research Assistantships, Teaching Assistantships and Scholarships, all of them providing competitive stipends, full tuition waiver and subsidized health insurance",
+      "url": "https://www.ece.udel.edu/academics/graduate/phd/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is a candidacy requirement, not an admission rule stated on the page.",
+      "quote": "Candidates must complete the course requirements for the thesis master’s degree, or have been awarded a master’s degree in electrical or computer engineering, or a closely related field",
+      "url": "https://www.ece.udel.edu/academics/graduate/phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The ECE pages do not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.ece.udel.edu/academics/graduate/phd/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The ECE pages do not mention the GRE.",
+      "quote": "",
+      "url": "https://www.ece.udel.edu/academics/graduate/phd/"
+    }
+  },
+  "notes": "Competitive admission. Department pages do not give English or GRE rules, so the Graduate College rules apply."
+}
