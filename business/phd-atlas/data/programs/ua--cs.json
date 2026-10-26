@@ -1,0 +1,48 @@
+{
+  "id": "ua--cs",
+  "university": "ua",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science",
+  "program_page": "https://catalog.ua.edu/graduate/engineering/computer-science/phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The catalog page gives no application deadline, and the department site could not be read.",
+      "quote": "",
+      "url": "https://catalog.ua.edu/graduate/engineering/computer-science/phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to this PhD.",
+      "quote": "",
+      "url": "https://catalog.ua.edu/graduate/engineering/computer-science/phd/"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE is recommended, not required, for applicants who want funding consideration.",
+      "quote": "It is strongly recommended that students who wish to be considered for funding opportunities submit a GRE score.",
+      "url": "https://catalog.ua.edu/graduate/engineering/computer-science/phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether an advisor is needed before admission.",
+      "quote": "",
+      "url": "https://catalog.ua.edu/graduate/engineering/computer-science/phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog page does not state the funding rule, and the department site could not be read.",
+      "quote": "",
+      "url": "https://catalog.ua.edu/graduate/engineering/computer-science/phd/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The catalog page does not state a degree-level rule.",
+      "quote": "",
+      "url": "https://catalog.ua.edu/graduate/engineering/computer-science/phd/"
+    }
+  },
+  "notes": "The department site cs.ua.edu returned HTTP 502 on every attempt (https://cs.ua.edu/graduate/ , https://cs.ua.edu/graduate-program/ , https://cs.ua.edu/graduate/faq/), so the department's deadline, funding and advisor rules could not be checked."
+}

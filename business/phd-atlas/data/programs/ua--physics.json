@@ -1,0 +1,51 @@
+{
+  "id": "ua--physics",
+  "university": "ua",
+  "field": "physics",
+  "also_fields": [
+    "astronomy"
+  ],
+  "department": "Department of Physics and Astronomy",
+  "program_page": "https://physics.ua.edu/graduate-program/frequently-asked-questions/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "University fellowship consideration needs complete applications by December 15, 2026; departmental assistantship consideration runs to January 15, 2027.",
+      "quote": "To be considered for all university fellowships, complete applications should be received by December 15 | To receive full consideration for departmental support via graduate teaching or research assistantships, all application materials should be received by January 15",
+      "url": "https://physics.ua.edu/graduate-program/frequently-asked-questions/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Physics GRE is not required, but a score can be sent to support the application.",
+      "quote": "We do not require the Physics GRE (PGRE) exam. | However, you may submit a PGRE score if you feel it can support your application",
+      "url": "https://physics.ua.edu/graduate-program/frequently-asked-questions/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No supervisor contact is needed, and admission decisions are made by the graduate admissions committee.",
+      "quote": "No, you are not required to contact a potential supervisor. | admission decisions are made by the graduate admissions committee",
+      "url": "https://physics.ua.edu/graduate-program/frequently-asked-questions/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Continuous support is usually available to PhD students in good standing through teaching assistantships, research assistantships or fellowships.",
+      "quote": "Continuous financial support is usually available for PhD students in good academic standing either through teaching assistantships, research assistantships, or fellowships",
+      "url": "https://physics.ua.edu/graduate-program/frequently-asked-questions/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Almost all applicants go straight into the PhD after a BS or equivalent degree.",
+      "quote": "Almost all of our prospective students directly enter the Ph.D. program after earning their BS or equivalent degree",
+      "url": "https://physics.ua.edu/graduate-program/frequently-asked-questions/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The department does not require the general GRE, but a score can be sent to support the application.",
+      "quote": "We do not require the GRE exam. | However, you may submit a GRE score if you feel it can support your application",
+      "url": "https://physics.ua.edu/graduate-program/frequently-asked-questions/"
+    }
+  },
+  "notes": "Astronomy is a specialization of this PhD (\"MS/PhD in Physics with a specialization in Astronomy\"), so astronomy is listed in also_fields. The Tri-Campus Materials Science PhD is a separate program. The graduate school, not the department, sets the application fee and does not waive it except in narrow cases."
+}

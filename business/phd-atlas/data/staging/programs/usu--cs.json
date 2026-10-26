@@ -1,0 +1,43 @@
+{
+  "id": "usu--cs",
+  "university": "usu",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science (School of Computing)",
+  "program_page": "https://engineering.usu.edu/soc/students/graduate/phd",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Fall (August start) applications are due January 1, 2027; there are no summer admissions.",
+      "quote": "Fall (Begins in August) ... January 1",
+      "url": "https://engineering.usu.edu/soc/students/graduate/phd",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to the PhD in Computer Science.",
+      "quote": "",
+      "url": "https://engineering.usu.edu/soc/students/graduate/phd"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must find a CS faculty member willing to be your mentor before you can be accepted.",
+      "quote": "To be accepted into the program you must find a faculty member to be your mentor",
+      "url": "https://engineering.usu.edu/soc/students/graduate/phd"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Fellowships go to the best entering students and assistantships depend on individual faculty; the page does not say most students are funded.",
+      "quote": "Department support is not unlimited or unconditional",
+      "url": "https://engineering.usu.edu/soc/students/graduate/phd"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A PhD can be entered from a BS (3.25 GPA) or an MS (3.5 GPA).",
+      "quote": "3.25 Cumulative GPA in your BS program or 3.5 Cumulative GPA in your MS program",
+      "url": "https://engineering.usu.edu/soc/students/graduate/phd"
+    }
+  },
+  "notes": "Spring deadline is October 1 (no summer admissions). The admissions page lists minimum requirements: experience in computing, C++, CS 2420, and calculus and statistics. The degree page on the department site gives no GRE rule for the PhD, so the university value stands. The department's international English rules match the university record."
+}

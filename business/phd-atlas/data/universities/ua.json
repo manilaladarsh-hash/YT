@@ -1,0 +1,53 @@
+{
+  "id": "ua",
+  "institution": "University of Alabama",
+  "country": "USA",
+  "region": "Alabama",
+  "grad_page": "https://graduate.ua.edu/applicants/requirements/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "80 USD",
+      "value": "International applicants pay an $80 application fee, which is non-refundable.",
+      "quote": "$80 for international students.",
+      "url": "https://graduate.ua.edu/applicants/requirements/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Only narrow exemptions are listed: veterans, prior UA graduate applicants and UA undergraduates applying to the same program. A free application week for Fall 2027 ran October 5 to 9, 2026 and has closed.",
+      "quote": "Veterans and current members of the U.S. military. | Applicants previously enrolled in Graduate School at The University of Alabama. | UA undergraduates applying to the same program at the graduate level.",
+      "url": "https://graduate.ua.edu/applicants/requirements/",
+      "also": [
+        {
+          "quote": "The UA Graduate School will run a free graduate application (business) week from October 5 – 9, 2026 for applicants for Fall 2027.",
+          "url": "https://physics.ua.edu/graduate-program/frequently-asked-questions/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE rules are set program by program, so the graduate school gives no university-wide GRE rule.",
+      "quote": "Some programs, but not all, require applicants to submit a standardized test score (for example, GRE, GMAT, etc.).",
+      "url": "https://graduate.ua.edu/applicants/requirements/"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "The TOEFL iBT minimum is 4.5 with no section below 4; tests taken before January 2026 use the old minimum of 79.",
+      "quote": "TOEFL iBT: 4.5 (no sub score less than 4) (or 79 for students who took the test prior to January 2026)",
+      "url": "https://graduate.ua.edu/applicants/international-students/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The IELTS Academic minimum is 6.5 overall, with no section below 6.",
+      "quote": "IELTS: 6.5 (no sub score less than 6)",
+      "url": "https://graduate.ua.edu/applicants/international-students/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the graduate school's list of English-speaking countries, so an Indian degree does not waive the English test.",
+      "quote": "You hold a degree from an institution in a recognized English-speaking country. | Recognized English-speaking Countries",
+      "url": "https://graduate.ua.edu/applicants/international-students/"
+    }
+  },
+  "notes": "Program-level GRE rules are on each program record. Fee and English minimums are from the graduate school's requirements and international students pages. The free application week (October 5 to 9, 2026) is quoted from the physics FAQ, which cites the graduate school."
+}

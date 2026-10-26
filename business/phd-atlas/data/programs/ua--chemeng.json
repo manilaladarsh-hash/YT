@@ -1,0 +1,60 @@
+{
+  "id": "ua--chemeng",
+  "university": "ua",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Chemical and Biological Engineering",
+  "program_page": "https://catalog.ua.edu/graduate/engineering/chemical-biological/phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The catalog page gives no application deadline, and the department page could not be read.",
+      "quote": "",
+      "url": "https://catalog.ua.edu/graduate/engineering/chemical-biological/phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to this PhD.",
+      "quote": "",
+      "url": "https://catalog.ua.edu/graduate/engineering/chemical-biological/phd/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The engineering GRE rule could not be read, because the department page returned an error.",
+      "quote": "",
+      "url": "https://catalog.ua.edu/graduate/engineering/chemical-biological/phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not state whether an advisor is needed before admission.",
+      "quote": "",
+      "url": "https://catalog.ua.edu/graduate/engineering/chemical-biological/phd/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Students in good standing are normally funded, and support is typically guaranteed through the PhD for those who meet performance expectations.",
+      "quote": "are normally supported by a graduate research assistantship (GRA) | Financial support is typically guaranteed through the Ph.D. studies for Ph.D. students who meet performance expectations",
+      "url": "https://catalog.ua.edu/graduate/engineering/chemical-biological/phd/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The catalog page does not state a degree-level rule, and the department page could not be read.",
+      "quote": "",
+      "url": "https://catalog.ua.edu/graduate/engineering/chemical-biological/phd/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The engineering school's English minimum could not be read, so the graduate school minimum is not assumed.",
+      "quote": "",
+      "url": "https://catalog.ua.edu/graduate/engineering/chemical-biological/phd/"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The engineering school's English minimum could not be read, so the graduate school minimum is not assumed.",
+      "quote": "",
+      "url": "https://catalog.ua.edu/graduate/engineering/chemical-biological/phd/"
+    }
+  },
+  "notes": "The department page https://che.eng.ua.edu/graduate/ returned HTTP 502 on every attempt, so its deadline, GRE and English rules are unchecked."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ua--math",
+  "university": "ua",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://math.ua.edu/graduate-program/how-to-apply/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall applicants should have all materials at the graduate school by January 15, 2027.",
+      "quote": "To start in the Fall Semester: January 15",
+      "url": "https://math.ua.edu/graduate-program/how-to-apply/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page does not state a subject test rule.",
+      "quote": "",
+      "url": "https://math.ua.edu/graduate-program/how-to-apply/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The general GRE is optional, and applications with and without scores get full consideration.",
+      "quote": "Scores on the general test of the GRE are optional. | However, applications with and without GRE scores will both get full consideration",
+      "url": "https://math.ua.edu/graduate-program/how-to-apply/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Contacting faculty is not necessary, but endorsement from faculty helps an application.",
+      "quote": "It is not necessary to contact any faculty member, but it is beneficial if you have endorsement from some faculty members",
+      "url": "https://math.ua.edu/graduate-program/how-to-apply/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "All applicants are considered automatically for financial support, but the page does not say what share of PhD students is funded.",
+      "quote": "All applicants are automatically considered for financial supports",
+      "url": "https://math.ua.edu/graduate-program/how-to-apply/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's in mathematics or a closely related field is required, and a master's is not.",
+      "quote": "Applicants must have a bachelor’s degree from a regionally accredited college or university in mathematics or a closely related field | A Master’s degree is not required for admission to the PhD program",
+      "url": "https://math.ua.edu/graduate-program/how-to-apply/"
+    }
+  },
+  "notes": ""
+}

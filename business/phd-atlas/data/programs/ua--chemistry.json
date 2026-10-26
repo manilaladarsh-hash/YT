@@ -1,0 +1,67 @@
+{
+  "id": "ua--chemistry",
+  "university": "ua",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry and Biochemistry",
+  "program_page": "https://chemistry.ua.edu/graduate-program-overview/how-to-apply/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications completed by December 1, 2026 get priority; the department admits for fall only.",
+      "quote": "applications completed by December 1 receive priority consideration",
+      "url": "https://chemistry.ua.edu/graduate-program-overview/how-to-apply/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department does not require the GRE for admission.",
+      "quote": "Currently, the GRE is not required for admission.",
+      "url": "https://chemistry.ua.edu/graduate-program-overview/how-to-apply/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department does not require the GRE for admission.",
+      "quote": "Currently, the GRE is not required for admission.",
+      "url": "https://chemistry.ua.edu/graduate-program-overview/how-to-apply/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You do not need a faculty member's support before applying, though contacting one is welcome.",
+      "quote": "You do not need to secure the support of potential advisors before applying.",
+      "url": "https://chemistry.ua.edu/graduate-program-overview/how-to-apply/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most doctoral students get full support, and admission normally includes five years of funding, starting with a teaching assistantship.",
+      "quote": "most students pursuing doctoral degrees in our programs receive full support as teaching assistants (TAs), as research assistants (RAs), or through University or external fellowships",
+      "url": "https://chemistry.ua.edu/graduate/financial-support/",
+      "also": [
+        {
+          "quote": "Typically, admission to our PhD program includes five years of financial support",
+          "url": "https://chemistry.ua.edu/graduate/financial-support/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A BS in chemistry or a closely related field is enough to apply, and near-completion applicants are considered.",
+      "quote": "To be considered for the graduate program, you should be near completion or have completed at least a Bachelor of Science degree in chemistry or in a closely related field",
+      "url": "https://chemistry.ua.edu/graduate-program-overview/how-to-apply/"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The department states its own TOEFL minimum of 79, on the older score scale.",
+      "quote": "For the TOEFL test, we look for a minimum score of 79; for the IELTS test, a minimum score of 6.5",
+      "url": "https://chemistry.ua.edu/graduate-program-overview/how-to-apply/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department states its own IELTS minimum of 6.5, the same as the graduate school.",
+      "quote": "for the IELTS test, a minimum score of 6.5",
+      "url": "https://chemistry.ua.edu/graduate-program-overview/how-to-apply/"
+    }
+  },
+  "notes": "The current TA/RA stipend is $35,760 paid over 12 months, per the financial support page. Admission for an applicant with a three-year BS may be better served by an MS first."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "usu--statistics",
+  "university": "usu",
+  "field": "statistics",
+  "also_fields": [
+    "datasci"
+  ],
+  "department": "Department of Mathematics and Statistics",
+  "program_page": "https://www.usu.edu/degrees-majors/statistics-and-data-science_phd",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Applications should be complete by January 15, 2027 for full consideration for Fall admission.",
+      "quote": "Applications to the MS and PhD degree programs should be completed by January 15th to receive full consideration for Fall admission",
+      "url": "https://artsci.usu.edu/math-stats/graduates/apply",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "Subject GRE exams are not required.",
+      "quote": "subject exams not required",
+      "url": "https://artsci.usu.edu/math-stats/graduates/apply"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE is not required; applicants may submit GRE scores or a research portfolio instead.",
+      "quote": "GRE scores are no longer required | Instead, all applicants must provide one of the following",
+      "url": "https://artsci.usu.edu/math-stats/graduates/apply"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The department does not waive the application fee.",
+      "quote": "We do not waive their application fee",
+      "url": "https://artsci.usu.edu/math-stats/graduates/apply"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department pages do not say whether a faculty agreement is needed before admission.",
+      "quote": "",
+      "url": "https://www.usu.edu/degrees-majors/statistics-and-data-science_phd"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department pages do not say most or all admitted students are funded.",
+      "quote": "",
+      "url": "https://www.usu.edu/degrees-majors/statistics-and-data-science_phd"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The program page gives no entry rule.",
+      "quote": "",
+      "url": "https://www.usu.edu/degrees-majors/statistics-and-data-science_phd"
+    }
+  },
+  "notes": "Shares the Mathematics and Statistics apply page (deadline, GRE, fee and English rules). The program page is thin; it is listed as 'Statistics and Data Science - PhD' by the department and the Data Science & AI Center. It covers statistics, machine learning, data science and AI, so datasci is also_fields.",
+  "name": "PhD in Statistics and Data Science"
+}

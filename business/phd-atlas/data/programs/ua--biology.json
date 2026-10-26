@@ -1,0 +1,61 @@
+{
+  "id": "ua--biology",
+  "university": "ua",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://bsc.ua.edu/graduate/admissions/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-10",
+      "value": "Fall applicants for mid-August start should apply by December 10, 2026; the review is rolling.",
+      "quote": "Fall applicants (mid-August start date): December 10",
+      "url": "https://bsc.ua.edu/graduate/admissions/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "The Biological Sciences Graduate Program utilizes a rolling admissions process by which applications are evaluated as they are received.",
+          "url": "https://catalog.ua.edu/graduate/arts-sciences/biological-sciences/phd/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page does not state a subject test rule.",
+      "quote": "",
+      "url": "https://catalog.ua.edu/graduate/arts-sciences/biological-sciences/phd/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department does not require applicant GRE scores.",
+      "quote": "We do not require applicant GRE scores for admissions to our program.",
+      "url": "https://catalog.ua.edu/graduate/arts-sciences/biological-sciences/phd/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must contact faculty and interview with a prospective advisor, or the application is incomplete.",
+      "quote": "Applications will not be considered complete without an interview with a prospective advisor.",
+      "url": "https://bsc.ua.edu/graduate/admissions/",
+      "also": [
+        {
+          "quote": "Prospective applicants for the M.S. and Ph.D. degree programs must contact one or more faculty members prior to the application process",
+          "url": "https://bsc.ua.edu/graduate/admissions/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Funding is often available but depends on the faculty advisor, and the department generally does not admit unfunded PhD students.",
+      "quote": "Funding is often available for MS, MMS, and PhD students, but it is dependent on the faculty advisor | We generally do not accept unfunded students into or MS, MMS, and PhD programs",
+      "url": "https://bsc.ua.edu/graduate/admissions/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The stated requirement is a bachelor's in biology, ecology, environmental science or a related field.",
+      "quote": "A Bachelor’s degree in Biology, Ecology, Environmental Science, or related field",
+      "url": "https://bsc.ua.edu/graduate/admissions/"
+    }
+  },
+  "notes": "The catalog says applications are reviewed on a rolling basis, and that University of Alabama graduate fellowships are for fall applicants only."
+}

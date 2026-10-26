@@ -1,0 +1,66 @@
+{
+  "id": "ua--materials",
+  "university": "ua",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Materials Science (Tri-Campus PhD with UAB and UAH)",
+  "program_page": "https://materialsscience.ua.edu/apply/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Applications are accepted all year, and most decisions are made January through March for the next fall term.",
+      "quote": "The Tri-campus Materials Science program accepts applicants throughout the year",
+      "url": "https://materialsscience.ua.edu/apply/",
+      "also": [
+        {
+          "quote": "Most admission decisions are made January through March for the next fall academic term.",
+          "url": "https://materialsscience.ua.edu/apply/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The program page does not state a subject test rule.",
+      "quote": "",
+      "url": "https://materialsscience.ua.edu/apply/"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "An official GRE score must be submitted, and the stated minimum is above 300 on the revised scale.",
+      "quote": "submission of an official GRE score | >300 revised GRE (>1000 general GRE)",
+      "url": "https://materialsscience.ua.edu/apply/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to contact faculty about fit and funding before applying.",
+      "quote": "Applicants interested in graduate studies are encouraged to contact faculty advisors to determine compatibility and available funding opportunities",
+      "url": "https://materialsscience.ua.edu/apply/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most students are supported through external research grants or fellowships that include tuition, health care and a stipend.",
+      "quote": "The majority of the graduate students in the program are supported through external research grants or fellowships which includes tuition, health care and a stipend",
+      "url": "https://materialsscience.ua.edu/apply/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The program page does not state a degree-level rule.",
+      "quote": "",
+      "url": "https://materialsscience.ua.edu/apply/"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The program states its own TOEFL iBT minimum, above 79 on the older score scale.",
+      "quote": "> 550 pBT or 79iBT TOEFL, >6.5 IELTS, >59 PTE",
+      "url": "https://materialsscience.ua.edu/apply/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The program asks for IELTS above 6.5, so the minimum is effectively 7.",
+      "quote": "> 550 pBT or 79iBT TOEFL, >6.5 IELTS, >59 PTE",
+      "url": "https://materialsscience.ua.edu/apply/"
+    }
+  },
+  "notes": "The Tri-campus program shares applications with the home department (Physics, Chemistry, Metallurgical and Materials Engineering, Chemical Engineering, Electrical Engineering). The Metallurgical and Materials Engineering PhD in the catalog is a separate program and is not saved as a second record."
+}

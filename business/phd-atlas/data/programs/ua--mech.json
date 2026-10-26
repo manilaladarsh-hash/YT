@@ -1,0 +1,48 @@
+{
+  "id": "ua--mech",
+  "university": "ua",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Mechanical Engineering",
+  "program_page": "https://catalog.ua.edu/graduate/engineering/mechanical/phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The catalog page gives no application deadline, and the department pages could not be read.",
+      "quote": "",
+      "url": "https://catalog.ua.edu/graduate/engineering/mechanical/phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to this PhD.",
+      "quote": "",
+      "url": "https://catalog.ua.edu/graduate/engineering/mechanical/phd/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The catalog page does not state a GRE rule, and the department pages could not be read.",
+      "quote": "",
+      "url": "https://catalog.ua.edu/graduate/engineering/mechanical/phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not state whether an advisor is needed before admission.",
+      "quote": "",
+      "url": "https://catalog.ua.edu/graduate/engineering/mechanical/phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Admission does not guarantee funding, but the catalog gives no share of funded students.",
+      "quote": "Admission to the program does not imply that the student will be funded, whether through a graduate teaching assistantship (GTA), graduate research assistantship (GRA) or fellowship.",
+      "url": "https://catalog.ua.edu/graduate/engineering/mechanical/phd/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A BS in mechanical engineering can go straight to the PhD, or a BS plus MS can be used.",
+      "quote": "Students may apply to the PhD program having completed either a BS degree in Mechanical Engineering or a closely related field (i.e., direct-admit), or a BS and MS degree in Mechanical Engineering or a closely related field.",
+      "url": "https://catalog.ua.edu/graduate/engineering/mechanical/phd/"
+    }
+  },
+  "notes": "The Aerospace Engineering and Mechanics PhD (https://catalog.ua.edu/graduate/engineering/aerospace-mechanics/phd/) is a separate department and is not saved as a second record. The department pages me.eng.ua.edu and the graduate handbook PDF returned HTTP 502."
+}

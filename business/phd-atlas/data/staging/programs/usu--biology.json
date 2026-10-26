@@ -1,0 +1,43 @@
+{
+  "id": "usu--biology",
+  "university": "usu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://www.usu.edu/degrees-majors/biology_ms_phd",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Fall applications received by February 15, 2027 are considered for all financial awards; the department reviews year-round.",
+      "quote": "Applications received for fall semester by February 15 will be considered for all financial awards available",
+      "url": "https://www.usu.edu/degrees-majors/biology_ms_phd",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The biology page does not mention a GRE.",
+      "quote": "",
+      "url": "https://www.usu.edu/degrees-majors/biology_ms_phd"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants should contact a faculty member first; the student can apply only if that faculty member agrees to work with them.",
+      "quote": "If the faculty member is accepting graduate students and agrees to work with the student, the student can then apply",
+      "url": "https://www.usu.edu/degrees-majors/biology_ms_phd"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page lists fellowships and awards but does not say most or all admitted students are funded.",
+      "quote": "",
+      "url": "https://www.usu.edu/degrees-majors/biology_ms_phd"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree in biology (or an equivalent with prerequisites) is the stated requirement.",
+      "quote": "To be accepted to the program, applicants must have the equivalent of a bachelor’s degree in biology",
+      "url": "https://www.usu.edu/degrees-majors/biology_ms_phd"
+    }
+  },
+  "notes": "Degree-finder page for Biology PhD. The $55 fee is reimbursed by the department if the applicant is accepted and enrols. The department page does not state a GRE rule, so the university value applies. Ecology PhD (usu.edu/degrees-majors/ecology_ms_phd) uses the Biology deadline list and a separate environmental track; it is not saved as its own record."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "usu--biomed",
+  "university": "usu",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Biomedical Sciences Program, Department of Veterinary Clinical and Life Sciences (College of Veterinary Medicine)",
+  "program_page": "https://vetmed.usu.edu/vcls/admission.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Applications are taken on a rolling basis, but to get department or Presidential Research Fellowship funding consideration you must be accepted by February 1, 2027.",
+      "quote": "Applications are taken on a rolling basis | you must be accepted into the program by February 1 for the following fall semester",
+      "url": "https://vetmed.usu.edu/vcls/admission.php",
+      "time_sensitive": "2027-02-01"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a GRE.",
+      "quote": "",
+      "url": "https://vetmed.usu.edu/vcls/admission.php"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must identify a graduate faculty member willing to be your major professor before applying; identifying one does not guarantee acceptance.",
+      "quote": "Prior to applying for an MS or PhD in the Biomedical Sciences Program, a student must identify a graduate faculty member within the Department of Veterinary Clinical and Life Sciences to be willing to serve as their major professor",
+      "url": "https://vetmed.usu.edu/vcls/admission.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Stipends depend on continued funding; the page does not say all or most admitted students are funded.",
+      "quote": "Graduate student stipends are dependent on the continued availability of funding",
+      "url": "https://vetmed.usu.edu/vcls/admission.php"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A PhD can be entered from a BS (70 credit hours) or an MS (42 credit hours).",
+      "quote": "BS to PhD degree requires a minimum of 70 credit hours | MS to PhD degree requires a minimum of 42 credit hours",
+      "url": "https://vetmed.usu.edu/vcls/admission.php"
+    }
+  },
+  "notes": "Biomedical Sciences PhD is run by the College of Veterinary Medicine's Department of Veterinary Clinical and Life Sciences, which has its own MS/PhD admissions page. Its international English rule defers to the School of Graduate Studies, so the university English values apply. The deadline is a rolling date with the funding cut-off of February 1, 2027 recorded as time_sensitive. The page's application requirements list an overall GPA of 3.0 and prerequisite courses."
+}
