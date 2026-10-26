@@ -1,0 +1,55 @@
+{
+  "id": "njit--mech",
+  "university": "njit",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical and Industrial Engineering, Newark College of Engineering",
+  "program_page": "https://mie.njit.edu/phd-mechanical-engineering",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The department page gives no application deadline.",
+      "quote": "",
+      "url": "https://mie.njit.edu/phd-mechanical-engineering"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The Newark College of Engineering makes the GRE optional but strongly recommended for PhD applicants.",
+      "quote": "Newark College of Engineering - GRE optional but strongly recommended for all MS and PhD applicants",
+      "url": "https://www.njit.edu/admissions/phd-programs"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Mechanical engineering has no GRE subject test.",
+      "quote": "",
+      "url": "https://mie.njit.edu/phd-mechanical-engineering"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://mie.njit.edu/phd-mechanical-engineering"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not state how many admitted students are funded.",
+      "quote": "",
+      "url": "https://mie.njit.edu/phd-mechanical-engineering"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The program is for students with master's degrees, with bachelor's entry only in exceptional cases.",
+      "quote": "The program is for superior students with master’s degrees in mechanical engineering, or closely related fields",
+      "url": "https://mie.njit.edu/phd-mechanical-engineering",
+      "also": [
+        {
+          "quote": "In exceptional circumstances, highly qualified students with bachelor’s degrees in mechanical engineering may be accepted directly into the doctoral program.",
+          "url": "https://mie.njit.edu/phd-mechanical-engineering"
+        }
+      ]
+    }
+  },
+  "notes": "Industrial engineering PhD is in the same department but is not a field in the Atlas list.",
+  "name": "Ph.D. in Mechanical Engineering"
+}

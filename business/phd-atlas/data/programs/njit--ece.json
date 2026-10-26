@@ -1,0 +1,68 @@
+{
+  "id": "njit--ece",
+  "university": "njit",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical and Computer Engineering, Newark College of Engineering",
+  "program_page": "https://ece.njit.edu/phd-electrical-engineering",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The department page gives no application deadline.",
+      "quote": "",
+      "url": "https://ece.njit.edu/phd-electrical-engineering"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The electrical engineering PhD requires the GRE for all applicants, with minimum verbal above 150 and quantitative above 160.",
+      "quote": "Required for all applicants. The minimum GRE requirement for PhD Students: V>150, Q>160",
+      "url": "https://ece.njit.edu/phd-electrical-engineering",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Newark College of Engineering - GRE optional but strongly recommended for all MS and PhD applicants",
+          "url": "https://www.njit.edu/admissions/phd-programs"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Electrical engineering has no GRE subject test.",
+      "quote": "",
+      "url": "https://ece.njit.edu/phd-electrical-engineering"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The department asks for a TOEFL iBT minimum of 79 (550 paper, 213 computer).",
+      "quote": "The minimum TOEFL score requirement is 79 (Internet Based), 550 (Paper Based) or 213 (Computer Based).",
+      "url": "https://ece.njit.edu/phd-electrical-engineering"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department asks for an IELTS minimum of 6.5.",
+      "quote": "The minimum IELTS score is 6.5.",
+      "url": "https://ece.njit.edu/phd-electrical-engineering"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://ece.njit.edu/phd-electrical-engineering"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not state how many admitted students are funded.",
+      "quote": "",
+      "url": "https://ece.njit.edu/phd-electrical-engineering"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants are expected to hold a master's degree in electrical engineering or a related field.",
+      "quote": "Applicants are expected to have a broad background in engineering, mathematics, physics and computer science as well as a Master of Science degree in electrical engineering or a related field.",
+      "url": "https://ece.njit.edu/phd-electrical-engineering"
+    }
+  },
+  "notes": "The computer engineering PhD (ece.njit.edu/phd-computer-engineering) is in the same department and allows superior students to enter directly from a bachelor's. Its rules were not recorded separately.",
+  "name": "Ph.D. in Electrical Engineering"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "njit",
+  "institution": "New Jersey Institute of Technology",
+  "country": "USA",
+  "region": "New Jersey",
+  "grad_page": "https://www.njit.edu/graduate-international-admissions-process",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The graduate application fee is $75, non-refundable.",
+      "quote": "$75 nonrefundable application fee",
+      "url": "https://www.njit.edu/admissions/phd-programs"
+    },
+    "fee_waiver": {
+      "code": "Available",
+      "value": "International applicants can get a fee waiver code by attending an NJIT international information session.",
+      "quote": "Attendees receive a code that waives the $75 application fee.",
+      "url": "https://www.njit.edu/graduate-international-admissions-process",
+      "also": [
+        {
+          "quote": "You can receive a fee waiver code at an NJIT international information session.",
+          "url": "https://www.njit.edu/graduate-international-admissions-process"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The GRE rule is set by each college, so see the program records for the college rule.",
+      "quote": "",
+      "url": "https://www.njit.edu/admissions/phd-programs",
+      "also": [
+        {
+          "quote": "Newark College of Engineering - GRE optional but strongly recommended for all MS and PhD applicants",
+          "url": "https://www.njit.edu/admissions/phd-programs"
+        },
+        {
+          "quote": "Jordan Hu College of Science and Liberal Arts - GRE optional for all MS and PhD applicants",
+          "url": "https://www.njit.edu/admissions/phd-programs"
+        },
+        {
+          "quote": "Ying Wu College of Computing - GRE optional but strongly recommended for all MS applicants; GRE required for all PhD applicants",
+          "url": "https://www.njit.edu/admissions/phd-programs"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "TOEFL iBT minimum of 79 on the previous scale (4.0 on the new scale).",
+      "quote": "The minimum score required is 79 for the Internet-based TOEFL exam, 213 for the computer-based TOEFL exam, or 550 for the paper-based TOEFL exam.",
+      "url": "https://www.njit.edu/admissions/phd-programs",
+      "also": [
+        {
+          "quote": "TOEFL iBT: 4.0 on the new scale, or 79 on the previous scale",
+          "url": "https://www.njit.edu/graduate-international-admissions-process"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic overall 6.5, with no sub-score below 6.0.",
+      "quote": "A minimum score of 6.5 with no sub-score lower than 6.0 is required for the IELTS exam.",
+      "url": "https://www.njit.edu/admissions/phd-programs"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on NJIT's list of countries whose degrees waive the test, and letters saying courses were taught in English are not accepted, so Indian applicants need a test score.",
+      "quote": "NJIT does not accept medium of instruction (MOI) letters. A letter from your institution stating that courses were taught in English does not meet this requirement.",
+      "url": "https://www.njit.edu/graduate-international-admissions-process",
+      "also": [
+        {
+          "quote": "A degree from an institution in one of the countries listed below",
+          "url": "https://www.njit.edu/graduate-international-admissions-process"
+        },
+        {
+          "quote": "Countries Whose Degrees Qualify for a Waiver",
+          "url": "https://www.njit.edu/graduate-international-admissions-process"
+        }
+      ]
+    }
+  },
+  "notes": "Program deadlines are printed without a year (Ph.D. December 15 for Fall, October 15 for Spring), so program deadlines are Not stated. The biology page says the December 15, 2025 round was for Fall 2026. The CS and biology rules are on the department pages. Doctoral programmes outside the 18 fields (not saved): Business Data Science, Information Systems, Industrial Engineering, Engineering Science, Urban Systems, Transportation Engineering and Environmental Engineering (civil). Blocked: https://physics.njit.edu/academics/graduate/phd-appliedphysics.php and its redirect https://physics.njit.edu/doctor-philosophy-applied-physics (403); https://www.njit.edu/degree-levels/doctoral?page=1 (403)."
+}

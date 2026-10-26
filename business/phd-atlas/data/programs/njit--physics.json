@@ -1,0 +1,55 @@
+{
+  "id": "njit--physics",
+  "university": "njit",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics, Jordan Hu College of Science and Liberal Arts",
+  "program_page": "https://catalog.njit.edu/graduate/science-liberal-arts/physics/applied-physics-phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The physics department page could not be fetched, and the graduate pages give December 15 (Fall) with no year.",
+      "quote": "",
+      "url": "https://catalog.njit.edu/graduate/science-liberal-arts/physics/applied-physics-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The physics department page could not be fetched, so no Physics subject GRE rule was found.",
+      "quote": "",
+      "url": "https://catalog.njit.edu/graduate/science-liberal-arts/physics/applied-physics-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule was found on the catalog page, and the department page could not be fetched.",
+      "quote": "",
+      "url": "https://catalog.njit.edu/graduate/science-liberal-arts/physics/applied-physics-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding rule was found on the catalog page, and the department page could not be fetched.",
+      "quote": "",
+      "url": "https://catalog.njit.edu/graduate/science-liberal-arts/physics/applied-physics-phd/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The catalog lists separate Ph.D. routes for students entering with a bachelor's degree and with a master's degree.",
+      "quote": "Ph.D. in Applied Physics (with bachelor's degree)",
+      "url": "https://catalog.njit.edu/graduate/science-liberal-arts/physics/applied-physics-phd/",
+      "also": [
+        {
+          "quote": "Ph.D. in Applied Physics (with master's degree)",
+          "url": "https://catalog.njit.edu/graduate/science-liberal-arts/physics/applied-physics-phd/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The Jordan Hu College of Science and Liberal Arts makes the GRE optional for all PhD applicants.",
+      "quote": "Jordan Hu College of Science and Liberal Arts - GRE optional for all MS and PhD applicants",
+      "url": "https://www.njit.edu/admissions/phd-programs"
+    }
+  },
+  "notes": "Only PhD in physics listed in the catalog A-Z index; run with Rutgers-Newark. Department page blocked (403).",
+  "name": "Ph.D. in Applied Physics (joint with Rutgers-Newark)"
+}

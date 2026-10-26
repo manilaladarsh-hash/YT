@@ -1,0 +1,55 @@
+{
+  "id": "njit--civil",
+  "university": "njit",
+  "field": "civil",
+  "also_fields": [],
+  "department": "John A. Reif, Jr. Department of Civil and Environmental Engineering, Newark College of Engineering",
+  "program_page": "https://civil.njit.edu/phd-civil-engineering",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The department page gives no application deadline.",
+      "quote": "",
+      "url": "https://civil.njit.edu/phd-civil-engineering"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The civil engineering department makes the GRE optional but recommended, with a quantitative score of at least 155.",
+      "quote": "The GRE (general section) is optional but recommended of all applicants with a minimum 155 in the quantitative section.",
+      "url": "https://civil.njit.edu/phd-civil-engineering"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Civil engineering has no GRE subject test.",
+      "quote": "",
+      "url": "https://civil.njit.edu/phd-civil-engineering"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://civil.njit.edu/phd-civil-engineering"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not state how many admitted students are funded.",
+      "quote": "",
+      "url": "https://civil.njit.edu/phd-civil-engineering"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants usually hold a master's degree, though highly qualified bachelor's holders can enter directly in exceptional cases.",
+      "quote": "This is a program for superior students with master’s degrees in civil engineering or allied fields",
+      "url": "https://civil.njit.edu/phd-civil-engineering",
+      "also": [
+        {
+          "quote": "In exceptional circumstances, highly qualified students with bachelor’s degrees in civil engineering may be accepted directly into the doctoral program",
+          "url": "https://civil.njit.edu/phd-civil-engineering"
+        }
+      ]
+    }
+  },
+  "notes": "The department also lists Ph.D. programs in environmental engineering and transportation engineering (catalog). Their rules were not checked separately. The page gives a TOEFL score of 79, but the quote contains a zero-width character so it is not recorded.",
+  "name": "Ph.D. in Civil Engineering (also Environmental Engineering and Transportation PhDs)"
+}

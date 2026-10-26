@@ -1,0 +1,73 @@
+{
+  "id": "njit--cs",
+  "university": "njit",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science, Ying Wu College of Computing",
+  "program_page": "https://cs.njit.edu/admission-requirements-and-financial-support-phd-computer-science-program",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page gives December 15 (Fall) and October 15 (Spring) with no year.",
+      "quote": "",
+      "url": "https://cs.njit.edu/admission-requirements-and-financial-support-phd-computer-science-program"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The computer science PhD requires the GRE, and it cannot be waived.",
+      "quote": "Results of the GRE examination. This is mandatory and cannot be waived",
+      "url": "https://cs.njit.edu/admission-requirements-and-financial-support-phd-computer-science-program",
+      "also": [
+        {
+          "quote": "Ying Wu College of Computing - GRE optional but strongly recommended for all MS applicants; GRE required for all PhD applicants",
+          "url": "https://www.njit.edu/admissions/phd-programs"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Computer science has no GRE subject test.",
+      "quote": "",
+      "url": "https://cs.njit.edu/admission-requirements-and-financial-support-phd-computer-science-program"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://cs.njit.edu/admission-requirements-and-financial-support-phd-computer-science-program"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Nearly all admitted PhD students are supported as research or teaching assistants, though support is competitive.",
+      "quote": "Nearly all Ph.D. students enrolled in the program are fully supported as Research Assistants (RAs) or Teaching Assistants (TAs)",
+      "url": "https://cs.njit.edu/admission-requirements-and-financial-support-phd-computer-science-program",
+      "also": [
+        {
+          "quote": "financial support is competitive and not all admitted students receive it",
+          "url": "https://cs.njit.edu/admission-requirements-and-financial-support-phd-computer-science-program"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need a bachelor's degree from an accredited institution.",
+      "quote": "They must have a bachelor degree from an accredited institution",
+      "url": "https://cs.njit.edu/admission-requirements-and-financial-support-phd-computer-science-program"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "The English test can be waived with proof of a prior degree from an institution where instruction is in English.",
+      "quote": "may be waived if the applicant provides proof of a prior degree at an institution where instruction is based on English",
+      "url": "https://cs.njit.edu/admission-requirements-and-financial-support-phd-computer-science-program"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The department waives the application fee only for financial hardship, on request.",
+      "quote": "to ask for a fee waiver based on financial hardship, please contact csPhDProgram@njit.edu",
+      "url": "https://cs.njit.edu/admission-requirements-and-financial-support-phd-computer-science-program"
+    }
+  },
+  "notes": "The department page states the $75 application fee, the same as the university record.",
+  "name": "Ph.D. in Computer Science"
+}

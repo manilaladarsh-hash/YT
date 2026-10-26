@@ -1,0 +1,62 @@
+{
+  "id": "njit--chemeng",
+  "university": "njit",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Department of Chemical and Materials Engineering, Newark College of Engineering",
+  "program_page": "https://cme.njit.edu/admission-guidelines",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The department page gives no application deadline.",
+      "quote": "",
+      "url": "https://cme.njit.edu/admission-guidelines"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The chemical engineering PhD requires the GRE, with a minimum quantitative score of 158.",
+      "quote": "Both GRE and TOEFL. Minimum GRE quantitative score is 158.",
+      "url": "https://cme.njit.edu/admission-guidelines",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Newark College of Engineering - GRE optional but strongly recommended for all MS and PhD applicants",
+          "url": "https://www.njit.edu/admissions/phd-programs"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Chemical engineering has no GRE subject test.",
+      "quote": "",
+      "url": "https://cme.njit.edu/admission-guidelines"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://cme.njit.edu/admission-guidelines"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page says admission is competitive and limited by funds, but does not state that admitted students are funded.",
+      "quote": "",
+      "url": "https://cme.njit.edu/admission-guidelines"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants can enter with a master's or with a BS in chemical engineering, subject to the GPA rule.",
+      "quote": "A masters’ degree in chemical engineering and a GPA of at least 3.5 on a 4.0 scale, or equivalent.",
+      "url": "https://cme.njit.edu/admission-guidelines",
+      "also": [
+        {
+          "quote": "A BS in chemical engineering with a minimum undergraduate GPA of 3.5 on a 4.0 scale, or equivalent",
+          "url": "https://cme.njit.edu/admission-guidelines"
+        }
+      ]
+    }
+  },
+  "notes": "Materials science PhD is in the same department (see the materials record).",
+  "name": "Ph.D. in Chemical Engineering"
+}

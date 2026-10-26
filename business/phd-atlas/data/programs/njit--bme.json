@@ -1,0 +1,62 @@
+{
+  "id": "njit--bme",
+  "university": "njit",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Joint Ph.D. Program in Biomedical Engineering (NJIT with Rutgers Newark Health Science Campus)",
+  "program_page": "https://biomedical.njit.edu/academics/graduate/doctoral.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The joint program page gives no application deadline.",
+      "quote": "",
+      "url": "https://biomedical.njit.edu/academics/graduate/doctoral.php"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The biomedical engineering PhD requires the GRE, while the Newark College of Engineering says the GRE is optional.",
+      "quote": "The GRE is required for all applicants, and TOEFL is required for all international students.",
+      "url": "https://biomedical.njit.edu/academics/graduate/doctoral.php",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Newark College of Engineering - GRE optional but strongly recommended for all MS and PhD applicants",
+          "url": "https://www.njit.edu/admissions/phd-programs"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Biomedical engineering has no GRE subject test.",
+      "quote": "",
+      "url": "https://biomedical.njit.edu/academics/graduate/doctoral.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://biomedical.njit.edu/academics/graduate/doctoral.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page says teaching assistantships and fellowships are limited, without a stated share of funded students.",
+      "quote": "",
+      "url": "https://biomedical.njit.edu/academics/graduate/doctoral.php"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students may come with a bachelor's degree and enter directly, or with a master's degree.",
+      "quote": "Students may also be admitted directly to the Joint Degree Program after earning a B.S. or B.A. degree.",
+      "url": "https://catalog.njit.edu/graduate/newark-college-engineering/biomedical/phd/",
+      "also": [
+        {
+          "quote": "Applicants are recommended to have a minimum G.P.A of 3.5 in their most recent degree (B.S. or M.S.)",
+          "url": "https://biomedical.njit.edu/academics/graduate/doctoral.php"
+        }
+      ]
+    }
+  },
+  "notes": "Admission is through a joint committee; the GRE rule conflicts between the program page and the graduate school's college rule.",
+  "name": "Ph.D. in Biomedical Engineering (joint with Rutgers)"
+}

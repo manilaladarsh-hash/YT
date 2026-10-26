@@ -1,0 +1,57 @@
+{
+  "id": "njit--math",
+  "university": "njit",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Department of Mathematical Sciences, Jordan Hu College of Science and Liberal Arts",
+  "program_page": "https://catalog.njit.edu/graduate/science-liberal-arts/mathematical-sciences/phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The Mathematical Sciences catalog gives no application deadline; its 'Deadlines' bullets concern coursework.",
+      "quote": "",
+      "url": "https://catalog.njit.edu/graduate/science-liberal-arts/mathematical-sciences/phd/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The Jordan Hu College of Science and Liberal Arts makes the GRE optional for all PhD applicants.",
+      "quote": "Jordan Hu College of Science and Liberal Arts - GRE optional for all MS and PhD applicants",
+      "url": "https://www.njit.edu/admissions/phd-programs"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The catalog does not mention a Mathematics subject GRE for this Ph.D.",
+      "quote": "",
+      "url": "https://catalog.njit.edu/graduate/science-liberal-arts/mathematical-sciences/phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.njit.edu/graduate/science-liberal-arts/mathematical-sciences/phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog does not state how many admitted students are funded.",
+      "quote": "",
+      "url": "https://catalog.njit.edu/graduate/science-liberal-arts/mathematical-sciences/phd/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students with a bachelor's degree complete 36 credits of coursework, and those with a master's complete 12 credits.",
+      "quote": "Students entering with a bachelor’s degree must complete 36 credits of coursework.",
+      "url": "https://catalog.njit.edu/graduate/science-liberal-arts/mathematical-sciences/phd/",
+      "also": [
+        {
+          "quote": "Those students entering with a master’s degree in mathematical sciences or equivalent must complete 12 credits",
+          "url": "https://catalog.njit.edu/graduate/science-liberal-arts/mathematical-sciences/phd/"
+        }
+      ]
+    }
+  },
+  "notes": "The Applied Probability and Statistics track is the statistics option of this PhD. The Data Science PhD (statistics track) is in the datasci record.",
+  "name": "Ph.D. in Mathematical Sciences (applied mathematics, applied probability and statistics, pure mathematics tracks)"
+}

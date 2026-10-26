@@ -1,0 +1,62 @@
+{
+  "id": "njit--environment",
+  "university": "njit",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Chemistry and Environmental Science, Jordan Hu College of Science and Liberal Arts",
+  "program_page": "https://chemistry.njit.edu/doctor-philosophy-environmental-science",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page gives no application deadline for this Ph.D.",
+      "quote": "",
+      "url": "https://chemistry.njit.edu/doctor-philosophy-environmental-science"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The catalog says GRE scores must be submitted, but the graduate school makes the GRE optional for this college.",
+      "quote": "A minimum master's GPA of 3.5 on a 4.0 scale, or equivalent, is typically required for admission. GRE scores must be submitted.",
+      "url": "https://catalog.njit.edu/graduate/science-liberal-arts/chemistry-environmental-science/chemistry-environmental-science.pdf",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Jordan Hu College of Science and Liberal Arts - GRE optional for all MS and PhD applicants",
+          "url": "https://www.njit.edu/admissions/phd-programs"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Environmental science has no GRE subject test.",
+      "quote": "",
+      "url": "https://chemistry.njit.edu/doctor-philosophy-environmental-science"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://chemistry.njit.edu/doctor-philosophy-environmental-science"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not state how many admitted students are funded.",
+      "quote": "",
+      "url": "https://chemistry.njit.edu/doctor-philosophy-environmental-science"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's degree in a related field is usually required, though highly qualified bachelor's holders may be accepted directly.",
+      "quote": "A master’s degree in chemistry, biology, chemical engineering, environmental engineering, environmental science, or related fields is usually required.",
+      "url": "https://chemistry.njit.edu/doctor-philosophy-environmental-science",
+      "also": [
+        {
+          "quote": "Highly qualified students with bachelor’s degrees in these fields may also be accepted directly into the doctoral program.",
+          "url": "https://chemistry.njit.edu/doctor-philosophy-environmental-science"
+        }
+      ]
+    }
+  },
+  "notes": "The chemistry.njit.edu admissions-criteria page covers a different Environmental Sustainability Policy Studies PhD (January 15 and June 5 deadlines, TOEFL 575) and is not used.",
+  "name": "Ph.D. in Environmental Science"
+}
