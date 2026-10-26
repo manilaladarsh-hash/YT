@@ -3,45 +3,71 @@
   "institution": "Queen Mary University of London",
   "country": "United Kingdom",
   "region": "England",
-  "grad_page": "https://www.qmul.ac.uk/postgraduate/research/subjects/physics.html",
-  "checked": "2026-10-22",
+  "grad_page": "https://www.qmul.ac.uk/postgraduate/research/applying-for-a-research-degree/",
+  "checked": "2026-10-26",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.qmul.ac.uk/postgraduate/research/subjects/physics.html"
+      "code": "0 (no fee)",
+      "value": "QMUL does not charge an application fee for research degrees.",
+      "quote": "No, QMUL does not charge an application fee.",
+      "url": "https://www.qmul.ac.uk/postgraduate/research/applying-for-a-research-degree/"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.qmul.ac.uk/postgraduate/research/subjects/physics.html"
+      "code": "No fee",
+      "value": "No application fee is charged, so no waiver is needed.",
+      "quote": "No, QMUL does not charge an application fee.",
+      "url": "https://www.qmul.ac.uk/postgraduate/research/applying-for-a-research-degree/"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "The graduate school pages checked do not mention a GRE requirement; check each programme.",
       "quote": "",
-      "url": "https://www.qmul.ac.uk/postgraduate/research/subjects/physics.html"
+      "url": "https://www.qmul.ac.uk/postgraduate/research/applying-for-a-research-degree/"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.qmul.ac.uk/postgraduate/research/subjects/physics.html"
+      "code": "4.5 (new scale)",
+      "value": "For Band 4 programmes (most science, maths and engineering research degrees), TOEFL iBT is 4.5 overall with 4.5 in each skill on the 1-6 scale, for tests taken from 21 January 2026. The old scale needed 92 overall.",
+      "quote": "Band 4: TOEFL minimum score 4.5 overall with 4.5 in Writing, Reading, Listening and Speaking",
+      "url": "https://www.qmul.ac.uk/international-students/englishlanguagerequirements/accepted-english-language-tests-and-qualifications/",
+      "also": [
+        {
+          "quote": "taken from 21st January 2026 to satisfy our English language requirements",
+          "url": "https://www.qmul.ac.uk/international-students/englishlanguagerequirements/accepted-english-language-tests-and-qualifications/"
+        },
+        {
+          "quote": "Band 4: TOEFL minimum score 92 overall with 21 in Writing, 19 in Reading, 18 in Listening and 21 in Speaking",
+          "url": "https://www.qmul.ac.uk/international-students/englishlanguagerequirements/accepted-english-language-tests-and-qualifications/"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.qmul.ac.uk/postgraduate/research/subjects/physics.html"
+      "code": "6.5",
+      "value": "For Band 4 programmes (most science, maths and engineering research degrees), IELTS Academic is 6.5 overall with 6.0 in each skill. Some Business and Arts programmes need 7.0.",
+      "quote": "Band 4: IELTS (Academic) minimum score 6.5 overall with 6.0 in each of Writing, Listening, Reading and Speaking",
+      "url": "https://www.qmul.ac.uk/international-students/englishlanguagerequirements/undergraduate-and-postgraduate-programmes/",
+      "also": [
+        {
+          "quote": "Band 5: IELTS (Academic) minimum score 7.0 overall with 6.0 in each of Writing, Listening, Reading and Speaking",
+          "url": "https://www.qmul.ac.uk/international-students/englishlanguagerequirements/undergraduate-and-postgraduate-programmes/"
+        }
+      ]
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.qmul.ac.uk/postgraduate/research/subjects/physics.html"
+      "code": "No",
+      "value": "An English-medium degree from India does not waive the test, because only degrees from majority English-speaking countries count. Indian Class XII English marks can replace a test instead: 70% (CBSE or ISC) for Band 4 programmes, taken within 7 years of course start.",
+      "quote": "If you hold a degree from a majority English speaking country (MESC as defined by UKVI), provided we recognise the degree and deem it equivalent to UK degree, you may use this degree to satisfy the English language requirements for entry if it was delivered within the MESC",
+      "url": "https://www.qmul.ac.uk/international-students/englishlanguagerequirements/accepted-english-language-tests-and-qualifications/",
+      "also": [
+        {
+          "quote": "Band 4: A minimum mark of 70% overall in the English component of the CBSE or ISC Indian Standard XII examinations",
+          "url": "https://www.qmul.ac.uk/international-students/englishlanguagerequirements/accepted-english-language-tests-and-qualifications/"
+        },
+        {
+          "quote": "This qualification should have been achieved no more than 7 years from the start date of your course",
+          "url": "https://www.qmul.ac.uk/international-students/englishlanguagerequirements/accepted-english-language-tests-and-qualifications/"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "English bands are set per school: Band 4 (IELTS 6.5, 6.0 in each skill) covers most science, maths and engineering research degrees. Departments that state their own IELTS wording (Physics and Astronomy, Mathematics, Computer Science, Electronic Engineering) carry it in their program records."
 }

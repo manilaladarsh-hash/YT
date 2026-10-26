@@ -1,0 +1,55 @@
+{
+  "id": "qmul--chemistry",
+  "university": "qmul",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry (School of Physical and Chemical Sciences)",
+  "program_page": "https://www.qmul.ac.uk/spcs/chemistry/phdresearch/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-28",
+      "value": "The school's funded studentships close on 28 January, with the 2026 date shown, so 2027 is inferred. Self-funded applicants can apply at any point in the year.",
+      "quote": "Queen Mary offers a number of university-funded studentships each year across a full range of academic disciplines. These include the waiver of tuition fees and tax-free maintenance costs. Deadline - 28th of January.",
+      "url": "https://www.qmul.ac.uk/spcs/phdresearch/research-studentships/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "We will accept self-funded students at any point in the year.",
+          "url": "https://www.qmul.ac.uk/spcs/phdresearch/research-studentships/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Chemistry GRE Subject requirement is mentioned on the pages checked.",
+      "quote": "",
+      "url": "https://www.qmul.ac.uk/spcs/chemistry/phdresearch/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must identify a potential supervisor and contact them first. Once they agree to consider your application, you apply formally, naming the supervisor.",
+      "quote": "Before applying, you will need to identify a potential supervisor for your PhD. | Once you have contacted a potential supervisor, and they have agreed to consider your application further, you will be required to make a formal application.",
+      "url": "https://www.qmul.ac.uk/spcs/phdresearch/application-process/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "A limited number of funded projects are advertised; self-funded applicants are also accepted.",
+      "quote": "We have a limited number of funded projects available which are advertised on our PhD project pages.",
+      "url": "https://www.qmul.ac.uk/spcs/phdresearch/application-process/",
+      "also": [
+        {
+          "quote": "The Department of Chemistry offers a unique range of funded PhD opportunities for projects.",
+          "url": "https://www.qmul.ac.uk/spcs/chemistry/phdresearch/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A first or upper second-class honours degree in a relevant subject is needed. A master's is desirable but not always essential.",
+      "quote": "A first or upper second-class honours degree in a relevant subject area. | A masters qualification is desirable but not always essential.",
+      "url": "https://www.qmul.ac.uk/spcs/phdresearch/entry-requirements/"
+    }
+  },
+  "notes": "Application rules come from the School of Physical and Chemical Sciences pages."
+}

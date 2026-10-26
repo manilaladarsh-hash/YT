@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Department of Physics and Astronomy (School of Physical and Chemical Sciences)",
   "program_page": "https://www.qmul.ac.uk/postgraduate/research/subjects/physics.html",
-  "checked": "2026-10-22",
+  "checked": "2026-10-26",
   "fields": {
     "deadline": {
       "code": "2027-01-28",
@@ -64,42 +64,12 @@
       "quote": "A first or upper second-class honours degree in a relevant subject area. | A masters qualification is desirable but not always essential. | Specific entry requirements or experience required will be listed on the relevant project page where applicable.",
       "url": "https://www.qmul.ac.uk/spcs/phdresearch/entry-requirements/"
     },
-    "app_fee": {
-      "code": "0 (no fee)",
-      "value": "No application fee",
-      "quote": "Is there an application fee? | No, QMUL does not charge an application fee.",
-      "url": "https://www.qmul.ac.uk/postgraduate/research/applying-for-a-research-degree/"
-    },
-    "fee_waiver": {
-      "code": "No fee",
-      "value": "No application fee is charged, so no waiver is needed",
-      "quote": "No, QMUL does not charge an application fee.",
-      "url": "https://www.qmul.ac.uk/postgraduate/research/applying-for-a-research-degree/"
-    },
-    "toefl_min": {
-      "code": "92",
-      "value": "English Band 4 (School of Physical and Chemical Sciences, postgraduate taught and research). TOEFL iBT taken up to Jan 20, 2026: 92 overall with Writing 21, Reading 19, Listening 18, Speaking 21; tests from Jan 21, 2026 (1-6 scale): 4.5 overall with 4.5 in each skill. Band 4 IELTS is 6.5 overall with 6.0 in each skill.",
-      "quote": "Band 4: TOEFL minimum score 92 overall with 21 in Writing, 19 in Reading, 18 in Listening and 21 in Speaking | Band 4: TOEFL minimum score 4.5 overall with 4.5 in Writing, Reading, Listening and Speaking",
-      "url": "https://www.qmul.ac.uk/international-students/englishlanguagerequirements/accepted-english-language-tests-and-qualifications/",
-      "also": [
-        {
-          "quote": "The English Language requirements for entry to programmes in the School of Physical and Chemical Sciences falls within the following English bands: | Postgraduate Taught and Research Programmes | Band 4: IELTS (Academic) minimum score 6.5 overall with 6.0 in each of Writing, Listening, Reading and Speaking",
-          "url": "https://www.qmul.ac.uk/international-students/englishlanguagerequirements/undergraduate-and-postgraduate-programmes/"
-        }
-      ]
-    },
-    "english_waiver": {
-      "code": "Conditional",
-      "value": "Indian Class XII English counts for Band 4: at least 70% in the English component of CBSE or ISC Standard XII, or at least 75% from selected state boards (Andhra Pradesh, Assam, Delhi, Goa, Karnataka, Kerala, Maharashtra, Manipur, Tamil Nadu, Tripura, West Bengal) if Queen Mary can verify the scores with the board. The result must be no more than 7 years before the course start. A degree waives the test only if it was delivered in a majority English-speaking country, so an Indian degree does not.",
-      "quote": "Queen Mary University of London will consider the English component of the CBSE and ISC Indian Standard XII examinations to satisfy our English language requirements, according to the English banding below. | Band 4: A minimum mark of 70% overall in the English component of the CBSE or ISC Indian Standard XII examinations. | Band 4: A minimum mark of 75% overall in the English component of one of the above State Board’s Indian Standard XII examinations. | Validity period: This qualification should have been achieved no more than 7 years from the start date of your course",
-      "url": "https://www.qmul.ac.uk/international-students/englishlanguagerequirements/accepted-english-language-tests-and-qualifications/",
-      "also": [
-        {
-          "quote": "If you hold a degree from a majority English speaking country (MESC as defined by UKVI), provided we recognise the degree and deem it equivalent to UK degree, you may use this degree to satisfy the English language requirements for entry if it was delivered within the MESC.",
-          "url": "https://www.qmul.ac.uk/international-students/englishlanguagerequirements/accepted-english-language-tests-and-qualifications/"
-        }
-      ]
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The physics department states IELTS Academic 6.5 overall, with 6.0 in writing and 5.5 in reading, speaking and listening.",
+      "quote": "Academic IELTS: 6.5 overall, with a minimum of 6.0 in writing and a minimum of 5.5 in reading, speaking and listening",
+      "url": "https://www.qmul.ac.uk/postgraduate/research/subjects/physics.html"
     }
   },
-  "notes": "The university's research Deadlines page still shows the 2026-entry cycle. The Physics research-degree page quotes IELTS 6.5 with 6.0 in writing and 5.5 in the other skills, while the School and university Band 4 pages say 6.0 in every skill. Applicants needing a visa may need an ATAS certificate before a CAS is issued."
+  "notes": "The university's research Deadlines page still shows the 2026-entry cycle. The Physics research-degree page quotes IELTS 6.5 with 6.0 in writing and 5.5 in the other skills, while the School and university Band 4 pages say 6.0 in every skill. Applicants needing a visa may need an ATAS certificate before a CAS is issued. The Astronomy Unit has its own record (qmul--astronomy)."
 }
