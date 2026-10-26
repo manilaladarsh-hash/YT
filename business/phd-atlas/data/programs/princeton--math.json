@@ -1,0 +1,73 @@
+{
+  "id": "princeton--math",
+  "university": "princeton",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://www.math.princeton.edu/graduate/admissions",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Applications close December 15, 2026 at 11:59 PM Eastern.",
+      "quote": "December 15, 11:59 p.m. Eastern Standard Time (This deadline is for applications for enrollment beginning in fall 2027)",
+      "url": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/mathematics",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "While the application is for Fall 2027 enrollment, all associated deadlines fall within the 2026 calendar year (e.g., November 15, 2026)",
+          "url": "https://gradschool.princeton.edu/department_deadlines"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The General Test is optional (the department's admissions page says so); the older FAQ says it is required.",
+      "quote": "General Test - Optional (not required)",
+      "url": "https://www.math.princeton.edu/graduate/admissions",
+      "also": [
+        {
+          "quote": "Technically, no, considering that both the GRE general and subject test scores are required parts of the application.",
+          "url": "https://web.math.princeton.edu/graduate/FAQs.html"
+        },
+        {
+          "quote": "While the application is for Fall 2027 enrollment, all associated deadlines fall within the 2026 calendar year (e.g., November 15, 2026)",
+          "url": "https://gradschool.princeton.edu/department_deadlines"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The Math Subject Test is optional but highly recommended on the admissions page; the older FAQ says it is required.",
+      "quote": "Math Subject Test - Optional but highly recommended",
+      "url": "https://www.math.princeton.edu/graduate/admissions",
+      "also": [
+        {
+          "quote": "Technically, no, considering that both the GRE general and subject test scores are required parts of the application.",
+          "url": "https://web.math.princeton.edu/graduate/FAQs.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule is stated.",
+      "quote": "",
+      "url": "https://www.math.princeton.edu/graduate/admissions"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding rule is stated on the admissions page.",
+      "quote": "",
+      "url": "https://www.math.princeton.edu/graduate/admissions"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages do not state whether applicants come straight from a bachelor's degree.",
+      "quote": "",
+      "url": "https://www.math.princeton.edu/graduate/admissions"
+    }
+  },
+  "notes": "Conflict on the GRE: the admissions page says General and Subject are optional; the older FAQ (web.math.princeton.edu/graduate/FAQs.html, undated) says both are required parts of the application. Both quotes kept. Applied and Computational Mathematics is a separate PhD (deadline December 15) and is not saved as a separate record.",
+  "name": "Mathematics",
+  "conflict": true
+}

@@ -1,0 +1,55 @@
+{
+  "id": "princeton--biology",
+  "university": "princeton",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Molecular Biology",
+  "program_page": "https://molbio.princeton.edu/graduate/admission",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications close December 1, 2026.",
+      "quote": "Application Deadline: December 1, 2026",
+      "url": "https://molbio.princeton.edu/graduate/admission",
+      "also": [
+        {
+          "quote": "While the application is for Fall 2027 enrollment, all associated deadlines fall within the 2026 calendar year (e.g., November 15, 2026)",
+          "url": "https://gradschool.princeton.edu/department_deadlines"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The department page does not mention a GRE rule; the Graduate School fields page for this program was blocked (403).",
+      "quote": "",
+      "url": "https://molbio.princeton.edu/graduate/admission"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page does not mention a subject test.",
+      "quote": "",
+      "url": "https://molbio.princeton.edu/graduate/admission"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants apply directly to Graduate Admission, not to a faculty member.",
+      "quote": "When applying to Molecular Biology, please proceed directly to Graduate Admission.",
+      "url": "https://molbio.princeton.edu/graduate/admission"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted students receive tuition, health insurance and a stipend.",
+      "quote": "All students admitted to the program receive tuition, health insurance, and a generous stipend.",
+      "url": "https://molbio.princeton.edu/graduate/admission"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages do not state whether applicants come straight from a bachelor's degree.",
+      "quote": "",
+      "url": "https://molbio.princeton.edu/graduate/admission"
+    }
+  },
+  "notes": "Blocked: gradschool fields-of-study/molecular-biology (403). Other Princeton life-science PhDs (EEB, QCB, Biophysics) are not saved as separate records because one record is kept per field; see the final reply.",
+  "name": "Molecular Biology"
+}

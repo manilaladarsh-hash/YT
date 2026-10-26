@@ -1,0 +1,56 @@
+{
+  "id": "princeton--materials",
+  "university": "princeton",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Materials Science and Engineering (Princeton Materials Institute)",
+  "program_page": "https://materials.princeton.edu/phd",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications close December 1, 2026 at 11:59 PM Eastern.",
+      "quote": "December 1, 11:59 p.m. Eastern Standard Time (This deadline is for applications for enrollment beginning in fall 2027)",
+      "url": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/materials-science-and-engineering",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "While the application is for Fall 2027 enrollment, all associated deadlines fall within the 2026 calendar year (e.g., November 15, 2026)",
+          "url": "https://gradschool.princeton.edu/department_deadlines"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The General Test is optional.",
+      "quote": "General Test - Optional/Not Required",
+      "url": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/materials-science-and-engineering"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is listed.",
+      "quote": "",
+      "url": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/materials-science-and-engineering"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule is stated on the pages that could be read.",
+      "quote": "",
+      "url": "https://materials.princeton.edu/phd"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every Princeton Engineering PhD student receives full funding, which includes a stipend.",
+      "quote": "Every Princeton Engineering Ph.D. student receives full funding.",
+      "url": "https://engineering.princeton.edu/graduate-studies/funding"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages do not state whether applicants come straight from a bachelor's degree.",
+      "quote": "",
+      "url": "https://materials.princeton.edu/phd"
+    }
+  },
+  "notes": "The MSE program page is short and gives no admission rules; the funding statement comes from the School of Engineering page. The Graduate School MSE page lists the deadline; the M.S.E. master's (not the PhD) needs full external funding per the CBE page.",
+  "name": "Materials Science and Engineering"
+}

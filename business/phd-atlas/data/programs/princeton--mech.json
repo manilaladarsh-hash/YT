@@ -1,0 +1,62 @@
+{
+  "id": "princeton--mech",
+  "university": "princeton",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical and Aerospace Engineering",
+  "program_page": "https://mae.princeton.edu/graduate/admissions",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications close December 1, 2026 at 11:59 PM Eastern.",
+      "quote": "December 1, 11:59 p.m. Eastern Standard Time (This deadline is for applications for enrollment beginning in fall 2027)",
+      "url": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/mechanical-and-aerospace-engineering",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "While the application is for Fall 2027 enrollment, all associated deadlines fall within the 2026 calendar year (e.g., November 15, 2026)",
+          "url": "https://gradschool.princeton.edu/department_deadlines"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The GRE General Test is not accepted for this program.",
+      "quote": "General Test - Not Accepted",
+      "url": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/mechanical-and-aerospace-engineering"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is listed.",
+      "quote": "",
+      "url": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/mechanical-and-aerospace-engineering"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule is stated.",
+      "quote": "",
+      "url": "https://mae.princeton.edu/graduate/admissions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every PhD student in the School of Engineering receives full funding, including a stipend.",
+      "quote": "Every Princeton Engineering Ph.D. student receives full funding.",
+      "url": "https://engineering.princeton.edu/graduate-studies/funding"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants normally hold a bachelor's degree in engineering or science and do not need a master's (M.S.E.) first.",
+      "quote": "students are not required to receive an internal or external M.S.E. prior to obtaining a Ph.D. from the department",
+      "url": "https://mae.princeton.edu/graduate/admissions",
+      "also": [
+        {
+          "quote": "Normally, a student accepted by Mechanical and Aerospace Engineering is expected to have met requirements for a bachelor's degree in engineering or science",
+          "url": "https://mae.princeton.edu/graduate/admissions"
+        }
+      ]
+    }
+  },
+  "notes": "The GRE rule comes from the Graduate School fields page, which says General Test - Not Accepted. The MAE FAQ answer on the GRE did not render.",
+  "name": "Mechanical and Aerospace Engineering PhD"
+}

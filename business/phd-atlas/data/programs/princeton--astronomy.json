@@ -1,0 +1,56 @@
+{
+  "id": "princeton--astronomy",
+  "university": "princeton",
+  "field": "astronomy",
+  "also_fields": [],
+  "department": "Department of Astrophysical Sciences",
+  "program_page": "https://web.astro.princeton.edu/academic/graduate-program/graduate-admission",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Applications close December 15, 2026 (the page gives the day and month; the year comes from the Graduate School's Fall 2027 statement).",
+      "quote": "Admissions is an annual process, with an application deadline of December 15.",
+      "url": "https://web.astro.princeton.edu/academic/graduate-program/graduate-admission",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "While the application is for Fall 2027 enrollment, all associated deadlines fall within the 2026 calendar year (e.g., November 15, 2026)",
+          "url": "https://gradschool.princeton.edu/department_deadlines"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The General and Physics GRE are optional, and the page says there are no cut-offs.",
+      "quote": "(Optional) General and Physics GRE scores",
+      "url": "https://web.astro.princeton.edu/academic/graduate-program/graduate-admission"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Physics GRE is optional.",
+      "quote": "(Optional) General and Physics GRE scores",
+      "url": "https://web.astro.princeton.edu/academic/graduate-program/graduate-admission"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule is stated.",
+      "quote": "",
+      "url": "https://web.astro.princeton.edu/academic/graduate-program/graduate-admission"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Only the Horizon Fellowship's sixth year is described as guaranteed; no general funding rule is stated.",
+      "quote": "It provides an additional (sixth) year of guaranteed financial support.",
+      "url": "https://web.astro.princeton.edu/academic/graduate-program/graduate-admission"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not state whether applicants come straight from a bachelor's degree.",
+      "quote": "",
+      "url": "https://web.astro.princeton.edu/academic/graduate-program/graduate-admission"
+    }
+  },
+  "notes": "The page was last updated January 22, 2022, within five years. The Graduate School fields-of-study page for astrophysical sciences is blocked (403).",
+  "name": "Astrophysical Sciences"
+}

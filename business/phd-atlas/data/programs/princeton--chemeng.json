@@ -1,0 +1,73 @@
+{
+  "id": "princeton--chemeng",
+  "university": "princeton",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Department of Chemical and Biological Engineering",
+  "program_page": "https://cbe.princeton.edu/graduate/how-to-apply",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications close December 1, 2026 at 11:59 PM Eastern.",
+      "quote": "December 1, 11:59 p.m. Eastern Standard Time (This deadline is for applications for enrollment beginning in fall 2027)",
+      "url": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/chemical-and-biological-engineering",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "The deadline for submitting your application is December 1.",
+          "url": "https://cbe.princeton.edu/graduate/how-to-apply"
+        },
+        {
+          "quote": "While the application is for Fall 2027 enrollment, all associated deadlines fall within the 2026 calendar year (e.g., November 15, 2026)",
+          "url": "https://gradschool.princeton.edu/department_deadlines"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The department page gives the application fee as $75, which differs from the Graduate School's $90.",
+      "quote": "The application fee is $75.",
+      "url": "https://cbe.princeton.edu/graduate/how-to-apply",
+      "also": [
+        {
+          "quote": "A nonrefundable $90 application fee is required with your application.",
+          "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/application-fee"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional.",
+      "quote": "GRE: GRE scores are optional.",
+      "url": "https://cbe.princeton.edu/graduate/how-to-apply"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is listed.",
+      "quote": "",
+      "url": "https://cbe.princeton.edu/graduate/how-to-apply"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule is stated.",
+      "quote": "",
+      "url": "https://cbe.princeton.edu/graduate/how-to-apply"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every PhD student in the School of Engineering receives full funding, including a stipend.",
+      "quote": "Every Princeton Engineering Ph.D. student receives full funding.",
+      "url": "https://engineering.princeton.edu/graduate-studies/funding"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not state whether applicants come straight from a bachelor's degree.",
+      "quote": "",
+      "url": "https://cbe.princeton.edu/graduate/how-to-apply"
+    }
+  },
+  "notes": "Conflict on the application fee: the department page says $75; the Graduate School page and the fields page say $90. Both quotes kept. The MSE and M.Eng. master's programs need full external funding (not part of this PhD record). Blocked: gradschool fields-of-study/bioengineering (403) is a separate program.",
+  "name": "Chemical and Biological Engineering PhD",
+  "conflict": true
+}

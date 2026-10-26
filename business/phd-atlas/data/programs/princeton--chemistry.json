@@ -1,0 +1,56 @@
+{
+  "id": "princeton--chemistry",
+  "university": "princeton",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://chemistry.princeton.edu/grad-program/admissions/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications close December 1, 2026 at 11:59 PM Eastern.",
+      "quote": "December 1, 11:59 p.m. Eastern Standard Time (This deadline is for applications for enrollment beginning in fall 2027)",
+      "url": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/chemistry",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "While the application is for Fall 2027 enrollment, all associated deadlines fall within the 2026 calendar year (e.g., November 15, 2026)",
+          "url": "https://gradschool.princeton.edu/department_deadlines"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The department requires the General GRE, with no minimum score.",
+      "quote": "The submission of GRE general test scores is required for admissions.",
+      "url": "https://chemistry.princeton.edu/grad-program/admissions/"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Chemistry or Physics Subject Test is optional.",
+      "quote": "Subject Test in Chemistry or Physics - Optional/Not Required",
+      "url": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/chemistry"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by a faculty review committee on the whole application.",
+      "quote": "the standardized scores are reviewed as part of the applicant's portfolio by the faculty review committee",
+      "url": "https://chemistry.princeton.edu/grad-program/admissions/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted students receive full financial support for the length of their PhD (fellowship, teaching and advisor support).",
+      "quote": "All students receive full financial support for the length of their course of study",
+      "url": "https://chemistry.princeton.edu/grad-program/admissions/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages do not state whether applicants come straight from a bachelor's degree.",
+      "quote": "",
+      "url": "https://chemistry.princeton.edu/grad-program/admissions/"
+    }
+  },
+  "notes": "The Graduate School deadline is in the Fields of Study entry; the department page mentions a December 1 deadline for November GRE results.",
+  "name": "Chemistry"
+}

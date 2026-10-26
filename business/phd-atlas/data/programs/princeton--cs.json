@@ -1,0 +1,68 @@
+{
+  "id": "princeton--cs",
+  "university": "princeton",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.cs.princeton.edu/grad/admissions-requirements",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Applications close December 15, 2026 for Fall 2027 entry. The master's (MSE) is not accepted for Fall 2027.",
+      "quote": "The deadline to apply for Fall 2027 admission is December 15, 2026.",
+      "url": "https://www.cs.princeton.edu/grad/admissions-requirements"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The department no longer requires or accepts the General GRE.",
+      "quote": "We are no longer either requiring or accepting GRE general exam scores.",
+      "url": "https://www.cs.princeton.edu/grad/faq"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is listed.",
+      "quote": "",
+      "url": "https://www.cs.princeton.edu/grad/admissions-requirements"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule is stated.",
+      "quote": "",
+      "url": "https://www.cs.princeton.edu/grad/admissions-requirements"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Doctoral students pay no tuition and receive a stipend for the standard five-year term; first-year students get a Graduate School fellowship.",
+      "quote": "With rare exceptions, all graduate students pay no tuition and receive livable stipends.",
+      "url": "https://www.cs.princeton.edu/grad/funding",
+      "also": [
+        {
+          "quote": "Doctoral students pay no tuition and receive a stipend for the standard five-year term of the Ph.D. program",
+          "url": "https://www.cs.princeton.edu/grad/funding"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page says applicants typically have a degree in CS, engineering, science or mathematics, but not whether a master's is needed.",
+      "quote": "",
+      "url": "https://www.cs.princeton.edu/grad/admissions-requirements"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "CS exempts English-medium undergraduate education only with the institution's certification; the older FAQ lists exempt countries, which does not include India.",
+      "quote": "Applicants whose undergraduate instruction is entirely in English as certified by the institution and for whom the degree will be awarded prior to anticipated enrollment at Princeton.",
+      "url": "https://www.cs.princeton.edu/grad/admissions-requirements",
+      "also": [
+        {
+          "quote": "All other applicants must submit valid TOEFL or IELTS scores",
+          "url": "https://www.cs.princeton.edu/grad/faq"
+        }
+      ]
+    }
+  },
+  "notes": "Conflict on English exemptions: the current admissions page and the older CS FAQ differ on which undergraduate degrees are exempt. Both quotes kept. The FAQ's deadline (December 15, 2025) is for the earlier cycle; the admissions page gives the Fall 2027 date. The MSE (master's) is not accepted for Fall 2027.",
+  "name": "Computer Science PhD",
+  "conflict": true
+}

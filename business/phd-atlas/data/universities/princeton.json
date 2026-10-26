@@ -1,0 +1,47 @@
+{
+  "id": "princeton",
+  "institution": "Princeton University",
+  "country": "USA",
+  "region": "New Jersey",
+  "grad_page": "https://gradschool.princeton.edu/admission-onboarding/prepare/application-fee",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "90 USD",
+      "value": "The Graduate School application fee is $90, required with every application.",
+      "quote": "A nonrefundable $90 application fee is required with your application.",
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/application-fee"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Waivers are granted for financial hardship, participation in a qualifying program, or a recruiting-event code; nationality is not one of the criteria.",
+      "quote": "Applicants may be eligible to request a fee waiver based on the following criteria: financial hardship, participation in a program (past or present), or attending a recruiting event",
+      "url": "https://www.cs.princeton.edu/grad/admissions-requirements"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School sets no GRE rule; each department or program sets its own (see the program records).",
+      "quote": "The Graduate School does not have a minimum score requirement; each department or program may set its own.",
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/gre"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The Graduate School sets no minimum TOEFL score; departments may set their own.",
+      "quote": "The Graduate School does not have a minimum score requirement.",
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/english-proficiency"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The Graduate School sets no minimum IELTS score; departments may set their own.",
+      "quote": "The Graduate School does not have a minimum score requirement.",
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/english-proficiency"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "An English-medium Indian degree is exempt only if the institution certifies that undergraduate instruction was entirely in English and the degree is awarded before enrollment at Princeton.",
+      "quote": "Applicants whose undergraduate instruction is entirely in English as certified by the institution and for whom the degree will be awarded prior to anticipated enrollment at Princeton.",
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/english-proficiency"
+    }
+  },
+  "notes": "Graduate School pages fetched: application fee, GRE, English proficiency, fields of study, deadlines. Blocked (403 via headless Chromium): gradschool.princeton.edu/policies/application-admission ; /academics/degrees-requirements/fields-study/program-offerings ; /admission/international-applicants (guessed URL) ; /admission-onboarding/prepare/application-deadlines. The English-proficiency page has no India or country list; exemptions are by instruction language and certification. The fee-waiver criteria quoted come from the Computer Science admissions page, which restates the Graduate School rule; the Graduate School fee-waiver page itself did not render."
+}
