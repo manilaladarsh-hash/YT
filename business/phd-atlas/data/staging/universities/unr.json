@@ -1,0 +1,47 @@
+{
+  "id": "unr",
+  "institution": "University of Nevada, Reno",
+  "country": "USA",
+  "region": "Nevada",
+  "grad_page": "https://catalog.unr.edu/content.php?catoid=58&navoid=120241",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The catalog requires an application fee but does not state its amount for graduate applicants.",
+      "quote": "An applicant for admission to graduate-level study must file an application with the Graduate School and pay the appropriate application fee.",
+      "url": "https://catalog.unr.edu/content.php?catoid=58&navoid=120241"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No fee-waiver rule was found on the fetched catalog pages.",
+      "quote": "",
+      "url": "https://catalog.unr.edu/content.php?catoid=58&navoid=120241"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Each program sets its own GRE rule; check the program entry.",
+      "quote": "Applicants must contact individual graduate programs to determine their specific admissions policies regarding which, if any, standardized test scores are required or recommended.",
+      "url": "https://catalog.unr.edu/content.php?catoid=58&navoid=120241"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The archived catalog gives a TOEFL minimum, but the current Graduate School page could not be checked, so no current minimum is recorded.",
+      "quote": "",
+      "url": "https://catalog.unr.edu/content.php?catoid=58&navoid=120241"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The archived catalog gives an IELTS minimum, but the current Graduate School page could not be checked, so no current minimum is recorded.",
+      "quote": "",
+      "url": "https://catalog.unr.edu/content.php?catoid=58&navoid=120241"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The fetched catalog exempts students from countries where English is the language of instruction, but the exempt-country list is not on the fetched pages and India is not named.",
+      "quote": "international students from countries where English is the language of instruction and/or commerce (see English-Speaking Countries Exempt from Testing) are exempt from the requirement to produce a TOEFL score",
+      "url": "https://catalog.unr.edu/content.php?catoid=58&navoid=120241"
+    }
+  },
+  "notes": "Sources are the archived 2025-26 University Catalog (catoid=58) and the 2026-27 catalog (catoid=59); the Graduate School and department pages on www.unr.edu (where the current fee, English and deadline rules sit) could not be fetched: every www.unr.edu request fails with a TLS verification error or a 502 from the fetch tool. Archived 2025-26 catalog values not saved as current: TOEFL 79 iBT and IELTS 6.5 (search snippets from the blocked Graduate School page mention a new TOEFL scale from 2026, unverified). Application fee: a $95 international figure appears in search snippets only, not on a fetched page."
+}

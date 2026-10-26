@@ -1,0 +1,54 @@
+{
+  "id": "unr--ece",
+  "university": "unr",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical and Biomedical Engineering",
+  "program_page": "https://catalog.unr.edu/preview_program.php?catoid=57&poid=241252&returnto=118675",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The fetched catalog page gives no application deadline.",
+      "quote": "",
+      "url": "https://catalog.unr.edu/preview_program.php?catoid=57&poid=241252&returnto=118675"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The department lists a GRE minimum of V+Q above 301 with Q above 156 (2024-25 catalog).",
+      "quote": "GRE: V+Q>301 with Q>156, A>3.5/6",
+      "url": "https://catalog.unr.edu/preview_program.php?catoid=57&poid=241252&returnto=118675"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The department lists 'IELTS > 7' as an alternative to its TOEFL score, so the band it names is above 7; confirm the exact figure with the department.",
+      "quote": "TOEFL (International students only): 550 or higher (or> 213 CBT or >79 IBT or IELTS > 7)",
+      "url": "https://catalog.unr.edu/preview_program.php?catoid=57&poid=241252&returnto=118675"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Engineering has no GRE Subject test.",
+      "quote": "",
+      "url": "https://catalog.unr.edu/preview_program.php?catoid=57&poid=241252&returnto=118675"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether a supervisor's agreement is needed.",
+      "quote": "",
+      "url": "https://catalog.unr.edu/preview_program.php?catoid=57&poid=241252&returnto=118675"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog does not describe PhD funding.",
+      "quote": "",
+      "url": "https://catalog.unr.edu/preview_program.php?catoid=57&poid=241252&returnto=118675"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may enter with a BSEE at 3.5 GPA or higher, or with a master's at GPA above 3.0 (2024-25 catalog).",
+      "quote": "Bachelor of Science in Electrical Engineering or equivalent degree with GPA: 3.5 or higher",
+      "url": "https://catalog.unr.edu/preview_program.php?catoid=57&poid=241252&returnto=118675"
+    }
+  },
+  "notes": "From the archived 2024-25 catalog only. The department's TOEFL line (550, 213 CBT, 79 iBT) is not saved because the TOEFL scale has changed. Program page on the 2024-25 catalog, with no deadline or funding text."
+}

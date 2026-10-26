@@ -1,0 +1,48 @@
+{
+  "id": "unr--chemistry",
+  "university": "unr",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://catalog.unr.edu/preview_program.php?catoid=58&poid=243542&returnto=119758",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The fetched catalog page gives no application deadline; the department page could not be checked.",
+      "quote": "",
+      "url": "https://catalog.unr.edu/preview_program.php?catoid=58&poid=243542&returnto=119758"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The Chemistry Ph.D. requires GRE general scores (2025-26 catalog).",
+      "quote": "GRE general scores and three letters of recommendation are also required.",
+      "url": "https://catalog.unr.edu/preview_program.php?catoid=58&poid=243542&returnto=119758"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The catalog does not mention the Chemistry GRE Subject test.",
+      "quote": "",
+      "url": "https://catalog.unr.edu/preview_program.php?catoid=58&poid=243542&returnto=119758"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether a supervisor's agreement is needed.",
+      "quote": "",
+      "url": "https://catalog.unr.edu/preview_program.php?catoid=58&poid=243542&returnto=119758"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog does not describe PhD funding.",
+      "quote": "",
+      "url": "https://catalog.unr.edu/preview_program.php?catoid=58&poid=243542&returnto=119758"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree in chemistry or a related field with a 3.0 GPA is enough for the Ph.D. (2025-26 catalog).",
+      "quote": "For admission to the Ph.D. program, a bachelor’s degree in Chemistry or in a related field with a minimum GPA of 3.0 on a 4.0 scale is required",
+      "url": "https://catalog.unr.edu/preview_program.php?catoid=58&poid=243542&returnto=119758"
+    }
+  },
+  "notes": "From the archived 2025-26 catalog only; the department admissions page on www.unr.edu was not reachable."
+}
