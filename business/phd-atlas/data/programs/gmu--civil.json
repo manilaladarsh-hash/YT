@@ -1,0 +1,67 @@
+{
+  "id": "gmu--civil",
+  "university": "gmu",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil, Environmental and Infrastructure Engineering",
+  "program_page": "https://catalog.gmu.edu/colleges-schools/engineering-computing/engineering/civil-environmental-infrastructure/civil-infrastructure-engineering-phd/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The College of Engineering and Computing priority funding deadline for fall entry is December 1; the standard deadline is March 15.",
+      "quote": "Fall Deadlines: Priority funding: December 1",
+      "url": "https://cec.gmu.edu/admissions/graduate-admissions/application-requirements-and-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The catalog does not mention the GRE.",
+      "quote": "",
+      "url": "https://catalog.gmu.edu/colleges-schools/engineering-computing/engineering/civil-environmental-infrastructure/civil-infrastructure-engineering-phd/index.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Engineering has no GRE subject test.",
+      "quote": "",
+      "url": "https://catalog.gmu.edu/colleges-schools/engineering-computing/engineering/civil-environmental-infrastructure/civil-infrastructure-engineering-phd/index.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.gmu.edu/colleges-schools/engineering-computing/engineering/civil-environmental-infrastructure/civil-infrastructure-engineering-phd/index.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog does not describe PhD funding.",
+      "quote": "",
+      "url": "https://catalog.gmu.edu/colleges-schools/engineering-computing/engineering/civil-environmental-infrastructure/civil-infrastructure-engineering-phd/index.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A civil engineering or closely related BS is expected; up to 30 master's credits can count.",
+      "quote": "Admitted students are expected to hold at a minimum a Bachelor of Science in Civil Engineering or a degree in a closely-related engineering or science field | A maximum of 30 credits from a completed master's degree in civil engineering or other related fields may be applied to this program",
+      "url": "https://catalog.gmu.edu/colleges-schools/engineering-computing/engineering/civil-environmental-infrastructure/civil-infrastructure-engineering-phd/index.html"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "College of Engineering and Computing programs accept TOEFL 4.5 (new scale) with no section minimum, or 80 for tests taken before January 21, 2026.",
+      "quote": "College of Engineering and Computing graduate and undergraduate applicant score requirement: IELTS 6.5 or TOEFL 4.5 (80 if test is before January 21, 2026)",
+      "url": "https://www.gmu.edu/international/english-language-requirements",
+      "also": [
+        {
+          "quote": "For applicants whose official language is not English, official TOEFL scores which meet the minimum requirements set by the College of Engineering and Computing",
+          "url": "https://catalog.gmu.edu/colleges-schools/engineering-computing/engineering/civil-environmental-infrastructure/civil-infrastructure-engineering-phd/index.html"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "College of Engineering and Computing programs accept an IELTS overall band of 6.5 with no section minimum.",
+      "quote": "College of Engineering and Computing graduate and undergraduate applicant score requirement: IELTS 6.5 or TOEFL 4.5 (80 if test is before January 21, 2026)",
+      "url": "https://www.gmu.edu/international/english-language-requirements"
+    }
+  },
+  "notes": "No department funding or supervisor page was found; those fields stay Not stated."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "gmu--environment",
+  "university": "gmu",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Environmental Science and Policy",
+  "program_page": "https://catalog.gmu.edu/colleges-schools/science/environmental-policy/environmental-science-public-policy-phd/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The department's fall early decision deadline is January 15; the standard deadline is March 15.",
+      "quote": "Early decision deadline: January 15",
+      "url": "https://science.gmu.edu/academics/departments-units/environmental-science-policy/graduate-programs/graduate-admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE exam scores are not required.",
+      "quote": "GRE exam scores are not required",
+      "url": "https://science.gmu.edu/academics/departments-units/environmental-science-policy/graduate-programs/graduate-admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The field has no subject test in these pages.",
+      "quote": "",
+      "url": "https://science.gmu.edu/academics/departments-units/environmental-science-policy/graduate-programs/graduate-admissions"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A faculty member must agree to advise the student before full admission.",
+      "quote": "All students must obtain the consent of a faculty member willing to serve as an advisor prior to being fully admitted to the program",
+      "url": "https://catalog.gmu.edu/colleges-schools/science/environmental-policy/environmental-science-public-policy-phd/index.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Admission does not guarantee departmental funding; support comes through posted assistantships and fellowships.",
+      "quote": "Admission to the Department of Environmental Science and Policy does NOT guarantee departmental funding for master’s or doctoral students",
+      "url": "https://science.gmu.edu/academics/departments-units/environmental-science-policy/graduate-programs/graduate-student-funding"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The department expects an advanced degree; a bachelor's applicant needs exceptional academic and research record.",
+      "quote": "Applicants to the PhD program should have an advanced degree (e.g. MA, MS, veterinary, or law) in a relevant field",
+      "url": "https://science.gmu.edu/academics/departments-units/environmental-science-policy/graduate-programs/graduate-admissions",
+      "also": [
+        {
+          "quote": "For applicants who apply with a bachelor’s degree or Licentiate (i.e. Licenciatura), they should possess exceptional undergraduate academic and research accomplishments",
+          "url": "https://catalog.gmu.edu/colleges-schools/science/environmental-policy/environmental-science-public-policy-phd/index.html"
+        }
+      ]
+    }
+  },
+  "notes": "Climate Dynamics PhD is also offered by the Atmospheric, Oceanic and Earth Sciences department; it is not saved because this field allows one record."
+}

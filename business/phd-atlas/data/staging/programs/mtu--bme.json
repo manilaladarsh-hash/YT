@@ -1,0 +1,49 @@
+{
+  "id": "mtu--bme",
+  "university": "mtu",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Biomedical Engineering",
+  "program_page": "https://www.mtu.edu/gradschool/programs/degrees/biomedical-engineering/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Recommended Fall PhD deadline is January 15; applying a semester ahead improves funding chances.",
+      "quote": "Fall PhD: January 15",
+      "url": "https://www.mtu.edu/gradschool/programs/degrees/biomedical-engineering/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE is required for doctoral applicants (starting with Fall 2023 applications).",
+      "quote": "GRE (for doctoral applicants only, starting with Fall 2023 applications)",
+      "url": "https://www.mtu.edu/gradschool/programs/degrees/biomedical-engineering/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject-test rule is given.",
+      "quote": "",
+      "url": "https://www.mtu.edu/gradschool/programs/degrees/biomedical-engineering/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.mtu.edu/gradschool/programs/degrees/biomedical-engineering/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page gives no funding rule.",
+      "quote": "",
+      "url": "https://www.mtu.edu/gradschool/programs/degrees/biomedical-engineering/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admission is possible after a bachelor's (60 credits) or a master's (30 credits).",
+      "quote": "MS-PhD (minimum) 30 Credits | BS-PhD (minimum) 60 Credits",
+      "url": "https://www.mtu.edu/gradschool/programs/degrees/biomedical-engineering/"
+    }
+  },
+  "notes": "The department page recommends TOEFL 5.5 and IELTS 8.0; these are recommendations, so the university minimums are kept."
+}

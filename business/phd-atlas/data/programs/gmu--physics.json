@@ -1,0 +1,61 @@
+{
+  "id": "gmu--physics",
+  "university": "gmu",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics and Astronomy",
+  "program_page": "https://catalog.gmu.edu/colleges-schools/science/physics-astronomy/physics-phd/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "International applicants who want a graduate assistantship must apply by December 1; the department FAQ also cites January 1 for international applicants.",
+      "quote": "December 1: Deadline for international applicants wanting to be considered for Graduate Assistantships",
+      "url": "https://science.gmu.edu/academics/departments-units/physics-and-astronomy-department/graduate-programs/application-and",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "The priority deadline for students requesting financial support for Fall enrollment is Jan. 15 for domestic and Jan.1 for international students",
+          "url": "https://science.gmu.edu/academics/departments-units/physics-and-astronomy-department/graduate-programs/application-and"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The department offers a limited number of need-based application fee waivers for fall applicants who apply before the priority deadline.",
+      "quote": "The department may offer a limited number of need-based application fee waivers for the fall admission cycle before the application priority deadline",
+      "url": "https://science.gmu.edu/academics/departments-units/physics-and-astronomy-department/graduate-programs/application-and"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The PhD catalog makes the general GRE optional.",
+      "quote": "The GRE-GEN is optional and the GRE subject test in physics is not required",
+      "url": "https://catalog.gmu.edu/colleges-schools/science/physics-astronomy/physics-phd/index.html"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The physics subject GRE is not required.",
+      "quote": "the GRE subject test in physics is not required",
+      "url": "https://catalog.gmu.edu/colleges-schools/science/physics-astronomy/physics-phd/index.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applications are reviewed by a committee, so admission does not depend on a named faculty supervisor.",
+      "quote": "Applications are reviewed by a committee and admission decisions depend on many factors including departmental needs",
+      "url": "https://science.gmu.edu/academics/departments-units/physics-and-astronomy-department/graduate-programs/application-and"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Most first-year students who need support request a graduate teaching assistantship, which is offered competitively.",
+      "quote": "These are offered on a competitive basis subject to departmental needs",
+      "url": "https://science.gmu.edu/academics/departments-units/physics-and-astronomy-department/graduate-programs/application-and"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants with a bachelor's degree in physics, astronomy or engineering are eligible.",
+      "quote": "Those holding a baccalaureate degree in physics, astronomy, or engineering from an institution of higher education",
+      "url": "https://catalog.gmu.edu/colleges-schools/science/physics-astronomy/physics-phd/index.html"
+    }
+  },
+  "notes": "The department page quotes the university's old TOEFL 88 rule; the university record's new-scale score is used. No separate astronomy PhD in the catalog."
+}

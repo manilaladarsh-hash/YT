@@ -1,0 +1,49 @@
+{
+  "id": "mtu--cs",
+  "university": "mtu",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science",
+  "program_page": "https://www.mtu.edu/gradschool/programs/degrees/computer-science/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Recommended Fall deadline is January 15; February 1 is the date for full financial consideration.",
+      "quote": "Fall Semester: January 15 | For full financial consideration for Fall: February 1",
+      "url": "https://www.mtu.edu/gradschool/programs/degrees/computer-science/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "PhD applicants who are international students must submit the GRE, unless their undergraduate or master's degree is from a U.S. institution.",
+      "quote": "Required for PhD International Students only, waived if undergraduate or Master's degree is from a U.S. institution",
+      "url": "https://www.mtu.edu/gradschool/programs/degrees/computer-science/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to computer science.",
+      "quote": "",
+      "url": "https://www.mtu.edu/gradschool/programs/degrees/computer-science/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.mtu.edu/gradschool/programs/degrees/computer-science/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page gives no funding rule.",
+      "quote": "",
+      "url": "https://www.mtu.edu/gradschool/programs/degrees/computer-science/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admission is possible after a bachelor's (60 credits) or a master's (30 credits).",
+      "quote": "MS-PhD (minimum) 30 Credits | BS-PhD (minimum) 60 Credits",
+      "url": "https://www.mtu.edu/gradschool/programs/degrees/computer-science/"
+    }
+  },
+  "notes": "The university also offers a Computational Science and Engineering PhD (apply by February 15 for full financial consideration), at https://www.mtu.edu/gradschool/programs/degrees/computational-science-engineering/. It is interdisciplinary and not saved as a separate field record."
+}

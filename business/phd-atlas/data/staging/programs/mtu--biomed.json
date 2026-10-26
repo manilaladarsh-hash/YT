@@ -1,0 +1,43 @@
+{
+  "id": "mtu--biomed",
+  "university": "mtu",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Biochemistry and Molecular Biology",
+  "program_page": "https://www.mtu.edu/biochemistry/graduate/requirements/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "For fall entry, February 15 is the date for full financial consideration.",
+      "quote": "For Fall: February 15 for full financial consideration.",
+      "url": "https://www.mtu.edu/biochemistry/graduate/requirements/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The biochemistry PhD does not require the GRE.",
+      "quote": "GRE not required",
+      "url": "https://www.mtu.edu/biochemistry/graduate/requirements/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Prospective students are strongly encouraged to contact faculty members before applying.",
+      "quote": "Prospective students are strongly encouraged to contact individual faculty members.",
+      "url": "https://www.mtu.edu/biochemistry/graduate/requirements/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page says financial support is not guaranteed and gives no share of funded students.",
+      "quote": "",
+      "url": "https://www.mtu.edu/biochemistry/graduate/requirements/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admission is possible after a bachelor's (60 credits) or a master's (30 credits).",
+      "quote": "Students will need a total of 60 credits beyond a bachelor’s degree or 30 credits | beyond a master’s degree",
+      "url": "https://www.mtu.edu/biochemistry/graduate/requirements/"
+    }
+  },
+  "notes": "Saved under the biomedical field because the program is a biochemistry and molecular biology PhD; the separate biology record covers the Biological Sciences PhD."
+}

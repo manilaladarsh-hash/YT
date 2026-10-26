@@ -1,0 +1,49 @@
+{
+  "id": "mtu--civil",
+  "university": "mtu",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Civil and Environmental Engineering",
+  "program_page": "https://www.mtu.edu/cege/graduate/civil/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall applications for full financial consideration are due January 15.",
+      "quote": "Fall Semester: January 15 (for full financial consideration)",
+      "url": "https://www.mtu.edu/cege/graduate/civil/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Fall Semester: January 15",
+          "url": "https://www.mtu.edu/gradschool/programs/degrees/environmental-engineering-phd/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The civil engineering PhD does not require the GRE.",
+      "quote": "GRE not required",
+      "url": "https://www.mtu.edu/cege/graduate/civil/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.mtu.edu/cege/graduate/civil/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page gives no funding rule.",
+      "quote": "",
+      "url": "https://www.mtu.edu/cege/graduate/civil/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admission is possible after a bachelor's (60 credits) or a master's (30 credits).",
+      "quote": "MS-PhD (minimum) 30 Credits | BS-PhD (minimum) 60 Credits",
+      "url": "https://www.mtu.edu/cege/graduate/civil/"
+    }
+  },
+  "notes": "Covers the Civil Engineering PhD; the separate Environmental Engineering PhD page (same department) is cited for its January 15 deadline."
+}

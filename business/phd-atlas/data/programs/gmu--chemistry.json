@@ -1,0 +1,48 @@
+{
+  "id": "gmu--chemistry",
+  "university": "gmu",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry and Biochemistry",
+  "program_page": "https://science.gmu.edu/academics/departments-units/chemistry-biochemistry/graduate-programs/admission-application",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The department admission and assistantship pages give no application deadline.",
+      "quote": "",
+      "url": "https://science.gmu.edu/academics/departments-units/chemistry-biochemistry/graduate-programs/admission-application"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department says GRE requirements are currently waived for the PhD. The 2026-27 catalog still lists GRE scores, so the department page is used.",
+      "quote": "GRE requirements are currently waived for application to the MS and PhD degree",
+      "url": "https://science.gmu.edu/academics/departments-units/chemistry-biochemistry/graduate-programs/admission-application"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department pages do not mention a chemistry subject test.",
+      "quote": "",
+      "url": "https://science.gmu.edu/academics/departments-units/chemistry-biochemistry/graduate-programs/admission-application"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by a departmental evaluation of the application, not by a named supervisor.",
+      "quote": "Admission is based on a departmental evaluation of the applicant's background as evidenced by transcripts, résumés, and letters of recommendation",
+      "url": "https://science.gmu.edu/academics/departments-units/chemistry-biochemistry/graduate-programs/admission-application"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantships depend on department needs and the applicant's credentials; applying does not guarantee one.",
+      "quote": "Submission of an application does not guarantee that you will be offered an assistantship",
+      "url": "https://science.gmu.edu/academics/departments-units/chemistry-biochemistry/graduate-programs/assistantships-financial-aid"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may hold a bachelor's and/or master's degree in chemistry, biochemistry or a related field.",
+      "quote": "students must have a bachelor's and/or master degree in chemistry, biochemistry, or a related field",
+      "url": "https://science.gmu.edu/academics/departments-units/chemistry-biochemistry/graduate-programs/admission-application"
+    }
+  },
+  "notes": "No application deadline on the department pages; the catalog's November 8 date is for advancing to candidacy, not admission."
+}

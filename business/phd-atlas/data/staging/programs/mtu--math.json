@@ -1,0 +1,43 @@
+{
+  "id": "mtu--math",
+  "university": "mtu",
+  "field": "math",
+  "also_fields": [],
+  "department": "Mathematical Sciences",
+  "program_page": "https://www.mtu.edu/gradschool/programs/degrees/mathematical-science/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Decisions are made on a rolling basis; applying before February 15 is recommended for fall admission.",
+      "quote": "It is recommended to submit the application before Feb 15th, for fall admission.",
+      "url": "https://www.mtu.edu/math/graduate/admissions-funding/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department does not require the GRE.",
+      "quote": "No GRE Required",
+      "url": "https://www.mtu.edu/gradschool/programs/degrees/mathematical-science/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "A graduate committee admits applicants on academic record, so a supervisor's agreement is not needed first.",
+      "quote": "The Graduate Committee determines who to admit and support based on academic qualifications",
+      "url": "https://www.mtu.edu/math/graduate/admissions-funding/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "All applicants are considered for support, and a graduate committee decides who is supported.",
+      "quote": "The Graduate Committee determines who to admit and support based on academic qualifications",
+      "url": "https://www.mtu.edu/math/graduate/admissions-funding/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admission is possible after a bachelor's (60 credits) or a master's (30 credits).",
+      "quote": "MS-PhD (minimum) 30 Credits | BS-PhD (minimum) 60 Credits",
+      "url": "https://www.mtu.edu/gradschool/programs/degrees/mathematical-science/"
+    }
+  },
+  "notes": "Two concentrations are listed in the department's older handbook (computational and applied mathematics; discrete mathematics). The statistics PhD is saved as its own statistics record."
+}

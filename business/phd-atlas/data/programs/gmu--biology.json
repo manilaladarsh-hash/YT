@@ -1,0 +1,61 @@
+{
+  "id": "gmu--biology",
+  "university": "gmu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "School of Systems Biology",
+  "program_page": "https://catalog.gmu.edu/colleges-schools/science/systems-biology/biosciences-phd/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Fall applications are due January 1; applications after the deadline are not considered for department funding.",
+      "quote": "Applications should be submitted by January 1st for fall admission",
+      "url": "https://catalog.gmu.edu/colleges-schools/science/systems-biology/biosciences-phd/index.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "applicants are not considered for possible department funding",
+          "url": "https://science.gmu.edu/academics/departments-units/systems-biology/admissions/admissions-faq"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required for admission.",
+      "quote": "The GRE is not required for admission into this program",
+      "url": "https://catalog.gmu.edu/colleges-schools/science/systems-biology/biosciences-phd/index.html",
+      "also": [
+        {
+          "quote": "A GRE score is not required to apply to School of System Biology graduate programs",
+          "url": "https://science.gmu.edu/academics/departments-units/systems-biology/admissions/admissions-faq"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The field has no subject test in these pages.",
+      "quote": "",
+      "url": "https://catalog.gmu.edu/colleges-schools/science/systems-biology/biosciences-phd/index.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages reviewed do not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.gmu.edu/colleges-schools/science/systems-biology/biosciences-phd/index.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "The school describes its financial support as highly competitive.",
+      "quote": "Financial support is highly competitive",
+      "url": "https://science.gmu.edu/academics/departments-units/systems-biology/admissions/admissions-faq"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants usually hold an undergraduate degree in biology or biotechnology.",
+      "quote": "Applicants to the MS Biology and PhD Biosciences programs traditionally have a background in the life sciences, with undergraduate degree in biology or biotechnology",
+      "url": "https://science.gmu.edu/academics/departments-units/systems-biology/admissions"
+    }
+  },
+  "notes": "The Bioinformatics and Computational Biology PhD is run by the same school; it is not saved separately because its catalog entry gives no deadline or funding."
+}

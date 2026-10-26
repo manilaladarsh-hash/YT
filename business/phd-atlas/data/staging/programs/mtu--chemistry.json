@@ -1,0 +1,43 @@
+{
+  "id": "mtu--chemistry",
+  "university": "mtu",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Chemistry",
+  "program_page": "https://www.mtu.edu/chemistry/graduate/chemistry/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Recommended Fall deadline is February 1.",
+      "quote": "Fall Semester: February 1",
+      "url": "https://www.mtu.edu/chemistry/graduate/chemistry/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The chemistry PhD does not require the GRE.",
+      "quote": "No GRE required",
+      "url": "https://www.mtu.edu/chemistry/graduate/chemistry/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The chemistry page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.mtu.edu/chemistry/graduate/chemistry/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Only a small number (usually 3-10) of admitted PhD students are offered support, depending on budget and research group space.",
+      "quote": "select number (usually 3-10) of admitted Ph.D. students will be offered financial support",
+      "url": "https://www.mtu.edu/chemistry/graduate/chemistry/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admission is possible after a bachelor's (60 credits) or a master's (30 credits).",
+      "quote": "MS-PhD (minimum) 30 Credits | BS-PhD (minimum) 60 Credits",
+      "url": "https://www.mtu.edu/chemistry/graduate/chemistry/"
+    }
+  },
+  "notes": "Everyone who submits an application is automatically considered for available support positions."
+}

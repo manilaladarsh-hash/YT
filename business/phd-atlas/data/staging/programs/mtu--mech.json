@@ -1,0 +1,55 @@
+{
+  "id": "mtu--mech",
+  "university": "mtu",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Mechanical Engineering-Engineering Mechanics",
+  "program_page": "https://www.mtu.edu/gradschool/programs/degrees/mechanical-engineering-engineering-mechanics/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Recommended Fall deadline is March 1.",
+      "quote": "Fall Semester: March 1",
+      "url": "https://www.mtu.edu/gradschool/programs/degrees/mechanical-engineering-engineering-mechanics/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE is required for the PhD in Mechanical Engineering - Engineering Mechanics, except for online students and Michigan Tech undergraduates per the program page.",
+      "quote": "Currently, five programs require the GRE: MS and PhD in Computer Science, MS in Cybersecurity, PhD in Biomedical Engineering, PhD in Mechanical Engineering - Engineering Mechanics",
+      "url": "https://www.mtu.edu/globalcampus/gradadmissions/prospective/apply-now/faq/",
+      "also": [
+        {
+          "quote": "GRE (waived for online students and Michigan Tech undergrads)",
+          "url": "https://www.mtu.edu/gradschool/programs/degrees/mechanical-engineering-engineering-mechanics/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject-test rule is given.",
+      "quote": "",
+      "url": "https://www.mtu.edu/gradschool/programs/degrees/mechanical-engineering-engineering-mechanics/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.mtu.edu/gradschool/programs/degrees/mechanical-engineering-engineering-mechanics/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page gives no funding rule.",
+      "quote": "",
+      "url": "https://www.mtu.edu/gradschool/programs/degrees/mechanical-engineering-engineering-mechanics/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admission is possible after a bachelor's (60 credits) or a master's (30 credits).",
+      "quote": "MS-PhD (minimum) 30 Credits | BS-PhD (minimum) 60 Credits",
+      "url": "https://www.mtu.edu/gradschool/programs/degrees/mechanical-engineering-engineering-mechanics/"
+    }
+  },
+  "notes": "The department page lists recommended IELTS 7.0 and TOEFL 4.5; these are recommendations, so the university minimum (IELTS 6.5) is kept."
+}
