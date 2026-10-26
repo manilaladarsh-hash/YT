@@ -1,0 +1,60 @@
+{
+  "id": "sorbonne--physics",
+  "university": "sorbonne",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Physique en Île-de-France (ED 564)",
+  "program_page": "https://sciences.sorbonne-universite.fr/ecoles-doctorales/physique-en-ile-de-france",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The 2026/27 calendar says sciences doctorate applications run on a rolling basis until 16 April 2027, but it is tied to the 2026/27 year, not an autumn 2027 start, so no Fall 2027 deadline is stated.",
+      "quote": "Les candidatures s’effectuent au fil de l'eau pour les premières années jusqu'au 16 avril 2027",
+      "url": "https://www.sorbonne-universite.fr/recherche-1/le-doctorat/demarches-administratives/inscriptions-reinscriptions-en-doctorat",
+      "also": [
+        {
+          "quote": "Candidature année 2026/2027",
+          "url": "https://www.sorbonne-universite.fr/recherche-1/le-doctorat/demarches-administratives/inscriptions-reinscriptions-en-doctorat"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on the Sorbonne pages checked for this school.",
+      "quote": "",
+      "url": "https://sciences.sorbonne-universite.fr/ecoles-doctorales/physique-en-ile-de-france"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A doctorate application must be approved by the project leader (the future thesis director) and the director of the research unit, so a supervisor's agreement comes before admission.",
+      "quote": "A doctorate application must be approved by the project leader (the future thesis director) and the director of the research unit",
+      "url": "https://www.sorbonne-universite.fr/en/doctorate/application-and-admission/admission",
+      "also": [
+        {
+          "quote": "Obtain the agreement of a research supervisor to oversee your work.",
+          "url": "https://international-welcome-desk.sorbonne-universite.fr/join-sorbonne-university/research-and-teaching/admission-doctoral-programme/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Each school awards its doctoral contracts through an annual recruitment campaign, so funding is competitive. The page does not say how many students get one.",
+      "quote": "Each doctoral school organises an annual recruitment campaign during which it awards doctoral contracts to candidates to carry out their doctoral research project.",
+      "url": "https://www.sorbonne-universite.fr/en/doctorate/application-and-admission/funding",
+      "also": [
+        {
+          "quote": "At Sorbonne University, you need funding to enrol on a programme in the so-called ... (physics, chemistry, mathematics, etc.)",
+          "url": "https://international-welcome-desk.sorbonne-universite.fr/join-sorbonne-university/research-and-teaching/admission-doctoral-programme/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "You need a master's degree or equivalent to be eligible for a doctorate, so a bachelor's alone is not enough.",
+      "quote": "To be eligible for a doctorate, you must hold a Master's degree or equivalent",
+      "url": "https://international-welcome-desk.sorbonne-universite.fr/join-sorbonne-university/research-and-teaching/admission-doctoral-programme/"
+    }
+  },
+  "notes": "Scope: the school's scientific field covers fundamental interactions, quantum physics of dilute or condensed matter, statistical physics, soft and biological matter, optics, acoustics and hydrodynamics. The school page gives no separate admission or GRE rule."
+}

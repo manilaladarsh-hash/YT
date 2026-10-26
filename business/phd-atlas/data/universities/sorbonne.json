@@ -1,0 +1,53 @@
+{
+  "id": "sorbonne",
+  "institution": "Sorbonne Université",
+  "country": "France",
+  "region": "Île-de-France",
+  "grad_page": "https://www.sorbonne-universite.fr/en/doctorate/application-and-admission",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No application fee for a doctorate is stated on the pages checked. The €398 doctoral fee is the enrolment fee paid after admission.",
+      "quote": "",
+      "url": "https://www.sorbonne-universite.fr/en/doctorate/application-and-admission",
+      "also": [
+        {
+          "quote": "Doctoral programmes: €398",
+          "url": "https://www.sorbonne-universite.fr/en/education/study-sorbonne-university/enrolment-procedures-and-tuition-fees"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application-fee waiver is stated. Non-EU doctoral students are not subject to the differentiated tuition fee, so they pay the same €398 enrolment fee as French students.",
+      "quote": "Students enrolling in a doctoral programme, a third-cycle programme in health studies or an accreditation to supervise research (HDR) programme.",
+      "url": "https://www.sorbonne-universite.fr/en/education/study-sorbonne-university/enrolment-procedures-and-tuition-fees"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement is stated on the Sorbonne doctoral pages checked.",
+      "quote": "",
+      "url": "https://www.sorbonne-universite.fr/en/doctorate/application-and-admission"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "No English, GRE or test rule for doctoral applicants is stated on the Sorbonne doctoral pages checked.",
+      "quote": "",
+      "url": "https://www.sorbonne-universite.fr/en/doctorate/application-and-admission"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "No English, GRE or test rule for doctoral applicants is stated on the Sorbonne doctoral pages checked.",
+      "quote": "",
+      "url": "https://www.sorbonne-universite.fr/en/doctorate/application-and-admission"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "No English-test rule for India or any other country is stated on the doctoral pages checked.",
+      "quote": "",
+      "url": "https://www.sorbonne-universite.fr/en/doctorate/application-and-admission"
+    }
+  },
+  "notes": "Entry needs a master's or equivalent, plus a supervisor's agreement and funding for exact sciences. Doctoral applications are made through each doctoral school. The 2026/27 PhD calendar (sciences: rolling until 16 April 2027) is not a Fall 2027 deadline. Pages checked: international doctoral programmes, international welcome desk admission page, application and admission, admission, funding, enrolment fees, PhD enrolment calendar, Sciences doctoral schools list. The Sciences international applying page (2023-24 fee figures) was not used because it is out of date. No pages were blocked. Fetch budget exceeded: about 9 university-wide fetches against the brief's 4-6."
+}
