@@ -1,0 +1,68 @@
+{
+  "id": "colostate--statistics",
+  "university": "colostate",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Statistics",
+  "program_page": "https://statistics.colostate.edu/applying-to-the-ms-phd-program-in-statistics-beta/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The MS/PhD application deadline for Fall 2027 is January 15, 2027.",
+      "quote": "We are not requiring a GRE score for applicants applying for admission starting Fall 2027 (January 15, 2027 application deadline).",
+      "url": "https://statistics.colostate.edu/ms-phd-faq/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "No GRE is required for applicants starting Fall 2027.",
+      "quote": "We are not requiring a GRE score for applicants applying for admission starting Fall 2027 (January 15, 2027 application deadline).",
+      "url": "https://statistics.colostate.edu/ms-phd-faq/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE, including the Mathematics subject test, is required.",
+      "quote": "We are not requiring a GRE score for applicants applying for admission starting Fall 2027 (January 15, 2027 application deadline).",
+      "url": "https://statistics.colostate.edu/ms-phd-faq/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants do not need an advisor when they apply and are not admitted to work with a specific professor.",
+      "quote": "No, students are not expected to have an advisor identified at the time that they apply to our program",
+      "url": "https://statistics.colostate.edu/ms-phd-faq/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Nearly all MS/PhD students are funded as GTAs or GRAs.",
+      "quote": "Nearly all of the students in our MS/PhD program are funded either as Graduate Teaching Assistants (GTAs) or Graduate Research Assistants (GRAs).",
+      "url": "https://statistics.colostate.edu/msphd-programs-in-statistics/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A GPA of at least 3.0 in an undergraduate or graduate degree is the rule; the major is not decisive.",
+      "quote": "A GPA of at least 3.0 on a 4-point scale in either an undergraduate or graduate degree",
+      "url": "https://statistics.colostate.edu/ms-phd-faq/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The department's own minimum is TOEFL 80 (internet-based), which conflicts with the Graduate School's 4.5 from January 2026.",
+      "quote": "The minimum Test of English as a Foreign Language (TOEFL) score for admission without condition is 80 (Internet-based) or 550 (paper-based).",
+      "url": "https://statistics.colostate.edu/ms-phd-faq/",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Effective January 2026: 4.5 (Internet based)",
+          "url": "https://www.catalog.colostate.edu/general-catalog/graduate-bulletin/admissions-requirements-procedures/admissions-requirements-procedures.pdf"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department's IELTS minimum for admission without conditions is 6.5.",
+      "quote": "The minimum International English Language Testing System (IELTS) score for admission without conditions is 6.5.",
+      "url": "https://statistics.colostate.edu/ms-phd-faq/"
+    }
+  },
+  "notes": "Application fee is $60 domestic and $70 international, the same as the Graduate School. Department says the GRE rule applies to Fall 2027 entry. The FAQ's TOEFL 80 conflicts with the Graduate School's 4.5 (flagged). Funding is stated as nearly all, so it is coded Typical.",
+  "name": "Statistics (M.S./Ph.D.)"
+}

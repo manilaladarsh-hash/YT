@@ -1,0 +1,60 @@
+{
+  "id": "colostate--civil",
+  "university": "colostate",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil and Environmental Engineering",
+  "program_page": "https://www.engr.colostate.edu/ce/graduate/admission/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall-start applications for the MS and PhD are due December 1. The page gives no year, so the 2026/27 cycle is used.",
+      "quote": "Master of Science and Ph.D. Applicants",
+      "url": "https://www.engr.colostate.edu/ce/graduate/admission/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Fall Start (August)",
+          "url": "https://www.engr.colostate.edu/ce/graduate/admission/"
+        },
+        {
+          "quote": "Application deadline: December 1",
+          "url": "https://www.engr.colostate.edu/ce/graduate/admission/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department no longer requires the GRE for admissions.",
+      "quote": "The GRE is no longer required by our department for admissions.",
+      "url": "https://www.engr.colostate.edu/ce/graduate/admission/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE, including a subject test, is required.",
+      "quote": "The GRE is no longer required by our department for admissions.",
+      "url": "https://www.engr.colostate.edu/ce/graduate/admission/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.engr.colostate.edu/ce/graduate/admission/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Assistantships are available, but the page gives no share of admitted students who are funded.",
+      "quote": "",
+      "url": "https://www.engr.colostate.edu/ce/graduate/admission/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The PhD can be entered with or without a master's, with a 72-credit total from the bachelor's.",
+      "quote": "Entering a Ph.D. program directly from an undergraduate program without a master’s degree typically adds one to two years to the Ph.D. completion timeline",
+      "url": "https://www.engr.colostate.edu/ce/graduate/doctorate/"
+    }
+  },
+  "notes": "The page lists fees of $60 domestic and $70 international, the same as the Graduate School; the department cannot waive fees. The 2026/27 cycle deadline is December 1 (applications for spring are October 1, not used).",
+  "name": "Civil and Environmental Engineering (Ph.D.)"
+}

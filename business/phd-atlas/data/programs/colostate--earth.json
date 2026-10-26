@@ -1,0 +1,56 @@
+{
+  "id": "colostate--earth",
+  "university": "colostate",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Geosciences",
+  "program_page": "https://warnercnr.colostate.edu/geosciences/geosciences-graduate-student-resources/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-09",
+      "value": "Application deadline for the Fall 2027 cycle is January 9. The page gives no year, so the year is inferred.",
+      "quote": "Our next application cycle will be for Fall 2027. Applications open in October 2026. Application deadline is January 9th.",
+      "url": "https://warnercnr.colostate.edu/geosciences/geosciences-graduate-student-resources/",
+      "inferred": "year"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A faculty member must agree to be your advisor before you are accepted.",
+      "quote": "To be accepted into the program you need to have one of our faculty members agree to be your advisor.",
+      "url": "https://warnercnr.colostate.edu/geosciences/geosciences-graduate-student-resources/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Only a limited number of GTA and GRA assistantships are available to new students, assigned by the department.",
+      "quote": "We have a limited number of financial assistantships (GTA and GRA) available for new students.",
+      "url": "https://warnercnr.colostate.edu/geosciences/geosciences-graduate-student-resources/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The PhD needs 72 credits beyond the B.S.; a master's may count for up to 30 of them.",
+      "quote": "Candidates must complete a total of 72 semester credits beyond the B.S. degree.",
+      "url": "https://warnercnr.colostate.edu/geosciences/geosciences-graduate-student-resources/",
+      "also": [
+        {
+          "quote": "A master’s degree from an accredited college or university may be accepted for a maximum of 30 credits.",
+          "url": "https://warnercnr.colostate.edu/geosciences/geosciences-graduate-student-resources/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The page does not mention the GRE.",
+      "quote": "",
+      "url": "https://warnercnr.colostate.edu/geosciences/geosciences-graduate-student-resources/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://warnercnr.colostate.edu/geosciences/geosciences-graduate-student-resources/"
+    }
+  },
+  "notes": "The page says applications open in October 2026, and the stated fee is $70 for international applicants, the same as the Graduate School. Faculty contact directly is advised, but not required.",
+  "name": "Geosciences (Ph.D.)"
+}

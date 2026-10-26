@@ -1,0 +1,56 @@
+{
+  "id": "colostate--environment",
+  "university": "colostate",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Atmospheric Science",
+  "program_page": "https://www.atmos.colostate.edu/grad-prog/graduate-program/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Fall admission applications for full consideration are due January 1. The page gives no year, so the year is inferred.",
+      "quote": "Application deadlines for full consideration:",
+      "url": "https://www.atmos.colostate.edu/grad-prog/graduate-program/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Fall admission: January 1",
+          "url": "https://www.atmos.colostate.edu/grad-prog/graduate-program/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The department does not require or consider GRE scores.",
+      "quote": "The department does not require or consider GRE scores",
+      "url": "https://www.atmos.colostate.edu/grad-prog/graduate-program/"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "The department does not require or consider GRE scores, so no subject test counts.",
+      "quote": "The department does not require or consider GRE scores",
+      "url": "https://www.atmos.colostate.edu/grad-prog/graduate-program/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly encouraged to list the faculty they would like to work with.",
+      "quote": "Applicants are also strongly encouraged to list those faculty they would be interested in working with.",
+      "url": "https://www.atmos.colostate.edu/grad-prog/graduate-program/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Applicants are automatically considered for research assistantships, but no share of admitted students who are funded is stated.",
+      "quote": "",
+      "url": "https://www.atmos.colostate.edu/grad-prog/graduate-program/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Admission to the PhD requires a completed M.S. with thesis in atmospheric science or a related field, with GPA 3.0.",
+      "quote": "Successful completion of an M.S. degree with thesis in atmospheric science or related field with a cumulative GPA of at least 3.0",
+      "url": "https://www.atmos.colostate.edu/grad-prog/graduate-program/"
+    }
+  },
+  "notes": "Ecology (Ph.D.) through the Graduate Degree Program in Ecology (GDPE) is also a PhD for the environment area. It is not saved, since one record per field, and its own page says students must have a GDPE faculty advisor to be admitted. Application fee waivers are not offered by the department.",
+  "name": "Atmospheric Science (Ph.D.)"
+}

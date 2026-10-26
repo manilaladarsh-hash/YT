@@ -1,0 +1,87 @@
+{
+  "id": "colostate--cs",
+  "university": "colostate",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://compsci.colostate.edu/graduate-application/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page lists the FALL 2026 deadline as January 15, 2026, which has passed; no Fall 2027 date is stated.",
+      "quote": "",
+      "url": "https://compsci.colostate.edu/graduate-application/"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE scores are required for PhD applicants, with no minimum score to apply.",
+      "quote": "GRE test scores* for all graduate programs with the exception of domestic applicants applying for the MCS (coursework only) degree.",
+      "url": "https://compsci.colostate.edu/graduate-application/",
+      "also": [
+        {
+          "quote": "Test scores for Ph.D. applicants:",
+          "url": "https://compsci.colostate.edu/graduate-application/"
+        },
+        {
+          "quote": "There is no minimum score in order to apply",
+          "url": "https://compsci.colostate.edu/graduate-application/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page names no GRE Subject test for computer science.",
+      "quote": "",
+      "url": "https://compsci.colostate.edu/graduate-application/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Applicants must show research ability in faculty areas, but the page does not say a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://compsci.colostate.edu/graduate-application/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Financial support goes to many PhD students, but funding is limited and highly competitive.",
+      "quote": "Funding is limited and therefore highly competitive.",
+      "url": "https://compsci.colostate.edu/graduate-application/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's degree in a closely related field is required for all graduate degrees; an M.S. is described as preferred preparation for a PhD.",
+      "quote": "Students entering a Computer Science graduate degree program must have a Bachelor’s degree in a closely related field",
+      "url": "https://compsci.colostate.edu/graduate-application/",
+      "also": [
+        {
+          "quote": "This degree is the preferred preparation for those who intend to go on to earn a Ph.D.",
+          "url": "https://compsci.colostate.edu/graduate-application/"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "92",
+      "value": "The PhD section asks for TOEFL 92, but the page's general text and the Graduate School give 4.5 from January 2026.",
+      "quote": "Minimum of 92 TOEFL or 6.5 IELTS, 120 Duolingo or 62 on the PTE.",
+      "url": "https://compsci.colostate.edu/graduate-application/",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "The 80 (Internet based) minimum score changes, effective January 2026, to a new 4.5 (Internet based) minimum score.",
+          "url": "https://compsci.colostate.edu/graduate-application/"
+        },
+        {
+          "quote": "Effective January 2026: 4.5 (Internet based)",
+          "url": "https://www.catalog.colostate.edu/general-catalog/graduate-bulletin/admissions-requirements-procedures/admissions-requirements-procedures.pdf"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department requires a minimum IELTS of 6.5 to be considered.",
+      "quote": "The Department requires a minimum 6.5 IELTS, 59 PTE, or 120 Duolingo in order to be considered.",
+      "url": "https://compsci.colostate.edu/graduate-application/"
+    }
+  },
+  "notes": "Deadline: the page's FALL 2026 round closed January 15, 2026, and no Fall 2027 date appears, so the deadline is Not stated. The department does not offer GRE or application fee waivers. The PhD TOEFL 92 conflicts with the 4.5 scale (flagged)."
+}

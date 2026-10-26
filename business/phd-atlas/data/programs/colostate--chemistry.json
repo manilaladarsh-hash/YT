@@ -1,0 +1,54 @@
+{
+  "id": "colostate--chemistry",
+  "university": "colostate",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.chem.colostate.edu/apply-to-csu/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Applications open September 14, 2026; the Fall 2027 deadline is January 1, 2027.",
+      "quote": "The deadline for Fall 2027 applications is January 1, 2027.",
+      "url": "https://www.chem.colostate.edu/apply-to-csu/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department says GRE scores are not required for admission; self-reported scores are allowed.",
+      "quote": "GRE scores are NOT required for admission to our graduate programs.",
+      "url": "https://www.chem.colostate.edu/apply-to-csu/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE Subject test is required, since the department does not require GRE scores.",
+      "quote": "GRE scores are NOT required for admission to our graduate programs.",
+      "url": "https://www.chem.colostate.edu/apply-to-csu/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department page does not say a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.chem.colostate.edu/apply-to-csu/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The department says it supports all PhD students who stay in good standing through assistantships.",
+      "quote": "The Chemistry Department fully supports all Ph.D. students who remain in good academic standing via Graduate Teaching or Graduate Research Assistantships",
+      "url": "https://www.chem.colostate.edu/apply-to-csu/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is required and the department admits only to the PhD programme.",
+      "quote": "A Bachelor’s degree is required and your major need not be chemistry",
+      "url": "https://www.chem.colostate.edu/apply-to-csu/",
+      "also": [
+        {
+          "quote": "the Chemistry Department currently only accepts students into the PhD program",
+          "url": "https://www.chem.colostate.edu/apply-to-csu/"
+        }
+      ]
+    }
+  },
+  "notes": "The department says it cannot offer application fee waivers; the Graduate School waivers still apply, so fee_waiver is not overridden. Department says it gives a strong preference to TOEFL 90 (internet) and recommends IELTS 7.0; these are preferences, not minimums, so no overrides. Chemistry says it has no master's track."
+}

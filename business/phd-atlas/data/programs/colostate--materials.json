@@ -1,0 +1,69 @@
+{
+  "id": "colostate--materials",
+  "university": "colostate",
+  "field": "materials",
+  "also_fields": [],
+  "department": "School of Materials Science and Engineering",
+  "program_page": "https://www.research.colostate.edu/smse/admissions-information/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-05",
+      "value": "Fall-term PhD applications are due January 5. The page gives no year, so the 2026/27 cycle date is used.",
+      "quote": "Doctor of Philosophy (PhD): January 5th",
+      "url": "https://www.research.colostate.edu/smse/admissions-information/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The school does not require the GRE for applications.",
+      "quote": "We do not require GRE for our application.",
+      "url": "https://www.research.colostate.edu/smse/admissions-information/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE is required for the application, including any subject test.",
+      "quote": "We do not require GRE for our application.",
+      "url": "https://www.research.colostate.edu/smse/admissions-information/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No faculty advisor is needed before applying, but PhD applicants must name 2-4 faculty they want to work with.",
+      "quote": "No, but MS-Thesis and PhD applicants must mention 2-4 faculty they are interested in working with in your application and/or personal statement.",
+      "url": "https://www.research.colostate.edu/smse/admissions-information/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "PhD applicants are considered for funding automatically, but no share of admitted students who are funded is stated.",
+      "quote": "",
+      "url": "https://www.research.colostate.edu/smse/admissions-information/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A PhD needs 72 credits beyond a bachelor's or 42 beyond a master's, so both routes are open.",
+      "quote": "Minimum 42 credits beyond a Master’s degree or minimum 72 credits beyond a Bachelor’s degree.",
+      "url": "https://www.research.colostate.edu/smse/admissions-information/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The school's unconditional TOEFL minimum is 80, which conflicts with the Graduate School's 4.5 from January 2026.",
+      "quote": "The minimum TOEFL score for admission without condition is 80",
+      "url": "https://www.research.colostate.edu/smse/admissions-information/",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Effective January 2026: 4.5 (Internet based)",
+          "url": "https://www.catalog.colostate.edu/general-catalog/graduate-bulletin/admissions-requirements-procedures/admissions-requirements-procedures.pdf"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The school's unconditional IELTS minimum is 6.5, the same as the Graduate School.",
+      "quote": "The minimum TOEFL score for admission without condition is 80, IELTS is 6.5 and Duolingo is 120.",
+      "url": "https://www.research.colostate.edu/smse/admissions-information/"
+    }
+  },
+  "notes": "The school admits through the Graduate School portal; its own TOEFL 80 figure conflicts with the Graduate School's 4.5 (conflict flagged). The school says its department does not offer fee waivers, so fee_waiver is not overridden. The school's PhD deadline is January 5 for Fall; Spring is September 5.",
+  "name": "Materials Science and Engineering (Ph.D.)"
+}

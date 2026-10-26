@@ -1,0 +1,85 @@
+{
+  "id": "colostate--chemeng",
+  "university": "colostate",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "School of Biomedical and Chemical Engineering",
+  "program_page": "https://www.engr.colostate.edu/bce/graduate/graduate-program-details/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Materials for full consideration for funding are due December 15 for Fall (M.S. and PhD). No year is given, so the 2026/27 cycle is used.",
+      "quote": "Fall semester:",
+      "url": "https://www.engr.colostate.edu/bce/graduate/graduate-program-details/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "For full consideration for funding, application materials must be received by the following dates.",
+          "url": "https://www.engr.colostate.edu/bce/graduate/graduate-program-details/"
+        },
+        {
+          "quote": "M.S. and Ph.D. programs: December 15",
+          "url": "https://www.engr.colostate.edu/bce/graduate/graduate-program-details/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The school says GRE scores are no longer required.",
+      "quote": "GRE scores are no longer required.",
+      "url": "https://www.engr.colostate.edu/bce/graduate/graduate-program-details/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE, including a subject test, is required.",
+      "quote": "GRE scores are no longer required.",
+      "url": "https://www.engr.colostate.edu/bce/graduate/graduate-program-details/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students rotate through labs for a year before matching with an advisor, and faculty should not be asked to review applications in advance.",
+      "quote": "A one-year opportunity for students to rotate through research labs",
+      "url": "https://www.engr.colostate.edu/bce/graduate/doctorate/",
+      "also": [
+        {
+          "quote": "Please do not request that faculty members review your qualifications before applying",
+          "url": "https://www.engr.colostate.edu/bce/graduate/graduate-program-details/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most PhD students have full funding (tuition and a stipend) from the school or a faculty member's lab.",
+      "quote": "Most of our Ph.D. students and many of our M.S. students have full funding (including tuition and a monthly stipend) from the School or a specific core faculty member and their lab.",
+      "url": "https://www.engr.colostate.edu/bce/graduate/graduate-program-details/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Competitive applicants hold an undergraduate degree in chemical, biological, biomedical engineering or a closely related field; no master's is stated as required.",
+      "quote": "An undergraduate degree in chemical, biological, or biomedical engineering or a closely related engineering or science discipline.",
+      "url": "https://www.engr.colostate.edu/bce/graduate/graduate-program-details/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The school's unconditional TOEFL minimum is 80 internet-based, which conflicts with the Graduate School's 4.5 from January 2026.",
+      "quote": "The minimum TOEFL score for admission without condition is 550 (paper -based), or 80 (internet-based).",
+      "url": "https://www.engr.colostate.edu/bce/graduate/graduate-program-details/",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Effective January 2026: 4.5 (Internet based)",
+          "url": "https://www.catalog.colostate.edu/general-catalog/graduate-bulletin/admissions-requirements-procedures/admissions-requirements-procedures.pdf"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The school's unconditional IELTS minimum is 6.5, the same as the Graduate School.",
+      "quote": "The minimum IELTS score for admission without condition is 6.5.",
+      "url": "https://www.engr.colostate.edu/bce/graduate/graduate-program-details/"
+    }
+  },
+  "notes": "Shared school rules for chemical engineering and bioengineering. The school admits through the Graduate School portal. Its TOEFL 80 conflicts with the Graduate School's 4.5 (flagged). The school's own funding deadline is December 15 for Fall, which the page presents as a funding deadline. Interview rounds are used for admission.",
+  "name": "Chemical Engineering (Ph.D.)"
+}

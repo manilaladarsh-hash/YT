@@ -1,0 +1,55 @@
+{
+  "id": "colostate--biomed",
+  "university": "colostate",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "College of Veterinary Medicine and Biomedical Sciences",
+  "program_page": "https://vetmedbiosci.colostate.edu/degree-programs/graduate/phd-biomedical-sciences/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The application deadline is December 1. The page gives no year, so the 2026/27 cycle is used.",
+      "quote": "The application deadline is Dec. 1.",
+      "url": "https://vetmedbiosci.colostate.edu/degree-programs/graduate/phd-biomedical-sciences/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "This program starts only in the fall.",
+          "url": "https://vetmedbiosci.colostate.edu/degree-programs/graduate/phd-biomedical-sciences/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students start with lab rotations and individualized research, so an advisor is not needed before admission.",
+      "quote": "Lab rotations and individualized research tailored to your career interests",
+      "url": "https://vetmedbiosci.colostate.edu/degree-programs/graduate/phd-biomedical-sciences/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page mentions training grants but no funding rule for admitted PhD students.",
+      "quote": "",
+      "url": "https://vetmedbiosci.colostate.edu/degree-programs/graduate/phd-biomedical-sciences/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not state the degree needed before a PhD.",
+      "quote": "",
+      "url": "https://vetmedbiosci.colostate.edu/degree-programs/graduate/phd-biomedical-sciences/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The page does not mention GRE; the Graduate School rule is set per department.",
+      "quote": "",
+      "url": "https://vetmedbiosci.colostate.edu/degree-programs/graduate/phd-biomedical-sciences/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://vetmedbiosci.colostate.edu/degree-programs/graduate/phd-biomedical-sciences/"
+    }
+  },
+  "notes": "The program is run by the College of Veterinary Medicine and Biomedical Sciences; it uses the Graduate School portal and its fee and waiver rules. The page gives a minimum GPA of 3.0 and three letters of recommendation, but no GRE or English rule of its own. Interview rounds finish March 7."
+}

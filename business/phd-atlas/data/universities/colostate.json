@@ -1,0 +1,59 @@
+{
+  "id": "colostate",
+  "institution": "Colorado State University",
+  "country": "USA",
+  "region": "Colorado",
+  "grad_page": "https://graduateschool.colostate.edu/apply",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "70 USD",
+      "value": "International applicants pay a $70 non-refundable application fee for degree programs.",
+      "quote": "Degree programs, international applicants: $70.",
+      "url": "https://graduateschool.colostate.edu/apply"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Waivers cover narrow groups only: automatic for degrees from US land-grant or Colorado HLC-accredited institutions, plus US military, Peace Corps, AmeriCorps and Fulbright. No general international waiver is stated.",
+      "quote": "CSU supports fee waivers for Graduate School applicants who can demonstrate participation in or affiliation with the following organizations:",
+      "url": "https://graduateschool.colostate.edu/skip-the-application-fee/",
+      "also": [
+        {
+          "quote": "Application fees are automatically waived if you earned a bachelor’s degree or higher from a regionally (HLC) accredited Colorado Institution or a U.S. Land-Grant Institution",
+          "url": "https://graduateschool.colostate.edu/skip-the-application-fee/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Each department decides whether the GRE is required; see the program records.",
+      "quote": "Contact the academic department to verify whether the GRE/GMAT is required.",
+      "url": "https://graduateschool.colostate.edu/apply"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "From January 2026 the unconditional TOEFL iBT minimum is 4.5 on the new 1-6 scale.",
+      "quote": "Effective January 2026: 4.5 (Internet based)",
+      "url": "https://www.catalog.colostate.edu/general-catalog/graduate-bulletin/admissions-requirements-procedures/admissions-requirements-procedures.pdf"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS minimum of 6.5 for unconditional admission, including the OneSkills Retake.",
+      "quote": "IELTS: (including the IELTS OneSkills Retake) Minimum ... score of 6.5",
+      "url": "https://www.catalog.colostate.edu/general-catalog/graduate-bulletin/admissions-requirements-procedures/admissions-requirements-procedures.pdf"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "The exemptions cover only solely-English countries, recent US degrees and countries on the exempt list. India is not on that list, so an English-medium Indian degree does not waive the English test.",
+      "quote": "Students are exempted from the TOEFL, IELTS, Duolingo, or PTE Academic requirement if the official language of their country is solely English, or if they have recently earned a degree at a university in the United States, or if they have recently earned a degree from a university in a country on the English Language Proficiency Exempt List maintained by the Graduate School as published below.",
+      "url": "https://graduateschool.colostate.edu/admissions-resources/english-proficiency/",
+      "also": [
+        {
+          "quote": "English language proficiency testing is not required for applicants who are citizens of the following countries:",
+          "url": "https://graduateschool.colostate.edu/admissions-resources/english-proficiency/"
+        }
+      ]
+    }
+  },
+  "notes": "Checked 2026-10-26. The English page's minimum-score figures sit in a table, so they are not quoted; the 2026 bulletin states the same TOEFL 4.5 and IELTS 6.5. Conditional-admission minimums in the bulletin (TOEFL 3.5, IELTS 5.5) are for provisional admission only and are not used. Free application days in 2024-2025 are past. No blocked URLs."
+}

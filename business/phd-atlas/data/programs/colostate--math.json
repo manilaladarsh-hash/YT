@@ -1,0 +1,86 @@
+{
+  "id": "colostate--math",
+  "university": "colostate",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://mathematics.colostate.edu/graduate-program-application-instructions/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "The department admits for fall only; February 1 is the deadline to be considered. No year is given, so the 2026/27 cycle is used.",
+      "quote": "We admit for fall semester only.",
+      "url": "https://mathematics.colostate.edu/graduate-program-application-instructions/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "February 1: To be considered for admission",
+          "url": "https://mathematics.colostate.edu/graduate-program-application-instructions/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are no longer required for the MS or PhD; applicants may still submit them.",
+      "quote": "GRE test scores are no longer required as part of a complete application for the MS or PhD programs in mathematics.",
+      "url": "https://mathematics.colostate.edu/graduate-program-application-instructions/",
+      "also": [
+        {
+          "quote": "You may still submit GRE general or GRE math subject test scores if you so choose.",
+          "url": "https://mathematics.colostate.edu/graduate-program-application-instructions/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The GRE Math subject test is optional.",
+      "quote": "You may still submit GRE general or GRE math subject test scores if you so choose.",
+      "url": "https://mathematics.colostate.edu/graduate-program-application-instructions/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://mathematics.colostate.edu/graduate-program-application-instructions/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Teaching assistantships include a stipend and tuition waivers, but no share of admitted students who are funded is stated.",
+      "quote": "",
+      "url": "https://mathematics.colostate.edu/graduate-program-application-instructions/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The PhD requires 72 semester credits beyond the bachelor's degree; no master's step is set out.",
+      "quote": "The Ph.D. degree requires at least 72 semester credits beyond the bachelor’s degree.",
+      "url": "https://mathematics.colostate.edu/graduate-students/phd-program/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The department lists an internet-based TOEFL minimum of 80, which predates the Graduate School's 4.5 from January 2026.",
+      "quote": "TOEFL – Computer Based – 213, Paper Based – 550, Internet Based – 80",
+      "url": "https://mathematics.colostate.edu/graduate-program-application-instructions/",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Effective January 2026: 4.5 (Internet based)",
+          "url": "https://www.catalog.colostate.edu/general-catalog/graduate-bulletin/admissions-requirements-procedures/admissions-requirements-procedures.pdf"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department lists an IELTS minimum of 6.5.",
+      "quote": "Minimum scores are as follows:",
+      "url": "https://mathematics.colostate.edu/graduate-program-application-instructions/",
+      "also": [
+        {
+          "quote": "IELTS – 6.5",
+          "url": "https://mathematics.colostate.edu/graduate-program-application-instructions/"
+        }
+      ]
+    }
+  },
+  "notes": "Department says it does not award conditional admission for low English scores. Its English exemption rule matches the Graduate School's. The department's TOEFL 80 conflicts with the Graduate School's 4.5 (flagged). Application fee is $70 for international applicants, same as the Graduate School."
+}
