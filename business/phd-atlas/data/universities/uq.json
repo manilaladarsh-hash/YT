@@ -1,0 +1,63 @@
+{
+  "id": "uq",
+  "institution": "University of Queensland",
+  "country": "Australia",
+  "region": "Queensland",
+  "grad_page": "https://study.uq.edu.au/admissions/phd-mphil-professional-doctorate",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No PhD application fee is stated on the UQ PhD, application dates or expression-of-interest pages fetched.",
+      "quote": "",
+      "url": "https://study.uq.edu.au/study/programs/doctor-philosophy-7501"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Tuition is covered only through a UQ stipend scholarship, so a fee waiver is not open to all applicants.",
+      "quote": "If you're successful for a UQ stipend scholarship you'll also receive a tuition fee scholarship.",
+      "url": "https://study.uq.edu.au/admissions/phd-mphil-professional-doctorate/before-you-apply"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE policy is stated on the UQ PhD pages or the department pages fetched.",
+      "quote": "",
+      "url": "https://study.uq.edu.au/study/programs/doctor-philosophy-7501"
+    },
+    "toefl_min": {
+      "code": "87",
+      "value": "The UQ minimum entry for TOEFL iBT is 87, the equivalent of the IELTS 6.5 minimum; the PhD page also lists a paper-based TOEFL of 570.",
+      "quote": "UQ minimum entry (see English Language Proficiency Admission Procedure Section 3)",
+      "url": "https://policies.uq.edu.au/download.php?associated=1&id=172",
+      "also": [
+        {
+          "quote": "IELTS (all other disciplines) ... 6.0 in every sub-band",
+          "url": "https://study.uq.edu.au/study/programs/doctor-philosophy-7501"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The UQ minimum for most programs is an overall IELTS of 6.5, with 6.0 in each band; the PhD page sets the same figure for all disciplines except clinical projects.",
+      "quote": "a 6.5 overall and a minimum of 6.0 in each sub-band of the IELTS test, including IELTS One Skill Retake",
+      "url": "https://study.uq.edu.au/admissions/english-language-requirements"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "India is not a designated country, so an Indian degree counts only if it is from an institution UQ recognises for English-medium study; otherwise a test is needed.",
+      "quote": "Successfully completed a bachelor's or master's degree from an accredited university or institution recognised by UQ for this purpose",
+      "url": "https://study.uq.edu.au/admissions/english-language-requirements",
+      "also": [
+        {
+          "quote": "UQ only recognises accredited universities or institutions for English language proficiency purposes where English is the medium of instruction and assessment.",
+          "url": "https://study.uq.edu.au/admissions/english-language-requirements"
+        },
+        {
+          "quote": "Part A: Designated countries",
+          "url": "https://policies.uq.edu.au/download.php?associated=1&id=646"
+        }
+      ]
+    }
+  },
+  "notes": "Sources: UQ PhD program page (study.uq.edu.au doctor-philosophy-7501, the Doctor of Philosophy listing), UQ English language requirements page, UQ English equivalents PDF (policies.uq.edu.au id=172), UQ designated countries PDF (id=646) and the UQ International Round scholarship page. India is not on the designated-country list (Part A). Part B lists Indian school certificates in English (AISSCE, state boards, ISC) but no Indian degree route; the Part B row is a school-leaving certificate, so it was not used as the waiver. The UQ application-fee amount was not on any fetched page; the search results did not show one either. The department pages (SMP, SCMB, EECS, mechanical and mining, chemical engineering, civil) defer entry, English and fee rules to the Graduate School. The UQ International Round for commencement in Research Quarter 4 2027 closed on 19 October 2026, which is before the 26 October 2026 date of this research. Not researched: neuroscience (QBI lab pages only), environment, statistics, materials, bioengineering and data science (no separate PhD page found). Earth: the SEES higher degree page could not be fetched (proxy tunnel error on study.uq.edu.au mirror)."
+}
