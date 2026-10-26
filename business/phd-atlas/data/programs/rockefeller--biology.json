@@ -1,0 +1,69 @@
+{
+  "id": "rockefeller--biology",
+  "university": "rockefeller",
+  "field": "biology",
+  "also_fields": [
+    "biomed",
+    "chemistry",
+    "neuro"
+  ],
+  "department": "The David Rockefeller Graduate Program in Bioscience",
+  "program_page": "https://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications must be received by December 1, 2026, for entrance during the first week of September 2027.",
+      "quote": "Applications must be received by December 1, 2026, for entrance during the first week of September 2027",
+      "url": "https://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/admissions/"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "GRE Subject scores are not requested or reviewed for admission.",
+      "quote": "General and Advanced Subject Graduate Record Examination (GRE) scores and TOEFL scores are not required for admission",
+      "url": "https://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/admissions/",
+      "also": [
+        {
+          "quote": "GRE and TOEFL scores are not requested on our application and will not be reviewed as part of the admissions process.",
+          "url": "https://graduateapplication.rockefeller.edu/forms/RURequirementsProcedures.pdf"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants are admitted by an Admissions Committee, and students affiliate with a lab later, by June 30 of the first year.",
+      "quote": "Applications are reviewed by the Admissions Committee, representing the various areas of biological science",
+      "url": "https://graduateapplication.rockefeller.edu/forms/RURequirementsProcedures.pdf",
+      "also": [
+        {
+          "quote": "All students must affiliate with a laboratory by June 30th of their first year",
+          "url": "https://www.rockefeller.edu/education-and-training/uploads/www.rockefeller.edu/sites/11/2026/06/Graduate-Student-Guide-2025-2026_Revised_6.24.26.pdf"
+        },
+        {
+          "quote": "Rotations through several laboratories, during the first year, are encouraged but not required",
+          "url": "https://www.rockefeller.edu/education-and-training/uploads/www.rockefeller.edu/sites/11/2026/06/Graduate-Student-Guide-2025-2026_Revised_6.24.26.pdf"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Accepted students receive free tuition and a stipend, which was $55,620 for 2026-27.",
+      "quote": "Students who are accepted will receive free tuition, a stipend (currently $55,600)",
+      "url": "https://graduateapplication.rockefeller.edu/forms/RURequirementsProcedures.pdf",
+      "also": [
+        {
+          "quote": "The annual student stipend for the academic year 2026-2027 is $55,620",
+          "url": "https://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/student-housing-stipends/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may enter with a bachelor's or a master's degree, or an MD or equivalent.",
+      "quote": "Students who enter the Ph.D. program must have received a bachelor or master of arts or sciences, or doctor of medicine or equivalent international qualification",
+      "url": "https://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/admissions/"
+    }
+  },
+  "notes": "Umbrella program. The overview says it provides graduate education in the biomedical sciences, chemistry and biophysics. The guide groups courses into areas including Neurosciences, so neuro is listed here. The fetched pages state no separate chemistry PhD.",
+  "name": "Biological Sciences PhD"
+}

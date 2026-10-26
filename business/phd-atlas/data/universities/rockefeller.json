@@ -1,0 +1,53 @@
+{
+  "id": "rockefeller",
+  "institution": "The Rockefeller University",
+  "country": "USA",
+  "region": "New York",
+  "grad_page": "https://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/admissions/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The application fee is $50 for all applicants.",
+      "quote": "An application fee of $50.",
+      "url": "https://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/admissions/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application-fee waiver appears on the fetched admissions, requirements or guide pages.",
+      "quote": "",
+      "url": "https://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/admissions/"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE scores are not requested and are not reviewed for admission.",
+      "quote": "GRE and TOEFL scores are not requested on our application and will not be reviewed as part of the admissions process.",
+      "url": "https://graduateapplication.rockefeller.edu/forms/RURequirementsProcedures.pdf"
+    },
+    "toefl_min": {
+      "code": "Not required",
+      "value": "TOEFL scores are not requested or reviewed, and the application lists no English test.",
+      "quote": "All documents listed below must be submitted to complete your application | GRE and TOEFL scores are not requested on our application and will not be reviewed as part of the admissions process.",
+      "url": "https://graduateapplication.rockefeller.edu/forms/RURequirementsProcedures.pdf"
+    },
+    "ielts_min": {
+      "code": "Not required",
+      "value": "No IELTS or other English certificate is among the application documents.",
+      "quote": "All documents listed below must be submitted to complete your application | A Curriculum Vitae (CV) or Resume",
+      "url": "https://graduateapplication.rockefeller.edu/forms/RURequirementsProcedures.pdf",
+      "also": [
+        {
+          "quote": "GRE and TOEFL scores are not requested on our application and will not be reviewed as part of the admissions process.",
+          "url": "https://graduateapplication.rockefeller.edu/forms/RURequirementsProcedures.pdf"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The application does not say whether an English test or English-medium degree is accepted in place of one.",
+      "quote": "",
+      "url": "https://graduateapplication.rockefeller.edu/forms/RURequirementsProcedures.pdf"
+    }
+  },
+  "notes": "Rockefeller runs one graduate application for its doctoral programs (The David Rockefeller Graduate Program). Doctoral programs on the official list: Biological Sciences (PhD 09328) and Physics (PhD 09332). Chemical biology and computational biology PhDs are Tri-Institutional programs run with MSK and Weill Cornell, not saved here. Stipend: $55,620 for 2026-27 on the housing page; the requirements PDF says $55,600 (undated). Fee waiver not found on any fetched page."
+}
