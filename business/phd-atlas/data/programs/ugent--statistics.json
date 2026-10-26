@@ -1,0 +1,65 @@
+{
+  "id": "ugent--statistics",
+  "university": "ugent",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Center for Data Analysis and Statistical Science, Faculty of Sciences",
+  "program_page": "https://www.ugent.be/dass/en",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No closing date is published. You apply through an open PhD position or by approaching a professor directly.",
+      "quote": "",
+      "url": "https://www.ugent.be/en/research/doctoralresearch/research-topic.htm"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test requirement for PhD applicants is published on the pages checked.",
+      "quote": "",
+      "url": "https://www.ugent.be/dass/en"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A Ghent University supervisor must commit to you before the application starts, and the supervisor opens the file in Oasis.",
+      "quote": "Before starting the application procedure, candidates must have a prospective supervisor at Ghent University.",
+      "url": "https://www.ugent.be/ea/en/research/PhD/regulations",
+      "also": [
+        {
+          "quote": "In both cases a candidate needs to obtain the explicit commitment of a UGent supervisor.",
+          "url": "https://www.ugent.be/en/research/doctoralresearch/enrolment-doctorate"
+        },
+        {
+          "quote": "Your PhD supervisor will need to start up the application procedure: oasis.ugent.be",
+          "url": "https://www.ugent.be/en/research/doctoralresearch/enrolment-doctorate"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding is not guaranteed. Candidates must find it themselves, through a scholarship they apply for or a staff position on a project.",
+      "quote": "Some funding agencies offer possibilities for pre- or postdoctoral researchers to apply for a scholarship or fellowship at Ghent University on an individual basis.",
+      "url": "https://www.ugent.be/en/research/funding",
+      "also": [
+        {
+          "quote": "Search for funding for your PhD.",
+          "url": "https://www.ugent.be/en/research/doctoralresearch/roadmap/roadmap.pdf"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Open to master's holders. A four-year degree can qualify only if Ghent judges it equivalent, assessed case by case.",
+      "quote": "The doctoral programme is open to holders of a master’s degree or a degree corresponding to at least four years of study that is considered equivalent by Ghent University.",
+      "url": "https://www.ugent.be/ea/en/research/PhD/regulations",
+      "also": [
+        {
+          "quote": "Open to holders of a master degree or a degree of minimum four years of study considered equivalent by the university",
+          "url": "https://www.ugent.be/prospect/en/administration/application/requirement/phd.htm"
+        }
+      ]
+    }
+  },
+  "notes": "Listed under the Faculty of Sciences. Statistical data analysis is the closest official doctorate to data science, so no separate datasci record is saved.",
+  "name": "Doctor of Statistical Data Analysis"
+}

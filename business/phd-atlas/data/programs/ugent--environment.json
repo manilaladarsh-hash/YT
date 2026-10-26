@@ -1,0 +1,68 @@
+{
+  "id": "ugent--environment",
+  "university": "ugent",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Faculty of Bioscience Engineering",
+  "program_page": "https://www.ugent.be/bw/en/research/doctoral-research/phd-titles.htm",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-10",
+      "value": "Deadline for new applications to the Faculty Board. The earliest after 26 October 2026 is 10 November 2026; later rounds on the same page are 24 November 2026, 5 January 2027 and 2 February 2027.",
+      "quote": "Deadline new applications + submission changes + Submission examination committee in Plato ... 10 November 2026",
+      "url": "https://www.ugent.be/bw/en/research/doctoral-research/submission-deadlines-doctoral-commission",
+      "time_sensitive": "2026-11-10",
+      "also": [
+        {
+          "quote": "Check the deadline to submit documents for the Faculty Board.",
+          "url": "https://www.ugent.be/bw/en/research/doctoral-research/overview.htm"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test requirement for PhD applicants is published on the pages checked.",
+      "quote": "",
+      "url": "https://www.ugent.be/bw/en/research/doctoral-research/phd-titles.htm"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Your supervisor registers you as a new PhD candidate in Oasis, and the faculty then decides on the application.",
+      "quote": "Your supervisor will register you as a new PhD candidate via oasis.ugent.be.",
+      "url": "https://www.ugent.be/bw/en/research/doctoral-research/overview.htm",
+      "also": [
+        {
+          "quote": "Before starting the application procedure, candidates must have a prospective supervisor at Ghent University.",
+          "url": "https://www.ugent.be/ea/en/research/PhD/regulations"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding is not guaranteed. Candidates must find it themselves, through a scholarship they apply for or a staff position on a project.",
+      "quote": "Some funding agencies offer possibilities for pre- or postdoctoral researchers to apply for a scholarship or fellowship at Ghent University on an individual basis.",
+      "url": "https://www.ugent.be/en/research/funding",
+      "also": [
+        {
+          "quote": "Search for funding for your PhD.",
+          "url": "https://www.ugent.be/en/research/doctoralresearch/roadmap/roadmap.pdf"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Open to master's holders. A four-year degree can qualify only if Ghent judges it equivalent, assessed case by case.",
+      "quote": "The doctoral programme is open to holders of a master’s degree or a degree corresponding to at least four years of study that is considered equivalent by Ghent University.",
+      "url": "https://www.ugent.be/ea/en/research/PhD/regulations",
+      "also": [
+        {
+          "quote": "Open to holders of a master degree or a degree of minimum four years of study considered equivalent by the university",
+          "url": "https://www.ugent.be/prospect/en/administration/application/requirement/phd.htm"
+        }
+      ]
+    }
+  },
+  "notes": "Bioscience Engineering runs its own Faculty Board deadlines, so its deadline differs from the other faculties. The faculty's doctorate title is listed as Doctor of Bioscience Engineering: Environmental Sciences and Technology.",
+  "name": "Doctor of Bioscience Engineering: Environmental Sciences and Technology"
+}

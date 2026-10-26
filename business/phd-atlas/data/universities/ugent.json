@@ -1,0 +1,57 @@
+{
+  "id": "ugent",
+  "institution": "Ghent University",
+  "country": "Belgium",
+  "region": "East Flanders",
+  "grad_page": "https://www.ugent.be/en/research/doctoralresearch/enrolment-doctorate",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No application fee is published for PhD applicants on the pages checked. Tuition is charged at first enrolment and at the doctoral defence instead.",
+      "quote": "",
+      "url": "https://www.ugent.be/en/research/doctoralresearch/enrolment-doctorate"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application fee is published, so no fee waiver is described for PhD applicants.",
+      "quote": "",
+      "url": "https://www.ugent.be/en/research/doctoralresearch/enrolment-doctorate"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement for PhD applicants is published on the pages checked.",
+      "quote": "",
+      "url": "https://www.ugent.be/en/research/doctoralresearch/enrolment-doctorate"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "No TOEFL minimum is published for PhD applicants. The faculty sets the English level, and B2 applies when it does not.",
+      "quote": "",
+      "url": "https://www.ugent.be/ea/en/research/PhD/regulations"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "No IELTS minimum is published for PhD applicants. The faculty sets the English level, and B2 applies when it does not.",
+      "quote": "",
+      "url": "https://www.ugent.be/ea/en/research/PhD/regulations"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "An English-medium degree from India waives the English test only if it included at least 60 credits taught in English. Otherwise a B2-level English certificate is needed.",
+      "quote": "the prospective student has already passed an English-language study programme, either in secondary education or at an institution of higher education in Belgium or abroad (i.e., the student must have obtained 60 credits, whether it be in one academic year or several)",
+      "url": "https://www.ugent.be/ea/en/research/PhD/regulations",
+      "also": [
+        {
+          "quote": "If the language requirements are not specified, a B2 level of English is the required proficiency level for the doctoral training programme and the doctorate.",
+          "url": "https://www.ugent.be/ea/en/research/PhD/regulations"
+        },
+        {
+          "quote": "In case of doubt about the validity of the submitted certificates, the supervisor may request that an additional language test be taken",
+          "url": "https://www.ugent.be/ea/en/research/PhD/regulations"
+        }
+      ]
+    }
+  },
+  "notes": "Tuition is charged at first enrolment and at the doctoral examination, not at application. Re-enrolment is free. The faculty sets the English level for each doctorate."
+}
