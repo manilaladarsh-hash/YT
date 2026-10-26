@@ -1,0 +1,56 @@
+{
+  "id": "ntnu--math",
+  "university": "ntnu",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Department of Mathematical Sciences",
+  "program_page": "https://www.ntnu.edu/studies/phma/apply-and-admission",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Admission is continuous through the year with no fixed deadline, but a PhD position advert may set its own closing date.",
+      "quote": "Acceptance to a PhD-programme is done continuously throughout the academic year and is not restricted to the beginning of term.",
+      "url": "https://www.ntnu.edu/phd/admission-and-financing",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Ongoing admissions",
+          "url": "https://www.ntnu.edu/studies/phma"
+        },
+        {
+          "quote": "The deadlines vary depending upon the individual vacancies",
+          "url": "https://www.ntnu.edu/studies/application"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on NTNU's PhD pages.",
+      "quote": "",
+      "url": ""
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "The application must be recommended by the main supervisor before it goes to the faculty, so a supervisor must be agreed beforehand.",
+      "quote": "recommended by the main supervisor, the head of the programme council and the Head of Department",
+      "url": "https://www.ntnu.edu/studies/phet/apply-and-admission"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most NTNU PhD candidates are paid research fellows, but funding must be documented before admission.",
+      "quote": "Most PhD candidates at NTNU are employed as PhD research fellows (stipendiat) at NTNU or a university college.",
+      "url": "https://www.ntnu.edu/phd/admission-and-financing"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The general route is a master's degree with a B average; comparable documented background can also be accepted.",
+      "quote": "The general admission criteria consist of a master’s degree with B as minimum average grade",
+      "url": "https://www.ntnu.edu/studies/phet/apply-and-admission"
+    }
+  },
+  "notes": "PHMA. Also_fields statistics: the programme page says of its research fields: \"Some of the main fields within mathematical sciences are linked to research that covers a wide range of mathematics, mathematical didactics, numerics and statistics\". Coursework is 30 ECTS. No department fee, GRE or English rule.",
+  "name": "PhD in Mathematical Sciences"
+}

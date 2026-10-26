@@ -1,0 +1,47 @@
+{
+  "id": "ntnu",
+  "institution": "Norwegian University of Science and Technology (NTNU)",
+  "country": "Norway",
+  "region": "Trøndelag",
+  "grad_page": "https://www.ntnu.edu/phd/admission-and-financing",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "NTNU's PhD admission pages state no application fee; the fees they mention are semester and tuition fees.",
+      "quote": "",
+      "url": "https://www.ntnu.edu/phd/admission-and-financing"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No fee waiver for PhD applicants is stated on NTNU's PhD admission pages.",
+      "quote": "",
+      "url": "https://www.ntnu.edu/phd/admission-and-financing"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement is stated on NTNU's PhD admission pages.",
+      "quote": "",
+      "url": "https://www.ntnu.edu/phd/admission-and-financing"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "NTNU's PhD pages give no TOEFL score; the general language page (TOEFL 90) covers study programmes and courses and is not stated to cover PhD admission.",
+      "quote": "",
+      "url": "https://www.ntnu.edu/phd/admission-and-financing"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "NTNU's PhD pages give no IELTS score; the general language page (IELTS 6.5) is not stated to cover PhD admission.",
+      "quote": "",
+      "url": "https://www.ntnu.edu/phd/admission-and-financing"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "NTNU's PhD pages state no English test rule, so no India or English-medium waiver can be confirmed.",
+      "quote": "",
+      "url": "https://www.ntnu.edu/phd/admission-and-financing"
+    }
+  },
+  "notes": "PhD admission is handled by each faculty (Natural Sciences, Engineering, IE, Medicine and Health Sciences). Official PhD programme list used: faculty pages https://www.ntnu.edu/nv/phd , https://www.ntnu.edu/ie/research/phd , https://www.ntnu.edu/iv/doctoral-programme , https://www.ntnu.edu/mh/phd . The all-programmes list (https://www.ntnu.edu/studies/allstudies?city=&studyLevel=980&field=&query=&open=true&taughtInEnglish=true) is rendered by script and returned no programme list. 404 (not used): https://www.ntnu.edu/studies/phelt and https://www.ntnu.edu/studies/phdis/admission. Older PHMED page https://www.ntnu.edu/studies/phmed is replaced by PHMEDHV, so it is not used. Regulation PDFs dated 2020 are not used (older than five years). Language page https://www.ntnu.edu/studies/langcourses/languagerequirements covers master's and exchange admission, not PhD admission. Not separate records: PhD in Electric Power Engineering (https://www.ntnu.edu/studies/phelkt), PhD in Biotechnology (https://www.ntnu.edu/studies/phbiot), PhD in Biophysics (https://www.ntnu.edu/studies/phbify), PhD in Nautical Operations (https://www.ntnu.edu/studies/phnaut). No PhD found for astronomy (physics research lists Physics and Biophysics only) or environment (Industrial Ecology offers PhD courses, not a programme). Data science has no own track."
+}

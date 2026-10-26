@@ -1,0 +1,53 @@
+{
+  "id": "ntnu--mech",
+  "university": "ntnu",
+  "field": "mech",
+  "also_fields": [
+    "civil",
+    "earth"
+  ],
+  "department": "Faculty of Engineering (IV), coordinated by its departments",
+  "program_page": "https://www.ntnu.edu/studies/phiv",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "There is no common deadline; each applicant applies when a supervisor and funding are in place.",
+      "quote": "There is no common application deadline",
+      "url": "https://www.ntnu.edu/iv/doctoral-programme",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "The deadlines vary depending upon the individual vacancies",
+          "url": "https://www.ntnu.edu/studies/application"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on NTNU's PhD pages.",
+      "quote": "",
+      "url": ""
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "The main supervisor should be ready when you apply, and early contact with a research group is advised.",
+      "quote": "The main supervisor should be ready when you apply for the programme",
+      "url": "https://www.ntnu.edu/studies/phiv/admission"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most NTNU PhD candidates are paid research fellows, but funding must be documented before admission.",
+      "quote": "Most PhD candidates at NTNU are employed as PhD research fellows (stipendiat) at NTNU or a university college.",
+      "url": "https://www.ntnu.edu/phd/admission-and-financing"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Five years of higher education including a master's degree or other equivalent degree is needed.",
+      "quote": "completed at least five years of higher education that includes a master's degree or other equivalent degree",
+      "url": "https://www.ntnu.edu/studies/phiv/admission"
+    }
+  },
+  "notes": "PHIV, the umbrella PhD in Engineering. The programme page says: \"Read more about our research and the PhD programme in Engineering on our departments web pages: Department of Civil and Environmental Engineering ... Department of Geoscience ...\". That basis gives also_fields civil and earth. PhD in Nautical Operations (https://www.ntnu.edu/studies/phnaut) is not a field here. No department fee, GRE or English rule.",
+  "name": "PhD in Engineering"
+}

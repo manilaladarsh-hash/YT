@@ -1,0 +1,50 @@
+{
+  "id": "ntnu--bme",
+  "university": "ntnu",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Medical Technology PhD board (cross-faculty)",
+  "program_page": "https://www.ntnu.edu/studies/phmedt",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "No deadline for applying; the PhD Board for Medical Technology assesses applications as they arrive.",
+      "quote": "There are no deadlines for applying.",
+      "url": "https://www.ntnu.edu/studies/phmedt",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "The deadlines vary depending upon the individual vacancies",
+          "url": "https://www.ntnu.edu/studies/application"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on NTNU's PhD pages.",
+      "quote": "",
+      "url": ""
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Medical Technology page does not say whether a supervisor must be agreed before admission.",
+      "quote": "",
+      "url": ""
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most NTNU PhD candidates are paid research fellows, but funding must be documented before admission.",
+      "quote": "Most PhD candidates at NTNU are employed as PhD research fellows (stipendiat) at NTNU or a university college.",
+      "url": "https://www.ntnu.edu/phd/admission-and-financing"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's, cand. med. or equivalent degree from a relevant discipline is needed, with an A or B average.",
+      "quote": "a master, cand. med., or equivalent degree from a relevant discipline",
+      "url": "https://www.ntnu.edu/studies/phmedt"
+    }
+  },
+  "notes": "PHMEDT, a cross-faculty PhD. Requires documented funding for the admission period. No department fee, GRE or English rule.",
+  "name": "PhD in Medical Technology"
+}

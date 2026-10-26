@@ -1,0 +1,52 @@
+{
+  "id": "ntnu--biomed",
+  "university": "ntnu",
+  "field": "biomed",
+  "also_fields": [
+    "neuro"
+  ],
+  "department": "Faculty of Medicine and Health Sciences (MH)",
+  "program_page": "https://www.ntnu.edu/studies/phmedhv",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "No deadline is set; admission can be granted at any point in the academic year.",
+      "quote": "There are no deadlines for applying.",
+      "url": "https://www.ntnu.edu/studies/phmedhv",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "The deadlines vary depending upon the individual vacancies",
+          "url": "https://www.ntnu.edu/studies/application"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on NTNU's PhD pages.",
+      "quote": "",
+      "url": ""
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must have reached an agreement with a prospective supervisor when you submit the project plan.",
+      "quote": "The applicant must have made contact and reached an agreement with a prospective supervisor at this point.",
+      "url": "https://www.ntnu.edu/studies/phmedhv/admission"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most NTNU PhD candidates are paid research fellows, but funding must be documented before admission.",
+      "quote": "Most PhD candidates at NTNU are employed as PhD research fellows (stipendiat) at NTNU or a university college.",
+      "url": "https://www.ntnu.edu/phd/admission-and-financing"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's, cand. med. or equivalent degree from a relevant discipline is needed, with an A or B average.",
+      "quote": "a master, cand. med., or equivalent degree from a relevant discipline",
+      "url": "https://www.ntnu.edu/studies/phmedhv"
+    }
+  },
+  "notes": "PHMEDHV, the current Medicine and Health Sciences PhD. Also_fields neuro: the programme page says \"This includes clinical and molecular medicine, neuroscience, movement science\". Replaces the older PHMED programme. No department fee, GRE or English rule.",
+  "name": "PhD in Medicine and Health Sciences"
+}

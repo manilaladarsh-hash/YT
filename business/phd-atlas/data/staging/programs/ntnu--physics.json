@@ -1,0 +1,54 @@
+{
+  "id": "ntnu--physics",
+  "university": "ntnu",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://www.ntnu.edu/studies/phfy",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Admission is continuous with no fixed deadline, but a PhD position advert may set its own closing date.",
+      "quote": "There are no fixed application deadlines for these programmes.",
+      "url": "https://www.ntnu.edu/nv/phd/admission",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Ongoing admissions",
+          "url": "https://www.ntnu.edu/studies/phfy"
+        },
+        {
+          "quote": "The deadlines vary depending upon the individual vacancies",
+          "url": "https://www.ntnu.edu/studies/application"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on NTNU's PhD pages.",
+      "quote": "",
+      "url": ""
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "The main supervisor must be appointed when you are admitted, so agree a supervisor before applying.",
+      "quote": "The main supervisor must be appointed at the time the candidate is admitted.",
+      "url": "https://www.ntnu.edu/nv/phd/admission"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most NTNU PhD candidates are paid research fellows, but funding must be documented before admission.",
+      "quote": "Most PhD candidates at NTNU are employed as PhD research fellows (stipendiat) at NTNU or a university college.",
+      "url": "https://www.ntnu.edu/phd/admission-and-financing"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A relevant master's degree or equivalent is needed, with a strong academic record; the faculty may approve comparable qualifications.",
+      "quote": "Applicants for the PhD programmes at the Faculty of Natural Sciences must have a relevant master's degree or equivalent education, with a strong academic record.",
+      "url": "https://www.ntnu.edu/nv/phd/admission"
+    }
+  },
+  "notes": "PHFY. Department physics page (https://www.ntnu.edu/physics/phd) states no fee, GRE, English or IELTS rule. The Biophysics PhD (PHBIFY) is a separate programme and is not saved here.",
+  "name": "PhD in Physics"
+}
