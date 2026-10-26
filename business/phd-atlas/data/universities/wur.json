@@ -1,0 +1,53 @@
+{
+  "id": "wur",
+  "institution": "Wageningen University & Research",
+  "country": "Netherlands",
+  "region": "Gelderland",
+  "grad_page": "https://www.wur.nl/en/education/phd-programme/admission-requirements",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No PhD application fee is stated on the official WUR admission or required-documents pages; the pages list tuition fee categories only.",
+      "quote": "",
+      "url": "https://www.wur.nl/en/education/phd-programme/admission-requirements"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No international fee waiver is stated; the tuition table lists fees per category, not waivers.",
+      "quote": "",
+      "url": "https://www.wur.nl/en/education/phd-programme/admission-requirements"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement is stated on the official WUR PhD admission or required-documents pages.",
+      "quote": "",
+      "url": "https://www.wur.nl/en/education/phd-programme/admission-requirements"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT: overall 4.5 on the new scoring system, with a speaking minimum of 4.0.",
+      "quote": "new scoring system: overall score 4,5, with a minimum score of 4,0 for speaking",
+      "url": "https://www.wur.nl/en/education/phd-programme/required-documents"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic: overall 6.5, with at least 6.0 for speaking.",
+      "quote": "overall score 6.5, with a minimum sub-score of 6.0 for speaking",
+      "url": "https://www.wur.nl/en/education/phd-programme/required-documents"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "A master's fully taught in English is an exemption, but it must be comparable to a Dutch master's; non-European master's often need a NUFFIC evaluation, so check with the Doctoral Service Centre.",
+      "quote": "The holder of a Master degree fully taught in the English language | The candidate must hold a master’s degree that is comparable to a Dutch master’s degree",
+      "url": "https://www.wur.nl/en/education/phd-programme/admission-requirements",
+      "also": [
+        {
+          "quote": "For many non-European master’s degrees, a credential evaluation by NUFFIC - the Dutch organisation for internationalisation in education - is required",
+          "url": "https://www.wur.nl/en/education/phd-programme/required-documents"
+        }
+      ]
+    }
+  },
+  "notes": "WUR has no department-level PhD programmes. PhD candidates join a chair group through six Graduate Schools (EPS, PE&RC, VLAG, WASS, WIAS, WIMEK). Fields with no PhD found on the official pages: physics, astronomy, math, statistics, cs, datasci, neuro, materials, earth, ece, mech, civil, bme, chemeng, biomed. Tuition-fee table on the admission page is garbled in the cache; app_fee and fee_waiver left Not stated. Old URLs https://www.wur.nl/en/Education-Programmes/PhD-Programme/English-language-requirements.htm and https://wur.nl/en/education-programmes/phd-programme/practical-information/entry-requirements.htm redirect to the admission page. No blocked URLs."
+}

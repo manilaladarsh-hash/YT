@@ -1,0 +1,48 @@
+{
+  "id": "wur--biology",
+  "university": "wur",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Graduate School EPS (Experimental Plant Sciences)",
+  "program_page": "https://www.wur.nl/en/education/phd-programme/graduate-schools",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "Each PhD position has its own closing date. The example quoted (genome evolution in unicellular eukaryotes) closes 2 November 2026.",
+      "quote": "up to and including 2nd of November 2026",
+      "url": "https://www.wur.nl/en/vacancy/phd-position-genome-evolution-and-architecture-unicellular-eukaryotes",
+      "also": [
+        {
+          "quote": "apply for an already funded position via a vacancy",
+          "url": "https://www.wur.nl/en/education/phd-programme/funding"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on the WUR PhD pages checked.",
+      "quote": "",
+      "url": "https://www.wur.nl/en/education/phd-programme/graduate-schools"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "The vacancy asks applicants to contact the postdoc supervising the position for more information.",
+      "quote": "please contact Ursula Oggenfuss, Postdoc, via email: ursula.oggenfuss@wur.nl",
+      "url": "https://www.wur.nl/en/vacancy/phd-position-genome-evolution-and-architecture-unicellular-eukaryotes"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page says funding must be guaranteed before a PhD can start, which is a condition of admission, not a funding rule.",
+      "quote": "",
+      "url": "https://www.wur.nl/en/education/phd-programme/admission-requirements"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants must hold a master's degree comparable to a Dutch master's degree.",
+      "quote": "The candidate must hold a master’s degree that is comparable to a Dutch master’s degree",
+      "url": "https://www.wur.nl/en/education/phd-programme/admission-requirements"
+    }
+  },
+  "notes": "EPS covers plant molecular biology, plant physiology and plant growth research (graduate schools page). The vacancy quoted does not name its graduate school or chair group, so it is the nearest official example, not proof of the EPS route. WIAS (animal sciences) is not used for biology because its page gives only a research mission."
+}
