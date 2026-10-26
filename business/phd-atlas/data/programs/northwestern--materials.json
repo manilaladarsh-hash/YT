@@ -1,0 +1,73 @@
+{
+  "id": "northwestern--materials",
+  "university": "northwestern",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Materials Science and Engineering",
+  "program_page": "https://www.mccormick.northwestern.edu/materials-science/academics/graduate/phd/admissions.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page gives a December 3 online deadline with no year, so no Fall 2027 date is taken.",
+      "quote": "",
+      "url": "https://www.mccormick.northwestern.edu/materials-science/academics/graduate/phd/admissions.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required for admission.",
+      "quote": "The GRE is not required for admission",
+      "url": "https://www.mccormick.northwestern.edu/materials-science/academics/graduate/phd/admissions.html"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "GRE scores of PhD applicants are not reviewed.",
+      "quote": "GRE scores of PhD applicants will not be reviewed, even if submitted",
+      "url": "https://www.mccormick.northwestern.edu/materials-science/academics/graduate/phd/admissions.html"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "The page asks for 90 on the internet-based TOEFL, which conflicts with the 4.5 new-scale minimum on the BME and ECE pages.",
+      "quote": "90 or higher on the internet-based test",
+      "url": "https://www.mccormick.northwestern.edu/materials-science/academics/graduate/phd/admissions.html",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "If taken after January 21, 2026: 4.5 or better",
+          "url": "https://www.mccormick.northwestern.edu/biomedical/academics/graduate/phd/admissions.html"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS of 7.0 or higher is required.",
+      "quote": "On the IELTS, an applicant must score 7.0 or higher",
+      "url": "https://www.mccormick.northwestern.edu/materials-science/academics/graduate/phd/admissions.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Degrees from the US, UK, Canada, Australia or New Zealand waive the TOEFL, but only many, not all, Indian universities do.",
+      "quote": "This includes universities in the United States, United Kingdom, Canada, Australia, or New Zealand, and many (although not all) universities in India, Singapore, and Nigeria.",
+      "url": "https://www.mccormick.northwestern.edu/materials-science/academics/graduate/phd/admissions.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission and funding decisions are made by a committee, and faculty do not influence them.",
+      "quote": "All decisions on admission and financial support are made by a committee, and individual faculty members do not influence this process.",
+      "url": "https://www.mccormick.northwestern.edu/materials-science/academics/graduate/phd/admissions.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most PhD students are admitted with research assistantships or fellowships.",
+      "quote": "Most PhD students are admitted with research assistantships and/or fellowships.",
+      "url": "https://www.mccormick.northwestern.edu/materials-science/academics/graduate/phd/admissions.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not required for PhD admission at McCormick.",
+      "quote": "a master’s is not required for PhD admission",
+      "url": "https://www.mccormick.northwestern.edu/academics/graduate/admissions/index.html"
+    }
+  },
+  "notes": "Materials' 90 IBT and the 2026 4.5 rule conflict; the conflict flag is set on toefl_min."
+}

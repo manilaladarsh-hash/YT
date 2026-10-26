@@ -1,0 +1,66 @@
+{
+  "id": "northwestern",
+  "institution": "Northwestern University",
+  "country": "USA",
+  "region": "Illinois",
+  "grad_page": "https://www.mccormick.northwestern.edu/academics/graduate/admissions/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "95 USD",
+      "value": "The application fee is $95, paid by credit card at submission.",
+      "quote": "The application fee is $95 and must be paid via credit card at the time of application submission.",
+      "url": "https://www.nuin.northwestern.edu/prospective-students/how-to-apply.html",
+      "also": [
+        {
+          "quote": "The fee for an application is $95.",
+          "url": "https://www.mccormick.northwestern.edu/mechanical/academics/graduate/prospective-phd/how-to-apply.html"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "The Graduate School cannot give international applicants a fee waiver at this time.",
+      "quote": "The Graduate School is unable to offer fee waivers to international applicants at this time.",
+      "url": "https://www.mccormick.northwestern.edu/biomedical/academics/graduate/phd/admissions.html",
+      "also": [
+        {
+          "quote": "Application fee waivers are available from The Graduate School for eligible applicants.",
+          "url": "https://www.nuin.northwestern.edu/prospective-students/how-to-apply.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each department; the GRE rule is on each program record.",
+      "quote": "",
+      "url": "https://www.mccormick.northwestern.edu/academics/graduate/admissions/index.html"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "The McCormick checklist sets 90 for PhD applicants, but the BME and ECE pages give 4.5 for tests taken after January 21, 2026, so the sources conflict.",
+      "quote": "The minimum Internet-based TOEFL scores are 90 for PhD applicants and 80 for MS applicants.",
+      "url": "https://www.mccormick.northwestern.edu/academics/graduate/admissions/application-checklist.html",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "If taken after January 21, 2026: 4.5 or better",
+          "url": "https://www.mccormick.northwestern.edu/biomedical/academics/graduate/phd/admissions.html"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic 7.0 is required.",
+      "quote": "Applicants may also provide an IELTS score; 7.0 is required.",
+      "url": "https://www.mccormick.northwestern.edu/academics/graduate/admissions/application-frequently-asked-questions.html"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "A BS or MS from a university where English is the language of instruction counts as proof of English, so an English-medium Indian degree qualifies.",
+      "quote": "Applicants may also use the completion of a BS or MS degree where English is the language of instruction at the university as proof of proficiency.",
+      "url": "https://www.mccormick.northwestern.edu/academics/graduate/admissions/application-frequently-asked-questions.html"
+    }
+  },
+  "notes": "The Graduate School (tgs.northwestern.edu) and catalogs.northwestern.edu returned 502 from the fetcher, so the university rules come from McCormick's admissions pages (which say they apply to Graduate School PhD applicants) and two school pages (NUIN fee and waiver). McCormick's FAQ GRE line refers to 2023 admissions, so no university GRE value is taken. Sources conflict on the TOEFL minimum (90 vs 4.5 from Jan 2026)."
+}

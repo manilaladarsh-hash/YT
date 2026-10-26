@@ -1,0 +1,73 @@
+{
+  "id": "northwestern--math",
+  "university": "northwestern",
+  "field": "math",
+  "also_fields": [],
+  "department": "Engineering Sciences and Applied Mathematics",
+  "program_page": "https://www.mccormick.northwestern.edu/applied-math/academics/graduate/phd/admissions.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page gives a December 31 deadline with no year, tied only to 'the following Fall', so no Fall 2027 date is taken.",
+      "quote": "",
+      "url": "https://www.mccormick.northwestern.edu/applied-math/academics/graduate/phd/admissions.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The only GRE statement is for Fall 2024 admissions, so no current rule is taken.",
+      "quote": "",
+      "url": "https://www.mccormick.northwestern.edu/applied-math/academics/graduate/phd/admissions.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject test.",
+      "quote": "",
+      "url": "https://www.mccormick.northwestern.edu/applied-math/academics/graduate/phd/admissions.html"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "The page sets 100 on the internet-based TOEFL, which conflicts with the 90 and 4.5 rules on other McCormick pages.",
+      "quote": "100 or higher on the Internet-based test",
+      "url": "https://www.mccormick.northwestern.edu/applied-math/academics/graduate/phd/admissions.html",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "The minimum Internet-based TOEFL scores are 90 for PhD applicants and 80 for MS applicants.",
+          "url": "https://www.mccormick.northwestern.edu/academics/graduate/admissions/application-checklist.html"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS of 7.0 or higher is required.",
+      "quote": "On the IELTS, an applicant must score 7.0 or higher.",
+      "url": "https://www.mccormick.northwestern.edu/applied-math/academics/graduate/phd/admissions.html"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "Applicants whose degree comes from an institution where English is the language of instruction do not need TOEFL or IELTS.",
+      "quote": "All international students whose degrees are not from institutions where the language of instruction is English must take the TOEFL or IELTS exam.",
+      "url": "https://www.mccormick.northwestern.edu/applied-math/academics/graduate/phd/admissions.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not state a supervisor rule.",
+      "quote": "",
+      "url": "https://www.mccormick.northwestern.edu/applied-math/academics/graduate/phd/admissions.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "After the first year, most PhD students receive teaching or research assistantships while they make satisfactory progress.",
+      "quote": "After the first year, most PhD students receive funding either through teaching and/or research assistantships that will continue as long as students are making satisfactory progress toward their degrees.",
+      "url": "https://www.mccormick.northwestern.edu/applied-math/academics/graduate/phd/admissions.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not required for PhD admission at McCormick.",
+      "quote": "a master’s is not required for PhD admission",
+      "url": "https://www.mccormick.northwestern.edu/academics/graduate/admissions/index.html"
+    }
+  },
+  "notes": "Only the applied-mathematics PhD is saved as 'math'; the department's GRE and TOEFL pages are dated (Fall 2024)."
+}

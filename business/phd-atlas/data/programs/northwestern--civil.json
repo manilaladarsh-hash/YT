@@ -1,0 +1,73 @@
+{
+  "id": "northwestern--civil",
+  "university": "northwestern",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Civil and Environmental Engineering",
+  "program_page": "https://www.mccormick.northwestern.edu/civil-environmental/academics/phd/admissions/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page gives a December 15, 2026 deadline, but its test-score line refers to Fall 2026 admissions, so the cycle is unclear.",
+      "quote": "",
+      "url": "https://www.mccormick.northwestern.edu/civil-environmental/academics/phd/admissions/index.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The page says the department will not use GRE results for 2026 PhD admission, but the cycle is unclear.",
+      "quote": "",
+      "url": "https://www.mccormick.northwestern.edu/civil-environmental/academics/phd/admissions/index.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject test.",
+      "quote": "",
+      "url": "https://www.mccormick.northwestern.edu/civil-environmental/academics/phd/admissions/index.html"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "The page asks for 90 on the internet-based TOEFL, which conflicts with the 4.5 new-scale minimum on the BME and ECE pages.",
+      "quote": "To meet the admission requirement, a PhD applicant should score 90 or higher.",
+      "url": "https://www.mccormick.northwestern.edu/civil-environmental/academics/phd/admissions/index.html",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "If taken after January 21, 2026: 4.5 or better",
+          "url": "https://www.mccormick.northwestern.edu/biomedical/academics/graduate/phd/admissions.html"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "PhD applicants should score 7 or higher on IELTS.",
+      "quote": "To meet the admission requirement, PhD applicants should score 7 or higher.",
+      "url": "https://www.mccormick.northwestern.edu/civil-environmental/academics/phd/admissions/index.html"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "A degree from an institution where English is the language of instruction satisfies the English requirement.",
+      "quote": "Required for international students who did not complete a degree from an institution where the language of instruction is English.",
+      "url": "https://www.mccormick.northwestern.edu/civil-environmental/academics/phd/admissions/index.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not state a supervisor rule.",
+      "quote": "",
+      "url": "https://www.mccormick.northwestern.edu/civil-environmental/academics/phd/admissions/index.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not state a PhD funding rule.",
+      "quote": "",
+      "url": "https://www.mccormick.northwestern.edu/civil-environmental/academics/phd/admissions/index.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not required for PhD admission at McCormick.",
+      "quote": "a master’s is not required for PhD admission",
+      "url": "https://www.mccormick.northwestern.edu/academics/graduate/admissions/index.html"
+    }
+  },
+  "notes": "The CEE page mixes a December 15, 2026 deadline with Fall 2026 test-score wording, so deadline and GRE are Not stated."
+}

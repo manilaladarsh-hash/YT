@@ -1,0 +1,55 @@
+{
+  "id": "northwestern--biomed",
+  "university": "northwestern",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Walter S. and Lucienne Driskill Graduate Training Program in Life Sciences (DGP)",
+  "program_page": "https://www.feinberg.northwestern.edu/sites/dgp/prospective-students/admissions-and-application/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page gives a November 15 deadline with no year, so no Fall 2027 date is taken.",
+      "quote": "",
+      "url": "https://www.feinberg.northwestern.edu/sites/dgp/prospective-students/admissions-and-application/index.html"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The DGP no longer requires GRE scores, and submitting them is optional.",
+      "quote": "We would like to stress that submission of scores is truly optional.",
+      "url": "https://www.feinberg.northwestern.edu/sites/dgp/prospective-students/admissions-and-application/index.html",
+      "also": [
+        {
+          "quote": "The DGP no longer requires the submission of GRE general or subject tests.",
+          "url": "https://www.feinberg.northwestern.edu/sites/dgp/prospective-students/admissions-and-application/index.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "Subject GRE scores are optional.",
+      "quote": "We would like to stress that submission of scores is truly optional.",
+      "url": "https://www.feinberg.northwestern.edu/sites/dgp/prospective-students/admissions-and-application/index.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All students entering the program are initially supported by a Northwestern fellowship with a stipend and full tuition, and continued support is guaranteed while they make satisfactory progress.",
+      "quote": "All students entering the Walter S. and Lucienne Driskill Graduate Training Program in Life Sciences, including foreign nationals, are initially supported by a Northwestern University fellowship that provides a living stipend and full tuition support. | Students are guaranteed continued support throughout their graduate career as long as they continue to make satisfactory progress toward the PhD degree.",
+      "url": "https://www.feinberg.northwestern.edu/sites/dgp/prospective-students/financial-support.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not state a supervisor rule.",
+      "quote": "",
+      "url": "https://www.feinberg.northwestern.edu/sites/dgp/prospective-students/admissions-and-application/index.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not state whether a master's is needed.",
+      "quote": "",
+      "url": "https://www.feinberg.northwestern.edu/sites/dgp/prospective-students/admissions-and-application/index.html"
+    }
+  },
+  "notes": "The DGP admissions page gives no English, fee or supervisor rule; its deadline is undated. Not saved: the Health Sciences Integrated PhD (separate page, not fetched).",
+  "name": "Driskill Graduate Program in Life Sciences"
+}
