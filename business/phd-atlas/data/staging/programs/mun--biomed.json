@@ -1,0 +1,49 @@
+{
+  "id": "mun--biomed",
+  "university": "mun",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Division of BioMedical Sciences, Faculty of Medicine",
+  "program_page": "https://www.mun.ca/become/graduate/programs-and-courses/bioscience-of-health-and-disease/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "No specific deadline is published for this PhD.",
+      "quote": "Application Deadline: No specific deadline",
+      "url": "https://www.mun.ca/become/graduate/programs-and-courses/bioscience-of-health-and-disease/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned for this program.",
+      "quote": "",
+      "url": "https://www.mun.ca/become/graduate/programs-and-courses/bioscience-of-health-and-disease/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly encouraged to contact a potential supervisor before applying, and the program requires a primary supervisor.",
+      "quote": "Applicants are strongly encouraged to connect with a potential faculty supervisor prior to application",
+      "url": "https://www.mun.ca/become/graduate/programs-and-courses/bioscience-of-health-and-disease/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Memorial describes competitive funding packages; the program lists a minimum PhD stipend of $17,500 a year for four years.",
+      "quote": "Memorial University offers competitive funding packages to academically eligible full-time graduate students, both Canadian and international, in all eligible research programs",
+      "url": "https://www.mun.ca/become/graduate/tuition-fees-and-funding/graduate-funding--scholarships/",
+      "also": [
+        {
+          "quote": "PhD (full-time study): $17,500 / year for 4 years (minimum)",
+          "url": "https://www.mun.ca/become/graduate/programs-and-courses/bioscience-of-health-and-disease/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "PhD applicants need a master's degree in an appropriate area.",
+      "quote": "PhD – Master’s degree in an appropriate area of study",
+      "url": "https://www.mun.ca/become/graduate/programs-and-courses/bioscience-of-health-and-disease/"
+    }
+  },
+  "notes": "Covers the Division of BioMedical Sciences PhD in Bioscience of Health and Disease. Immunology and Infectious Diseases (no specific deadline, $17,500 minimum PhD stipend) and Human Genetics and Genomics (same stipend) run in the same faculty but are not saved as separate records. Cardiovascular and Renal Sciences was not readable: https://www.mun.ca/become/graduate/programs-and-courses/cardiovascular-and-renal-sciences/ returns 404. Clinical Epidemiology, Community Health and Pharmacy are not mapped to a STEM field. Biochemistry (March 1 Fall) is a separate department and is not saved here.",
+  "name": "Bioscience of Health and Disease"
+}

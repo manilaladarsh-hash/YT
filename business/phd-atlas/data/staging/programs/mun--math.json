@@ -1,0 +1,57 @@
+{
+  "id": "mun--math",
+  "university": "mun",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Department of Mathematics and Statistics",
+  "program_page": "https://www.mun.ca/math/graduate-students/application-procedures/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall applications, with the fee and all documents, must reach the department by January 15.",
+      "quote": "If you are applying for September (i.e. Fall) admission, then you should make sure that we have received all of your application materials (including transcripts, letters of appraisal, and the application fee) by January 15",
+      "url": "https://www.mun.ca/math/graduate-students/application-procedures/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department says it does not require GRE scores.",
+      "quote": "No, we do not require GRE scores",
+      "url": "https://www.mun.ca/math/graduate-students/application-procedures/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department says it does not require GRE scores, so no subject test is needed.",
+      "quote": "No, we do not require GRE scores",
+      "url": "https://www.mun.ca/math/graduate-students/application-procedures/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly encouraged to contact a faculty supervisor when applying.",
+      "quote": "Graduate applicants interested in research-based programs are strongly encouraged to connect with a faculty supervisor at the time of application",
+      "url": "https://www.mun.ca/become/graduate/programs-and-courses/mathematics-and-statistics/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Memorial describes competitive funding packages for eligible full-time PhD students; the PhD is listed at $22,300 a year.",
+      "quote": "Memorial University offers competitive funding packages to academically eligible full-time graduate students, both Canadian and international, in all eligible research programs",
+      "url": "https://www.mun.ca/become/graduate/tuition-fees-and-funding/graduate-funding--scholarships/",
+      "also": [
+        {
+          "quote": "PhD: $22,300",
+          "url": "https://www.mun.ca/become/graduate/programs-and-courses/mathematics-and-statistics/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Students normally finish a master's before a PhD here.",
+      "quote": "It is normal for students to first obtain a Master's degree before being admitted into one of our PhD programs",
+      "url": "https://www.mun.ca/math/graduate-students/application-procedures/"
+    }
+  },
+  "notes": "Covers PhD in Mathematics and Statistics. The deadlines table also lists Mathematics (PhD) for Winter (August 15). The department page gives older TOEFL section minimums (19 reading, listening and speaking; 24 writing) as one acceptable proof, which conflicts with the university 80 overall; the university rule was kept."
+}

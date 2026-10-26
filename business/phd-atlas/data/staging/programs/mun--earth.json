@@ -1,0 +1,50 @@
+{
+  "id": "mun--earth",
+  "university": "mun",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Earth Sciences",
+  "program_page": "https://www.mun.ca/become/graduate/programs-and-courses/earth-sciences/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall applications for the PhD in geology or geophysics close January 15.",
+      "quote": "January 15 for Spring and Fall admission",
+      "url": "https://www.mun.ca/become/graduate/programs-and-courses/earth-sciences/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned for earth sciences.",
+      "quote": "",
+      "url": "https://www.mun.ca/become/graduate/programs-and-courses/earth-sciences/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly encouraged to connect with a faculty supervisor at the time of application.",
+      "quote": "Graduate applicants interested in research-based programs are strongly encouraged to connect with a faculty supervisor at the time of application",
+      "url": "https://www.mun.ca/become/graduate/programs-and-courses/earth-sciences/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Memorial describes competitive funding packages; the earth sciences page lists a PhD stipend of about $21,800 a year.",
+      "quote": "Memorial University offers competitive funding packages to academically eligible full-time graduate students, both Canadian and international, in all eligible research programs",
+      "url": "https://www.mun.ca/become/graduate/tuition-fees-and-funding/graduate-funding--scholarships/",
+      "also": [
+        {
+          "quote": "PhD: $21,800",
+          "url": "https://www.mun.ca/become/graduate/programs-and-courses/earth-sciences/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Successful PhD applicants normally hold an MSc, though exceptional BSc students may be considered.",
+      "quote": "Successful applicants to the PhD program will normally have completed an MSc degree, although exceptionally well-qualified BSc students will be considered for direct entry to the PhD program",
+      "url": "https://www.mun.ca/earthsciences/graduate-students/general-information/"
+    }
+  },
+  "notes": "The department's general-information page gives a PhD stipend of $21,600 a year, which differs from the $21,800 on the program page. That page also gives an old paper-scale TOEFL minimum of 550 with a waiver after two years of English-language study; the university 80 iBT rule is used. Covers both Geology and Geophysics.",
+  "name": "Earth Sciences (Geology and Geophysics)"
+}

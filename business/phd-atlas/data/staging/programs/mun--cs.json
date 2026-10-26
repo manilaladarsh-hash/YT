@@ -1,0 +1,49 @@
+{
+  "id": "mun--cs",
+  "university": "mun",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.mun.ca/computerscience/graduate-students/graduate-programs/phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall applications for the PhD are due December 1; later ones need a supervisor's support.",
+      "quote": "Computer Science (all programs) December 1 Fall",
+      "url": "https://www.mun.ca/become/graduate/apply-to-memorial/application-deadlines/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned for the computer science PhD.",
+      "quote": "",
+      "url": "https://www.mun.ca/computerscience/graduate-students/graduate-programs/phd/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A supervisor must secure your funding before you can be admitted; NSERC or similar government funding is accepted instead.",
+      "quote": "Students are selected based on academic excellence and can only be admitted after they have secured financing from a thesis supervisor",
+      "url": "https://www.mun.ca/computerscience/graduate-students/graduate-programs/phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding comes through a supervisor and the university describes competitive packages; the PhD is listed at $24,000 a year.",
+      "quote": "Memorial University offers competitive funding packages to academically eligible full-time graduate students, both Canadian and international, in all eligible research programs",
+      "url": "https://www.mun.ca/become/graduate/tuition-fees-and-funding/graduate-funding--scholarships/",
+      "also": [
+        {
+          "quote": "PhD: $24,000",
+          "url": "https://www.mun.ca/become/graduate/programs-and-courses/computer-science/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants are expected to hold a master's in computer science or a related field.",
+      "quote": "Applicants to this program are expected to have completed a Master’s degree in Computer Science or a related field",
+      "url": "https://www.mun.ca/computerscience/graduate-students/graduate-programs/phd/"
+    }
+  },
+  "notes": "PhD starts in September, January or May. The department's PhD deadlines are Dec 1 (Fall), Apr 1 (Winter), Aug 1 (Spring). The deadlines table lists Scientific Computing (MSc, PhD) for Feb 15 Fall, an interdisciplinary program not saved here. Data Science (MDSc) and AI (MAI) are master's only, so no datasci record."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mun--physics",
+  "university": "mun",
+  "field": "physics",
+  "also_fields": [
+    "environment"
+  ],
+  "department": "Department of Physics and Physical Oceanography",
+  "program_page": "https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/44/35/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Fall applications for Physics and Physical Oceanography are due February 1.",
+      "quote": "Physics (MSc, PhD) & Physical Oceanography (MSc, PhD) February 1 Fall",
+      "url": "https://www.mun.ca/become/graduate/apply-to-memorial/application-deadlines/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages checked do not mention a GRE Physics subject test.",
+      "quote": "",
+      "url": "https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/44/35/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "The apply page encourages research applicants to review potential supervisors before applying; the physics department pages were blocked.",
+      "quote": "we would encourage you to review our contact potential supervisors page",
+      "url": "https://www.mun.ca/become/graduate/apply-to-memorial/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Memorial describes its graduate funding packages as competitive for eligible full-time PhD students; no physics-specific amount was readable.",
+      "quote": "Memorial University offers competitive funding packages to academically eligible full-time graduate students, both Canadian and international, in all eligible research programs",
+      "url": "https://www.mun.ca/become/graduate/tuition-fees-and-funding/graduate-funding--scholarships/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A PhD normally requires a master's degree in an appropriate area.",
+      "quote": "To be considered for admission to a Ph.D. program, the minimum requirements will normally be a Master's degree from a university of recognized standing, in an appropriate area of study",
+      "url": "https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/4/1/"
+    }
+  },
+  "notes": "Physics dept pages are a maintenance page and were not readable: https://www.mun.ca/physics/graduate-students/information-for-prospective-graduate-students/ and https://www.mun.ca/become/graduate/programs-and-courses/physics-and-physical-oceanography/. Calendar 44.35 says the PhD is offered in Physical Oceanography and in Physics, and the department participates in Theoretical Physics (no set deadline) and Scientific Computing. The Fall deadline is from the official deadlines table. Department supervisor, funding and GRE rules are unknown."
+}

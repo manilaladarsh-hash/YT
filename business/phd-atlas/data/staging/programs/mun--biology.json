@@ -1,0 +1,49 @@
+{
+  "id": "mun--biology",
+  "university": "mun",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://www.mun.ca/biology/graduate-students/application/admission/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-31",
+      "value": "Fall applications for the Biology PhD are due January 31.",
+      "quote": "Biology (MSc, PhD) January 31 Fall, Spring",
+      "url": "https://www.mun.ca/become/graduate/apply-to-memorial/application-deadlines/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned for biology.",
+      "quote": "",
+      "url": "https://www.mun.ca/biology/graduate-students/application/admission/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A biology faculty member must agree to supervise you before admission.",
+      "quote": "A Biology faculty member must agree to supervise the student",
+      "url": "https://www.mun.ca/biology/graduate-students/application/admission/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Memorial describes competitive funding packages; admission also needs adequate funds, and the PhD is listed at $23,500 a year.",
+      "quote": "Memorial University offers competitive funding packages to academically eligible full-time graduate students, both Canadian and international, in all eligible research programs",
+      "url": "https://www.mun.ca/become/graduate/tuition-fees-and-funding/graduate-funding--scholarships/",
+      "also": [
+        {
+          "quote": "PhD: $23,500",
+          "url": "https://www.mun.ca/become/graduate/programs-and-courses/biology/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Admitted PhD students normally hold a biology master's or equivalent.",
+      "quote": "Students admitted to the PhD program normally hold a biology M.Sc. degree (or equivalent)",
+      "url": "https://www.mun.ca/biology/graduate-students/application/admission/"
+    }
+  },
+  "notes": "Marine Biology (MSc, PhD, no set deadline) and Cognitive and Behavioural Ecology (MSc, PhD, Jan 31) are separate programs, so they are not saved here; the biology page says CABE and ENVS applicants must apply to those programs directly."
+}

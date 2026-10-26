@@ -1,0 +1,47 @@
+{
+  "id": "otago",
+  "institution": "University of Otago",
+  "country": "New Zealand",
+  "region": "Otago",
+  "grad_page": "https://ask.otago.ac.nz/knowledgebase/article/KA-10000271",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No fetchable official page quotes an application fee for PhD applicants.",
+      "quote": "",
+      "url": "https://ask.otago.ac.nz/knowledgebase/article/KA-10000271"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No fetchable official page describes an international fee waiver for PhD applicants.",
+      "quote": "",
+      "url": "https://ask.otago.ac.nz/knowledgebase/article/KA-10000271"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No fetchable official page sets a GRE General rule.",
+      "quote": "",
+      "url": "https://ask.otago.ac.nz/knowledgebase/article/KA-10000271"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The official language requirements page could not be fetched, so no TOEFL minimum is known.",
+      "quote": "",
+      "url": "https://ask.otago.ac.nz/knowledgebase/article/KA-10000271"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The official language requirements page could not be fetched, so no IELTS minimum is known.",
+      "quote": "",
+      "url": "https://ask.otago.ac.nz/knowledgebase/article/KA-10000271"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "No fetchable official page says whether an English-medium degree from India waives the English test.",
+      "quote": "",
+      "url": "https://ask.otago.ac.nz/knowledgebase/article/KA-10000271"
+    }
+  },
+  "notes": "Only AskOtago (ask.otago.ac.nz) pages could be read. Every www.otago.ac.nz page returns a Cloudflare 'Performing security verification' 403 to the cached fetcher, so the graduate school's fee, English, GRE and doctoral programme-list pages were not read. Blocked URLs: https://www.otago.ac.nz/graduate-research/study/phddoctoral/programme (doctoral programme list); https://www.otago.ac.nz/graduate-research/study/phddoctoral/programme/phd-application-process; https://www.otago.ac.nz/physics/postgraduate/postgraduate-degrees/phd; https://www.otago.ac.nz/study/entry-requirements/language-requirements; https://www.otago.ac.nz/graduate-research/study/otago017181.html (fee information); https://www.otago.ac.nz/courses/scholarships/phd; https://www.otago.ac.nz/courses/scholarships/university-of-otago-doctoral-scholarship; https://www.otago.ac.nz/postgraduate-study/database/university-of-otago-doctoral-scholarship. Programme admissions database (https://ask.otago.ac.nz/knowledgebase/article/KA-10003727/en-us) returns 'Article unavailable'. AskOtago's PhD article says 'Each have their own admission criteria', so the university-wide fields are left Not stated rather than inferred. Rules that AskOtago does state (supervisor first, scholarship competition) are recorded on the program record."
+}

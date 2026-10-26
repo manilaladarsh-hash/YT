@@ -1,0 +1,50 @@
+{
+  "id": "mun--civil",
+  "university": "mun",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Civil Engineering",
+  "program_page": "https://www.mun.ca/engineering/graduate/programs/civil-engineering/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall applications for engineering MEng and PhD programs are due December 1.",
+      "quote": "Engineering & Applied Science (MEng, PhD) December 1 Fall",
+      "url": "https://www.mun.ca/become/graduate/apply-to-memorial/application-deadlines/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned for engineering.",
+      "quote": "",
+      "url": "https://www.mun.ca/engineering/graduate/programs/civil-engineering/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants interested in research programs are strongly encouraged to contact a supervisor when applying.",
+      "quote": "Graduate applicants interested in research-based programs are strongly encouraged to connect with a faculty supervisor at the time of application",
+      "url": "https://www.mun.ca/become/graduate/programs-and-courses/engineering-and-applied-science/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "The faculty describes competitive financial packages for eligible full-time PhD students, with a minimum of $22,000 a year.",
+      "quote": "Memorial University offers competitive financial packages to academically eligible full-time graduate students, both Canadian and international",
+      "url": "https://www.mun.ca/engineering/graduate/funding-and-scholarships/",
+      "also": [
+        {
+          "quote": "PhD – minimum $22,000 dollars per annum",
+          "url": "https://www.mun.ca/engineering/graduate/funding-and-scholarships/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "PhD applicants normally hold a master's degree in an appropriate area.",
+      "quote": "To be considered for admission to a PhD program, the minimum requirements will normally be a Master's degree from a university of recognized standing, in an appropriate area of study",
+      "url": "https://www.mun.ca/engineering/graduate/programs/civil-engineering/"
+    }
+  },
+  "notes": "Engineering deadline is the faculty-wide December 1 Fall row.",
+  "name": "Civil Engineering (MEng, PhD)"
+}

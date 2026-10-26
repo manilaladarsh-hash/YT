@@ -1,0 +1,49 @@
+{
+  "id": "mun--environment",
+  "university": "mun",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Environmental Science Program (Faculty of Science)",
+  "program_page": "https://www.mun.ca/become/graduate/programs-and-courses/environmental-science/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Fall applications for the PhD close February 1.",
+      "quote": "February 1 for Fall admission",
+      "url": "https://www.mun.ca/become/graduate/programs-and-courses/environmental-science/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned for environmental science.",
+      "quote": "",
+      "url": "https://www.mun.ca/become/graduate/programs-and-courses/environmental-science/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must find a faculty supervisor who confirms they will supervise you before you apply.",
+      "quote": "Applicants must identify a supervisor before submitting their application and the supervisor must confirm that they are willing to supervise the applicant",
+      "url": "https://www.mun.ca/become/graduate/programs-and-courses/environmental-science/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Memorial describes competitive funding packages; the program lists a PhD amount of $20,000 a year.",
+      "quote": "Memorial University offers competitive funding packages to academically eligible full-time graduate students, both Canadian and international, in all eligible research programs",
+      "url": "https://www.mun.ca/become/graduate/tuition-fees-and-funding/graduate-funding--scholarships/",
+      "also": [
+        {
+          "quote": "PhD: $20,000",
+          "url": "https://www.mun.ca/become/graduate/programs-and-courses/environmental-science/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "PhD entry normally requires an MSc from a recognized institution.",
+      "quote": "Normally, students entering the Ph.D. program in Environmental Science will have a M.Sc. degree from an institution recognized by the Senate",
+      "url": "https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/44/14/"
+    }
+  },
+  "notes": "Interdisciplinary program run across faculties; the calendar says the supervisory committee must include members of at least two departments. Physical oceanography is part of the Physics and Physical Oceanography record."
+}

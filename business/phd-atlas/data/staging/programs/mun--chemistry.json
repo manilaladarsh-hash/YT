@@ -1,0 +1,61 @@
+{
+  "id": "mun--chemistry",
+  "university": "mun",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.mun.ca/chem/future-students/future-graduate-students/apply-to-graduate-studies-in-chemistry-at-memorial/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "International applicants who need a study permit should apply by February 1 for Fall entry.",
+      "quote": "International students who will require a study permit should apply by February 1",
+      "url": "https://www.mun.ca/chem/future-students/future-graduate-students/apply-to-graduate-studies-in-chemistry-at-memorial/",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "100 CAD",
+      "value": "The chemistry page lists $100 for international students, below the university's CAD$120; confirm which applies.",
+      "quote": "you must pay an application fee ($50 for Canadian students, $100 for international students)",
+      "url": "https://www.mun.ca/chem/future-students/future-graduate-students/apply-to-graduate-studies-in-chemistry-at-memorial/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The chemistry pages checked do not mention the GRE Chemistry subject test.",
+      "quote": "",
+      "url": "https://www.mun.ca/chem/future-students/future-graduate-students/apply-to-graduate-studies-in-chemistry-at-memorial/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to contact a faculty member before applying.",
+      "quote": "You are encouraged to contact a member of our faculty who are you interested in working for as a graduate student",
+      "url": "https://www.mun.ca/chem/future-students/future-graduate-students/apply-to-graduate-studies-in-chemistry-at-memorial/"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "Chemistry asks for English proof only when the bachelor's was not taught in English, so an English-medium degree needs no test.",
+      "quote": "Students whose language of instruction for their baccalaureate degree was not English are required to provide proof of proficiency in English",
+      "url": "https://www.mun.ca/chem/future-students/future-graduate-students/apply-to-graduate-studies-in-chemistry-at-memorial/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Memorial describes competitive funding packages for eligible full-time PhD students; the chemistry PhD is listed at $22,000 a year.",
+      "quote": "Memorial University offers competitive funding packages to academically eligible full-time graduate students, both Canadian and international, in all eligible research programs",
+      "url": "https://www.mun.ca/become/graduate/tuition-fees-and-funding/graduate-funding--scholarships/",
+      "also": [
+        {
+          "quote": "PhD: $22,000",
+          "url": "https://www.mun.ca/become/graduate/programs-and-courses/chemistry/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "PhD applicants normally hold a master's degree in an appropriate area.",
+      "quote": "PhD – Master’s degree in an appropriate area of study",
+      "url": "https://www.mun.ca/become/graduate/programs-and-courses/chemistry/"
+    }
+  },
+  "notes": "Biochemistry (MSc, PhD, deadline March 1 Fall) is a separate department and is not saved here. The chemistry fee and English rule are department values that override the university record."
+}
