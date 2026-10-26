@@ -1,0 +1,47 @@
+{
+  "id": "tuberlin",
+  "institution": "Technische Universität Berlin",
+  "country": "Germany",
+  "region": "Berlin",
+  "grad_page": "https://www.tu.berlin/en/research/advancement-of-junior-scholars/cjs/weitere-seiten/advancement-of-junior-scholars/doctorate",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No application fee is stated on the TU Berlin doctorate pages fetched; the enrolment page lists only semester fees.",
+      "quote": "",
+      "url": "https://www.tu.berlin/en/research/advancement-of-junior-scholars/cjs/weitere-seiten/advancement-of-junior-scholars/doctorate"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application fee or fee waiver is stated on the TU Berlin doctorate pages fetched.",
+      "quote": "",
+      "url": "https://www.tu.berlin/en/research/advancement-of-junior-scholars/cjs/weitere-seiten/advancement-of-junior-scholars/doctorate"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement is stated on the TU Berlin doctorate pages fetched.",
+      "quote": "",
+      "url": "https://www.tu.berlin/en/research/advancement-of-junior-scholars/cjs/weitere-seiten/advancement-of-junior-scholars/doctorate"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "No TOEFL requirement is stated for doctoral applicants on the pages fetched.",
+      "quote": "",
+      "url": "https://www.tu.berlin/en/research/advancement-of-junior-scholars/cjs/weitere-seiten/advancement-of-junior-scholars/doctorate"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "No IELTS requirement is stated for doctoral applicants on the pages fetched.",
+      "quote": "",
+      "url": "https://www.tu.berlin/en/research/advancement-of-junior-scholars/cjs/weitere-seiten/advancement-of-junior-scholars/doctorate"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "No English-test rule for doctoral applicants is stated; the Faculty II regulations only say the dissertation may be written in German or English.",
+      "quote": "",
+      "url": "https://www.tu.berlin/en/research/advancement-of-junior-scholars/cjs/weitere-seiten/advancement-of-junior-scholars/doctorate"
+    }
+  },
+  "notes": "Doctorates are run by the faculties under the general TU Berlin doctoral regulations, except Faculties II and III, which have their own. The enrolment page (studierendensekretariat) lists semester deadlines only. Fetched URLs: https://www.tu.berlin/en/studierendensekretariat/applying-enrolling-for-doctoral-studies (no fee or English rule), https://www.tu.berlin/en/research/advancement-of-junior-scholars/cjs/weitere-seiten/advancement-of-junior-scholars/international (no fee or English rule). Blocked or 404: https://www.tu.berlin/en/go/doctorate, https://www.tu.berlin/en/studying/doctorate, https://www.tu.berlin/en/phd (404)."
+}

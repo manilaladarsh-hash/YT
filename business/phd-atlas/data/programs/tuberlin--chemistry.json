@@ -1,0 +1,48 @@
+{
+  "id": "tuberlin--chemistry",
+  "university": "tuberlin",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry (Faculty II)",
+  "program_page": "https://www.tu.berlin/en/naturwissenschaften/research/doctorate",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No application deadline is published; the faculty asks applicants to register their intention to pursue a doctorate as early as possible.",
+      "quote": "Please register your intention to pursue a doctorate as early as possible",
+      "url": "https://www.tu.berlin/en/naturwissenschaften/research/doctorate"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Faculty II doctorate pages do not mention a Chemistry GRE Subject test.",
+      "quote": "",
+      "url": "https://www.tu.berlin/en/naturwissenschaften/research/doctorate"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must submit a doctoral agreement with your supervisor when you register your intention to pursue a doctorate.",
+      "quote": "In addition, please also submit a doctoral agreement with the supervising person.",
+      "url": "https://www.tu.berlin/en/naturwissenschaften/research/doctorate"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The Faculty II doctorate pages do not say whether PhD students in this field are funded.",
+      "quote": "",
+      "url": "https://www.tu.berlin/en/naturwissenschaften/research/doctorate"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's degree or an equivalent degree in the subject area is the formal prerequisite; academically outstanding bachelor's holders can be admitted by a qualification procedure.",
+      "quote": "Formal prerequisite for the doctoral degree is the successful completion of a Master's program or an equivalent degree in the subject area of the respective doctoral degree.",
+      "url": "https://www.tu.berlin/en/naturwissenschaften/research/doctorate",
+      "also": [
+        {
+          "quote": "Academically outstanding candidates with a bachelor’s degree can be directly admitted to a doctoral degree on the basis ... of a qualification procedure",
+          "url": "https://www.static.tu.berlin/fileadmin/www/10000020/Forschung/Promotion/Promotionsdokumente_zum_Download/Englische_Versionen/Promotionsordnung_Fakultaet_II_vom_15.06.2022_EN.pdf"
+        }
+      ]
+    }
+  },
+  "notes": "Same Faculty II regulations as physics. Chemistry structured programmes listed by Faculty II: BIG-NSE, RTG 2473, MatSEC, SALSA and IMPRS. Those programmes' own admission rules were not fetched."
+}

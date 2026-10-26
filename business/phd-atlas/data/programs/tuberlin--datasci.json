@@ -1,0 +1,42 @@
+{
+  "id": "tuberlin--datasci",
+  "university": "tuberlin",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "BIFOLD Graduate School (Berlin Institute for the Foundations of Learning and Data)",
+  "program_page": "https://www.tu.berlin/en/research/advancement-of-junior-scholars/cjs/weitere-seiten/advancement-of-junior-scholars/doctorate/structured-doctorate",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No BIFOLD-specific deadline was fetched; the structured-doctorate page gives none.",
+      "quote": "",
+      "url": "https://www.tu.berlin/en/research/advancement-of-junior-scholars/cjs/weitere-seiten/advancement-of-junior-scholars/doctorate/structured-doctorate"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned for BIFOLD.",
+      "quote": "",
+      "url": "https://www.tu.berlin/en/research/advancement-of-junior-scholars/cjs/weitere-seiten/advancement-of-junior-scholars/doctorate/structured-doctorate"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Faculty IV requires a written confirmation of supervision from your doctoral supervisor before you can apply as a doctoral candidate; BIFOLD's own page was not fetched.",
+      "quote": "As at most universities, at the Technische Universität Berlin you first need a written confirmation of supervision from your doctoral supervisor.",
+      "url": "https://www.tu.berlin/en/eecs/research/academic-career/doctorate"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The BIFOLD programme's funding is not stated on the pages fetched.",
+      "quote": "",
+      "url": "https://www.tu.berlin/en/research/advancement-of-junior-scholars/cjs/weitere-seiten/advancement-of-junior-scholars/doctorate/structured-doctorate"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's degree or a similar degree in the subject area of the doctorate is the formal requirement under Faculty IV's rules.",
+      "quote": "Master’s degree from a university or a university of applied sciences or a degree of a similar level",
+      "url": "https://www.tu.berlin/en/eecs/research/academic-career/doctorate"
+    }
+  },
+  "notes": "BIFOLD is listed on the structured-doctorate page as a TU Berlin-headed graduate school, and it is the only data or AI doctoral programme found there. Entry and supervisor rules are Faculty IV's; BIFOLD's own admission page was not fetched."
+}

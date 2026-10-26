@@ -1,0 +1,48 @@
+{
+  "id": "tuberlin--mech",
+  "university": "tuberlin",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Faculty V – Mechanical Engineering and Transport Systems",
+  "program_page": "https://www.tu.berlin/en/vm/research/doctoral-studies",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No application deadline is given on the faculty's doctoral studies page.",
+      "quote": "",
+      "url": "https://www.tu.berlin/en/vm/research/doctoral-studies"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned for Faculty V doctorates.",
+      "quote": "",
+      "url": "https://www.tu.berlin/en/vm/research/doctoral-studies"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "The general doctoral regulations require a supervision agreement with your supervisor as part of the application.",
+      "quote": "a supervision agreement (doctoral agreement) will be concluded between the applicant and their supervisor or supervisors",
+      "url": "https://www.tu.berlin/en/research/advancement-of-junior-scholars/cjs/weitere-seiten/advancement-of-junior-scholars/doctorate/doctoral-regulations"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The faculty page does not say whether doctoral candidates are funded.",
+      "quote": "",
+      "url": "https://www.tu.berlin/en/vm/research/doctoral-studies"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "An undergraduate and a master's degree are required; academically outstanding bachelor's holders can be admitted by a qualification procedure.",
+      "quote": "an applicant must have successfully completed an undergraduate degree and a master’s degree",
+      "url": "https://www.tu.berlin/en/research/advancement-of-junior-scholars/cjs/weitere-seiten/advancement-of-junior-scholars/doctorate/doctoral-regulations",
+      "also": [
+        {
+          "quote": "Academically outstanding candidates with a bachelor’s degree, or with a master’s degree taken without first obtaining a bachelor’s, can be directly admitted to a doctoral degree on the basis of a qualification procedure",
+          "url": "https://www.tu.berlin/en/research/advancement-of-junior-scholars/cjs/weitere-seiten/advancement-of-junior-scholars/doctorate/doctoral-regulations"
+        }
+      ]
+    }
+  },
+  "notes": "Faculty V page: \"You can complete one of the following doctorates at our faculty: Doctor of Engineering Sciences (Dr.-Ing.), Doctor of Natural Sciences (Dr. rer. nat.)\". The general TU Berlin regulations apply to Faculty V."
+}
