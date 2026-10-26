@@ -1,0 +1,47 @@
+{
+  "id": "uio",
+  "institution": "University of Oslo",
+  "country": "Norway",
+  "region": "Oslo",
+  "grad_page": "https://www.uio.no/english/research/phd/before-applying/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No application fee is stated; the page only says there is no tuition fee for PhD candidates.",
+      "quote": "",
+      "url": "https://www.uio.no/english/research/phd/before-applying/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application fee or fee waiver is stated on the pages checked.",
+      "quote": "",
+      "url": "https://www.uio.no/english/research/phd/before-applying/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE is not mentioned on the UiO or Faculty of Mathematics and Natural Sciences pages checked.",
+      "quote": "",
+      "url": "https://www.mn.uio.no/english/research/phd/regulations/regulations.html"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "Faculty of Mathematics and Natural Sciences (STEM) requires TOEFL iBT with a minimum total score of 90.",
+      "quote": "with minimum total score of 90",
+      "url": "https://www.mn.uio.no/english/research/phd/regulations/regulations.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Faculty of Mathematics and Natural Sciences (STEM) requires IELTS Academic with a minimum overall band of 6.5.",
+      "quote": "minimum overall band score of 6.5",
+      "url": "https://www.mn.uio.no/english/research/phd/regulations/regulations.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Only English-medium degrees from Nordic countries or the Netherlands waive the test, so an English-medium Indian degree is not exempt.",
+      "quote": "applicants who have completed a Bachelor’s and/or a Master's degree with English as the language of instruction in one of the Nordic countries or the Netherlands",
+      "url": "https://www.mn.uio.no/english/research/phd/regulations/regulations.html"
+    }
+  },
+  "notes": "English and admission rules are set by each faculty; the central UiO PhD regulations set no fee or English rule. These values are the Faculty of Mathematics and Natural Sciences rules (STEM). The Faculty of Medicine differs on the English waiver (see biomed). No application fee is stated anywhere checked. No GRE mention found. Not fetched: separate Mathematics, Geosciences, Biosciences and Chemistry PhD admissions pages (none found)."
+}
