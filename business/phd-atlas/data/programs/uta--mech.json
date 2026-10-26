@@ -1,0 +1,55 @@
+{
+  "id": "uta--mech",
+  "university": "uta",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Mechanical and Aerospace Engineering",
+  "program_page": "https://catalog.uta.edu/engineering/mechanical/graduate/mech-engr-phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants can enter on the BS-entry PhD, which skips the master's, or on the MS-entry PhD.",
+      "quote": "The BS-entry PhD is an accelerated program in which the student bypasses the master's thesis and proceeds directly to dissertation research.",
+      "url": "https://catalog.uta.edu/engineering/mechanical/graduate/mech-engr-phd/",
+      "also": [
+        {
+          "quote": "Doctor of Philosophy in Mechanical Engineering (MS Entry)",
+          "url": "https://catalog.uta.edu/engineering/mechanical/graduate/mech-engr-ms-to-phd/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The mechanical page sets no GRE rule. The aerospace BS-entry PhD requires GRE 153 Verbal and 159 Quantitative for unconditional admission.",
+      "quote": "GRE scores of at least 153 on the Verbal and 159 on the Quantitative subtests.",
+      "url": "https://catalog.uta.edu/engineering/mechanical/graduate/aero-engr-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Fellowships and assistantships go to applicants whose skills fit program needs; no funding is promised to everyone.",
+      "quote": "Applicants who demonstrate skills, experience or interests that meet the needs of the AE Graduate Program will be considered for fellowships or assistantships",
+      "url": "https://catalog.uta.edu/engineering/mechanical/graduate/mech-engr-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "A faculty advisor is needed by the second semester, which is not an admission rule.",
+      "quote": "",
+      "url": "https://catalog.uta.edu/engineering/mechanical/graduate/mech-engr-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is named for mechanical engineering.",
+      "quote": "",
+      "url": "https://catalog.uta.edu/engineering/mechanical/graduate/mech-engr-phd/"
+    },
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page gives no application deadline.",
+      "quote": "",
+      "url": "https://catalog.uta.edu/engineering/mechanical/graduate/mech-engr-phd/"
+    }
+  },
+  "notes": "One record for the Mechanical PhD (BS and MS entry) and the Aerospace PhD (BS and MS entry), which share the department. The aerospace GRE rule is shown on gre_general; the mechanical page is silent on the GRE. The aerospace page gives TOEFL iBT 84 as a preference, not a minimum.",
+  "name": "Mechanical and Aerospace Engineering PhD"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "uta--chemistry",
+  "university": "uta",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Chemistry and Biochemistry",
+  "program_page": "https://catalog.uta.edu/science/chemistry/graduate/chem-phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The PhD is a BS-entry program, so applicants apply straight from a bachelor's degree.",
+      "quote": "Doctor of Philosophy in Chemistry (BS Entry)",
+      "url": "https://catalog.uta.edu/science/chemistry/graduate/chem-phd/",
+      "also": [
+        {
+          "quote": "A satisfactory completion of a Bachelor’s degree or equivalent, official transcripts",
+          "url": "https://catalog.uta.edu/science/chemistry/graduate/chem-phd/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are one route to unconditional admission; the other two routes use faculty letters instead.",
+      "quote": "A satisfactory completion of a Bachelor’s degree or equivalent, official transcripts, and GRE scores, and three letters of recommendation.",
+      "url": "https://catalog.uta.edu/science/chemistry/graduate/chem-phd/",
+      "also": [
+        {
+          "quote": "plus a recommendation from a UT Arlington Chemistry and Biochemistry faculty member",
+          "url": "https://catalog.uta.edu/science/chemistry/graduate/chem-phd/"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Chemistry requires a TOEFL unless the undergraduate degree was in English, and then a waiver depends on recommendation letters.",
+      "quote": "Those who have completed their undergraduate education in English may be eligible for a TOEFL waiver based on the recommendation letters.",
+      "url": "https://catalog.uta.edu/science/chemistry/graduate/chem-phd/",
+      "also": [
+        {
+          "quote": "An applicant whose native language is not English must submit a TOEFL score of at least 550 or a score of at least 213 on the computer-based test",
+          "url": "https://catalog.uta.edu/science/chemistry/graduate/chem-phd/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Scholarships and fellowships go to students with no provisional conditions, on the same criteria as admission.",
+      "quote": "Students that have no provisional admission conditions to meet will be eligible for available scholarship and/or fellowship support.",
+      "url": "https://catalog.uta.edu/science/chemistry/graduate/chem-phd/",
+      "also": [
+        {
+          "quote": "Award of scholarships or fellowships will be based on the same criteria utilized in admission decisions.",
+          "url": "https://catalog.uta.edu/science/chemistry/graduate/chem-phd/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Faculty recommendations matter, but the page sets no supervisor rule for admission.",
+      "quote": "",
+      "url": "https://catalog.uta.edu/science/chemistry/graduate/chem-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is named for chemistry.",
+      "quote": "",
+      "url": "https://catalog.uta.edu/science/chemistry/graduate/chem-phd/"
+    },
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page gives no application deadline.",
+      "quote": "",
+      "url": "https://catalog.uta.edu/science/chemistry/graduate/chem-phd/"
+    }
+  },
+  "notes": "The language section gives only old-scale TOEFL minimums (paper 550, computer 213) and no iBT figure, so the university iBT 79 is not overridden. Scholarship eligibility also requires a 3.0 GPA in the last 60 undergraduate hours (catalog).",
+  "name": "Chemistry PhD (BS Entry)"
+}

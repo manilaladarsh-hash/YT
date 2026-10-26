@@ -1,0 +1,61 @@
+{
+  "id": "uta--bme",
+  "university": "uta",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Bioengineering",
+  "program_page": "https://catalog.uta.edu/engineering/bio/graduate/bioengineering-phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may hold a bachelor's in engineering or science, and the PhD also counts coursework from a master's entry.",
+      "quote": "the bachelor's degree held by applicants to the program may be in engineering, biological, physical, or mathematical sciences",
+      "url": "https://catalog.uta.edu/engineering/bio/graduate/bioengineering-phd/",
+      "also": [
+        {
+          "quote": "a minimum of 38 semester hours of graduate coursework is expected for students entering with an appropriate master's degree",
+          "url": "https://catalog.uta.edu/engineering/bio/graduate/bioengineering-phd/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Needed for unconditional admission: combined score above 308 with verbal at least 146. Probationary admission is possible if only one of the GPA or GRE criteria is missed.",
+      "quote": "GRE Total (quantitative plus verbal) must be greater than 308 with a verbal score of 146 or better.",
+      "url": "https://catalog.uta.edu/engineering/bio/graduate/bioengineering-phd/",
+      "also": [
+        {
+          "quote": "If an applicant meets the criteria for either the GPA or the GRE, but does not meet the minimum criteria for the other, a probationary admission can be granted.",
+          "url": "https://catalog.uta.edu/engineering/bio/graduate/bioengineering-phd/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is named for biomedical engineering.",
+      "quote": "",
+      "url": "https://catalog.uta.edu/engineering/bio/graduate/bioengineering-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page names a track advisor for coursework, not a supervisor who must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.uta.edu/engineering/bio/graduate/bioengineering-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page gives no funding rule for admitted students.",
+      "quote": "",
+      "url": "https://catalog.uta.edu/engineering/bio/graduate/bioengineering-phd/"
+    },
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page gives no application deadline.",
+      "quote": "",
+      "url": "https://catalog.uta.edu/engineering/bio/graduate/bioengineering-phd/"
+    }
+  },
+  "notes": "Catalog page only. The department asks for a TOEFL iBT of 79 or better, the same as the university minimum.",
+  "name": "Biomedical Engineering PhD"
+}

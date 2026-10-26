@@ -1,0 +1,47 @@
+{
+  "id": "uta",
+  "institution": "University of Texas at Arlington",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://catalog.uta.edu/academicregulations/admissions/graduate/graduate.pdf",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "90 USD",
+      "value": "All international applicants pay a non-refundable $90 application evaluation charge.",
+      "quote": "All international students are required to pay a non-refundable $90 application evaluation charge.",
+      "url": "https://catalog.uta.edu/academicregulations/admissions/graduate/graduate.pdf"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The application evaluation charge has no exceptions, so no fee waiver is offered.",
+      "quote": "A non-refundable application evaluation charge is required of all applicants. | There are no exceptions to this policy.",
+      "url": "https://catalog.uta.edu/academicregulations/admissions/graduate/graduate.pdf"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No university-wide GRE rule; each program sets its own, see the program records.",
+      "quote": "The University of Texas at Arlington does not set minimum GRE or GMAT requirements that apply to all students. | Individual programs or departments determine GRE and GMAT requirements for admission to their programs.",
+      "url": "https://catalog.uta.edu/academicregulations/admissions/graduate/graduate.pdf"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Non-native speakers need a TOEFL iBT total of at least 79.",
+      "quote": "achieve a minimum TOEFL iBT total score of 79",
+      "url": "https://catalog.uta.edu/academicregulations/admissions/graduate/graduate.pdf"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Non-native speakers need an IELTS Academic score of at least 6.5.",
+      "quote": "Graduate master’s and doctoral applicants from non-native English speaking countries are expected to submit a score of at least 6.5 on the IELTS",
+      "url": "https://catalog.uta.edu/academicregulations/admissions/graduate/graduate.pdf"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "Applicants who graduated from schools in India need no English test score, so Indian applicants do not submit TOEFL, IELTS or Duolingo.",
+      "quote": "Applicants who have graduated from secondary schools or post-secondary schools in the following countries meet the English language proficiency required for admission and need not submit TOEFL iBT, IELTS or Duolingo examination results | Gambia, Ghana, Gibraltar, Guam, India, Kenya",
+      "url": "https://catalog.uta.edu/academicregulations/admissions/graduate/graduate.pdf"
+    }
+  },
+  "notes": "Source: UT Arlington graduate admissions section of the University Catalog (graduate.pdf). The uta.edu admissions pages returned HTTP 502 during research, so the catalog is the only source. A teaching assistantship still needs TOEFL Speaking 23 or IELTS Speaking 7 (catalog, English Proficiency Requirements for Graduate Teaching Assistants)."
+}

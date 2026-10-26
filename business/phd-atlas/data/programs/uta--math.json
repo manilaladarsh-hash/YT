@@ -1,0 +1,58 @@
+{
+  "id": "uta--math",
+  "university": "uta",
+  "field": "math",
+  "also_fields": [
+    "statistics",
+    "datasci"
+  ],
+  "department": "Mathematics",
+  "program_page": "https://catalog.uta.edu/science/math/graduate/general-math-phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants can enter on the BS-entry or the MS-entry track, with a bachelor's in mathematics or a closely related field.",
+      "quote": "A bachelor's degree in mathematics or in a closely related field.",
+      "url": "https://catalog.uta.edu/science/math/graduate/general-math-phd/",
+      "also": [
+        {
+          "quote": "Doctor of Philosophy in Mathematics (General Math, MS Entry)",
+          "url": "https://catalog.uta.edu/science/math/graduate/math-general-math-ms-entry-phd/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Needed for unconditional admission: at least 143 Verbal and 155 Quantitative on the post-2011 test.",
+      "quote": "Minimum of 143 on the verbal and 155 on the quantitative portions of the GRE if taken after August 2011.",
+      "url": "https://catalog.uta.edu/science/math/graduate/general-math-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Scholarships and fellowships are awarded on the same criteria as admission, to eligible admitted students.",
+      "quote": "Students who are unconditionally admitted or admitted on probation will be eligible for available scholarship and/or fellowship support.",
+      "url": "https://catalog.uta.edu/science/math/graduate/general-math-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page gives no rule on a supervisor before admission.",
+      "quote": "",
+      "url": "https://catalog.uta.edu/science/math/graduate/general-math-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is named for mathematics.",
+      "quote": "",
+      "url": "https://catalog.uta.edu/science/math/graduate/general-math-phd/"
+    },
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page gives no application deadline.",
+      "quote": "",
+      "url": "https://catalog.uta.edu/science/math/graduate/general-math-phd/"
+    }
+  },
+  "notes": "One record for the Mathematics PhD. The General Statistics (statistics) and Data Science (datasci) tracks carry the same GRE and funding wording. The math page asks non-native speakers for TOEFL 550 paper, 213 computer-based, 79 iBT or TSE 40 without naming India; the catalog exemption is used for the university record, so confirm with the department.",
+  "name": "Mathematics PhD (General Math, General Statistics, Data Science)"
+}
