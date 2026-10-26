@@ -1,0 +1,62 @@
+{
+  "id": "temple--biology",
+  "university": "temple",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Biology (College of Science and Technology)",
+  "program_page": "https://bulletin.temple.edu/graduate/scd/cst/biology-phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall: December 1; an essentially complete application is needed by then for a University fellowship.",
+      "quote": "Fall: December 1 | To be considered for a University fellowship, applicants should have an essentially complete application on file by December 1",
+      "url": "https://bulletin.temple.edu/graduate/scd/cst/biology-phd/",
+      "inferred": "year",
+      "time_sensitive": "2026-12-01"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE is recommended but not required; scores help for a University fellowship.",
+      "quote": "GRE: Recommended, but not required",
+      "url": "https://bulletin.temple.edu/graduate/scd/cst/biology-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The bulletin does not mention a subject test.",
+      "quote": "",
+      "url": "https://bulletin.temple.edu/graduate/scd/cst/biology-phd/"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "Biology sets TOEFL iBT 90.",
+      "quote": "must report scores for a standardized test of English that meet these minimums: | TOEFL iBT: 90",
+      "url": "https://bulletin.temple.edu/graduate/scd/cst/biology-phd/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Biology sets IELTS Academic 6.5.",
+      "quote": "IELTS Academic: 6.5",
+      "url": "https://bulletin.temple.edu/graduate/scd/cst/biology-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The bulletin describes a limited number of fellowships and assistantships, but does not say most or all students are funded.",
+      "quote": "",
+      "url": "https://bulletin.temple.edu/graduate/scd/cst/biology-phd/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to contact prospective advisors before applying.",
+      "quote": "Applicants are encouraged to contact prospective advisors or the chair of the graduate program for more information",
+      "url": "https://bulletin.temple.edu/graduate/scd/cst/biology-phd/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's degree is not required.",
+      "quote": "A master's degree is not required",
+      "url": "https://bulletin.temple.edu/graduate/scd/cst/biology-phd/"
+    }
+  },
+  "notes": "The Bioinformatics PhD is administered by Biology but is a separate program, so it is not saved here. A bioinformatics program record was not made because this biology record uses that field."
+}

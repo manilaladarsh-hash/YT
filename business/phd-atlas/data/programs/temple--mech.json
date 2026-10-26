@@ -1,0 +1,69 @@
+{
+  "id": "temple--mech",
+  "university": "temple",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Mechanical Engineering (College of Engineering)",
+  "program_page": "https://bulletin.temple.edu/graduate/scd/engineering/mechanical-engineering-phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Fall applicants: December 15 fellowship consideration, January 15 final, March 1 regular decision. The mechanical bulletin lists March 1 (domestic) and August 1 (international).",
+      "quote": "December 15 – Fellowships Consideration Deadline",
+      "url": "https://engineering.temple.edu/admissions/graduate-admissions",
+      "inferred": "year",
+      "time_sensitive": "2026-12-15"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "From the spring 2027 semester the GRE is optional for PhD applicants; the department bulletin still says required, so this is flagged.",
+      "quote": "Optional for PhD applications beginning spring 2027: Official results of the GRE exam taken within the last five years",
+      "url": "https://engineering.temple.edu/admissions/graduate-admissions",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "GRE: Required. Scores that are not more than 5 years in advance of the application date are sent by Educational Testing Service (ETS) to test code 2945",
+          "url": "https://bulletin.temple.edu/graduate/scd/engineering/mechanical-engineering-phd/"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "The College of Engineering accepts 4.5 overall (current version) or 79 (previous version) on the TOEFL.",
+      "quote": "The minimum scores required are 79 on the TOEFL (previous version) or 4.5 overall (current version) / 6.5 on the IELTS",
+      "url": "https://engineering.temple.edu/admissions/graduate-admissions"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The College of Engineering sets IELTS 6.5.",
+      "quote": "The minimum scores required are 79 on the TOEFL (previous version) or 4.5 overall (current version) / 6.5 on the IELTS",
+      "url": "https://engineering.temple.edu/admissions/graduate-admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to engineering.",
+      "quote": "",
+      "url": "https://bulletin.temple.edu/graduate/scd/engineering/mechanical-engineering-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The bulletin does not state whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://bulletin.temple.edu/graduate/scd/engineering/mechanical-engineering-phd/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A master's degree is preferred but not required, so students can enter from a bachelor's.",
+      "quote": "In the Ph.D. program a master’s degree is preferred but not required",
+      "url": "https://engineering.temple.edu/admissions/graduate-admissions"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "PhD financial aid is awarded on a competitive basis.",
+      "quote": "Three forms of financial aid are awarded to PhD students on a competitive basis",
+      "url": "https://bulletin.temple.edu/graduate/scd/engineering/mechanical-engineering-phd/"
+    }
+  },
+  "notes": "The mechanical bulletin lists Fall March 1 (domestic) and August 1 (international); the College of Engineering page gives the December 15 fellowship round."
+}

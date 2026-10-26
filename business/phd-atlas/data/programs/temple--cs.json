@@ -1,0 +1,63 @@
+{
+  "id": "temple--cs",
+  "university": "temple",
+  "field": "cs",
+  "also_fields": [
+    "datasci"
+  ],
+  "department": "Computer and Information Science (College of Science and Technology)",
+  "program_page": "https://bulletin.temple.edu/graduate/scd/cst/computer-information-science-phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-01",
+      "value": "Fall: November 1; applications are reviewed as they are received, and late applications may be considered.",
+      "quote": "Fall: November 1 | Applications are reviewed as they are received",
+      "url": "https://bulletin.temple.edu/graduate/scd/cst/computer-information-science-phd/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional for this PhD.",
+      "quote": "GRE: Optional",
+      "url": "https://bulletin.temple.edu/graduate/scd/cst/computer-information-science-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The bulletin does not mention a subject test.",
+      "quote": "",
+      "url": "https://bulletin.temple.edu/graduate/scd/cst/computer-information-science-phd/"
+    },
+    "toefl_min": {
+      "code": "85",
+      "value": "Computer and Information Science sets TOEFL iBT 85.",
+      "quote": "must report scores for a standardized test of English that meet these minimums: | TOEFL iBT: 85",
+      "url": "https://bulletin.temple.edu/graduate/scd/cst/computer-information-science-phd/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Computer and Information Science sets IELTS Academic 6.5.",
+      "quote": "IELTS Academic: 6.5",
+      "url": "https://bulletin.temple.edu/graduate/scd/cst/computer-information-science-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The bulletin says assistantships provide a stipend and full-time tuition, but does not say most or all students are funded.",
+      "quote": "",
+      "url": "https://bulletin.temple.edu/graduate/scd/cst/computer-information-science-phd/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A PhD Graduate Faculty member in at least one open track must accept the applicant before admission.",
+      "quote": "acceptance by a PhD Graduate Faculty member in at least one open track is required",
+      "url": "https://bulletin.temple.edu/graduate/scd/cst/computer-information-science-phd/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's degree is not required.",
+      "quote": "A master's degree is not required",
+      "url": "https://bulletin.temple.edu/graduate/scd/cst/computer-information-science-phd/"
+    }
+  },
+  "notes": "The PhD includes an official Artificial Intelligence and Applications track, so datasci is listed here. Advisor acceptance must come before admission."
+}
