@@ -1,0 +1,55 @@
+{
+  "id": "unl--biomed",
+  "university": "unl",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "School of Veterinary Medicine and Biomedical Sciences",
+  "program_page": "https://graduate.unl.edu/academics/programs/IBMS-PHD/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The deadline for Fall 2027 is January 15, 2027.",
+      "quote": "January 15 for Fall.",
+      "url": "https://graduate.unl.edu/academics/programs/IBMS-PHD/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The school requires GRE General scores for admission; scoring above 55 percent in quantitative and verbal is said to help.",
+      "quote": "GRE general test scores.",
+      "url": "https://vbms.unl.edu/graduate-program"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The school sets an Internet-based TOEFL minimum of 79 for non-native speakers.",
+      "quote": "If English is not your native language, a minimum score of 79 (Internet-based) on the TOEFL or 550 (paper-based) is required.",
+      "url": "https://vbms.unl.edu/graduate-program"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are advised to contact potential faculty mentors before applying, especially for assistantships.",
+      "quote": "it's best to contact potential faculty mentors before you apply for admission",
+      "url": "https://vbms.unl.edu/graduate-program"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "The school offers a limited number of stipends, and most student support comes from individual faculty funds.",
+      "quote": "A limited number of stipends are available through SVMBS.",
+      "url": "https://vbms.unl.edu/graduate-program"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not say whether a master's is needed before the PhD.",
+      "quote": "",
+      "url": "https://graduate.unl.edu/academics/programs/IBMS-PHD/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page lists the GRE as an application item but does not say whether a subject test is needed.",
+      "quote": "",
+      "url": "https://graduate.unl.edu/academics/programs/IBMS-PHD/"
+    }
+  },
+  "notes": "Program is run by the School of Veterinary Medicine and Biomedical Sciences, which sets its own GRE and TOEFL rules."
+}
