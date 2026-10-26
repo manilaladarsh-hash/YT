@@ -1,0 +1,56 @@
+{
+  "id": "txstate--ece",
+  "university": "txstate",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Ingram School of Engineering",
+  "program_page": "https://www.gradcollege.txst.edu/programs/electrical-engineering-phd.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "International applicants should apply by February 1, 2027 for priority review; the standard deadline is June 1, 2027.",
+      "quote": "Fall - Priority U.S. CITIZEN February 1 INTERNATIONAL February 1",
+      "url": "https://www.gradcollege.txst.edu/programs/electrical-engineering-phd.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to this field.",
+      "quote": "",
+      "url": "https://www.gradcollege.txst.edu/programs/electrical-engineering-phd.html"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General is required if you enter with a bachelor's from a university other than Texas State; it is not required for Texas State graduates or those with an electrical engineering master's.",
+      "quote": "the applicant must have an official Graduate Record Examination (GRE) general test result report submitted to The Graduate College if entering with a bachelor's degree from any university other than Texas State University",
+      "url": "https://www.gradcollege.txst.edu/programs/electrical-engineering-phd.html",
+      "also": [
+        {
+          "quote": "official GRE (general test only) with competitive scores in verbal, quantitative reasoning and writing sections (required if entering from any university other than Texas State University)",
+          "url": "https://mycatalog.txstate.edu/graduate/science-engineering/ingram-school/electrical-engineering-bs-phd/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission does not need a supervisor; the program director is the initial advisor for each admitted student.",
+      "quote": "The Ph.D. program director serves as the initial advisor of each student accepted into the program",
+      "url": "https://mycatalog.txstate.edu/graduate/science-engineering/ingram-school/electrical-engineering-bs-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Paid assistantships are limited in number.",
+      "quote": "A limited number of paid graduate assistantships are available",
+      "url": "https://mycatalog.txstate.edu/graduate/science-engineering/ingram-school/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Most applicants should hold a master's; exceptional bachelor's applicants are considered but must complete 24 extra master's-level hours.",
+      "quote": "Applicants should have completed a master’s degree in electrical engineering or a closely related discipline from an accredited college or university | Exceptional applicants with a bachelor’s degree in electrical engineering with a competitive GPA",
+      "url": "https://www.gradcollege.txst.edu/programs/electrical-engineering-phd.html"
+    }
+  },
+  "notes": "",
+  "name": "Electrical Engineering PhD"
+}

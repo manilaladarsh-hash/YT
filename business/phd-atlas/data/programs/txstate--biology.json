@@ -1,0 +1,55 @@
+{
+  "id": "txstate--biology",
+  "university": "txstate",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://www.gradcollege.txst.edu/programs/integrative-applied-biology.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "International applicants should apply by February 1, 2027 for priority review; the standard deadline is June 1, 2027.",
+      "quote": "Fall - Priority U.S. CITIZEN February 1 INTERNATIONAL February 1",
+      "url": "https://www.gradcollege.txst.edu/programs/integrative-applied-biology.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE is required, so there is no subject test.",
+      "quote": "GRE not required",
+      "url": "https://www.gradcollege.txst.edu/programs/integrative-applied-biology.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "No GRE General score is required.",
+      "quote": "GRE not required",
+      "url": "https://www.gradcollege.txst.edu/programs/integrative-applied-biology.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must find a faculty mentor who agrees to supervise you, and their intent-to-mentor letter is part of the application.",
+      "quote": "requires an intent to mentor letter (an agreement from one of our faculty members to supervise your research project) as part of the application process",
+      "url": "https://www.gradcollege.txst.edu/programs/integrative-applied-biology.html",
+      "also": [
+        {
+          "quote": "Prospective students must contact doctoral faculty members to identify an individual willing to serve as their major advisor prior to submitting their application to the graduate program",
+          "url": "https://mycatalog.txstate.edu/graduate/science-engineering/biology/aquatic-resources-entering-bachelors-phd/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Doctoral instructional and teaching assistantships are awarded on a competitive basis.",
+      "quote": "offers doctoral instructional assistantships and teaching assistantships on a competitive basis",
+      "url": "https://mycatalog.txstate.edu/graduate/science-engineering/biology/aquatic-resources-entering-bachelors-phd/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants can enter with a bachelor's degree in a natural science field (3.5 GPA) or with a master's in one.",
+      "quote": "Baccalaureate degree in biology, chemistry, engineering, geology, or a related natural science field from a regionally accredited university | Master's degree in biology, chemistry, engineering, geology, or a related natural science field from a regionally accredited university",
+      "url": "https://www.gradcollege.txst.edu/programs/integrative-applied-biology.html"
+    }
+  },
+  "notes": "The Graduate College page also calls this program Aquatic Resources and Integrative Biology."
+}

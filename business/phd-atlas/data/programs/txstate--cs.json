@@ -1,0 +1,61 @@
+{
+  "id": "txstate--cs",
+  "university": "txstate",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.gradcollege.txst.edu/programs/cs-phd.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "International applicants should apply by February 1, 2027 for priority review; the standard deadline is June 1, 2027.",
+      "quote": "Fall - Priority U.S. CITIZEN February 1 INTERNATIONAL February 1",
+      "url": "https://www.gradcollege.txst.edu/programs/cs-phd.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE is required, so there is no subject test.",
+      "quote": "GRE not required",
+      "url": "https://www.gradcollege.txst.edu/programs/cs-phd.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "No GRE General score is required for the PhD.",
+      "quote": "GRE not required",
+      "url": "https://www.gradcollege.txst.edu/programs/cs-phd.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You need a recommendation letter from a Texas State doctoral faculty member, and it must be on file before the deadline.",
+      "quote": "mentor recommendation letter from a current Texas State doctoral faculty member in the computer science program",
+      "url": "https://www.gradcollege.txst.edu/programs/cs-phd.html",
+      "also": [
+        {
+          "quote": "Since admission to this thesis-/dissertation-based program requires an intent to mentor letter (an agreement from one of our faculty members to supervise your research project) as part of the application process",
+          "url": "https://mycatalog.txstate.edu/graduate/science-engineering/computer/computerscience-softwaresystems-enteringbachelors-phd/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding statement on the program pages.",
+      "quote": "",
+      "url": "https://mycatalog.txstate.edu/graduate/science-engineering/computer/computerscience-softwaresystems-enteringbachelors-phd/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants can enter with a bachelor's or a master's in computer science or a related field.",
+      "quote": "Baccalaureate degree in computer science or related field from a regionally accredited university | Master's degree in computer science or related field from a regionally accredited university",
+      "url": "https://www.gradcollege.txst.edu/programs/cs-phd.html"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "The CS PhD requires TOEFL iBT 4.5 overall for tests taken after January 21, 2026, higher than the university's 4.",
+      "quote": "official TOEFL iBT scores required with a 4.5 overall if taken after January 21, 2026",
+      "url": "https://www.gradcollege.txst.edu/programs/cs-phd.html"
+    }
+  },
+  "notes": "Department states its own TOEFL minimum, which overrides the university value."
+}
