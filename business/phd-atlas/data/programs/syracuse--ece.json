@@ -1,0 +1,50 @@
+{
+  "id": "syracuse--ece",
+  "university": "syracuse",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical Engineering and Computer Science",
+  "program_page": "https://ecs.syracuse.edu/academics/graduate-programs/doctor-of-philosophy-in-electrical-and-computer-engineering",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Ph.D. applicants are encouraged to apply by December 15 for the best consideration for admission and financial support.",
+      "quote": "prospective Ph.D. applicants are encouraged to apply as early as possible, and by December 15th to ensure the best consideration for admission and financial support",
+      "url": "https://ecs.syracuse.edu/admissions/graduate/faqs",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional for Fall 2027 applications.",
+      "quote": "This is optional for Spring 2027 and Fall 2027 applications",
+      "url": "https://ecs.syracuse.edu/admissions/graduate/application-requirements"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "",
+      "quote": "",
+      "url": "https://ecs.syracuse.edu/admissions/graduate/application-requirements"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by faculty committees in each department.",
+      "quote": "Graduate admissions decisions are made by faculty committees within each of our departments",
+      "url": "https://ecs.syracuse.edu/admissions/graduate/faqs"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Research and teaching assistantships are awarded on a competitive basis from applications received by December 15.",
+      "quote": "Graduate Assistantships in the form of research assistantships and teaching assistantships are awarded on a competitive basis",
+      "url": "https://ecs.syracuse.edu/admissions/graduate/application-requirements"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "",
+      "quote": "",
+      "url": "https://ecs.syracuse.edu/admissions/graduate/application-requirements"
+    }
+  },
+  "notes": "Deadline, GRE, funding and committee admission come from the engineering school's pages (shared by all its PhDs); the department page itself gives no admissions rules. Entry route is not stated.",
+  "name": "Electrical and Computer Engineering, Ph.D."
+}

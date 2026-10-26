@@ -1,0 +1,65 @@
+{
+  "id": "syracuse",
+  "institution": "Syracuse University",
+  "country": "USA",
+  "region": "New York",
+  "grad_page": "https://ecs.syracuse.edu/admissions/graduate/application-requirements",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "A $75 non-refundable application fee applies to the graduate application.",
+      "quote": "$75 non-refundable application fee",
+      "url": "https://ecs.syracuse.edu/admissions/graduate/application-requirements",
+      "also": [
+        {
+          "quote": "The application fee is $75.",
+          "url": "https://artsandsciences.syracuse.edu/physics/graduate-study/physics-apply-grad-program/"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Automatic waivers are only for McNair Scholars, Fulbright students, U.S. veterans and SU students and alumni. The chemistry page says no application fees will be waived for its 2026 cycle.",
+      "quote": "The Graduate School automatically waives application fees for: McNair Scholars, Fulbright students, U.S. veterans/active-duty U.S. military personnel, and SU students and alumni",
+      "url": "https://artsandsciences.syracuse.edu/biology/graduate-overview/how-apply-ms-or-phd-biology/",
+      "also": [
+        {
+          "quote": "no application fees or English language proficiency exam requirements will be waived",
+          "url": "https://artsandsciences.syracuse.edu/chemistry/chemistry-graduate-overview/chemistry-graduate-admission/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No Graduate School policy was reachable. The engineering school calls the GRE optional, physics does not consider it and math does not consider the general test; see each program.",
+      "quote": "",
+      "url": "https://ecs.syracuse.edu/admissions/graduate/application-requirements"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "No Syracuse-wide TOEFL minimum appears on the fetched pages; the engineering and physics pages give none.",
+      "quote": "",
+      "url": "https://ecs.syracuse.edu/admissions/graduate/application-requirements"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "No Syracuse-wide IELTS minimum appears on the fetched pages.",
+      "quote": "",
+      "url": "https://ecs.syracuse.edu/admissions/graduate/application-requirements"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "Applicants from countries not on the exempt list must submit a test, but India is not named on the quoted text.",
+      "quote": "",
+      "url": "https://ecs.syracuse.edu/admissions/graduate/application-requirements",
+      "also": [
+        {
+          "quote": "Countries That Do Not Require English Language Proficiency Scores",
+          "url": "https://ecs.syracuse.edu/admissions/graduate/application-requirements"
+        }
+      ]
+    }
+  },
+  "notes": "The Graduate School site (gradschool.syracuse.edu) returned a proxy tunnel error and the graduate course catalog returned 502, so this record uses the engineering school's requirements page (same $75 fee and English list as the Arts & Sciences pages). The VPA international page (TOEFL 90, IELTS 6.5) is for the College of Visual and Performing Arts only and is not used here."
+}
