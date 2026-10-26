@@ -1,0 +1,42 @@
+{
+  "id": "uwa--cs",
+  "university": "uwa",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science and Software Engineering",
+  "program_page": "https://www.uwa.edu.au/schools/physics-mathematics-computing/department-of-computer-science-and-software-engineering",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No deadline for international applicants is stated. The 2027 international scholarship round closed on 15 September 2026; applications can be submitted at any time.",
+      "quote": "",
+      "url": "https://www.uwa.edu.au/study/scholarships-and-fees/scholarships/hdr-scholarships"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on the UWA pages fetched for this program.",
+      "quote": "",
+      "url": "https://www.uwa.edu.au/schools/physics-mathematics-computing/department-of-computer-science-and-software-engineering"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admission requires an identified supervisor; UWA calls securing supervision an essential part of admission.",
+      "quote": "Identifying and securing academic supervision is an essential component for admission.",
+      "url": "https://www.uwa.edu.au/study/courses/doctor-of-philosophy"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "UWA research scholarships are awarded through a competitive, merit-based selection process.",
+      "quote": "At UWA we award research scholarships through a competitive merit-based selection process",
+      "url": "https://www.uwa.edu.au/study/courses/doctor-of-philosophy"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "UWA requires adequate research preparation; the fetched pages do not say whether a bachelor's degree alone is enough.",
+      "quote": "",
+      "url": "https://www.uwa.edu.au/study/How-to-apply/Higher-Degree-by-Research"
+    }
+  },
+  "notes": "The department page covers undergraduate courses and research expertise (including AI) but gives no PhD admission rules. Listed PhD projects in the course page include computing topics such as 'Space filling curve based optimization'. No separate data science or AI PhD track was found, so no datasci record was saved."
+}
