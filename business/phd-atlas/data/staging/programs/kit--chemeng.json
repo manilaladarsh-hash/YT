@@ -1,0 +1,48 @@
+{
+  "id": "kit--chemeng",
+  "university": "kit",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "KIT Department of Chemical and Process Engineering",
+  "program_page": "https://www.ciw.kit.edu/english/2165.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No closing date is stated; the candidate must apply within six months of starting work at an institute.",
+      "quote": "",
+      "url": "https://www.ciw.kit.edu/english/2165.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.ciw.kit.edu/english/2165.php"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A written doctoral agreement between the candidate and the supervisor must be attached to the application.",
+      "quote": "between doctoral candidate and supervisor (obligatory since 01-01-2015)",
+      "url": "https://www.ciw.kit.edu/english/2165.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department page does not say how doctoral researchers are funded.",
+      "quote": "",
+      "url": "https://www.ciw.kit.edu/english/2165.php"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Doctoral candidates normally need a German master's-level degree or an equivalent foreign degree; highly qualified bachelor's holders can be admitted under special rules.",
+      "quote": "Graduation at a German university (diploma, Magister, master, or state examination) or an equivalent degree achieved at a university abroad",
+      "url": "https://www.khys.kit.edu/english/admission_requirements.php",
+      "also": [
+        {
+          "quote": "A certified copy of the degree certificate with a transcript of grades (the overall grade must be 2.5 or better)",
+          "url": "https://www.ciw.kit.edu/english/2165.php"
+        }
+      ]
+    }
+  },
+  "notes": "Initial acceptance is for three years, extendable by one year. Foreign degrees need a certificate of equivalence from the International Students Office."
+}

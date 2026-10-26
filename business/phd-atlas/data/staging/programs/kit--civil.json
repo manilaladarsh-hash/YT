@@ -1,0 +1,51 @@
+{
+  "id": "kit--civil",
+  "university": "kit",
+  "field": "civil",
+  "also_fields": [
+    "earth",
+    "environment"
+  ],
+  "department": "KIT Faculty of Civil Engineering, Geo- and Environmental Sciences",
+  "program_page": "https://www.bgu.kit.edu/download/Checklist_Acceptance_PhD_2018.pdf",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No closing date is stated; applications must reach the committee at least 14 days before its meeting.",
+      "quote": "",
+      "url": "https://www.bgu.kit.edu/download/Checklist_Acceptance_PhD_2018.pdf"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The checklist does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.bgu.kit.edu/download/Checklist_Acceptance_PhD_2018.pdf"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A copy of the doctoral agreement must be submitted with the acceptance application; KHYS says the first advisor and the candidate conclude it.",
+      "quote": "a copy of the doctoral agreement",
+      "url": "https://www.bgu.kit.edu/download/Checklist_Acceptance_PhD_2018.pdf",
+      "also": [
+        {
+          "quote": "the first advisor and the doctoral candidate conclude a doctoral agreement",
+          "url": "https://www.khys.kit.edu/english/conclusion_doctoral_agreement.php"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The checklist does not say how doctoral researchers are funded.",
+      "quote": "",
+      "url": "https://www.bgu.kit.edu/download/Checklist_Acceptance_PhD_2018.pdf"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The checklist asks for a Bachelor's and a Master's certificate; a justified request is needed if the degree is outside civil engineering, geosciences or environmental sciences.",
+      "quote": "Bachelor’s and Master‘s Certificate (certificate + transcript of records, no originals needed, copies are ok)",
+      "url": "https://www.bgu.kit.edu/download/Checklist_Acceptance_PhD_2018.pdf"
+    }
+  },
+  "notes": "Source is the faculty's acceptance checklist, which cites the regulations of 30 November 2018; the checklist is dated 2018, so confirm current rules. The checklist covers the whole faculty (civil engineering, geosciences, environmental sciences)."
+}

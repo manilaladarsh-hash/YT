@@ -1,0 +1,42 @@
+{
+  "id": "kit--math",
+  "university": "kit",
+  "field": "math",
+  "also_fields": [],
+  "department": "KIT Department of Mathematics",
+  "program_page": "https://www.math.kit.edu/english/forschung/annahme_dok.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The acceptance page gives no closing date.",
+      "quote": "",
+      "url": "https://www.math.kit.edu/english/forschung/annahme_dok.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page does not mention a Mathematics GRE Subject test.",
+      "quote": "",
+      "url": "https://www.math.kit.edu/english/forschung/annahme_dok.php"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "The application must include a written doctoral agreement between the candidate and the supervisor.",
+      "quote": "Doctoral agreement in writing between the doctoral candidate and the supervisor with a detailed synopsis of about 1-2 pages",
+      "url": "https://www.math.kit.edu/english/forschung/annahme_dok.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department page does not say how doctoral researchers are funded.",
+      "quote": "",
+      "url": "https://www.math.kit.edu/english/forschung/annahme_dok.php"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A diploma or master's certificate is the main route; bachelor's graduates may also apply but must prove scientific qualification.",
+      "quote": "Diploma or master's certificate | Graduates of undergraduate programs or graduates of universities of applied sciences and cooperative state universities additionally have to submit a proof of their scientific qualification",
+      "url": "https://www.math.kit.edu/english/forschung/annahme_dok.php"
+    }
+  },
+  "notes": "Applications go to the Doctoral Admissions Committee through Docata; KHYS registration confirmation is required."
+}
