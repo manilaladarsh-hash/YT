@@ -1,0 +1,57 @@
+{
+  "id": "qut",
+  "institution": "Queensland University of Technology",
+  "country": "Australia",
+  "region": "Queensland",
+  "grad_page": "https://www.qut.edu.au/study/applying/international-applying",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The $100 fee on QUT's international applying guide is for coursework degrees; research degrees are a separate route that the guide does not price.",
+      "quote": "",
+      "url": "https://www.qut.edu.au/study/applying/international-applying",
+      "also": [
+        {
+          "quote": "you can also apply for: ... research degrees",
+          "url": "https://www.qut.edu.au/study/applying/international-applying"
+        },
+        {
+          "quote": "pay a non-refundable application fee of $100",
+          "url": "https://www.qut.edu.au/study/applying/international-applying"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No PhD fee waiver is stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.qut.edu.au/study/applying/international-applying"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement is stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.qut.edu.au/study/applying/international-applying"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The guide says minimum test scores are shown in each course's information, which could not be fetched.",
+      "quote": "You can see the minimum test scores required via your course information.",
+      "url": "https://www.qut.edu.au/study/applying/international-applying"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The guide says minimum test scores are shown in each course's information, which could not be fetched.",
+      "quote": "You can see the minimum test scores required via your course information.",
+      "url": "https://www.qut.edu.au/study/applying/international-applying"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "English requirements are set per course, and no India rule could be checked on the pages reachable.",
+      "quote": "You will need to meet the English language level required for your course.",
+      "url": "https://www.qut.edu.au/study/applying/international-applying"
+    }
+  },
+  "notes": "Research degree pages are blocked (403) to the cached fetcher, both plain and headless: https://www.qut.edu.au/courses/doctor-of-philosophy ; https://www.qut.edu.au/research/study-with-us/how-to-apply ; https://www.qut.edu.au/research/study-with-us/phd ; https://www.qut.edu.au/study/research-degrees ; https://www.qut.edu.au/study/applying/postgraduate-applying-your-guide ; https://www.qut.edu.au/study/fees-and-scholarships ; https://www.qut.edu.au/study/applying/english-language-requirements ; https://cms.qut.edu.au/__data/assets/pdf_file/0008/1062989/higher-degree-by-research-course-regulations-2.pdf. The reachable pages (international applying guide, /research landing) give no PhD fee, waiver, GRE, English or doctoral program list. No program records saved."
+}
