@@ -1,0 +1,57 @@
+{
+  "id": "emory--biology",
+  "university": "emory",
+  "field": "biology",
+  "also_fields": [
+    "biomed",
+    "neuro"
+  ],
+  "department": "Graduate Division of Biological and Biomedical Sciences (GDBBS)",
+  "program_page": "https://biomed.emory.edu/admissions/apply.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "GDBBS application deadline for Fall 2027 is December 1, 2026; recommender letters are also due December 1.",
+      "quote": "The application deadline for the Fall 2027 admissions cycle is December 1, 2026.",
+      "url": "https://biomed.emory.edu/admissions/apply.html"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "No GRE is required or considered by any GDBBS programme.",
+      "quote": "GRE scores are not required by any of the Programs in the Graduate Division of Biological and Biomedical Sciences, and, therefore, will not be considered during the admissions process.",
+      "url": "https://biomed.emory.edu/admissions/apply.html"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "No GRE is required or considered by any GDBBS programme, including subject tests.",
+      "quote": "GRE scores are not required by any of the Programs in the Graduate Division of Biological and Biomedical Sciences, and, therefore, will not be considered during the admissions process.",
+      "url": "https://biomed.emory.edu/admissions/apply.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "TOEFL is required for applicants whose native language is not English; no minimum score is given.",
+      "quote": "",
+      "url": "https://biomed.emory.edu/admissions/apply.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The GDBBS apply page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://biomed.emory.edu/admissions/apply.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All accepted GDBBS students get a competitive stipend, tuition scholarship and health insurance.",
+      "quote": "All students who are accepted and enroll receive a competitive stipend, tuition scholarship, and health insurance.",
+      "url": "https://biomed.emory.edu/admissions/apply.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The GDBBS page does not say whether a bachelor's or master's is needed.",
+      "quote": "",
+      "url": "https://biomed.emory.edu/admissions/apply.html"
+    }
+  },
+  "notes": "Umbrella for eight PhD programmes (Biochemistry Cell and Developmental Biology, Cancer Biology, Genetics and Molecular Biology, Immunology and Molecular Pathogenesis, Microbiology and Molecular Genetics, Molecular and Systems Pharmacology, Neuroscience, Population Biology Ecology and Evolution). Neuroscience program page has no admissions rules; it is covered here as also_fields. The page warns that some programmes add their own requirements."
+}

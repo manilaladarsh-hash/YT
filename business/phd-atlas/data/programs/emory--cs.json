@@ -1,0 +1,67 @@
+{
+  "id": "emory--cs",
+  "university": "emory",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science (Computer Science and Informatics PhD)",
+  "program_page": "https://computerscience.emory.edu/graduate-phd/admissions/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "CS PhD application deadline for Fall admission is December 15; the page gives no year, so 2026 is inferred for Fall 2027 entry.",
+      "quote": "The application deadline for Fall admission to our PhD program is December 15.",
+      "url": "https://computerscience.emory.edu/graduate-phd/admissions/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE General scores are not required but may be sent.",
+      "quote": "Applicants are not required to submit GRE scores, but they have the option to include them if they wish to.",
+      "url": "https://computerscience.emory.edu/graduate-phd/admissions/index.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is mentioned for computer science.",
+      "quote": "",
+      "url": "https://computerscience.emory.edu/graduate-phd/admissions/index.html"
+    },
+    "toefl_min": {
+      "code": "85",
+      "value": "Internet-based TOEFL minimum is 85 (90 recommended).",
+      "quote": "a minimum total score of 85 is required (90 recommended)",
+      "url": "https://computerscience.emory.edu/graduate-phd/admissions/index.html"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS 7 is the minimum for admission.",
+      "quote": "For IELTS, 7 is the minimum score for admission.",
+      "url": "https://computerscience.emory.edu/graduate-phd/admissions/index.html"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The CS waiver covers degrees from countries where English is the primary language; India and English-medium degrees are not named.",
+      "quote": "",
+      "url": "https://computerscience.emory.edu/graduate-phd/admissions/index.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The CS admissions pages do not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://computerscience.emory.edu/graduate-phd/admissions/index.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted CS PhD students get full tuition and a competitive stipend.",
+      "quote": "Students admitted to our PhD program are awarded full tuition and competitive stipend support.",
+      "url": "https://computerscience.emory.edu/graduate-phd/admissions/index.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with an undergraduate degree or a 2+ year master's are both recognised.",
+      "quote": "applicants who have earned an undergraduate degree, or a 2+ year MS degree",
+      "url": "https://computerscience.emory.edu/graduate-phd/admissions/index.html"
+    }
+  },
+  "notes": "Fall admission only; applications through Laney. Admissions page lists three recommenders and a $75 fee. CS and BMI tracks are both listed on the admissions page."
+}

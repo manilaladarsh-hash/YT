@@ -1,0 +1,77 @@
+{
+  "id": "emory--statistics",
+  "university": "emory",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Biostatistics and Bioinformatics, Rollins School of Public Health",
+  "program_page": "https://sph.emory.edu/degrees-programs/phd/biostatistics",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Biostatistics application deadline for Fall 2027 is December 1, 2026. Rollins's international page also gives a May 1 preferred date for international students.",
+      "quote": "December 1, 2026: Application deadline",
+      "url": "https://sph.emory.edu/degrees-programs/phd/biostatistics",
+      "also": [
+        {
+          "quote": "September 15, 2026: Applications opens for Fall 2027",
+          "url": "https://sph.emory.edu/degrees-programs/phd/biostatistics"
+        },
+        {
+          "quote": "The preferred application deadline for international students is May 1.",
+          "url": "https://sph.emory.edu/admissions/how-to-apply/international-applicants"
+        }
+      ],
+      "conflict": true
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The Biostatistics PhD lists GRE scores as optional.",
+      "quote": "Optional GRE scores",
+      "url": "https://sph.emory.edu/degrees-programs/phd/biostatistics"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is mentioned for biostatistics.",
+      "quote": "",
+      "url": "https://sph.emory.edu/degrees-programs/phd/biostatistics"
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "Rollins sets TOEFL iBT 4 (new scale) for tests taken after 21 January 2026; older scores were 79-80.",
+      "quote": "79-80 (iBT before January 21, 2026); 4-Overall Total (iBT after January 21, 2026)",
+      "url": "https://sph.emory.edu/admissions/how-to-apply/international-applicants"
+    },
+    "ielts_min": {
+      "code": "6",
+      "value": "Rollins sets IELTS overall 6.",
+      "quote": "IELTS score of 6-Overall",
+      "url": "https://sph.emory.edu/admissions/how-to-apply/international-applicants"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "A degree taught in English from a foreign institution does not waive the test here, so Indian applicants need TOEFL or IELTS.",
+      "quote": "Degrees from a foreign institution taught in English cannot be used to waive out of the requirement.",
+      "url": "https://sph.emory.edu/admissions/how-to-apply/international-applicants"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Applicants are told to review faculty interest areas, but the page does not say contact is needed before admission.",
+      "quote": "",
+      "url": "https://sph.emory.edu/degrees-programs/phd/biostatistics"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All full-time PhD students get a tuition scholarship and stipend for five years, if in good standing.",
+      "quote": "All full-time Emory PhD students receive a generous financial support package from the Laney Graduate School",
+      "url": "https://sph.emory.edu/degrees-programs/phd/biostatistics"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page says a master's in biostatistics or statistics gives exemption from some courses, but does not say whether a bachelor's alone is enough.",
+      "quote": "",
+      "url": "https://sph.emory.edu/degrees-programs/phd/biostatistics"
+    }
+  },
+  "notes": "Rollins School of Public Health, PhD applications through Laney. Override fields (gre_general, toefl_min, ielts_min, english_waiver) come from Rollins pages. Admitted cohort about six to nine students a year. Deadline conflict flagged: the PhD page gives December 1, 2026, while the Rollins international page gives a May 1 preferred date for international students; the earlier date is used."
+}

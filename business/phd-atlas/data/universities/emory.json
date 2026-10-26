@@ -1,0 +1,53 @@
+{
+  "id": "emory",
+  "institution": "Emory University",
+  "country": "USA",
+  "region": "Georgia",
+  "grad_page": "https://gs.emory.edu/admissions/international_appls.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The application fee is $75 USD, non-refundable and paid by card in the online application.",
+      "quote": "Our application fee is $75. The fee is non-refundable, and can be paid by credit card as part of the online application.",
+      "url": "https://gs.emory.edu/admissions/requirements.html",
+      "also": [
+        {
+          "quote": "pay a non-refundable $75 application fee for each application",
+          "url": "https://gs.emory.edu/admissions/faq.html"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "International applicants can get the financial-hardship fee waiver, but only a limited number are offered.",
+      "quote": "We offer a limited number of fee waivers for applicants on the grounds of financial hardship. | International applicants are eligible for this fee waiver.",
+      "url": "https://gs.emory.edu/admissions/fee-waivers.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School does not set one GRE rule; each program decides whether the GRE General is needed.",
+      "quote": "",
+      "url": "https://gs.emory.edu/admissions/faq.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The Graduate School gives no TOEFL minimum; each program sets its own TOEFL requirement.",
+      "quote": "",
+      "url": "https://gs.emory.edu/admissions/international_appls.html"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The Graduate School gives no IELTS minimum; many programs accept IELTS, but no score is set.",
+      "quote": "",
+      "url": "https://gs.emory.edu/admissions/international_appls.html"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The Graduate School's English rules do not mention India or English-medium degrees.",
+      "quote": "",
+      "url": "https://gs.emory.edu/admissions/international_appls.html"
+    }
+  },
+  "notes": "Laney Graduate School (the graduate school for all Emory PhDs). Its pages say English tests are program specific and give no India rule. Fetched in this run: gs.emory.edu degree-programs list, international applicants, program admissions requirements, FAQ, fee waivers, financial support overview, requirements. Emory PhDs in the Laney list that map to a STEM field are saved as programmes; Rollins School of Public Health PhDs (biostatistics, environmental health, epidemiology) use the Laney application and have their own English rules, saved as overrides on the biostatistics and ESS records. Not saved: Rollins Environmental Health Sciences PhD (not fetched; ESS is the only environment record), Rollins Epidemiology PhD (no field id), Joint Georgia Tech-Emory Biomedical Engineering PhD (official pages checked gave only Fall 2026 dates and master's scores; no PhD rule found). Blocked or broken: https://chemistry.emory.edu/home/graduate/index.html returned a 404 error page; the live chemistry page is https://chemistry.emory.edu/graduate/apply.html. https://s1.bme.gatech.edu/bme/georgia-tech-emory-bme-phd-program returned a 502. Fetch count: 7 university-wide pages, over the brief's 4-6 budget."
+}

@@ -1,0 +1,61 @@
+{
+  "id": "emory--environment",
+  "university": "emory",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Environmental Sciences and Society (ESS) PhD",
+  "program_page": "https://envs.emory.edu/graduate/phd/application-information.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "ESS application deadline is December 1; the page gives no year, so 2026 is inferred for Fall 2027 entry.",
+      "quote": "The application deadline is 11:59 pm EST on December 1st.",
+      "url": "https://envs.emory.edu/graduate/phd/application-information.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE requirement is mentioned on the ESS pages.",
+      "quote": "",
+      "url": "https://envs.emory.edu/graduate/phd/application-information.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "TOEFL or IELTS is required unless the language of instruction was English; no minimum score is given.",
+      "quote": "",
+      "url": "https://envs.emory.edu/graduate/phd/application-information.html"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "IELTS is accepted in the same way as TOEFL; no minimum score is given.",
+      "quote": "",
+      "url": "https://envs.emory.edu/graduate/phd/application-information.html"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "If the degree's language of instruction is English, the TOEFL or IELTS is not required.",
+      "quote": "If the student’s language of instruction is in English, the TOEFL or IELTS scores are not required.",
+      "url": "https://envs.emory.edu/graduate/phd/application-information.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Applicants must show alignment with at least three faculty, but the page does not say contact or agreement is needed before admission.",
+      "quote": "",
+      "url": "https://envs.emory.edu/graduate/phd/application-information.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "The Laney Graduate School says it offers tuition scholarships and stipend support to most doctoral students.",
+      "quote": "The Laney Graduate School offers tuition scholarships and stipend support to most doctoral students.",
+      "url": "https://gs.emory.edu/admissions/faq.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The ESS pages do not say whether a bachelor's alone is enough; no MS-only programme is offered.",
+      "quote": "",
+      "url": "https://envs.emory.edu/graduate/phd/application-information.html"
+    }
+  },
+  "notes": "Environmental Sciences and Society PhD (Laney). Funding comes from the Graduate School FAQ, since the ESS pages do not state funding. Rollins Environmental Health Sciences PhD is not saved (not fetched)."
+}
