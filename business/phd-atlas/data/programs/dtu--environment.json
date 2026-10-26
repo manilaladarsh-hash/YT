@@ -1,0 +1,56 @@
+{
+  "id": "dtu--environment",
+  "university": "dtu",
+  "field": "environment",
+  "also_fields": [
+    "civil"
+  ],
+  "department": "DTU Sustain",
+  "program_page": "https://sustain.dtu.dk/en/undervisning/ph-d-uddannelsen",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "Each PhD post is advertised with its own deadline; the departments post pre-defined projects under Vacancies at DTU.",
+      "quote": "DTU’s departments often have pre-defined projects. You can find these projects advertised under Vacancies at DTU.",
+      "url": "https://www.dtu.dk/english/education/phd/applicant",
+      "also": [
+        {
+          "quote": "Department of Environmental and Resource Engineering",
+          "url": "https://sustain.dtu.dk/en/undervisning/ph-d-uddannelsen"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "The PhD committee assesses the choice of supervisors as part of admission.",
+      "quote": "In connection with admission, the PhD committee further assesses the individual PhD programme and the choice of supervisors.",
+      "url": "https://www.dtu.dk/english/education/phd/intro/organization"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD students are employed scientific staff paid a salary comparable to research assistants.",
+      "quote": "The salary is comparable to the salary for research assistants according to Danish employment rules.",
+      "url": "https://sustain.dtu.dk/en/undervisning/ph-d-uddannelsen",
+      "also": [
+        {
+          "quote": "The PhD school must ensure that funds are available for the duration of the study programme and that the funding plan covers all three years.",
+          "url": "https://www.dtu.dk/english/education/phd/applicant/post_acceptance-1-"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Admission requires a Danish Master's degree or an equivalent foreign degree, judged by the head of the PhD school.",
+      "quote": "To be admitted as a PhD student, an applicant must have satisfactory results from one of the following exams | A Danish Master’s degree in engineering.",
+      "url": "https://www.dtu.dk/english/education/phd/applicant/pre_acceptance-1-"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on DTU Sustain's PhD pages.",
+      "quote": "",
+      "url": "https://sustain.dtu.dk/en/undervisning/ph-d-uddannelsen"
+    }
+  },
+  "notes": "Department of Environmental and Resource Engineering; the PhD page says the language used in the department is English, which is not an admission test."
+}

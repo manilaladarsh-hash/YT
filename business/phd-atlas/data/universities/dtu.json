@@ -1,0 +1,47 @@
+{
+  "id": "dtu",
+  "institution": "Technical University of Denmark (DTU)",
+  "country": "Denmark",
+  "region": "Capital Region",
+  "grad_page": "https://www.dtu.dk/english/education/phd/applicant/pre_acceptance-1-",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No PhD application fee is stated on the DTU PhD admission pages checked.",
+      "quote": "",
+      "url": "https://www.dtu.dk/english/education/phd/applicant/pre_acceptance-1-"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No PhD application fee or fee waiver is stated on the DTU PhD pages checked.",
+      "quote": "",
+      "url": "https://www.dtu.dk/english/education/phd/applicant/pre_acceptance-1-"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement is stated on the DTU PhD pages checked.",
+      "quote": "",
+      "url": "https://www.dtu.dk/english/education/phd/applicant/pre_acceptance-1-"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "DTU's TOEFL and IELTS table is on the Master's (MSc) application page only, so no PhD minimum is shown.",
+      "quote": "Applying for an MSc at DTU - English language requirements",
+      "url": "https://www.dtu.dk/english/education/graduate/admission-and-deadlines/application_procedure/apply/language-test-requirements"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "DTU's IELTS table is on the Master's (MSc) application page only, so no PhD minimum is shown.",
+      "quote": "Applying for an MSc at DTU - English language requirements",
+      "url": "https://www.dtu.dk/english/education/graduate/admission-and-deadlines/application_procedure/apply/language-test-requirements"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The English rules on DTU's PhD pages do not say whether an English-medium degree from India is accepted.",
+      "quote": "",
+      "url": "https://www.dtu.dk/english/education/phd/applicant/pre_acceptance-1-"
+    }
+  },
+  "notes": "DTU runs its PhD programmes as department PhD schools (see the departments list). The PhD admission pages checked give no application fee, GRE or English test minimum. The English test table on the Master's (MSc) page (IELTS 6.5, TOEFL new scale 4.5, and a rule that English-medium degrees are not accepted) is for MSc applicants and is not used for PhD. Blocked (HTTP 502 from the proxy): https://www.electro.dtu.dk/ and https://www.electro.dtu.dk/education/phd-school ; https://www.construct.dtu.dk/ and https://www.construct.dtu.dk/education/phd-school ; https://www.wind.dtu.dk/ and https://www.wind.dtu.dk/education/phd-school . The DTU vacancy portal (efzu.fa.em2.oraclecloud.com) returned an empty page to the fetcher."
+}

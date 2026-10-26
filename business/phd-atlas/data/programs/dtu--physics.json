@@ -1,0 +1,54 @@
+{
+  "id": "dtu--physics",
+  "university": "dtu",
+  "field": "physics",
+  "also_fields": [],
+  "department": "DTU Physics",
+  "program_page": "https://physics.dtu.dk/research/phd-school/admission-requirements-and-application",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "Vacant PhD positions are advertised on DTU's job portal; check it frequently for each deadline.",
+      "quote": "We suggest that you frequently check the vacant PhD positions on our main site.",
+      "url": "https://physics.dtu.dk/research/phd-school/admission-requirements-and-application",
+      "also": [
+        {
+          "quote": "DTU’s departments often have pre-defined projects. You can find these projects advertised under Vacancies at DTU.",
+          "url": "https://www.dtu.dk/english/education/phd/applicant"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "The PhD committee assesses the choice of supervisors as part of admission.",
+      "quote": "In connection with admission, the PhD committee further assesses the individual PhD programme and the choice of supervisors.",
+      "url": "https://www.dtu.dk/english/education/phd/intro/organization"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admission requires a funding plan covering all three years, and the PhD school must ensure the funds are there.",
+      "quote": "The PhD school must ensure that funds are available for the duration of the study programme and that the funding plan covers all three years.",
+      "url": "https://www.dtu.dk/english/education/phd/applicant/post_acceptance-1-"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Admission requires a Danish Master's degree or an equivalent foreign degree, judged by the head of the PhD school.",
+      "quote": "To be admitted as a PhD student, an applicant must have satisfactory results from one of the following exams | A Danish Master’s degree in engineering.",
+      "url": "https://www.dtu.dk/english/education/phd/applicant/pre_acceptance-1-",
+      "also": [
+        {
+          "quote": "Relevant scientific degrees may be within e.g. physics, chemistry, biology, or mathematics.",
+          "url": "https://physics.dtu.dk/research/phd-school/admission-requirements-and-application"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on DTU Physics' PhD pages.",
+      "quote": "",
+      "url": "https://physics.dtu.dk/research/phd-school/admission-requirements-and-application"
+    }
+  },
+  "notes": "The department page lists relevant degrees as physics, chemistry, biology or mathematics. Its vacancy list is an Oracle job portal the fetcher cannot read."
+}
