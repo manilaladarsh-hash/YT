@@ -1,0 +1,47 @@
+{
+  "id": "wfu",
+  "institution": "Wake Forest University",
+  "country": "USA",
+  "region": "North Carolina",
+  "grad_page": "https://graduate.wfu.edu/admissions-required-tests/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "80 USD",
+      "value": "The Graduate School charges an $80 application fee.",
+      "quote": "Pay $80 application fee",
+      "url": "https://graduate.wfu.edu/admissions-checklist/"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Fee waivers go only to certain groups of domestic applicants, so international applicants pay the fee.",
+      "quote": "We do not currently offer fee waivers for international applicants. Application fee waiver requests are available for certain groups of domestic applicants",
+      "url": "https://graduate.wfu.edu/admissions-checklist/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is not a Graduate School requirement; submit it only if you want to.",
+      "quote": "The GRE is not a Graduate School requirement for admission. | If you will be submitting a GRE, please enter your GRE scores on the online application.",
+      "url": "https://graduate.wfu.edu/admissions-required-tests/"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "For tests taken on or after 21 January 2026 the TOEFL iBT minimum is 4.5 (the older minimum was 80).",
+      "quote": "For exams taken on or after January 21, 2026: We require a minimum TOEFL iBT score of 4.5.",
+      "url": "https://graduate.wfu.edu/admissions-required-tests/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic minimum is 6.5 overall.",
+      "quote": "The minimum score on the IELTS is 6.5.",
+      "url": "https://graduate.wfu.edu/admissions-required-tests/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "An English-medium degree from India does not waive the test by itself; you must send an official statement from the degree-granting institution confirming English was the medium of instruction.",
+      "quote": "Applicants whose native language is not English, but English was the primary medium of instruction at the undergraduate, or graduate school level, should include an official statement from their degree granting institution confirming that English was the medium of instruction",
+      "url": "https://graduate.wfu.edu/international-students/"
+    }
+  },
+  "notes": "Graduate School rules for all PhD programs. The Bowman Gray (School of Medicine) programs use their own application (fee $70, TOEFL 90), recorded as overrides on their program records. Biology and chemistry department pages were partly blocked (see program notes)."
+}

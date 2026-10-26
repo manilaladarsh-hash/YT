@@ -1,0 +1,43 @@
+{
+  "id": "wfu--chemistry",
+  "university": "wfu",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://chemistry.wfu.edu/graduate/programs-of-study/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The Fall PhD deadline is December 15; the Spring PhD intake has its own earlier deadline.",
+      "quote": "Chemistry (MS, PhD) Degree Term Deadline PhD Fall December 15",
+      "url": "https://graduate.wfu.edu/admissions-application-deadlines/",
+      "inferred": "year"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "A faculty adviser is chosen during the first year, so admission does not need a named adviser.",
+      "quote": "Choice of a research adviser is usually completed by the end of the first semester",
+      "url": "https://chemistry.wfu.edu/graduate/programs-of-study/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Assistantships are listed at $30,470 for 2025-26 with tuition waived, but the page does not say how many admitted PhD students receive one.",
+      "quote": "Teaching and Research Assistantships (2025-2026) – $30,470.",
+      "url": "https://chemistry.wfu.edu/graduate/programs-of-study/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The chemistry pages do not say whether a master's degree is needed before the PhD.",
+      "quote": "",
+      "url": "https://chemistry.wfu.edu/graduate/programs-of-study/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The chemistry pages do not mention the Chemistry GRE Subject test.",
+      "quote": "",
+      "url": "https://chemistry.wfu.edu/graduate/programs-of-study/"
+    }
+  },
+  "notes": "The chemistry.wfu.edu/graduate/ page returned 502; the programs-of-study page loaded and is used here. Subject GRE is not mentioned on any fetched page."
+}

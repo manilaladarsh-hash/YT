@@ -1,0 +1,49 @@
+{
+  "id": "wfu--biology",
+  "university": "wfu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://biology.wfu.edu/graduate",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications for Fall PhD admission are due by December 1.",
+      "quote": "Applications are due for the Ph.D. and M.S. in Biology program for Fall admission by December 1",
+      "url": "https://biology.wfu.edu/graduate",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional and not required for the department.",
+      "quote": "GRE Scores (optional): The GRE is not required.",
+      "url": "https://biology.wfu.edu/graduate"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The biology pages do not mention a subject GRE.",
+      "quote": "",
+      "url": "https://biology.wfu.edu/graduate"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly advised to contact potential faculty mentors before applying.",
+      "quote": "Before applying to the program, we strongly recommend that you familiarize yourself with faculty researchers and reach out to potential mentors",
+      "url": "https://biology.wfu.edu/graduate"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every admitted PhD student gets a full tuition waiver, stipend and health-benefit support through a teaching assistantship for five years.",
+      "quote": "All students in Wake Forest Biology Graduate Program are admitted with a full tuition waiver, stipend support, and subsidized health benefits through Teaching Assistantships",
+      "url": "https://biology.wfu.edu/graduate"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants may come straight from an undergraduate degree; the department accepts seniors and graduates.",
+      "quote": "The Wake Forest University Graduate School welcomes applications from undergraduate seniors and graduates of accredited US colleges/universities or recognized foreign institutions",
+      "url": "https://biology.wfu.edu/graduate"
+    }
+  },
+  "notes": "Department page biology.wfu.edu/graduate/ (with trailing slash) returned 403 and was not used; the same content loads at biology.wfu.edu/graduate. Admission is to a department with rotations in year one. The graduate school deadline table also lists the Biology PhD as Fall, December 1."
+}
