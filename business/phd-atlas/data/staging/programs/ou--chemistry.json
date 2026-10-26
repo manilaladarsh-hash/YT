@@ -1,0 +1,73 @@
+{
+  "id": "ou--chemistry",
+  "university": "ou",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry and Biochemistry",
+  "program_page": "https://www.ou.edu/cas/chemistry/academics/graduate.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "Fall applications are evaluated from November 1, 2026 to April 1, 2027, or until positions are filled.",
+      "quote": "The fall semester application evaluation window is November 1 - April 1, or until positions are filled",
+      "url": "https://www.ou.edu/cas/chemistry/academics/graduate.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is no longer required; scores are optional.",
+      "quote": "GRE scores (no longer required; optional if you have them)",
+      "url": "https://www.ou.edu/cas/chemistry/academics/graduate.html"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The department asks for TOEFL iBT 79 (internet-based), no older than two years.",
+      "quote": "TOEFL (minimum 550 for written or 79 for internet-based, no older than two years)",
+      "url": "https://www.ou.edu/cas/chemistry/academics/graduate.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department asks for an IELTS minimum score of 6.5.",
+      "quote": "IELTS (minimum score 6.5)",
+      "url": "https://www.ou.edu/cas/chemistry/academics/graduate.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Graduate students are offered competitive stipends with a tuition waiver, and first-year students are typically guaranteed support for 11 months.",
+      "quote": "Graduate students in the Department of Chemistry and Biochemistry are offered competitive stipends, including a tuition waiver and student health insurance",
+      "url": "https://www.ou.edu/cas/chemistry/academics/graduate.html",
+      "also": [
+        {
+          "quote": "First-year students are typically guaranteed for the first 11 months, so long as they are in good standing",
+          "url": "https://www.ou.edu/cas/chemistry/academics/graduate.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's in chemistry meets the requirements for full graduate standing; a master's is needed only if applicable.",
+      "quote": "Students who have satisfied the basic chemistry course requirements for the Bachelor of Science in Chemistry degree at the University of Oklahoma will have met the requirements for full graduate standing",
+      "url": "https://www.ou.edu/cas/chemistry/academics/graduate.html",
+      "also": [
+        {
+          "quote": "Official transcripts from undergraduate (and graduate, if applicable) institutions",
+          "url": "https://www.ou.edu/cas/chemistry/academics/graduate.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject GRE for this field.",
+      "quote": "",
+      "url": "https://www.ou.edu/cas/chemistry/academics/graduate.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor is needed before admission.",
+      "quote": "",
+      "url": "https://www.ou.edu/cas/chemistry/academics/graduate.html"
+    }
+  },
+  "notes": "Supervisor not stated: the page says RAs come through the student's major advisor but does not say to contact faculty before applying."
+}

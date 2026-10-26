@@ -1,0 +1,61 @@
+{
+  "id": "ou--earth",
+  "university": "ou",
+  "field": "earth",
+  "also_fields": [],
+  "department": "School of Geosciences",
+  "program_page": "https://www.ou.edu/mcee/geosciences/academics/graduate-programs/graduate-programs-faq",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "January 15, 2027 is the deadline for admission and funding for fall 2027; international applicants seeking admission without funding have until April 1, 2027.",
+      "quote": "January 15 for applicants seeking admission and funding for the following fall semester",
+      "url": "https://www.ou.edu/mcee/geosciences/academics/graduate-programs/graduate-programs-faq",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "April 1 for international applicants seeking admission but not funding for the following fall semester",
+          "url": "https://www.ou.edu/mcee/geosciences/academics/graduate-programs/graduate-programs-faq"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "100 USD",
+      "value": "The application processing fee is $100 for international applicants.",
+      "quote": "A $50 ($100 for international applicants) non-refundable application processing fee is required to submit your online application",
+      "url": "https://www.ou.edu/mcee/geosciences/academics/graduate-programs/graduate-programs-faq"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The School of Geosciences does not require the GRE.",
+      "quote": "No, the GRE is not required.",
+      "url": "https://www.ou.edu/mcee/geosciences/academics/graduate-programs/graduate-programs-faq"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must identify a faculty member willing to supervise your thesis or dissertation before applying.",
+      "quote": "Yes, you must identify a faculty member who is willing to serve as your thesis or dissertation supervisor",
+      "url": "https://www.ou.edu/mcee/geosciences/academics/graduate-programs/graduate-programs-faq"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Most students hold a master's first, but a B.S.-to-Ph.D. route exists.",
+      "quote": "Most students complete a Master’s degree before entering our Ph.D. program. However, there is a B.S. to Ph.D. process that students and advisors may use to enter the Ph.D. program without first completing a Master’s",
+      "url": "https://www.ou.edu/mcee/geosciences/academics/graduate-programs/graduate-programs-faq"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject GRE for this field.",
+      "quote": "",
+      "url": "https://www.ou.edu/mcee/geosciences/academics/graduate-programs/graduate-programs-faq"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not say whether admitted PhD students are funded.",
+      "quote": "",
+      "url": "https://www.ou.edu/mcee/geosciences/academics/graduate-programs/graduate-programs-faq"
+    }
+  },
+  "notes": "Covers the Geology and Geophysics PhDs in the School. Funding is not stated: the page describes GRA and GTA assistantships without saying all admitted PhD students are funded. The Geological Engineering PhD (Mewbourne) is not covered."
+}

@@ -1,0 +1,63 @@
+{
+  "id": "ku--civil",
+  "university": "ku",
+  "field": "civil",
+  "also_fields": [
+    "environment"
+  ],
+  "department": "Civil, Environmental & Architectural Engineering (Civil Engineering PhD)",
+  "program_page": "https://catalog.ku.edu/engineering/civil-environmental-architectural-engineering/phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-02",
+      "value": "Fall priority deadline is December 2, 2026; the final deadline is August 1.",
+      "quote": "Fall Admission: December 2 (priority deadline)",
+      "url": "https://catalog.ku.edu/engineering/civil-environmental-architectural-engineering/phd/",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "85 USD",
+      "value": "The department catalog lists the international application fee as $85.",
+      "quote": "International: $85",
+      "url": "https://catalog.ku.edu/engineering/civil-environmental-architectural-engineering/phd/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required for admission.",
+      "quote": "Graduate Record Examination (GRE) scores are not required for admission",
+      "url": "https://catalog.ku.edu/engineering/civil-environmental-architectural-engineering/phd/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "GRE scores are not required for admission.",
+      "quote": "Graduate Record Examination (GRE) scores are not required for admission",
+      "url": "https://catalog.ku.edu/engineering/civil-environmental-architectural-engineering/phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.ku.edu/engineering/civil-environmental-architectural-engineering/phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The priority deadlines are for consideration for fellowships and assistantships; the catalog does not say most students are funded.",
+      "quote": "",
+      "url": "https://catalog.ku.edu/engineering/civil-environmental-architectural-engineering/phd/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "An ABET-accredited bachelor's in engineering is required, and direct entry from the bachelor's is covered.",
+      "quote": "An ABET-accredited baccalaureate degree in engineering, or the equivalent from abroad, is required for admission to the Ph.D. degree program in civil engineering",
+      "url": "https://catalog.ku.edu/engineering/civil-environmental-architectural-engineering/phd/",
+      "also": [
+        {
+          "quote": "Students admitted to the doctoral degree program directly from the bachelor's degree",
+          "url": "https://catalog.ku.edu/engineering/civil-environmental-architectural-engineering/phd/"
+        }
+      ]
+    }
+  },
+  "notes": "The same department catalog also lists an Environmental & Water Resources Engineering PhD (catalog.ku.edu/engineering/civil-environmental-architectural-engineering/phd-environmental-water-resources-engineering/) with the same deadlines, GRE rule and $85 international fee. It is covered here through also_fields."
+}

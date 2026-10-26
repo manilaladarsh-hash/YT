@@ -1,0 +1,63 @@
+{
+  "id": "ou--physics",
+  "university": "ou",
+  "field": "physics",
+  "also_fields": [
+    "astronomy"
+  ],
+  "department": "Homer L. Dodge Department of Physics and Astronomy",
+  "program_page": "https://ou.edu/cas/physics-astronomy/grad/prospective-students/how-to-apply",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall applications are due January 15, 2027; late applications may still be considered if places remain.",
+      "quote": "Fall applications: January 15",
+      "url": "https://ou.edu/cas/physics-astronomy/grad/prospective-students/how-to-apply",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "100 USD",
+      "value": "International applicants pay a $100 application fee.",
+      "quote": "pay the application fee ($50 for US applicants and $100 for international applicants)",
+      "url": "https://ou.edu/cas/physics-astronomy/grad/prospective-students/how-to-apply"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department does not require the general GRE.",
+      "quote": "We do not require general or physics GRE scores.",
+      "url": "https://ou.edu/cas/physics-astronomy/grad/prospective-students/how-to-apply"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department does not require the physics GRE.",
+      "quote": "We do not require general or physics GRE scores.",
+      "url": "https://ou.edu/cas/physics-astronomy/grad/prospective-students/how-to-apply"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You are admitted to the program first and choose a thesis advisor by mutual agreement later.",
+      "quote": "Students choose their thesis advisor by mutual agreement (typically within the first year or two)",
+      "url": "https://ou.edu/cas/physics-astronomy/grad/prospective-students/how-to-apply"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted students are offered financial support, usually a TA in the first year.",
+      "quote": "All admitted students are offered financial support",
+      "url": "https://ou.edu/cas/physics-astronomy/grad/prospective-students/how-to-apply"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need a US-equivalent bachelor's in physics, astronomy or a closely related field.",
+      "quote": "Applicants should have a minimum US equivalent of a BS in Physics, Astronomy or in a closely related field",
+      "url": "https://ou.edu/cas/physics-astronomy/grad/prospective-students/how-to-apply",
+      "also": [
+        {
+          "quote": "A student should expect to spend at least the equivalent of three full academic years beyond the bachelor’s degree to obtain the doctoral degree",
+          "url": "https://ou-public.courseleaf.com/dodge-arts-sciences/dodge-physics-astronomy/physics-doctor-philosophy/"
+        }
+      ]
+    }
+  },
+  "notes": "Covers the Physics PhD and the Astrophysics PhD in the same department (astronomy in also_fields). The Engineering Physics PhD is not covered by this page."
+}

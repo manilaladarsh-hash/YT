@@ -1,0 +1,72 @@
+{
+  "id": "ou--math",
+  "university": "ou",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://math.ou.edu/graduate/admissions",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Applications submitted by January 15, 2027 get full consideration; later ones are reviewed through April or until positions fill.",
+      "quote": "For Fall 2027 admissions, applications submitted by January 15, 2027 will be given full consideration",
+      "url": "https://math.ou.edu/graduate/admissions",
+      "also": [
+        {
+          "quote": "After this date, the graduate committee will review new applications through April or until all positions are filled",
+          "url": "https://math.ou.edu/graduate/admissions"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE is not required this year, but the department strongly encourages submitting scores.",
+      "quote": "GRE scores are not required this year. However, we strongly encourage applicants to submit GRE scores",
+      "url": "https://math.ou.edu/graduate/admissions"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The department grants a limited number of application fee waivers, decided after the January 15 deadline.",
+      "quote": "A limited number of waivers to the application fee are available.",
+      "url": "https://math.ou.edu/graduate/admissions"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The department asks for TOEFL iBT 79.",
+      "quote": "TOEFL (iBT) score of at least 79.",
+      "url": "https://math.ou.edu/graduate/admissions"
+    },
+    "ielts_min": {
+      "code": "6",
+      "value": "The department asks for IELTS Academic 6, lower than the Graduate College's 6.5.",
+      "quote": "IELTS (Academic) score of at least 6.",
+      "url": "https://math.ou.edu/graduate/admissions"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students are admitted to the program overall; no faculty sponsor is needed first.",
+      "quote": "No. Students are admitted to the program overall. There is no need to specify a potential advisor.",
+      "url": "https://math.ou.edu/graduate/admissions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All successful PhD applicants are offered a teaching assistantship.",
+      "quote": "For the MA/PhD program, all successful applicants will be offered a teaching assistantship",
+      "url": "https://math.ou.edu/graduate/admissions"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants without a master's enter through the MA/PhD route; applicants with a master's enter the PhD program.",
+      "quote": "the MA program if you're interested in a PhD in mathematics and do not have a masters degree in mathematics, or the PhD program if you're interested in a PhD in mathematics and have a masters degree in mathematics",
+      "url": "https://math.ou.edu/graduate/admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject GRE for this field.",
+      "quote": "",
+      "url": "https://math.ou.edu/graduate/admissions"
+    }
+  },
+  "notes": "Department states its own IELTS and TOEFL minimums, which differ from the Graduate College table."
+}

@@ -1,0 +1,67 @@
+{
+  "id": "ou--bme",
+  "university": "ou",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Biomedical Engineering",
+  "program_page": "https://www.ou.edu/coe/sbme/academics/graduate",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall applications for the MS and PhD are due December 1, 2026; spring applications are due September 1.",
+      "quote": "December 1 for Fall; September 1 for Spring",
+      "url": "https://www.ou.edu/coe/sbme/academics/graduate",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Deadlines are for both national and international applicants",
+          "url": "https://www.ou.edu/coe/sbme/academics/graduate"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The program does not require the GRE, but applicants can still submit scores.",
+      "quote": "Our program does not require the GRE. However, you can still submit scores",
+      "url": "https://www.ou.edu/coe/sbme/academics/graduate"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The department runs its own fee-waiver request for applicants, with a November 15 deadline for fall.",
+      "quote": "If you would like to apply for an Application Fee Waiver, the office will need a copy of your CV, Transcript(s), and Statement of Purpose combined into one PDF",
+      "url": "https://www.ou.edu/coe/sbme/academics/graduate",
+      "also": [
+        {
+          "quote": "The deadline for a fall application fee waiver is November 15",
+          "url": "https://www.ou.edu/coe/sbme/academics/graduate"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by a committee after the deadline, not by a faculty agreement first.",
+      "quote": "The committee reviews all applications after the application deadline for each admission semester",
+      "url": "https://www.ou.edu/coe/sbme/academics/graduate"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants can apply straight to the PhD without a master's degree.",
+      "quote": "Students can apply directly for the Ph.D. degree without already having an M.S. Degree",
+      "url": "https://www.ou.edu/coe/sbme/academics/graduate"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject GRE for this field.",
+      "quote": "",
+      "url": "https://www.ou.edu/coe/sbme/academics/graduate"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not say whether admitted PhD students are funded.",
+      "quote": "",
+      "url": "https://www.ou.edu/coe/sbme/academics/graduate"
+    }
+  },
+  "notes": "The department applies the Graduate College English test rules. No separate funding rule is stated."
+}

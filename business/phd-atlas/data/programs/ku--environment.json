@@ -1,0 +1,55 @@
+{
+  "id": "ku--environment",
+  "university": "ku",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Geography & Atmospheric Science",
+  "program_page": "https://geog.ku.edu/atmospheric-science-phd",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-06",
+      "value": "To be considered for a fall fellowship or assistantship, all materials are due January 6; spring is October 1.",
+      "quote": "must submit all materials by January 6",
+      "url": "https://geog.ku.edu/admission",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required for the application.",
+      "quote": "Graduate Record Examination (GRE) scores are not required for the application",
+      "url": "https://geog.ku.edu/admission"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The GRE, including any subject test, is not required for the application.",
+      "quote": "Graduate Record Examination (GRE) scores are not required for the application",
+      "url": "https://geog.ku.edu/admission"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Application fee waivers are offered to domestic PhD applicants on request.",
+      "quote": "Domestic, PhD applicants may be eligible for an application fee wavier",
+      "url": "https://geog.ku.edu/admission"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The department admits only students with confirmed funding.",
+      "quote": "The department will only offer admission to students with confirmed funding through Graduate Teaching Assistantship, Graduate Research Assistantship, University Fellowship, or External fellowship funding",
+      "url": "https://geog.ku.edu/admission"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages reviewed do not say whether a master's is required.",
+      "quote": "",
+      "url": "https://geog.ku.edu/admission"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The program pages reviewed do not state this rule.",
+      "quote": "",
+      "url": "https://geog.ku.edu/atmospheric-science-phd"
+    }
+  },
+  "notes": "The Environmental & Water Resources Engineering PhD is in the civil record's also_fields."
+}

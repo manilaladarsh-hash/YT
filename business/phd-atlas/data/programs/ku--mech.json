@@ -1,0 +1,49 @@
+{
+  "id": "ku--mech",
+  "university": "ku",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering",
+  "program_page": "https://me.ku.edu/graduate-admissions",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall priority deadline for funding consideration is December 1, 2026; the final deadline is May 1.",
+      "quote": "December 1 (priority deadline for funding consideration)",
+      "url": "https://me.ku.edu/graduate-admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is no longer required.",
+      "quote": "As of October 2020 - The GRE is no longer required",
+      "url": "https://me.ku.edu/graduate-admissions"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants generally hold a bachelor's and/or master's in mechanical engineering or a related field.",
+      "quote": "a student generally must have earned an accredited baccalaureate degree and/or master's of science or engineering in mechanical engineering",
+      "url": "https://me.ku.edu/graduate-admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The program pages reviewed do not state this rule.",
+      "quote": "",
+      "url": "https://me.ku.edu/graduate-admissions"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The program pages reviewed do not state this rule.",
+      "quote": "",
+      "url": "https://me.ku.edu/graduate-admissions"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The program pages reviewed do not state this rule.",
+      "quote": "",
+      "url": "https://me.ku.edu/graduate-admissions"
+    }
+  },
+  "notes": "The Aerospace Engineering PhD (ae.ku.edu/graduate-admissions) is a separate program and is not saved here: its fall priority deadline is December 1 and its GRE is optional. Only one program per field can be saved."
+}

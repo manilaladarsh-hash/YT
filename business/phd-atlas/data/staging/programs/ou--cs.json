@@ -1,0 +1,49 @@
+{
+  "id": "ou--cs",
+  "university": "ou",
+  "field": "cs",
+  "also_fields": [],
+  "department": "School of Computer Science",
+  "program_page": "https://www.ou.edu/coe/cs/academics/graduate",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-15",
+      "value": "The CS graduate page gives April 15 for international fall applicants (August 1 for domestic); it does not separate the PhD from the MS.",
+      "quote": "The application deadline is April 15th for international students and August 1st for domestic",
+      "url": "https://www.ou.edu/coe/cs/academics/graduate",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "No GRE is required for CS graduate applicants.",
+      "quote": "No GRE is required.",
+      "url": "https://www.ou.edu/coe/cs/academics/graduate"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The PhD is counted from the bachelor's degree, with at least three years of full-time study beyond it.",
+      "quote": "This degree program requires a minimum of three years of full-time study beyond the bachelor's degree",
+      "url": "https://www.ou.edu/coe/cs/academics/graduate"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject GRE for this field.",
+      "quote": "",
+      "url": "https://www.ou.edu/coe/cs/academics/graduate"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor is needed before admission.",
+      "quote": "",
+      "url": "https://www.ou.edu/coe/cs/academics/graduate"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not say whether admitted PhD students are funded.",
+      "quote": "",
+      "url": "https://www.ou.edu/coe/cs/academics/graduate"
+    }
+  },
+  "notes": "Supervisor and funding for the PhD are not stated on the page; its assistantship text covers MS students."
+}

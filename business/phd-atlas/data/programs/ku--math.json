@@ -1,0 +1,55 @@
+{
+  "id": "ku--math",
+  "university": "ku",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://math.ku.edu/phd-program",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-06",
+      "value": "Fall admission deadline is January 6 (no spring admission).",
+      "quote": "Fall admission: January 6",
+      "url": "https://math.ku.edu/phd-program",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department does not require the GRE General.",
+      "quote": "GRE scores are NOT required",
+      "url": "https://math.ku.edu/phd-program"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department does not require the GRE Mathematics Subject test.",
+      "quote": "the Mathematics Department currently does not require the general or subject Graduate Record Examination (GRE)",
+      "url": "https://math.ku.edu/phd-program"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The department cannot provide application fee waivers.",
+      "quote": "No, unfortunately we are unable to provide application fee waivers",
+      "url": "https://math.ku.edu/phd-program"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No advisor is chosen before applying; advisors are chosen after qualifying exams.",
+      "quote": "No, you will not need to choose an advisor before you apply",
+      "url": "https://math.ku.edu/phd-program"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted PhD students get a six-year support package that includes a GTA position.",
+      "quote": "Admitted PhD students receive an offer of a six-year financial support package",
+      "url": "https://math.ku.edu/phd-program"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The prerequisite is an undergraduate degree in mathematics or a close field; no master's is required.",
+      "quote": "an undergraduate degree from an accredited institution in mathematics or a closely related field",
+      "url": "https://math.ku.edu/phd-program"
+    }
+  },
+  "notes": ""
+}

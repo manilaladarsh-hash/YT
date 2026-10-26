@@ -1,0 +1,71 @@
+{
+  "id": "ku",
+  "institution": "University of Kansas",
+  "country": "USA",
+  "region": "Kansas",
+  "grad_page": "https://gradapply.ku.edu/apply",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "100 USD",
+      "value": "International degree-seeking applicants pay a $100 application fee; domestic applicants pay $65.",
+      "quote": "International degree-seeking $100",
+      "url": "https://gradapply.ku.edu/apply"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Waivers are automatic only for listed US groups; other applicants submit a request, and only certain programs sponsor the fee.",
+      "quote": "Note, only certain programs offer sponsorship for application fees.",
+      "url": "https://gradapply.ku.edu/apply",
+      "also": [
+        {
+          "quote": "Other applicants may submit a fee waiver request.",
+          "url": "https://gradapply.ku.edu/apply"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School leaves GRE or GMAT to each program; the program record gives its own rule.",
+      "quote": "Some programs require tests such as the GRE or the GMAT",
+      "url": "https://gradapply.ku.edu/apply"
+    },
+    "toefl_min": {
+      "code": "3.5 (new scale)",
+      "value": "Minimum for admission on the new TOEFL iBT scale is 3.5 with no part below 3.5; applicants reaching 4.5 with no part below 4.5 are fully proficient and skip Applied English Center testing.",
+      "quote": "Total score of 3.5 with no part score below 3.5",
+      "url": "https://gradapply.ku.edu/english-requirements",
+      "also": [
+        {
+          "quote": "Total score of 4.5 with no part score below 4.5",
+          "url": "https://gradapply.ku.edu/english-requirements"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "5.5",
+      "value": "IELTS Academic minimum for admission is 5.5 overall with no part below 5.0; 6.5 overall with no part below 6.0 gives full proficiency.",
+      "quote": "Total score of 5.5 with no part score below 5.0",
+      "url": "https://gradapply.ku.edu/english-requirements",
+      "also": [
+        {
+          "quote": "Total score of 6.5 with no part score below 6.0",
+          "url": "https://gradapply.ku.edu/english-requirements"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "An English-medium bachelor's from a foreign university can waive the English test, but the transcript must confirm English as the medium and a registrar letter may be required; India is not named.",
+      "quote": "A Medium-of-Instruction letter may be required if English instruction cannot be confirmed.",
+      "url": "https://gradapply.ku.edu/english-requirements",
+      "also": [
+        {
+          "quote": "A baccalaureate degree (or higher) from a foreign university that conducts all instruction in English",
+          "url": "https://gradapply.ku.edu/english-requirements"
+        }
+      ]
+    }
+  },
+  "notes": "Fields from gradapply.ku.edu/apply and gradapply.ku.edu/english-requirements. The doctoral programs list is degrees.ku.edu/graduate/doctoral/. Department rules are in the program records."
+}

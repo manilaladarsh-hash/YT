@@ -1,0 +1,55 @@
+{
+  "id": "ku--earth",
+  "university": "ku",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Geology",
+  "program_page": "https://geo.ku.edu/graduate-admissions",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-06",
+      "value": "Fall admission deadline is January 6; spring is October 1.",
+      "quote": "Deadline for Fall admission is January 6.",
+      "url": "https://geo.ku.edu/graduate-admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required for the application.",
+      "quote": "Graduate Record Examination (GRE) scores are not required for the application",
+      "url": "https://geo.ku.edu/graduate-admissions"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The GRE, including any subject test, is not required for the application.",
+      "quote": "Graduate Record Examination (GRE) scores are not required for the application",
+      "url": "https://geo.ku.edu/graduate-admissions"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must contact a potential faculty supervisor, and faculty acceptance is part of the review.",
+      "quote": "it is essential for all applicants to contact and communicate with a potential faculty supervisor",
+      "url": "https://geo.ku.edu/graduate-admissions",
+      "also": [
+        {
+          "quote": "Their evaluation and acceptance of graduate students is an important part of the admission evaluation",
+          "url": "https://geo.ku.edu/graduate-admissions"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Once reasonable progress is made, fellowship, GTA or GRA support is guaranteed up to the fourth year of the PhD.",
+      "quote": "As reasonable progress is made toward the degree, fellowship, scholarship, graduate teaching assistantships (GTA), or graduate research assistantships (GRA) support is guaranteed up to the second year of the M.S. and fourth year of the Ph.D. program.",
+      "url": "https://geo.ku.edu/financial-support"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not say whether a master's is required.",
+      "quote": "",
+      "url": "https://geo.ku.edu/graduate-admissions"
+    }
+  },
+  "notes": ""
+}

@@ -1,0 +1,53 @@
+{
+  "id": "ou",
+  "institution": "University of Oklahoma",
+  "country": "USA",
+  "region": "Oklahoma",
+  "grad_page": "https://ou.edu/gradcollege/apply/international-applicants",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "100 USD",
+      "value": "International applicants pay a $100 application fee, and the Graduate College does not review an application until the fee is paid.",
+      "quote": "Submit the application and pay the $100 application fee.",
+      "url": "https://ou.edu/gradcollege/apply/international-applicants"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "Application fee waivers are not currently available at the Graduate College.",
+      "quote": "Application fee waivers are not currently available.",
+      "url": "https://ou.edu/gradcollege/apply/international-applicants"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Each academic unit sets its own GRE rule, so the program records give the answer.",
+      "quote": "Some academic units require GRE test scores as part of the application.",
+      "url": "https://www.ou.edu/gradcollege/apply/before-you-apply"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "The Graduate College minimum is TOEFL iBT 4.5 on the new scoring system (79 on the old one).",
+      "quote": "4.5 or higher (new scoring system)",
+      "url": "https://ou.edu/gradcollege/apply/international-applicants",
+      "also": [
+        {
+          "quote": "79 or higher (old scoring system)",
+          "url": "https://ou.edu/gradcollege/apply/international-applicants"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The Graduate College minimum is an IELTS Academic overall band of 6.5.",
+      "quote": "IELTS - One Skill Retake scores are not accepted. Applicants must earn the required scores in a single test instance. 6.5 or higher",
+      "url": "https://ou.edu/gradcollege/apply/international-applicants"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the exempt list, so Indian applicants must submit a TOEFL, IELTS, PTE or DET score.",
+      "quote": "If you are not from one of the OU Exempted English-Speaking Countries*, Graduate Admissions will require you to demonstrate English language proficiency for studying at OU, before admission | Not all countries which have English listed as an official language are considered exempt from English proficiency requirements",
+      "url": "https://ou.edu/gradcollege/apply/international-applicants"
+    }
+  },
+  "notes": "Norman campus only. The OU Health Sciences Center (Oklahoma City) runs its own graduate college and was not researched. Industrial and Systems Engineering PhD is not an atlas field. The Graduate English Pathway admits applicants just below the test minimums on a conditional basis."
+}

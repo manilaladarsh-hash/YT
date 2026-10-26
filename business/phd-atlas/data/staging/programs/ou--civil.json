@@ -1,0 +1,56 @@
+{
+  "id": "ou--civil",
+  "university": "ou",
+  "field": "civil",
+  "also_fields": [],
+  "department": "School of Civil Engineering and Environmental Science",
+  "program_page": "https://www.ou.edu/coe/cees/academics/graduate/graduate-student-admissions-faqs.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Applications by January 15, 2027 get funding priority; the final day for international fall recommendations is April 15, 2027.",
+      "quote": "FALL APPLICATIONS - 15 February (applications submitted by 15 January)",
+      "url": "https://www.ou.edu/coe/cees/academics/graduate/graduate-student-admissions-faqs.html",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15",
+      "also": [
+        {
+          "quote": "15 April (final day to submit admission recommendation for international applicants and unsolicited applications)",
+          "url": "https://www.ou.edu/coe/cees/academics/graduate/graduate-student-admissions-faqs.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional and not needed for admission, though some faculty sponsors may ask for them.",
+      "quote": "Official GRE scores are optional and not required for admission",
+      "url": "https://www.ou.edu/coe/cees/academics/graduate/graduate-student-admissions-faqs.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are told to contact CEES faculty directly about research opportunities.",
+      "quote": "Please contact CEES faculty members directly regarding graduate research opportunities",
+      "url": "https://www.ou.edu/coe/cees/academics/graduate/graduate-student-admissions-faqs.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding is competitive: positions can fill before later applications are reviewed.",
+      "quote": "Applications received by the initial screening deadline have more opportunities for funding as positions may fill up before later applications are reviewed",
+      "url": "https://www.ou.edu/coe/cees/academics/graduate/graduate-student-admissions-faqs.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's in a related field is typically required for the CEES PhD, though rare exceptions exist.",
+      "quote": "a master’s degree in a related discipline is typically required for admission to all CEES PhD degree programs",
+      "url": "https://www.ou.edu/coe/cees/academics/graduate/graduate-student-admissions-faqs.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject GRE for this field.",
+      "quote": "",
+      "url": "https://www.ou.edu/coe/cees/academics/graduate/graduate-student-admissions-faqs.html"
+    }
+  },
+  "notes": "Covers the Civil Engineering and Environmental Engineering PhDs in CEES. The Environmental Science PhD in the same school is not separately recorded."
+}
