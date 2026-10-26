@@ -1,0 +1,48 @@
+{
+  "id": "tuebingen--chemistry",
+  "university": "tuebingen",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry (Faculty of Science doctoral subject)",
+  "program_page": "https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No chemistry application deadline is stated on the pages checked.",
+      "quote": "",
+      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Chemistry GRE Subject requirement is stated on the pages checked.",
+      "quote": "",
+      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "The application for acceptance must include a signed supervision agreement, so a supervisor must be agreed before admission.",
+      "quote": "Please be aware that incomplete applications cannot be processed | the filled out supervision agreement",
+      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/",
+      "also": [
+        {
+          "quote": "The first step is to find a supervisor at the University of Tuebingen",
+          "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/international-phd-candidates/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding rule for chemistry doctoral candidates is stated on the pages checked.",
+      "quote": "",
+      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The chemistry pages do not state the entry degree for the doctorate.",
+      "quote": "",
+      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/"
+    }
+  },
+  "notes": "Chemistry is listed as a doctoral subject on the Faculty of Science page. The chemistry department pages redirect to a login page, so no department PhD rules were read: https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/chemistry/ ."
+}

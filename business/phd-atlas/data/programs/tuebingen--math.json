@@ -1,0 +1,48 @@
+{
+  "id": "tuebingen--math",
+  "university": "tuebingen",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics (Faculty of Science)",
+  "program_page": "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/mathematics/department/courses-programs/doctoral-studies/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The mathematics doctoral page gives no application deadline.",
+      "quote": "",
+      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/mathematics/department/courses-programs/doctoral-studies/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Mathematics GRE Subject requirement is stated on the official pages checked.",
+      "quote": "",
+      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/mathematics/department/courses-programs/doctoral-studies/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants need an advisor in the mathematics department before admission as a PhD student.",
+      "quote": "For this they need an advisor at the department of mathematics",
+      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/mathematics/department/courses-programs/doctoral-studies/",
+      "also": [
+        {
+          "quote": "Application for Acceptance as Doctoral Candidate and Supervision Agreement",
+          "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding for mathematics doctoral candidates is stated on the pages checked.",
+      "quote": "",
+      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/mathematics/department/courses-programs/doctoral-studies/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants usually need a Master of Science in Mathematics or Mathematical Physics from Tübingen, or a comparable programme.",
+      "quote": "or comparable study programmes, may apply for admission as PhD student in mathematics at the Science Faculty",
+      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/mathematics/department/courses-programs/doctoral-studies/"
+    }
+  },
+  "notes": "The mathematics page says detailed terms are in the PhD examination regulations, which are in German only."
+}

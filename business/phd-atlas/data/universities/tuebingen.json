@@ -1,0 +1,71 @@
+{
+  "id": "tuebingen",
+  "institution": "University of Tübingen",
+  "country": "Germany",
+  "region": "Baden-Württemberg",
+  "grad_page": "https://uni-tuebingen.de/en/international/study-in-tuebingen/international-phd-candidates/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No application fee is stated; the page mentions only the semester fee paid after admission.",
+      "quote": "",
+      "url": "https://uni-tuebingen.de/en/research/support-for-junior-researchers/doctorates-at-the-university-of-tuebingen/",
+      "also": [
+        {
+          "quote": "These fees are to be paid by bank transfer after enrollment",
+          "url": "https://uni-tuebingen.de/en/study/application-and-enrollment/doctoral-studies-at-the-university-of-tuebingen/"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No fee waiver for doctoral applicants is stated on the official pages checked.",
+      "quote": "",
+      "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/international-phd-candidates/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement is stated on the official doctoral pages checked; the department pages were checked for it too.",
+      "quote": "",
+      "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/international-phd-candidates/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "No TOEFL minimum is stated for doctoral candidates on the official pages checked; the English rule is set by each programme.",
+      "quote": "",
+      "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/international-phd-candidates/",
+      "also": [
+        {
+          "quote": "Different degree programs require different levels of English proficiency",
+          "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/degree-seeking-students/faq/application/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "No TOEFL minimum is stated for doctoral candidates on the official pages checked; the English rule is set by each programme.",
+      "quote": "",
+      "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/international-phd-candidates/",
+      "also": [
+        {
+          "quote": "Different degree programs require different levels of English proficiency",
+          "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/degree-seeking-students/faq/application/"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "No India or English-medium rule is stated for doctoral candidates on the pages checked.",
+      "quote": "",
+      "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/international-phd-candidates/",
+      "also": [
+        {
+          "quote": "Different degree programs require different levels of English proficiency",
+          "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/degree-seeking-students/faq/application/"
+        }
+      ]
+    }
+  },
+  "notes": "Doctoral admission is handled by each faculty's PhD office; the university pages give no PhD-specific English test, GRE or fee waiver. Blocked or missing: https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/chemistry/ and .../departments/biology/ redirect to a login page; https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methods-in-medical-informatics/teaching-and-education/doctoral-program/ returned 404. Not covered here (separate school records): the Graduate Training Centre of Neuroscience, the two International Max Planck Research Schools, and LEAD."
+}

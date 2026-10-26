@@ -1,0 +1,55 @@
+{
+  "id": "tuebingen--physics",
+  "university": "tuebingen",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics (Faculty of Science)",
+  "program_page": "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/physics/department/doctoral-studies/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The physics doctoral page gives no application deadline; it only refers to the Faculty of Science doctoral rules.",
+      "quote": "",
+      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/physics/department/doctoral-studies/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Physics GRE Subject requirement is stated on the official pages checked.",
+      "quote": "",
+      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/physics/department/doctoral-studies/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "The application for acceptance must include a signed supervision agreement, so a supervisor must be agreed before admission.",
+      "quote": "Please be aware that incomplete applications cannot be processed | the filled out supervision agreement",
+      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/",
+      "also": [
+        {
+          "quote": "The first step is to find a supervisor at the University of Tuebingen",
+          "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/international-phd-candidates/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding for physics doctoral candidates is stated; the university says candidates organise their own funding.",
+      "quote": "",
+      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/physics/department/doctoral-studies/",
+      "also": [
+        {
+          "quote": "Doctoral candidates are responsible for organizing their own funding",
+          "url": "https://uni-tuebingen.de/en/research/support-for-junior-researchers/doctorates-at-the-university-of-tuebingen/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The physics doctoral page does not state the entry degree; it refers to the Faculty of Science doctoral rules.",
+      "quote": "",
+      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/physics/department/doctoral-studies/"
+    }
+  },
+  "notes": "Physics doctoral page: 'Für die Promotion und Habilitation in Physik gelten die entsprechenden Ordnungen der Mathematisch-Naturwissenschaftlichen Fakultät' (German only). Astronomy is not named on the physics doctoral page or the Faculty of Science doctoral subject list, so no also_fields entry.",
+  "name": "Physics (PhD)"
+}
