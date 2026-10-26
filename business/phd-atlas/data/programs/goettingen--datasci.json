@@ -1,0 +1,42 @@
+{
+  "id": "goettingen--datasci",
+  "university": "goettingen",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "Faculty of Mathematics and Computer Science (Data Science, PDS, GAUSS)",
+  "program_page": "https://www.uni-goettingen.de/de/pds/691749.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The PDS page gives no application deadline.",
+      "quote": "",
+      "url": "https://www.uni-goettingen.de/de/pds/691749.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is applicable for data science.",
+      "quote": "",
+      "url": "https://www.uni-goettingen.de/de/pds/691749.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You need a PhD supervisor who accepts you for PDS examination admission before enrolment.",
+      "quote": "the acceptance by a PhD supervisor with examination admission for PDS and the formation of a thesis committee comprising two additional members",
+      "url": "https://www.uni-goettingen.de/de/pds/691749.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "University-wide, the research group or department usually funds doctoral students by contract or scholarship; this is not a guarantee for every applicant.",
+      "quote": "Usually, the research group or department provides funding to their doctoral students in the form of either an employment contract or a scholarship",
+      "url": "https://www.uni-goettingen.de/en/fees+and+funding/442369.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "You need a qualifying Master's related to data science, such as machine learning, statistics, computer science or mathematics.",
+      "quote": "the successful completion of a qualifying master programme with relation to data science",
+      "url": "https://www.uni-goettingen.de/de/pds/691749.html"
+    }
+  },
+  "notes": "Funding quote is the university-wide statement."
+}

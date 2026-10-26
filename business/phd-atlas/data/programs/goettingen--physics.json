@@ -1,0 +1,51 @@
+{
+  "id": "goettingen--physics",
+  "university": "goettingen",
+  "field": "physics",
+  "also_fields": [
+    "astronomy",
+    "materials"
+  ],
+  "department": "Faculty of Physics (Promotionsstudiengang Physik)",
+  "program_page": "https://www.uni-goettingen.de/en/679649.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The physics programme and faculty pages fetched give no application deadline; applications go to the faculty.",
+      "quote": "",
+      "url": "https://www.uni-goettingen.de/en/679649.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The physics programme pages do not mention the GRE Physics test.",
+      "quote": "",
+      "url": "https://www.uni-goettingen.de/en/679649.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Before admission you need a pledge of supervision from a professor authorised to examine in the physics doctorate.",
+      "quote": "Pledge of supervision of a person authorised to examine in the doctoral programme in physics for the doctoral project",
+      "url": "https://www.uni-goettingen.de/en/679649.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "University-wide, the research group or department usually funds doctoral students by contract or scholarship; this is not a guarantee for every applicant.",
+      "quote": "Usually, the research group or department provides funding to their doctoral students in the form of either an employment contract or a scholarship",
+      "url": "https://www.uni-goettingen.de/en/fees+and+funding/442369.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "You need a relevant consecutive mathematics or science Master's and at least four years of total study.",
+      "quote": "Completion of a relevant consecutive mathematics/science Master's programme and a total duration of study of at least 4 years",
+      "url": "https://www.uni-goettingen.de/en/679649.html"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "If your Master's was taught in English (or German), the physics programme waives the C1 English test; an English-medium Master's from India meets this.",
+      "quote": "or have completed the Master's degree in an English- or German-language degree programme",
+      "url": "https://www.uni-goettingen.de/en/679649.html"
+    }
+  },
+  "notes": "Also_fields reflects research areas the programme lists (Astrophysik, Materialphysik). Funding quote is the university-wide Fees and Funding statement. The faculty page says admission is independent of funding and self-funding is possible: 'Die Aufnahme in eines der oben genannten Programme ist unabhängig von der Finanzierung der Promotion.' No GRE or deadline on the physics pages."
+}

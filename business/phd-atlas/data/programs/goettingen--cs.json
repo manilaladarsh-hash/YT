@@ -1,0 +1,42 @@
+{
+  "id": "goettingen--cs",
+  "university": "goettingen",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science, PhD Programme in Computer Science (PCS, GAUSS)",
+  "program_page": "https://www.uni-goettingen.de/en/111942.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The PCS pages fetched give no application deadline.",
+      "quote": "",
+      "url": "https://www.uni-goettingen.de/en/111942.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is applicable for computer science.",
+      "quote": "",
+      "url": "https://www.uni-goettingen.de/en/111942.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must find a supervisor from the list of eligible examiners before you apply.",
+      "quote": "a related supervisor from the list of eligible examiners needs to be found",
+      "url": "https://www.uni-goettingen.de/en/111942.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "University-wide, the research group or department usually funds doctoral students by contract or scholarship; this is not a guarantee for every applicant.",
+      "quote": "Usually, the research group or department provides funding to their doctoral students in the form of either an employment contract or a scholarship",
+      "url": "https://www.uni-goettingen.de/en/fees+and+funding/442369.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "You need a Master's in computer science (or equivalent).",
+      "quote": "PCS is open to students from Germany and from abroad who hold a Master's degree in Computer Sciences (or equivalent)",
+      "url": "https://www.uni-goettingen.de/en/111942.html"
+    }
+  },
+  "notes": "Funding quote is the university-wide statement."
+}
