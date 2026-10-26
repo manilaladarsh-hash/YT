@@ -2,10 +2,12 @@
   "id": "warwick--physics",
   "university": "warwick",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "astronomy"
+  ],
   "department": "Department of Physics",
   "program_page": "https://warwick.ac.uk/study/postgraduate/courses/phd-physics/",
-  "checked": "2026-10-22",
+  "checked": "2026-10-26",
   "fields": {
     "deadline": {
       "code": "2026-12-07",
@@ -50,35 +52,11 @@
       "quote": "The minimum requirements are an upper second-class BSc honours, MSci or MPhys degree, or international equivalent, in Physics or a related subject. | Competitive projects and funding sources will typically go to students with an MSci or MPhys level degree and first-class honours (or equivalent).",
       "url": "https://warwick.ac.uk/fac/sci/physics/admissions/postgraduate/how-to-apply/"
     },
-    "app_fee": {
-      "code": "0 (no fee)",
-      "value": "No application fee for postgraduate research applications (the £75 fee applies to taught courses)",
-      "quote": "There is no application fee for postgraduate research applications or Postgraduate Awards (PGAs).",
-      "url": "https://warwick.ac.uk/study/postgraduate/apply/pgadmissions/applicants/onlineformhelp/appfee/"
-    },
-    "fee_waiver": {
-      "code": "No fee",
-      "value": "No fee to waive",
-      "quote": "There is no application fee for postgraduate research applications or Postgraduate Awards (PGAs).",
-      "url": "https://warwick.ac.uk/study/postgraduate/apply/pgadmissions/applicants/onlineformhelp/appfee/"
-    },
-    "toefl_min": {
-      "code": "92",
-      "value": "Physics PhD is English Band A. TOEFL iBT before Jan 21, 2026: 92 (R22, L21, S23, W21); on or after Jan 21, 2026: 4.5 total with at least 4.5 in each component. IELTS 6.5 with no component below 6.0.",
-      "quote": "Band A | 92, comprising Reading 22, Listening 21, Speaking 23, Writing 21 | Total Score 4.5 including minimum of 4.5 in each component",
-      "url": "https://warwick.ac.uk/study/postgraduate/apply/english/englishlanguagealternative/",
-      "also": [
-        {
-          "quote": "Band A | IELTS overall score of 6.5, minimum component scores not below 6.0",
-          "url": "https://warwick.ac.uk/study/postgraduate/courses/phd-physics/"
-        }
-      ]
-    },
-    "english_waiver": {
-      "code": "No",
-      "value": "A test can be waived only for nationals of a UKVI-recognised English-speaking country, or for a degree taught entirely in English in such a country (completed within 2 years 4 months of the start), at the department's discretion. India is not on the UKVI list, and the India country page lists no exemption.",
-      "quote": "You are a national of an English speaking country recognised by UK Visa & Immigration (UKVI) | You have been educated entirely in English, in a UK Visa & Immigration (UKVI) recognised English speaking country, for the duration of your degree and completed this qualification within the last 2 years and 4 months before the start date of your course.",
-      "url": "https://warwick.ac.uk/study/postgraduate/apply/english/"
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Band A: IELTS overall 6.5 with no component below 6.0.",
+      "quote": "IELTS overall score of 6.5, minimum component scores not below 6.0",
+      "url": "https://warwick.ac.uk/study/postgraduate/courses/phd-physics/"
     }
   },
   "notes": "No research proposal is needed for physics; name advertised projects and supervisors instead. Shortlisted applicants are interviewed (Condensed Matter/Theory in-person day Jan 20, 2027; Particle Physics Feb 10, 2027)."

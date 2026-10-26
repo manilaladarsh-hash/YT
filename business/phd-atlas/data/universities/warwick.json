@@ -3,45 +3,57 @@
   "institution": "University of Warwick",
   "country": "United Kingdom",
   "region": "England",
-  "grad_page": "https://warwick.ac.uk/study/postgraduate/courses/phd-physics/",
-  "checked": "2026-10-22",
+  "grad_page": "https://warwick.ac.uk/study/postgraduate/apply/english/",
+  "checked": "2026-10-26",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://warwick.ac.uk/study/postgraduate/courses/phd-physics/"
+      "code": "0 (no fee)",
+      "value": "There is no application fee for PhD (postgraduate research) applications; the GBP 75 fee is for taught courses.",
+      "quote": "There is no application fee for postgraduate research applications or Postgraduate Awards (PGAs).",
+      "url": "https://warwick.ac.uk/study/postgraduate/apply/faqs/"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://warwick.ac.uk/study/postgraduate/courses/phd-physics/"
+      "code": "No fee",
+      "value": "There is no PhD application fee to waive.",
+      "quote": "There is no application fee for postgraduate research applications or Postgraduate Awards (PGAs).",
+      "url": "https://warwick.ac.uk/study/postgraduate/apply/faqs/"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "The graduate school's admissions and English pages checked do not mention the GRE.",
       "quote": "",
-      "url": "https://warwick.ac.uk/study/postgraduate/courses/phd-physics/"
+      "url": "https://warwick.ac.uk/study/postgraduate/apply/english/"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://warwick.ac.uk/study/postgraduate/courses/phd-physics/"
+      "code": "4.5 (new scale)",
+      "value": "Band A, the lowest course band, needs a TOEFL iBT total of 4.5 with at least 4.5 in each part for tests taken from 21 January 2026. Band B needs 5.0 and Band C 5.5, so check the course band.",
+      "quote": "Total Score 4.5 including minimum of 4.5 in each component",
+      "url": "https://warwick.ac.uk/study/postgraduate/apply/english/english-language-alternative/",
+      "also": [
+        {
+          "quote": "Total Score 5.0 including minimum of 4.5 in each component",
+          "url": "https://warwick.ac.uk/study/postgraduate/apply/english/english-language-alternative/"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://warwick.ac.uk/study/postgraduate/courses/phd-physics/"
+      "code": "6.5",
+      "value": "Band A, the lowest course band, needs IELTS Academic 6.5 overall with no part below 6.0. Band B needs 7.0, Band C 7.5 and Band D 8.0, so check the course band.",
+      "quote": "Overall IELTS (Academic, UKVI or Online) score of 6.5 and minimum component scores not below 6.0.",
+      "url": "https://warwick.ac.uk/study/postgraduate/apply/english/"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://warwick.ac.uk/study/postgraduate/courses/phd-physics/"
+      "code": "No",
+      "value": "The waiver covers only nationals of, or degrees taught in, a UKVI-recognised English-speaking country. India is not on the UK list of exempt countries, so Indian applicants need an accepted test.",
+      "quote": "You have been educated entirely in English, in a UK Visa & Immigration (UKVI) recognised English speaking country, for the duration of your degree",
+      "url": "https://warwick.ac.uk/study/postgraduate/apply/english/",
+      "also": [
+        {
+          "quote": "You do not need to prove your knowledge of English if you’re from one of the following countries or territories, or you’ve completed a qualification equivalent to a UK degree in one of them:",
+          "url": "https://www.gov.uk/tier-4-general-visa/knowledge-of-english"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "Warwick sets its English test minimum per course band (A to D). The TOEFL and IELTS values here are the Band A minimum; programs in higher bands carry their own value. The graduate school's admissions policy and English pages do not mention a GRE."
 }
