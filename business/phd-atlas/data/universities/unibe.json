@@ -1,0 +1,47 @@
+{
+  "id": "unibe",
+  "institution": "University of Bern",
+  "country": "Switzerland",
+  "region": "Bern",
+  "grad_page": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "Bern's doctoral fee page lists only a CHF 100 registration fee and a CHF 200 semester fee, not an application fee.",
+      "quote": "CHF 100; not payable if you enroll in a doctoral program directly after completing a master's degree program at the University of Bern",
+      "url": "https://www.unibe.ch/studies/programs/doctorate/application/fees/index_eng.html"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No doctoral application fee waiver for international applicants is stated on Bern's doctorate pages.",
+      "quote": "",
+      "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The central doctoral admission pages do not mention the GRE; the program records say what each department requires.",
+      "quote": "",
+      "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "No TOEFL minimum is stated on Bern's central doctoral admission pages.",
+      "quote": "",
+      "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "No IELTS minimum is stated on Bern's central doctoral admission pages.",
+      "quote": "",
+      "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "No Bern page says whether an English-medium degree from India is accepted for doctoral admission.",
+      "quote": "",
+      "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html"
+    }
+  },
+  "notes": "Official doctoral subject list (A-Z): https://junioracademics.unibe.ch/doctorate/pursuing_a_doctorate_at_the_university_of_bern/index_eng.html and the doctoral programme list https://junioracademics.unibe.ch/doctorate/doctoral_studies/doctoral_programs/index_eng.html. No PhD in materials science, data science, electrical, chemical or civil engineering appears on either list. Central rules come from the doctorate application, fee and deadline pages; each department page is cited in its program record. Deadlines: the central page (https://www.unibe.ch/studies/dates/phd_candidates/index_eng.html) gives a fall-semester receipt date of 15 October and a spring date of 31 March, with no year. The 15 October 2026 round closed on 2026-10-15, and no 2027 date is stated, so deadlines are Not stated. Not mapped to a STEM field: Geography and Geography and Sustainable Development (no admission rules on the Geography page); CUSO Doctoral Program in Ecology and Evolution (https://biologie.cuso.ch/ecology-evolution/welcome, run with Bern as a partner; no Bern admission rules found); Cognition, Learning and Memory and Health Sciences (not in the STEM field list). Unavailable: https://www.gcb.unibe.ch/unibe/portal/center_gradschools/gs_cb/content/e126757/e677805/e1300680/pane1300682/e1301315/files1301329/SpecializedPhDinNeurosciences2024-2025_eng.pdf (404); https://www.artorg.unibe.ch/studies/study_programs/phd_cellular_and_biomedical_sciences/index_eng.html (404). The Molecular Life Sciences PhD URL http://www.mls.unibe.ch/content/phd_programs/index_eng.html redirects to the master's page, which has no PhD admission rules."
+}

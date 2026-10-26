@@ -1,0 +1,48 @@
+{
+  "id": "unibe--cs",
+  "university": "unibe",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Institute of Computer Science (Faculty of Science)",
+  "program_page": "https://www.philnat.unibe.ch/studies/study_programs/doctoral_degree_program_in_computer_science/index_eng.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The computer science page gives no application deadline; the central page gives a fall receipt date of 15 October with no year, which closed for 2026.",
+      "quote": "",
+      "url": "https://www.unibe.ch/studies/dates/phd_candidates/index_eng.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is stated for computer science.",
+      "quote": "",
+      "url": "https://www.philnat.unibe.ch/studies/study_programs/doctoral_degree_program_in_computer_science/index_eng.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A confirmation of supervision must be filled in before admission; the computer science page also says interested persons contact a research group leader directly.",
+      "quote": "Fill in the confirmation of supervision that applies to your doctorate.",
+      "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html",
+      "also": [
+        {
+          "quote": "Interested persons can contact a leader of a research group directly to clarify the possibility of a doctorate",
+          "url": "https://www.philnat.unibe.ch/studies/study_programs/doctoral_degree_program_in_computer_science/index_eng.html"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The computer science page gives no funding rule for admitted doctoral students.",
+      "quote": "",
+      "url": "https://www.philnat.unibe.ch/studies/study_programs/doctoral_degree_program_in_computer_science/index_eng.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's degree or licentiate from a Swiss university, or an equivalent degree, is needed for doctoral admission.",
+      "quote": "For admission at doctoral level, you must | hold a master's degree or a licentiate from a Swiss university or Swiss Federal Institute of Technology, or an equivalent university degree",
+      "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html"
+    }
+  },
+  "notes": ""
+}
