@@ -1,0 +1,67 @@
+{
+  "id": "tue--cs",
+  "university": "tue",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Mathematics and Computer Science",
+  "program_page": "https://www.tue.nl/en/mathematics-and-computer-science/education-1/graduate-programs/computer-science-graduate-program/phd-program/phd-program-computer-science/admission-and-application",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "Funded PhD posts are advertised as separate vacancies, and applications go through the TU/e job site, so there is no single programme deadline.",
+      "quote": "If you want to become an employed PhD candidate, you apply for a funded position listed on the TU/e vacancies page",
+      "url": "https://www.tue.nl/en/education/graduate-school/phd-at-tue/how-to-become-a-phd-candidate",
+      "also": [
+        {
+          "quote": "Application is always done through the TU/e job site.",
+          "url": "https://www.tue.nl/en/mathematics-and-computer-science/education-1/graduate-programs/computer-science-graduate-program/phd-program/phd-program-computer-science/admission-and-application"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "TU/e's PhD pages do not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.tue.nl/en/education/graduate-school/phd-at-tue/how-to-become-a-phd-candidate"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Self-funded candidates need a TU/e supervisor's agreement and research proposal; funded projects are chosen by a selection committee.",
+      "quote": "A research proposal and agreement from a TU/e supervisor (if you do not apply through a vacancy)",
+      "url": "https://www.tue.nl/en/education/graduate-school/phd-at-tue/how-to-become-a-phd-candidate",
+      "also": [
+        {
+          "quote": "can apply first informally with any assistant, associate or full professor",
+          "url": "https://www.tue.nl/en/mathematics-and-computer-science/education-1/graduate-programs/computer-science-graduate-program/phd-program/phd-program-computer-science/admission-and-application"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most PhD candidates at TU/e are employed and paid a salary; the department says some projects are fully funded by a research grant.",
+      "quote": "Most PhD candidates are employed by TU/e",
+      "url": "https://www.tue.nl/en/education/graduate-school/phd-at-tue/how-to-become-a-phd-candidate",
+      "also": [
+        {
+          "quote": "There are projects that are fully funded by a research grant.",
+          "url": "https://www.tue.nl/en/mathematics-and-computer-science/education-1/graduate-programs/computer-science-graduate-program/phd-program/phd-program-computer-science/admission-and-application"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The PhD is for holders of a master's degree in computer science or a closely related topic.",
+      "quote": "holders of a masters degree in computer science or a closely related topic",
+      "url": "https://www.tue.nl/en/mathematics-and-computer-science/education-1/graduate-programs/computer-science-graduate-program/phd-program/phd-program-computer-science",
+      "also": [
+        {
+          "quote": "A Dutch Master’s degree (or foreign equivalent) in a relevant field",
+          "url": "https://www.tue.nl/en/education/graduate-school/phd-at-tue/how-to-become-a-phd-candidate"
+        }
+      ]
+    }
+  },
+  "notes": "No separate data science or AI PhD track was found; datasci not saved. Page also quotes EUR 10,000 tuition for self-funded candidates; this is not an application fee and is not saved.",
+  "name": "PhD in Computer Science"
+}

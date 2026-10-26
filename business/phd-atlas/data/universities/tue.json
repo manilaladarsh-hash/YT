@@ -1,0 +1,59 @@
+{
+  "id": "tue",
+  "institution": "Eindhoven University of Technology",
+  "country": "Netherlands",
+  "region": "North Brabant",
+  "grad_page": "https://www.tue.nl/en/education/graduate-school/phd-at-tue/how-to-become-a-phd-candidate",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The EUR 100 application fee is on TU/e's study-application page and is not stated for PhD applicants.",
+      "quote": "",
+      "url": "https://www.tue.nl/en/education/become-a-tue-student/tuition-fees-and-other-study-costs/application-fee"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application-fee waiver is stated for PhD applicants; the PhD page mentions only a department-granted tuition waiver.",
+      "quote": "",
+      "url": "https://www.tue.nl/en/education/graduate-school/phd-at-tue/how-to-become-a-phd-candidate"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "TU/e's PhD and admission pages do not mention the GRE.",
+      "quote": "",
+      "url": "https://www.tue.nl/en/education/graduate-school/phd-at-tue/how-to-become-a-phd-candidate"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT overall minimum 4.5 for reports from 21 January 2026; 90 for earlier reports.",
+      "quote": "TOEFL test reports obtained from January 21, 2026: ... Minimum overall score: 4,5",
+      "url": "https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/language-proficiency-requirements",
+      "also": [
+        {
+          "quote": "TOEFL test reports obtained before January 21, 2026: ... Minimum overall score: 90",
+          "url": "https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/language-proficiency-requirements"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic overall band minimum 6.5.",
+      "quote": "IELTS (Academic version) ... Minimum overall score: 6.5",
+      "url": "https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/language-proficiency-requirements"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The exemption list is not quoted in full, so India is not confirmed as excluded.",
+      "quote": "",
+      "url": "https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/language-proficiency-requirements",
+      "also": [
+        {
+          "quote": "Completed the entire bachelor's degree or the last 3 years of their High School in: Australia, Canada, Ireland, New-Zealand, United Kingdom, or the United States",
+          "url": "https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/language-proficiency-requirements"
+        }
+      ]
+    }
+  },
+  "notes": "Language table is for applications for 2027-2028 (page note) and is the university-wide TU/e test list; the PhD page requires English at C1. The EUR 100 fee applies to study applications; no PhD application fee is stated. Self-funded candidates: the IAM and CS admission pages quote EUR 10,000 tuition, while the PhD page's 2026 table gives EUR 7,000 to 45,000 by category. These are tuition figures, not an application fee, so they are not saved. No official PhD page was found for materials, astronomy, statistics, datasci, civil, biology, biomed, neuro, earth or environment. Blocked URLs: none."
+}

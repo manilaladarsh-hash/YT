@@ -1,0 +1,54 @@
+{
+  "id": "tue--bme",
+  "university": "tue",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biomedical Engineering",
+  "program_page": "https://www.tue.nl/en/our-university/departments/biomedical-engineering/education",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "Funded PhD posts are advertised as separate vacancies on the TU/e vacancies page, so there is no single programme deadline.",
+      "quote": "If you want to become an employed PhD candidate, you apply for a funded position listed on the TU/e vacancies page",
+      "url": "https://www.tue.nl/en/education/graduate-school/phd-at-tue/how-to-become-a-phd-candidate"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "TU/e's PhD pages do not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.tue.nl/en/education/graduate-school/phd-at-tue/how-to-become-a-phd-candidate"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Without an advertised vacancy you need a TU/e supervisor's agreement and a research proposal before admission.",
+      "quote": "A research proposal and agreement from a TU/e supervisor (if you do not apply through a vacancy)",
+      "url": "https://www.tue.nl/en/education/graduate-school/phd-at-tue/how-to-become-a-phd-candidate"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most PhD candidates at TU/e are employed and paid a salary; self-funded candidates must arrange their own funding.",
+      "quote": "Most PhD candidates are employed by TU/e",
+      "url": "https://www.tue.nl/en/education/graduate-school/phd-at-tue/how-to-become-a-phd-candidate",
+      "also": [
+        {
+          "quote": "As a non-employed PhD candidate, you must arrange your own funding",
+          "url": "https://www.tue.nl/en/education/graduate-school/phd-at-tue/how-to-become-a-phd-candidate"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A Dutch master's degree, or a foreign equivalent that TU/e assesses case by case, is expected before starting.",
+      "quote": "A Dutch Master’s degree (or foreign equivalent) in a relevant field",
+      "url": "https://www.tue.nl/en/education/graduate-school/phd-at-tue/how-to-become-a-phd-candidate",
+      "also": [
+        {
+          "quote": "Not every foreign preparatory and/or master's program automatically gives you access to a Dutch PhD track",
+          "url": "https://www.tue.nl/en/education/graduate-school/phd-at-tue/how-to-become-a-phd-candidate"
+        }
+      ]
+    }
+  },
+  "notes": "No department admission page was found; the university PhD rules apply. The department page refers to 'PDEng and PhD candidates'. Biomedical Engineering is saved; biomedical sciences and biology have no official TU/e PhD on the pages fetched."
+}
