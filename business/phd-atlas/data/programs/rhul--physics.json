@@ -2,10 +2,12 @@
   "id": "rhul--physics",
   "university": "rhul",
   "field": "physics",
-  "also_fields": [],
+  "also_fields": [
+    "astronomy"
+  ],
   "department": "Department of Physics",
   "program_page": "https://www.royalholloway.ac.uk/research-and-education/subjects/physics-and-astronomy/studying-here/research-degrees",
-  "checked": "2026-10-22",
+  "checked": "2026-10-26",
   "fields": {
     "deadline": {
       "code": "Rolling",
@@ -50,17 +52,11 @@
         }
       ]
     },
-    "toefl_min": {
-      "code": "88",
-      "value": "All research degrees: TOEFL iBT 88 overall with Reading 18, Listening 17, Speaking 20 and Writing 26. IELTS 6.5 overall with Writing 7.0 and no other subscore below 5.5. Test certificates must be issued no more than 2 years before the start.",
-      "quote": "All Postgraduate Research degrees (i.e. PhD and Masters by Research) require: | TOEFL iBT: 88 overall, with Reading 18 Listening 17 Speaking 20 Writing 26. | IELTS: 6.5 overall. Writing 7.0. No other subscore lower than 5.5.",
-      "url": "https://www.royalholloway.ac.uk/studying-here/international-students/english-language-requirements"
-    },
-    "english_waiver": {
-      "code": "Conditional",
-      "value": "Two India-specific exemptions. (1) Class 12 English of at least 80% for research degrees, valid for 5 years. (2) A Bachelor's or Master's from a listed Indian university, accepted as medium-of-instruction (MOI) evidence for 3 years after the degree ends. The list includes Anna, Ashoka, IISc Bangalore, IIT Bombay/Delhi/Kanpur/Kharagpur/Madras, Calcutta, Delhi, Kerala, Mumbai, SRM, Amity and others.",
-      "quote": "Class 12 English Language: 70% for UG (valid for 2 years) and PGT study, and 80% for Research Degrees (both valid for 5 years) | At Royal Holloway, we are able to accept a Bachelor's or Master’s degree completed at the following Indian universities as proof of English competency. | MOI (Medium of Instruction) acceptance is valid for 3 years from the end of your degree.",
-      "url": "https://www.royalholloway.ac.uk/studying-here/international-students/find-your-country/india"
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Physics states its own IELTS rule: 6.5 overall, with Writing 7.0 and no other band below 5.5.",
+      "quote": "IELTS: 6.5 overall. Writing 7.0. No other subscore lower than 5.5.",
+      "url": "https://www.royalholloway.ac.uk/studying-here/postgraduate/physics-and-astronomy/physics-phd/"
     }
   },
   "notes": "Apply through the Applicant Portal with a short statement, CV and transcripts. Funded projects are advertised on FindAPhD. Research areas include condensed matter, particle physics, particle astrophysics, theoretical physics, astronomy, nanotechnology and quantum devices, and accelerator physics."
