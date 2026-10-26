@@ -1,0 +1,56 @@
+{
+  "id": "ttu--chemistry",
+  "university": "ttu",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry and Biochemistry",
+  "program_page": "https://www.depts.ttu.edu/chemistry/Graduate/faqs.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The department encourages Fall applicants to submit materials by January 15, with no priority deadline.",
+      "quote": "we do encourage all applicants for Fall terms to submit their materials on or before January 15.",
+      "url": "https://www.depts.ttu.edu/chemistry/Graduate/faqs.php",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The department gives application fee waivers only in very rare circumstances.",
+      "quote": "No, the department only offers fee waivers in very rare circumstances.",
+      "url": "https://www.depts.ttu.edu/chemistry/Graduate/faqs.php"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department does not require the GRE.",
+      "quote": "No. The GRE is not currently required.",
+      "url": "https://www.depts.ttu.edu/chemistry/Graduate/faqs.php"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department does not require a Chemistry subject GRE.",
+      "quote": "No. The GRE is not currently required.",
+      "url": "https://www.depts.ttu.edu/chemistry/Graduate/faqs.php"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "A faculty advisor is not needed before applying; research advisors are chosen by the end of the first long semester.",
+      "quote": "Is it necessary to secure a faculty advisor prior to submitting an application? No. | If admitted to the university, research advisors will be chosen by the end of the first long semester.",
+      "url": "https://www.depts.ttu.edu/chemistry/Graduate/faqs.php"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every student accepted into the PhD gets four years of TA or RA support if in good standing.",
+      "quote": "All students accepted in our program are guaranteed 4 years as an assistantship (either Teaching Assistant or Research Assistant), as long as they are in good standing.",
+      "url": "https://www.depts.ttu.edu/chemistry/Graduate/faqs.php"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The FAQ does not state whether a master's is needed.",
+      "quote": "",
+      "url": "https://www.depts.ttu.edu/chemistry/Graduate/faqs.php"
+    }
+  },
+  "notes": "",
+  "name": "Chemistry, Ph.D."
+}

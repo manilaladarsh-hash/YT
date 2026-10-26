@@ -1,0 +1,56 @@
+{
+  "id": "ttu--civil",
+  "university": "ttu",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil, Environmental & Construction Engineering",
+  "program_page": "https://www.depts.ttu.edu/ceweb/grad/phd/index.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "The department recommends materials by the beginning of January to be considered for financial support.",
+      "quote": "highly recommended that your completed material (official transcripts, standard test scores) be submitted by the beginning of January",
+      "url": "https://www.depts.ttu.edu/ceweb/grad/admissions.php",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "Under no circumstances can the application fee be waived.",
+      "quote": "application fee be waived nor can anything less than official documents be accepted",
+      "url": "https://www.depts.ttu.edu/ceweb/grad/admissions.php"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The department evaluates GRE score reports as part of each application.",
+      "quote": "score reports from GRE (Aptitude) Test",
+      "url": "https://www.depts.ttu.edu/ceweb/grad/admissions.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is mentioned on the admissions pages.",
+      "quote": "",
+      "url": "https://www.depts.ttu.edu/ceweb/grad/admissions.php"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A faculty member must accept the applicant with funding; admission is not granted without full funding.",
+      "quote": "Individual faculty manage their own research funding and as such should be contacted directly to determine a fit to their research program and acceptance with funding.",
+      "url": "https://www.depts.ttu.edu/ceweb/grad/phd/index.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Financial support is limited and competitive, and doctoral students are given preference.",
+      "quote": "for financial support, but these are limited and competitive",
+      "url": "https://www.depts.ttu.edu/ceweb/grad/admissions.php"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Most entrants hold an engineering M.S.; applicants without an engineering bachelor's must take leveling courses.",
+      "quote": "Typically, students with M.S. degrees in engineering programs enter the civil engineering doctoral program.",
+      "url": "https://www.depts.ttu.edu/ceweb/grad/phd/index.php"
+    }
+  },
+  "notes": "Doctoral tracks: structures, geotechnical, water resources, transportation, construction and environmental.",
+  "name": "Civil Engineering, Ph.D."
+}

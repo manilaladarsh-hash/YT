@@ -1,0 +1,53 @@
+{
+  "id": "okstate",
+  "institution": "Oklahoma State University",
+  "country": "USA",
+  "region": "Oklahoma",
+  "grad_page": "https://gradcollege.okstate.edu/prospective-students/international-students/international-students-admissions-requirements.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "International applicants pay a $75 non-refundable application fee.",
+      "quote": "A $75 fee is required for international student applications. Fees are non-refundable",
+      "url": "https://gradcollege.okstate.edu/prospective-students/international-students/international-students-admissions-requirements.html"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "International applicants get no fee waiver except current OSU students or alumni, who get one single waiver.",
+      "quote": "Fee waivers are not available to international students, except to current OSU students or alumni, who are eligible for a single application fee waiver",
+      "url": "https://gradcollege.okstate.edu/prospective-students/international-students/international-students-admissions-requirements.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate College sets no GRE rule for all applicants; each program says which tests it requires.",
+      "quote": "some programs require submission of a test score, such as the GRE, GMAT, or MAT (Miller’s Analogy Test)",
+      "url": "https://gradcollege.okstate.edu/prospective-students/international-students/international-students-admissions-requirements.html"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "The minimum TOEFL iBT score is 4.0 on the new scale from January 2026 (79 on the old scale).",
+      "quote": "Beginning January 21, 2026, TOEFL iBT will use a new scoring scale. The new minimum score for admission is 4.0.",
+      "url": "https://gradcollege.okstate.edu/prospective-students/international-students/international-students-admissions-requirements.html",
+      "also": [
+        {
+          "quote": "TOEFL iBT: 79",
+          "url": "https://gradcollege.okstate.edu/prospective-students/international-students/international-students-admissions-requirements.html"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The IELTS Academic minimum for admission is an overall band of 6.5.",
+      "quote": "IELTS Academic: 6.5",
+      "url": "https://gradcollege.okstate.edu/prospective-students/international-students/international-students-admissions-requirements.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "A degree taught in English waives the test only if the institution is in a country where English is a recognized primary language. The page does not name India, and the approved-country list was blocked, so an Indian degree is unconfirmed.",
+      "quote": "A waiver of this requirement can be obtained for students who have completed a baccalaureate or graduate degree from an accredited institution of higher learning, at which English is the primary language of instruction, located in a country in which English is a recognized primary language.",
+      "url": "https://catalog.okstate.edu/graduate-college/"
+    }
+  },
+  "notes": "Approved English-speaking country list (go.okstate.edu/admissions/international/eng-country) is behind Cloudflare, so India is unconfirmed. Graduate Application Process and English Proficiency pages returned 403. Fee waiver text is from the international admissions page."
+}

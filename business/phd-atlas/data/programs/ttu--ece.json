@@ -1,0 +1,49 @@
+{
+  "id": "ttu--ece",
+  "university": "ttu",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical & Computer Engineering",
+  "program_page": "https://www.depts.ttu.edu/ece/grad/phd/index.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The PhD page gives no application deadline.",
+      "quote": "",
+      "url": "https://www.depts.ttu.edu/ece/grad/phd/index.php"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE scores are not mandatory but are highly recommended.",
+      "quote": "Although the Graduate Record Examination (GRE) scores are not currently mandatory, they are highly recommended.",
+      "url": "https://www.depts.ttu.edu/ece/grad/phd/index.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Electrical Engineering subject test exists, and the page does not mention one.",
+      "quote": "",
+      "url": "https://www.depts.ttu.edu/ece/grad/phd/index.php"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "The department admits PhD applicants only with a TA or RA offer from a faculty member.",
+      "quote": "The ECE Department can only accept PhD applicants with faculty member support in the form of either a Teaching Assistantship or Research Assistantship.",
+      "url": "https://www.depts.ttu.edu/ece/grad/phd/index.php"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted PhD students must already hold a TA or RA position, so admission means funding.",
+      "quote": "The ECE Department can only accept PhD applicants with faculty member support in the form of either a Teaching Assistantship or Research Assistantship.",
+      "url": "https://www.depts.ttu.edu/ece/grad/phd/index.php"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A master's is typical but not required; applicants with exemplary bachelor's records may be considered.",
+      "quote": "a master’s degree is not a mandatory prerequisite for admission to the PhD program.",
+      "url": "https://www.depts.ttu.edu/ece/grad/phd/index.php"
+    }
+  },
+  "notes": "",
+  "name": "Electrical Engineering, Ph.D."
+}

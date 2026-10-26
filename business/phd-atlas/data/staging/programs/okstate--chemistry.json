@@ -1,0 +1,49 @@
+{
+  "id": "okstate--chemistry",
+  "university": "okstate",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://catalog.okstate.edu/arts-sciences/chemistry/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The catalog gives no application deadline; the department application page returned 502.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/arts-sciences/chemistry/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The chemistry graduate program does not require GRE scores.",
+      "quote": "Graduate Record Examination scores are not required.",
+      "url": "https://catalog.okstate.edu/arts-sciences/chemistry/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The catalog says Graduate Record Examination scores are not required, which covers the Chemistry Subject test.",
+      "quote": "Graduate Record Examination scores are not required.",
+      "url": "https://catalog.okstate.edu/arts-sciences/chemistry/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "A permanent advisor is not needed before admission; the department admits applicants itself.",
+      "quote": "Acceptance by a permanent advisor is not a prerequisite for admission to the program.",
+      "url": "https://catalog.okstate.edu/arts-sciences/chemistry/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog does not describe PhD funding.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/arts-sciences/chemistry/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The PhD is 90 credit hours beyond the bachelor's degree, so students can enter straight from a bachelor's.",
+      "quote": "The Doctor of Philosophy degree requires the completion of at least 90 semester credit hours of work beyond the bachelor's degree.",
+      "url": "https://catalog.okstate.edu/arts-sciences/chemistry/"
+    }
+  },
+  "notes": "Catalog chemistry page only. Department pages (chemistry.okstate.edu/gradapp) returned 502, so deadline and funding are unchecked.",
+  "name": "Chemistry, PhD"
+}

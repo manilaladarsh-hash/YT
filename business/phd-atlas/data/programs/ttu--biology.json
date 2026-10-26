@@ -1,0 +1,45 @@
+{
+  "id": "ttu--biology",
+  "university": "ttu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://www.depts.ttu.edu/biology/academics/graduate/prospective-students/Index.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The target date for Fall admission is December 1; applications are not accepted after January 1.",
+      "quote": "target dates are December 1 for admission in the next Fall Semester (applications will not be accepted after January 1).",
+      "url": "https://www.depts.ttu.edu/biology/academics/graduate/prospective-students/Index.php",
+      "inferred": "year",
+      "time_sensitive": "2026-12-01"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Biology subject test is mentioned on the admissions page.",
+      "quote": "",
+      "url": "https://www.depts.ttu.edu/biology/academics/graduate/prospective-students/Index.php"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A faculty member must agree in writing to be your Major Advisor before admission.",
+      "quote": "A faculty member who agrees to serve as your Major Advisor must verify this commitment in writing to the departmental Graduate Student Selection Committee",
+      "url": "https://www.depts.ttu.edu/biology/academics/graduate/prospective-students/Index.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching assistantships are awarded on a competitive basis by the department.",
+      "quote": "Teaching assistantships are awarded on a competitive basis from the Department of Biological Sciences.",
+      "url": "https://www.depts.ttu.edu/biology/academics/graduate/prospective-students/Index.php"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The PhD needs 60 hours beyond the bachelor's; applicants with a prior M.S. are also considered.",
+      "quote": "This degree requires 60 credit hours beyond the baccalaureate",
+      "url": "https://www.depts.ttu.edu/biology/academics/graduate/prospective-students/Index.php"
+    }
+  },
+  "notes": "The department handbook PDF (Doctoral_Program.pdf, revised December 2013) lists a GRE General requirement; the current admissions page does not mention the GRE, so the Graduate School rule is kept. Not verified against a current handbook.",
+  "name": "Biology, Ph.D."
+}

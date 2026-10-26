@@ -1,0 +1,49 @@
+{
+  "id": "ttu--mech",
+  "university": "ttu",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering",
+  "program_page": "https://www.depts.ttu.edu/me/grad/phd/index.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The PhD page does not give a deadline; a separate deadlines page is linked but was not fetched.",
+      "quote": "",
+      "url": "https://www.depts.ttu.edu/me/grad/phd/index.php"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The department requires GRE scores, unlike the Graduate School's no-GRE rule.",
+      "quote": "The Department of Mechanical Engineering requires from prospective students GRE scores and three letters of recommendation",
+      "url": "https://www.depts.ttu.edu/me/grad/phd/index.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Mechanical Engineering subject test exists, and the page does not mention one.",
+      "quote": "",
+      "url": "https://www.depts.ttu.edu/me/grad/phd/index.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The PhD page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.depts.ttu.edu/me/grad/phd/index.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The PhD page does not describe funding.",
+      "quote": "",
+      "url": "https://www.depts.ttu.edu/me/grad/phd/index.php"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants with a bachelor's in mechanical or other engineering and science fields are considered.",
+      "quote": "We will consider applicants with a bachelor's degree in mechanical engineering as well as in other fields of engineering and science",
+      "url": "https://www.depts.ttu.edu/me/grad/phd/index.php"
+    }
+  },
+  "notes": "The deadlines page linked from the PhD page was not fetched.",
+  "name": "Mechanical Engineering, Ph.D."
+}

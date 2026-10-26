@@ -1,0 +1,58 @@
+{
+  "id": "ttu--math",
+  "university": "ttu",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Department of Mathematics and Statistics",
+  "program_page": "https://www.depts.ttu.edu/math/graduate/phd-program.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "For full consideration (assistantships) submit all materials by December 15 for Fall admission.",
+      "quote": "all application materials should be submitted by December 15 for Fall admission.",
+      "url": "https://www.depts.ttu.edu/math/graduate/application.php",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The department cannot waive or pay the application fee for any applicant.",
+      "quote": "We cannot waive or pay the application fee for any applicant.",
+      "url": "https://www.depts.ttu.edu/math/graduate/questions.php"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required for a complete application.",
+      "quote": "GRE scores are not required as part of a completed application.",
+      "url": "https://www.depts.ttu.edu/math/graduate/questions.php"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No Mathematics subject GRE is required; GRE scores are not required.",
+      "quote": "GRE scores are not required as part of a completed application.",
+      "url": "https://www.depts.ttu.edu/math/graduate/questions.php"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Contacting a faculty member is not needed to secure funding.",
+      "quote": "Do I need to contact a faculty member before applying to secure funding? No.",
+      "url": "https://www.depts.ttu.edu/math/graduate/questions.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "PhD applicants are considered for TA positions, which are limited and not guaranteed.",
+      "quote": "Positions are limited and not guaranteed.",
+      "url": "https://www.depts.ttu.edu/math/graduate/application.php"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students can enter the PhD with or without a master's degree.",
+      "quote": "enter without a master’s degree must pass their exams before the start of their fourth year.",
+      "url": "https://www.depts.ttu.edu/math/graduate/questions.php"
+    }
+  },
+  "notes": "Statistics is a concentration inside the Mathematics PhD (five tracks), so it is listed as also_fields.",
+  "name": "Mathematics, Ph.D."
+}
