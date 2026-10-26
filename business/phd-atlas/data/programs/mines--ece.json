@@ -1,0 +1,55 @@
+{
+  "id": "mines--ece",
+  "university": "mines",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Electrical Engineering Department",
+  "program_page": "https://catalog.mines.edu/graduate/programs/ee/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "Mines' deadlines page gives a Fall international PhD date of March 1 but no year, so no Fall 2027 date is stated.",
+      "quote": "",
+      "url": "https://gradprograms.mines.edu/deadlines/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The catalog gives no subject GRE rule for this PhD.",
+      "quote": "",
+      "url": "https://catalog.mines.edu/graduate/programs/ee/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No official text on this PhD says whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.mines.edu/graduate/programs/ee/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page says assistantships are generally awarded, which does not show that most students are funded.",
+      "quote": "",
+      "url": "https://gradprograms.mines.edu/applicant-frequently-asked-questions/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The minimum admission requirement is a baccalaureate degree with a 3.0 GPA; the page does not require a master's first.",
+      "quote": "A baccalaureate degree in engineering, computer science, a physical science, or math with a grade-point average of 3.0 or better on a 4.0 scale.",
+      "url": "https://catalog.mines.edu/graduate/programs/ee/"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The Electrical Engineering department requires a TOEFL score of 79 or higher for applicants whose native language is not English.",
+      "quote": "TOEFL score of 79 or higher (or 550 for the paper-based test or 213 for the computer-based test) for applicants whose native language is not English.",
+      "url": "https://catalog.mines.edu/graduate/programs/ee/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The Electrical Engineering department accepts an IELTS Academic score of 6.5 or higher in place of TOEFL.",
+      "quote": "In lieu of a TOEFL score, an IELTS score of 6.5 or higher will be accepted.",
+      "url": "https://catalog.mines.edu/graduate/programs/ee/"
+    }
+  },
+  "notes": "Department prerequisites apply to both MS and PhD.",
+  "name": "Electrical Engineering (PhD)"
+}

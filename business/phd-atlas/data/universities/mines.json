@@ -1,0 +1,60 @@
+{
+  "id": "mines",
+  "institution": "Colorado School of Mines",
+  "country": "USA",
+  "region": "Colorado",
+  "grad_page": "https://gradprograms.mines.edu/how-to-apply/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "95 USD",
+      "value": "International applicants pay a $95 non-refundable application fee; the domestic fee is $75.",
+      "quote": "Application fee is $75 for domestic students and $95 for international students.",
+      "url": "https://gradprograms.mines.edu/how-to-apply/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The application fee is waived only for current Mines students, alumni and staff, plus GEM and McNair applicants; the Admissions Office does not waive other fees.",
+      "quote": "The application fee is waived for current Mines students, alumni and staff",
+      "url": "https://gradprograms.mines.edu/admissions-requirements/",
+      "also": [
+        {
+          "quote": "Unfortunately, The Admissions Office does not waive applications fees.",
+          "url": "https://gradprograms.mines.edu/applicant-frequently-asked-questions/"
+        }
+      ],
+      "conflict": true
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The GRE is required only for some programs, so each program record sets its own rule.",
+      "quote": "The GRE is required for some programs.",
+      "url": "https://gradprograms.mines.edu/admissions-requirements/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The university's TOEFL minimum sits in a table that does not read as quotable text; department rules are on the program records.",
+      "quote": "",
+      "url": "https://gradprograms.mines.edu/admissions-requirements/"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The university's IELTS minimum sits in a table that does not read as quotable text; department rules are on the program records.",
+      "quote": "",
+      "url": "https://gradprograms.mines.edu/admissions-requirements/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "The test is waived only for a degree completed within the last two years in a university-approved country; the country chart does not read as text, so confirm with grad-admissions@mines.edu.",
+      "quote": "Completion of a university degree program (or a minimum 18 credit hours) in a university-approved country (see chart below) within the last two years from submitting a completed application requirement.",
+      "url": "https://gradprograms.mines.edu/admissions-requirements/",
+      "also": [
+        {
+          "quote": "Applicants who are not US citizens or permanent residents must submit English Proficiency scores as part of the application process",
+          "url": "https://gradprograms.mines.edu/admissions-requirements/"
+        }
+      ]
+    }
+  },
+  "notes": "Deadlines page gives Thesis and PhD international dates of March 1 (Fall) and October 1 (Spring) with no year, so deadlines are Not stated. Program finder (PhD filter) lists 28 PhDs. Not saved as separate records: Robotics, Nuclear Science and Engineering, Advanced Energy Systems, Hydrologic Science and Engineering, Space Resources, Operations Research with Engineering, Underground Construction and Tunnel Engineering, Quantitative Biosciences and Engineering (interdisciplinary PhDs whose official pages were not fetched). Mineral and Energy Economics (PhD) is not STEM. Program pages on gradprograms.mines.edu/program/ redirect to the program finder and were not usable."
+}
