@@ -1,0 +1,49 @@
+{
+  "id": "iastate--chemistry",
+  "university": "iastate",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.grad-college.iastate.edu/programs/chemistry",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-10",
+      "value": "Deadline for international applicants is January 10 (domestic applicants February 1); the page gives no year, so 2027 is inferred.",
+      "quote": "Our application deadlines are January 10 for international students and February 1 for domestic students.",
+      "url": "https://www.grad-college.iastate.edu/programs/chemistry",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The programme does not require the GRE.",
+      "quote": "Program Requires GRE: No",
+      "url": "https://www.grad-college.iastate.edu/programs/chemistry"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The programme does not require the GRE, including the Chemistry subject test.",
+      "quote": "Program Requires GRE: No",
+      "url": "https://www.grad-college.iastate.edu/programs/chemistry"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The programme page gives no supervisor rule.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/chemistry"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page gives a priority date for assistantship consideration but does not say students are funded.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/chemistry"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The stated admission requirement is a 4 year bachelor's degree (or equivalent); no master's is named.",
+      "quote": "4 year Bachelor’s degree (or equivalent)",
+      "url": "https://www.grad-college.iastate.edu/programs/chemistry"
+    }
+  },
+  "notes": "Analytical, Inorganic, Organic and Physical Chemistry are also Ph.D. pages on the Graduate College list (not saved). The Chemistry page's TOEFL, IELTS and iBT minimums match the Graduate College, so they are inherited."
+}

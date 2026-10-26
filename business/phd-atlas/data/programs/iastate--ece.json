@@ -1,0 +1,50 @@
+{
+  "id": "iastate--ece",
+  "university": "iastate",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Electrical Engineering graduate programme",
+  "program_page": "https://www.grad-college.iastate.edu/programs/electrical_engineering",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "For Fall entry the funding priority deadline is January 15; the page gives no year, so 2027 is inferred.",
+      "quote": "For Fall entry, the funding priority deadline is January 15",
+      "url": "https://www.grad-college.iastate.edu/programs/electrical_engineering",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional.",
+      "quote": "GRE is optional",
+      "url": "https://www.grad-college.iastate.edu/programs/electrical_engineering"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page names no subject test.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/electrical_engineering"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The programme page gives no supervisor rule.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/electrical_engineering"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page gives a funding priority deadline but does not say students are funded.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/electrical_engineering"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The stated admission requirement is a 4 year bachelor's degree (or equivalent); no master's is named.",
+      "quote": "4 year Bachelor’s degree (or equivalent)",
+      "url": "https://www.grad-college.iastate.edu/programs/electrical_engineering"
+    }
+  },
+  "notes": "The programme sets a PBT minimum of 570 and a PTE minimum of 59; no override is saved because only the TOEFL iBT and IELTS minimums are shown. Computer Engineering also has a Ph.D. page (not saved).",
+  "name": "Electrical Engineering"
+}

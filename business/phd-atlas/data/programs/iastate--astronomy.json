@@ -1,0 +1,56 @@
+{
+  "id": "iastate--astronomy",
+  "university": "iastate",
+  "field": "astronomy",
+  "also_fields": [],
+  "department": "Department of Physics and Astronomy",
+  "program_page": "https://www.grad-college.iastate.edu/programs/astrophysics",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall admission deadline is January 15; the page gives no year, so 2027 is inferred.",
+      "quote": "January 15th for fall admission",
+      "url": "https://www.grad-college.iastate.edu/programs/astrophysics",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE General and Subject Tests are optional for the PhD.",
+      "quote": "GRE General and Subject Tests are optional",
+      "url": "https://www.grad-college.iastate.edu/programs/astrophysics"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The subject GRE is optional for the PhD.",
+      "quote": "GRE General and Subject Tests are optional",
+      "url": "https://www.grad-college.iastate.edu/programs/astrophysics"
+    },
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "The Astrophysics PhD programme states there is no application fee.",
+      "quote": "No application fee for the PhD program.",
+      "url": "https://www.grad-college.iastate.edu/programs/astrophysics"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The programme page gives no supervisor rule.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/astrophysics"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The programme page gives no funding rule.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/astrophysics"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The stated admission requirement is a 4-year bachelor's degree (or equivalent); no master's is named.",
+      "quote": "4-year bachelor’s degree (or equivalent)",
+      "url": "https://www.grad-college.iastate.edu/programs/astrophysics"
+    }
+  },
+  "notes": "Source: Graduate College Astrophysics programme page, a separate Ph.D. from Physics.",
+  "name": "Astrophysics"
+}

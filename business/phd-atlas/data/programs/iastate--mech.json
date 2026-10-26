@@ -1,0 +1,56 @@
+{
+  "id": "iastate--mech",
+  "university": "iastate",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering",
+  "program_page": "https://www.grad-college.iastate.edu/programs/mechanical_engineering",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-07",
+      "value": "The PhD and MS fall deadline is February 7; the page gives no year, so 2027 is inferred.",
+      "quote": "Fall: PhD and MS - February 7th",
+      "url": "https://www.grad-college.iastate.edu/programs/mechanical_engineering",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE scores are encouraged for research-based PhD applicants; the programme does not require them.",
+      "quote": "GRE scores are encouraged for research-based MS and PhD degree applicants",
+      "url": "https://www.grad-college.iastate.edu/programs/mechanical_engineering",
+      "also": [
+        {
+          "quote": "Program Requires GRE: No",
+          "url": "https://www.grad-college.iastate.edu/programs/mechanical_engineering"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page names no subject test.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/mechanical_engineering"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The programme page gives no supervisor rule.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/mechanical_engineering"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The programme page gives no funding rule.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/mechanical_engineering"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The stated admission requirement is a 4 year bachelor's degree (or equivalent); no master's is named.",
+      "quote": "4 year Bachelor’s degree (or equivalent)",
+      "url": "https://www.grad-college.iastate.edu/programs/mechanical_engineering"
+    }
+  },
+  "notes": "Aerospace Engineering and Engineering Mechanics also have Ph.D. pages (not saved).",
+  "name": "Mechanical Engineering"
+}

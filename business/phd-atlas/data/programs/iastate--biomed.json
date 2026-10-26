@@ -1,0 +1,70 @@
+{
+  "id": "iastate--biomed",
+  "university": "iastate",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Department of Biomedical Sciences",
+  "program_page": "https://www.grad-college.iastate.edu/programs/biomedical_sciences",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "February 1 is the full-consideration date for MS and PhD fall assistantships; the page gives no year, so 2027 is inferred.",
+      "quote": "February 1 for full consideration for MS/PhD fall assistantships",
+      "url": "https://www.grad-college.iastate.edu/programs/biomedical_sciences",
+      "inferred": "year"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "The programme lists TOEFL iBT 100 without the new-scale note; the Graduate College uses 4.5 (new scale) for tests from 21 January 2026. Check with the programme.",
+      "quote": "TOEFL Paper (PBT) 600 TOEFL Internet (iBT) 100",
+      "url": "https://www.grad-college.iastate.edu/programs/biomedical_sciences",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Internet-Based Test of English as a Foreign Language (TOEFL iBT): 79 (for exams taken before Jan. 21, 2026); 4.5 (for exams taken on or after January 21, 2026)",
+          "url": "https://www.grad-college.iastate.edu/future/InternationalApplicants"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "The biomedical sciences programme requires IELTS 7.5, above the Graduate College's 6.5.",
+      "quote": "IELTS 7.5 PTE 68 Duolingo 115",
+      "url": "https://www.grad-college.iastate.edu/programs/biomedical_sciences"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The programme does not require the GRE.",
+      "quote": "Program Requires GRE: No",
+      "url": "https://www.grad-college.iastate.edu/programs/biomedical_sciences"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The programme does not require the GRE.",
+      "quote": "Program Requires GRE: No",
+      "url": "https://www.grad-college.iastate.edu/programs/biomedical_sciences"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The programme page gives no supervisor rule.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/biomedical_sciences"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page gives an assistantship consideration date but does not say students are funded.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/biomedical_sciences"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The stated admission requirement is a 4 year bachelor's degree (or equivalent); no master's is named.",
+      "quote": "4 year Bachelor’s degree (or equivalent)",
+      "url": "https://www.grad-college.iastate.edu/programs/biomedical_sciences"
+    }
+  },
+  "notes": "Immunobiology and Toxicology also have Ph.D. pages (not saved). Record is conflict-flagged on the TOEFL iBT score (old scale against the Graduate College's new scale).",
+  "name": "Biomedical Sciences",
+  "conflict": true
+}
