@@ -1,0 +1,43 @@
+{
+  "id": "aarhus--biology",
+  "university": "aarhus",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Biology (GSNS programme)",
+  "program_page": "https://phd.nat.au.dk/programmes/biology",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-01",
+      "value": "GSNS runs four calls a year. The next one closes 1 Nov 2026 (for a 1 Feb 2027 start); for an Aug-Oct 2027 start, the 1 May 2027 call is the one to use.",
+      "quote": "There are four PhD application deadlines each year, and the application system opens two months before each deadline. | For example, if you want to start in the period 1 August - 1 October, GSNS must receive your application no later than the May call (deadline 1 May).",
+      "url": "https://phd.nat.au.dk/for-applicants/application-guide/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The GSNS pages checked do not mention a subject GRE for this programme.",
+      "quote": "",
+      "url": "https://phd.nat.au.dk/for-applicants/application-guide/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Contact a prospective supervisor before applying; the general call is strongly advised to start with one.",
+      "quote": "Before starting the application process, it is strongly recommended that you contact a prospective supervisor in order to discuss a potential project.",
+      "url": "https://phd.nat.au.dk/for-applicants/application-guide/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every admitted PhD student has a complete financing plan, and personal or private funding is not accepted at GSNS.",
+      "quote": "If a student is admitted, it is the responsibility of Aarhus University to ensure that a complete financing plan is in place for the PhD student in connection with admission. | It is not possible to apply for a PhD programme at GSNS with funding through personal/private means.",
+      "url": "https://phd.nat.au.dk/for-applicants/application-guide/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "You may apply before you finish a master's degree, so a bachelor's holder can apply.",
+      "quote": "You are welcome to apply for a PhD position before you obtain your Master's degree.",
+      "url": "https://phd.nat.au.dk/for-applicants/application-guide/"
+    }
+  },
+  "notes": "Biology programme at GSNS. Molecular Biology & Genetics is a separate GSNS programme with the same graduate-school rules; it is not saved as its own record."
+}

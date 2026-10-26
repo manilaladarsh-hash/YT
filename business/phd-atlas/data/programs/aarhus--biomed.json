@@ -1,0 +1,78 @@
+{
+  "id": "aarhus--biomed",
+  "university": "aarhus",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Department of Biomedicine (Graduate Programme in Biomedicine, Graduate School of Health)",
+  "program_page": "https://phd.health.au.dk/programmes/graduateprogrammes/biomedicine",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-25",
+      "value": "The next ordinary open call closes 25 Feb 2027 (Spring 2027 round, earliest start 1 June 2027). The Autumn 2026 round closed 3 Sep 2026.",
+      "quote": "28/1-25/2-2027*",
+      "url": "https://phd.health.au.dk/for-applicants/opencalls/ordinary-open-calls"
+    },
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The Graduate School of Health pages checked do not state an application fee.",
+      "quote": "",
+      "url": "https://phd.health.au.dk/for-applicants/opencalls/ordinary-open-calls/application-guide-open-calls"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "The Graduate School of Health pages checked do not mention a fee waiver.",
+      "quote": "",
+      "url": "https://phd.health.au.dk/for-applicants/opencalls/ordinary-open-calls/application-guide-open-calls"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School of Health pages checked do not mention the GRE General test.",
+      "quote": "",
+      "url": "https://phd.health.au.dk/for-applicants/opencalls/ordinary-open-calls/application-guide-open-calls"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Health pages checked do not mention a subject GRE.",
+      "quote": "",
+      "url": "https://phd.health.au.dk/for-applicants/opencalls/ordinary-open-calls/application-guide-open-calls"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "For Health, TOEFL iBT results from after 21 January 2026 need 4.5 (new scale), with at least 4.0 in each subscore.",
+      "quote": "The minimum test score for test results from after 21 January 2026 is 4.5 with at least 4.0 in each subscore.",
+      "url": "https://phd.health.au.dk/for-applicants/opencalls/ordinary-open-calls/application-guide-open-calls"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall, with at least 6 in each subscore.",
+      "quote": "The minimum test score required is 6.5 with at least 6 in each subscore.",
+      "url": "https://phd.health.au.dk/for-applicants/opencalls/ordinary-open-calls/application-guide-open-calls"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "A master's taught in English does not count; a listed English test or English B from Danish upper secondary is needed.",
+      "quote": "No other tests or kind of documentation are accepted (this includes that you master's degree was taught in English)",
+      "url": "https://phd.health.au.dk/for-applicants/opencalls/ordinary-open-calls/application-guide-open-calls"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must have a Faculty of Health main supervisor, and their recommendation must be part of the application.",
+      "quote": "You must have a main supervisor from the Faculty of Health, and a recommendation from your main supervisor is a mandatory part of your application",
+      "url": "https://phd.health.au.dk/for-applicants/opencalls/ordinary-open-calls/application-guide-open-calls"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Ordinary open calls offer enrolment with or without a fellowship; about 10 fully financed fellowships are offered each round.",
+      "quote": "Ca. 10 fully financed PhD fellowships are offered each round.",
+      "url": "https://phd.health.au.dk/for-applicants/opencalls/ordinary-open-calls"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Access requires a Danish master's degree of 120 ECTS or a similar five-year degree; foreign degrees are assessed first.",
+      "quote": "Access to the graduate school’s PhD programme requires a Danish Master’s degree",
+      "url": "https://phd.health.au.dk/for-applicants/opencalls/ordinary-open-calls/application-guide-open-calls"
+    }
+  },
+  "notes": "Health applicants apply to an ordinary open call with a main supervisor's recommendation. The Health override fields are toefl_min and english_waiver; the Health fee and waiver are not stated on pages checked. Public Health and ClinFO are not STEM and are not saved."
+}
