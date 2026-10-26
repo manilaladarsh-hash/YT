@@ -1,0 +1,67 @@
+{
+  "id": "miami--chemistry",
+  "university": "miami",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://chemistry.as.miami.edu/graduate/admission/apply-international/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "85 USD",
+      "value": "The department's FAQ gives the application fee as $85.",
+      "quote": "The application fee is $85",
+      "url": "https://chemistry.as.miami.edu/_assets/pdf/application-and-post-admission-faq.pdf"
+    },
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Applications open October 1 and must be complete by January 15, 2027.",
+      "quote": "The deadline for submission of all application materials is January 15 of each year",
+      "url": "https://chemistry.as.miami.edu/graduate/admission/apply-international/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional, with no minimum score to apply.",
+      "quote": "The GRE (general and subject) are optional",
+      "url": "https://chemistry.as.miami.edu/_assets/pdf/application-and-post-admission-faq.pdf"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The subject GRE is optional, with no minimum score to apply.",
+      "quote": "The GRE (general and subject) are optional",
+      "url": "https://chemistry.as.miami.edu/_assets/pdf/application-and-post-admission-faq.pdf"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Chemistry's FAQ sets a TOEFL minimum of 80 to apply, on the old scale.",
+      "quote": "The minimum TOEFL score needed to apply is an 80",
+      "url": "https://chemistry.as.miami.edu/_assets/pdf/application-and-post-admission-faq.pdf"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Chemistry's FAQ sets an IELTS minimum of 6.5.",
+      "quote": "the minimum IELTS score is a 6.5",
+      "url": "https://chemistry.as.miami.edu/_assets/pdf/application-and-post-admission-faq.pdf"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students pick a research advisor after they arrive, not before admission.",
+      "quote": "students choose a research advisor by the end of the first semester",
+      "url": "https://chemistry.as.miami.edu/graduate/index.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Chemistry names a $33,000 teaching assistant stipend for students who do not pass the SPEAK test, but does not say most or all admitted students are funded.",
+      "quote": "In the absence of passing the test your stipend would be $33,000/year",
+      "url": "https://chemistry.as.miami.edu/graduate/admission/apply-international/index.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students with a bachelor's or a master's degree both enter the program.",
+      "quote": "Students entering the graduate program with a Bachelor’s or Master's degree enroll in a minimum of eighteen credits of courses",
+      "url": "https://chemistry.as.miami.edu/graduate/index.html"
+    }
+  },
+  "notes": "International applicants must pass a SPEAK exam on arrival to qualify for teaching assistant duties; the department cites the $33,000 stipend when they do not."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "uky--biology",
+  "university": "uky",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://bio.as.uky.edu/graduate-program/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "PhD applications are due December 15 for fall admission.",
+      "quote": "For the PhD and thesis MS program our deadline is December 15th.",
+      "url": "https://bio.as.uky.edu/faq",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "GRE scores are not required for application.",
+      "quote": "GRE scores (general and subject) are not required for application to our program.",
+      "url": "https://bio.as.uky.edu/faq"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "A research advisor is not required, but finding one significantly raises chances of admission.",
+      "quote": "While not required, finding a research advisor who is interested in having you join their lab significantly increases your chances of admission.",
+      "url": "https://bio.as.uky.edu/faq"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted PhD students are accepted only with full funding through a teaching or research assistantship.",
+      "quote": "We only accept students into our PhD and thesis Master’s program with full funding via either a teaching or research assistantship.",
+      "url": "https://bio.as.uky.edu/faq"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is enough; a master's is not required to apply to the PhD.",
+      "quote": "Note that a master's degree is not required for application to the Ph.D. program.",
+      "url": "https://bio.as.uky.edu/graduate-program/admissions"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required for application.",
+      "quote": "GRE scores (general and subject) are not required for application to our program.",
+      "url": "https://bio.as.uky.edu/faq"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "There is no general waiver; applicants with financial hardship can ask the Director of Graduate Studies.",
+      "quote": "No, but if you have a financial hardship preventing you from paying for the application fee, please contact the Director of Graduate Studies.",
+      "url": "https://bio.as.uky.edu/faq"
+    }
+  },
+  "notes": "The FAQ still gives TOEFL 79 (old scale) for international applicants; the Graduate School's rule for exams after January 21, 2026 (4.0 new scale) is used, so no TOEFL override is set. Confirm with the department."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "miami--math",
+  "university": "miami",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://mathematics.miami.edu/grad/application/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "85 USD",
+      "value": "The department's application fee is $85.00.",
+      "quote": "The application fee is $85.00",
+      "url": "https://mathematics.miami.edu/grad/application/index.html"
+    },
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "To be considered for a University Fellowship, all materials are due January 1, 2027; teaching assistant consideration needs January 15 (US) or February 15 (international).",
+      "quote": "To be considered for a University Fellowship all application materials must be submitted by January 1",
+      "url": "https://mathematics.miami.edu/grad/application/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is accepted but not required, and scores must be no more than five years old.",
+      "quote": "Note that the GRE test is accepted but not required",
+      "url": "https://mathematics.miami.edu/grad/application/index.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students find a dissertation advisor in their third year, not before admission.",
+      "quote": "Obtain a dissertation advisor by June of the third year",
+      "url": "https://mathematics.miami.edu/grad/program-requirements/index.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department lists a 2025-2026 teaching assistant stipend of $35,200 and an 18-credit tuition waiver, but does not say most or all admitted students get one.",
+      "quote": "with a current (2025-2026) stipend of $35,200",
+      "url": "https://mathematics.miami.edu/grad/funding/index.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The math pages do not say whether a master's is needed for the PhD.",
+      "quote": "",
+      "url": "https://mathematics.miami.edu/grad/application/index.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The math page mentions only the general GRE.",
+      "quote": "",
+      "url": "https://mathematics.miami.edu/grad/application/index.html"
+    }
+  },
+  "notes": "Math page says TOEFL is required for non-native speakers but gives no minimum score; the Graduate School minimum applies."
+}

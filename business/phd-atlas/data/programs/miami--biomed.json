@@ -1,0 +1,69 @@
+{
+  "id": "miami--biomed",
+  "university": "miami",
+  "field": "biomed",
+  "also_fields": [
+    "neuro"
+  ],
+  "department": "Miller School of Medicine: Programs in Biomedical Sciences (PIBS)",
+  "program_page": "https://med.miami.edu/graduate-studies/doctoral-programs/first-year-program/application-process",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "85 USD",
+      "value": "A non-refundable $85 processing fee is due at submission.",
+      "quote": "A non-refundable $85 processing fee is only due at the time of submission",
+      "url": "https://med.miami.edu/graduate-studies/application-instructions"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Fee waivers go only to U.S. citizens and permanent residents, and are very limited.",
+      "quote": "Qualified applicants who are U.S. citizens or permanent residents may request a fee waiver based on financial need",
+      "url": "https://med.miami.edu/graduate-studies/application-instructions"
+    },
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026; late applications may be considered if space permits.",
+      "quote": "December 1st Application Deadline. Late applications may be considered if space permits",
+      "url": "https://med.miami.edu/graduate-studies/doctoral-programs/first-year-program/application-process",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The school does not require standardized tests such as the GRE or GMAT.",
+      "quote": "Standardized tests (GRE, GMAT) are not required",
+      "url": "https://med.miami.edu/graduate-studies/application-instructions"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students choose a lab only after at least three rotations, so no supervisor is needed for admission.",
+      "quote": "Students do not commit to one of our eight biomedical science programs or laboratories until after completing a minimum of three lab rotations",
+      "url": "https://med.miami.edu/graduate-studies/doctoral-programs/neuroscience/application-process"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All full-time PhD students in the biomedical sciences receive full tuition support and a stipend.",
+      "quote": "All full-time Ph.D. students in the Biomedical Sciences receive the following: Full tuition support",
+      "url": "https://med.miami.edu/graduate-studies/doctoral-programs/first-year-program/financial-support",
+      "also": [
+        {
+          "quote": "Annual stipend is $46,000 for the 2024-2025 academic year",
+          "url": "https://med.miami.edu/graduate-studies/doctoral-programs/first-year-program/financial-support"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need a bachelor's degree in the biological sciences or a related field.",
+      "quote": "Applicants should have a bachelor's degree in the biological sciences or a related discipline",
+      "url": "https://med.miami.edu/graduate-studies/doctoral-programs/first-year-program/application-process"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Standardized tests are not required, so no subject test applies.",
+      "quote": "",
+      "url": "https://med.miami.edu/graduate-studies/doctoral-programs/first-year-program/application-process"
+    }
+  },
+  "notes": "Umbrella first-year program (PIBS) that admits to eight PhD programs, including Neuroscience (listed on the Neuroscience application page). Entry is by lab rotations; the stipend figure is for 2024-2025. Other Miller PhD tracks (MSTP, Epidemiology, Biostatistics) are separate."
+}

@@ -1,0 +1,53 @@
+{
+  "id": "uky",
+  "institution": "University of Kentucky",
+  "country": "USA",
+  "region": "Kentucky",
+  "grad_page": "https://gradschool.uky.edu/admissions/application-process",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The international application fee is $75 per application and is non-refundable.",
+      "quote": "International Application Fee $75",
+      "url": "https://gradschool.uky.edu/admissions/application-process"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The only waiver stated is for U.S. military veterans, whose application fee the Graduate School pays; no waiver for international applicants is listed.",
+      "quote": "The Graduate School pays the application fee for applicants who are U.S. military veterans.",
+      "url": "https://gradschool.uky.edu/admissions/application-process"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE or GMAT is required only by some programs; each program record gives its own rule.",
+      "quote": "Depending on your program of interest, you may be required to provide your GRE or GMAT test score for admissions.",
+      "url": "https://gradschool.uky.edu/admissions/application-process"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "For exams taken after January 21, 2026 the Graduate School requires a TOEFL iBT minimum of 4.0 on the new scale.",
+      "quote": "Exams taken after January 21, 2026: A minimum score of 4.0 or higher is required",
+      "url": "https://gradschool.uky.edu/admissions/application-process",
+      "also": [
+        {
+          "quote": "Exams taken before January 21, 2026: A minimum score of 79 or higher is required",
+          "url": "https://gradschool.uky.edu/admissions/application-process"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic minimum is 6.5 overall.",
+      "quote": "6.5 Overall Mean Band Score",
+      "url": "https://gradschool.uky.edu/admissions/application-process"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "India is not named. An English-medium degree counts only if the registrar or official transcript confirms English was the sole language of instruction.",
+      "quote": "an attestation letter sent directly from the registrar of the degree-granting institution to gradtranscripts@uky.edu confirming that English was the language of instruction | This option can only be used when English was the sole language of instruction.",
+      "url": "https://gradschool.uky.edu/admissions/application-process"
+    }
+  },
+  "notes": "Source for all university fields: the Graduate School application-process page. The older https://gradschool.uky.edu/admissions page (quoted in the physics FAQ) gives TOEFL 79 and 550/213 scores; it is superseded by the application-process page's January 21, 2026 change and is not used. Deadlines are not quoted here: the Graduate School deadline table (apply.gradschool.uky.edu/portal/application_deadlines) has columns the cached text does not label clearly. Department pages state their own fee waiver rules: physics (small competitive scholarships), chemistry and math (none), CS (US BS/MS with GPA 3.5), biology (hardship only), materials (short-listed applicants), mechanical and aerospace (domestic students with GPA 3.5). The Graduate School's GRE list (on the same page) names Electrical Engineering (MS, PhD), Mining Engineering (PhD), Radiation and Radiological Sciences (PhD) and others; STEM PhDs not on that list use the department rule."
+}

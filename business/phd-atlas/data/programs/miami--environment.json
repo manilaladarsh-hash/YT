@@ -1,0 +1,74 @@
+{
+  "id": "miami--environment",
+  "university": "miami",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Rosenstiel School of Marine, Atmospheric, and Earth Science",
+  "program_page": "https://graduate.earth.miami.edu/apply-now/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "85 USD",
+      "value": "The Rosenstiel application fee is $85, non-refundable.",
+      "quote": "Non-refundable application fee ($85)",
+      "url": "https://graduate.earth.miami.edu/apply-now/index.html"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is not required for admission; you may send it, and some programs may consider it.",
+      "quote": "The GRE is not required for admission. You may optionally submit your GRE score",
+      "url": "https://graduate.earth.miami.edu/apply-now/index.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Rosenstiel pages do not state a subject GRE rule for this field.",
+      "quote": "",
+      "url": "https://graduate.earth.miami.edu/apply-now/index.html"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "Rosenstiel requires an iBT overall score of 4.5 for tests taken on or after January 21, 2026.",
+      "quote": "For TOEFL iBT exams taken on or after January 21, 2026, a minimum overall score of 4.5 is required",
+      "url": "https://graduate.earth.miami.edu/apply-now/index.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Rosenstiel requires an IELTS score of 6.5.",
+      "quote": "A minimum score of 6.5 for the IELTS is required for admission",
+      "url": "https://graduate.earth.miami.edu/apply-now/index.html"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "Rosenstiel names only a US degree or select English-speaking countries as exceptions; the country list sits behind a link not checked here, so the school sets its own rule.",
+      "quote": "An exception to this rule is an international student who will have earned a degree in the US or select other English-speaking countries",
+      "url": "https://graduate.earth.miami.edu/apply-now/index.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are advised to contact potential faculty mentors during the application process.",
+      "quote": "Applicants are strongly encouraged to research their prospective graduate program(s) and to contact potential faculty mentors during the application process",
+      "url": "https://graduate.earth.miami.edu/admissions/faq/index.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most admitted PhD students get up to five years of support as a research assistant or University Fellow.",
+      "quote": "Most PhD students admitted into the programs of Atmospheric Sciences, Environmental Science & Policy, Marine Biology & Ecology, Marine Geosciences, Meteorology & Physical Oceanography, and Ocean Sciences are offered up to 5 years support in the form of a Research Assistantship or University Fellowship",
+      "url": "https://graduate.earth.miami.edu/admissions/faq/index.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "PhD programs accept direct entry from a bachelor's degree, and the school encourages it.",
+      "quote": "In all of the Ph.D. programs, direct entry for study leading to the Ph.D. is encouraged",
+      "url": "https://graduate.earth.miami.edu/admissions/faq/index.html"
+    },
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Send a complete application by December 1, 2026 for the best chance at the February recruitment visit; applications close January 8, 2027.",
+      "quote": "complete applications received by December 1 will have the highest chance of being invited to our on-site annual recruitment weekend visit",
+      "url": "https://graduate.earth.miami.edu/apply-now/index.html",
+      "inferred": "year"
+    }
+  },
+  "notes": "Rosenstiel pages conflict on the GRE. The apply page says the GRE is not required and optional; the FAQ says \"An official score of the general Graduate Record Examination Test (GRE) must be submitted.\" The FAQ also cites an older 297 minimum. The Rosenstiel application period is September 1 to January 8. Shared Rosenstiel rules apply to every Rosenstiel PhD; program-specific pages were not fetched. Also covers Environmental Science & Policy and Marine Biology & Ecology PhDs.",
+  "name": "Atmospheric Sciences, Meteorology and Physical Oceanography, Ocean Sciences PhD"
+}

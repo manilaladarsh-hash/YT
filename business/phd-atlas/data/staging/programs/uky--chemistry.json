@@ -1,0 +1,68 @@
+{
+  "id": "uky--chemistry",
+  "university": "uky",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://chem.as.uky.edu/graduate-program/admission",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Fall applicants get primary consideration if applications arrive by December 15; most decisions are made by the end of February.",
+      "quote": "Primary consideration will be given to applications received by Dec. 15.",
+      "url": "https://chem.as.uky.edu/graduate-program/admission",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department no longer requires GRE scores, general or subject.",
+      "quote": "we no longer require that applicants take or submit their GRE scores",
+      "url": "https://chem.as.uky.edu/graduate-program/admission"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by the admissions committee.",
+      "quote": "Our admissions committee uses some unofficial lower score limits when evaluating applications.",
+      "url": "https://chem.as.uky.edu/graduate-program/admission"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All new students admitted to the PhD are offered a full assistantship with tuition and health insurance.",
+      "quote": "Full assistantships, including a typical stipend of up to $29,000 a year if supported over the entire summer, full tuition scholarship and fully paid health insurance are offered to all new students admitted to the Ph.D. program.",
+      "url": "https://chem.as.uky.edu/graduate-program/admission"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not say whether a master's degree is needed.",
+      "quote": "",
+      "url": "https://chem.as.uky.edu/graduate-program/admission"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department no longer requires GRE scores.",
+      "quote": "we no longer require that applicants take or submit their GRE scores",
+      "url": "https://chem.as.uky.edu/graduate-program/admission"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The department offers no application fee waiver or fee deferral.",
+      "quote": "We no longer offer fee waivers or fee deferrals.",
+      "url": "https://chem.as.uky.edu/graduate-program/admission"
+    },
+    "toefl_min": {
+      "code": "Sections",
+      "value": "The department's unofficial speaking-section screens are TOEFL 20 and IELTS 7.0 (speaking); the Graduate School's overall minimum still applies.",
+      "quote": "TOEFL* (speaking): 20.",
+      "url": "https://chem.as.uky.edu/graduate-program/admission",
+      "also": [
+        {
+          "quote": "IELTS* (speaking): 7.0.",
+          "url": "https://chem.as.uky.edu/graduate-program/admission"
+        }
+      ]
+    }
+  },
+  "notes": "Spring admission is case by case; the page directs spring enquiries to the director of graduate recruiting. The TOEFL and IELTS speaking figures are the committee's unofficial lower limits, not published requirements.",
+  "name": "Chemistry (PhD)"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "uky--statistics",
+  "university": "uky",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Statistics",
+  "program_page": "https://stat.as.uky.edu/ms-phd/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Rolling admissions; applications received by February 1 get full consideration for funding.",
+      "quote": "Applications received by February 1 will receive full consideration for funding.",
+      "url": "https://stat.as.uky.edu/ms-phd/admissions",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The admissions page does not state a subject GRE rule.",
+      "quote": "",
+      "url": "https://stat.as.uky.edu/ms-phd/admissions"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The admissions page does not state whether a faculty agreement is needed before admission.",
+      "quote": "",
+      "url": "https://stat.as.uky.edu/ms-phd/admissions"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page lists stipends and fellowships but does not say all admitted students are funded.",
+      "quote": "",
+      "url": "https://stat.as.uky.edu/ms-phd/admissions"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not say whether a master's degree is needed.",
+      "quote": "",
+      "url": "https://stat.as.uky.edu/ms-phd/admissions"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional.",
+      "quote": "GRE is optional.",
+      "url": "https://stat.as.uky.edu/ms-phd/admissions"
+    }
+  },
+  "notes": "The page lists the MS/PhD admissions together; the PhD follows the same rolling process."
+}

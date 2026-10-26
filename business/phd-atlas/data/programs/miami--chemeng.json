@@ -1,0 +1,58 @@
+{
+  "id": "miami--chemeng",
+  "university": "miami",
+  "field": "chemeng",
+  "also_fields": [
+    "materials"
+  ],
+  "department": "Chemical, Environmental and Materials Engineering",
+  "program_page": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "85 USD",
+      "value": "The College's application fee is $85.00 USD, non-refundable.",
+      "quote": "A non-refundable application fee of $85.00 USD",
+      "url": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html"
+    },
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The College's priority deadline for fall 2027 entry is December 1, 2026; later applications are reviewed on a space-available basis.",
+      "quote": "Fall 2027 - Priority deadline - December 1",
+      "url": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The College says the GRE is not required.",
+      "quote": "GRE is NOT required",
+      "url": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Engineering has no subject GRE; the College page says nothing about one.",
+      "quote": "",
+      "url": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly encouraged to contact faculty before applying, but admission does not require a supervisor.",
+      "quote": "Potential applicants are strongly encouraged to contact faculty experts in their field of expertise",
+      "url": "https://www.coe.miami.edu/academics/programs/doctorate-programs/index.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted doctoral students receive financial assistance: a monthly stipend and a full tuition waiver.",
+      "quote": "all doctoral students receive financial assistance including a monthly stipend and a full tuition waiver",
+      "url": "https://www.coe.miami.edu/academics/programs/doctorate-programs/index.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The College pages do not say whether a master's is needed for the PhD.",
+      "quote": "",
+      "url": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html"
+    }
+  },
+  "notes": "College of Engineering PhD rules (one page for all six departments). The college admits PhD students only for fall. The college international page (grad.miami.edu) sets the English test rules, so no English override. Department PhD pages were not fetched separately. One PhD covers chemical engineering and materials science.",
+  "name": "Chemical, Environmental, and Materials Engineering PhD"
+}

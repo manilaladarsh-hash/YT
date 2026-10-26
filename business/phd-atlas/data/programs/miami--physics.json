@@ -1,0 +1,61 @@
+{
+  "id": "miami--physics",
+  "university": "miami",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://physics.as.miami.edu/graduate-program/prospective-students/admission/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Applications for the Fall semester are due January 15, 2027.",
+      "quote": "Application deadline for the Fall Semester is January 15th",
+      "url": "https://physics.as.miami.edu/graduate-program/prospective-students/admission/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The department recommends the general GRE, but does not require it.",
+      "quote": "Submission of Graduate Record Examination (general and subject GRE) scores is recommended, but not required",
+      "url": "https://physics.as.miami.edu/graduate-program/prospective-students/admission/index.html"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The department recommends the subject GRE, but does not require it.",
+      "quote": "Submission of Graduate Record Examination (general and subject GRE) scores is recommended, but not required",
+      "url": "https://physics.as.miami.edu/graduate-program/prospective-students/admission/index.html"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Physics sets its own TOEFL minimum of 80 on the old internet-based scale, which differs from the Graduate School's new 4.5.",
+      "quote": "The minimum TOEFL score for admission is 80 in the internet-based test",
+      "url": "https://physics.as.miami.edu/graduate-program/prospective-students/admission/index.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Physics requires an IELTS overall score of 6.5.",
+      "quote": "The minimum IELTS score is 6.5",
+      "url": "https://physics.as.miami.edu/graduate-program/prospective-students/admission/index.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students choose a thesis advisor after the core courses, before their fourth semester, not for admission.",
+      "quote": "before the start of their 4th semester, the student is required to select a faculty member who consents to serve as their Ph.D. thesis advisor",
+      "url": "https://physics.as.miami.edu/graduate-program/prospective-students/index.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Physics lists research and teaching assistantships with a $33,950 nine-month stipend, but does not say most or all admitted students get one.",
+      "quote": "Research and teaching assistantships include a stipend of $33,950 per nine months",
+      "url": "https://physics.as.miami.edu/graduate-program/prospective-students/financial-aid/index.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Physics considers applicants with a B.S. in physics or a related field.",
+      "quote": "Consideration is given to applicants who have a B.S. degree in physics (or related field)",
+      "url": "https://physics.as.miami.edu/graduate-program/prospective-students/admission/index.html"
+    }
+  },
+  "notes": "Physics page: applicants from non-English-speaking countries need TOEFL or IELTS even after US courses. Financial aid is automatic on application."
+}

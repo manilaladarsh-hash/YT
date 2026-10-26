@@ -1,0 +1,55 @@
+{
+  "id": "miami--civil",
+  "university": "miami",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Civil and Architectural Engineering",
+  "program_page": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "85 USD",
+      "value": "The College's application fee is $85.00 USD, non-refundable.",
+      "quote": "A non-refundable application fee of $85.00 USD",
+      "url": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html"
+    },
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The College's priority deadline for fall 2027 entry is December 1, 2026; later applications are reviewed on a space-available basis.",
+      "quote": "Fall 2027 - Priority deadline - December 1",
+      "url": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The Civil and Architectural Engineering 2023 brochure says GRE scores are required for PhD applications, which differs from the College page.",
+      "quote": "GRE scores are required for applications to the PhD program",
+      "url": "https://cae.coe.miami.edu/_assets/pdf/cae-graduate-degree-programs-2023.pdf"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Engineering has no subject GRE; the College page says nothing about one.",
+      "quote": "",
+      "url": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly encouraged to contact faculty before applying, but admission does not require a supervisor.",
+      "quote": "Potential applicants are strongly encouraged to contact faculty experts in their field of expertise",
+      "url": "https://www.coe.miami.edu/academics/programs/doctorate-programs/index.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "The CAE 2023 brochure says teaching and research assistantships with full tuition and stipend are awarded on a competitive basis.",
+      "quote": "and full stipend, are available on a competitive basis for",
+      "url": "https://cae.coe.miami.edu/_assets/pdf/cae-graduate-degree-programs-2023.pdf"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The College pages do not say whether a master's is needed for the PhD.",
+      "quote": "",
+      "url": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html"
+    }
+  },
+  "notes": "College of Engineering PhD rules (one page for all six departments). The college admits PhD students only for fall. The college international page (grad.miami.edu) sets the English test rules, so no English override. Department PhD pages were not fetched separately. CONFLICT: the CAE 2023 brochure says the GRE is required; the College page says not required. Verify with CAE before publishing. Industrial Engineering also offers a PhD, but it has no field id."
+}

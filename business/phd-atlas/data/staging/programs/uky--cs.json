@@ -1,0 +1,61 @@
+{
+  "id": "uky--cs",
+  "university": "uky",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science",
+  "program_page": "https://cs.engr.uky.edu/students-1/graduate-studies/computer-science/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-15",
+      "value": "The international fall deadline is April 15; the domestic deadline is July 15.",
+      "quote": "International: April 15",
+      "url": "https://cs.engr.uky.edu/students-1/graduate-studies/computer-science/admissions",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is listed for computer science.",
+      "quote": "",
+      "url": "https://cs.engr.uky.edu/students-1/graduate-studies/computer-science/admissions"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The admissions page does not say whether a faculty agreement is needed before admission.",
+      "quote": "",
+      "url": "https://cs.engr.uky.edu/students-1/graduate-studies/computer-science/admissions"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not state whether all admitted PhD students are funded.",
+      "quote": "",
+      "url": "https://cs.engr.uky.edu/students-1/graduate-studies/computer-science/admissions"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not state whether a master's degree is needed.",
+      "quote": "",
+      "url": "https://cs.engr.uky.edu/students-1/graduate-studies/computer-science/admissions"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE is not required, but it is recommended.",
+      "quote": "GRE is not required, but it is recommended.",
+      "url": "https://cs.engr.uky.edu/students-1/graduate-studies/computer-science/admissions"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "A waiver is available only to applicants with a US BS or MS and a GPA of 3.5 or higher; MS applicants and non-CS degree holders cannot get one.",
+      "quote": "Students who have completed BS or MS degrees at a US college or university with a GPA of 3.5 or higher are eligible for applying for an application fee waiver.",
+      "url": "https://cs.engr.uky.edu/students-1/graduate-studies/computer-science/admissions",
+      "also": [
+        {
+          "quote": "MS students and students who do not have a CS degree are not eligible for an application fee waiver.",
+          "url": "https://cs.engr.uky.edu/students-1/graduate-studies/computer-science/admissions"
+        }
+      ]
+    }
+  },
+  "notes": "The data science page on the same site covers a master's degree only; no data science PhD was found."
+}

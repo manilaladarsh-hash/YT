@@ -1,0 +1,61 @@
+{
+  "id": "miami--biology",
+  "university": "miami",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://biology.as.miami.edu/_assets/pdf/ed_biogradprograms_applicationguidelines_final.pdf",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "85 USD",
+      "value": "The department's guidelines give the application cost as $85.",
+      "quote": "The cost for applying is $85",
+      "url": "https://biology.as.miami.edu/_assets/pdf/ed_biogradprograms_applicationguidelines_final.pdf"
+    },
+    "fee_waiver": {
+      "code": "Available",
+      "value": "The $85 fee can be waived for applicants for whom it is a financial burden; the sentence sets no nationality limit.",
+      "quote": "this cost can be waived for applicants for whom this fee represents a financial burden",
+      "url": "https://biology.as.miami.edu/_assets/pdf/ed_biogradprograms_applicationguidelines_final.pdf"
+    },
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications are due December 1, 2026 for fall 2027 entry.",
+      "quote": "The deadline for applications is December 1st of each year",
+      "url": "https://biology.as.miami.edu/_assets/pdf/ed_biogradprograms_applicationguidelines_final.pdf",
+      "inferred": "year"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants need a faculty sponsor in the department, except rotation-fellowship applicants.",
+      "quote": "Application to our program requires students to be sponsored by faculty within our department, unless they are pursuing a rotation fellowship",
+      "url": "https://biology.as.miami.edu/_assets/pdf/ed_biogradprograms_applicationguidelines_final.pdf"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted PhD students are guaranteed 10 semesters of support as a teaching or research assistant.",
+      "quote": "Students admitted to the Ph.D. program in the Department of Biology are guaranteed 10 semesters of support",
+      "url": "https://biology.as.miami.edu/_assets/pdf/ed_biogradprograms_applicationguidelines_final.pdf"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The department's application guidelines do not mention the GRE.",
+      "quote": "",
+      "url": "https://biology.as.miami.edu/_assets/pdf/ed_biogradprograms_applicationguidelines_final.pdf"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The guidelines do not say whether a master's is needed for the PhD.",
+      "quote": "",
+      "url": "https://biology.as.miami.edu/_assets/pdf/ed_biogradprograms_applicationguidelines_final.pdf"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The guidelines do not mention a subject GRE.",
+      "quote": "",
+      "url": "https://biology.as.miami.edu/_assets/pdf/ed_biogradprograms_applicationguidelines_final.pdf"
+    }
+  },
+  "notes": "The Biology Academic Bulletin page returned HTTP 502, so the bulletin's December 1 date is not quoted. The Biology PhD also has a rotation-fellowship route for applicants without a sponsor."
+}

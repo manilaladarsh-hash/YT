@@ -1,0 +1,61 @@
+{
+  "id": "miami--cs",
+  "university": "miami",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://csc.as.miami.edu/programs/graduate-admission/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "The fellowship deadline is January 1, 2027; the general international fall deadline on the same page is April 15.",
+      "quote": "Application deadlines for fellowships: 1st January",
+      "url": "https://csc.as.miami.edu/programs/graduate-admission/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General scores are required, with at least the 65th percentile in Quantitative Reasoning.",
+      "quote": "GRE general test scores - Institution code 5815, Department code 0402 | Applicants must rank in the 65% percentile or higher in the Quantitative Reasoning test",
+      "url": "https://csc.as.miami.edu/programs/graduate-admission/index.html"
+    },
+    "toefl_min": {
+      "code": "92",
+      "value": "The department sets a TOEFL internet-based minimum of 92, on the old scale; its page is dated.",
+      "quote": "Minimum score requirement: Internet based - 92",
+      "url": "https://csc.as.miami.edu/programs/graduate-admission/index.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department sets an IELTS minimum of 6.5.",
+      "quote": "IELTS: Minimum score requirement: 6.5",
+      "url": "https://csc.as.miami.edu/programs/graduate-admission/index.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students must find a research supervisor by the end of their second semester, not before admission.",
+      "quote": "By the end of the second semester, the student must find a research supervisor",
+      "url": "https://csc.as.miami.edu/programs/doctor-of-philosophy/index.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page says assistantships go only to PhD students, but does not say most or all admitted students get one.",
+      "quote": "Assistantships are offered only to PhD students",
+      "url": "https://csc.as.miami.edu/programs/graduate-admission/index.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The CS pages do not say whether a master's is needed for the PhD.",
+      "quote": "",
+      "url": "https://csc.as.miami.edu/programs/graduate-admission/index.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "CS has no subject GRE; the page says nothing about one.",
+      "quote": "",
+      "url": "https://csc.as.miami.edu/programs/graduate-admission/index.html"
+    }
+  },
+  "notes": "The CS admissions page appears to be old (search metadata indicates it was indexed years ago); confirm the GRE, TOEFL and deadline rules with the CS Director of Graduate Studies before relying on them."
+}

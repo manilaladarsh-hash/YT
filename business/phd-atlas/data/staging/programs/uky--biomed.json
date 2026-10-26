@@ -1,0 +1,51 @@
+{
+  "id": "uky--biomed",
+  "university": "uky",
+  "field": "biomed",
+  "also_fields": [
+    "neuro"
+  ],
+  "department": "Integrated Biomedical Sciences (IBS)",
+  "program_page": "https://medicine.uky.edu/sites/graduate/applying-ibs",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "IBS admits on a rolling basis, so earlier complete applications are more likely to get an interview.",
+      "quote": "The Integrated Biomedical Sciences (IBS) program follows a rolling admissions process",
+      "url": "https://medicine.uky.edu/sites/graduate/applying-ibs"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "IBS no longer requires GRE scores for admission.",
+      "quote": "the IBS program no longer requires GRE exam scores for admission",
+      "url": "https://medicine.uky.edu/sites/graduate/applying-ibs"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The IBS page does not state whether a faculty agreement is needed before admission.",
+      "quote": "",
+      "url": "https://medicine.uky.edu/sites/graduate/applying-ibs"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The IBS page does not state funding terms.",
+      "quote": "",
+      "url": "https://medicine.uky.edu/sites/graduate/applying-ibs"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The IBS page does not state whether a master's degree is needed.",
+      "quote": "",
+      "url": "https://medicine.uky.edu/sites/graduate/applying-ibs"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "IBS no longer requires GRE scores for admission.",
+      "quote": "the IBS program no longer requires GRE exam scores for admission",
+      "url": "https://medicine.uky.edu/sites/graduate/applying-ibs"
+    }
+  },
+  "notes": "Umbrella program: IBS is the entry point for the Neuroscience PhD (the neuroscience page lists it among the College of Medicine basic-science departments that admit through IBS), so neuroscience is listed as also_fields. The IBS page quotes TOEFL 79 (old scale); not overridden, as the Graduate School's current rule applies. Other College of Medicine doctoral programs (pharmacology, physiology, toxicology, microbiology, biochemistry) were not checked separately.",
+  "name": "Integrated Biomedical Sciences (PhD)"
+}
