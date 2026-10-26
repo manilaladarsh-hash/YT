@@ -1,0 +1,67 @@
+{
+  "id": "ucdavis--chemeng",
+  "university": "ucdavis",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Chemical Engineering",
+  "program_page": "https://che.engineering.ucdavis.edu/graduate/application-requirements",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "General deadline January 15, 2027; space available June 1, 2027.",
+      "quote": "General: Jan 15, 2027",
+      "url": "https://grad.ucdavis.edu/programs/gech"
+    },
+    "app_fee": {
+      "code": "155 USD",
+      "value": "Graduate Studies sets $155 for international applicants; the ChemE page says $140, so the two official pages conflict.",
+      "quote": "Applicants must pay a non-refundable application fee ($135 for domestic applicants or $155 for international applicants) to be eligible for admission.",
+      "url": "https://grad.ucdavis.edu/minimum-requirements",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Application fees are $120 for domestic students and $140 for international students.",
+          "url": "https://che.engineering.ucdavis.edu/graduate/application-requirements"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is no longer required for ChemE applicants.",
+      "quote": "The GRE is no longer required.",
+      "url": "https://che.engineering.ucdavis.edu/graduate/application-requirements"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Waivers may be granted only to students in a recognised graduate preparation program.",
+      "quote": "Waivers may be granted to students who participate in a recognized graduate preparation program.",
+      "url": "https://che.engineering.ucdavis.edu/graduate/application-requirements"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test for this field on the page.",
+      "quote": "",
+      "url": "https://che.engineering.ucdavis.edu/graduate/application-requirements"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule on the fetched pages.",
+      "quote": "",
+      "url": "https://che.engineering.ucdavis.edu/graduate/application-requirements"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding statement on the fetched pages.",
+      "quote": "",
+      "url": "https://che.engineering.ucdavis.edu/graduate/application-requirements"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "No entry-route statement on the fetched pages.",
+      "quote": "",
+      "url": "https://che.engineering.ucdavis.edu/graduate/application-requirements"
+    }
+  },
+  "notes": "Engineering school page sets the application fee at $140 for international applicants; the Graduate Studies pages say $155. Conflict flagged."
+}

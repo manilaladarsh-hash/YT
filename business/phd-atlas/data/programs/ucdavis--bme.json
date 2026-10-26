@@ -1,0 +1,54 @@
+{
+  "id": "ucdavis--bme",
+  "university": "ucdavis",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Biomedical Engineering Graduate Group",
+  "program_page": "https://bmegg.ucdavis.edu/admission",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The deadline for Fall 2027 admission consideration is December 1, 2026; space available June 1, 2027.",
+      "quote": "The application deadline for Fall 2027 admission consideration is December 1, 2026.",
+      "url": "https://bmegg.ucdavis.edu/admission",
+      "also": [
+        {
+          "quote": "General: Dec 1, 2026",
+          "url": "https://grad.ucdavis.edu/programs/gbim"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE scores will not be a factor in admissions.",
+      "quote": "NO GRE - GRE scores will not be a factor during admissions consideration.",
+      "url": "https://bmegg.ucdavis.edu/admission"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test for this field on the page.",
+      "quote": "",
+      "url": "https://bmegg.ucdavis.edu/admission"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule on the fetched pages.",
+      "quote": "",
+      "url": "https://bmegg.ucdavis.edu/admission"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding statement on the fetched pages.",
+      "quote": "",
+      "url": "https://bmegg.ucdavis.edu/admission"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "No entry-route statement on the fetched pages.",
+      "quote": "",
+      "url": "https://bmegg.ucdavis.edu/admission"
+    }
+  },
+  "notes": "The group offers Ph.D. and M.S. degrees. The admissions page is short and its application-fee and FAQ details were not in the cached text."
+}

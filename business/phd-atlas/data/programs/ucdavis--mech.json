@@ -1,0 +1,61 @@
+{
+  "id": "ucdavis--mech",
+  "university": "ucdavis",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Mechanical and Aerospace Engineering",
+  "program_page": "https://mae.ucdavis.edu/graduate/admissions/application-requirements",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Priority deadline December 15, 2026 (for internal fellowships); general deadline January 15, 2027.",
+      "quote": "Priority: Dec 15, 2026",
+      "url": "https://grad.ucdavis.edu/programs/gmae",
+      "time_sensitive": "2026-12-15",
+      "also": [
+        {
+          "quote": "General: Jan 15, 2027",
+          "url": "https://grad.ucdavis.edu/programs/gmae"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "A GRE score is required for all applicants.",
+      "quote": "A GRE score will be required for all applicants",
+      "url": "https://mae.ucdavis.edu/graduate/admissions/application-requirements"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The department states an IELTS minimum of 7 on a 9-point scale.",
+      "quote": "minimum score required is 80 on internet-based TOEFL or 7 on a 9-point scale on IELTS",
+      "url": "https://mae.ucdavis.edu/graduate/admissions/application-requirements"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test for this field on the page.",
+      "quote": "",
+      "url": "https://mae.ucdavis.edu/graduate/admissions/application-requirements"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule on the fetched pages.",
+      "quote": "",
+      "url": "https://mae.ucdavis.edu/graduate/admissions/application-requirements"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding statement on the fetched pages.",
+      "quote": "",
+      "url": "https://mae.ucdavis.edu/graduate/admissions/application-requirements"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "No entry-route statement on the fetched pages.",
+      "quote": "",
+      "url": "https://mae.ucdavis.edu/graduate/admissions/application-requirements"
+    }
+  },
+  "notes": "The MAE page's TOEFL iBT minimum of 80 is not recorded: it conflicts with the university 4.5 (new scale) rule and the page states no different rule. Application fees match Graduate Studies ($135 domestic, $155 international)."
+}

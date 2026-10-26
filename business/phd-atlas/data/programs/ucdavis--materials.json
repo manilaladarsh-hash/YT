@@ -1,0 +1,66 @@
+{
+  "id": "ucdavis--materials",
+  "university": "ucdavis",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Materials Science and Engineering",
+  "program_page": "https://mse.engineering.ucdavis.edu/graduate/admissions/application-requirements",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "General deadline January 15, 2027; space available June 1, 2027.",
+      "quote": "General: Jan 15, 2027",
+      "url": "https://grad.ucdavis.edu/programs/gems"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The MSE page says the GRE is no longer required.",
+      "quote": "The GRE is no longer required.",
+      "url": "https://mse.engineering.ucdavis.edu/graduate/admissions/application-requirements"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "MSE requires a TOEFL of 100, which its page says differs from the Graduate Studies minimum.",
+      "quote": "We require a minimum score of 100 on the TOEFL, a 7.5 on the IELTS, and a 130 on the Duolingo Exam.",
+      "url": "https://mse.engineering.ucdavis.edu/graduate/admissions/application-requirements",
+      "also": [
+        {
+          "quote": "Please note that this minimum requirement differs from the Office of Graduate Studies policy.",
+          "url": "https://mse.engineering.ucdavis.edu/graduate/admissions/application-requirements"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "MSE requires an IELTS of 7.5.",
+      "quote": "We require a minimum score of 100 on the TOEFL, a 7.5 on the IELTS, and a 130 on the Duolingo Exam.",
+      "url": "https://mse.engineering.ucdavis.edu/graduate/admissions/application-requirements"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test on the MSE page.",
+      "quote": "",
+      "url": "https://mse.engineering.ucdavis.edu/graduate/admissions/application-requirements"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule on the fetched pages.",
+      "quote": "",
+      "url": "https://mse.engineering.ucdavis.edu/graduate/admissions/application-requirements"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding statement on the fetched pages.",
+      "quote": "",
+      "url": "https://mse.engineering.ucdavis.edu/graduate/admissions/application-requirements"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "No entry-route statement on the fetched pages.",
+      "quote": "",
+      "url": "https://mse.engineering.ucdavis.edu/graduate/admissions/application-requirements"
+    }
+  },
+  "notes": "Department states its own TOEFL 100 and IELTS 7.5 rule, which replaces the university values for this field."
+}
