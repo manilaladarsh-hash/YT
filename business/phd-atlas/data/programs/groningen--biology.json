@@ -1,0 +1,60 @@
+{
+  "id": "groningen--biology",
+  "university": "groningen",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Biology (Graduate School of Science and Engineering)",
+  "program_page": "https://www.rug.nl/research/gradschool-science-and-engineering/phd-programme/admission/criteria?lang=en",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "No fixed deadline: the Graduate School of Science and Engineering admits PhD candidates on a rolling basis once a supervisor and funding are in place.",
+      "quote": "does not have fixed application deadlines, but rather works on a 'rolling admission' system",
+      "url": "https://www.rug.nl/research/gradschool-science-and-engineering/phd-programme/admission/admissionprocedure",
+      "also": [
+        {
+          "quote": "If students have obtained funding, received explicit support from a prospective supervisor, and meet the admission requirements they will be admitted to the PhD programme",
+          "url": "https://www.rug.nl/research/gradschool-science-and-engineering/phd-programme/admission/admissionprocedure"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on the official admission pages.",
+      "quote": "",
+      "url": "https://www.rug.nl/research/gradschool-science-and-engineering/phd-programme/admission/criteria?lang=en"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants need explicit support from a prospective supervisor; open applications are not accepted.",
+      "quote": "The GSSE does not accept 'open' applications from candidates who have not yet received explicit support from a prospective supervisor",
+      "url": "https://www.rug.nl/research/gradschool-science-and-engineering/phd-programme/admission/find-a-supervisor",
+      "also": [
+        {
+          "quote": "Applications are prepared by the research institute of the prospective supervisor",
+          "url": "https://www.rug.nl/research/gradschool-science-and-engineering/phd-programme/admission/admissionprocedure"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Candidates must secure their own means of support before admission (a UG salary position, a scholarship or other funding); the page does not say how many students are funded.",
+      "quote": "",
+      "url": "https://www.rug.nl/research/gradschool-science-and-engineering/phd-programme/admission/funding"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Direct admission needs an internationally recognized Master's degree in the relevant field; others are assessed by the GSSE Admissions Board.",
+      "quote": "an internationally recognized Master’s degree in the relevant field",
+      "url": "https://www.rug.nl/research/gradschool-science-and-engineering/phd-programme/admission/criteria?lang=en",
+      "also": [
+        {
+          "quote": "PhD candidates who do not meet the admission requirements are formally assessed by the GSSE Admissions Board",
+          "url": "https://www.rug.nl/research/gradschool-science-and-engineering/phd-programme/admission/criteria?lang=en"
+        }
+      ]
+    }
+  },
+  "notes": "Built from the Graduate School of Science and Engineering rules, which apply to every GSSE PhD candidate. No department PhD page was fetched in budget. Listed as a GSSE research programme on the official PhD research programmes page."
+}

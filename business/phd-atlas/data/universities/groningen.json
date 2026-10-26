@@ -1,0 +1,54 @@
+{
+  "id": "groningen",
+  "institution": "University of Groningen",
+  "country": "Netherlands",
+  "region": "Groningen",
+  "grad_page": "https://www.rug.nl/research/gradschool-science-and-engineering/phd-programme/admission/criteria?lang=en",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The official application fee page covers bachelor and master applications through Studielink; no PhD application fee is quoted.",
+      "quote": "",
+      "url": "https://www.rug.nl/education/application-enrolment-tuition-fees/admission/non-dutch-qualification/application-fee"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No international fee waiver for PhD applicants appears on the official admission pages.",
+      "quote": "",
+      "url": "https://www.rug.nl/research/gradschool-science-and-engineering/phd-programme/admission/criteria?lang=en"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement appears on the official Graduate School of Science and Engineering or university PhD admission pages.",
+      "quote": "",
+      "url": "https://www.rug.nl/research/gradschool-science-and-engineering/phd-programme/admission/criteria?lang=en"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT minimum of 4.5 on the new scale (old score 92), with section minimums of 4.0 to 4.5; MyBest scores are not considered.",
+      "quote": "A minimum score of 4.5 (old score 92) on the internet-based test is required",
+      "url": "https://www.rug.nl/education/phd-programmes/prospective/phd-positions/english-language-requirements?lang=en"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic overall 6.5 for the science and engineering PhD route; the university-wide page gives 6.5 or 7.0.",
+      "quote": "The IELTS overall minimum score is 6.5.",
+      "url": "https://www.rug.nl/research/gradschool-science-and-engineering/phd-programme/admission/criteria?lang=en",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "A minimum overall score on the IELTS (6.5 or 7.0) is required",
+          "url": "https://www.rug.nl/education/phd-programmes/prospective/phd-positions/english-language-requirements?lang=en"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "English-test exemption only if the Bachelor's or Master's was fully taught in English; the exemptions list names no countries, and special cases go to the Board of Admissions.",
+      "quote": "completed a Bachelor or a Master degree programme which was fully taught in English",
+      "url": "https://www.rug.nl/education/phd-programmes/prospective/phd-positions/english-language-requirements?lang=en"
+    }
+  },
+  "notes": "Graduate School of Science and Engineering (GSSE) admission rules, used for every GSSE PhD. Application fee: the cited page covers bachelor and master applications and gives no PhD fee. Conflict: the GSSE criteria page says IELTS 6.5, the university-wide English page says 6.5 or 7.0; the 6.5 is kept and the conflict flagged. The GSSE English page URL returned 404, so the university-wide English page was used. Medical Sciences (GSMS) and Engineering PhD rules were not checked; the Engineering PhD page was last modified in 2020 and was not used."
+}
