@@ -1,0 +1,60 @@
+{
+  "id": "umbc",
+  "institution": "University of Maryland, Baltimore County",
+  "country": "USA",
+  "region": "Maryland",
+  "grad_page": "https://umbc.edu/admissions/graduate/international-applicants/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The online application fee is $75.",
+      "quote": "Online Applications – $75",
+      "url": "https://umbc.edu/admissions/graduate/admissions-requirements/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The Graduate School waives the $75 fee only in Free Graduate Application Week (November 29 to December 6, 2026). It no longer gives hardship waivers; departments may offer their own.",
+      "quote": "During the week of November 29, 2026 UMBC is waiving the $75 application fee for Graduate master’s and doctoral programs",
+      "url": "https://umbc.edu/admissions/graduate/apply-to-graduate-school-for-free/",
+      "time_sensitive": "2026-12-06",
+      "also": [
+        {
+          "quote": "The Graduate School can no longer provide fee waivers based on financial hardship.",
+          "url": "https://umbc.edu/admissions/graduate/admissions-requirements/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School does not set a GRE rule; each program page lists its own requirement.",
+      "quote": "Required tests are listed on each program’s page.",
+      "url": "https://umbc.edu/admissions/graduate/admissions-requirements/"
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "The Graduate School minimum is TOEFL 4 on the new scale for tests taken on or after January 21, 2026 (80 before). Some programs require more.",
+      "quote": "a minimum TOEFL score of 4 (for exams taken on or after January 21, 2026)",
+      "url": "https://umbc.edu/admissions/graduate/international-applicants/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic minimum is an overall 6.5 for UMBC.",
+      "quote": "The IELTS minimum is a total score of 6.5 for students wishing to study at UMBC",
+      "url": "https://umbc.edu/admissions/graduate/international-applicants/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Indian degrees are not on the exempt list, so Indian applicants need a test score. Exceptions exist only for a US or listed-country degree or two years of study there, reviewed by the Graduate School.",
+      "quote": "All applicants whose education has been primarily completed outside the United States of America must provide objective evidence of proficiency in the English language",
+      "url": "https://drive.google.com/file/d/1WnIHFXCp89bDTT1qJ80rSrbJKxDokj-7/view?usp=sharing",
+      "also": [
+        {
+          "quote": "Students who completed their education in an English-speaking country or institution may be exempt from this requirement, per the guidelines listed here",
+          "url": "https://umbc.edu/admissions/graduate/international-applicants/"
+        }
+      ]
+    }
+  },
+  "notes": "Graduate School English rule is from the international applicants page and the linked exemption guideline (Google Drive copy). Department pages conflict on TOEFL: Biology and Mechanical Engineering say 80 iBT, Mathematics and Statistics say more than 100 iBT, Chemistry cites 550, and Physics restates the old 80. Program records keep the department values where stated. Catalog page (catalog.umbc.edu) returned HTTP 502."
+}

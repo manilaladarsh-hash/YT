@@ -1,0 +1,62 @@
+{
+  "id": "umbc--ece",
+  "university": "umbc",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Computer Science and Electrical Engineering",
+  "program_page": "https://umbc.edu/programs/graduate/computer-science-and-electrical-engineering-programs/computer-engineering-phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-07",
+      "value": "Domestic applicants seeking aid and international applicants should apply by January 7, 2027.",
+      "quote": "Apply (Final Deadline) by January 7",
+      "url": "https://umbc.edu/programs/graduate/computer-science-and-electrical-engineering-programs/computer-engineering-phd/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "International Students: Apply by January 7",
+          "url": "https://umbc.edu/programs/graduate/computer-science-and-electrical-engineering-programs/electrical-engineering-phd/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE General Test is required, with a waiver option.",
+      "quote": "GRE General Test required (waiver option available)",
+      "url": "https://umbc.edu/programs/graduate/computer-science-and-electrical-engineering-programs/computer-engineering-phd/",
+      "also": [
+        {
+          "quote": "GRE General Test required with option to waive",
+          "url": "https://umbc.edu/programs/graduate/computer-science-and-electrical-engineering-programs/electrical-engineering-phd/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's may be enough for Electrical Engineering; Computer Engineering strongly encourages an existing master's.",
+      "quote": "Ph.D. applicants strongly encouraged to already have an M.S. degree in computer science",
+      "url": "https://umbc.edu/programs/graduate/computer-science-and-electrical-engineering-programs/computer-engineering-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the department pages checked.",
+      "quote": "",
+      "url": "https://umbc.edu/programs/graduate/computer-science-and-electrical-engineering-programs/computer-engineering-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the department pages checked.",
+      "quote": "",
+      "url": "https://umbc.edu/programs/graduate/computer-science-and-electrical-engineering-programs/computer-engineering-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the department pages checked.",
+      "quote": "",
+      "url": "https://umbc.edu/programs/graduate/computer-science-and-electrical-engineering-programs/computer-engineering-phd/"
+    }
+  },
+  "notes": "Covers the Computer Engineering PhD and the Electrical Engineering PhD, which share the CSEE department. The CSEE admissions page lists January 20 for international students; the program pages list January 7, which is used here.",
+  "name": "Computer Engineering and Electrical Engineering PhD"
+}

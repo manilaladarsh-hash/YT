@@ -1,0 +1,55 @@
+{
+  "id": "umbc--environment",
+  "university": "umbc",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Biological Sciences (with MEES)",
+  "program_page": "https://biology.umbc.edu/graduate-programs/mees/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "The department's application deadline is January 1, 2027, for Fall admission only.",
+      "quote": "Application deadline: January 1st",
+      "url": "https://biology.umbc.edu/requirements/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is waived for all applicants; submitting scores is optional.",
+      "quote": "GRE scores are waived for all students applying for admission",
+      "url": "https://biology.umbc.edu/requirements/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The GRE is waived for all applicants.",
+      "quote": "GRE scores are waived for all students applying for admission",
+      "url": "https://biology.umbc.edu/requirements/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The department page states 80 on the iBT; the Graduate School's current minimum is on the new scale, so confirm with the department.",
+      "quote": "A minimum score of 80 on the iBT is required for admission",
+      "url": "https://biology.umbc.edu/requirements/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants should identify a prospective research mentor before applying.",
+      "quote": "MEES applicants should identify a prospective research mentor",
+      "url": "https://biology.umbc.edu/graduate-programs/mees/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree from an accredited four-year institution is the admission requirement.",
+      "quote": "A bachelor’s degree at an accredited four-year college or university",
+      "url": "https://biology.umbc.edu/requirements/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the department pages checked.",
+      "quote": "",
+      "url": "https://biology.umbc.edu/graduate-programs/mees/"
+    }
+  },
+  "notes": "MEES applicants submit to the MEES Graduate Office at the University of Maryland, College Park, not the UMBC Graduate School; the fee and GRE rules on that office were not checked. The Atmospheric Physics PhD (Physics Department) is not included here. Funding is not stated."
+}

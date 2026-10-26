@@ -1,0 +1,68 @@
+{
+  "id": "umbc--mech",
+  "university": "umbc",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering",
+  "program_page": "https://umbc.edu/programs/graduate/mechanical-engineering-programs/mechanical-engineering-phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Apply by February 1 for funding consideration; the regular Fall deadline is July 15, 2027.",
+      "quote": "Apply (For Funding) by February 1",
+      "url": "https://umbc.edu/programs/graduate/mechanical-engineering-programs/mechanical-engineering-phd/",
+      "inferred": "year",
+      "time_sensitive": "2027-02-01",
+      "also": [
+        {
+          "quote": "Apply by July 15",
+          "url": "https://umbc.edu/programs/graduate/mechanical-engineering-programs/mechanical-engineering-phd/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE is not required unless the applicant's GPA is below 3.3; then a quantitative score above 153 is needed.",
+      "quote": "GRE Test is not required unless the student’s GPA is below the minimal GPA for applying",
+      "url": "https://umbc.edu/programs/graduate/mechanical-engineering-programs/mechanical-engineering-phd/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The department page states a minimum of 80 on the iBT; the Graduate School's current minimum is on the new scale.",
+      "quote": "TOEFL: Minimum 80 (IBT) or IELTS 6.5",
+      "url": "https://umbc.edu/programs/graduate/mechanical-engineering-programs/mechanical-engineering-phd/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department page states an IELTS minimum of 6.5.",
+      "quote": "TOEFL: Minimum 80 (IBT) or IELTS 6.5",
+      "url": "https://umbc.edu/programs/graduate/mechanical-engineering-programs/mechanical-engineering-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page says applying by February 1 gives best consideration for assistantships, but does not say that admitted students are funded.",
+      "quote": "for best consideration for assistantship funding, apply by February 1",
+      "url": "https://me.umbc.edu/graduate-program-admission-process-and-requirements/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may apply directly to the PhD or transfer from the MS program.",
+      "quote": "or those applying directly to the PhD program, must submit 3 letters of recommendation",
+      "url": "https://me.umbc.edu/graduate-program-admission-process-and-requirements/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the department pages checked.",
+      "quote": "",
+      "url": "https://umbc.edu/programs/graduate/mechanical-engineering-programs/mechanical-engineering-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the department pages checked.",
+      "quote": "",
+      "url": "https://umbc.edu/programs/graduate/mechanical-engineering-programs/mechanical-engineering-phd/"
+    }
+  },
+  "notes": "PhD requires a GPA above 3.3 on the 4.0 scale. The Graduate School's new GRE rule and this department's GRE rule are both stated; the department rule is used."
+}

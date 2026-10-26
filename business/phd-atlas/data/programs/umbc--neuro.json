@@ -1,0 +1,55 @@
+{
+  "id": "umbc--neuro",
+  "university": "umbc",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://biology.umbc.edu/graduate-programs/nacs/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "The department's application deadline is January 1, 2027, for Fall admission only.",
+      "quote": "Application deadline: January 1st",
+      "url": "https://biology.umbc.edu/requirements/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is waived for all applicants; submitting scores is optional.",
+      "quote": "GRE scores are waived for all students applying for admission",
+      "url": "https://biology.umbc.edu/requirements/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The GRE is waived for all applicants.",
+      "quote": "GRE scores are waived for all students applying for admission",
+      "url": "https://biology.umbc.edu/requirements/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The department page states 80 on the iBT; the Graduate School's current minimum is on the new scale, so confirm with the department.",
+      "quote": "A minimum score of 80 on the iBT is required for admission",
+      "url": "https://biology.umbc.edu/requirements/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants do not need arrangements with a research mentor at application time; they should name faculty areas of interest.",
+      "quote": "prior arrangements with a research mentor is not required at time of application",
+      "url": "https://biology.umbc.edu/requirements/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree from an accredited four-year institution is the admission requirement.",
+      "quote": "A bachelor’s degree at an accredited four-year college or university",
+      "url": "https://biology.umbc.edu/requirements/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the department pages checked.",
+      "quote": "",
+      "url": "https://biology.umbc.edu/graduate-programs/nacs/"
+    }
+  },
+  "notes": "Admitted through the Department of Biological Sciences under its common rules. The page lists research rotations and two semesters of teaching assistantship; funding is not stated."
+}

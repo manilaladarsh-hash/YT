@@ -1,0 +1,61 @@
+{
+  "id": "umbc--cs",
+  "university": "umbc",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science and Electrical Engineering",
+  "program_page": "https://umbc.edu/programs/graduate/computer-science-and-electrical-engineering-programs/computer-science-phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-07",
+      "value": "International applicants should apply by January 7, 2027. The department admissions page gives January 20 for international students seeking departmental aid.",
+      "quote": "International Students: Apply by January 7",
+      "url": "https://umbc.edu/programs/graduate/computer-science-and-electrical-engineering-programs/computer-science-phd/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Domestic students seeking departmental financial support, and all international students: Fall semester – January 20",
+          "url": "https://www.csee.umbc.edu/admission/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE General Test is required, with a waiver option; the department says it is required for international applicants.",
+      "quote": "GRE General Test required with the option to waive",
+      "url": "https://umbc.edu/programs/graduate/computer-science-and-electrical-engineering-programs/computer-science-phd/",
+      "also": [
+        {
+          "quote": "GRE is required for PhD applicants, unless you have already have an earned doctoral degree",
+          "url": "https://www.csee.umbc.edu/admission/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by committee; students get a research advisor by the end of the first year.",
+      "quote": "By the end of the first year, students should have a faculty member to serve as the research advisor",
+      "url": "https://www.csee.umbc.edu/admission/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Bachelor's applicants may apply, but a master's in computer science is strongly recommended for PhD applicants.",
+      "quote": "Ph.D. applicants strongly recommended to have M.S. degree in computer science",
+      "url": "https://umbc.edu/programs/graduate/computer-science-and-electrical-engineering-programs/computer-science-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the department pages checked.",
+      "quote": "",
+      "url": "https://umbc.edu/programs/graduate/computer-science-and-electrical-engineering-programs/computer-science-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the department pages checked.",
+      "quote": "",
+      "url": "https://umbc.edu/programs/graduate/computer-science-and-electrical-engineering-programs/computer-science-phd/"
+    }
+  },
+  "notes": "Software Engineering and Human-Centered Computing PhDs are listed by the Information Systems department and were not researched separately. The department page does not state funding terms; the Information Systems PhD lists AI/ML and Data Science as research areas, not a separate program."
+}
