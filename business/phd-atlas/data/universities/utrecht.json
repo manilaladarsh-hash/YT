@@ -1,0 +1,47 @@
+{
+  "id": "utrecht",
+  "institution": "Utrecht University",
+  "country": "Netherlands",
+  "region": "Utrecht",
+  "grad_page": "https://www.uu.nl/en/organisation/phd-programmes/phd-in-utrecht",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No application fee for PhD candidates is stated on the university or graduate school pages fetched.",
+      "quote": "",
+      "url": "https://www.uu.nl/en/organisation/graduate-school-of-natural-sciences/phd/future-phd-candidates"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No PhD application fee waiver is stated on the pages fetched.",
+      "quote": "",
+      "url": "https://www.uu.nl/en/organisation/graduate-school-of-natural-sciences/phd/future-phd-candidates"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement is stated on the university or graduate school pages fetched; check each programme.",
+      "quote": "",
+      "url": "https://www.uu.nl/en/organisation/graduate-school-of-natural-sciences/phd/future-phd-candidates"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The PhD pages require EMI-experienced English with proof, under the rules for Master's students, but give no TOEFL score.",
+      "quote": "with proof and exceptions as defined for UU Master students",
+      "url": "https://www.uu.nl/en/education/graduate-school-of-geosciences/phds/future-phd-candidates"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The PhD pages give no IELTS score; the Master's pages quote conflicting scores, so none is used here.",
+      "quote": "with proof and exceptions as defined for UU Master students",
+      "url": "https://www.uu.nl/en/education/graduate-school-of-geosciences/phds/future-phd-candidates"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The PhD pages apply the Master's English exceptions, and the pages fetched do not say whether an Indian degree is accepted.",
+      "quote": "with proof and exceptions as defined for UU Master students",
+      "url": "https://www.uu.nl/en/education/graduate-school-of-geosciences/phds/future-phd-candidates"
+    }
+  },
+  "notes": "Fetched: uu.nl PhD in Utrecht page; Graduate School of Natural Sciences (https://www.uu.nl/en/organisation/graduate-school-of-natural-sciences/phd/future-phd-candidates); Graduate School of Geosciences (https://www.uu.nl/en/education/graduate-school-of-geosciences/phds/future-phd-candidates); Graduate School of Life Sciences (https://www.uu.nl/en/education/phd-at-the-graduate-school-of-life-sciences/starting-your-phd/prospective-phd-candidates). Blocked (403): https://www.uu.nl/en/education/graduate-school-of-life-sciences/phd/prospective-phd-candidates. Master's English pages on uu.nl give IELTS 6.5 (6.0 writing) and TOEFL iBT 93 or 83 depending on page, so they conflict and are not used for PhD values. A 2015 exchange-programme PDF is not used (too old). PhD teaching is in English (PhD in Utrecht page)."
+}
