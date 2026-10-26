@@ -1,0 +1,55 @@
+{
+  "id": "stevens--bme",
+  "university": "stevens",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Biomedical Engineering, Schaefer School of Engineering and Science",
+  "program_page": "https://www.stevens.edu/program/biomedical-engineering-phd",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The preferred Ph.D. deadline for Fall is January 15, so applying by then gives the best chance of funding consideration. The page gives no year, so 2027 is inferred.",
+      "quote": "Ph.D. January 15",
+      "url": "https://www.stevens.edu/admission-aid/graduate-admissions/application-deadlines",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Applications submitted by February 1st are guaranteed to receive full consideration for a funded Ph.D. student position",
+          "url": "https://www.stevens.edu/program/biomedical-engineering-phd"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The Biomedical Engineering page says the GRE or GMAT is optional.",
+      "quote": "A competitive GRE or GMAT score (optional)",
+      "url": "https://www.stevens.edu/program/biomedical-engineering-phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Biomedical Engineering page does not mention a subject test.",
+      "quote": "",
+      "url": "https://www.stevens.edu/program/physics-phd"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Biomedical Engineering page says students study under a faculty mentor but does not say a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.stevens.edu/program/physics-phd"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funded positions are limited; applications after February 1 are considered only if positions remain.",
+      "quote": "Applications are also welcome to be submitted after February 1st, and will be considered for funded Ph.D. student positions that remain available",
+      "url": "https://www.stevens.edu/program/biomedical-engineering-phd"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants entering after a bachelor's degree must first complete a preliminary 30-credit master's degree.",
+      "quote": "Preliminary 30-credit master’s degree",
+      "url": "https://www.stevens.edu/program/biomedical-engineering-phd"
+    }
+  },
+  "notes": ""
+}

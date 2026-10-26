@@ -1,0 +1,47 @@
+{
+  "id": "stevens",
+  "institution": "Stevens Institute of Technology",
+  "country": "USA",
+  "region": "New Jersey",
+  "grad_page": "https://www.stevens.edu/academics/graduate-study/phd-application-process",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "Every applicant pays a $60 non-refundable application fee.",
+      "quote": "All applicants are required to pay a $60 non-refundable Application Fee",
+      "url": "https://www.stevens.edu/application-requirements"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application-fee waiver for international applicants appears on the graduate pages fetched; the waiver page covers English-test exemptions only.",
+      "quote": "",
+      "url": "https://www.stevens.edu/application-requirements"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE or GMAT is required only for some PhD programs; each program record gives its own rule.",
+      "quote": "Applicants to select Ph.D. programs are required to submit GRE/GMAT scores",
+      "url": "https://www.stevens.edu/application-requirements"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The English policy prints a TOEFL iBT minimum of 4, which is not a usable iBT score on the current 0 to 120 scale, so no TOEFL minimum is recorded here; confirm the figure with Graduate Admissions.",
+      "quote": "To be considered for admission to Stevens graduate programs, students must score at least 4 on TOEFL iBT, 6 on IELTS, or 110 on DuoLingo",
+      "url": "https://www.stevens.edu/page-basic/english-language-proficiency-policy"
+    },
+    "ielts_min": {
+      "code": "6",
+      "value": "The minimum for admission is an IELTS of 6; a score of 7 or higher also exempts the applicant from the English language course.",
+      "quote": "students must score at least 4 on TOEFL iBT, 6 on IELTS, or 110 on DuoLingo",
+      "url": "https://www.stevens.edu/page-basic/english-language-proficiency-policy"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "A bachelor's degree from a university abroad that teaches in English can waive the test, but the applicant must upload an official letter from that institution and then sit the Stevens English exam on arrival.",
+      "quote": "Earned a bachelor's degree from a college/university outside the U.S. that uses English as the language of instruction | must provide an official document from the institution at which they were enrolled that states that English was the language of instruction for their program",
+      "url": "https://www.stevens.edu/admissions-aid/graduate-admissions/test-score-exemptions-and-waivers"
+    }
+  },
+  "notes": "Official list of 20 PhD programs: https://www.stevens.edu/phd-at-stevens/phd-programs. Fee and waiver checked on the graduate pages; the $60 fee is the same for all applicants. Not reviewed as fields: Interdisciplinary Engineering, Interdisciplinary Science, Engineering Management, Systems Engineering, Socio-Technical Systems, Business Administration, Financial Engineering (no matching field or not STEM core). Ocean Engineering, Ph.D. is in the civil department and was not fetched."
+}

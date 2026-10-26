@@ -1,0 +1,51 @@
+{
+  "id": "stevens--civil",
+  "university": "stevens",
+  "field": "civil",
+  "also_fields": [
+    "environment"
+  ],
+  "department": "Civil, Environmental, and Ocean Engineering, Schaefer School of Engineering and Science",
+  "program_page": "https://www.stevens.edu/program/civil-engineering-doctoral-program",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The preferred Ph.D. deadline for Fall is January 15, so applying by then gives the best chance of funding consideration. The page gives no year, so 2027 is inferred.",
+      "quote": "Ph.D. January 15",
+      "url": "https://www.stevens.edu/admission-aid/graduate-admissions/application-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The Civil Engineering page says the GRE or GMAT is optional.",
+      "quote": "A competitive GRE or GMAT score (optional)",
+      "url": "https://www.stevens.edu/program/civil-engineering-doctoral-program"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Civil Engineering page does not mention a subject test.",
+      "quote": "",
+      "url": "https://www.stevens.edu/program/physics-phd"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Civil Engineering page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.stevens.edu/program/physics-phd"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Stevens funds a limited number of PhD students through assistantships and fellowships, awarded on merit.",
+      "quote": "Limited in number, these highly competitive opportunities are awarded to exceptional candidates based on merit",
+      "url": "https://www.stevens.edu/program/civil-engineering-doctoral-program"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Civil engineering PhD entry requires a master's degree in civil engineering or a related field.",
+      "quote": "a student must have completed a master’s degree in civil engineering or a related field",
+      "url": "https://www.stevens.edu/program/civil-engineering-doctoral-program"
+    }
+  },
+  "notes": "Environmental Engineering, Ph.D. (same department, GRE optional on its page) is listed as also_fields environment. Ocean Engineering, Ph.D. (same department, GRE optional in the graduate table) was not fetched."
+}

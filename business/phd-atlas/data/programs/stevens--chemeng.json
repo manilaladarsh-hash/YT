@@ -1,0 +1,49 @@
+{
+  "id": "stevens--chemeng",
+  "university": "stevens",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Chemical Engineering and Materials Science, Schaefer School of Engineering and Science",
+  "program_page": "https://www.stevens.edu/program/chemical-engineering-phd",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The preferred Ph.D. deadline for Fall is January 15, so applying by then gives the best chance of funding consideration. The page gives no year, so 2027 is inferred.",
+      "quote": "Ph.D. January 15",
+      "url": "https://www.stevens.edu/admission-aid/graduate-admissions/application-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The Chemical Engineering PhD requires a competitive GRE or GMAT score.",
+      "quote": "A competitive GRE or GMAT score (required)",
+      "url": "https://www.stevens.edu/program/chemical-engineering-phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Chemical Engineering page does not mention a subject test.",
+      "quote": "",
+      "url": "https://www.stevens.edu/program/physics-phd"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Chemical Engineering page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.stevens.edu/program/physics-phd"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Stevens funds a limited number of PhD students through assistantships and fellowships, awarded on merit.",
+      "quote": "Limited in number, these highly competitive opportunities are awarded to exceptional candidates based on merit",
+      "url": "https://www.stevens.edu/program/chemical-engineering-phd"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants can enter with a bachelor's degree for the direct PhD, or with a master's degree with a minimum GPA of 3.3.",
+      "quote": "Bachelor’s degree (for direct Ph.D. program) or a Master's degree, with a minimum GPA of 3.3, from an accredited institution",
+      "url": "https://www.stevens.edu/program/chemical-engineering-phd"
+    }
+  },
+  "notes": "The Materials Science and Engineering PhD is run by the same department (GRE required on its page) and is saved separately."
+}

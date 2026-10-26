@@ -1,0 +1,49 @@
+{
+  "id": "stevens--datasci",
+  "university": "stevens",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "Data Science, Ph.D. (School of Computing with School of Business)",
+  "program_page": "https://www.stevens.edu/program/data-science-phd",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The preferred Ph.D. deadline for Fall is January 15, so applying by then gives the best chance of funding consideration. The page gives no year, so 2027 is inferred.",
+      "quote": "Ph.D. January 15",
+      "url": "https://www.stevens.edu/admission-aid/graduate-admissions/application-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The Data Science PhD requires a competitive GRE or GMAT score.",
+      "quote": "A competitive GRE or GMAT score (required)",
+      "url": "https://www.stevens.edu/program/data-science-phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Data Science has no subject test on the page.",
+      "quote": "",
+      "url": "https://www.stevens.edu/program/physics-phd"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Data Science pages say students work with a faculty mentor but do not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.stevens.edu/program/physics-phd"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Stevens funds a limited number of PhD students through assistantships and fellowships, awarded on merit.",
+      "quote": "Limited in number, these highly competitive opportunities are awarded to exceptional candidates based on merit",
+      "url": "https://www.stevens.edu/program/data-science-phd"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's in a technical discipline is a requirement, though outstanding applicants with a bachelor's degree will be considered.",
+      "quote": "A master’s program in a technical discipline is a requirement for the program, although outstanding candidates with bachelor’s degrees will be considered, as well",
+      "url": "https://www.stevens.edu/school-business/phd-programs/data-science-phd-program"
+    }
+  },
+  "notes": "The Computing page says applications must be submitted by February 1 for admission the following fall; the Business page is the second school's description. The graduate deadline of January 15 is the earlier date and is used."
+}

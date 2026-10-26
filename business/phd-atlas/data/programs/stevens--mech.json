@@ -1,0 +1,55 @@
+{
+  "id": "stevens--mech",
+  "university": "stevens",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Mechanical Engineering, Schaefer School of Engineering and Science",
+  "program_page": "https://www.stevens.edu/program/mechanical-engineering-doctoral",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The preferred Ph.D. deadline for Fall is January 15, so applying by then gives the best chance of funding consideration. The page gives no year, so 2027 is inferred.",
+      "quote": "Ph.D. January 15",
+      "url": "https://www.stevens.edu/admission-aid/graduate-admissions/application-deadlines",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "applicants who would like to be considered for assistantships or fellowships must apply by February 1",
+          "url": "https://www.stevens.edu/program/mechanical-engineering-doctoral"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The Mechanical Engineering page says the GRE or GMAT is optional.",
+      "quote": "A competitive GRE or GMAT score (optional)",
+      "url": "https://www.stevens.edu/program/mechanical-engineering-doctoral"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Mechanical Engineering page does not mention a subject test.",
+      "quote": "",
+      "url": "https://www.stevens.edu/program/physics-phd"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Mechanical Engineering page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.stevens.edu/program/physics-phd"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Stevens funds a limited number of PhD students through assistantships and fellowships, awarded on merit.",
+      "quote": "Limited in number, these highly competitive opportunities are awarded to exceptional candidates based on merit",
+      "url": "https://www.stevens.edu/program/mechanical-engineering-doctoral"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with a master's degree are welcome, and exceptionally well-qualified applicants with a bachelor's degree may be admitted directly.",
+      "quote": "Exceptionally well-qualified applicants who hold a bachelor’s degree in mechanical engineering or a related field may be considered for direct admission to the Ph.D. program",
+      "url": "https://www.stevens.edu/program/mechanical-engineering-doctoral"
+    }
+  },
+  "notes": "Robotics, Ph.D. is supported by mechanical engineering and requires the GRE or GMAT (\"A competitive GRE or GMAT score (required)\", robotics page). It is not in this record because it is a separate program with a different GRE rule."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "stevens--ece",
+  "university": "stevens",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Electrical and Computer Engineering, Schaefer School of Engineering and Science",
+  "program_page": "https://www.stevens.edu/program/electrical-engineering-phd",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The preferred Ph.D. deadline for Fall is January 15, so applying by then gives the best chance of funding consideration. The page gives no year, so 2027 is inferred.",
+      "quote": "Ph.D. January 15",
+      "url": "https://www.stevens.edu/admission-aid/graduate-admissions/application-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The Electrical Engineering page says the GRE or GMAT is optional.",
+      "quote": "A competitive GRE or GMAT score (optional)",
+      "url": "https://www.stevens.edu/program/electrical-engineering-phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Electrical Engineering page does not mention a subject test.",
+      "quote": "",
+      "url": "https://www.stevens.edu/program/physics-phd"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Electrical Engineering page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.stevens.edu/program/physics-phd"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Stevens funds a limited number of PhD students through assistantships and fellowships, awarded on merit.",
+      "quote": "Limited in number, these highly competitive opportunities are awarded to exceptional candidates based on merit",
+      "url": "https://www.stevens.edu/program/electrical-engineering-phd"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with a master's degree are welcome, and exceptionally well-qualified applicants with a bachelor's degree may be admitted directly.",
+      "quote": "Exceptionally well-qualified applicants with a bachelor’s degree in electrical and computer engineering and a background that demonstrates the potential to perform independent research may be considered for direct admission to the Ph.D. program",
+      "url": "https://www.stevens.edu/program/electrical-engineering-phd"
+    }
+  },
+  "notes": "Computer Engineering, Ph.D. is in the same department and is listed as Optional in the graduate table; its own page was not fetched."
+}

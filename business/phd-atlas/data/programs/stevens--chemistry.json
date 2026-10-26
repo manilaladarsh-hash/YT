@@ -1,0 +1,51 @@
+{
+  "id": "stevens--chemistry",
+  "university": "stevens",
+  "field": "chemistry",
+  "also_fields": [
+    "biology"
+  ],
+  "department": "Department of Chemistry and Chemical Biology, Schaefer School of Engineering and Science",
+  "program_page": "https://www.stevens.edu/program/chemistry-phd",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The preferred Ph.D. deadline for Fall is January 15, so applying by then gives the best chance of funding consideration. The page gives no year, so 2027 is inferred.",
+      "quote": "Ph.D. January 15",
+      "url": "https://www.stevens.edu/admission-aid/graduate-admissions/application-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The Chemistry page says the GRE or GMAT is optional.",
+      "quote": "A competitive GRE or GMAT score (optional)",
+      "url": "https://www.stevens.edu/program/chemistry-phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Chemistry page does not mention a Chemistry GRE subject test.",
+      "quote": "",
+      "url": "https://www.stevens.edu/program/physics-phd"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Chemistry page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.stevens.edu/program/physics-phd"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Stevens funds a limited number of PhD students through assistantships and fellowships, awarded on merit.",
+      "quote": "Limited in number, these highly competitive opportunities are awarded to exceptional candidates based on merit",
+      "url": "https://www.stevens.edu/program/chemistry-phd"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants with a master's degree are welcome, and those with only a bachelor's degree may be admitted provisionally.",
+      "quote": "Exceptionally well-qualified applicants holding only a bachelor’s degree in these areas will also be considered but may be admitted provisionally",
+      "url": "https://www.stevens.edu/program/chemistry-phd"
+    }
+  },
+  "notes": "Chemical Biology, Ph.D. is run by the same department (GRE optional on its page), so it is listed here as also_fields biology."
+}

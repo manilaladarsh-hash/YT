@@ -1,0 +1,49 @@
+{
+  "id": "stevens--physics",
+  "university": "stevens",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics, Schaefer School of Engineering and Science",
+  "program_page": "https://www.stevens.edu/program/physics-phd",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The preferred Ph.D. deadline for Fall is January 15, so applying by then gives the best chance of funding consideration. The page gives no year, so 2027 is inferred.",
+      "quote": "Ph.D. January 15",
+      "url": "https://www.stevens.edu/admission-aid/graduate-admissions/application-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The graduate table lists GRE or GMAT as required for the Physics PhD.",
+      "quote": "Physics Required",
+      "url": "https://www.stevens.edu/academics/graduate-study/phd-application-process"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Physics page does not say whether a Physics GRE subject test is used.",
+      "quote": "",
+      "url": "https://www.stevens.edu/program/physics-phd"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Physics page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.stevens.edu/program/physics-phd"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Stevens funds a limited number of PhD students through assistantships and fellowships, awarded on merit.",
+      "quote": "Limited in number, these highly competitive opportunities are awarded to exceptional candidates based on merit",
+      "url": "https://www.stevens.edu/program/physics-phd"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with a master's degree are welcome, and exceptionally well-qualified applicants with a bachelor's degree may be admitted directly.",
+      "quote": "Exceptionally well-qualified applicants with a bachelor’s degree in physics or quantum science and engineering or a related field may also be considered for direct admission to the Ph.D. program",
+      "url": "https://www.stevens.edu/program/physics-phd"
+    }
+  },
+  "notes": ""
+}
