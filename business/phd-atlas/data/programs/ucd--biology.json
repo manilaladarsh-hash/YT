@@ -1,0 +1,44 @@
+{
+  "id": "ucd--biology",
+  "university": "ucd",
+  "field": "biology",
+  "also_fields": [
+    "environment"
+  ],
+  "department": "UCD School of Biology and Environmental Science",
+  "program_page": "https://www.ucd.ie/bioenvsci/study/graduateresearchprogrammes/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "Registration starts in September, January or May; the School asks for applications 4-5 months before registration, with no closing date.",
+      "quote": "Applications should be made at least 4-5 months prior to the Registration deadline.",
+      "url": "https://www.ucd.ie/bioenvsci/study/graduateresearchprogrammes/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no Biology GRE Subject test, and the page does not mention GRE.",
+      "quote": "",
+      "url": "https://www.ucd.ie/bioenvsci/study/graduateresearchprogrammes/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A member of staff must agree to supervise before the application is submitted.",
+      "quote": "Once a member of our academic staff has agreed to supervise you, they will need to submit the application form to the Graduate Administrator.",
+      "url": "https://www.ucd.ie/bioenvsci/study/graduateresearchprogrammes/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "The School's Research Demonstratorships pay a scholarship, but the School says it is not offering them for 2025/26.",
+      "quote": "Research demonstrators are paid a scholarship of €25,000 per annum for a total period of four years",
+      "url": "https://www.ucd.ie/bioenvsci/study/graduateresearchprogrammes/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A first degree of at least an upper second class, and/or a master's degree, is normally needed.",
+      "quote": "Applicants for research degree should normally possess a first degree of at least an upper second class honours primary degree or the equivalent and/or Master's degree or its equivalent.",
+      "url": "https://www.ucd.ie/bioenvsci/study/graduateresearchprogrammes/"
+    }
+  },
+  "notes": "Environment is listed in also_fields because the School's PhD and MSc (Research) page describes the School's disciplines as including environmental science. Applicants must contact a supervisor first; the School's application page is the only source for this statement."
+}

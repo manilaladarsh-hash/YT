@@ -1,0 +1,44 @@
+{
+  "id": "ucd--mech",
+  "university": "ucd",
+  "field": "mech",
+  "also_fields": [
+    "materials"
+  ],
+  "department": "UCD School of Mechanical and Materials Engineering",
+  "program_page": "https://www.ucd.ie/mecheng/research/postgraduateopportunities/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The School page gives no closing date; applicants should contact a supervisor first.",
+      "quote": "",
+      "url": "https://www.ucd.ie/mecheng/research/postgraduateopportunities/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no Mechanical Engineering GRE Subject test.",
+      "quote": "",
+      "url": "https://www.ucd.ie/mecheng/research/postgraduateopportunities/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants contact the supervisor first and apply only if both agree.",
+      "quote": "If you both decide to pursue the application, please apply online here.",
+      "url": "https://www.ucd.ie/mecheng/research/postgraduateopportunities/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Some listed PhDs are fully funded scholarships, such as the I-Form and DMI studentships.",
+      "quote": "a full-time, 4-year PhD scholarship with I-Form and DMI",
+      "url": "https://www.ucd.ie/mecheng/research/postgraduateopportunities/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The course catalogue lists direct entry to the full-time PhD.",
+      "quote": "Direct entry to T244 PhD in Mechanical & Materials Engineering (PhD) FT, September start",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=PROG&MAJR=T244"
+    }
+  },
+  "notes": "Materials is in also_fields because the official PhD is titled 'PhD in Mechanical & Materials Engineering' (course catalogue T244)."
+}

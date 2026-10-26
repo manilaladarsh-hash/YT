@@ -1,0 +1,42 @@
+{
+  "id": "ucd--ece",
+  "university": "ucd",
+  "field": "ece",
+  "also_fields": [],
+  "department": "UCD School of Electrical and Electronic Engineering",
+  "program_page": "https://www.ucd.ie/eleceng/research/researchvacancies/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The School's PhD pages give no closing date.",
+      "quote": "",
+      "url": "https://www.ucd.ie/eleceng/research/researchvacancies/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no Electrical Engineering GRE Subject test.",
+      "quote": "",
+      "url": "https://www.ucd.ie/eleceng/research/researchvacancies/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The School pages checked do not say whether a supervisor must agree before applying.",
+      "quote": "",
+      "url": "https://www.ucd.ie/eleceng/research/researchvacancies/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The School lists funded PhD positions, but the pages checked do not describe a competition or typical funding.",
+      "quote": "",
+      "url": "https://www.ucd.ie/eleceng/research/researchvacancies/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The course catalogue lists direct entry to the full-time PhD.",
+      "quote": "Direct entry to T242 PhD in Electrical & Electronic Engineering (PhD) FT, September start",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=PROG&MAJR=T242"
+    }
+  },
+  "notes": "The course catalogue pages are official but the other UCD course catalogue pages were not fetched. Other fields were checked on the School's research vacancies page."
+}

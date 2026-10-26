@@ -1,0 +1,42 @@
+{
+  "id": "ucd--cs",
+  "university": "ucd",
+  "field": "cs",
+  "also_fields": [],
+  "department": "UCD School of Computer Science",
+  "program_page": "https://www.ucd.ie/cs/study/researchdegrees/applicationprocessandadmissionrequirements/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page gives registration months (January, May and September) but no closing date.",
+      "quote": "New student registrations take place in January, May and September each year.",
+      "url": "https://www.ucd.ie/cs/study/researchdegrees/applicationprocessandadmissionrequirements/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no CS GRE Subject test, and the page does not mention GRE.",
+      "quote": "",
+      "url": "https://www.ucd.ie/cs/study/researchdegrees/applicationprocessandadmissionrequirements/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must secure a supervisor's backing before an application can be made.",
+      "quote": "You must secure the backing of a supervisor before an application can be made",
+      "url": "https://www.ucd.ie/cs/study/researchdegrees/applicationprocessandadmissionrequirements/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "School PhD scholarships are assessed in phases and include a €25,000 tax-free stipend.",
+      "quote": "While at UCD, the PhD scholarship includes a tax-free PhD student stipend of €25,000 per annum.",
+      "url": "https://www.ucd.ie/cs/phdvacancies/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A 2.1 in an undergraduate or postgraduate degree in a technical subject is the minimum, so a bachelor's or master's can qualify.",
+      "quote": "minimum 2.1 grade (or equivalent) in an undergraduate or postgraduate degree in Computer Science",
+      "url": "https://www.ucd.ie/cs/study/researchdegrees/applicationprocessandadmissionrequirements/"
+    }
+  },
+  "notes": "The scholarship stipend quote comes from the 2026-intake vacancies page; the CS English rule matches the UCD minimum, so no override is recorded."
+}

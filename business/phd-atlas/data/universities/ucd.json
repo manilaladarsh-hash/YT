@@ -1,0 +1,60 @@
+{
+  "id": "ucd",
+  "institution": "University College Dublin",
+  "country": "Ireland",
+  "region": "Leinster",
+  "grad_page": "https://www.ucd.ie/graduatestudies/studywithus/applicationprocess/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "70 EUR",
+      "value": "The Registry sets a €70 application fee for most courses; the Graduate Admissions page says €60, so confirm the amount in the portal.",
+      "quote": "For most courses you must pay a €70 application fee.",
+      "url": "https://www.ucd.ie/registry/prospectivestudents/admissions/graduateapplicants/applying/payingyourapplicationfee/",
+      "also": [
+        {
+          "quote": "An application fee is required for most application types (€60).",
+          "url": "https://www.ucd.ie/graduateadmissions/admissions/howtoapply/"
+        }
+      ],
+      "conflict": true
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "The pages checked list no international fee waiver; the only exemption named is for asylum seekers and refugees.",
+      "quote": "Asylum Seekers, Refugees, Internally Displaced Persons and those with subsidiary protection or Leave to remain are not required to pay the application fee.",
+      "url": "https://www.ucd.ie/registry/prospectivestudents/admissions/graduateapplicants/applying/payingyourapplicationfee/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement appears on the graduate school or Registry pages checked.",
+      "quote": "",
+      "url": "https://www.ucd.ie/graduatestudies/studywithus/applicationprocess/"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "UCD's minimum is a TOEFL iBT score of 90, with at least 21 in writing and 19 in every other section.",
+      "quote": "iBT: 90 (no less than 21 in writing and at least 19 in every other section)",
+      "url": "https://www.ucd.ie/registry/prospectivestudents/admissions/policiesandgeneralregulations/generalrequirements/minimumenglishlanguagerequirements/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "UCD's minimum is IELTS Academic 6.5 overall, with at least 6.0 in each band; retake scores are not accepted.",
+      "quote": "An average score of 6.5 over all components and a minimum of 6.0 in each band",
+      "url": "https://www.ucd.ie/registry/prospectivestudents/admissions/policiesandgeneralregulations/generalrequirements/minimumenglishlanguagerequirements/",
+      "also": [
+        {
+          "quote": "Retake scores are not accepted.",
+          "url": "https://www.ucd.ie/registry/prospectivestudents/admissions/policiesandgeneralregulations/generalrequirements/minimumenglishlanguagerequirements/"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "A degree taught in English can count as proof of English, but only at the discretion of the relevant board, so an Indian English-medium degree is not automatically accepted.",
+      "quote": "For example, a degree taken through English or in an English-speaking country may be taken as proof of proficiency",
+      "url": "https://www.ucd.ie/registry/prospectivestudents/admissions/policiesandgeneralregulations/generalrequirements/minimumenglishlanguagerequirements/"
+    }
+  },
+  "notes": "Registry (€70) and the Graduate Admissions How to Apply page (€60) disagree on the application fee. The English page says results must be under two years old; for September 2027 entry they must be from 1 February 2025 onward. No GRE policy or international fee waiver was found on the official pages checked."
+}
