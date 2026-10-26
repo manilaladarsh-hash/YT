@@ -1,0 +1,42 @@
+{
+  "id": "utsa--ece",
+  "university": "utsa",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Electrical Engineering (PhD), Klesse College",
+  "program_page": "https://future.utsa.edu/programs/doctoral/electrical-engineering/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Priority deadline February 1, 2027; international applicants June 1, 2027 for Fall 2027 entry.",
+      "quote": "Fall 2027 February 1 June 1 August 1",
+      "url": "https://future.utsa.edu/programs/doctoral/electrical-engineering/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject GRE test.",
+      "quote": "",
+      "url": "https://future.utsa.edu/programs/doctoral/electrical-engineering/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether applicants need a faculty supervisor first.",
+      "quote": "",
+      "url": "https://future.utsa.edu/programs/doctoral/electrical-engineering/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page links to funding information but does not say how many PhD students are funded.",
+      "quote": "",
+      "url": "https://future.utsa.edu/programs/doctoral/electrical-engineering/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The required degree is a master's degree.",
+      "quote": "Master's Degree Degree from an accredited college or university in the United States",
+      "url": "https://future.utsa.edu/programs/doctoral/electrical-engineering/"
+    }
+  },
+  "notes": "Computer Engineering (PhD) is a separate program with a master's requirement; not saved, since this schema allows one ece record."
+}

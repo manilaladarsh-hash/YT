@@ -1,0 +1,65 @@
+{
+  "id": "utsa",
+  "institution": "University of Texas at San Antonio",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://future.utsa.edu/graduate/admissions/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "90 USD",
+      "value": "International applicants pay $90 per graduate application; domestic applicants pay $50.",
+      "quote": "Graduate Admissions Application Fee $50 Domestic Applicants $90 International Applicants",
+      "url": "https://future.utsa.edu/graduate/admissions/",
+      "also": [
+        {
+          "quote": "A non-refundable application processing fee is charged per application to a graduate program.",
+          "url": "https://future.utsa.edu/graduate/admissions/"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "There are no graduate fee waivers except McNair Scholar waiver forms from the McNair office.",
+      "quote": "Please note there are no fee waivers at the graduate level. | Approved McNair program waiver forms must be provided by the McNair office at your institution.",
+      "url": "https://future.utsa.edu/graduate/admissions/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school leaves GRE requirements to each program; the program record gives the rule where stated.",
+      "quote": "Depending on the requirements for your graduate program of interest, you might be asked to submit test scores.",
+      "url": "https://future.utsa.edu/graduate/admissions/"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "TOEFL iBT 4.0 (new scale) for exams taken on or after 21 January 2026; 79 for earlier exams.",
+      "quote": "For exams taken on or after January 21, 2026: 4.0 or greater",
+      "url": "https://future.utsa.edu/international/",
+      "also": [
+        {
+          "quote": "For exams taken before January 21, 2026: 79 or greater",
+          "url": "https://future.utsa.edu/international/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic overall 6.5 or greater, and the academic exam (not the general one) is required.",
+      "quote": "IELTS 6.5 or greater",
+      "url": "https://future.utsa.edu/international/",
+      "also": [
+        {
+          "quote": "Students who take the IELTS should take the academic exam, not the general exam.",
+          "url": "https://future.utsa.edu/graduate/admissions/"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The graduate catalog's exempt-country list could not be read, so an English waiver for Indian applicants is not confirmed.",
+      "quote": "",
+      "url": "https://future.utsa.edu/international/"
+    }
+  },
+  "notes": "Fees: the $75 application fee on the international page is the undergraduate fee and is not used. The graduate catalog International Graduate Students page (exempt-country list) returned HTTP 502 on every fetch form, so the India exemption is unchecked. UTSA's doctoral list also includes Integrated Biomedical Sciences, Health Science, Radiological Sciences, Translational Science, South Texas MD/PhD and DDS/PhD; these link to UT Health San Antonio pages and were not saved as UTSA programs."
+}
