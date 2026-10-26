@@ -1,0 +1,55 @@
+{
+  "id": "uab--mech",
+  "university": "uab",
+  "field": "mech",
+  "also_fields": [
+    "bme",
+    "civil",
+    "ece",
+    "materials"
+  ],
+  "department": "School of Engineering",
+  "program_page": "https://catalog.uab.edu/graduate/schoolofengineering/interdisciplinaryengineering/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-08-01",
+      "value": "Applications for Fall entry are due August 1, with all materials due seven days before term begins.",
+      "quote": "Deadline for Entry Term(s): Fall: August 1; Spring: December 1; Summer: May 1",
+      "url": "https://catalog.uab.edu/graduate/schoolofengineering/interdisciplinaryengineering/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to Interdisciplinary Engineering.",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/schoolofengineering/interdisciplinaryengineering/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The program says the GRE is not required.",
+      "quote": "GRE is not required",
+      "url": "https://catalog.uab.edu/graduate/schoolofengineering/interdisciplinaryengineering/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog page does not state a supervisor rule.",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/schoolofengineering/interdisciplinaryengineering/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog page does not state a funding rule.",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/schoolofengineering/interdisciplinaryengineering/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admission requires an undergraduate or graduate degree in engineering.",
+      "quote": "Undergraduate or graduate degree in Engineering",
+      "url": "https://catalog.uab.edu/graduate/schoolofengineering/interdisciplinaryengineering/"
+    }
+  },
+  "notes": "Umbrella PhD drawing on Biomedical Engineering, Civil, Construction and Environmental Engineering, Electrical and Computer Engineering, and Mechanical and Materials Engineering. Saved under mech because UAB has no standalone mechanical PhD. The deadline year is inferred from the Fall 2027 cycle.",
+  "name": "Interdisciplinary Engineering (PhD)"
+}

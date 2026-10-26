@@ -1,0 +1,48 @@
+{
+  "id": "uab--cs",
+  "university": "uab",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://catalog.uab.edu/graduate/collegeofartsciences/computerscience/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The catalog page gives no deadline; it points to the department website, which could not be fetched.",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/collegeofartsciences/computerscience/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to Computer Science.",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/collegeofartsciences/computerscience/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The catalog page does not state a GRE rule.",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/collegeofartsciences/computerscience/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog page does not state a supervisor rule.",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/collegeofartsciences/computerscience/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog page does not state a funding rule.",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/collegeofartsciences/computerscience/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The degree rule counts 45 graduate hours for entry with a bachelor's and 24 hours with a master's in CS.",
+      "quote": "Select 45 hours from the Computer Science courses at the graduate level (24 hours if entering with a master's degree appropriate to CS field)",
+      "url": "https://catalog.uab.edu/graduate/collegeofartsciences/computerscience/"
+    }
+  },
+  "notes": "The catalog page lists the Ph.D. and M.S. programs with contact cisgradprogram@uab.edu, but gives no English, GRE, deadline or funding rule. The department's application page could not be fetched."
+}

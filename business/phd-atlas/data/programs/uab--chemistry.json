@@ -1,0 +1,48 @@
+{
+  "id": "uab--chemistry",
+  "university": "uab",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://catalog.uab.edu/graduate/collegeofartsciences/chemistry/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The catalog gives entry each semester and a deadline six weeks before term starts, not a date.",
+      "quote": "Each semester | Six weeks before term begins",
+      "url": "https://catalog.uab.edu/graduate/collegeofartsciences/chemistry/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Chemistry subject test is mentioned on the catalog page.",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/collegeofartsciences/chemistry/"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The Chemistry entrance table lists the GRE; the international TOEFL/TWE requirement is noted in the same line.",
+      "quote": "GRE (TOEFL and TWE also required for international applicants whose native language is not English.)",
+      "url": "https://catalog.uab.edu/graduate/collegeofartsciences/chemistry/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog page does not state a supervisor rule.",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/collegeofartsciences/chemistry/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog page does not state a funding rule.",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/collegeofartsciences/chemistry/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The catalog page does not state the entry degree.",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/collegeofartsciences/chemistry/"
+    }
+  },
+  "notes": "Department page on uab.edu could not be fetched; values are from the catalog program entry (M.S. and Ph.D.)."
+}
