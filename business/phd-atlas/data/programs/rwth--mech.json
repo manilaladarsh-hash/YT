@@ -1,0 +1,42 @@
+{
+  "id": "rwth--mech",
+  "university": "rwth",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Faculty of Mechanical Engineering",
+  "program_page": "https://www.maschinenbau.rwth-aachen.de/cms/Maschinenbau/Studium/Nach-dem-Studium/Promotion/Waehrend-der-Promotion/~nahi/Ablauf/?lidx=1",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "Doctoral studies start with a contract at one of the faculty's chairs, so the route is through a chair rather than a single round.",
+      "quote": "being hired at one of the Faculty's chairs",
+      "url": "https://www.maschinenbau.rwth-aachen.de/cms/Maschinenbau/Studium/Nach-dem-Studium/Promotion/Waehrend-der-Promotion/~nahi/Ablauf/?lidx=1"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The mechanical engineering pages do not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.maschinenbau.rwth-aachen.de/cms/Maschinenbau/Studium/Nach-dem-Studium/Promotion/Waehrend-der-Promotion/~nahi/Ablauf/?lidx=1"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A supervision agreement signed by the candidate and the supervisor must be submitted with the eligibility application.",
+      "quote": "you must submit a supervision agreement signed by you and your supervisor",
+      "url": "https://www.maschinenbau.rwth-aachen.de/cms/Maschinenbau/Studium/Nach-dem-Studium/Promotion/Waehrend-der-Promotion/~nahi/Ablauf/?lidx=1"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Doctorates there generally run as a paid assistant post at a chair, so most candidates are funded that way.",
+      "quote": "Since you generally conduct your doctoral studies at the Faculty of Mechanical Engineering",
+      "url": "https://www.maschinenbau.rwth-aachen.de/cms/Maschinenbau/Studium/Nach-dem-Studium/Promotion/Waehrend-der-Promotion/~nahi/Ablauf/?lidx=1"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The prerequisites page covers German degrees only; the rule for a foreign degree was not on the pages fetched.",
+      "quote": "",
+      "url": "https://www.maschinenbau.rwth-aachen.de/cms/maschinenbau/studium/absolventen/promotion/vor-der-promotion/~nagx/voraussetzungen/?lidx=1"
+    }
+  },
+  "notes": "Prerequisites page (~nagx) is titled Domestic University Degree; the foreign-degree route was not found. The eligibility application must reach the faculty three weeks before a Faculty Council meeting; the dates were not fetched."
+}

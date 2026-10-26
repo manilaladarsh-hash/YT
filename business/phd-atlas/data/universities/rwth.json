@@ -1,0 +1,59 @@
+{
+  "id": "rwth",
+  "institution": "RWTH Aachen University",
+  "country": "Germany",
+  "region": "North Rhine-Westphalia",
+  "grad_page": "https://www.rwth-aachen.de/go/id/cgex/lidx/1",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No RWTH doctoral page fetched states an application fee; the only fee line is for study applications, which are free.",
+      "quote": "",
+      "url": "https://www.rwth-aachen.de/go/id/cgex/lidx/1",
+      "also": [
+        {
+          "quote": "The application at RWTH Aachen University is free of charge and very easy to do.",
+          "url": "https://www.rwth-aachen.de/cms/root/studium/vor-dem-studium/zugangsvoraussetzungen/~bxip/besonderheiten-internationale-studienint/?lidx=1"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No fee waiver is mentioned for doctoral applications, and no application fee is stated.",
+      "quote": "",
+      "url": "https://www.rwth-aachen.de/go/id/cgex/lidx/1"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No RWTH doctoral page fetched mentions the GRE General test.",
+      "quote": "",
+      "url": "https://www.rwth-aachen.de/go/id/cgex/lidx/1"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "For English-language doctoral programmes RWTH lists TOEFL iBT 80 (or 550 on paper), but only when the supervisor requires a language certificate.",
+      "quote": "Test of English as a Foreign Language (TOEFL) with at least 80 IBT or 550 PBT points",
+      "url": "https://www.rwth-aachen.de/cms/root/studium/Nach-dem-Studium/Promotion/Informationen-fuer-Promovierende/Internationale-Promovierende/Internationale-Promotionsinteressierte/~dsqh/Einschreibung-zur-Promotion-fuer-Interna/lidx/1/",
+      "also": [
+        {
+          "quote": "Originals of language certificates, if these are required by your supervisor",
+          "url": "https://www.rwth-aachen.de/cms/root/studium/Nach-dem-Studium/Promotion/Informationen-fuer-Promovierende/Internationale-Promovierende/Internationale-Promotionsinteressierte/~dsqh/Einschreibung-zur-Promotion-fuer-Interna/lidx/1/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "For English-language doctoral programmes RWTH lists IELTS Academic 6.0, but only when the supervisor requires a language certificate.",
+      "quote": "International English Language Testing System (IELTS) with a score of at least 6.0",
+      "url": "https://www.rwth-aachen.de/cms/root/studium/Nach-dem-Studium/Promotion/Informationen-fuer-Promovierende/Internationale-Promovierende/Internationale-Promotionsinteressierte/~dsqh/Einschreibung-zur-Promotion-fuer-Interna/lidx/1/"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The enrollment page lists IELTS, TOEFL or CAE for English-language programmes and mentions no exemption for an English-medium degree from India.",
+      "quote": "",
+      "url": "https://www.rwth-aachen.de/cms/root/studium/Nach-dem-Studium/Promotion/Informationen-fuer-Promovierende/Internationale-Promovierende/Internationale-Promotionsinteressierte/~dsqh/Einschreibung-zur-Promotion-fuer-Interna/lidx/1/"
+    }
+  },
+  "notes": "Checked: applying for doctoral studies (cfov, cgex), enrollment for internationals (dsqh), central deadline table (PDF), qualification (cgew), admission requirements (ddxg), international applicants particulars (bxip). No doctoral GRE, application fee, fee waiver or India English rule found on these pages. Doctoral admission is by faculty, so the faculty rules are in each program record. Not researched: structured programmes (SSD/JARA CSD, SusChemSys, Max Planck and Helmholtz partner schools); not saved as records."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "rwth--civil",
+  "university": "rwth",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Faculty of Civil Engineering",
+  "program_page": "https://www.fb3.rwth-aachen.de/cms/bauingenieurwesen/studium/nach-dem-studium/promotion/~cbaz/zulassungsvoraussetzungen-1/?lidx=1",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The faculty page gives no application dates; the admission review request goes to the dean.",
+      "quote": "You must submit the request to the dean.",
+      "url": "https://www.fb3.rwth-aachen.de/cms/bauingenieurwesen/studium/nach-dem-studium/promotion/~cbaz/zulassungsvoraussetzungen-1/?lidx=1"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The civil engineering page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.fb3.rwth-aachen.de/cms/bauingenieurwesen/studium/nach-dem-studium/promotion/~cbaz/zulassungsvoraussetzungen-1/?lidx=1"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A written confirmation from a university professor that they will supervise the dissertation must be attached to the admission request.",
+      "quote": "Confirmation from a university professor stating their readiness to supervise the dissertation",
+      "url": "https://www.fb3.rwth-aachen.de/cms/bauingenieurwesen/studium/nach-dem-studium/promotion/~cbaz/zulassungsvoraussetzungen-1/?lidx=1"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The civil engineering page does not say whether doctoral candidates are funded.",
+      "quote": "",
+      "url": "https://www.fb3.rwth-aachen.de/cms/bauingenieurwesen/studium/nach-dem-studium/promotion/~cbaz/zulassungsvoraussetzungen-1/?lidx=1"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page points to sections 8 to 10 of the doctoral regulation for admission requirements, which were not fetched.",
+      "quote": "",
+      "url": "https://www.fb3.rwth-aachen.de/cms/bauingenieurwesen/studium/nach-dem-studium/promotion/~cbaz/zulassungsvoraussetzungen-1/?lidx=1"
+    }
+  },
+  "notes": "Only the admission page was fetched. The doctoral regulation (sections 8-10) and the Faculty 3 deadlines page were not reached."
+}

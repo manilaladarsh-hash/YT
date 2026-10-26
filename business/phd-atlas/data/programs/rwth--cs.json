@@ -1,0 +1,42 @@
+{
+  "id": "rwth--cs",
+  "university": "rwth",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Faculty of Computer Science",
+  "program_page": "https://www.informatik.rwth-aachen.de/cms/informatik/studium/Promotion/~buofhb/Promotion-an-der-Fakultaet-fuer-Informat/lidx/1",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "Doctoral topics are allocated by each research group, so apply to a chair with a vacancy.",
+      "quote": "you will generally undertake your PhD as part of a research post",
+      "url": "https://www.informatik.rwth-aachen.de/cms/informatik/studium/Promotion/~buofhb/Promotion-an-der-Fakultaet-fuer-Informat/lidx/1"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The computer science doctorate page does not mention a subject GRE.",
+      "quote": "",
+      "url": "https://www.informatik.rwth-aachen.de/cms/informatik/studium/Promotion/~buofhb/Promotion-an-der-Fakultaet-fuer-Informat/lidx/1"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A supervision agreement with a computer science professor must be signed before admission to the PhD programme.",
+      "quote": "Before admission to the PhD programme can be granted, a supervision agreement with a professor of computer science is required",
+      "url": "https://www.informatik.rwth-aachen.de/cms/informatik/studium/Promotion/~buofhb/Promotion-an-der-Fakultaet-fuer-Informat/lidx/1"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "PhD candidates generally work in a research post at a chair, so most are funded that way.",
+      "quote": "you will generally undertake your PhD as part of a research post",
+      "url": "https://www.informatik.rwth-aachen.de/cms/informatik/studium/Promotion/~buofhb/Promotion-an-der-Fakultaet-fuer-Informat/lidx/1"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admission needs a relevant degree of at least eight semesters (not a Bachelor's), a six-semester degree plus preparatory study, or a completed Master's.",
+      "quote": "a degree in a relevant, computer science-related field of study with a standard period of study of at least six semesters, as well as appropriate, preparatory studies in the doctoral subjects",
+      "url": "https://www.informatik.rwth-aachen.de/cms/informatik/studium/Promotion/~buofhb/Promotion-an-der-Fakultaet-fuer-Informat/lidx/1"
+    }
+  },
+  "notes": "Faculty page is the only one fetched for computer science. The entry-route quote is cut at a clause boundary; the list also includes the six-semester route with preparatory study. Deadline is Per position because doctoral posts are research posts at chairs."
+}

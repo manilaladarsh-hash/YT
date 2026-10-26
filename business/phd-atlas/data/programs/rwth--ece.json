@@ -1,0 +1,42 @@
+{
+  "id": "rwth--ece",
+  "university": "rwth",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Faculty 6 (Electrical Engineering and Information Technology)",
+  "program_page": "https://www.elektrotechnik.rwth-aachen.de/cms/Elektrotechnik-und-Informationstechnik/Studium/Promotion/~qae/Promotionsvoraussetzungen/lidx/1",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The Faculty 6 admission page gives no application dates.",
+      "quote": "",
+      "url": "https://www.elektrotechnik.rwth-aachen.de/cms/Elektrotechnik-und-Informationstechnik/Studium/Promotion/~qae/Promotionsvoraussetzungen/lidx/1"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Faculty 6 page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.elektrotechnik.rwth-aachen.de/cms/Elektrotechnik-und-Informationstechnik/Studium/Promotion/~qae/Promotionsvoraussetzungen/lidx/1"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A RWTH professor must confirm in writing that they will accept the candidate into their research team before the candidate can apply.",
+      "quote": "an RWTH professor must issue a written confirmation that he or she is willing to accept the candidate in his or her research team",
+      "url": "https://www.elektrotechnik.rwth-aachen.de/cms/Elektrotechnik-und-Informationstechnik/Studium/Promotion/~qae/Promotionsvoraussetzungen/lidx/1"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The Faculty 6 admission page does not say whether doctoral candidates are funded.",
+      "quote": "",
+      "url": "https://www.elektrotechnik.rwth-aachen.de/cms/Elektrotechnik-und-Informationstechnik/Studium/Promotion/~qae/Promotionsvoraussetzungen/lidx/1"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Foreign graduates need a first degree equivalent to a German university degree (Master's or equivalent), checked by RWTH's International Office.",
+      "quote": "international graduates must hold a first study degree equivalent to a German university degree",
+      "url": "https://www.elektrotechnik.rwth-aachen.de/cms/Elektrotechnik-und-Informationstechnik/Studium/Promotion/~qae/Promotionsvoraussetzungen/lidx/1"
+    }
+  },
+  "notes": "Only the Faculty 6 admission page was fetched. The application for recognition of qualification and its dates were not reached."
+}
