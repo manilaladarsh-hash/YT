@@ -1,0 +1,55 @@
+{
+  "id": "bc--physics",
+  "university": "bc",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/graduate/admissions.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-02",
+      "value": "Applications for September entry are due January 2.",
+      "quote": "Deadline Jan 2 For admission in September of that same year",
+      "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/graduate/admissions.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE General Test is recommended but not required.",
+      "quote": "The GRE General Test and Physics Subject Test are recommended but not required",
+      "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/graduate/admissions.html"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The Physics Subject Test is recommended but not required.",
+      "quote": "The GRE General Test and Physics Subject Test are recommended but not required",
+      "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/graduate/admissions.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Physics waives the English test only for a highest degree from an English-speaking country. It does not name India, so Indian applicants should expect to submit a TOEFL or IELTS score.",
+      "quote": "This requirement is waived for those whose highest degree is from an English speaking country",
+      "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/graduate/admissions.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The physics pages do not say whether a faculty agreement is needed before admission.",
+      "quote": "",
+      "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/graduate/admissions.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Physics says all its Ph.D. candidates are supported in research.",
+      "quote": "100% Ph.D. candidates supported in research",
+      "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/graduate.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The physics pages do not say whether applicants come straight from a bachelor's degree.",
+      "quote": "",
+      "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/graduate/admissions.html"
+    }
+  },
+  "notes": "Department GRE and English rules differ from the graduate school grid; the department pages are used here."
+}

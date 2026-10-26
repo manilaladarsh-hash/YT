@@ -1,0 +1,50 @@
+{
+  "id": "bc--biology",
+  "university": "bc",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://www.bc.edu/content/bc-web/schools/mcas/departments/biology/graduate.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications are due December 1.",
+      "quote": "Molecular and Cellular Biology: Ph.D. ... Ph.D. - December 1",
+      "url": "https://www.bc.edu/bc-web/schools/mcas/graduate/admission.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies, and the pages do not mention the general GRE.",
+      "quote": "",
+      "url": "https://www.bc.edu/content/bc-web/schools/mcas/departments/biology/graduate.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students choose a thesis lab only after first-year rotations, so a faculty agreement is not part of admission.",
+      "quote": "First year course work and laboratory rotations leading to the selection of a PhD thesis lab",
+      "url": "https://www.bc.edu/content/bc-web/schools/mcas/departments/biology/graduate.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Tuition and health care are covered for all active Ph.D. students for up to six years, in exchange for departmental service.",
+      "quote": "covers tuition and health care for all active Ph.D. students up to six years in exchange for service to the department",
+      "url": "https://www.bc.edu/bc-web/schools/mcas/departments/biology/graduate/tuition-stipend-health.html",
+      "also": [
+        {
+          "quote": "12-month minimum annual stipend of $40,000 for academic year",
+          "url": "https://www.bc.edu/content/bc-web/schools/mcas/departments/biology/graduate.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The biology pages do not say whether applicants come straight from a bachelor's degree.",
+      "quote": "",
+      "url": "https://www.bc.edu/content/bc-web/schools/mcas/departments/biology/graduate.html"
+    }
+  },
+  "notes": "Program name: Molecular and Cellular Biology Ph.D. No separate biomedical sciences PhD is listed.",
+  "name": "Molecular and Cellular Biology Ph.D."
+}

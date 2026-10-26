@@ -1,0 +1,52 @@
+{
+  "id": "bc--earth",
+  "university": "bc",
+  "field": "earth",
+  "also_fields": [
+    "environment"
+  ],
+  "department": "Department of Earth and Environmental Sciences",
+  "program_page": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/eesc/graduate.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-02",
+      "value": "Fall admission applications are due January 2.",
+      "quote": "Deadline for fall admission is January 2",
+      "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/eesc/graduate.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional, and the department sets no minimum GRE or GPA.",
+      "quote": "Taking the GRE is optional | The department does not have minimum required grades or test scores",
+      "url": "https://www.bc.edu/bc-web/schools/morrissey/departments/eesc/graduate/faq.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is mentioned.",
+      "quote": "",
+      "url": "https://www.bc.edu/bc-web/schools/morrissey/departments/eesc/graduate/faq.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applications are rated holistically by the Graduate Program Committee.",
+      "quote": "graduate applications are holistically evaluated and rated by the Graduate Program Committee",
+      "url": "https://www.bc.edu/bc-web/schools/morrissey/departments/eesc/graduate/faq.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Admitted M.S. and Ph.D. students typically receive tuition remission and a monthly TA or RA stipend.",
+      "quote": "Admitted M.S. and Ph.D. students typically received tuition remission credits and a monthly stipend as a TA or RA",
+      "url": "https://www.bc.edu/bc-web/schools/morrissey/departments/eesc/graduate/faq.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students are admitted with or without a master's degree; those without one are designed to finish in about five years.",
+      "quote": "For students admitted without a master's degree, the Ph.D. program is designed to be completed approximately 5 years | Students admitted to the Ph.D. program who have already received their master's degree generally will be able to complete the program in 3-4 years",
+      "url": "https://www.bc.edu/bc-web/schools/morrissey/departments/eesc/graduate/faq.html"
+    }
+  },
+  "notes": "Covers the Earth and Environmental Sciences Ph.D., which is also listed under environment.",
+  "name": "Earth and Environmental Sciences Ph.D."
+}

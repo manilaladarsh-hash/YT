@@ -1,0 +1,47 @@
+{
+  "id": "bc",
+  "institution": "Boston College",
+  "country": "USA",
+  "region": "Massachusetts",
+  "grad_page": "https://www.bc.edu/bc-web/schools/mcas/graduate/admission.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The graduate school fee is $75 for each application, paid online after the form is submitted.",
+      "quote": "The MCGS application fee is $75 and may be paid online after submitting your application form",
+      "url": "https://www.bc.edu/bc-web/schools/mcas/graduate/admission.html"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Waivers are narrow: BC students and employees, military and veterans, certain volunteers, McNair Scholars, and applicants with proven serious financial hardship. Currency rates alone do not count.",
+      "quote": "Applicants for whom the application fee would constitute a serious financial hardship may also request a fee waiver | currency exchange rates, and/or difficulties in remitting credit card payment will not constitute 'serious financial hardship' on their own",
+      "url": "https://www.bc.edu/bc-web/schools/mcas/graduate/admission.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school leaves GRE General to each department, so the program record gives the rule.",
+      "quote": "If applying to a program requiring GRE scores, official GRE score reports must be submitted to complete applications",
+      "url": "https://www.bc.edu/bc-web/schools/mcas/graduate/admission.html"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "TOEFL iBT minimum is 100 (5.0 on the new scale).",
+      "quote": "A score of 100 (5.0 on the new scale) or higher on the TOEFL iBT test",
+      "url": "https://www.bc.edu/bc-web/schools/mcas/graduate/admission.html"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS minimum is an overall band of 7.0.",
+      "quote": "7.0 or higher on the IELTS test",
+      "url": "https://www.bc.edu/bc-web/schools/mcas/graduate/admission.html"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "A degree from an institution whose official language of instruction is English waives the test once an official transcript shows the degree. An English-medium Indian degree can qualify on that basis.",
+      "quote": "You earned your prior college or university degree in the U.S. or one of the countries listed above or at an institution whose official language of instruction is English",
+      "url": "https://www.bc.edu/bc-web/schools/mcas/graduate/admission.html"
+    }
+  },
+  "notes": "Official Morrissey Graduate School doctoral list: Biology (Molecular and Cellular Biology), Chemistry, Computer Science, Earth and Environmental Sciences, Mathematics, Physics, Psychology and Neuroscience. No engineering, astronomy, materials, biomedical or data-science PhD is listed. Lynch School Measurement, Evaluation, Statistics and Assessment PhD is education measurement, so no statistics record. Physics overrides the English waiver with a country-based rule."
+}

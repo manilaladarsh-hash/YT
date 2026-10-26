@@ -1,0 +1,49 @@
+{
+  "id": "bc--cs",
+  "university": "bc",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/computer-science/academics/phd.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Applications are due December 15.",
+      "quote": "Computer Science ... Ph.D. - December 15",
+      "url": "https://www.bc.edu/bc-web/schools/mcas/graduate/admission.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE General Test is recommended.",
+      "quote": "Computer Science ... GRE General Test (recommended)",
+      "url": "https://www.bc.edu/bc-web/schools/mcas/graduate/admission.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No CS subject test is mentioned.",
+      "quote": "",
+      "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/computer-science/academics/phd.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants are admitted to the Ph.D. program as a whole, not to a research group.",
+      "quote": "Students will be admitted to the Ph.D. program, not to an individual research group",
+      "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/computer-science/academics/phd.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "The department aims to fund each full-time Ph.D. student for five ten-month academic years, but this is an aim rather than a promise.",
+      "quote": "We aim to secure support for each full-time CS Ph.D. student for five ten-month academic years",
+      "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/computer-science/academics/phd.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The CS pages do not say whether applicants come straight from a bachelor's degree.",
+      "quote": "",
+      "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/computer-science/academics/phd.html"
+    }
+  },
+  "notes": ""
+}
