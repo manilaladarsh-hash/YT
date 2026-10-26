@@ -1,0 +1,49 @@
+{
+  "id": "mst--materials",
+  "university": "mst",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Department of Materials Science and Engineering",
+  "program_page": "https://catalog.mst.edu/graduate/graduatedegreeprograms/materialsscienceandengineering/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Doctoral applications for fall entry should reach admissions by February 15; the catalog says applications are reviewed on a rolling basis.",
+      "quote": "Doctoral Fall semester: February 15",
+      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Applications are reviewed on a rolling basis.",
+          "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The catalog names no GRE Subject test for materials science.",
+      "quote": "",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/materialsscienceandengineering/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Each doctoral student gets an academic advisor after admission; the catalog does not say a supervisor must agree before admission.",
+      "quote": "All students pursuing a doctoral degree will have an academic advisor (and co-advisor, if applicable) who must be a member of the Missouri S&T graduate faculty.",
+      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/doctoratedegrees/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog gives no funding statement for the PhD.",
+      "quote": "",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/materialsscienceandengineering/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The catalog gives an entry degree requirement but no PhD-only route.",
+      "quote": "",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/materialsscienceandengineering/"
+    }
+  },
+  "notes": "The department offers M.S. and Ph.D. programs in materials science and engineering, plus separate ceramic and metallurgical PhDs that are not separate fields here. Department PhD pages on the mst.edu subdomains could not be reached (TLS verification failure through the proxy); this record uses the graduate catalog only."
+}
