@@ -1,0 +1,54 @@
+{
+  "id": "tudresden--chemistry",
+  "university": "tudresden",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Faculty of Chemistry and Food Chemistry (School of Science)",
+  "program_page": "https://tu-dresden.de/mn/chemie/postgraduales/promotion?set_language=en",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The chemistry page gives no closing date and refers applicants to the School of Science doctorate pages.",
+      "quote": "",
+      "url": "https://tu-dresden.de/mn/chemie/postgraduales/promotion?set_language=en"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned.",
+      "quote": "",
+      "url": "https://tu-dresden.de/mn/chemie/postgraduales/promotion?set_language=en"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A supervision agreement with your professor must be signed first, and a copy goes with the admission application.",
+      "quote": "you are obliged to sign a supervision agreement",
+      "url": "https://tu-dresden.de/mn/postgraduales/promotion?set_language=en",
+      "also": [
+        {
+          "quote": "copy of the supervision agreement",
+          "url": "https://tu-dresden.de/mn/postgraduales/promotion?set_language=en"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages checked do not state how many doctoral candidates are funded.",
+      "quote": "",
+      "url": "https://tu-dresden.de/mn/chemie/postgraduales/promotion?set_language=en"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Admission normally needs a Diploma, Master or Magister, generally with at least a good grade. A bachelor's holder can apply only through a pre-qualification procedure.",
+      "quote": "Admission for a doctorate is granted to graduates who have obtained a Diploma, Master or Magister degree from a university",
+      "url": "https://tu-dresden.de/mn/postgraduales/promotion/promotionsordnung?set_language=en",
+      "also": [
+        {
+          "quote": "Holders of a Bachelor degree from a university may also be admitted for a doctorate without being required to obtain a further postgraduate degree",
+          "url": "https://tu-dresden.de/mn/postgraduales/promotion/promotionsordnung?set_language=en"
+        }
+      ]
+    }
+  },
+  "notes": "The chemistry faculty page only refers to the School of Science pages, so its rules are the School of Science rules."
+}
