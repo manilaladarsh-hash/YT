@@ -1,0 +1,72 @@
+{
+  "id": "nyu--bme",
+  "university": "nyu",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Biomedical Engineering (NYU Tandon)",
+  "program_page": "https://engineering.nyu.edu/academics/programs/biomedical-engineering-phd",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "90 USD",
+      "value": "The Tandon application fee is $90, non-refundable and paid online by major credit card.",
+      "quote": "The non-refundable application fee is $90 and is payable online by major credit card.",
+      "url": "https://engineering.nyu.edu/admissions/graduate/apply/admissions-requirements"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "All Tandon programs are GRE optional; the GRE is not required for admission.",
+      "quote": "All of our programs are GRE optional. | The GRE is not required for admission to any graduate program at NYU Tandon.",
+      "url": "https://engineering.nyu.edu/admissions/graduate/apply/admissions-requirements"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "Tandon's TOEFL iBT minimum is 90 on the 0-120 scale.",
+      "quote": "TOEFL score of 90 (on a 0-120 point scale)",
+      "url": "https://engineering.nyu.edu/admissions/graduate/apply/admissions-requirements"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Tandon's IELTS minimum is an overall band of 7.0.",
+      "quote": "IELTS score of 7.0",
+      "url": "https://engineering.nyu.edu/admissions/graduate/apply/admissions-requirements"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "A four-year US degree or a US master's is exempt; otherwise a waiver can be requested in special cases on a form.",
+      "quote": "Applicants may request a waiver of the English Language Proficiency Testing requirements for special cases by submitting a waiver request form. | If you have attended a US institution for four years and earned a bachelor’s degree, or earned a master’s degree, you are not required to submit an English language proficiency test score.",
+      "url": "https://engineering.nyu.edu/admissions/graduate/apply/admissions-requirements"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A BS in biomedical engineering or a related field is generally required, and applicants entering with an MS are also accepted.",
+      "quote": "A BS degree in biomedical engineering or a related field of science or engineering is generally required for admission to the BME Ph.D. program. | Students entering at the BME Ph.D. program with an MS degree are expected to have",
+      "url": "https://engineering.nyu.edu/academics/programs/biomedical-engineering-phd"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students choose a dissertation advisor after admission, by the end of the first year.",
+      "quote": "Students must choose a dissertation research advisor by the end of the first year",
+      "url": "https://engineering.nyu.edu/academics/programs/biomedical-engineering-phd"
+    },
+    "deadline": {
+      "code": "Not stated",
+      "value": "The Tandon deadline page gives December 1 with no year, so it is not used.",
+      "quote": "",
+      "url": "https://engineering.nyu.edu/academics/programs/biomedical-engineering-phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE subject test is stated for this program.",
+      "quote": "",
+      "url": "https://engineering.nyu.edu/academics/programs/biomedical-engineering-phd"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The Tandon funding page says students may receive funding but states no code-level rule for this program.",
+      "quote": "",
+      "url": "https://engineering.nyu.edu/academics/programs/biomedical-engineering-phd"
+    }
+  },
+  "notes": "The page's own GRE line was not in the fetched text; the Tandon 'GRE optional' line is used for the school rule."
+}

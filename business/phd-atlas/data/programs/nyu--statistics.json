@@ -1,0 +1,78 @@
+{
+  "id": "nyu--statistics",
+  "university": "nyu",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "PhD in Statistics and Computational Social Science (Steinhardt School)",
+  "program_page": "https://steinhardt.nyu.edu/degree/phd-statistics-and-computational-social-science/how-apply",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page gives a Fall start of December 1 with no year, so it is not used.",
+      "quote": "",
+      "url": "https://steinhardt.nyu.edu/degree/phd-statistics-and-computational-social-science/how-apply"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE subject test applies to this PhD; the page's GRE line is general.",
+      "quote": "",
+      "url": "https://steinhardt.nyu.edu/degree/phd-statistics-and-computational-social-science/how-apply"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule is stated on the application page.",
+      "quote": "",
+      "url": "https://steinhardt.nyu.edu/degree/phd-statistics-and-computational-social-science/how-apply"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page links to PhD funding packages without stating a rule.",
+      "quote": "",
+      "url": "https://steinhardt.nyu.edu/degree/phd-statistics-and-computational-social-science/how-apply"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The fetched application page does not say whether a bachelor's or master's is required.",
+      "quote": "",
+      "url": "https://steinhardt.nyu.edu/degree/phd-statistics-and-computational-social-science/how-apply"
+    },
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The Steinhardt application fee is $75, paid by major credit card only.",
+      "quote": "You will be prompted to pay a $75 application fee, payable by major credit card only.",
+      "url": "https://steinhardt.nyu.edu/degree/phd-statistics-and-computational-social-science/how-apply"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "Steinhardt's GRE line for this PhD says not required.",
+      "quote": "GRE | Not required.",
+      "url": "https://steinhardt.nyu.edu/degree/phd-statistics-and-computational-social-science/how-apply"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "Steinhardt's TOEFL iBT target is 100 on the original scale, or 5 on the new scale.",
+      "quote": "Successful candidates score a 100 (original TOEFL iBT scoring) or 5 (new TOEFL iBT scoring starting January 21, 2026).",
+      "url": "https://steinhardt.nyu.edu/admissions/how-apply/graduate-students/testing-requirements"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Steinhardt's IELTS target is an overall band of 7.",
+      "quote": "Successful candidates achieve a band score of 7.",
+      "url": "https://steinhardt.nyu.edu/admissions/how-apply/graduate-students/testing-requirements"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Only native English speakers or applicants with four years of US study skip the test, so an Indian applicant must submit TOEFL or IELTS.",
+      "quote": "You do not have to submit an English language exam score if: | Your native language is English | You completed four years of study in the US",
+      "url": "https://steinhardt.nyu.edu/admissions/how-apply/graduate-students/testing-requirements",
+      "also": [
+        {
+          "quote": "Applicants holding or completing a graduate degree from an English-speaking institution are still required to submit official exam scores if their graduate education was fewer than four years in duration.",
+          "url": "https://steinhardt.nyu.edu/admissions/how-apply/graduate-students/testing-requirements"
+        }
+      ]
+    }
+  },
+  "notes": "Steinhardt is a separate school with its own application, so its fee and English rules are overrides. Field mapped to statistics by its title; the program is in a social-science school."
+}

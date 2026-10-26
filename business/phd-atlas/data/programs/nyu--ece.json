@@ -1,0 +1,72 @@
+{
+  "id": "nyu--ece",
+  "university": "nyu",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Electrical and Computer Engineering (NYU Tandon)",
+  "program_page": "https://engineering.nyu.edu/academics/programs/electrical-engineering-phd",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "90 USD",
+      "value": "The Tandon application fee is $90, non-refundable and paid online by major credit card.",
+      "quote": "The non-refundable application fee is $90 and is payable online by major credit card.",
+      "url": "https://engineering.nyu.edu/admissions/graduate/apply/admissions-requirements"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "All Tandon programs are GRE optional; the GRE is not required for admission.",
+      "quote": "All of our programs are GRE optional. | The GRE is not required for admission to any graduate program at NYU Tandon.",
+      "url": "https://engineering.nyu.edu/admissions/graduate/apply/admissions-requirements"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "Tandon's TOEFL iBT minimum is 90 on the 0-120 scale.",
+      "quote": "TOEFL score of 90 (on a 0-120 point scale)",
+      "url": "https://engineering.nyu.edu/admissions/graduate/apply/admissions-requirements"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Tandon's IELTS minimum is an overall band of 7.0.",
+      "quote": "IELTS score of 7.0",
+      "url": "https://engineering.nyu.edu/admissions/graduate/apply/admissions-requirements"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "A four-year US degree or a US master's is exempt; otherwise a waiver can be requested in special cases on a form.",
+      "quote": "Applicants may request a waiver of the English Language Proficiency Testing requirements for special cases by submitting a waiver request form. | If you have attended a US institution for four years and earned a bachelor’s degree, or earned a master’s degree, you are not required to submit an English language proficiency test score.",
+      "url": "https://engineering.nyu.edu/admissions/graduate/apply/admissions-requirements"
+    },
+    "deadline": {
+      "code": "Not stated",
+      "value": "The Tandon deadline page gives December 1 with no year, so it is not used.",
+      "quote": "",
+      "url": "https://engineering.nyu.edu/academics/programs/electrical-engineering-phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE subject test is stated for this program.",
+      "quote": "",
+      "url": "https://engineering.nyu.edu/academics/programs/electrical-engineering-phd"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule is stated before admission.",
+      "quote": "",
+      "url": "https://engineering.nyu.edu/academics/programs/electrical-engineering-phd"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The Tandon funding page says students may receive funding but states no code-level rule for this program.",
+      "quote": "",
+      "url": "https://engineering.nyu.edu/academics/programs/electrical-engineering-phd"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The program page does not state a bachelor's or master's requirement for entry.",
+      "quote": "",
+      "url": "https://engineering.nyu.edu/academics/programs/electrical-engineering-phd"
+    }
+  },
+  "notes": "The ECE page has no admission rules; Tandon school rules apply. The ECE admissions link points to a bulletin page that returned 502 to the fetcher (https://bulletins.nyu.edu/graduate/engineering/programs/electrical-engineering-phd/). The ECE page also links a dual PhD with IIT Kanpur (not fetched)."
+}

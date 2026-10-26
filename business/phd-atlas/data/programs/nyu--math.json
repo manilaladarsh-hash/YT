@@ -1,0 +1,66 @@
+{
+  "id": "nyu--math",
+  "university": "nyu",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics, Courant Institute (Ph.D. in Mathematics)",
+  "program_page": "https://math.nyu.edu/dynamic/graduate/phd-mathematics/admission-policies/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page gives January 4 for PhD admission with no year, so it is not used.",
+      "quote": "",
+      "url": "https://math.nyu.edu/dynamic/graduate/phd-mathematics/admission-policies/"
+    },
+    "gre_subject": {
+      "code": "Required",
+      "value": "The Mathematics Subject Test is expected; if it is not practical, a short statement explaining why must be attached.",
+      "quote": "Applicants are expected to submit their GRE Mathematics Subject Test score. | If taking this test is not practical for an applicant, they must attach a short statement to their application explaining why they were not able to take the GRE Mathematics Subject Test.",
+      "url": "https://math.nyu.edu/dynamic/graduate/phd-mathematics/admission-policies/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule is stated on the admissions pages.",
+      "quote": "",
+      "url": "https://math.nyu.edu/dynamic/graduate/phd-mathematics/admission-policies/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "The main award, GSAS MacCracken support, is highly competitive and based on academic merit.",
+      "quote": "This highly competitive award, available to students applying to the full-time Ph.D. program, is based solely on academic merit.",
+      "url": "https://math.nyu.edu/dynamic/graduate/phd-mathematics/financial-support/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants with a B.A. or B.S. can apply straight to the PhD.",
+      "quote": "Students with B.A./B.S. degrees may apply directly to the Ph.D. program.",
+      "url": "https://math.nyu.edu/dynamic/graduate/phd-mathematics/admission-policies/"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The GRE General test is neither required nor accepted for the Mathematics PhD.",
+      "quote": "GRE General Test Scores are neither required nor accepted as part of the application.",
+      "url": "https://math.nyu.edu/dynamic/graduate/phd-mathematics/admission-policies/"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "Applicants whose bachelor's or master's was taught in English need no test; others need TOEFL or IELTS.",
+      "quote": "Either the TOEFL or the IELTS is required of all applicants who are not native English speakers or who do not have a bachelor's or master's degree from an institution where the language of instruction is English.",
+      "url": "https://math.nyu.edu/dynamic/graduate/phd-mathematics/admission-policies/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The page refers to 'test score requirements' for minimums, which the fetcher could not reach.",
+      "quote": "",
+      "url": "https://math.nyu.edu/dynamic/graduate/phd-mathematics/admission-policies/"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The page refers to 'test score requirements' for minimums, which the fetcher could not reach.",
+      "quote": "",
+      "url": "https://math.nyu.edu/dynamic/graduate/phd-mathematics/admission-policies/"
+    }
+  },
+  "notes": "The Ph.D. in Ocean-Atmosphere Science and Mathematics on the same page is saved as the environment record. Test score requirements link (GSAS testing-requirements page) is blocked (403 over https and http)."
+}

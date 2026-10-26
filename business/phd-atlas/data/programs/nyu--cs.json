@@ -1,0 +1,80 @@
+{
+  "id": "nyu--cs",
+  "university": "nyu",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science (Courant Institute; newly merged PhD with NYU Tandon)",
+  "program_page": "https://cs.nyu.edu/home/phd/admission.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page gives December 12 with no year, so it is not used as a Fall 2027 date.",
+      "quote": "",
+      "url": "https://cs.nyu.edu/home/phd/admission.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Computer science has no GRE subject test; the page's GRE statement covers GRE scores generally.",
+      "quote": "",
+      "url": "https://cs.nyu.edu/home/phd/admission.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by a faculty committee on the statement of purpose and research letters, not by a named supervisor first.",
+      "quote": "Admission decisions are made by a faculty committee.",
+      "url": "https://cs.nyu.edu/home/phd/admission.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All full-time PhD students in good standing receive financial support: a nine-month stipend, tuition and fees, and health insurance.",
+      "quote": "All full-time Computer Science Ph.D. students in good standing receive financial support, including a nine-month stipend during the academic year, payment of tuition and fees, and health insurance.",
+      "url": "https://cs.nyu.edu/home/phd/admission.html",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Basically, yes, but let's be more precise.",
+          "url": "https://engineering.nyu.edu/academics/departments/computer-science-and-engineering/faq-phd"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The unified PhD takes applicants with an undergraduate degree or a master's degree.",
+      "quote": "We seek creative, articulate students with undergraduate and master's degrees from top universities worldwide.",
+      "url": "https://engineering.nyu.edu/academics/programs/computer-science-phd"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Courant page says GRE scores are not expected or required; the older Tandon CS FAQ says they are optional. Both mean no GRE is needed.",
+      "quote": "Applicants are not expected or required to submit GRE scores.",
+      "url": "https://cs.nyu.edu/home/phd/admission.html",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Scores for the GRE General Score are optional for all applicants.",
+          "url": "https://engineering.nyu.edu/academics/departments/computer-science-and-engineering/faq-phd"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "A bachelor's or master's taught in English needs no TOEFL or IELTS; other applicants need one.",
+      "quote": "TOEFL or IELTS scores, unless the student's native language is English or they completed (or will complete) a baccalaureate or master's degree at an institution where the language of instruction is English.",
+      "url": "https://cs.nyu.edu/home/phd/admission.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The page requires TOEFL or IELTS but gives no minimum score.",
+      "quote": "",
+      "url": "https://cs.nyu.edu/home/phd/admission.html"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The page requires TOEFL or IELTS but gives no minimum score.",
+      "quote": "",
+      "url": "https://cs.nyu.edu/home/phd/admission.html"
+    }
+  },
+  "notes": "Applications go through the GSAS portal (GSAS fee not on fetched pages). The Tandon merged-PhD page and the older Tandon CS FAQ are cited for the conflicts. The Courant page's funding line is the one used; the Tandon FAQ says support is typical rather than guaranteed (flagged)."
+}
