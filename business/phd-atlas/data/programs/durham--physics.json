@@ -61,21 +61,11 @@
         }
       ]
     },
-    "english_waiver": {
-      "code": "No",
-      "value": "Exemption needs at least 1 full academic year of a degree studied in the UK or another majority English-speaking country (within 2 years of the start), or a UK-degree-equivalent qualification from (or nationality of) a listed country. India is not on the list. Physics may interview you without a test certificate, but still requires one.",
-      "quote": "If you have already completed or are currently completing a degree where at least 1 full academic year was studied in the UK or in another majority English speaking country, then you may be exempt from an additional English language test if this has been within 2 years of the start date of the programme you are applying to.",
-      "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/exemptions-for-undergraduate-and-postgraduate-taught/",
-      "also": [
-        {
-          "quote": "You do not need to prove your knowledge of English if you've recently completed a qualification equivalent to a UK degree in one of the following countries/areas, or are from one of the following countries/areas:",
-          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/recognised-english-speaking-countries/"
-        },
-        {
-          "quote": "For anyone whose first language is not English we require an English Language Certificate (sat within 24 months of the anticipated start date of your course). However, we will consider candidates for interview without formal English language certification.",
-          "url": "https://www.durham.ac.uk/departments/academic/physics/postgraduate-study/research-degrees/how-to-apply/"
-        }
-      ]
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall with no component under 6.0 (English Band B).",
+      "quote": "6.5 with no component under 6.0",
+      "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/direct-entry-band-b/"
     }
   },
   "notes": "The department advises not submitting before mid-October because a new admissions system has just gone live. One application covers several projects or research areas."

@@ -3,45 +3,51 @@
   "institution": "Durham University",
   "country": "United Kingdom",
   "region": "England",
-  "grad_page": "https://www.durham.ac.uk/departments/academic/physics/postgraduate-study/research-degrees/how-to-apply/",
-  "checked": "2026-10-21",
+  "grad_page": "https://www.durham.ac.uk/study/doctoral-school/study-with-us/how-to-apply/",
+  "checked": "2026-10-22",
   "fields": {
     "app_fee": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "No PhD application fee is stated on the pages checked; the only fee mentioned is for Business School MSc programmes.",
       "quote": "",
-      "url": "https://www.durham.ac.uk/departments/academic/physics/postgraduate-study/research-degrees/how-to-apply/"
+      "url": "https://www.durham.ac.uk/study/doctoral-school/study-with-us/how-to-apply/"
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Not stated on the official pages checked.",
       "quote": "",
-      "url": "https://www.durham.ac.uk/departments/academic/physics/postgraduate-study/research-degrees/how-to-apply/"
+      "url": "https://www.durham.ac.uk/study/doctoral-school/study-with-us/how-to-apply/"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Not stated on the official pages checked.",
       "quote": "",
-      "url": "https://www.durham.ac.uk/departments/academic/physics/postgraduate-study/research-degrees/how-to-apply/"
+      "url": "https://www.durham.ac.uk/study/doctoral-school/study-with-us/how-to-apply/"
     },
     "toefl_min": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Set by each department's English band (all STEM PhD departments are Band B); see the program records.",
       "quote": "",
-      "url": "https://www.durham.ac.uk/departments/academic/physics/postgraduate-study/research-degrees/how-to-apply/"
+      "url": "https://www.durham.ac.uk/study/doctoral-school/study-with-us/how-to-apply/"
     },
     "ielts_min": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "Set by each department's English band (all STEM PhD departments are Band B); see the program records.",
       "quote": "",
-      "url": "https://www.durham.ac.uk/departments/academic/physics/postgraduate-study/research-degrees/how-to-apply/"
+      "url": "https://www.durham.ac.uk/study/doctoral-school/study-with-us/how-to-apply/"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.durham.ac.uk/departments/academic/physics/postgraduate-study/research-degrees/how-to-apply/"
+      "code": "No",
+      "value": "Exemption needs a degree with at least one full year studied in the UK or another majority English-speaking country, or a UK-equivalent qualification from a listed country. India is not on the list, so Indian applicants need a test.",
+      "quote": "If you have already completed or are currently completing a degree where at least 1 full academic year was studied in the UK or in another majority English speaking country, then you may be exempt from an additional English language test",
+      "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/exemptions-for-undergraduate-and-postgraduate-taught/",
+      "also": [
+        {
+          "quote": "You do not need to prove your knowledge of English if you've recently completed a qualification equivalent to a UK degree in one of the following countries/areas, or are from one of the following countries/areas:",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/recognised-english-speaking-countries/"
+        }
+      ]
     }
   },
-  "notes": ""
+  "notes": "Application fee for PhD, fee waiver and GRE are not stated on university pages; English band varies by department."
 }

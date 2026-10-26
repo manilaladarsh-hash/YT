@@ -1,0 +1,64 @@
+{
+  "id": "durham--mech",
+  "university": "durham",
+  "field": "mech",
+  "also_fields": [
+    "ece",
+    "civil",
+    "materials"
+  ],
+  "department": "Department of Engineering",
+  "program_page": "https://www.durham.ac.uk/departments/academic/engineering/postgraduate-study/research-degrees/",
+  "checked": "2026-10-22",
+  "fields": {
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are asked to contact a suitable staff member or Node Leader before applying.",
+      "quote": "We ask prospective students to consider staff research interests and make contact with an appropriate member of staff",
+      "url": "https://www.durham.ac.uk/departments/academic/engineering/postgraduate-study/research-degrees/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Many students self-fund; support comes from university scholarships, partnerships and advertised CDT projects.",
+      "quote": "Many students fund their studies privately, but there are opportunities for financial support from the University",
+      "url": "https://www.durham.ac.uk/departments/academic/engineering/postgraduate-study/research-degrees/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Minimum for PhD is a Master's-level qualification at 60% or higher.",
+      "quote": "Our minimum entry requirements for PhD study are masters-level qualification at 60% or higher",
+      "url": "https://www.durham.ac.uk/departments/academic/engineering/postgraduate-study/research-degrees/"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "English Band B. TOEFL iBT taken from 21 Jan 2026: 4.5 with no component under 4; earlier tests: 80 with no component under 20.",
+      "quote": "Tests taken before 21 Jan 2026 | 80 with no component under 20 | Tests taken from 21 Jan 2026 | 4.5 with no component under 4",
+      "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/direct-entry-band-b/",
+      "also": [
+        {
+          "quote": "Engineering Study level Language level Undergraduate BAND B Postgraduate Taught (PGT) BAND B Postgraduate Research (PGR) BAND B",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/english-language-levels-required/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Department requires IELTS 6.5 with no component under 6.0.",
+      "quote": "we require a UKVI/IELTS score of 6.5 (with no component under 6.0)",
+      "url": "https://www.durham.ac.uk/departments/academic/engineering/postgraduate-study/research-degrees/"
+    },
+    "deadline": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://www.durham.ac.uk/departments/academic/engineering/postgraduate-study/research-degrees/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://www.durham.ac.uk/departments/academic/engineering/postgraduate-study/research-degrees/"
+    }
+  },
+  "notes": "One Engineering PhD (H1A201) spans the department's research challenges; also_fields mapped from the challenges named: Advanced Materials, Electronics & Communications, Sustainable Infrastructure."
+}
