@@ -1,0 +1,49 @@
+{
+  "id": "udel--bme",
+  "university": "udel",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biomedical Engineering",
+  "program_page": "https://bme.udel.edu/graduate/phd-in-biomedical-engineering/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Application deadline is December 1 for fall matriculation; applications are reviewed until February 1.",
+      "quote": "The application deadline is December 1st for students who wish to matriculate in the subsequent fall semester",
+      "url": "https://bme.udel.edu/graduate/phd-in-biomedical-engineering/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "We will continue to review new applications until February 1",
+          "url": "https://bme.udel.edu/graduate/phd-in-biomedical-engineering/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most students are supported on faculty research grants or by teaching assistantships.",
+      "quote": "The majority of students in the BME program will be supported on research contracts and grants obtained by their Faculty Advisors",
+      "url": "https://bme.udel.edu/graduate/phd-in-biomedical-engineering/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's or higher in engineering, physical or biological sciences with a 3.2 GPA is required.",
+      "quote": "A bachelor’s degree or higher in engineering, physical, or biological sciences from an accredited 4-year college or university with a minimum cumulative GPA of 3.2 on a 4.0 scale",
+      "url": "https://bme.udel.edu/graduate/phd-in-biomedical-engineering/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department pages do not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://bme.udel.edu/graduate/phd-in-biomedical-engineering/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department pages do not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://bme.udel.edu/graduate/phd-in-biomedical-engineering/"
+    }
+  },
+  "notes": "BME grad listing shows December 15 as priority for funding; the department page's December 1 date is used."
+}

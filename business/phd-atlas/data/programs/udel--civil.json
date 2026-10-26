@@ -1,0 +1,67 @@
+{
+  "id": "udel--civil",
+  "university": "udel",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil and Environmental Engineering",
+  "program_page": "https://ccee.udel.edu/graduate/faqs/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "February 1 is the date to be considered for departmental funding; the final date is July 1.",
+      "quote": "February 1: To be considered for departmental funding (Ph.D.)",
+      "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/programs/civil-engineering/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "July 1: Final deadline to apply (Ph.D.)",
+          "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/programs/civil-engineering/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is not required for admission and is an optional part of the application.",
+      "quote": "For all other applicants, the GRE is not required for admission; it is an optional component of the application",
+      "url": "https://ccee.udel.edu/graduate/faqs/"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Internet TOEFL 79 is the department minimum for applicants without an English-instruction degree.",
+      "quote": "A minimum score of 79 for internet-based or 550 for paper-based exam",
+      "url": "https://ccee.udel.edu/graduate/faqs/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS 6.5 overall with no sub-score below 6.0.",
+      "quote": "The minimum IELTS (International English Language Testing System) score is a 6.5 overall with no individual sub-score below 6.0",
+      "url": "https://ccee.udel.edu/graduate/faqs/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A baccalaureate in engineering or a closely allied field of science or mathematics.",
+      "quote": "A baccalaureate degree in the field or in a closely allied field of science or mathematics",
+      "url": "https://ccee.udel.edu/graduate/faqs/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department pages do not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://ccee.udel.edu/graduate/faqs/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department pages do not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://ccee.udel.edu/graduate/faqs/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department pages do not say how PhD students are funded.",
+      "quote": "",
+      "url": "https://ccee.udel.edu/graduate/faqs/"
+    }
+  },
+  "notes": "Ocean Engineering applicants have a 308 combined GRE minimum (see the mech record note)."
+}

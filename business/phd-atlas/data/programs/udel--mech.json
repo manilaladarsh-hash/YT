@@ -1,0 +1,67 @@
+{
+  "id": "udel--mech",
+  "university": "udel",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering",
+  "program_page": "https://me.udel.edu/academics/graduate/ph-d-mechanical-engineering/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Priority consideration for admission and departmental funding is January 15; the final deadline is March 1.",
+      "quote": "January 15: Priority consideration for admission and to be considered for departmental funding",
+      "url": "https://me.udel.edu/academics/graduate/ph-d-mechanical-engineering/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "March 1: Final deadline to apply",
+          "url": "https://me.udel.edu/academics/graduate/ph-d-mechanical-engineering/"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "International applicants need TOEFL iBT 100 with a speaking score of 20.",
+      "quote": "The TOEFL with a minimum of 100 on the IBT and a speaking score of 20",
+      "url": "https://me.udel.edu/academics/graduate/ph-d-mechanical-engineering/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS 6.5 overall with no sub-score below 6.0.",
+      "quote": "IELTS with a minimum score of 6.5 with no individual sub-score below 6.0",
+      "url": "https://me.udel.edu/academics/graduate/ph-d-mechanical-engineering/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Financial assistantships with tuition and a competitive stipend are awarded on merit.",
+      "quote": "Awards of financial assistantships, which includes graduate tuition and a competitive stipend, are made to applicants of the PhD program on the basis of merit",
+      "url": "https://me.udel.edu/academics/graduate/ph-d-mechanical-engineering/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A baccalaureate in mechanical engineering or a closely allied field is required; master's holders are assessed on the same criteria.",
+      "quote": "A baccalaureate degree in mechanical engineering or in a closely allied field of science or mathematics",
+      "url": "https://me.udel.edu/academics/graduate/ph-d-mechanical-engineering/",
+      "also": [
+        {
+          "quote": "The acceptance of applicants who have already received a Master’s degree in engineering will be based on the above minimum criteria",
+          "url": "https://me.udel.edu/academics/graduate/ph-d-mechanical-engineering/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department pages do not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://me.udel.edu/academics/graduate/ph-d-mechanical-engineering/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department pages do not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://me.udel.edu/academics/graduate/ph-d-mechanical-engineering/"
+    }
+  },
+  "notes": "Ocean Engineering PhD (CEOE and COE) is not saved as a record: the Civil Engineering FAQ gives a 308 combined GRE minimum for Ocean Engineering applicants, and its funding deadline is February 1 with a July 1 final date."
+}

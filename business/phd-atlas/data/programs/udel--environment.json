@@ -1,0 +1,61 @@
+{
+  "id": "udel--environment",
+  "university": "udel",
+  "field": "environment",
+  "also_fields": [],
+  "department": "School of Marine Science and Policy (Oceanography)",
+  "program_page": "https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/oceanography-degrees/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Priority consideration for admission and funding for fall is December 1; the final fall deadline is July 1.",
+      "quote": "For priority consideration for admission and funding for a fall semester start, apply by December 1",
+      "url": "https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/oceanography-degrees/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Graduate Program does not require GRE scores.",
+      "quote": "The Graduate Program does not require GRE scores",
+      "url": "https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/oceanography-degrees/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The Graduate Program does not require GRE scores, so no subject test.",
+      "quote": "The Graduate Program does not require GRE scores",
+      "url": "https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/oceanography-degrees/"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "The Oceanography program minimum for the TOEFL iBT is 90.",
+      "quote": "A minimum score of 90 should be achieved by applicants taking the TOEFL IBT exam",
+      "url": "https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/oceanography-degrees/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Overall IELTS band 6.5 with no Speaking score below 6.",
+      "quote": "The University of Delaware requires an overall band score of 6.5 or higher on the IELTS with no individual Speaking score being less than 6",
+      "url": "https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/oceanography-degrees/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most graduate students are supported by research or teaching assistantships.",
+      "quote": "Most of our graduate students are supported by research assistantships or teaching assistantships",
+      "url": "https://www.udel.edu/academics/colleges/ceoe/prospective-students/graduate/admissions-and-financial-support/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to contact faculty whose research interests them.",
+      "quote": "Applicants are encouraged to contact faculty members working in areas that interest them",
+      "url": "https://www.udel.edu/academics/colleges/ceoe/prospective-students/graduate/admissions-and-financial-support/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The department pages do not say whether a bachelor's or a master's is needed.",
+      "quote": "",
+      "url": "https://www.udel.edu/academics/colleges/ceoe/departments/smsp/degree/oceanography-degrees/"
+    }
+  },
+  "notes": "Covers Oceanography PhD. Climatology PhD (Graduate College listing) has a January 5 priority deadline and July 1 final; it is not saved as its own record because one field id maps to one program. TOEFL 90 is the program minimum; the CEOE page recommends 100."
+}

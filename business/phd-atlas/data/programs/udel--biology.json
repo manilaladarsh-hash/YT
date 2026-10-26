@@ -1,0 +1,73 @@
+{
+  "id": "udel--biology",
+  "university": "udel",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://www.udel.edu/academics/colleges/cas/units/departments/biological-sciences/graduate-programs/prospective-graduate-students/how-to-apply/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Priority deadline is December 15 for fall; applications are considered until April 15 if places remain.",
+      "quote": "Our priority deadline is December 15th of each academic year",
+      "url": "https://www.udel.edu/academics/colleges/cas/units/departments/biological-sciences/graduate-programs/prospective-graduate-students/how-to-apply/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "although applications will be considered until April 15th if there are remaining positions in the program",
+          "url": "https://www.udel.edu/academics/colleges/cas/units/departments/biological-sciences/graduate-programs/prospective-graduate-students/how-to-apply/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The department neither requires nor considers the GRE.",
+      "quote": "The GRE is neither required nor considered",
+      "url": "https://www.udel.edu/academics/colleges/cas/units/departments/biological-sciences/graduate-programs/prospective-graduate-students/how-to-apply/"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "The department neither requires nor considers the GRE, so no subject test counts.",
+      "quote": "The GRE is neither required nor considered",
+      "url": "https://www.udel.edu/academics/colleges/cas/units/departments/biological-sciences/graduate-programs/prospective-graduate-students/how-to-apply/"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "International applicants need TOEFL 100 for graduate assistantship eligibility.",
+      "quote": "International applicants must earn a score of at least 100 on the Test of English as a Foreign Language (TOEFL)",
+      "url": "https://www.udel.edu/academics/colleges/cas/units/departments/biological-sciences/graduate-programs/prospective-graduate-students/how-to-apply/"
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "IELTS 7.5 is the equivalent for graduate assistantship eligibility.",
+      "quote": "or at least 7.5 on the International English Language Testing System (IELTS)",
+      "url": "https://www.udel.edu/academics/colleges/cas/units/departments/biological-sciences/graduate-programs/prospective-graduate-students/how-to-apply/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Waivers exist but must be approved by the Graduate College, so Indian applicants need approval.",
+      "quote": "must be approved by the University of Delaware Graduate College",
+      "url": "https://www.udel.edu/academics/colleges/cas/units/departments/biological-sciences/graduate-programs/prospective-graduate-students/how-to-apply/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "PhD students are not admitted into a lab; they rotate in the first year and choose a mentor.",
+      "quote": "PhD students are not admitted directly into research mentor laboratories",
+      "url": "https://www.udel.edu/academics/colleges/cas/units/departments/biological-sciences/graduate-programs/prospective-graduate-students/how-to-apply/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All research PhD students receive financial support through assistantships.",
+      "quote": "All research PhD students receive financial support through assistantships",
+      "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/programs/biological-sciences/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The department pages do not say whether a bachelor's or a master's is needed.",
+      "quote": "",
+      "url": "https://www.udel.edu/academics/colleges/cas/units/departments/biological-sciences/graduate-programs/prospective-graduate-students/how-to-apply/"
+    }
+  },
+  "notes": "Microbiology PhD (Graduate College program): priority January 5, final May 1, fall entry only. Not saved as a separate record because one field id maps to one program."
+}

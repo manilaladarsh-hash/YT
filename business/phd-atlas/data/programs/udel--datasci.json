@@ -1,0 +1,74 @@
+{
+  "id": "udel--datasci",
+  "university": "udel",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "Bioinformatics Data Science program",
+  "program_page": "https://bioinformatics.udel.edu/education/degrees/binf-phd/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Priority consideration is February 15; the final deadline is April 15.",
+      "quote": "February 15: Priority consideration (Ph.D.)",
+      "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/programs/bioinformatics-data-science/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "April 15: Final deadline to apply (Ph.D.)",
+          "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/programs/bioinformatics-data-science/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE score is optional.",
+      "quote": "The Graduate Record Examination (GRE) score is optional",
+      "url": "https://bioinformatics.udel.edu/education/prospective-students/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The GRE subject test is not required.",
+      "quote": "The GRE subject test is not required",
+      "url": "https://bioinformatics.udel.edu/education/prospective-students/"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "Internet TOEFL 100 is the PhD minimum, with a Speaking score of 18.",
+      "quote": "Internet test: 79 (100 for PhD), with a minimum Speaking Score of 18",
+      "url": "https://bioinformatics.udel.edu/education/prospective-students/"
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "IELTS 7.5 with no sub-score below 6.0 is the PhD minimum.",
+      "quote": "IELTS: 6.5 (7.5 for PhD with no sub-score below 6.0)",
+      "url": "https://bioinformatics.udel.edu/education/prospective-students/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "The TOEFL is waived only for approved English-speaking countries; India is not on the Graduate College list.",
+      "quote": "The TOEFL is waived for approved English speaking countries",
+      "url": "https://bioinformatics.udel.edu/education/prospective-students/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need a bachelor's degree in biological, computational or other disciplines.",
+      "quote": "Applicants to any Bioinformatics Data Science program must hold a bachelor’s degree in biological, computational, or other disciplines",
+      "url": "https://bioinformatics.udel.edu/education/prospective-students/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department pages do not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://bioinformatics.udel.edu/education/degrees/binf-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department pages do not say how PhD students are funded.",
+      "quote": "",
+      "url": "https://bioinformatics.udel.edu/education/degrees/binf-phd/"
+    }
+  },
+  "notes": "Bioinformatics Data Science PhD, a data science track. The department page says the TOEFL is waived for approved English-speaking countries. Conditional admission exists for applicants who need more English training.",
+  "name": "Bioinformatics Data Science (PhD)"
+}
