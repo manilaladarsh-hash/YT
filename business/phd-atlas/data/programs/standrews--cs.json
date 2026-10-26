@@ -1,0 +1,66 @@
+{
+  "id": "standrews--cs",
+  "university": "standrews",
+  "field": "cs",
+  "also_fields": [],
+  "department": "School of Computer Science",
+  "program_page": "https://www.st-andrews.ac.uk/computer-science/prospective/pgr/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "There is no fixed deadline for most schools, so applications are considered on a rolling basis.",
+      "quote": "There is no deadline to apply for research study for most Academic Schools at the University, but there are exceptions.",
+      "url": "https://www.st-andrews.ac.uk/study/postgraduate-research/application-deadlines/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE requirement appears on the School's pages.",
+      "quote": "",
+      "url": "https://www.st-andrews.ac.uk/computer-science/prospective/pgr/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A supervisor must agree before a place or funding is allocated; agree a supervisor before applying.",
+      "quote": "no places or funding are allocated without the potential supervisor's agreement",
+      "url": "https://www.st-andrews.ac.uk/computer-science/prospective/pgr/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Most studentships are open to international students too, but the offer of a place does not guarantee funding.",
+      "quote": "The offer of a University place to undertake study or research does not carry with it the guarantee of financial support.",
+      "url": "https://www.st-andrews.ac.uk/computer-science/prospective/pgr/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply with an honours first degree at 2.1 or the overseas equivalent.",
+      "quote": "A good first degree with Honours at 2.1 (UK) or the overseas equivalent.",
+      "url": "https://www.st-andrews.ac.uk/study/postgraduate-research/entry/"
+    },
+    "toefl_min": {
+      "code": "5.0 (new scale)",
+      "value": "The School requires Profile 3-D: TOEFL iBT 5.0 overall for 2026 onwards, with 4.5 in each skill.",
+      "quote": "TOEFL iBT (2026 onwards) 5.0 4.5 4.5 4.5 4.5",
+      "url": "https://www.st-andrews.ac.uk/subjects/entry/language-requirements/profiles/3-d/",
+      "also": [
+        {
+          "quote": "The English language requirements for our postgraduate research programmes are Profile 3-D.",
+          "url": "https://www.st-andrews.ac.uk/computer-science/prospective/pgr/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7.0",
+      "value": "The School requires IELTS Academic 7.0 overall with 6.5 in each component (Profile 3-D).",
+      "quote": "IELTS Academic (including IELTS One Skill retake) 7.0 6.5 6.5 6.5 6.5",
+      "url": "https://www.st-andrews.ac.uk/subjects/entry/language-requirements/profiles/3-d/",
+      "also": [
+        {
+          "quote": "The English language requirements for our postgraduate research programmes are Profile 3-D.",
+          "url": "https://www.st-andrews.ac.uk/computer-science/prospective/pgr/"
+        }
+      ]
+    }
+  },
+  "notes": "The School's own research English profile (3-D) is higher than the university's 7-D; it overrides the university values here. No separate data science PhD is listed."
+}

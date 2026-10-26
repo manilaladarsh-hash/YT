@@ -3,45 +3,57 @@
   "institution": "University of St Andrews",
   "country": "United Kingdom",
   "region": "Scotland",
-  "grad_page": "https://www.st-andrews.ac.uk/physics-astronomy/prospective/pgr/",
+  "grad_page": "https://www.st-andrews.ac.uk/study/postgraduate-research/apply/",
   "checked": "2026-10-22",
   "fields": {
     "app_fee": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "The research application pages state no fee. The GBP 50 application fee on the taught pages is for taught programmes.",
       "quote": "",
-      "url": "https://www.st-andrews.ac.uk/physics-astronomy/prospective/pgr/"
+      "url": "https://www.st-andrews.ac.uk/study/postgraduate-research/apply/"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.st-andrews.ac.uk/physics-astronomy/prospective/pgr/"
+      "code": "Limited",
+      "value": "Handsel fee waiver for PhD candidates whose stipend is supported by donors or other external funders; no general international waiver is stated.",
+      "quote": "offers a fee waiver for all PhD candidates whose stipend at research council rates is supported by donors and other external funders",
+      "url": "https://www.st-andrews.ac.uk/development/making-waves/scholarships/postgraduate-scholarships/"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
+      "value": "No GRE requirement appears on the university's research pages.",
       "quote": "",
-      "url": "https://www.st-andrews.ac.uk/physics-astronomy/prospective/pgr/"
+      "url": "https://www.st-andrews.ac.uk/study/postgraduate-research/entry/"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.st-andrews.ac.uk/physics-astronomy/prospective/pgr/"
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT 4.5 overall with 4.0 in each skill for 2026 onwards; the old scale equivalent was 81 (Profile 7-D).",
+      "quote": "TOEFL iBT (2026 onwards) 4.5 4.0 4.0 4.0 4.0",
+      "url": "https://www.st-andrews.ac.uk/subjects/entry/language-requirements/profiles/7-d/",
+      "also": [
+        {
+          "quote": "The minimum requirements for any postgraduate research student are detailed in Profile 7-D.",
+          "url": "https://www.st-andrews.ac.uk/subjects/entry/language-requirements/postgraduate/"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.st-andrews.ac.uk/physics-astronomy/prospective/pgr/"
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall with 6.0 in each component (Profile 7-D).",
+      "quote": "IELTS Academic (including IELTS One Skill retake) 6.5 6.0 6.0 6.0 6.0",
+      "url": "https://www.st-andrews.ac.uk/subjects/entry/language-requirements/profiles/7-d/",
+      "also": [
+        {
+          "quote": "The minimum requirements for any postgraduate research student are detailed in Profile 7-D.",
+          "url": "https://www.st-andrews.ac.uk/subjects/entry/language-requirements/postgraduate/"
+        }
+      ]
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked so far",
-      "quote": "",
-      "url": "https://www.st-andrews.ac.uk/physics-astronomy/prospective/pgr/"
+      "code": "Conditional",
+      "value": "An English-taught degree from India counts only with verified medium-of-instruction evidence and an ECCTIS QLS result confirming CEFR C1; the university may still ask for a test.",
+      "quote": "in one of the following countries or territories, you will need to provide a verified ECCTIS Qualification Language Service (QLS) English Proficiency and Qualification Comparison Unique Person Identifier (UPI) number and download of your ECCTIS QLS result, confirming the level of English language required for this qualification is equivalent to CEFR Level C1 ... Ghana | India | Kenya",
+      "url": "https://www.st-andrews.ac.uk/subjects/entry/language-requirements/postgraduate/"
     }
   },
-  "notes": ""
+  "notes": "The research application page states no application fee; the GBP 50 fee on the taught pages applies to taught programmes only. Schools may set their own English profile (see program records)."
 }
