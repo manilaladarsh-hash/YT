@@ -1,0 +1,54 @@
+{
+  "id": "oregonstate--bme",
+  "university": "oregonstate",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Bioengineering (joint OSU-UO PhD, CBEE)",
+  "program_page": "https://engineering.oregonstate.edu/academics/programs/bioengineering/graduate",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The final deadline is Dec 1 but the page gives no year.",
+      "quote": "Final deadline for M.S. and Ph.D. applications: Dec 1",
+      "url": "https://engineering.oregonstate.edu/academics/programs/bioengineering/graduate"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The page does not state a GRE rule.",
+      "quote": "",
+      "url": "https://engineering.oregonstate.edu/academics/programs/bioengineering/graduate"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to Bioengineering.",
+      "quote": "",
+      "url": "https://engineering.oregonstate.edu/academics/programs/bioengineering/graduate"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The program states it does not provide application fee waivers.",
+      "quote": "Our program does not provide application fee waivers.",
+      "url": "https://engineering.oregonstate.edu/academics/programs/bioengineering/graduate"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants need not secure an advisor before applying; funded PhD students are matched after admission.",
+      "quote": "You do not need to secure a faculty advisor before applying to the program.",
+      "url": "https://engineering.oregonstate.edu/academics/programs/bioengineering/graduate"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "The School offers a limited number of teaching and research assistantships, considered automatically.",
+      "quote": "offers a limited number of graduate teaching assistantships (GTA) and graduate research assistantships (GRA)",
+      "url": "https://engineering.oregonstate.edu/academics/programs/bioengineering/graduate"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not state the PhD entry route.",
+      "quote": "",
+      "url": "https://engineering.oregonstate.edu/academics/programs/bioengineering/graduate"
+    }
+  },
+  "notes": "Joint OSU-UO PhD. The page links a separate Slate application portal (advanced.oregonstate.edu/portal/BioE), which was not fetched. Its rules may differ."
+}

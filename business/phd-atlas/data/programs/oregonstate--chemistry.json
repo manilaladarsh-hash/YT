@@ -1,0 +1,66 @@
+{
+  "id": "oregonstate--chemistry",
+  "university": "oregonstate",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry (College of Science)",
+  "program_page": "https://chemistry.oregonstate.edu/graduate/graduate-school-application-information",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-05",
+      "value": "Chemistry asks for applications by January 5, 2027 for full consideration, and admits new students only in fall.",
+      "quote": "our deadline of Jan 5th, 2027, for full consideration",
+      "url": "https://chemistry.oregonstate.edu/graduate/graduate-school-application-information"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The general GRE is optional; the department recommends but does not require it.",
+      "quote": "GRE (Graduate Record Examination) general exam scores are optional",
+      "url": "https://chemistry.oregonstate.edu/graduate/graduate-school-application-information"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a Chemistry subject test.",
+      "quote": "",
+      "url": "https://chemistry.oregonstate.edu/graduate/graduate-school-application-information"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The department states a TOEFL minimum of 80, with 18 on each section except speaking (22).",
+      "quote": "The minimum required TOEFL score is an 80",
+      "url": "https://chemistry.oregonstate.edu/graduate/graduate-school-application-information"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department states an IELTS minimum of 6.5.",
+      "quote": "The minimum required IELTS score is 6.5",
+      "url": "https://chemistry.oregonstate.edu/graduate/graduate-school-application-information"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Chemistry runs its own international application fee waiver for PhD applicants; only a few are given and they do not guarantee admission.",
+      "quote": "Only a limited number of application fee waivers are available",
+      "url": "https://chemistry.oregonstate.edu/graduate/graduate-school-application-information"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Chemistry encourages applicants to contact faculty about their research and whether they are taking students.",
+      "quote": "You are encouraged to contact faculty directly",
+      "url": "https://chemistry.oregonstate.edu/graduate/graduate-school-application-information"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department offers assistantships for PhD students, but the page does not say that all or most admitted students are funded.",
+      "quote": "The chemistry department offers graduate assistantships for Ph.D. students, which provide monthly stipends and waive tuition expenses",
+      "url": "https://chemistry.oregonstate.edu/graduate/funding-options-for-graduate-students"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page's answer on whether an M.S. is needed for the PhD is missing from the fetched text.",
+      "quote": "",
+      "url": "https://chemistry.oregonstate.edu/graduate/graduate-school-application-information"
+    }
+  },
+  "notes": "Chemistry's own fee waiver (international, PhD only) overrides the university rule. Its fall-2026 window closed Nov 30 (year not given on the page). The page gives the iBT minimum as 80 but also says 'recommended but not required' for GRE in one section and 'optional' in another; the record uses 'optional'."
+}

@@ -1,0 +1,61 @@
+{
+  "id": "oregonstate--biomed",
+  "university": "oregonstate",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Department of Biochemistry and Biophysics (College of Science)",
+  "program_page": "https://biochem.oregonstate.edu/graduate/applying",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The annual deadline is December 1st but the page gives no year.",
+      "quote": "The annual application deadline is December 1st.",
+      "url": "https://biochem.oregonstate.edu/graduate/applying"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional for this program.",
+      "quote": "Optionally, some applicants may wish to submit a GRE as evidence of probable success in graduate school.",
+      "url": "https://biochem.oregonstate.edu/graduate/applying"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to Biochemistry.",
+      "quote": "",
+      "url": "https://biochem.oregonstate.edu/graduate/applying"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "The department asks for an Internet-based TOEFL of 100 or better, above the university's 80.",
+      "quote": "Internet-based TOEFL: 100 or better",
+      "url": "https://biochem.oregonstate.edu/graduate/applying"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The department asks for an IELTS of 7, above the university's 6.5.",
+      "quote": "International applicants must score 7 on the IELTS",
+      "url": "https://biochem.oregonstate.edu/graduate/applying"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students apply to the program rather than to a faculty member, so no advisor is needed before admission.",
+      "quote": "students apply to the program rather than to individual faculty",
+      "url": "https://biochem.oregonstate.edu/graduate/applying"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not describe PhD funding.",
+      "quote": "",
+      "url": "https://biochem.oregonstate.edu/graduate/applying"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants should have completed a bachelor's in chemistry, physics or a biological science.",
+      "quote": "To be admitted in good standing a student should have completed a bachelor's degree program in chemistry, physics, or a biological science",
+      "url": "https://biochem.oregonstate.edu/graduate/applying"
+    }
+  },
+  "notes": "The department's page gives the TOEFL and IELTS overrides; the 'annual deadline' has no year.",
+  "name": "Biochemistry and Biophysics"
+}

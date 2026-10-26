@@ -1,0 +1,47 @@
+{
+  "id": "oregonstate",
+  "institution": "Oregon State University",
+  "country": "USA",
+  "region": "Oregon",
+  "grad_page": "https://graduate.oregonstate.edu/admissions/international",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "85 USD",
+      "value": "The application fee for international applicants is $85, non-refundable; the figure is on the Physics page, which says the Graduate School administers applications.",
+      "quote": "A $75 non-refundable processing fee is required for domestic applications ($85 for international)",
+      "url": "https://physics.oregonstate.edu/graduate/prospective-students/how-to-apply"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "OSU does not offer application fee waivers to international students. Some departments run their own waivers (see Chemistry and Materials).",
+      "quote": "OSU does not have application fee waivers for international students.",
+      "url": "https://graduate.oregonstate.edu/admissions/graduate-application-fee-waivers"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School sets no university-wide GRE rule; each program decides, so see the program records.",
+      "quote": "Visit the webpage of your program of interest to learn about their testing requirements, if any.",
+      "url": "https://graduate.oregonstate.edu/admissions/academic-requirements"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The TOEFL minimum is in a table cell that cannot be quoted reliably.",
+      "quote": "",
+      "url": "https://graduate.oregonstate.edu/admissions/international"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The IELTS minimum is in a table cell that cannot be quoted reliably.",
+      "quote": "",
+      "url": "https://graduate.oregonstate.edu/admissions/international"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The waiver list does not name India, so the rule is not confirmed.",
+      "quote": "",
+      "url": "https://graduate.oregonstate.edu/admissions/international"
+    }
+  },
+  "notes": "The international page's regular-admission minimums (TOEFL iBT 80, IELTS 6.5) are table cells; the quotes are the single cells. The page's country list is the only English-waiver text; the India entry on the country-specific page is a bare name with no rule text, even after rendering. Application fee amount comes from the Physics page, not a Graduate School page: the Graduate School fee page and the apply page (gradadmissions.oregonstate.edu/apply) do not show it, and the apply page returned 403. Blocked or failed: https://gradadmissions.oregonstate.edu/apply (403); https://gradadmissions.oregonstate.edu/minimum-requirements (404); https://catalog.oregonstate.edu/admission/graduate-admission/ (502). Graduate School fee-waiver page for internationals says: OSU does not have application fee waivers for international students."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "oregonstate--civil",
+  "university": "oregonstate",
+  "field": "civil",
+  "also_fields": [],
+  "department": "School of Civil and Construction Engineering (CCE)",
+  "program_page": "https://engineering.oregonstate.edu/academics/programs/civil-engineering/graduate/phd-degree",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The PhD page does not give an application deadline; the CCE admissions page returned a 502 error.",
+      "quote": "",
+      "url": "https://engineering.oregonstate.edu/academics/programs/civil-engineering/graduate/phd-degree"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The PhD page does not state a GRE rule.",
+      "quote": "",
+      "url": "https://engineering.oregonstate.edu/academics/programs/civil-engineering/graduate/phd-degree"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to Civil Engineering.",
+      "quote": "",
+      "url": "https://engineering.oregonstate.edu/academics/programs/civil-engineering/graduate/phd-degree"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "A major professor is assigned during the first year in residence, not before admission.",
+      "quote": "Normally, PhD students will arrange for a major professor during the first year in residence at OSU.",
+      "url": "https://engineering.oregonstate.edu/academics/programs/civil-engineering/graduate/phd-degree"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The PhD page does not describe funding.",
+      "quote": "",
+      "url": "https://engineering.oregonstate.edu/academics/programs/civil-engineering/graduate/phd-degree"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Both baccalaureate and master's holders from non-engineering fields can be admitted, subject to prerequisites.",
+      "quote": "Admission of non-engineering Baccalaureate degree holders or Master's degree holders to PhD degree program in CCE is only permitted when the student has completed those engineering requirements",
+      "url": "https://engineering.oregonstate.edu/academics/programs/civil-engineering/graduate/phd-degree"
+    }
+  },
+  "notes": "Blocked: https://cce.oregonstate.edu/graduate-admissions returned 502; the PhD deadline and funding are on that admissions page and were not read. The search summary's December 31 date was not verified, so it is not used."
+}

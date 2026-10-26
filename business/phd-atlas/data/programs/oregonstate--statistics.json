@@ -1,0 +1,48 @@
+{
+  "id": "oregonstate--statistics",
+  "university": "oregonstate",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Statistics (College of Science)",
+  "program_page": "https://stat.oregonstate.edu/content/applying-admission",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page gives a June 1 deadline and a January 15 date for financial aid, but no year.",
+      "quote": "We accept applications by June 1 of each year for admission in the following fall term.",
+      "url": "https://stat.oregonstate.edu/content/applying-admission"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE is not required, but the department highly recommends submitting it.",
+      "quote": "The GRE is not required to apply, but it is highly recommended",
+      "url": "https://stat.oregonstate.edu/content/applying-admission"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a Mathematics or Statistics subject test.",
+      "quote": "",
+      "url": "https://stat.oregonstate.edu/content/applying-admission"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "A faculty supervisor is identified during the first year of the PhD, not before admission.",
+      "quote": "By the end of your first year, you will identify a faculty member who is willing to supervise your Ph.D. research.",
+      "url": "https://stat.oregonstate.edu/content/applying-admission"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not describe PhD funding.",
+      "quote": "",
+      "url": "https://stat.oregonstate.edu/content/applying-admission"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not required to apply directly to the PhD, though the department recommends one.",
+      "quote": "It is not required to have a M.S. or M.A. to apply directly to our PhD program.",
+      "url": "https://stat.oregonstate.edu/content/applying-admission"
+    }
+  },
+  "notes": "The page says the PhD is for fall admission only. Ph.D. applicants are told to list potential mentors on the application."
+}
