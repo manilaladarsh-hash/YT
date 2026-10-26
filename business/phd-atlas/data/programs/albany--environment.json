@@ -1,0 +1,50 @@
+{
+  "id": "albany--environment",
+  "university": "albany",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Atmospheric & Environmental Sciences",
+  "program_page": "https://www.albany.edu/daes/programs/phd-atmospheric-science",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-05",
+      "value": "The priority review deadline is January 5, 2027; assistantship consideration runs to February 1.",
+      "quote": "Priority Review Deadline Fall: January 5",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required for the PhD in Atmospheric Science.",
+      "quote": "Note: GRE scores are not required when applying for admission to the PhD Atmospheric Science program.",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Atmospheric science has no GRE Subject test on the fetched pages.",
+      "quote": "",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must have identified and mutually agreed an academic advisor; the Graduate School makes the offer once the agreement is reached.",
+      "quote": "All students to be admitted should have identified and mutually agreed academic advisors. | UAlbany’s Graduate School will make the admission offer for each student once the student-advisor agreement is reached",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page gives no funding guarantee; funding is offered separately after admission.",
+      "quote": "",
+      "url": "https://www.albany.edu/daes/programs/phd-atmospheric-science"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A BSc in meteorology or atmospheric sciences, or a related program, is sufficient to apply.",
+      "quote": "a BSc degree in meteorology or atmospheric sciences (or related programs) is sufficient to apply for admission to the PhD program",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    }
+  },
+  "notes": "The same department also runs a Climate Science PhD (saved only as this environment record covers Atmospheric Science); not saved separately.",
+  "name": "Atmospheric Science"
+}

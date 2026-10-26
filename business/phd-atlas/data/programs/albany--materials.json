@@ -1,0 +1,50 @@
+{
+  "id": "albany--materials",
+  "university": "albany",
+  "field": "materials",
+  "also_fields": [],
+  "department": "College of Nanotechnology, Science, and Engineering, Department of Nanoscale Science & Engineering",
+  "program_page": "https://www.albany.edu/nanoscale-science-engineering/programs/phd-nanoscale-science",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Assistantship consideration closes December 15, 2026; without it, the deadline is February 1.",
+      "quote": "Departmental Assistantship Consideration Fall: December 15",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "A GRE General score is strongly recommended but not required.",
+      "quote": "GRE General Test score is strongly recommended but not required",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Nanoscale science has no GRE Subject test on the fetched pages.",
+      "quote": "",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor's agreement is needed.",
+      "quote": "",
+      "url": "https://www.albany.edu/nanoscale-science-engineering/programs/phd-nanoscale-science"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page gives no funding rule for the PhD.",
+      "quote": "",
+      "url": "https://www.albany.edu/nanoscale-science-engineering/programs/phd-nanoscale-science"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The Graduate School requires only a bachelor's degree before a PhD starts; the department page lists no master's requirement.",
+      "quote": "To be eligible for graduate study, you must have a bachelor's degree from an accredited college or university prior to starting the program",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    }
+  },
+  "notes": "Covers the Nanoscale Science PhD. The Nanoscale Engineering and Nanobioscience PhDs share its deadlines and GRE wording but are not saved.",
+  "name": "Nanoscale Science"
+}

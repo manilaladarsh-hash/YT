@@ -1,0 +1,49 @@
+{
+  "id": "albany--biology",
+  "university": "albany",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://www.albany.edu/biology/programs/phd-biology",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Assistantship consideration closes December 15, 2026; without it, the deadline is June 15.",
+      "quote": "Departmental Assistantship Consideration Fall: December 15",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The biology PhD does not require the GRE.",
+      "quote": "The GRE is NOT required.",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Biology has no GRE Subject test, and the page says nothing on it.",
+      "quote": "",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants should name Biological Sciences faculty they would consider as thesis mentors.",
+      "quote": "Be sure to include mention of professors in the Department of Biological Science that you would consider as mentors for your thesis work",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The biology section gives assistantship consideration only.",
+      "quote": "",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The Graduate School requires only a bachelor's degree before a PhD starts; the department page lists no master's requirement.",
+      "quote": "To be eligible for graduate study, you must have a bachelor's degree from an accredited college or university prior to starting the program",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    }
+  },
+  "notes": ""
+}

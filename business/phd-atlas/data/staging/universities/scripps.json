@@ -1,0 +1,57 @@
+{
+  "id": "scripps",
+  "institution": "Scripps Research",
+  "country": "USA",
+  "region": "California",
+  "grad_page": "https://education.scripps.edu/graduate/admissions/how-to-apply/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "100 USD",
+      "value": "A non-refundable application fee of $100 is required for every applicant.",
+      "quote": "A non-refundable application fee of $100 is required to submit your application.",
+      "url": "https://education.scripps.edu/graduate/admissions/how-to-apply/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Fee waivers are open to international applicants too, but only on demonstrated financial need or hardship, with a one-page description.",
+      "quote": "Fee waivers may be requested for applicants with demonstrated financial need or hardship.",
+      "url": "https://education.scripps.edu/graduate/admissions/how-to-apply/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE General scores are optional, and the committee makes no assumptions if one is left out.",
+      "quote": "As of 2020, Scripps Research has decided to make the submission of GRE scores for both the general and subject-specific exams optional.",
+      "url": "https://education.scripps.edu/graduate/admissions/faqs/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "International applicants must submit a TOEFL, IELTS or Duolingo score, but the FAQ says there is no minimum score to apply.",
+      "quote": "Are there minimum GPA, GRE, TOEFL, IELTS or DET requirements to apply? | No, there are no minimum requirements to apply.",
+      "url": "https://education.scripps.edu/graduate/admissions/faqs/"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "International applicants must submit a TOEFL, IELTS or Duolingo score, but the FAQ says there is no minimum score to apply.",
+      "quote": "Are there minimum GPA, GRE, TOEFL, IELTS or DET requirements to apply? | No, there are no minimum requirements to apply.",
+      "url": "https://education.scripps.edu/graduate/admissions/faqs/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Indian applicants are not exempt: the waiver covers only citizens of listed countries and people who studied full time in those countries, and India is not listed.",
+      "quote": "The TOEFL, IELTS or DET requirement may be waived if the applicant meets at least one of these criteria:",
+      "url": "https://education.scripps.edu/graduate/admissions/how-to-apply/",
+      "also": [
+        {
+          "quote": "If you are a citizen of any other English-speaking country not listed above, you are not exempt from the TOEFL requirement.",
+          "url": "https://education.scripps.edu/graduate/admissions/how-to-apply/"
+        },
+        {
+          "quote": "You studied full time for at least two academic years within the last five years in the United States, United Kingdom, Ireland, Australia, New Zealand or Canada (except Quebec).",
+          "url": "https://education.scripps.edu/graduate/admissions/how-to-apply/"
+        }
+      ]
+    }
+  },
+  "notes": "One interdisciplinary doctoral program at La Jolla, California and Jupiter, Florida. Students do not join a department."
+}

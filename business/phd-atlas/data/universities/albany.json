@@ -1,0 +1,53 @@
+{
+  "id": "albany",
+  "institution": "University at Albany, SUNY",
+  "country": "USA",
+  "region": "New York",
+  "grad_page": "https://www.albany.edu/graduate/admissions/information-international-applicants",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The application fee is $75 for degree programs; the Biostatistics PhD is applied for through SOPHAS with its own fee.",
+      "quote": "The non-refundable application fee is currently $75 for degree or certificate programs",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Graduate School fee waivers go only to applicants in named US access programs such as CSTEP and HEOP; international applicants are not eligible.",
+      "quote": "International and SOPHAS applicants are not eligible",
+      "url": "https://www.albany.edu/graduate/funding-graduate-studies"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Each program sets its own GRE rule; see the program record.",
+      "quote": "",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "The general TOEFL internet minimum is 4.0 on the new 2026 scale (79 on the old iBT scale).",
+      "quote": "TOEFL internet exam: 79 or 4.0 (new 2026 scoring system)",
+      "url": "https://www.albany.edu/graduate/admissions/information-international-applicants"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The general IELTS minimum is 6.5.",
+      "quote": "TOEFL paper exam: 550 IELTS: 6.5 Duolingo English exam: 110",
+      "url": "https://www.albany.edu/graduate/admissions/information-international-applicants"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Four full-time semesters with a B average at a US or approved-list college waive the test. India is not named on the fetched pages, so the approved list must be checked.",
+      "quote": "successfully completed at least four full-time semesters within a four-year time frame from time of application and maintained at least a B average at a college or university in the United States or a country from an approved list",
+      "url": "https://www.albany.edu/graduate/admissions/information-international-applicants",
+      "also": [
+        {
+          "quote": "If you attended an institution where instruction was conducted in English and your transcript is in English, then that transcript is sufficient. | However, you must also provide official documentation on the language of instruction.",
+          "url": "https://www.albany.edu/graduate/admissions/information-international-applicants"
+        }
+      ]
+    }
+  },
+  "notes": "Program list from the graduate programs page (https://www.albany.edu/graduate/graduate-programs). Not saved (not in fields.json): Climate Science PhD and Environmental Health Sciences, Epidemiology PhD (CIHS, SOPHAS); Nanoscale Engineering and Nanobioscience PhDs (CNSE, the same rules as Nanoscale Science); Economics, Psychology and other non-STEM PhDs. The English-language-program waiver guidance linked from the apply page was not fetched. Fetched pages are cached in .cache/pages."
+}

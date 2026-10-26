@@ -1,0 +1,54 @@
+{
+  "id": "scripps--biology",
+  "university": "scripps",
+  "field": "biology",
+  "also_fields": [
+    "chemistry",
+    "biomed",
+    "neuro"
+  ],
+  "department": "Skaggs Graduate School of Chemical and Biological Sciences",
+  "program_page": "https://education.scripps.edu/graduate/doctoral-program/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications are due December 1 each year, so the Fall 2027 deadline is December 1, 2026.",
+      "quote": "The application deadline is December 1 every year.",
+      "url": "https://education.scripps.edu/graduate/admissions/faqs/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "Subject GRE scores are optional, and the committee makes no assumptions if they are left out.",
+      "quote": "As of 2020, Scripps Research has decided to make the submission of GRE scores for both the general and subject-specific exams optional.",
+      "url": "https://education.scripps.edu/graduate/admissions/faqs/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students are admitted to the school, not to a lab, and complete at least one rotation in the first year before choosing a lab.",
+      "quote": "When students enroll in the program, they do not join a department",
+      "url": "https://education.scripps.edu/graduate/doctoral-program/",
+      "also": [
+        {
+          "quote": "While all first-year graduate students are required to complete at least one rotation, students have the opportunity to rotate through multiple laboratories.",
+          "url": "https://education.scripps.edu/graduate/doctoral-program/laboratory-rotations/index.html"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All graduate students receive a stipend, and tuition and benefits are fully paid by the institute.",
+      "quote": "All graduate students are paid a stipend to cover living expenses. | all graduate students’ tuition and benefits are completely paid by Scripps Research",
+      "url": "https://education.scripps.edu/graduate/admissions/faqs/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages checked do not say whether a bachelor's degree alone or a master's degree is needed for entry.",
+      "quote": "",
+      "url": "https://education.scripps.edu/graduate/admissions/faqs/"
+    }
+  },
+  "notes": "Single interdisciplinary doctoral program covering chemistry, chemical biology, immunology and microbiology, neurobiology, computational biology, cell biology, genetics, molecular medicine and structural biology. Saved once under biology with the other fields in also_fields. No separate data science program was found, so no datasci record.",
+  "name": "Doctoral Program in Chemical and Biological Sciences"
+}

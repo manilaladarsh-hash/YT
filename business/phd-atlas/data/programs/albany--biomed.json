@@ -1,0 +1,55 @@
+{
+  "id": "albany--biomed",
+  "university": "albany",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "College of Integrated Health Sciences, Department of Biomedical Sciences",
+  "program_page": "https://www.albany.edu/cihs/programs/phd-biomedical-sciences",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Apply by December 15, 2026; applications are not accepted after the deadline.",
+      "quote": "Deadlines Fall: December 15",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program",
+      "inferred": "year"
+    },
+    "toefl_min": {
+      "code": "5.0 (new scale)",
+      "value": "Biomedical Sciences requires TOEFL 98 (5.0 on the 2026 scale), IELTS 7.0 or Duolingo 125.",
+      "quote": "International students must submit a minimum TOEFL score of 98 (or 5.0 under the 2026 scoring system), IELTS score of 7.0 or Duolingo score of 125",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Biomedical Sciences requires IELTS 7.0 (or Duolingo 125 or TOEFL 98).",
+      "quote": "IELTS score of 7.0 or Duolingo score of 125",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The biomedical sciences section names no GRE Subject test.",
+      "quote": "",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The section says applicants are reviewed for potential match with a mentor but does not require agreement first.",
+      "quote": "",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Departmental assistantships are awarded on merit and fit with a faculty mentor, so they are competitive.",
+      "quote": "All applicants are considered for a departmental graduate assistantship, which are awarded based on merit and fit with a faculty mentor",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants must hold a bachelor's degree with a GPA of 3.00 or better.",
+      "quote": "Must hold a bachelor’s degree from a college or university of recognized standing",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    }
+  },
+  "notes": "Applies directly to the Graduate School, not SOPHAS. The GRE is not named for this PhD on the fetched pages."
+}

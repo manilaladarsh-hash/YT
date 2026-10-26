@@ -1,0 +1,49 @@
+{
+  "id": "albany--chemistry",
+  "university": "albany",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.albany.edu/chemistry/programs/phd-chemistry",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Early admission consideration closes December 15, 2026; assistantship consideration runs to January 15, and the deadline without it is August 1.",
+      "quote": "Early Admission Consideration Fall: December 15",
+      "url": "https://www.albany.edu/chemistry/programs/phd-chemistry",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Official GRE test scores are required for the chemistry PhD.",
+      "quote": "Official GRE test scores required (GRE subject test recommended)",
+      "url": "https://www.albany.edu/chemistry/programs/phd-chemistry"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The GRE Subject test in chemistry is recommended.",
+      "quote": "Official GRE test scores required (GRE subject test recommended)",
+      "url": "https://www.albany.edu/chemistry/programs/phd-chemistry"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The chemistry page does not say whether a supervisor's agreement is needed.",
+      "quote": "",
+      "url": "https://www.albany.edu/chemistry/programs/phd-chemistry"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The chemistry page gives no funding guarantee or competition rule.",
+      "quote": "",
+      "url": "https://www.albany.edu/chemistry/programs/phd-chemistry"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The Graduate School requires only a bachelor's degree before a PhD starts; the department page lists no master's requirement.",
+      "quote": "To be eligible for graduate study, you must have a bachelor's degree from an accredited college or university prior to starting the program",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    }
+  },
+  "notes": ""
+}
