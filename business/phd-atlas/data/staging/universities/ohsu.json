@@ -1,0 +1,47 @@
+{
+  "id": "ohsu",
+  "institution": "Oregon Health & Science University",
+  "country": "USA",
+  "region": "Oregon",
+  "grad_page": "https://www.ohsu.edu/school-of-medicine/graduate-studies",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "Official OHSU page could not be fetched; no quote was checked.",
+      "quote": "",
+      "url": "https://www.ohsu.edu/school-of-medicine/graduate-studies"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Official OHSU page could not be fetched; no quote was checked.",
+      "quote": "",
+      "url": "https://www.ohsu.edu/school-of-medicine/graduate-studies"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Official OHSU page could not be fetched; no quote was checked.",
+      "quote": "",
+      "url": "https://www.ohsu.edu/school-of-medicine/graduate-studies"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "Official OHSU page could not be fetched; no quote was checked.",
+      "quote": "",
+      "url": "https://www.ohsu.edu/school-of-medicine/graduate-studies"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "Official OHSU page could not be fetched; no quote was checked.",
+      "quote": "",
+      "url": "https://www.ohsu.edu/school-of-medicine/graduate-studies"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "Official OHSU page could not be fetched; no quote was checked.",
+      "quote": "",
+      "url": "https://www.ohsu.edu/school-of-medicine/graduate-studies"
+    }
+  },
+  "notes": "Placeholder draft. Every official OHSU page tried (graduate studies, degree programs, ohsu-programs-and-schools, education) failed in this environment: Python TLS verification fails because the server chain ends at emSign Root CA - G1, which is not in the CA bundle or system/certifi stores, and the headless browser returns 'upstream request failed' (502). Nothing here is verified from an official page. Re-run once ohsu.edu is reachable."
+}
