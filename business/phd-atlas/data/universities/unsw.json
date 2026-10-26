@@ -1,0 +1,59 @@
+{
+  "id": "unsw",
+  "institution": "UNSW Sydney",
+  "country": "Australia",
+  "region": "New South Wales",
+  "grad_page": "https://www.unsw.edu.au/research/hdr/application",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "Postgraduate research applications pay no processing fee; the AUD $150 fee applies to other application types.",
+      "quote": "Applications for admission to an honours year program, diploma programs, postgraduate research programs, programs offered at UNSW Canberra, and postgraduate domestic applicants will not incur an application processing fee",
+      "url": "https://www.unsw.edu.au/study/how-to-apply/fees",
+      "also": [
+        {
+          "quote": "An AUD $150 non-refundable application processing fee will incur for each online application you submit",
+          "url": "https://www.unsw.edu.au/study/how-to-apply/fees"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "PhD applicants pay no application fee, so there is no waiver to apply for.",
+      "quote": "Applications for admission to an honours year program, diploma programs, postgraduate research programs, programs offered at UNSW Canberra, and postgraduate domestic applicants will not incur an application processing fee",
+      "url": "https://www.unsw.edu.au/study/how-to-apply/fees"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement appears on the UNSW HDR, Science or Engineering pages checked.",
+      "quote": "",
+      "url": "https://www.unsw.edu.au/research/hdr/application"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "UNSW sets TOEFL minimums by faculty, not once for the university; see each program record.",
+      "quote": "",
+      "url": "https://www.unsw.edu.au/study/how-to-apply/english-language-requirements"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "UNSW sets IELTS minimums by faculty, not once for the university; see each program record.",
+      "quote": "",
+      "url": "https://www.unsw.edu.au/study/how-to-apply/english-language-requirements"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "An Indian degree can waive the English test only if it was taught in English at an institution listed in WHED with English as its sole language, and was completed within five years before starting.",
+      "quote": "from an institution listed in the World Higher Education Database (WHED) with English clearly stated as the sole language of instruction | completed within the five years before you start your degree at UNSW",
+      "url": "https://www.unsw.edu.au/study/how-to-apply/english-language-requirements",
+      "also": [
+        {
+          "quote": "UNSW Canberra does not accept any requests for an English waiver for Higher Degree Research program including the Doctor of Philosophy",
+          "url": "https://www.unsw.edu.au/study/how-to-apply/english-language-requirements"
+        }
+      ]
+    }
+  },
+  "notes": "Minimums are set by faculty on the English page (Science and Engineering research: IELTS 6.5, TOEFL 90). UNSW scholarship rounds for international applicants starting Term 2 or 3 2027 closed 14 August 2026; the next international round (Term 1 2028 start) closes 16 April 2027. Admission-only applicants must submit at least eight weeks before an offer is needed. UNSW Canberra runs its own PhD campus and does not accept English waivers for HDR; its programs are not separately recorded."
+}
