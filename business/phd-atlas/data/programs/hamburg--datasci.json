@@ -1,0 +1,43 @@
+{
+  "id": "hamburg--datasci",
+  "university": "hamburg",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "DASHH, Data Science in Hamburg, Helmholtz Graduate School for the Structure of Matter",
+  "program_page": "https://www.dashh.org/application/requirements/index_eng.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "Applications are made for specific open PhD topics, each with its own form; no general deadline is stated on the DASHH pages.",
+      "quote": "You can apply for up to two PhD research topics.",
+      "url": "https://www.dashh.org/application/application_procedure/index_eng.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The DASHH pages do not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.dashh.org/application/requirements/index_eng.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The DASHH pages do not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.dashh.org/application/requirements/index_eng.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted PhD students get a three-year work contract at the German E13 salary level.",
+      "quote": "Three-year work contract at the level of the German EGR. 13 salary scheme",
+      "url": "https://www.dashh.org/application/we_offer/index_eng.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "You need a master's degree, or an expected graduation date in the year of application, in computer science, applied mathematics or natural sciences.",
+      "quote": "To apply for our program, you must hold a Master's Degree or Diploma (or an estimated graduation date within the year of application) in computer science, applied mathematics, or natural sciences",
+      "url": "https://www.dashh.org/application/requirements/index_eng.html"
+    }
+  },
+  "notes": "Listed on the MIN Faculty structured-programmes page under Informatik. It is run by DESY's Helmholtz graduate school, so its rules come from the DASHH pages, not the MIN doctoral regulations. A third-party listing of an earlier call deadline was not used because it is not on an official page.",
+  "name": "Data Science in Hamburg (DASHH)"
+}

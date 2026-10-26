@@ -1,0 +1,47 @@
+{
+  "id": "hamburg",
+  "institution": "University of Hamburg",
+  "country": "Germany",
+  "region": "Hamburg",
+  "grad_page": "https://www.uni-hamburg.de/en/campuscenter/bewerbung/promotion.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No central application fee is stated. The eight faculties set the doctoral admission rules.",
+      "quote": "The eight faculties of Universität Hamburg are in charge of the doctoral application and admissions procedure.",
+      "url": "https://www.uni-hamburg.de/en/campuscenter/bewerbung/promotion.html"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No central application fee or fee waiver is stated, because the faculties set the doctoral admission rules.",
+      "quote": "The eight faculties of Universität Hamburg are in charge of the doctoral application and admissions procedure.",
+      "url": "https://www.uni-hamburg.de/en/campuscenter/bewerbung/promotion.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE rule is stated on the central page; each faculty sets its own doctoral admission rules.",
+      "quote": "The eight faculties of Universität Hamburg are in charge of the doctoral application and admissions procedure.",
+      "url": "https://www.uni-hamburg.de/en/campuscenter/bewerbung/promotion.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "No central TOEFL minimum is stated; the six MIN departments say no language test is required (see their program records).",
+      "quote": "The eight faculties of Universität Hamburg are in charge of the doctoral application and admissions procedure.",
+      "url": "https://www.uni-hamburg.de/en/campuscenter/bewerbung/promotion.html"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "No central IELTS minimum is stated; the six MIN departments say no language test is required (see their program records).",
+      "quote": "The eight faculties of Universität Hamburg are in charge of the doctoral application and admissions procedure.",
+      "url": "https://www.uni-hamburg.de/en/campuscenter/bewerbung/promotion.html"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "No central English-test rule for Indian degrees is stated; the MIN departments require no English test at all (see their program records).",
+      "quote": "The eight faculties of Universität Hamburg are in charge of the doctoral application and admissions procedure.",
+      "url": "https://www.uni-hamburg.de/en/campuscenter/bewerbung/promotion.html"
+    }
+  },
+  "notes": "Doctoral admission is decided by each of the eight faculties under its own doctoral regulations, so there is no university-wide fee, GRE or English rule. The central page lists no engineering faculty; the MIN Faculty covers the natural sciences, informatics and mathematics. The Faculty of Medicine (UKE) runs a PhD programme for non-medical students with its own admission rules."
+}

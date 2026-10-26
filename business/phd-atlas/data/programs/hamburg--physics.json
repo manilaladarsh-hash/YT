@@ -1,0 +1,72 @@
+{
+  "id": "hamburg--physics",
+  "university": "hamburg",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics (Subject Doctoral Committee PHYSICS)",
+  "program_page": "https://www.physik.uni-hamburg.de/en/forschung/nachwuchs/promotion/promotionsverfahren.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Applications can be submitted at any time; the MIN Faculty sets no application deadline.",
+      "quote": "Applications for admission to doctoral procedures can be submitted at any time; there is no application deadline.",
+      "url": "https://www.promovieren.uni-hamburg.de/en/min/promotion/zulassung.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department's admission pages do not mention the GRE Subject test.",
+      "quote": "",
+      "url": "https://www.physik.uni-hamburg.de/en/forschung/nachwuchs/promotion/promotionsverfahren.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding is not guaranteed: job contracts exist only when a supervisor has one, and scholarships such as the MIN short-term stipend or a merit scholarship must be applied for.",
+      "quote": "international doctoral researchers can apply for a short-term stipend of the MIN graduate school or a merit scholarship of the International Dept for a twelve-month period",
+      "url": "https://www.promovieren.uni-hamburg.de/en/min/finanzierung/stipendien.html",
+      "also": [
+        {
+          "quote": "Doctoral supervisors can only award job contracts if they are available.",
+          "url": "https://www.promovieren.uni-hamburg.de/en/min/finanzierung/anstellung-und-arbeitsvertraege.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Admission normally needs a completed degree in a relevant subject; a bachelor's graduate can apply only through the Fast Track programme.",
+      "quote": "The key prerequisite is a completed university degree in a subject relevant to the doctoral dissertation project",
+      "url": "https://www.promovieren.uni-hamburg.de/en/min/promotion/voraussetzungen.html",
+      "also": [
+        {
+          "quote": "Fast Track: Under certain conditions, admission to the fast track program can be granted after a successful excellent Bachelor's degree in a relevant degree program.",
+          "url": "https://www.promovieren.uni-hamburg.de/en/min/promotion/voraussetzungen.html"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "Not required",
+      "value": "The MIN Faculty requires no English test, so no TOEFL score is needed for admission.",
+      "quote": "A language test or proof of language proficiency is not required for admission to doctoral procedures.",
+      "url": "https://www.promovieren.uni-hamburg.de/en/min/promotion/voraussetzungen.html"
+    },
+    "ielts_min": {
+      "code": "Not required",
+      "value": "The MIN Faculty requires no English test, so no IELTS score is needed for admission.",
+      "quote": "A language test or proof of language proficiency is not required for admission to doctoral procedures.",
+      "url": "https://www.promovieren.uni-hamburg.de/en/min/promotion/voraussetzungen.html"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "No English test is needed for MIN doctoral admission, so an English-medium degree from India needs no waiver.",
+      "quote": "A language test or proof of language proficiency is not required for admission to doctoral procedures.",
+      "url": "https://www.promovieren.uni-hamburg.de/en/min/promotion/voraussetzungen.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A fully signed supervision agreement must be sent with the online application.",
+      "quote": "Completed and fully signed supervision agreement: Please use this form only.",
+      "url": "https://www.physik.uni-hamburg.de/en/forschung/nachwuchs/promotion/promotionsverfahren.html"
+    }
+  },
+  "notes": "Applications go to the Physics Subject Doctoral Committee through Docata-MIN. Structured programmes such as QURS, CUI, PIER and HELIOS are optional memberships, not separate admission routes. Hamburg Observatory astronomy PhDs are run through physics research groups and are not saved here."
+}

@@ -1,0 +1,78 @@
+{
+  "id": "hamburg--chemistry",
+  "university": "hamburg",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry (Fachbereich Chemie)",
+  "program_page": "https://www.chemie.uni-hamburg.de/studium/promotion/promotion-strukturiert.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Applications can be submitted at any time; the MIN Faculty sets no application deadline.",
+      "quote": "Applications for admission to doctoral procedures can be submitted at any time; there is no application deadline.",
+      "url": "https://www.promovieren.uni-hamburg.de/en/min/promotion/zulassung.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department's admission pages do not mention the GRE Subject test.",
+      "quote": "",
+      "url": "https://www.chemie.uni-hamburg.de/studium/promotion/promotion-strukturiert.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding is not guaranteed: job contracts exist only when a supervisor has one, and scholarships such as the MIN short-term stipend or a merit scholarship must be applied for.",
+      "quote": "international doctoral researchers can apply for a short-term stipend of the MIN graduate school or a merit scholarship of the International Dept for a twelve-month period",
+      "url": "https://www.promovieren.uni-hamburg.de/en/min/finanzierung/stipendien.html",
+      "also": [
+        {
+          "quote": "Doctoral supervisors can only award job contracts if they are available.",
+          "url": "https://www.promovieren.uni-hamburg.de/en/min/finanzierung/anstellung-und-arbeitsvertraege.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Admission normally needs a completed degree in a relevant subject; a bachelor's graduate can apply only through the Fast Track programme.",
+      "quote": "The key prerequisite is a completed university degree in a subject relevant to the doctoral dissertation project",
+      "url": "https://www.promovieren.uni-hamburg.de/en/min/promotion/voraussetzungen.html",
+      "also": [
+        {
+          "quote": "Fast Track: Under certain conditions, admission to the fast track program can be granted after a successful excellent Bachelor's degree in a relevant degree program.",
+          "url": "https://www.promovieren.uni-hamburg.de/en/min/promotion/voraussetzungen.html"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "Not required",
+      "value": "The MIN Faculty requires no English test, so no TOEFL score is needed for admission.",
+      "quote": "A language test or proof of language proficiency is not required for admission to doctoral procedures.",
+      "url": "https://www.promovieren.uni-hamburg.de/en/min/promotion/voraussetzungen.html"
+    },
+    "ielts_min": {
+      "code": "Not required",
+      "value": "The MIN Faculty requires no English test, so no IELTS score is needed for admission.",
+      "quote": "A language test or proof of language proficiency is not required for admission to doctoral procedures.",
+      "url": "https://www.promovieren.uni-hamburg.de/en/min/promotion/voraussetzungen.html"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "No English test is needed for MIN doctoral admission, so an English-medium degree from India needs no waiver.",
+      "quote": "A language test or proof of language proficiency is not required for admission to doctoral procedures.",
+      "url": "https://www.promovieren.uni-hamburg.de/en/min/promotion/voraussetzungen.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants name two supervisors, at least one a full or habilitated professor in the Chemistry department.",
+      "quote": "zwei Betreuer angeben; mindestens einer aus der Gruppe der hauptamtlichen Hochschullehrer und habilitierten Mitglieder des Fachbereichs Chemie sein",
+      "url": "https://www.chemie.uni-hamburg.de/studium/promotion/promotion-strukturiert.html",
+      "also": [
+        {
+          "quote": "Students interested in completing a doctorate in the MIN Faculty will first need to find a supervisor and identify a suitable research topic",
+          "url": "https://www.promovieren.uni-hamburg.de/en/min/promotion/voraussetzungen.html"
+        }
+      ]
+    }
+  },
+  "notes": "The structured doctoral programme (Strukturiertes Promotionsstudium Chemie) is optional membership, applied for with the admission request."
+}
