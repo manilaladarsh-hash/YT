@@ -1,0 +1,69 @@
+{
+  "id": "strathclyde--math",
+  "university": "strathclyde",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Mathematics & Statistics",
+  "program_page": "https://www.strath.ac.uk/courses/research/mathematicsstatistics/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "Each advertised project sets its own deadline; one listed project closes 31 October 2026.",
+      "quote": "Deadline: 31 October 2026",
+      "url": "https://www.strath.ac.uk/courses/research/mathematicsstatistics/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The mathematics page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.strath.ac.uk/courses/research/mathematicsstatistics/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Supervisors are assigned by the department, and an offer follows once a second supervisor is confirmed.",
+      "quote": "As soon as a second supervisor is confirmed, an offer will be sent to you through Pegasus, our online application system.",
+      "url": "https://www.strath.ac.uk/courses/research/mathematicsstatistics/",
+      "also": [
+        {
+          "quote": "Research supervisors are assigned to you by the Department of Mathematics & Statistics.",
+          "url": "https://www.strath.ac.uk/courses/research/mathematicsstatistics/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Listed projects mix funded and unfunded places, and JARSS studentships are awarded by competition.",
+      "quote": "Funding: unfunded Graph representations | Funding: funded John Anderson Research Studentship Scheme (JARSS)",
+      "url": "https://www.strath.ac.uk/courses/research/mathematicsstatistics/",
+      "also": [
+        {
+          "quote": "The JARSS 2026/27 competition will open in November 2025 and students successful in this competition will commence studies in October 2026.",
+          "url": "https://www.strath.ac.uk/courses/research/mathematicsstatistics/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The stated entry is an honours degree; the University's general page says research applicants normally have a Masters, so check with the department.",
+      "quote": "You require a first-class or upper second-class UK Honours degree, or overseas equivalent, in a mathematical sciences related subject.",
+      "url": "https://www.strath.ac.uk/courses/research/mathematicsstatistics/",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "If you wish to apply for a research degree you'd normally have to have a Masters degree and some experience of research work.",
+          "url": "https://www.strath.ac.uk/studywithus/internationalstudents/entryrequirements/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The mathematics page asks for academic IELTS 6.5 with at least 5.5 in any section, or an equivalent.",
+      "quote": "proof of English language proficiency (academic IELTS 6.5, with minimum 5.5 in any section, or equivalent) if English isn't your first language",
+      "url": "https://www.strath.ac.uk/courses/research/mathematicsstatistics/"
+    }
+  },
+  "notes": "One department covers mathematics and statistics; Data Science & Statistics is a research group inside this PhD, not a separate programme."
+}

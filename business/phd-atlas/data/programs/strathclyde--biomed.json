@@ -1,0 +1,55 @@
+{
+  "id": "strathclyde--biomed",
+  "university": "strathclyde",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Strathclyde Institute of Pharmacy & Biomedical Sciences",
+  "program_page": "https://www.strath.ac.uk/courses/research/pharmacybiomedicalsciences/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "Advertised projects each set their own deadline, and you can also apply at any time with your own proposal.",
+      "quote": "There are two main routes to undertaking a research project at Strathclyde - either by applying for an existing project or pursuing your own specific areas of interest. | You can apply at any time – all you have to do is pick your course and submit your application.",
+      "url": "https://www.strath.ac.uk/studywithus/postgraduateresearch/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pharmacy and biomedical sciences page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.strath.ac.uk/courses/research/pharmacybiomedicalsciences/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You can name a supervisor in your application, but an offer follows only once a second supervisor is confirmed.",
+      "quote": "As soon as a second supervisor is confirmed, an offer will be sent to you through Pegasus, our online application system.",
+      "url": "https://www.strath.ac.uk/courses/research/pharmacybiomedicalsciences/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "The page names the competitive JARSS studentships and lists no project-level funding.",
+      "quote": "The JARSS 2026/27 competition will open in November 2025 and students successful in this competition will commence studies in October 2026.",
+      "url": "https://www.strath.ac.uk/courses/research/pharmacybiomedicalsciences/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The stated entry is an honours degree; the University's general page says research applicants normally have a Masters, so check with the department.",
+      "quote": "Upper second-class UK Honours degree or overseas equivalent.",
+      "url": "https://www.strath.ac.uk/courses/research/pharmacybiomedicalsciences/",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "If you wish to apply for a research degree you'd normally have to have a Masters degree and some experience of research work.",
+          "url": "https://www.strath.ac.uk/studywithus/internationalstudents/entryrequirements/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The pharmacy page asks for IELTS 6.5 with no element below 5.5 if English is not the first language.",
+      "quote": "proof of IELTS English language proficiency – score of 6.5, with no element below 5.5 – if English isn't your first language",
+      "url": "https://www.strath.ac.uk/courses/research/pharmacybiomedicalsciences/"
+    }
+  },
+  "notes": "Biology has no separate PhD listing; the biomedical sciences PhD is saved here only."
+}

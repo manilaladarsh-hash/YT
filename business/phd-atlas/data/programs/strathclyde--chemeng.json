@@ -1,0 +1,55 @@
+{
+  "id": "strathclyde--chemeng",
+  "university": "strathclyde",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Chemical & Process Engineering",
+  "program_page": "https://www.strath.ac.uk/courses/research/chemicalprocessengineering/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "Each advertised project sets its own deadline; one listed project closes 30 November 2026.",
+      "quote": "Deadline: 30 November 2026",
+      "url": "https://www.strath.ac.uk/courses/research/chemicalprocessengineering/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The engineering page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.strath.ac.uk/courses/research/chemicalprocessengineering/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page gives no rule on supervisor agreement before admission.",
+      "quote": "",
+      "url": "https://www.strath.ac.uk/courses/research/chemicalprocessengineering/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Most listed projects are unfunded, so funding depends on the project or a competitive award.",
+      "quote": "Funding: unfunded Modelling the formation & recycling of plastic composites | Funding: funded Fermentation Process Development - Facilitating Faster Development",
+      "url": "https://www.strath.ac.uk/courses/research/chemicalprocessengineering/",
+      "also": [
+        {
+          "quote": "The JARSS 2026/27 competition will open in November 2025 and students successful in this competition will commence studies in October 2026.",
+          "url": "https://www.strath.ac.uk/courses/research/chemicalprocessengineering/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The stated entry is an honours degree; the University's general page says research applicants normally have a Masters, so check with the department.",
+      "quote": "A first-class or upper second-class Honours degree in a relevant engineering/science discipline, or a suitable equivalent qualification.",
+      "url": "https://www.strath.ac.uk/courses/research/chemicalprocessengineering/",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "If you wish to apply for a research degree you'd normally have to have a Masters degree and some experience of research work.",
+          "url": "https://www.strath.ac.uk/studywithus/internationalstudents/entryrequirements/"
+        }
+      ]
+    }
+  },
+  "notes": "Asks for a recent UKVI-recognised Secure English Language Test (SELT) if English is not the first language, rather than a band score. Mapped from Chemical & Process Engineering to the chemeng field."
+}

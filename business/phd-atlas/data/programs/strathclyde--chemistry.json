@@ -1,0 +1,49 @@
+{
+  "id": "strathclyde--chemistry",
+  "university": "strathclyde",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Chemistry",
+  "program_page": "https://www.strath.ac.uk/courses/research/chemistry/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "Advertised projects each set their own deadline, and you can also apply at any time with your own proposal.",
+      "quote": "There are two main routes to undertaking a research project at Strathclyde - either by applying for an existing project or pursuing your own specific areas of interest. | You can apply at any time – all you have to do is pick your course and submit your application.",
+      "url": "https://www.strath.ac.uk/studywithus/postgraduateresearch/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The chemistry page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.strath.ac.uk/courses/research/chemistry/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You can name a supervisor in your application, but an offer follows only once a second supervisor is confirmed.",
+      "quote": "As soon as a second supervisor is confirmed, an offer will be sent to you through Pegasus, our online application system.",
+      "url": "https://www.strath.ac.uk/courses/research/chemistry/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding depends on the project or scholarship, and only three fully funded studentships are open to international candidates.",
+      "quote": "Please note there are only 3 fully funded studentships available for international candidates.",
+      "url": "https://www.strath.ac.uk/courses/research/chemistry/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The stated entry is an honours degree; the University's general page says research applicants normally have a Masters, so check with the department.",
+      "quote": "For PhD or MPhil, you will need a first-class or upper second-class UK Honours degree, or overseas equivalent, from a recognised academic institution.",
+      "url": "https://www.strath.ac.uk/courses/research/chemistry/",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "If you wish to apply for a research degree you'd normally have to have a Masters degree and some experience of research work.",
+          "url": "https://www.strath.ac.uk/studywithus/internationalstudents/entryrequirements/"
+        }
+      ]
+    }
+  },
+  "notes": "Asks for a recent UKVI-recognised Secure English Language Test (SELT) if English is not the first language, rather than a band score."
+}

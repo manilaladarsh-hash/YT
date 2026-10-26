@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Department of Physics",
   "program_page": "https://www.strath.ac.uk/courses/research/physics/",
-  "checked": "2026-10-22",
+  "checked": "2026-10-26",
   "fields": {
     "deadline": {
       "code": "Per position",
@@ -62,22 +62,18 @@
         }
       ]
     },
-    "toefl_min": {
-      "code": "80",
-      "value": "Physics PGR needs IELTS 6.5 (Faculty of Science PGR: no band below 5.5). Equivalent TOEFL iBT for tests up to Jan 20, 2026: 80 overall (L17, R18, S20, W18); tests from Jan 21, 2026: 5.0 overall with at least 4.0 in each component.",
-      "quote": "English Condition - IELTS condition 6.5 overall, with a minimum of 5.5 in each component | TOEFL (ibt): Tests dated up to and including 20th January, 2026: 80 overall, with the following minimum scores in each component: Listening: 17 Reading: 18 Speaking: 20 Writing: 18. Tests dated from 21st January, 2026: 5.0 overall, with a minimum of 4.0 in each component.",
-      "url": "https://www.strath.ac.uk/studywithus/englishlanguagerequirements/recognisedenglishlanguagequalifications/",
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The physics PhD page requires IELTS 6.5 if English is not the first language; a general physics international page gives 6.0.",
+      "quote": "You must also have an IELTS score of 6.5 as proof of English proficiency, if English isn't your first language.",
+      "url": "https://www.strath.ac.uk/courses/research/physics/",
       "also": [
         {
-          "quote": "Faculty of Science (PGR students): IELTS (Academic) 6.5 overall (no individual band less than 5.5)",
-          "url": "https://www.strath.ac.uk/studywithus/englishlanguagerequirements/"
-        },
-        {
-          "quote": "You must also have an IELTS score of 6.5 as proof of English proficiency, if English isn't your first language.",
-          "url": "https://www.strath.ac.uk/courses/research/physics/"
+          "quote": "For the Department of Physics this is deemed to be IELTS (academic) at 6.0.",
+          "url": "https://www.strath.ac.uk/science/physics/internationalstudents/internationaladmissions/"
         }
       ]
     }
   },
-  "notes": "International PhD tuition was £29,350 for 2026/27 (2027/28 not yet listed on the page checked). A research proposal of 250 to 1,000 words is required."
+  "notes": "International PhD tuition was £29,350 for 2026/27 (2027/28 not yet listed on the page checked). A research proposal of 250 to 1,000 words is required. The department's general international admissions page gives IELTS 6.0, but the PhD page gives 6.5, which is used here."
 }

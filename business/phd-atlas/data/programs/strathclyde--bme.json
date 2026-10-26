@@ -1,0 +1,55 @@
+{
+  "id": "strathclyde--bme",
+  "university": "strathclyde",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Biomedical Engineering",
+  "program_page": "https://www.strath.ac.uk/courses/research/biomedicalengineering/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "Advertised projects each set their own deadline, and you can also apply at any time with your own proposal.",
+      "quote": "There are two main routes to undertaking a research project at Strathclyde - either by applying for an existing project or pursuing your own specific areas of interest. | You can apply at any time – all you have to do is pick your course and submit your application.",
+      "url": "https://www.strath.ac.uk/studywithus/postgraduateresearch/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The engineering page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.strath.ac.uk/courses/research/biomedicalengineering/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You highlight a potential supervisor, and an offer follows once a second supervisor is confirmed.",
+      "quote": "As soon as a second supervisor is confirmed, an offer will be sent to you through Pegasus, our online application system.",
+      "url": "https://www.strath.ac.uk/courses/research/biomedicalengineering/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most listed projects are marked funded, but the page does not say whether funded places are open to international students.",
+      "quote": "Funding: funded Developing an ultrawide dynamic range analytical platform for biomarker panel analysis",
+      "url": "https://www.strath.ac.uk/courses/research/biomedicalengineering/",
+      "also": [
+        {
+          "quote": "The JARSS 2026/27 competition will open in November 2025 and students successful in this competition will commence studies in October 2026.",
+          "url": "https://www.strath.ac.uk/courses/research/biomedicalengineering/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The stated entry is an honours degree; the University's general page says research applicants normally have a Masters, so check with the department.",
+      "quote": "A first-class or upper second-class Honours degree in biomedical engineering, electrical and electronic engineering, physical or life sciences.",
+      "url": "https://www.strath.ac.uk/courses/research/biomedicalengineering/",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "If you wish to apply for a research degree you'd normally have to have a Masters degree and some experience of research work.",
+          "url": "https://www.strath.ac.uk/studywithus/internationalstudents/entryrequirements/"
+        }
+      ]
+    }
+  },
+  "notes": ""
+}
