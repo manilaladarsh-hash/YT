@@ -1,0 +1,50 @@
+{
+  "id": "wichita--mech",
+  "university": "wichita",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering",
+  "program_page": "https://catalog.wichita.edu/graduate/engineering/mechanical-engineering/phd-in-mechanical-engineering/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "The catalog gives no department deadline for this PhD; the Graduate School priority date for international Fall applicants is March 1.",
+      "quote": "International Student Priority: March 1 Priority: August 1 $75 Secondary: April 30 Secondary: September 30 $135",
+      "url": "https://catalog.wichita.edu/graduate/admission-graduate-study/admission-application/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Engineering PhDs have no subject GRE test.",
+      "quote": "",
+      "url": "https://catalog.wichita.edu/graduate/engineering/mechanical-engineering/phd-in-mechanical-engineering/"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE is required only for direct admission from a bachelor's degree (310 or more in verbal and quantitative, 3.5 analytical writing); master's applicants are not asked for it on this page.",
+      "quote": "GRE scores of 310 or greater in Verbal and Quantitative skills and 3.5 in Analytical Writing.",
+      "url": "https://catalog.wichita.edu/graduate/engineering/mechanical-engineering/phd-in-mechanical-engineering/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission does not require a faculty agreement; an advisor is chosen after admission, before 12 PhD credit hours.",
+      "quote": "Before completing 12 PhD credit hours at WSU, a student must select an advisor and an advisory committee.",
+      "url": "https://catalog.wichita.edu/graduate/engineering/mechanical-engineering/phd-in-mechanical-engineering/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog gives no funding rule for this PhD; the Graduate School's assistantship range is not a per-student guarantee.",
+      "quote": "assistantships for 20 hours of work per week for a nine-month period range from $5,800 to $25,000",
+      "url": "https://catalog.wichita.edu/graduate/financial-information/financial-opportunities/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with a master's degree are admitted under the standard rules, and exceptional bachelor's graduates can enter the PhD directly.",
+      "quote": "The mechanical engineering department offers direct admission for truly exceptional students to its PhD program. | A master’s degree in mechanical or closely related engineering, or physical sciences.",
+      "url": "https://catalog.wichita.edu/graduate/engineering/mechanical-engineering/phd-in-mechanical-engineering/"
+    }
+  },
+  "notes": "Aerospace Engineering also offers a PhD (catalog: https://catalog.wichita.edu/graduate/engineering/aerospace-engineering/phd-in-aerospace-engineering/) in the same field. Only one record fits this field id, so the aerospace PhD is not saved here. Its bachelor's-entry track needs a faculty letter naming the student's advisor, and its master's track is admitted by the department chair. Department web pages are blocked.",
+  "name": "PhD in Mechanical Engineering"
+}

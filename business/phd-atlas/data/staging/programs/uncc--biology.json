@@ -1,0 +1,68 @@
+{
+  "id": "uncc--biology",
+  "university": "uncc",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences (Klein College of Science)",
+  "program_page": "https://biology.charlotte.edu/programs/graduate-programs/phd-program/admissions-requirements-procedures-and-deadlines/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall deadline is January 15 (for full financial consideration); spring deadline is October 1, and most admissions are for Fall.",
+      "quote": "Deadlines for applications are January 15 for the Fall semester and October 1 for the Spring semester",
+      "url": "https://biology.charlotte.edu/programs/graduate-programs/phd-program/admissions-requirements-procedures-and-deadlines/",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "New applicants need no GRE scores; the checklist lists them as optional.",
+      "quote": "NEW–no GRE scores required.",
+      "url": "https://biology.charlotte.edu/programs/graduate-programs/phd-program/admissions-requirements-procedures-and-deadlines/",
+      "also": [
+        {
+          "quote": "(Optional) Official GRE scores (verbal, quantitative, and analytical)",
+          "url": "https://biology.charlotte.edu/programs/graduate-programs/phd-program/admissions-requirements-procedures-and-deadlines/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "At least one faculty member must agree to be the tentative major advisor before admission is final.",
+      "quote": "At least one Graduate Faculty member must indicate an interest in serving as the student’s tentative major advisor",
+      "url": "https://biology.charlotte.edu/programs/graduate-programs/phd-program/admissions-requirements-procedures-and-deadlines/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching assistantships are competitive, and research assistantships are highly competitive.",
+      "quote": "A TA in the Department of Biological Sciences is a competitive award",
+      "url": "https://biology.charlotte.edu/programs/graduate-programs/phd-program/teaching-and-research-assistantships/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree from an accredited university is the entry requirement.",
+      "quote": "a B.S. or B.A. degree from an accredited university",
+      "url": "https://biology.charlotte.edu/programs/graduate-programs/phd-program/admissions-requirements-procedures-and-deadlines/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The department's TOEFL line (83, 220 or 557, and a preferred 100) is on the old scale, so no current TOEFL minimum is recorded.",
+      "quote": "",
+      "url": "https://biology.charlotte.edu/programs/graduate-programs/phd-program/admissions-requirements-procedures-and-deadlines/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department requires an overall IELTS band of 6.5 for applicants whose native language is not English.",
+      "quote": "a minimum overall band score of 6.5 on the IELTS",
+      "url": "https://biology.charlotte.edu/programs/graduate-programs/phd-program/admissions-requirements-procedures-and-deadlines/"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The department says it has no process to waive the Graduate School application fee.",
+      "quote": "The Department of Biological Sciences does not have a process to provide waivers for application fees required by the Graduate School",
+      "url": "https://biology.charlotte.edu/programs/graduate-programs/phd-program/admissions-requirements-procedures-and-deadlines/"
+    }
+  },
+  "notes": "The Bioinformatics and Computational Biology PhD (College of Computing and Informatics) is a separate program: GRE general is required but waivable with a qualifying GPA; deadlines January 1 (Fall) and September 1 (Spring); English test required unless the degree is from an English-speaking country. It is not saved because the field can hold one program record."
+}

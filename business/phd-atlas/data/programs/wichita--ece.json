@@ -1,0 +1,58 @@
+{
+  "id": "wichita--ece",
+  "university": "wichita",
+  "field": "ece",
+  "also_fields": [
+    "cs"
+  ],
+  "department": "Department of Electrical and Computer Engineering",
+  "program_page": "https://catalog.wichita.edu/graduate/engineering/electrical-computer-engineering/phd-in-eecs/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "The catalog gives no department deadline for this PhD; the Graduate School priority date for international Fall applicants is March 1.",
+      "quote": "International Student Priority: March 1 Priority: August 1 $75 Secondary: April 30 Secondary: September 30 $135",
+      "url": "https://catalog.wichita.edu/graduate/admission-graduate-study/admission-application/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Engineering PhDs have no subject GRE test.",
+      "quote": "",
+      "url": "https://catalog.wichita.edu/graduate/engineering/electrical-computer-engineering/phd-in-eecs/"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Applicants submit an official GRE General score, or a support letter from an ECE graduate faculty member instead.",
+      "quote": "Official GRE General test score, or a support letter from an ECE graduate faculty member at Wichita State.",
+      "url": "https://catalog.wichita.edu/graduate/engineering/electrical-computer-engineering/phd-in-eecs/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Bachelor's-only applicants are admitted only if a faculty member agrees to be their PhD advisor from the start; master's applicants are judged individually.",
+      "quote": "applicants with a bachelor's degree will only be admitted if a faculty member judges them as exceptional, and is willing to be their PhD advisor from the beginning of the program",
+      "url": "https://catalog.wichita.edu/graduate/engineering/electrical-computer-engineering/phd-in-eecs/",
+      "also": [
+        {
+          "quote": "Each applicant is evaluated individually.",
+          "url": "https://catalog.wichita.edu/graduate/engineering/electrical-computer-engineering/phd-in-eecs/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog gives no funding rule for this PhD; the Graduate School's assistantship range is not a per-student guarantee.",
+      "quote": "assistantships for 20 hours of work per week for a nine-month period range from $5,800 to $25,000",
+      "url": "https://catalog.wichita.edu/graduate/financial-information/financial-opportunities/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may hold a bachelor's or a master's degree with at least a 3.250 GPA in electrical engineering, computer engineering, computer science or a related field.",
+      "quote": "A completed bachelor's or master’s degree, with a grade point average of at least 3.250 in electrical engineering, computer engineering, computer science or a related field.",
+      "url": "https://catalog.wichita.edu/graduate/engineering/electrical-computer-engineering/phd-in-eecs/"
+    }
+  },
+  "notes": "The catalog's PhD covers electrical and computer engineering and computer science in one program. Department web pages are blocked.",
+  "name": "PhD in Electrical Engineering and Computer Science"
+}

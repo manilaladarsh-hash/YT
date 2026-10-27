@@ -1,0 +1,45 @@
+{
+  "id": "uncc--cs",
+  "university": "uncc",
+  "field": "cs",
+  "also_fields": [],
+  "department": "College of Computing and Informatics, Computer Science track",
+  "program_page": "https://cci.charlotte.edu/departments/department-of-computer-science/academics/ph-d-in-computing-and-information-systems-cs-track/admissions-2/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "To get full consideration for financial support, applications must be received by February 1 for Fall admission.",
+      "quote": "applications must be received by September 1 for Spring admission and February 1 for Fall admission",
+      "url": "https://cci.charlotte.edu/departments/department-of-computer-science/academics/ph-d-in-computing-and-information-systems-cs-track/admissions-2/",
+      "inferred": "year",
+      "time_sensitive": "2027-02-01"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The CS track lists excellent GRE or GMAT scores as an admission requirement; the fetched page states no waiver.",
+      "quote": "Excellent GRE or GMAT scores.",
+      "url": "https://cci.charlotte.edu/departments/department-of-computer-science/academics/ph-d-in-computing-and-information-systems-cs-track/admissions-2/"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The CS Subject GRE is optional: a satisfactory score can satisfy some prerequisite coursework.",
+      "quote": "satisfactory score on the Computer Science Subject GRE examination",
+      "url": "https://cci.charlotte.edu/departments/department-of-computer-science/academics/ph-d-in-computing-and-information-systems-cs-track/admissions-2/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are advised to contact faculty with similar research interests before applying.",
+      "quote": "It is recommended that applicants contact faculty with similar research interests prior to submitting an application",
+      "url": "https://cci.charlotte.edu/departments/department-of-computer-science/academics/ph-d-in-computing-and-information-systems-cs-track/admissions-2/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree from a recognised institution is the minimum; a master's is not required.",
+      "quote": "A baccalaureate degree from a recognized institution",
+      "url": "https://cci.charlotte.edu/departments/department-of-computer-science/academics/ph-d-in-computing-and-information-systems-cs-track/admissions-2/"
+    }
+  },
+  "notes": "This is the CS track only. The SIS track page lists a paper-based TOEFL 557 (old scale), not recorded. The page states no CS funding rule.",
+  "name": "Computing and Information Systems, Ph.D. (CS track)"
+}

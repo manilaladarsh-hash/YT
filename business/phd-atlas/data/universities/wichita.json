@@ -1,0 +1,54 @@
+{
+  "id": "wichita",
+  "institution": "Wichita State University",
+  "country": "USA",
+  "region": "Kansas",
+  "grad_page": "https://catalog.wichita.edu/graduate/admission-graduate-study/admission-application/",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "International applicants pay $75 before the priority date (March 1 for Fall), $135 at the secondary date (April 30) and $175 for late submissions.",
+      "quote": "International Student Priority: March 1 Priority: August 1 $75 Secondary: April 30 Secondary: September 30 $135",
+      "url": "https://catalog.wichita.edu/graduate/admission-graduate-study/admission-application/",
+      "time_sensitive": "2027-03-01",
+      "also": [
+        {
+          "quote": "All applicants to the Wichita State University Graduate School must pay a nonrefundable application fee each time an application is submitted.",
+          "url": "https://catalog.wichita.edu/graduate/admission-graduate-study/admission-application/"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "The fetched catalog pages give no application-fee waiver for international applicants; the Graduate School's international admissions page that would state the rule is blocked to the fetcher.",
+      "quote": "",
+      "url": "https://catalog.wichita.edu/graduate/admission-graduate-study/admission-application/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School sets no GRE rule for doctoral applicants; each program decides, see the program records.",
+      "quote": "Although an entrance exam is not a requirement for admission to the Graduate School, certain program areas may require an entrance exam.",
+      "url": "https://catalog.wichita.edu/graduate/admission-graduate-study/admission-application/"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "The Graduate School minimum is TOEFL iBT 4.5 on the new 2026 scale; the old-scale 79 on the same line is not recorded as a number.",
+      "quote": "TOEFL (iBT) – 79 or 4.5",
+      "url": "https://www.wichita.edu/admissions/graduate/english-proficiency.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The Graduate School minimum is an IELTS Academic overall band of 6.5.",
+      "quote": "IELTS – 6.5 overall band score",
+      "url": "https://www.wichita.edu/admissions/graduate/english-proficiency.php"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "No fetched page names India or an English-medium degree; the Graduate School says no countries in Asia are excluded from the English test, which does not settle the India question.",
+      "quote": "There are no countries in Africa, South America, and Asia that are excluded from this requirement.",
+      "url": "https://www.wichita.edu/admissions/graduate/english-proficiency.php"
+    }
+  },
+  "notes": "Sources: the 2026-27 Wichita State graduate catalog (admission and application page, financial opportunities page) and the Graduate School English Proficiency page. Blocked to the fetcher (empty or bot-protection page, not quoted): https://www.wichita.edu/admissions/graduate/international.php, https://www.wichita.edu/admissions/graduate/checklist-international.php, https://www.wichita.edu/academics/graduate_school/forms_and_publications.php, https://www.wichita.edu/admissions/international/agencies/agentsfaq.php, https://www.wichita.edu/graduatedegrees, https://www.wichita.edu/academics/graduate_school/degree-coordinators.php. Department pages on www.wichita.edu are also blocked: https://www.wichita.edu/academics/fairmount_las/chemistry/grad_programs.php, https://www.wichita.edu/academics/engineering/ECE/graduate/index.php, https://www.wichita.edu/academics/engineering/aerospace/program/graduate.php, https://www.wichita.edu/academics/engineering/SoC/doctorate/index.php, https://www.wichita.edu/academics/engineering/isme/graduate-programs.php. A search snippet claimed a fee waiver for McNair Scholars and a 2026 deadline extension; neither appears on a fetched page, so neither is recorded. The catalog lists doctoral programs in aerospace engineering, biomedical engineering, electrical and computer engineering (EECS), industrial engineering, mechanical engineering, chemistry, applied mathematics, communication sciences and disorders, psychology, and education and behavioral studies. A search snippet mentioned a PhD in Mathematics that does not appear in the fetched catalog listing; it is not recorded."
+}

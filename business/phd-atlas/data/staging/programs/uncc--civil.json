@@ -1,0 +1,55 @@
+{
+  "id": "uncc--civil",
+  "university": "uncc",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Infrastructure and Environmental Systems (INES) PhD program",
+  "program_page": "https://ines.charlotte.edu/admission-degree-requirements/admission-requirements/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The INES pages give no application deadline; the Graduate School's dates apply.",
+      "quote": "",
+      "url": "https://ines.charlotte.edu/admission-degree-requirements/admission-requirements/"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE scores in the upper 50th percentile are expected, but not required for applicants with a graduate GPA of 3.65 or above.",
+      "quote": "Acceptable scores on the verbal, quantitative and analytical sections of the Graduate Record Examination (GRE) are expected to be in the upper 50th percentile",
+      "url": "https://ines.charlotte.edu/admission-degree-requirements/admission-requirements/",
+      "also": [
+        {
+          "quote": "However, GRE is not required for applicants who earn a graduate GPA of 3.65 or above",
+          "url": "https://ines.charlotte.edu/admission-degree-requirements/admission-requirements/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The INES program has no GRE Subject test.",
+      "quote": "",
+      "url": "https://ines.charlotte.edu/admission-degree-requirements/admission-requirements/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The admission pages do not say whether a faculty agreement is needed before admission.",
+      "quote": "",
+      "url": "https://ines.charlotte.edu/admission-degree-requirements/admission-requirements/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All full-time doctoral students receive tuition awards and health benefits, with graduate assistantships competitively awarded on top.",
+      "quote": "All full-time doctoral students receive robust financial assistance, including comprehensive tuition awards and health benefits",
+      "url": "https://academics.charlotte.edu/program/infrastructure-and-environmental-systems-ph-d-on-campus/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Bachelor's holders need an undergraduate GPA of 3.75 for the regular track; master's holders with a 3.50 GPA are admitted.",
+      "quote": "Applicants holding only baccalaureate degrees with an undergraduate GPA of 3.75 or above may be considered for admission into the regular track",
+      "url": "https://ines.charlotte.edu/admission-degree-requirements/admission-requirements/"
+    }
+  },
+  "notes": "The Civil Engineering, Ph.D. page could not be read: the Civil and Environmental Engineering pages redirect to a college landing page and the catalog returned a 502 error, so this civil record covers the INES program only. The INES program requires 72 credits for bachelor's holders and 42 for master's holders.",
+  "name": "Infrastructure and Environmental Systems, Ph.D."
+}

@@ -1,0 +1,78 @@
+{
+  "id": "uncc--datasci",
+  "university": "uncc",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "School of Data Science",
+  "program_page": "https://datasciencephd.charlotte.edu/admissions/application-requirements/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page gives only the Fall 2026 deadline of February 1, 2026, which has passed; no Fall 2027 date is posted.",
+      "quote": "",
+      "url": "https://datasciencephd.charlotte.edu/admissions/application-requirements/",
+      "also": [
+        {
+          "quote": "Priority Admission Deadline: Applications for admission to the Ph.D. in Data Science program in Fall 2026 must be received by February 1, 2026",
+          "url": "https://datasciencephd.charlotte.edu/admissions/application-requirements/"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "85 USD",
+      "value": "The processing fee for international applicants is $85.",
+      "quote": "$85 USD for International Applicants",
+      "url": "https://datasciencephd.charlotte.edu/admissions/application-requirements/"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "A GRE aptitude score above the 50th percentile is required, waived only for US degree holders with a 3.0 undergraduate or 3.5 graduate GPA, or a terminal degree, on written request.",
+      "quote": "A satisfactory score (above the 50th percentile) on the aptitude portion of the GRE",
+      "url": "https://datasciencephd.charlotte.edu/admissions/application-requirements/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The program page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://datasciencephd.charlotte.edu/admissions/application-requirements/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The page lists a TOEFL iBT of 83, an old-scale value replaced by the new 4.5 scale, so no current TOEFL minimum is recorded.",
+      "quote": "",
+      "url": "https://datasciencephd.charlotte.edu/admissions/application-requirements/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The program requires an IELTS Academic overall band score of 6.5 or higher.",
+      "quote": "IELTS: Overall band score of 6.5 or higher",
+      "url": "https://datasciencephd.charlotte.edu/admissions/application-requirements/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a faculty agreement is needed before admission; applicants may contact faculty.",
+      "quote": "",
+      "url": "https://datasciencephd.charlotte.edu/admissions/application-requirements/",
+      "also": [
+        {
+          "quote": "Prospective students are welcome to reach out to faculty members to discuss their research interests and fit with the program",
+          "url": "https://datasciencephd.charlotte.edu/faqs/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Admitted, well-qualified full-time students are typically offered tuition, health insurance and a TA; part-time students are not eligible.",
+      "quote": "Admitted, well-qualified Ph.D. students are typically offered a funding package that covers tuition, health insurance, and a Teaching Assistantship (TA)",
+      "url": "https://datasciencephd.charlotte.edu/sds-funding/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's degree with an undergraduate GPA of 3.2 or higher, or a relevant master's degree, is accepted.",
+      "quote": "A baccalaureate degree from a college or university accredited by an accepted accrediting body, with an undergraduate GPA of 3.2 or higher",
+      "url": "https://datasciencephd.charlotte.edu/admissions/application-requirements/"
+    }
+  },
+  "notes": "The program's own Fall 2026 deadline (February 1, 2026) has passed, and no Fall 2027 date was found on the program pages."
+}

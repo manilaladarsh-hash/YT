@@ -1,0 +1,50 @@
+{
+  "id": "wichita--bme",
+  "university": "wichita",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biomedical Engineering",
+  "program_page": "https://catalog.wichita.edu/graduate/engineering/biomedical-engineering/phd-biomedical-engineering/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "The catalog gives no department deadline for this PhD; the Graduate School priority date for international Fall applicants is March 1.",
+      "quote": "International Student Priority: March 1 Priority: August 1 $75 Secondary: April 30 Secondary: September 30 $135",
+      "url": "https://catalog.wichita.edu/graduate/admission-graduate-study/admission-application/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Engineering PhDs have no subject GRE test.",
+      "quote": "",
+      "url": "https://catalog.wichita.edu/graduate/engineering/biomedical-engineering/phd-biomedical-engineering/"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The biomedical engineering PhD lists GRE scores among its application requirements.",
+      "quote": "Graduate Record Examination (GRE) scores | Three letters of recommendation",
+      "url": "https://catalog.wichita.edu/graduate/engineering/biomedical-engineering/phd-biomedical-engineering/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission does not require a faculty agreement; an advisor is chosen after admission, before 12 PhD credit hours.",
+      "quote": "Before completing 12 PhD credit hours, a student must select an advisor and an advisory committee.",
+      "url": "https://catalog.wichita.edu/graduate/engineering/biomedical-engineering/phd-biomedical-engineering/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog gives no funding rule for this PhD; the Graduate School's assistantship range is not a per-student guarantee.",
+      "quote": "assistantships for 20 hours of work per week for a nine-month period range from $5,800 to $25,000",
+      "url": "https://catalog.wichita.edu/graduate/financial-information/financial-opportunities/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants can be admitted from an undergraduate degree (minimum GPA 3.500) or from a master's degree (minimum GPA 3.250).",
+      "quote": "For students admitted from an undergraduate degree | For students admitted from a master's degree",
+      "url": "https://catalog.wichita.edu/graduate/engineering/biomedical-engineering/phd-biomedical-engineering/"
+    }
+  },
+  "notes": "The catalog's English rule for this PhD covers international applicants who did not study at an English-speaking university and does not name India. Department web pages are blocked.",
+  "name": "PhD in Biomedical Engineering"
+}

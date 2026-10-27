@@ -1,0 +1,25 @@
+{
+  "id": "uncc--ece",
+  "university": "uncc",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Electrical and Computer Engineering (William States Lee College of Engineering)",
+  "program_page": "https://academics.charlotte.edu/program/electrical-engineering-ph-d-on-campus/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Application deadline for Fall is January 15, and for Spring July 15.",
+      "quote": "July 15 (Spring), January 15 (Fall)",
+      "url": "https://academics.charlotte.edu/program/electrical-engineering-ph-d-on-campus/",
+      "inferred": "year"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "The department says 97% of all PhD students receive financial support; no guarantee for every admitted student is stated.",
+      "quote": "receive financial support (97% of all Ph.D. students)",
+      "url": "https://engineering.charlotte.edu/academics/department/electrical-computer-engineering/graduate/"
+    }
+  },
+  "notes": "Not stated because the ECE admissions page (ece.charlotte.edu) redirects to a college landing page and the Modern Campus catalog returned a 502 error, so the GRE, English and supervisor rules could not be checked."
+}

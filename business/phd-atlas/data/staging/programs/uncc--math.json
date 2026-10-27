@@ -1,0 +1,62 @@
+{
+  "id": "uncc--math",
+  "university": "uncc",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics and Statistics",
+  "program_page": "https://math.charlotte.edu/graduate-program-information/admissions/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Priority deadline is March 1 for Fall admission (also the teaching-assistant deadline); the final deadline is August 1, or June 1 for applicants abroad who need an F or J visa.",
+      "quote": "the deadline for Fall admissions is March 1st",
+      "url": "https://math.charlotte.edu/graduate-program-information/admissions/",
+      "inferred": "year",
+      "time_sensitive": "2027-03-01"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The FAQ says all applicants must take the GRE General Test or the GMAT, but also says the GRE is waived for all 2026 applications, so confirm the rule for Fall 2027.",
+      "quote": "Yes, all applicants are required to take the GRE General Test or the GMAT",
+      "url": "https://math.charlotte.edu/graduate-program-information/admissions/faqs-about-math-graduate-programs-admission/",
+      "also": [
+        {
+          "quote": "GRE is waived for all 2026 applications!",
+          "url": "https://math.charlotte.edu/graduate-program-information/admissions/faqs-about-math-graduate-programs-admission/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applications are reviewed by the department's graduate recruitment committee, not by a named supervisor.",
+      "quote": "The department’s graduate recruitment committee will begin reviewing applications completed by March 1st",
+      "url": "https://math.charlotte.edu/graduate-program-information/admissions/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Teaching assistantships are the main aid; full-time doctoral TAs or RAs get a multi-year commitment and tuition while eligible, but the page does not say every admitted student is funded.",
+      "quote": "While Teaching Assistantships form the primary source of financial aid for MATH/STAT graduate students",
+      "url": "https://math.charlotte.edu/graduate-program-information/financial-support/",
+      "also": [
+        {
+          "quote": "Doctoral TAs or RAs enrolled full time will receive, as long as they remain eligible",
+          "url": "https://math.charlotte.edu/graduate-program-information/financial-support/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A doctoral applicant with a bachelor's needs an overall GPA of at least 3.0; after a master's, at least 3.5.",
+      "quote": "To be admitted to the doctoral program after a bachelor’s program, an applicant should have earned an overall GPA of at least 3.0",
+      "url": "https://math.charlotte.edu/graduate-program-information/admissions/faqs-about-math-graduate-programs-admission/",
+      "also": [
+        {
+          "quote": "To be admitted to the doctoral program after a master’s program, an applicant should have earned an overall grade point average of at least 3.5",
+          "url": "https://math.charlotte.edu/graduate-program-information/admissions/faqs-about-math-graduate-programs-admission/"
+        }
+      ]
+    }
+  },
+  "notes": "The department FAQ's TOEFL line gives 83 (old iBT scale); not recorded. The Graduate School rules apply for English. Final deadlines: August 1 (June 1 for F/J applicants abroad)."
+}
