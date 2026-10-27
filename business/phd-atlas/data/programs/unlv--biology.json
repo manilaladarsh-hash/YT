@@ -1,0 +1,62 @@
+{
+  "id": "unlv--biology",
+  "university": "unlv",
+  "field": "biology",
+  "also_fields": [],
+  "department": "School of Life Sciences (Biological Sciences)",
+  "program_page": "https://www.unlv.edu/lifesciences/admissions",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The biological sciences PhD takes fall applicants only, by December 1, 2026.",
+      "quote": "The deadline is December 1 for fall admission.",
+      "url": "https://www.unlv.edu/lifesciences/admissions",
+      "inferred": "year",
+      "time_sensitive": "2026-12-01",
+      "also": [
+        {
+          "quote": "Applications completed by the December 1 deadline are given priority for state-funded graduate assistantships.",
+          "url": "https://www.unlv.edu/lifesciences/admissions"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Dec 2024 Graduate College table lists no standardized test for the biological sciences PhD.",
+      "quote": "Biological Sciences Ph.D No N/A N/A N/A",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2024-12/Grad-Programs-Standardized-Tests%20FINAL%20(1).pdf"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no GRE subject test for biology, and the school's page does not mention one.",
+      "quote": "",
+      "url": "https://www.unlv.edu/lifesciences/admissions"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "The statement must name possible faculty mentors, so applicants should contact faculty before applying.",
+      "quote": "d. possible faculty mentors",
+      "url": "https://www.unlv.edu/lifesciences/admissions"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "State-funded graduate assistantships are prioritised for December 1 applicants, but the page does not say all PhD students are funded.",
+      "quote": "",
+      "url": "https://www.unlv.edu/lifesciences/admissions"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The PhD is planned as 60 credits beyond the bachelor's degree, so a master's is not required.",
+      "quote": "Complete a minimum of 60 credit hours beyond the undergraduate degree.",
+      "url": "https://www.unlv.edu/sciences/admissions",
+      "also": [
+        {
+          "quote": "A minimum GPA of 3.00 (on a 4.00 scale) for all undergraduate work.",
+          "url": "https://www.unlv.edu/lifesciences/admissions"
+        }
+      ]
+    }
+  },
+  "notes": "Entry is one cycle per year (fall). Three letters of recommendation for the PhD. The student handbook is not fetched. The biological sciences admissions page on the department site covers undergraduate rules only."
+}

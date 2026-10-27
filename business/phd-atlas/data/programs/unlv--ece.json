@@ -1,0 +1,56 @@
+{
+  "id": "unlv--ece",
+  "university": "unlv",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical and Computer Engineering (Howard R. Hughes College of Engineering)",
+  "program_page": "https://www.unlv.edu/degree/phd-electrical-engineering",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-01",
+      "value": "The EE PhD deadline for fall is May 1; the handbook's February 1 date is for assistantship consideration.",
+      "quote": "Electrical Engineering (Ph.D.) May 1",
+      "url": "https://www.unlv.edu/admissions/graduate/application-deadlines",
+      "inferred": "year",
+      "time_sensitive": "2027-02-01",
+      "also": [
+        {
+          "quote": "a Graduate Assistantship Application by February 1st for admission in the fall of the same calendar year",
+          "url": "https://www.unlv.edu/sites/default/files/media/document/2024-02/Electrical-Engineering-Graduate-Program-Handbook.pdf"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Sources disagree: the Dec 2024 table marks the GRE as required, but the handbook asks for GRE scores only for teaching-assistant consideration. Confirm with the department.",
+      "quote": "To be considered for a teaching assistantship, a student must submit Graduate Record Examination (GRE) scores",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2024-02/Electrical-Engineering-Graduate-Program-Handbook.pdf"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Electrical engineering has no GRE subject test.",
+      "quote": "",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2024-02/Electrical-Engineering-Graduate-Program-Handbook.pdf"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The handbook does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2024-02/Electrical-Engineering-Graduate-Program-Handbook.pdf"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The handbook describes teaching assistantships for superior students but does not say PhD students are funded.",
+      "quote": "",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2024-02/Electrical-Engineering-Graduate-Program-Handbook.pdf"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Three routes: through an MS (Conventional), straight from a bachelor's (Direct), or the Integrated BS-PhD.",
+      "quote": "Applicants may be admitted to the Electrical Engineering Ph. D Program through one of the following three options: the Conventional Ph. D Program Option, the Direct Ph. D Program Option, or the Integrated BS-PhD Program Option.",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2024-02/Electrical-Engineering-Graduate-Program-Handbook.pdf"
+    }
+  },
+  "notes": "The handbook is dated 2024-02, so its dates and GRE wording may be out of date. The Graduate College table (Dec 2024) shows the GRE as 'Yes' for the EE PhD. The engineering school's own page was not fetched."
+}

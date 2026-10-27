@@ -1,0 +1,55 @@
+{
+  "id": "unlv--environment",
+  "university": "unlv",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Interdisciplinary PhD in Water Resources",
+  "program_page": "https://catalog.unlv.edu/preview_program.php?catoid=44&poid=12789",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-01",
+      "value": "International applicants must apply by May 1 for fall; the department's own date is July 15.",
+      "quote": "All application materials must be submitted to the Graduate College through the Application Portal by May 1 (fall semester)",
+      "url": "https://www.unlv.edu/admissions/graduate/application-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Dec 2024 Graduate College table lists no standardized test for the water resources PhD, and the archived catalog lists no GRE.",
+      "quote": "Water Resources Ph.D. No N/A N/A N/A",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2024-12/Grad-Programs-Standardized-Tests%20FINAL%20(1).pdf"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Water resources has no GRE subject test.",
+      "quote": "",
+      "url": "https://catalog.unlv.edu/preview_program.php?catoid=44&poid=12789"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The archived catalog does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.unlv.edu/preview_program.php?catoid=44&poid=12789"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The archived catalog does not describe PhD funding.",
+      "quote": "",
+      "url": "https://catalog.unlv.edu/preview_program.php?catoid=44&poid=12789"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Two subplans: post-bachelor's (69 credits) or post-master's (45 credits).",
+      "quote": "Subplan 1: Post Bachelor’s",
+      "url": "https://catalog.unlv.edu/preview_program.php?catoid=44&poid=12789",
+      "also": [
+        {
+          "quote": "Subplan 2: Post Master’s",
+          "url": "https://catalog.unlv.edu/preview_program.php?catoid=44&poid=12789"
+        }
+      ]
+    }
+  },
+  "notes": "Source is the archived catalog page (catoid=44), the only current-or-archived PhD page I could fetch for this program; check the current catalog. The archived catalog requires a 3.20 baccalaureate GPA or 3.40 master's GPA. The Water Resources Management M.S. (GRE may be required) is a different program and is not used."
+}

@@ -1,0 +1,61 @@
+{
+  "id": "unlv--civil",
+  "university": "unlv",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Civil & Environmental Engineering (CEEC)",
+  "program_page": "https://www.unlv.edu/ceec/graduate-admissions",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-15",
+      "value": "The department's international deadline for fall is March 15; domestic is June 15.",
+      "quote": "Fall Semester: Mar. 15 for international students and Jun. 15 for domestic students",
+      "url": "https://www.unlv.edu/ceec/graduate-admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The Dec 2024 Graduate College table lists the GRE as required, with a verbal plus quantitative score of at least 300 as a target.",
+      "quote": "Civil & Environmental Engineering Ph.D. Yes GRE",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2024-12/Grad-Programs-Standardized-Tests%20FINAL%20(1).pdf",
+      "also": [
+        {
+          "quote": "GRE verbal and quantitative GRE score of at least 300",
+          "url": "https://www.unlv.edu/sites/default/files/media/document/2024-12/Grad-Programs-Standardized-Tests%20FINAL%20(1).pdf"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Civil engineering has no GRE subject test.",
+      "quote": "",
+      "url": "https://www.unlv.edu/ceec/graduate-admissions"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.unlv.edu/ceec/graduate-admissions"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department reports that a share of its students are funded, but does not guarantee funding for PhD applicants.",
+      "quote": "of CEEC Students are funded by extramural research and state funds",
+      "url": "https://www.unlv.edu/ceec/graduate-admissions"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Two tracks: a post-bachelor's PhD (ten semesters) or a post-master's PhD (eight semesters).",
+      "quote": "Post-Bachelor’s Ph.D. Track (Ten Semesters)",
+      "url": "https://www.unlv.edu/ceec/graduate-admissions",
+      "also": [
+        {
+          "quote": "Post-Master’s Ph.D. Track (Eight Semesters)",
+          "url": "https://www.unlv.edu/ceec/graduate-admissions"
+        }
+      ]
+    }
+  },
+  "notes": "The Dec 2024 table gives the GRE as required; the department page does not mention the GRE. A GPA figure from an unfetched catalog search result is not used. The 45% funding figure is for all CEEC students, so funding is Not stated."
+}

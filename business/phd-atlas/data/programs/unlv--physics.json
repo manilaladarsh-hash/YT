@@ -1,0 +1,49 @@
+{
+  "id": "unlv--physics",
+  "university": "unlv",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics & Astronomy",
+  "program_page": "https://www.physics.unlv.edu/academics/gradadmission.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Physics PhD deadline for fall entry is January 15, earlier than the May 1 international date.",
+      "quote": "Physics (Ph.D.) Jan. 15",
+      "url": "https://www.unlv.edu/admissions/graduate/application-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The department page does not mention a GRE; the Dec 2024 Graduate College table is unclear for this program.",
+      "quote": "",
+      "url": "https://www.physics.unlv.edu/academics/gradadmission.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page does not mention a Physics GRE subject test; an older UNLV catalog (search result only, not fetched) mentions one; this could not be confirmed on a current page.",
+      "quote": "",
+      "url": "https://www.physics.unlv.edu/academics/gradadmission.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The physics admissions page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.physics.unlv.edu/academics/gradadmission.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The physics admissions page does not describe PhD funding.",
+      "quote": "",
+      "url": "https://www.physics.unlv.edu/academics/gradadmission.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with a bachelor's need a 3.00 GPA and 18 upper-division physics credits; applicants with a master's need 15 graduate physics credits.",
+      "quote": "Applicants with a bachelor's degree in physics must have a minimum GPA of 3.00 for all undergraduate work | Applicants with a master's degree in physics must have at least 15 credit hours of graduate-level course work in physics with a grade of B or better",
+      "url": "https://www.physics.unlv.edu/academics/gradadmission.html"
+    }
+  },
+  "notes": "The department page (copyright 2022) says international students must meet the Graduate College TOEFL score of 550 (a paper-based figure, quoted only as the Graduate College rule), so no department TOEFL field is saved. Physics GRE status is unresolved: the Dec 2024 table gives 'Yes' with no test type, and an older UNLV catalog page seen only in search results cites an Advanced Physics GRE. Confirm with the department."
+}

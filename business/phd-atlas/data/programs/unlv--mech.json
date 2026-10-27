@@ -1,0 +1,55 @@
+{
+  "id": "unlv--mech",
+  "university": "unlv",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering (Howard R. Hughes College of Engineering)",
+  "program_page": "https://www.unlv.edu/sites/default/files/media/document/2024-04/AdmissionRequirements-PhD-MechanicalEngineering.pdf",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-01",
+      "value": "International applicants must apply by May 1 for fall; the department's own date is August 1.",
+      "quote": "All application materials must be submitted to the Graduate College through the Application Portal by May 1 (fall semester)",
+      "url": "https://www.unlv.edu/admissions/graduate/application-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The department requires GRE scores at or above the 75th percentile in quantitative reasoning; a provisional admission with a retake is possible.",
+      "quote": "the applicant must be at or above the 75 percentile range",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2024-04/AdmissionRequirements-PhD-MechanicalEngineering.pdf"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Mechanical engineering has no GRE subject test.",
+      "quote": "",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2024-04/AdmissionRequirements-PhD-MechanicalEngineering.pdf"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department document does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2024-04/AdmissionRequirements-PhD-MechanicalEngineering.pdf"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department document does not describe PhD funding.",
+      "quote": "",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2024-04/AdmissionRequirements-PhD-MechanicalEngineering.pdf"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Either a post-master's track or a post-bachelor's track for strong undergraduates.",
+      "quote": "Application for the Ph.D. program can be completed by one of two mechanisms.",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2024-04/AdmissionRequirements-PhD-MechanicalEngineering.pdf",
+      "also": [
+        {
+          "quote": "allows those undergraduates with outstanding undergraduate backgrounds to enter the Ph.D. program without having to complete an M.S. degree",
+          "url": "https://www.unlv.edu/sites/default/files/media/document/2024-04/AdmissionRequirements-PhD-MechanicalEngineering.pdf"
+        }
+      ]
+    }
+  },
+  "notes": "Department document (2024): post-bachelor's needs a 3.50 GPA and post-master's needs a 3.30 GPA for US-accredited graduates. The Dec 2024 table lists no GRE for this PhD, but the department document requires it, so the department rule is saved."
+}

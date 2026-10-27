@@ -1,0 +1,49 @@
+{
+  "id": "unlv--astronomy",
+  "university": "unlv",
+  "field": "astronomy",
+  "also_fields": [],
+  "department": "Department of Physics & Astronomy",
+  "program_page": "https://www.physics.unlv.edu/academics/gradadmission.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Astronomy PhD deadline for fall entry is January 15.",
+      "quote": "Astronomy (Ph.D.) Jan. 15",
+      "url": "https://www.unlv.edu/admissions/graduate/application-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Dec 2024 Graduate College table lists no standardized test for the astronomy PhD.",
+      "quote": "Astronomy Ph.D. No N/A N/A N/A",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2024-12/Grad-Programs-Standardized-Tests%20FINAL%20(1).pdf"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The same table lists no standardized test for the astronomy PhD, so no subject test applies.",
+      "quote": "Astronomy Ph.D. No N/A N/A N/A",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2024-12/Grad-Programs-Standardized-Tests%20FINAL%20(1).pdf"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The physics admissions page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.physics.unlv.edu/academics/gradadmission.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The physics admissions page does not describe PhD funding.",
+      "quote": "",
+      "url": "https://www.physics.unlv.edu/academics/gradadmission.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants need a BS or MS in physics, astronomy or a related area, with 18 upper-division physics credits.",
+      "quote": "Applicants must have a BS degree or a Masters degree in Physics, Astronomy or related area.",
+      "url": "https://www.physics.unlv.edu/academics/gradadmission.html"
+    }
+  },
+  "notes": "Same department page as the physics record. The Dec 2024 Graduate College table is used for the GRE rule."
+}

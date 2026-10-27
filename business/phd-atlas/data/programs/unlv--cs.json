@@ -1,0 +1,55 @@
+{
+  "id": "unlv--cs",
+  "university": "unlv",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science (Howard R. Hughes College of Engineering)",
+  "program_page": "https://www.unlv.edu/cs/admissions",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-01",
+      "value": "International applicants on an F-1 visa must apply by May 1 for fall; the department's own date is August 1.",
+      "quote": "All application materials must be submitted to the Graduate College through the Application Portal by May 1 (fall semester)",
+      "url": "https://www.unlv.edu/admissions/graduate/application-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The department requires an official GRE General score of at least 315.",
+      "quote": "A minimum score of 315 on the general test of the Graduate Record Examination (GRE) is required.",
+      "url": "https://www.unlv.edu/cs/admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Computer science has no GRE subject test, and the department page does not mention one.",
+      "quote": "",
+      "url": "https://www.unlv.edu/cs/admissions"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department admissions page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.unlv.edu/cs/admissions"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department admissions page does not describe PhD funding.",
+      "quote": "",
+      "url": "https://www.unlv.edu/cs/admissions"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's in computer science is expected; direct PhD entry is rare.",
+      "quote": "Students are expected to have a master’s degree in computer science before applying to the Ph.D. program.",
+      "url": "https://www.unlv.edu/cs/admissions",
+      "also": [
+        {
+          "quote": "A GPA of 3.70 (on a 4.00 scale) or higher in post-baccalaureate course work is required for admission.",
+          "url": "https://www.unlv.edu/cs/admissions"
+        }
+      ]
+    }
+  },
+  "notes": "Department page: GPA 3.70 or higher in post-baccalaureate work, and three letters. The Dec 2024 table also lists the GRE as required. Department's own deadline: August 1 (Dec 1 for spring), per the Graduate College table; the earlier international date (May 1) is the one saved."
+}

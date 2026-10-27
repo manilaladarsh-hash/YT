@@ -1,0 +1,57 @@
+{
+  "id": "unlv--math",
+  "university": "unlv",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Department of Mathematical Sciences",
+  "program_page": "https://www.unlv.edu/math/admissions",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "The mathematics PhD takes fall applications by February 1.",
+      "quote": "All application materials must be received by February 1 for Fall admission and October 15 for Spring admission.",
+      "url": "https://www.unlv.edu/math/admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Official GRE General scores are required per the Graduate College table and the College of Sciences page; the math department page mentions only the subject test.",
+      "quote": "Mathematical Sciences Ph.D. Yes GRE",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2024-12/Grad-Programs-Standardized-Tests%20FINAL%20(1).pdf",
+      "also": [
+        {
+          "quote": "Applicants must also submit official scores from the GRE General Test",
+          "url": "https://www.unlv.edu/sciences/admissions"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The mathematics subject GRE is recommended, not required.",
+      "quote": "GRE subject test in mathematics is recommended, but not required.",
+      "url": "https://www.unlv.edu/math/admissions"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The math admissions page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.unlv.edu/math/admissions"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The math admissions page mentions a graduate assistantship application but does not say PhD students are funded.",
+      "quote": "",
+      "url": "https://www.unlv.edu/math/admissions"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with a master's need a 3.0 graduate GPA; applicants without one need a 3.0 undergraduate GPA.",
+      "quote": "For an applicant with an M.S. degree, at least 3.0 graduate GPA | For an applicant without an M.S. degree, at least 3.0 undergraduate GPA",
+      "url": "https://www.unlv.edu/math/admissions"
+    }
+  },
+  "notes": "The PhD has four concentrations: applied mathematics, computational mathematics, pure mathematics and statistics. Statistics is listed in also_fields. The math page gives 'October 1' and 'October 15' for spring in different sections; spring is not used. The Dec 2024 table marks the GRE as required, the College of Sciences page says the GRE General is required, and the department page recommends the subject test."
+}

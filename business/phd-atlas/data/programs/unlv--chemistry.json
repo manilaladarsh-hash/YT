@@ -1,0 +1,49 @@
+{
+  "id": "unlv--chemistry",
+  "university": "unlv",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry and Biochemistry",
+  "program_page": "https://www.unlv.edu/chemistry/admissions",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall applications to the chemistry PhD must be completed by December 1, 2026.",
+      "quote": "Applications for fall admission must be completed by Dec 1.",
+      "url": "https://www.unlv.edu/chemistry/admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The Dec 2024 Graduate College table lists the GRE as optional for the chemistry PhD.",
+      "quote": "Chemistry Ph.D. Optional GRE",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2024-12/Grad-Programs-Standardized-Tests%20FINAL%20(1).pdf"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The chemistry admissions page does not mention a Chemistry GRE subject test.",
+      "quote": "",
+      "url": "https://www.unlv.edu/chemistry/admissions"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is not tied to a named advisor; students choose one by the end of their first semester.",
+      "quote": "Students are expected to select a research advisor by the end of their first semester.",
+      "url": "https://www.unlv.edu/chemistry/admissions"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The chemistry admissions page does not describe PhD funding.",
+      "quote": "",
+      "url": "https://www.unlv.edu/chemistry/admissions"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants need a 3.00 GPA and a B.S. or M.S. in chemistry, biochemistry or a related discipline.",
+      "quote": "must have a B.S. degree or an M.S. degree in biochemistry, chemistry, or a related discipline",
+      "url": "https://www.unlv.edu/chemistry/admissions"
+    }
+  },
+  "notes": "Radiochemistry (Ph.D.) is a separate PhD run by this department, with its own deadlines (Feb. 1 fall, per the Graduate College table) and a program director; it is not saved here because this record is the chemistry program. Applicants to radiochemistry should contact the radiochemistry program director named on the chemistry admissions page."
+}

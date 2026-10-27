@@ -1,0 +1,62 @@
+{
+  "id": "unlv--earth",
+  "university": "unlv",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Geoscience",
+  "program_page": "https://www.unlv.edu/sites/default/files/media/document/2026-07/Geoscience-PHD-Handbook.pdf",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The geoscience PhD deadline for fall entry is January 15, with funding consideration earlier.",
+      "quote": "Geoscience (Ph.D.) Jan. 15",
+      "url": "https://www.unlv.edu/admissions/graduate/application-deadlines",
+      "inferred": "year",
+      "time_sensitive": "2026-12-01",
+      "also": [
+        {
+          "quote": "New students desiring financial support as a Teaching or Research Assistant must have applications on file in the Graduate College by December 1st",
+          "url": "https://www.unlv.edu/sites/default/files/media/document/2026-07/Geoscience-PHD-Handbook.pdf"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Dec 2024 Graduate College table lists no standardized test for the geoscience PhD.",
+      "quote": "Geoscience Ph.D. No N/A N/A N/A",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2024-12/Grad-Programs-Standardized-Tests%20FINAL%20(1).pdf"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Geoscience has no GRE subject test, and the handbook does not mention one.",
+      "quote": "",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2026-07/Geoscience-PHD-Handbook.pdf"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admission is based in part on finding an advisor who has agreed to take the applicant, but not on that alone.",
+      "quote": "finding an advisor who has agreed to advise the applicant",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2026-07/Geoscience-PHD-Handbook.pdf"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Support comes from assistantships, fellowships and grants; self-funded admission is a rare exception.",
+      "quote": "in rare cases (6) student can be admitted as self-funded",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2026-07/Geoscience-PHD-Handbook.pdf"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students can enter from a bachelor's (60 credits past it) or with a master's degree.",
+      "quote": "A minimum of 60 credits past the baccalaureate or bachelor's degree is required to earn a Ph.D. degree.",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2026-07/Geoscience-PHD-Handbook.pdf",
+      "also": [
+        {
+          "quote": "Students who entered the program with a Master's degree",
+          "url": "https://www.unlv.edu/sites/default/files/media/document/2026-07/Geoscience-PHD-Handbook.pdf"
+        }
+      ]
+    }
+  },
+  "notes": "Department website pages (geoscience.unlv.edu graduate and apply pages) returned HTTP 502 and are blocked; the 2026 Geoscience PhD handbook is used for quotes. Deadline is from the Graduate College table; the handbook funding deadline (December 1) is kept as time_sensitive."
+}

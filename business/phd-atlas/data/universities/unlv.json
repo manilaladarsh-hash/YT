@@ -1,0 +1,53 @@
+{
+  "id": "unlv",
+  "institution": "University of Nevada, Las Vegas",
+  "country": "USA",
+  "region": "Nevada",
+  "grad_page": "https://www.unlv.edu/graduatecollege/international",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "95 USD",
+      "value": "The nonrefundable application fee for international applicants is $95, paid online.",
+      "quote": "A nonrefundable admission application fee of $95, payable online by credit card or by check/money order, to the Board of Regents, UNLV.",
+      "url": "https://www.unlv.edu/graduatecollege/international"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "The fetched Graduate College and admissions pages describe no fee waiver for international graduate applicants.",
+      "quote": "",
+      "url": "https://www.unlv.edu/graduatecollege/international"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate College sets no GRE rule; each department decides whether test scores are used.",
+      "quote": "Factors that may also be considered by the academic department to which you are applying include test scores (like the GRE or GMAT)",
+      "url": "https://www.unlv.edu/graduatecollege/international"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "The new TOEFL iBT (from January 2026) needs an overall 4.0 with no band below 3.5; the legacy test needs 80.",
+      "quote": "Overall score of 4.0 (Scale: 1.0 - 6.0) | No band below 3.5",
+      "url": "https://www.unlv.edu/admissions/international/graduate/english-proficiency",
+      "also": [
+        {
+          "quote": "Overall score of 80 (Scale: 0 - 120)",
+          "url": "https://www.unlv.edu/admissions/international/graduate/english-proficiency"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic needs an overall band of 6.5, with no band below 6.0.",
+      "quote": "Overall band of 6.5 | No band below 6.0",
+      "url": "https://www.unlv.edu/admissions/international/graduate/english-proficiency"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "India is not on the exempt-country list. An Indian degree counts only if its primary language of instruction is English, and the applicant must prove it.",
+      "quote": "Applicants who have received a post-secondary degree from an institution where English is the primary language of instruction are also exempt. | These applicants must provide proof of the language of instruction in order to be exempt.",
+      "url": "https://www.unlv.edu/admissions/international/graduate/english-proficiency"
+    }
+  },
+  "notes": "Sources: Graduate College international page (fee, deadlines), English proficiency page (test minimums, exempt-country list), 2026-27 Graduate Catalog program list (https://catalog.unlv.edu/content.php?catoid=51&navoid=16082), Graduate College deadline table. Test scores must be less than two years old at application. Blocked: the SSS graduate fee waiver page (http://caeo.unlv.edu/sss/graduate-fee-waiver) returned HTTP 503; it covers active Student Support Services participants, so it is not used."
+}
