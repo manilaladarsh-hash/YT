@@ -1,0 +1,67 @@
+{
+  "id": "montana--cs",
+  "university": "montana",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Gianforte School of Computing (Computer Science)",
+  "program_page": "https://www.cs.montana.edu/grad/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Priority application deadline is January 15 for Fall 2027 PhD applicants; the application deadline is March 15.",
+      "quote": "January 15 – Priority application deadline for Ph.D. students.",
+      "url": "https://www.cs.montana.edu/grad/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to computer science.",
+      "quote": "",
+      "url": "https://www.cs.montana.edu/future-students-phd.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "An optional endorsement from a tenure-track CS faculty member who agrees to be the initial adviser is accepted.",
+      "quote": "a letter of endorsement from a tenure-track member of the MSU Computer Science faculty who agrees to serve as the applicant's initial research advisor",
+      "url": "https://www.cs.montana.edu/phd-admissions.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Incoming PhD students are typically funded with teaching assistantships for the first year, then usually research assistantships.",
+      "quote": "Incoming Ph.D. students are typically funded with teaching assistantships for their first year.",
+      "url": "https://www.cs.montana.edu/grad/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants need a bachelor's or master's degree in computer science or a related field.",
+      "quote": "a previous Bachelor's or Master's degree in Computer Science or a closely related discipline",
+      "url": "https://www.cs.montana.edu/phd-admissions.html"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The department says the GRE is optional; scores can be uploaded.",
+      "quote": "Graduate Record Exam (optional)",
+      "url": "https://www.cs.montana.edu/phd-admissions.html"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "The department requires TOEFL iBT 4.5 on the new scale, stricter than the graduate school minimum.",
+      "quote": "at least 4.5 on TOEFL internet-based test (at least 86 in the previous scoring system)",
+      "url": "https://www.cs.montana.edu/phd-admissions.html"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The department requires IELTS 7.",
+      "quote": "at least 7 on IELTS",
+      "url": "https://www.cs.montana.edu/phd-admissions.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Applicants with a previous degree from an English-speaking university are exempt; the page does not say whether an Indian English-medium degree counts.",
+      "quote": "who do not have a previous degree from an English-speaking university, must demonstrate proficiency of the English language",
+      "url": "https://www.cs.montana.edu/phd-admissions.html"
+    }
+  },
+  "notes": "There is no PhD in data science; the data science degree here is an MS run by Mathematical Sciences. The department GPA minimum is 3.30 for the last two years."
+}

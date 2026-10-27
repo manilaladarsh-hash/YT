@@ -1,0 +1,56 @@
+{
+  "id": "uidaho--neuro",
+  "university": "uidaho",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://www.uidaho.edu/academics/degree-finder/neuroscience-phd",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Jan. 15 is the university's priority date for Fall admission, financial support or assistantships; international applicants should apply by Apr. 15 at the latest.",
+      "quote": "All applications submitted before this date will receive full consideration for admission, financial support or assistantships. | Fall semester (August to December) Jan. 15",
+      "url": "https://www.uidaho.edu/graduate-studies/admissions/application-and-deadlines",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Deadlines for international applicants | To provide sufficient time for application evaluation and for U.S. immigration student visa, submit your application no later than these dates. | Fall semester (August to December) Apr. 15",
+          "url": "https://www.uidaho.edu/graduate-studies/admissions/application-and-deadlines"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to identify and contact a potential faculty advisor during the application process.",
+      "quote": "Applicants seeking admission to the Ph.D. are encouraged to identify and contact a potential faculty advisor or major professor during the application process",
+      "url": "https://www.uidaho.edu/academics/degree-finder/neuroscience-phd"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page describes assistantship types but does not state a funding rule for the PhD.",
+      "quote": "",
+      "url": "https://www.uidaho.edu/academics/degree-finder/neuroscience-phd"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The admissions block on this page covers the M.S. in neuroscience; the PhD entry rule is not stated.",
+      "quote": "",
+      "url": "https://www.uidaho.edu/academics/degree-finder/neuroscience-phd"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The page does not mention a GRE requirement for the PhD.",
+      "quote": "",
+      "url": "https://www.uidaho.edu/academics/degree-finder/neuroscience-phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a Psychology GRE Subject test.",
+      "quote": "",
+      "url": "https://www.uidaho.edu/academics/degree-finder/neuroscience-phd"
+    }
+  },
+  "notes": "The Neuroscience (Ph.D.) page's degree-specific admission block is written for the M.S., so the PhD-specific fee, English, GRE and entry rules are not stated here and fall back to the university record where applicable.",
+  "name": "Neuroscience (Ph.D.)"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "montana--math",
+  "university": "montana",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematical Sciences",
+  "program_page": "https://math.montana.edu/grad_students/phd_math.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Complete applications by December 15 get full consideration for scholarships; the pool closes January 15.",
+      "quote": "Applications completed by December 15 will be given full consideration for university scholarship programs.",
+      "url": "https://math.montana.edu/grad_students/graduateprogramapplication.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department says GRE scores are not required and are not considered.",
+      "quote": "GRE scores are not required, and they will not be considered as part of the application process.",
+      "url": "https://math.montana.edu/grad_students/graduateprogramapplication.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided on a holistic review of the academic record, not on a faculty agreement.",
+      "quote": "Admission to the program is based on a holistic assessment of a student’s total academic record as well as demonstrable promise to complete a Ph.D. in mathematics at MSU.",
+      "url": "https://catalog.montana.edu/graduate/letters-science/mathematical-sciences/phd-mathematics/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "The department offers a small number of research assistantships and a number of teaching assistantships, awarded by selection.",
+      "quote": "The Department of Mathematical Sciences offers a small number of graduate research assistantships (GRA).",
+      "url": "https://math.montana.edu/grad_students/funding_info.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's from a U.S. or equivalent non-U.S. institution is required by the time of entry.",
+      "quote": "By the time of entry into the Ph.D. program, the applicant must have received a Bachelor’s degree from an accredited college or university in the U.S., or equivalent from a non-U.S. institution.",
+      "url": "https://catalog.montana.edu/graduate/letters-science/mathematical-sciences/phd-mathematics/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The department catalog gives a TOEFL iBT 80 minimum, an old-scale score, so no number is recorded.",
+      "quote": "the department requires that the applicant demonstrate a minimum score on one of the following TOEFL: 80-internet-based [iBT] or 550-PBT, or IELTS: 6.5, or Duolingo: 120",
+      "url": "https://catalog.montana.edu/graduate/letters-science/mathematical-sciences/phd-mathematics/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department catalog requires IELTS 6.5 for admission; GTA appointments need 7.0.",
+      "quote": "or IELTS: 6.5, or Duolingo: 120",
+      "url": "https://catalog.montana.edu/graduate/letters-science/mathematical-sciences/phd-mathematics/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department says GRE scores are not required.",
+      "quote": "GRE scores are not required, and they will not be considered as part of the application process.",
+      "url": "https://math.montana.edu/grad_students/graduateprogramapplication.html"
+    }
+  },
+  "notes": "Applications for the MS in Data Science are run by this department; there is no data science PhD here. Math Education PhD is not saved as a separate record.",
+  "name": "Ph.D. in Mathematics"
+}

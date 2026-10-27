@@ -1,0 +1,46 @@
+{
+  "id": "montana--environment",
+  "university": "montana",
+  "field": "environment",
+  "also_fields": [
+    "biology"
+  ],
+  "department": "Ecology and Environmental Sciences (cross-college program)",
+  "program_page": "https://www.montana.edu/ees/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-30",
+      "value": "Complete applications by November 30 for a competitive fellowship starting Fall 2027; the LRES regular deadline for international applicants is May 1.",
+      "quote": "Applicants applying to the Ph.D. program are required to have a completed application submitted by November 30th if they want to be considered for a competitive fellowship that begins the following fall.",
+      "url": "https://landresources.montana.edu/grad/gradprogams.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to ecology and environmental sciences.",
+      "quote": "",
+      "url": "https://www.montana.edu/ees/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A faculty mentor must agree to be the student's major adviser as a condition of admission.",
+      "quote": "An appropriate faculty mentor must agree to serve as the student's major advisor as a condition of admission.",
+      "url": "https://www.montana.edu/ees/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Stipends generally come from faculty grants; teaching assistantships are available on a limited basis, with no share of funded students stated.",
+      "quote": "Stipend and operations funding are generally from research grants and contracts awarded to faculty members, but graduate teaching assistantships and other forms of support are also available on a limited basis.",
+      "url": "https://www.montana.edu/ees/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Most students enter after a master's; exceptional students may apply directly after a bachelor's.",
+      "quote": "Students may undertake the Ph.D. following completion of a Master’s degree, or exceptional students may apply directly following completion of a suitable Bachelor's degree.",
+      "url": "https://www.montana.edu/ees/"
+    }
+  },
+  "notes": "Cross-college PhD run by the Ecology and Environmental Sciences program with participating departments (Ecology, LRES, Animal & Range Sciences, Plant Sciences, Earth Sciences, Microbiology). The Ph.D. is also listed as a biology program on the official list. The deadline comes from the LRES graduate page.",
+  "name": "Ph.D. in Ecology and Environmental Sciences"
+}

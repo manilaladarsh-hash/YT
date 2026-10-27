@@ -1,0 +1,52 @@
+{
+  "id": "montana--biomed",
+  "university": "montana",
+  "field": "biomed",
+  "also_fields": [
+    "biology"
+  ],
+  "department": "Molecular Biosciences Program",
+  "program_page": "https://mbprogram.montana.edu/index.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The next application deadline is December 15 for the following Fall.",
+      "quote": "Next Application Deadline: December 15th for the following Fall.",
+      "url": "https://mbprogram.montana.edu/index.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to biomedical sciences.",
+      "quote": "",
+      "url": "https://mbprogram.montana.edu/index.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students enter the rotation program and choose an adviser by the end of the first year.",
+      "quote": "The MBS Program is a competitive research opportunity that offers a stipend for the first year of study while students are exploring different research disciplines and seeking an appropriate advisor.",
+      "url": "https://mbprogram.montana.edu/index.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "The MBS Program is a competitive first-year stipend plus tuition waivers for five years; advisers fund later years.",
+      "quote": "The MBS Program is a competitive research opportunity that offers a stipend for the first year of study while students are exploring different research disciplines and seeking an appropriate advisor.",
+      "url": "https://mbprogram.montana.edu/index.html",
+      "also": [
+        {
+          "quote": "In addition to the stipend, the MBS Program offers tuition waivers for five years of graduate school",
+          "url": "https://mbprogram.montana.edu/index.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's or a master's is recommended, with a solid base of science courses.",
+      "quote": "It is recommended that applicants for the Ph.D. program have a Bachelor’s or Master’s degree with a solid foundation of science courses.",
+      "url": "https://mbprogram.montana.edu/index.html"
+    }
+  },
+  "notes": "A rotation-based umbrella PhD: students join a department after the rotation year. Fields are listed under biomedical sciences with biology as also_fields.",
+  "name": "Molecular Biosciences (MBS) Program, Ph.D."
+}

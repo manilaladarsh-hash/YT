@@ -1,0 +1,63 @@
+{
+  "id": "montana--physics",
+  "university": "montana",
+  "field": "physics",
+  "also_fields": [
+    "astronomy"
+  ],
+  "department": "Department of Physics",
+  "program_page": "https://physics.montana.edu/grad/sidenavinfo/gradapp.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-05",
+      "value": "Priority deadline is January 5 for full consideration; notification April 15, closing May 1. Later applications are considered on space available.",
+      "quote": "Priority deadline for your application to be fully considered: January 5th",
+      "url": "https://physics.montana.edu/grad/sidenavinfo/gradapp.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "Neither the subject nor the general GRE is required, and GRE scores are not considered.",
+      "quote": "Note: the subject and general GRE scores are not required for applications to our graduate program",
+      "url": "https://physics.montana.edu/grad/sidenavinfo/gradapp.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants list faculty of interest, and first-year students are expected to meet research group leaders; admission does not guarantee a particular adviser.",
+      "quote": "we expect first year students to meet with the leaders of the research groups that they are interested in joining",
+      "url": "https://www.physics.montana.edu/grad/grad_faq.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most students receive a teaching assistantship with a stipend and tuition waiver; the FAQ says the vast majority are supported by an assistantship.",
+      "quote": "Most students receive a teaching assistantship (TA) contingent on being admitted to our program.",
+      "url": "https://physics.montana.edu/grad/sidenavinfo/gradapp.html",
+      "also": [
+        {
+          "quote": "the vast majority of our graduate students are supported through a graduate research assistantship (GRA) or a graduate teaching assistantship (GTA)",
+          "url": "https://www.physics.montana.edu/grad/grad_faq.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "New graduates are accepted; the admission list asks for a bachelor's transcript and no master's degree is listed.",
+      "quote": "New graduates are accepted for Fall term only.",
+      "url": "https://physics.montana.edu/grad/sidenavinfo/gradapp.html"
+    },
+    "toefl_min": {
+      "code": "4.2 (new scale)",
+      "value": "The department requires an overall TOEFL of 4.2 (new 1-6 scale) with a speaking score of 20.",
+      "quote": "For TOEFL, the overall score must be 4.2 or higher with a speaking score of 20 or higher.",
+      "url": "https://physics.montana.edu/grad/sidenavinfo/gradapp.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department requires an overall IELTS of 6.5.",
+      "quote": "For IELTS, the overall and speaking scores must be 6.5 or higher.",
+      "url": "https://physics.montana.edu/grad/sidenavinfo/gradapp.html"
+    }
+  },
+  "notes": "Astrophysics and gravity are research areas of this PhD in Physics, so the astronomy field is listed here; no separate astronomy PhD was found. The department's $70 fee and no-waiver rule match the Graduate School."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "montana--mech",
+  "university": "montana",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Mechanical and Industrial Engineering",
+  "program_page": "https://www.montana.edu/mie/grad/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Priority deadline for funded assistantships is February 1 for Fall, for domestic and international applicants; the regular international deadline is May 1.",
+      "quote": "Priority deadline for domestic and international students wanting to be considered for funded assistantships: Fall Semester: February 1",
+      "url": "https://www.montana.edu/mie/grad/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to mechanical engineering.",
+      "quote": "",
+      "url": "https://www.montana.edu/mie/grad/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department page does not say whether a faculty adviser must agree before admission.",
+      "quote": "",
+      "url": "https://www.montana.edu/mie/grad/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most incoming PhD students are funded by teaching assistantships for at least their first year, then usually by research assistantships.",
+      "quote": "Most of our incoming Ph.D. students are funded with teaching assistantships for at least their first year.",
+      "url": "https://www.montana.edu/mie/grad/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The admission list asks for undergraduate transcripts and a 3.0 undergraduate GPA; no master's is listed.",
+      "quote": "Minimum 3.0 GPA in undergraduate program (based on A=4.0).",
+      "url": "https://www.montana.edu/mie/grad/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department says GRE scores are not required.",
+      "quote": "GRE scores are NOT required, but can be submitted.",
+      "url": "https://www.montana.edu/mie/grad/"
+    }
+  },
+  "notes": "The same department offers a Ph.D. in Engineering, Industrial Engineering Option (IMSE). Its page shows the same admissions list, but no separate IMSE rules were checked. Applied Mechanics is an option of the civil PhD."
+}

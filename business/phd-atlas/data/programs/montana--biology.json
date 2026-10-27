@@ -1,0 +1,44 @@
+{
+  "id": "montana--biology",
+  "university": "montana",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Microbiology and Cell Biology",
+  "program_page": "https://www.montana.edu/mbi/graduates/GradSchoolAppInfo.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "PhD applicants must have all materials in by December 15 for the following fall.",
+      "quote": "PhD applicants, must have all materials submitted by December 15 for consideration for the following fall",
+      "url": "https://www.montana.edu/mbi/graduates/GradSchoolAppInfo.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to biology, and the page does not mention the GRE.",
+      "quote": "",
+      "url": "https://www.montana.edu/mbi/graduates/GradSchoolAppInfo.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants without a faculty adviser can be admitted as rotation students each fall.",
+      "quote": "For those who do not secure a faculty advisor prior to applying for the PhD program, a few rotation students are accepted each fall.",
+      "url": "https://www.montana.edu/mbi/graduates/GradSchoolAppInfo.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The department says all PhD students receive funding, with rotations funded by the department and then by advisers.",
+      "quote": "All PhD students receive funding, although exact amount and terms are unique to each student.",
+      "url": "https://www.montana.edu/mbi/graduates/GradSchoolAppInfo.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's is enough; a bachelor's outside biology, chemistry, physics, applied math or psychology is accepted with extra courses.",
+      "quote": "A bachelor's degree in an area of Biology, Chemistry, Physics, Applied Math or Psychology is recommended.",
+      "url": "https://www.montana.edu/mbi/graduates/GradSchoolAppInfo.html"
+    }
+  },
+  "notes": "The page lists PhD in Microbiology & Immunology and PhD in Biological Sciences from this department. A PhD/MS in Neuroscience is listed as not accepting applications, so no neuroscience record. Plant Genetics, Plant Pathology and Fish & Wildlife Biology PhDs were not researched.",
+  "name": "Ph.D. in Biological Sciences and Ph.D. in Microbiology & Immunology"
+}
