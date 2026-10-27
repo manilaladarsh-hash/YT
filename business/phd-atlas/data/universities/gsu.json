@@ -1,0 +1,47 @@
+{
+  "id": "gsu",
+  "institution": "Georgia State University",
+  "country": "USA",
+  "region": "Georgia",
+  "grad_page": "https://graduate.gsu.edu/future/admissions/",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The graduate application fee is $50 and is non-refundable.",
+      "quote": "To submit your application, please pay the non-refundable application fee by the application deadline. | Graduate Programs (including non-degree and transient status) ($50)",
+      "url": "https://graduate.gsu.edu/future/admissions/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Application fee waivers go only to applicants in named diversity programs, such as MARC, IMSD and LSAMP.",
+      "quote": "The Graduate School at Georgia State University provides application fee waivers for applicants who have participated in a range of programs designed to diversify graduate programs",
+      "url": "https://graduate.gsu.edu/future/admissions/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school leaves GRE requirements to each program, so check the program record.",
+      "quote": "Testing requirements vary by graduate program. Applicants should contact the graduate program they are interested in to obtain specific admission requirements",
+      "url": "https://graduate.gsu.edu/future/admissions/"
+    },
+    "toefl_min": {
+      "code": "69",
+      "value": "The TOEFL iBT minimum for admission is 69 on the 0-120 scale (4 on the new 2026 scale).",
+      "quote": "Current TOEFL iBT score (includes Computer-Based, Home Edition, My Best, and Internet-Based editions). | Minimum score for admission: 69 (or 4 on the 2026 scale)",
+      "url": "https://graduate.gsu.edu/future/admissions/"
+    },
+    "ielts_min": {
+      "code": "6",
+      "value": "The IELTS Academic minimum for admission is an overall band of 6; the graduate school recommends 6.5.",
+      "quote": "Current IELTS Academic Score (includes IELTS Online and One Skill Retake). | Minimum score for admission: 6",
+      "url": "https://graduate.gsu.edu/future/admissions/"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "An Indian degree qualifies outright if English is the institution's sole language of instruction; India is not on the exemption list.",
+      "quote": "Proof of English proficiency can be demonstrated through one of the following: | Baccalaureate or graduate degree earned outside the U.S. (from an accredited institution) where English is the institution's sole language of instruction",
+      "url": "https://graduate.gsu.edu/future/admissions/"
+    }
+  },
+  "notes": "Checked the graduate admissions page (Steps 4a-4f, English-Proficiency Exemption List) and the department pages for physics and astronomy, mathematics and statistics, chemistry, computer science, biology, neuroscience and the Institute for Biomedical Sciences. The gsu.edu doctorate filter loaded only its first page (alphabetical through Doctor of Nursing Practice), and the CAS program list was partial, so the no-PhD fields (engineering, earth, environment, materials) rest on targeted searches, not a full catalog check."
+}

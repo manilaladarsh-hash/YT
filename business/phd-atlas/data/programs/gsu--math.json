@@ -1,0 +1,52 @@
+{
+  "id": "gsu--math",
+  "university": "gsu",
+  "field": "math",
+  "also_fields": [
+    "statistics",
+    "datasci"
+  ],
+  "department": "Department of Mathematics and Statistics",
+  "program_page": "https://cas.gsu.edu/program/mathematics-and-statistics-phd/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Apply by March 1, 2027 to be considered for fall assistantships; international fall applications close April 15, 2027.",
+      "quote": "to be considered for graduate assistantships for the fall semester, applicants must complete the application process in the Office of Graduate Services in time for the department to receive it by March 1",
+      "url": "https://cas.gsu.edu/program/mathematics-and-statistics-phd/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "International Applicants | Fall Semester – April 15",
+          "url": "https://cas.gsu.edu/program/mathematics-and-statistics-phd/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The admissions requirements list names no GRE test, so no subject GRE rule is stated.",
+      "quote": "",
+      "url": "https://cas.gsu.edu/program/mathematics-and-statistics-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a faculty agreement is needed before admission.",
+      "quote": "",
+      "url": "https://cas.gsu.edu/program/mathematics-and-statistics-phd/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "The department says the vast majority of its Ph.D. students are fully supported by assistantships.",
+      "quote": "The vast majority of our Ph.D. students are fully supported by these assistantships",
+      "url": "https://mathstat.gsu.edu/financial-support/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page lists transcripts and a statement of purpose but does not say whether a bachelor's alone is enough.",
+      "quote": "",
+      "url": "https://cas.gsu.edu/program/mathematics-and-statistics-phd/"
+    }
+  },
+  "notes": "One Ph.D. covers mathematics, statistics and the Machine Learning and Data Science concentration, so those fields are listed in also_fields."
+}
