@@ -1,0 +1,68 @@
+{
+  "id": "memphis--bme",
+  "university": "memphis",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Joint Graduate Program in Biomedical Engineering (UofM and UTHSC)",
+  "program_page": "https://www.memphis.edu/bme/future/graduate-students.php",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-15",
+      "value": "Fall applications are due May 15.",
+      "quote": "Deadlines for submitting applications for Fall semester admissions is May 15",
+      "url": "https://www.memphis.edu/bme/future/graduate-students.php",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page names no subject test for biomedical engineering.",
+      "quote": "",
+      "url": "https://www.memphis.edu/bme/future/graduate-students.php"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to contact faculty on both campuses; admitted students are then aligned with an advisor.",
+      "quote": "Applicants are encouraged to contact faculty on both campuses to learn about areas of research",
+      "url": "https://www.memphis.edu/bme/future/graduate-students.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The fetched page does not state funding for admitted PhD students.",
+      "quote": "",
+      "url": "https://www.memphis.edu/bme/future/graduate-students.php"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The fetched page does not state the degree prerequisite.",
+      "quote": "",
+      "url": "https://www.memphis.edu/bme/future/graduate-students.php"
+    },
+    "app_fee": {
+      "code": "Not stated",
+      "value": "Fall applications go through the UTHSC application portal, which sets its own fee; the fetched page gives no amount.",
+      "quote": "Applicants for Fall semester admission to the Joint Graduate Program must apply via the application portal hosted on UTHSC website",
+      "url": "https://www.memphis.edu/bme/future/graduate-students.php"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "The UTHSC portal sets its own rules; no waiver is stated on the fetched page.",
+      "quote": "Applicants for Fall semester admission to the Joint Graduate Program must apply via the application portal hosted on UTHSC website",
+      "url": "https://www.memphis.edu/bme/future/graduate-students.php"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The fetched page does not mention the GRE; the UTHSC-run application sets its own rules.",
+      "quote": "",
+      "url": "https://www.memphis.edu/bme/future/graduate-students.php"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "English test scores may be waived case by case for international applicants.",
+      "quote": "For international applicants: official TOEFL/IELTS/PTE or Duolingo test scores for English language proficiency, may be waived on a case-by-case basis",
+      "url": "https://www.memphis.edu/bme/future/graduate-students.php"
+    }
+  },
+  "notes": "Joint program with UTHSC; admission is to the joint program regardless of campus. The Graduate Catalog (catalog.memphis.edu) for the MS and PhD requirements returned HTTP 502. The UTHSC application fee and GRE rule are unknown, so those university values are overridden with Not stated.",
+  "name": "Biomedical Engineering (PhD), joint with UTHSC"
+}

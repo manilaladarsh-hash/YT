@@ -1,0 +1,47 @@
+{
+  "id": "memphis",
+  "institution": "University of Memphis",
+  "country": "USA",
+  "region": "Tennessee",
+  "grad_page": "https://www.memphis.edu/graduateadmissions/future/admission-requirements.php",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "The graduate application fee is $60 for international applicants.",
+      "quote": "Application fees for initial admission are $35 application fee for domestic students and $60 for international students",
+      "url": "https://www.memphis.edu/graduateadmissions/future/admproc.php"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No general international application-fee waiver is stated; the FAQ waives the fee only for applicants who already paid it for another program.",
+      "quote": "our office will waive it for you",
+      "url": "https://www.memphis.edu/graduateadmissions/future/faq.php"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Each program sets its own GRE rule; the Graduate School does not set one for all applicants.",
+      "quote": "Some programs require standardized tests such as the GRE or GMAT. Please check with your program of interest",
+      "url": "https://www.memphis.edu/graduateadmissions/future/faq.php"
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "TOEFL iBT minimum is 4 on the new scale for tests taken January 2026 or later.",
+      "quote": "4 on internet-based test taken January 2026 or later",
+      "url": "https://www.memphis.edu/graduateadmissions/future/admission-requirements.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic minimum is 6.5 overall.",
+      "quote": "IELTS (Academic) 6.5 overall Submit scores electronically through IELTS",
+      "url": "https://www.memphis.edu/graduateadmissions/future/admission-requirements.php"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the exempt-country list, so Indian applicants need an English test score even with an English-medium degree.",
+      "quote": "If you are a citizen of one of the countries below or you have earned, or are in the process of earning, a four year bachelor's degree or master's degree from an accredited institution in one of the countries below, this will serve as proof of language proficiency",
+      "url": "https://www.memphis.edu/graduateadmissions/future/admission-requirements.php"
+    }
+  },
+  "notes": "Sources: the Graduate School admission requirements, procedures, FAQ and international timeframe pages, and the Graduate School programs list. The Graduate Catalog (catalog.memphis.edu) returned HTTP 502 and was not used. The grad school sets no GRE rule for all programs, and no international fee waiver appears on the fetched pages."
+}

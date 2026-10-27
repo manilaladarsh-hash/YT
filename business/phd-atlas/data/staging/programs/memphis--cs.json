@@ -1,0 +1,74 @@
+{
+  "id": "memphis--cs",
+  "university": "memphis",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.memphis.edu/cs/future_students/graduate.php",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-01",
+      "value": "International applicants who are first-time F-1 visa holders outside the US must apply by May 1 for Fall; domestic and in-US applicants by July 1; Spring by December 1.",
+      "quote": "International (not currently in U.S., first-time F1 visa holders) December 1 May 1",
+      "url": "https://www.memphis.edu/cs/future_students/graduate.php",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Domestic December 1 July 1",
+          "url": "https://www.memphis.edu/cs/future_students/graduate.php"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Minimum GRE scores are 143 verbal, 153 quantitative and 3.0 analytical writing; University of Memphis CS degree holders can ask for a waiver.",
+      "quote": "143 on Verbal Reasoning | 153 on Quantitative Reasoning | 3.0 on Analytical Writing",
+      "url": "https://www.memphis.edu/cs/future_students/graduate.php",
+      "also": [
+        {
+          "quote": "GRE Scores: The following minimum scores are required",
+          "url": "https://www.memphis.edu/cs/future_students/graduate.php"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to computer science on this page.",
+      "quote": "",
+      "url": "https://www.memphis.edu/cs/future_students/graduate.php"
+    },
+    "toefl_min": {
+      "code": "87",
+      "value": "The department requires at least 87 on the TOEFL for applicants from countries where English is not the primary language; this is higher than the Graduate School rule.",
+      "quote": "A score of at least 87 on TOEFL, 6.5 on IELTS, 59 on PTE, or 110 on Duolingo is required",
+      "url": "https://www.memphis.edu/cs/future_students/graduate.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department requires at least 6.5 on the IELTS for applicants from non-English-primary countries.",
+      "quote": "A score of at least 87 on TOEFL, 6.5 on IELTS, 59 on PTE, or 110 on Duolingo is required",
+      "url": "https://www.memphis.edu/cs/future_students/graduate.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page asks for letters from prior teachers or supervisors but does not say a faculty member must agree before admission.",
+      "quote": "",
+      "url": "https://www.memphis.edu/cs/future_students/graduate.php"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most doctoral students receive university funding.",
+      "quote": "Most of our doctoral students receive funding from the university.",
+      "url": "https://www.memphis.edu/cs/future_students/graduate.php"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The PhD requires an undergraduate degree in an appropriate discipline with a minimum GPA of 3.0.",
+      "quote": "Undergraduate GPA: An undergraduate degree in an appropriate discipline with a minimum GPA of 3.0 (on a 4.0 scale) or equivalent preparation",
+      "url": "https://www.memphis.edu/cs/future_students/graduate.php"
+    }
+  },
+  "notes": "The page lists 46 PhD students as of Fall 2025. The TOEFL and IELTS minimums are the department's own rule and differ from the Graduate School's. No data science or AI PhD track appears on this page.",
+  "name": "Computer Science (PhD)"
+}

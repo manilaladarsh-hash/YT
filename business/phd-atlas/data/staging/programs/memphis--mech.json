@@ -1,0 +1,64 @@
+{
+  "id": "memphis--mech",
+  "university": "memphis",
+  "field": "mech",
+  "also_fields": [
+    "ece",
+    "civil"
+  ],
+  "department": "Herff College of Engineering",
+  "program_page": "https://www.memphis.edu/ce/future-students/phd.php",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No PhD deadline is stated on the fetched pages.",
+      "quote": "",
+      "url": "https://www.memphis.edu/ce/future-students/phd.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Herff pages name no subject test for engineering.",
+      "quote": "",
+      "url": "https://www.memphis.edu/ce/future-students/phd.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The fetched pages do not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.memphis.edu/herff/departments/grad-requirements.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The fetched pages do not state PhD funding.",
+      "quote": "",
+      "url": "https://www.memphis.edu/herff/departments/grad-requirements.php"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants are usually considered after a master's degree; highly qualified applicants can be admitted after a bachelor's.",
+      "quote": "In most cases, applicants will be considered for admission after completion of a master’s degree",
+      "url": "https://www.memphis.edu/herff/departments/grad-requirements.php"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Minimum GRE scores are Verbal 146, Quantitative 156 and Analytical Writing 3.0.",
+      "quote": "The following minimum GRE scores are required:",
+      "url": "https://www.memphis.edu/ce/future-students/phd.php"
+    },
+    "toefl_min": {
+      "code": "85",
+      "value": "Applicants whose native language is not English must have at least TOEFL 85 (department rule).",
+      "quote": "Applicants whose native language is other than English must meet one of the following minimum requirements: TOEFL = 85, IELTS = 6.5, Duolingo = 110, PTE = 57",
+      "url": "https://www.memphis.edu/ce/future-students/phd.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Applicants whose native language is not English must have at least IELTS 6.5 (department rule).",
+      "quote": "Applicants whose native language is other than English must meet one of the following minimum requirements: TOEFL = 85, IELTS = 6.5, Duolingo = 110, PTE = 57",
+      "url": "https://www.memphis.edu/ce/future-students/phd.php"
+    }
+  },
+  "notes": "One Ph.D. in Engineering with civil, computer, electrical and mechanical concentrations, saved once under mech with ece and civil in also_fields. The Herff admission page states uniform criteria for all graduate programs. The Graduate School and the Herff rules differ on GRE and TOEFL, so the department values are used.",
+  "name": "Engineering (PhD), civil, computer, electrical and mechanical concentrations"
+}

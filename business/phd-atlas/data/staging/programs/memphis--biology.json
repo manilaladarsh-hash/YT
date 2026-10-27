@@ -1,0 +1,44 @@
+{
+  "id": "memphis--biology",
+  "university": "memphis",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://www.memphis.edu/biology/graduate/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Apply by February 1 to be considered for a Graduate Teaching Assistantship; later Fall applications are reviewed toward the end of the spring semester.",
+      "quote": "Applicants applying for the Fall semester and wishing to be considered for a Graduate Teaching Assistantship (GTA) must apply no later than February 1",
+      "url": "https://www.memphis.edu/biology/graduate/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is mentioned on the department page.",
+      "quote": "",
+      "url": "https://www.memphis.edu/biology/graduate/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must first identify a prospective mentor by contacting faculty whose research matches theirs.",
+      "quote": "In order to be considered for admission in the Department of Biological Sciences Graduate Program, applicants must have identified a prospective mentor by contacting faculties whose research interests match theirs",
+      "url": "https://www.memphis.edu/biology/graduate/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching assistantships are awarded competitively and depend on available positions.",
+      "quote": "GTA are awarded on a competitive basis and the number of GTAs awarded depends on the number of GTA positions available at the time",
+      "url": "https://www.memphis.edu/biology/graduate/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The department page does not state the degree prerequisite; the Graduate Handbook was not fetched.",
+      "quote": "",
+      "url": "https://www.memphis.edu/biology/graduate/"
+    }
+  },
+  "notes": "Department page used; its Graduate Handbook and the Graduate Catalog PhD entry (catalog.memphis.edu, HTTP 502) were not fetched, so the entry route and GRE policy are Not stated.",
+  "name": "Biological Sciences (PhD)"
+}

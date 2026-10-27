@@ -1,0 +1,59 @@
+{
+  "id": "olemiss",
+  "institution": "University of Mississippi",
+  "country": "USA",
+  "region": "Mississippi",
+  "grad_page": "https://olemiss.edu/admissions/graduate-admissions/application-guidelines/",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "A $60 nonrefundable online application fee is required with the graduate application.",
+      "quote": "A $60 nonrefundable online application fee",
+      "url": "https://olemiss.edu/admissions/graduate-admissions/application-guidelines/",
+      "also": [
+        {
+          "quote": "Pay the application fee ($60).",
+          "url": "https://olemiss.edu/chemistry/graduateprograms/"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Only McNair Scholars are named as exempt from the $60 fee; no general waiver is stated.",
+      "quote": "McNair Scholars do not have to pay the application fee per Graduate Student policy",
+      "url": "https://olemiss.edu/chemistry/graduateprograms/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE requirements are set by each department; see the program records.",
+      "quote": "Required tests vary by Department",
+      "url": "https://olemiss.edu/admissions/graduate-admissions/application-guidelines/"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "For tests taken after January 21, 2026, the TOEFL iBT minimum is 4.5 with no section below 4; earlier tests used 79.",
+      "quote": "Test taken after Jan. 21, 2026: 4.5 with no section score (i.e. sub-score) lower than 4",
+      "url": "https://olemiss.edu/global/international-students-oge/international-student-admissions/english-proficiency-requirements/",
+      "also": [
+        {
+          "quote": "Test taken before Jan. 21, 2026: 79 with no iBT subscore lower than 19",
+          "url": "https://olemiss.edu/global/international-students-oge/international-student-admissions/english-proficiency-requirements/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "The IELTS minimum is 6.0, the first column of the English test table.",
+      "quote": "IELTS 6.0 5.5 5.0 4.5 and below",
+      "url": "https://olemiss.edu/global/international-students-oge/international-student-admissions/english-proficiency-requirements/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the graduate exempt-country list, so Indian applicants need a test score.",
+      "quote": "The countries listed below are exempt from the English language test requirement",
+      "url": "https://olemiss.edu/global/international-students-oge/international-student-admissions/english-proficiency-requirements/"
+    }
+  },
+  "notes": "The Graduate School's doctoral page and graduate deadlines page (gradschool.olemiss.edu) returned 502 from the proxy, so the official doctoral list was not reachable. Program coverage comes from department and olemiss.edu program pages. The graduate catalog (catalog.olemiss.edu) returned 404. The $60 fee and fee waiver come from the Admissions and chemistry pages, not the Graduate School."
+}

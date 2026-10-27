@@ -1,0 +1,49 @@
+{
+  "id": "olemiss--physics",
+  "university": "olemiss",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics and Astronomy",
+  "program_page": "https://olemiss.edu/physics/graduateprograms/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall applications are due January 15; spring applications are due September 15.",
+      "quote": "APPLICATION DEADLINE: January 15 (for fall entry) or September 15 (for spring entry)",
+      "url": "https://olemiss.edu/programs/libarts/phd-in-physics/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The department requires the GRE General Test; the Physics Subject Test is optional.",
+      "quote": "GRE scores (General Test required, Physics Subject Test optional)",
+      "url": "https://olemiss.edu/physics/graduateprograms/"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The GRE Physics Subject Test is optional and can be sent if available.",
+      "quote": "It is not required, but if one is available it can be sent as part of your application package",
+      "url": "https://olemiss.edu/physics/graduateprograms/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department pages do not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://olemiss.edu/physics/graduateprograms/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Virtually all incoming students get a teaching assistantship for their first year or two.",
+      "quote": "Virtually all incoming students are offered a teaching assistantship for the first year or two",
+      "url": "https://olemiss.edu/physics/graduateprograms/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages set a GPA minimum but do not say whether a master's degree is needed.",
+      "quote": "",
+      "url": "https://olemiss.edu/physics/graduateprograms/"
+    }
+  },
+  "notes": "Ph.D. in Physics only; the department page lists no separate astronomy doctorate."
+}

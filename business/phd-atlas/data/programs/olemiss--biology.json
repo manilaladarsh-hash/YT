@@ -1,0 +1,61 @@
+{
+  "id": "olemiss--biology",
+  "university": "olemiss",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://olemiss.edu/programs/libarts/phd-in-biological-science/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Materials for regular fall admission must be received by January 15.",
+      "quote": "For regular Fall admission, application materials must be received by January 15th",
+      "url": "https://olemiss.edu/biology/graduateprograms/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "APPLICATION DEADLINE: January 15",
+          "url": "https://olemiss.edu/programs/libarts/phd-in-biological-science/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Department of Biology does not require GRE scores.",
+      "quote": "The Department of Biology does not require GRE scores",
+      "url": "https://olemiss.edu/biology/graduateprograms/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department does not require GRE scores, so no subject test is needed.",
+      "quote": "The Department of Biology does not require GRE scores",
+      "url": "https://olemiss.edu/biology/graduateprograms/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must name a faculty advisor who has agreed to take them; rotation applicants need approval from at least three faculty.",
+      "quote": "Applicants identify in the statement of research interests the name of the faculty advisor who has agreed to accept them in the lab",
+      "url": "https://olemiss.edu/programs/libarts/phd-in-biological-science/",
+      "also": [
+        {
+          "quote": "Applicants to the rotating program contact potential faculty before applying and gain approval from at least three faculty for their rotation",
+          "url": "https://olemiss.edu/programs/libarts/phd-in-biological-science/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD applicants are admitted only if there is evidence of financial support, usually a departmental assistantship.",
+      "quote": "Applicants are only admitted to the PhD and thesis Master’s programs if there is evidence of financial support for their graduate studies",
+      "url": "https://olemiss.edu/biology/graduateprograms/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages do not say whether a master's degree is needed.",
+      "quote": "",
+      "url": "https://olemiss.edu/biology/graduateprograms/"
+    }
+  },
+  "notes": "Two entry routes: a named Major Advisor, or a three-lab rotation with no initial advisor."
+}

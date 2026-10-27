@@ -1,0 +1,68 @@
+{
+  "id": "memphis--statistics",
+  "university": "memphis",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "School of Public Health",
+  "program_page": "https://www.memphis.edu/publichealth//apply/epiphd.php",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Priority deadline for PhD applications is February 1.",
+      "quote": "PhD Programs Priority Deadline February 1",
+      "url": "https://www.memphis.edu/publichealth/pdfs/2026-pospective-student-sophas-application-guide.pdf",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The SOPHAS guide does not name a subject test for this PhD.",
+      "quote": "",
+      "url": "https://www.memphis.edu/publichealth/pdfs/2026-pospective-student-sophas-application-guide.pdf"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The fetched pages do not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.memphis.edu/publichealth//apply/epiphd.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The fetched pages do not state PhD funding.",
+      "quote": "",
+      "url": "https://www.memphis.edu/publichealth//apply/epiphd.php"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The fetched pages do not state the degree prerequisite.",
+      "quote": "",
+      "url": "https://www.memphis.edu/publichealth//apply/epiphd.php"
+    },
+    "app_fee": {
+      "code": "150 USD",
+      "value": "Applications go through SOPHAS, which charges $150 for the first program applied to; the School adds no supplemental fee.",
+      "quote": "SOPHAS charges $150 for the first program you apply to",
+      "url": "https://www.memphis.edu/publichealth/pdfs/2026-pospective-student-sophas-application-guide.pdf"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The School cannot waive the fee, but applicants can ask SOPHAS for financial, service-based or international-based waivers.",
+      "quote": "The School of Public Health is not able to offer application fee waivers, but applicants are able to request fee waivers directly from SOPHAS",
+      "url": "https://www.memphis.edu/publichealth/pdfs/2026-pospective-student-sophas-application-guide.pdf"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE is recommended but not required; MCAT, DAT, GMAT or LSAT scores can be substituted.",
+      "quote": "The GRE is recommended but not required",
+      "url": "https://www.memphis.edu/publichealth/pdfs/2026-pospective-student-sophas-application-guide.pdf"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The SOPHAS guide asks for 80 on the internet-based TOEFL, which differs from the Graduate School's new-scale minimum.",
+      "quote": "80 or higher on the internet-based test",
+      "url": "https://www.memphis.edu/publichealth/pdfs/2026-pospective-student-sophas-application-guide.pdf"
+    }
+  },
+  "notes": "Biostatistics concentration of the Epidemiology and Biostatistics PhD. Applications go through SOPHAS, not the Graduate School portal, so the SPH values override the university record. The SPH epidemiology page still shows COVID-era GRE and TOEFL text; the 2026 SOPHAS guide was used for current rules. Epidemiology is not a field in the Atlas.",
+  "name": "Epidemiology and Biostatistics (PhD), Biostatistics"
+}

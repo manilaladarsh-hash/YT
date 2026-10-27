@@ -1,0 +1,62 @@
+{
+  "id": "memphis--chemistry",
+  "university": "memphis",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.memphis.edu/chem/programs/phd.php",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Applications received before February 1 get full consideration for Fall admission; later ones may not be considered if the class is full.",
+      "quote": "For Fall admits, applications received before February 1st will be given full consideration",
+      "url": "https://www.memphis.edu/chem/programs/grad/faq.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department does not require the GRE.",
+      "quote": "We do not require the GRE.",
+      "url": "https://www.memphis.edu/chem/programs/grad/faq.php"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department does not require the GRE, so no subject test is needed.",
+      "quote": "GRE examination is not required",
+      "url": "https://www.memphis.edu/chem/about/apply.php"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The department says it cannot currently offer an application fee waiver.",
+      "quote": "No. We cannot currently offer a fee waiver.",
+      "url": "https://www.memphis.edu/chem/programs/grad/faq.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The fetched pages do not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.memphis.edu/chem/about/apply.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantships include a stipend and tuition, but are competitive and not guaranteed to all admitted students; once awarded, funding is guaranteed for five years.",
+      "quote": "Competition for assistantships is vigorous, and there is no guarantee that all admitted students will receive financial assistance",
+      "url": "https://www.memphis.edu/chem/about/apply.php",
+      "also": [
+        {
+          "quote": "Once an assistantship has been awarded, funding is guaranteed for five years so long as you are making satisfactory progress towards your degree",
+          "url": "https://www.memphis.edu/chem/about/apply.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The department requires a satisfactory record of undergraduate coursework in chemistry; no master's is listed.",
+      "quote": "Satisfactory record of undergraduate coursework in chemistry",
+      "url": "https://www.memphis.edu/chem/about/apply.php"
+    }
+  },
+  "notes": "Priority deadline is February 1 for Fall; the Spring priority deadline is July 1.",
+  "name": "Chemistry (PhD)"
+}

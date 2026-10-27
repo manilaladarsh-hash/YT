@@ -1,0 +1,55 @@
+{
+  "id": "olemiss--math",
+  "university": "olemiss",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://olemiss.edu/programs/libarts/phd-in-mathematics/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "The Ph.D. application deadline is February 1; an early application is preferred for assistantships.",
+      "quote": "APPLICATION DEADLINE: February 1",
+      "url": "https://olemiss.edu/programs/libarts/phd-in-mathematics/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "We begin to offer assistantships in early February, so an early application is desirable",
+          "url": "https://olemiss.edu/math/graduateprograms/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Official GRE scores are on the list of items applicants must submit.",
+      "quote": "Applicants must submit online to the Graduate School all of the following | Official GRE scores",
+      "url": "https://olemiss.edu/math/graduateprograms/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages do not mention a GRE Mathematics subject test.",
+      "quote": "",
+      "url": "https://olemiss.edu/math/graduateprograms/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages do not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://olemiss.edu/programs/libarts/phd-in-mathematics/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most graduate students hold teaching assistantships.",
+      "quote": "Most of our graduate students are supported with teaching assistantships",
+      "url": "https://olemiss.edu/programs/libarts/phd-in-mathematics/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Admitted Ph.D. students without a master's in mathematics are encouraged, not required, to earn one during the program.",
+      "quote": "Students accepted to the Ph.D. program who do not possess a master's degree in mathematics are encouraged to obtain the master's degree while in the doctoral program",
+      "url": "https://olemiss.edu/programs/libarts/phd-in-mathematics/"
+    }
+  },
+  "notes": "The page says international applicants must submit English scores as per University policy; no department-specific test rule is stated."
+}
