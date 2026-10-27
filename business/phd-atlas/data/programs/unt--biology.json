@@ -1,0 +1,52 @@
+{
+  "id": "unt--biology",
+  "university": "unt",
+  "field": "biology",
+  "also_fields": [
+    "biomed"
+  ],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=19632",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Applications are rolling, but for financial support completed applications must reach the department by January 15 for fall.",
+      "quote": "for financial support purposes completed applications must be received in the department on or before the following dates | Fall term/semester January 15",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=19632",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Applicants must submit GRE scores in the verbal, quantitative and analytical writing sections.",
+      "quote": "Submission of GRE scores (verbal, quantitative, and analytical writing sections) is required",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=19632"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The subject GRE is for diagnostic purposes and is not required for admission.",
+      "quote": "The appropriate GRE subject test is also required for diagnostic purposes, but not for admission",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=19632"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A faculty member must agree to be the applicant's major professor before admission.",
+      "quote": "Agreement by a faculty member to serve as the applicant’s major professor (i.e. advisor) is required for programs in biology, biochemistry and molecular biology",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=19632"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page ties funding to deadlines but does not say most students are funded.",
+      "quote": "",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=19632"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's with 24 life-science hours (12 advanced) is required; a master's is only desirable.",
+      "quote": "Bachelor’s degree with 24 hours, 12 of which are advanced, in a life science or appropriate related science is required for programs in biology, biochemistry and molecular biology | a master’s degree in a life science with a research-based thesis is desirable",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=19632"
+    }
+  },
+  "notes": "One departmental page covers the Biology PhD and the Biochemistry and Molecular Biology PhD, so biomed is listed as also_fields. The page is marked ARCHIVED CATALOG in the 2025-26 catalog. Department pages (biology.unt.edu) returned 502.",
+  "name": "Biology and Biochemistry & Molecular Biology PhD"
+}

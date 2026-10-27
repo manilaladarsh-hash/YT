@@ -1,0 +1,51 @@
+{
+  "id": "unt--environment",
+  "university": "unt",
+  "field": "environment",
+  "also_fields": [
+    "earth"
+  ],
+  "department": "Environmental Science PhD (Department of Biological Sciences)",
+  "program_page": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=19632",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The environmental science program's fall deadline is January 15 for financial support purposes.",
+      "quote": "The environmental science graduate program application deadlines are: | Fall term/semester January 15",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=19632",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE is required for the PhD in the same departmental criteria as biology.",
+      "quote": "Submission of GRE scores (verbal, quantitative, and analytical writing sections) is required",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=19632"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The subject GRE is for diagnostic purposes and is not required for admission.",
+      "quote": "The appropriate GRE subject test is also required for diagnostic purposes, but not for admission",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=19632"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A faculty member must agree to be the applicant's major professor before admission.",
+      "quote": "Agreement by a faculty member to serve as the applicant’s major professor (i.e. advisor) is required for programs in biology, biochemistry and molecular biology, and environmental science",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=19632"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page ties funding to deadlines but does not say most students are funded.",
+      "quote": "",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=19632"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The bachelor's must include specified life-science, chemistry and math courses.",
+      "quote": "For the environmental science program, the bachelor’s degree must include a B or better in at least 6 credit hours of a life science",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=19632"
+    }
+  },
+  "notes": "The environmental science PhD has a Geoscience concentration, so earth is listed as also_fields. Same archived departmental page as the biology record."
+}

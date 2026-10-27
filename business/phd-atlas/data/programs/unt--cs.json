@@ -1,0 +1,49 @@
+{
+  "id": "unt--cs",
+  "university": "unt",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science and Engineering",
+  "program_page": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=17015",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The catalog's CSE table gives a priority deadline of January 15 for fall, with transcripts, GRE and TOEFL scores due by then.",
+      "quote": "must be submitted by the following dates for consideration for the term/ | Priority January 15 September 15",
+      "url": "https://catalog.unt.edu/mime/media/view/36/4024/2025-26_UNT_graduate_catalog.pdf",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The CSE doctoral rules say applicants must have taken the GRE.",
+      "quote": "Have taken the Graduate Record Examination (GRE)",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=17015"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is mentioned for computer science.",
+      "quote": "",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=17015"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The fetched catalog does not state an admission rule for a faculty supervisor.",
+      "quote": "",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=17015"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding rule was on the fetched pages.",
+      "quote": "",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=17015"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants must already have completed a master's in computer science or computer engineering, or another CSE MS.",
+      "quote": "must have completed all of the requirements (or equivalent work) for a master’s degree in either computer science or computer engineering or other CSE department MS degrees",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=17015"
+    }
+  },
+  "notes": "The deadline table sits in the CSE section of the 2025-26 PDF and is not labelled PhD-only. CSE department pages (engineering.unt.edu) returned 502."
+}

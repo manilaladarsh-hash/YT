@@ -1,0 +1,53 @@
+{
+  "id": "unt",
+  "institution": "University of North Texas",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://catalog.unt.edu/mime/media/view/36/4024/2025-26_UNT_graduate_catalog.pdf",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The non-refundable application fee is $75 USD, and the application is not evaluated until it is received.",
+      "quote": "The non-refundable application fee of $75 USD must be received for | the application evaluation to begin",
+      "url": "https://catalog.unt.edu/mime/media/view/36/4024/2025-26_UNT_graduate_catalog.pdf"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application-fee waiver appears in the fetched catalog, so none is recorded.",
+      "quote": "",
+      "url": "https://catalog.unt.edu/mime/media/view/36/4024/2025-26_UNT_graduate_catalog.pdf"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The catalog leaves GRE rules to each program, so the program records carry them.",
+      "quote": "Test requirements are program specific.",
+      "url": "https://catalog.unt.edu/mime/media/view/36/4024/2025-26_UNT_graduate_catalog.pdf"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The 2025-26 catalog sets the TOEFL minimum on the old iBT scale (79), so no number is recorded here; the current minimum was not on a fetched page.",
+      "quote": "The minimum TOEFL score requirement is 79",
+      "url": "https://catalog.unt.edu/mime/media/view/36/4024/2025-26_UNT_graduate_catalog.pdf"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "The 2025-26 catalog sets the IELTS minimum at 6.0 overall.",
+      "quote": "minimum IELTS score is 6.0",
+      "url": "https://catalog.unt.edu/mime/media/view/36/4024/2025-26_UNT_graduate_catalog.pdf",
+      "also": [
+        {
+          "quote": "IELTS 6.0 overall",
+          "url": "https://catalog.unt.edu/mime/media/view/36/4024/2025-26_UNT_graduate_catalog.pdf"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The catalog exempts citizens of listed English-speaking countries and degrees from approved English-speaking countries; India is not named on the fetched pages.",
+      "quote": "Anguilla, Antigua/Barbuda, Australia, Bahamas, Barbados, Belize, Bermuda",
+      "url": "https://catalog.unt.edu/mime/media/view/36/4024/2025-26_UNT_graduate_catalog.pdf"
+    }
+  },
+  "notes": "Source is the 2025-26 UNT Graduate Catalog PDF (fetched). The unt.edu admissions, fee, Toulouse Graduate School program and department pages returned 502 to the fetcher, so the current fee, fee waiver and Fall 2027 English rules could not be checked on them. Catalog TOEFL minimum (79) is an old iBT value and is not saved as a number; a paper-based 550 is also named for some programs. Recheck the Toulouse Graduate School pages before publishing."
+}

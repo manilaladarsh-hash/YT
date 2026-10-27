@@ -1,0 +1,48 @@
+{
+  "id": "unt--ece",
+  "university": "unt",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical Engineering",
+  "program_page": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=17212",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The fetched catalog gives no electrical engineering deadline.",
+      "quote": "",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=17212"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The EE doctoral rules require a competitive GRE score.",
+      "quote": "Competitive score on the Graduate Record Examination (GRE)",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=17212"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is mentioned.",
+      "quote": "",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=17212"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants name prospective major advisors in their statement of purpose, so contacting faculty is expected.",
+      "quote": "faculty member(s) contacted as prospective major advisor",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=17212"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding rule was on the fetched catalog page.",
+      "quote": "",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=17212"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants can enter with a bachelor's (72 credit hours) or a master's (42 credit hours).",
+      "quote": "Required credit hours for students entering with a bachelor’s degree, 72 hours | Required credit hours for students entering with a master’s degree, 42 hours",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=17212"
+    }
+  },
+  "notes": "2025-26 catalog program entry. The admission text also requires a 3.0 GPA (bachelor's) and 3.4 GPA (master's)."
+}
