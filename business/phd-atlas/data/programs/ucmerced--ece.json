@@ -1,0 +1,50 @@
+{
+  "id": "ucmerced--ece",
+  "university": "ucmerced",
+  "field": "ece",
+  "also_fields": [
+    "cs"
+  ],
+  "department": "Electrical Engineering and Computer Science (EECS)",
+  "program_page": "https://uc-merced.foleon.com/grad-division/eecs/applying",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The application deadline is January 15, 2027.",
+      "quote": "The application deadline is January 15, 2027.",
+      "url": "https://uc-merced.foleon.com/grad-division/eecs/applying"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "PhD applicants do not need to submit GRE scores.",
+      "quote": "Ph.D. applicants do not need to submit GRE scores.",
+      "url": "https://uc-merced.foleon.com/grad-division/eecs/applying"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Electrical Engineering subject GRE is mentioned on the fetched pages.",
+      "quote": "",
+      "url": "https://uc-merced.foleon.com/grad-division/eecs/applying"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No fetched page says whether a faculty agreement is needed before admission.",
+      "quote": "",
+      "url": "https://uc-merced.foleon.com/grad-division/eecs/applying"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No fetched EECS page describes PhD funding.",
+      "quote": "",
+      "url": "https://uc-merced.foleon.com/grad-division/eecs/applying"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The flyer asks only for a baccalaureate degree in a major appropriate to the program; no master's is named.",
+      "quote": "Hold a baccalaureate degree or its equivalent from an accredited institution with a major appropriate to the proposed graduate program.",
+      "url": "https://uc-merced.foleon.com/grad-division/eecs/applying"
+    }
+  },
+  "notes": "EECS flyer (uc-merced.foleon.com). Covers Electrical Engineering and Computer Science, so cs is listed in also_fields. The EECS research page was not fetched."
+}

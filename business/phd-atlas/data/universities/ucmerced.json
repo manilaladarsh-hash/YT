@@ -1,0 +1,47 @@
+{
+  "id": "ucmerced",
+  "institution": "University of California, Merced",
+  "country": "USA",
+  "region": "California",
+  "grad_page": "https://graduatedivision.ucmerced.edu/prospective-students/how-apply/faq",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "155 USD",
+      "value": "Application fee is $155 for international applicants ($135 for domestic applicants).",
+      "quote": "The application fee is $135 for domestic applicants and $155 for international applicants.",
+      "url": "https://uc-merced.foleon.com/grad-division/physics/applying"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Fee waivers are only for U.S. citizens and permanent residents, based on program participation or financial need.",
+      "quote": "Graduate application fee waivers are available for eligible U.S. citizens or permanent residents based on program participation or demonstrated financial need.",
+      "url": "https://uc-merced.foleon.com/grad-division/eecs/applying"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Each program sets its own GRE rule (optional, not required, or not considered); the university-wide rule could not be fetched.",
+      "quote": "",
+      "url": "https://graduatedivision.ucmerced.edu/prospective-students/how-apply/faq"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "Applicants whose schooling was mainly not in English must send TOEFL or IELTS scores, but no fetched page gives a minimum score; the requirements page with the score table returned 403.",
+      "quote": "Provide TOEFL or IELTS test scores (international students only).",
+      "url": "https://uc-merced.foleon.com/grad-division/physics/applying"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "No fetched page gives an overall IELTS band; the requirements page with the score table returned 403.",
+      "quote": "Provide TOEFL or IELTS test scores (international students only).",
+      "url": "https://uc-merced.foleon.com/grad-division/physics/applying"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The fetched flyers require a test for applicants whose schooling was not mainly in English, but name no exemption list and do not mention India or English-medium degrees.",
+      "quote": "All graduate applicants, regardless of citizenship, whose preparatory education was principally in a language other than English, must show evidence of having taken the Test of English as a Foreign Language",
+      "url": "https://uc-merced.foleon.com/grad-division/physics/applying"
+    }
+  },
+  "notes": "Sources are Graduate Division program flyers on uc-merced.foleon.com (fee, fee waiver, TOEFL/IELTS, degree requirements). Blocked (403/502): graduatedivision.ucmerced.edu pages (FAQ, application dates, international applicants, requirements, node/30, node/27391), iss.ucmerced.edu/English, the catalog (catalog.ucmerced.edu, 502), the 2020-21 and 2023-24 Graduate Policies handbooks, and physics.ucmerced.edu. Unfetched search snippets, not saved as values: TOEFL iBT 80 and IELTS 6.5 on the requirements page; a Duolingo option; the India-related exemption wording. The CBC and Physics research-area pages say 'Application fee waivers are available in cases of financial need, upon request' without a citizenship limit; the applying pages restrict waivers to U.S. citizens and permanent residents, so fee_waiver follows the applying pages."
+}
