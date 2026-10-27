@@ -1,0 +1,38 @@
+{
+  "id": "nmsu--biology",
+  "university": "nmsu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://bio.nmsu.edu/students/grads.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Fall applications are due December 15 or March 1; December 15 is the earlier date.",
+      "quote": "Application deadline dates for Fall entrance: December 15, March 1",
+      "url": "https://bio.nmsu.edu/students/grads.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required for domestic or international applicants from Fall 2025.",
+      "quote": "Starting with applications for Fall 2025, the GRE is not required for either domestic or international students",
+      "url": "https://bio.nmsu.edu/students/grads.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A potential faculty advisor must agree to accept the applicant before the file is reviewed.",
+      "quote": "Once at least one potential advisor has agreed to accept the applicant",
+      "url": "https://bio.nmsu.edu/students/2025-Biology-Grad-Admissions.pdf"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Admission needs documented funding (own funds, an advisor's RA or a TA request), so funding is not guaranteed.",
+      "quote": "no student will be accepted without evidence of documented independent financial support",
+      "url": "https://bio.nmsu.edu/students/2025-Biology-Grad-Admissions.pdf"
+    }
+  },
+  "notes": "The 2025 admissions PDF still asks for GRE general scores from applicants without a US degree; the newer grads page says the GRE is not required from Fall 2025, and that page is used for the value.",
+  "name": "Biology (Ph.D.)"
+}

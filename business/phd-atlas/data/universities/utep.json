@@ -1,0 +1,47 @@
+{
+  "id": "utep",
+  "institution": "University of Texas at El Paso",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://www.utep.edu/graduate/future-students/applicant-timelines.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "80 USD",
+      "value": "International applicants pay an $80 application fee; U.S. citizens and permanent residents pay $45.",
+      "quote": "International students are assessed an $80 application fee.",
+      "url": "https://www.utep.edu/graduate/apply-now/apply-now-international.html"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No general fee waiver for international graduate applicants was found on the fetched Graduate School pages.",
+      "quote": "",
+      "url": "https://www.utep.edu/graduate/apply-now/apply-now-international.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Each program sets its own GRE rule; the Graduate School says many programs require it.",
+      "quote": "Many degree programs require the GRE for admission",
+      "url": "https://www.utep.edu/graduate/future-students/applicant-timelines.html"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "The TOEFL iBT minimum for tests taken on or after January 21, 2026 is 4.5; the older 79 iBT minimum is not recorded.",
+      "quote": "Tests taken on or after Jan 21, 2026: Minimum TOEFL IBT score of 4.5",
+      "url": "https://www.utep.edu/graduate/future-students/applicant-timelines.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The IELTS Academic minimum is 6.5 overall band.",
+      "quote": "Minimum required score is 6.5 overall band",
+      "url": "https://www.utep.edu/graduate/future-students/applicant-timelines.html"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The exempt-country list does not name India, and no fetched page says English-medium Indian degrees are accepted.",
+      "quote": "List of English Language Proficiency Exempt Countries",
+      "url": "https://www.utep.edu/graduate/_Files/docs/List of English Language Proficiency Exempt Countries.pdf"
+    }
+  },
+  "notes": "The Graduate School timelines page also lists Duolingo 110 and PTE 53 minimums, which are not schema fields. Deadlines are set by each department or college, so see the program records."
+}

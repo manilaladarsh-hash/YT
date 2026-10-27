@@ -1,0 +1,62 @@
+{
+  "id": "utep--bme",
+  "university": "utep",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Biomedical Engineering",
+  "program_page": "https://www.utep.edu/engineering/mmbme/academic-programs/biomedical-engineering/admission-requirements.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "The College of Engineering table gives February 1 for international Fall applicants and July 1 for domestic and Mexican applicants; the program admits only in Fall.",
+      "quote": "Biomedical Engineering (PHD) Feb 1 (I) July 1 (D & MX)",
+      "url": "https://www.utep.edu/engineering/academic-programs/graduate-programs/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is named.",
+      "quote": "",
+      "url": "https://www.utep.edu/engineering/mmbme/academic-programs/biomedical-engineering/admission-requirements.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The fetched pages do not say a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.utep.edu/engineering/mmbme/academic-programs/biomedical-engineering/admission-requirements.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The fetched pages do not describe PhD funding.",
+      "quote": "",
+      "url": "https://www.utep.edu/engineering/mmbme/academic-programs/biomedical-engineering/admission-requirements.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A BS or MS degree in a related field, preferably engineering, is required.",
+      "quote": "requires a BS or MS degree in a related field preferably in engineering",
+      "url": "https://www.utep.edu/engineering/mmbme/academic-programs/biomedical-engineering/admission-requirements.html"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The College of Engineering lists the GRE as optional; the department says it considers GRE scores for all applicants.",
+      "quote": "GRE Scores (Optional)",
+      "url": "https://www.utep.edu/engineering/academic-programs/graduate-programs/",
+      "also": [
+        {
+          "quote": "GRE Scores will also be considered for all applicants",
+          "url": "https://www.utep.edu/engineering/mmbme/academic-programs/biomedical-engineering/admission-requirements.html"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The department gives only the old 550 paper-based, 213 computer-based and 80 internet-based scores, which are not recorded; the Graduate School's 4.5 (new scale) applies.",
+      "quote": "550 on the paper based test, 213 on the computer based test, and 80 on the internet based test",
+      "url": "https://www.utep.edu/engineering/mmbme/academic-programs/biomedical-engineering/admission-requirements.html"
+    }
+  },
+  "notes": "",
+  "name": "Ph.D. in Biomedical Engineering"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "nmsu--ece",
+  "university": "nmsu",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Klipsch School of Electrical and Computer Engineering",
+  "program_page": "https://ece.nmsu.edu/grad-study/prospective-students.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "The Fall application deadline is March 1.",
+      "quote": "Fall semester application for admission deadline is March 1",
+      "url": "https://ece.nmsu.edu/grad-study/prospective-students.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE scores are not a firm requirement but are expected at stated levels.",
+      "quote": "Although not a firm requirement, a GRE Verbal Reasoning score of 146 (current scale) or better and Quantitative Reasoning score of 155 (current scale) or better are expected.",
+      "url": "https://ece.nmsu.edu/grad-study/prospective-students.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The department gives an old-scale TOEFL iBT 79, which is not recorded; the Graduate School's 4.0 new-scale rule applies.",
+      "quote": "International students must also have either a TOEFL iBT score of 79 or better",
+      "url": "https://ece.nmsu.edu/grad-study/prospective-students.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Admission does not guarantee an assistantship, and only a limited number are awarded.",
+      "quote": "Admission to the Klipsch School graduate program does not guarantee a Teaching Assistantship or a Research Assistantship.",
+      "url": "https://ece.nmsu.edu/grad-study/prospective-students.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Outstanding applicants with a BSEE or MSEE may apply to or enter the PhD.",
+      "quote": "For outstanding students (with a BSEE or MSEE) applying to or entering the Ph.D. program",
+      "url": "https://ece.nmsu.edu/grad-study/teaching-assistants.html"
+    }
+  },
+  "notes": "The department page states a 3.5 GPA for PhD admission. Supervisor rule not stated; RA positions go through the advisor.",
+  "name": "Electrical and Computer Engineering (Ph.D.)"
+}

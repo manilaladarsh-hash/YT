@@ -1,0 +1,74 @@
+{
+  "id": "utep--datasci",
+  "university": "utep",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "Mathematical Sciences",
+  "program_page": "https://www.utep.edu/science/math/academic-programs/graduate/datascience.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Applications are reviewed for admission and assistantships after the February 1 deadline for international and domestic applicants.",
+      "quote": "February 1 for International and domestic applicants",
+      "url": "https://www.utep.edu/science/math/academic-programs/graduate/datascience.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is named for this program.",
+      "quote": "",
+      "url": "https://www.utep.edu/science/math/academic-programs/graduate/datascience.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.utep.edu/science/math/academic-programs/graduate/datascience.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Admission and assistantship funding are decided together by the faculty committee after review; no guaranteed funding is stated.",
+      "quote": "This application packet is reviewed for admission and funding for Teaching Assistantships by the Data Science PhD Program's faculty committee",
+      "url": "https://www.utep.edu/science/math/academic-programs/graduate/datascience.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree or equivalent from a regionally accredited university is considered for admission.",
+      "quote": "Applicants who hold a Bachelor of Science degree or equivalent from any regionally accredited university",
+      "url": "https://catalog.utep.edu/grad/college-of-science/mathematical-sciences/data-science-phd/"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The department requires GRE scores with no exemptions, but sets no minimum score.",
+      "quote": "GRE scores (no exemptions apply)",
+      "url": "https://www.utep.edu/science/math/academic-programs/graduate/datascience.html",
+      "also": [
+        {
+          "quote": "While there is no minimum GRE score requirement, the overall score may be taken into consideration",
+          "url": "https://www.utep.edu/science/math/academic-programs/graduate/ds_faq.html"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The department states only the old 550 paper-based and 79 internet-based scores, which are not recorded; the Graduate School's 4.5 (new scale) applies.",
+      "quote": "minimum score of 79 on the IBT",
+      "url": "https://www.utep.edu/science/math/academic-programs/graduate/datascience.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department states an IELTS minimum of 6.5.",
+      "quote": "minimum score of 6.5 on the IELTS",
+      "url": "https://www.utep.edu/science/math/academic-programs/graduate/datascience.html"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The department says the application fee has no waivers.",
+      "quote": "Application fee (no waivers available)",
+      "url": "https://www.utep.edu/science/math/academic-programs/graduate/datascience.html"
+    }
+  },
+  "notes": "The department says there is no Spring admission.",
+  "name": "Ph.D. in Data Science"
+}

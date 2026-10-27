@@ -1,0 +1,68 @@
+{
+  "id": "utep--civil",
+  "university": "utep",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Civil, Environmental and Construction Engineering",
+  "program_page": "https://www.utep.edu/engineering/civil/academic-programs/doctoral-program-application.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "The College of Engineering table gives March 1 for international Fall applicants and July 1 for domestic applicants.",
+      "quote": "Civil Engineering (PHD) Mar 1 (I) May 1 (MX) July 1 (D)",
+      "url": "https://www.utep.edu/engineering/academic-programs/graduate-programs/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is named.",
+      "quote": "",
+      "url": "https://www.utep.edu/engineering/civil/academic-programs/doctoral-program-application.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants seeking assistantships are told to contact the professor in their area of interest.",
+      "quote": "he/she should contact the professor in the area of interest",
+      "url": "https://www.utep.edu/engineering/civil/academic-programs/doctoral-program-assistantship.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantship awards are normally based on GRE and undergraduate performance, and about 8 to 12 TA positions open each semester.",
+      "quote": "The awards are normally based on the GRE exam and undergraduate performance",
+      "url": "https://www.utep.edu/engineering/civil/academic-programs/doctoral-program-assistantship.html",
+      "also": [
+        {
+          "quote": "normally employs from 8 to 12 teaching assistantship each semester",
+          "url": "https://www.utep.edu/engineering/civil/academic-programs/doctoral-program-assistantship.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The fetched pages do not state a bachelor's or master's entry rule.",
+      "quote": "",
+      "url": "https://www.utep.edu/engineering/civil/academic-programs/doctoral-program-application.html"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The College of Engineering table lists GRE scores as a required document for the Civil PhD.",
+      "quote": "GRE Scores, Statement of Purpose, Two (2) letters of recommendation",
+      "url": "https://www.utep.edu/engineering/academic-programs/graduate-programs/",
+      "also": [
+        {
+          "quote": "your GRE and TOEFL (or IELTS, if applicable)",
+          "url": "https://www.utep.edu/engineering/civil/academic-programs/doctoral-program-application.html"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The assistantship page gives the old 550 paper-based score for TA eligibility, which is not recorded; the Graduate School's 4.5 (new scale) applies.",
+      "quote": "To be eligible for a TA appointment, an international student must have a TOEFL score of at least 550 or equivalent",
+      "url": "https://www.utep.edu/engineering/civil/academic-programs/doctoral-program-assistantship.html"
+    }
+  },
+  "notes": "The doctoral page says the monthly stipend is about $1900 for entering PhD students.",
+  "name": "Ph.D. in Civil Engineering"
+}

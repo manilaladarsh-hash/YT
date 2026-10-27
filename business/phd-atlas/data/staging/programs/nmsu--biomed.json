@@ -1,0 +1,32 @@
+{
+  "id": "nmsu--biomed",
+  "university": "nmsu",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Molecular Biology, College of Arts and Sciences",
+  "program_page": "https://nmsu.edu/degree-programs/graduate/doctoral/molecular-biology.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The fall admission deadline is December 15.",
+      "quote": "December 15 (for fall admission)",
+      "url": "https://nmsu.edu/degree-programs/graduate/doctoral/molecular-biology.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required.",
+      "quote": "No GRE Required",
+      "url": "https://nmsu.edu/degree-programs/graduate/doctoral/molecular-biology.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The PhD is counted as 75 credits beyond a bachelor's degree.",
+      "quote": "requires a minimum of 75 credits beyond a bachelor's degree",
+      "url": "https://nmsu.edu/degree-programs/graduate/doctoral/molecular-biology.html"
+    }
+  },
+  "notes": "Separate doctoral page from Biology; the page does not name a department.",
+  "name": "Molecular Biology (Ph.D.)"
+}

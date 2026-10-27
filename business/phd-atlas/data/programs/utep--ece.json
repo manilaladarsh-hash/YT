@@ -1,0 +1,56 @@
+{
+  "id": "utep--ece",
+  "university": "utep",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Electrical and Computer Engineering",
+  "program_page": "https://catalog.utep.edu/grad/college-of-engineering/electrical-computer-engineering/electrical-computer-engineering-phd/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "The College of Engineering table gives March 1 for international Fall applicants and July 1 for domestic and Mexican applicants.",
+      "quote": "Electrical and Computer Engineering (PHD) Mar 1 (I) July 1 (D & MX)",
+      "url": "https://www.utep.edu/engineering/academic-programs/graduate-programs/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is named.",
+      "quote": "",
+      "url": "https://catalog.utep.edu/grad/college-of-engineering/electrical-computer-engineering/electrical-computer-engineering-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The fetched pages do not say a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.utep.edu/grad/college-of-engineering/electrical-computer-engineering/electrical-computer-engineering-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The fetched pages do not describe PhD funding.",
+      "quote": "",
+      "url": "https://catalog.utep.edu/grad/college-of-engineering/electrical-computer-engineering/electrical-computer-engineering-phd/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A BS or MS in electrical or computer engineering, or a related field, is accepted; a master's can be completed before candidacy.",
+      "quote": "If you have not completed the master's degree before entering the doctoral program, you will be required to complete it as part of the requirements for candidacy",
+      "url": "https://catalog.utep.edu/grad/college-of-engineering/electrical-computer-engineering/electrical-computer-engineering-phd/",
+      "also": [
+        {
+          "quote": "with a minimum GPA of 3.3/4.0 (or its equivalent)",
+          "url": "https://catalog.utep.edu/grad/college-of-engineering/electrical-computer-engineering/electrical-computer-engineering-phd/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is not required for admission, but applicants may submit it.",
+      "quote": "The graduate record examination (GRE) is not required for admission, but students are encouraged to submit the results if they take the exam",
+      "url": "https://catalog.utep.edu/grad/college-of-engineering/electrical-computer-engineering/electrical-computer-engineering-phd/"
+    }
+  },
+  "notes": "International applicants with equivalent education need a minimum GPA of 3.3 on a 4.0 scale.",
+  "name": "Ph.D. in Electrical and Computer Engineering"
+}

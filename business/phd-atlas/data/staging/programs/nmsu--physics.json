@@ -1,0 +1,44 @@
+{
+  "id": "nmsu--physics",
+  "university": "nmsu",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://phys.nmsu.edu/grad_phys.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Complete applications for Fall admission must be received by February 15.",
+      "quote": "For Fall Semester admission, February 15",
+      "url": "https://phys.nmsu.edu/grad_phys.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "General GRE scores are optional.",
+      "quote": "General and Subject GRE scores are optional.",
+      "url": "https://phys.nmsu.edu/grad_phys.html"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "Subject GRE scores are optional.",
+      "quote": "General and Subject GRE scores are optional.",
+      "url": "https://phys.nmsu.edu/grad_phys.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most PhD students receive graduate assistantships.",
+      "quote": "mostly working on their Ph.D. degrees and receiving financial aid in the form of Graduate Assistantships",
+      "url": "https://phys.nmsu.edu/grad_phys.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not needed to enter the PhD.",
+      "quote": "A Master’s is not required for admission to the Ph.D. program.",
+      "url": "https://phys.nmsu.edu/grad_phys.html"
+    }
+  },
+  "notes": "Spring target dates: November 1 (domestic) or September 1 (international). Supervisor rule not stated.",
+  "name": "Physics (Ph.D.)"
+}

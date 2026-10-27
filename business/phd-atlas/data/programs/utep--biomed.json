@@ -1,0 +1,50 @@
+{
+  "id": "utep--biomed",
+  "university": "utep",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Interdisciplinary Health Sciences PhD Program",
+  "program_page": "https://www.utep.edu/chs/ihs/academic-programs/prospective-students/application-process.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-31",
+      "value": "The annual application deadline for fall entry is close of business on January 31.",
+      "quote": "Annual application deadlines are close of business on January 31st for entrance in the fall",
+      "url": "https://www.utep.edu/chs/ihs/academic-programs/prospective-students/application-process.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is named.",
+      "quote": "",
+      "url": "https://www.utep.edu/chs/ihs/academic-programs/prospective-students/application-process.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must name a faculty mentor before admission; applications without a confirmed mentor are not considered.",
+      "quote": "Applicants who do not have a confirmed mentor will not have their applications considered",
+      "url": "https://www.utep.edu/chs/ihs/academic-programs/prospective-students/application-process.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page describes a separate process for research assistant openings but gives no funding rule.",
+      "quote": "A separate process is followed for applications for open spots as graduate research assistants",
+      "url": "https://www.utep.edu/chs/ihs/academic-programs/prospective-students/application-process.html"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not state a bachelor's or master's entry rule.",
+      "quote": "",
+      "url": "https://www.utep.edu/chs/ihs/academic-programs/prospective-students/application-process.html"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "Applicants who graduated from a college or university where English was the language of instruction are exempt from the TOEFL requirement.",
+      "quote": "who have not graduated from a college/university in which English was the language of instruction",
+      "url": "https://www.utep.edu/chs/ihs/academic-programs/prospective-students/application-process.html"
+    }
+  },
+  "notes": "The program is interdisciplinary and the catalog tags it STEM. Applicants must select a faculty mentor before admission.",
+  "name": "Ph.D. in Interdisciplinary Health Sciences"
+}

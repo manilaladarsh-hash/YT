@@ -1,0 +1,49 @@
+{
+  "id": "utep--cs",
+  "university": "utep",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science",
+  "program_page": "https://catalog.utep.edu/grad/college-of-engineering/computer-science/computer-science-phd/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The College of Engineering table lists the Computer Science PhD Fall intake as Closed; the Spring deadlines are August 15 (international) and November 15 (domestic).",
+      "quote": "Computer Science (PHD) Closed Aug 15 (I) Nov 15 (D)",
+      "url": "https://www.utep.edu/engineering/academic-programs/graduate-programs/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Computer Science GRE Subject test is named.",
+      "quote": "",
+      "url": "https://catalog.utep.edu/grad/college-of-engineering/computer-science/computer-science-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The fetched pages do not say a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.utep.edu/grad/college-of-engineering/computer-science/computer-science-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Applications received by the financial aid deadline are considered for assistantships and fellowships, with no guarantee stated.",
+      "quote": "received by the financial aid application deadline will be automatically considered for financial aid",
+      "url": "https://www.utep.edu/cs/graduate/pdfs/csdept-phd-handbook.pdf"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A baccalaureate degree from an accredited university is required; a master's can reduce coursework.",
+      "quote": "Applicants must have earned a Baccalaureate degree from an accredited university",
+      "url": "https://catalog.utep.edu/grad/college-of-engineering/computer-science/computer-science-phd/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The College of Engineering lists GRE scores as optional for the Computer Science PhD.",
+      "quote": "GRE Scores (Optional)",
+      "url": "https://www.utep.edu/engineering/academic-programs/graduate-programs/"
+    }
+  },
+  "notes": "The handbook PDF is older. The separate Computational Science PhD (College of Science) lists a priority deadline of December 1 for assistantship consideration: https://www.utep.edu/science/computational-science/about/admissions.html",
+  "name": "Ph.D. in Computer Science"
+}

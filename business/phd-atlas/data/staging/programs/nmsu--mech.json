@@ -1,0 +1,31 @@
+{
+  "id": "nmsu--mech",
+  "university": "nmsu",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical and Aerospace Engineering",
+  "program_page": "https://mae.nmsu.edu/academic-programs/graduate.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "gre_general": {
+      "code": "Required",
+      "value": "The department requires the GRE from all applicants.",
+      "quote": "All students applying for admission to Mechanical/Aerospace Engineering Graduate Program must take the Graduate Record Exam (GRE).",
+      "url": "https://mae.nmsu.edu/academic-programs/graduate.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The department admission page gives an old-scale TOEFL 79 iBT or 550 paper score, which is not recorded; the Graduate School's 4.0 new-scale rule applies.",
+      "quote": "all international students must submit an official score of 550 or above on the paper-based, or 79 on the internet-based",
+      "url": "https://mae.nmsu.edu/academic-programs/grad/admission.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Doctoral applicants with a 3.3 GPA can apply straight after a bachelor's degree.",
+      "quote": "Students are allowed to apply for the Doctoral Program directly after receiving a bachelor’s degree if their graduate point average is 3.3 or above",
+      "url": "https://mae.nmsu.edu/academic-programs/grad/admission.html"
+    }
+  },
+  "notes": "The MAE admission page looks like an older template (2025 footer, $30 domestic fee, old TOEFL scale). Its GRE line conflicts with its own note that the screening committee will not review GRE scores; the current graduate page is used for the GRE value. No deadline or funding rule found.",
+  "name": "Mechanical and Aerospace Engineering (Ph.D.)"
+}

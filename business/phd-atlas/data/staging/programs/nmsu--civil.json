@@ -1,0 +1,26 @@
+{
+  "id": "nmsu--civil",
+  "university": "nmsu",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil and Environmental Engineering",
+  "program_page": "https://ce.nmsu.edu/students/graduate-program-information.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "International applicants should apply by March 1 for Fall.",
+      "quote": "please ensure that you apply by March 1 for Fall semester",
+      "url": "https://ce.nmsu.edu/students/graduate-program-information.html",
+      "inferred": "year"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The page gives an old-scale TOEFL iBT 68-79 range for all graduate levels, which is not recorded; the Graduate School's 4.0 new-scale rule applies.",
+      "quote": "TOEFL 68-79 IBT; 520-550 PBT",
+      "url": "https://ce.nmsu.edu/students/graduate-program-information.html"
+    }
+  },
+  "notes": "The page covers four graduate degrees and lists English ranges for all levels together, so IELTS (6.0-6.5) is not recorded for the PhD. No GRE, funding or supervisor rule found.",
+  "name": "Civil Engineering (Ph.D.)"
+}

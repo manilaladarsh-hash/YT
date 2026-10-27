@@ -1,0 +1,47 @@
+{
+  "id": "nmsu",
+  "institution": "New Mexico State University",
+  "country": "USA",
+  "region": "New Mexico",
+  "grad_page": "https://gradschool.nmsu.edu/future-students/requirements/english-proficiency-transcript-evaluation.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "The first graduate application is free; each later application costs $50 for international applicants.",
+      "quote": "Your first application is free for NMSU's Graduate Program! | Your subsequent application fee is $40 for domestic students and $50 for international students.",
+      "url": "https://gradschool.nmsu.edu/future-students/admission.html"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No fee-waiver program is named on the fetched Graduate School pages; only the first application is free.",
+      "quote": "Your first application is free for NMSU's Graduate Program!",
+      "url": "https://gradschool.nmsu.edu/future-students/admission.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each program; see the program record.",
+      "quote": "",
+      "url": "https://gradschool.nmsu.edu/future-students/requirements/english-proficiency-transcript-evaluation.html"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "Doctoral applicants need a TOEFL iBT 4.0 (new scale) for exams taken on or after January 21, 2026; the older 79 applies only to earlier tests.",
+      "quote": "TOEFL 79 IBT (For exams taken before Jan. 21, 2026) or 4.0 (For exams taken on or after Jan. 21, 2026)",
+      "url": "https://gradschool.nmsu.edu/future-students/requirements/english-proficiency-transcript-evaluation.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS 6.5 minimum for doctoral applicants.",
+      "quote": "TOEFL 79 IBT (For exams taken before Jan. 21, 2026) or 4.0 (For exams taken on or after Jan. 21, 2026) ... IELTS 6.5",
+      "url": "https://gradschool.nmsu.edu/future-students/requirements/english-proficiency-transcript-evaluation.html"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The Graduate School waives the test for degrees from the U.S. or from listed countries, but the list was not visible on any fetched page, so India is not confirmed.",
+      "quote": "Received a university degree in the U.S. or from one of the following countries (listed below)",
+      "url": "https://gradschool.nmsu.edu/future-students/requirements/english-proficiency-transcript-evaluation.html"
+    }
+  },
+  "notes": "Doctoral program list from nmsu.edu/degree-programs. Waiver country list not reachable: gradschool International.html returned 404 and catalog PDFs returned 502. Catalog preview PDF gives the same TOEFL 4 / IELTS 6.5 figures."
+}
