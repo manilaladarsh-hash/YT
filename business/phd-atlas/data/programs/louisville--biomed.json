@@ -1,0 +1,50 @@
+{
+  "id": "louisville--biomed",
+  "university": "louisville",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "School of Medicine PhD programs",
+  "program_page": "https://medicine.louisville.edu/SOMAdmissions/phd-program-admissions",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "School of Medicine PhD applications are due by January 15 (for Fall 2027); the Biochemistry department reviews through March.",
+      "quote": "All completed applications for the PhD Program must be submitted no later than January 15",
+      "url": "https://medicine.louisville.edu/SOMAdmissions/phd-program-admissions",
+      "inferred": "year"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The School of Medicine page does not say whether a mentor must agree before admission; departments differ.",
+      "quote": "",
+      "url": "https://medicine.louisville.edu/SOMAdmissions/phd-program-admissions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted students get a 23-month fellowship; after that, support comes from the faculty mentor, department or grants.",
+      "quote": "Students admitted to one of the School of Medicine’s PhD Programs receive a comprehensive 23-month fellowship",
+      "url": "https://medicine.louisville.edu/SOMAdmissions/phd-program-admissions",
+      "also": [
+        {
+          "quote": "Following this initial fellowship period, continued funding is provided through support from the student’s faculty mentor, department or external research grants",
+          "url": "https://medicine.louisville.edu/SOMAdmissions/phd-program-admissions"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Microbiology requires a BS or BA with at least a 3.0 GPA; the record covers the four School of Medicine departments, so check each department's rule.",
+      "quote": "For admission to the PhD program, the applicant must have attained a BS or BA degree with a minimum grade-point average of 3.0",
+      "url": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-microbiology-immunology/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The School of Medicine programs do not use a subject GRE.",
+      "quote": "",
+      "url": "https://medicine.louisville.edu/SOMAdmissions/phd-program-admissions"
+    }
+  },
+  "notes": "One record for the four School of Medicine PhDs (Biochemistry and Molecular Genetics; Microbiology and Immunology; Pharmacology and Toxicology; Physiology), which share the 23-month fellowship. Department rules differ: Biochemistry reviews December to March and nominates candidates for IPIBS fellowships; Microbiology sets a priority deadline of January 15 and accepts applications to March 1; Pharmacology lists its own TOEFL 79 and IELTS 6.5 rules (not saved here). GRE is Not stated because the departments do not all say the same. Anatomical Sciences and Neurobiology is saved separately under neuro. Sources: School of Medicine PhD admissions page and the 2026-27 catalog.",
+  "name": "Biomedical PhDs (School of Medicine)"
+}

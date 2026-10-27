@@ -1,0 +1,53 @@
+{
+  "id": "louisville",
+  "institution": "University of Louisville",
+  "country": "USA",
+  "region": "Kentucky",
+  "grad_page": "https://graduate.louisville.edu/admission/international",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "65 USD",
+      "value": "The graduate application fee is $65 for degree and non-degree applicants (certificates pay $40).",
+      "quote": "Degree and Non-Degree $65 Certificates $40",
+      "url": "https://graduate.louisville.edu/admission/apply/application-requirements"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Fee waivers are limited to military-connected applicants and people on US government benefits; departments may grant program-based waivers case by case.",
+      "quote": "Currently only military-connected students and those receiving public assistance (from the U.S. government) may be exempt from the application fee",
+      "url": "https://graduate.louisville.edu/admission/apply/application-fee-waiver-information",
+      "also": [
+        {
+          "quote": "Program-Based Fee Waivers are occasionally granted by academic departments on a case-by-case basis",
+          "url": "https://catalog.louisville.edu/graduate/application-admission/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School does not set a GRE rule; each program decides, so see the program record.",
+      "quote": "GRE scores may be required for admission to some graduate programs. Please check directly with the department regarding test requirements.",
+      "url": "https://catalog.louisville.edu/graduate/application-admission/"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "From January 21, 2026 the TOEFL minimum is 4.0 overall on the new 1.0-6.0 scale, with at least 4.0 in each section; the older catalog still says 79 iBT.",
+      "quote": "the University of Louisville will require a minimum overall score of 4.0, with minimum sub-scores of 4.0 in each skill area",
+      "url": "https://graduate.louisville.edu/admission/international/proficiency"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The IELTS Academic minimum is 6.5 overall, with no band below 5.",
+      "quote": "6.5 (no sub-score lower than 5)",
+      "url": "https://graduate.louisville.edu/admission/international/proficiency"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Indian citizens are not on the exempt-country list, and English as the medium of instruction does not waive the test, so a TOEFL, IELTS, Duolingo or PTE score is needed.",
+      "quote": "English proficiency requirements are not waived based upon the medium of instruction at a previously attended institution. | Proof of language proficiency is waived for International Students with citizenship from one of the following English-speaking countries",
+      "url": "https://graduate.louisville.edu/admission/international/proficiency"
+    }
+  },
+  "notes": "Sources: Graduate School pages (international applicants, English proficiency, application requirements, fee waiver) and the 2026-27 graduate catalog. The catalog's older text still shows TOEFL 79 iBT and IELTS 6.5 with no 4.0 rule; the Graduate School's proficiency page (new scale from January 2026) is used. Application fee amount is from the application requirements page. Louisville is not yet in data/universities.json (validator warning)."
+}

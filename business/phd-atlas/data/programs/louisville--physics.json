@@ -1,0 +1,61 @@
+{
+  "id": "louisville--physics",
+  "university": "louisville",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics and Astronomy",
+  "program_page": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-physics/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "No formal deadline, but applications should arrive by February 1 for full consideration for Fall entry.",
+      "quote": "to ensure full consideration for Fall entry applications should be received no later than February 1",
+      "url": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-physics/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department says the GRE is not needed for the PhD.",
+      "quote": "GRE requirement is not needed for admission to the PhD program.",
+      "url": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-physics/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The catalog does not mention the Physics GRE Subject test.",
+      "quote": "",
+      "url": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-physics/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The department page gives the old-scale TOEFL iBT 79, which predates the January 2026 change; the new-scale value is not confirmed.",
+      "quote": "",
+      "url": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-physics/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department also asks for an IELTS overall band of at least 6.5.",
+      "quote": "English proficiency can also be met by submitting official IELTS scores of at least 6.5 overall band score",
+      "url": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-physics/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether a faculty member must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-physics/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Qualified students are considered for teaching assistantships with a stipend and full tuition remission for the first two years, not all admitted students.",
+      "quote": "qualified students will be considered for Graduate Teaching Assistantship (GTA)",
+      "url": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-physics/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's in physics (or a related subject) is enough to start the PhD.",
+      "quote": "The PhD is typically a five-year degree program available to qualified individuals with a bachelor's in Physics from an accredited college or university",
+      "url": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-physics/"
+    }
+  },
+  "notes": "Source: the 2026-27 graduate catalog Physics PhD section, also on louisville.edu/programs/physics-phd. The department's own application page (physics.louisville.edu) returned HTTP 502 and was not used."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "louisville--cs",
+  "university": "louisville",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science and Engineering (J. B. Speed School of Engineering)",
+  "program_page": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-computer-science-engineering/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No PhD deadline appears on the fetched Speed School or catalog pages; ask the department.",
+      "quote": "",
+      "url": "https://engineering.louisville.edu/admissions/graduatedoctoraladmissions/"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE scores are required for the PhD; the catalog says successful applicants typically have a combined Verbal and Quantitative score of 295 or above.",
+      "quote": "Results from the Graduate Record Examination (GRE)",
+      "url": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-computer-science-engineering/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Computer science has no subject GRE and the catalog does not mention one.",
+      "quote": "",
+      "url": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-computer-science-engineering/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether a faculty member must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-computer-science-engineering/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Qualifying doctoral students may be awarded a $22,000 fellowship per year plus full tuition and health insurance; awards are selected, not automatic.",
+      "quote": "If you are a qualifying doctoral-level student, you may be awarded fellowships worth $22,000 per year, plus full tuition and health insurance",
+      "url": "https://engineering.louisville.edu/admissions/graduatedoctoraladmissions/",
+      "also": [
+        {
+          "quote": "Upon admission, students are automatically considered for fellowships. No additional application is required.",
+          "url": "https://engineering.louisville.edu/graduatefunding/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Normally a master's comes first, but a qualified applicant can enter directly after a bachelor's with extra coursework.",
+      "quote": "Normally, it is expected that the student will complete a master's degree before being admitted to the PhD Program",
+      "url": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-computer-science-engineering/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "A degree from an acceptable English-language institution can replace the test, but the catalog does not say whether an Indian university qualifies, so ask the department.",
+      "quote": "demonstration of a degree awarded from an acceptable English language institution",
+      "url": "https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-computer-science-engineering/"
+    }
+  },
+  "notes": "Source: the 2026-27 graduate catalog CSE PhD section and Speed School graduate admissions and funding pages. Speed School fees ($65) match the Graduate School. The catalog's 'typically TOEFL 79' is not a minimum, so the Graduate School's TOEFL rule is inherited."
+}
