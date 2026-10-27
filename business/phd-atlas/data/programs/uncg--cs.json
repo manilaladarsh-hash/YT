@@ -1,0 +1,43 @@
+{
+  "id": "uncg--cs",
+  "university": "uncg",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://compsci.uncg.edu/academics/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "The Graduate School lists April 1, 2027 as the next PhD deadline. The department's earlier funding date could not be checked.",
+      "quote": "Computer Science (PhD) | Next deadline is on April 1, 2027",
+      "url": "https://grs.uncg.edu/programs/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject GRE for computer science.",
+      "quote": "",
+      "url": "https://compsci.uncg.edu/academics/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The fetched official pages do not say whether a supervisor is needed before admission.",
+      "quote": "",
+      "url": "https://compsci.uncg.edu/academics/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The fetched official pages do not say how PhD students are funded.",
+      "quote": "",
+      "url": "https://compsci.uncg.edu/academics/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The fetched official pages do not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://compsci.uncg.edu/academics/"
+    }
+  },
+  "notes": "Department PhD admissions page (www.uncg.edu/degrees/computer-science-ph-d) returned 403 and the UNCG catalog returned 502, so GRE, entry, supervisor and funding rules could not be verified. Department rules (a February 1 funding date, GRE optional) are reported in search snippets only and are not saved. Data science is an MS concentration only.",
+  "name": "PhD in Computer Science"
+}

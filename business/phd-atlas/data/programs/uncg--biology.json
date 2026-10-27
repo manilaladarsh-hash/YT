@@ -1,0 +1,52 @@
+{
+  "id": "uncg--biology",
+  "university": "uncg",
+  "field": "biology",
+  "also_fields": [
+    "environment"
+  ],
+  "department": "Department of Biology",
+  "program_page": "https://biology.uncg.edu/graduate/apply/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-05",
+      "value": "Fall priority deadline is January 5, with the final deadline January 15. Spring entry is rare.",
+      "quote": "(Priority deadline) January 5th | (Final deadline) January 15th",
+      "url": "https://biology.uncg.edu/graduate/apply/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "No GRE scores are required for the PhD.",
+      "quote": "No GRE scores required.",
+      "url": "https://biology.uncg.edu/graduate/apply/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject GRE for biology.",
+      "quote": "",
+      "url": "https://biology.uncg.edu/graduate/apply/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "The personal statement should name UNCG faculty whose research interests the applicant.",
+      "quote": "should indicate faculty members at UNCG whose research activities are of particular interest",
+      "url": "https://biology.uncg.edu/graduate/apply/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "PhD applicants are considered for a teaching or research assistantship, but the page does not promise funding to every admitted student.",
+      "quote": "All PhD and MS-thesis applicants will be considered for an assistantship for instruction (GIA) or research (GRA)",
+      "url": "https://biology.uncg.edu/graduate/graduate-student-assistantships-tuition-and-fees/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's degree is not required for entry, so applicants can apply straight from a bachelor's degree.",
+      "quote": "is not required for entry into this program",
+      "url": "https://biology.uncg.edu/graduate/apply/"
+    }
+  },
+  "notes": "The department pages call this PhD both Biological Sciences and Environmental Health Science (EHS). The EHS program page describes it as covering ecology and ecosystem sciences, so environment is listed as a secondary field. The department's apply page names no minimum TOEFL score. The Graduate School portal shows a November 15, 2026 date, which is the spring deadline; the fall deadline is used here. Funding figures are from the department's 2019-2020 handbook and not used.",
+  "name": "PhD in Biological Sciences"
+}
