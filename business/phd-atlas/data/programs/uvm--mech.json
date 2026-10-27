@@ -1,0 +1,61 @@
+{
+  "id": "uvm--mech",
+  "university": "uvm",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Mechanical Engineering",
+  "program_page": "https://www.uvm.edu/cems/me/program/phd-mechanical-engineering",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Fall applications are reviewed on a rolling basis; priority for funding is January 1, 2027.",
+      "quote": "January 1 for fall admissions.",
+      "url": "https://www.uvm.edu/cems/me/program/phd-mechanical-engineering",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Priority deadline for funding January 1st",
+          "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The department says the general (aptitude) GRE is required; the Graduate College listing says no GRE is required, so confirm before applying.",
+      "quote": "Completion of the general (aptitude) portion of the Graduate Record Examination is required.",
+      "url": "https://www.uvm.edu/cems/me/program/phd-mechanical-engineering",
+      "also": [
+        {
+          "quote": "Additional Requirements: No GRE required Coordinator: Dr. Frederic Sansoz",
+          "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages checked do not mention a Mechanical Engineering GRE Subject test.",
+      "quote": "",
+      "url": "https://www.uvm.edu/cems/me/program/phd-mechanical-engineering"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages checked do not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.uvm.edu/cems/me/program/phd-mechanical-engineering"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "A limited number of funded assistantships are offered on merit, research fit and continuity of progress.",
+      "quote": "A limited number of funded graduate research and graduate teaching assistantships (GRA or GTA) are available in the department each year and will be offered based on merit, research fit and continuity of progress",
+      "url": "https://www.uvm.edu/cems/me/program/phd-mechanical-engineering"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The department requires an accredited master's degree for the PhD.",
+      "quote": "An accredited master's degree in mechanical engineering or closely related discipline is required.",
+      "url": "https://www.uvm.edu/cems/me/program/phd-mechanical-engineering"
+    }
+  },
+  "notes": "GRE conflict: the department PhD page says the general GRE is required; the Graduate College deadlines listing says No GRE required. Department value used per the brief."
+}

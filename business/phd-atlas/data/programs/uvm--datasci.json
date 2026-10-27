@@ -1,0 +1,56 @@
+{
+  "id": "uvm--datasci",
+  "university": "uvm",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "Complex Systems and Data Science (interdisciplinary PhD)",
+  "program_page": "https://www.uvm.edu/cems/complex-systems-and-data-science-csds-phd",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Fall admission only, with a February 15 deadline; no spring or summer admission for the PhD.",
+      "quote": "Deadline (Fall): Admissions ONLY for Fall Term. Deadline: Feb. 15.",
+      "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "February 15 for Fall admission",
+          "url": "https://www.uvm.edu/cems/complex-systems-and-data-science-csds-phd"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Graduate College listing says no GRE is required.",
+      "quote": "Additional Requirements: No GRE required Coordinator: Dr. Peter Dodds",
+      "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The Graduate College listing says no GRE is required.",
+      "quote": "Additional Requirements: No GRE required Coordinator: Dr. Peter Dodds",
+      "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are advised to identify a faculty advisor in advance.",
+      "quote": "We recommend prospective students identify a faculty advisor in advance.",
+      "url": "https://www.uvm.edu/cems/complex-systems-and-data-science-csds-phd"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "The program says funding opportunities are limited.",
+      "quote": "Funding: Limited funding opportunities are available.",
+      "url": "https://www.uvm.edu/cems/complex-systems-and-data-science-csds-phd"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's degree is required and a master's is preferred.",
+      "quote": "Bachelor's degree (Master's preferred)",
+      "url": "https://www.uvm.edu/cems/complex-systems-and-data-science-csds-phd"
+    }
+  },
+  "notes": "Program name: Complex Systems and Data Science (Ph.D.). The uvm.edu program URL redirects to vermontcomplexsystems.org, where the quoted program text was fetched.",
+  "name": "Complex Systems and Data Science (Ph.D.)"
+}

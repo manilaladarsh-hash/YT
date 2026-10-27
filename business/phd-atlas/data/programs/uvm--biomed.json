@@ -1,0 +1,55 @@
+{
+  "id": "uvm--biomed",
+  "university": "uvm",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Cellular, Molecular and Biomedical Sciences (CMB)",
+  "program_page": "https://www.uvm.edu/graduate/cmb/admissions",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "All CMB application materials and fee waiver requests are due December 1.",
+      "quote": "the deadline to submit a CMB application is December 1st.",
+      "url": "https://www.uvm.edu/graduate/cmb/admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Graduate College listing says no GRE is required for CMB.",
+      "quote": "Additional Requirements: No GRE required; TOEFL of 100 or higher is required for all international applicants",
+      "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The Graduate College listing says no GRE is required for CMB.",
+      "quote": "Additional Requirements: No GRE required; TOEFL of 100 or higher is required for all international applicants",
+      "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The page gives an old-scale TOEFL iBT score, which predates the January 2026 change; the new-scale value is not confirmed.",
+      "quote": "",
+      "url": "https://www.uvm.edu/graduate/cmb/admissions"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by committee, and students complete three research rotations in the first year before choosing an advisor.",
+      "quote": "During the first year, CMB students engage in three research rotations with potential advisors to find the right research learning environment for dissertation work.",
+      "url": "https://www.uvm.edu/graduate/cmb/admissions"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The FAQ says faculty must commit funding for a new student, but no page says all admitted students are funded.",
+      "quote": "Our program asks current faculty for their ability to fully train a new student (this includes space and time in the lab, and funding for both research and stipend).",
+      "url": "https://www.uvm.edu/graduate/cmb/admissions-faq"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need the equivalent of a US bachelor's degree.",
+      "quote": "All applicants must have the equivalent of a US bachelor’s degree, which consists of 16 years of formal education.",
+      "url": "https://www.uvm.edu/graduate/cmb/admissions"
+    }
+  },
+  "notes": "Biomedical field is covered by the CMB PhD. Biochemistry and Microbiology PhDs are awarded through CMB; they are not separate records."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "uvm--neuro",
+  "university": "uvm",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Neuroscience Graduate Program",
+  "program_page": "https://www.uvm.edu/graduate/neuroscience/program/neuroscience-graduate-program",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall applications are due December 1.",
+      "quote": "Program: Neuroscience Degree: PhD Fall Deadline: December 1",
+      "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Graduate College listing says no GRE is required for Neuroscience.",
+      "quote": "Additional Requirements: No GRE required; TOEFL of 100 or higher is required for all international applicants",
+      "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The Graduate College listing says no GRE is required, so no Psychology subject test is needed.",
+      "quote": "Additional Requirements: No GRE required; TOEFL of 100 or higher is required for all international applicants",
+      "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is to the program, with two lab rotations in the first year.",
+      "quote": "Laboratory rotations start in the first semester of the first year and last for 9-12 weeks. A minimum of two rotations is required.",
+      "url": "https://www.uvm.edu/graduate/neuroscience/program/neuroscience-graduate-program"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All matriculating students receive financial support.",
+      "quote": "All matriculating students receive financial support",
+      "url": "https://www.uvm.edu/graduate/neuroscience/program/neuroscience-graduate-program"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's and/or master's degree in a biology or related field is recommended.",
+      "quote": "It is recommended that an incoming student have a Bachelor’s and/or Master’s Degree in a biological science",
+      "url": "https://www.uvm.edu/graduate/neuroscience/program/neuroscience-graduate-program"
+    }
+  },
+  "notes": "The Graduate College program listing says TOEFL of 100 is required for all international applicants. The neuroscience department page does not state it, so the university minimum (90) is not overridden here."
+}

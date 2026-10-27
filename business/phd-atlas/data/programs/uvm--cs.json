@@ -1,0 +1,61 @@
+{
+  "id": "uvm--cs",
+  "university": "uvm",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.uvm.edu/cems/cs/program/phd-computer-science",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Rolling admission, with priority for funding by January 1, 2027; the department lists January 15 as its fall application date.",
+      "quote": "Program: Computer Science Degree: AMP, MS, PhD | MS/PhD: Fall Deadline: Rolling, Priority deadline for funding January 1st",
+      "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Fall enrollment: Apply by January 15",
+          "url": "https://www.uvm.edu/cems/cs/program/phd-computer-science"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Graduate College listing says no GRE is required for Computer Science.",
+      "quote": "Additional Requirements: No GRE required Coordinator: Dr. Safwan Wshah",
+      "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The Graduate College listing says no GRE is required for Computer Science.",
+      "quote": "Additional Requirements: No GRE required Coordinator: Dr. Safwan Wshah",
+      "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The page gives an old-scale TOEFL iBT score, which predates the January 2026 change; the new-scale value is not confirmed.",
+      "quote": "",
+      "url": "https://www.uvm.edu/cems/cs/program/phd-computer-science"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages checked do not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.uvm.edu/cems/cs/program/phd-computer-science"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages checked do not say whether most admitted PhD students are funded.",
+      "quote": "",
+      "url": "https://www.uvm.edu/cems/cs/program/phd-computer-science"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is the stated requirement for all applicants.",
+      "quote": "A Bachelor's degree is required of all applicants.",
+      "url": "https://www.uvm.edu/cems/cs/program/phd-computer-science"
+    }
+  },
+  "notes": ""
+}

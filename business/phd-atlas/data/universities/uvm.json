@@ -1,0 +1,59 @@
+{
+  "id": "uvm",
+  "institution": "University of Vermont",
+  "country": "USA",
+  "region": "Vermont",
+  "grad_page": "https://www.uvm.edu/graduate/how-apply",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "65 USD",
+      "value": "The application fee for Master's and Doctoral programs is $65.",
+      "quote": "$65 for UVM Application to Master's and Doctoral programs",
+      "url": "https://www.uvm.edu/graduate/how-apply"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Waivers are case-by-case; international applicants qualify only through certain outside fellowship organizations, or on financial hardship.",
+      "quote": "International applicants: If you are applying through certain outside fellowship organizations, you may be eligible to have your application fee waived.",
+      "url": "https://www.uvm.edu/graduate/how-apply",
+      "also": [
+        {
+          "quote": "fee waivers are granted on a case-by-case basis, and not all requests may be approved",
+          "url": "https://www.uvm.edu/graduate/how-apply"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate College says most programs do not require GRE or GMAT scores, so each program sets its own GRE rule.",
+      "quote": "Most UVM graduate programs do not require GRE or GMAT test scores.",
+      "url": "https://www.uvm.edu/graduate/how-apply"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The page gives an old-scale TOEFL iBT score, which predates the January 2026 change; the new-scale value is not confirmed.",
+      "quote": "",
+      "url": "https://www.uvm.edu/graduate/how-apply-international-students"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Graduate College IELTS Academic minimum for admission is 6.5 overall; 7.0 is needed for a teaching assistantship.",
+      "quote": "IELTS: Minimum for admission to the Graduate College at UVM 6.5",
+      "url": "https://www.uvm.edu/graduate/how-apply-international-students"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Indian applicants need an official letter or transcript confirming English is the language of instruction, or a supporting-document review; India is not named as an English-official country.",
+      "quote": "For institutions outside the United States, the transcript, diploma certificate (or equivalent), or an official letter from the institution must confirm that English is the language of instruction.",
+      "url": "https://www.uvm.edu/graduate/how-apply-international-students",
+      "also": [
+        {
+          "quote": "Applicants who do not meet these criteria but believe they may be eligible for an English proficiency waiver will have the opportunity to submit supporting documents for review as part of their application",
+          "url": "https://www.uvm.edu/graduate/how-apply-international-students"
+        }
+      ]
+    }
+  },
+  "notes": "Program-level GRE rules are set by each department. Graduate College TOEFL and IELTS minimums changed to the new TOEFL scale on January 21, 2026 (per the international page)."
+}

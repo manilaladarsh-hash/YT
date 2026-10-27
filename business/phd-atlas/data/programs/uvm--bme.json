@@ -1,0 +1,55 @@
+{
+  "id": "uvm--bme",
+  "university": "uvm",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Biomedical Engineering (EBE)",
+  "program_page": "https://www.uvm.edu/cems/ebe/program/phd-biomedical-engineering",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Fall applications are reviewed on a rolling basis; those received before January 1 get priority.",
+      "quote": "Completed applications for Fall admission will be reviewed on a rolling basis, but applications received before January 1 will be given priority.",
+      "url": "https://www.uvm.edu/cems/ebe/program/phd-biomedical-engineering",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The department says satisfactory GRE scores may be submitted but are not required.",
+      "quote": "Satisfactory scores on the general Graduate Record Examination (GRE) may be presented, but are not required",
+      "url": "https://www.uvm.edu/cems/ebe/program/phd-biomedical-engineering"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages checked do not mention a GRE Subject test for BME.",
+      "quote": "",
+      "url": "https://www.uvm.edu/cems/ebe/program/phd-biomedical-engineering"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants interested in a particular faculty member should contact them directly.",
+      "quote": "If you are interested in working with a particular faculty member, it is best to contact them directly.",
+      "url": "https://www.uvm.edu/cems/ebe/program/phd-biomedical-engineering"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Research assistantships come from individual faculty grants, and only a limited number of teaching assistantships are available.",
+      "quote": "A limited number of teaching assistantships are also available.",
+      "url": "https://www.uvm.edu/cems/ebe/program/phd-biomedical-engineering",
+      "also": [
+        {
+          "quote": "Research assistantships are offered by individual faculty from their research grants and contracts.",
+          "url": "https://www.uvm.edu/cems/ebe/program/phd-biomedical-engineering"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "An accredited bachelor's degree in engineering or equivalent education is the admission requirement.",
+      "quote": "An accredited bachelor's degree in engineering or equivalent education",
+      "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply"
+    }
+  },
+  "notes": "GRE conflict: the department page says GRE is optional; the Graduate College listing says no GRE required. Department value used per the brief."
+}
