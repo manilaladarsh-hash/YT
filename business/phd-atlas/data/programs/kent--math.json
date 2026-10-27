@@ -1,0 +1,74 @@
+{
+  "id": "kent--math",
+  "university": "kent",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematical Sciences",
+  "program_page": "https://catalog.kent.edu/colleges/sh/math/applied-mathematics-phd/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Fall application deadline is March 1; later applications are considered on a space-available basis.",
+      "quote": "Application deadline: March 1",
+      "url": "https://catalog.kent.edu/colleges/sh/math/applied-mathematics-phd/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Application deadline: March 1",
+          "url": "https://catalog.kent.edu/colleges/sh/math/pure-mathematics-phd/pure-mathematics-phd.pdf"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The catalog does not mention a Mathematics subject GRE.",
+      "quote": "",
+      "url": "https://catalog.kent.edu/colleges/sh/math/applied-mathematics-phd/"
+    },
+    "toefl_min": {
+      "code": "71",
+      "value": "The department requires TOEFL iBT 71.",
+      "quote": "Minimum 71 TOEFL iBT score",
+      "url": "https://catalog.kent.edu/colleges/sh/math/applied-mathematics-phd/"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "The department requires IELTS 6.0.",
+      "quote": "Minimum 6.0 IELTS score",
+      "url": "https://catalog.kent.edu/colleges/sh/math/applied-mathematics-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog and department pages fetched do not say whether a supervisor is needed before admission.",
+      "quote": "",
+      "url": "https://catalog.kent.edu/colleges/sh/math/applied-mathematics-phd/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Assistantships are normally the first appointment a new student receives, and all accepted students are considered.",
+      "quote": "is normally the first appointment a new student will receive",
+      "url": "https://www.kent.edu/math/assistantship-application",
+      "also": [
+        {
+          "quote": "All students accepted into the program will be considered for Assistantship.",
+          "url": "https://www.kent.edu/math/assistantship-application"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with a bachelor's degree or higher can enter; the calendar also covers master's entrants.",
+      "quote": "Bachelor's degree or higher from an accredited college or university",
+      "url": "https://catalog.kent.edu/colleges/sh/math/applied-mathematics-phd/",
+      "also": [
+        {
+          "quote": "Entered with a Masters: should take before end of first calendar year in the PhD program",
+          "url": "https://www.kent.edu/math/mathematics-graduate-program-calendar-deadlines"
+        }
+      ]
+    }
+  },
+  "notes": "Pure Mathematics and Applied Mathematics Ph.D.s share one record. Both catalog pages give the same admission rules and March 1 Fall deadline. The department assistantship page covers both.",
+  "name": "Pure Mathematics and Applied Mathematics (Ph.D.)"
+}

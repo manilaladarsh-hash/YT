@@ -1,0 +1,53 @@
+{
+  "id": "kent",
+  "institution": "Kent State University",
+  "country": "USA",
+  "region": "Ohio",
+  "grad_page": "https://www.kent.edu/admissions/graduate-degree-student-requirements",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "70 USD",
+      "value": "International applicants pay $70 for any degree type, including the PhD.",
+      "quote": "The following application fees are charged for every application you submit except for sanctioned dual degree programs. | All degree types $70",
+      "url": "https://www.kent.edu/admissions/graduate-degree-student-requirements"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "No application fee waivers for international applicants. Some departments waived the fee for domestic applicants in an October 2026 free week.",
+      "quote": "No, we do not grant fee waivers.",
+      "url": "https://www.kent.edu/admissions/graduate-degree-student-requirements",
+      "also": [
+        {
+          "quote": "There are no application fee waivers being offered for International Applicants.",
+          "url": "https://www.kent.edu/biology/graduate"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The graduate school does not require the GRE or GMAT for graduate admission; a program may still require it.",
+      "quote": "However, a graduate program may require a GRE or GMAT score | as part of its admissions criteria | not require the Graduate Record Exam (GRE) or the Graduate | Management Admission Test (GMAT) for graduate admission",
+      "url": "https://catalog.kent.edu/academic-policies/admission-graduate-students/admission-graduate-students.pdf"
+    },
+    "toefl_min": {
+      "code": "71",
+      "value": "The general graduate minimum is TOEFL iBT 71. Many programs set higher scores, so check each program record.",
+      "quote": "All graduate applicants must obtain a minimum TOEFL-IBT score of 71 -or- a minimum IELTS score of 6.0",
+      "url": "https://www.kent.edu/admissions/graduate-program-english-requirements"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "The general graduate minimum is IELTS Academic 6.0. Many programs set higher scores.",
+      "quote": "All graduate applicants must obtain a minimum TOEFL-IBT score of 71 -or- a minimum IELTS score of 6.0",
+      "url": "https://www.kent.edu/admissions/graduate-program-english-requirements"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the country list for the English-test waiver, so Indian applicants need a test score unless another exception applies.",
+      "quote": "Applicants primarily educated in the following countries/territories | All international applicants whose education has been primarily outside the United States of America must provide objective evidence of proficiency in the English language",
+      "url": "https://www.kent.edu/admissions/waive-english-language-requirement"
+    }
+  },
+  "notes": "Rules from the graduate school pages. Program-level English minimums come from the graduate school table (kent.edu/admissions/graduate-program-english-requirements). The domestic Free Application Week (Oct 19-26, 2026) is closed as of the check date and is not open to internationals."
+}

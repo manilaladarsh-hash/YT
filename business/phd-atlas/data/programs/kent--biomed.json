@@ -1,0 +1,70 @@
+{
+  "id": "kent--biomed",
+  "university": "kent",
+  "field": "biomed",
+  "also_fields": [
+    "neuro"
+  ],
+  "department": "School of Biomedical Sciences",
+  "program_page": "https://www.kent.edu/biomedical/cellular-molecular-biology-phd",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-15",
+      "value": "The Fall deadline is November 15; applications are reviewed in December and January.",
+      "quote": "Application deadline: November 15",
+      "url": "https://www.kent.edu/biomedical/cellular-molecular-biology-phd",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "The deadline to apply is November 15th.",
+          "url": "https://www.kent.edu/biomedical/admission-information"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to this field.",
+      "quote": "",
+      "url": "https://www.kent.edu/biomedical/cellular-molecular-biology-phd"
+    },
+    "toefl_min": {
+      "code": "94",
+      "value": "The school requires TOEFL iBT 94.",
+      "quote": "Minimum 94 TOEFL iBT score",
+      "url": "https://www.kent.edu/biomedical/cellular-molecular-biology-phd"
+    },
+    "ielts_min": {
+      "code": "7.0",
+      "value": "The school requires IELTS 7.0.",
+      "quote": "Minimum 7.0 IELTS score",
+      "url": "https://www.kent.edu/biomedical/cellular-molecular-biology-phd"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Domestic applicants can have the fee waived in the October 19-26 free week. Internationals do not get a waiver.",
+      "quote": "Free application week for domestic students is October 19-26th!",
+      "url": "https://www.kent.edu/biomedical/admission-information"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students choose an advisor after first-year lab rotations, not before admission.",
+      "quote": "Choosing an advisor prior to arriving on campus is not required. | All incoming students are expected to rotate through laboratories in the first year before selecting a faculty advisor",
+      "url": "https://www.kent.edu/biomedical/admission-information"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate assistantships are awarded competitively to qualified PhD students; admission and funding decisions are made together.",
+      "quote": "The school offers 12-month graduate assistantships on a competitive basis to qualified PhD students.",
+      "url": "https://www.kent.edu/biomedical/financial-assistance"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with a bachelor's degree or higher can enter; master's holders follow a shorter credit path.",
+      "quote": "Bachelor's degree or higher from an accredited college or university | Post-master's students must complete a minimum of 30 credit hours prior to enrolling in BMS 80199",
+      "url": "https://www.kent.edu/biomedical/cellular-molecular-biology-phd"
+    }
+  },
+  "notes": "Five Ph.D. tracks: Cellular and Molecular Biology, Human Evolutionary Biology, Neurosciences (tagged neuro), Pharmacology and Physiology Interdisciplinary. Deadline and English minimums come from the Cellular and Molecular Biology page; the other tracks were not fetched. The graduate school table also lists 94/7.0 for all biomedical programs.",
+  "name": "Biomedical Sciences (Ph.D. tracks)"
+}

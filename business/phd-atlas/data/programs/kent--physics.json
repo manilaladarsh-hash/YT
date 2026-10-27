@@ -1,0 +1,73 @@
+{
+  "id": "kent--physics",
+  "university": "kent",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://www.kent.edu/physics/physics-phd",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Priority deadline for Fall is February 1; the department calls it a target date, not a strict cutoff.",
+      "quote": "Priority deadline: February 1 | Applications submitted by this deadline will receive the strongest consideration for admission",
+      "url": "https://www.kent.edu/physics/physics-phd",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The department says the General and Subject GRE is optional for all applicants.",
+      "quote": "The General and Subject GRE is optional for all applicants.",
+      "url": "https://www.kent.edu/physics/prospective-physics-graduate-students"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Physics subject GRE is optional for all applicants.",
+      "quote": "The General and Subject GRE is optional for all applicants.",
+      "url": "https://www.kent.edu/physics/prospective-physics-graduate-students"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Domestic applicants could have the fee waived in a Free Application Week (Oct 19-26, 2026). The department has no fee waiver otherwise.",
+      "quote": "The application fee will be waived for domestic applications submitted during this window. | Free Application Week: October 19, 2026 - October 26, 2026",
+      "url": "https://www.kent.edu/physics/prospective-physics-graduate-students",
+      "also": [
+        {
+          "quote": "There is no mechanism to waive application fees",
+          "url": "https://www.kent.edu/physics/frequently-asked-questions-graduate-level-applications"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "71",
+      "value": "The department's minimum is TOEFL iBT 71 from spring 2027 on, which covers Fall 2027 entry (its older rule was 79).",
+      "quote": "Starting with the spring 2027 admission term, the minimum proficiency scores will be: | Minimum 71 TOEFL iBT score",
+      "url": "https://www.kent.edu/physics/physics-phd"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "The department's minimum is IELTS 6.0 from spring 2027 on, which covers Fall 2027 entry (its older rule was 6.5).",
+      "quote": "Starting with the spring 2027 admission term, the minimum proficiency scores will be: | Minimum 6.0 IELTS score",
+      "url": "https://www.kent.edu/physics/physics-phd"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admitted students choose a research advisor after required courses and the candidacy exam, not before admission.",
+      "quote": "admitted students affiliate themselves with a research advisor after they have completed the required courses and have passed the candidacy exam",
+      "url": "https://www.kent.edu/physics/frequently-asked-questions-graduate-level-applications"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every admitted PhD applicant is offered an assistantship. International students are admitted only with an assistantship and a full tuition scholarship.",
+      "quote": "100% of admitted PhD applicants are offered an Assistantship. | Normally, we do not offer admission to US or to international applicants unless we are able to provide both an Assistantship and a full tuition scholarship",
+      "url": "https://www.kent.edu/physics/frequently-asked-questions-graduate-level-applications"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants can enter the PhD directly from a bachelor's degree.",
+      "quote": "It is not necessary to already have a Masters degree (i.e., a Bachelor's degree is sufficient) to be admitted directly to the PhD program",
+      "url": "https://www.kent.edu/physics/prospective-physics-graduate-students"
+    }
+  },
+  "notes": "Physics Ph.D. only (the MA and MS are not saved). The Ph.D. page says the Fall priority deadline is Feb 1 with a 79/6.5 minimum; the same page says the 71/6.0 minimum starts with spring 2027, so 71/6.0 is saved. Astronomy has no separate PhD; astrophysics is a research area."
+}

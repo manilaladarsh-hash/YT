@@ -1,0 +1,75 @@
+{
+  "id": "kent--biology",
+  "university": "kent",
+  "field": "biology",
+  "also_fields": [
+    "neuro"
+  ],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://www.kent.edu/biology/graduate",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-15",
+      "value": "Priority deadline for Fall is November 15 on the Cell Biology track page; the department says applications open in early August.",
+      "quote": "Priority deadline: November 15",
+      "url": "https://www.kent.edu/biology/biological-sciences-cell-biology-and-molecular-genetics-phd",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "The application cycle is usually open from early August through Nov. 15th for admission the following Fall semester.",
+          "url": "https://www.kent.edu/biology/graduate"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department says the GRE is not required.",
+      "quote": "The GRE is NOT required.",
+      "url": "https://www.kent.edu/biology/ms-and-phd-biological-sciences-frequently-asked-questions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Biology subject test applies.",
+      "quote": "",
+      "url": "https://www.kent.edu/biology/graduate"
+    },
+    "toefl_min": {
+      "code": "94",
+      "value": "The department's track page requires TOEFL iBT 94.",
+      "quote": "Minimum 94 TOEFL iBT score",
+      "url": "https://www.kent.edu/biology/biological-sciences-cell-biology-and-molecular-genetics-phd"
+    },
+    "ielts_min": {
+      "code": "7.0",
+      "value": "The department's track page requires IELTS 7.0.",
+      "quote": "Minimum 7.0 IELTS score",
+      "url": "https://www.kent.edu/biology/biological-sciences-cell-biology-and-molecular-genetics-phd"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "No application fee waiver for international applicants. Domestic applicants had a free week (Oct 19-26, 2026).",
+      "quote": "There are no application fee waivers being offered for International Applicants.",
+      "url": "https://www.kent.edu/biology/graduate"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "You can apply without contacting faculty, but naming faculty whose research matches yours in the statement helps.",
+      "quote": "No, you can apply without contacting faculty members. | It will help if you are familiar with the research of our faculty",
+      "url": "https://www.kent.edu/biology/ms-and-phd-biological-sciences-frequently-asked-questions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Unconditional admission includes a graduate assistantship with a stipend, tuition coverage and some health insurance.",
+      "quote": "Unconditional acceptance in both our MS & PhD programs includes a graduate assistantship position that comes with a stipend, tuition coverage, and some health insurance benefits",
+      "url": "https://www.kent.edu/biology/ms-and-phd-biological-sciences-frequently-asked-questions"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Bachelor's graduates and master's holders both apply; the credit requirement differs by entry path.",
+      "quote": "Students entering the program with a bachelor's degree must complete a minimum 20 credit hours | Students entering the program with a master's degree should consult with their guidance committee",
+      "url": "https://www.kent.edu/biology/biological-sciences-cell-biology-and-molecular-genetics-phd"
+    }
+  },
+  "notes": "Three Ph.D. tracks: Cell Biology and Molecular Genetics, Ecology and Evolutionary Biology, and Integrative Physiology and Neurobiology (also tagged neuro). Deadline and English minimums come from the Cell Biology track page; the Ecology track page was not fetched. The graduate school table also lists 94/7.0 for all biology programs."
+}

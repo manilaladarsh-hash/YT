@@ -1,0 +1,61 @@
+{
+  "id": "kent--cs",
+  "university": "kent",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.kent.edu/cs/computer-science-phd",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-15",
+      "value": "The Fall application deadline is June 15; the page also lists November 1 for Spring and April 1 for Summer.",
+      "quote": "Application deadline: June 15",
+      "url": "https://www.kent.edu/cs/computer-science-phd",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The PhD page does not say whether the GRE is required. The 2026-27 catalog lists GRE scores among admission requirements; check with the department.",
+      "quote": "",
+      "url": "https://www.kent.edu/cs/computer-science-phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Computer Science subject test applies.",
+      "quote": "",
+      "url": "https://www.kent.edu/cs/computer-science-phd"
+    },
+    "toefl_min": {
+      "code": "71",
+      "value": "The department requires TOEFL iBT 71.",
+      "quote": "Minimum 71 TOEFL iBT score",
+      "url": "https://www.kent.edu/cs/computer-science-phd"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "The department requires IELTS 6.0.",
+      "quote": "Minimum 6.0 IELTS score",
+      "url": "https://www.kent.edu/cs/computer-science-phd"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages fetched do not say whether an advisor is needed before admission.",
+      "quote": "",
+      "url": "https://www.kent.edu/cs/computer-science-phd"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Graduate assistantships are the main form of support, especially for new students; they are applied for separately by January 31.",
+      "quote": "GAs are our primary form of support, especially for incoming students",
+      "url": "https://www.kent.edu/cs/financial-aid-support-and-graduate-assistantships"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Bachelor's graduates can be admitted directly, and post-master's students follow a separate credit path.",
+      "quote": "Post-baccalaureate students may apply maximum 3 credit hours of CS 69098 | Post-master’s students may apply maximum 9 credit hours of CS 89098 toward their degree",
+      "url": "https://www.kent.edu/cs/computer-science-phd"
+    }
+  },
+  "notes": "The admissions page (kent.edu/cs/admission-requirements-masters-and-phd) is blocked (403). GRE is Not stated here because the PhD page is silent while the catalog lists GRE scores. Assistantship application deadline is January 31 for the following Fall."
+}

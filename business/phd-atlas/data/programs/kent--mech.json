@@ -1,0 +1,80 @@
+{
+  "id": "kent--mech",
+  "university": "kent",
+  "field": "mech",
+  "also_fields": [],
+  "department": "College of Aeronautics and Engineering",
+  "program_page": "https://www.kent.edu/engineering/aerospace-engineering-phd",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "The Fall application deadline is March 1; later applications are considered on a space-available basis.",
+      "quote": "Application deadline: March 1",
+      "url": "https://www.kent.edu/engineering/aerospace-engineering-phd",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Application deadline: March 1",
+          "url": "https://www.kent.edu/engineering/mechatronics-engineering-phd"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to engineering.",
+      "quote": "",
+      "url": "https://www.kent.edu/engineering/aerospace-engineering-phd"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The college requires TOEFL iBT 79, above the graduate-school default of 71.",
+      "quote": "Minimum 79 TOEFL iBT score",
+      "url": "https://www.kent.edu/engineering/aerospace-engineering-phd",
+      "also": [
+        {
+          "quote": "Minimum 79 TOEFL iBT score",
+          "url": "https://www.kent.edu/engineering/mechatronics-engineering-phd"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The college requires IELTS 6.5, above the graduate-school default of 6.0.",
+      "quote": "Minimum 6.5 IELTS score",
+      "url": "https://www.kent.edu/engineering/aerospace-engineering-phd",
+      "also": [
+        {
+          "quote": "Minimum 6.5 IELTS score",
+          "url": "https://www.kent.edu/engineering/mechatronics-engineering-phd"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages fetched do not say whether an advisor is needed before admission.",
+      "quote": "",
+      "url": "https://www.kent.edu/engineering/aerospace-engineering-phd"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages fetched do not state a funding rule for admitted PhD students.",
+      "quote": "",
+      "url": "https://www.kent.edu/engineering/aerospace-engineering-phd"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Bachelor's graduates can apply, and master's holders can enter on a shorter credit path.",
+      "quote": "Minimum Total Credit Hours for Post-Master’s Students",
+      "url": "https://www.kent.edu/engineering/aerospace-engineering-phd",
+      "also": [
+        {
+          "quote": "Bachelor's or master's degree in mechatronics engineering or closely related area",
+          "url": "https://www.kent.edu/engineering/mechatronics-engineering-phd"
+        }
+      ]
+    }
+  },
+  "notes": "One record for two Ph.D.s in the College of Aeronautics and Engineering: Aerospace Engineering (page above) and Mechatronics Engineering (kent.edu/engineering/mechatronics-engineering-phd). Both share the March 1 deadline and 79/6.5 minimums. The GRE is not mentioned on either page.",
+  "name": "Aerospace Engineering and Mechatronics Engineering (Ph.D.)"
+}
