@@ -1,0 +1,77 @@
+{
+  "id": "utoledo--physics",
+  "university": "utoledo",
+  "field": "physics",
+  "also_fields": [
+    "astronomy",
+    "materials"
+  ],
+  "department": "Department of Physics and Astronomy",
+  "program_page": "https://www.utoledo.edu/nsm/physast/programs/grad/admission.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "The Fall application deadline is January 1, with decisions by April 15.",
+      "quote": "Fall semester application deadline | graduate program is January 1st",
+      "url": "https://www.utoledo.edu/nsm/physast/programs/grad/admission.html",
+      "inferred": "year",
+      "time_sensitive": "2027-03-01",
+      "also": [
+        {
+          "quote": "Application deadlines are March 1",
+          "url": "https://www.utoledo.edu/nsm/physast/programs/grad/financial.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "All applicants must submit GRE General scores taken within the past five years.",
+      "quote": "All applicants are required to provide scores for the Graduate Record Examination (GRE) General Exam, taken within the past five years",
+      "url": "https://www.utoledo.edu/nsm/physast/programs/grad/admission.html"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The subject GRE in Physics is not required.",
+      "quote": "The subject GRE in Physics is not required",
+      "url": "https://www.utoledo.edu/nsm/physast/programs/grad/admission.html"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "International applicants need TOEFL iBT 80 for regular admission; a Speaking score of 22 is needed for a TA.",
+      "quote": "International students must present a score on the Test of English as a Foreign Language | in order to qualify for regular admission to the program",
+      "url": "https://www.utoledo.edu/nsm/physast/programs/grad/admission.html",
+      "also": [
+        {
+          "quote": "An iBT score of 22 or higher on the Speaking portion is required",
+          "url": "https://www.utoledo.edu/nsm/physast/programs/grad/admission.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is not tied to a named supervisor. A research advisor is needed by the end of the first full year.",
+      "quote": "Graduate students must have a research advisor by the end of the spring semester of their first full academic year",
+      "url": "https://www.utoledo.edu/nsm/physast/pdfs/PhysAstroGradHandbook.pdf"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantships are limited and the admission process is competitive. The minimum PhD stipend is $24,000 a year.",
+      "quote": "the number of assistantships is always limited and the admission process is competitive",
+      "url": "https://www.utoledo.edu/nsm/physast/programs/grad/financial.html",
+      "also": [
+        {
+          "quote": "The current minimum stipend for PhD students is $24,000 annually",
+          "url": "https://www.utoledo.edu/nsm/physast/programs/grad/admission.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree in physics or a related field with a 2.7 GPA is enough to apply.",
+      "quote": "The requirements for admission to the graduate program consist of a bachelor",
+      "url": "https://www.utoledo.edu/nsm/physast/programs/grad/admission.html"
+    }
+  },
+  "notes": "Concentrations in astrophysics and materials science (handbook) are listed as also_fields. The handbook also lists medical physics, which is not a field id. The medical physics cycle was not fetched and is not recorded."
+}

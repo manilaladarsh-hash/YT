@@ -1,0 +1,73 @@
+{
+  "id": "utoledo--biomed",
+  "university": "utoledo",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Biomedical Science Graduate Program, College of Medicine and Life Sciences",
+  "program_page": "https://www.utoledo.edu/med/grad/biomedical/requirements.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The priority deadline is December 15 for Fall entry only.",
+      "quote": "Priority application deadline is December 15th",
+      "url": "https://www.utoledo.edu/med/grad/biomedical/requirements.html",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "75 USD",
+      "value": "International applicants pay a $75 non-refundable application fee.",
+      "quote": "A $75 non-refundable application fee is required for international students",
+      "url": "https://www.utoledo.edu/med/grad/biomedical/requirements.html"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The program says it cannot offer application fee waivers.",
+      "quote": "We are unable to offer application fee waivers",
+      "url": "https://www.utoledo.edu/med/grad/biomedical/requirements.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required for admission.",
+      "quote": "GRE scores are not required for admission",
+      "url": "https://www.utoledo.edu/med/grad/biomedical/requirements.html"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "GRE scores are not required for admission, so no subject test is needed.",
+      "quote": "GRE scores are not required for admission",
+      "url": "https://www.utoledo.edu/med/grad/biomedical/requirements.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Indian applicants need a test unless they request a waiver with documents, which is reviewed for approval.",
+      "quote": "Any request for a waiver of the English language proficiency requirement must be submitted | will be reviewed for approval",
+      "url": "https://www.utoledo.edu/med/grad/biomedical/requirements.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students do not need a mentor before entering. Lab rotations in the first year lead to a dissertation mentor.",
+      "quote": "Students accepted into our program do not need to find a mentor before they enter",
+      "url": "https://www.utoledo.edu/med/grad/biomedical/requirements.html",
+      "also": [
+        {
+          "quote": "All students undergo laboratory rotations during their first year",
+          "url": "https://www.utoledo.edu/med/grad/biomedical/requirements.html"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All PhD students receive a stipend of $28,000 a year, a tuition waiver and health insurance.",
+      "quote": "All PhD students receive a living stipend of $28,000 per year, tuition waiver, and health insurance",
+      "url": "https://www.utoledo.edu/med/grad/biomedical/requirements.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not required to apply to the PhD.",
+      "quote": "is not required to apply to a PhD program",
+      "url": "https://www.utoledo.edu/med/grad/biomedical/requirements.html"
+    }
+  },
+  "notes": "Covers the Biomedical Science PhD. The page does not name the research tracks, so no also_fields are set."
+}

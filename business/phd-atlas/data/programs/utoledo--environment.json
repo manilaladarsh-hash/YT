@@ -1,0 +1,43 @@
+{
+  "id": "utoledo--environment",
+  "university": "utoledo",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Environmental Sciences",
+  "program_page": "https://www.utoledo.edu/nsm/envsciences/grad/entrance.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Full consideration for Fall admission needs applications by February 15.",
+      "quote": "For full consideration for fall semester admission, applications should be submitted | no later than February 15",
+      "url": "https://www.utoledo.edu/nsm/envsciences/grad/entrance.html",
+      "inferred": "year"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A faculty research advisor must accept you before admission.",
+      "quote": "Acceptance by a faculty research advisor is required for admission to the Ph.D. program",
+      "url": "https://www.utoledo.edu/nsm/envsciences/grad/entrance.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with a master's and applicants with a bachelor's with strong research records are both considered.",
+      "quote": "Two categories of applicants will be considered | those with a B.S. (B.A.) from an accredited university",
+      "url": "https://www.utoledo.edu/nsm/envsciences/grad/entrance.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page mentions assistantships but does not say how many admitted PhD students are funded.",
+      "quote": "",
+      "url": "https://www.utoledo.edu/nsm/envsciences/grad/entrance.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The entrance page does not mention a subject GRE.",
+      "quote": "",
+      "url": "https://www.utoledo.edu/nsm/envsciences/grad/entrance.html"
+    }
+  },
+  "notes": "Also offers a PhD in biology (ecology), not saved as a separate record. The Ph.D. TOEFL minimum on the entrance page is 213 computer-based (old scale), so the university's iBT 80 is not overridden. Entrance page last updated 4/22/25."
+}

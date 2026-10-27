@@ -1,0 +1,48 @@
+{
+  "id": "utoledo--chemistry",
+  "university": "utoledo",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry and Biochemistry",
+  "program_page": "https://www.utoledo.edu/nsm/chemistry/grad/degrees/doctorate.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "gre_general": {
+      "code": "Optional",
+      "value": "The department does not require the GRE. Scores are evaluated if sent.",
+      "quote": "The department does not currently require GRE for admission, though scores, if included, will be evaluated as part of your application",
+      "url": "https://www.utoledo.edu/nsm/chemistry/grad/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The chemistry pages do not mention the Chemistry subject test.",
+      "quote": "",
+      "url": "https://www.utoledo.edu/nsm/chemistry/grad/degrees/doctorate.html"
+    },
+    "deadline": {
+      "code": "Not stated",
+      "value": "No deadline was on the fetched chemistry pages.",
+      "quote": "",
+      "url": "https://www.utoledo.edu/nsm/chemistry/grad/degrees/doctorate.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The fetched chemistry pages do not say how many PhD students are funded.",
+      "quote": "",
+      "url": "https://www.utoledo.edu/nsm/chemistry/grad/degrees/doctorate.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The fetched chemistry pages do not say whether a faculty sponsor is needed.",
+      "quote": "",
+      "url": "https://www.utoledo.edu/nsm/chemistry/grad/degrees/doctorate.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's in chemistry or biochemistry with a 3.0 GPA is needed, and applicants are encouraged to apply directly to the PhD.",
+      "quote": "we highly encourage students to apply directly for the Ph.D. degree",
+      "url": "https://www.utoledo.edu/nsm/chemistry/grad/"
+    }
+  },
+  "notes": "The official doctoral list also includes a PhD in Medicinal Chemistry (DMC), not checked here. Chemistry GRE rule is from the department home page."
+}

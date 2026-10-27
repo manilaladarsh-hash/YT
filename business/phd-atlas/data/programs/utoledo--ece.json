@@ -1,0 +1,77 @@
+{
+  "id": "utoledo--ece",
+  "university": "utoledo",
+  "field": "ece",
+  "also_fields": [
+    "mech",
+    "chemeng",
+    "civil"
+  ],
+  "department": "College of Engineering",
+  "program_page": "https://www.utoledo.edu/engineering/graduate-studies/prospectivestudents/graduateprograms.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "International applicants pay a $75 application fee.",
+      "quote": "The application fee for all graduate programs is $45 for domestic US applicants and $75 for",
+      "url": "https://www.utoledo.edu/engineering/graduate-studies/prospectivestudents/FAQs.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Each engineering department decides whether to require the GRE. The FAQ does not name the PhD rule.",
+      "quote": "It is within the discretion of the various engineering departments to require the GRE for all",
+      "url": "https://www.utoledo.edu/engineering/graduate-studies/prospectivestudents/FAQs.html"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The engineering FAQ lists TOEFL iBT 80 as the minimum.",
+      "quote": "TOEFL IBT of 80, IELTS of 6.5, PTE of 58, or Duolingo of 105",
+      "url": "https://www.utoledo.edu/engineering/graduate-studies/prospectivestudents/FAQs.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The engineering FAQ lists IELTS 6.5 as the minimum.",
+      "quote": "TOEFL IBT of 80, IELTS of 6.5, PTE of 58, or Duolingo of 105",
+      "url": "https://www.utoledo.edu/engineering/graduate-studies/prospectivestudents/FAQs.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Minimum scores cannot be waived, so an Indian applicant needs a TOEFL, IELTS or other listed test.",
+      "quote": "Minimum scores are set by the College of Graduate Studies and cannot be waived",
+      "url": "https://www.utoledo.edu/engineering/graduate-studies/prospectivestudents/FAQs.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by the program committee. Dissertation research is supervised after admission.",
+      "quote": "Applications are reviewed by the program admission committee",
+      "url": "https://www.utoledo.edu/engineering/graduate-studies/prospectivestudents/FAQs.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding for admitted candidates depends on qualifications, available funding and open lab positions.",
+      "quote": "funding decisions for admitted candidates are based on student qualifications, availability of funding, and open positions in research laboratories",
+      "url": "https://www.utoledo.edu/engineering/graduate-studies/prospectivestudents/FAQs.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The PhD needs 90 credit hours beyond a bachelor's, or 60 beyond a master's.",
+      "quote": "The Ph.D. programs require 90-credit hours beyond the Bachelor of Science, or 60-credit hours beyond the Master of Science degree",
+      "url": "https://www.utoledo.edu/engineering/graduate-studies/prospectivestudents/graduateprograms.html"
+    },
+    "deadline": {
+      "code": "Not stated",
+      "value": "The FAQ gives no application deadline.",
+      "quote": "",
+      "url": "https://www.utoledo.edu/engineering/graduate-studies/prospectivestudents/FAQs.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The FAQ does not mention a subject GRE.",
+      "quote": "",
+      "url": "https://www.utoledo.edu/engineering/graduate-studies/prospectivestudents/FAQs.html"
+    }
+  },
+  "notes": "One PhD in Engineering with concentrations in bioengineering, chemical, civil, electrical, industrial and mechanical engineering. Bioengineering and industrial have no matching field id, so only the four matching fields are listed. The FAQ says the program uses a Duolingo minimum of 105, which the graduate school lists as 110. Deadline not stated in the FAQ.",
+  "name": "Ph.D. in Engineering"
+}
