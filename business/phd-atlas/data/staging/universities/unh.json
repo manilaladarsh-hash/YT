@@ -1,0 +1,47 @@
+{
+  "id": "unh",
+  "institution": "University of New Hampshire",
+  "country": "USA",
+  "region": "New Hampshire",
+  "grad_page": "https://gradschool.unh.edu/admissions/international-students",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "UNH graduate school page could not be fetched: every UNH host fails through the agent proxy (502, tunnel closed mid-exchange), so no UNH rule was verified.",
+      "quote": "",
+      "url": "https://gradschool.unh.edu/admissions/international-students"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "UNH graduate school page could not be fetched: every UNH host fails through the agent proxy (502, tunnel closed mid-exchange), so no UNH rule was verified.",
+      "quote": "",
+      "url": "https://gradschool.unh.edu/admissions/international-students"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "UNH graduate school page could not be fetched: every UNH host fails through the agent proxy (502, tunnel closed mid-exchange), so no UNH rule was verified.",
+      "quote": "",
+      "url": "https://gradschool.unh.edu/admissions/international-students"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "UNH graduate school page could not be fetched: every UNH host fails through the agent proxy (502, tunnel closed mid-exchange), so no UNH rule was verified.",
+      "quote": "",
+      "url": "https://gradschool.unh.edu/admissions/international-students"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "UNH graduate school page could not be fetched: every UNH host fails through the agent proxy (502, tunnel closed mid-exchange), so no UNH rule was verified.",
+      "quote": "",
+      "url": "https://gradschool.unh.edu/admissions/international-students"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "UNH graduate school page could not be fetched: every UNH host fails through the agent proxy (502, tunnel closed mid-exchange), so no UNH rule was verified.",
+      "quote": "",
+      "url": "https://gradschool.unh.edu/admissions/international-students"
+    }
+  },
+  "notes": "Placeholder, no values verified. Blocked URLs (502 via the fetch tool, 2026-10-27): https://gradschool.unh.edu/admissions/international-students, https://gradschool.unh.edu/admissions/apply, https://gradschool.unh.edu/admissions/test-scores, https://catalog.unh.edu/graduate/programs/, https://www.unh.edu/program/doctor-philosophy/physics, https://www.unh.edu/program/doctor-philosophy/computer-science, https://www.unh.edu/admissions-aid/international-students. Re-run with research.py --refresh; the cache holds 502 entries for these URLs."
+}
