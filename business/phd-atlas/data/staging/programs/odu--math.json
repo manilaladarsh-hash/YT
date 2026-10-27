@@ -1,0 +1,58 @@
+{
+  "id": "odu--math",
+  "university": "odu",
+  "field": "math",
+  "also_fields": [
+    "statistics",
+    "datasci"
+  ],
+  "department": "Department of Mathematics & Statistics",
+  "program_page": "https://www.odu.edu/academics/programs/doctoral/comp-applied-mathematics",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-15",
+      "value": "No program deadline is stated; the university's general international Fall deadline is April 15.",
+      "quote": "The deadline to apply for Fall (August) is April 15.",
+      "url": "https://www.odu.edu/admission/international/process/answers",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a Mathematics subject test.",
+      "quote": "",
+      "url": "https://www.odu.edu/academics/programs/doctoral/comp-applied-mathematics"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The required-items list for this PhD has no GRE.",
+      "quote": "Transcripts | Essay | 3 References | Resume",
+      "url": "https://www.odu.edu/admission/graduate/requirements"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.odu.edu/academics/programs/doctoral/comp-applied-mathematics"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not describe PhD funding.",
+      "quote": "",
+      "url": "https://www.odu.edu/academics/programs/doctoral/comp-applied-mathematics"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students may be admitted with a bachelor's or a master's; a 3.00 GPA in the major is required.",
+      "quote": "Students may be admitted directly to the Ph.D. program with either a bachelor’s or a master’s degree.",
+      "url": "https://www.odu.edu/academics/programs/doctoral/comp-applied-mathematics",
+      "also": [
+        {
+          "quote": "Students in the program can choose to pursue a concentration in either applied mathematics, mathematics of data science, statistics, or biostatistics.",
+          "url": "https://www.odu.edu/academics/programs/doctoral/comp-applied-mathematics"
+        }
+      ]
+    }
+  },
+  "notes": "One PhD covers the statistics, biostatistics and Mathematics of Data Science concentrations, so statistics and datasci are listed as also_fields."
+}

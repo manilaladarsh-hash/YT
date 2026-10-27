@@ -1,0 +1,55 @@
+{
+  "id": "odu--bme",
+  "university": "odu",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Biomedical Engineering",
+  "program_page": "https://www.odu.edu/academics/programs/doctoral/biomedical-engineering",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-15",
+      "value": "No program deadline is stated; the university's general international Fall deadline is April 15.",
+      "quote": "The deadline to apply for Fall (August) is April 15.",
+      "url": "https://www.odu.edu/admission/international/process/answers",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject test.",
+      "quote": "",
+      "url": "https://www.odu.edu/academics/programs/doctoral/biomedical-engineering"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Recent GRE scores must be submitted by all applicants, per the department page.",
+      "quote": "Recent scores, typically, not more than five years old, on the Graduate Record Examination's (GRE) verbal, quantitative, and analytical writing sections must be submitted by all applicants",
+      "url": "https://www.odu.edu/academics/programs/doctoral/biomedical-engineering",
+      "also": [
+        {
+          "quote": "The GRE can be waived at the discretion of the Graduate Program Director.",
+          "url": "https://www.odu.edu/admission/graduate/requirements"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.odu.edu/academics/programs/doctoral/biomedical-engineering"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not describe PhD funding.",
+      "quote": "",
+      "url": "https://www.odu.edu/academics/programs/doctoral/biomedical-engineering"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's in a closely related field is expected; direct admission can be petitioned.",
+      "quote": "Completion of a master's degree in a closely related field is expected.",
+      "url": "https://www.odu.edu/academics/programs/doctoral/biomedical-engineering"
+    }
+  },
+  "notes": "The department page says the GRE must be submitted; the graduate requirements page says the Graduate Program Director may waive it. The department value is saved."
+}

@@ -1,0 +1,61 @@
+{
+  "id": "odu--civil",
+  "university": "odu",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Civil & Environmental Engineering",
+  "program_page": "https://www.odu.edu/academics/programs/doctoral/civil-enviromental-engineering",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-15",
+      "value": "No program deadline is stated; the university's general international Fall deadline is April 15.",
+      "quote": "The deadline to apply for Fall (August) is April 15.",
+      "url": "https://www.odu.edu/admission/international/process/answers",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject test.",
+      "quote": "",
+      "url": "https://www.odu.edu/academics/programs/doctoral/civil-enviromental-engineering"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE is required except for ABET-accredited engineering master's holders for the PhD.",
+      "quote": "Submission of GRE scores are required, except for master's program applicants who hold a bachelor's degree or Ph.D. program applicants who hold a master's degree in engineering disciplines from ABET accredited United States based institutions",
+      "url": "https://www.odu.edu/civil-environmental-engineering/students/graduate"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department states IELTS 6.5 or higher for applicants whose native language is not English.",
+      "quote": "All applicants whose native language is not English, must take TOEFL and score 550 points or above (or IELTS ≥ 6.5) for regular admission",
+      "url": "https://www.odu.edu/civil-environmental-engineering/students/graduate"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The department sets a TOEFL minimum of 550 with no test format, so it is not saved as an iBT number.",
+      "quote": "must take TOEFL and score 550 points or above",
+      "url": "https://www.odu.edu/civil-environmental-engineering/students/graduate"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.odu.edu/academics/programs/doctoral/civil-enviromental-engineering"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching and research assistantships are available on a competitive basis.",
+      "quote": "Teaching and research assistantships may be available on a competitive basis.",
+      "url": "https://www.odu.edu/academics/programs/doctoral/civil-enviromental-engineering"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's or equivalent is required, though exceptionally qualified applicants can be admitted directly.",
+      "quote": "A master’s degree or equivalent in engineering or a related field is required for admission to the Ph.D. program",
+      "url": "https://www.odu.edu/academics/programs/doctoral/civil-enviromental-engineering"
+    }
+  },
+  "notes": "Dept page says GRE is required except for ABET-accredited engineering master's holders; the graduate requirements page says GRE is waived if the BS is ABET accredited. The department value is saved."
+}

@@ -1,0 +1,73 @@
+{
+  "id": "odu--biomed",
+  "university": "odu",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Biomedical Sciences PhD (Eastern Virginia Medical School)",
+  "program_page": "https://www.odu.edu/eastern-virginia-medical-school/biomedical-sciences-phd/application-process",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Priority deadline December 1; the regular deadline is December 31.",
+      "quote": "December 1 - Priority PhD application deadline",
+      "url": "https://www.odu.edu/eastern-virginia-medical-school/biomedical-sciences-phd/application-process",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject test.",
+      "quote": "",
+      "url": "https://www.odu.edu/eastern-virginia-medical-school/biomedical-sciences-phd/application-process"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is no longer required for admission to this program.",
+      "quote": "As of September 1, 2018, the Graduate Record Exam (GRE) is no longer required for admission to this program.",
+      "url": "https://www.odu.edu/eastern-virginia-medical-school/biomedical-sciences-phd/application-process"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.odu.edu/eastern-virginia-medical-school/biomedical-sciences-phd/application-process"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not describe PhD funding.",
+      "quote": "",
+      "url": "https://www.odu.edu/eastern-virginia-medical-school/biomedical-sciences-phd/application-process"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not state the degree needed for entry.",
+      "quote": "",
+      "url": "https://www.odu.edu/eastern-virginia-medical-school/biomedical-sciences-phd/application-process"
+    },
+    "app_fee": {
+      "code": "86 USD",
+      "value": "The school's BioMedCAS application fee is $86.",
+      "quote": "along with the $86 application fee",
+      "url": "https://www.odu.edu/eastern-virginia-medical-school/biomedical-sciences-phd/application-process"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The school lists TOEFL iBT 80 with no date or scale note; it is not saved as a number.",
+      "quote": "IBT exam: 80",
+      "url": "https://www.odu.edu/eastern-virginia-medical-school/biomedical-sciences-phd/application-process"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The school's application page sets no IELTS minimum.",
+      "quote": "",
+      "url": "https://www.odu.edu/eastern-virginia-medical-school/biomedical-sciences-phd/application-process"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "The school's application page names no fee waiver; the Graduate School's McNair waiver is not assumed.",
+      "quote": "",
+      "url": "https://www.odu.edu/eastern-virginia-medical-school/biomedical-sciences-phd/application-process"
+    }
+  },
+  "notes": "This PhD is run by the Eastern Virginia Medical School and applied for through BioMedCAS, so its fee, GRE and TOEFL rules are school overrides. Paper-based TOEFL is 550 and computer-based is 213 on the same page."
+}

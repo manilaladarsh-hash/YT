@@ -1,0 +1,49 @@
+{
+  "id": "odu--chemistry",
+  "university": "odu",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.odu.edu/academics/programs/doctoral/chemistry",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-15",
+      "value": "No program deadline is stated; the university's general international Fall deadline is April 15.",
+      "quote": "The deadline to apply for Fall (August) is April 15.",
+      "url": "https://www.odu.edu/admission/international/process/answers",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a Chemistry subject test.",
+      "quote": "",
+      "url": "https://www.odu.edu/academics/programs/doctoral/chemistry"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "Optional for domestic applicants; strongly recommended for international applicants.",
+      "quote": "The submission of Graduate Record Examination (GRE) scores is optional for domestic students but strongly recommended for international applicants.",
+      "url": "https://www.odu.edu/academics/programs/doctoral/chemistry"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.odu.edu/academics/programs/doctoral/chemistry"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not describe PhD funding.",
+      "quote": "",
+      "url": "https://www.odu.edu/academics/programs/doctoral/chemistry"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students with a bachelor's or a master's may apply directly to the PhD.",
+      "quote": "Students with either a bachelor's or a master's degree may apply directly to the Ph.D. program.",
+      "url": "https://www.odu.edu/academics/programs/doctoral/chemistry"
+    }
+  },
+  "notes": "Regular admission requires a 3.00 GPA in the major and 3.00 overall. Undergraduate chemistry courses are expected."
+}

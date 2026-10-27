@@ -1,0 +1,55 @@
+{
+  "id": "odu--ece",
+  "university": "odu",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Electrical & Computer Engineering",
+  "program_page": "https://www.odu.edu/academics/programs/doctoral/electrical-computer-engineering",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-15",
+      "value": "No program deadline is stated; the university's general international Fall deadline is April 15.",
+      "quote": "The deadline to apply for Fall (August) is April 15.",
+      "url": "https://www.odu.edu/admission/international/process/answers",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject test.",
+      "quote": "",
+      "url": "https://www.odu.edu/academics/programs/doctoral/electrical-computer-engineering"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE scores are on the required list.",
+      "quote": "Official transcripts of previous degree(s) awarded. | GRE scores.",
+      "url": "https://www.odu.edu/academics/programs/doctoral/electrical-computer-engineering"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.odu.edu/academics/programs/doctoral/electrical-computer-engineering"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not describe PhD funding.",
+      "quote": "",
+      "url": "https://www.odu.edu/academics/programs/doctoral/electrical-computer-engineering"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page sets a 3.5 master's GPA for regular admission but does not state the degree needed.",
+      "quote": "",
+      "url": "https://www.odu.edu/academics/programs/doctoral/electrical-computer-engineering"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The department sets a TOEFL minimum of 550 with no test format, so it is not saved as an iBT number.",
+      "quote": "A minimum TOEFL score of 550 is required for all international students when English is not their first language",
+      "url": "https://www.odu.edu/academics/programs/doctoral/electrical-computer-engineering"
+    }
+  },
+  "notes": "Doctoral candidates need a 3.5 master's GPA for regular admission; otherwise provisional admission is possible."
+}

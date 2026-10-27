@@ -1,0 +1,61 @@
+{
+  "id": "odu--cs",
+  "university": "odu",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science",
+  "program_page": "https://www.odu.edu/computer-science/academics/graduate/phd/admissions",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-15",
+      "value": "International applicants' Fall deadline is April 15; the domestic Fall deadline is June 1.",
+      "quote": "International April 15 October 1 February 1",
+      "url": "https://www.odu.edu/computer-science/academics/graduate/phd/admissions",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Computer Science subject test is mentioned.",
+      "quote": "",
+      "url": "https://www.odu.edu/computer-science/academics/graduate/phd/admissions"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE scores are required, and the page sets no cutoff for considering an application.",
+      "quote": "GRE scores (there is no cutoff for considering the application)",
+      "url": "https://www.odu.edu/computer-science/academics/graduate/phd/admissions"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to review faculty work and contact faculty about open positions.",
+      "quote": "Interested applicants are encouraged to review individual faculty members' publications and contact faculty directly to inquire about availability of open positions.",
+      "url": "https://www.odu.edu/academics/programs/doctoral/computer-science"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "PhD students awarded a graduate assistantship receive a 100% tuition waiver and a stipend.",
+      "quote": "Full-time PhD students who are awarded a Graduate Assistantship receive a 100% tuition waiver and a stipend.",
+      "url": "https://www.odu.edu/computer-science/academics/graduate/phd/admissions"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students may enter the PhD directly with a bachelor's or a master's degree.",
+      "quote": "Students may be admitted directly to the PhD program with either a bachelor's or a master's degree",
+      "url": "https://www.odu.edu/computer-science/academics/graduate/phd/admissions"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department states an IELTS score of 6.5 for applicants whose native language is not English.",
+      "quote": "For applicants whose native language is not English, a minimum TOEFL score of 550 (paper-based) or 79 (internet-based), or an IELTS score of 6.5",
+      "url": "https://www.odu.edu/computer-science/academics/graduate/phd/admissions"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The department states TOEFL 79 (internet-based), an old-scale value; it is unconfirmed here, so not saved as a number.",
+      "quote": "a minimum TOEFL score of 550 (paper-based) or 79 (internet-based)",
+      "url": "https://www.odu.edu/computer-science/academics/graduate/phd/admissions"
+    }
+  },
+  "notes": "Deadlines table on the department page: domestic Fall June 1, international Fall April 15. Undergraduate background must include specified CS courses."
+}
