@@ -1,0 +1,55 @@
+{
+  "id": "wvu--biology",
+  "university": "wvu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://biology.wvu.edu/graduate-students/admission",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Priority review deadline for Fall admission is January 1, 2027; later materials are considered on a space-available basis.",
+      "quote": "The priority review deadline for all application materials is January 1st for Summer or Fall admission | Application materials submitted after the deadlines may be considered on a space-available basis",
+      "url": "https://biology.wvu.edu/graduate-students/admission",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required, but will be considered if sent.",
+      "quote": "GRE Scores are not required for the application or admission to the WVU Biology graduate programs, but will be considered if they are provided",
+      "url": "https://biology.wvu.edu/graduate-students/admission"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "GRE scores are not required, so no subject test is needed.",
+      "quote": "GRE Scores are not required for the application or admission to the WVU Biology graduate programs, but will be considered if they are provided",
+      "url": "https://biology.wvu.edu/graduate-students/admission"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A faculty member must agree to advise the applicant, or the applicant is not admitted.",
+      "quote": "If after reviewing all the application materials there is no faculty member willing to serve as the applicant's academic advisor, then the potential student will not be accepted into the program",
+      "url": "https://biology.wvu.edu/graduate-students/admission"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Fall and Summer applicants received by the deadline are considered for a GTA; no guarantee is stated.",
+      "quote": "Fall and Summer applications received by the deadline will be considered for financial support in the form of a graduate teaching assistantship (GTA)",
+      "url": "https://biology.wvu.edu/graduate-students/admission"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The program admits students directly to the master's or doctoral degree from a bachelor's degree.",
+      "quote": "The Biology program admits students directly to either the masters or doctoral degree programs",
+      "url": "https://biology.wvu.edu/graduate-students/admission"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The page gives only an old-scale iBT figure (over 100), so no TOEFL minimum is recorded here.",
+      "quote": "greater than 100 for the internet-based test",
+      "url": "https://biology.wvu.edu/graduate-students/admission"
+    }
+  },
+  "notes": "Department says it likes to see IELTS above 7.0 and Duolingo above 120; these are preferences, not stated minimums. Admission is by vote of the Graduate Committee."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "wvu--ece",
+  "university": "wvu",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Lane Department of Computer Science and Electrical Engineering",
+  "program_page": "https://lcsee.statler.wvu.edu/graduate",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "Fall application deadline is April 1, 2027 on the graduate school's program page.",
+      "quote": "Fall: April 1",
+      "url": "https://graduateadmissions.wvu.edu/academics/graduate-programs/electrical-engineering-d",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE scores are required for admission and for assistantship consideration; the requirement can be waived for listed ABET or top-ranked programs with a 3.2 GPA.",
+      "quote": "Submission of GRE scores. GRE scores are required for admission and to be considered for graduate assistantships | The GRE requirement can be waived for students from",
+      "url": "https://catalog.wvu.edu/graduate/collegeofengineeringandmineralresources/thelanedepartmentofcomputerscienceandelectricalengineering/ee/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is named for electrical or computer engineering.",
+      "quote": "",
+      "url": "https://catalog.wvu.edu/graduate/collegeofengineeringandmineralresources/thelanedepartmentofcomputerscienceandelectricalengineering/ee/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog and department page do not say whether a faculty member must agree to advise before admission.",
+      "quote": "",
+      "url": "https://lcsee.statler.wvu.edu/graduate"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department's main support is the graduate teaching assistantship; no guarantee is stated.",
+      "quote": "The primary source for financial support within the department is the Graduate Teaching Assistantship",
+      "url": "https://lcsee.statler.wvu.edu/graduate"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The EE PhD requires an appropriate master's degree; the computer engineering PhD also accepts a bachelor's.",
+      "quote": "All applicants require an appropriate master's degree for entry",
+      "url": "https://catalog.wvu.edu/graduate/collegeofengineeringandmineralresources/thelanedepartmentofcomputerscienceandelectricalengineering/ee/",
+      "also": [
+        {
+          "quote": "All applicants for the doctoral program require an appropriate bachelor's or master's degree for entry",
+          "url": "https://catalog.wvu.edu/graduate/collegeofengineeringandmineralresources/thelanedepartmentofcomputerscienceandelectricalengineering/computer_engineering/"
+        }
+      ]
+    }
+  },
+  "notes": "Covers the Electrical Engineering and Computer Engineering PhDs. Waiver conditions include ABET programs or QS top-ranked institutions with a 3.2 GPA.",
+  "name": "Electrical and Computer Engineering, PhD"
+}
