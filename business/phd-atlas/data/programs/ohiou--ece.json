@@ -1,0 +1,50 @@
+{
+  "id": "ohiou--ece",
+  "university": "ohiou",
+  "field": "ece",
+  "also_fields": [
+    "cs"
+  ],
+  "department": "Electrical Engineering and Computer Science",
+  "program_page": "https://www.ohio.edu/engineering/eecs/graduate/phd",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The EECS PhD pages give no deadline.",
+      "quote": "",
+      "url": "https://www.ohio.edu/engineering/eecs/graduate/phd/admissions-requirements"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General is required for applicants whose degree is not from an ABET-accredited program.",
+      "quote": "Students with degrees from programs that are not accredited by the ABET engineering or computing commissions must submit scores from the Graduate Record Examination (GRE) general test.",
+      "url": "https://www.ohio.edu/engineering/eecs/graduate/phd/admissions-requirements"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not state a subject GRE rule.",
+      "quote": "",
+      "url": "https://www.ohio.edu/engineering/eecs/graduate/phd/admissions-requirements"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not state a supervisor rule before admission.",
+      "quote": "",
+      "url": "https://www.ohio.edu/engineering/eecs/graduate/phd/admissions-requirements"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Admission and support, including tuition scholarships and assistantships, are competitive.",
+      "quote": "Admission and support (tuition scholarships, research and teaching assistantships) are competitive.",
+      "url": "https://www.ohio.edu/engineering/eecs/graduate/phd/admissions-requirements"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants can enter with an M.S. or go straight from a B.S. into the PhD.",
+      "quote": "Admission to the Ph.D. program is considered for applicants who either currently hold an M.S. degree or those who seek direct entry to the Ph.D. program with a B.S. degree.",
+      "url": "https://www.ohio.edu/engineering/eecs/graduate/phd/admissions-requirements"
+    }
+  },
+  "notes": "The EECS PhD name covers computer science, so cs is in also_fields. Admission requirements are on the admissions-requirements page."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ohiou--biomed",
+  "university": "ohiou",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Translational Biomedical Sciences Program",
+  "program_page": "https://www.ohio.edu/graduate/degree-programs/translational-biomedical-sciences",
+  "checked": "2026-10-27",
+  "fields": {
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not state a subject GRE rule.",
+      "quote": "",
+      "url": "https://www.ohio.edu/graduate/degree-programs/translational-biomedical-sciences"
+    },
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "The program gives no deadline, so the Graduate College's international Fall deadline of February 1 applies.",
+      "quote": "If the program does not indicate a specific deadline, Graduate College deadlines are: | International, needing I-20 or DS-2019",
+      "url": "https://www.ohio.edu/graduate/apply/degree-seeking",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional for this program.",
+      "quote": "GRE test scores are currently optional.",
+      "url": "https://www.ohio.edu/graduate/degree-programs/translational-biomedical-sciences"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants must name at least two potential faculty mentors from different disciplines.",
+      "quote": "Indicate potential mentors among the faculty at Ohio University. | Note that the interdisciplinary dimension of the TBS doctoral program requires you to identify at least two mentors from two different disciplines.",
+      "url": "https://www.ohio.edu/graduate/degree-programs/translational-biomedical-sciences"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The program page gives no funding rule.",
+      "quote": "",
+      "url": "https://www.ohio.edu/graduate/degree-programs/translational-biomedical-sciences"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's or master's degree in a relevant discipline with a GPA of 3.0 or higher is accepted.",
+      "quote": "A bachelor’s or master’s degree in a relevant discipline with a GPA of 3.0 or higher.",
+      "url": "https://www.ohio.edu/graduate/degree-programs/translational-biomedical-sciences"
+    }
+  },
+  "notes": "Admission details come from the TBS program page; the February 1 deadline is the Graduate College default for programs that set none."
+}

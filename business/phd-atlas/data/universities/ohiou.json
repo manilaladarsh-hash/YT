@@ -1,0 +1,53 @@
+{
+  "id": "ohiou",
+  "institution": "Ohio University",
+  "country": "USA",
+  "region": "Ohio",
+  "grad_page": "https://www.ohio.edu/graduate/apply/international-students",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "55 USD",
+      "value": "The Graduate College charges $55 USD for a first degree application from an international applicant.",
+      "quote": "First Ohio University Graduate Degree Application | None | None | US Citizen, Permanent Resident, Asylee, Refugee, TPS and DACA | $50 USD | None | International | $55 USD",
+      "url": "https://www.ohio.edu/graduate/apply/degree-seeking"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The Graduate College waives the fee only for McNair Scholars Program participants; some programs may waive it case by case.",
+      "quote": "The Graduate College has no other application fee waivers. Some academic programs may offer an application fee waiver on a case-by-case basis.",
+      "url": "https://www.ohio.edu/graduate/apply/degree-seeking"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE requirements are set by each program, so the program records state them.",
+      "quote": "Test requirements for the GRE or GMAT vary by program.",
+      "url": "https://www.ohio.edu/graduate/apply/degree-seeking"
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "For funding eligibility the iBT minimum is a composite of 4 with 4 in every section; this is the Graduate College rule for all PhD applicants.",
+      "quote": "iBT: 4 composite, 4 all sections",
+      "url": "https://www.ohio.edu/graduate/apply/international-students/english-proficiency"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "For funding eligibility the IELTS minimum is 6.5 overall and in every band; general admission is 6.0.",
+      "quote": "IELTS Academic: 6.5 composite and across all bands",
+      "url": "https://www.ohio.edu/graduate/apply/international-students/english-proficiency",
+      "also": [
+        {
+          "quote": "IELTS: ≥6.0 Composite, ≥6.0 all Bands",
+          "url": "https://www.ohio.edu/graduate/apply/international-students/english-proficiency"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the Graduate College's list of countries that waive the English test, so Indian applicants need a TOEFL, IELTS or DET score.",
+      "quote": "Countries meeting the Ohio University criteria for English as the official and majority-used language: Australia, Bahamas, Belize, Canada (except Quebec), Gambia, Ghana, Grenada, Guyana, Republic of Ireland, Jamaica, Kenya, Malawi, New Zealand, Nigeria, Sierra Leone, Singapore, Trinidad and Tobago, Uganda, and United Kingdom",
+      "url": "https://www.ohio.edu/graduate/apply/international-students/english-proficiency"
+    }
+  },
+  "notes": "Sources: Graduate College pages on international applicants, English proficiency, degree-seeking applications and the financial support page, fetched 2026-10-27. The English page sets 6.0 IELTS for general admission and 6.5 for funding, and the record uses 6.5. The catalogs.ohio.edu doctoral list returned HTTP 502 on every attempt, so the program list was built from the College of Arts and Sciences and Russ College graduate pages and department pages."
+}

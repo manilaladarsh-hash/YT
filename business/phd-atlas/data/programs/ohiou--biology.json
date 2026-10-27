@@ -1,0 +1,63 @@
+{
+  "id": "ohiou--biology",
+  "university": "ohiou",
+  "field": "biology",
+  "also_fields": [
+    "neuro"
+  ],
+  "department": "Biological Sciences",
+  "program_page": "https://www.ohio.edu/cas/biology/graduate/admissions",
+  "checked": "2026-10-27",
+  "fields": {
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not state a subject GRE rule.",
+      "quote": "",
+      "url": "https://www.ohio.edu/cas/biology/graduate/admissions"
+    },
+    "deadline": {
+      "code": "2027-01-08",
+      "value": "Applications must be received by January 8 for fall entry and to be considered for funding.",
+      "quote": "Applications for admission must be received by the Biological Sciences Department by Jan. 8 to be considered for both admission and funding for fall semester of the following academic year.",
+      "url": "https://www.ohio.edu/cas/biology/graduate/admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is no longer needed for admission.",
+      "quote": "Note: The GRE is no longer needed for admission.",
+      "url": "https://www.ohio.edu/cas/biology/graduate/admissions"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "Biological Sciences requires a TOEFL iBT of 90.",
+      "quote": "A TOEFL-iBT of 90 is required",
+      "url": "https://www.ohio.edu/cas/biology/graduate/admissions"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants name three potential faculty advisers; listing one does not guarantee a place in that lab.",
+      "quote": "a list of three active graduate faculty members the student is interested in as advisers",
+      "url": "https://www.ohio.edu/cas/biology/graduate/admissions",
+      "also": [
+        {
+          "quote": "listing a faculty member as a potential advisor does not guarantee admission to that specific faculty member’s lab",
+          "url": "https://www.ohio.edu/cas/biology/graduate/admissions"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Admission and funding are ranked, and aid depends on availability for students who need it.",
+      "quote": "All admissions are based on a hierarchal ranking of students and, if the student requires financial aid, on the availability of funding.",
+      "url": "https://www.ohio.edu/cas/biology/graduate/admissions"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students can enter with an M.S. or directly; M.S. entrants get five years of program support.",
+      "quote": "Ph.D. students entering the program with an M.S. degree can receive program-derived support for a maximum of five years after they enter the program",
+      "url": "https://www.ohio.edu/cas/biology/graduate/graduate-aid"
+    }
+  },
+  "notes": "The Biological Sciences PhD includes an Integrative Physiology and Neuroscience concentration, so neuro is in also_fields. A separate Molecular and Cellular Biology PhD is listed as a related program on the biology PhD page; its own admissions rules were not fetched."
+}
