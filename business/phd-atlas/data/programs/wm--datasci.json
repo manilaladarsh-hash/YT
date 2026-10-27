@@ -1,0 +1,48 @@
+{
+  "id": "wm--datasci",
+  "university": "wm",
+  "field": "datasci",
+  "also_fields": [
+    "math",
+    "materials",
+    "neuro"
+  ],
+  "department": "Department of Applied Science (Data Science concentration)",
+  "program_page": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/apsc/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-05",
+      "value": "Review for fall or summer entry starts at 5 p.m. on the first Friday of February, which is 5 February 2027 for the 2027 cycle.",
+      "quote": "For full consideration, review of applications begins 5:00 p.m. the first Friday of February for entrance in the Fall or Summer semester",
+      "url": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/apsc/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Subject GRE applies to this program, and the catalog page does not mention the General GRE.",
+      "quote": "",
+      "url": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/apsc/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog page does not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/apsc/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog page does not say how many students are funded.",
+      "quote": "",
+      "url": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/apsc/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The minimum is a bachelor's degree with a major in a physical or natural science, mathematics or engineering.",
+      "quote": "Minimally, each applicant must have a Bachelor's degree with a major in a physical or natural science, mathematics, or an engineering discipline",
+      "url": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/apsc/"
+    }
+  },
+  "notes": "Applied Science PhD (Department of Applied Science, CDSP). The Data Science concentration is the official data science track (catalog Data Science page: 'The PhD program in Applied Science is offered with a Data Science concentration'). The same PhD also lists concentrations in Applied Mathematics, Materials Science & Engineering and Neuroscience, recorded as also_fields. The Data Science page on cdsp.wm.edu (blocked) may give a different deadline, so check it before applying.",
+  "name": "Applied Science, Ph.D. (Data Science concentration)"
+}

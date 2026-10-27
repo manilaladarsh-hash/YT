@@ -1,0 +1,47 @@
+{
+  "id": "wm",
+  "institution": "College of William & Mary",
+  "country": "USA",
+  "region": "Virginia",
+  "grad_page": "https://www.wm.edu/as/graduate/admission/international-appl-req-and-inst/",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The Arts & Sciences graduate application fee is $50, non-refundable. The CDSP fee is also $50.",
+      "quote": "A non-refundable processing fee of $50 is required for application for admission to a graduate program in Arts & Sciences.",
+      "url": "https://www.wm.edu/as/graduate/admission/how-to-apply/index.php"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Only McNair Scholars, Fulbright Scholars, Peace Corps, Teach for America or AmeriCorps members and graduates of Minority Serving Institutions can request a fee waiver.",
+      "quote": "The following applicants may request waivers of the application fee | Fulbright Scholars: Send to the Office of Graduate Studies a copy of the letter notifying you of your selection as a Fulbright Fellow",
+      "url": "https://www.wm.edu/as/graduate/admission/how-to-apply/index.php"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are not required by any Arts & Sciences program; you may send them if you choose.",
+      "quote": "Scores from the GRE General Test and/or the GRE Subject Tests are not required by any graduate department or program in Arts & Sciences | The optional submission of GRE scores is allowed, unless otherwise indicated by a department or program",
+      "url": "https://www.wm.edu/as/graduate/admission/how-to-apply/index.php"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The graduate school gives no TOEFL minimum score; the test is required if English is not your first language, and programs may set their own score.",
+      "quote": "",
+      "url": "https://www.wm.edu/as/graduate/admission/international-appl-req-and-inst/"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The graduate school gives no IELTS minimum band; the test is required if English is not your first language, and programs may set their own score.",
+      "quote": "",
+      "url": "https://www.wm.edu/as/graduate/admission/international-appl-req-and-inst/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "India is not named. A waiver needs the program's recommendation and a transcript showing that the degree was taught in English, so an English-medium Indian degree is conditional.",
+      "quote": "Upon the recommendation of the graduate program to which you are applying, the TOEFL/IELTS requirement can be waived for applicants who will have received a degree from a college or university in which English is the primary language of instruction | A transcript is required as evidence of successful instruction in English as a primary language",
+      "url": "https://www.wm.edu/as/graduate/admission/international-appl-req-and-inst/"
+    }
+  },
+  "notes": "Graduate school rules for Arts & Sciences; CDSP (Applied Science, CS, Physics) lists the same $50 fee, optional GRE and waiver rule. The Batten School (Marine Science PhD) sets its own fee, GRE and English rules on its program record."
+}

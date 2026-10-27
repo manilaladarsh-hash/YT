@@ -1,0 +1,49 @@
+{
+  "id": "wm--cs",
+  "university": "wm",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science (School of Computing, Data Sciences & Physics)",
+  "program_page": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/csci/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No deadline could be verified: the CS admissions page on cdsp.wm.edu returned errors, and the catalog defers to each program's own deadline.",
+      "quote": "",
+      "url": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/csci/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores, general or computer science subject, are not required and do not hurt an application if left out.",
+      "quote": "The general and computer science subject GRE scores are not required but may optionally be supplied | The absence of GRE scores will not negatively affect the application",
+      "url": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/csci/"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The catalog says computer science subject GRE scores may be sent, but are not required.",
+      "quote": "The general and computer science subject GRE scores are not required but may optionally be supplied",
+      "url": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/csci/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The CS catalog page does not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/csci/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog page does not state how many PhD students are funded.",
+      "quote": "",
+      "url": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/csci/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The catalog page does not say whether a bachelor's degree is enough for the PhD.",
+      "quote": "",
+      "url": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/csci/"
+    }
+  },
+  "notes": "PhD in Computer Science (and a Computational Science concentration) in the CDSP catalog. Deadline page cdsp.wm.edu/admissions/graduate/computer-science/ is blocked (502). Application fee is the CDSP $50.",
+  "name": "Computer Science, Ph.D."
+}
