@@ -1,0 +1,56 @@
+{
+  "id": "boise--earth",
+  "university": "boise",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Geosciences",
+  "program_page": "https://www.boisestate.edu/earth/about-2-3-3/admissions/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-03",
+      "value": "The Geosciences application deadline for fall enrollment is January 3, 2027; late applicants may apply through April 15.",
+      "quote": "January 3rd Geosciences application deadline (Fall Semester enrollment).",
+      "url": "https://www.boisestate.edu/earth/about-2-3-3/admissions/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Geosciences admissions page does not mention a GRE.",
+      "quote": "",
+      "url": "https://www.boisestate.edu/earth/about-2-3-3/admissions/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The department lists old-scale TOEFL scores (587 paper, 89 internet), which are not recorded here.",
+      "quote": "A TOEFL score of 587 or higher for the written exam or 89 internet-based test (iBT)",
+      "url": "https://www.boisestate.edu/earth/about-2-3-3/admissions/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are asked to email faculty about advising, and the committee identifies a thesis advisor as part of admission.",
+      "quote": "Please contact faculty members via email to inquire about their ability to serve as your advisor beginning the Academic Year to which you are applying.",
+      "url": "https://www.boisestate.edu/earth/about-2-3-3/admissions/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Accepted applicants who apply by January 3 get priority for stipends and tuition waivers, and late offers depend on availability.",
+      "quote": "if accepted into Geosciences degree programs are given priority for offers of financial assistance (stipends and tuition waivers)",
+      "url": "https://www.boisestate.edu/earth/about-2-3-3/admissions/",
+      "also": [
+        {
+          "quote": "highly qualified late applicants are eligible for offers of financial assistance pending availability",
+          "url": "https://www.boisestate.edu/earth/about-2-3-3/admissions/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "At least a bachelor's degree from a STEM program is required, so a master's holder can also apply.",
+      "quote": "Applicants are required to have earned at least a baccalaureate degree from a science, technology, engineering, or mathematics program",
+      "url": "https://www.boisestate.edu/earth/about-2-3-3/admissions/"
+    }
+  },
+  "notes": "The department lists Geosciences PhD and Geophysics PhD degrees; both use this admissions page. Minimum undergraduate GPA is 3.00.",
+  "name": "Geosciences and Geophysics PhD"
+}

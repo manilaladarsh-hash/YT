@@ -1,0 +1,56 @@
+{
+  "id": "boise--bme",
+  "university": "boise",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Biomedical Engineering PhD Program",
+  "program_page": "https://www.boisestate.edu/bme/admissions/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Priority applications for fall admission are due January 15, 2027, with a final deadline of May 15, 2027.",
+      "quote": "Deadlines to apply for fall admission: January 15th (priority), May 15th (final)",
+      "url": "https://www.boisestate.edu/bme/admissions/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE General is optional for BME and is highly recommended for applicants with weaker GPA or research experience, or with international transcripts.",
+      "quote": "(Optional) Official Graduate Record Examinations (GRE) General Test scores.",
+      "url": "https://www.boisestate.edu/bme/admissions/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The BME page does not mention a subject GRE.",
+      "quote": "",
+      "url": "https://www.boisestate.edu/bme/admissions/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "The statement must name at least one BME faculty member as a prospective advisor, and applicants are encouraged to contact faculty.",
+      "quote": "This statement should clearly state the study track(s) of interest and at least one Ph.D. faculty member as a prospective advisor.",
+      "url": "https://www.boisestate.edu/bme/admissions/",
+      "also": [
+        {
+          "quote": "Applicants are encouraged to contact BME faculty members who are doing work in areas that align with their own research interests",
+          "url": "https://www.boisestate.edu/bme/admissions/funding/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "A graduate assistantship covers tuition with a stipend, but BME says offers of financial support are competitive.",
+      "quote": "Please be aware that offers of financial support are competitive.",
+      "url": "https://www.boisestate.edu/bme/admissions/funding/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need at least a Bachelor of Science from an accredited institution; a master's is not required.",
+      "quote": "Prior to commencing graduate study, applicants must hold a minimum of a Bachelor of Science degree from an accredited institution.",
+      "url": "https://www.boisestate.edu/bme/admissions/"
+    }
+  },
+  "notes": "The BME program is a PhD only. It has four tracks: biomaterials, biomechanics, human performance and mechanobiology. Spring deadlines are August 15 (priority) and October 15 (final).",
+  "name": "Biomedical Engineering PhD"
+}

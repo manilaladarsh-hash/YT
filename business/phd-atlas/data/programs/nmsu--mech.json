@@ -24,6 +24,30 @@
       "value": "Doctoral applicants with a 3.3 GPA can apply straight after a bachelor's degree.",
       "quote": "Students are allowed to apply for the Doctoral Program directly after receiving a bachelor’s degree if their graduate point average is 3.3 or above",
       "url": "https://mae.nmsu.edu/academic-programs/grad/admission.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The fetched department pages do not state whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://mae.nmsu.edu/academic-programs/graduate.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The fetched department pages do not state a funding rule.",
+      "quote": "",
+      "url": "https://mae.nmsu.edu/academic-programs/graduate.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE rule is stated on the fetched pages.",
+      "quote": "",
+      "url": "https://mae.nmsu.edu/academic-programs/graduate.html"
+    },
+    "deadline": {
+      "code": "Not stated",
+      "value": "No Fall 2027 deadline is stated on the fetched pages.",
+      "quote": "",
+      "url": "https://mae.nmsu.edu/academic-programs/graduate.html"
     }
   },
   "notes": "The MAE admission page looks like an older template (2025 footer, $30 domestic fee, old TOEFL scale). Its GRE line conflicts with its own note that the screening committee will not review GRE scores; the current graduate page is used for the GRE value. No deadline or funding rule found.",

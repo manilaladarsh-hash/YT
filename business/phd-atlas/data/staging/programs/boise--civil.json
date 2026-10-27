@@ -1,0 +1,53 @@
+{
+  "id": "boise--civil",
+  "university": "boise",
+  "field": "civil",
+  "also_fields": [
+    "mech",
+    "environment"
+  ],
+  "department": "Engineering PhD Program (College of Engineering)",
+  "program_page": "https://www.boisestate.edu/engineeringphd/admissions/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Priority applications for fall admission are due January 15, 2027, with a final deadline of May 15, 2027.",
+      "quote": "Fall Admissions: January 15th (priority), May 15th (final)",
+      "url": "https://www.boisestate.edu/engineeringphd/admissions/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Engineering PhD page does not mention a subject GRE.",
+      "quote": "",
+      "url": "https://www.boisestate.edu/engineeringphd/admissions/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The statement must name Boise State faculty, but the page does not say a faculty member must agree before admission.",
+      "quote": "Well articulated statement of research interests that clearly outlines potential lines of research and Boise State faculty members",
+      "url": "https://www.boisestate.edu/engineeringphd/admissions/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page says meeting the requirements does not guarantee funding.",
+      "quote": "Meeting the minimum and/or recommended requirements does not guarantee admission to the program or imply funding will be provided by the University, College, Department, or faculty members.",
+      "url": "https://www.boisestate.edu/engineeringphd/admissions/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's or master's in engineering or a closely related field qualifies; foreign degrees must be assessed by International Admissions.",
+      "quote": "All applicants must have an earned baccalaureate or master’s degree in engineering, or a closely related discipline",
+      "url": "https://www.boisestate.edu/engineeringphd/admissions/",
+      "also": [
+        {
+          "quote": "International applicants with foreign university degrees must have their degrees assessed by the International Admissions Office",
+          "url": "https://www.boisestate.edu/engineeringphd/admissions/"
+        }
+      ]
+    }
+  },
+  "notes": "Four tracks: Infrastructure Systems (civil), Water and Environment, Energy Systems (mechanical, ECE and materials courses) and Mechatronics and Control Systems (mechanical and ECE courses). Requires 62 credits. TOEFL follows the Graduate College rule, so no separate TOEFL value is recorded.",
+  "name": "Engineering PhD"
+}

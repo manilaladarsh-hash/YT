@@ -1,0 +1,72 @@
+{
+  "id": "boise--biomed",
+  "university": "boise",
+  "field": "biomed",
+  "also_fields": [
+    "biology",
+    "chemistry",
+    "physics"
+  ],
+  "department": "Biomolecular Sciences Graduate Programs",
+  "program_page": "https://www.boisestate.edu/biomolecularsciences/prospective-students-apply-now/biomolecular-ph-d/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-10",
+      "value": "The priority deadline for fall admission is January 10, 2027; late applications are accepted through May 7.",
+      "quote": "January 10 – Fall Semester General Admissions Deadline: Priority financial assistance (Ph.D. Program Teaching Assistantships are awarded).",
+      "url": "https://www.boisestate.edu/biomolecularsciences/prospective-students-apply-now/applicationdeadlines/",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "A limited number of fee waivers exist, but eligibility is restricted to U.S. citizens and lawful permanent residents.",
+      "quote": "Domestic applicant (citizen or lawful permanent resident of the United States)",
+      "url": "https://www.boisestate.edu/biomolecularsciences/fee-waiver/",
+      "also": [
+        {
+          "quote": "A limited number of application fee waivers are available for qualified Ph.D. applicants.",
+          "url": "https://www.boisestate.edu/biomolecularsciences/fee-waiver/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional; you may send General or Subject scores to the Graduate College.",
+      "quote": "OPTIONAL: Submit official Graduate Record Exam (GRE) scores (General and/or Subject specific test) directly to the Graduate College.",
+      "url": "https://www.boisestate.edu/biomolecularsciences/prospective-students-apply-now/biomolecular-ph-d/application-process/"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "A subject-specific GRE is optional, not required.",
+      "quote": "OPTIONAL: Submit official Graduate Record Exam (GRE) scores (General and/or Subject specific test) directly to the Graduate College.",
+      "url": "https://www.boisestate.edu/biomolecularsciences/prospective-students-apply-now/biomolecular-ph-d/application-process/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students are admitted by the program and declare a major advisor only after three rotations in the first semester.",
+      "quote": "All students accepted into the program on teaching assistantships will complete three 5-week long rotations during their first semester before declaring their Major Advisor.",
+      "url": "https://www.boisestate.edu/biomolecularsciences/laboratory-rotations/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching assistantships with a $25,000 stipend are offered on a competitive basis each fall.",
+      "quote": "These assistantships are offered on a competitive basis every Fall semester",
+      "url": "https://www.boisestate.edu/biomolecularsciences/prospective-students-apply-now/frequently-asked-questions-for-prospective-students/",
+      "also": [
+        {
+          "quote": "All Ph.D. applicants are automatically considered for program funded Teaching Assistantships (TAs), which come with a tuition and fee waiver, student health insurance, and an annual stipend of $25,000.",
+          "url": "https://www.boisestate.edu/biomolecularsciences/prospective-students-apply-now/frequently-asked-questions-for-prospective-students/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's or graduate degree in an appropriate scientific discipline, with a GPA of at least 3.00, is required.",
+      "quote": "An applicant must hold a baccalaureate or graduate degree in an appropriate scientific discipline with a minimum GPA of 3.00.",
+      "url": "https://www.boisestate.edu/biomolecularsciences/prospective-students-apply-now/frequently-asked-questions-for-prospective-students/"
+    }
+  },
+  "notes": "Interdisciplinary program. The core sequence is taught by Biological Sciences, Chemistry and Biochemistry, and Physics faculty. Fee waivers are requested by emailing the program with the required materials.",
+  "name": "Biomolecular Sciences PhD"
+}

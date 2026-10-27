@@ -1,0 +1,74 @@
+{
+  "id": "boise--ece",
+  "university": "boise",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical and Computer Engineering",
+  "program_page": "https://www.boisestate.edu/coen-ece/programs/grad-programs/ece-phd/prospective-students/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The fall admission deadline is January 15, 2027; the spring deadline is September 15.",
+      "quote": "Fall admission: January 15th",
+      "url": "https://www.boisestate.edu/coen-ece/programs/grad-programs/ece-phd/prospective-students/",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "95 USD",
+      "value": "The ECE page gives the international application fee as $95.",
+      "quote": "The application fee is $65 for domestic students and $95 for international students.",
+      "url": "https://www.boisestate.edu/coen-ece/programs/grad-programs/ece-phd/prospective-students/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Fee waivers are requested from individual faculty members rather than the Graduate College, so you must ask a faculty member.",
+      "quote": "Fee waivers are requested by individual faculty members.",
+      "url": "https://www.boisestate.edu/coen-ece/programs/grad-programs/ece-phd/prospective-students/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE General is optional for ECE but highly recommended for applicants with weaker GPA or research experience, or with international transcripts.",
+      "quote": "(Optional) Official Graduate Record Examinations (GRE) General Test scores.",
+      "url": "https://www.boisestate.edu/coen-ece/programs/grad-programs/ece-phd/prospective-students/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The ECE page does not mention a subject GRE.",
+      "quote": "",
+      "url": "https://www.boisestate.edu/coen-ece/programs/grad-programs/ece-phd/prospective-students/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The ECE page lists old-scale TOEFL scores (paper 60, internet 80), which are not recorded here.",
+      "quote": "They are currently pBT: 60 or iBT: 80 for the TOEFL",
+      "url": "https://www.boisestate.edu/coen-ece/programs/grad-programs/ece-phd/prospective-students/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The ECE page gives an IELTS minimum of 6.5, including IELTS Online.",
+      "quote": "6.5 for IELTS and IELTS Online",
+      "url": "https://www.boisestate.edu/coen-ece/programs/grad-programs/ece-phd/prospective-students/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admission and funding both require you to identify a willing faculty advisor before you apply.",
+      "quote": "Yes, admission and funding require students to identify a willing faculty advisor.",
+      "url": "https://www.boisestate.edu/coen-ece/programs/grad-programs/ece-phd/prospective-students/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page says funding is available for incoming and continuing students but does not say that most or all students are funded.",
+      "quote": "The ECE PhD program has funding available for incoming and continuing students in the form of Teaching Assistantships (TAs) and Research Assistantships (RAs).",
+      "url": "https://www.boisestate.edu/coen-ece/programs/grad-programs/ece-phd/prospective-students/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The page allows transfer credit for a bachelor's or a master's, so both can enter the PhD.",
+      "quote": "The program allows students to transfer up to 9 credits for bachelors or 22 credits for a masters.",
+      "url": "https://www.boisestate.edu/coen-ece/programs/grad-programs/ece-phd/prospective-students/"
+    }
+  },
+  "notes": "Applications go through the Graduate College. The department's own FAQ quotes the old TOEFL scale, so no TOEFL number is recorded.",
+  "name": "Electrical and Computer Engineering PhD"
+}

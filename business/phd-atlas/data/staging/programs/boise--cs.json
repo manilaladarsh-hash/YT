@@ -1,0 +1,46 @@
+{
+  "id": "boise--cs",
+  "university": "boise",
+  "field": "cs",
+  "also_fields": [
+    "datasci"
+  ],
+  "department": "School of Computing",
+  "program_page": "https://www.boisestate.edu/computing/academics/doctoral-program/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-05",
+      "value": "The priority deadline for fall 2027 is January 5, 2027, with a final deadline of April 15, 2027.",
+      "quote": "January 5 – Priority deadline for PhD fall admission and consideration for program funding",
+      "url": "https://www.boisestate.edu/computing/academics/doctoral-program/deadlines/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Computing PhD pages do not mention a GRE requirement.",
+      "quote": "",
+      "url": "https://www.boisestate.edu/computing/academics/doctoral-program/application-requirements-ph-d/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are advised to contact potential faculty advisors before applying and name them on the admission questionnaire.",
+      "quote": "Applicants are encouraged to make connection with potential faculty advisors prior to application.",
+      "url": "https://www.boisestate.edu/computing/academics/doctoral-program/application-requirements-ph-d/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate assistantships go to applicants who meet the January 5 priority deadline, but funding is limited and not guaranteed.",
+      "quote": "Students who submit all application materials by the priority deadline of January 5 will be considered for available Graduate Assistantships. However, GA funding is limited and is not guaranteed.",
+      "url": "https://www.boisestate.edu/computing/academics/doctoral-program/funding/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need at least a bachelor's degree from an accredited institution.",
+      "quote": "To be eligible for admission, applicants must hold a minimum of a Bachelor's degree from an accredited institution.",
+      "url": "https://www.boisestate.edu/computing/academics/doctoral-program/application-requirements-ph-d/"
+    }
+  },
+  "notes": "Five emphasis areas: Artificial Intelligence, Computational Math Science and Engineering, Computer Science, Cybersecurity and Data Science. The Data Science emphasis is listed under datasci. The program does not provide application fee waivers. The application is submitted to Graduate Admissions with a Computing admission questionnaire.",
+  "name": "Computing PhD"
+}
