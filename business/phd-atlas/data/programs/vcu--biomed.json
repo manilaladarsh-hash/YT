@@ -1,0 +1,56 @@
+{
+  "id": "vcu--biomed",
+  "university": "vcu",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "School of Medicine",
+  "program_page": "https://bulletin.vcu.edu/graduate/school-medicine/biochemistry-phd/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Portal applications are due December 1, 2026, the year before matriculation; later applications are reviewed only if space remains.",
+      "quote": "Fall Dec 1 of year before matriculation",
+      "url": "https://bulletin.vcu.edu/graduate/school-medicine/biochemistry-phd/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The catalog does not state a GRE rule for these PhDs.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/school-medicine/biochemistry-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The catalog does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/school-medicine/biochemistry-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/school-medicine/biochemistry-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog does not say how many students are funded.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/school-medicine/biochemistry-phd/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants typically hold a bachelor's degree or equivalent at enrollment, with an undergraduate GPA of 3.5.",
+      "quote": "A baccalaureate degree or its equivalent at the time of enrollment, with an undergraduate GPA of 3.5",
+      "url": "https://bulletin.vcu.edu/graduate/school-medicine/biochemistry-phd/"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "The portal asks for a TOEFL score of 100 (iBT) for applicants whose second language is English, above the university's 80.",
+      "quote": "TOEFL scores of 600 (pBT), 250 (cBT) or 100 (iBT) for individuals for whom English is a second language",
+      "url": "https://bulletin.vcu.edu/graduate/school-medicine/biochemistry-phd/"
+    }
+  },
+  "notes": "Applications go through the Biomedical Sciences Doctoral Portal (School of Medicine). The five PhDs share the same Dec 1 deadline and TOEFL rule in their catalog pages. The Neuroscience PhD uses the same portal and is saved as the neuro record. Not saved: Oral Health Research (School of Dentistry), Pharmaceutical Sciences (School of Pharmacy), Clinical and Translational Sciences, and Epidemiology PhDs.",
+  "name": "Biomedical Sciences Doctoral Portal (Biochemistry, Human Genetics, Microbiology and Immunology, Pharmacology and Toxicology, Physiology and Biophysics PhDs)"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "vcu--statistics",
+  "university": "vcu",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Biostatistics, School of Public Health",
+  "program_page": "https://bulletin.vcu.edu/graduate/p-health/biostatistics/biostatistics-phd/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The catalog gives priority to applications received before December 1, 2026; it gives no later final date.",
+      "quote": "Applications received prior to Dec 1 given priority consideration",
+      "url": "https://bulletin.vcu.edu/graduate/p-health/biostatistics/biostatistics-phd/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional; applicants may submit the verbal, quantitative and analytical writing scores.",
+      "quote": "Applicants have the option to complete the verbal, quantitative and analytical writing sections of the Graduate Record Examination",
+      "url": "https://bulletin.vcu.edu/graduate/p-health/biostatistics/biostatistics-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The catalog does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/p-health/biostatistics/biostatistics-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/p-health/biostatistics/biostatistics-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog does not say how many students are funded.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/p-health/biostatistics/biostatistics-phd/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The catalog lists required math courses but does not say whether a master's is needed.",
+      "quote": "the following mathematics courses or their equivalents are required for admission: MATH 307, MATH 310, STAT 309 and STAT 212",
+      "url": "https://bulletin.vcu.edu/graduate/p-health/biostatistics/biostatistics-phd/"
+    }
+  },
+  "notes": "Catalog only: the program page at biostatistics.vcu.edu and the School of Public Health admissions page returned HTTP 502. The School of Public Health catalog gives the program rules above; the Graduate School English rule on the university record applies."
+}

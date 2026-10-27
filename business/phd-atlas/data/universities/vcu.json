@@ -1,0 +1,47 @@
+{
+  "id": "vcu",
+  "institution": "Virginia Commonwealth University",
+  "country": "USA",
+  "region": "Virginia",
+  "grad_page": "https://bulletin.vcu.edu/graduate/study/admission-graduate-study/international-students/",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The fetched catalog pages do not state the graduate application fee.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/study/admission-graduate-study/international-students/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "The fetched catalog pages do not describe an international fee waiver.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/study/admission-graduate-study/international-students/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Each program sets its own GRE rule; the program record gives it.",
+      "quote": "Submission of standardized graduate-level test scores (fewer than five years old) may be required by the individual program/department",
+      "url": "https://bulletin.vcu.edu/graduate/study/admission-graduate-study/admission-requirements/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The only fetched page gives the old-scale TOEFL score (80 iBT, 550 paper); the new scale from January 2026 is not confirmed.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/study/admission-graduate-study/international-students/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The Graduate School minimum is an IELTS Academic overall band of 6.5.",
+      "quote": "IELTS score of 6.5",
+      "url": "https://bulletin.vcu.edu/graduate/study/admission-graduate-study/international-students/"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The catalog says the Office of Admissions can waive the test, but the criteria and country list were not on any fetched page.",
+      "quote": "Applicants may be exempted from an English proficiency test if they meet the Office of Admissions waiver requirement",
+      "url": "https://bulletin.vcu.edu/graduate/study/admission-graduate-study/international-students/"
+    }
+  },
+  "notes": "Sources: 2026-27 Graduate Bulletin pages on bulletin.vcu.edu (fetched). The international-students page carries a 'Revised 4/08/2014' stamp at its foot, so recheck the English rules on the Office of Admissions page. Not reached (HTTP 502 through the fetch tool): graduate.vcu.edu, admissions.vcu.edu (international graduate page, which holds the fee, fee waiver and English-waiver criteria), and the department sites for chemistry, physics, engineering, mathematics and biostatistics. Search snippets quoted a $70 and a $75 application fee; neither came from a fetched page, so the fee is Not stated."
+}

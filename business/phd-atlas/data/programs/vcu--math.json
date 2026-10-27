@@ -1,0 +1,50 @@
+{
+  "id": "vcu--math",
+  "university": "vcu",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics and Statistics",
+  "program_page": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/mathematics-statistics/systems-modeling-analysis-phd/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "The catalog gives February 1 for fall entry; assistantships start only in the fall.",
+      "quote": "Fall Feb 1 Spring Nov 1 Summer Jul 1",
+      "url": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/mathematics-statistics/systems-modeling-analysis-phd/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE General exam is optional.",
+      "quote": "The GRE General exam is optional",
+      "url": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/mathematics-statistics/systems-modeling-analysis-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The catalog does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/mathematics-statistics/systems-modeling-analysis-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/mathematics-statistics/systems-modeling-analysis-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog mentions assistantships but does not say how many students get one.",
+      "quote": "Assistantships are only available starting in the fall semester",
+      "url": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/mathematics-statistics/systems-modeling-analysis-phd/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The catalog asks for an undergraduate degree with at least 30 credit hours of mathematics, not a master's.",
+      "quote": "have completed an undergraduate degree with at least 30 credit hours of undergraduate-level mathematics",
+      "url": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/mathematics-statistics/systems-modeling-analysis-phd/"
+    }
+  },
+  "notes": "Catalog only; the department site was not reachable. The statistics and data science concentration of this PhD is saved as the datasci record.",
+  "name": "Systems Modeling and Analysis, PhD"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "vcu--mech",
+  "university": "vcu",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical and Nuclear Engineering",
+  "program_page": "https://bulletin.vcu.edu/graduate/school-engineering/mechanical-nuclear-engineering/mechanical-nuclear-engineering-phd/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The catalog gives January 15 for fall entry.",
+      "quote": "Fall Jan 15 GRE; English proficiency test as required by International Admissions",
+      "url": "https://bulletin.vcu.edu/graduate/school-engineering/mechanical-nuclear-engineering/mechanical-nuclear-engineering-phd/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The catalog requires GRE results; the minimum score is set each year by the program committee.",
+      "quote": "Submission of results of the Graduate Record Examination (minimum score for admission to be established annually by the MNE graduate committee)",
+      "url": "https://bulletin.vcu.edu/graduate/school-engineering/mechanical-nuclear-engineering/mechanical-nuclear-engineering-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The catalog does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/school-engineering/mechanical-nuclear-engineering/mechanical-nuclear-engineering-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/school-engineering/mechanical-nuclear-engineering/mechanical-nuclear-engineering-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog does not say how many students are funded.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/school-engineering/mechanical-nuclear-engineering/mechanical-nuclear-engineering-phd/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The catalog accepts a bachelor's or master's in mechanical, nuclear or a related engineering discipline.",
+      "quote": "with either a bachelor’s or a master’s degree in mechanical engineering, nuclear engineering or a related discipline",
+      "url": "https://bulletin.vcu.edu/graduate/school-engineering/mechanical-nuclear-engineering/mechanical-nuclear-engineering-phd/"
+    }
+  },
+  "notes": "Catalog only; the department site was not fetched."
+}

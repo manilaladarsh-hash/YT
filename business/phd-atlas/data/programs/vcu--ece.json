@@ -1,0 +1,50 @@
+{
+  "id": "vcu--ece",
+  "university": "vcu",
+  "field": "ece",
+  "also_fields": [],
+  "department": "College of Engineering",
+  "program_page": "https://bulletin.vcu.edu/graduate/school-engineering/engineering-phd-concentration-electrical-computer/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Applications for financial assistance are due January 15, 2027; the general fall deadline is June 1, 2027.",
+      "quote": "Fall (preferred) Jun 1 (Jan 15 for financial assistance)",
+      "url": "https://bulletin.vcu.edu/graduate/school-engineering/engineering-phd-concentration-electrical-computer/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The catalog requires GRE-General for this concentration.",
+      "quote": "GRE-General; TOEFL or IELTS is required for international students",
+      "url": "https://bulletin.vcu.edu/graduate/school-engineering/engineering-phd-concentration-electrical-computer/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The catalog does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/school-engineering/engineering-phd-concentration-electrical-computer/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Acceptance is by the admissions committee with program chair approval; no supervisor rule is stated.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/school-engineering/engineering-phd-concentration-electrical-computer/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog does not say how many students are funded.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/school-engineering/engineering-phd-concentration-electrical-computer/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The catalog requires a B.S. in electrical and computer engineering or a closely related discipline.",
+      "quote": "must have a B.S. degree in electrical and computer engineering or a closely related discipline",
+      "url": "https://bulletin.vcu.edu/graduate/school-engineering/engineering-phd-concentration-electrical-computer/"
+    }
+  },
+  "notes": "Catalog only. This is the electrical and computer engineering concentration of the College of Engineering's PhD in Engineering; the same PhD also has a computer science concentration, which is not saved separately (the CS record is the standalone CS PhD).",
+  "name": "Engineering, PhD (concentration in electrical and computer engineering)"
+}

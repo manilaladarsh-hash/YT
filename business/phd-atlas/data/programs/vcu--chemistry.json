@@ -1,0 +1,49 @@
+{
+  "id": "vcu--chemistry",
+  "university": "vcu",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/chemistry/chemistry-phd/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-15",
+      "value": "The catalog gives March 15 for fall entry.",
+      "quote": "Fall Mar 15 GRE-General Spring Nov 15",
+      "url": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/chemistry/chemistry-phd/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The catalog lists GRE-General as a test requirement for the PhD.",
+      "quote": "Fall Mar 15 GRE-General Spring Nov 15",
+      "url": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/chemistry/chemistry-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The catalog does not mention the Chemistry GRE Subject test.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/chemistry/chemistry-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog says research is guided by an adviser but does not say an adviser must agree before admission.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/chemistry/chemistry-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog does not say how many students are funded.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/chemistry/chemistry-phd/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The catalog asks for a bachelor's degree with 30 credit hours in chemistry, not a master's.",
+      "quote": "Have a bachelor’s degree from an accredited college or university with 30 credit hours in chemistry",
+      "url": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/chemistry/chemistry-phd/"
+    }
+  },
+  "notes": "Catalog only: the Department of Chemistry admissions and FAQ pages returned HTTP 502. The GRE status is taken from the catalog table, which lists GRE-General; check it with the department. The Chemical Biology PhD (Department of Chemistry, four concentrations) is a separate catalog program and is not saved here."
+}
