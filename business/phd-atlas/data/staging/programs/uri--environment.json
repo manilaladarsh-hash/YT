@@ -1,0 +1,37 @@
+{
+  "id": "uri--environment",
+  "university": "uri",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Graduate School of Oceanography",
+  "program_page": "https://web.uri.edu/gso/academics/oceanography/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "The encouraged deadline is January 1 for internal fellowship eligibility; reviews begin January 1.",
+      "quote": "URI-GSO has a rolling admission with an encouraged deadline of January 1st to be eligible for URI internal fellowships",
+      "url": "https://web.uri.edu/gso/academics/admission/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "No GREs are required; recent TOEFL scores are required for applicants whose first language is not English.",
+      "quote": "No GREs required, though recent TOEFL scores, or equivalent, are required for students whose first language is not English",
+      "url": "https://web.uri.edu/gso/academics/admission/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants are not accepted without a faculty sponsor who agrees to act as their temporary advisor.",
+      "quote": "Students will not be accepted into the URI-GSO Graduate Program without a faculty sponsor",
+      "url": "https://web.uri.edu/gso/academics/admission/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Admission depends on identified funding; qualified applicants without funding are waitlisted.",
+      "quote": "applicants that meet our merit based admissions but for whom funding source have not been identified will be waitlisted",
+      "url": "https://web.uri.edu/gso/academics/admission/"
+    }
+  },
+  "notes": "Oceanography PhD with biological, chemical, geological and physical tracks. The stipend for 2026-2027 is $42,393 to $45,497 by level, per the GSO page. The same catalog page also lists Ocean Engineering PhD; no separate Ocean Engineering admissions rules were saved."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "uri--chemeng",
+  "university": "uri",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Chemical Engineering PhD program",
+  "program_page": "https://web.uri.edu/cheme/academics/chemical-engineering-ph-d/admission/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "The Graduate School table lists January 1 for Fall; international applicants are expected to apply by February 1.",
+      "quote": "Chemical Engineering - PhD 14-Week URI Grad Application January 1",
+      "url": "https://web.uri.edu/graduate-school/apply/",
+      "inferred": "year"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by the department graduate committee, not by one faculty member.",
+      "quote": "application review and student acceptance is done by our department graduate committee",
+      "url": "https://web.uri.edu/cheme/academics/chemical-engineering-ph-d/admission/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department says considerable support is available to eligible scholars but does not state how many are funded.",
+      "quote": "considerable financial support is available for eligible scholars through graduate assistantship programs",
+      "url": "https://web.uri.edu/cheme/academics/chemical-engineering-ph-d/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The PhD accepts applicants with a bachelor's or master's degree in chemical engineering; other fields may be admitted with prerequisites.",
+      "quote": "The Ph.D. requires a bachelor’s or master’s degree in chemical engineering",
+      "url": "https://web.uri.edu/cheme/academics/chemical-engineering-ph-d/admission/"
+    }
+  },
+  "notes": ""
+}

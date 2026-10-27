@@ -1,0 +1,57 @@
+{
+  "id": "uri--ece",
+  "university": "uri",
+  "field": "ece",
+  "also_fields": [
+    "bme"
+  ],
+  "department": "Department of Electrical and Computer Engineering",
+  "program_page": "https://web.uri.edu/ece/academics/electrical-engineering-ph-d/admission/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "International applicants should apply by February 1; the Graduate School table lists July 15 for Fall.",
+      "quote": "international applicants are expected to apply for fall programs by February 1",
+      "url": "https://web.uri.edu/graduate-school/admission/international/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Electrical Engineering - PhD 14-Week URI Grad Application July 15",
+          "url": "https://web.uri.edu/graduate-school/apply/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The department says applicants should have GRE scores.",
+      "quote": "Applicants should have GRE scores and an M.S. degree or equivalent in electrical, computer, or biomedical engineering",
+      "url": "https://web.uri.edu/ece/academics/electrical-engineering-ph-d/admission/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is mentioned.",
+      "quote": "",
+      "url": "https://web.uri.edu/ece/academics/electrical-engineering-ph-d/admission/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether an advisor must agree before admission.",
+      "quote": "",
+      "url": "https://web.uri.edu/ece/academics/electrical-engineering-ph-d/admission/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The admission page does not state funding terms.",
+      "quote": "",
+      "url": "https://web.uri.edu/ece/academics/electrical-engineering-ph-d/admission/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants should hold an M.S. or equivalent; exceptional candidates may enter from the B.S.",
+      "quote": "Applicants should have GRE scores and an M.S. degree or equivalent in electrical, computer, or biomedical engineering | Exceptional candidates may be admitted directly from the B.S. degree",
+      "url": "https://web.uri.edu/ece/academics/electrical-engineering-ph-d/admission/"
+    }
+  },
+  "notes": "The catalog says the PhD offers specializations in electrical, computer and biomedical engineering, so biomedical engineering is listed in also_fields."
+}

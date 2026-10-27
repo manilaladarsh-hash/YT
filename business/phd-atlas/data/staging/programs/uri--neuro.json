@@ -1,0 +1,49 @@
+{
+  "id": "uri--neuro",
+  "university": "uri",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Interdisciplinary Neuroscience Program",
+  "program_page": "https://web.uri.edu/inp/academics/ph-d-program/admission/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The completed application, with letters and transcripts, is due December 1 for fall admission; late applications are not reviewed.",
+      "quote": "is due by December 1st for fall admission",
+      "url": "https://web.uri.edu/inp/academics/ph-d-program/admission/",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The program does not offer application fee waivers.",
+      "quote": "The INP does not offer application fee waivers",
+      "url": "https://web.uri.edu/inp/academics/ph-d-program/admission/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The admission page does not mention the GRE.",
+      "quote": "",
+      "url": "https://web.uri.edu/inp/academics/ph-d-program/admission/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The admission page does not mention a Psychology GRE Subject test.",
+      "quote": "",
+      "url": "https://web.uri.edu/inp/academics/ph-d-program/admission/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Doctoral students are prioritized for funding, but funding is not guaranteed.",
+      "quote": "The INP prioritizes funding for Doctoral students; however, funding is not guaranteed",
+      "url": "https://web.uri.edu/inp/academics/ph-d-program/admission/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need a bachelor's degree in the sciences or a related discipline.",
+      "quote": "A bachelor’s degree in the sciences (or related disciplines), three letters of recommendation, a personal statement (two pages maximum), and transcripts of all previous degrees are required",
+      "url": "https://web.uri.edu/inp/academics/ph-d-program/admission/"
+    }
+  },
+  "notes": ""
+}

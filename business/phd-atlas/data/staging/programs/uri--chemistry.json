@@ -1,0 +1,67 @@
+{
+  "id": "uri--chemistry",
+  "university": "uri",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://web.uri.edu/chemistry/academics/graduate-programs/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "International applicants should apply for the Fall semester by February 1; the Graduate School table lists April 1 for Chemistry.",
+      "quote": "The application deadline for the Fall semester of each year is February 1st for international students",
+      "url": "https://web.uri.edu/chemistry/academics/graduate-programs/faq/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Chemistry - PhD 14-Week URI Grad Application April 1",
+          "url": "https://web.uri.edu/graduate-school/apply/"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The FAQ gives a $35 subsidized fee for Fall 2026 only; the Fall 2027 fee is not stated.",
+      "quote": "The subsidized application fee is $35 for applications to the Fall 2026 semester",
+      "url": "https://web.uri.edu/chemistry/academics/graduate-programs/faq/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The department does not expect to provide full application fee waivers this year.",
+      "quote": "We do not expect to be able to provide full application fee waivers this year",
+      "url": "https://web.uri.edu/chemistry/academics/graduate-programs/faq/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department does not require the GRE for any applicant.",
+      "quote": "Please note that we do not require the GRE",
+      "url": "https://web.uri.edu/chemistry/academics/graduate-programs/admission/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The FAQ says the department does not require the GRE, so no Chemistry subject test is needed.",
+      "quote": "Do you require the GRE? | No, we do not",
+      "url": "https://web.uri.edu/chemistry/academics/graduate-programs/faq/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No faculty agreement is needed before applying; students have most of the first semester before joining a group.",
+      "quote": "No, not at all. In fact, students rarely settle on a research group before they arrive",
+      "url": "https://web.uri.edu/chemistry/academics/graduate-programs/faq/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Full-time students get assistantships covering tuition, health insurance and a stipend; external support is only needed for a terminal M.S.",
+      "quote": "All our full-time graduate students receive support from the Department of Chemistry through assistantships",
+      "url": "https://web.uri.edu/chemistry/academics/graduate-programs/faq/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's degree is not needed; most incoming PhD students have only undergraduate degrees.",
+      "quote": "Absolutely not! Some of our students begin with M.S. degrees from other programs, but the majority of our incoming Ph.D. students only have undergraduate degrees",
+      "url": "https://web.uri.edu/chemistry/academics/graduate-programs/faq/"
+    }
+  },
+  "notes": "The department FAQ sets its own application fee and waiver statements for Fall 2026; both are for that cycle only."
+}

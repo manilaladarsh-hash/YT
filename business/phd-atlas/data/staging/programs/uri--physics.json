@@ -1,0 +1,55 @@
+{
+  "id": "uri--physics",
+  "university": "uri",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://web.uri.edu/physics/academics/ph-d-in-physics/admission/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "International applicants should apply by February 1; the Graduate School table lists February 15 for Fall.",
+      "quote": "international applicants are expected to apply for fall programs by February 1",
+      "url": "https://web.uri.edu/graduate-school/admission/international/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Physics - PhD 14-Week URI Grad Application February 15",
+          "url": "https://web.uri.edu/graduate-school/apply/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE is recommended but not required.",
+      "quote": "The Graduate Record Examination (GRE), including the advanced test in physics, is recommended but not required",
+      "url": "https://web.uri.edu/physics/academics/ph-d-in-physics/admission/"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The advanced physics GRE is recommended but not required.",
+      "quote": "The Graduate Record Examination (GRE), including the advanced test in physics, is recommended but not required",
+      "url": "https://web.uri.edu/physics/academics/ph-d-in-physics/admission/"
+    },
+    "toefl_min": {
+      "code": "Sections",
+      "value": "For the iBT, the department sets section minimums (reading 20, listening 17, speaking 17, writing 22) and the overall score does not count.",
+      "quote": "for the IBT test, the scores for reading 20, listening 17, speaking 17, writing 22 (the cumulative IBT score is irrelevant)",
+      "url": "https://web.uri.edu/physics/academics/ph-d-in-physics/admission/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Graduate assistantships are the most common form of support for entering students.",
+      "quote": "Graduate Assistantships are the most common form of support for entering students",
+      "url": "https://web.uri.edu/physics/academics/ph-d-in-physics/admission/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need a bachelor's degree in physics or a closely related discipline.",
+      "quote": "Applicants must hold a bachelor’s degree in physics or a closely related discipline",
+      "url": "https://web.uri.edu/physics/academics/ph-d-in-physics/admission/"
+    }
+  },
+  "notes": ""
+}

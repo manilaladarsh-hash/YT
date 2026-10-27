@@ -1,0 +1,57 @@
+{
+  "id": "uri--cs",
+  "university": "uri",
+  "field": "cs",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Computer and Statistical Sciences PhD program",
+  "program_page": "https://web.uri.edu/cs/academics/phd-in-computer-and-statistical-sciences/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "International applicants should apply for the Fall semester by February 1; the department's funding date is February 15.",
+      "quote": "international applicants are expected to apply for fall programs by February 1",
+      "url": "https://web.uri.edu/graduate-school/admission/international/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Feb 15 — application deadline for the Fall semester if the applicant wants to be considered for financial assistance such as TA/RA",
+          "url": "https://web.uri.edu/cs/academics/phd-in-computer-and-statistical-sciences/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department says GRE is no longer required for its graduate programs.",
+      "quote": "GRE is no longer required for admission to all our graduate programs",
+      "url": "https://web.uri.edu/cs/academics/phd-in-computer-and-statistical-sciences/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject test.",
+      "quote": "",
+      "url": "https://web.uri.edu/cs/academics/phd-in-computer-and-statistical-sciences/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether an advisor must agree before admission.",
+      "quote": "",
+      "url": "https://web.uri.edu/cs/academics/phd-in-computer-and-statistical-sciences/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Applicants who want TA or RA consideration must apply by the February 15 funding date.",
+      "quote": "Feb 15 — application deadline for the Fall semester if the applicant wants to be considered for financial assistance such as TA/RA",
+      "url": "https://web.uri.edu/cs/academics/phd-in-computer-and-statistical-sciences/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree in a related field is required; a master's is encouraged but not required.",
+      "quote": "Admission to this program requires a Bachelor’s degree in Computer Science, Statistics, Biostatistics, Mathematics, Engineering, or a closely related field | A Master’s degree is encouraged but not required",
+      "url": "https://web.uri.edu/cs/academics/phd-in-computer-and-statistical-sciences/"
+    }
+  },
+  "notes": "One PhD with a Computer Science concentration and a Statistics concentration; statistics is listed in also_fields."
+}

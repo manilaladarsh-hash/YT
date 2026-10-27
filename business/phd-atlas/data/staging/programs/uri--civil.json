@@ -1,0 +1,43 @@
+{
+  "id": "uri--civil",
+  "university": "uri",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Civil and Environmental Engineering PhD program",
+  "program_page": "https://web.uri.edu/cve/academics/graduate-programs/ph-d-in-civil-and-environmental-engineering/admission/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "The Graduate School table lists January 1 for Fall; the department lists February 1 for international applicants.",
+      "quote": "Civil and Environmental Engineering - PhD 14-Week URI Grad Application January 1",
+      "url": "https://web.uri.edu/graduate-school/apply/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "For international applicants, and applicants seeking financial support: | February 1 for Fall admission",
+          "url": "https://web.uri.edu/cve/academics/graduate-programs/ph-d-in-civil-and-environmental-engineering/admission/"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "65 USD",
+      "value": "The department's application file includes a $65 non-refundable fee plus CAS fees.",
+      "quote": "$65 non-refundable application fee, plus Centralized Application System (CAS) fees",
+      "url": "https://web.uri.edu/cve/academics/graduate-programs/ph-d-in-civil-and-environmental-engineering/admission/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department does not require the GRE.",
+      "quote": "The Civil and Environmental Engineering Department at URI does not require the GRE score",
+      "url": "https://web.uri.edu/cve/academics/graduate-programs/ph-d-in-civil-and-environmental-engineering/admission/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants should have a master's degree in civil or environmental engineering or a related field; exceptional bachelor's holders are also considered.",
+      "quote": "Applicants to the Ph.D. program should have a master’s degree in civil or environmental engineering or a related field | Exceptional students with a bachelor’s degree will also be considered",
+      "url": "https://web.uri.edu/cve/academics/graduate-programs/ph-d-in-civil-and-environmental-engineering/admission/"
+    }
+  },
+  "notes": ""
+}

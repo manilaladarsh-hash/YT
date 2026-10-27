@@ -1,0 +1,49 @@
+{
+  "id": "uri--mech",
+  "university": "uri",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical, Industrial and Systems Engineering",
+  "program_page": "https://web.uri.edu/mcise/academics/graduate-programs/ph-d-in-mechanical-engineering/admission/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "International applicants should apply by February 1; the department lists July 15 for September admission.",
+      "quote": "international applicants are expected to apply for fall programs by February 1",
+      "url": "https://web.uri.edu/graduate-school/admission/international/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "July 15 for September admission",
+          "url": "https://web.uri.edu/mcise/academics/graduate-programs/ph-d-in-mechanical-engineering/admission/"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "65 USD",
+      "value": "The application file includes a $65 non-refundable fee plus CAS fees.",
+      "quote": "$65 non-refundable application fee, plus Centralized Application System (CAS) fees",
+      "url": "https://web.uri.edu/mcise/academics/graduate-programs/ph-d-in-mechanical-engineering/admission/"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "International applicants without a US-based degree must submit GRE scores.",
+      "quote": "International applicants that do not have a degree from a US-based institution also need to submit the GRE score",
+      "url": "https://web.uri.edu/mcise/academics/graduate-programs/ph-d-in-mechanical-engineering/admission/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "A limited number of assistantships are available each year.",
+      "quote": "A limited number of teaching and research assistantships are available every year",
+      "url": "https://web.uri.edu/mcise/academics/graduate-programs/ph-d-in-mechanical-engineering/admission/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Ph.D. applicants should have a master's degree; exceptional bachelor's holders and superior master's candidates are also considered.",
+      "quote": "Ph.D. applicants should have a master’s degree in mechanical engineering, applied mechanics, aerospace engineering, or a related field | Exceptional students with a bachelor’s degree and superior master’s candidates will also be considered",
+      "url": "https://web.uri.edu/mcise/academics/graduate-programs/ph-d-in-mechanical-engineering/admission/"
+    }
+  },
+  "notes": "Applications go through the Engineering CAS system, so the $65 fee and GRE rule are program overrides."
+}

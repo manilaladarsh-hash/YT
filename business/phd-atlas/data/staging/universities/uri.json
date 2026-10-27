@@ -1,0 +1,47 @@
+{
+  "id": "uri",
+  "institution": "University of Rhode Island",
+  "country": "USA",
+  "region": "Rhode Island",
+  "grad_page": "https://web.uri.edu/graduate-school/admission/international/",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The Graduate School requires a fee but the fetched pages do not state its amount.",
+      "quote": "The Graduate School requires a non-refundable application fee paid online by credit card at the time of application submission",
+      "url": "https://web.uri.edu/graduate-school/admission/application-fee-policies/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The Graduate School waives fees only for U.S. citizens and permanent residents; international applicants can ask their program, which may or may not grant one.",
+      "quote": "International applicants may contact their respective Program for fee waiver consideration; otherwise, the Graduate School does not supply application fee waivers",
+      "url": "https://web.uri.edu/graduate-school/admission/application-fee-policies/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The GRE rule is set by each program; see the program records.",
+      "quote": "Standardized test requirements vary by program, and many programs no longer require the GRE",
+      "url": "https://web.uri.edu/graduate-school/top-graduate-school-faqs/"
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "For iBT tests taken after January 21, 2026, the overall minimum is 4 (4.5 for teaching assistantships), with at least 4 in each section.",
+      "quote": "An overall score of 4 or above (4.5 for teaching assistantship consideration)",
+      "url": "https://web.uri.edu/graduate-school/admission/international/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS minimum is 6.5 overall, with at least 6.5 in each band.",
+      "quote": "Required minimum score of 6.5, AND minimum scores in the following areas",
+      "url": "https://web.uri.edu/graduate-school/admission/international/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the Graduate School's exempt list, so a degree from India does not waive the English test; a TOEFL or IELTS score is needed.",
+      "quote": "A Language Proficiency Exam is not required if an applicant satisfies one or more of these conditions: | A college or university degree earned in the United States or in one of the countries listed above",
+      "url": "https://web.uri.edu/graduate-school/admission/international/"
+    }
+  },
+  "notes": "Checked on the Graduate School admission, international, fee-policy and FAQ pages. The Graduate School does not consider 3-year bachelor's degrees from India to be equivalent to a US four-year degree unless an approved evaluation confirms it (see the international page). Engineering programs (mechanical, civil) use the CAS application with a $65 fee, saved as program overrides."
+}
