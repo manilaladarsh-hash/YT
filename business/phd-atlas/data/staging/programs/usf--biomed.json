@@ -1,0 +1,53 @@
+{
+  "id": "usf--biomed",
+  "university": "usf",
+  "field": "biomed",
+  "also_fields": [
+    "neuro"
+  ],
+  "department": "Morsani College of Medicine, Graduate & Postdoctoral Affairs",
+  "program_page": "https://health.usf.edu/medicine/graduatestudies/phd-admissions",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The priority deadline is December 1; the final application deadline is February 15.",
+      "quote": "The Medical Sciences PhD Program priority deadline is December 1",
+      "url": "https://health.usf.edu/medicine/graduatestudies/phd-admissions",
+      "inferred": "year",
+      "time_sensitive": "2026-12-01"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required for admission.",
+      "quote": "GRE Scores are NOT required for admission",
+      "url": "https://health.usf.edu/medicine/graduatestudies/phd-admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies.",
+      "quote": "",
+      "url": "https://health.usf.edu/medicine/graduatestudies/phd-admissions"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants do not need a mentor to apply; all students complete lab rotations in their first semester.",
+      "quote": "Applicants do not need to identify a mentor in order to apply to our program",
+      "url": "https://health.usf.edu/medicine/graduatestudies/phd-admissions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted students are offered a graduate research assistantship with a stipend and tuition waiver.",
+      "quote": "Students admitted into the Medical Sciences PhD program will be offered a Graduate Research Assistantship",
+      "url": "https://health.usf.edu/medicine/graduatestudies/financial-aid/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The admission page does not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://health.usf.edu/medicine/graduatestudies/phd-admissions"
+    }
+  },
+  "notes": "Neuroscience is one of the concentrations of the Medical Sciences PhD. An interview is required for admission.",
+  "name": "PhD in Medical Sciences"
+}

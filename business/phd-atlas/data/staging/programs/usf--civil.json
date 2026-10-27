@@ -1,0 +1,56 @@
+{
+  "id": "usf--civil",
+  "university": "usf",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Civil and Environmental Engineering",
+  "program_page": "https://www.usf.edu/engineering/cee/graduate/grad-faq.aspx",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The application deadline for summer or fall is January 15; the department's FAQ gives no year, so the 2027 cycle is used.",
+      "quote": "The application deadline for the summer or fall semester is January 15th",
+      "url": "https://www.usf.edu/engineering/cee/graduate/grad-faq.aspx",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Fee waivers are only for US citizens or permanent residents in certain undergraduate programs; none for international students.",
+      "quote": "Fee waivers are only available for applicants who are US Citizens or Permanent Residents who were involved in specific programs as undergraduates | No fee waivers are available for international students.",
+      "url": "https://www.usf.edu/engineering/cee/graduate/grad-faq.aspx"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional but can improve admission chances.",
+      "quote": "Submission of GRE scores and/or FE/PE verification is optional",
+      "url": "https://www.usf.edu/engineering/cee/graduate/grad-faq.aspx"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to civil engineering.",
+      "quote": "",
+      "url": "https://www.usf.edu/engineering/cee/graduate/grad-faq.aspx"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "The department normally does not admit doctoral students unless an advisor and a funding source are identified.",
+      "quote": "The department normally does not admit students to our doctoral programs unless | we have identified an advisor (or co-advisors) and a source of funding for them",
+      "url": "https://www.usf.edu/engineering/cee/graduate/grad-faq.aspx"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Financial support is limited, so it cannot be offered to all applicants.",
+      "quote": "The bad news is that the financial support available is not sufficient | to fund all the students who are seeking support. Therefore, financial support cannot | be offered to all applicants",
+      "url": "https://www.usf.edu/engineering/cee/graduate/grad-faq.aspx"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students can be admitted directly to the PhD, and many then complete a master's on the way.",
+      "quote": "students who are admitted directly to the PhD program are able to complete a master's",
+      "url": "https://www.usf.edu/engineering/cee/graduate/grad-faq.aspx"
+    }
+  },
+  "notes": "Offers PhD in Civil Engineering (with concentrations) and PhD in Environmental Engineering; both are on this department page, and the field record covers both."
+}

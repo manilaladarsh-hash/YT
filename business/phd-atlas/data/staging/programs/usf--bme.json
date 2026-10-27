@@ -1,0 +1,48 @@
+{
+  "id": "usf--bme",
+  "university": "usf",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Biomedical Engineering (Department of Medical Engineering)",
+  "program_page": "https://usf.edu/engineering/bme/graduate/doctoral-program-resources.aspx",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No application deadline appears on the doctoral pages checked.",
+      "quote": "",
+      "url": "https://usf.edu/engineering/bme/graduate/doctoral-program-resources.aspx"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE is required for PhD applicants, except engineering graduates of ABET-accredited programs.",
+      "quote": "The GRE is required, except for engineering students who have graduated from an ABET-accredited",
+      "url": "https://usf.edu/engineering/bme/graduate/doctoral-program-resources.aspx"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies.",
+      "quote": "",
+      "url": "https://usf.edu/engineering/bme/graduate/doctoral-program-resources.aspx"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly encouraged to contact faculty whose research matches their interests.",
+      "quote": "We strongly encourage applicants to contact specific faculty conducting research related to the student's interests",
+      "url": "https://usf.edu/engineering/bme/graduate/doctoral-program-resources.aspx"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The doctoral page does not state a funding rule.",
+      "quote": "",
+      "url": "https://usf.edu/engineering/bme/graduate/doctoral-program-resources.aspx"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Successful applicants typically hold a master's degree in biomedical engineering or a related field.",
+      "quote": "Completion of a Master's degree in biomedical engineering or a related field",
+      "url": "https://usf.edu/engineering/bme/graduate/doctoral-program-resources.aspx"
+    }
+  },
+  "notes": "Preferred qualifications include undergraduate GPA above 3.50 and three letters of recommendation."
+}

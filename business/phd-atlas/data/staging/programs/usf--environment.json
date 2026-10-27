@@ -1,0 +1,63 @@
+{
+  "id": "usf--environment",
+  "university": "usf",
+  "field": "environment",
+  "also_fields": [],
+  "department": "College of Marine Science",
+  "program_page": "https://www.usf.edu/marine-science/education/prospective-students/how-to-apply.aspx",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Complete applications by December 15 are reviewed for competitive college funding; the Fall deadline is December 15.",
+      "quote": "Complete applications submitted by December 15 will be reviewed for competitive college | funding opportunities",
+      "url": "https://www.usf.edu/marine-science/education/prospective-students/how-to-apply.aspx",
+      "inferred": "year",
+      "time_sensitive": "2026-12-15"
+    },
+    "app_fee": {
+      "code": "30 USD",
+      "value": "The department states a $30.00 application fee.",
+      "quote": "There is a $30.00 application fee required, which can be paid online",
+      "url": "https://www.usf.edu/marine-science/education/prospective-students/how-to-apply.aspx"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "A fee waiver may be requested only if the applicant is in one of the programs on the department's list.",
+      "quote": "A fee waiver may be requested if you qualify by being part of one of the programs listed on the",
+      "url": "https://www.usf.edu/marine-science/education/prospective-students/how-to-apply.aspx"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional for master's and doctoral applicants.",
+      "quote": "Submitting GRE scores with your Master’s or doctoral program application is optional",
+      "url": "https://www.usf.edu/marine-science/education/prospective-students/how-to-apply.aspx"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies.",
+      "quote": "",
+      "url": "https://www.usf.edu/marine-science/education/prospective-students/how-to-apply.aspx"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A College of Marine Science faculty member must agree to be the advisor or co-advisor before admission.",
+      "quote": "to be admitted, the applicant must have a CMS faculty member agree to be their advisor",
+      "url": "https://www.usf.edu/marine-science/education/prospective-students/how-to-apply.aspx"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Complete applications by December 15 are reviewed for competitive college funding.",
+      "quote": "Complete applications submitted by December 15 will be reviewed for competitive college | funding opportunities",
+      "url": "https://www.usf.edu/marine-science/education/prospective-students/how-to-apply.aspx"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Anyone with at least a bachelor's degree can apply to the program.",
+      "quote": "Anyone who has at least a Bachelor's degree can apply to the program",
+      "url": "https://www.usf.edu/marine-science/education/prospective-students/how-to-apply.aspx"
+    }
+  },
+  "notes": "Program name: PhD in Marine Science. The Geography and Environmental Science and Policy PhD is also in the environment field but is not saved here. Marine Science is the only record for environment.",
+  "name": "PhD in Marine Science"
+}

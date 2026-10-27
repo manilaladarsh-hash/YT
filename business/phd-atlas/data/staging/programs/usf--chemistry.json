@@ -1,0 +1,50 @@
+{
+  "id": "usf--chemistry",
+  "university": "usf",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.usf.edu/arts-sciences/departments/chemistry/graduate/application.aspx",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-05",
+      "value": "The priority deadline for funding and consideration is December 5; the final university deadline is February 15.",
+      "quote": "Priority Deadline (For funding and consideration) December 5",
+      "url": "https://www.usf.edu/arts-sciences/departments/chemistry/graduate/application.aspx",
+      "inferred": "year",
+      "time_sensitive": "2026-12-05"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department says the GRE is no longer required for admissions.",
+      "quote": "Please note: The GRE is no longer required for admissions.",
+      "url": "https://www.usf.edu/arts-sciences/departments/chemistry/graduate/application.aspx"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The application asks for faculty of interest but the page does not say supervisor agreement is required.",
+      "quote": "",
+      "url": "https://www.usf.edu/arts-sciences/departments/chemistry/graduate/application.aspx"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page says the program gives priority for admission and funding to PhD applicants, but does not state the funding rule.",
+      "quote": "Our program gives priority for admission and funding to Ph.D. applicants.",
+      "url": "https://www.usf.edu/arts-sciences/departments/chemistry/graduate/application.aspx"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants with a bachelor's degree can apply directly to the PhD; a master's is not required.",
+      "quote": "We allow students with bachelor's degrees to apply directly to the Ph.D. program (a master's degree is not required)",
+      "url": "https://www.usf.edu/arts-sciences/departments/chemistry/graduate/application.aspx"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department says the GRE is no longer required for admissions.",
+      "quote": "Please note: The GRE is no longer required for admissions.",
+      "url": "https://www.usf.edu/arts-sciences/departments/chemistry/graduate/application.aspx"
+    }
+  },
+  "notes": "Applications after the priority date are considered on a space-available basis."
+}

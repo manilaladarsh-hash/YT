@@ -1,0 +1,60 @@
+{
+  "id": "usf--ece",
+  "university": "usf",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Electrical Engineering",
+  "program_page": "https://www.usf.edu/engineering/ece/graduate-ee/phd.aspx",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The EE PhD pages send applicants to the graduate school website for deadlines; no date is given.",
+      "quote": "See the graduate school website for application deadlines and required forms",
+      "url": "https://www.usf.edu/engineering/ece/graduate-ee/phd.aspx"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The General GRE (Verbal and Quantitative) is required for PhD applicants.",
+      "quote": "For PhD applicants only: | the General GRE test (Verbal and Quantitative) is required",
+      "url": "https://www.usf.edu/engineering/ece/graduate-programs/admission.aspx",
+      "also": [
+        {
+          "quote": "Passing scores in the EE Department for the General GRE Verbal portion is 146 and for the General GRE Quantitative",
+          "url": "https://www.usf.edu/engineering/ece/graduate-programs/admission.aspx"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The EE admission page lists TOEFL iBT 79, the old-scale figure, so check with the department.",
+      "quote": "TOEFL (iBT - 79; PBT - 550)",
+      "url": "https://www.usf.edu/engineering/ece/graduate-programs/admission.aspx"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to electrical engineering.",
+      "quote": "",
+      "url": "https://www.usf.edu/engineering/ece/graduate-ee/phd.aspx"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages do not say whether an advisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.usf.edu/engineering/ece/graduate-ee/phd.aspx"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The EE pages do not state a funding rule.",
+      "quote": "",
+      "url": "https://www.usf.edu/engineering/ece/graduate-ee/phd.aspx"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The PhD counts 72 graduate hours after a bachelor's; up to 30 hours can be credited for a prior master's.",
+      "quote": "Total Required: A minimum of 72 graduate hours beyond bachelor's degree | Up to 30 credit hours may be awarded for previous master's degree",
+      "url": "https://www.usf.edu/engineering/ece/graduate-ee/phd.aspx"
+    }
+  },
+  "notes": "Computer Engineering doctoral program is marked Coming Soon on the ECE page; not saved."
+}

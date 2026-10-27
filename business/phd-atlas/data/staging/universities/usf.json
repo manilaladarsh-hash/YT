@@ -1,0 +1,53 @@
+{
+  "id": "usf",
+  "institution": "University of South Florida",
+  "country": "USA",
+  "region": "Florida",
+  "grad_page": "https://www.usf.edu/admissions/international/admission-information/graduate/index.aspx",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "30 USD",
+      "value": "The application fee is $30 and is nonrefundable.",
+      "quote": "Pay the nonrefundable $30 application fee.",
+      "url": "https://www.usf.edu/admissions/international/admission-information/graduate/graduate-how-to-apply.aspx"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Fee waivers are only for US citizens or permanent residents in certain undergraduate programs; no waiver is available for international students.",
+      "quote": "Fee waivers are only available for applicants who are US Citizens or Permanent Residents who were involved in specific programs as undergraduates | No fee waivers are available for international students.",
+      "url": "https://www.usf.edu/engineering/cee/graduate/grad-faq.aspx",
+      "also": [
+        {
+          "quote": "Fee waivers exist only under certain circumstances for applicants in programs such as McNair Scholars, FGLSAMP, etc.",
+          "url": "https://usf.edu/engineering/chbme/graduate/admissions.aspx"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school leaves GRE rules to each program; ask the program.",
+      "quote": "Ask your program of interest about additional application requirements (e.g. test scores",
+      "url": "https://www.usf.edu/admissions/graduate/admission-information/academic-requirements.aspx"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "For applications after January 21, 2026, the TOEFL iBT minimum is 4.5 on the new scale.",
+      "quote": "Test of English as a Foreign Language (TOEFL iBT) after January 21, 2026 ... 4.5 or higher",
+      "url": "https://www.usf.edu/admissions/international/admission-information/graduate/academic-requirements.aspx"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The IELTS Academic minimum is 6.5 overall.",
+      "quote": "International English Language Testing System (IELTS) ... 6.5 or higher",
+      "url": "https://www.usf.edu/admissions/international/admission-information/graduate/academic-requirements.aspx"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on USF's list of English-speaking countries, and the page names no waiver for an English-medium Indian degree, so a test score is required.",
+      "quote": "If you are an applicant from a country where English is not the official language, you must also demonstrate proficiency in English by submitting acceptable scores on | Look at the list of English-speaking countries to determine whether you must meet this requirement",
+      "url": "https://www.usf.edu/admissions/international/admission-information/graduate/academic-requirements.aspx"
+    }
+  },
+  "notes": "Fee waiver: the Civil & Environmental Engineering FAQ states the rule for USF applicants; the graduate pages do not. Engineering and Marine pages describe program-based waivers. Program-level English rules and GRE rules are on each program record. A Geography and Environmental Science and Policy PhD also exists (catalog) but is not saved because the environment field holds one record."
+}

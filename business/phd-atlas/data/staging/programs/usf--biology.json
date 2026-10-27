@@ -1,0 +1,63 @@
+{
+  "id": "usf--biology",
+  "university": "usf",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Integrative Biology",
+  "program_page": "https://www.usf.edu/arts-sciences/departments/ib/graduate/how-to-apply.aspx",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-30",
+      "value": "The priority deadline for Fall graduate assistantships is November 30; Fall applications are accepted on a contingency basis until the February university deadline.",
+      "quote": "For full consideration for a graduate assistantship, the deadline for application to the Integrative Biology Graduate Program is November 30, for Fall admission",
+      "url": "https://www.usf.edu/arts-sciences/departments/ib/graduate/how-to-apply.aspx",
+      "inferred": "year",
+      "time_sensitive": "2026-11-30"
+    },
+    "app_fee": {
+      "code": "30 USD",
+      "value": "The department cannot waive the $30 application fee.",
+      "quote": "Our Department is unable to waive the $30.00 application fee",
+      "url": "https://www.usf.edu/arts-sciences/departments/ib/graduate/how-to-apply.aspx"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The department cannot waive the application fee.",
+      "quote": "Our Department is unable to waive the $30.00 application fee",
+      "url": "https://www.usf.edu/arts-sciences/departments/ib/graduate/how-to-apply.aspx"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE admission requirements were waived for applications received after July 2020.",
+      "quote": "GRE admission requirements are waived for applications received after July 2020",
+      "url": "https://www.usf.edu/arts-sciences/departments/ib/graduate/how-to-apply.aspx"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to biology.",
+      "quote": "",
+      "url": "https://www.usf.edu/arts-sciences/departments/ib/graduate/how-to-apply.aspx"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must identify faculty willing to direct their research before acceptance.",
+      "quote": "Acceptance into the biology graduate program requires the identification of specific faculty who are willing to direct your research",
+      "url": "https://www.usf.edu/arts-sciences/departments/ib/graduate/how-to-apply.aspx"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Graduate assistantships are offered, but the page does not say most admitted students get one.",
+      "quote": "",
+      "url": "https://www.usf.edu/arts-sciences/departments/ib/graduate/how-to-apply.aspx"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://www.usf.edu/arts-sciences/departments/ib/graduate/how-to-apply.aspx"
+    }
+  },
+  "notes": "Molecular Biosciences also offers a PhD in Cell and Molecular Biology (FAQ page); not saved because the biology field holds one record.",
+  "name": "PhD in Integrative Biology"
+}

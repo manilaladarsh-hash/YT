@@ -1,0 +1,62 @@
+{
+  "id": "usf--mech",
+  "university": "usf",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Mechanical and Aerospace Engineering",
+  "program_page": "https://www.usf.edu/engineering/mae/graduate/grad-admissions.aspx",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Fall applications are due February 15, 2027.",
+      "quote": "Fall February 15 Spring October 15",
+      "url": "https://www.usf.edu/engineering/mae/graduate/grad-admissions.aspx",
+      "inferred": "year",
+      "time_sensitive": "2027-02-15"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Doctoral applicants need a GRE percentile of at least 60 in Quantitative and in Verbal.",
+      "quote": "Doctoral Degrees Quantitative: 60% & Verbal: 60%",
+      "url": "https://www.usf.edu/engineering/mae/graduate/grad-admissions.aspx"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The MAE admission page lists TOEFL iBT 79 for doctoral applicants, the old-scale figure, so check with the department.",
+      "quote": "TOEFL (iBT - 79; PBT - 550)",
+      "url": "https://www.usf.edu/engineering/mae/graduate/grad-admissions.aspx"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "An applicant whose medium of instruction was English may skip the English test, if the transcript says so.",
+      "quote": "whose medium of instruction was English | must be notated on transcripts",
+      "url": "https://www.usf.edu/engineering/mae/graduate/grad-admissions.aspx"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies.",
+      "quote": "",
+      "url": "https://www.usf.edu/engineering/mae/graduate/grad-admissions.aspx"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The MAE pages do not say whether an advisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.usf.edu/engineering/mae/graduate/grad-admissions.aspx"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page mentions available department funding for priority files but does not state a funding rule.",
+      "quote": "",
+      "url": "https://www.usf.edu/engineering/mae/graduate/grad-admissions.aspx"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page lists undergraduate prerequisites for doctoral entry but does not say whether a master's is needed.",
+      "quote": "Students entering the Masters Degree or Doctoral Degree program must have completed",
+      "url": "https://www.usf.edu/engineering/mae/graduate/grad-admissions.aspx"
+    }
+  },
+  "notes": "The MAE TOEFL figure (79) appears to be the old scale; the graduate school now uses 4.5 for applications after January 21, 2026."
+}

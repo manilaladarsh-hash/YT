@@ -1,0 +1,57 @@
+{
+  "id": "usf--physics",
+  "university": "usf",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://www.usf.edu/arts-sciences/departments/physics/graduate/index.aspx",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall deadlines are December 1, 2026 (fellowship consideration) and February 1, 2027 (priority for financial assistance); the page lists these in that column order.",
+      "quote": "Fall Admissions December 1 February 1",
+      "url": "https://www.usf.edu/arts-sciences/departments/physics/graduate/index.aspx",
+      "inferred": "year",
+      "time_sensitive": "2026-12-01"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The physics admission pages do not mention the GRE.",
+      "quote": "",
+      "url": "https://www.usf.edu/arts-sciences/departments/physics/graduate/index.aspx"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The physics admission pages do not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.usf.edu/arts-sciences/departments/physics/graduate/index.aspx"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Assistantships with tuition waivers exist, but the page does not say most admitted students get one.",
+      "quote": "",
+      "url": "https://www.usf.edu/arts-sciences/departments/physics/graduate/financial-aid.aspx"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The PhD requirement is a bachelor's degree in physics or a related field with a 3.0 GPA.",
+      "quote": "Bachelor's degree in Physics or a related field with a minimum undergraduate GPA of | 3.0 out of 4 (letter grade of B)",
+      "url": "https://www.usf.edu/arts-sciences/departments/physics/graduate/index.aspx"
+    },
+    "app_fee": {
+      "code": "30 USD",
+      "value": "The department also states the $30.00 application fee.",
+      "quote": "a one-time application fee of $30.00",
+      "url": "https://www.usf.edu/arts-sciences/departments/physics/graduate/index.aspx"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The physics page says the application fee cannot be waived.",
+      "quote": "Application fee can NOT be waived.",
+      "url": "https://www.usf.edu/arts-sciences/departments/physics/graduate/index.aspx"
+    }
+  },
+  "notes": "Medical Physics emphasis is Fall-only. Priority/fellowship dates follow the department table. Financial aid page lists TA pay and tuition waiver but not a funding guarantee.",
+  "name": "PhD in Applied Physics"
+}
