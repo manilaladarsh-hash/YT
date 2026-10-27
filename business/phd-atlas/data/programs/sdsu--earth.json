@@ -1,0 +1,56 @@
+{
+  "id": "sdsu--earth",
+  "university": "sdsu",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Geological Sciences",
+  "program_page": "https://earth.sdsu.edu/jdp/opportunity/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Cal State Apply, SDSU documents and the program application are due December 1. The UC San Diego application is due December 11.",
+      "quote": "Step 1: Submit your Cal State Apply Application (Deadline: December 1)",
+      "url": "https://earth.sdsu.edu/jdp/opportunity/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Step 4: Complete UCSD application – select SI79 Geophysics (Deadline December 11)",
+          "url": "https://earth.sdsu.edu/jdp/opportunity/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE General was waived for Fall 2027 applications.",
+      "quote": "Note, that the GRE General Test has been waived for Fall 2027 applications!",
+      "url": "https://earth.sdsu.edu/jdp/opportunity/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned for geophysics.",
+      "quote": "",
+      "url": "https://earth.sdsu.edu/jdp/opportunity/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page asks for reference letters, a CV and an essay, but does not say whether a faculty advisor must agree before admission.",
+      "quote": "",
+      "url": "https://earth.sdsu.edu/jdp/opportunity/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page says assistantships are available for listed Fall 2027 research areas, but not what share of admitted students get one.",
+      "quote": "Assistantships for Fall 2027 are available for research in earthquake physics",
+      "url": "https://earth.sdsu.edu/jdp/opportunity/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not say whether a bachelor's degree alone is enough.",
+      "quote": "",
+      "url": "https://earth.sdsu.edu/jdp/opportunity/"
+    }
+  },
+  "notes": "Joint PhD with UC San Diego (Scripps Institution of Oceanography). Department naming differs across SDSU pages (Geological Sciences, Earth and Environmental Sciences); the program page is earth.sdsu.edu/jdp/opportunity/.",
+  "name": "Geophysics, Ph.D. (joint with UC San Diego)"
+}

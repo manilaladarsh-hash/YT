@@ -1,0 +1,99 @@
+{
+  "id": "sdsu--ece",
+  "university": "sdsu",
+  "field": "ece",
+  "also_fields": [
+    "mech",
+    "civil",
+    "bme"
+  ],
+  "department": "Joint Doctoral Program in Engineering",
+  "program_page": "https://www.engineering.sdsu.edu/admissions/joint-doctoral",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The SDSU program application and the UC San Diego application are both due by December 1, 2026.",
+      "quote": "SDSU program application, and UCSD graduate application all by December 1, 2026.",
+      "url": "https://www.engineering.sdsu.edu/admissions/joint-doctoral"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE is not required but recommended, with minimums of 159 Quantitative and 4.0 Analytical Writing.",
+      "quote": "The Graduate Record Examination (GRE) is not required, but recommended with the following minimum scores",
+      "url": "https://www.engineering.sdsu.edu/admissions/joint-doctoral",
+      "also": [
+        {
+          "quote": "Quantitative: 159",
+          "url": "https://www.engineering.sdsu.edu/admissions/joint-doctoral"
+        },
+        {
+          "quote": "Analytical Writing: 4.0",
+          "url": "https://www.engineering.sdsu.edu/admissions/joint-doctoral"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned for engineering.",
+      "quote": "",
+      "url": "https://www.engineering.sdsu.edu/admissions/joint-doctoral"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "The TOEFL iBT minimum is 4.5 for tests taken on or after 21 January 2026, higher than the university's 4.",
+      "quote": "After January 21, 2026 the minimum score is 4.5.",
+      "url": "https://www.engineering.sdsu.edu/admissions/joint-doctoral",
+      "also": [
+        {
+          "quote": "Other forms of the exam such as the iBT Home Edition are not accepted.",
+          "url": "https://www.engineering.sdsu.edu/admissions/joint-doctoral"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The IELTS minimum is 7, higher than the university's 6.5.",
+      "quote": "IELTS minimum score is 7.",
+      "url": "https://www.engineering.sdsu.edu/admissions/joint-doctoral"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "The test is waived only for a degree from a university where English is the main language of instruction, and only with a GPA of at least 3.0. India is not named.",
+      "quote": "is required for all international applicants who did not earn a degree from a university where the primary language of instruction is English with at least a 3.0 GPA",
+      "url": "https://www.engineering.sdsu.edu/admissions/joint-doctoral",
+      "also": [
+        {
+          "quote": "The GPA requirement also applies to international applicants who have or will complete a degree in the United States or another English-speaking country.",
+          "url": "https://www.engineering.sdsu.edu/admissions/joint-doctoral"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "An SDSU faculty member must agree to advise you, and this must be confirmed before your application is reviewed.",
+      "quote": "Acceptance by an SDSU faculty member to serve as advisor",
+      "url": "https://www.engineering.sdsu.edu/admissions/joint-doctoral",
+      "also": [
+        {
+          "quote": "Completing this step is required before an application will be reviewed.",
+          "url": "https://www.engineering.sdsu.edu/admissions/joint-doctoral"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page says support usually comes as an assistantship set by each adviser, but does not say most students get one.",
+      "quote": "typically comes in the form of a graduate or research assistantship",
+      "url": "https://www.engineering.sdsu.edu/admissions/joint-doctoral"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's or a master's degree from an accredited institution is enough to apply.",
+      "quote": "Applicants must have a bachelor's degree or master's degree from an accredited institution",
+      "url": "https://www.engineering.sdsu.edu/admissions/joint-doctoral"
+    }
+  },
+  "notes": "One joint Engineering Science PhD (with UC San Diego) with four tracks, saved once under ece and listed under mech (Mechanical and Aerospace), civil (Structural Engineering) and bme (Bioengineering) via also_fields. The engineering school's rules differ from the university record: English tests are higher (IELTS 7, TOEFL 4.5 new scale, Duolingo 120, PTE 65) and the English waiver is conditional. The SDSU application fee cannot be waived for international applicants, matching the university record.",
+  "name": "Engineering Science, Ph.D. (joint with UC San Diego)"
+}

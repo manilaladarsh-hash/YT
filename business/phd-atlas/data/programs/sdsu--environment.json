@@ -1,0 +1,50 @@
+{
+  "id": "sdsu--environment",
+  "university": "sdsu",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://biology.sdsu.edu/doctoral/ecology/application-procedure/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The full application to UC Davis is due December 1. Selected applicants then submit an abbreviated application through Cal State Apply.",
+      "quote": "First, a full application (including transcripts) is submitted to UC Davis for the Joint Doctoral Program in Ecology on or before December 1",
+      "url": "https://biology.sdsu.edu/doctoral/ecology/application-procedure/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Ecology has no GRE Subject test, and the pages do not mention one.",
+      "quote": "",
+      "url": "https://biology.sdsu.edu/doctoral/ecology/application-procedure/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants need an SDSU faculty sponsor who agrees to take them into the lab before they can be admitted.",
+      "quote": "All students must have a faculty sponsor within the Ecology Program Area at SDSU who agrees to accept them into their laboratory as a requirement for acceptance into the Ph.D. program.",
+      "url": "https://biology.sdsu.edu/doctoral/ecology/admission-eligibility/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted students are offered assistantship support, typically for 5 years as long as they make satisfactory progress.",
+      "quote": "Students admitted to the Joint Doctoral Program Ecology (JDPE) are offered support from Graduate Research Assistantships (GAs) or Teaching Assistantships (TAs)",
+      "url": "https://biology.sdsu.edu/doctoral/ecology/support-and-financial-aid/",
+      "also": [
+        {
+          "quote": "Students typically will receive support for 5 years, as long as they are making satisfactory progress",
+          "url": "https://biology.sdsu.edu/doctoral/ecology/support-and-financial-aid/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The ecology pages do not say whether a bachelor's degree alone is enough.",
+      "quote": "",
+      "url": "https://biology.sdsu.edu/doctoral/ecology/application-procedure/"
+    }
+  },
+  "notes": "Joint PhD with UC Davis; applicants apply to both universities. The SDSU ecology pages say a GPA above 3.2 is needed for full consideration. No fetched SDSU ecology page mentions the GRE, so the university GRE rule applies. Ecology is mapped to environment.",
+  "name": "Ecology, Ph.D. (joint with UC Davis)"
+}

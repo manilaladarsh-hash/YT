@@ -1,0 +1,70 @@
+{
+  "id": "sdsu--cs",
+  "university": "sdsu",
+  "field": "cs",
+  "also_fields": [
+    "math"
+  ],
+  "department": "Computational Science Research Center",
+  "program_page": "https://www.csrc.sdsu.edu/ph-d-program/doctoral-checklist/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The UC Irvine application and file are due January 15, 2027. The Cal State Apply deadline is February 1, and program documents are due February 15.",
+      "quote": "Submit UC Irvine Application: January 15",
+      "url": "https://admissions.sdsu.edu/grad-programs/doctorates",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is waived for Fall 2027, but the same checklist's requirements list still names the GRE General, so confirm.",
+      "quote": "The GRE requirement has been waived for the Fall 2027 admissions cycle.",
+      "url": "https://www.csrc.sdsu.edu/ph-d-program/doctoral-checklist/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned for computational science.",
+      "quote": "",
+      "url": "https://www.csrc.sdsu.edu/ph-d-program/doctoral-checklist/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The checklist gives a TOEFL minimum of 80, an old iBT scale value, so it is not saved. No new-scale minimum is stated.",
+      "quote": "A minimum score of 80 on the Test of English as a Foreign Language (TOEFL) is required.",
+      "url": "https://www.csrc.sdsu.edu/ph-d-program/doctoral-checklist/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The IELTS overall minimum is 7, with at least 6 on each module.",
+      "quote": "The IELTS minimum overall score is 7, with no less than 6 on any individual module.",
+      "url": "https://www.csrc.sdsu.edu/ph-d-program/doctoral-checklist/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by a joint UCI and SDSU committee, but applicants must name three potential faculty advisors in their statement.",
+      "quote": "All applicants will be reviewed by a joint committee consisting of members from both UCI and SDSU.",
+      "url": "https://www.csrc.sdsu.edu/ph-d-program/doctoral-checklist/",
+      "also": [
+        {
+          "quote": "Identify a minimum of three potential faculty advisors, including at least one from each campus",
+          "url": "https://www.csrc.sdsu.edu/ph-d-program/doctoral-checklist/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding goes first to applicants who meet the January 15 deadline.",
+      "quote": "Admission priority and financial support will be given to students who meet the following deadlines",
+      "url": "https://www.csrc.sdsu.edu/ph-d-program/doctoral-checklist/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree in a STEM field is required, with background in linear algebra, differential equations, statistics and programming.",
+      "quote": "an applicant must have received a baccalaureate degree in one of the Science, Technology, Engineering, and Mathematics (STEM) fields",
+      "url": "https://www.csrc.sdsu.edu/ph-d-program/doctoral-checklist/"
+    }
+  },
+  "notes": "Joint PhD with UC Irvine. Admission is by a joint committee; applicants apply to UCI first. The doctoral list gives Cal State Apply due February 1, 2027 and the checklist gives January 15 for the UCI file, so the earliest date is used. Mapped to cs because the field list has no computational science entry; also_fields adds math. The checklist's GRE waiver and its GRE requirement text conflict. The TOEFL 80 is an old-scale value and is not saved.",
+  "name": "Computational Science, Ph.D. (joint with UC Irvine)"
+}

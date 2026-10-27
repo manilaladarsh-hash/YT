@@ -1,0 +1,62 @@
+{
+  "id": "sdsu--biology",
+  "university": "sdsu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://biology.sdsu.edu/doctoral/cell-molecular/application-procedure/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Cal State Apply is due December 1, and the department's supplemental application is due December 15.",
+      "quote": "Step 1: Complete the CSU Cal State Apply Application by December 1",
+      "url": "https://biology.sdsu.edu/doctoral/cell-molecular/application-procedure/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "General GRE scores have been suspended, so neither biology PhD requires them.",
+      "quote": "General GRE test scores have been suspended and are NOT required.",
+      "url": "https://biology.sdsu.edu/doctoral/cell-molecular/application-procedure/",
+      "also": [
+        {
+          "quote": "Note: GRE Scores are not required.",
+          "url": "https://biology.sdsu.edu/doctoral/evolutionary/application-procedures/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Biology has no GRE Subject test, and the pages do not mention one.",
+      "quote": "",
+      "url": "https://biology.sdsu.edu/doctoral/cell-molecular/application-procedure/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The Cell and Molecular Biology page sets IELTS at 7.0 overall, higher than the university's 6.5.",
+      "quote": "IELTS overall score of 7.0 or higher",
+      "url": "https://biology.sdsu.edu/doctoral/cell-molecular/application-procedure/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "The Evolutionary Biology page asks applicants to name an SDSU faculty advisor and encourages contacting faculty first. The Cell and Molecular page does not say.",
+      "quote": "You are encouraged to contact potential faculty advisors in advance of submitting your application",
+      "url": "https://biology.sdsu.edu/doctoral/evolutionary/application-procedures/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The biology application pages do not describe PhD funding.",
+      "quote": "",
+      "url": "https://biology.sdsu.edu/doctoral/cell-molecular/application-procedure/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The biology application pages do not say whether a bachelor's degree alone is enough.",
+      "quote": "",
+      "url": "https://biology.sdsu.edu/doctoral/cell-molecular/application-procedure/"
+    }
+  },
+  "notes": "Covers two joint PhDs run by the SDSU Biology department: Cell and Molecular Biology (with UC San Diego, page above) and Evolutionary Biology (with UC Riverside, https://biology.sdsu.edu/doctoral/evolutionary/application-procedures/). The IELTS 7.0 rule is from the Cell and Molecular page; the Evolutionary page does not restate it. The department page says SDSU does not waive the Cal State Apply fee, which is consistent with the university record. Ecology is a separate record under environment.",
+  "name": "Cell and Molecular Biology; Evolutionary Biology (joint PhDs)"
+}

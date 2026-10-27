@@ -1,0 +1,53 @@
+{
+  "id": "sdsu",
+  "institution": "San Diego State University",
+  "country": "USA",
+  "region": "California",
+  "grad_page": "https://admissions.sdsu.edu/international/graduate/steps-apply",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "70 USD",
+      "value": "The Cal State Apply application fee is $70 USD for international applicants, and it is non-refundable.",
+      "quote": "The application requires a $70 USD fee that is non-refundable and may not be transferred to another term.",
+      "url": "https://admissions.sdsu.edu/international/graduate/steps-apply"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Fee waivers are limited to California residents with high financial need, so international applicants are not eligible.",
+      "quote": "Waivers for the Cal State Apply application fee are available in a very limited number for prospective graduate students who are California residents and demonstrate high financial need.",
+      "url": "https://grad.sdsu.edu/prospective-students/program-applications"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "SDSU has suspended the GRE/GMAT as a campus-wide requirement, but some programs may still ask for it.",
+      "quote": "San Diego State University has suspended the GRE/GMAT requirement as a campus-wide application requirement for all graduate programs.",
+      "url": "https://grad.sdsu.edu/prospective-students/program-applications"
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "The new TOEFL iBT scale applies: a score of 4 or higher for tests taken on or after 21 January 2026.",
+      "quote": "TOEFL iBT exam taken on or after January 21, 2026: score of 4 or higher",
+      "url": "https://admissions.sdsu.edu/international/graduate/steps-apply"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The IELTS Academic overall minimum is 6.5.",
+      "quote": "IELTS: overall score of 6.5 or higher",
+      "url": "https://admissions.sdsu.edu/international/graduate/steps-apply"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "An English-medium bachelor's or master's degree from an international institution waives the English test once an official transcript proves it. India is not named, so the degree itself must be English-medium.",
+      "quote": "Earned or in-progress bachelor's degree from an international post-secondary institution where English was the principal language of instruction.",
+      "url": "https://admissions.sdsu.edu/international/graduate/steps-apply",
+      "also": [
+        {
+          "quote": "The English proficiency requirement will be waived upon receipt of an official transcript verifying the applicant meets one of the listed conditions.",
+          "url": "https://admissions.sdsu.edu/international/graduate/steps-apply"
+        }
+      ]
+    }
+  },
+  "notes": "Sources: the Fall 2027 international steps page (updated 9/28/26), the graduate program-applications page and the official doctoral list (admissions.sdsu.edu/grad-programs/doctorates). SDSU offers doctoral degrees only on the San Diego campus, and most are joint with UC campuses. Search snippets were not used. The old TOEFL iBT 80 (tests before 21 Jan 2026) is not saved as a value."
+}
