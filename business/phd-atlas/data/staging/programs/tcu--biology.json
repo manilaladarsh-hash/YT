@@ -1,0 +1,55 @@
+{
+  "id": "tcu--biology",
+  "university": "tcu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://cse.tcu.edu/biology/graduate-programs/index.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Full consideration with financial aid for a summer or fall start is given to applicants received by 15 February.",
+      "quote": "Full consideration for admission with financial aid, for a summer or fall start, will be given to applicants received by February 15th",
+      "url": "https://cse.tcu.edu/biology/graduate-programs/admission-requirements-application-process.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE General Test is not required, but you may submit scores.",
+      "quote": "The GRE General Test is not required for admission, but a student may choose to submit their exam scores",
+      "url": "https://cse.tcu.edu/biology/graduate-programs/admission-requirements-application-process.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a subject GRE.",
+      "quote": "",
+      "url": "https://cse.tcu.edu/biology/graduate-programs/admission-requirements-application-process.php"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "The department asks you to contact faculty by email about research openings before applying.",
+      "quote": "contact individual faculty members via email to inquire about research opportunities in their labs",
+      "url": "https://cse.tcu.edu/biology/graduate-programs/index.php"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most PhD students are paid by teaching assistantships, with a full tuition waiver and a $30,000 stipend.",
+      "quote": "The majority of graduate student in the Department of Biology receive salary support through teaching assistantships",
+      "url": "https://cse.tcu.edu/biology/graduate-programs/index.php",
+      "also": [
+        {
+          "quote": "PhD student stipends are provided via teaching assistantships and include a full tuition waiver",
+          "url": "https://cse.tcu.edu/biology/graduate-programs/admission-requirements-application-process.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://cse.tcu.edu/biology/graduate-programs/admission-requirements-application-process.php"
+    }
+  },
+  "notes": "Catalog code BIOL-PHD. Admission is competitive on GPA (3.0 or higher), a statement of purpose and three letters. The department page shows a 'Degree Requirements' link; those pages were not fetched."
+}

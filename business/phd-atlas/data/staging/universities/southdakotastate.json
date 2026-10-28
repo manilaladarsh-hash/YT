@@ -1,0 +1,53 @@
+{
+  "id": "southdakotastate",
+  "institution": "South Dakota State University",
+  "country": "USA",
+  "region": "South Dakota",
+  "grad_page": "https://www.sdstate.edu/admissions/graduate-admissions/international-graduate-school-applicants",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "40 USD",
+      "value": "The application fee is $40 for international applicants.",
+      "quote": "Application fee of U.S. $40.",
+      "url": "https://www.sdstate.edu/admissions/graduate-admissions/international-graduate-school-applicants"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application fee waiver is stated on the pages checked.",
+      "quote": "",
+      "url": "https://www.sdstate.edu/admissions/graduate-admissions/international-graduate-school-applicants"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Each program sets its own GRE rule; the graduate school does not state one.",
+      "quote": "Graduate Record Exam (if applicable and required by the program).",
+      "url": "https://www.sdstate.edu/admissions/graduate-admissions/international-graduate-school-applicants"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The page lists a 4.0 minimum for the Test of English as a Foreign Language with no iBT scale, so no iBT minimum is stated.",
+      "quote": "Test of English as a Foreign Language 4.0",
+      "url": "https://www.sdstate.edu/admissions/graduate-admissions/international-graduate-school-applicants"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "IELTS overall band 6.0 minimum.",
+      "quote": "International English Language Testing System 6.0",
+      "url": "https://www.sdstate.edu/admissions/graduate-admissions/international-graduate-school-applicants"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the country exemption list, so Indian applicants must submit a test score (IELTS 6.0 or Duolingo English Test 100).",
+      "quote": "To demonstrate English language proficiency, international applicants must meet the minimum scores on one of the following exams.",
+      "url": "https://www.sdstate.edu/admissions/graduate-admissions/international-graduate-school-applicants",
+      "also": [
+        {
+          "quote": "do not need to submit English language proficiency test score to meet the English language proficiency requirement for admission to the university.",
+          "url": "https://www.sdstate.edu/admissions/graduate-admissions/international-graduate-school-applicants"
+        }
+      ]
+    }
+  },
+  "notes": "Duolingo English Test 100 is also accepted. The $400 international enrollment deposit is not an application fee. Engineering degrees use the EngineeringCAS application, which has its own rules (not found on the pages checked). Fee waivers were not found on the pages checked."
+}

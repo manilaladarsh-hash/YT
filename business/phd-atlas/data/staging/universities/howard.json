@@ -1,0 +1,59 @@
+{
+  "id": "howard",
+  "institution": "Howard University",
+  "country": "USA",
+  "region": "District of Columbia",
+  "grad_page": "https://gs.howard.edu/application-deadlines-requirements",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The graduate application fee is $75 in the 2026-27 official notice, paid online and non-refundable.",
+      "quote": "Howard University requires the following non-refundable out-of-pocket fees and deposits for application and enrollment. | Graduate Application $75",
+      "url": "https://financialservices.howard.edu/official-notice/student-charges-2026-27",
+      "also": [
+        {
+          "quote": "you will be assessed a non-refundable application processing fee when submitting their online application",
+          "url": "https://gs.howard.edu/admissions/application-steps-and-required-materials"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The admissions office says it does not offer application fee waivers at this time, so international applicants pay the full fee.",
+      "quote": "*NOTE: Unfortunately, our office does not offer application fee waivers at this time.",
+      "url": "https://admission.howard.edu/graduate"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school sets no single GRE rule: some programs may require the GRE, so each program record states its own rule.",
+      "quote": "Some Graduate School programs may require the GRE",
+      "url": "https://gs.howard.edu/admissions/additional-admissions-components"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "The graduate school's TOEFL iBT minimum is 90 (233 on the CBT scale).",
+      "quote": "minimum score of 233 CBT (computer-based test) or 90 iBT (internet-based test)",
+      "url": "https://gs.howard.edu/admissions/evidence-english-language-proficiency"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The graduate school's IELTS minimum is an overall band of 6.5, with no band below 6.0.",
+      "quote": "minimum overall band score of 6.5, with no individual band score below 6.0",
+      "url": "https://gs.howard.edu/admissions/evidence-english-language-proficiency"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "India is not on the graduate school's TOEFL/IELTS-exempt country list, but the school waives the test for applicants from a foreign university that taught in English, once the Office of Admissions approves the request.",
+      "quote": "We will waive the English language testing requirement for applicants who attended a foreign university that offered instruction in English. | Howard University’s Office of Admissions will review and approve requests made on this basis.",
+      "url": "https://gs.howard.edu/admissions/evidence-english-language-proficiency",
+      "also": [
+        {
+          "quote": "If you hold (or will earn before starting at Howard) at least a bachelor's degree from one of the following countries, then you do not have to submit a TOEFL/IELTS exam score",
+          "url": "https://gs.howard.edu/admissions/evidence-english-language-proficiency/exemption-toeflielts-country-list"
+        }
+      ]
+    }
+  },
+  "notes": "Graduate school rules from gs.howard.edu, which the graduate school uses for GradCAS and EngineeringCAS. gradschool.howard.edu and gsas.howard.edu failed at the agent proxy (502 to CONNECT), so gs.howard.edu was used. The $75 fee is the 2026-27 figure. The fee-waiver note appears on the admissions page under the School of Social Work list; it is applied here to the graduate application because the same page says the Graduate Admission Application is not applicable to undergraduates."
+}

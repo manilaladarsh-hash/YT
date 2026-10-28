@@ -1,0 +1,53 @@
+{
+  "id": "tcu",
+  "institution": "Texas Christian University",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://graduate.tcu.edu/admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "The application fee is $60 for all graduate applicants, and international graduate students also pay a non-refundable $50 orientation fee at application.",
+      "quote": "A non-refundable application fee of $60 is required with all applications payable when application is submitted",
+      "url": "https://graduate.tcu.edu/admissions/",
+      "also": [
+        {
+          "quote": "All international graduate students must pay a non-refundable $50 orientation fee, due at the time of application submission",
+          "url": "https://coursedog-pdfs-public-prod.s3.us-east-2.amazonaws.com/tcu_peoplesoft/catalog/9e2a3e0e-518a-47d0-b4b2-944aef7f6ff2-tcu_peoplesoft-catalog-1783458253165.pdf"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The university waives the fee only for McNair Scholars; departments may waive it case by case.",
+      "quote": "We waive the $60 application fee for McNair Scholars",
+      "url": "https://graduate.tcu.edu/admissions/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Each department decides whether the GRE is required; see the program records.",
+      "quote": "must be submitted if required by the major department",
+      "url": "https://graduate.tcu.edu/admissions/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "Set by each department; see the program records.",
+      "quote": "",
+      "url": "https://graduate.tcu.edu/wp-content/uploads/2025/01/Red-and-Green-Modular-Business-Roadmap-Presentation-1.pdf"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "Set by each department; see the program records.",
+      "quote": "",
+      "url": "https://graduate.tcu.edu/wp-content/uploads/2025/01/Red-and-Green-Modular-Business-Roadmap-Presentation-1.pdf"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The graduate school sets no country-wide exemption for Indian degrees; each department sets its own English rule.",
+      "quote": "Admission standards are the same for all students, regardless of country of origin or residency",
+      "url": "https://coursedog-pdfs-public-prod.s3.us-east-2.amazonaws.com/tcu_peoplesoft/catalog/9e2a3e0e-518a-47d0-b4b2-944aef7f6ff2-tcu_peoplesoft-catalog-1783458253165.pdf"
+    }
+  },
+  "notes": "Graduate school rules only. Each department sets its own GRE and TOEFL/IELTS minimums; the roadmap says programs 'have different requirements, ranging from GPA and prerequisite courses to English language proficiency and standardized tests, such as the GRE'."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "southdakotastate--math",
+  "university": "southdakotastate",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Department of Mathematics and Statistics",
+  "program_page": "https://www.sdstate.edu/programs/graduate/computational-science-statistics-phd-mathematics-specialization",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Applications are recommended by December 15 for the Ph.D.; late applications are considered but assistantship availability is limited.",
+      "quote": "by Dec. 15 for the Ph.D. program",
+      "url": "https://www.sdstate.edu/mathematics-statistics/graduate-mathematics-statistics-programs",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "GRE scores are not required or considered for this department's programs.",
+      "quote": "GRE scores are not required or considered.",
+      "url": "https://www.sdstate.edu/mathematics-statistics/graduate-mathematics-statistics-programs"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages checked do not say whether a supervisor's agreement is needed.",
+      "quote": "",
+      "url": "https://www.sdstate.edu/mathematics-statistics/graduate-mathematics-statistics-programs"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantships are awarded on a competitive basis; admission does not guarantee one.",
+      "quote": "Assistantships are available on a competitive basis.",
+      "url": "https://www.sdstate.edu/mathematics-statistics/graduate-mathematics-statistics-programs"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may hold an undergraduate or a master's degree in mathematics, statistics or a related field.",
+      "quote": "Have an undergraduate or master's degree in mathematics, statistics or a related field.",
+      "url": "https://www.sdstate.edu/programs/graduate/computational-science-statistics-phd-mathematics-specialization"
+    }
+  },
+  "notes": "Umbrella program: Computational Science and Statistics (Ph.D.), mathematics specialisation (primary), with the statistics specialisation in also_fields. A data science specialisation also exists under the same PhD; it is not saved as a separate field. Graduate assistantships are competitive per the department page.",
+  "name": "Computational Science and Statistics (Ph.D.)"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "tcu--chemistry",
+  "university": "tcu",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry & Biochemistry",
+  "program_page": "https://cse.tcu.edu/chemistry/graduate-programs/index.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Apply by 1 January for maximum consideration for Fall; the college says deadlines are otherwise flexible.",
+      "quote": "apply by January 1 for maximum consideration for Fall and Summer admission",
+      "url": "https://cse.tcu.edu/chemistry/graduate-programs/index.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is not required, and any score submitted is reviewed holistically.",
+      "quote": "The GRE is not required for any Department in the College of Science & Engineering",
+      "url": "https://cse.tcu.edu/chemistry/graduate-programs/index.php",
+      "also": [
+        {
+          "quote": "Any submitted GRE score is part of a holistic review of each application",
+          "url": "https://cse.tcu.edu/chemistry/graduate-programs/index.php"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not address the Chemistry GRE subject test.",
+      "quote": "",
+      "url": "https://cse.tcu.edu/chemistry/graduate-programs/index.php"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The $60 fee can be waived on request for some qualified applicants.",
+      "quote": "The $60 application fee could be waived upon request for some qualified applicants",
+      "url": "https://cse.tcu.edu/chemistry/graduate-programs/index.php"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Minimum TOEFL iBT of 80 (or 550 paper-based), with a telephone interview possible for a waiver.",
+      "quote": "a minimum TOEFL score of 80 (internet based) or 550 (paper based) is required",
+      "url": "https://cse.tcu.edu/chemistry/graduate-programs/index.php",
+      "also": [
+        {
+          "quote": "applicant may request a telephone interview with the department for possible waiver of the TOEFL",
+          "url": "https://cse.tcu.edu/chemistry/graduate-programs/index.php"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic overall band of 6.5.",
+      "quote": "or a minimum IELTS score of 6.5",
+      "url": "https://cse.tcu.edu/chemistry/graduate-programs/index.php"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "A TOEFL or IELTS score is required for international students; the department may waive the TOEFL after a telephone interview.",
+      "quote": "TOEFL or IELTS is required for all international students",
+      "url": "https://cse.tcu.edu/chemistry/graduate-programs/index.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not state a rule on when a supervisor must agree.",
+      "quote": "",
+      "url": "https://cse.tcu.edu/chemistry/graduate-programs/index.php"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every admitted student gets a stipend and tuition/fee waiver, including international students.",
+      "quote": "All admitted students are guaranteed a stipend and tuition/fee waiver. This includes international students.",
+      "url": "https://cse.tcu.edu/chemistry/graduate-programs/index.php",
+      "also": [
+        {
+          "quote": "The current regular stipend for teaching and research assistants in the Department of Chemistry & Biochemistry is $28,600 per year",
+          "url": "https://cse.tcu.edu/chemistry/graduate-programs/index.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://cse.tcu.edu/chemistry/graduate-programs/index.php"
+    }
+  },
+  "notes": "Catalog code CHEM-PHD. Department stipend figure is the 2026-27 stipend quoted on the page."
+}

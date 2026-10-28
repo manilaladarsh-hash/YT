@@ -1,0 +1,67 @@
+{
+  "id": "tcu--cs",
+  "university": "tcu",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://cse.tcu.edu/computer-science/graduate/phd-in-cs.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "The college asks for applications by 1 January for Fall; the CS page gives no separate date.",
+      "quote": "apply by January 1 for maximum consideration for Fall and Summer admission",
+      "url": "https://cse.tcu.edu/chemistry/graduate-programs/index.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional, and scores are considered if you submit them.",
+      "quote": "GRE scores — optional, and considered if submitted",
+      "url": "https://cse.tcu.edu/computer-science/graduate/phd-in-cs.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "There is no subject test for computer science.",
+      "quote": "",
+      "url": "https://cse.tcu.edu/computer-science/graduate/phd-in-cs.php"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "Minimum TOEFL iBT overall score of 90.",
+      "quote": "the TOEFL iBT (minimum overall score of 90)",
+      "url": "https://cse.tcu.edu/computer-science/graduate/phd-in-cs.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic overall band of 6.5.",
+      "quote": "the IELTS Academic (minimum overall band score of 6.5)",
+      "url": "https://cse.tcu.edu/computer-science/graduate/phd-in-cs.php"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Applicants whose native language is not English need an approved test; the page lists no exemption for Indian degrees.",
+      "quote": "International applicants whose native language is not English must demonstrate proficiency",
+      "url": "https://cse.tcu.edu/computer-science/graduate/phd-in-cs.php"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admission depends on a faculty advisor being available for you.",
+      "quote": "Admission is contingent upon the availability of an appropriate faculty advisor",
+      "url": "https://cse.tcu.edu/computer-science/graduate/phd-in-cs.php"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every PhD student receives a tuition waiver and a stipend.",
+      "quote": "Every Ph.D. student receives full funding",
+      "url": "https://cse.tcu.edu/computer-science/graduate/phd-in-cs.php"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's or master's in computer science or a closely related discipline is needed.",
+      "quote": "Applicants must hold a bachelor's or master's degree in computer science or a closely related discipline",
+      "url": "https://cse.tcu.edu/computer-science/graduate/phd-in-cs.php"
+    }
+  },
+  "notes": "New PhD starting Fall 2026 (catalog code COSC-PHD). Admission is conditional on advisor availability. Research areas include AI/ML and data science, but these are research areas, not a separate program, so no datasci record was made."
+}
