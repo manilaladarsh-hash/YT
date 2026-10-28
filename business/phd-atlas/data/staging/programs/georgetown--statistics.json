@@ -1,0 +1,62 @@
+{
+  "id": "georgetown--statistics",
+  "university": "georgetown",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Biostatistics, Bioinformatics & Biomathematics",
+  "program_page": "https://biostatistics.georgetown.edu/phd-admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The fall deadline is December 1, 2026, for Fall 2027 entry.",
+      "quote": "December 1 Final Deadline to Apply for Fall Admission",
+      "url": "https://biostatistics.georgetown.edu/phd-admissions/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The admissions page says GRE scores are not required (an older FAQ sets a quantitative minimum; see notes).",
+      "quote": "GRE scores are not required, but we invite applicants to report these scores if they are available.",
+      "url": "https://biostatistics.georgetown.edu/phd-admissions/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The school minimum is 80 on the original iBT scale, or 4 on the new scale.",
+      "quote": "The minimum TOEFL score for admission is 80 (original TOEFL iBT score scale) or 4.0 (new TOEFL iBT score scale beginning January 21, 2026)",
+      "url": "https://biomedicalprograms.georgetown.edu/prospective/faq/"
+    },
+    "ielts_min": {
+      "code": "7.0",
+      "value": "The school minimum is 7.0 overall on IELTS.",
+      "quote": "The minimum IELTS score for admission is 7.0.",
+      "url": "https://biomedicalprograms.georgetown.edu/prospective/faq/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants do not need a lab position before admission.",
+      "quote": "Applicants do not need to arrange a position in a laboratory prior to admission.",
+      "url": "https://biostatistics.georgetown.edu/phd-admissions/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Every applicant is considered for scholarships and assistantships, which are highly competitive.",
+      "quote": "The awarding of scholarships/assistantships is highly competitive",
+      "url": "https://biostatistics.georgetown.edu/phd-admissions/",
+      "also": [
+        {
+          "quote": "All program applicants will be considered for scholarships/assistantships; no additional application is needed.",
+          "url": "https://biostatistics.georgetown.edu/phd-admissions/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's in a quantitative field is listed as a prerequisite, alongside a bachelor's with set coursework.",
+      "quote": "A master’s degree from an accredited college or university, with a minimum GPA of 3.0, in: Biostatistics, Statistics or Mathematics",
+      "url": "https://biostatistics.georgetown.edu/phd-admissions/"
+    }
+  },
+  "notes": "The GRE page says scores are not required, but the prospective FAQ lists a minimum quantitative GRE of 155 (new) or 700 (old). The two official pages conflict; confirm with the program.",
+  "name": "PhD in Biostatistics"
+}

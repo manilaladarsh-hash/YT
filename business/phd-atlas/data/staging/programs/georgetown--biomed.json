@@ -1,0 +1,56 @@
+{
+  "id": "georgetown--biomed",
+  "university": "georgetown",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Department of Biochemistry and Molecular & Cellular Biology",
+  "program_page": "https://bmcb.georgetown.edu/phd/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The summer-start application deadline is December 1, 2026; the program starts July 1, 2027.",
+      "quote": "December 1 Final Deadline to Apply for Summer Admission",
+      "url": "https://bmcb.georgetown.edu/admissions/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE and MCAT scores are not required.",
+      "quote": "GRE and MCAT scores are not required",
+      "url": "https://bmcb.georgetown.edu/admissions/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The Biomedical Graduate Education office states a TOEFL minimum of 80 on the original scale, or 4 on the new scale.",
+      "quote": "The minimum TOEFL score for admission is 80 (original TOEFL iBT score scale) or 4.0 (new TOEFL iBT score scale beginning January 21, 2026)",
+      "url": "https://biomedicalprograms.georgetown.edu/prospective/faq/"
+    },
+    "ielts_min": {
+      "code": "7.0",
+      "value": "The Biomedical Graduate Education office states an IELTS minimum of 7.0.",
+      "quote": "The minimum IELTS score for admission is 7.0.",
+      "url": "https://biomedicalprograms.georgetown.edu/prospective/faq/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants do not need a lab position before admission.",
+      "quote": "Applicants do not need to arrange a position in a laboratory prior to admission.",
+      "url": "https://bmcb.georgetown.edu/admissions/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most Biomedical Graduate Education PhD students have tuition covered by a university stipend.",
+      "quote": "Most BGE doctoral students have their tuition covered by a stipend from the university.",
+      "url": "https://biomedicalprograms.georgetown.edu/prospective/funding/phd/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A four-year bachelor's with a GPA of 3.0 or higher is the stated requirement.",
+      "quote": "A 4-year bachelor’s degree or equivalent with a GPA of 3.0 or higher",
+      "url": "https://bmcb.georgetown.edu/admissions/"
+    }
+  },
+  "notes": "Summer-start program (July 1). Other Biomedical Graduate Education PhDs are not in this record.",
+  "name": "PhD in Biochemistry and Molecular & Cellular Biology"
+}

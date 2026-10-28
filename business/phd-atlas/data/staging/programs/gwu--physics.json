@@ -1,0 +1,57 @@
+{
+  "id": "gwu--physics",
+  "university": "gwu",
+  "field": "physics",
+  "also_fields": [
+    "astronomy"
+  ],
+  "department": "Department of Physics",
+  "program_page": "https://physics.columbian.gwu.edu/phd-physics",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-05",
+      "value": "Fall 2027 applications are due January 5, 2027; spring admission is not always offered to PhD applicants.",
+      "quote": "Fall Semester: January 5",
+      "url": "https://physics.columbian.gwu.edu/phd-physics",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page does not mention the Subject GRE.",
+      "quote": "",
+      "url": "https://physics.columbian.gwu.edu/phd-physics"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department guide says a student must agree on a project with a faculty advisor, but does not say when.",
+      "quote": "",
+      "url": "https://physics.columbian.gwu.edu/phd-physics"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department lists teaching, research and merit fellowship funding, but does not say what share of admitted students receive it.",
+      "quote": "",
+      "url": "https://physics.columbian.gwu.edu/phd-physics"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The department page does not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://physics.columbian.gwu.edu/phd-physics"
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "Columbian College minimum is TOEFL 4 (new scale); 5 (new scale) avoids the required first-semester English course.",
+      "quote": "Minimum requirement, requires EAP course 81 (old test) 4 (new test)",
+      "url": "https://columbian.gwu.edu/international-graduate-applicants"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "Columbian College minimum is IELTS 6.0 with no band below 5.0; 7.0 with no band below 6.0 avoids the required English course.",
+      "quote": "Minimum requirement, requires EAP course 81 (old test) 4 (new test) 6.0 (with no individual band score below 5.0)",
+      "url": "https://columbian.gwu.edu/international-graduate-applicants"
+    }
+  },
+  "notes": "PhD in Physics covers nuclear physics, biophysics and astrophysics research, so astronomy is listed as also_fields. The Bulletin pages were not reachable."
+}

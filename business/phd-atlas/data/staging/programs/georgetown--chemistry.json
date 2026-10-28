@@ -1,0 +1,68 @@
+{
+  "id": "georgetown--chemistry",
+  "university": "georgetown",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://chemistry.georgetown.edu/phdprogram/admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The priority deadline is December 15, 2026 and the final deadline January 15, 2027, for Fall 2027 entry.",
+      "quote": "Fall 2027 Application Deadlines: December 15 (Priority) January 15 (Final)",
+      "url": "https://chemistry.georgetown.edu/phdprogram/admissions/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department does not require any GRE scores for a complete application.",
+      "quote": "We do not require any GRE scores as part of a complete application.",
+      "url": "https://chemistry.georgetown.edu/phdprogram/admissions/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE subject test is required.",
+      "quote": "We do not require any GRE scores as part of a complete application.",
+      "url": "https://chemistry.georgetown.edu/phdprogram/admissions/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Scores from 80 to 100 on the iBT are eligible, and the department calls 100 competitive.",
+      "quote": "Candidates with a score between 80 and 100 (Internet-based test) or a IELTS score above 7.0 are also eligible",
+      "url": "https://chemistry.georgetown.edu/phdprogram/admissions/"
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "The FAQ calls 7.5 the competitive IELTS level; the admissions page also accepts scores above 7.0.",
+      "quote": "To be competitive, candidates taking the IELTS should have a minimum score of 7.5",
+      "url": "https://chemistry.georgetown.edu/phdprogram/faq/",
+      "also": [
+        {
+          "quote": "a IELTS score above 7.0 are also eligible",
+          "url": "https://chemistry.georgetown.edu/phdprogram/admissions/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to review faculty websites and reach out to faculty before applying.",
+      "quote": "We encourage you to browse the websites of our faculty and reach out to them to learn more about current areas of research and active projects.",
+      "url": "https://chemistry.georgetown.edu/phdprogram/admissions/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Students in good standing are guaranteed financial assistance for a full five years.",
+      "quote": "Graduate students who remain in good standing are guaranteed financial assistance for a full 5 years.",
+      "url": "https://chemistry.georgetown.edu/phdprogram/faq/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages do not say whether a bachelor's applicant can enter directly.",
+      "quote": "",
+      "url": "https://chemistry.georgetown.edu/phdprogram/admissions/"
+    }
+  },
+  "notes": "",
+  "name": "PhD in Chemistry"
+}

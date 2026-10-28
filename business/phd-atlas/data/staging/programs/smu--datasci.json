@@ -1,0 +1,49 @@
+{
+  "id": "smu--datasci",
+  "university": "smu",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "Department of Statistics and Data Science",
+  "program_page": "https://grad.smu.edu/graduate-studies-in-statistics-and-data-science",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Ph.D. priority deadline for the Data Science PhD is January 15; later applications are considered on space available.",
+      "quote": "Ph.D. Priority Deadline – January 15th",
+      "url": "https://grad.smu.edu/graduate-studies-in-statistics-and-data-science",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a Subject GRE for data science.",
+      "quote": "",
+      "url": "https://grad.smu.edu/graduate-studies-in-statistics-and-data-science"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE Scores are listed among the Ph.D. admission requirements.",
+      "quote": "Applicants must provide: | 3 Letters of Recommendation | GRE Scores",
+      "url": "https://grad.smu.edu/graduate-studies-in-statistics-and-data-science"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor's agreement is needed before admission.",
+      "quote": "",
+      "url": "https://grad.smu.edu/graduate-studies-in-statistics-and-data-science"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not describe PhD funding.",
+      "quote": "",
+      "url": "https://grad.smu.edu/graduate-studies-in-statistics-and-data-science"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants must hold a bachelor's degree and advanced calculus and linear algebra; no master's is listed.",
+      "quote": "Applicants must hold a Bachelor's degree and must have taken mathematics courses through advanced calculus and linear algebra.",
+      "url": "https://grad.smu.edu/graduate-studies-in-statistics-and-data-science"
+    }
+  },
+  "notes": "The Data Science PhD section on the page repeats the Statistical Science admission wording, so the entry route is taken from that repeated text. Listed as its own PhD on the Moody degrees page."
+}

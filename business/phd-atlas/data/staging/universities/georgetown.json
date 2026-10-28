@@ -1,0 +1,47 @@
+{
+  "id": "georgetown",
+  "institution": "Georgetown University",
+  "country": "USA",
+  "region": "District of Columbia",
+  "grad_page": "https://grad.georgetown.edu/admissions/application-information/",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "90 USD",
+      "value": "The non-refundable application fee is $90 for Georgetown graduate applications.",
+      "quote": "A non-refundable $90 application fee is required to complete a Georgetown graduate application.",
+      "url": "https://grad.georgetown.edu/admissions/application-information/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Waivers go only to the listed groups, such as US citizens with demonstrated financial need or members of certain external programs.",
+      "quote": "US citizens with demonstrated financial need who meet one of the following categories",
+      "url": "https://grad.georgetown.edu/admissions/application-information/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school sets no GRE rule; each program sets its own.",
+      "quote": "Please refer to academic programs for the examinations required by individual programs.",
+      "url": "https://grad.georgetown.edu/admissions/application-information/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The school minimum is 80 or 100 on the original iBT scale (4 or 5 on the new scale), depending on the program.",
+      "quote": "A minimum score of 80 or 100 (original TOEFL iBT score scale)",
+      "url": "https://grad.georgetown.edu/admissions/application-information/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The school minimum is 7.0 or 7.5 overall, depending on the program.",
+      "quote": "A minimum score of 7.0 or 7.5, dependent on program requirements",
+      "url": "https://grad.georgetown.edu/admissions/application-information/"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "A degree from a university where English is the primary language of instruction is accepted, so no test is needed. The page does not name India, so check the Indian institution's medium of instruction.",
+      "quote": "from a university where English is the primary language of instruction",
+      "url": "https://grad.georgetown.edu/admissions/application-information/"
+    }
+  },
+  "notes": "Program-level rules (GRE, TOEFL and IELTS minimums) are on each program record."
+}

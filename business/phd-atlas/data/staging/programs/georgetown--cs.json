@@ -1,0 +1,56 @@
+{
+  "id": "georgetown--cs",
+  "university": "georgetown",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://cs.georgetown.edu/academics/graduate/phd/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The priority deadline is December 15, 2026 and the final deadline January 15, 2027, for Fall 2027.",
+      "quote": "Priority Deadline: December 15 Final Deadline: January 15",
+      "url": "https://cs.georgetown.edu/academics/graduate/phd/",
+      "inferred": "year"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "The program requires TOEFL 90 or better.",
+      "quote": "Our program requires the following minimum scores for admission: TOEFL: 90 or better IELTS: 7.0 or better",
+      "url": "https://cs.georgetown.edu/graduate/faq-prospective/"
+    },
+    "ielts_min": {
+      "code": "7.0",
+      "value": "The program requires IELTS 7.0 or better.",
+      "quote": "Our program requires the following minimum scores for admission: TOEFL: 90 or better IELTS: 7.0 or better",
+      "url": "https://cs.georgetown.edu/graduate/faq-prospective/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to review faculty profiles and may contact faculty, but a committee decides admissions.",
+      "quote": "Applicants are strongly encouraged to review faculty profiles and research interests",
+      "url": "https://cs.georgetown.edu/graduate/faq-prospective/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every offer of admission includes five years of financial aid, covering health insurance, required coursework and an assistantship.",
+      "quote": "every offer of admission to the Ph.D. program includes an offer of financial aid for five years of study in the program",
+      "url": "https://cs.georgetown.edu/graduate/faq-prospective/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's or master's in computer science or a closely related field is required.",
+      "quote": "hold a Bachelor’s or Master’s degree from an accredited academic institution in computer science",
+      "url": "https://cs.georgetown.edu/academics/graduate/phd/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The department has historically had a limited budget for application fee waivers.",
+      "quote": "We have, historically, had a limited budget for providing application fee waivers to Ph.D. program applicants.",
+      "url": "https://cs.georgetown.edu/graduate/faq-prospective/"
+    }
+  },
+  "notes": "",
+  "name": "PhD in Computer Science"
+}

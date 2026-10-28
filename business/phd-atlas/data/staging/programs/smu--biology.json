@@ -1,0 +1,55 @@
+{
+  "id": "smu--biology",
+  "university": "smu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://www.smu.edu/dedman/academics/departments/biological-sciences/graduate/phd",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Biology's priority deadline for department assistantships is December 15; the Molecular and Cellular Biology PhD lists January 15 for admission.",
+      "quote": "Biology December 15",
+      "url": "https://www.smu.edu/moody/prospective-students/application-deadlines/dedman-app-deadlines",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Priority deadline for Fall admission to the Ph.D. program is January 15.",
+          "url": "https://grad.smu.edu/smu-graduate-studies-in-molecular-and-cellular-biology"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "A Biology or Biochemistry, Cell and Molecular Biology subject test score is encouraged but not required.",
+      "quote": "Score for the Biology, or the Biochemistry, Cell and Molecular Biology subject test is encouraged, but not required.",
+      "url": "https://grad.smu.edu/smu-graduate-studies-in-molecular-and-cellular-biology"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE Scores are listed among the PhD admission requirements.",
+      "quote": "Statement of Purpose* | GRE Scores",
+      "url": "https://grad.smu.edu/smu-graduate-studies-in-molecular-and-cellular-biology"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students rotate through labs in the first semester and choose a mentor afterwards, so a supervisor's agreement is not needed before admission.",
+      "quote": "During the first semester, students rotate through 2-3 different laboratories before choosing a faculty mentor to supervise their Ph.D. research.",
+      "url": "https://www.smu.edu/dedman/academics/departments/biological-sciences/graduate/phd"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD students receive a stipend of $32,000 a year plus benefits, and tuition is covered.",
+      "quote": "In the PhD program, financial support provides students with a competitive stipend amount of $32,000 per year plus benefits",
+      "url": "https://www.smu.edu/dedman/academics/departments/biological-sciences/graduate/phd"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://grad.smu.edu/smu-graduate-studies-in-molecular-and-cellular-biology"
+    }
+  },
+  "notes": "Covers the Molecular and Cellular Biology PhD. Two deadlines are on the record: December 15 is the Dedman assistantship deadline and January 15 is the admission priority date on the MCB page."
+}

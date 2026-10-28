@@ -1,0 +1,55 @@
+{
+  "id": "northdakota--mech",
+  "university": "northdakota",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Mechanical Engineering",
+  "program_page": "https://und.edu/programs/mechanical-engineering-phd/index.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Fall priority deadline is February 1, with a final Fall date of August 1; financial aid applications are due February 15.",
+      "quote": "Application Deadlines Fall: Feb. 1* Aug. 1",
+      "url": "https://und.edu/programs/mechanical-engineering-phd/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The mechanical engineering pages do not mention a GRE requirement.",
+      "quote": "",
+      "url": "https://und.edu/programs/mechanical-engineering-phd/requirements.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned.",
+      "quote": "",
+      "url": "https://und.edu/programs/mechanical-engineering-phd/requirements.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say a faculty agreement is needed before admission.",
+      "quote": "",
+      "url": "https://und.edu/programs/mechanical-engineering-phd/requirements.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching and research assistantships are awarded on a competitive basis.",
+      "quote": "Financial aid in the form of teaching and research assistantships is available on a competitive basis.",
+      "url": "https://und.edu/programs/mechanical-engineering-phd/requirements.html",
+      "also": [
+        {
+          "quote": "Students seeking financial aid should complete their applications by February 15th for Fall or Summer admission",
+          "url": "https://und.edu/programs/mechanical-engineering-phd/requirements.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants can enter with a bachelor's (GPA 3.5 or higher) or with a Master of Science.",
+      "quote": "A baccalaureate degree in an engineering or related discipline with a GPA of 3.5 or higher or a Master of Science degree in an engineering or related discipline.",
+      "url": "https://und.edu/programs/mechanical-engineering-phd/requirements.html"
+    }
+  },
+  "notes": "Also: Aerospace Engineering (Ph.D.), a separate program in this field, is not saved here."
+}

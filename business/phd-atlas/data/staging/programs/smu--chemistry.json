@@ -1,0 +1,55 @@
+{
+  "id": "smu--chemistry",
+  "university": "smu",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.smu.edu/dedman/academics/departments/chemistry/graduate/phd",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Priority deadline for Fall admission to the Ph.D. program is January 15.",
+      "quote": "Priority deadline for Fall admission to the Ph.D. program is January 15.",
+      "url": "https://grad.smu.edu/graduate-studies-in-chemistry",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The chemistry pages do not mention the Chemistry GRE Subject test.",
+      "quote": "",
+      "url": "https://grad.smu.edu/graduate-studies-in-chemistry"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE Scores are listed among the Ph.D. admission requirements.",
+      "quote": "Statement of Purpose | GRE Scores",
+      "url": "https://grad.smu.edu/graduate-studies-in-chemistry"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The chemistry pages do not say whether a supervisor's agreement is needed before admission.",
+      "quote": "",
+      "url": "https://grad.smu.edu/graduate-studies-in-chemistry"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The chemistry admissions page does not describe PhD funding.",
+      "quote": "",
+      "url": "https://grad.smu.edu/graduate-studies-in-chemistry"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The Ph.D. admission requirement is a bachelor's degree in chemistry, and no master's is listed.",
+      "quote": "Bachelor's degree in Chemistry",
+      "url": "https://grad.smu.edu/graduate-studies-in-chemistry",
+      "also": [
+        {
+          "quote": "Bachelor's degree in Chemistry, Physics, Mathematics, Biology, Chemical Engineering, or Computer Science",
+          "url": "https://grad.smu.edu/graduate-studies-in-chemistry"
+        }
+      ]
+    }
+  },
+  "notes": "One record covers the Chemistry PhD and the Theoretical and Computational Chemistry PhD (direct bachelor's-to-PhD track). Dedman deadlines table: Chemistry January 15 for both."
+}

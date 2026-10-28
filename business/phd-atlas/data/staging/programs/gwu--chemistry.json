@@ -1,0 +1,61 @@
+{
+  "id": "gwu--chemistry",
+  "university": "gwu",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://chemistry.columbian.gwu.edu/graduate-admissions-aid",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "PhD applications for Fall 2027 are due December 15, 2026; later applications are accepted if space is available.",
+      "quote": "Fall Admissions: December 15, but will accept late applications if space is available.",
+      "url": "https://chemistry.columbian.gwu.edu/graduate-admissions-aid",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE is recommended but not required for chemistry graduate programs.",
+      "quote": "Applicants to our graduate programs do not require the GRE, it is recommended but not required.",
+      "url": "https://chemistry.columbian.gwu.edu/graduate-admissions-aid"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page does not mention the Subject GRE.",
+      "quote": "",
+      "url": "https://chemistry.columbian.gwu.edu/graduate-admissions-aid"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission does not need a faculty agreement; students join a research group before their second semester.",
+      "quote": "The student should formally choose and be accepted into the research group of a full-time professor in our department prior to the start of the student’s 2nd semester in the program.",
+      "url": "https://chemistry.columbian.gwu.edu/phd-chemistry"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "The department says admitted PhD students are generally offered full packages: tuition for up to five years, an assistantship and a stipend.",
+      "quote": "students who are offered admission to the PhD program are also offered | full tuition coverage for up to 5 years, plus assistantship, plus stipend",
+      "url": "https://chemistry.columbian.gwu.edu/graduate-admissions-aid"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants must hold a bachelor's degree in science or engineering with the listed chemistry background.",
+      "quote": "must hold a bachelor’s degree in science or engineering that includes a background in the fundamental areas of chemistry",
+      "url": "https://chemistry.columbian.gwu.edu/graduate-admissions-aid"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "The chemistry PhD minimum for international applicants is TOEFL 100.",
+      "quote": "For international students applying to the PhD program, the minimum score of TOEFL is 100",
+      "url": "https://chemistry.columbian.gwu.edu/graduate-admissions-aid"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The chemistry PhD minimum for international applicants is IELTS 7.0 with no band below 6.0.",
+      "quote": "IELTS (band/subscores) is 7.0 with no individual band score of less than 6.0",
+      "url": "https://chemistry.columbian.gwu.edu/graduate-admissions-aid"
+    }
+  },
+  "notes": "Department states its own TOEFL, IELTS and GRE rules, which replace the school-wide ones."
+}

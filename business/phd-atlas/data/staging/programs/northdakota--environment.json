@@ -1,0 +1,49 @@
+{
+  "id": "northdakota--environment",
+  "university": "northdakota",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Atmospheric Sciences",
+  "program_page": "https://und.edu/programs/atmospheric-sciences-phd/index.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Fall priority deadline is February 1, with a later Fall date of August 1.",
+      "quote": "Application Deadlines Fall: Feb. 1* Aug. 1",
+      "url": "https://und.edu/programs/atmospheric-sciences-phd/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "International applicants need a combined GRE score of 300 in quantitative and verbal sections; the page applies this to international applicants only.",
+      "quote": "For international applicants only: A combined score of 300 in the quantitative and verbal sections of the Graduate Record Examination (GRE).",
+      "url": "https://und.edu/programs/atmospheric-sciences-phd/requirements.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned.",
+      "quote": "",
+      "url": "https://und.edu/programs/atmospheric-sciences-phd/requirements.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page says only that the department must recommend the applicant for doctoral work.",
+      "quote": "",
+      "url": "https://und.edu/programs/atmospheric-sciences-phd/requirements.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not state how many students are funded.",
+      "quote": "",
+      "url": "https://und.edu/programs/atmospheric-sciences-phd/index.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with a bachelor's may apply straight to the PhD; master's holders can also apply.",
+      "quote": "Students with a bachelor’s degree may apply directly to the Ph.D. program",
+      "url": "https://und.edu/programs/atmospheric-sciences-phd/requirements.html"
+    }
+  },
+  "notes": "Also: Earth System Science and Policy (Ph.D.), a separate program in this field, is not saved here."
+}

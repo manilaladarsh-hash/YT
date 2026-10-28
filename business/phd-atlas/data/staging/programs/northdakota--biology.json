@@ -1,0 +1,49 @@
+{
+  "id": "northdakota--biology",
+  "university": "northdakota",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Biology",
+  "program_page": "https://und.edu/programs/biology-phd/index.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Fall priority deadline is February 15; the page lists no later Fall date.",
+      "quote": "Application Deadlines Fall: Feb 15* Spring: Sept 15* Oct 15",
+      "url": "https://und.edu/programs/biology-phd/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are not required, but applicants may submit them.",
+      "quote": "GRE test scores are not required for admission to the biology graduate programs.",
+      "url": "https://und.edu/programs/biology-phd/requirements.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned for biology.",
+      "quote": "",
+      "url": "https://und.edu/programs/biology-phd/requirements.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say a faculty agreement is needed before admission.",
+      "quote": "",
+      "url": "https://und.edu/programs/biology-phd/requirements.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching and research assistantships and fellowships are awarded on a competitive basis.",
+      "quote": "Financial aid in the form of teaching assistantships, research assistantships, fellowships and internships are available on a competitive basis.",
+      "url": "https://und.edu/programs/biology-phd/requirements.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may enter with a master's or directly with a bachelor's.",
+      "quote": "May enter the program with a Master’s degree or directly with a Bachelor’s degree.",
+      "url": "https://und.edu/programs/biology-phd/requirements.html"
+    }
+  },
+  "notes": ""
+}

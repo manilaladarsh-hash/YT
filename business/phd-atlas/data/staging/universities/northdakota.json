@@ -1,0 +1,69 @@
+{
+  "id": "northdakota",
+  "institution": "University of North Dakota",
+  "country": "USA",
+  "region": "North Dakota",
+  "grad_page": "https://und.edu/admissions/graduate/apply.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "35 USD",
+      "value": "Every applicant pays a $35 US non-refundable application fee.",
+      "quote": "Applicants are charged a $35 (U.S. funds) non-refundable fee.",
+      "url": "https://und.edu/admissions/graduate/apply.html"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "No application fee waivers are available, and the fee will not be waived for any reason.",
+      "quote": "No application fee waivers are available.",
+      "url": "https://und.edu/admissions/graduate/apply.html",
+      "also": [
+        {
+          "quote": "will not be waived for any reason",
+          "url": "https://und.edu/admissions/international/requirements-application.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Each program sets its own GRE rule; the graduate school does not require it for all applicants.",
+      "quote": "Not all graduate programs require testing for admission.",
+      "url": "https://und.edu/admissions/graduate/apply.html"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "An overall TOEFL iBT score of at least 4.0 is required, and scores older than two years are not accepted.",
+      "quote": "An overall score of at least 4.0 on the Test of English as a Foreign Language (TOEFL) internet-based test (iBT).",
+      "url": "https://und.edu/admissions/graduate/requirements.html",
+      "also": [
+        {
+          "quote": "TOEFL scores older than two years are not valid and will not be accepted",
+          "url": "https://und.edu/admissions/graduate/apply.html"
+        },
+        {
+          "quote": "iBT score of 3.5 for exams taken on or after January 21, 2026",
+          "url": "https://und.edu/admissions/international/requirements-application.html"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "The overall IELTS band must be at least 6.0, and IELTS scores must be taken within the last three years.",
+      "quote": "An overall band score of at least 6.0 on the IELTS.",
+      "url": "https://und.edu/admissions/graduate/requirements.html",
+      "also": [
+        {
+          "quote": "UND only accepts IELTS scores that have been taken within the last three years.",
+          "url": "https://und.edu/admissions/graduate/requirements.html"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on UND's list of countries whose degrees count as English-taught, so Indian applicants need a test score.",
+      "quote": "A bachelor's degree or higher from a recognized institution where English is the primary language of instruction in the United States and U.S. Territories, Australia, Canada (except Quebec), England, Ireland, Ghana, Kenya, Nigeria, Scotland, Wales, Commonwealth Caribbean or New Zealand.",
+      "url": "https://und.edu/admissions/graduate/requirements.html"
+    }
+  },
+  "notes": ""
+}

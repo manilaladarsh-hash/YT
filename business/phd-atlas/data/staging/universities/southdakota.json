@@ -1,0 +1,53 @@
+{
+  "id": "southdakota",
+  "institution": "University of South Dakota",
+  "country": "USA",
+  "region": "South Dakota",
+  "grad_page": "https://www.usd.edu/Admissions-and-Aid/International-Admissions/Applying-for-International-Graduate-Admission",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "38 USD",
+      "value": "The Graduate School's application fee is $38 USD, non-refundable.",
+      "quote": "$38 USD application fee is non-refundable",
+      "url": "https://www.usd.edu/Admissions-and-Aid/International-Admissions/Applying-for-International-Graduate-Admission"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The application fee cannot be waived or deferred.",
+      "quote": "The application fee cannot be waived or deferred and is non-refundable.",
+      "url": "https://www.usd.edu/Admissions-and-Aid/Graduate-Admissions/How-to-Apply"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school sets no GRE rule; it mentions GRE only as a score it accepts unofficially for contingent admission.",
+      "quote": "",
+      "url": "https://www.usd.edu/Admissions-and-Aid/International-Admissions/Applying-for-International-Graduate-Admission",
+      "also": [
+        {
+          "quote": "USD accepts unofficial copies of English proficiency test scores, admission test scores (e.g., GRE, GMAT)",
+          "url": "https://www.usd.edu/Admissions-and-Aid/International-Admissions/Applying-for-International-Graduate-Admission"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "TOEFL iBT 79 or higher is the minimum for international applicants.",
+      "quote": "79 or higher (iBT)",
+      "url": "https://www.usd.edu/Admissions-and-Aid/International-Admissions/Applying-for-International-Graduate-Admission"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "IELTS Academic 6.0 overall is the minimum for international applicants.",
+      "quote": "IELTS Academic (International English Language Testing System) | 6.0 or higher",
+      "url": "https://www.usd.edu/Admissions-and-Aid/International-Admissions/Applying-for-International-Graduate-Admission"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the list of countries whose degree holders are exempt from proof of English proficiency, so Indian applicants need a test score.",
+      "quote": "Applicants who hold a conferred degree from one of the following countries are exempt from providing proof of English proficiency: ... Zambia, and Zimbabwe.",
+      "url": "https://www.usd.edu/Admissions-and-Aid/International-Admissions/Applying-for-International-Graduate-Admission"
+    }
+  },
+  "notes": "The Graduate School page lists a $38 fee; the graduate catalog entry for Data Science and Engineering lists $40, so the program record carries $40. Graduate catalog program pages returned no content when fetched, so program-level deadlines, GRE and entry rules are Not stated."
+}

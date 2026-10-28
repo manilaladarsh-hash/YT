@@ -1,0 +1,56 @@
+{
+  "id": "smu--cs",
+  "university": "smu",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science (Lyle School of Engineering)",
+  "program_page": "https://www.smu.edu/lyle/departments/cs/doctoral-programs",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-01",
+      "value": "Priority I deadline for Fall entry is November 1; Priority II is May 1.",
+      "quote": "Priority I November 1",
+      "url": "https://www.smu.edu/lyle/graduate",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Engineering has no GRE Subject test in the Lyle pages.",
+      "quote": "",
+      "url": "https://www.smu.edu/lyle/apply-now/faqs"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE scores are required for PhD applicants, unless the program says otherwise.",
+      "quote": "GRE scores are required for Ph.D. applicants and optional for master’s applicants",
+      "url": "https://www.smu.edu/lyle/apply-now/faqs"
+    },
+    "fee_waiver": {
+      "code": "Available",
+      "value": "Lyle waives the application fee for new graduate applicants who apply by October 31, 2026 for 2027 programs.",
+      "quote": "Apply by October 31 to qualify for an application fee waiver for 2027 Lyle graduate programs",
+      "url": "https://www.smu.edu/lyle/graduate",
+      "time_sensitive": "2026-10-31"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Lyle pages do not say whether a supervisor's agreement is needed before admission.",
+      "quote": "",
+      "url": "https://www.smu.edu/lyle/apply-now/faqs"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching and research assistantships are limited and highly competitive.",
+      "quote": "Financial assistance is available to students via teaching and research assistantships. These are limited and highly competitive.",
+      "url": "https://www.smu.edu/lyle/apply-now/faqs"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The Lyle pages do not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://www.smu.edu/lyle/apply-now/faqs"
+    }
+  },
+  "notes": "Lyle lists a Ph.D. in Computer Science (the Doctor of Engineering is a separate degree and is not covered). Overrides are the GRE rule and the October 31, 2026 fee waiver."
+}

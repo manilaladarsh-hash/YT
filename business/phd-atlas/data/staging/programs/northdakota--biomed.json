@@ -1,0 +1,55 @@
+{
+  "id": "northdakota--biomed",
+  "university": "northdakota",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Biomedical Sciences",
+  "program_page": "https://und.edu/programs/biomedical-sciences-phd/index.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-31",
+      "value": "Fall priority deadline is January 31; the final Fall deadline is April 1.",
+      "quote": "Jan. 31* April 1 *Denotes priority application deadline.",
+      "url": "https://und.edu/programs/biomedical-sciences-phd/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is not required, but good scores can strengthen the application.",
+      "quote": "The Graduate Record Examination (GRE) is not required",
+      "url": "https://und.edu/programs/biomedical-sciences-phd/requirements.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned.",
+      "quote": "",
+      "url": "https://und.edu/programs/biomedical-sciences-phd/requirements.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say a faculty agreement is needed before admission.",
+      "quote": "",
+      "url": "https://und.edu/programs/biomedical-sciences-phd/requirements.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted students receive a research assistant stipend and full tuition waivers.",
+      "quote": "Yes, all admitted students will receive a Research Assistant Stipend",
+      "url": "https://med.und.edu/education-training/biomedical-sciences/graduate-studies.html",
+      "also": [
+        {
+          "quote": "Full tuition waivers are provided.",
+          "url": "https://med.und.edu/education-training/biomedical-sciences/graduate-studies.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A four-year bachelor's degree is the stated requirement; the page does not require a master's.",
+      "quote": "Completion of a four-year Bachelor’s degree or equivalent from a recognized college or university",
+      "url": "https://und.edu/programs/biomedical-sciences-phd/requirements.html"
+    }
+  },
+  "notes": ""
+}

@@ -1,0 +1,80 @@
+{
+  "id": "southdakota--datasci",
+  "university": "southdakota",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "Data Science and Engineering (collaborative with South Dakota School of Mines)",
+  "program_page": "https://www.usd.edu/Academics/Graduate-Programs/Data-Science-and-Engineering",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Fall-start applicants should apply by the February 15 priority deadline; the final fall deadline is July 15.",
+      "quote": "Priority Deadline: Feb 15th",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2392&hl=%22data+science%22&returnto=search",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Final Deadline: July 15th",
+          "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2392&hl=%22data+science%22&returnto=search"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "40 USD",
+      "value": "The program's catalog entry lists a non-refundable application fee of $40, above the Graduate School's $38.",
+      "quote": "a non-refundable application fee of $40",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2392&hl=%22data+science%22&returnto=search"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The program's catalog sets a TOEFL iBT minimum of 79 for applicants from outside the approved English-speaking countries.",
+      "quote": "a minimum score of 79 on the Internet-Based TOEFL (iBT)",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2392&hl=%22data+science%22&returnto=search"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "The program's catalog sets an IELTS Academic minimum of 6.0 for the same applicants.",
+      "quote": "6.0 on the IELTS Academic",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2392&hl=%22data+science%22&returnto=search"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Applicants with degrees from outside the approved English-speaking countries, including India, must submit a test score.",
+      "quote": "For all other applicants with degrees from other countries, a minimum score of 79 on the Internet-Based TOEFL (iBT)",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2392&hl=%22data+science%22&returnto=search"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned for this field.",
+      "quote": "",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2392&hl=%22data+science%22&returnto=search"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog asks for a statement of purpose, two letters and a CV, and does not mention faculty agreement.",
+      "quote": "",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2392&hl=%22data+science%22&returnto=search"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department page says assistantships are awarded by departments but does not say most students are funded.",
+      "quote": "",
+      "url": "https://www.usd.edu/Academics/Graduate-Programs/Data-Science-and-Engineering"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The catalog asks for a bachelor's degree in mathematics, computer science or a closely related field; a master's is not listed as required.",
+      "quote": "Baccalaureate degree in Mathematics, Computer Science or closely related field",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2392&hl=%22data+science%22&returnto=search",
+      "also": [
+        {
+          "quote": "You may apply 24 credits and six research credits from a previous M.S. degree toward the Ph.D. requirements",
+          "url": "https://www.usd.edu/Academics/Graduate-Programs/Data-Science-and-Engineering"
+        }
+      ]
+    }
+  },
+  "notes": "Collaborative program run with South Dakota School of Mines; the department page gives 72 credit hours. Fall deadline inferred to the 2026/27 cycle (Feb 15, 2027).",
+  "name": "Data Science and Engineering PhD"
+}
