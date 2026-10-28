@@ -1,0 +1,50 @@
+{
+  "id": "wmu--cs",
+  "university": "wmu",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science",
+  "program_page": "https://wmich.edu/grad/program-doctoral-computer-science",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "Fall entry: the listed fall deadline is April 1. Spring and summer entry use other dates.",
+      "quote": "April 1 for fall semester",
+      "url": "https://wmich.edu/grad/program-doctoral-computer-science",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The computer science PhD highly recommends the General GRE but does not require it.",
+      "quote": "This program highly recommends the General GRE, but it is not required for admission.",
+      "url": "https://wmich.edu/grad/program-doctoral-computer-science"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Subject GRE applies to this field and the page does not mention one.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/program-doctoral-computer-science"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page checked does not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/program-doctoral-computer-science"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page checked does not say how many students are funded.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/program-doctoral-computer-science"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page checked does not say whether a master's degree is needed.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/program-doctoral-computer-science"
+    }
+  },
+  "notes": "Only the Graduate College program page was fetched. Its deadline is about five years old by the page's own date.",
+  "name": "Computer Science (Ph.D.)"
+}

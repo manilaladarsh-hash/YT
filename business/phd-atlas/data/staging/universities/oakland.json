@@ -1,0 +1,57 @@
+{
+  "id": "oakland",
+  "institution": "Oakland University",
+  "country": "USA",
+  "region": "Michigan",
+  "grad_page": "https://www.oakland.edu/grad/how-to-apply/international-students/",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "45 USD",
+      "value": "A non-refundable $45 USD charge applies to each new application, paid by credit card when you apply.",
+      "quote": "There is a non-refundable, $45 USD charge for each new application submitted",
+      "url": "https://www.oakland.edu/grad/how-to-apply/application-charge/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "A fee waiver is offered only in special cases, such as recruitment events or agreements with universities abroad.",
+      "quote": "In special circumstances such as graduate program recruitment events, open houses or agreements with universities abroad, an application charge waiver may be offered",
+      "url": "https://www.oakland.edu/grad/how-to-apply/application-charge/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School does not set a GRE rule; each program sets its own.",
+      "quote": "Official standard admission test scores (GRE, GMAT, etc.)",
+      "url": "https://www.oakland.edu/grad/how-to-apply/Steps-to-Apply/"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "TOEFL iBT 79 is the minimum for full admission; a MyBest TOEFL score is accepted.",
+      "quote": "TOEFL iBT (internet): 79",
+      "url": "https://graduatecatalog.oakland.edu/policies/gradmissionreqs/internationaladminreqs",
+      "also": [
+        {
+          "quote": "DUOLINGO (105 or better)",
+          "url": "https://graduatecatalog.oakland.edu/policies/gradmissionreqs/internationaladminreqs"
+        },
+        {
+          "quote": "PTE (academic): 53 minimum",
+          "url": "https://graduatecatalog.oakland.edu/policies/gradmissionreqs/internationaladminreqs"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS 6.5 is the minimum for full admission.",
+      "quote": "2. IELTS: 6.5",
+      "url": "https://graduatecatalog.oakland.edu/policies/gradmissionreqs/internationaladminreqs"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "A degree from an institution outside the US where the language of instruction was English is accepted in place of a test score.",
+      "quote": "Baccalaureate or graduate degree at an institution outside of the U.S. where the language of instruction was English",
+      "url": "https://graduatecatalog.oakland.edu/policies/gradmissionreqs/internationaladminreqs"
+    }
+  },
+  "notes": "Some programs may require a higher English level than the Graduate School minimum. Citizens of listed English-speaking countries are exempt from the test; India is not on that list."
+}

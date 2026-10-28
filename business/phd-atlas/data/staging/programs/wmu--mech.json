@@ -1,0 +1,62 @@
+{
+  "id": "wmu--mech",
+  "university": "wmu",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Mechanical and Aerospace Engineering",
+  "program_page": "https://wmich.edu/grad/program-doctoral-mechanical-eng",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Fall entry: international applicants must apply by March 1. The domestic fall deadline is June 1.",
+      "quote": "For international applicants, please apply by March 1 for Fall Semester",
+      "url": "https://wmich.edu/grad/program-doctoral-mechanical-eng",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Fall semester: March 1",
+          "url": "https://wmich.edu/grad/program-doctoral-aerospace"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The mechanical PhD requires the General GRE, and the aerospace PhD in the same department does too.",
+      "quote": "This program requires the General GRE.",
+      "url": "https://wmich.edu/grad/program-doctoral-mechanical-eng",
+      "also": [
+        {
+          "quote": "This program requires the General GRE.",
+          "url": "https://wmich.edu/grad/program-doctoral-aerospace"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The pages checked do not mention a Subject GRE for this field.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/program-doctoral-mechanical-eng"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages checked do not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/program-doctoral-mechanical-eng"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages checked do not say how many students are funded.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/program-doctoral-mechanical-eng"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages checked do not say whether a master's degree is needed.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/program-doctoral-mechanical-eng"
+    }
+  },
+  "notes": "Covers both the Mechanical Engineering PhD and the Aerospace Engineering PhD (separate Graduate College page, same fall deadline and GRE rule). The department page https://wmich.edu/mechanical-aerospace/academics/phd has no admissions rules beyond a link to international admissions.",
+  "name": "Mechanical and Aerospace Engineering (Ph.D.)"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "wmu--chemistry",
+  "university": "wmu",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Chemistry",
+  "program_page": "https://wmich.edu/chemistry/academics/graduate/doctorate",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall entry only. Apply by January 15 to be considered for an assistantship. The department also says applications are due February 1 for fall admission.",
+      "quote": "Application must be received by January 15 to be considered for a graduate assistantship.",
+      "url": "https://wmich.edu/grad/program-doctoral-chemistry/",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15",
+      "also": [
+        {
+          "quote": "Applications are due February 1 for fall admission.",
+          "url": "https://wmich.edu/chemistry/academics/graduate/doctorate"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The chemistry PhD does not require the General GRE.",
+      "quote": "This program does not require the General GRE.",
+      "url": "https://wmich.edu/grad/program-doctoral-chemistry/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The chemistry pages checked do not mention a Chemistry Subject GRE.",
+      "quote": "",
+      "url": "https://wmich.edu/chemistry/academics/graduate/doctorate"
+    },
+    "toefl_min": {
+      "code": "81",
+      "value": "The chemistry department requires TOEFL iBT 81 (internet-based), one point above the graduate-school minimum.",
+      "quote": "Minimum 81 TOEFL IBT score (internet-based version)",
+      "url": "https://wmich.edu/chemistry/academics/graduate/doctorate"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The chemistry department requires IELTS 6.5, the same as the graduate-school minimum.",
+      "quote": "Minimum 6.5 IELTS score",
+      "url": "https://wmich.edu/chemistry/academics/graduate/doctorate"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The chemistry pages checked do not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://wmich.edu/chemistry/academics/graduate/doctorate"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching assistantships with tuition awards are allocated competitively, so funding is not automatic.",
+      "quote": "Teaching assistantships include tuition awards and are available on a competitive basis for the fall and spring semesters.",
+      "url": "https://wmich.edu/chemistry/academics/graduate/doctorate"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The department's stated requirement is a B.S. or B.A. in chemistry or higher, so a bachelor's degree is enough on the page.",
+      "quote": "A Bachelor of Science (B.S.) or a Bachelor of Arts (B.A.) in chemistry or higher",
+      "url": "https://wmich.edu/chemistry/academics/graduate/doctorate"
+    }
+  },
+  "notes": "Department page gives TOEFL and IELTS rules that replace the graduate-school minimums for this program. The department page is not a pure Fall rule: self-funded students can also apply for spring.",
+  "name": "Chemistry (Ph.D.)"
+}

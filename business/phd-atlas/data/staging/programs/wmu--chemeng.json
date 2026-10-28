@@ -1,0 +1,50 @@
+{
+  "id": "wmu--chemeng",
+  "university": "wmu",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Chemical and Paper Engineering",
+  "program_page": "https://wmich.edu/grad/chemical-engineering-phd",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Fall entry: apply by February 15. Spring applications are due September 15.",
+      "quote": "Fall semester: February 15",
+      "url": "https://wmich.edu/grad/chemical-engineering-phd",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The chemical engineering PhD does not require the General GRE.",
+      "quote": "This program does not require the General GRE.",
+      "url": "https://wmich.edu/grad/chemical-engineering-phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page checked does not mention a Subject GRE for this field.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/chemical-engineering-phd"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page checked does not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/chemical-engineering-phd"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page checked does not say how many students are funded.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/chemical-engineering-phd"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page checked does not say whether a master's degree is needed.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/chemical-engineering-phd"
+    }
+  },
+  "notes": "Only the Graduate College program page was fetched. The college-level engineering PhD page returned HTTP 403.",
+  "name": "Chemical Engineering (Ph.D.)"
+}

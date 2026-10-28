@@ -1,0 +1,63 @@
+{
+  "id": "wmu--physics",
+  "university": "wmu",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Physics",
+  "program_page": "https://wmich.edu/physics/academics/graduate-programs",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Fall 2027 entry: international applicants must submit by March 1 for visa timing. The domestic fall deadline is March 15, with assistantship priority to files submitted by February 15.",
+      "quote": "International applicants must submit by March 1 due to visa processing timeline.",
+      "url": "https://wmich.edu/grad/program-doctoral-physics",
+      "inferred": "year",
+      "time_sensitive": "2027-02-15",
+      "also": [
+        {
+          "quote": "For Fall semester: March 15, with priority consideration given to completed applications submitted by February 15.",
+          "url": "https://wmich.edu/grad/program-doctoral-physics"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The physics page says the GRE is being waived for PhD applicants at this time, although it also recommends the GRE. Confirm with the department before applying.",
+      "quote": "At this time, the GRE is being waived for both M.A. and Ph.D. applicants",
+      "url": "https://wmich.edu/physics/academics/graduate-programs"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The Physics Subject GRE is recommended and gives an edge in admission, but the same page says the GRE is being waived for PhD applicants at this time.",
+      "quote": "The GRE is not required, but recommended for both the General and Physics Subject exams for Ph.D. applicants",
+      "url": "https://wmich.edu/physics/academics/graduate-programs"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The physics page requires TOEFL iBT 80 (or PBT 550) for applicants from non-English-speaking countries.",
+      "quote": "The TOEFL exam is required for students from non-English speaking countries: PBT (550) or iBT (80)",
+      "url": "https://wmich.edu/physics/academics/graduate-programs"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The physics pages checked do not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://wmich.edu/physics/academics/graduate-programs"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantships are limited, typically 3 to 6 for each entering class, so funding is not guaranteed for every student.",
+      "quote": "We offer a variable number (typically 3-6) of graduate assistantships to Ph.D. and occasionally to masters students in each year’s entering class",
+      "url": "https://wmich.edu/physics/academics/graduate-programs"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The physics pages checked do not say whether a master's degree is needed.",
+      "quote": "",
+      "url": "https://wmich.edu/physics/academics/graduate-programs"
+    }
+  },
+  "notes": "Department page and graduate-college page both state GRE rules, and they conflict (recommended versus waived at this time). Both are quoted; confirm with the department. The separate Science Education: Physics PhD is not included.",
+  "name": "Physics (Ph.D.)"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "uwmilwaukee",
+  "institution": "University of Wisconsin-Milwaukee",
+  "country": "USA",
+  "region": "Wisconsin",
+  "grad_page": "https://uwm.edu/cie/international-admissions/graduate-application/",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The non-refundable application fee is $75 for all applicants; a $200 International Student Processing Fee is due only after admission.",
+      "quote": "You must pay the $75 non-refundable application fee.",
+      "url": "https://uwm.edu/cie/international-admissions/graduate-application/",
+      "also": [
+        {
+          "quote": "Upon admission to UWM, you must also pay the $200 International Student Processing Fee through your application portal",
+          "url": "https://uwm.edu/cie/international-admissions/graduate-application/"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Waivers are narrow: one doctoral application is waived for applicants who already hold or will complete a UWM master's, plus open-house waivers.",
+      "quote": "If you are applying to a doctoral program and already hold a UWM master’s degree ... the Graduate School will waive the application fee for one doctoral program application.",
+      "url": "https://uwm.edu/graduateschool/students/admission/",
+      "also": [
+        {
+          "quote": "fee waivers (contingent on registration and attendance at our in-person open house event)",
+          "url": "https://uwm.edu/graduateschool/students/admission/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School says not all programs require the GRE, so each program record gives its own rule.",
+      "quote": "Please be aware that not all programs require the completion of the GRE.",
+      "url": "https://uwm.edu/graduateschool/students/admission/"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "Regular admission needs TOEFL iBT 4.5 for tests taken after 1/21/2026 (79 for older tests); dual admission accepts 4.0.",
+      "quote": "TOEFL iBT after 1/21/2026* ... 4.5",
+      "url": "https://uwm.edu/cie/international-admissions/graduate-application/english-proficiency-requirement/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Regular admission needs IELTS Academic 6.5 overall; dual admission accepts 6.0.",
+      "quote": "IELTS ... 6.5 ... 6.0",
+      "url": "https://uwm.edu/cie/international-admissions/graduate-application/english-proficiency-requirement/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "A degree taught in English counts only if you attended that institution at least one year and earned the degree within two years of applying; India is not named.",
+      "quote": "A bachelor’s degree (or its equivalent) or higher degree from an institution where English is the sole language of instruction.",
+      "url": "https://uwm.edu/cie/international-admissions/graduate-application/",
+      "also": [
+        {
+          "quote": "You must have attended this institution for at least one year and your degree was earned within two years of your application to UWM.",
+          "url": "https://uwm.edu/cie/international-admissions/graduate-application/"
+        }
+      ]
+    }
+  },
+  "notes": "Dual admission (below regular score) requires a catch-up program. Several departments set their own English or GRE rules; those are on the program records. Chemistry's page says its fee cannot be waived."
+}

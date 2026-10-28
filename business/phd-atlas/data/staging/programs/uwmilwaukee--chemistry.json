@@ -1,0 +1,61 @@
+{
+  "id": "uwmilwaukee--chemistry",
+  "university": "uwmilwaukee",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Chemistry & Biochemistry (College of Letters & Science)",
+  "program_page": "https://uwm.edu/chemistry/students/graduate/how-to-apply-graduate-program/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall applications are due January 15; the department starts reviewing in early February.",
+      "quote": "Applications for our graduate program are due on January 15 for fall applications",
+      "url": "https://uwm.edu/chemistry/students/graduate/how-to-apply-graduate-program/",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The department does not waive its fee; a waiver is possible only through the Graduate School open house, and the application page says the fee cannot be waived.",
+      "quote": "There may be an opportunity to obtain a fee waiver if you attend the Graduate School Open House",
+      "url": "https://uwm.edu/chemistry/students/graduate/application-faq/",
+      "also": [
+        {
+          "quote": "This fee is non-refundable and cannot be waived.",
+          "url": "https://uwm.edu/chemistry/students/graduate/how-to-apply-graduate-program/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is no longer a prerequisite for admission.",
+      "quote": "The Graduate Record Examination (GRE) is no longer a prerequisite for admission.",
+      "url": "https://uwm.edu/chemistry/students/graduate/how-to-apply-graduate-program/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department mentions only the general GRE, not the Chemistry subject test.",
+      "quote": "",
+      "url": "https://uwm.edu/chemistry/students/graduate/how-to-apply-graduate-program/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No research advisor needs to be secured before applying; the department suggests naming faculty in the reason statement.",
+      "quote": "No, this is not necessary, but you are welcome to contact our faculty anytime.",
+      "url": "https://uwm.edu/chemistry/students/graduate/application-faq/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "All new students get a TA in year one, then most are supported by a TA or RA while in good standing, for up to five years.",
+      "quote": "All new graduate students are offered a Teaching Assistantship (TA) for their first year on campus. | After that, graduate students are typically supported by a Teaching or Research Assistantship (RA)",
+      "url": "https://uwm.edu/chemistry/students/graduate/application-faq/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://uwm.edu/chemistry/students/graduate/how-to-apply-graduate-program/"
+    }
+  },
+  "notes": "The department requires an elevated speaking score for TA eligibility (FAQ question 17); the numbers are not on the pages fetched, so the TOEFL/IELTS fields use the Graduate School values. Applicants below the speaking score must pass MITAA on arrival."
+}

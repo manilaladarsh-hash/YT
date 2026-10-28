@@ -1,0 +1,56 @@
+{
+  "id": "wmu--biology",
+  "university": "wmu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Biological Sciences",
+  "program_page": "https://wmich.edu/grad/program-doctoral-biological-sciences/",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Fall entry. Apply by February 1; applications received after that wait for the next deadline.",
+      "quote": "February 1 for admission in the fall semester.",
+      "url": "https://wmich.edu/grad/program-doctoral-biological-sciences/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Applications submitted after this date will not be considered until after the next application deadline.",
+          "url": "https://wmich.edu/grad/program-doctoral-biological-sciences/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The biological sciences PhD does not require the General GRE.",
+      "quote": "This program does not require the General GRE.",
+      "url": "https://wmich.edu/grad/program-doctoral-biological-sciences/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Subject GRE applies to this field and the page does not mention one.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/program-doctoral-biological-sciences/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page checked does not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/program-doctoral-biological-sciences/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page checked does not say how many students are funded.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/program-doctoral-biological-sciences/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page checked does not say whether a master's degree is needed.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/program-doctoral-biological-sciences/"
+    }
+  },
+  "notes": "The department doctoral page (https://wmich.edu/biology/academics/doctorate) and its research-specialisation page returned HTTP 403, so the department's own rules could not be checked. Neuroscience and molecular biology appear as specialisations in search results but the official page could not be fetched, so no neuro record was made.",
+  "name": "Biological Sciences (Ph.D.)"
+}

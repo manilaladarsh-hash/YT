@@ -1,0 +1,55 @@
+{
+  "id": "uwmilwaukee--environment",
+  "university": "uwmilwaukee",
+  "field": "environment",
+  "also_fields": [],
+  "department": "School of Freshwater Sciences",
+  "program_page": "https://uwm.edu/freshwater/academics/freshwater-sciences-doctoral/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-31",
+      "value": "Fall applications are due January 31; spring applications are due October 1.",
+      "quote": "Fall applications are due January 31",
+      "url": "https://uwm.edu/freshwater/academics/freshwater-sciences-doctoral/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The catalog lists a General GRE score submission as a program requirement.",
+      "quote": "Submission of scores on the General Test of the Graduate Record Examination.",
+      "url": "https://catalog.uwm.edu/freshwater-sciences/freshwater-sciences-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test applies to freshwater sciences.",
+      "quote": "",
+      "url": "https://catalog.uwm.edu/freshwater-sciences/freshwater-sciences-phd/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A faculty member must accept the applicant as major professor, which is needed before admission.",
+      "quote": "must be accepted by a faculty member who will serve as the major professor",
+      "url": "https://uwm.edu/freshwater/academics/freshwater-sciences-doctoral/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Thesis-track students get a graduate assistantship from their major professor; professional-track students are not assistantship-supported.",
+      "quote": "Students in the thesis program must secure a faculty advisor who will serve as the major professor and provide a graduate assistantship.",
+      "url": "https://catalog.uwm.edu/freshwater-sciences/freshwater-sciences-phd/",
+      "also": [
+        {
+          "quote": "Students in the professional program are not supported by assistantships.",
+          "url": "https://catalog.uwm.edu/freshwater-sciences/freshwater-sciences-phd/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The fetched pages do not state whether a master's is needed.",
+      "quote": "",
+      "url": "https://uwm.edu/freshwater/academics/freshwater-sciences-doctoral/"
+    }
+  },
+  "notes": "The school page gives only the GRE institution code, while the catalog lists GRE General Test scores as a requirement; the catalog is quoted. Verify with the school before relying on it."
+}

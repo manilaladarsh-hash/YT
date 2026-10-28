@@ -1,0 +1,51 @@
+{
+  "id": "uwmilwaukee--physics",
+  "university": "uwmilwaukee",
+  "field": "physics",
+  "also_fields": [
+    "astronomy"
+  ],
+  "department": "Physics & Astronomy (College of Letters & Science)",
+  "program_page": "https://uwm.edu/physics/students/graduate/how-to-apply-graduate-program/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Materials for Fall admission must be received by December 15, 2026.",
+      "quote": "Applicants for Fall admission should see that all of their materials have been received by December 15th.",
+      "url": "https://uwm.edu/physics/students/graduate/how-to-apply-graduate-program/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Physics PhD does not require the GRE.",
+      "quote": "The GRE is not required.",
+      "url": "https://uwm.edu/physics/students/graduate/how-to-apply-graduate-program/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE Physics subject test is required.",
+      "quote": "The GRE is not required.",
+      "url": "https://uwm.edu/physics/students/graduate/how-to-apply-graduate-program/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://uwm.edu/physics/students/graduate/how-to-apply-graduate-program/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most students are supported by a teaching or research assistantship.",
+      "quote": "Most students are supported by a Teaching Assistantship (TA) or Research Assistantship RA.",
+      "url": "https://uwm.edu/physics/students/graduate/how-to-apply-graduate-program/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page sets no master's requirement and does not say whether bachelor's applicants enter directly.",
+      "quote": "",
+      "url": "https://uwm.edu/physics/students/graduate/how-to-apply-graduate-program/"
+    }
+  },
+  "notes": "Admits new students only in the Fall semester. Astronomy is listed in also_fields because the program's stated focus includes cosmology and astrophysics; the catalog lists only Physics, PhD."
+}
