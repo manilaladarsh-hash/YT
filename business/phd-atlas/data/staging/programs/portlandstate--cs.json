@@ -1,0 +1,49 @@
+{
+  "id": "portlandstate--cs",
+  "university": "portlandstate",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science",
+  "program_page": "https://www.pdx.edu/engineering/computer-science-ms-phd-admission-details",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Apply by December 15 to be considered for guaranteed funding for one year; otherwise the deadline is March 1.",
+      "quote": "December 15 to be considered for guaranteed funding for 1 year otherwise March 1",
+      "url": "https://www.pdx.edu/engineering/computer-science-ms-phd-admission-details",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional for the PhD.",
+      "quote": "GRE scores are optional.",
+      "url": "https://www.pdx.edu/engineering/computer-science-ms-phd-admission-details"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Computer Science has no subject GRE.",
+      "quote": "",
+      "url": "https://www.pdx.edu/engineering/computer-science-ms-phd-admission-details"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly encouraged to contact a potential faculty advisor, especially for research assistantships.",
+      "quote": "but are highly encouraged to connect with a potential faculty advisor for a research assistantship",
+      "url": "https://www.pdx.edu/engineering/computer-science-ms-phd-admission-details"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding is limited; very few first-year PhD students get a teaching assistantship.",
+      "quote": "First year doctoral students who are admitted with financial support may be supported (very few are available) as a Teaching Assistant for up to three quarters",
+      "url": "https://www.pdx.edu/engineering/computer-science-ms-phd-admission-details"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students may enter the PhD with a bachelor's or a master's, with adequate computer science background.",
+      "quote": "Students may enter the doctoral program (Ph.D.) with a bachelor's degree or with a master's degree",
+      "url": "https://www.pdx.edu/engineering/computer-science-ms-phd-admission-details"
+    }
+  },
+  "notes": ""
+}

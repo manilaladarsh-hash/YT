@@ -1,0 +1,49 @@
+{
+  "id": "portlandstate--mech",
+  "university": "portlandstate",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Mechanical & Materials Engineering",
+  "program_page": "https://www.pdx.edu/engineering/mme/grad-admission",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-01",
+      "value": "Fall applications for the doctorate are due May 1, with supplemental materials due May 15; applications are reviewed on a rolling basis.",
+      "quote": "Master’s, Doctorate Sept 15 May 1 May 15",
+      "url": "https://www.pdx.edu/engineering/mme/grad-admission",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Doctoral applicants who already have a confirmed faculty advisor can ask the department to waive the fee.",
+      "quote": "Doctoral applicants who have a confirmed faculty advisor prior to submitting the application are eligible for an application fee waiver",
+      "url": "https://www.pdx.edu/engineering/mme/grad-admission"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department pages checked do not mention a GRE.",
+      "quote": "",
+      "url": "https://www.pdx.edu/engineering/mme/grad-admission"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Students are admitted only when a faculty member agrees to be their adviser.",
+      "quote": "Students are normally only admitted to our program if a faculty member has agreed to serve as the adviser.",
+      "url": "https://www.pdx.edu/engineering/mme/grad-admission"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding is not guaranteed; applicants can ask faculty about funding in their research area.",
+      "quote": "Funding is not guaranteed but an applicant can contact a faculty member in their research area to inquire about potential funding.",
+      "url": "https://www.pdx.edu/engineering/mme/grad-admission"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants typically hold a master's; a direct bachelor's entry is possible but discouraged.",
+      "quote": "Applicants to the doctoral program in Mechanical Engineering will typically have completed a master’s degree in Mechanical Engineering or a related field.",
+      "url": "https://www.pdx.edu/engineering/mme/grad-admission"
+    }
+  },
+  "notes": "Mechanical Engineering PhD requires 81 credits; the Materials track is not a separate PhD on these pages."
+}

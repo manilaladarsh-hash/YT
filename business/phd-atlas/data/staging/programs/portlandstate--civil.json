@@ -1,0 +1,49 @@
+{
+  "id": "portlandstate--civil",
+  "university": "portlandstate",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Civil & Environmental Engineering",
+  "program_page": "https://www.pdx.edu/civil-environmental-engineering/graduate-admission-requirements-deadlines",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "The MS/PhD application deadline for fall is January 1 (the priority funding date), with all materials due January 15.",
+      "quote": "MS/PHD Priority funding deadline September 15 January 1 January 15",
+      "url": "https://www.pdx.edu/civil-environmental-engineering/graduate-admission-requirements-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE is required for PhD applicants without a previous degree from a US university.",
+      "quote": "GRE scores (required for MS and PhD applicants who do not have a previous degree from a university in the United States",
+      "url": "https://www.pdx.edu/civil-environmental-engineering/graduate-admission-requirements-deadlines"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Civil & Environmental Engineering has no subject GRE.",
+      "quote": "",
+      "url": "https://www.pdx.edu/civil-environmental-engineering/graduate-admission-requirements-deadlines"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A CEE faculty member must agree to be the PhD advisor before admission.",
+      "quote": "For admission, a student must have a CEE faculty member agree to be his/her PhD advisor.",
+      "url": "https://www.pdx.edu/civil-environmental-engineering/graduate-admission-requirements-deadlines"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate teaching assistantships are decided by the admissions committee, and funding is limited.",
+      "quote": "Graduate Teaching Assistantships (GTA): GTA positions are determined by the Admissions Committee and may be available to students admitted for fall term.",
+      "url": "https://www.pdx.edu/civil-environmental-engineering/graduate-admission-requirements-deadlines"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The PhD requires a master's degree in engineering, science or a closely related field.",
+      "quote": "Master of Science degree in an engineering field, science, or closely related area.",
+      "url": "https://www.pdx.edu/civil-environmental-engineering/graduate-admission-requirements-deadlines"
+    }
+  },
+  "notes": "Third-party sites give different deadlines; only the department's table is quoted."
+}
