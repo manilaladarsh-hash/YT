@@ -1,0 +1,56 @@
+{
+  "id": "umontana--cs",
+  "university": "umontana",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.umt.edu/computer-science/graduate/admission.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Complete packets by February 15 are needed for teaching assistantship consideration for the academic year.",
+      "quote": "Application Deadline: February 15. If you wish to receive a Teaching Assistantship for the academic year, your complete application packet must be received by February 15.",
+      "url": "https://www.umt.edu/computer-science/graduate/admission.php",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department's pages do not mention a GRE subject test.",
+      "quote": "",
+      "url": "https://www.umt.edu/computer-science/graduate/admission.php"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Most students are admitted with a research advisor already chosen; otherwise one must be found by the end of the first year.",
+      "quote": "Students will usually be admitted into the program with a Research Advisor already identified.",
+      "url": "https://www.umt.edu/computer-science/graduate/phdegreerequirements.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages mention teaching assistantships but do not say most students are funded.",
+      "quote": "",
+      "url": "https://www.umt.edu/computer-science/graduate/admission.php"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The department's pages do not state whether a master's is needed.",
+      "quote": "",
+      "url": "https://www.umt.edu/computer-science/graduate/admission.php"
+    },
+    "toefl_min": {
+      "code": "92",
+      "value": "The CS department sets its own TOEFL iBT minimum of 92 (internet-based), overriding the Graduate School rule.",
+      "quote": "TOEFL scores of at least 580 (paper-based exam), at least 237 (computer-based exam) or at least 92 (internet-based exam)",
+      "url": "https://www.umt.edu/computer-science/graduate/admission.php"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The CS department requires IELTS 7.0, above the Graduate School's 6.5.",
+      "quote": "IELTS score of at least 7.0",
+      "url": "https://www.umt.edu/computer-science/graduate/admission.php"
+    }
+  },
+  "notes": "The department says these minimums may be waived at the Graduate Admissions Committee's discretion. Teaching assistantships are mentioned for applicants who meet the 15 February deadline.",
+  "name": "Computer Science (PhD)"
+}
