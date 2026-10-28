@@ -270,7 +270,9 @@ def not_stated_share(recs):
 # ---------------------------------------------------------------- explorer
 
 def explorer_payload(recs):
-    """Compact JSON: URLs and university-level values are stored once."""
+    """Two payloads. The core holds codes, flags and names for the first screen; the detail holds
+    sentences, quotes and sources, loaded the first time a programme's details or a CSV are opened.
+    URLs and university-level values are stored once."""
     urls, url_ix = [], {}
 
     def u(x):
@@ -279,45 +281,59 @@ def explorer_payload(recs):
             urls.append(x)
         return url_ix[x]
 
-    def pack(f):
+    def core(f):
         extra = {k: f[k] for k in ("inferred", "rolling", "conflict", "time_sensitive", "scope") if f.get(k)}
-        if f.get("also"):
-            extra["also"] = [[a["quote"], u(a["url"])] for a in f["also"]]
-        out = [f["code"], f["value"], f["quote"], u(f["url"])]
-        return out + [extra] if extra else out
+        return [f["code"], extra] if extra else [f["code"]]
 
-    unis, progs = {}, []
+    def detail(f):
+        out = [f["value"], f["quote"], u(f["url"])]
+        if f.get("also"):
+            out.append([[a["quote"], u(a["url"])] for a in f["also"]])
+        return out
+
+    unis, uni_detail, progs, prog_detail = {}, {}, [], {}
     for r in recs:
         if r["uni"] not in unis:
             unis[r["uni"]] = {"n": r["institution"], "s": short_uni(r), "c": r["country"], "r": r["region"],
                               "g": u(r["grad_page"]), "school": UNI_LIST.get(r["uni"], {}).get("kind") == "school",
                               "f": {}, "o": r["uni_notes"]}
+            uni_detail[r["uni"]] = {}
         uf = unis[r["uni"]]["f"]
-        own = {}
+        own, own_detail = {}, {}
         for k in ALL_FIELDS:
             if r["level"][k] == "university":
-                uf.setdefault(k, pack(r["fields"][k]))
+                if k not in uf:
+                    uf[k] = core(r["fields"][k])
+                    uni_detail[r["uni"]][k] = detail(r["fields"][k])
             else:
-                own[k] = pack(r["fields"][k])
+                own[k] = core(r["fields"][k])
+                own_detail[k] = detail(r["fields"][k])
+        if own_detail:
+            prog_detail[r["id"]] = own_detail
         amount, cur = fee_parts(r["fields"]["app_fee"]["code"])
         usd = convert(amount, cur, "USD") if cur else (0 if amount == 0 else None)
         progs.append({"i": r["id"], "u": r["uni"], "f": r["field"], "a": r["also_fields"], "d": r["department"],
                       "n": r["name"], "p": u(r["program_page"]), "k": r["checked"], "x": own, "o": r["notes"],
                       "inr": fee_inr(r), "usd": round(usd) if usd is not None else None})
     fx = {"date": FX["date"], "source": FX["source"], "usd_inr": round(FX["cad_per_unit"]["USD"] / FX["cad_per_unit"]["INR"], 2)}
-    return {"version": VERSION, "title": TITLE, "checked": max(r["checked"] for r in recs), "fx": fx,
+    lean = {"version": VERSION, "title": TITLE, "checked": max(r["checked"] for r in recs), "fx": fx,
             "taxonomy": TAXONOMY["fields"], "groups": TAXONOMY["groups"], "urls": urls, "unis": unis, "programs": progs}
+    return lean, {"u": uni_detail, "p": prog_detail}
 
 
 def write_explorer(recs, path):
     tpl = (TEMPLATES / "atlas.html").read_text()
-    raw = json.dumps(explorer_payload(recs), ensure_ascii=False, separators=(",", ":")).encode()
+    lean, detail = explorer_payload(recs)
+    raw = json.dumps(lean, ensure_ascii=False, separators=(",", ":")).encode()
+    raw_detail = json.dumps(detail, ensure_ascii=False, separators=(",", ":")).encode()
     packed = base64.b64encode(gzip.compress(raw, 9, mtime=0)).decode()
-    marker = '"__ATLAS_GZ__"'
-    if marker not in tpl:
-        raise RuntimeError("explorer template marker missing")
-    path.write_text(tpl.replace(marker, '"' + packed + '"', 1).replace("__TITLE__", TITLE), encoding="utf-8")
-    return len(raw), path.stat().st_size
+    packed_detail = base64.b64encode(gzip.compress(raw_detail, 9, mtime=0)).decode()
+    for marker in ('"__ATLAS_GZ__"', '"__ATLAS_DETAIL__"'):
+        if marker not in tpl:
+            raise RuntimeError("explorer template marker missing: " + marker)
+    html = tpl.replace('"__ATLAS_GZ__"', '"' + packed + '"', 1).replace('"__ATLAS_DETAIL__"', '"' + packed_detail + '"', 1)
+    path.write_text(html.replace("__TITLE__", TITLE), encoding="utf-8")
+    return len(raw) + len(raw_detail), path.stat().st_size
 
 
 # ---------------------------------------------------------------- csv + workbook

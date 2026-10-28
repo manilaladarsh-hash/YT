@@ -298,6 +298,7 @@ footer { max-width: 1400px; margin: 0 auto; padding: 6px 16px 34px; color: var(-
 <script>
 "use strict";
 const PACKED = "__ATLAS_GZ__";
+const DETAIL = "__ATLAS_DETAIL__";
 const DAY = 86400000;
 const PAGE = 48;
 const FIELDS = [
@@ -364,10 +365,22 @@ async function decode(b64) {
   return JSON.parse(await new Response(stream).text());
 }
 function unpack(a) {
-  if (!a) return null;
-  const f = { code: a[0], value: a[1], quote: a[2], url: A.urls[a[3]] };
-  if (a[4]) { Object.assign(f, a[4]); if (a[4].also) f.also = a[4].also.map(x => ({ quote: x[0], url: A.urls[x[1]] })); }
-  return f;
+  return a ? Object.assign({ code: a[0] }, a[1]) : null;
+}
+let detailReady = false, detailLoading = null;
+function applyDetail(f, a) {
+  f.value = a[0]; f.quote = a[1]; f.url = A.urls[a[2]];
+  if (a[3]) f.also = a[3].map(x => ({ quote: x[0], url: A.urls[x[1]] }));
+}
+function loadDetail() {
+  if (!detailLoading) detailLoading = decode(DETAIL).then(D => {
+    for (const p of P) {
+      for (const [k, a] of Object.entries(D.u[p.uni] || {})) if (p.lvl[k] === "university") applyDetail(p.f[k], a);
+      for (const [k, a] of Object.entries(D.p[p.id] || {})) applyDetail(p.f[k], a);
+    }
+    detailReady = true;
+  });
+  return detailLoading;
 }
 function regionOf(c) {
   if (c === "USA") return "US"; if (c === "United Kingdom") return "UK"; if (c === "Canada") return "Canada";
@@ -531,7 +544,8 @@ function buildSituation() {
   body.append(single("funding", "Funding", [["need", "I need full funding"]]));
   body.append(single("supervisor", "Contacting supervisors first", [["ok", "Fine with it"], ["avoid", "Prefer programs that don't need it"]]));
   const n = answered();
-  const showN = visible().length;
+  const filtered = answered() || profile.fields.length || profile.regions.length || quick.size || $("q").value.trim();
+  const showN = filtered ? visible().length : P.length;
   body.append(el("div", { class: "sit-foot" },
     el("button", { type: "button", class: "primary show-results", onclick: () => { $("situation").open = false; $("results").scrollIntoView({ block: "start" }); } },
       "Show " + showN.toLocaleString("en-IN") + (showN === 1 ? " program" : " programs")),
@@ -545,6 +559,7 @@ function buildSituation() {
 }
 
 /* ---------- filtering + sorting ---------- */
+const collator = new Intl.Collator();
 function visible() {
   const q = $("q").value.trim().toLowerCase();
   const plus42 = new Date(Date.now() + 42 * DAY).toISOString().slice(0, 10);
@@ -567,10 +582,10 @@ function visible() {
   const dkey = p => { const d = p.f.deadline.code; return isDate(d) ? (d < todayIso() ? "8" + d : d) : "9" + d; };
   const fee = p => p.inr === null || p.inr === undefined ? Infinity : p.inr;
   out.sort(([a, fa], [b, fb]) => {
-    if (s === "fit") return rank[fa.status] - rank[fb.status] || fa.warn - fb.warn || dkey(a).localeCompare(dkey(b)) || a.label.localeCompare(b.label);
-    if (s === "deadline") return dkey(a).localeCompare(dkey(b)) || a.label.localeCompare(b.label);
-    if (s === "fee") return fee(a) - fee(b) || a.label.localeCompare(b.label);
-    return a.label.localeCompare(b.label);
+    if (s === "fit") return rank[fa.status] - rank[fb.status] || fa.warn - fb.warn || collator.compare(dkey(a), dkey(b)) || collator.compare(a.label, b.label);
+    if (s === "deadline") return collator.compare(dkey(a), dkey(b)) || collator.compare(a.label, b.label);
+    if (s === "fee") return fee(a) - fee(b) || collator.compare(a.label, b.label);
+    return collator.compare(a.label, b.label);
   });
   return out;
 }
@@ -664,7 +679,7 @@ function table(list) {
       const f = p.f[k];
       let txt = shortCode(k, f);
       if (k === "app_fee" && p.inr) txt = inr(p.inr);
-      tr.append(el("td", {}, el("button", { type: "button", class: "cellbtn b b-" + tone(k, f.code), onclick: () => openDetail(p, k), title: f.value }, txt)));
+      tr.append(el("td", {}, el("button", { type: "button", class: "cellbtn b b-" + tone(k, f.code), onclick: () => openDetail(p, k), ...(f.value ? { title: f.value } : {}) }, txt)));
     }
     tb.append(tr);
   }
@@ -676,6 +691,7 @@ function table(list) {
 function render(keepPage) {
   if (!keepPage) shown = PAGE;
   const list = visible();
+  if (view === "table" && !detailReady) loadDetail().then(() => render(true));
   const res = $("results"); res.replaceChildren();
   const counts = { match: 0, check: 0, obstacle: 0 };
   for (const [, ft] of list) if (counts[ft.status] !== undefined) counts[ft.status]++;
@@ -704,7 +720,8 @@ function flags(f) {
   if (f.scope) out.push(f.scope);
   return out;
 }
-function openDetail(p, focusKey) {
+async function openDetail(p, focusKey) {
+  await loadDetail();
   $("dTag").replaceChildren(fieldTag(p));
   $("dTitle").textContent = p.u.school ? p.u.s : p.u.s + " · " + p.fname;
   $("dMeta").textContent = metaText(p, true);
@@ -862,7 +879,8 @@ function buildIcs(list) {
   return { text: lines.map(icsFold).join("\r\n") + "\r\n", events: n };
 }
 function downloadIcs(list) { download("my-phd-deadlines.ics", buildIcs(list).text, "text/calendar"); }
-function downloadCsv(list) {
+async function downloadCsv(list) {
+  await loadDetail();
   const head = ["Program", "Field", "University", "Department", "Country"].concat(FIELDS.map(f => f[1])).concat(["Fee approx. INR", "Program page", "Checklist done"]);
   const esc = v => '"' + String(v === null || v === undefined ? "" : v).replace(/"/g, '""') + '"';
   const rows = list.map(p => [p.label, p.fname, p.u.n, p.dept, p.country].concat(FIELDS.map(([k]) => p.f[k].code + (p.f[k].code === p.f[k].value ? "" : " - " + p.f[k].value)))
