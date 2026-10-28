@@ -7,6 +7,18 @@
   "program_page": "https://www.marquette.edu/grad/programs-biomedical-engineering.php",
   "checked": "2026-10-28",
   "fields": {
+    "gre_general": {
+      "code": "Not required",
+      "value": "MCW no longer requires a test score, GRE or otherwise, for admission; scores are welcome if sent voluntarily.",
+      "quote": "An official test score, GRE or otherwise, is no longer required for admission consideration.",
+      "url": "https://www.mcw.edu/education/graduate-school/graduate-school-programs/neuroscience-phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Neither the MCW nor the Marquette page mentions a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.mcw.edu/education/graduate-school/graduate-school-programs/neuroscience-phd"
+    },
     "deadline": {
       "code": "2026-12-15",
       "value": "PhD applicants apply through the Medical College of Wisconsin. Its priority deadline is December 15, 2026; applications are reviewed on a rolling basis.",
@@ -26,12 +38,6 @@
       "value": "MCW waivers are limited to people with MCW or undergraduate research experience, a GRE fee certificate, or conference attendance.",
       "quote": "Application fee waivers are available to those who within the last three (3) years have:",
       "url": "https://www.mcw.edu/education/graduate-school/prospective-students/admissions/requirements"
-    },
-    "gre_general": {
-      "code": "Not required",
-      "value": "MCW no longer requires a test score, GRE or otherwise, for admission; scores are welcome if sent voluntarily.",
-      "quote": "An official test score, GRE or otherwise, is no longer required for admission consideration.",
-      "url": "https://www.mcw.edu/education/graduate-school/graduate-school-programs/neuroscience-phd"
     },
     "toefl_min": {
       "code": "100",
