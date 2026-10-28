@@ -28,6 +28,18 @@
       "value": "A Bachelor of Science in biology or a related field is the entry requirement.",
       "quote": "Who have completed a Bachelor of Science degree in biology or a related field",
       "url": "https://biology.fau.edu/academics/graduate/phd-biology-admission-requirements-graduate.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The fetched pages do not state funding terms.",
+      "quote": "",
+      "url": "https://biology.fau.edu/academics/graduate/phd-biology-admission-requirements-graduate.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE subject test is mentioned for this program.",
+      "quote": "",
+      "url": "https://www.fau.edu/graduate/graduate-programs/phd-integrative-biology/"
     }
   },
   "notes": "Umbrella for the Biomedical Science (IBBS) and Environmental/Marine Science tracks, so those fields are also_fields. Neuroscience is a separate PhD and is saved as neuro. Concentrations must match a supervisor on their faculty list (dept page). Funding and GRE are not stated on the fetched pages. The department page exempts some applicants from countries with English-medium higher education (list not fetched)."
