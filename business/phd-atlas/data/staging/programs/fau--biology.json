@@ -1,0 +1,34 @@
+{
+  "id": "fau--biology",
+  "university": "fau",
+  "field": "biology",
+  "also_fields": [
+    "biomed",
+    "environment"
+  ],
+  "department": "Integrative Biology PhD, Charles E. Schmidt College of Science",
+  "program_page": "https://www.fau.edu/graduate/graduate-programs/phd-integrative-biology/",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-11",
+      "value": "Applications for fall entry are due December 11.",
+      "quote": "Application Deadline: December 11th",
+      "url": "https://biology.fau.edu/academics/graduate/phd-biology-admission-requirements-graduate.php",
+      "inferred": "year"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants must contact faculty before applying and after admission; core students can also do rotations.",
+      "quote": "However, applicants/acceptances must contact potential faculty directly to identify potential sponsors ahead of, and after, admission respectively",
+      "url": "https://biology.fau.edu/academics/graduate/phd-biology-admission-requirements-graduate.php"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A Bachelor of Science in biology or a related field is the entry requirement.",
+      "quote": "Who have completed a Bachelor of Science degree in biology or a related field",
+      "url": "https://biology.fau.edu/academics/graduate/phd-biology-admission-requirements-graduate.php"
+    }
+  },
+  "notes": "Umbrella for the Biomedical Science (IBBS) and Environmental/Marine Science tracks, so those fields are also_fields. Neuroscience is a separate PhD and is saved as neuro. Concentrations must match a supervisor on their faculty list (dept page). Funding and GRE are not stated on the fetched pages. The department page exempts some applicants from countries with English-medium higher education (list not fetched)."
+}

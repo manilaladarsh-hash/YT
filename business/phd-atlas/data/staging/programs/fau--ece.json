@@ -1,0 +1,61 @@
+{
+  "id": "fau--ece",
+  "university": "fau",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical Engineering and Computer Science",
+  "program_page": "https://www.fau.edu/graduate/graduate-programs/phd-electrical-engineering",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "The fall deadline is February 15.",
+      "quote": "Fall: February 15",
+      "url": "https://www.fau.edu/graduate/graduate-programs/phd-electrical-engineering",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE scores are required, but waived for applicants holding an EECS master's.",
+      "quote": "Submit the Graduate Record Examination (GRE) scores",
+      "url": "https://www.fau.edu/engineering/eecs/graduate/phd/electrical/admiss-reqs/",
+      "also": [
+        {
+          "quote": "The GRE requirement is waived for students with a Master’s degree from EECS",
+          "url": "https://www.fau.edu/engineering/eecs/graduate/phd/electrical/admiss-reqs/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants name two or three EECS faculty whose research fits; the page does not require a faculty agreement.",
+      "quote": "Name two or three faculty members whose research aligns with the applicant’s proposed research direction",
+      "url": "https://www.fau.edu/engineering/eecs/graduate/phd/electrical/admiss-reqs/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching assistantships need a 3.4 GPA and are chosen by a committee, with priority to new doctoral students.",
+      "quote": "The TA Committee makes the final selection after all required documentation has been reviewed",
+      "url": "https://www.fau.edu/engineering/eecs/graduate/assistantships/",
+      "also": [
+        {
+          "quote": "with a priority given to new doctoral students",
+          "url": "https://www.fau.edu/engineering/eecs/graduate/assistantships/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A master's in engineering is expected, and a BS-to-PhD direct path also exists.",
+      "quote": "Students are expected to have a Master’s degree in engineering or a related discipline",
+      "url": "https://www.fau.edu/engineering/eecs/graduate/phd/electrical/admiss-reqs/",
+      "also": [
+        {
+          "quote": "Students are expected to have a bachelor’s degree in engineering or a related discipline",
+          "url": "https://www.fau.edu/engineering/eecs/graduate/phd/electrical/admiss-reqs/"
+        }
+      ]
+    }
+  },
+  "notes": "This record uses the Electrical Engineering PhD. The Computer Engineering PhD (phd-computer-engineering), same field and department, requires the GRE with no EECS-master's waiver on its page. Department TOEFL 79 (iBT) and IELTS 6.0 match the university."
+}

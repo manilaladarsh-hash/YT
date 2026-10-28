@@ -1,0 +1,49 @@
+{
+  "id": "fau--civil",
+  "university": "fau",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil, Environmental and Geomatics Engineering",
+  "program_page": "https://www.fau.edu/graduate/graduate-programs/phd-transportation-and-environmental-engineering/index.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "The fall deadline is February 15.",
+      "quote": "Fall: February 15",
+      "url": "https://www.fau.edu/graduate/graduate-programs/phd-transportation-and-environmental-engineering/index.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE is required, except that engineering graduates of ABET-accredited programs do not need it.",
+      "quote": "GRE is required; there are no minimum sub-score requirements",
+      "url": "https://www.fau.edu/graduate/graduate-programs/phd-transportation-and-environmental-engineering/index.php",
+      "also": [
+        {
+          "quote": "No GRE is required if the student graduated from an ABET-accredited engineering program",
+          "url": "https://www.fau.edu/engineering/cege/graduate/phd-transportation/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The fetched official pages do not state a supervisor rule.",
+      "quote": "",
+      "url": "https://www.fau.edu/graduate/graduate-programs/phd-transportation-and-environmental-engineering/index.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The fetched official pages do not state funding terms.",
+      "quote": "",
+      "url": "https://www.fau.edu/engineering/cege/graduate/phd-transportation/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The program is built on coursework beyond a master's.",
+      "quote": "The program requires 21 credits (coursework beyond the MS) and 21 credits of dissertation",
+      "url": "https://www.fau.edu/engineering/cege/graduate/phd-transportation/"
+    }
+  },
+  "notes": "The department page says the GRE was waived through Fall 2023, while the Graduate College page now says it is required; confirm the current rule. The 2025-26 catalog reportedly asks for a letter from a potential advisor and mentions limited assistantships; that catalog was not fetched, so it is not saved."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "fau--earth",
+  "university": "fau",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Geosciences",
+  "program_page": "https://www.fau.edu/graduate/graduate-programs/phd-geosciences",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall entry closes February 15, or January 15 for international applicants.",
+      "quote": "February 15, January 15 for international students",
+      "url": "https://www.geosciences.fau.edu/prospective-students.php",
+      "inferred": "year"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants need a letter from a Geosciences faculty member willing to supervise them.",
+      "quote": "Letter of support from a Geoscience faculty member with willingness to supervise the applicant’s doctoral research",
+      "url": "https://www.fau.edu/graduate/graduate-programs/phd-geosciences"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Many full-time students hold teaching or research assistantships; the page does not promise funding to all.",
+      "quote": "Many full-time graduate students receive financial support in the form of teaching and/or research assistantship",
+      "url": "https://www.geosciences.fau.edu/prospective-students.php",
+      "also": [
+        {
+          "quote": "The doctoral TA stipend is $26,000 for 12 months.",
+          "url": "https://www.geosciences.fau.edu/prospective-students.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Only an undergraduate degree with a 3.0 GPA is listed for the PhD.",
+      "quote": "Undergraduate GPA 3.0 from regionally accredited college or university",
+      "url": "https://www.fau.edu/graduate/graduate-programs/phd-geosciences"
+    }
+  },
+  "notes": "The Geosciences MS is a separate program and is not saved here."
+}

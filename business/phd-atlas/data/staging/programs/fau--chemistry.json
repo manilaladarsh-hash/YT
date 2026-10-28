@@ -1,0 +1,61 @@
+{
+  "id": "fau--chemistry",
+  "university": "fau",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry and Biochemistry",
+  "program_page": "https://www.fau.edu/graduate/graduate-programs/phd-chemistry",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The priority deadline for fall admission is January 15.",
+      "quote": "Fall (Priority): January 15",
+      "url": "https://www.fau.edu/graduate/graduate-programs/phd-chemistry",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE general scores are optional but strongly recommended.",
+      "quote": "GRE (Graduate Record Examination) score submission is optional but strongly recommended",
+      "url": "https://chemistry.fau.edu/graduate/application-information.php"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Chemistry subject test is not required but is encouraged.",
+      "quote": "We do not require the GRE Chemistry subject test score. However, we encourage you to take this subject test",
+      "url": "https://chemistry.fau.edu/graduate/faqs.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department asks for IELTS 6.5, higher than the Graduate College's 6.0.",
+      "quote": "minimum IELTS score of 6.5 (band score)",
+      "url": "https://chemistry.fau.edu/graduate/application-information.php"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by the department's committee; students without an advisor rotate first.",
+      "quote": "First semester rotation is mandatory for all incoming students",
+      "url": "https://chemistry.fau.edu/graduate/faqs.php"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every accepted student gets a stipend, and PhD students have a teaching assistantship guaranteed for five years.",
+      "quote": "Ph.D. students are guaranteed a Teaching Assistantship (TA) for a period of five years",
+      "url": "https://chemistry.fau.edu/graduate/faqs.php",
+      "also": [
+        {
+          "quote": "All Ph.D. and M.S. students accepted into our graduate program will receive a stipend",
+          "url": "https://chemistry.fau.edu/graduate/faqs.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's is the entry requirement; an applicant not strong enough for the PhD may be offered an MS place.",
+      "quote": "it means that your credentials were assessed as not strong enough for direct entry into the Ph.D.",
+      "url": "https://chemistry.fau.edu/graduate/faqs.php"
+    }
+  },
+  "notes": "Department page: PhD TA stipend $26,000 for 2026-2027 (12 months), with about 80% of fees waived. Admission also considers a 3.0 GPA in the last 60 credits, or GRE 150 verbal and 152 quantitative, as alternatives. Department says TOEFL 79-80 (iBT). The Graduate College program page prints TOEFL 4.5 (conflict, not resolved)."
+}

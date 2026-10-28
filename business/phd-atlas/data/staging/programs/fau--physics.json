@@ -1,0 +1,55 @@
+{
+  "id": "fau--physics",
+  "university": "fau",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://www.fau.edu/graduate/graduate-programs/phd-physics",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-01",
+      "value": "International applicants should apply by June 1 for fall entry; domestic applicants by July 1.",
+      "quote": "the deadlines for fall admission are July 1 for domestic applicants and June 1 for international applicants",
+      "url": "https://www.physics.fau.edu/graduate-admissions/index.php",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Required",
+      "value": "The Ph.D. requires the GRE Physics subject test.",
+      "quote": "For the Ph.D. program, the Physics subject test is required",
+      "url": "https://www.physics.fau.edu/graduate-admissions/index.php"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The program lists GRE scores as a requirement, not marked optional.",
+      "quote": "Two or more letters of recommendation from faculty (Optional) • GRE scores",
+      "url": "https://www.fau.edu/graduate/graduate-programs/phd-physics"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by the Physics Admissions Committee, not by a named supervisor.",
+      "quote": "The Physics Admissions Committee will review the applicant's documents on a preliminary basis",
+      "url": "https://www.physics.fau.edu/graduate-admissions/index.php"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every incoming PhD student is offered a graduate teaching assistantship for the academic year.",
+      "quote": "All our incoming Ph.D. students are offered Graduate Teaching Assistantships for the academic year",
+      "url": "https://www.physics.fau.edu/graduate-admissions/index.php",
+      "also": [
+        {
+          "quote": "additional support of $6,500 is almost always available for the Summer",
+          "url": "https://www.physics.fau.edu/graduate-admissions/index.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A B.S. in physics or a closely related field is the entry requirement; no master's is listed.",
+      "quote": "Hold a B.S. degree, or equivalent, in Physics or a closely related field",
+      "url": "https://www.fau.edu/graduate/graduate-programs/phd-physics"
+    }
+  },
+  "notes": "Department page gives no TOEFL score; the Graduate College program page prints 'TOEFL 4.5; IELTS 6.0; Duolingo 110' (conflicts with the 79 on the apply page; not resolved). Fellowships may be granted to incoming students. The department page says the Graduate College fee is paid online or by mail."
+}
