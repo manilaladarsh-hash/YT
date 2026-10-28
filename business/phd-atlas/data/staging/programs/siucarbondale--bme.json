@@ -1,0 +1,54 @@
+{
+  "id": "siucarbondale--bme",
+  "university": "siucarbondale",
+  "field": "bme",
+  "also_fields": [],
+  "department": "School of Electrical, Computer, and Biomedical Engineering",
+  "program_page": "https://gradcatalog.siu.edu/programs/bme/",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The catalog gives no application deadline for the PhD.",
+      "quote": "",
+      "url": "https://gradcatalog.siu.edu/programs/bme/"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Official GRE scores are required with the application.",
+      "quote": "transcripts, official GRE scores, and three reference letters",
+      "url": "https://gradcatalog.siu.edu/programs/bme/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not name a subject test.",
+      "quote": "",
+      "url": "https://gradcatalog.siu.edu/programs/bme/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission does not depend on a faculty agreement; the student must have an advisor within the first semester.",
+      "quote": "The student must have an advisor with the academic program within the first semester of enrollment",
+      "url": "https://gradcatalog.siu.edu/programs/bme/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog mentions fellowships and scholarships only in general terms.",
+      "quote": "",
+      "url": "https://gradcatalog.siu.edu/programs/bme/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A master's is normally required, but outstanding bachelor's applicants can enter directly.",
+      "quote": "Admission to the program will normally require a Master’s degree in Biomedical Engineering or a related field",
+      "url": "https://gradcatalog.siu.edu/programs/bme/",
+      "also": [
+        {
+          "quote": "Applicants with exceptional research potential or outstanding academic qualifications may be considered for direct entry into the program after completion of a Bachelor’s degree in Biomedical Engineering",
+          "url": "https://gradcatalog.siu.edu/programs/bme/"
+        }
+      ]
+    }
+  },
+  "notes": "The PhD is run by the same school as the ECE program and shares its GRE and advisor rules."
+}

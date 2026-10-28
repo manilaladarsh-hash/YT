@@ -1,0 +1,53 @@
+{
+  "id": "siucarbondale",
+  "institution": "Southern Illinois University Carbondale",
+  "country": "USA",
+  "region": "Illinois",
+  "grad_page": "https://gradcatalog.siu.edu/the-graduate-school/application-for-grad-study.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "65 USD",
+      "value": "The Graduate School charges a non-refundable $65 application fee, and a separate fee is due for each program you apply to.",
+      "quote": "The Graduate School requires a non-refundable application fee of $65 which must be submitted",
+      "url": "https://gradcatalog.siu.edu/the-graduate-school/application-for-grad-study.php"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Only McNair and Fulbright Scholars can get a fee waiver, after proving participation directly to the Graduate School.",
+      "quote": "McNair and Fulbright Scholars should submit proof of participation in that program directly to the Graduate School in order to be considered for an application fee waiver",
+      "url": "https://gradcatalog.siu.edu/the-graduate-school/application-for-grad-study.php"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Graduate School does not require GRE, GMAT or other tests, but individual programs may; see each program record.",
+      "quote": "The Graduate School does not require any graduate tests for admission",
+      "url": "https://gradcatalog.siu.edu/the-graduate-school/application-for-grad-study.php"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT minimum is 4.5 on the new 1-6 scale for tests taken on or after 21 January 2026 (80 before that date).",
+      "quote": "iBT with a minimum score of 80 prior to January 21, 2026 or 4.5 on or after January 21, 2026",
+      "url": "https://gradcatalog.siu.edu/the-graduate-school/application-for-grad-study.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic minimum overall band score is 6.5.",
+      "quote": "with a minimum overall band score of 6.5",
+      "url": "https://gradcatalog.siu.edu/the-graduate-school/application-for-grad-study.php"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "India is on the Graduate School's exempt list, so an applicant with a degree from an Indian institution (bachelor's GPA 2.7 or higher, or master's GPA 3.0 or higher, completed within 5 years of entry) does not need an English test.",
+      "quote": "The following is a list of the countries and territories that qualify for an exemption to English proficiency requirements | Guyana India Ireland",
+      "url": "https://gradcatalog.siu.edu/the-graduate-school/application-for-grad-study.php",
+      "also": [
+        {
+          "quote": "from an international institution in a country on the SIUC Exempt Country and Territory List, within 5 years of the proposed semester of initial enrollment at SIUC",
+          "url": "https://gradcatalog.siu.edu/the-graduate-school/application-for-grad-study.php"
+        }
+      ]
+    }
+  },
+  "notes": "Uses the 2026-2027 Graduate Catalog. The international admissions page still lists TOEFL 80 (1-120 scale) or 4.5 (1-6 scale), and the catalog gives the same 4.5 threshold for tests on or after 21 January 2026. The Graduate School has no application deadline; many programs do, as early as December 1. Program pages set GRE and deadlines."
+}
