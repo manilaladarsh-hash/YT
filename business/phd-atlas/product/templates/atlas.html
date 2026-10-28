@@ -898,6 +898,7 @@ function showTab(name) {
   for (const t of ["find", "plan", "guide"]) { $("tab-" + t).setAttribute("aria-selected", t === name ? "true" : "false"); $("view-" + t).hidden = t !== name; }
   if (name === "plan") renderPlan();
   if (name === "find") render(true);
+  if (name === "guide" && !$("guideBody").childElementCount) renderGuide();
   store.set("atlas2-tab", name);
   window.scrollTo(0, 0);
 }
@@ -909,7 +910,7 @@ async function init() {
   $("tagline").textContent = P.length.toLocaleString("en-IN") + " programs · " + fieldsN + (fieldsN === 1 ? " field · " : " fields · ") + unis + " universities · checked " + fmtDate(A.checked);
   $("foot").textContent = "v" + A.version + " · ₹ via " + A.fx.source + ", " + fmtDate(A.fx.date) + " (1 USD ≈ ₹" + A.fx.usd_inr + ")";
   $("starCount").textContent = stars.size;
-  buildSituation(); renderGuide();
+  buildSituation();
   $("q").addEventListener("input", () => render());
   $("sort").addEventListener("input", () => render());
   $("moreBtn").addEventListener("click", () => { shown += PAGE; render(true); });
