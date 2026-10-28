@@ -1,0 +1,62 @@
+{
+  "id": "ndsu--cs",
+  "university": "ndsu",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science",
+  "program_page": "https://catalog.ndsu.edu/curriculum/graduate/computer-science-doctorate",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Fall applications due February 1; Spring applications due September 1.",
+      "quote": "Fall semester- February 1; Spring semester-September 1",
+      "url": "https://catalog.ndsu.edu/curriculum/graduate/computer-science-doctorate",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE not required for admission; a quantitative score above the median is strongly recommended for assistantship priority.",
+      "quote": "GRE score is not required for admission.",
+      "url": "https://catalog.ndsu.edu/curriculum/graduate/computer-science-doctorate"
+    },
+    "toefl_min": {
+      "code": "81",
+      "value": "Department minimum TOEFL iBT 81 (4.5 on the new scale).",
+      "quote": "TOEFL iBT 81/4.5; IELTS 7; Duolingo 115",
+      "url": "https://catalog.ndsu.edu/curriculum/graduate/computer-science-doctorate"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Department minimum IELTS 7.",
+      "quote": "TOEFL iBT 81/4.5; IELTS 7; Duolingo 115",
+      "url": "https://catalog.ndsu.edu/curriculum/graduate/computer-science-doctorate"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admitted without a named supervisor; the research advisor is chosen in the second semester.",
+      "quote": "Research advisor should be selected by the second semester at NDSU.",
+      "url": "https://catalog.ndsu.edu/curriculum/graduate/computer-science-doctorate"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://catalog.ndsu.edu/curriculum/graduate/computer-science-doctorate"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Bachelor's-to-PhD (90 credits) and master's-to-PhD (60 credits) routes both exist; a previous computer science degree is required.",
+      "quote": "Bachelor’s to Doctor of Philosophy in Computer Science degree requirements",
+      "url": "https://catalog.ndsu.edu/curriculum/graduate/computer-science-doctorate",
+      "also": [
+        {
+          "quote": "Applicants with a bachelor's degree only should meet a minimum GPA of 3.25 in previous coursework.",
+          "url": "https://catalog.ndsu.edu/curriculum/graduate/computer-science-doctorate"
+        }
+      ]
+    }
+  },
+  "notes": "Software and Security Engineering also offers a PhD in the same catalog (not saved).",
+  "name": "Computer Science"
+}

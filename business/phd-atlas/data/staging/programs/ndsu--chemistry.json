@@ -1,0 +1,67 @@
+{
+  "id": "ndsu--chemistry",
+  "university": "ndsu",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Chemistry and Biochemistry",
+  "program_page": "https://www.ndsu.edu/chemistry/for-students/graduate/prospective-students/admission-requirements",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "No strict deadline; the committee considers applications as received, with Fall applications considered by mid-March.",
+      "quote": "We do not have a strict deadline, and applications are reviewed as soon as they're received by the admission committee.",
+      "url": "https://www.ndsu.edu/chemistry/for-students/graduate/prospective-students/admission-requirements",
+      "also": [
+        {
+          "quote": "considers applications by mid-September for the following Spring admission and by mid-March for the following Fall admission",
+          "url": "https://www.ndsu.edu/chemistry/for-students/graduate/prospective-students/admission-requirements"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE required for applicants with a non-U.S. degree, which covers Indian applicants; the department calls the score requirement soft.",
+      "quote": "The GRE is required for students who obtained their degree from schools outside the United States.",
+      "url": "https://www.ndsu.edu/chemistry/for-students/graduate/prospective-students/admission-requirements"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The subject test is recommended only for domestic applicants in the catalog; international applicants are not addressed.",
+      "quote": "GRE (general and subject) recommended for domestic applicants",
+      "url": "https://catalog.ndsu.edu/curriculum/graduate/chemistry-doctorate/"
+    },
+    "toefl_min": {
+      "code": "81",
+      "value": "Department minimum TOEFL iBT 81 for non-U.S. degree holders, above the graduate school minimum.",
+      "quote": "you must have a minimum TOEFL ibT score of 81 (IELTS of 7; PTE Academic equivalent of 54)",
+      "url": "https://www.ndsu.edu/chemistry/for-students/graduate/prospective-students/admission-requirements"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Department minimum IELTS 7 overall for non-U.S. degree holders.",
+      "quote": "you must have a minimum TOEFL ibT score of 81 (IELTS of 7; PTE Academic equivalent of 54)",
+      "url": "https://www.ndsu.edu/chemistry/for-students/graduate/prospective-students/admission-requirements"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by the department committee; a first-semester rotation lets students choose a supervisor.",
+      "quote": "You do NOT need to directly contact faculty members to choose your research group and the supervisor.",
+      "url": "https://www.ndsu.edu/chemistry/for-students/graduate/prospective-students/admission-requirements"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://www.ndsu.edu/chemistry/for-students/graduate/prospective-students/admission-requirements"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not needed to apply to the PhD.",
+      "quote": "You do not need to have M.S. degree to apply to our Ph.D. program.",
+      "url": "https://www.ndsu.edu/chemistry/for-students/graduate/prospective-students/admission-requirements"
+    }
+  },
+  "notes": "Graduate School table lists Fall April 15; the department page says mid-March and no strict deadline, so the program uses the department rule. Biochemistry also offers a PhD in this department (not saved).",
+  "name": "Chemistry and Biochemistry PhD"
+}

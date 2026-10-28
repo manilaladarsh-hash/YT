@@ -1,0 +1,86 @@
+{
+  "id": "southernmississippi--chemistry",
+  "university": "southernmississippi",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Chemistry and Biochemistry, School of Mathematics and Natural Sciences",
+  "program_page": "https://www.usm.edu/graduate-programs/chemistry.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-01",
+      "value": "The earliest international Fall date is May 1, 2027; chemistry also asks for June 1 for visa processing.",
+      "quote": "Fall admission (August start date) – May 1",
+      "url": "https://www.usm.edu/graduate-school/international-graduate-admissions.php",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "the application should be submitted by June 1 and November 1 for Fall and Spring admission",
+          "url": "https://www.usm.edu/graduate-programs/chemistry.php"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The chemistry department no longer requires the GRE General test; applicants may still submit it.",
+      "quote": "Graduate Record Examination (GRE) general test is no longer required",
+      "url": "https://www.usm.edu/graduate-programs/chemistry.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The chemistry page does not mention a Chemistry subject test.",
+      "quote": "",
+      "url": "https://www.usm.edu/graduate-programs/chemistry.php"
+    },
+    "toefl_min": {
+      "code": "71",
+      "value": "Chemistry lists a TOEFL iBT minimum of 71.",
+      "quote": "TOEFL score of 71 (IBT), 525 (PBT)",
+      "url": "https://www.usm.edu/graduate-programs/chemistry.php"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "Chemistry lists an IELTS Academic overall minimum of 6.0.",
+      "quote": "IELTS (Academic) Overall 6.0",
+      "url": "https://www.usm.edu/graduate-programs/chemistry.php"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "The chemistry test waiver covers degrees from listed countries only, which excludes India, so Indian applicants need a test.",
+      "quote": "may be waived if the applicant has completed a post-secondary degree at an accredited university in the United States, the United Kingdom, Australia, Canada, New Zealand, Ireland, Nigeria, Ghana, or certain Caribbean islands",
+      "url": "https://www.usm.edu/graduate-programs/chemistry.php"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants need not secure a research advisor before applying; admitted students join a group after rotations.",
+      "quote": "contacting or securing a research advisor is not required before applying",
+      "url": "https://www.usm.edu/graduate-programs/chemistry.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantships are limited and granted competitively; teaching assistantships often carry a full tuition waiver.",
+      "quote": "Assistantships are limited and are granted on a competitive basis",
+      "url": "https://www.usm.edu/graduate-school/international-graduate-admissions.php",
+      "also": [
+        {
+          "quote": "Teaching assistantships often come with a full tuition waiver",
+          "url": "https://www.usm.edu/graduate-programs/chemistry.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with a bachelor's need a 2.75 GPA on their last 60 undergraduate hours; those with a master's need 3.5 on graduate work.",
+      "quote": "Applicants to a doctoral program who have not earned a master's degree must have at least a 2.75 GPA on their last 60 hours of undergraduate work",
+      "url": "https://www.usm.edu/graduate-programs/chemistry.php",
+      "also": [
+        {
+          "quote": "Applicants to a doctoral program who have earned a master's degree must have at least a 3.5 GPA on all previous graduate work",
+          "url": "https://www.usm.edu/graduate-programs/chemistry.php"
+        }
+      ]
+    }
+  },
+  "notes": "",
+  "name": "Chemistry PhD"
+}

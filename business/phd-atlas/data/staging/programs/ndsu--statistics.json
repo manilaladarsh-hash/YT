@@ -1,0 +1,44 @@
+{
+  "id": "ndsu--statistics",
+  "university": "ndsu",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Statistics",
+  "program_page": "https://www.ndsu.edu/statistics/for-students/graduate/admission-requirements",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-15",
+      "value": "March 15 for international applicants and for assistantship consideration.",
+      "quote": "The application deadline is March 15 for international students and applicants who would like an opportunity for an assistantship, if available.",
+      "url": "https://www.ndsu.edu/statistics/for-students/graduate/financial-assistance",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE not required but highly recommended.",
+      "quote": "GRE Scores (not required but highly recommended)",
+      "url": "https://www.ndsu.edu/statistics/for-students/graduate/financial-assistance"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://www.ndsu.edu/statistics/for-students/graduate/admission-requirements"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Teaching assistantships are available; the page does not say most students are funded.",
+      "quote": "Teaching assistantships are available",
+      "url": "https://www.ndsu.edu/statistics/for-students/graduate/financial-assistance"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants without a master's in statistics or a closely related field are not admitted to the PhD and must first complete the M.S.",
+      "quote": "Students not holding a master's degree in statistics or a closely related field will not be admitted to the Ph.D. program in statistics.",
+      "url": "https://www.ndsu.edu/statistics/for-students/graduate/admission-requirements"
+    }
+  },
+  "notes": "The statistics page says international students must submit a TOEFL score but gives no minimum on the fetched pages.",
+  "name": "Statistics"
+}

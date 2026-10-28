@@ -1,0 +1,62 @@
+{
+  "id": "southernmississippi--cs",
+  "university": "southernmississippi",
+  "field": "cs",
+  "also_fields": [],
+  "department": "School of Computing Sciences and Computer Engineering",
+  "program_page": "https://www.usm.edu/computing-sciences-computer-engineering/csgradfaq.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-01",
+      "value": "Applications must be complete by the University's posted deadline, which is May 1 for international Fall applicants.",
+      "quote": "Fall admission (August start date) – May 1",
+      "url": "https://www.usm.edu/graduate-school/international-graduate-admissions.php",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Your application must be complete by the University’s posted deadline",
+          "url": "https://www.usm.edu/computing-sciences-computer-engineering/csgradfaq.php"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The CS department does not require GRE scores for MS or PhD applicants.",
+      "quote": "GRE scores are NOT required for either the M.S. or Ph.D. programs",
+      "url": "https://www.usm.edu/computing-sciences-computer-engineering/csgradfaq.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Computer science has no GRE Subject test on the department page.",
+      "quote": "",
+      "url": "https://www.usm.edu/computing-sciences-computer-engineering/csgradfaq.php"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to contact faculty whose interests match theirs.",
+      "quote": "Students are encouraged to explore faculty profiles and contact faculty whose interests align with their own",
+      "url": "https://www.usm.edu/computing-sciences-computer-engineering/csgradfaq.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantships are not guaranteed, and the GA application process is competitive.",
+      "quote": "Assistantships are not guaranteed",
+      "url": "https://www.usm.edu/computing-sciences-computer-engineering/csgradfaq.php",
+      "also": [
+        {
+          "quote": "The GA application process is competitive and considers applicant academic performance",
+          "url": "https://www.usm.edu/computing-sciences-computer-engineering/csgradfaq.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The CS page does not say whether a master's is needed before the PhD.",
+      "quote": "",
+      "url": "https://www.usm.edu/computing-sciences-computer-engineering/csgradfaq.php"
+    }
+  },
+  "notes": "",
+  "name": "Computer Science PhD"
+}

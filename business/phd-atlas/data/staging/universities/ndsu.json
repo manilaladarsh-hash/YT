@@ -1,0 +1,53 @@
+{
+  "id": "ndsu",
+  "institution": "North Dakota State University",
+  "country": "USA",
+  "region": "North Dakota",
+  "grad_page": "https://www.ndsu.edu/graduate-school/graduate-admission/admission-requirements",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "35 USD",
+      "value": "Each application needs a nonrefundable $35 fee, paid again for each program applied to.",
+      "quote": "You are required to submit your online application and nonrefundable $35 application fee.",
+      "url": "https://www.ndsu.edu/graduate-school/apply"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Fee waivers are only for McNair Scholars, U.S. Armed Forces and Veterans, and Native American applicants; no international waiver is stated.",
+      "quote": "Application fees are waived for McNair Scholars, U.S. Armed Forces and Veterans, and Native American applicants.",
+      "url": "https://www.ndsu.edu/graduate-school/apply"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each program; see the program records.",
+      "quote": "",
+      "url": "https://www.ndsu.edu/graduate-school/graduate-admission/admission-requirements"
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "TOEFL iBT 4 on the new scale for tests taken from January 21, 2026; 71 for older tests.",
+      "quote": "TOEFL: 4 (internet based); 71 on tests taken prior to January 21, 2026",
+      "url": "https://www.ndsu.edu/graduate-school/english-language-proficiency-graduate-students"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "IELTS Academic overall band 6.0 minimum.",
+      "quote": "IELTS: 6.0 (academic version)",
+      "url": "https://www.ndsu.edu/graduate-school/english-language-proficiency-graduate-students"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the exempt-country list and no medium-of-instruction exemption is stated, so Indian applicants need a test score.",
+      "quote": "Countries Exempt from the English Proficiency Examination Requirement",
+      "url": "https://www.ndsu.edu/graduate-school/english-language-proficiency-graduate-students",
+      "also": [
+        {
+          "quote": "Been raised in a recognized country where English is the only official language",
+          "url": "https://www.ndsu.edu/graduate-school/graduate-admission/admission-requirements"
+        }
+      ]
+    }
+  },
+  "notes": "Admissions page still lists TOEFL 71 and TOEFL Duolingo 105; the English page gives the new TOEFL scale. Graduate teaching assistants need higher minimums (TOEFL 100, IELTS 7, Duolingo 125 per ECE catalog; GTA minimums in the University Catalog)."
+}

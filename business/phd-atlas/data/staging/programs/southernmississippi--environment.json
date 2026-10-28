@@ -1,0 +1,60 @@
+{
+  "id": "southernmississippi--environment",
+  "university": "southernmississippi",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Division of Marine Science, School of Ocean Science and Engineering",
+  "program_page": "https://www.usm.edu/graduate-programs/marine-science.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Fellowship applications are due February 1 for Fall entry; assistantship consideration is March 1, and the final international deadline is May 1.",
+      "quote": "the deadline to be considered is February 1 each year",
+      "url": "https://www.usm.edu/graduate-programs/marine-science.php",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "final deadlines for applications are May 1 (international applicants)",
+          "url": "https://www.usm.edu/graduate-programs/marine-science.php"
+        },
+        {
+          "quote": "should submit applications by March 1 (Fall admission)",
+          "url": "https://www.usm.edu/graduate-programs/marine-science.php"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The marine science page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.usm.edu/graduate-programs/marine-science.php"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly encouraged to identify a faculty sponsor before applying, though this is not mandatory.",
+      "quote": "Students are strongly encouraged to identify a faculty sponsor among the Marine Science Faculty before applying for admission, although this is not mandatory",
+      "url": "https://www.usm.edu/graduate-programs/marine-science.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Admitted students are considered for assistantships, which are offered competitively because resources are limited.",
+      "quote": "the assistantships will be offered competitively",
+      "url": "https://www.usm.edu/graduate-programs/marine-science.php",
+      "also": [
+        {
+          "quote": "All students admitted into the program will be considered for assistantship",
+          "url": "https://www.usm.edu/graduate-programs/marine-science.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Doctoral applicants can enter with a bachelor's (3.5 undergraduate GPA) or with a master's (3.5 graduate GPA).",
+      "quote": "or a GPA of at least 3.5 on all undergraduate coursework (if entering with a bachelor’s degree)",
+      "url": "https://www.usm.edu/graduate-programs/marine-science.php"
+    }
+  },
+  "notes": "Hydrography emphasis is listed under this program. The Coastal Sciences PhD (Division of Coastal Sciences, same school, https://www.usm.edu/graduate-programs/coastal-sciences.php) is a separate program in the same field and is not saved here; its fellowship page is https://www.usm.edu/ocean-science-engineering/coastal-sciences-fellowship.php.",
+  "name": "Marine Science PhD"
+}
