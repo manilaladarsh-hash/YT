@@ -1,0 +1,47 @@
+{
+  "id": "alaskafairbanks",
+  "institution": "University of Alaska Fairbanks",
+  "country": "USA",
+  "region": "Alaska",
+  "grad_page": "https://www.uaf.edu/gradschool/prospective-students/graduate-admissions.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "Not stated: the official UAF graduate admissions page could not be fetched in this session.",
+      "quote": "",
+      "url": "https://www.uaf.edu/gradschool/prospective-students/graduate-admissions.php"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Not stated: the official UAF graduate admissions page could not be fetched in this session.",
+      "quote": "",
+      "url": "https://www.uaf.edu/gradschool/prospective-students/graduate-admissions.php"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Not stated: the official UAF graduate admissions page could not be fetched in this session.",
+      "quote": "",
+      "url": "https://www.uaf.edu/gradschool/prospective-students/graduate-admissions.php"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "Not stated: the official UAF graduate admissions page could not be fetched in this session.",
+      "quote": "",
+      "url": "https://www.uaf.edu/gradschool/prospective-students/graduate-admissions.php"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "Not stated: the official UAF graduate admissions page could not be fetched in this session.",
+      "quote": "",
+      "url": "https://www.uaf.edu/gradschool/prospective-students/graduate-admissions.php"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "Not stated: the official UAF graduate admissions page could not be fetched in this session.",
+      "quote": "",
+      "url": "https://www.uaf.edu/gradschool/prospective-students/graduate-admissions.php"
+    }
+  },
+  "notes": "Blocked, not researched. Every www.uaf.edu page (graduate admissions, graduate school home, physics department) and catalog.uaf.edu returned 502 through scripts/research.py. Cause: the www.uaf.edu certificate chain (InCommon, alaska.edu) needs the root 'emSign Root TLS CA - G1', which is not in /root/.ccr/ca-bundle.crt, so TLS verification fails before the page loads. Fix needed before a re-run: trust that root for this session. No program records saved: the doctoral program list and every department page are on the blocked hosts."
+}

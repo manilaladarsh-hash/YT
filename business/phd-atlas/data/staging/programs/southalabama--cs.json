@@ -1,0 +1,44 @@
+{
+  "id": "southalabama--cs",
+  "university": "southalabama",
+  "field": "cs",
+  "also_fields": [],
+  "department": "School of Computing",
+  "program_page": "https://bulletin.southalabama.edu/programs-az/computing/computing/computing-phd/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "Graduate assistantship applications for fall entry must be received by April 1. The bulletin gives no separate admission deadline, and the deadlines page lists the PhD without a date.",
+      "quote": "Applications must be received by April 1st for fall applicants",
+      "url": "https://bulletin.southalabama.edu/programs-az/computing/computing/computing-phd/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE General is required unless the applicant holds a degree from a nationally accredited US institution.",
+      "quote": "Official scores for the Graduate Records Examination (GRE) including the AW portion | Any applicant with an undergraduate or graduate degree from a nationally accredited U.S. institution is not required to provide GRE scores",
+      "url": "https://bulletin.southalabama.edu/programs-az/computing/computing/computing-phd/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by the Director of Graduate Studies and a faculty vote. A faculty advisor is assigned after entry.",
+      "quote": "Admission may be granted by the Director of Graduate Studies, when supported by a vote of the Graduate Faculty | Upon entry into the PhD program, the Director of Graduate Studies will serve as the initial academic advisor",
+      "url": "https://bulletin.southalabama.edu/programs-az/computing/computing/computing-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate assistantships are limited and awarded competitively on the School's recommendation.",
+      "quote": "A limited number of graduate assistantships are available on a competitive basis",
+      "url": "https://bulletin.southalabama.edu/programs-az/computing/computing/computing-phd/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants need either a bachelor's with a 3.3 GPA or a master's with a 3.5 GPA.",
+      "quote": "a 3.5 overall (4.0 scale) for a completed graduate program",
+      "url": "https://bulletin.southalabama.edu/programs-az/computing/computing/computing-phd/"
+    }
+  },
+  "notes": "No Data Science, AI or ML PhD track is listed; the only related items are undergraduate and certificate programs, so no datasci record is saved. The bulletin says applicants need an official GRE score unless they hold a degree from a nationally accredited US institution.",
+  "name": "Computing (PhD)"
+}

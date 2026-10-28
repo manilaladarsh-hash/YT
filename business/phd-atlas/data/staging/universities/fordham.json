@@ -1,0 +1,59 @@
+{
+  "id": "fordham",
+  "institution": "Fordham University",
+  "country": "USA",
+  "region": "New York",
+  "grad_page": "https://www.fordham.edu/graduate-school-of-arts-and-sciences/admissions/international-students/",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "89 USD",
+      "value": "The application fee is a non-refundable $89 for all GSAS applicants.",
+      "quote": "there is a non-refundable $89 application fee",
+      "url": "https://www.fordham.edu/graduate-school-of-arts-and-sciences/admissions/admissions-faq/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "GSAS waives the application fee only case by case; international applicants can ask only on proven financial hardship, and approval is not guaranteed.",
+      "quote": "Applicants may be domestic or international students and must provide documentation that demonstrates that the application fee presents a financial hardship",
+      "url": "https://www.fordham.edu/graduate-school-of-arts-and-sciences/admissions/how-to-apply/application-fee-waivers/",
+      "also": [
+        {
+          "quote": "Fee waivers are granted at the discretion of GSAS Admissions and are not guaranteed",
+          "url": "https://www.fordham.edu/graduate-school-of-arts-and-sciences/admissions/how-to-apply/application-fee-waivers/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE General is set per program, not for every applicant: Computer Science requires it and Biological Sciences makes it optional (see the program records).",
+      "quote": "",
+      "url": "https://www.fordham.edu/graduate-school-of-arts-and-sciences/admissions/how-to-apply/standardized-test-scores-for-admissions/"
+    },
+    "toefl_min": {
+      "code": "5.0 (new scale)",
+      "value": "For tests taken on or after January 21, 2026, the GSAS minimum is 5.0 on the new TOEFL scale.",
+      "quote": "Taken on or after January 21, 2026 - Minimum score: 5.0",
+      "url": "https://www.fordham.edu/graduate-school-of-arts-and-sciences/admissions/international-students/",
+      "also": [
+        {
+          "quote": "Taken before January 21, 2026 - Minimum score: 100",
+          "url": "https://www.fordham.edu/graduate-school-of-arts-and-sciences/admissions/international-students/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "GSAS requires an IELTS Academic overall band of 7.0.",
+      "quote": "IELTS 7.0 band score",
+      "url": "https://www.fordham.edu/graduate-school-of-arts-and-sciences/admissions/international-students/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "An undergraduate or graduate degree from a university in India is generally accepted as an exemption, but GSAS may still ask for test scores in some cases.",
+      "quote": "you received an undergraduate or graduate degree from a university in India. (In some cases, we may request language proficiency test scores.)",
+      "url": "https://www.fordham.edu/graduate-school-of-arts-and-sciences/admissions/international-students/"
+    }
+  },
+  "notes": "GSAS runs the PhD programs for arts and sciences; the CS and Biological Sciences PhDs are the only STEM PhDs in the GSAS programs-of-study list. Psychometrics and Quantitative Psychology (PhD) is a psychology program, not a listed field. The bulletin.fordham.edu doctoral list returned 502 and was not used."
+}

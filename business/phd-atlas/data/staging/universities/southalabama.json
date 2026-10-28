@@ -1,0 +1,47 @@
+{
+  "id": "southalabama",
+  "institution": "University of South Alabama",
+  "country": "USA",
+  "region": "Alabama",
+  "grad_page": "https://bulletin.southalabama.edu/information/admissions-enrollment-services/international-student-admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "The graduate application needs a non-refundable $60 fee, and applications without it are not processed.",
+      "quote": "A non-refundable $60 application fee, payable through a U.S. Bank must accompany the application",
+      "url": "https://bulletin.southalabama.edu/information/admissions-enrollment-services/international-student-admissions/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "The bulletin pages checked do not describe a graduate application fee waiver. The College of Medicine says it offers none (see its program record).",
+      "quote": "",
+      "url": "https://bulletin.southalabama.edu/information/admissions-enrollment-services/international-student-admissions/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each program; see the program record.",
+      "quote": "Standardized test scores may be required by specific graduate programs for admission.",
+      "url": "https://bulletin.southalabama.edu/programs-az/graduate"
+    },
+    "toefl_min": {
+      "code": "71",
+      "value": "International graduate applicants whose native language is not English need a TOEFL minimum of 71, unless exempt.",
+      "quote": "TOEFL minimum score of 71",
+      "url": "https://bulletin.southalabama.edu/programs-az/graduate"
+    },
+    "ielts_min": {
+      "code": "6",
+      "value": "IELTS Academic minimum of 6 overall for international graduate applicants, unless exempt.",
+      "quote": "IELTS minimum score of 6",
+      "url": "https://bulletin.southalabama.edu/programs-az/graduate"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the bulletin's list of countries whose education waives the test, so Indian applicants need a test score. Some programs may still set their own rules.",
+      "quote": "Certain graduate programs waive the English proficiency requirement for international applicants who are citizens of or who have attended school in specific countries where English is an official language and/or the medium of instruction",
+      "url": "https://bulletin.southalabama.edu/programs-az/graduate"
+    }
+  },
+  "notes": "Sources: 2026-27 University Bulletin graduate and international pages. The graduate school fee and test minimums come from the bulletin. Program-level GRE, English and fee rules are in each program record. The Graduate Deadlines page is at https://www.southalabama.edu/departments/admissions/graduate-deadlines.html."
+}

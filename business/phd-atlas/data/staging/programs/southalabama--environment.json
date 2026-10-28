@@ -1,0 +1,44 @@
+{
+  "id": "southalabama--environment",
+  "university": "southalabama",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Stokes School of Marine and Environmental Sciences",
+  "program_page": "https://bulletin.southalabama.edu/programs-az/arts-sciences/marine-sciences/marine-science-phd/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Fall applications are due February 1. The bulletin encourages applying before that date, and offers are made in the spring.",
+      "quote": "Ph.D. in Marine Sciences - Fall (August): February 1 Spring (January): May 15",
+      "url": "https://www.southalabama.edu/departments/admissions/graduate-deadlines.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional and not required for admission.",
+      "quote": "You may optionally submit your GRE scores if you wish for them to be considered",
+      "url": "https://bulletin.southalabama.edu/programs-az/arts-sciences/marine-sciences/marine-science-phd/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must identify a faculty mentor who will accept them, or they will not be admitted.",
+      "quote": "Students whose interests do not correspond to those of a particular faculty mentor or who have not identified a faculty member willing to serve as a mentor will not be admitted into the Ph.D. degree program in marine sciences",
+      "url": "https://bulletin.southalabama.edu/programs-az/arts-sciences/marine-sciences/marine-science-phd/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most PhD students are funded through grant-funded research assistantships.",
+      "quote": "Most of our Ph.D. students are funded through grant-funded research assistantships",
+      "url": "https://bulletin.southalabama.edu/programs-az/arts-sciences/marine-sciences/marine-science-phd/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with a bachelor's degree or an MS degree in a related field can apply.",
+      "quote": "For students with baccalaureate degrees | For students with MS degrees",
+      "url": "https://bulletin.southalabama.edu/programs-az/arts-sciences/marine-sciences/marine-science-phd/"
+    }
+  },
+  "notes": "Covers the Stokes School's marine science PhD. The bulletin's TOEFL minimum of 71 matches the graduate school's rule, so no override is saved. The separate Environment and Society PhD is not saved here because this record uses the environment field id.",
+  "name": "Marine Science (PhD)"
+}
