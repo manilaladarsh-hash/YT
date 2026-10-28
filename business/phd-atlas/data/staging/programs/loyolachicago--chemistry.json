@@ -1,0 +1,55 @@
+{
+  "id": "loyolachicago--chemistry",
+  "university": "loyolachicago",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry & Biochemistry",
+  "program_page": "https://www.luc.edu/chemistry/admission/",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-01",
+      "value": "Fall applications are first reviewed in the first week of December 2026 and are considered until May 1, 2027.",
+      "quote": "applications for the fall are initially evaluated on the first week of December though applications are considered until May 1st",
+      "url": "https://www.luc.edu/chemistry/admission/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department does not require the GRE.",
+      "quote": "We do not require the GRE or subject GRE",
+      "url": "https://www.luc.edu/chemistry/admission/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department does not require the subject GRE either.",
+      "quote": "We do not require the GRE or subject GRE",
+      "url": "https://www.luc.edu/chemistry/admission/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The chemistry admission pages do not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.luc.edu/chemistry/admission/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Full-time PhD students are eligible for merit-based departmental support, and international applicants get the same consideration as domestic ones.",
+      "quote": "Full time students (MS and PhD) are eligible for merit based support",
+      "url": "https://www.luc.edu/chemistry/support/",
+      "also": [
+        {
+          "quote": "Yes - they receive the same consideration as our domestic students",
+          "url": "https://www.luc.edu/chemistry/admission/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The chemistry PhD pages do not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://www.luc.edu/chemistry/admission/"
+    }
+  },
+  "notes": "The PhD requires 62 credit hours, including 42 research hours, an entrance exam, a comprehensive exam and a dissertation. Chemistry is run by the department; the deadline is for Fall 2027 entry."
+}

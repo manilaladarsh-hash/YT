@@ -1,0 +1,43 @@
+{
+  "id": "slu--biology",
+  "university": "slu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Biology",
+  "program_page": "https://catalog.slu.edu/colleges-schools/arts-sciences/biology/biology-phd/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Students wanting an assistantship should apply by Dec. 15; later applications are considered if assistantships remain.",
+      "quote": "Students who want to be considered for an assistantship should submit their application by Dec. 15",
+      "url": "https://catalog.slu.edu/colleges-schools/arts-sciences/biology/biology-phd/",
+      "inferred": "year"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are advised to contact faculty whose research matches their interests early in the process.",
+      "quote": "they should identify and correspond with faculty members whose area of research matches their interests early in the application process",
+      "url": "https://catalog.slu.edu/colleges-schools/arts-sciences/biology/biology-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantships go to applicants who apply by the priority deadline; the page does not promise funding to every admitted student.",
+      "quote": "For priority consideration for a graduate assistantship, apply by the program admission deadlines listed",
+      "url": "https://catalog.slu.edu/colleges-schools/arts-sciences/biology/biology-phd/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants can enter from a bachelor's degree (36 credits) or a master's degree (preliminary exam in the first spring).",
+      "quote": "students who enter the program with a master’s degree are required to take the written preliminary exam the first spring semester",
+      "url": "https://catalog.slu.edu/colleges-schools/arts-sciences/biology/biology-phd/",
+      "also": [
+        {
+          "quote": "The program for the Doctor of Philosophy in Biology degree requires a minimum of 36 credits, when pursued from the baccalaureate",
+          "url": "https://catalog.slu.edu/colleges-schools/arts-sciences/biology/biology-phd/"
+        }
+      ]
+    }
+  },
+  "notes": ""
+}

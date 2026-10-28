@@ -1,0 +1,37 @@
+{
+  "id": "slu--mech",
+  "university": "slu",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Aerospace and Mechanical Engineering",
+  "program_page": "https://catalog.slu.edu/colleges-schools/science-engineering/aerospace-mechanical/mechanical-engineering-phd/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The mechanical engineering PhD page gives no application deadline.",
+      "quote": "",
+      "url": "https://catalog.slu.edu/colleges-schools/science-engineering/aerospace-mechanical/mechanical-engineering-phd/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants are admitted based on research interests and openings in the research group, so a group match comes before admission.",
+      "quote": "All applicants are admitted based on their research interests and openings in the research group",
+      "url": "https://catalog.slu.edu/colleges-schools/science-engineering/aerospace-mechanical/mechanical-engineering-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not describe funding for PhD students.",
+      "quote": "",
+      "url": "https://catalog.slu.edu/colleges-schools/science-engineering/aerospace-mechanical/mechanical-engineering-phd/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A four-year B.S. in mechanical engineering or a closely related field; the page names no master's route.",
+      "quote": "A four-year B.S. degree in Mechanical Engineering or closely related engineering and science disciplines",
+      "url": "https://catalog.slu.edu/colleges-schools/science-engineering/aerospace-mechanical/mechanical-engineering-phd/"
+    }
+  },
+  "notes": "Applications go through https://gradapply.slu.edu/apply/, which could not be fetched. The Aerospace Engineering PhD (catalog aerospace-mechanical/aerospace-engineering-phd) has the same admission rules, from the same department.",
+  "name": "Mechanical Engineering PhD (Aerospace Engineering PhD on its own page)"
+}

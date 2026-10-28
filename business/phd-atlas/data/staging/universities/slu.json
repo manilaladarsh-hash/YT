@@ -1,0 +1,53 @@
+{
+  "id": "slu",
+  "institution": "Saint Louis University",
+  "country": "USA",
+  "region": "Missouri",
+  "grad_page": "https://catalog.slu.edu/academic-policies/office-admission/graduate/international-applicants/",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The catalog says an application fee applies 'if applicable' but gives no amount, and the slu.edu graduate FAQ could not be fetched.",
+      "quote": "Application form (with accompanying application fee, if applicable)",
+      "url": "https://catalog.slu.edu/academic-policies/office-admission/graduate/admission-procedures/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No international graduate fee-waiver policy was found on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://catalog.slu.edu/academic-policies/office-admission/graduate/admission-procedures/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE General is set by each department, not for all applicants: Electrical and Computer Engineering says it is not required, Computer Science recommends it, Geoscience says it is optional (see program records).",
+      "quote": "If the GRE score is required, students must have an official score submitted by Educational Testing Service (ETS)",
+      "url": "https://catalog.slu.edu/academic-policies/office-admission/graduate/admission-procedures/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The graduate minimum is TOEFL iBT 80; some graduate programs may require more.",
+      "quote": "TOEFL iBT (Internet-based) 80",
+      "url": "https://catalog.slu.edu/academic-policies/office-admission/graduate/english-language-proficiency/",
+      "also": [
+        {
+          "quote": "Graduate programs may have higher minimums",
+          "url": "https://catalog.slu.edu/academic-policies/office-admission/graduate/english-language-proficiency/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The graduate minimum is an IELTS band of 6.5.",
+      "quote": "International English Language Testing System (IELTS) 6.5",
+      "url": "https://catalog.slu.edu/academic-policies/office-admission/graduate/english-language-proficiency/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the catalog's list of English-speaking countries exempt from proof of English, and a degree from India is not listed as an exemption, so a test is required.",
+      "quote": "International applicants who are citizens of the English-speaking countries listed below are not required to submit proof of English language proficiency",
+      "url": "https://catalog.slu.edu/academic-policies/office-admission/graduate/english-language-proficiency/"
+    }
+  },
+  "notes": "Source: catalog.slu.edu 2026-2027 pages (the only SLU pages that fetched; www.slu.edu returned 502 for every page tried). The catalog's exemption list is for citizens of listed countries; the high-school-in-English exemption covers high school only. Recheck the 2027-2028 catalog when it is published."
+}

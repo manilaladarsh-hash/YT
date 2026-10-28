@@ -1,0 +1,59 @@
+{
+  "id": "loyolachicago",
+  "institution": "Loyola University Chicago",
+  "country": "USA",
+  "region": "Illinois",
+  "grad_page": "https://gpem.luc.edu/portal/admission?tab=international-requirements",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "Loyola charges no application fee for graduate programs, including for international applicants.",
+      "quote": "Loyola does not charge an application fee",
+      "url": "https://gpem.luc.edu/portal/admission?tab=international-requirements"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "There is no application fee, so there is nothing to waive.",
+      "quote": "Loyola does not charge an application fee",
+      "url": "https://gpem.luc.edu/portal/admission?tab=international-requirements"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School sets no GRE rule; each program sets its own test requirements.",
+      "quote": "As program requirements vary, please visit your program's page using the Program Finder for the latest requirements on test scores",
+      "url": "https://gpem.luc.edu/portal/admission?tab=faq"
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "The Graduate School minimum is TOEFL iBT 4 on the new 6-point scale, which is 79 on the old 120-point scale.",
+      "quote": "The Graduate School † 4 (79) 6 53 110",
+      "url": "https://gpem.luc.edu/portal/admission?tab=international-requirements",
+      "also": [
+        {
+          "quote": "The Graduate School language requirements apply to all The Graduate School programs, including master's and doctoral programs administered by The Graduate School",
+          "url": "https://gpem.luc.edu/portal/admission?tab=international-requirements"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6",
+      "value": "The Graduate School minimum is IELTS Academic 6.0 overall.",
+      "quote": "The Graduate School † 4 (79) 6 53 110",
+      "url": "https://gpem.luc.edu/portal/admission?tab=international-requirements"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on Loyola's waiver country list, so Indian applicants need a test score even if their degree was taught in English.",
+      "quote": "Applicants who are currently completing or who have completed a bachelor's degree or master's degree in the U.S. or at a recognized institution in the above countries at which the language of instruction is English",
+      "url": "https://gpem.luc.edu/portal/admission?tab=international-requirements",
+      "also": [
+        {
+          "quote": "This requirement is waived for applicants from the following countries",
+          "url": "https://gpem.luc.edu/portal/admission?tab=international-requirements"
+        }
+      ]
+    }
+  },
+  "notes": "Graduate School rules, which apply to IPBS, Chemistry and Computer Science PhDs. Test scores must go directly from the testing service to gradapp@luc.edu (institution code 1412) and are valid for two years. Transcript evaluation from a NACES member is required for non-US credentials."
+}

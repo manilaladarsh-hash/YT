@@ -1,0 +1,65 @@
+{
+  "id": "loyolachicago--cs",
+  "university": "loyolachicago",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.luc.edu/cs/academics/doctoralphd/",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "The Fall deadline is February 15, 2027, but the department says plain admission has no deadline. F-1 applicants cannot be admitted yet.",
+      "quote": "Application deadline for Fall semester is February 15th",
+      "url": "https://www.luc.edu/cs/academics/doctoralphd/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Loyola University Chicago is currently awaiting approval from the Department of Homeland Security to issue I-20s to international students for this program",
+          "url": "https://www.luc.edu/cs/academics/doctoralphd/"
+        },
+        {
+          "quote": "Until then, we cannot issue Form I-20s specifically for this program",
+          "url": "https://www.luc.edu/cs/academics/doctoralphd/"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "There is no fee to apply to the CS PhD.",
+      "quote": "There is no fee to apply for the PhD in Computer Science",
+      "url": "https://www.luc.edu/cs/academics/doctoralphd/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required for admission.",
+      "quote": "GRE scores are not required for admission",
+      "url": "https://www.luc.edu/cs/resources/graduatehandbook/admissions/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The CS pages do not mention a subject GRE.",
+      "quote": "",
+      "url": "https://www.luc.edu/cs/resources/graduatehandbook/admissions/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided on the applicant's portfolio, not on a named faculty supervisor's agreement.",
+      "quote": "Admission will be based on strength of applicant, evidenced in a portfolio comprising an essay",
+      "url": "https://www.luc.edu/cs/academics/doctoralphd/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted PhD students are funded as teaching or research assistants for the whole program, with a monthly stipend and tuition remission.",
+      "quote": "All CS PhD students are funded either as teaching assistants or research assistants by the department for the duration of their program | Funding includes a monthly stipend and tuition remission",
+      "url": "https://www.luc.edu/cs/academics/doctoralphd/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The CS PhD pages do not say whether a master's is needed or whether a bachelor's alone is enough.",
+      "quote": "",
+      "url": "https://www.luc.edu/cs/academics/doctoralphd/"
+    }
+  },
+  "notes": "Important: Loyola says it is awaiting DHS approval to issue I-20s for this PhD. Until approved, F-1 international applicants cannot be admitted. The International Applicant Requirements page applies to all others."
+}

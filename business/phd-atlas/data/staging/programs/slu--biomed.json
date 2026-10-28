@@ -1,0 +1,56 @@
+{
+  "id": "slu--biomed",
+  "university": "slu",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "School of Medicine, basic biomedical sciences core",
+  "program_page": "https://catalog.slu.edu/colleges-schools/medicine/biomedical-science/doctor-philosophy-biochemistry-molecular-biology/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Apply by Feb. 1 for assistantship consideration; the Pharmacology core also takes applications by Feb. 1 and Anatomy uses March 1.",
+      "quote": "For priority consideration for graduate assistantship, apply by Feb. 1",
+      "url": "https://catalog.slu.edu/colleges-schools/medicine/biomedical-science/doctor-philosophy-biochemistry-molecular-biology/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Students must submit an application to the Core Graduate Program by Feb. 1",
+          "url": "https://catalog.slu.edu/colleges-schools/medicine/biomedical-science/doctor-philosophy-pharmacology-physiological-science/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The core asks for 'sufficient GRE scores' with no set minimum; the Anatomy PhD sets GRE General at the 40th percentile (its own page).",
+      "quote": "Students should possess an above-average GPA, sufficient GRE scores and TOEFL scores (for international students)",
+      "url": "https://catalog.slu.edu/colleges-schools/medicine/biomedical-science/doctor-philosophy-biochemistry-molecular-biology/"
+    },
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The School of Medicine application lists a fee, but no amount appears on the fetched catalog page.",
+      "quote": "Application form and fee",
+      "url": "https://catalog.slu.edu/colleges-schools/medicine/biomedical-science/doctor-philosophy-biochemistry-molecular-biology/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students rotate through labs in the first year and choose a dissertation mentor later, so no supervisor is needed for admission.",
+      "quote": "before selecting a dissertation mentor and specializing within biochemistry and molecular biology",
+      "url": "https://catalog.slu.edu/colleges-schools/medicine/biomedical-science/doctor-philosophy-biochemistry-molecular-biology/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantships are offered on a priority-deadline basis; the page does not promise funding to every admitted student.",
+      "quote": "For priority consideration for graduate assistantship, apply by Feb. 1",
+      "url": "https://catalog.slu.edu/colleges-schools/medicine/biomedical-science/doctor-philosophy-biochemistry-molecular-biology/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Students entering with a bachelor's degree start with a common yearlong core.",
+      "quote": "Students entering with a bachelor’s degree complete a common, yearlong basic biomedical sciences core",
+      "url": "https://catalog.slu.edu/colleges-schools/medicine/biomedical-science/doctor-philosophy-biochemistry-molecular-biology/"
+    }
+  },
+  "notes": "Covers the School of Medicine basic-science core. Its PhDs in Molecular Microbiology and Immunology (catalog page under medicine/biomedical-science), Pharmacology and Physiological Science (same folder) and Anatomy (medicine/anatomy) share the core but have their own pages; Anatomy requires GRE General at the 40th percentile and asks for applications by March 1.",
+  "name": "Biomedical Sciences PhD (School of Medicine core)"
+}

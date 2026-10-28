@@ -1,0 +1,45 @@
+{
+  "id": "slu--earth",
+  "university": "slu",
+  "field": "earth",
+  "also_fields": [
+    "environment"
+  ],
+  "department": "Geoscience",
+  "program_page": "https://catalog.slu.edu/colleges-schools/science-engineering/earth-environmental-geospatial-sciences/geoscience-phd/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-02",
+      "value": "Students wanting an assistantship must apply by Jan. 2; late applications are considered if positions remain. Students usually start in the fall.",
+      "quote": "Students who want to be considered for an assistantship must submit their applications by Jan. 2",
+      "url": "https://catalog.slu.edu/colleges-schools/science-engineering/earth-environmental-geospatial-sciences/geoscience-phd/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The geoscience PhD says GRE scores are optional.",
+      "quote": "GRE scores are optional.",
+      "url": "https://catalog.slu.edu/colleges-schools/science-engineering/earth-environmental-geospatial-sciences/geoscience-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "A faculty committee reviews applicants and recommends; the page does not say whether a supervisor must agree first.",
+      "quote": "Faculty committee members examine qualified applicants’ materials and make recommendations",
+      "url": "https://catalog.slu.edu/colleges-schools/science-engineering/earth-environmental-geospatial-sciences/geoscience-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantships are offered on a priority-deadline basis; the page does not promise funding to every admitted student.",
+      "quote": "For priority consideration for a graduate assistantship, apply by the program admission deadlines listed",
+      "url": "https://catalog.slu.edu/colleges-schools/science-engineering/earth-environmental-geospatial-sciences/geoscience-phd/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Prerequisites centre on an undergraduate STEM degree; the page names no master's requirement.",
+      "quote": "Prerequisites include an undergraduate degree in a STEM discipline",
+      "url": "https://catalog.slu.edu/colleges-schools/science-engineering/earth-environmental-geospatial-sciences/geoscience-phd/"
+    }
+  },
+  "notes": "The Environmental Geosciences concentration is why environment is listed in also_fields. The atmospheric-science outcomes are not separately verified."
+}

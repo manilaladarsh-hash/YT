@@ -1,0 +1,36 @@
+{
+  "id": "slu--civil",
+  "university": "slu",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Civil Engineering",
+  "program_page": "https://catalog.slu.edu/colleges-schools/science-engineering/civil/civil-engineering-phd/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The civil engineering PhD page gives no application deadline.",
+      "quote": "",
+      "url": "https://catalog.slu.edu/colleges-schools/science-engineering/civil/civil-engineering-phd/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants are admitted based on research interests and openings in the research groups, so a faculty match comes before admission.",
+      "quote": "Applicants are admitted based on their research interests and openings in the research groups",
+      "url": "https://catalog.slu.edu/colleges-schools/science-engineering/civil/civil-engineering-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not describe funding for PhD students.",
+      "quote": "",
+      "url": "https://catalog.slu.edu/colleges-schools/science-engineering/civil/civil-engineering-phd/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A four-year B.S. in civil engineering or a closely related field; the page names no master's route.",
+      "quote": "A four-year B.S. degree in Civil Engineering, or closely related engineering and science disciplines",
+      "url": "https://catalog.slu.edu/colleges-schools/science-engineering/civil/civil-engineering-phd/"
+    }
+  },
+  "notes": "Applications go through https://gradapply.slu.edu/apply/, which could not be fetched."
+}
