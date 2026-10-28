@@ -1,0 +1,43 @@
+{
+  "id": "claremontgrad--datasci",
+  "university": "claremontgrad",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "Institute of Mathematical Sciences",
+  "program_page": "https://www.cgu.edu/academics/program/computational-science/",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Priority deadline is February 1, 2027 for Fall 2027 entry.",
+      "quote": "Priority Deadline: February 1, 2027",
+      "url": "https://www.cgu.edu/academics/program/computational-science/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "CGU says most students receive fellowship funding; fellowships are awarded on merit.",
+      "quote": "87% of students receive some form of fellowship funding.",
+      "url": "https://www.cgu.edu/admissions/how-to-apply/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Target applicants hold a bachelor's degree, and up to 24 units of prior master's coursework can transfer.",
+      "quote": "Individuals with a bachelor’s degree in computational science, computer science, applied mathematics, physics, engineering, economics, or a related field.",
+      "url": "https://www.cgu.edu/academics/program/computational-science/",
+      "also": [
+        {
+          "quote": "24 units of research or approved transfer coursework from a previous master’s degree",
+          "url": "https://www.cgu.edu/academics/program/computational-science/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not state whether faculty contact is needed before admission.",
+      "quote": "",
+      "url": "https://www.cgu.edu/academics/program/computational-science/"
+    }
+  },
+  "notes": "Computational science with machine learning and AI content, run by the Institute of Mathematical Sciences. The page gives no GRE rule, so gre_general is not saved.",
+  "name": "PhD in Computational Science"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "ecu",
+  "institution": "East Carolina University",
+  "country": "USA",
+  "region": "North Carolina",
+  "grad_page": "https://gradschool.ecu.edu/international-students/",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The application fee is $75, non-refundable and paid by debit or credit card before submission.",
+      "quote": "You are required to submit a $75 non-refundable application fee electronically",
+      "url": "https://gradschool.ecu.edu/application-process/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The Graduate School gives up to 10 fee waivers to highly competitive international applicants with high financial need.",
+      "quote": "the Graduate School allocates up to 10 application fee waivers for highly competitive international applicants with high financial need",
+      "url": "https://gradschool.ecu.edu/application-process/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each program; most doctoral programs do not require an official test score.",
+      "quote": "Most master and doctoral programs and some certificate programs do not require an official standardized test score",
+      "url": "https://gradschool.ecu.edu/preparing-to-apply/"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT overall 4.5 for scores received from 21 January 2026; the old scale asked for 78.",
+      "quote": "An iBT TOEFL overall score of 4.5 is required",
+      "url": "https://gradschool.ecu.edu/international-students/",
+      "also": [
+        {
+          "quote": "Minimum total score of 4.5 and Minimum score of 4 in each section (new scoring)",
+          "url": "https://gradschool.ecu.edu/preparing-to-apply/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic overall band of 6.5 is the minimum.",
+      "quote": "Minimum overall score of 6.5",
+      "url": "https://gradschool.ecu.edu/preparing-to-apply/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "No country exemption is listed. The test is waived only with 24 undergraduate credit hours at a 3.0 GPA, or 9 graduate credit hours at a 3.0 GPA.",
+      "quote": "Completion of at least 24 credit hours at the undergraduate level with a minimum GPA of 3.0",
+      "url": "https://gradschool.ecu.edu/preparing-to-apply/"
+    }
+  },
+  "notes": "Institution code 5180 for GRE/score reports. The application fee is $75 per program applied to. English exemption rules are the Graduate School's; no India rule is stated."
+}

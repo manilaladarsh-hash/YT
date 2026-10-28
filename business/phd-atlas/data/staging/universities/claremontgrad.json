@@ -1,0 +1,47 @@
+{
+  "id": "claremontgrad",
+  "institution": "Claremont Graduate University",
+  "country": "USA",
+  "region": "California",
+  "grad_page": "https://www.cgu.edu/admissions/international-applicants/",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The application fee varies by program; each program record gives its own fee.",
+      "quote": "The application fee varies by program.",
+      "url": "https://www.cgu.edu/admissions/how-to-apply/applicant-faq/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Application fee waivers are only for applicants with one or more years of full-time service in the U.S. military, AmeriCorps, Peace Corps, City Year or Teach for America, with proof required.",
+      "quote": "Application fee waivers are available for applicants who have participated in one or more years of full-time service in the U.S. Military, AmeriCorps, Peace Corps, City Year, or Teach for America.",
+      "url": "https://www.cgu.edu/admissions/how-to-apply/applicant-faq/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "There is no university-wide GRE rule; each program sets its own (Mathematics optional, IS&T required).",
+      "quote": "",
+      "url": "https://www.cgu.edu/admissions/international-applicants/"
+    },
+    "toefl_min": {
+      "code": "5 (new scale)",
+      "value": "TOEFL iBT minimum for direct entry is 5 on the new scale (95 on the old scale).",
+      "quote": "TOEFL – 5 (New score scale) / 95 (Old score scale)",
+      "url": "https://www.cgu.edu/admissions/international-applicants/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic minimum for direct entry is an overall 7.0, with no sub-score below 6.5.",
+      "quote": "IELTS – 7.0 with no sub-score less than a 6.5",
+      "url": "https://www.cgu.edu/admissions/international-applicants/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "A degree from an institution where English is one of the primary languages of instruction can waive the test, but the applicant must document it; India is not named.",
+      "quote": "CGU allows for an English proficiency waiver if the applicant has received, or will receive prior to enrollment at CGU, an undergraduate or advanced degree from an institution where English is one of the primary languages of instruction for the majority of courses",
+      "url": "https://www.cgu.edu/admissions/international-applicants/"
+    }
+  },
+  "notes": "Built from cgu.edu pages. The archived bulletin doctoral list (bulletin.cgu.edu, catoid=19) was blocked and is not used. Program PhDs found: Mathematics, Computational Science, Information Systems & Technology, Botany; plus a joint PhD in Engineering & Computational Mathematics with CSULB (listed in the math notes)."
+}

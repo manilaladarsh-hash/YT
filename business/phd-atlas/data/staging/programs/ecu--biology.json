@@ -1,0 +1,58 @@
+{
+  "id": "ecu--biology",
+  "university": "ecu",
+  "field": "biology",
+  "also_fields": [
+    "chemistry"
+  ],
+  "department": "Department of Biology (with Chemistry and Brody School of Medicine)",
+  "program_page": "https://chemistry.ecu.edu/interdisciplinary-phd-programs/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "The application deadline for fall entry is April 1, and visiting campus is encouraged.",
+      "quote": "Application deadline (for fall entry): April 1st",
+      "url": "https://chemistry.ecu.edu/interdisciplinary-phd-programs/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The biology admission page says GRE tests are not required for its programs.",
+      "quote": "The GRE tests are not required",
+      "url": "https://biology.ecu.edu/graduate-studies/admission/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The biology admission page says GRE tests are not required for its programs.",
+      "quote": "The GRE tests are not required",
+      "url": "https://biology.ecu.edu/graduate-studies/admission/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages say students select a research advisor but do not state when.",
+      "quote": "",
+      "url": "https://chemistry.ecu.edu/interdisciplinary-phd-programs/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The chemistry page lists a $28,000 base salary, tuition waivers and insurance for IDPBBC students, but does not say all admitted students receive them.",
+      "quote": "",
+      "url": "https://chemistry.ecu.edu/interdisciplinary-phd-programs/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Doctoral applicants need a bachelor's degree in biology or a related field and a 3.0 GPA.",
+      "quote": "Applicants must have a baccalaureate degree in Biology or a related field from an accredited college or university",
+      "url": "https://biology.ecu.edu/graduate-studies/admission/",
+      "also": [
+        {
+          "quote": "GPA of at least 2.75 (on a 4.0 scale) for Master’s Programs, or 3.0 for doctoral programs",
+          "url": "https://biology.ecu.edu/graduate-studies/admission/"
+        }
+      ]
+    }
+  },
+  "notes": "One umbrella PhD with biology, biomedicine and chemistry concentrations. The chemistry page covers the chemistry concentration. Three letters of recommendation are required. The Graduate School's English rules apply.",
+  "name": "Interdisciplinary Doctoral Program in Biology, Biomedicine, and Chemistry"
+}
