@@ -1,0 +1,50 @@
+{
+  "id": "idahostate--biomed",
+  "university": "idahostate",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Department of Biomedical and Pharmaceutical Sciences (BPSCI)",
+  "program_page": "https://www.isu.edu/bms/graduate-program/",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-10",
+      "value": "Fall entry: priority deadline January 10 for department financial support; final deadline April 1.",
+      "quote": "Priority Deadline - January 10 | Final Deadline - April 1",
+      "url": "https://www.isu.edu/bms/graduate-program/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional for applicants starting Fall 2027.",
+      "quote": "Starting Fall 2027 admissions, GRE scores are optional.",
+      "url": "https://www.isu.edu/bms/graduate-program/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The department requires a TOEFL iBT minimum of 80 with at least 20 per section, overriding the Graduate School's 4.5 band rule.",
+      "quote": "a minimum score of 80 on the Test of English as a Foreign Language (TOEFL) Internet-based test (iBT)",
+      "url": "https://www.isu.edu/bms/graduate-program/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A baccalaureate or higher in a related field with at least a 3.0 GPA over the last two years is required.",
+      "quote": "Baccalaureate degree or above in a related field with a GPA of at least 3.0 in the last two years",
+      "url": "https://www.isu.edu/bms/graduate-program/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department page states no supervisor rule.",
+      "quote": "",
+      "url": "https://www.isu.edu/bms/graduate-program/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page mentions department financial support but states no funding rule.",
+      "quote": "",
+      "url": "https://www.isu.edu/bms/graduate-program/"
+    }
+  },
+  "notes": "Replaces the older Pharmaceutical Sciences PhD. Spring entry: priority September 1, final November 1. The catalog page (coursecat.isu.edu/graduate/college-of-pharmacy/bpsci/phd/) returned HTTP 502, so older catalog rules are unverified.",
+  "name": "Ph.D. in Biomedical and Pharmaceutical Sciences"
+}

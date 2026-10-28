@@ -1,0 +1,59 @@
+{
+  "id": "idahostate",
+  "institution": "Idaho State University",
+  "country": "USA",
+  "region": "Idaho",
+  "grad_page": "https://www.isu.edu/graduate/admissions/international-students/",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "65 USD",
+      "value": "The Graduate School's non-refundable processing fee is $65 for master's and doctoral applications.",
+      "quote": "Applicants must include a non-refundable processing fee of $65 for master's and doctoral applications",
+      "url": "https://www.isu.edu/graduate/admissions/international-students/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "The only published reduction is $35 for a second application within one year; other waivers are set by each program.",
+      "quote": "Reduced Fee: If an applicant submits a second application within one year of their first application, the application fee will automatically be reduced to $35.",
+      "url": "https://www.isu.edu/graduate/admissions/international-students/",
+      "also": [
+        {
+          "quote": "Applicants may contact their program directly to inquire about other application fee waiver options",
+          "url": "https://www.isu.edu/graduate/admissions/international-students/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School leaves GRE, GMAT or MAT to each department's discretion; see the program records.",
+      "quote": "GRE/GMAT/MAT may be required for degree-seeking applicants at the department's discretion",
+      "url": "https://www.isu.edu/graduate/admissions/international-students/"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT band score of 4.5 overall, with at least 4.0 in each section.",
+      "quote": "TOEFL iBT (band scale): An overall score of 4.5, with a score of at least 4.0 on each section",
+      "url": "https://www.isu.edu/graduate/admissions/international-students/",
+      "also": [
+        {
+          "quote": "TOEFL (iBT): A total score of 80 with a score of at least 20 on each section",
+          "url": "https://www.isu.edu/graduate/admissions/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic minimum is 6.5 on the total band score.",
+      "quote": "IELTS: A total score of 6.5 or higher on the total band score",
+      "url": "https://www.isu.edu/graduate/admissions/international-students/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "The exemption list names countries such as Australia, Canada and the UK; India is not on it and no medium-of-instruction exemption is stated, so Indian applicants need a test score.",
+      "quote": "Exceptions exist for students from countries where English is the official language",
+      "url": "https://www.isu.edu/graduate/admissions/international-students/"
+    }
+  },
+  "notes": "Two Graduate School pages give different TOEFL rules: the international page uses the 4.5 band scale, while the admissions page also lists the older 80 iBT (20 per section). The exemption list says 'Examples of these countries include', so the India answer rests on India not being listed. Coursecat catalog pages returned HTTP 502 during research."
+}

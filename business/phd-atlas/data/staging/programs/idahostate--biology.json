@@ -1,0 +1,56 @@
+{
+  "id": "idahostate--biology",
+  "university": "idahostate",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://www.isu.edu/biology/degree-programs/graduate-degrees/phd-biology/",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-01",
+      "value": "The Graduate School's international fall deadline is June 1; the Biology page sets no separate program date.",
+      "quote": "Fall Semester: June 1",
+      "url": "https://www.isu.edu/graduate/admissions/international-students/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional supplemental material for the Biology PhD.",
+      "quote": "Optional submission of supplemental documents, such as scholarly works, GRE test scores",
+      "url": "https://www.isu.edu/biology/degree-programs/graduate-degrees/phd-biology/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE subject test is named for Biology.",
+      "quote": "",
+      "url": "https://www.isu.edu/biology/degree-programs/graduate-degrees/phd-biology/"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "Department rule for international applicants: TOEFL above 577 (paper), 233 (computer) or 90 (internet-based).",
+      "quote": "submission of a TOEFL score above 577 (paper-based), 233 (computer-based), or 90 (internet-based)",
+      "url": "https://www.isu.edu/biology/degree-programs/graduate-degrees/phd-biology/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must contact a potential advisor before applying, and faculty must agree to review; a suitable advisor's availability is an admission criterion.",
+      "quote": "Applicants must contact a potential advisor before applying, and the faculty must agree to review",
+      "url": "https://www.isu.edu/biology/degree-programs/graduate-degrees/phd-biology/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page describes a typical course load for assistantship or fellowship students but states no funding rule.",
+      "quote": "",
+      "url": "https://www.isu.edu/biology/degree-programs/graduate-degrees/phd-biology/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need a bachelor's in biological sciences or a related field; current M.S. students may transfer within their first year.",
+      "quote": "Completion of a bachelor’s degree in biological sciences or a related field",
+      "url": "https://www.isu.edu/biology/degree-programs/graduate-degrees/phd-biology/"
+    }
+  },
+  "notes": "The Microbiology Ph.D. page (isu.edu/biology/degree-programs/graduate-degrees/phd-microbiology/) gives the same advisor, TOEFL and GRE-optional rules, so this record covers both. Biology requires a cumulative GPA above 3.0 in the most recent degree. The coursecat catalog was not reachable (HTTP 502).",
+  "name": "Ph.D. in Biology (and Ph.D. in Microbiology)"
+}

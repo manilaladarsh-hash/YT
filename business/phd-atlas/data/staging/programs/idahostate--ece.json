@@ -1,0 +1,59 @@
+{
+  "id": "idahostate--ece",
+  "university": "idahostate",
+  "field": "ece",
+  "also_fields": [
+    "civil",
+    "math",
+    "cs"
+  ],
+  "department": "Engineering and Applied Science PhD (ECE, CEE, Math, CS concentrations)",
+  "program_page": "https://www.isu.edu/math/programs-and-academics/graduate/",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-28",
+      "value": "Fall entry only. The Computer Science concentration needs complete applications by February 28; the Mathematics page gives April 1 for fall.",
+      "quote": "The department’s deadline for receiving your complete application (including reference letters) is February 28",
+      "url": "https://www.isu.edu/cs/academics/graduate-programs/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "For Fall semester admission: April 1st",
+          "url": "https://www.isu.edu/math/programs-and-academics/graduate/"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The Mathematics page sets the older iBT minimum of 80 with 20 per section for this program, overriding the Graduate School's 4.5 band rule.",
+      "quote": "Internet-based test (IBT): a total score of 80 or above with a minimum score of 20 on each section",
+      "url": "https://www.isu.edu/math/programs-and-academics/graduate/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants should hold a master's in engineering, physics, chemistry, geosciences, mathematics or a related field; an exceptional student without one may be admitted with approval.",
+      "quote": "have attained a Master's degree in engineering, physics, chemistry, geosciences, mathematics, or a closely related field",
+      "url": "https://www.isu.edu/math/programs-and-academics/graduate/",
+      "also": [
+        {
+          "quote": "In some special cases, a student with an exceptional undergraduate academic record and aptitude for research, but without an MS degree, may be directly admitted to the PhD program",
+          "url": "https://www.isu.edu/math/programs-and-academics/graduate/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule is given for the umbrella program; see notes for the Computer Science concentration.",
+      "quote": "",
+      "url": "https://www.isu.edu/math/programs-and-academics/graduate/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding rule is given for the umbrella program; see notes for the Computer Science concentration.",
+      "quote": "",
+      "url": "https://www.isu.edu/math/programs-and-academics/graduate/"
+    }
+  },
+  "notes": "One umbrella program. Concentrations: ECE (primary field), CEE (civil), Mathematics (math), MMCE (not mapped to a field here), and Computer Science (cs). Computer Science admits in fall only, funds through limited, competitively allocated assistantships, and encourages applicants to first find a professor who will hire them. The Mathematics page says that to be considered for financial support apply by April 1. The Mathematics page also says the chair must approve admission."
+}

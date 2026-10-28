@@ -1,0 +1,47 @@
+{
+  "id": "denver",
+  "institution": "University of Denver",
+  "country": "USA",
+  "region": "Colorado",
+  "grad_page": "https://www.du.edu/admission-aid/graduate/international/admission-requirements",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The graduate school says the fee varies by program; each program record gives its own fee.",
+      "quote": "The fee varies by program.",
+      "url": "https://www.du.edu/graduate-education/admission/prospective-students/admission-policies-procedures"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Only Fulbright and McNair Scholars get an application fee waiver; academic units may add their own.",
+      "quote": "Application fee waivers are granted to Fulbright Scholars and McNair Scholars.",
+      "url": "https://bulletin.du.edu/graduate/admission-and-enrollment-policies/admission-process-and-standards-for-all-applicants/application-fee/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The university does not require entrance exams overall; each program sets its own rule.",
+      "quote": "While DU overall doesn’t require entrance exams",
+      "url": "https://www.du.edu/graduate-education/admission/prospective-students/admission-policies-procedures"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "TOEFL iBT minimum for tests taken on or after January 21, 2026 (80 before that date).",
+      "quote": "4.0 for exams taken on or after January 21, 2026",
+      "url": "https://www.du.edu/admission-aid/graduate/international/admission-requirements"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS minimum overall score of 6.5.",
+      "quote": "Minimum Score: 6.5",
+      "url": "https://www.du.edu/admission-aid/graduate/international/admission-requirements"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exempt only if the degree came from an institution whose sole language of instruction and examination is English; DU reviews the case and India is not named.",
+      "quote": "Have earned a baccalaureate degree or higher from a formally-recognized/accredited university where the institution's sole language of instruction and examination is English.",
+      "url": "https://www.du.edu/admission-aid/graduate/international/admission-requirements"
+    }
+  },
+  "notes": "India is not named in the English exemption rules; an Indian English-medium degree must be checked case by case."
+}

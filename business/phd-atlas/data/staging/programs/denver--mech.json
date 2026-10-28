@@ -1,0 +1,48 @@
+{
+  "id": "denver--mech",
+  "university": "denver",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Mechanical Engineering",
+  "program_page": "https://www.du.edu/academics/admission-steps/mechanical-engineering-phd-2027-2028",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Priority deadline is February 15, 2027.",
+      "quote": "Priority deadline: February 15, 2027",
+      "url": "https://www.du.edu/academics/admission-steps/mechanical-engineering-phd-2027-2028"
+    },
+    "app_fee": {
+      "code": "65 USD",
+      "value": "The application fee is $65.",
+      "quote": "Application Fee: $65.00",
+      "url": "https://www.du.edu/academics/admission-steps/mechanical-engineering-phd-2027-2028"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The official pages do not mention the subject GRE test.",
+      "quote": "",
+      "url": "https://www.du.edu/academics/admission-steps/mechanical-engineering-phd-2027-2028"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants without a research advisor commitment are considered for the master's program only.",
+      "quote": "If we receive an application and there is no research advisor commitment, we will consider the applicant for the master’s program only.",
+      "url": "https://www.du.edu/academics/admission-steps/mechanical-engineering-phd-2027-2028"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The fetched official pages do not describe PhD funding.",
+      "quote": "",
+      "url": "https://www.du.edu/academics/admission-steps/mechanical-engineering-phd-2027-2028"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's in this field can apply but is encouraged to do the MS first.",
+      "quote": "Admission with only a Bachelor of Science degree in this field is also possible, but such students are encouraged to enroll first in the MS ENME program.",
+      "url": "https://bulletin.du.edu/graduate/schoolscollegesanddivisions/danielfelixritchieschoolofengineeringandcomputerscience/mechanicalmaterialsengineering/"
+    }
+  },
+  "notes": "The Ritchie School program page returned 403. The Materials Science PhD is listed in this department's bulletin but has no admission page, so it is not recorded."
+}
