@@ -1,0 +1,75 @@
+{
+  "id": "marquette--bme",
+  "university": "marquette",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Biomedical Engineering (with the Medical College of Wisconsin)",
+  "program_page": "https://www.marquette.edu/grad/programs-biomedical-engineering.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "PhD applicants apply through the Medical College of Wisconsin. Its priority deadline is December 15, 2026; applications are reviewed on a rolling basis.",
+      "quote": "applications accepted by the priority application deadline of December 15 will receive first priority for admission the following Fall",
+      "url": "https://www.mcw.edu/education/graduate-school/graduate-school-programs/neuroscience-phd",
+      "inferred": "year",
+      "time_sensitive": "2026-12-15"
+    },
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The MCW application fee is $50.",
+      "quote": "A $50 application fee is required.",
+      "url": "https://www.mcw.edu/education/graduate-school/prospective-students/admissions/requirements"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "MCW waivers are limited to people with MCW or undergraduate research experience, a GRE fee certificate, or conference attendance.",
+      "quote": "Application fee waivers are available to those who within the last three (3) years have:",
+      "url": "https://www.mcw.edu/education/graduate-school/prospective-students/admissions/requirements"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "MCW no longer requires a test score, GRE or otherwise, for admission; scores are welcome if sent voluntarily.",
+      "quote": "An official test score, GRE or otherwise, is no longer required for admission consideration.",
+      "url": "https://www.mcw.edu/education/graduate-school/graduate-school-programs/neuroscience-phd"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "MCW recommends a TOEFL score of 100 or higher; it is recommended rather than a hard minimum.",
+      "quote": "TOEFL (recommended score of 100 or higher)",
+      "url": "https://www.mcw.edu/education/graduate-school/prospective-students/admissions/requirements"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "MCW recommends an IELTS score of 6.0 or higher; it is recommended rather than a hard minimum.",
+      "quote": "IELTS (recommended score of 6.0 or higher)",
+      "url": "https://www.mcw.edu/education/graduate-school/prospective-students/admissions/requirements"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "The English test can be waived for applicants from institutions where English is the primary language of instruction, but only after a written exemption request.",
+      "quote": "Exemptions may be granted for applicants from institutions where English is the primary language of instruction. | Submit written exemption requests to gradadmissions@mcw.edu after applying.",
+      "url": "https://www.mcw.edu/education/graduate-school/prospective-students/admissions/requirements"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applications are reviewed by a faculty committee, so admission does not depend on a supervisor agreeing first.",
+      "quote": "Review of completed applications from degree seeking candidates is conducted by a faculty committee within the academic program.",
+      "url": "https://www.mcw.edu/education/graduate-school/graduate-school-programs/neuroscience-phd"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Full-time PhD students at MCW receive full tuition and a stipend, guaranteed from enrollment through completion.",
+      "quote": "All full-time PhD degree-seeking students in good academic and professional standing receive the following financial support package: | this package is guaranteed from the time of enrollment through completion of degree requirements",
+      "url": "https://www.mcw.edu/education/graduate-school/graduate-school-programs/neuroscience-phd"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The page requires a bachelor's degree in engineering, physical science or life science and does not list a master's requirement.",
+      "quote": "Applicants to the biomedical engineering graduate programs must have completed a bachelor's degree in engineering, physical science or life science disciplines",
+      "url": "https://www.marquette.edu/grad/programs-biomedical-engineering.php"
+    }
+  },
+  "notes": "The MS is applied for through Marquette's Graduate School. The PhD is applied for through the MCW online application, so the MCW rules above override the Marquette graduate school rules. The Marquette page says the GRE is optional for 2026-2027 MS applicants.",
+  "name": "Ph.D. in Biomedical Engineering"
+}

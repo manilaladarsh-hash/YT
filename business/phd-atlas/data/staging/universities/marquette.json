@@ -1,0 +1,59 @@
+{
+  "id": "marquette",
+  "institution": "Marquette University",
+  "country": "USA",
+  "region": "Wisconsin",
+  "grad_page": "https://www.marquette.edu/grad/faqs.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The Graduate School application fee is $50, and a separate fee is due for each program applied to.",
+      "quote": "the application fee is $50",
+      "url": "https://www.marquette.edu/grad/faqs.php"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Waivers are limited to former Marquette graduate students and people who attended a Marquette campus visit event.",
+      "quote": "Applicants who have previously attended Marquette University as a graduate student",
+      "url": "https://www.marquette.edu/grad/faqs.php",
+      "also": [
+        {
+          "quote": "There are only a few circumstances in which the application fee may be waived",
+          "url": "https://www.marquette.edu/grad/faqs.php"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school sets no GRE rule; each program says whether the GRE is required.",
+      "quote": "Consult the application requirements for your program of interest to verify if the GRE is required.",
+      "url": "https://www.marquette.edu/grad/faqs.php"
+    },
+    "toefl_min": {
+      "code": "Sections",
+      "value": "For tests taken on or after January 21, 2026, the minimum is a section score: 4 in reading, writing and speaking and 4.5 in listening. Older tests needed a total of 80 with at least 20 per section.",
+      "quote": "Tests Completed On or After January 21, 2026 | Applicants must achieve at least minimum section scores of: | Listening: 4.5",
+      "url": "https://www.marquette.edu/grad/english-proficiency.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The IELTS Academic minimum is an overall 6.5.",
+      "quote": "A total score of at least 6.5 is required on the IELTS exam.",
+      "url": "https://www.marquette.edu/grad/faqs.php"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "Applicants whose bachelor's was taught in English do not need to submit a test, so an English-medium Indian degree should qualify. The country waiver list does not include India, so confirm the medium of instruction.",
+      "quote": "International students whose official language of instruction for their bachelor's degree (or master's, if applicable) was not English must submit proof of English proficiency.",
+      "url": "https://www.marquette.edu/grad/english-proficiency.php",
+      "also": [
+        {
+          "quote": "Countries with English as the official language of instruction:",
+          "url": "https://www.marquette.edu/grad/english-proficiency.php"
+        }
+      ]
+    }
+  },
+  "notes": "Program-level GRE rules are on each program record. The Duolingo English Test is accepted only for Computer and Information Science, Data Science and the MBA, so it does not apply to the CS PhD. The bulletin admission page (bulletin.marquette.edu) returned 502 and could not be read."
+}

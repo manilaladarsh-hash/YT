@@ -1,0 +1,51 @@
+{
+  "id": "marquette--chemistry",
+  "university": "marquette",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.marquette.edu/grad/programs-chemistry.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The priority deadline for admission and funding is December 15, 2026; later applications are reviewed on a rolling basis.",
+      "quote": "December 15: Priority application deadline for admission and funding opportunities.",
+      "url": "https://www.marquette.edu/grad/programs-chemistry.php",
+      "inferred": "year",
+      "time_sensitive": "2026-12-15"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The page marks the GRE optional for the 2024-2025 academic year; the rule for 2027 entry is not stated.",
+      "quote": "GRE scores - optional for the 2024-2025 academic year",
+      "url": "https://www.marquette.edu/grad/programs-chemistry.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.marquette.edu/grad/programs-chemistry.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Applicants are asked to name faculty whose research interests them, but the page does not require an agreement before admission.",
+      "quote": "It would be helpful to mention 2-3 faculty members whose research appeals to you",
+      "url": "https://www.marquette.edu/chemistry/grad.php"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Tuition is fully covered and students receive a competitive stipend, through assistantships.",
+      "quote": "Tuition is fully covered, and students receive a competitive stipend for living expenses.",
+      "url": "https://www.marquette.edu/chemistry/grad.php"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "An MS is not required before the PhD, and applicants can apply directly to the PhD program.",
+      "quote": "an MS is not required for pursuing a PhD",
+      "url": "https://www.marquette.edu/chemistry/grad.php"
+    }
+  },
+  "notes": "",
+  "name": "Ph.D. in Chemistry"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "marquette--cs",
+  "university": "marquette",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science",
+  "program_page": "https://www.marquette.edu/grad/programs-computer-science-phd.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The priority deadline for admission and merit-based aid is January 15, 2027; the page says funding is typically not available after it.",
+      "quote": "January 15: Priority deadline for admission and merit-based aid consideration for the fall term.",
+      "url": "https://www.marquette.edu/grad/programs-computer-science-phd.php",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional for this PhD.",
+      "quote": "GRE optional",
+      "url": "https://www.marquette.edu/grad/programs-computer-science-phd.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.marquette.edu/grad/programs-computer-science-phd.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a faculty agreement is needed before admission.",
+      "quote": "",
+      "url": "https://www.marquette.edu/grad/programs-computer-science-phd.php"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Students are generally fully funded through research and teaching assistantships while in good standing.",
+      "quote": "Students are generally fully funded through research assistantships and teaching assistantships",
+      "url": "https://www.marquette.edu/grad/programs-computer-science-phd.php"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The page requires a bachelor's degree in computer science or a related discipline and does not list a master's requirement.",
+      "quote": "A bachelor's degree from a regionally accredited institution or international equivalent must be completed prior to starting graduate school.",
+      "url": "https://www.marquette.edu/grad/programs-computer-science-phd.php"
+    }
+  },
+  "notes": "",
+  "name": "Ph.D. in Computer Science"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "marquette--mech",
+  "university": "marquette",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Mechanical Engineering",
+  "program_page": "https://www.marquette.edu/grad/programs-mechanical-engineering.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Rolling admission; applicants who want merit-based aid should have materials in by February 15, 2027. International fall applications are due June 1.",
+      "quote": "Fall term: February 15",
+      "url": "https://www.marquette.edu/grad/programs-mechanical-engineering.php",
+      "inferred": "year",
+      "time_sensitive": "2027-02-15"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE general test is a requirement of admission for all doctoral students.",
+      "quote": "Scores from the GRE exam are a requirement of admission for all students in the master's, doctoral and accelerated degree programs.",
+      "url": "https://www.marquette.edu/grad/programs-mechanical-engineering.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.marquette.edu/grad/programs-mechanical-engineering.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a faculty agreement is needed before admission.",
+      "quote": "",
+      "url": "https://www.marquette.edu/grad/programs-mechanical-engineering.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding is through merit-based assistantships and fellowships.",
+      "quote": "Applicants who wish to be considered for merit-based financial aid (graduate assistantships/fellowships)",
+      "url": "https://www.marquette.edu/grad/programs-mechanical-engineering.php"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's degree is not required to apply to the doctoral program.",
+      "quote": "A master's degree is not required to apply to the doctoral program.",
+      "url": "https://www.marquette.edu/grad/programs-mechanical-engineering.php"
+    }
+  },
+  "notes": "",
+  "name": "Ph.D. in Mechanical Engineering"
+}

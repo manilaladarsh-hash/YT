@@ -1,0 +1,53 @@
+{
+  "id": "marquette--math",
+  "university": "marquette",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Computational Mathematical and Statistical Sciences program",
+  "program_page": "https://www.marquette.edu/grad/programs-computational-mathematical-statistical-sciences.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The priority deadline for admission and merit-based aid is January 15, 2027; later applications are reviewed on a rolling basis.",
+      "quote": "January 15: Priority deadline for MS and PhD admission and merit-based aid consideration for the fall term.",
+      "url": "https://www.marquette.edu/grad/programs-computational-mathematical-statistical-sciences.php",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional for this program.",
+      "quote": "GRE scores (optional).",
+      "url": "https://www.marquette.edu/grad/programs-computational-mathematical-statistical-sciences.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.marquette.edu/grad/programs-computational-mathematical-statistical-sciences.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Doctoral admission depends on demonstrated promise for research, and the page does not mention a faculty agreement.",
+      "quote": "Admission to the doctoral program: Requires (in addition to the prerequisites for master's admission) demonstrated promise for original research.",
+      "url": "https://www.marquette.edu/grad/programs-computational-mathematical-statistical-sciences.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding is through merit-based assistantships and fellowships, so it is not guaranteed.",
+      "quote": "For a comprehensive listing of merit-based aid (graduate assistantships/fellowships)",
+      "url": "https://www.marquette.edu/grad/programs-computational-mathematical-statistical-sciences.php"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's degree is not required to apply to the doctoral program.",
+      "quote": "A master's degree is not required to apply to the doctoral program.",
+      "url": "https://www.marquette.edu/grad/programs-computational-mathematical-statistical-sciences.php"
+    }
+  },
+  "notes": "Covers both math and statistics. The page describes it as preparation for data science research, but no separate data science PhD is listed, so no datasci record is saved.",
+  "name": "Ph.D. in Computational Mathematical and Statistical Sciences"
+}
