@@ -1,0 +1,58 @@
+{
+  "id": "louisianatech--cs",
+  "university": "louisianatech",
+  "field": "cs",
+  "also_fields": [
+    "math"
+  ],
+  "department": "College of Engineering and Science",
+  "program_page": "https://catalog.latech.edu/preview_program.php?catoid=8&poid=2883",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-07-01",
+      "value": "The Graduate School's preferred date for international Fall applicants is July 1. The page says some programs have earlier deadlines, and none was found for this program.",
+      "quote": "Fall August 1 July 1",
+      "url": "https://www.latech.edu/admissions/graduate/apply/index.php",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE applies to this program.",
+      "quote": "",
+      "url": "https://catalog.latech.edu/preview_program.php?catoid=8&poid=2883"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "An official GRE score is required, but the requirement may be waived for exceptional students.",
+      "quote": "An official Graduate Record Examination (GRE) score is required. This requirement may be waived in the case of exceptional students",
+      "url": "https://catalog.latech.edu/preview_program.php?catoid=8&poid=2883"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages checked do not say whether an advisor's agreement is needed.",
+      "quote": "",
+      "url": "https://catalog.latech.edu/preview_program.php?catoid=8&poid=2883"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding comes from a limited number of graduate assistantships, so it is not guaranteed.",
+      "quote": "Financial assistance is available to qualified graduate students in the form of a limited number of graduate assistantships",
+      "url": "https://catalog.latech.edu/preview_entity.php?catoid=3&ent_oid=177&returnto=118"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A master's in a physical or biological science, engineering, computer science or mathematics is recommended but not required. Exceptional bachelor's holders are considered.",
+      "quote": "A master’s degree in one of the physical or biological sciences, engineering, computer science, or mathematics is recommended but not required",
+      "url": "https://catalog.latech.edu/preview_program.php?catoid=8&poid=2883",
+      "also": [
+        {
+          "quote": "Exceptional students with a bachelor’s degree in an appropriate area will be considered",
+          "url": "https://catalog.latech.edu/preview_program.php?catoid=8&poid=2883"
+        }
+      ]
+    }
+  },
+  "notes": "The program page is from an archived catalog (2024-25 per search), so its admission text may be out of date. The current college entry lists the PhD. Data mining and applied statistics concentrations appear only in older archived catalogs, so no datasci record was made.",
+  "name": "PhD in Computational Analysis and Modeling"
+}

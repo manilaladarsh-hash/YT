@@ -1,0 +1,59 @@
+{
+  "id": "louisianatech--chemistry",
+  "university": "louisianatech",
+  "field": "chemistry",
+  "also_fields": [
+    "biology",
+    "materials"
+  ],
+  "department": "College of Engineering and Science with College of Applied and Natural Sciences",
+  "program_page": "https://catalog.latech.edu/preview_program.php?catoid=3&poid=1045",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-07-01",
+      "value": "The Graduate School's preferred date for international Fall applicants is July 1. The page says some programs have earlier deadlines, and none was found for this program.",
+      "quote": "Fall August 1 July 1",
+      "url": "https://www.latech.edu/admissions/graduate/apply/index.php",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The program page names no subject GRE.",
+      "quote": "",
+      "url": "https://catalog.latech.edu/preview_program.php?catoid=3&poid=1045"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE is required, and about 304 total with at least 146 verbal is expected. The PhD Steering Committee may waive it for exceptional students.",
+      "quote": "Official GRE scores are required. It is expected that most applicants will have a minimum total score of 304 in the Verbal and Quantitative Reasoning sections with a minimum of 146 in the Verbal Reasoning section",
+      "url": "https://catalog.latech.edu/preview_program.php?catoid=3&poid=1045"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You pick a faculty advisor during your first quarter after admission, so an advisor's agreement is not part of admission.",
+      "quote": "During your first quarter of enrollment, you will identify a faculty advisor",
+      "url": "https://ans.latech.edu/documents/2022/02/msnt-phd-handbook.pdf/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate assistantships are limited, so not every applicant who asks will get one.",
+      "quote": "There are a limited number of graduate assistantships, therefore not all students who apply will be granted an assistantship",
+      "url": "https://ans.latech.edu/documents/2022/02/msnt-phd-handbook.pdf/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students with only a bachelor's degree can be admitted directly if they show outstanding achievement, but a master's is the expected qualification.",
+      "quote": "Students with Bachelor’s degrees may be admitted directly to the PhD program on the basis of outstanding academic achievements",
+      "url": "https://catalog.latech.edu/preview_program.php?catoid=3&poid=1045",
+      "also": [
+        {
+          "quote": "A Master’s degree in biological sciences, biomedical engineering, chemical engineering, chemistry, electrical engineering, physics, or a closely related area is the expected qualification.",
+          "url": "https://catalog.latech.edu/preview_program.php?catoid=3&poid=1045"
+        }
+      ]
+    }
+  },
+  "notes": "Joint program of the College of Applied and Natural Sciences and the College of Engineering and Science. GRE and admission from the 2026-27 catalog. Funding and advisor rules are from the MSNT PhD handbook, dated Winter 2022. The ANS page confirms the PhD.",
+  "name": "PhD in Molecular Science and Nanotechnology"
+}

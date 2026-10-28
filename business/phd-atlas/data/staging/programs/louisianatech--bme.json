@@ -1,0 +1,50 @@
+{
+  "id": "louisianatech--bme",
+  "university": "louisianatech",
+  "field": "bme",
+  "also_fields": [],
+  "department": "College of Engineering and Science",
+  "program_page": "https://catalog.latech.edu/preview_entity.php?catoid=3&ent_oid=177&returnto=118",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-07-01",
+      "value": "The Graduate School's preferred date for international Fall applicants is July 1. The page says some programs have earlier deadlines, and none was found for this program.",
+      "quote": "Fall August 1 July 1",
+      "url": "https://www.latech.edu/admissions/graduate/apply/index.php",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE applies to biomedical engineering.",
+      "quote": "",
+      "url": "https://catalog.latech.edu/preview_entity.php?catoid=3&ent_oid=177&returnto=118"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "A GRE score is required by the College of Engineering and Science, but the requirement may be waived for exceptionally qualified students.",
+      "quote": "An official Graduate Record Examination (GRE) score is required for admission, but this requirement may be waived for exceptionally qualified students",
+      "url": "https://catalog.latech.edu/preview_entity.php?catoid=3&ent_oid=177&returnto=118"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages checked do not say whether an advisor's agreement is needed.",
+      "quote": "",
+      "url": "https://catalog.latech.edu/preview_entity.php?catoid=3&ent_oid=177&returnto=118"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding comes from a limited number of graduate assistantships, so it is not guaranteed.",
+      "quote": "Financial assistance is available to qualified graduate students in the form of a limited number of graduate assistantships",
+      "url": "https://catalog.latech.edu/preview_entity.php?catoid=3&ent_oid=177&returnto=118"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages checked do not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://catalog.latech.edu/preview_entity.php?catoid=3&ent_oid=177&returnto=118"
+    }
+  },
+  "notes": "Only the college's current catalog entry lists this PhD. The program's own catalog page is an older archived page with no admission text, so its GRE and funding values come from the college rules.",
+  "name": "PhD in Biomedical Engineering"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "louisianatech",
+  "institution": "Louisiana Tech University",
+  "country": "USA",
+  "region": "Louisiana",
+  "grad_page": "https://www.latech.edu/admissions/graduate/apply/requirements.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "40 USD",
+      "value": "The application fee is $40 for every graduate applicant, US or international.",
+      "quote": "Each graduate application (US or international) will be assessed a fee of $40",
+      "url": "https://www.latech.edu/administration/finance/comptroller/tuition-fees.php"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application fee waiver for international applicants was found. The waivers named on the tuition page are for out-of-state tuition.",
+      "quote": "Out-of-state students may qualify for the Bulldog Out-of-State Fee Waiver, Graduate Assistantship Out-of-State Fee Waiver",
+      "url": "https://www.latech.edu/administration/finance/comptroller/tuition-fees.php"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School tells applicants to check GRE rules with each program's coordinator.",
+      "quote": "Please check on GRE requirements with the coordinator of the specific graduate program(s)",
+      "url": "https://www.latech.edu/admissions/graduate/apply/requirements.php"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "TOEFL iBT minimum of 80 for graduate admission (paper-based 550).",
+      "quote": "TOEFL with a minimum score of 550 (paper-based), 80 (iBT, iBT Home Edition, or iBT Paper Edition)",
+      "url": "https://www.latech.edu/admissions/graduate/apply/requirements.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS minimum of 6.5 overall, over four modules.",
+      "quote": "IELTS with a minimum score of 6.5 (over 4 modules)",
+      "url": "https://www.latech.edu/admissions/graduate/apply/requirements.php"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the university's list of countries exempt from English proof, so Indian applicants need a test score.",
+      "quote": "Louisiana Tech University classifies the following overseas countries as majority native English speaking for admission purposes and do not require proof of English Proficiency",
+      "url": "https://www.latech.edu/admissions/graduate/apply/requirements.php"
+    }
+  },
+  "notes": "Graduate School rules from the requirements, tuition and graduate apply pages. Other accepted English tests: Duolingo 105, PTE 58, or completion of ELS Level 112. Tests must be no more than two years old. Fall international preferred deadline is July 1 (the page shows no year). Program-level GRE and funding rules come from the College of Engineering and Science catalog entry."
+}

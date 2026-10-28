@@ -1,0 +1,53 @@
+{
+  "id": "louisianatech--materials",
+  "university": "louisianatech",
+  "field": "materials",
+  "also_fields": [
+    "physics",
+    "civil"
+  ],
+  "department": "College of Engineering and Science",
+  "program_page": "https://catalog.latech.edu/preview_program.php?catoid=16&poid=5417",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-07-01",
+      "value": "The Graduate School's preferred date for international Fall applicants is July 1. The page says some programs have earlier deadlines, and none was found for this program.",
+      "quote": "Fall August 1 July 1",
+      "url": "https://www.latech.edu/admissions/graduate/apply/index.php",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE applies to engineering.",
+      "quote": "",
+      "url": "https://catalog.latech.edu/preview_program.php?catoid=16&poid=5417"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "A GRE score is required by the College of Engineering and Science, but the requirement may be waived for exceptionally qualified students.",
+      "quote": "An official Graduate Record Examination (GRE) score is required for admission, but this requirement may be waived for exceptionally qualified students",
+      "url": "https://catalog.latech.edu/preview_entity.php?catoid=3&ent_oid=177&returnto=118"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students select a research advisor during their first term, so an advisor's agreement is not a condition of admission.",
+      "quote": "During the first term, students are required to select (by mutal consent) a research advisor (Major Advisor)",
+      "url": "https://catalog.latech.edu/preview_program.php?catoid=16&poid=5417"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding comes from a limited number of graduate assistantships, so it is not guaranteed.",
+      "quote": "Financial assistance is available to qualified graduate students in the form of a limited number of graduate assistantships",
+      "url": "https://catalog.latech.edu/preview_entity.php?catoid=3&ent_oid=177&returnto=118"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page sets 66 hours beyond the bachelor's degree but does not say whether a master's is needed.",
+      "quote": "Students in this program are expected to complete 66 graduate hours (including dissertation) beyond the baccalaureate degree",
+      "url": "https://catalog.latech.edu/preview_program.php?catoid=16&poid=5417"
+    }
+  },
+  "notes": "One PhD in Engineering with five concentrations: Cyberspace, Engineering Education, Engineering Physics, Materials and Infrastructure Systems, Micro and Nanoscale Systems. Primary field is materials; physics and civil come from the Engineering Physics and Infrastructure concentrations. The catalog entry does not name each engineering discipline. The COES page mentions a Chemical Engineering PhD student, but no chemical engineering PhD is listed.",
+  "name": "PhD in Engineering"
+}
