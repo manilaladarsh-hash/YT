@@ -1,0 +1,50 @@
+{
+  "id": "bgsu--datasci",
+  "university": "bgsu",
+  "field": "datasci",
+  "also_fields": [
+    "cs"
+  ],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.bgsu.edu/academics/graduate/data-science-phd.html",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The deadlines table and program page give no Data Science PhD deadline.",
+      "quote": "",
+      "url": "https://www.bgsu.edu/academics/graduate/data-science-phd.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The program pages say nothing about the GRE.",
+      "quote": "",
+      "url": "https://www.bgsu.edu/academics/graduate/data-science-phd.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies to data science.",
+      "quote": "",
+      "url": "https://www.bgsu.edu/academics/graduate/data-science-phd.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The fetched pages state no supervisor-agreement rule for admission.",
+      "quote": "",
+      "url": "https://www.bgsu.edu/academics/graduate/data-science-phd.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate assistantships for the data science doctorate, with scholarships and stipend, are awarded on a competitive basis.",
+      "quote": "are granted on a competitive basis",
+      "url": "https://www.bgsu.edu/academics/graduate/data-science-phd.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants ideally hold a master's, but those without enough background may be admitted and asked to complete the M.S. first.",
+      "quote": "Doctoral candidates ideally have a master’s degree in mathematics, statistics, computer science, data science or a closely related field",
+      "url": "https://www.bgsu.edu/academics/graduate/data-science-phd.html"
+    }
+  },
+  "notes": "Deadlines table has no Data Science PhD row. The program is part of the Department of Computer Science, so cs is listed as also_fields."
+}

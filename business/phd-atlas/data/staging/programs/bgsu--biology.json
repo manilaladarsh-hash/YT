@@ -1,0 +1,43 @@
+{
+  "id": "bgsu--biology",
+  "university": "bgsu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://www.bgsu.edu/academics/graduate/biological-sciences-doctoral.html",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Apply by February 1, 2027 for full funding consideration; the Fall application deadline is May 15, 2027.",
+      "quote": "Biological Sciences - PhD (Main) (Fall Admission Only) ... Fall Feb 1 (for full consideration)",
+      "url": "https://www.bgsu.edu/admissions/graduate/graduate-application-instructions/gradadmissionsdeadlines.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The biology department's pages do not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.bgsu.edu/academics/graduate/biological-sciences-doctoral.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The program page describes working with an advising faculty member after admission, but states no admission rule.",
+      "quote": "Working In close cooperation with an advising faculty member, you will define the theme of your studies",
+      "url": "https://www.bgsu.edu/academics/graduate/biological-sciences-doctoral.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching assistantships and other awards are made on a competitive basis.",
+      "quote": "All awards are made on a competitive basis.",
+      "url": "https://www.bgsu.edu/arts-and-sciences/biological-sciences/graduate-programs/funding.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admission is possible from a bachelor's degree or a master's degree.",
+      "quote": "90 semester hours beyond the bachelor's degree",
+      "url": "https://www.bgsu.edu/academics/graduate/biological-sciences-doctoral.html"
+    }
+  },
+  "notes": "Biology page lists research areas; no program-specific funding figures were on the fetched pages."
+}
