@@ -1,0 +1,65 @@
+{
+  "id": "floridatech--cs",
+  "university": "floridatech",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science",
+  "program_page": "https://www.fit.edu/programs/computer-science-phd/",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Doctoral admission is rolling; the page's fixed dates cover other programs.",
+      "quote": "In most graduate programs, Florida Tech admits on a rolling basis.",
+      "url": "https://www.fit.edu/admission/applying/graduate/",
+      "time_sensitive": "2027-07-01",
+      "also": [
+        {
+          "quote": "Applications received after the I-20 deadline may not be considered for that entry term.",
+          "url": "https://www.fit.edu/admission/applying/graduate/"
+        },
+        {
+          "quote": "July 1st of enrollment year",
+          "url": "https://www.fit.edu/admission/applying/graduate/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is stated for this program.",
+      "quote": "",
+      "url": "https://www.fit.edu/programs/computer-science-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The program page does not state a supervisor-first rule.",
+      "quote": "",
+      "url": "https://www.fit.edu/programs/computer-science-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantships are offered on a competitive basis.",
+      "quote": "Academic units at Florida Tech may offer graduate student assistantships to full-time, degree-seeking graduate students on a competitive basis.",
+      "url": "https://www.fit.edu/programs/computer-science-phd/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Strong candidates without a master's degree may apply directly to the Ph.D.",
+      "quote": "Strong candidates without a master's degree may apply directly to the Ph.D. program.",
+      "url": "https://cs.fit.edu/Admissions/faqGrad.php"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The Computer Science department requires the GRE General test for all graduate applicants (older FAQ).",
+      "quote": "All graduate applicants are required to submit scores from the GRE General Test.",
+      "url": "https://cs.fit.edu/Admissions/faqGrad.php"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The Computer Science FAQ lists 79 for the internet-based TOEFL (older scale); the university page now asks 4.0 on the new scale.",
+      "quote": "79 for internet-based TOEFL (iBT)",
+      "url": "https://cs.fit.edu/Admissions/faqGrad.php"
+    }
+  },
+  "notes": "Department FAQ is undated and older than the university's 2026 TOEFL change; confirm with the department."
+}

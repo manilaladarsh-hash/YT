@@ -1,0 +1,53 @@
+{
+  "id": "floridatech",
+  "institution": "Florida Institute of Technology",
+  "country": "USA",
+  "region": "Florida",
+  "grad_page": "https://www.fit.edu/admission/applying/graduate/",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "80 USD",
+      "value": "The doctoral application fee is $80.",
+      "quote": "A nonrefundable application fee of $60 (Master's), $80 (Doctoral), or $20 (Graduate Certificate Program) must accompany your application.",
+      "url": "https://www.fit.edu/admission/applying/graduate/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The only fee waiver is for Florida Tech alumni returning for a graduate program, not for international applicants generally.",
+      "quote": "The application fee will be waived for Florida Tech alumni who wish to return to their alma mater for a graduate program.",
+      "url": "https://www.fit.edu/policies/graduate-policies-and-supporting-information/graduate-admission-/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school sets no single GRE rule; each program's table entry decides.",
+      "quote": "",
+      "url": "https://www.fit.edu/admission/applying/graduate/"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "The university minimum is TOEFL iBT 4.0 on the new scale for tests taken on or after 1 January 2026.",
+      "quote": "Test-takers on or after January 1, 2026, must earn a minimum score of 4.0",
+      "url": "https://www.fit.edu/admission/applying/international/demonstrating-english-proficiency/",
+      "also": [
+        {
+          "quote": "with a minimum score of 80 for test-takers prior to January 1, 2026",
+          "url": "https://www.fit.edu/admission/applying/international/demonstrating-english-proficiency/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The university minimum is an IELTS Academic overall band of 6.5.",
+      "quote": "an IELTS with an earned score of at least 6.5",
+      "url": "https://www.fit.edu/admission/applying/international/demonstrating-english-proficiency/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "India is not on the university's list of English-medium countries; an Indian English-medium degree counts only if the Office of Admission deems English the primary language of instruction.",
+      "quote": "where English is the primary language of instruction as deemed at the discretion of the Office of Admission",
+      "url": "https://www.fit.edu/admission/applying/international/demonstrating-english-proficiency/"
+    }
+  },
+  "notes": "Entry test rules are from the English proficiency page. The graduate table lists GRE per program. Program pages carry no admissions facts beyond the shared funding sentence. Fall 2027 I-20 deadline is July 1, 2027. Chemistry, Ph.D. is listed among programs that start only in Fall."
+}
