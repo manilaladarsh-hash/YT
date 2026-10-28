@@ -1,0 +1,49 @@
+{
+  "id": "niu--biology",
+  "university": "niu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://www.niu.edu/clas/biology/academics/graduate-studies/index.shtml",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "The deadline for fall admission is January 1; applications after it are reviewed only if space and funding remain.",
+      "quote": "The deadline for fall admission is January 1",
+      "url": "https://www.niu.edu/clas/biology/academics/graduate-studies/index.shtml",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The department page does not mention the GRE.",
+      "quote": "",
+      "url": "https://www.niu.edu/clas/biology/academics/graduate-studies/index.shtml"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Biology has no GRE Subject test and the page does not mention one.",
+      "quote": "",
+      "url": "https://www.niu.edu/clas/biology/academics/graduate-studies/index.shtml"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly encouraged to connect with potential faculty advisors before applying.",
+      "quote": "Applicants are strongly encouraged to connect with potential faculty advisors before applying",
+      "url": "https://www.niu.edu/clas/biology/academics/graduate-studies/index.shtml"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department page does not describe PhD funding.",
+      "quote": "",
+      "url": "https://www.niu.edu/clas/biology/academics/graduate-studies/index.shtml"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The department page does not state which degrees PhD applicants need.",
+      "quote": "",
+      "url": "https://www.niu.edu/clas/biology/academics/graduate-studies/index.shtml"
+    }
+  },
+  "notes": "Only the department's admissions summary was readable; the graduate catalog entry (go.niu.edu/catalog-grad-bio) returned no content."
+}

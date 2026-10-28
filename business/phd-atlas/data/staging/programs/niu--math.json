@@ -1,0 +1,51 @@
+{
+  "id": "niu--math",
+  "university": "niu",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "School of Mathematical and Statistical Sciences",
+  "program_page": "https://www.niu.edu/clas/math/academics/graduate/doctorate.shtml",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Graduate assistantship applications are due March 1; the page does not name a separate fall deadline.",
+      "quote": "You can apply for a graduate assistantship by submitting an application to gradprog@niu.edu by March 1",
+      "url": "https://www.niu.edu/clas/math/academics/graduate/assistantships.shtml",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The doctoral pages do not mention the GRE.",
+      "quote": "",
+      "url": "https://www.niu.edu/clas/math/academics/graduate/doctorate.shtml"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The doctoral pages do not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.niu.edu/clas/math/academics/graduate/doctorate.shtml"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page says a dissertation advisor is chosen after the qualifying exam, but does not say whether admission needs one.",
+      "quote": "",
+      "url": "https://www.niu.edu/clas/math/academics/graduate/doctorate.shtml"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Fellowships, teaching assistantships and research assistantships are offered competitively; most include a stipend and tuition waiver.",
+      "quote": "We offer competitive funding opportunities for graduate students through fellowships, teaching assistantships and research assistantships",
+      "url": "https://www.niu.edu/clas/math/academics/graduate/assistantships.shtml"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The doctoral pages do not say which degrees PhD applicants need.",
+      "quote": "",
+      "url": "https://www.niu.edu/clas/math/academics/graduate/doctorate.shtml"
+    }
+  },
+  "notes": "The PhD in Mathematical Sciences has a statistics and probability focus area, so statistics is listed in also_fields. No separate statistics PhD exists."
+}

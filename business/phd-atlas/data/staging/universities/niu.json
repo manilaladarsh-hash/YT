@@ -1,0 +1,47 @@
+{
+  "id": "niu",
+  "institution": "Northern Illinois University",
+  "country": "USA",
+  "region": "Illinois",
+  "grad_page": "https://www.niu.edu/grad/admissions/application-materials.shtml",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "The Graduate School charges $60 to degree-seeking applicants; the page lists no separate international fee.",
+      "quote": "$60 for degree-seeking students",
+      "url": "https://www.niu.edu/grad/admissions/apply-now.shtml"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The application-fee exemption covers only people with a GRE or GMAT fee reduction or waiver, McNair Scholars and some Illinois veterans; no international waiver is listed.",
+      "quote": "Individuals who received a GRE or GMAT fee reduction or fee waiver",
+      "url": "https://www.niu.edu/grad/admissions/apply-now.shtml"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School leaves the GRE to each program, so check the program record.",
+      "quote": "The graduate program you're applying to may require you to submit an unofficial copy of your GRE, GMAT, MAT or other entrance exam scores",
+      "url": "https://www.niu.edu/grad/admissions/application-materials.shtml"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The Graduate School requires a TOEFL score of at least 80 for graduate admission.",
+      "quote": "TOEFL score of at least 80",
+      "url": "https://www.niu.edu/grad/admissions/application-materials.shtml"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The Graduate School accepts an IELTS score of 6.5 as one of its graduate minimums.",
+      "quote": "IELTS score of 6.5",
+      "url": "https://www.niu.edu/grad/admissions/application-materials.shtml"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on NIU's list of countries whose degrees exempt applicants from TOEFL or IELTS, so an Indian degree does not waive the test.",
+      "quote": "TOEFL or IELTS scores not required of students who received or will receive a university degree in one of the following countries",
+      "url": "https://www.niu.edu/grad/admissions/application-materials.shtml"
+    }
+  },
+  "notes": "Sources: NIU Graduate School pages (application materials, apply-now), the NIU list of doctoral programs and the department pages for each program. The Graduate School's English-exempt country list was checked for India (not listed). Graduate catalog pages on catalog.niu.edu and go.niu.edu returned no content (HTTP 202), so catalog-only rules were not used."
+}
