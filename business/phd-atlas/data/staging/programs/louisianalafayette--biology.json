@@ -1,0 +1,58 @@
+{
+  "id": "louisianalafayette--biology",
+  "university": "louisianalafayette",
+  "field": "biology",
+  "also_fields": [
+    "environment"
+  ],
+  "department": "Department of Biology",
+  "program_page": "https://louisiana.edu/graduateschool/majors-minors/environmental-evolutionary-biology-phd",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "The Fall application deadline is February 1, 2027; the Spring deadline is October 1.",
+      "quote": "Application Deadline | Fall: February 1",
+      "url": "https://louisiana.edu/graduateschool/majors-minors/environmental-evolutionary-biology-phd",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The program page lists official GRE scores among the application materials. The graduate school's doctoral list says no GRE is required, so this conflict is noted.",
+      "quote": "In addition to the general Graduate School application materials, you must also submit: | Official GRE scores",
+      "url": "https://louisiana.edu/graduateschool/majors-minors/environmental-evolutionary-biology-phd",
+      "also": [
+        {
+          "quote": "No GRE Required",
+          "url": "https://louisiana.edu/graduateschool/graduate-programs/doctoral-degrees"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://louisiana.edu/graduateschool/majors-minors/environmental-evolutionary-biology-phd"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must get in touch with a faculty member you want to work with before you apply.",
+      "quote": "Before you apply, you'll need to get in touch with a faculty member under whom you would like to work",
+      "url": "https://louisiana.edu/graduateschool/majors-minors/environmental-evolutionary-biology-phd"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Most graduate assistantships are awarded competitively on academic merit; the program page gives no separate funding rule.",
+      "quote": "are awarded on a competitive basis, with academic merit being the primary consideration",
+      "url": "https://louisiana.edu/graduateschool/admissions/tuition-funding/funding-opportunities/graduate-assistantships"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants can enter from a bachelor's degree (72 hours beyond it) or with a master's degree (24 hours of coursework).",
+      "quote": "A minimum of 72 semester hours of credit beyond the bachelor's degree is required | If you are entering the program with a master's degree, you must complete at least 24 hours",
+      "url": "https://louisiana.edu/graduateschool/majors-minors/environmental-evolutionary-biology-phd"
+    }
+  },
+  "notes": "",
+  "name": "Environmental & Evolutionary Biology, Ph.D."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "louisianalafayette--math",
+  "university": "louisianalafayette",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Department of Mathematics",
+  "program_page": "https://louisiana.edu/graduateschool/majors-minors/mathematics-phd",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "For funding consideration, the Fall assistantship deadline is March 1, 2027; the Fall application deadline is June 30, 2027 (domestic) or May 15, 2027 (international).",
+      "quote": "Assistantship Application Deadlines | Fall: March 1",
+      "url": "https://louisiana.edu/graduateschool/majors-minors/mathematics-phd",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The program page says GRE scores are optional and must be sent officially if submitted. The graduate school's doctoral list says no GRE is required.",
+      "quote": "If submitting Graduate Record Examination (GRE) a score, official scores must be sent directly from the test administrator to the Graduate School",
+      "url": "https://louisiana.edu/graduateschool/majors-minors/mathematics-phd",
+      "also": [
+        {
+          "quote": "No GRE Required",
+          "url": "https://louisiana.edu/graduateschool/graduate-programs/doctoral-degrees"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://louisiana.edu/graduateschool/majors-minors/mathematics-phd"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a faculty supervisor's agreement is needed.",
+      "quote": "",
+      "url": "https://louisiana.edu/graduateschool/majors-minors/mathematics-phd"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Most graduate assistantships are awarded competitively on academic merit; the program page gives no separate funding rule.",
+      "quote": "are awarded on a competitive basis, with academic merit being the primary consideration",
+      "url": "https://louisiana.edu/graduateschool/admissions/tuition-funding/funding-opportunities/graduate-assistantships"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants must meet master's-level admission requirements; a bachelor's degree with 72 hours beyond it is also accepted.",
+      "quote": "applicants to the PH.D. program in Mathematics must meet all requirements for admission at the master’s level",
+      "url": "https://louisiana.edu/graduateschool/majors-minors/mathematics-phd"
+    }
+  },
+  "notes": "Covers applied mathematics, pure mathematics and statistics concentrations.",
+  "name": "Mathematics, Ph.D."
+}

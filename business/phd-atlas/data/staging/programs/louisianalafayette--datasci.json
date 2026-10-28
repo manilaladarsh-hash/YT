@@ -1,0 +1,52 @@
+{
+  "id": "louisianalafayette--datasci",
+  "university": "louisianalafayette",
+  "field": "datasci",
+  "also_fields": [
+    "cs"
+  ],
+  "department": "School of Computing and Informatics",
+  "program_page": "https://louisiana.edu/graduateschool/majors-minors/applied-computing-and-information-sciences-phd",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "For funding consideration, the Fall assistantship deadline is March 1, 2027; the Fall application deadline for domestic and international applicants is May 1, 2027.",
+      "quote": "Assistantship Application Deadlines | Fall: March 1",
+      "url": "https://louisiana.edu/graduateschool/majors-minors/applied-computing-and-information-sciences-phd",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Neither the program page nor the doctoral list states a GRE rule for this program.",
+      "quote": "",
+      "url": "https://louisiana.edu/graduateschool/majors-minors/applied-computing-and-information-sciences-phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://louisiana.edu/graduateschool/majors-minors/applied-computing-and-information-sciences-phd"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a faculty supervisor's agreement is needed.",
+      "quote": "",
+      "url": "https://louisiana.edu/graduateschool/majors-minors/applied-computing-and-information-sciences-phd"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Most graduate assistantships are awarded competitively on academic merit; the program page gives no separate funding rule.",
+      "quote": "are awarded on a competitive basis, with academic merit being the primary consideration",
+      "url": "https://louisiana.edu/graduateschool/admissions/tuition-funding/funding-opportunities/graduate-assistantships"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Evidence of a bachelor's degree is required; a master's degree is preferred but not required.",
+      "quote": "evidence of a bachelor’s degree; a master’s degree preferred",
+      "url": "https://louisiana.edu/graduateschool/graduate-programs/doctoral-degrees"
+    }
+  },
+  "notes": "Umbrella-style program with a strong AI and data science focus, saved under datasci with cs in also_fields.",
+  "name": "Applied Computing and Information Sciences, Ph.D."
+}
