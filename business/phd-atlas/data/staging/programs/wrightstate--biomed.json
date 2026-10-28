@@ -1,0 +1,58 @@
+{
+  "id": "wrightstate--biomed",
+  "university": "wrightstate",
+  "field": "biomed",
+  "also_fields": [
+    "neuro"
+  ],
+  "department": "Biomedical Sciences",
+  "program_page": "https://science-math.wright.edu/biomedical-sciences-phd-program/admission",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Applications for the following Fall are due December 15, reviewed from January.",
+      "quote": "Application deadline is December 15",
+      "url": "https://science-math.wright.edu/biomedical-sciences-phd-program/admission",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned.",
+      "quote": "",
+      "url": "https://science-math.wright.edu/biomedical-sciences-phd-program/admission"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "International applicants without a U.S. accredited degree need a TOEFL iBT of 100.",
+      "quote": "a TOEFL IBT score of 100 or an IELTS score of 7.5 is required",
+      "url": "https://science-math.wright.edu/biomedical-sciences-phd-program/admission"
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "International applicants without a U.S. accredited degree need an IELTS of 7.5.",
+      "quote": "a TOEFL IBT score of 100 or an IELTS score of 7.5 is required",
+      "url": "https://science-math.wright.edu/biomedical-sciences-phd-program/admission"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The admission page does not say whether a faculty supervisor is needed before admission.",
+      "quote": "",
+      "url": "https://science-math.wright.edu/biomedical-sciences-phd-program/admission"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The program page mentions competitive stipends but does not say all admitted students are funded.",
+      "quote": "",
+      "url": "https://science-math.wright.edu/biomedical-sciences-phd-program/admission"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page sets an undergraduate GPA of 3.0 but does not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://science-math.wright.edu/biomedical-sciences-phd-program/admission"
+    }
+  },
+  "notes": "Admission is for the following Fall semester only. Research areas include Neuroscience and Physiology, so neuro is listed in also_fields (its subject GRE is not covered here).",
+  "name": "Ph.D. in Biomedical Sciences"
+}

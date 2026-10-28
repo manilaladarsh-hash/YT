@@ -1,0 +1,57 @@
+{
+  "id": "wrightstate",
+  "institution": "Wright State University",
+  "country": "USA",
+  "region": "Ohio",
+  "grad_page": "https://www.wright.edu/admissions/international/graduate-admission-requirements",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "0 (waived)",
+      "value": "International applicants apply for free for each degree application.",
+      "quote": "International applicants can now apply for free for each degree or licensure application.",
+      "url": "https://www.wright.edu/admissions/international"
+    },
+    "fee_waiver": {
+      "code": "Available",
+      "value": "Because international applicants apply free, they do not need a separate waiver.",
+      "quote": "International applicants can now apply for free for each degree or licensure application.",
+      "url": "https://www.wright.edu/admissions/international"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate pages set no university-wide GRE rule; each program states its own.",
+      "quote": "",
+      "url": "https://www.wright.edu/admissions/international/graduate-admission-requirements"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "A TOEFL score of 4.0 on the new scale (79 on the old) is the minimum for applicants without a U.S. degree.",
+      "quote": "TOEFL score of 4.0 (old scale: 79)",
+      "url": "https://www.wright.edu/admissions/international/graduate-admission-requirements"
+    },
+    "ielts_min": {
+      "code": "6",
+      "value": "An IELTS band of 6 or higher is the minimum for applicants without a U.S. degree.",
+      "quote": "A band 6 or higher through the International English Language Testing System (IELTS)",
+      "url": "https://www.wright.edu/admissions/international/graduate-admission-requirements"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the university's list of English-official countries, so Indian applicants need a test score unless they hold a U.S. degree.",
+      "quote": "If your native language is not English and you do not have a degree from a regionally accredited U.S. college or university, you must have a minimum score on one of the following exams",
+      "url": "https://www.wright.edu/admissions/international/graduate-admission-requirements",
+      "also": [
+        {
+          "quote": "If you have graduated from a school in a country where English is the official language for higher education, you will not be required to demonstrate English proficiency.",
+          "url": "https://www.wright.edu/admissions/international/graduate-admission-requirements"
+        },
+        {
+          "quote": "The international admissions team will accept Duolingo English test scores of 110 or higher as an alternative",
+          "url": "https://www.wright.edu/admissions/international/graduate-admission-requirements"
+        }
+      ]
+    }
+  },
+  "notes": "Fee sources conflict. The international admissions home page (current) says international applicants apply free; the graduate application checklist still says $70 and the MBA page says $70 for internationals; the graduate admission page says $40 per degree application. The international page is used. The General Requirements policy 5020 PDF is out of date and was not used. Deadlines are set per program; the university's international preferred Fall date is June 30. The English-official country list (https://www.wright.edu/international-education/international-students/english-as-official-language) does not include India. Program-level exceptions were fetched for Engineering, Biomedical Sciences, Environmental Sciences and Electrical Engineering."
+}

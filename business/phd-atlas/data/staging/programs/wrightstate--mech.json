@@ -1,0 +1,81 @@
+{
+  "id": "wrightstate--mech",
+  "university": "wrightstate",
+  "field": "mech",
+  "also_fields": [
+    "bme",
+    "materials"
+  ],
+  "department": "College of Engineering and Computer Science",
+  "program_page": "https://engineering-computer-science.wright.edu/phd-in-engineering/admission",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-30",
+      "value": "The university's preferred date for international Fall applicants is June 30; the program page gives no date of its own.",
+      "quote": "Fall Semester: June 30",
+      "url": "https://www.wright.edu/admissions/international/international-application-preferred-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Applicants must meet minimum GRE scores, but the GRE is waived for Wright State engineering graduates.",
+      "quote": "Minimum GRE (Graduate Record Examination) requirements: Verbal ≥ 145 and Quantitative ≥ 156 and Analytical Writing ≥ 3.0",
+      "url": "https://engineering-computer-science.wright.edu/phd-in-engineering/admission",
+      "also": [
+        {
+          "quote": "or Combined Verbal + Quantitative ≥ 301 and Analytical Writing ≥ 3.0",
+          "url": "https://engineering-computer-science.wright.edu/phd-in-engineering/admission"
+        },
+        {
+          "quote": "GRE requirements are waived for applicants who received their engineering degree from WSU",
+          "url": "https://engineering-computer-science.wright.edu/phd-in-engineering/admission"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE applies to engineering.",
+      "quote": "",
+      "url": "https://engineering-computer-science.wright.edu/phd-in-engineering/admission"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The department requires a TOEFL of 79 for international applicants.",
+      "quote": "TOEFL (Test of English as a Foreign Language) ≥ 79",
+      "url": "https://engineering-computer-science.wright.edu/phd-in-engineering/admission"
+    },
+    "ielts_min": {
+      "code": "6",
+      "value": "The department requires an IELTS of 6.0 for international applicants.",
+      "quote": "IELTS (International English Language Testing System) ≥ 6.0",
+      "url": "https://engineering-computer-science.wright.edu/phd-in-engineering/admission"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must provide a letter of support from the faculty member they want to work with.",
+      "quote": "Applicants are required to provide a letter of support signed by the WSU DQF with whom the student would like to do research",
+      "url": "https://engineering-computer-science.wright.edu/phd-in-engineering/admission"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The admission page does not say whether admitted students are funded.",
+      "quote": "",
+      "url": "https://engineering-computer-science.wright.edu/phd-in-engineering/admission"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants need an engineering B.S. (ABET or equivalent, GPA 3.0) or an engineering M.S. (GPA 3.5).",
+      "quote": "B.S. degree in Engineering from an ABET-accredited program or equivalent, with a minimum 3.0 grade-point average",
+      "url": "https://engineering-computer-science.wright.edu/phd-in-engineering/admission",
+      "also": [
+        {
+          "quote": "or an M.S. degree from an engineering program, with a minimum 3.5 grade-point average",
+          "url": "https://engineering-computer-science.wright.edu/phd-in-engineering/admission"
+        }
+      ]
+    }
+  },
+  "notes": "Umbrella Ph.D. in Engineering with research focus areas: Biomedical Engineering, Industrial and Human Factors Engineering, Materials Science and Engineering, and Mechanical and Aerospace Engineering. Saved under mech; bme and materials listed in also_fields. Industrial and Human Factors has no field id in fields.json. Department TOEFL and IELTS overrides apply.",
+  "name": "Ph.D. in Engineering"
+}

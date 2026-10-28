@@ -1,0 +1,50 @@
+{
+  "id": "wrightstate--ece",
+  "university": "wrightstate",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Electrical Engineering",
+  "program_page": "https://engineering-computer-science.wright.edu/electrical-engineering/phd-in-electrical-engineering",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-30",
+      "value": "The university's preferred date for international Fall applicants is June 30; the program page gives no date of its own.",
+      "quote": "Fall Semester: June 30",
+      "url": "https://www.wright.edu/admissions/international/international-application-preferred-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Ph.D. in Electrical Engineering does not require GRE General scores.",
+      "quote": "Graduate Record Examination (GRE) test scores are not required",
+      "url": "https://engineering-computer-science.wright.edu/electrical-engineering/phd-in-electrical-engineering"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE applies to electrical engineering.",
+      "quote": "",
+      "url": "https://engineering-computer-science.wright.edu/electrical-engineering/phd-in-electrical-engineering"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students are paired with a faculty advisor after admission, so one is not needed to be admitted.",
+      "quote": "Each Ph.D. student is paired with a faculty advisor upon admission to the program",
+      "url": "https://engineering-computer-science.wright.edu/electrical-engineering/phd-in-electrical-engineering"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Teaching and research assistantships are described, but the page does not say all admitted students are funded.",
+      "quote": "",
+      "url": "https://engineering-computer-science.wright.edu/electrical-engineering/phd-in-electrical-engineering"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants need both a B.S. and an M.S. in electrical engineering or a closely related field.",
+      "quote": "A B.S. and M.S. degree in electrical engineering or closely related field",
+      "url": "https://engineering-computer-science.wright.edu/electrical-engineering/phd-in-electrical-engineering"
+    }
+  },
+  "notes": "Minimum undergraduate GPA 3.0 and graduate GPA 3.5. Three letters of recommendation required.",
+  "name": "Ph.D. in Electrical Engineering"
+}

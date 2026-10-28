@@ -1,0 +1,44 @@
+{
+  "id": "wrightstate--environment",
+  "university": "wrightstate",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Environmental Sciences",
+  "program_page": "https://science-math.wright.edu/environmental-sciences-phd-program/admission",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "The priority deadline for Fall entry is February 1; later applications are reviewed ad hoc.",
+      "quote": "The application deadline for priority consideration is February 1",
+      "url": "https://science-math.wright.edu/environmental-sciences-phd-program/admission",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Applications received after February 1 will be reviewed by the program on an ad hoc basis",
+          "url": "https://science-math.wright.edu/environmental-sciences-phd-program/admission"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must have a faculty advisor's commitment to support them in the laboratory.",
+      "quote": "we require that you receive a commitment from a program faculty advisor willing and able to support you in their laboratory",
+      "url": "https://science-math.wright.edu/environmental-sciences-phd-program/admission"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page says much of the funding comes from individual faculty members but gives no guarantee.",
+      "quote": "",
+      "url": "https://science-math.wright.edu/environmental-sciences-phd-program/admission"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants need a bachelor's or master's degree from a supporting science discipline with a GPA of at least 3.0.",
+      "quote": "You must hold a baccalaureate degree or a master's degree from a supporting discipline",
+      "url": "https://science-math.wright.edu/environmental-sciences-phd-program/admission"
+    }
+  },
+  "notes": "The program page says the $40 fee applies to all applications and that the GRE was waived for Fall 2021. Both look out of date, so no fee or GRE override is saved. The university record says international applications are free. The page says TOEFL near 100 and IELTS near 6.5 are most competitive; these are not minimums.",
+  "name": "Ph.D. in Environmental Sciences"
+}

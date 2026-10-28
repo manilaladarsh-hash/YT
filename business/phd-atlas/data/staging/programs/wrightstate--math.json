@@ -1,0 +1,57 @@
+{
+  "id": "wrightstate--math",
+  "university": "wrightstate",
+  "field": "math",
+  "also_fields": [
+    "materials"
+  ],
+  "department": "College of Science and Mathematics",
+  "program_page": "https://catalog.wright.edu/preview_program.php?poid=22835&catoid=25",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No program deadline is stated; the university's preferred Fall date for international applicants is June 30.",
+      "quote": "",
+      "url": "https://catalog.wright.edu/preview_program.php?poid=22835&catoid=25"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE scores are one of the required application materials.",
+      "quote": "students seeking admission will be required to submit ... GRE scores",
+      "url": "https://catalog.wright.edu/preview_program.php?poid=22835&catoid=25"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE is mentioned.",
+      "quote": "",
+      "url": "https://catalog.wright.edu/preview_program.php?poid=22835&catoid=25"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether a faculty supervisor is needed before admission.",
+      "quote": "",
+      "url": "https://catalog.wright.edu/preview_program.php?poid=22835&catoid=25"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog does not describe funding.",
+      "quote": "",
+      "url": "https://catalog.wright.edu/preview_program.php?poid=22835&catoid=25"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A B.S. or B.A. in math, science or engineering with a 3.0 GPA in math and science, or an M.S. with a 3.25 GPA in those courses, is accepted.",
+      "quote": "B.S. or B.A. degree from an accredited institution in mathematics, science or engineering, with a minimum 3.0 grade point average in mathematics and science coursework",
+      "url": "https://catalog.wright.edu/preview_program.php?poid=22835&catoid=25",
+      "also": [
+        {
+          "quote": "M.S. degree from a mathematics or science program, with a minimum 3.25 grade point average in mathematics and science coursework",
+          "url": "https://catalog.wright.edu/preview_program.php?poid=22835&catoid=25"
+        }
+      ]
+    }
+  },
+  "notes": "Interdisciplinary Applied Science and Mathematics Ph.D. Focus areas: Materials and nanoscale science; Modeling and analysis for physical and biological systems; Computational problems in the physical and biological sciences. Materials is listed in also_fields. Source is the 2024-25 catalog page; the program's own admission page returned 404. Not a data science PhD.",
+  "name": "Ph.D. in Interdisciplinary Applied Science and Mathematics"
+}
