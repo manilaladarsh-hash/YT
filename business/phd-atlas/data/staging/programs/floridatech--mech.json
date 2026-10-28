@@ -3,52 +3,58 @@
   "university": "floridatech",
   "field": "mech",
   "also_fields": [],
-  "department": "Mechanical Engineering",
+  "department": "Mechanical and Civil Engineering",
   "program_page": "https://www.fit.edu/programs/mechanical-engineering-phd/",
   "checked": "2026-10-28",
   "fields": {
     "deadline": {
       "code": "Rolling",
-      "value": "Doctoral admission is rolling; the page's fixed dates cover other programs.",
+      "value": "Deadline: no program deadline is listed, so the graduate school's rolling rule applies; the I-20 deadline for Fall 2027 is July 1, 2027.",
       "quote": "In most graduate programs, Florida Tech admits on a rolling basis.",
-      "url": "https://www.fit.edu/admission/applying/graduate/",
+      "url": "https://www.fit.edu/admissions/applying/graduate/",
       "time_sensitive": "2027-07-01",
       "also": [
         {
-          "quote": "Applications received after the I-20 deadline may not be considered for that entry term.",
-          "url": "https://www.fit.edu/admission/applying/graduate/"
+          "quote": "Fall University Application: July 1st the year prior to enrollment Common Application: August 1st the year prior to enrollment July 1st of enrollment year",
+          "url": "https://www.fit.edu/admissions/applying/graduate/"
         },
         {
-          "quote": "July 1st of enrollment year",
-          "url": "https://www.fit.edu/admission/applying/graduate/"
+          "quote": "Applications received after the I-20 deadline may not be considered for that entry term.",
+          "url": "https://www.fit.edu/admissions/applying/graduate/"
         }
       ]
     },
     "gre_subject": {
       "code": "Not stated",
-      "value": "No GRE Subject test is stated for this program.",
+      "value": "The program page does not say whether the subject GRE is needed.",
       "quote": "",
       "url": "https://www.fit.edu/programs/mechanical-engineering-phd/"
     },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The graduate program table lists no GRE General score for this PhD, so it is not required.",
+      "quote": "Mechanical Engineering PhD Transcripts Résumé/CV Two recommendation letters Statement of objectives",
+      "url": "https://www.fit.edu/admissions/applying/graduate/"
+    },
     "supervisor": {
-      "code": "Not stated",
-      "value": "The program page does not state a supervisor-first rule.",
-      "quote": "",
+      "code": "Recommended",
+      "value": "Applicants are encouraged to contact faculty early to discuss research directions.",
+      "quote": "Early contact with faculty provides an opportunity to discuss research directions",
       "url": "https://www.fit.edu/programs/mechanical-engineering-phd/"
     },
     "funding": {
       "code": "Competitive",
-      "value": "Assistantships are offered on a competitive basis.",
+      "value": "Assistantships are competitive, so funding is not guaranteed.",
       "quote": "Academic units at Florida Tech may offer graduate student assistantships to full-time, degree-seeking graduate students on a competitive basis.",
       "url": "https://www.fit.edu/programs/mechanical-engineering-phd/"
     },
     "entry_route": {
       "code": "Master's usually required",
-      "value": "Doctoral applicants typically hold a bachelor's and a master's degree.",
-      "quote": "Students who wish to pursue a doctoral degree at Florida Tech typically hold both a bachelor’s and master’s degree from a regionally accredited college or university.",
-      "url": "https://www.fit.edu/admission/applying/graduate/"
+      "value": "The program requires 42 credits beyond a master's degree.",
+      "quote": "The program requires a minimum of 42 credits beyond a master’s degree",
+      "url": "https://www.fit.edu/programs/mechanical-engineering-phd/"
     }
   },
-  "notes": "Aerospace Engineering, Ph.D. is also listed under this field. Its catalog entry says doctoral applicants normally hold a master's, and it has no GRE mention.",
+  "notes": "Aerospace Engineering Ph.D. (same field, Aerospace, Physics and Space Sciences department) requires 42 credit hours beyond a master's degree; not saved separately because there is one record per field.",
   "name": "Mechanical Engineering, Ph.D."
 }

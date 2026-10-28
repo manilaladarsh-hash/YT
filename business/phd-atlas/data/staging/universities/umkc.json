@@ -1,0 +1,47 @@
+{
+  "id": "umkc",
+  "institution": "University of Missouri-Kansas City",
+  "country": "USA",
+  "region": "Missouri",
+  "grad_page": "https://www.umkc.edu/international-students/future-students/how-to-apply.html",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "International applicants pay a non-refundable $75 USD application fee.",
+      "quote": "Pay the non-refundable $75 USD application fee",
+      "url": "https://www.umkc.edu/international-students/future-students/how-to-apply.html"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No fee waiver for PhD applicants is stated on the pages checked.",
+      "quote": "",
+      "url": "https://www.umkc.edu/international-students/future-students/how-to-apply.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each program; see the program record.",
+      "quote": "",
+      "url": "https://www.umkc.edu/isao/future-students/english-proficiency.html"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Graduate TOEFL iBT minimum is 79 unless a program sets its own rule.",
+      "quote": "TOEFL iBT (reporting code 6872): 79",
+      "url": "https://www.umkc.edu/isao/future-students/english-proficiency.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Graduate IELTS Academic minimum is 6.5, with at least 6.0 in every band.",
+      "quote": "IELTS Academic: 6.5 (6.0 minimum in all bands)",
+      "url": "https://www.umkc.edu/isao/future-students/english-proficiency.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Indian degrees skip the English test only for some majors (computer science, data science, physics, chemistry and engineering). Other majors need a test.",
+      "quote": "Master's and PhD students who earned a bachelor's or master's degree from an institution in Bangladesh, Egypt, India, Pakistan, Sri Lanka and Turkey are not required to submit proof of English proficiency for admission to these programs.",
+      "url": "https://www.umkc.edu/isao/future-students/english-proficiency.html"
+    }
+  },
+  "notes": "Fees and English rules from the School of Graduate Studies and International Student and Scholar Services pages. The catalog admissions pages returned server errors and could not be read. Biomedical and Health Informatics (GRE required, minimum 300) is a separate PhD that shares no single field record."
+}

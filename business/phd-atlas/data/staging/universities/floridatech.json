@@ -3,51 +3,45 @@
   "institution": "Florida Institute of Technology",
   "country": "USA",
   "region": "Florida",
-  "grad_page": "https://www.fit.edu/admission/applying/graduate/",
+  "grad_page": "https://www.fit.edu/admissions/applying/graduate/",
   "checked": "2026-10-28",
   "fields": {
     "app_fee": {
       "code": "80 USD",
-      "value": "The doctoral application fee is $80.",
-      "quote": "A nonrefundable application fee of $60 (Master's), $80 (Doctoral), or $20 (Graduate Certificate Program) must accompany your application.",
-      "url": "https://www.fit.edu/admission/applying/graduate/"
+      "value": "The doctoral application fee is $80, non-refundable, and must accompany the application.",
+      "quote": "A nonrefundable application fee of $60 (Master's), $80 (Doctoral), or $20 (Graduate Certificate Program) must accompany your application",
+      "url": "https://www.fit.edu/admissions/applying/graduate/"
     },
     "fee_waiver": {
       "code": "Limited",
-      "value": "The only fee waiver is for Florida Tech alumni returning for a graduate program, not for international applicants generally.",
-      "quote": "The application fee will be waived for Florida Tech alumni who wish to return to their alma mater for a graduate program.",
+      "value": "The fee is waived only for Florida Tech alumni returning for a graduate program; no general waiver for international applicants is stated.",
+      "quote": "The application fee will be waived for Florida Tech alumni who wish to return to their alma mater for a graduate program",
       "url": "https://www.fit.edu/policies/graduate-policies-and-supporting-information/graduate-admission-/"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "The graduate school sets no single GRE rule; each program's table entry decides.",
+      "value": "The GRE rule is set by each program; see the program records.",
       "quote": "",
-      "url": "https://www.fit.edu/admission/applying/graduate/"
+      "url": "https://www.fit.edu/admissions/applying/graduate/"
     },
     "toefl_min": {
       "code": "4.0 (new scale)",
-      "value": "The university minimum is TOEFL iBT 4.0 on the new scale for tests taken on or after 1 January 2026.",
+      "value": "For tests taken on or after 1 January 2026 the TOEFL iBT minimum is 4.0 on the new scale; before that it was 80.",
       "quote": "Test-takers on or after January 1, 2026, must earn a minimum score of 4.0",
-      "url": "https://www.fit.edu/admission/applying/international/demonstrating-english-proficiency/",
-      "also": [
-        {
-          "quote": "with a minimum score of 80 for test-takers prior to January 1, 2026",
-          "url": "https://www.fit.edu/admission/applying/international/demonstrating-english-proficiency/"
-        }
-      ]
+      "url": "https://www.fit.edu/admission/applying/international/demonstrating-english-proficiency/"
     },
     "ielts_min": {
       "code": "6.5",
-      "value": "The university minimum is an IELTS Academic overall band of 6.5.",
+      "value": "An IELTS overall score of at least 6.5 is accepted.",
       "quote": "an IELTS with an earned score of at least 6.5",
       "url": "https://www.fit.edu/admission/applying/international/demonstrating-english-proficiency/"
     },
     "english_waiver": {
-      "code": "Conditional",
-      "value": "India is not on the university's list of English-medium countries; an Indian English-medium degree counts only if the Office of Admission deems English the primary language of instruction.",
-      "quote": "where English is the primary language of instruction as deemed at the discretion of the Office of Admission",
+      "code": "No",
+      "value": "India is not on the list of countries whose degrees waive the English test, so an Indian applicant needs a test score.",
+      "quote": "Studied at an institution in the United States, United Kingdom, Ireland, Australia, Anglophone Canada, Anglophone Caribbean, Anglophone Africa | earning a bachelor’s or higher degree from an accredited university or college",
       "url": "https://www.fit.edu/admission/applying/international/demonstrating-english-proficiency/"
     }
   },
-  "notes": "Entry test rules are from the English proficiency page. The graduate table lists GRE per program. Program pages carry no admissions facts beyond the shared funding sentence. Fall 2027 I-20 deadline is July 1, 2027. Chemistry, Ph.D. is listed among programs that start only in Fall."
+  "notes": "Ocean Engineering Ph.D. (Ocean Engineering and Marine Sciences) is not saved: no field id fits it. Operations Research, Systems Engineering, Human-Centered Design and STEM Education Ph.D.s, and the psychology and aviation doctorates, have no field id and are not saved."
 }

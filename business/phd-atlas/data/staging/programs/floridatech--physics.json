@@ -3,57 +3,58 @@
   "university": "floridatech",
   "field": "physics",
   "also_fields": [],
-  "department": "Physics",
+  "department": "Aerospace, Physics and Space Sciences",
   "program_page": "https://www.fit.edu/programs/physics-phd/",
   "checked": "2026-10-28",
   "fields": {
     "deadline": {
       "code": "Rolling",
-      "value": "Doctoral admission is rolling; the page's fixed dates cover other programs.",
+      "value": "Deadline: no program deadline is listed, so the graduate school's rolling rule applies; the I-20 deadline for Fall 2027 is July 1, 2027.",
       "quote": "In most graduate programs, Florida Tech admits on a rolling basis.",
-      "url": "https://www.fit.edu/admission/applying/graduate/",
+      "url": "https://www.fit.edu/admissions/applying/graduate/",
       "time_sensitive": "2027-07-01",
       "also": [
         {
-          "quote": "Applications received after the I-20 deadline may not be considered for that entry term.",
-          "url": "https://www.fit.edu/admission/applying/graduate/"
+          "quote": "Fall University Application: July 1st the year prior to enrollment Common Application: August 1st the year prior to enrollment July 1st of enrollment year",
+          "url": "https://www.fit.edu/admissions/applying/graduate/"
         },
         {
-          "quote": "July 1st of enrollment year",
-          "url": "https://www.fit.edu/admission/applying/graduate/"
+          "quote": "Applications received after the I-20 deadline may not be considered for that entry term.",
+          "url": "https://www.fit.edu/admissions/applying/graduate/"
         }
       ]
     },
     "gre_subject": {
-      "code": "Recommended",
-      "value": "The physics GRE Subject test is recommended but not required (2025-26 catalog entry).",
-      "quote": "The GRE scores from both the general and subject test in physics are recommended but not required.",
-      "url": "https://catalog.fit.edu/preview_program.php?catoid=19&poid=7914&returnto=1178"
+      "code": "Not stated",
+      "value": "The program page does not say whether the subject GRE is needed.",
+      "quote": "",
+      "url": "https://www.fit.edu/programs/physics-phd/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The graduate program table lists no GRE General score for this PhD, so it is not required.",
+      "quote": "Physics PhD Transcripts Résumé/CV Two recommendation letters Statement of objectives",
+      "url": "https://www.fit.edu/admissions/applying/graduate/"
     },
     "supervisor": {
       "code": "Not stated",
-      "value": "The program page does not state a supervisor-first rule.",
+      "value": "The program page does not say whether a supervisor must agree before admission.",
       "quote": "",
       "url": "https://www.fit.edu/programs/physics-phd/"
     },
     "funding": {
       "code": "Competitive",
-      "value": "Assistantships are offered on a competitive basis.",
+      "value": "Assistantships are competitive, so funding is not guaranteed.",
       "quote": "Academic units at Florida Tech may offer graduate student assistantships to full-time, degree-seeking graduate students on a competitive basis.",
       "url": "https://www.fit.edu/programs/physics-phd/"
     },
     "entry_route": {
       "code": "Either",
-      "value": "A bachelor's entrant follows the master's degree requirements (30 credit hours) first.",
-      "quote": "Students entering the doctoral degree program with a bachelor’s degree must follow the master of science degree requirements listed above for 30 semester credit hours.",
-      "url": "https://catalog.fit.edu/preview_program.php?catoid=19&poid=7914&returnto=1178"
-    },
-    "gre_general": {
-      "code": "Recommended",
-      "value": "The GRE General test is recommended but not required (2025-26 catalog entry).",
-      "quote": "The GRE scores from both the general and subject test in physics are recommended but not required.",
-      "url": "https://catalog.fit.edu/preview_program.php?catoid=19&poid=7914&returnto=1178"
+      "value": "Students can enter with a bachelor's (72 credit hours) or a master's (42 credit hours beyond it).",
+      "quote": "Students entering with a bachelor’s degree complete at least 72 semester credit hours | Students entering with a master’s degree complete at least 42 semester credit hours beyond the master's degree",
+      "url": "https://www.fit.edu/programs/physics-phd/"
     }
   },
-  "notes": "GRE and entry rules come from the archived 2025-26 catalog entry; the current catalog could not be reached. Space Sciences, Ph.D. is saved under astronomy."
+  "notes": "Program page gives no deadline, subject GRE or supervisor rule. The Space Sciences Ph.D. (same department) is saved under astronomy.",
+  "name": "Physics, Ph.D."
 }

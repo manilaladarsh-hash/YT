@@ -3,51 +3,58 @@
   "university": "floridatech",
   "field": "chemistry",
   "also_fields": [],
-  "department": "Chemistry",
+  "department": "Chemistry and Chemical Engineering",
   "program_page": "https://www.fit.edu/programs/chemistry-phd/",
   "checked": "2026-10-28",
   "fields": {
     "deadline": {
       "code": "Rolling",
-      "value": "Doctoral admission is rolling; the page's fixed dates cover other programs.",
+      "value": "Deadline: no program deadline is listed, so the graduate school's rolling rule applies; the I-20 deadline for Fall 2027 is July 1, 2027. Fall start only.",
       "quote": "In most graduate programs, Florida Tech admits on a rolling basis.",
-      "url": "https://www.fit.edu/admission/applying/graduate/",
+      "url": "https://www.fit.edu/admissions/applying/graduate/",
       "time_sensitive": "2027-07-01",
       "also": [
         {
-          "quote": "Applications received after the I-20 deadline may not be considered for that entry term.",
-          "url": "https://www.fit.edu/admission/applying/graduate/"
+          "quote": "Fall University Application: July 1st the year prior to enrollment Common Application: August 1st the year prior to enrollment July 1st of enrollment year",
+          "url": "https://www.fit.edu/admissions/applying/graduate/"
         },
         {
-          "quote": "July 1st of enrollment year",
-          "url": "https://www.fit.edu/admission/applying/graduate/"
+          "quote": "Applications received after the I-20 deadline may not be considered for that entry term.",
+          "url": "https://www.fit.edu/admissions/applying/graduate/"
         }
       ]
     },
     "gre_subject": {
       "code": "Not stated",
-      "value": "No GRE Subject test is stated for this program.",
+      "value": "The program page does not say whether the subject GRE is needed.",
       "quote": "",
       "url": "https://www.fit.edu/programs/chemistry-phd/"
     },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The graduate program table lists no GRE General score for this PhD, so it is not required.",
+      "quote": "Chemistry PhD Transcripts Résumé/CV Two recommendation letters Statement of objectives",
+      "url": "https://www.fit.edu/admissions/applying/graduate/"
+    },
     "supervisor": {
       "code": "Not stated",
-      "value": "The program page does not state a supervisor-first rule.",
+      "value": "The program page does not say whether a supervisor must agree before admission.",
       "quote": "",
       "url": "https://www.fit.edu/programs/chemistry-phd/"
     },
     "funding": {
       "code": "Competitive",
-      "value": "Assistantships are offered on a competitive basis.",
+      "value": "Assistantships are competitive, so funding is not guaranteed.",
       "quote": "Academic units at Florida Tech may offer graduate student assistantships to full-time, degree-seeking graduate students on a competitive basis.",
       "url": "https://www.fit.edu/programs/chemistry-phd/"
     },
     "entry_route": {
-      "code": "Master's usually required",
-      "value": "Doctoral applicants typically hold a bachelor's and a master's degree.",
-      "quote": "Students who wish to pursue a doctoral degree at Florida Tech typically hold both a bachelor’s and master’s degree from a regionally accredited college or university.",
-      "url": "https://www.fit.edu/admission/applying/graduate/"
+      "code": "Either",
+      "value": "Successful applicants typically hold a bachelor's or master's degree in chemistry.",
+      "quote": "Successful applicants to the program typically hold a bachelor’s or master’s degree in chemistry with strong academic performance",
+      "url": "https://www.fit.edu/programs/chemistry-phd/"
     }
   },
-  "notes": "The graduate school lists Chemistry, Ph.D. among programs that start only in the Fall term. No GRE rule was found on the official pages checked."
+  "notes": "Admission to the chemistry Ph.D. is available in the fall semester only (program page).",
+  "name": "Chemistry, Ph.D."
 }

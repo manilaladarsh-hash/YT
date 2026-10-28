@@ -3,63 +3,58 @@
   "university": "floridatech",
   "field": "cs",
   "also_fields": [],
-  "department": "Computer Science",
+  "department": "Electrical Engineering and Computer Science",
   "program_page": "https://www.fit.edu/programs/computer-science-phd/",
   "checked": "2026-10-28",
   "fields": {
     "deadline": {
       "code": "Rolling",
-      "value": "Doctoral admission is rolling; the page's fixed dates cover other programs.",
+      "value": "Deadline: no program deadline is listed, so the graduate school's rolling rule applies; the I-20 deadline for Fall 2027 is July 1, 2027.",
       "quote": "In most graduate programs, Florida Tech admits on a rolling basis.",
-      "url": "https://www.fit.edu/admission/applying/graduate/",
+      "url": "https://www.fit.edu/admissions/applying/graduate/",
       "time_sensitive": "2027-07-01",
       "also": [
         {
-          "quote": "Applications received after the I-20 deadline may not be considered for that entry term.",
-          "url": "https://www.fit.edu/admission/applying/graduate/"
+          "quote": "Fall University Application: July 1st the year prior to enrollment Common Application: August 1st the year prior to enrollment July 1st of enrollment year",
+          "url": "https://www.fit.edu/admissions/applying/graduate/"
         },
         {
-          "quote": "July 1st of enrollment year",
-          "url": "https://www.fit.edu/admission/applying/graduate/"
+          "quote": "Applications received after the I-20 deadline may not be considered for that entry term.",
+          "url": "https://www.fit.edu/admissions/applying/graduate/"
         }
       ]
     },
     "gre_subject": {
       "code": "Not stated",
-      "value": "No GRE Subject test is stated for this program.",
+      "value": "The program page does not say whether the subject GRE is needed.",
       "quote": "",
       "url": "https://www.fit.edu/programs/computer-science-phd/"
     },
+    "gre_general": {
+      "code": "Required",
+      "value": "The graduate program table lists a GRE General score as a requirement for the Computer Science PhD.",
+      "quote": "Computer Science PhD Transcripts Résumé/CV Two recommendation letters Statement of objectives GRE General score",
+      "url": "https://www.fit.edu/admissions/applying/graduate/"
+    },
     "supervisor": {
       "code": "Not stated",
-      "value": "The program page does not state a supervisor-first rule.",
+      "value": "The program page does not say whether a supervisor must agree before admission.",
       "quote": "",
       "url": "https://www.fit.edu/programs/computer-science-phd/"
     },
     "funding": {
       "code": "Competitive",
-      "value": "Assistantships are offered on a competitive basis.",
+      "value": "Assistantships are competitive, so funding is not guaranteed.",
       "quote": "Academic units at Florida Tech may offer graduate student assistantships to full-time, degree-seeking graduate students on a competitive basis.",
       "url": "https://www.fit.edu/programs/computer-science-phd/"
     },
     "entry_route": {
       "code": "Either",
-      "value": "Strong candidates without a master's degree may apply directly to the Ph.D.",
-      "quote": "Strong candidates without a master's degree may apply directly to the Ph.D. program.",
-      "url": "https://cs.fit.edu/Admissions/faqGrad.php"
-    },
-    "gre_general": {
-      "code": "Required",
-      "value": "The Computer Science department requires the GRE General test for all graduate applicants (older FAQ).",
-      "quote": "All graduate applicants are required to submit scores from the GRE General Test.",
-      "url": "https://cs.fit.edu/Admissions/faqGrad.php"
-    },
-    "toefl_min": {
-      "code": "79",
-      "value": "The Computer Science FAQ lists 79 for the internet-based TOEFL (older scale); the university page now asks 4.0 on the new scale.",
-      "quote": "79 for internet-based TOEFL (iBT)",
-      "url": "https://cs.fit.edu/Admissions/faqGrad.php"
+      "value": "Applicants can hold a bachelor's or a master's degree in computer science or a related field.",
+      "quote": "Applicants should hold a bachelor’s degree in computer science or a master’s degree in computer science or a related field",
+      "url": "https://www.fit.edu/programs/computer-science-phd/"
     }
   },
-  "notes": "Department FAQ is undated and uses the older TOEFL scale; confirm current minimums and GRE with the department."
+  "notes": "The Computer Science Ph.D. is the only PhD in the university's table that requires a GRE General score among the programs saved here.",
+  "name": "Computer Science, Ph.D."
 }
