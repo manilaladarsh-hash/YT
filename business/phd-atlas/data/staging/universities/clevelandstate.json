@@ -1,0 +1,47 @@
+{
+  "id": "clevelandstate",
+  "institution": "Cleveland State University",
+  "country": "USA",
+  "region": "Ohio",
+  "grad_page": "https://graduate-studies.csuohio.edu/grad-engage/international-admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "No application fee for CSU graduate programs (external application fees aside).",
+      "quote": "There is no application fee to apply to CSU for Graduate Programs",
+      "url": "https://graduate-studies.csuohio.edu/grad-engage/international-admissions"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No application fee is charged, so no waiver is needed.",
+      "quote": "There is no application fee to apply to CSU for Graduate Programs",
+      "url": "https://graduate-studies.csuohio.edu/grad-engage/international-admissions"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set program by program: the graduate school says not all programs require entrance exam scores.",
+      "quote": "Not all programs require entrance exam scores.",
+      "url": "https://graduate-studies.csuohio.edu/grad-engage/international-admissions"
+    },
+    "toefl_min": {
+      "code": "78",
+      "value": "TOEFL iBT minimum of 78, with at least 17 in each section.",
+      "quote": "TOEFL iBT (Internet-Based): 78 and at least 17 in each section",
+      "url": "https://graduate-studies.csuohio.edu/grad-engage/international-admissions"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "IELTS minimum of 6.0 overall, with at least 5.0 in each section.",
+      "quote": "IELTS: 6.0 and at least 5.0 in each section",
+      "url": "https://graduate-studies.csuohio.edu/grad-engage/international-admissions"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "A U.S. degree or a degree from a TOEFL-exempt country waives the test; the country list is on a page I could not open, so an Indian English-medium degree is unconfirmed.",
+      "quote": "Proof of graduation from a secondary school or accredited college/university in the U.S. or from one of the TOEFL exempted countries",
+      "url": "https://graduate-studies.csuohio.edu/grad-engage/international-admissions"
+    }
+  },
+  "notes": "Blocked (403): csuohio.edu/international-admissions/admission-eligibility-requirements-country, /graduate-admission-requirements, /minimum-requirements-graduate. India is not named on any page read. Engineering colleges set higher TOEFL subscores (see program overrides)."
+}

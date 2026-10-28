@@ -1,0 +1,61 @@
+{
+  "id": "clevelandstate--ece",
+  "university": "clevelandstate",
+  "field": "ece",
+  "also_fields": [
+    "mech",
+    "chemeng",
+    "civil",
+    "bme"
+  ],
+  "department": "Washkewicz College of Engineering",
+  "program_page": "https://engineering.csuohio.edu/academics/doctor-philosophy-in-engineering",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-07-21",
+      "value": "The general fall deadline is July 21; some programs set earlier dates, and this page gives none.",
+      "quote": "Fall Semester – July 21st",
+      "url": "https://graduate-studies.csuohio.edu/grad-engage/international-admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE General is required of all engineering doctoral applicants, with 80th-percentile quantitative scores usually expected.",
+      "quote": "The GRE General section is required of all applicants. | Minimum scores at the 80th percentile on the Quantitative section and 3.5 on the Analytical Writing section are usually required depending on the specialization area.",
+      "url": "https://catalog.csuohio.edu/preview_program.php?catoid=47&poid=13099&returnto=4045"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE applies to engineering.",
+      "quote": "The GRE General section is required of all applicants.",
+      "url": "https://catalog.csuohio.edu/preview_program.php?catoid=47&poid=13099&returnto=4045"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission comes first; an interim advisor is assigned in the specialization afterward.",
+      "quote": "When a student is admitted, an interim advisor is assigned in his/her specialization to assist the student in completing a preliminary study plan.",
+      "url": "https://catalog.csuohio.edu/preview_program.php?catoid=47&poid=13099&returnto=4045"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog says assistantships come from departments and research grants; it gives no share of funded students.",
+      "quote": "Teaching assistantships are provided by individual departments to provide assistance with classroom and laboratory courses.",
+      "url": "https://catalog.csuohio.edu/preview_program.php?catoid=47&poid=13099&returnto=4045"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants should hold a bachelor's or master's with at least one engineering degree; exceptions are possible.",
+      "quote": "Applicants for a doctorate in engineering should hold a bachelor’s or master’s degree with at least one degree in engineering | In exceptional cases, applicants may be considered without an engineering degree if they have a strong foundation in math and science.",
+      "url": "https://catalog.csuohio.edu/preview_program.php?catoid=47&poid=13099&returnto=4045"
+    },
+    "toefl_min": {
+      "code": "78",
+      "value": "Engineering requires a 78 iBT with at least 20 reading, 21 listening, 17 writing and 20 speaking.",
+      "quote": "Note: The College of Engineering has higher TOEFL (iBT) subscore requirements: 78 (Reading: 20, Listening: 21, Writing: 17, Speaking: 20)",
+      "url": "https://graduate-studies.csuohio.edu/grad-engage/international-admissions"
+    }
+  },
+  "notes": "One engineering PhD with specializations: Applied Biomedical Engineering, Chemical, Civil, Computer Science, Applied Data Science, Mechanical, Electrical and Computer Engineering. Recorded once under ece; CS and datasci have their own records.",
+  "name": "Doctor of Philosophy in Engineering"
+}

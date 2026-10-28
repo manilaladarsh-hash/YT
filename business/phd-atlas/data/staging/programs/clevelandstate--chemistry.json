@@ -1,0 +1,50 @@
+{
+  "id": "clevelandstate--chemistry",
+  "university": "clevelandstate",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://artsandsciences.csuohio.edu/chemistry/phd-program-in-clinicalbioanalytical-chemistry",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Fall applications are due February 15; spring applications are due October 15.",
+      "quote": "The application deadline each year is February 15 (for fall admission)",
+      "url": "https://artsandsciences.csuohio.edu/chemistry/phd-program-in-clinicalbioanalytical-chemistry",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE aptitude test is typically required and can be waived for outstanding records, but never for international students.",
+      "quote": "Typically, chemistry applicants are required to submit an official report of their performance on the aptitude test from the Graduate Record Examination (GRE) | The GRE requirement cannot be waived for international students.",
+      "url": "https://artsandsciences.csuohio.edu/chemistry/phd-program-in-clinicalbioanalytical-chemistry"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The PhD page asks only for the aptitude test, not a chemistry subject test.",
+      "quote": "Typically, chemistry applicants are required to submit an official report of their performance on the aptitude test",
+      "url": "https://artsandsciences.csuohio.edu/chemistry/phd-program-in-clinicalbioanalytical-chemistry"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Research is done under the doctoral advisor, but the page does not say a supervisor must agree before admission.",
+      "quote": "The primary objective of Ph.D. candidacy is the completion of a major research project under the direction of the student’s doctoral advisor(s).",
+      "url": "https://artsandsciences.csuohio.edu/chemistry/phd-program-in-clinicalbioanalytical-chemistry"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching assistantships are competitive; research assistantships depend on faculty grants.",
+      "quote": "Graduate teaching assistantships are available on a competitive basis | Research assistantships and Cleveland Clinic Fellowships may be available through individual faculty, depending on external funding.",
+      "url": "https://artsandsciences.csuohio.edu/chemistry/phd-program-in-clinicalbioanalytical-chemistry"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page sets prerequisite courses (general, organic, analytical and physical chemistry, physics and calculus) but does not say whether a master's is needed.",
+      "quote": "applicants for graduate study (Master’s and Ph.D.) in chemistry must have had one year of general, organic, analytical, and physical chemistry",
+      "url": "https://artsandsciences.csuohio.edu/chemistry/phd-program-in-clinicalbioanalytical-chemistry"
+    }
+  },
+  "notes": "Run jointly with the Cleveland Clinic. Prerequisites: one year each of general, organic, analytical and physical chemistry, a year of physics, and calculus through multiple integrals.",
+  "name": "Ph.D. Clinical-Bioanalytical Chemistry"
+}
