@@ -921,7 +921,7 @@ async function init() {
     const dark = root.dataset.theme ? root.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
     root.dataset.theme = dark ? "light" : "dark"; store.set("atlas2-theme", root.dataset.theme);
   });
-  if (matchMedia("(max-width: 920px)").matches && answered()) $("situation").open = false;
+  if (matchMedia("(max-width: 920px)").matches) $("situation").open = false;
   $("loading").remove();
   showTab(store.get("atlas2-tab", "find"));
   window.ATLAS_READY = true;
