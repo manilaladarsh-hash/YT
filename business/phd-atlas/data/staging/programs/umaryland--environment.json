@@ -1,0 +1,49 @@
+{
+  "id": "umaryland--environment",
+  "university": "umaryland",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Marine Estuarine Environmental Sciences (MEES)",
+  "program_page": "https://www.graduate.umaryland.edu/mees/",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-17",
+      "value": "The program page gives a Fall deadline of January 17 (spring deadline September 30). It does not separate the master's and PhD deadlines.",
+      "quote": "Fall deadline: January 17",
+      "url": "https://www.graduate.umaryland.edu/mees/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE General Test is required for this program.",
+      "quote": "The GRE General Test IS required by the following graduate programs: Biomedical Sciences-Dental School, Epidemiology and Human Genetics, Oral and Experimental Pathology, Physical Rehabilitation Science*, Marine Environmental Estuarine Studies and Nursing**.",
+      "url": "https://graduate.umaryland.edu/admissions/how-to-apply/doctoralphd-program-applications/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is stated for this program.",
+      "quote": "",
+      "url": "https://www.graduate.umaryland.edu/mees/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The program page does not state a supervisor rule.",
+      "quote": "",
+      "url": "https://www.graduate.umaryland.edu/mees/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The program page does not state funding.",
+      "quote": "",
+      "url": "https://www.graduate.umaryland.edu/mees/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The program page does not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://www.graduate.umaryland.edu/mees/"
+    }
+  },
+  "notes": "The page covers both the master's and PhD. The GRE General requirement is from the School of Graduate Studies list."
+}

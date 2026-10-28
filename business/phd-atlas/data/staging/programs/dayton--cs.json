@@ -1,0 +1,50 @@
+{
+  "id": "dayton--cs",
+  "university": "dayton",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science",
+  "program_page": "https://udayton.edu/academics/programs/computer-science-phd/index.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-01",
+      "value": "The program page gives no deadline, so the international fall default of June 1 applies.",
+      "quote": "Fall term (August through December) — June 1",
+      "url": "https://udayton.edu/apply/international/graduate/index.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is not required, but a score is welcome.",
+      "quote": "Results from the GRE are not required. However, candidates are welcome to submit a score in support of their application.",
+      "url": "https://udayton.edu/academics/programs/computer-science-phd/index.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is named for this field.",
+      "quote": "",
+      "url": "https://udayton.edu/academics/programs/computer-science-phd/index.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page asks for three letters and a personal statement but does not say a faculty agreement is needed first.",
+      "quote": "",
+      "url": "https://udayton.edu/academics/programs/computer-science-phd/index.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "International applicants face a limited, selective and competitive assistantship process, and Dayton offers no international doctoral aid or merit scholarships.",
+      "quote": "Please note the assistantship process is limited, selective and competitive.",
+      "url": "https://udayton.edu/apply/international/graduate/index.php"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants should hold a master's degree in mathematics, engineering or a science, and a graduate-level GPA of at least 3.4 out of 4.0 is normally required.",
+      "quote": "To be considered for admission to the Ph.D. program, the applicant should have a master's degree in mathematics, engineering or one of the sciences from an accredited institution of higher education.",
+      "url": "https://udayton.edu/academics/programs/computer-science-phd/index.php"
+    }
+  },
+  "notes": "Ph.D. in Computer Science. The page sets a normal graduate GPA of at least 3.4 out of 4.0.",
+  "name": "Computer Science Ph.D."
+}

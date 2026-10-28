@@ -1,0 +1,50 @@
+{
+  "id": "umaryland--biomed",
+  "university": "umaryland",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Molecular Medicine (GPILS)",
+  "program_page": "https://www.graduate.umaryland.edu/mmed/",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications are due December 1, for international and domestic applicants alike.",
+      "quote": "The annual application deadline for the Molecular Medicine Program is December 1",
+      "url": "https://lifesciences.umaryland.edu/molecularmedicine/frequently-asked-questions/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required and will not be accepted.",
+      "quote": "GRE scores are NOT required nor will they be accepted as a supplemental document to any application",
+      "url": "https://lifesciences.umaryland.edu/molecularmedicine/frequently-asked-questions/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is stated for this program.",
+      "quote": "",
+      "url": "https://www.graduate.umaryland.edu/mmed/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The program FAQ does not state a supervisor rule.",
+      "quote": "",
+      "url": "https://lifesciences.umaryland.edu/molecularmedicine/frequently-asked-questions/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Accepted students receive financial support for the duration of their studies, with a stipend of $39,000 a year.",
+      "quote": "Students accepted into the Molecular Medicine Ph.D. program are provided financial support for the duration of their studies",
+      "url": "https://lifesciences.umaryland.edu/molecularmedicine/frequently-asked-questions/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The program FAQ does not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://lifesciences.umaryland.edu/molecularmedicine/frequently-asked-questions/"
+    }
+  },
+  "notes": "Chosen as the representative biomedical PhD. Other biomedical PhDs (Epidemiology and Human Genetics, Molecular Microbiology and Immunology, Oral and Experimental Pathology, Dental Biomedical Sciences, Pharmaceutical Sciences) are listed in the university notes.",
+  "name": "Molecular Medicine"
+}

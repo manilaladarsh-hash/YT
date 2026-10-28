@@ -1,0 +1,62 @@
+{
+  "id": "dayton--biology",
+  "university": "dayton",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://udayton.edu/academics/programs/biology-phd/index.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-30",
+      "value": "Apply by April 30 for fall admission and assistantship consideration.",
+      "quote": "Deadlines for admission and graduate assistantship consideration: April 30 for admission to the subsequent fall semester",
+      "url": "https://udayton.edu/academics/programs/biology-phd/index.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required for the biology PhD.",
+      "quote": "GRE scores are not required.",
+      "url": "https://udayton.edu/academics/programs/biology-phd/index.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is named for this field.",
+      "quote": "",
+      "url": "https://udayton.edu/academics/programs/biology-phd/index.php"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must identify a Biology graduate faculty mentor and get their support before you apply.",
+      "quote": "Prior to beginning the application, the PhD applicant must identify a Biology graduate faculty mentor and contact them to gain their support.",
+      "url": "https://udayton.edu/academics/programs/biology-phd/index.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "International applicants face a limited, selective and competitive assistantship process, and Dayton offers no international doctoral aid or merit scholarships.",
+      "quote": "Please note the assistantship process is limited, selective and competitive.",
+      "url": "https://udayton.edu/apply/international/graduate/index.php"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's degree in biology or an equivalent is needed, and the program is 60 credit hours with a master's degree and 90 without one.",
+      "quote": "The program is 60 credit hours if you already have a M.S., and 90 credit hours if you come straight from a B.S.",
+      "url": "https://udayton.edu/academics/programs/biology-phd/index.php",
+      "also": [
+        {
+          "quote": "All applicants to our program should have a bachelor's degree in biology",
+          "url": "https://udayton.edu/academics/programs/biology-phd/index.php"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "95",
+      "value": "The biology department requires a TOEFL score of 95.",
+      "quote": "The Department of Biology requires a minimum TOEFL score of 95.",
+      "url": "https://udayton.edu/academics/programs/biology-phd/index.php"
+    }
+  },
+  "notes": "Biology (Ph.D.). Sourced from the department's current PhD page.",
+  "name": "Biology (Ph.D.)"
+}

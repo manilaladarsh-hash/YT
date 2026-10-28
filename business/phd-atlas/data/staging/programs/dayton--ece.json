@@ -1,0 +1,56 @@
+{
+  "id": "dayton--ece",
+  "university": "dayton",
+  "field": "ece",
+  "also_fields": [],
+  "department": "School of Engineering",
+  "program_page": "https://udayton.edu/academics/programs/electrical-engineering-de-phd/index.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-15",
+      "value": "Applications are accepted on a rolling basis, with an approximate fall deadline of June 15.",
+      "quote": "Fall Term: June 15",
+      "url": "https://udayton.edu/academics/programs/electrical-engineering-de-phd/index.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is not required, but a score is welcome.",
+      "quote": "Results from the GRE are not required. However, candidates are welcome to submit a score in support of their application.",
+      "url": "https://udayton.edu/academics/programs/electrical-engineering-de-phd/index.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is named for this field.",
+      "quote": "",
+      "url": "https://udayton.edu/academics/programs/electrical-engineering-de-phd/index.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page asks for a statement of research interests but does not say a faculty agreement is needed first.",
+      "quote": "",
+      "url": "https://udayton.edu/academics/programs/electrical-engineering-de-phd/index.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "International applicants face a limited, selective and competitive assistantship process, and Dayton offers no international doctoral aid or merit scholarships.",
+      "quote": "Please note the assistantship process is limited, selective and competitive.",
+      "url": "https://udayton.edu/apply/international/graduate/index.php"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants need an undergraduate degree in engineering, physics, chemistry, applied mathematics or a related field, and a master's degree is also considered.",
+      "quote": "Applicants must have an undergraduate degree from an accredited program in engineering, physics, chemistry, applied mathematics or another related field of study.",
+      "url": "https://udayton.edu/academics/programs/electrical-engineering-de-phd/index.php",
+      "also": [
+        {
+          "quote": "Applicants should have at least a 3.25 cumulative grade-point average on a 4.0 scale on their master's degree.",
+          "url": "https://udayton.edu/academics/programs/electrical-engineering-de-phd/index.php"
+        }
+      ]
+    }
+  },
+  "notes": "Electrical Engineering D.E. and Ph.D. in the School of Engineering. Electro-Optics is a separate program and is saved under physics. Admission requires a 3.0 undergraduate GPA on a 4.0 scale.",
+  "name": "Electrical Engineering D.E., Ph.D."
+}

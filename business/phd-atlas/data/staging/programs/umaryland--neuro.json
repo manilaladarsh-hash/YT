@@ -1,0 +1,49 @@
+{
+  "id": "umaryland--neuro",
+  "university": "umaryland",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Neuroscience (GPILS)",
+  "program_page": "https://www.graduate.umaryland.edu/pin/",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications are due December 1.",
+      "quote": "Application Deadline: December 1",
+      "url": "https://www.graduate.umaryland.edu/pin/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE General Test is not on the School of Graduate Studies list of programs that require it.",
+      "quote": "The GRE General Test IS required by the following graduate programs: Biomedical Sciences-Dental School, Epidemiology and Human Genetics, Oral and Experimental Pathology, Physical Rehabilitation Science*, Marine Environmental Estuarine Studies and Nursing**.",
+      "url": "https://graduate.umaryland.edu/admissions/how-to-apply/doctoralphd-program-applications/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Psychology subject test is stated for this program.",
+      "quote": "",
+      "url": "https://lifesciences.umaryland.edu/neuroscience/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students complete rotations in the first year, then choose a dissertation lab.",
+      "quote": "after which students perform full-time dissertation research in a laboratory chosen from 2-3 laboratory rotations completed in the first year",
+      "url": "https://www.graduate.umaryland.edu/pin/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Students are fully supported for their first 15 months by GPILS and training grants, then by their dissertation lab.",
+      "quote": "Our students are fully supported by the Graduate Program in Life Sciences and other training grants for their first 15 months and subsequently fully supported by their dissertation research lab",
+      "url": "https://lifesciences.umaryland.edu/neuroscience/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The program page does not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://www.graduate.umaryland.edu/pin/"
+    }
+  },
+  "notes": "The program page says the coursework is completed in the first 16 months; the GPILS page says 15 months. Both are quoted from their own pages."
+}

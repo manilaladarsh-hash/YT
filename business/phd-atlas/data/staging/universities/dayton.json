@@ -1,0 +1,53 @@
+{
+  "id": "dayton",
+  "institution": "University of Dayton",
+  "country": "USA",
+  "region": "Ohio",
+  "grad_page": "https://udayton.edu/apply/international/graduate/index.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "International applicants pay a $50 application fee, which applies from Spring 2027, so Fall 2027 applicants pay it.",
+      "quote": "Applications for Spring 2027 and beyond require a $50 application fee upon completion of the application.",
+      "url": "https://udayton.edu/apply/international/graduate/index.php"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application fee waiver for international graduate applicants appears on the international, FAQ or tuition pages.",
+      "quote": "",
+      "url": "https://udayton.edu/apply/international/graduate/index.php"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Some programs may require the GRE or GMAT and each department sets its own rule, so the program records state it.",
+      "quote": "Applicants to the following programs may be required to submit graduate entrance exam scores (GRE or GMAT)",
+      "url": "https://udayton.edu/apply/international/graduate/index.php"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "A TOEFL iBT score of 4.5 (80 on the old scale) is the minimum for full admission.",
+      "quote": "A minimum score of 4.5 (80 on the previous score scale) on the Internet-based test is required for full admission.",
+      "url": "https://udayton.edu/apply/international/graduate/english-proficiency.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "An IELTS band score of 6.5 is the minimum for full admission.",
+      "quote": "A minimum band score of 6.5 is required for full admission.",
+      "url": "https://udayton.edu/apply/international/graduate/english-proficiency.php"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the exemption list (a US degree, or a degree from an English-medium institution in a named country), so Indian applicants need a test score.",
+      "quote": "You are exempt from the English proficiency requirement if you received a bachelor degree or higher from one of the following:",
+      "url": "https://udayton.edu/apply/international/graduate/english-proficiency.php",
+      "also": [
+        {
+          "quote": "An institution that conducts instruction in English in Australia, Belize, English-speaking countries in the Caribbean, English-speaking provinces of Canada, Ghana, Ireland, New Zealand, Singapore, Nigeria or the United Kingdom.",
+          "url": "https://udayton.edu/apply/international/graduate/english-proficiency.php"
+        }
+      ]
+    }
+  },
+  "notes": "Fee: the $50 international fee starts Spring 2027 per the international page; the graduate FAQ says it applies to all applicants from Summer 2027. Duolingo (110), ELS (Level 112) and Cambridge C1 Advanced (160) are also accepted for full admission. Applicants below the minimums may be conditionally admitted to the Intensive English Program. The undergraduate pages list different minimums; they were not used."
+}

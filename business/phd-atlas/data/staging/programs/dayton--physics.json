@@ -1,0 +1,49 @@
+{
+  "id": "dayton--physics",
+  "university": "dayton",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Electro-Optics and Photonics",
+  "program_page": "https://udayton.edu/academics/programs/electro-optics-phd/index.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "There are no formal application deadlines, but you must be able to start classes at the beginning of a semester.",
+      "quote": "There are no formal deadlines for applications.",
+      "url": "https://udayton.edu/academics/programs/electro-optics-phd/index.php"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is not required, but a score is welcome.",
+      "quote": "Results from the GRE are not required. However, candidates are welcome to submit a score in support of their application.",
+      "url": "https://udayton.edu/academics/programs/electro-optics-phd/index.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is named for this field.",
+      "quote": "",
+      "url": "https://udayton.edu/academics/programs/electro-optics-phd/index.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page asks for two letters and a resume but does not say a faculty agreement is needed first.",
+      "quote": "",
+      "url": "https://udayton.edu/academics/programs/electro-optics-phd/index.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "International applicants face a limited, selective and competitive assistantship process, and Dayton offers no international doctoral aid or merit scholarships.",
+      "quote": "Please note the assistantship process is limited, selective and competitive.",
+      "url": "https://udayton.edu/apply/international/graduate/index.php"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants must hold a master's degree in engineering, physics, chemistry, applied mathematics or a related field, with a GPA of at least 3.5 on a 4.0 scale.",
+      "quote": "Applicants must have a master's degree from an accredited program in engineering, physics, chemistry, applied mathematics or other appropriate program of study.",
+      "url": "https://udayton.edu/academics/programs/electro-optics-phd/index.php"
+    }
+  },
+  "notes": "Electro-Optics & Photonics Ph.D. (School of Engineering). Saved under physics because the photonics PhD is not an engineering field in fields.json. The page sets a 3.5 GPA on a 4.0 scale.",
+  "name": "Electro-Optics Ph.D."
+}

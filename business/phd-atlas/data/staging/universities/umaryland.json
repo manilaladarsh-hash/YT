@@ -1,0 +1,53 @@
+{
+  "id": "umaryland",
+  "institution": "University of Maryland, Baltimore",
+  "country": "USA",
+  "region": "Maryland",
+  "grad_page": "https://graduate.umaryland.edu/admissions/how-to-apply/doctoralphd-program-applications/",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "Each program's application costs $75, paid per program applied to.",
+      "quote": "pay the application $75.00 fee",
+      "url": "https://graduate.umaryland.edu/admissions/how-to-apply/doctoralphd-program-applications/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No general international fee waiver is stated on the School of Graduate Studies pages.",
+      "quote": "",
+      "url": "https://graduate.umaryland.edu/admissions/how-to-apply/doctoralphd-program-applications/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each program; see the program record.",
+      "quote": "",
+      "url": "https://graduate.umaryland.edu/admissions/how-to-apply/doctoralphd-program-applications/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The TOEFL iBT minimum for admission is 80.",
+      "quote": "The minimum acceptable TOEFL score for admission is 80 for the internet-based test (IBT)",
+      "url": "https://graduate.umaryland.edu/admissions/how-to-apply/international-applicants/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The IELTS minimum is an overall band of 7.",
+      "quote": "IELTS test takers must score no less than Band 7 (total)",
+      "url": "https://graduate.umaryland.edu/admissions/how-to-apply/international-applicants/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the exempt-country list, so an Indian applicant needs a TOEFL, IELTS or Duolingo score unless they appeal in writing.",
+      "quote": "Students who are citizens of any of the countries on the list below and whose total education (primary – tertiary) was conducted in English are not required to take an English proficiency exam",
+      "url": "https://graduate.umaryland.edu/admissions/how-to-apply/international-applicants/",
+      "also": [
+        {
+          "quote": "Any individual that does not meet the above criteria, but who believes that s/he should be exempt from the English language proficiency requirement for whatever reason(s), must provide a written appeal to the School of Graduate Studies",
+          "url": "https://graduate.umaryland.edu/admissions/how-to-apply/international-applicants/"
+        }
+      ]
+    }
+  },
+  "notes": "Health-sciences campus: no PhD in physics, chemistry, mathematics, computing, engineering or earth science. Saved programs (one record per field): Biochemistry and Molecular Biology (biology), Molecular Medicine (biomed), Neuroscience (neuro), Marine Estuarine Environmental Sciences (environment). Other STEM-type PhDs on the official doctoral list, not saved because the record id is one per field: Dental Biomedical Sciences (School of Dentistry), Epidemiology and Human Genetics, Molecular Microbiology and Immunology, Oral and Experimental Pathology, Pharmaceutical Sciences. Not STEM fields in the Atlas list: Gerontology (listed as Not Accepting New Applicants), Health Professions Education, Nursing, Palliative Care, Pharmaceutical Health Services Research, Physical Rehabilitation Science, Social Work. Duolingo minimum is 115 per the international applicants page."
+}

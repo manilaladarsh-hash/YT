@@ -1,0 +1,56 @@
+{
+  "id": "umaryland--biology",
+  "university": "umaryland",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Graduate Program in Life Sciences (GPILS)",
+  "program_page": "https://www.graduate.umaryland.edu/mbic/",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-15",
+      "value": "International PhD applicants apply by November 15; other PhD applicants by December 1.",
+      "quote": "International PhD Applicants: November 15",
+      "url": "https://www.graduate.umaryland.edu/mbic/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE General Test is not on the School of Graduate Studies list of programs that require it.",
+      "quote": "The GRE General Test IS required by the following graduate programs: Biomedical Sciences-Dental School, Epidemiology and Human Genetics, Oral and Experimental Pathology, Physical Rehabilitation Science*, Marine Environmental Estuarine Studies and Nursing**.",
+      "url": "https://graduate.umaryland.edu/admissions/how-to-apply/doctoralphd-program-applications/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is stated for this program.",
+      "quote": "",
+      "url": "https://www.graduate.umaryland.edu/mbic/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students do three laboratory rotations before choosing a lab, so admission is not tied to a named supervisor.",
+      "quote": "They build skills through a series of three rotations in different laboratories",
+      "url": "https://www.graduate.umaryland.edu/mbic/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Students accepted into GPILS PhD programs are funded for the full time needed to finish the PhD, typically four to six years.",
+      "quote": "Financial support is ensured for the duration of time required to complete the PhD",
+      "url": "https://lifesciences.umaryland.edu/prospective/financial-support--tools/",
+      "also": [
+        {
+          "quote": "Students accepted into any of the Graduate Program in Life Sciences' PhD programs receive financial support from NIH-funded training grants, mentor grants, and/or other University of Maryland, Baltimore sources",
+          "url": "https://lifesciences.umaryland.edu/prospective/financial-support--tools/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The program page does not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://www.graduate.umaryland.edu/mbic/"
+    }
+  },
+  "notes": "Umbrella GPILS admission; Molecular Microbiology and Immunology and other GPILS PhDs are separate tracks not saved here.",
+  "name": "Biochemistry and Molecular Biology"
+}
