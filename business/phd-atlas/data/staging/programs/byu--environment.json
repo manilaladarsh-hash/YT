@@ -1,0 +1,50 @@
+{
+  "id": "byu--environment",
+  "university": "byu",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Plant and Wildlife Sciences",
+  "program_page": "https://pws.byu.edu/graduate-applicant-faqs",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Applications are reviewed once a year with a February 1 deadline and no rolling admissions.",
+      "quote": "with the application deadline on February 1st of each year",
+      "url": "https://pws.byu.edu/graduate-applicant-faqs",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The department's graduate FAQ sets a GRE combined minimum of 300, with at least 4.0 on analytical writing.",
+      "quote": "A GRE combined minimum score of 300 with a minimum score of 4.0 on the analytical writing portion is required.",
+      "url": "https://pws.byu.edu/graduate-applicant-faqs"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A faculty member must agree to be the major advisor before admission.",
+      "quote": "No graduate candidate will be accepted unless he or she has a departmental faculty member willing to serve as their major advisor on a funded project.",
+      "url": "https://pws.byu.edu/graduate-applicant-faqs"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The fetched pages do not say whether a master's is needed for the PhD.",
+      "quote": "",
+      "url": "https://pws.byu.edu/admission-requirements"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The fetched page gives no funding rule.",
+      "quote": "",
+      "url": "https://pws.byu.edu/graduate-applicant-faqs"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The fetched page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://pws.byu.edu/graduate-applicant-faqs"
+    }
+  },
+  "notes": "The department's graduate FAQ lists the Wildlife & Wildlands Conservation PhD. The admission page gives a GPA of 3.2 or higher, and any science-related bachelor's is acceptable. This is a judgment on which field it fits (environment); the PhD page itself was not fetched.",
+  "name": "Wildlife & Wildlands Conservation PhD"
+}

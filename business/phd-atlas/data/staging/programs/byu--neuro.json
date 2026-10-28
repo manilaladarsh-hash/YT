@@ -1,0 +1,60 @@
+{
+  "id": "byu--neuro",
+  "university": "byu",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Neuroscience",
+  "program_page": "https://neuroscience.byu.edu/graduate-applications",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The Neuroscience pages fetched give no deadline; the Graduate Studies listing failed through the proxy.",
+      "quote": "",
+      "url": "https://neuroscience.byu.edu/graduate-applications"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE, MCAT and DAT are not required, though they can be submitted.",
+      "quote": "GRE, MCAT or DAT are not required, but may be submitted if desired.",
+      "url": "https://neuroscience.byu.edu/graduate-applications"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Subject test is mentioned on the page.",
+      "quote": "",
+      "url": "https://neuroscience.byu.edu/graduate-applications"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The department asks for an IELTS Academic overall band of 7.0, with at least 6.0 in each module.",
+      "quote": "IELTS: Overall minimum band score of 7.0",
+      "url": "https://neuroscience.byu.edu/graduate-applications"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Applicants whose first language is not English must take TOEFL or IELTS, which covers Indian applicants.",
+      "quote": "English as a second language applicants must successfully complete the TOEFL or IELTS examination",
+      "url": "https://neuroscience.byu.edu/graduate-applications"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly advised to talk with a desired faculty advisor before applying.",
+      "quote": "It is highly recommended that applicants talk with their desired faculty advisors",
+      "url": "https://neuroscience.byu.edu/graduate-applications"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The fetched Neuroscience pages give no funding rule.",
+      "quote": "",
+      "url": "https://neuroscience.byu.edu/graduate-applications"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The fetched Neuroscience pages give no entry-route rule.",
+      "quote": "",
+      "url": "https://neuroscience.byu.edu/graduate-applications"
+    }
+  },
+  "notes": "The page asks for an undergraduate GPA of 3.0 or higher (lower GPAs need a petition). The department's TOEFL iBT minimum of 85 is on the old scale and is not recorded. The Graduate Studies neuroscience-phd page failed through the proxy."
+}

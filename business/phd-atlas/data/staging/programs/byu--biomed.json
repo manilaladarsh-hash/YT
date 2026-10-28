@@ -1,0 +1,49 @@
+{
+  "id": "byu--biomed",
+  "university": "byu",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Microbiology and Molecular Biology",
+  "program_page": "https://mmbio.byu.edu/mmbio-grads",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The MMBio page fetched gives no deadline; the Graduate Studies listing failed through the proxy.",
+      "quote": "",
+      "url": "https://mmbio.byu.edu/mmbio-grads"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The fetched MMBio page does not mention the GRE.",
+      "quote": "",
+      "url": "https://mmbio.byu.edu/mmbio-grads"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every admitted PhD student gets full tuition coverage and a living stipend.",
+      "quote": "PhD students are provided with complete tuition coverage and a living stipend upon admittance into the program.",
+      "url": "https://mmbio.byu.edu/mmbio-grads"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The fetched page gives no entry-route rule.",
+      "quote": "",
+      "url": "https://mmbio.byu.edu/mmbio-grads"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The fetched page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://mmbio.byu.edu/mmbio-grads"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The fetched page gives no supervisor rule.",
+      "quote": "",
+      "url": "https://mmbio.byu.edu/mmbio-grads"
+    }
+  },
+  "notes": "The department also offers a Cell Biology and Physiology PhD, which is not saved here because this program takes the biomed field. The admission-requirements page (Coursedog catalog) failed through the proxy.",
+  "name": "Microbiology and Molecular Biology PhD"
+}

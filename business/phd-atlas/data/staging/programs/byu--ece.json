@@ -1,0 +1,55 @@
+{
+  "id": "byu--ece",
+  "university": "byu",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Electrical and Computer Engineering",
+  "program_page": "https://ece.byu.edu/application-admission-overview",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall applications are due January 15, earlier than the university deadline.",
+      "quote": "Application Deadline Fall January 15",
+      "url": "https://ece.byu.edu/application-admission-overview",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE is required except for holders of a BYU electrical, computer or cybersecurity degree.",
+      "quote": "is required for all applicants, except those with a degree in Electrical Engineering, Computer Engineering, or Cybersecurity from BYU",
+      "url": "https://ece.byu.edu/application-admission-overview"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "The department requires the TOEFL for applicants from countries where English is not the official language, which includes India.",
+      "quote": "The TOEFL is only required of applicants from countries where English is not the official language",
+      "url": "https://ece.byu.edu/application-admission-overview"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants must name at least one ECE faculty member in their statement, but the page does not require faculty agreement in advance.",
+      "quote": "Identify at least one faculty adviser from our department that shares your research interests",
+      "url": "https://ece.byu.edu/application-admission-overview"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Financial packages are awarded on a competitive basis, with preference for PhD applicants.",
+      "quote": "are awarded to graduate students on a competitive basis",
+      "url": "https://ece.byu.edu/application-admission-overview"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "International applicants without an MS are unlikely to be admitted directly to the PhD.",
+      "quote": "international applicants who do not currently have an MS degree are unlikely to be admitted directly into the PhD program",
+      "url": "https://ece.byu.edu/application-admission-overview"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The fetched page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://ece.byu.edu/application-admission-overview"
+    }
+  },
+  "notes": "The department's TOEFL score of 85 iBT is on the old scale; the university's new 4.5 minimum applies. The department deadline is earlier than the university's."
+}

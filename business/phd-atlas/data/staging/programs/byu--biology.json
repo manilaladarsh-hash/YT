@@ -1,0 +1,55 @@
+{
+  "id": "byu--biology",
+  "university": "byu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Biology",
+  "program_page": "https://biology.byu.edu/biology/graduate-admissions",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The doctorate deadline is January 15 for US and international applicants.",
+      "quote": "January 15th (US & international)",
+      "url": "https://biology.byu.edu/biology/graduate-admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required.",
+      "quote": "The GRE is not required.",
+      "url": "https://biology.byu.edu/biology/graduate-admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Subject test is mentioned on the page.",
+      "quote": "",
+      "url": "https://biology.byu.edu/biology/graduate-admissions"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Foreign students must submit English proficiency scores, so Indian applicants need a test.",
+      "quote": "Foreign students must submit English language proficiency exam scores.",
+      "url": "https://biology.byu.edu/biology/graduate-admissions"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must choose at least one advisor before applying, and that advisor stays for the whole program.",
+      "quote": "applicants must select at least one advisor they are interested in working with before they apply",
+      "url": "https://biology.byu.edu/biology/graduate-admissions"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The fetched page gives no funding rule.",
+      "quote": "",
+      "url": "https://biology.byu.edu/biology/graduate-admissions"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's is the baseline, and a master's is preferred but not required.",
+      "quote": "Master's degree is preferred, but not absolutely required.",
+      "url": "https://biology.byu.edu/biology/graduate-admissions"
+    }
+  },
+  "notes": "Doctoral credit: 54 minimum hours (36 coursework, 18 dissertation). Minimum GPA 3.0 (undergraduate cumulative)."
+}

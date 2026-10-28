@@ -1,0 +1,49 @@
+{
+  "id": "byu--civil",
+  "university": "byu",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Civil and Construction Engineering",
+  "program_page": "https://cce.byu.edu/prospective-students-masters-and-phd",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "The Fall semester deadline for US and international applicants is February 15.",
+      "quote": "FALL SEMESTER (SEPTEMBER) FEBRUARY 15",
+      "url": "https://cce.byu.edu/prospective-students-masters-and-phd",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE is required for US and international applicants.",
+      "quote": "U.S. and International Students: GRE",
+      "url": "https://cce.byu.edu/prospective-students-masters-and-phd"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department lists scholarships and assistantships but gives no PhD funding rule.",
+      "quote": "The Civil and Construction Engineering Department offers three types of financial assistance",
+      "url": "https://cce.byu.edu/prospective-students-masters-and-phd"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The PhD normally takes at least two years beyond a master's degree.",
+      "quote": "The degree normally requires a minimum of 2 years beyond the master’s degree.",
+      "url": "https://cce.byu.edu/prospective-students-masters-and-phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The fetched page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://cce.byu.edu/prospective-students-masters-and-phd"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The fetched page gives no supervisor rule.",
+      "quote": "",
+      "url": "https://cce.byu.edu/prospective-students-masters-and-phd"
+    }
+  },
+  "notes": "PhD applicants need a cumulative GPA of 3.4 or higher. The civil-engineering-phd page on gradstudies.byu.edu failed through the proxy; a search snippet gave a May 15 date that is not fetched, so the department page's February 15 is used."
+}

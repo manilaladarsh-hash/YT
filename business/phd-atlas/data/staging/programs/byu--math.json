@@ -1,0 +1,62 @@
+{
+  "id": "byu--math",
+  "university": "byu",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://math.byu.edu/program-details-masters-phd",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Applications for Spring, Summer and Fall terms are due January 15.",
+      "quote": "Deadlines: January 15 (Spring, Summer, Fall)",
+      "url": "https://math.byu.edu/applications-deadlines",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The department lists the $50 application fee.",
+      "quote": "$50 application fee.",
+      "url": "https://math.byu.edu/applications-deadlines"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The math department cannot waive any application fee.",
+      "quote": "The math department is unable to waive any application fees.",
+      "url": "https://math.byu.edu/applications-deadlines"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "No GRE General scores are needed.",
+      "quote": "Applicants are not required to submit scores from the GRE General Test or the GRE Math Subject Test.",
+      "url": "https://math.byu.edu/applications-deadlines"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE Math Subject scores are needed.",
+      "quote": "Applicants are not required to submit scores from the GRE General Test or the GRE Math Subject Test.",
+      "url": "https://math.byu.edu/applications-deadlines"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The fetched math pages say nothing about supervisors.",
+      "quote": "",
+      "url": "https://math.byu.edu/applications-deadlines"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The fetched math pages give no PhD funding rule.",
+      "quote": "",
+      "url": "https://math.byu.edu/applications-deadlines"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The first requirement is a bachelor's degree in mathematics or a similar technical subject; the page names no master's requirement.",
+      "quote": "A bachelor’s degree in mathematics or similar technical subject",
+      "url": "https://math.byu.edu/applications-deadlines"
+    }
+  },
+  "notes": "The program-details page lists the PhD in Mathematics. The applications page lists the requirements.",
+  "name": "PhD in Mathematics"
+}

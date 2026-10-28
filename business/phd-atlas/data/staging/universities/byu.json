@@ -1,0 +1,47 @@
+{
+  "id": "byu",
+  "institution": "Brigham Young University",
+  "country": "USA",
+  "region": "Utah",
+  "grad_page": "https://gradstudies.byu.edu/admissions/applying-international-applicants",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "Every graduate applicant pays a $50 application fee when applying.",
+      "quote": "A $50 application fee is required upon applying.",
+      "url": "https://gradstudies.byu.edu/admissions/applying-international-applicants"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "The fetched Graduate Studies pages mention no fee waiver; departments differ (see program records).",
+      "quote": "",
+      "url": "https://gradstudies.byu.edu/admissions/applying-international-applicants"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate Studies pages leave the GRE to each program; see the program records.",
+      "quote": "",
+      "url": "https://gradstudies.byu.edu/admissions/applying-international-applicants"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT overall 4.5 on the new scale from January 21, 2026, with at least 4.0 in each section.",
+      "quote": "comprising an overall score of at least 4.5",
+      "url": "https://gradstudies.byu.edu/admissions/english-proficiency"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic overall band 7.0, with at least 6.0 in each module.",
+      "quote": "Overall minimum band score of 7.0",
+      "url": "https://gradstudies.byu.edu/admissions/english-proficiency"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the exempt-country list, so Indian applicants need an English test score.",
+      "quote": "Only applicants who are citizens of the following countries",
+      "url": "https://gradstudies.byu.edu/admissions/english-proficiency"
+    }
+  },
+  "notes": "Built from the Graduate Studies international applicants and English proficiency pages. Graduate Studies program pages (gradstudies.byu.edu/<program>-phd) and the Coursedog program catalog failed through the proxy (ERR_TUNNEL_CONNECTION_FAILED or 502), so program-level facts come from department pages. Some department pages still quote the old TOEFL 85 iBT minimum; not used here. The English page says some departments may require higher scores."
+}

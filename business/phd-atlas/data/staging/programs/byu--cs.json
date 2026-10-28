@@ -1,0 +1,61 @@
+{
+  "id": "byu--cs",
+  "university": "byu",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science",
+  "program_page": "https://cs.byu.edu/education/graduate/admissions-information",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The Fall semester deadline is December 15, so Fall 2027 applications close December 15, 2026.",
+      "quote": "Application Deadline—December 15",
+      "url": "https://cs.byu.edu/education/graduate/admissions-information",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department requires no standardized test.",
+      "quote": "The GRE is NOT required.",
+      "url": "https://cs.byu.edu/education/graduate/admissions-information"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No Subject test is mentioned on the page.",
+      "quote": "",
+      "url": "https://cs.byu.edu/education/graduate/admissions-information"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The department and the university do not offer application fee waivers.",
+      "quote": "fee waivers are not available at the department or university level",
+      "url": "https://cs.byu.edu/education/graduate/admissions-information"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "The department does not waive English proficiency, so Indian applicants need a test score.",
+      "quote": "The CS department does not waive English Proficiency Requirements.",
+      "url": "https://cs.byu.edu/education/graduate/admissions-information"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most admitted PhD students are fully funded, mainly through research or teaching assistantships.",
+      "quote": "Most admitted PhD students are fully funded.",
+      "url": "https://cs.byu.edu/education/graduate/admissions-information"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by a faculty committee, and a temporary advisor is assigned after admission.",
+      "quote": "Admissions decisions are made by a committee of CS faculty",
+      "url": "https://cs.byu.edu/education/graduate/admissions-information"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants who hold a BS or an MS may apply to the PhD.",
+      "quote": "Applicants who hold (or will soon receive) a BS or MS may apply to the PhD program.",
+      "url": "https://cs.byu.edu/education/graduate/admissions-information"
+    }
+  },
+  "notes": "The page lists a PhD GPA minimum of 3.5 on a 4-point scale."
+}

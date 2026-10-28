@@ -1,0 +1,63 @@
+{
+  "id": "byu--physics",
+  "university": "byu",
+  "field": "physics",
+  "also_fields": [
+    "astronomy"
+  ],
+  "department": "Department of Physics and Astronomy",
+  "program_page": "https://physics.byu.edu/graduate/apply",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Applications for full consideration are due January 15 each year, which covers Fall 2027 entry.",
+      "quote": "The application deadline for full consideration in the program is January 15 of each year.",
+      "url": "https://physics.byu.edu/graduate/apply",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The department lists the $50 application fee.",
+      "quote": "Application Fee ($50).",
+      "url": "https://physics.byu.edu/graduate/apply"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The department accepts a fee-waiver form for applications completed by January 8.",
+      "quote": "For applications completed by January 8, a fee waiver form can be submitted to the department.",
+      "url": "https://physics.byu.edu/graduate/apply"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE General is highly recommended but not required.",
+      "quote": "A GRE General Test score is highly recommended but not required.",
+      "url": "https://physics.byu.edu/graduate/apply"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The physics page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://physics.byu.edu/graduate/apply"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "A faculty academic sponsor is assigned after admission, so the page does not require an advisor agreement before applying.",
+      "quote": "Upon admission, a faculty member is assigned to each student as their academic sponsor.",
+      "url": "https://physics.byu.edu/graduate/apply"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The physics application page gives no funding rule.",
+      "quote": "",
+      "url": "https://physics.byu.edu/graduate/apply"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Admission requires a bachelor's degree from an accredited university; the page names no master's requirement.",
+      "quote": "A bachelor's degree from an accredited university",
+      "url": "https://physics.byu.edu/graduate/apply"
+    }
+  },
+  "notes": "The Department of Physics and Astronomy page lists an Astronomy Group, so astronomy is saved as also_fields. The science.byu.edu page confirms that both MS and PhD programs are offered. The gradstudies.byu.edu/physics-phd page failed through the proxy."
+}
