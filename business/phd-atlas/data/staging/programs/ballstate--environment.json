@@ -1,0 +1,44 @@
+{
+  "id": "ballstate--environment",
+  "university": "ballstate",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Environmental Sciences (College of Sciences and Humanities)",
+  "program_page": "https://www.bsu.edu/academics/collegesanddepartments/environmental-sciences/phd-overview",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "International students should submit application materials by January 1 for assistantship consideration; other applicants by February 1.",
+      "quote": "all application materials should be submitted by February 1 for the following academic year, and by January 1 if you are an international student.",
+      "url": "https://www.bsu.edu/academics/collegesanddepartments/environmental-sciences/graduate-assistantships",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The environmental sciences pages checked do not mention a GRE test.",
+      "quote": "",
+      "url": "https://www.bsu.edu/academics/collegesanddepartments/environmental-sciences/phd-overview"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are asked to name a faculty mentor who will chair their PhD committee when applying; the page does not say the mentor must agree beforehand.",
+      "quote": "When you apply, we ask that you identify a faculty mentor who will chair your PhD committee.",
+      "url": "https://www.bsu.edu/academics/collegesanddepartments/environmental-sciences/phd-overview"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate assistantships (teaching and research) are awarded to top students based on academic performance and cover partial tuition plus a stipend.",
+      "quote": "Our graduate assistantships, awarded to top students based on academic performance",
+      "url": "https://www.bsu.edu/academics/collegesanddepartments/environmental-sciences/graduate-assistantships"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's degree in a relevant science is required before applying.",
+      "quote": "you must have the minimum of a master's degree in biology, chemistry, geography (meteorology, remote sensing, GIS), geological sciences, natural resources, environmental science, or an equivalent science program at an accredited institution",
+      "url": "https://www.bsu.edu/academics/collegesanddepartments/environmental-sciences/phd-overview"
+    }
+  },
+  "notes": "Concentrations include biology, chemistry, geography, geological sciences and natural resources, all inside this one PhD. Program name: PhD in Environmental Sciences (Ball State lists it as PhD in Environmental Science in some places).",
+  "name": "PhD in Environmental Sciences"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ballstate--biomed",
+  "university": "ballstate",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Kinesiology (Human Performance Laboratory)",
+  "program_page": "https://www.bsu.edu/academics/collegesanddepartments/kinesiology/admissions-financial-aid/phd-human-bioenergetics",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Fall entry application deadline is February 1; materials go through the Cardinal Landing portal.",
+      "quote": "Application Deadline: February 1",
+      "url": "https://www.bsu.edu/academics/collegesanddepartments/kinesiology/admissions-financial-aid/phd-human-bioenergetics",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Human Bioenergetics admissions pages do not mention a GRE test.",
+      "quote": "",
+      "url": "https://www.bsu.edu/academics/collegesanddepartments/kinesiology/admissions-financial-aid/phd-human-bioenergetics"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to contact the Director of Graduate Studies before applying.",
+      "quote": "You are encouraged to contact Dr. Scott Trappe, strappe@bsu.edu for more information about the Human Performance Laboratory and associated research programs.",
+      "url": "https://www.bsu.edu/academics/collegesanddepartments/kinesiology/admissions-financial-aid/phd-human-bioenergetics"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Only applicants accepted with a stipend and tuition waiver are admitted, renewable for three years for PhD students.",
+      "quote": "Yes, we provide a stipend and tuition waiver for each Fall, Spring, and Summer.",
+      "url": "https://www.bsu.edu/academics/centersandinstitutes/hpl/academic-programs/faq",
+      "also": [
+        {
+          "quote": "No, only those accepted to receive a stipend and tuition waiver are accepted into the program.",
+          "url": "https://www.bsu.edu/academics/centersandinstitutes/hpl/academic-programs/faq"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's degree or higher from a USDE-recognized institution is required, with at least a 3.2 GPA from the master's-granting school.",
+      "quote": "You must have a master's degree or higher from an institution recognized by a USDE accrediting association.",
+      "url": "https://www.bsu.edu/academics/collegesanddepartments/kinesiology/admissions-financial-aid/phd-human-bioenergetics"
+    }
+  },
+  "notes": "Mapped to Biomedical Sciences because the program is a PhD in human bioenergetics / exercise physiology in Kinesiology; the page does not use the word biomedical. Also requires two semesters of organic chemistry with lab. Program name: PhD in Human Bioenergetics.",
+  "name": "PhD in Human Bioenergetics"
+}
