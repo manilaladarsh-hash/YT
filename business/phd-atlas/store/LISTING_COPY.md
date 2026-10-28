@@ -7,7 +7,7 @@ Every figure here comes from the verified dataset and is refreshed by `python3 p
 
 ## Product 1 (paid): STEM PhD Atlas 2027
 
-**Name:** STEM PhD Atlas 2027: 2,668 PhD programs in 18 fields, US, UK, Europe, Canada & Australia, for international applicants
+**Name:** STEM PhD Atlas 2027: 2,968 PhD programs in 18 fields, US, UK, Europe, Canada & Australia, for international applicants
 
 **URL slug:** `stem-phd-atlas-2027`
 
@@ -18,7 +18,7 @@ Every figure here comes from the verified dataset and is refreshed by `python3 p
 - **Batch licence (share with up to 30 students)**: $20, about ₹750 in India. Meant for a batch, student society or mentor sharing with juniors, which works out to about ₹25 per student. You don't have to be in the group, so an alumnus abroad can sponsor their old department's final-year batch.
 
 **Summary line (under the title):**
-2,668 PhD programs at 243 universities, across physics, chemistry, maths, statistics, computer science, data science, biology, neuroscience, earth science and engineering. Deadlines, fees in ₹, fee waivers, GRE, English-test waivers for Indian degrees, supervisor rules and funding, each linked to the official sentence it came from.
+2,968 PhD programs at 283 universities, across physics, chemistry, maths, statistics, computer science, data science, biology, neuroscience, earth science and engineering. Deadlines, fees in ₹, fee waivers, GRE, English-test waivers for Indian degrees, supervisor rules and funding, each linked to the official sentence it came from.
 
 **Description:**
 
@@ -31,7 +31,7 @@ Applying from India means hunting the same answers across dozens of websites:
 - Is funding **guaranteed**, or competitive?
 - Can I apply **straight from a bachelor's**, or do I need a master's first?
 
-The Atlas answers these for 2,668 programs, with the exact official sentence behind every answer.
+The Atlas answers these for 2,968 programs, with the exact official sentence behind every answer.
 
 **What you get**
 - **Offline explorer (Atlas.html):**
@@ -42,14 +42,14 @@ The Atlas answers these for 2,668 programs, with the exact official sentence beh
 - **Playbook (PDF):** the late-season timeline, English tests for Indian degrees, the GRE by field, how each field admits PhD students, country systems (UK funding rounds, European paid positions, supervisor-first Australia and Canada), a supervisor email that gets answered, an SOP framework, a letter-request kit and ethical fee-waiver requests.
 - **Free updates** for the Fall 2027 cycle. The download link in your receipt always serves the newest version.
 
-**Priced for students.** About ₹190 in India, a small fraction of one typical US application fee (₹7,600). Gumroad applies the regional price automatically and you can pay by UPI. The batch licence covers up to 30 people. **Alumni abroad:** one $20 batch licence covers your old department's whole final-year batch. If even ₹190 is a real barrier, reply to your free-sample receipt and ask for a free copy.
+**Priced for students.** About ₹190 in India, a small fraction of one typical US application fee (₹7,100). Gumroad applies the regional price automatically and you can pay by UPI. The batch licence covers up to 30 people. **Alumni abroad:** one $20 batch licence covers your old department's whole final-year batch. If even ₹190 is a real barrier, reply to your free-sample receipt and ask for a free copy.
 
-**What the Atlas found (checked October 27, 2026)**
-- **264 programs charge no application fee**, including ANU, Aarhus, Adelaide, Bristol, Carnegie Mellon, Case Western, Chalmers, Clarkson University and 21 more.
-- **30 universities accept an English-medium Indian degree** instead of TOEFL or IELTS, including ANU, Arizona, Boston College, CU Boulder, Caltech, Copenhagen, ETH Zurich, Georgia State University and 22 more. 61 require a test regardless.
-- **A GRE Subject test is still required** at 24 programs, including Berkeley, Brown, Calgary, Caltech, Cornell, Guelph and 13 more.
-- **Dec 1, 2026 is the most common US deadline** (397 programs); 78 programs close in November.
-- **759 programs need a supervisor's agreement** before admission, mostly in Europe, Australia and Canada.
+**What the Atlas found (checked October 28, 2026)**
+- **279 programs charge no application fee**, including ANU, Aarhus, Adelaide, Bristol, Carnegie Mellon, Case Western, Chalmers, Claremont Graduate University and 25 more.
+- **34 universities accept an English-medium Indian degree** instead of TOEFL or IELTS, including ANU, Arizona, Boston College, CU Boulder, Caltech, Copenhagen, ETH Zurich, Georgetown University and 26 more. 83 require a test regardless.
+- **A GRE Subject test is still required** at 26 programs, including Berkeley, Brown, Calgary, Caltech, Cornell, Florida Atlantic University and 15 more.
+- **Dec 1, 2026 is the most common US deadline** (416 programs); 94 programs close in November.
+- **796 programs need a supervisor's agreement** before admission, mostly in Europe, Australia and Canada.
 
 **How the data was built**
 Each value was copied from the program's own department or graduate-school page, with the quote, link and date stored. A script checks that every quote really appears on its page, and a weekly check flags pages that change. Where a page doesn't say, the Atlas says *Not stated* instead of guessing. The research was AI-assisted, and every value is tied to an official quote.
@@ -85,11 +85,11 @@ A free 3-page PDF with 12 programs across fields and regions: deadline, fee in �
 
 Plus what international applicants miss this cycle: where the GRE Subject test is still required, how many programs charge no fee, which universities accept an English-medium Indian degree, and the most common US deadline.
 
-The full Atlas covers 2,668 programs in 18 fields at 243 universities, with an offline explorer, a planner workbook and a playbook. It costs about ₹190 in India.
+The full Atlas covers 2,968 programs in 18 fields at 283 universities, with an offline explorer, a planner workbook and a playbook. It costs about ₹190 in India.
 
 **Receipt text (custom receipt field).** While Gumroad emails are locked, this is the only follow-up a sample downloader gets:
 
-Here's your free 12-program sample. Every value is copied from the program's official page, so tap through before paying any fee. The full Atlas covers 2,668 programs in 18 fields, with fees in ₹, a deadline planner and the playbook, for about ₹190 in India: {PAID_URL}?utm_source=sample&utm_medium=receipt&utm_campaign=launch2026. Questions? Just reply.
+Here's your free 12-program sample. Every value is copied from the program's official page, so tap through before paying any fee. The full Atlas covers 2,968 programs in 18 fields, with fees in ₹, a deadline planner and the playbook, for about ₹190 in India: {PAID_URL}?utm_source=sample&utm_medium=receipt&utm_campaign=launch2026. Questions? Just reply.
 
 ---
 
@@ -101,7 +101,7 @@ Here's your free 12-program sample. Every value is copied from the program's off
 
 **How current is it?** Values were checked on the date shown in the kit, and a weekly automated check flags changed pages. Always confirm on the official page before paying a fee.
 
-**Which countries?** The US (1,644 programs), the UK (136), Canada (276), continental Europe and Ireland (481: Austria, Belgium, Denmark, Finland, France, Germany, Ireland, Italy, Netherlands, Norway, Spain, Sweden, Switzerland) and Australia & NZ (131). Asia isn't covered. Some well-known programs blocked automated checks; they're added as free updates once their pages can be verified.
+**Which countries?** The US (1,944 programs), the UK (136), Canada (276), continental Europe and Ireland (481: Austria, Belgium, Denmark, Finland, France, Germany, Ireland, Italy, Netherlands, Norway, Spain, Sweden, Switzerland) and Australia & NZ (131). Asia isn't covered. Some well-known programs blocked automated checks; they're added as free updates once their pages can be verified.
 
 **How do I pay from India?** Gumroad shows the price in rupees and offers UPI to buyers in India. Cards and PayPal also work. If a card is declined, it probably has *international online transactions* switched off; RBI rules made that the default for cards issued since 2020. Switch it on in your banking app, or just use UPI.
 
