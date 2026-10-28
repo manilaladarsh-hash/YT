@@ -1,0 +1,67 @@
+{
+  "id": "miamiohio--biomed",
+  "university": "miamiohio",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Department of Microbiology",
+  "program_page": "https://programs.miamioh.edu/programs/microbiology-m-s-or-ph-d/",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "The Fall deadline is January 1, 2027.",
+      "quote": "Microbiology M.S., Ph.D. N/A CV, PS, 3 LoR, GRE (optional) 100/7.5 Fall: Jan. 1",
+      "url": "https://miamioh.edu/graduate-school/academics/doctoral-programs.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE is optional.",
+      "quote": "GRE (optional), use code 1463",
+      "url": "https://programs.miamioh.edu/programs/microbiology-m-s-or-ph-d/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page names no subject test.",
+      "quote": "",
+      "url": "https://programs.miamioh.edu/programs/microbiology-m-s-or-ph-d/"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "The department says a TOEFL below 100 will reduce admission chances, so this is a benchmark rather than a hard cut-off.",
+      "quote": "A TOEFL score below 100 or an IELTS score below 7.5 will reduce the chances of admission",
+      "url": "https://programs.miamioh.edu/programs/microbiology-m-s-or-ph-d/",
+      "also": [
+        {
+          "quote": "International applicants with a TOEFL score between 65 and 79 or an IELTS score of 5.5 or 6.0 may apply for conditional admission",
+          "url": "https://programs.miamioh.edu/programs/microbiology-m-s-or-ph-d/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "The department says an IELTS below 7.5 will reduce admission chances. Scores of 5.5 or 6.0 can qualify for conditional admission.",
+      "quote": "A TOEFL score below 100 or an IELTS score below 7.5 will reduce the chances of admission",
+      "url": "https://programs.miamioh.edu/programs/microbiology-m-s-or-ph-d/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a sponsor is needed for standard admission. Conditional applicants need one.",
+      "quote": "",
+      "url": "https://programs.miamioh.edu/programs/microbiology-m-s-or-ph-d/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most students receive university support, mostly as teaching assistants.",
+      "quote": "Most students receive University support in the form of teaching assistant",
+      "url": "https://programs.miamioh.edu/programs/microbiology-m-s-or-ph-d/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants from outside the US, Canada, Australia, New Zealand or Western Europe most likely hold a master's in biology or biochemistry.",
+      "quote": "Successful applicants with degrees from institutions located elsewhere in the world will most likely have completed a master’s degree",
+      "url": "https://programs.miamioh.edu/programs/microbiology-m-s-or-ph-d/"
+    }
+  },
+  "notes": "Also covers the Cell, Molecular and Structural Biology PhD (CMSB), an interdepartmental program that is not saved as its own record because the field already has one. CMSB: deadline Jan. 1 and GRE optional per the Graduate School table, any CMSB faculty member may serve as advisor, funding and sponsor rules not stated."
+}

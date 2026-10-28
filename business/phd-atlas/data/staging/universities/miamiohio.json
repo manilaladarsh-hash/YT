@@ -1,0 +1,53 @@
+{
+  "id": "miamiohio",
+  "institution": "Miami University",
+  "country": "USA",
+  "region": "Ohio",
+  "grad_page": "https://miamioh.edu/admission-aid/apply/graduate-students/",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The application fee for a graduate degree program is $50. Some designated programs waive it.",
+      "quote": "There is a $50 application fee when applying to a graduate degree program",
+      "url": "https://miamioh.edu/admission-aid/apply/graduate-students/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Only a limited number of waivers exist, for Miami graduate alumni, McNair Scholars and applicants from World Bank low-income countries.",
+      "quote": "Miami University has a limited number of graduate application fee waivers available",
+      "url": "https://miamioh.edu/graduate-school/about/faq/",
+      "also": [
+        {
+          "quote": "If you are from a low-income country designated by the World Bank",
+          "url": "https://miamioh.edu/graduate-school/about/faq/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School leaves the GRE to each department, so check the program record.",
+      "quote": "Because these tests are required by departments rather than by the Graduate School",
+      "url": "https://miamioh.edu/graduate-school/about/faq/"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "The Graduate School lists TOEFL iBT 4.0 on the new scale for tests from January 2026, and 80 before that. Some department pages still show 80.",
+      "quote": "TOEFL iBT, paper and home editions 80 (prior to Jan. 2026), 4.0 (Jan. 2026 and after)",
+      "url": "https://miamioh.edu/admission-aid/apply/graduate-students/international-application.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The minimum IELTS Academic score is 6.5.",
+      "quote": "TOEFL Essential 9 IELTS 6.5 PTE 54 Duolingo 110",
+      "url": "https://miamioh.edu/admission-aid/apply/graduate-students/international-application.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the list of countries exempt from English tests, so an Indian applicant with an English-medium degree still needs a score.",
+      "quote": "Students who study at an institution where the language of instruction is in English but the country's official language is not English are required to submit English proficiency test scores",
+      "url": "https://miamioh.edu/admission-aid/apply/graduate-students/international-application.html"
+    }
+  },
+  "notes": "Official doctoral list (15 doctoral programs) shows STEM PhDs in Biology, Botany, Cellular Molecular and Structural Biology, Chemistry, Computer Science, Ecology Evolution and Environmental Biology, Engineering, Geology, Microbiology and Psychology. No PhD is listed in math, statistics, physics, astronomy, materials or civil. Biology, Botany and Microbiology pages publish higher English levels, recorded on those programs. Miami does not offer conditional admission to applicants who cannot show English proficiency."
+}

@@ -1,0 +1,61 @@
+{
+  "id": "miamiohio--biology",
+  "university": "miamiohio",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology (Biology PhD and Botany PhD)",
+  "program_page": "https://programs.miamioh.edu/programs/biology-m-a-m-s-ph-d/",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "The application deadline is January 1, 2027.",
+      "quote": "Application Deadline: Jan. 1",
+      "url": "https://programs.miamioh.edu/programs/biology-m-a-m-s-ph-d/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The application list names no GRE.",
+      "quote": "As part of your online application, you will provide | Names and contact information of three people who will write letters of recommendation",
+      "url": "https://programs.miamioh.edu/programs/biology-m-a-m-s-ph-d/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page names no subject test.",
+      "quote": "",
+      "url": "https://programs.miamioh.edu/programs/biology-m-a-m-s-ph-d/"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "The Graduate School's program table lists TOEFL 100 for this PhD.",
+      "quote": "Biology M.A., M.S., Ph.D. N/A CV, PS, 3 LoR 100/6.5",
+      "url": "https://miamioh.edu/graduate-school/academics/doctoral-programs.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The Graduate School's program table lists IELTS 6.5 for this PhD.",
+      "quote": "Biology M.A., M.S., Ph.D. N/A CV, PS, 3 LoR 100/6.5",
+      "url": "https://miamioh.edu/graduate-school/academics/doctoral-programs.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants need a faculty sponsor, so contact potential advisors before the deadline.",
+      "quote": "Applicants without a faculty sponsor will not be considered for admission to the Biology or Botany Graduate Programs",
+      "url": "https://programs.miamioh.edu/programs/biology-m-a-m-s-ph-d/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not describe funding for this PhD.",
+      "quote": "",
+      "url": "https://programs.miamioh.edu/programs/biology-m-a-m-s-ph-d/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not state the entry degree.",
+      "quote": "",
+      "url": "https://programs.miamioh.edu/programs/biology-m-a-m-s-ph-d/"
+    }
+  },
+  "notes": "The Botany PhD sits in the same department and uses the same page for its sponsor rule. The Graduate School table lists its English levels as 100/6.5 for Botany too. Not saved separately: no field id for botany."
+}

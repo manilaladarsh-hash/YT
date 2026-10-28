@@ -1,0 +1,66 @@
+{
+  "id": "miamiohio--ece",
+  "university": "miamiohio",
+  "field": "ece",
+  "also_fields": [
+    "mech",
+    "chemeng",
+    "bme",
+    "physics"
+  ],
+  "department": "Engineering PhD (College of Engineering and Computing with the Department of Physics)",
+  "program_page": "https://programs.miamioh.edu/programs/engineering-ph-d/",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "The Fall deadline is February 1, 2027, and the Spring deadline is October 1.",
+      "quote": "Application Deadlines: Feb. 1 for Fall semester, Oct. 1 for Spring semester",
+      "url": "https://programs.miamioh.edu/programs/engineering-ph-d/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE is recommended but not required.",
+      "quote": "The Graduate Record Exam is recommended, but not required",
+      "url": "https://programs.miamioh.edu/programs/engineering-ph-d/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page names no subject test.",
+      "quote": "",
+      "url": "https://programs.miamioh.edu/programs/engineering-ph-d/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The department states a TOEFL minimum of 80, while the Graduate School now lists 4.0 on the new scale.",
+      "quote": "minimum score of 80 for TOEFL, 6.5 for IELTS, 54 for PTE, or 110 for Duolingo",
+      "url": "https://programs.miamioh.edu/programs/engineering-ph-d/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department states an IELTS minimum of 6.5.",
+      "quote": "minimum score of 80 for TOEFL, 6.5 for IELTS, 54 for PTE, or 110 for Duolingo",
+      "url": "https://programs.miamioh.edu/programs/engineering-ph-d/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a faculty sponsor is needed.",
+      "quote": "",
+      "url": "https://programs.miamioh.edu/programs/engineering-ph-d/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantships are limited, so apply early.",
+      "quote": "Limited graduate assistantships are available",
+      "url": "https://programs.miamioh.edu/programs/engineering-ph-d/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's with a 2.75 GPA or a master's in engineering, physics or a closely related field is accepted.",
+      "quote": "Admission requires either a bachelor's degree, with a minimum 2.75 GPA",
+      "url": "https://programs.miamioh.edu/programs/engineering-ph-d/"
+    }
+  },
+  "notes": "One interdisciplinary PhD in Engineering, taught with the Department of Physics. Concentrations: Biomedical, Chemical, Electrical and Computer, Mechanical and Manufacturing, Robotics and Automation, and Engineering Physics. Saved under ECE, with the others in also_fields."
+}
