@@ -35,3 +35,19 @@
 - Live validation: `288 universities, 2996 programs, 0 errors, 0 warnings` (`rc=0`).
 - Overall `Not stated` (`coverage.py`): `24% (7967/32648)` -> `23% (7641/32956)`.
 - 14 of 18 fields are now `< 25%` Not stated (`biology` 22%, `biomed` 22%, `bme` 22%, `chemistry` 22%, `earth` 22%, `astronomy` 23%, `chemeng` 23%, `cs` 23%, `ece` 23%, `environment` 23%, `materials` 23%, `civil` 24%, `mech` 24%, `neuro` 24%).
+
+## Phase 4 (Wave 2 Batch A High-Yield University Promotions) — 2026-10-29
+- Universities: 9 enriched (`auckland`, `dalhousie`, `oregonstate`, `syracuse`, `unt`, `uottawa`, `usask`, `utep`, `western`).
+- Key university-level enrichments verified with primary sources cached:
+  - `oregonstate` (16 programs): verified `toefl_min: "80"`, `ielts_min: "6.5"`, `english_waiver: "No"`, `gre_general: "Not required"`. Dropped from 44% to 18% Not stated.
+  - `syracuse` (11 programs): verified `gre_general: "Optional"`, `english_waiver: "No"`. Dropped from 38% to 29% Not stated.
+  - `unt` (9 programs): verified `toefl_min: "79"`, `english_waiver: "No"`, `gre_general: "Not required"`. Dropped from 49% to 30% Not stated.
+  - `auckland` (14 programs): verified `app_fee: "100 NZD"`.
+  - `utep` (14 programs): verified `gre_general: "Not required"`, `english_waiver: "No"`. Dropped from 38% to 25% Not stated.
+  - `usask` (14 programs): verified `fee_waiver: "None"` ($145 CAD), `gre_general: "Not required"`. Dropped from 19% to 1% Not stated.
+  - `western` (15 programs): verified `fee_waiver: "None"` ($185 CAD), `gre_general: "Not required"`. Dropped from 24% to 7% Not stated.
+  - `dalhousie` (16 programs): verified `fee_waiver: "None"` ($115 CAD), `gre_general: "Not required"`. Dropped from 23% to 7% Not stated.
+  - `uottawa` (15 programs): verified `fee_waiver: "None"`, `gre_general: "Not required"`. Dropped from 20% to 2% Not stated.
+- Live validation: `288 universities, 2996 programs, 0 errors, 0 warnings` (`rc=0`).
+- Overall `Not stated` (`coverage.py`): `7,641 -> 7,418 / 32,956 = 22.51%`.
+- 15 of 18 fields are now `< 25%` (`statistics` joined the < 25% club at 24%). Only 3 remain slightly above: `datasci` (26%), `physics` (27%), `math` (29%).

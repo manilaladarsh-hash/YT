@@ -31,9 +31,9 @@
       ]
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "No Graduate School policy was reachable. The engineering school calls the GRE optional, physics does not consider it and math does not consider the general test; see each program.",
-      "quote": "",
+      "code": "Optional",
+      "value": "GRE general test is optional for Fall 2027 applications.",
+      "quote": "This is optional for Spring 2027 and Fall 2027 applications.",
       "url": "https://ecs.syracuse.edu/admissions/graduate/application-requirements"
     },
     "toefl_min": {
@@ -49,16 +49,10 @@
       "url": "https://ecs.syracuse.edu/admissions/graduate/application-requirements"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Applicants from countries not on the exempt list must submit a test, but India is not named on the quoted text.",
-      "quote": "",
-      "url": "https://ecs.syracuse.edu/admissions/graduate/application-requirements",
-      "also": [
-        {
-          "quote": "Countries That Do Not Require English Language Proficiency Scores",
-          "url": "https://ecs.syracuse.edu/admissions/graduate/application-requirements"
-        }
-      ]
+      "code": "No",
+      "value": "Applicants from India must submit an English test; exemptions are limited to applicants from listed English-speaking countries or those who studied in the US, UK, Canada, or Australia.",
+      "quote": "Applicants from countries other than those on the list below must submit a score from an approved English language test. Applicants who have studied for at least one year in a higher education institution in the US, UK, Canada or Australia may request an exemption from this requirement.",
+      "url": "https://ecs.syracuse.edu/admissions/graduate/application-requirements"
     }
   },
   "notes": "The Graduate School site (gradschool.syracuse.edu) returned a proxy tunnel error and the graduate course catalog returned 502, so this record uses the engineering school's requirements page (same $75 fee and English list as the Arts & Sciences pages). The VPA international page (TOEFL 90, IELTS 6.5) is for the College of Visual and Performing Arts only and is not used here."

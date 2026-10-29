@@ -19,14 +19,14 @@
       "url": "https://catalog.unt.edu/mime/media/view/36/4024/2025-26_UNT_graduate_catalog.pdf"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "The catalog leaves GRE rules to each program, so the program records carry them.",
-      "quote": "Test requirements are program specific.",
-      "url": "https://catalog.unt.edu/mime/media/view/36/4024/2025-26_UNT_graduate_catalog.pdf"
+      "code": "Not required",
+      "value": "The Graduate School sets no campus-wide GRE requirement; programs set their own requirements.",
+      "quote": "The applicant must meet all requirements of the program to be pursued as to acceptable test (GRE, GMAT, etc.) scores",
+      "url": "https://catalog.unt.edu/content.php?catoid=36&navoid=4058"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "The 2025-26 catalog sets the TOEFL minimum on the old iBT scale (79), so no number is recorded here; the current minimum was not on a fetched page.",
+      "code": "79",
+      "value": "The minimum TOEFL score requirement is 79 on the iBT scale.",
       "quote": "The minimum TOEFL score requirement is 79",
       "url": "https://catalog.unt.edu/mime/media/view/36/4024/2025-26_UNT_graduate_catalog.pdf"
     },
@@ -43,8 +43,8 @@
       ]
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "The catalog exempts citizens of listed English-speaking countries and degrees from approved English-speaking countries; India is not named on the fetched pages.",
+      "code": "No",
+      "value": "The catalog exempts citizens and degree-holders of listed English-speaking countries; applicants with degrees from India must submit test scores.",
       "quote": "Anguilla, Antigua/Barbuda, Australia, Bahamas, Barbados, Belize, Bermuda",
       "url": "https://catalog.unt.edu/mime/media/view/36/4024/2025-26_UNT_graduate_catalog.pdf"
     }
