@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Biomedical Engineering doctorate (School of Engineering)",
   "program_page": "https://asegrad.tufts.edu/program/biomedical-engineering-doctorate",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "gre_general": {
       "code": "Not required",
@@ -20,10 +20,11 @@
       "url": "https://asegrad.tufts.edu/program/biomedical-engineering-doctorate"
     },
     "deadline": {
-      "code": "Not stated",
-      "value": "The official page prints a day and month without a year (for example 'Fall: December 1 (final)'), so no Fall 2027 date is stated.",
-      "quote": "",
-      "url": "https://asegrad.tufts.edu/program/biomedical-engineering-doctorate"
+      "code": "2026-12-01",
+      "value": "Fall 2027 PhD applications are due December 1, 2026; the official table prints no year.",
+      "quote": "Biomedical Engineering December 1 (final)",
+      "url": "https://asegrad.tufts.edu/applying/application-deadlines",
+      "inferred": "year"
     },
     "gre_subject": {
       "code": "Not stated",
@@ -39,10 +40,16 @@
     },
     "funding": {
       "code": "Not stated",
-      "value": "The official pages checked do not state that all or most admitted students are funded.",
+      "value": "The School of Engineering says full-time PhD students often receive a tuition scholarship; the page does not say that most are funded.",
       "quote": "",
-      "url": "https://asegrad.tufts.edu/program/biomedical-engineering-doctorate"
+      "url": "https://asegrad.tufts.edu/tuition-aid/school-engineering-soe",
+      "also": [
+        {
+          "quote": "Full-time PhD students within the School of Engineering often receive a tuition scholarship.",
+          "url": "https://asegrad.tufts.edu/tuition-aid/school-engineering-soe"
+        }
+      ]
     }
   },
-  "notes": "The official deadline 'Fall: December 1 (final)' has no year, so deadline is Not stated. The Tiampo Family Fellowship is a named award, not a general funding rule."
+  "notes": "Deadline is the PhD Fall column of the official application-deadlines table. The Tiampo Family Fellowship is a named award, not a general funding rule."
 }

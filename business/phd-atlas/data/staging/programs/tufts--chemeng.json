@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Chemical Engineering doctorate (School of Engineering)",
   "program_page": "https://asegrad.tufts.edu/program/chemical-engineering-doctorate",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "gre_general": {
       "code": "Not required",
@@ -14,10 +14,11 @@
       "url": "https://asegrad.tufts.edu/program/chemical-engineering-doctorate"
     },
     "deadline": {
-      "code": "Not stated",
-      "value": "The official page prints a day and month without a year (for example 'Fall: December 1 (final)'), so no Fall 2027 date is stated.",
-      "quote": "",
-      "url": "https://asegrad.tufts.edu/program/chemical-engineering-doctorate"
+      "code": "2026-12-15",
+      "value": "Fall 2027 PhD applications are due December 15, 2026; the official table prints no year.",
+      "quote": "Chemical Engineering December 15 (final)",
+      "url": "https://asegrad.tufts.edu/applying/application-deadlines",
+      "inferred": "year"
     },
     "gre_subject": {
       "code": "Not stated",
@@ -33,9 +34,15 @@
     },
     "funding": {
       "code": "Not stated",
-      "value": "The official pages checked do not state that all or most admitted students are funded.",
+      "value": "The School of Engineering says full-time PhD students often receive a tuition scholarship; the page does not say that most are funded.",
       "quote": "",
-      "url": "https://asegrad.tufts.edu/program/chemical-engineering-doctorate"
+      "url": "https://asegrad.tufts.edu/tuition-aid/school-engineering-soe",
+      "also": [
+        {
+          "quote": "Full-time PhD students within the School of Engineering often receive a tuition scholarship.",
+          "url": "https://asegrad.tufts.edu/tuition-aid/school-engineering-soe"
+        }
+      ]
     },
     "entry_route": {
       "code": "Not stated",
@@ -44,5 +51,5 @@
       "url": "https://asegrad.tufts.edu/program/chemical-engineering-doctorate"
     }
   },
-  "notes": "The Biotechnology Engineering doctorate is a separate School of Engineering PhD (see its GSAS page); its values are not used here. Entry route is not stated: the page says applicants 'are generally expected to have a prior degree in chemical engineering', which does not settle bachelor's vs master's. The official deadline 'Fall: December 15 (final)' has no year, so deadline is Not stated."
+  "notes": "The Biotechnology Engineering doctorate is a separate School of Engineering PhD (see its GSAS page); its values are not used here. Entry route is not stated: the page says applicants 'are generally expected to have a prior degree in chemical engineering', which does not settle bachelor's vs master's."
 }

@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Department of Chemistry",
   "program_page": "https://asegrad.tufts.edu/program/chemistry-doctorate",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "gre_general": {
       "code": "Not required",
@@ -32,16 +32,23 @@
       ]
     },
     "deadline": {
-      "code": "Not stated",
-      "value": "The official page prints a day and month without a year (for example 'Fall: December 1 (final)'), so no Fall 2027 date is stated.",
-      "quote": "",
-      "url": "https://asegrad.tufts.edu/program/chemistry-doctorate"
+      "code": "2026-12-01",
+      "value": "Fall 2027 PhD applications are due December 1, 2026; the official table prints no year.",
+      "quote": "Chemistry December 1 (final)",
+      "url": "https://asegrad.tufts.edu/applying/application-deadlines",
+      "inferred": "year"
     },
     "funding": {
       "code": "Not stated",
-      "value": "The official pages checked do not state that all or most admitted students are funded.",
+      "value": "The GSAS page says tuition is fully covered for PhD students and many programmes offer assistantships, but no stipend or funding guarantee is stated for chemistry.",
       "quote": "",
-      "url": "https://asegrad.tufts.edu/program/chemistry-doctorate"
+      "url": "https://asegrad.tufts.edu/tuition-aid/graduate-school-arts-sciences-gsas",
+      "also": [
+        {
+          "quote": "Tuition for Graduate School of Arts and Sciences PhD students is fully covered by Tufts tuition scholarships.",
+          "url": "https://asegrad.tufts.edu/tuition-aid/graduate-school-arts-sciences-gsas"
+        }
+      ]
     },
     "entry_route": {
       "code": "Not stated",
@@ -50,5 +57,5 @@
       "url": "https://asegrad.tufts.edu/program/chemistry-doctorate"
     }
   },
-  "notes": "Separate GSAS doctorates also exist for Chemistry/Biotechnology and Chemical Physics (run with Physics); their pages were not used for field values. The official deadline lists 'Fall: December 1 (final)' with no year, so deadline is Not stated. Stipend terms are not stated on the programme pages."
+  "notes": "Separate GSAS doctorates also exist for Chemistry/Biotechnology and Chemical Physics (run with Physics); their pages were not used for field values. Stipend terms are not stated on the programme pages."
 }
