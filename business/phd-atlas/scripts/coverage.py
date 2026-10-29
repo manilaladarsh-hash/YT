@@ -13,9 +13,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
-SCHEMA = json.loads((DATA / "schema.json").read_text())
-FIELDS = json.loads((DATA / "fields.json").read_text())["fields"]
-UNIS = json.loads((DATA / "universities.json").read_text())["universities"]
+SCHEMA = json.loads((DATA / "schema.json").read_text(encoding="utf-8"))
+FIELDS = json.loads((DATA / "fields.json").read_text(encoding="utf-8"))["fields"]
+UNIS = json.loads((DATA / "universities.json").read_text(encoding="utf-8"))["universities"]
 UF, PF = list(SCHEMA["university_fields"]), list(SCHEMA["program_fields"])
 GATE = {"universities": 180, "fields": 12, "not_stated_overall": 0.15, "not_stated_per_field": 0.25}
 
@@ -31,8 +31,8 @@ def effective(prog, uni):
 
 
 def report(base):
-    unis = {p.stem: json.loads(p.read_text()) for p in (base / "universities").glob("*.json")}
-    progs = [json.loads(p.read_text()) for p in (base / "programs").glob("*.json")]
+    unis = {p.stem: json.loads(p.read_text(encoding="utf-8")) for p in (base / "universities").glob("*.json")}
+    progs = [json.loads(p.read_text(encoding="utf-8")) for p in (base / "programs").glob("*.json")]
     per_field = collections.defaultdict(lambda: [0, 0, 0])  # programs, not stated, values
     per_uni = collections.Counter()
     ns_total = vals_total = 0

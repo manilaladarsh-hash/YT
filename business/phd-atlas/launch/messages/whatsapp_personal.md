@@ -5,9 +5,9 @@ Hi {name}! Are you (or anyone in your batch) applying for PhDs abroad this cycle
 
 I've spent the last few weeks checking the official pages of 2,968 STEM PhD programs (283 universities in the US, UK, Europe, Canada and Australia) for the things that trip up Indian applicants. Some findings:
 
-• 279 programs charge no application fee at all, including ANU, Aarhus, Adelaide, Bristol, Carnegie Mellon, Case Western, Chalmers, Claremont Graduate University and 25 more
+• 279 programs charge no application fee at all, including ANU, Aarhus, Adelaide, Bristol, Carnegie Mellon, Case Western, Chalmers, Claremont Graduate and 25 more
 • 34 universities accept an English-medium Indian degree instead of IELTS/TOEFL; 83 need a test regardless
-• A GRE Subject test is still required at 26 programs, including Berkeley, Brown, Calgary, Caltech, Cornell, Florida Atlantic University and 15 more
+• A GRE Subject test is still required at 26 programs, including Berkeley, Brown, Calgary, Caltech, Cornell, FAU and 15 more
 • 796 programs need a supervisor's agreement before you apply
 • Dec 1, 2026 is the most common US deadline (416 programs)
 

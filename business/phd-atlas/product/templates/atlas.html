@@ -563,17 +563,21 @@ let shown = PAGE, view = store.get("atlas2-view", "cards");
 /* ---------- dates, money ---------- */
 function lc(s) { return s.replace(/^[A-Z](?=[a-z])/, c => c.toLowerCase()); }
 function isDate(s) { return /^\d{4}-\d{2}-\d{2}$/.test(s); }
-function todayIso() { const d = new Date(); return new Date(d.getTime() - d.getTimezoneOffset() * 60000).toISOString().slice(0, 10); }
-function daysLeft(iso) { return Math.round((new Date(iso + "T00:00:00") - new Date(todayIso() + "T00:00:00")) / DAY); }
-function fmtDate(iso, opts) { return isDate(iso) ? new Date(iso + "T00:00:00").toLocaleDateString("en-GB", opts || { day: "numeric", month: "short", year: "numeric" }) : iso; }
+const _now = new Date(), TODAY_ISO = new Date(_now.getTime() - _now.getTimezoneOffset() * 60000).toISOString().slice(0, 10), TODAY_MS = new Date(TODAY_ISO + "T00:00:00").getTime();
+const _FMT = { full: new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "short", year: "numeric" }), dm: new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "short" }) };
+const _DAYS_CACHE = Object.create(null);
+function todayIso() { return TODAY_ISO; }
+function daysLeft(iso) { let v = _DAYS_CACHE[iso]; if (v === undefined) v = _DAYS_CACHE[iso] = Math.round((new Date(iso + "T00:00:00").getTime() - TODAY_MS) / DAY); return v; }
+function fmtDate(iso, opts) { if (!isDate(iso)) return iso; const d = new Date(iso + "T00:00:00"); if (!opts) return _FMT.full.format(d); if (opts.day === "numeric" && opts.month === "short" && Object.keys(opts).length === 2) return _FMT.dm.format(d); return d.toLocaleDateString("en-GB", opts); }
 function inr(n) { return "₹" + Math.round(n).toLocaleString("en-IN"); }
 function leftText(n) { return n < 0 ? "passed" : n === 0 ? "today" : n === 1 ? "tomorrow" : "in " + n + " days"; }
 function plural(n, one, many) { return n.toLocaleString("en-IN") + " " + (n === 1 ? one : many); }
 
 /* ---------- data ---------- */
 async function decode(b64) {
-  const bin = atob(b64), bytes = new Uint8Array(bin.length);
-  for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+  let bytes;
+  if (typeof Uint8Array.fromBase64 === "function") bytes = Uint8Array.fromBase64(b64);
+  else { const bin = atob(b64); bytes = new Uint8Array(bin.length); for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i); }
   if (typeof DecompressionStream === "undefined") throw new Error("This browser is too old to open the Atlas. Please use a recent Chrome, Edge, Firefox or Safari (2023 or later).");
   const stream = new Blob([bytes]).stream().pipeThrough(new DecompressionStream("gzip"));
   return JSON.parse(await new Response(stream).text());
@@ -618,7 +622,8 @@ function prepare() {
       label, title: u.s, pname: p.n, dept: p.d, page: A.urls[p.p],
       checked: p.k, f, lvl, notes: [p.o, u.o].filter(Boolean).join(" "), inr: p.inr, usd: p.usd,
       region: regionOf(u.c), country: u.c, place: u.r + ", " + u.c,
-      hay: [label, u.n, p.d, u.r, u.c, t.name, p.n, p.o, (p.a || []).map(x => tax[x].name).join(" ")].join(" ").toLowerCase()
+      dkey: isDate((p.x.deadline ? p.x.deadline[0] : (u.f.deadline ? u.f.deadline[0] : "Not stated"))) ? (((p.x.deadline ? p.x.deadline[0] : u.f.deadline[0]) < TODAY_ISO ? "8" : "") + (p.x.deadline ? p.x.deadline[0] : u.f.deadline[0])) : ("9" + (p.x.deadline ? p.x.deadline[0] : (u.f.deadline ? u.f.deadline[0] : "Not stated"))),
+      hay: [label, u.n, p.d, u.r, u.c, t.name, p.n, p.o, u.o, (p.a || []).map(x => tax[x].name).join(" ")].join(" ").toLowerCase()
     };
   });
 }
@@ -823,11 +828,11 @@ function visible() {
   }
   const s = $("sort").value;
   const rank = { match: 0, check: 1, none: 1, obstacle: 2 };
-  const dkey = p => { const d = p.f.deadline.code; return isDate(d) ? (d < todayIso() ? "8" + d : d) : "9" + d; };
+  const cmpStr = (x, y) => x < y ? -1 : x > y ? 1 : 0;
   const fee = p => p.inr === null || p.inr === undefined ? Infinity : p.inr;
   out.sort(([a, fa], [b, fb]) => {
-    if (s === "fit") return rank[fa.status] - rank[fb.status] || fa.warn - fb.warn || collator.compare(dkey(a), dkey(b)) || collator.compare(a.label, b.label);
-    if (s === "deadline") return collator.compare(dkey(a), dkey(b)) || collator.compare(a.label, b.label);
+    if (s === "fit") return rank[fa.status] - rank[fb.status] || fa.warn - fb.warn || cmpStr(a.dkey, b.dkey) || collator.compare(a.label, b.label);
+    if (s === "deadline") return cmpStr(a.dkey, b.dkey) || collator.compare(a.label, b.label);
     if (s === "fee") return fee(a) - fee(b) || collator.compare(a.label, b.label);
     return collator.compare(a.label, b.label);
   });

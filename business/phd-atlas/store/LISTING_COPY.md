@@ -45,9 +45,9 @@ The Atlas answers these for 2,968 programs, with the exact official sentence beh
 **Priced for students.** About ₹190 in India, a small fraction of one typical US application fee (₹7,100). Gumroad applies the regional price automatically and you can pay by UPI. The batch licence covers up to 30 people. **Alumni abroad:** one $20 batch licence covers your old department's whole final-year batch. If even ₹190 is a real barrier, reply to your free-sample receipt and ask for a free copy.
 
 **What the Atlas found (checked October 28, 2026)**
-- **279 programs charge no application fee**, including ANU, Aarhus, Adelaide, Bristol, Carnegie Mellon, Case Western, Chalmers, Claremont Graduate University and 25 more.
+- **279 programs charge no application fee**, including ANU, Aarhus, Adelaide, Bristol, Carnegie Mellon, Case Western, Chalmers, Claremont Graduate and 25 more.
 - **34 universities accept an English-medium Indian degree** instead of TOEFL or IELTS, including ANU, Arizona, Boston College, CU Boulder, Caltech, Copenhagen, ETH Zurich, Georgetown University and 26 more. 83 require a test regardless.
-- **A GRE Subject test is still required** at 26 programs, including Berkeley, Brown, Calgary, Caltech, Cornell, Florida Atlantic University and 15 more.
+- **A GRE Subject test is still required** at 26 programs, including Berkeley, Brown, Calgary, Caltech, Cornell, FAU and 15 more.
 - **Dec 1, 2026 is the most common US deadline** (416 programs); 94 programs close in November.
 - **796 programs need a supervisor's agreement** before admission, mostly in Europe, Australia and Canada.
 

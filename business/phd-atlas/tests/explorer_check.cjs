@@ -2,6 +2,7 @@
 // Usage: NODE_PATH=$(npm root -g) node tests/explorer_check.cjs <path-to-Atlas.html>
 const fs = require("fs");
 const path = require("path");
+const { pathToFileURL } = require("url");
 const { chromium } = require("playwright");
 
 const FIXTURE = { degree: "bachelor", sgre: "no", english: "avoid", fees: "free", funding: "need" };
@@ -30,7 +31,7 @@ async function download(page, label) {
 }
 
 (async () => {
-  const file = "file://" + path.resolve(process.argv[2]);
+  const file = pathToFileURL(path.resolve(process.argv[2])).href;
   const out = { errors: [], requests: [] };
   const browser = await chromium.launch();
   try {
@@ -78,6 +79,7 @@ async function download(page, label) {
     const csv = await download(page, "Spreadsheet");
     out.csvName = csv.name;
     out.csvLines = csv.text.trim().split("\r\n").length;
+
     const todo = page.locator(".todo input[type=checkbox]").first();
     await todo.check();
     await page.reload();

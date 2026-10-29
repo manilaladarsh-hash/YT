@@ -5,9 +5,9 @@ Hi all, {your name} here ({IISER TVM BS-MS '23 / McMaster Physics PhD}; edit as 
 
 For anyone applying to STEM PhDs abroad for 2027: I checked the official pages of 2,968 programs in 18 fields (283 universities in the US, UK, Europe, Canada and Australia) for the rules that trip up Indian applicants. What stood out:
 
-1. **Fees you may not have to pay:** 279 programs charge no application fee, including ANU, Aarhus, Adelaide, Bristol, Carnegie Mellon, Case Western, Chalmers, Claremont Graduate University and 25 more.
+1. **Fees you may not have to pay:** 279 programs charge no application fee, including ANU, Aarhus, Adelaide, Bristol, Carnegie Mellon, Case Western, Chalmers, Claremont Graduate and 25 more.
 2. **English tests:** 34 universities accept an English-medium Indian degree instead of IELTS/TOEFL, 100 with conditions, and 83 require a test regardless.
-3. **GRE Subject tests aren't gone:** still required at 26 programs, including Berkeley, Brown, Calgary, Caltech, Cornell, Florida Atlantic University and 15 more.
+3. **GRE Subject tests aren't gone:** still required at 26 programs, including Berkeley, Brown, Calgary, Caltech, Cornell, FAU and 15 more.
 4. **Supervisor first:** 796 programs need a supervisor's agreement before admission, mostly in Europe, Australia and Canada.
 5. **Deadlines are early:** Dec 1, 2026 is the most common US date, and 94 programs close in November.
 

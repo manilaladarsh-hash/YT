@@ -51,7 +51,7 @@ CURRENCIES = ["USD", "GBP", "EUR", "AUD", "CAD", "CHF", "NZD", "SEK", "DKK", "NO
 PRICE_LINE = ("Priced for students: about ₹190 in India (Gumroad shows rupees and accepts UPI), $5 elsewhere. "
               "A batch licence covers up to 30 students for about ₹750. Can't afford it? Reply to your receipt for a free copy.")
 
-SCHEMA = json.loads((DATA / "schema.json").read_text())
+SCHEMA = json.loads((DATA / "schema.json").read_text(encoding="utf-8"))
 UF, PF = list(SCHEMA["university_fields"]), list(SCHEMA["program_fields"])
 ALL_FIELDS = ["deadline", "app_fee", "fee_waiver", "gre_general", "gre_subject", "toefl_min", "ielts_min",
               "english_waiver", "supervisor", "funding", "entry_route"]
@@ -68,11 +68,11 @@ FIELD_LABELS = {
     "funding": "PhD funding",
     "entry_route": "Entry route",
 }
-TAXONOMY = json.loads((DATA / "fields.json").read_text())
+TAXONOMY = json.loads((DATA / "fields.json").read_text(encoding="utf-8"))
 FIELD_BY_ID = {f["id"]: f for f in TAXONOMY["fields"]}
-UNI_LIST = {u["id"]: u for u in json.loads((DATA / "universities.json").read_text())["universities"]}
+UNI_LIST = {u["id"]: u for u in json.loads((DATA / "universities.json").read_text(encoding="utf-8"))["universities"]}
 
-FX = json.loads((DATA / "fx.json").read_text())
+FX = json.loads((DATA / "fx.json").read_text(encoding="utf-8"))
 # Set once the Gumroad listing exists, then rebuild so the free sample links to it:
 #   ATLAS_PAID_URL=https://NAME.gumroad.com/l/stem-phd-atlas-2027 python3 product/build.py
 PAID_URL = os.environ.get("ATLAS_PAID_URL", "").strip()
@@ -132,6 +132,23 @@ SHORT = {
     "aarhus": "Aarhus", "uio": "Oslo", "ntnu": "NTNU", "helsinki": "Helsinki", "polimi": "Politecnico di Milano",
     "polito": "Politecnico di Torino", "unibo": "Bologna", "upc": "UPC Barcelona", "unibas": "Basel", "unige": "Geneva",
     "unibe": "Bern", "sorbonne": "Sorbonne", "ipparis": "IP Paris", "uga-fr": "Grenoble Alpes", "ucd": "UCD Dublin",
+    "illinoistech": "Illinois Tech", "stevens": "Stevens", "sc": "South Carolina", "unl": "Nebraska-Lincoln",
+    "okstate": "Oklahoma State", "unr": "Nevada, Reno", "uhm": "Hawaii (Manoa)", "mtu": "Michigan Tech",
+    "msstate": "Mississippi State", "albany": "UAlbany (SUNY)", "ohsu": "OHSU", "rockefeller": "Rockefeller",
+    "wpi": "WPI", "mst": "Missouri S&T", "umbc": "UMBC", "uml": "UMass Lowell", "uta": "UT Arlington",
+    "utsa": "UT San Antonio", "uab": "UAB", "fiu": "FIU", "usf": "South Florida (USF)", "vcu": "VCU",
+    "unlv": "UNLV", "unh": "New Hampshire (UNH)", "olemiss": "Mississippi (Ole Miss)", "uri": "Rhode Island (URI)",
+    "wm": "William & Mary", "nmsu": "New Mexico State", "utep": "UTEP", "unt": "North Texas (UNT)",
+    "sdsu": "San Diego State", "uncc": "UNC Charlotte", "ucmerced": "UC Merced", "uncg": "UNC Greensboro",
+    "gwu": "George Washington", "tcu": "TCU", "smu": "SMU", "northdakota": "North Dakota",
+    "ndsu": "North Dakota State", "southdakotastate": "South Dakota State", "southdakota": "South Dakota",
+    "alaskafairbanks": "Alaska Fairbanks", "alabamahuntsville": "UA Huntsville", "southalabama": "South Alabama",
+    "southernmississippi": "Southern Miss", "louisianalafayette": "UL Lafayette", "louisianatech": "Louisiana Tech",
+    "fau": "FAU", "floridatech": "Florida Tech", "umkc": "UMKC", "nau": "Northern Arizona",
+    "niu": "Northern Illinois", "siucarbondale": "SIU Carbondale", "loyolachicago": "Loyola Chicago",
+    "bgsu": "Bowling Green", "clevelandstate": "Cleveland State", "wmu": "Western Michigan",
+    "uwmilwaukee": "UW-Milwaukee", "claremontgrad": "Claremont Graduate", "portlandstate": "Portland State",
+    "rit": "RIT", "umaryland": "Maryland (Baltimore)",
 }
 
 
@@ -181,10 +198,10 @@ def load(base=DATA):
     The department's own value wins; a department value that is missing or
     'Not stated' falls back to the university-wide value. level[k] says which.
     """
-    unis = {p.stem: json.loads(p.read_text()) for p in sorted((base / "universities").glob("*.json"))}
+    unis = {p.stem: json.loads(p.read_text(encoding="utf-8")) for p in sorted((base / "universities").glob("*.json"))}
     recs = []
     for p in sorted((base / "programs").glob("*.json")):
-        prog = json.loads(p.read_text())
+        prog = json.loads(p.read_text(encoding="utf-8"))
         uni = unis[prog["university"]]
         fields, level = {}, {}
         for k in ALL_FIELDS:
@@ -322,7 +339,7 @@ def explorer_payload(recs):
 
 
 def write_explorer(recs, path):
-    tpl = (TEMPLATES / "atlas.html").read_text()
+    tpl = (TEMPLATES / "atlas.html").read_text(encoding="utf-8")
     lean, detail = explorer_payload(recs)
     raw = json.dumps(lean, ensure_ascii=False, separators=(",", ":")).encode()
     raw_detail = json.dumps(detail, ensure_ascii=False, separators=(",", ":")).encode()
@@ -538,17 +555,17 @@ def write_xlsx(recs, path, values):
 
 def node_env():
     env = dict(os.environ)
-    env["NODE_PATH"] = subprocess.run(["npm", "root", "-g"], capture_output=True, text=True).stdout.strip()
+    env["NODE_PATH"] = subprocess.run([shutil.which("npm") or "npm", "root", "-g"], capture_output=True, text=True, encoding="utf-8").stdout.strip()
     return env
 
 
 def html_doc(title, body_html):
-    css = (TEMPLATES / "doc.css").read_text()
+    css = (TEMPLATES / "doc.css").read_text(encoding="utf-8")
     return f"<!doctype html><html lang='en'><head><meta charset='utf-8'><title>{html.escape(title)}</title><style>{css}</style></head><body>{body_html}</body></html>"
 
 
 def md_to_html(md):
-    out = subprocess.run(["pandoc", "-f", "gfm+yaml_metadata_block", "-t", "html5"], input=md, capture_output=True, text=True, check=True)
+    out = subprocess.run(["pandoc", "-f", "gfm+yaml_metadata_block", "-t", "html5"], input=md, capture_output=True, text=True, encoding="utf-8", check=True)
     return out.stdout
 
 
@@ -601,7 +618,7 @@ def write_copy(values):
     for src in sorted(list((ROOT / "store").rglob("*.src.md")) + list((ROOT / "launch").rglob("*.src.md"))):
         dst = src.with_name(src.name.replace(".src.md", ".md"))
         note = f"<!-- Generated from {src.name} by product/build.py. Edit that file, not this one. -->\n"
-        dst.write_text(note + fill(src.read_text(), values))
+        dst.write_text(note + fill(src.read_text(encoding="utf-8"), values), encoding="utf-8")
         out.append(dst)
     return out
 
@@ -640,12 +657,12 @@ def build(only=None):
     write_csv(recs, OUT / "Atlas.csv")
     write_xlsx(recs, OUT / "Atlas.xlsx", values)
 
-    playbook_md = fill((CONTENT / "playbook.md").read_text(), values)
+    playbook_md = fill((CONTENT / "playbook.md").read_text(encoding="utf-8"), values)
     body = md_to_html(playbook_md)
     body = body.replace("<h1", "<div class='cover'><span class='tag'>Version " + VERSION + "</span></div><h1", 1)
     to_pdf(html_doc(f"{TITLE}: Playbook", body), OUT / "Playbook.pdf", "playbook")
 
-    start_md = fill((CONTENT / "start-here.md").read_text(), values)
+    start_md = fill((CONTENT / "start-here.md").read_text(encoding="utf-8"), values)
     to_pdf(html_doc("Start here", md_to_html(start_md)), OUT / "START-HERE.pdf", "start-here")
     shutil.copy(CONTENT / "LICENSE.txt", OUT / "LICENSE.txt")
 

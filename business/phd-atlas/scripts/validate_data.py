@@ -17,10 +17,10 @@ from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SCHEMA = json.loads((ROOT / "data" / "schema.json").read_text())
+SCHEMA = json.loads((ROOT / "data" / "schema.json").read_text(encoding="utf-8"))
 DATA = ROOT / "data"
-FIELDS = json.loads((DATA / "fields.json").read_text())
-UNI_LIST = json.loads((DATA / "universities.json").read_text())
+FIELDS = json.loads((DATA / "fields.json").read_text(encoding="utf-8"))
+UNI_LIST = json.loads((DATA / "universities.json").read_text(encoding="utf-8"))
 CACHE = ROOT / ".cache" / "pages"
 
 FEE_RE = re.compile(r"^(\d+(\.\d+)? (USD|CAD|GBP|EUR|CHF|SEK|DKK|NOK|AUD|NZD)|0 \(waived\)|0 \(no fee\)|Not stated)$")
@@ -41,7 +41,7 @@ def cached_texts():
     if not CACHE.exists():
         return texts
     for p in CACHE.glob("*.json"):
-        rec = json.loads(p.read_text())
+        rec = json.loads(p.read_text(encoding="utf-8"))
         t = norm(rec.get("text", "").replace("\n", " "))
         # Several cache entries can resolve to one URL (redirects, re-fetches); a quote may match any of them.
         for u in {rec["url"], rec.get("final_url", rec["url"])}:
@@ -110,7 +110,7 @@ def check_field(where, name, spec, fld, texts, require_cache, errors, warnings):
 
 def load_json(f, errors):
     try:
-        return json.loads(f.read_text())
+        return json.loads(f.read_text(encoding="utf-8"))
     except json.JSONDecodeError as e:
         errors.append(f"{f.name}: invalid JSON ({e})")
         return None

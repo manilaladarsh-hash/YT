@@ -5,6 +5,7 @@ Writes store/images/{cover-paid,cover-sample,thumb-paid,thumb-sample}.png
 """
 
 import os
+import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -14,7 +15,7 @@ sys.path.insert(0, str(ROOT / "product"))
 import build  # noqa: E402
 
 IMAGES = ROOT / "store" / "images"
-TPL = (ROOT / "store" / "templates" / "cover.html").read_text()
+TPL = (ROOT / "store" / "templates" / "cover.html").read_text(encoding="utf-8")
 
 
 def render(name, size, values):
@@ -26,7 +27,7 @@ def render(name, size, values):
     build.BUILD.mkdir(parents=True, exist_ok=True)
     src.write_text(html, encoding="utf-8")
     env = dict(os.environ)
-    env["NODE_PATH"] = subprocess.run(["npm", "root", "-g"], capture_output=True, text=True).stdout.strip()
+    env["NODE_PATH"] = subprocess.run([shutil.which("npm") or "npm", "root", "-g"], capture_output=True, text=True, encoding="utf-8").stdout.strip()
     subprocess.run(["node", str(ROOT / "product" / "pdf.cjs"), str(src), str(IMAGES / f"{name}.png"), "--png", f"{w}x{h}"],
                    check=True, env=env)
 

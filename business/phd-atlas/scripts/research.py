@@ -13,6 +13,7 @@ import hashlib
 import json
 import os
 import re
+import shutil
 import subprocess
 import sys
 from datetime import date
@@ -76,11 +77,11 @@ def is_pdf(r):
 def render(url):
     env = dict(os.environ)
     env["NODE_PATH"] = subprocess.run(
-        ["npm", "root", "-g"], capture_output=True, text=True
+        [shutil.which("npm") or "npm", "root", "-g"], capture_output=True, text=True, encoding="utf-8"
     ).stdout.strip()
     out = subprocess.run(
         ["node", str(ROOT / "scripts" / "render_fetch.cjs"), url],
-        capture_output=True, text=True, env=env, timeout=90,
+        capture_output=True, text=True, encoding="utf-8", env=env, timeout=90,
     )
     if out.returncode != 0:
         raise RuntimeError(out.stderr.strip()[:300])
@@ -91,7 +92,7 @@ def render(url):
 def fetch(url, refresh=False, force_render=False):
     path = cache_paths(url)
     if path.exists() and not refresh:
-        cached = json.loads(path.read_text())
+        cached = json.loads(path.read_text(encoding="utf-8"))
         # Early caches stored PDFs as raw bytes; re-fetch those as text.
         if not cached.get("text", "").startswith("%PDF"):
             return cached
@@ -130,7 +131,7 @@ def fetch(url, refresh=False, force_render=False):
     CACHE.mkdir(parents=True, exist_ok=True)
     # Several research sessions share the cache, so write atomically.
     tmp = path.with_suffix(f".{os.getpid()}.tmp")
-    tmp.write_text(json.dumps(record))
+    tmp.write_text(json.dumps(record), encoding="utf-8")
     os.replace(tmp, path)
     return record
 

@@ -9,11 +9,11 @@ Read each subreddit's rules first, and skip any that ban self-promotion (or ask 
 
 I'm a physics PhD student (came to Canada from India) and spent the past few weeks reading PhD programs' own admissions pages, across 18 fields from physics and chemistry to CS, biology and engineering, for the things that are hard to find as an international applicant. Everything below is from official pages as of October 28, 2026; check the pages yourself before acting.
 
-**Application fees:** 279 programs charge none, including ANU, Aarhus, Adelaide, Bristol, Carnegie Mellon, Case Western, Chalmers, Claremont Graduate University and 25 more. Of the rest, many offer fee waivers only to domestic applicants; 119 say internationals can get one outright.
+**Application fees:** 279 programs charge none, including ANU, Aarhus, Adelaide, Bristol, Carnegie Mellon, Case Western, Chalmers, Claremont Graduate and 25 more. Of the rest, many offer fee waivers only to domestic applicants; 119 say internationals can get one outright.
 
 **English tests:** 34 universities accept an English-medium Indian degree instead of TOEFL/IELTS (ANU, Arizona, Boston College, CU Boulder, Caltech, Copenhagen, ETH Zurich, Georgetown University and 26 more). 100 accept it with conditions (a medium-of-instruction letter, a named list, or a minimum duration), and 83 require a test regardless, usually because they only exempt "majority English-speaking" countries.
 
-**GRE:** the General GRE is required at only 290 programs; 190 won't look at a score even if you send one. But a GRE Subject test is still required at 26 programs, including Berkeley, Brown, Calgary, Caltech, Cornell, Florida Atlantic University and 15 more.
+**GRE:** the General GRE is required at only 290 programs; 190 won't look at a score even if you send one. But a GRE Subject test is still required at 26 programs, including Berkeley, Brown, Calgary, Caltech, Cornell, FAU and 15 more.
 
 **Supervisor first:** 796 programs need a supervisor's agreement before admission. In most of Europe you apply for an advertised paid position, and in Australia and much of Canada you find a supervisor before you apply.
 

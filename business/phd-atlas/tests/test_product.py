@@ -37,23 +37,23 @@ SIZE_BUDGET = 5_000_000
 
 def node_env():
     env = dict(os.environ)
-    env["NODE_PATH"] = subprocess.run(["npm", "root", "-g"], capture_output=True, text=True).stdout.strip()
+    env["NODE_PATH"] = subprocess.run([shutil.which("npm") or "npm", "root", "-g"], capture_output=True, text=True, encoding="utf-8").stdout.strip()
     return env
 
 
 def run_explorer(html):
     res = subprocess.run(["node", str(ROOT / "tests" / "explorer_check.cjs"), str(html)],
-                         capture_output=True, text=True, env=node_env(), timeout=300)
+                         capture_output=True, text=True, encoding="utf-8", env=node_env(), timeout=300)
     assert res.returncode == 0, res.stderr
     return json.loads(res.stdout)
 
 
 def pdf_text(path):
-    return subprocess.run(["pdftotext", str(path), "-"], capture_output=True, text=True, check=True).stdout
+    return subprocess.run(["pdftotext", str(path), "-"], capture_output=True, text=True, encoding="utf-8", check=True).stdout
 
 
 def pdf_pages(path):
-    info = subprocess.run(["pdfinfo", str(path)], capture_output=True, text=True, check=True).stdout
+    info = subprocess.run(["pdfinfo", str(path)], capture_output=True, text=True, encoding="utf-8", check=True).stdout
     return int(re.search(r"Pages:\s+(\d+)", info).group(1))
 
 
@@ -140,7 +140,7 @@ def test_csv_has_one_row_per_program():
 
 def test_playbook_has_all_sections_and_no_unfilled_placeholders():
     text = " ".join(pdf_text(OUT / "Playbook.pdf").split())
-    for line in (build.CONTENT / "playbook.md").read_text().splitlines():
+    for line in (build.CONTENT / "playbook.md").read_text(encoding="utf-8").splitlines():
         if line.startswith("## "):
             heading = " ".join(line[3:].split())
             assert heading in text, heading
