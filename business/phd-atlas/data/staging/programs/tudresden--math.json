@@ -1,0 +1,48 @@
+{
+  "id": "tudresden--math",
+  "university": "tudresden",
+  "field": "math",
+  "also_fields": [],
+  "department": "Faculty of Mathematics (Bereich Mathematik und Naturwissenschaften)",
+  "program_page": "https://tu-dresden.de/mn/math/postgraduales/promotion",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No closing date for admission is stated on the page checked.",
+      "quote": "",
+      "url": "https://tu-dresden.de/mn/math/postgraduales/promotion"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test requirement is stated on the page checked.",
+      "quote": "",
+      "url": "https://tu-dresden.de/mn/math/postgraduales/promotion"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A supervision agreement with your professor must be signed first, and a copy goes with the admission application.",
+      "quote": "you are obliged to sign a supervision agreement",
+      "url": "https://tu-dresden.de/mn/postgraduales/promotion?set_language=en"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding statement is stated on the page checked.",
+      "quote": "",
+      "url": "https://tu-dresden.de/mn/math/postgraduales/promotion"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Admission normally needs a Diploma, Master or Magister, generally with at least a good grade. A bachelor's holder can apply only through a pre-qualification procedure.",
+      "quote": "Admission for a doctorate is granted to graduates who have obtained a Diploma, Master or Magister degree from a university",
+      "url": "https://tu-dresden.de/mn/postgraduales/promotion/promotionsordnung?set_language=en",
+      "also": [
+        {
+          "quote": "Holders of a Bachelor degree from a university may also be admitted for a doctorate without being required to obtain a further postgraduate degree",
+          "url": "https://tu-dresden.de/mn/postgraduales/promotion/promotionsordnung?set_language=en"
+        }
+      ]
+    }
+  },
+  "notes": "Doctoral admission follows the School of Science regulations (Bereich Mathematik und Naturwissenschaften). Applications go through Promovendus after prior appointment with the Doctoral Office."
+}

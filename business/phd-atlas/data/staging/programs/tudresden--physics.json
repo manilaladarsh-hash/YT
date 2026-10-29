@@ -1,0 +1,54 @@
+{
+  "id": "tudresden--physics",
+  "university": "tudresden",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Faculty of Physics (School of Science)",
+  "program_page": "https://tu-dresden.de/mn/physik/forschung/promotion-habilitation?set_language=en",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The Faculty of Physics page gives no closing date for admission. It advises applying in Promovendus as early as possible.",
+      "quote": "It is advisable to apply for admission, in Promovendus, as early as possible.",
+      "url": "https://tu-dresden.de/mn/physik/forschung/promotion-habilitation?set_language=en"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned.",
+      "quote": "",
+      "url": "https://tu-dresden.de/mn/physik/forschung/promotion-habilitation?set_language=en"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A supervision agreement with your professor must be signed first, and a copy goes with the admission application.",
+      "quote": "you are obliged to sign a supervision agreement",
+      "url": "https://tu-dresden.de/mn/postgraduales/promotion?set_language=en",
+      "also": [
+        {
+          "quote": "copy of the supervision agreement",
+          "url": "https://tu-dresden.de/mn/postgraduales/promotion?set_language=en"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The Faculty of Physics page does not state how many doctoral candidates are funded.",
+      "quote": "",
+      "url": "https://tu-dresden.de/mn/physik/forschung/promotion-habilitation?set_language=en"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Admission normally needs a Diploma, Master or Magister, generally with at least a good grade. A bachelor's holder can apply only through a pre-qualification procedure.",
+      "quote": "Admission for a doctorate is granted to graduates who have obtained a Diploma, Master or Magister degree from a university",
+      "url": "https://tu-dresden.de/mn/postgraduales/promotion/promotionsordnung?set_language=en",
+      "also": [
+        {
+          "quote": "Holders of a Bachelor degree from a university may also be admitted for a doctorate without being required to obtain a further postgraduate degree",
+          "url": "https://tu-dresden.de/mn/postgraduales/promotion/promotionsordnung?set_language=en"
+        }
+      ]
+    }
+  },
+  "notes": "Supervisor and entry rules come from the School of Science regulations, which cover physics. The physics page says applications can be rejected or accepted subject to conditions, and that membership in a structured programme does not imply admission. The physics doctoral office page lists teaching duties (four weekly hours or two winter and two summer semesters) before the thesis is opened; not an admission rule. Blocked: https://tu-dresden.de/mn/physik/studium/international-students/index?set_language=en (login redirect)."
+}

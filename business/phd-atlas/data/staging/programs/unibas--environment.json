@@ -1,0 +1,45 @@
+{
+  "id": "unibas--environment",
+  "university": "unibas",
+  "field": "environment",
+  "also_fields": [
+    "earth"
+  ],
+  "department": "Department of Environmental Sciences",
+  "program_page": "https://duw.unibas.ch/en/studies/phd/",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2027-07-31",
+      "value": "Doctoral sign-up for Fall Semester 2027 closes 31 July 2027 under the university's doctoral deadline table, which applies to every doctoral subject.",
+      "quote": "Doctoral Studies Semester Fall Semester 2027 Sign up until 31 Jul 2027",
+      "url": "https://www.unibas.ch/en/Studies/Before-My-Studies/Dates-Events/Deadlines/Application.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is named for environmental sciences.",
+      "quote": "",
+      "url": "https://duw.unibas.ch/en/studies/phd/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A doctorate is taken up only in agreement with the professor you will work with.",
+      "quote": "A doctorate can only be taken up in consultation and agreement with the respective professor",
+      "url": "https://duw.unibas.ch/en/studies/phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The PhD page links individual funding options but does not state a funding rule.",
+      "quote": "",
+      "url": "https://duw.unibas.ch/en/studies/phd/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Admission needs a master's degree from the Faculty of Science that qualifies you for the subject.",
+      "quote": "must hold a master’s degree from the Faculty of ... qualifying them for their chosen subject of doctoral study",
+      "url": "https://www.unibas.ch/dam/jcr:a3ad0751-af08-4c4a-942b-9f686cdc7e48/Doctoral_Studies_at_the_Faculties_FS27.289227038ce2f687daa49678b39ca819.pdf"
+    }
+  },
+  "notes": "Department PhD subjects are Geosciences and Environmental Sciences; Geosciences is listed as also_fields.",
+  "name": "PhD in Environmental Sciences"
+}
