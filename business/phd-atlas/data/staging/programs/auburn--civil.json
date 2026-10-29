@@ -1,0 +1,48 @@
+{
+  "id": "auburn--civil",
+  "university": "auburn",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil and Environmental Engineering",
+  "program_page": "https://graduate.auburn.edu/admissions/test-score-waivers.php",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The department page could not be fetched, so this is not stated here.",
+      "quote": "",
+      "url": "https://graduate.auburn.edu/admissions/test-score-waivers.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page could not be fetched, so this is not stated here.",
+      "quote": "",
+      "url": "https://graduate.auburn.edu/admissions/test-score-waivers.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department page could not be fetched, so this is not stated here.",
+      "quote": "",
+      "url": "https://graduate.auburn.edu/admissions/test-score-waivers.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department page could not be fetched, so this is not stated here.",
+      "quote": "",
+      "url": "https://graduate.auburn.edu/admissions/test-score-waivers.php"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The department page could not be fetched, so this is not stated here.",
+      "quote": "",
+      "url": "https://graduate.auburn.edu/admissions/test-score-waivers.php"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE submission is encouraged but not required for this PhD.",
+      "quote": "Programs waiving the GRE/GMAT test score requirement: | Civil and Environmental Engineering, MS, PhD | Note – Submission of GRE score is encouraged but not required",
+      "url": "https://graduate.auburn.edu/admissions/test-score-waivers.php"
+    }
+  },
+  "notes": "Department pages (cosam.auburn.edu, eng.auburn.edu) fail TLS verification through the proxy, so deadline, subject GRE, supervisor, funding and entry route are not stated. The GRE rule is from the Graduate School waiver list."
+}

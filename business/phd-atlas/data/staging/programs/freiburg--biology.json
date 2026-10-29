@@ -1,0 +1,55 @@
+{
+  "id": "freiburg--biology",
+  "university": "freiburg",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Faculty of Biology (Doctoral Board)",
+  "program_page": "https://uni-freiburg.de/bio-en/doctorate/",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No application deadline is set. Applications must be complete two weeks before a Doctoral Board meeting, and the next meeting is 19 November 2026.",
+      "quote": "Please submit your complete application materials no later than two weeks before the relevant meeting date.",
+      "url": "https://uni-freiburg.de/bio-en/doctorate/",
+      "time_sensitive": "2026-11-05",
+      "also": [
+        {
+          "quote": "The next meeting dates are: | October 22, 2026 | November 19, 2026",
+          "url": "https://uni-freiburg.de/bio-en/doctorate/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on the Faculty of Biology doctoral page.",
+      "quote": "",
+      "url": "https://uni-freiburg.de/bio-en/doctorate/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A doctoral supervision agreement must be completed before admission, and the supervisor must be an authorized examiner in the Faculty of Biology.",
+      "quote": "In order to be admitted as a doctoral candidate, you must first complete a doctoral supervision agreement.",
+      "url": "https://uni-freiburg.de/bio-en/doctorate/",
+      "also": [
+        {
+          "quote": "Please ensure that the person supervising your doctoral studies is an authorized examiner in the Faculty of Biology.",
+          "url": "https://uni-freiburg.de/bio-en/doctorate/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The Faculty of Biology page states no funding rule.",
+      "quote": "",
+      "url": "https://uni-freiburg.de/bio-en/doctorate/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The Faculty of Biology page does not state whether a Master's is needed.",
+      "quote": "",
+      "url": "https://uni-freiburg.de/bio-en/doctorate/"
+    }
+  },
+  "notes": "Structured programmes (SGBM, the Bernstein Center route) are linked from this page but their own pages returned 502 or are not part of this record. Biomedicine is not recorded separately because the SGBM pages could not be fetched."
+}

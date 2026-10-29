@@ -1,0 +1,48 @@
+{
+  "id": "auburn--chemistry",
+  "university": "auburn",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry and Biochemistry",
+  "program_page": "https://graduate.auburn.edu/admissions/test-score-waivers.php",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The department page could not be fetched, so this is not stated here.",
+      "quote": "",
+      "url": "https://graduate.auburn.edu/admissions/test-score-waivers.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page could not be fetched, so this is not stated here.",
+      "quote": "",
+      "url": "https://graduate.auburn.edu/admissions/test-score-waivers.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department page could not be fetched, so this is not stated here.",
+      "quote": "",
+      "url": "https://graduate.auburn.edu/admissions/test-score-waivers.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department page could not be fetched, so this is not stated here.",
+      "quote": "",
+      "url": "https://graduate.auburn.edu/admissions/test-score-waivers.php"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The department page could not be fetched, so this is not stated here.",
+      "quote": "",
+      "url": "https://graduate.auburn.edu/admissions/test-score-waivers.php"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Graduate School's official GRE waiver list includes this PhD, so the GRE is not required for it.",
+      "quote": "Programs waiving the GRE/GMAT test score requirement: | Chemistry and Biochemistry, MS, PhD",
+      "url": "https://graduate.auburn.edu/admissions/test-score-waivers.php"
+    }
+  },
+  "notes": "Department pages (cosam.auburn.edu, eng.auburn.edu) fail TLS verification through the proxy, so deadline, subject GRE, supervisor, funding and entry route are not stated. The GRE rule is from the Graduate School waiver list. A department application page reportedly asks international applicants for GRE scores, but that page could not be fetched."
+}

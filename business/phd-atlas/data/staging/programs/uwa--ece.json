@@ -1,0 +1,53 @@
+{
+  "id": "uwa--ece",
+  "university": "uwa",
+  "field": "ece",
+  "also_fields": [
+    "mech",
+    "chemeng",
+    "civil",
+    "bme"
+  ],
+  "department": "School of Engineering",
+  "program_page": "https://www.uwa.edu.au/schools/engineering",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "UWA accepts most research degree applications throughout the year; only some specific degrees have deadlines.",
+      "quote": "You can apply for most postgraduate research degrees (HDR) throughout the year, however, there are deadlines for some specific degrees.",
+      "url": "https://www.uwa.edu.au/study/How-to-apply/Higher-Degree-by-Research"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The UWA pages fetched for this field do not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.uwa.edu.au/schools/engineering"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A supervisor must be confirmed before an application is submitted through the HDR portal.",
+      "quote": "Once you’ve confirmed your supervisor and compiled all required information, you can submit an application through our HDR application portal.",
+      "url": "https://www.uwa.edu.au/study/How-to-apply/Higher-Degree-by-Research",
+      "also": [
+        {
+          "quote": "Identifying and securing academic supervision is an essential component for admission.",
+          "url": "https://www.uwa.edu.au/study/courses/doctor-of-philosophy"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "UWA awards research scholarships through a competitive, merit-based selection process; no general funding guarantee is stated.",
+      "quote": "At UWA we award research scholarships through a competitive merit-based selection process",
+      "url": "https://www.uwa.edu.au/study/courses/doctor-of-philosophy"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "UWA requires adequate research preparation; the pages fetched do not say whether a bachelor's degree alone is enough.",
+      "quote": "",
+      "url": "https://www.uwa.edu.au/study/How-to-apply/Higher-Degree-by-Research"
+    }
+  },
+  "notes": "School page: 'View our current PhD opportunities.' One umbrella school record covers the engineering fields; no engineering-specific GRE or English rule was found."
+}
