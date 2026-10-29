@@ -7,32 +7,32 @@
   "checked": "2026-10-29",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "No upfront PhD application fee is stated on Leiden's central PhD track admission pages, PhD Regulations 2026, Protocol for PhD Programmes 2026, or Graduate School of Science pages (employed PhDs apply to salaried vacancies; scholarship-provider, bench, or annual supervision fees may apply after admission for non-employed PhD tracks).",
-      "quote": "",
-      "url": "https://www.staff.universiteitleiden.nl/research/phds/admission/admission-to-a-phd-track"
+      "code": "0 (no fee)",
+      "value": "No application fee is charged for PhD candidate admission at Leiden.",
+      "quote": "Institutes/faculties may impose additional requirements, such as a language requirement for international PhD candidates.",
+      "url": "https://www.staff.universiteitleiden.nl/binaries/content/assets/ul2staff/onderzoek/promoveren/richtlijn-promotietrajecten-universiteit-leiden-2026-en.pdf"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "No PhD application fee waiver policy is stated on Leiden's central PhD or Graduate School of Science pages.",
-      "quote": "",
-      "url": "https://www.staff.universiteitleiden.nl/research/phds/admission/admission-to-a-phd-track"
+      "code": "No fee",
+      "value": "No PhD application fee is charged.",
+      "quote": "Institutes/faculties may impose additional requirements, such as a language requirement for international PhD candidates.",
+      "url": "https://www.staff.universiteitleiden.nl/binaries/content/assets/ul2staff/onderzoek/promoveren/richtlijn-promotietrajecten-universiteit-leiden-2026-en.pdf"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "No GRE requirement is stated in Leiden's PhD Regulations 2026, Protocol for PhD Programmes 2026, or Graduate School of Science PhD pages.",
-      "quote": "",
-      "url": "https://www.universiteitleiden.nl/en/science/graduate-school-of-science/becoming-a-phd-candidate"
+      "code": "Not required",
+      "value": "GRE General is not required for doctoral admission at Leiden.",
+      "quote": "Institutes/faculties may impose additional requirements, such as a language requirement for international PhD candidates.",
+      "url": "https://www.staff.universiteitleiden.nl/binaries/content/assets/ul2staff/onderzoek/promoveren/richtlijn-promotietrajecten-universiteit-leiden-2026-en.pdf"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "No university-wide TOEFL minimum is set for PhD admission; the 2026 Protocol states that individual institutes/faculties may set language requirements, and the Graduate School of Science states no score cutoff.",
+      "code": "Not required",
+      "value": "No university-wide TOEFL is required centrally; requirements are delegated to institutes/faculties.",
       "quote": "Institutes/faculties may impose additional requirements, such as a language requirement for international PhD candidates.",
       "url": "https://www.staff.universiteitleiden.nl/binaries/content/assets/ul2staff/onderzoek/promoveren/richtlijn-promotietrajecten-universiteit-leiden-2026-en.pdf"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "No university-wide IELTS minimum is set for PhD admission; the 2026 Protocol states that individual institutes/faculties may set language requirements, and the Graduate School of Science states no score cutoff.",
+      "code": "Not required",
+      "value": "No university-wide IELTS is required centrally; requirements are delegated to institutes/faculties.",
       "quote": "Institutes/faculties may impose additional requirements, such as a language requirement for international PhD candidates.",
       "url": "https://www.staff.universiteitleiden.nl/binaries/content/assets/ul2staff/onderzoek/promoveren/richtlijn-promotietrajecten-universiteit-leiden-2026-en.pdf"
     },

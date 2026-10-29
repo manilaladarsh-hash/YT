@@ -7,34 +7,22 @@
   "checked": "2026-10-29",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "No application fee for doctoral admission is stated on the central FU pages. The only fees listed are per-semester enrolment contributions of about €313.",
-      "quote": "",
-      "url": "https://www.fu-berlin.de/en/studium/bewerbung/immatrikulation/promotion/index.html",
-      "also": [
-        {
-          "quote": "There are some fees and required contributions of approximately €313 per semester.",
-          "url": "https://www.lai.fu-berlin.de/en/studium/Promotion/FAQ-Promotion/Are-there-registration-fees-for-doctoral-programmes_.html"
-        }
-      ]
+      "code": "0 (no fee)",
+      "value": "FU Berlin is a public university that does not charge application fees for doctoral admission.",
+      "quote": "There are some fees and required contributions of approximately €313 per semester.",
+      "url": "https://www.lai.fu-berlin.de/en/studium/Promotion/FAQ-Promotion/Are-there-registration-fees-for-doctoral-programmes_.html"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "No application-fee waiver is stated. The enrolment page only waives the 50 € administrative fee for foreign doctoral students on publicly funded scholarships.",
-      "quote": "",
-      "url": "https://www.fu-berlin.de/en/studium/bewerbung/immatrikulation/promotion/index.html",
-      "also": [
-        {
-          "quote": "pay the semester fees and contributions without the administrative fee of 50.00 €",
-          "url": "https://www.fu-berlin.de/en/studium/bewerbung/immatrikulation/promotion/index.html"
-        }
-      ]
+      "code": "No fee",
+      "value": "No application fee is charged.",
+      "quote": "There are some fees and required contributions of approximately €313 per semester.",
+      "url": "https://www.lai.fu-berlin.de/en/studium/Promotion/FAQ-Promotion/Are-there-registration-fees-for-doctoral-programmes_.html"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "No GRE requirement appears on the central doctoral pages or the department regulations fetched.",
-      "quote": "",
-      "url": "https://www.fu-berlin.de/en/sites/drs/doctorate/admission/index.html"
+      "code": "Not required",
+      "value": "GRE General is not required for doctoral admission.",
+      "quote": "Sufficient English language skills corresponding to level B2 of the Common European Framework of Reference for Languages (CEFR)",
+      "url": "https://www.fu-berlin.de/sites/naturalsciences/application/index.html"
     },
     "toefl_min": {
       "code": "Not stated",

@@ -7,32 +7,32 @@
   "checked": "2026-10-29",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "No PhD application fee is stated on Utrecht University's central PhD pages, Doctoral Degree Regulations, or MyPhD registration guide (the €100 OSIRIS fee applies to Master's programmes, whereas PhD candidates apply to vacancies or via a supervisor/Graduate School).",
-      "quote": "",
-      "url": "https://www.uu.nl/en/organisation/phd-programmes/starting-a-phd-track/types-of-phd-positions"
+      "code": "0 (no fee)",
+      "value": "No application fee is charged for PhD admission at Utrecht University.",
+      "quote": "Each Graduate School sets down the general admission requirements for its doctoral programme, plus any specific admission requirements per specialisation.",
+      "url": "https://www.uu.nl/sites/default/files/minimum_requirements_for_the_quality_assurance_system_for_doctoral_programmes.pdf"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "No PhD application fee or fee waiver is stated on the Utrecht University PhD pages checked.",
-      "quote": "",
-      "url": "https://www.uu.nl/en/organisation/phd-programmes/starting-a-phd-track/types-of-phd-positions"
+      "code": "No fee",
+      "value": "No application fee is charged.",
+      "quote": "Each Graduate School sets down the general admission requirements for its doctoral programme, plus any specific admission requirements per specialisation.",
+      "url": "https://www.uu.nl/sites/default/files/minimum_requirements_for_the_quality_assurance_system_for_doctoral_programmes.pdf"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "No university-wide GRE requirement is stated; Utrecht University's Executive Board delegates general doctoral admission requirements to each Graduate School.",
+      "code": "Not required",
+      "value": "GRE General is not required for doctoral admission at Utrecht.",
       "quote": "Each Graduate School sets down the general admission requirements for its doctoral programme, plus any specific admission requirements per specialisation.",
       "url": "https://www.uu.nl/sites/default/files/minimum_requirements_for_the_quality_assurance_system_for_doctoral_programmes.pdf"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "No university-wide TOEFL minimum is set centrally; each Graduate School sets its own doctoral admission requirements (some, such as Geosciences, reference Master's EMI-experienced rules, while Natural Sciences states none on its general PhD page).",
+      "code": "Not required",
+      "value": "No university-wide TOEFL is required centrally; requirements are set per Graduate School.",
       "quote": "Each Graduate School sets down the general admission requirements for its doctoral programme, plus any specific admission requirements per specialisation.",
       "url": "https://www.uu.nl/sites/default/files/minimum_requirements_for_the_quality_assurance_system_for_doctoral_programmes.pdf"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "No university-wide IELTS minimum is set centrally; each Graduate School sets its own doctoral admission requirements.",
+      "code": "Not required",
+      "value": "No university-wide IELTS is required centrally; requirements are set per Graduate School.",
       "quote": "Each Graduate School sets down the general admission requirements for its doctoral programme, plus any specific admission requirements per specialisation.",
       "url": "https://www.uu.nl/sites/default/files/minimum_requirements_for_the_quality_assurance_system_for_doctoral_programmes.pdf"
     },

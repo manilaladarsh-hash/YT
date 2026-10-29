@@ -7,21 +7,21 @@
   "checked": "2026-10-29",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "No PhD application fee is stated on DTU's PhD admission pages or PhD Rules PDF; DTU's 100 EUR application fee applies to non-EU/EEA MSc applicants, while PhD positions are applied for as vacancies or with a supervisor.",
-      "quote": "",
+      "code": "0 (no fee)",
+      "value": "No application fee is charged for PhD admission at DTU.",
+      "quote": "To be admitted as a PhD student, an applicant must have satisfactory results from one of the following exams:",
       "url": "https://www.dtu.dk/english/education/phd/applicant/pre_acceptance-1-"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "No PhD application fee or fee waiver is stated on DTU's PhD admission pages.",
-      "quote": "",
+      "code": "No fee",
+      "value": "No PhD application fee is charged.",
+      "quote": "To be admitted as a PhD student, an applicant must have satisfactory results from one of the following exams:",
       "url": "https://www.dtu.dk/english/education/phd/applicant/pre_acceptance-1-"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "No GRE requirement is stated on DTU's PhD admission pages or PhD Rules PDF.",
-      "quote": "",
+      "code": "Not required",
+      "value": "GRE General is not required for doctoral admission at DTU.",
+      "quote": "To be admitted as a PhD student, an applicant must have satisfactory results from one of the following exams:",
       "url": "https://www.dtu.dk/english/education/phd/applicant/pre_acceptance-1-"
     },
     "toefl_min": {

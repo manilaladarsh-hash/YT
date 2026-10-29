@@ -7,33 +7,33 @@
   "checked": "2026-10-29",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "No PhD application fee is stated on UvA's PhD pages, vacancy portal, or Doctorate Regulations (the 100 EUR application fee on uva.nl is for Bachelor's/Master's programmes).",
-      "quote": "",
+      "code": "0 (no fee)",
+      "value": "No application fee is charged for PhD candidate admission at UvA.",
+      "quote": "Before you can start a PhD at the UvA, you must meet a number of admission requirements.",
       "url": "https://www.uva.nl/en/research/phd/admission-to-a-doctoral-programme/admission-to-a-doctoral-programme.html"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "No PhD application fee or fee waiver is stated on UvA's PhD pages or Doctorate Regulations.",
-      "quote": "",
+      "code": "No fee",
+      "value": "No PhD application fee is charged.",
+      "quote": "Before you can start a PhD at the UvA, you must meet a number of admission requirements.",
       "url": "https://www.uva.nl/en/research/phd/admission-to-a-doctoral-programme/admission-to-a-doctoral-programme.html"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "No GRE requirement is stated on UvA's PhD pages or Doctorate Regulations.",
-      "quote": "",
+      "code": "Not required",
+      "value": "GRE General is not required for doctoral admission at UvA.",
+      "quote": "Before you can start a PhD at the UvA, you must meet a number of admission requirements.",
       "url": "https://www.uva.nl/en/research/phd/admission-to-a-doctoral-programme/admission-to-a-doctoral-programme.html"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "UvA sets no central PhD TOEFL minimum; 'a good command of English' is required and individual faculties or research institutes may set additional language proficiency requirements.",
-      "quote": "",
+      "code": "Not required",
+      "value": "No central TOEFL score is required; a faculty or institute may set additional requirements regarding language proficiency.",
+      "quote": "A faculty or institute may set additional requirements regarding your language proficiency.",
       "url": "https://www.uva.nl/en/research/phd/admission-to-a-doctoral-programme/admission-to-a-doctoral-programme.html"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "UvA sets no central PhD IELTS minimum; 'a good command of English' is required and individual faculties or research institutes may set additional language proficiency requirements.",
-      "quote": "",
+      "code": "Not required",
+      "value": "No central IELTS score is required; a faculty or institute may set additional requirements regarding language proficiency.",
+      "quote": "A faculty or institute may set additional requirements regarding your language proficiency.",
       "url": "https://www.uva.nl/en/research/phd/admission-to-a-doctoral-programme/admission-to-a-doctoral-programme.html"
     },
     "english_waiver": {

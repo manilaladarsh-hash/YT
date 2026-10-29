@@ -83,3 +83,52 @@
 - Live validation: `288 universities, 2996 programs, 0 errors, 0 warnings` (`rc=0`).
 - Overall `Not stated` (`coverage.py`): `7,257 -> 7,187 / 32,956 = 21.81%`.
 - 16 of 18 fields `< 25%`. Remaining fields: `physics` (26.78%, need 66 resolved), `math` (28.12%, need 99 resolved).
+
+## Phase 7 (Wave 2 Batch D–H European University Enrichments & Math/Physics Milestone) — 2026-10-29
+- Universities: 20 European universities enriched at central level (`kit`, `heidelberg`, `stuttgart`, `unibe`, `fuberlin`, `paris-saclay`, `tuberlin`, `sorbonne`, `ntnu`, `uppsala`, `dtu`, `leiden`, `utrecht`, `freiburg`, `uga-fr`, `upc`, `ugent`, `uva`, `stockholm`, `ipparis`).
+- 23 targeted department gapfills in `math` and `physics`:
+  - `temple--physics.json`: `supervisor: "Not required"`
+  - `columbia--physics.json`: `funding: "Guaranteed"`
+  - `claremontgrad--math.json`: `gre_subject: "Optional"`, `supervisor: "Not required"`
+  - `binghamton--physics.json`: `funding: "Typical"`, `gre_general: "Optional"`
+  - `bgsu--math.json`: `entry_route: "Master's usually required"`, `funding: "Competitive"`
+  - `bc--math.json`: `deadline: "2027-01-20"`
+  - `denver--math.json`: `gre_subject: "Optional"`, `supervisor: "Not required"`
+  - `illinoistech--math.json`: `gre_subject: "Optional"`
+  - `marquette--math.json`: `gre_subject: "Optional"`
+  - `miami--math.json`: `gre_subject: "Optional"`
+  - `ohiou--math.json`: `gre_subject: "Optional"`
+  - `oregonstate--math.json`: `gre_subject: "Optional"`
+  - `ou--math.json`: `gre_subject: "Not required"`
+  - `utoledo--math.json`: `gre_subject: "Optional"`
+  - `epfl--math.json`: `gre_subject: "Recommended"`
+  - `dayton--physics.json`: `gre_subject: "Not required"`
+  - `denver--physics.json`: `gre_subject: "Optional"`, `supervisor: "Not required"`
+  - `louisville--physics.json`: `gre_subject: "Not required"`
+  - `bostonu--physics.json`: `supervisor: "Not required"`
+  - `cornell--physics.json`: `supervisor: "Not required"`
+  - `uchicago--math.json`: `supervisor: "Not required"`
+  - `temple--math.json`: `supervisor: "Not required"`
+  - `cornell--math.json`: `supervisor: "Not required"`
+- **HISTORIC MILESTONE REACHED**:
+  - **ALL 18 fields are now `< 25%` Not stated!**
+    - `astronomy`: 19.30%
+    - `biology`: 18.11%
+    - `biomed`: 19.45%
+    - `bme`: 20.01%
+    - `chemeng`: 19.82%
+    - `chemistry`: 17.51%
+    - `civil`: 20.96%
+    - `cs`: 19.25%
+    - `datasci`: 23.27%
+    - `earth`: 18.75%
+    - `ece`: 20.12%
+    - `environment`: 19.83%
+    - `materials`: 19.98%
+    - `math`: **24.95%** (656 / 2,629)
+    - `mech`: 21.12%
+    - `neuro`: 23.47%
+    - `physics`: **24.22%** (674 / 2,783)
+    - `statistics`: 18.66%
+- Live validation: `288 universities, 2996 programs, 0 errors, 0 warnings` (`rc=0`).
+- Overall `Not stated` (`coverage.py`): `7,187 -> 6,617 / 32,956 = 20%`.

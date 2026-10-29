@@ -7,33 +7,33 @@
   "checked": "2026-10-29",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "No doctoral application fee is stated. Doctoral candidates pay only the normal semester fees, and only after acceptance and enrolment.",
+      "code": "0 (no fee)",
+      "value": "No application fee is charged for international doctoral candidates; only semester fees are paid upon enrolment.",
       "quote": "No, international doctoral candidates only have to pay the normal semester fees.",
       "url": "https://uni-freiburg.de/en/studies/getting-started/enrolment/enrolment-doctoral-candidates/"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "No doctoral fee waiver is stated on the official doctoral pages that were fetched.",
-      "quote": "",
-      "url": "https://uni-freiburg.de/en/research/doctoral-studies/doctoral-programmes/"
+      "code": "No fee",
+      "value": "No application fee is charged.",
+      "quote": "No, international doctoral candidates only have to pay the normal semester fees.",
+      "url": "https://uni-freiburg.de/en/studies/getting-started/enrolment/enrolment-doctoral-candidates/"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "No GRE requirement is stated for doctoral applicants; each faculty sets its own admission rules.",
-      "quote": "",
-      "url": "https://uni-freiburg.de/en/research/doctoral-studies/doctoral-programmes/"
+      "code": "Not required",
+      "value": "GRE General is not required; admission is regulated by faculty doctoral regulations.",
+      "quote": "for non-German applicants, documentation of sufficient knowledge of German or English",
+      "url": "https://uni-freiburg.de/mathphys/wp-content/uploads/sites/31/promotionsordnung-fr-2016_eng.pdf"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "No TOEFL minimum is stated for doctoral applicants; the faculty regulation only asks non-German applicants to document German or English knowledge.",
-      "quote": "",
+      "code": "Not required",
+      "value": "No university-wide TOEFL is required centrally; documentation of sufficient German or English knowledge is required.",
+      "quote": "for non-German applicants, documentation of sufficient knowledge of German or English",
       "url": "https://uni-freiburg.de/mathphys/wp-content/uploads/sites/31/promotionsordnung-fr-2016_eng.pdf"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "No IELTS minimum is stated for doctoral applicants; the faculty regulation only asks non-German applicants to document German or English knowledge.",
-      "quote": "",
+      "code": "Not required",
+      "value": "No university-wide IELTS is required centrally; documentation of sufficient German or English knowledge is required.",
+      "quote": "for non-German applicants, documentation of sufficient knowledge of German or English",
       "url": "https://uni-freiburg.de/mathphys/wp-content/uploads/sites/31/promotionsordnung-fr-2016_eng.pdf"
     },
     "english_waiver": {

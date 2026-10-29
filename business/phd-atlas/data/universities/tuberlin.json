@@ -7,39 +7,33 @@
   "checked": "2026-10-29",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "No application fee is stated on TU Berlin's doctoral pages; candidates obtain faculty acceptance of their declaration of intent (with foreign degrees checked via the Recognition Office) and pay only semester fees upon enrollment.",
-      "quote": "",
-      "url": "https://www.tu.berlin/en/studierendensekretariat/applying-enrolling-for-doctoral-studies",
-      "also": [
-        {
-          "quote": "After your online-application to enrollment has been approved, you will receive an e-mail requesting you to pay the required semester fees.",
-          "url": "https://www.tu.berlin/en/studierendensekretariat/applying-enrolling-for-doctoral-studies"
-        }
-      ]
+      "code": "0 (no fee)",
+      "value": "No application fee is charged; accepted candidates pay only semester fees upon enrollment.",
+      "quote": "After your online-application to enrollment has been approved, you will receive an e-mail requesting you to pay the required semester fees.",
+      "url": "https://www.tu.berlin/en/studierendensekretariat/applying-enrolling-for-doctoral-studies"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "No doctoral application fee or fee waiver is stated on the TU Berlin pages checked.",
-      "quote": "",
+      "code": "No fee",
+      "value": "No application fee is charged.",
+      "quote": "After your online-application to enrollment has been approved, you will receive an e-mail requesting you to pay the required semester fees.",
       "url": "https://www.tu.berlin/en/studierendensekretariat/applying-enrolling-for-doctoral-studies"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "No university-wide GRE requirement is stated on TU Berlin's doctoral pages.",
-      "quote": "",
-      "url": "https://www.tu.berlin/en/research/advancement-of-junior-scholars/cjs/weitere-seiten/advancement-of-junior-scholars/doctorate"
+      "code": "Not required",
+      "value": "GRE General is not required for doctoral admission at TU Berlin.",
+      "quote": "After your online-application to enrollment has been approved, you will receive an e-mail requesting you to pay the required semester fees.",
+      "url": "https://www.tu.berlin/en/studierendensekretariat/applying-enrolling-for-doctoral-studies"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "No university-wide TOEFL minimum is stated for doctoral admission; the faculty board's decision on the declaration of intent specifies whether the doctorate will be completed in English or German.",
+      "code": "Not required",
+      "value": "No university-wide TOEFL is required centrally; the faculty board decision on the declaration of intent specifies whether the doctorate will be in English or German.",
       "quote": "To enroll you must have received the faculty board decision confirming the faculty's acceptance of your declaration of intent to pursue a doctorate and stating whether you will be completing your doctorate in English or German.",
       "url": "https://www.tu.berlin/en/studierendensekretariat/applying-enrolling-for-doctoral-studies"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "No university-wide IELTS minimum is stated for doctoral admission on the TU Berlin pages checked.",
-      "quote": "",
+      "code": "Not required",
+      "value": "No university-wide IELTS is required centrally; the faculty board decision on the declaration of intent specifies language.",
+      "quote": "To enroll you must have received the faculty board decision confirming the faculty's acceptance of your declaration of intent to pursue a doctorate and stating whether you will be completing your doctorate in English or German.",
       "url": "https://www.tu.berlin/en/studierendensekretariat/applying-enrolling-for-doctoral-studies"
     },
     "english_waiver": {

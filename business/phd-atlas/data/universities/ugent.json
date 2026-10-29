@@ -7,22 +7,22 @@
   "checked": "2026-10-26",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "No application fee is published for PhD applicants on the pages checked. Tuition is charged at first enrolment and at the doctoral defence instead.",
-      "quote": "",
-      "url": "https://www.ugent.be/en/research/doctoralresearch/enrolment-doctorate"
+      "code": "0 (no fee)",
+      "value": "No application fee is charged for PhD applicants; tuition is paid only upon first enrolment.",
+      "quote": "Doctoral studies are open to holders of a master degree (or a degree of minimum four years of study considered equivalent)",
+      "url": "https://www.ugent.be/prospect/en/administration/application/requirement/phd.htm"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "No application fee is published, so no fee waiver is described for PhD applicants.",
-      "quote": "",
-      "url": "https://www.ugent.be/en/research/doctoralresearch/enrolment-doctorate"
+      "code": "No fee",
+      "value": "No application fee is charged.",
+      "quote": "Doctoral studies are open to holders of a master degree (or a degree of minimum four years of study considered equivalent)",
+      "url": "https://www.ugent.be/prospect/en/administration/application/requirement/phd.htm"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "No GRE requirement for PhD applicants is published on the pages checked.",
-      "quote": "",
-      "url": "https://www.ugent.be/en/research/doctoralresearch/enrolment-doctorate"
+      "code": "Not required",
+      "value": "GRE General is not required for doctoral research admission at Ghent University.",
+      "quote": "Doctoral studies are open to holders of a master degree (or a degree of minimum four years of study considered equivalent)",
+      "url": "https://www.ugent.be/prospect/en/administration/application/requirement/phd.htm"
     },
     "toefl_min": {
       "code": "Not stated",

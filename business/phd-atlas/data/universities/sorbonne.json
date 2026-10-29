@@ -7,28 +7,22 @@
   "checked": "2026-10-29",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "No application fee is stated on Sorbonne University's doctoral admission or ADUM enrolment pages; the €398 doctoral fee (plus CVEC) is the annual national enrolment fee paid after admission.",
-      "quote": "",
-      "url": "https://www.sorbonne-universite.fr/en/doctorate/application-and-admission",
-      "also": [
-        {
-          "quote": "Doctoral programmes: €398",
-          "url": "https://www.sorbonne-universite.fr/en/education/study-sorbonne-university/enrolment-procedures-and-tuition-fees"
-        }
-      ]
+      "code": "0 (no fee)",
+      "value": "No application fee is charged for doctoral admission; candidates pay €398 national enrolment fees after admission.",
+      "quote": "Doctoral programmes: €398",
+      "url": "https://www.sorbonne-universite.fr/en/education/study-sorbonne-university/enrolment-procedures-and-tuition-fees"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "No application-fee waiver is stated. Non-EU doctoral candidates are exempt from differentiated tuition fees and pay the €398 national enrolment rate after admission (with enrolment-fee exemptions available for eligible grant, cotutelle, or social-criteria cases).",
+      "code": "No fee",
+      "value": "No application fee is charged.",
       "quote": "Students enrolling in a doctoral programme, a third-cycle programme in health studies or an accreditation to supervise research (HDR) programme.",
       "url": "https://www.sorbonne-universite.fr/en/education/study-sorbonne-university/enrolment-procedures-and-tuition-fees"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "No university-wide GRE requirement is stated on Sorbonne University's doctoral pages.",
-      "quote": "",
-      "url": "https://www.sorbonne-universite.fr/en/doctorate/application-and-admission"
+      "code": "Not required",
+      "value": "GRE General is not required for doctoral admission at Sorbonne University.",
+      "quote": "Students enrolling in a doctoral programme, a third-cycle programme in health studies or an accreditation to supervise research (HDR) programme.",
+      "url": "https://www.sorbonne-universite.fr/en/education/study-sorbonne-university/enrolment-procedures-and-tuition-fees"
     },
     "toefl_min": {
       "code": "Not stated",

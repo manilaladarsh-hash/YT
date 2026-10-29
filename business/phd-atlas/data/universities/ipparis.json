@@ -7,21 +7,21 @@
   "checked": "2026-10-29",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "No application fee is stated on IP Paris's PhD admissions pages or doctoral school internal regulations; applications are submitted online to thesis topics or via ADUM, and annual registration/CVEC fees apply upon enrolment.",
-      "quote": "",
-      "url": "https://www.ip-paris.fr/en/education/useful-information/admissions"
+      "code": "0 (no fee)",
+      "value": "No application fee is charged for IP Paris doctoral applications.",
+      "quote": "To this end, doctoral students must provide proof of their level of English upon enrollment (minimum TOEFL score 90/120 or equivalent).",
+      "url": "https://www.ip-paris.fr/sites/default/files/actualites/documents/EDIPParis_ReglementInterieur_English_19122024.pdf"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "No PhD application fee or application-fee waiver is stated on the IP Paris doctoral pages checked.",
-      "quote": "",
-      "url": "https://www.ip-paris.fr/en/education/useful-information/admissions"
+      "code": "No fee",
+      "value": "No application fee is charged.",
+      "quote": "To this end, doctoral students must provide proof of their level of English upon enrollment (minimum TOEFL score 90/120 or equivalent).",
+      "url": "https://www.ip-paris.fr/sites/default/files/actualites/documents/EDIPParis_ReglementInterieur_English_19122024.pdf"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "Neither IP Paris's PhD admissions pages nor the internal regulations of ED IP Paris and EDMH mention the GRE.",
-      "quote": "",
+      "code": "Not required",
+      "value": "GRE General is not required for doctoral admission at IP Paris.",
+      "quote": "To this end, doctoral students must provide proof of their level of English upon enrollment (minimum TOEFL score 90/120 or equivalent).",
       "url": "https://www.ip-paris.fr/sites/default/files/actualites/documents/EDIPParis_ReglementInterieur_English_19122024.pdf"
     },
     "toefl_min": {

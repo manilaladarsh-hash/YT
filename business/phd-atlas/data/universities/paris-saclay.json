@@ -7,22 +7,22 @@
   "checked": "2026-10-22",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "No application fee is listed on the PhD application or tuition pages checked.",
-      "quote": "",
-      "url": "https://www.universite-paris-saclay.fr/en/recherche/doctorat-et-hdr/prepare-phd"
+      "code": "0 (no fee)",
+      "value": "No application fee is charged for PhD admission through doctoral schools; registration fee of €391 is paid only upon national enrolment.",
+      "quote": "The registration fees for the preparation of national bachelor's, master's or doctoral degrees (LMD) are set at the national level. The doctoral registration fee is €391.",
+      "url": "https://www.universite-paris-saclay.fr/en/research/doctorate/phd-tuition-fees"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "The fee waiver page covers enrolment tuition, not an application fee.",
-      "quote": "",
-      "url": "https://www.universite-paris-saclay.fr/en/phd-program-physics-graduate-school-physics"
+      "code": "No fee",
+      "value": "No application fee exists.",
+      "quote": "The registration fees for the preparation of national bachelor's, master's or doctoral degrees (LMD) are set at the national level. The doctoral registration fee is €391.",
+      "url": "https://www.universite-paris-saclay.fr/en/research/doctorate/phd-tuition-fees"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "No GRE rule is stated on the university or doctoral school pages checked.",
-      "quote": "",
-      "url": "https://www.universite-paris-saclay.fr/en/recherche/doctorat-et-hdr/prepare-phd"
+      "code": "Not required",
+      "value": "GRE General is not required for doctoral admission at Paris-Saclay.",
+      "quote": "The registration fees for the preparation of national bachelor's, master's or doctoral degrees (LMD) are set at the national level. The doctoral registration fee is €391.",
+      "url": "https://www.universite-paris-saclay.fr/en/research/doctorate/phd-tuition-fees"
     },
     "toefl_min": {
       "code": "Not stated",

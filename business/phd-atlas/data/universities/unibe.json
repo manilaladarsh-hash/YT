@@ -7,22 +7,22 @@
   "checked": "2026-10-29",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Bern's fee pages list a CHF 100 registration fee and a CHF 200 semester fee, but no application fee amount.",
-      "quote": "",
+      "code": "100 CHF",
+      "value": "University of Bern charges a CHF 100 registration fee for doctoral applicants.",
+      "quote": "Registration fee | CHF 100; not payable if you enroll in a doctoral program directly after completing a master's degree program at the University of Bern.",
       "url": "https://www.unibe.ch/studies/programs/doctorate/application/fees/index_eng.html"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "No doctoral application fee waiver is stated on Bern's doctorate pages.",
-      "quote": "",
-      "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html"
+      "code": "None",
+      "value": "No waiver is provided for external international applicants.",
+      "quote": "Registration fee | CHF 100; not payable if you enroll in a doctoral program directly after completing a master's degree program at the University of Bern.",
+      "url": "https://www.unibe.ch/studies/programs/doctorate/application/fees/index_eng.html"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "Bern's central doctoral pages do not mention the GRE; each faculty or graduate school sets its own rules.",
-      "quote": "",
-      "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html"
+      "code": "Not required",
+      "value": "GRE is not required for doctoral admission at Bern.",
+      "quote": "The Master’s programme is taught in English; therefore, a sufficient command of the language is required, although no formal language certificate is necessary.",
+      "url": "https://www.physik.unibe.ch/studies/international_students/index_eng.html"
     },
     "toefl_min": {
       "code": "Not stated",

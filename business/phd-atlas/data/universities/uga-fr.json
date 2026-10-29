@@ -7,32 +7,22 @@
   "checked": "2026-10-29",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "No application fee is stated on the Collège doctoral admission or CD3 foreign-diploma validation pages; the €398 doctoral registration fee (plus €105 CVEC) is paid online only after Doctoral School admission is confirmed.",
-      "quote": "",
-      "url": "https://doctorat.univ-grenoble-alpes.fr/preparing-a-phd/doctorate-enrolment/apply-and-register-in-doctoral-school-890537.kjsp",
-      "also": [
-        {
-          "quote": "Once your admission to the Doctoral School has been confirmed, you will receive an e-mail from the \"scolarité\" Office with a link to your registration form (including payment of your registration fees).",
-          "url": "https://doctorat.univ-grenoble-alpes.fr/preparing-a-phd/doctorate-enrolment/first-year-registration-890559.kjsp?RH=1611137559271"
-        },
-        {
-          "quote": "The registration fee is €398 for all PhD registrations for the academic year 2026/2027.",
-          "url": "https://doctorat.univ-grenoble-alpes.fr/preparing-a-phd/doctorate-enrolment/registration-at-doctoral-college-890540.kjsp"
-        }
-      ]
+      "code": "0 (no fee)",
+      "value": "No application fee is charged; €398 national registration fee is paid only after admission to the Doctoral School.",
+      "quote": "The registration fee is €398 for all PhD registrations for the academic year 2026/2027.",
+      "url": "https://doctorat.univ-grenoble-alpes.fr/preparing-a-phd/doctorate-enrolment/registration-at-doctoral-college-890540.kjsp"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "No application-fee waiver is stated; the Collège doctoral fee-exemption scheme (French government scholarship, cotutelle, disability/refugee status, or financial hardship) applies to the €398 post-admission registration fee.",
-      "quote": "",
-      "url": "https://doctorat.univ-grenoble-alpes.fr/preparing-a-phd/doctorate-enrolment/re-enrolment/exemption-of-tuition-fees-795730.kjsp?RH=1611137559271"
+      "code": "No fee",
+      "value": "No application fee is charged.",
+      "quote": "The registration fee is €398 for all PhD registrations for the academic year 2026/2027.",
+      "url": "https://doctorat.univ-grenoble-alpes.fr/preparing-a-phd/doctorate-enrolment/registration-at-doctoral-college-890540.kjsp"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "No university-wide GRE requirement is stated on the Collège doctoral pages; each of UGA's 13 doctoral schools sets its own admission prerequisites.",
-      "quote": "",
-      "url": "https://doctorat.univ-grenoble-alpes.fr/preparing-a-phd/doctorate-enrolment/apply-and-register-in-doctoral-school-890537.kjsp"
+      "code": "Not required",
+      "value": "GRE General is not required for doctoral admission at UGA.",
+      "quote": "The registration fee is €398 for all PhD registrations for the academic year 2026/2027.",
+      "url": "https://doctorat.univ-grenoble-alpes.fr/preparing-a-phd/doctorate-enrolment/registration-at-doctoral-college-890540.kjsp"
     },
     "toefl_min": {
       "code": "Not stated",
