@@ -1,0 +1,67 @@
+{
+  "id": "mst--earth",
+  "university": "mst",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Geology and Geophysics",
+  "program_page": "https://catalog.mst.edu/graduate/graduatedegreeprograms/geologyandgeophysics/",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Doctoral applications for Fall entry are due February 15, and the catalog says they are reviewed on a rolling basis.",
+      "quote": "Doctoral Fall semester: February 15",
+      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Applications are reviewed on a rolling basis.",
+          "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The graduate school sets 72 hours for a PhD after a bachelor's and 42 after a master's, so both routes are open.",
+      "quote": "Students who do not hold a master’s degree will be required to complete a minimum of seventy-two hours of graduate credit",
+      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/doctoratedegrees/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department says GRE scores are not required for its programs.",
+      "quote": "GRE scores are not required",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/geologyandgeophysics/"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The department requires a TOEFL score of 79 for applicants whose native language is not English.",
+      "quote": "For students whose native language is not English, a minimum score of 79 TOEFL",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/geologyandgeophysics/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department requires an IELTS score of 6.5 for applicants whose native language is not English.",
+      "quote": "a minimum score of 6.5 IELTS is required for admission",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/geologyandgeophysics/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test applies.",
+      "quote": "",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/geologyandgeophysics/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/geologyandgeophysics/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog states no funding policy.",
+      "quote": "",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/geologyandgeophysics/"
+    }
+  },
+  "notes": "Geological Engineering (PhD and DE) is a separate catalog program, not covered here; its page says GRE scores are not required. The department also accepts PTE 53 in place of TOEFL 79."
+}

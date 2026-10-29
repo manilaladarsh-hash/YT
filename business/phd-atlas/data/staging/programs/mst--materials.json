@@ -1,0 +1,49 @@
+{
+  "id": "mst--materials",
+  "university": "mst",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Materials Science and Engineering",
+  "program_page": "https://catalog.mst.edu/graduate/graduatedegreeprograms/materialsscienceandengineering/",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Doctoral applications for Fall entry are due February 15, and the catalog says they are reviewed on a rolling basis.",
+      "quote": "Doctoral Fall semester: February 15",
+      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Applications are reviewed on a rolling basis.",
+          "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The graduate school sets 72 hours for a PhD after a bachelor's and 42 after a master's, so both routes are open.",
+      "quote": "Students who do not hold a master’s degree will be required to complete a minimum of seventy-two hours of graduate credit",
+      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/doctoratedegrees/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Materials science has no GRE Subject test.",
+      "quote": "",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/materialsscienceandengineering/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/materialsscienceandengineering/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog states no funding policy.",
+      "quote": "",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/materialsscienceandengineering/"
+    }
+  },
+  "notes": "Ceramic Engineering and Metallurgical Engineering PhD pages (catalog) have no GRE or English rule. The catalog page has no admission rule beyond the university record."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "mst--chemistry",
+  "university": "mst",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Chemistry",
+  "program_page": "https://catalog.mst.edu/graduate/graduatedegreeprograms/chemistry/",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Doctoral applications for Fall entry are due February 15, and the catalog says they are reviewed on a rolling basis.",
+      "quote": "Doctoral Fall semester: February 15",
+      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Applications are reviewed on a rolling basis.",
+          "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The graduate school sets 72 hours for a PhD after a bachelor's and 42 after a master's, so both routes are open.",
+      "quote": "Students who do not hold a master’s degree will be required to complete a minimum of seventy-two hours of graduate credit",
+      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/doctoratedegrees/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The chemistry catalog page names no GRE Subject test.",
+      "quote": "",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/chemistry/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The chemistry catalog page says nothing about supervisor agreement before admission.",
+      "quote": "",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/chemistry/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The chemistry catalog page states no funding policy.",
+      "quote": "",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/chemistry/"
+    }
+  },
+  "notes": "The chemistry catalog page has no GRE or English rule, so the university rules apply."
+}

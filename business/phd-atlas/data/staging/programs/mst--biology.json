@@ -1,0 +1,49 @@
+{
+  "id": "mst--biology",
+  "university": "mst",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Biological Sciences",
+  "program_page": "https://catalog.mst.edu/graduate/graduatedegreeprograms/biologicalsciences/",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Doctoral applications for Fall entry are due February 15, and the catalog says they are reviewed on a rolling basis.",
+      "quote": "Doctoral Fall semester: February 15",
+      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Applications are reviewed on a rolling basis.",
+          "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The graduate school sets 72 hours for a PhD after a bachelor's and 42 after a master's, so both routes are open.",
+      "quote": "Students who do not hold a master’s degree will be required to complete a minimum of seventy-two hours of graduate credit",
+      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/doctoratedegrees/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching assistantships are competitively awarded to excellent applicants with a faculty mentor.",
+      "quote": "Competitively awarded graduate teaching assistantships are available for excellent applicants with an identified faculty mentor.",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/biologicalsciences/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Biology has no GRE Subject test.",
+      "quote": "",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/biologicalsciences/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog asks for an identified faculty mentor, but does not say the mentor must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/biologicalsciences/"
+    }
+  },
+  "notes": "The catalog page has no GRE or English rule."
+}
