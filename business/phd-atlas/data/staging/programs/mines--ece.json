@@ -1,0 +1,50 @@
+{
+  "id": "mines--ece",
+  "university": "mines",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Electrical Engineering",
+  "program_page": "https://www.mines.edu/academics/graduate-academics/electrical-engineering-phd/",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Fall international PhD applications are due March 1; the page prints no year, so 2027 is inferred for Fall 2027 entry.",
+      "quote": "Thesis and PhD Domestic June 1 November 1 International March 1 October 1",
+      "url": "https://gradprograms.mines.edu/deadlines/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Electrical Engineering PhD does not require the GRE.",
+      "quote": "GRE: Not Required",
+      "url": "https://www.mines.edu/academics/graduate-academics/electrical-engineering-phd/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The Electrical Engineering PhD does not require the GRE; the field has no subject test.",
+      "quote": "GRE: Not Required",
+      "url": "https://www.mines.edu/academics/graduate-academics/electrical-engineering-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page says students work with a faculty advisor during the PhD, not whether one must agree before admission.",
+      "quote": "",
+      "url": "https://www.mines.edu/academics/graduate-academics/electrical-engineering-phd/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Teaching and research assistantships are generally awarded to PhD applicants, according to the university FAQ; the department gives no separate figure.",
+      "quote": "Both Assistantships are generally awarded to Masters Thesis (MS-T) and Doctoral (PHD) level applicants.",
+      "url": "https://gradprograms.mines.edu/applicant-frequently-asked-questions/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is the requirement, and a master's is helpful but not required.",
+      "quote": "A master’s degree is helpful but not required.",
+      "url": "https://www.mines.edu/academics/graduate-academics/electrical-engineering-phd/"
+    }
+  },
+  "notes": "The PhD has three tracks: Antennas and Wireless Communications, Power and Energy Systems, and Information and Systems Sciences.",
+  "name": "Electrical Engineering (PhD)"
+}

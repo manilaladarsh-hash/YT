@@ -1,0 +1,58 @@
+{
+  "id": "mines--math",
+  "university": "mines",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Applied Mathematics and Statistics",
+  "program_page": "https://www.mines.edu/academics/graduate-academics/applied-mathematics-and-statistics-phd/",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Fall international PhD applications are due March 1; the page prints no year, so 2027 is inferred for Fall 2027 entry.",
+      "quote": "Thesis and PhD Domestic June 1 November 1 International March 1 October 1",
+      "url": "https://gradprograms.mines.edu/deadlines/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The PhD does not require the GRE.",
+      "quote": "GRE: Not Required",
+      "url": "https://www.mines.edu/academics/graduate-academics/applied-mathematics-and-statistics-phd/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The PhD does not require the GRE, including the Mathematics subject test.",
+      "quote": "GRE: Not Required",
+      "url": "https://www.mines.edu/academics/graduate-academics/applied-mathematics-and-statistics-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No official page says whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.mines.edu/academics/graduate-academics/applied-mathematics-and-statistics-phd/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Teaching and research assistantships are generally awarded to PhD applicants, according to the university FAQ; the department gives no separate figure.",
+      "quote": "Both Assistantships are generally awarded to Masters Thesis (MS-T) and Doctoral (PHD) level applicants.",
+      "url": "https://gradprograms.mines.edu/applicant-frequently-asked-questions/",
+      "also": [
+        {
+          "quote": "We strongly encourage applicants to meet the Fall admission priority deadline, if applying to a MS Thesis or PhD program and are seeking funding.",
+          "url": "https://ams.mines.edu/application-admission/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is the requirement, and a master's is helpful but not required.",
+      "quote": "A master’s degree is helpful but not required.",
+      "url": "https://www.mines.edu/academics/graduate-academics/applied-mathematics-and-statistics-phd/"
+    }
+  },
+  "notes": "Statistics is covered by this PhD (Applied Mathematics and Statistics). Director of Graduate Studies is named on the department page.",
+  "name": "Applied Mathematics and Statistics (PhD)"
+}

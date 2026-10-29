@@ -1,0 +1,50 @@
+{
+  "id": "mines--chemeng",
+  "university": "mines",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Chemical and Biological Engineering",
+  "program_page": "https://chemeng.mines.edu/graduate-program/",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Fall international PhD applications are due March 1; the page prints no year, so 2027 is inferred for Fall 2027 entry.",
+      "quote": "Thesis and PhD Domestic June 1 November 1 International March 1 October 1",
+      "url": "https://gradprograms.mines.edu/deadlines/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department no longer requires the GRE for its MS or PhD applications.",
+      "quote": "GRE scores are no longer required for application of our MS and PhD programs.",
+      "url": "https://chemeng.mines.edu/graduate-program/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department no longer requires the GRE for its PhD applications.",
+      "quote": "GRE scores are no longer required for application of our MS and PhD programs.",
+      "url": "https://chemeng.mines.edu/graduate-program/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No advisor is needed before starting; the chair of graduate affairs advises new doctoral students in their first semester.",
+      "quote": "No. All incoming doctoral and master’s students are advised by CBE’s chair of graduate affairs for their first semester in the program.",
+      "url": "https://chemeng.mines.edu/graduate-program/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Students admitted to the PhD are fully supported with an assistantship, stipend and tuition, as long as they make satisfactory progress.",
+      "quote": "Students admitted to the Ph.D. in chemical engineering are fully supported through research and teaching assistantships that include a living stipend and fully paid tuition, fees, and health insurance for as long as they are making satisfactory progress towards their degree",
+      "url": "https://chemeng.mines.edu/graduate-program/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Many PhD students are admitted straight from a bachelor's degree, but some hold post-bachelor's coursework or a degree.",
+      "quote": "but many are admitted to the program directly from their bachelor’s degree",
+      "url": "https://chemeng.mines.edu/graduate-program/"
+    }
+  },
+  "notes": "The department admits PhD students mainly for Fall. Admission is by committee; the advisor is assigned after the first semester.",
+  "name": "Chemical Engineering (PhD)"
+}

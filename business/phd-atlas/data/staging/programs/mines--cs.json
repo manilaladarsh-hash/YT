@@ -1,0 +1,50 @@
+{
+  "id": "mines--cs",
+  "university": "mines",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Computer Science",
+  "program_page": "https://www.mines.edu/academics/graduate-academics/computer-science-phd/",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Fall international PhD applications are due March 1; the page prints no year, so 2027 is inferred for Fall 2027 entry.",
+      "quote": "Thesis and PhD Domestic June 1 November 1 International March 1 October 1",
+      "url": "https://gradprograms.mines.edu/deadlines/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The CS department waives the GRE for graduate applicants.",
+      "quote": "GRE is waived for CS Grad applicants.",
+      "url": "https://cs.mines.edu/applicationadmission/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The CS PhD does not require the GRE; the field has no subject test.",
+      "quote": "GRE: Not Required",
+      "url": "https://www.mines.edu/academics/graduate-academics/computer-science-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page says students work with a faculty advisor during the PhD, not whether one must agree before admission.",
+      "quote": "",
+      "url": "https://www.mines.edu/academics/graduate-academics/computer-science-phd/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Teaching and research assistantships are generally awarded to PhD applicants, according to the university FAQ; the department gives no separate figure.",
+      "quote": "Both Assistantships are generally awarded to Masters Thesis (MS-T) and Doctoral (PHD) level applicants.",
+      "url": "https://gradprograms.mines.edu/applicant-frequently-asked-questions/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is the requirement, and a master's is helpful but not required.",
+      "quote": "A master’s degree is helpful but not required.",
+      "url": "https://www.mines.edu/academics/graduate-academics/computer-science-phd/"
+    }
+  },
+  "notes": "Fall priority deadline is encouraged for funding (CS application page). Spring 2027 deadlines on the program page are for Spring entry.",
+  "name": "Computer Science (PhD)"
+}

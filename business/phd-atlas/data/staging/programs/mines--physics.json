@@ -1,0 +1,50 @@
+{
+  "id": "mines--physics",
+  "university": "mines",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Physics Department",
+  "program_page": "https://catalog.mines.edu/graduate/programs/physics/",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Fall international PhD applications are due March 1; the page prints no year, so 2027 is inferred for Fall 2027 entry.",
+      "quote": "Thesis and PhD Domestic June 1 November 1 International March 1 October 1",
+      "url": "https://gradprograms.mines.edu/deadlines/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The Physics PhD does not require the GRE, including the Physics subject test.",
+      "quote": "GRE: Not Required",
+      "url": "https://www.mines.edu/academics/graduate-academics/physics-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No official text on this PhD says whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.mines.edu/graduate/programs/physics/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Physics graduate students are usually supported through full or partial teaching or research assistantships.",
+      "quote": "Graduate students in the physics department are usually supported via full or partial teaching and research assistantships.",
+      "url": "https://physics.mines.edu/graduate-handbook/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is the requirement, and a master's is helpful but not required.",
+      "quote": "A master’s degree is helpful but not required.",
+      "url": "https://www.mines.edu/academics/graduate-academics/physics-phd/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Physics PhD does not require the GRE.",
+      "quote": "GRE: Not Required",
+      "url": "https://www.mines.edu/academics/graduate-academics/physics-phd/"
+    }
+  },
+  "notes": "Physics catalog: admission is competitive and based on undergraduate record, test scores and references. Mines' Physics PhD page lists GRE: Not Required. Fall international deadline (March 1) comes from the university deadlines page; the program page lists Spring 2027 dates only.",
+  "name": "Physics (PhD)"
+}
