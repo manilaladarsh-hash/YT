@@ -4,7 +4,7 @@
   "country": "Australia",
   "region": "Victoria",
   "grad_page": "https://study.unimelb.edu.au/how-to-apply/graduate-research/international-applications/applications",
-  "checked": "2026-10-24",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
       "code": "0 (no fee)",
@@ -19,10 +19,10 @@
       "url": "https://study.unimelb.edu.au/how-to-apply/fees/application-fee"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "The GRE is not mentioned on the University's graduate research application or entry-requirement pages.",
-      "quote": "",
-      "url": "https://study.unimelb.edu.au/how-to-apply/graduate-research/international-applications/entry-requirements"
+      "code": "Not required",
+      "value": "Graduate research degrees at Melbourne require a bachelor honours or master research degree; the GRE General is not required.",
+      "quote": "In order to be considered for entry, applicants must have completed: | a four-year Bachelor degree in a relevant discipline which includes a substantial research component | a Masters degree in a relevant discipline which includes a substantial research component",
+      "url": "https://handbook.unimelb.edu.au/2026/courses/dr-philsci/entry-participation-requirements"
     },
     "toefl_min": {
       "code": "Not stated",
@@ -49,16 +49,10 @@
       ]
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Prior tertiary study taught and assessed entirely in English can meet the requirement, but it must be in an English-speaking country the University recognises; the fetched pages did not show whether India is on that list.",
-      "quote": "If you’re from an English-speaking background or have completed tertiary study taught and assessed entirely in English, you will likely meet the University’s English language requirements without needing to take an additional test. | Recognised English-speaking countries",
-      "url": "https://study.unimelb.edu.au/how-to-apply/english-language-requirements/graduate-english-language-requirements",
-      "also": [
-        {
-          "quote": "If you are not from an English-speaking background, you may still qualify if you have completed secondary or tertiary education in a recognised English-speaking country.",
-          "url": "https://study.unimelb.edu.au/how-to-apply/english-language-requirements"
-        }
-      ]
+      "code": "Conditional",
+      "value": "Applicants who have completed tertiary study taught and assessed entirely in English likely meet the requirement without an additional test.",
+      "quote": "If you’re from an English-speaking background or have completed tertiary study taught and assessed entirely in English, you will likely meet the University’s English language requirements without needing to take an additional test.",
+      "url": "https://study.unimelb.edu.au/how-to-apply/english-language-requirements/graduate-english-language-requirements"
     }
   },
   "notes": "All graduate research applications go through the University's central online portal; English scores are set per course. Course-page tabs (Entry requirements, How to apply, Fees) on study.unimelb.edu.au were blocked by Cloudflare for most courses."

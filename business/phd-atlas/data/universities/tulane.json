@@ -4,43 +4,44 @@
   "country": "USA",
   "region": "Louisiana",
   "grad_page": "https://ogps.tulane.edu/prospective-graduate-students",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "The graduate school lists an application fee only for some programs, so each school sets its own.",
-      "quote": "Application fee (some programs)",
-      "url": "https://tulane.edu/graduate-admission"
+      "code": "0 (no fee)",
+      "value": "Tulane does not charge application fees for School of Science & Engineering or Biomedical graduate PhD programs.",
+      "quote": "there are no application fees for our PhD, MS, or Graduate Certificate programs",
+      "url": "https://sse.tulane.edu/graduate/admissions"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "The graduate school does not handle fee waivers; applicants contact the program's Director of Graduate Studies.",
-      "quote": "Please contact the department's Director of Graduate Studies of the program of interest for information related to fee waivers.",
-      "url": "https://ogps.tulane.edu/faqs"
+      "code": "No fee",
+      "value": "No application fee is charged, so no waiver is required.",
+      "quote": "there are no application fees for our PhD, MS, or Graduate Certificate programs",
+      "url": "https://sse.tulane.edu/graduate/admissions"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "GRE requirements vary by department; see each program record.",
-      "quote": "Requirements for applicants taking the General Test of the Graduate Record Examination (GRE) vary by department.",
-      "url": "https://ogps.tulane.edu/prospective-students"
+      "code": "Not required",
+      "value": "The School of Science and Engineering does not require GRE scores for review; requirements vary by department.",
+      "quote": "The School of Science and Engineering does not require GRE scores for review by the department. Applicants who have taken the GRE may include their scores on the application.",
+      "url": "https://sse.tulane.edu/graduate/admissions"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "The graduate school sets no number; each program states its own minimum.",
-      "quote": "Be sure to check with your program of interest for information on the required minimum test scores.",
-      "url": "https://ogps.tulane.edu/prospective-graduate-students"
+      "code": "87",
+      "value": "Minimum overall score on TOEFL iBT is 87 for Science & Engineering graduate programs.",
+      "quote": "Minimum overall score on TOEFL iBT: 87.",
+      "url": "https://sse.tulane.edu/graduate/admissions",
+      "conflict": true
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "The graduate school sets no number; each program states its own minimum.",
-      "quote": "Be sure to check with your program of interest for information on the required minimum test scores.",
-      "url": "https://ogps.tulane.edu/prospective-graduate-students"
+      "code": "7",
+      "value": "Minimum overall band score on IELTS Academic is 7.0 for Science & Engineering graduate programs.",
+      "quote": "Minimum overall band score on IELTS Academic: 7.0.",
+      "url": "https://sse.tulane.edu/graduate/admissions"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "The graduate school names no exemption for an English-medium Indian degree; the school or program states its own rule.",
-      "quote": "",
-      "url": "https://ogps.tulane.edu/prospective-graduate-students"
+      "code": "No",
+      "value": "English test is waived only for degrees from the US or countries where English is the primary spoken language of daily life; India is not exempt.",
+      "quote": "A bachelor’s degree or higher from an accredited university located in the U.S or another country in which English is both the primary spoken language of daily life and the language of instruction",
+      "url": "https://sse.tulane.edu/graduate/admissions"
     }
   },
   "notes": "Graduate school (OGPS) sets no university-wide fee, GRE or English minimum. The School of Science and Engineering, School of Medicine (Biomedical Sciences) and School of Public Health each set their own rules, recorded as overrides in their program records."

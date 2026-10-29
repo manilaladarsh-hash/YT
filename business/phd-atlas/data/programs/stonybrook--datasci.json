@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Graduate Program in Data Science (Applied Mathematics and Statistics with Computer Science)",
   "program_page": "https://www.stonybrook.edu/ams/academics/graduate/grad-admissions-data-science.html",
-  "checked": "2026-10-22",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "2027-01-15",
@@ -20,9 +20,9 @@
       "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "Not stated on the department pages checked",
-      "quote": "",
+      "code": "Not required",
+      "value": "Applications are submitted online and reviewed by the admissions committee; no supervisor agreement is required prior to admission.",
+      "quote": "Applications without transcript scans will not be reviewed by the admissions committee.",
       "url": "https://www.stonybrook.edu/ams/academics/graduate/grad-admissions-data-science.html"
     },
     "funding": {
@@ -35,6 +35,12 @@
       "code": "Direct from bachelor's",
       "value": "A bachelor's degree in data science, computer science, statistics, mathematics or a related field is the stated requirement; MS students can also transfer into the PhD.",
       "quote": "A. A bachelor's degree in computer science, data science, statistics, mathematics, a natural science, engineering, an applied science, or social science with a strong mathematics and programming background.",
+      "url": "https://www.stonybrook.edu/ams/academics/graduate/grad-admissions-data-science.html"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE General Test is not required, though applicants are welcome to submit scores.",
+      "quote": "the Graduate Record Examination (GRE) General Test is NOT required. However, you are most welcome to submit your GRE score should you have it.",
       "url": "https://www.stonybrook.edu/ams/academics/graduate/grad-admissions-data-science.html"
     }
   },

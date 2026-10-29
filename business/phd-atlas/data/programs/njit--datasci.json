@@ -5,13 +5,14 @@
   "also_fields": [],
   "department": "Department of Data Science, Ying Wu College of Computing with Mathematical Sciences",
   "program_page": "https://ds.njit.edu/phd-data-science",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
-      "code": "Not stated",
-      "value": "The page gives October 15 (spring) and December 15 (fall) with no year.",
-      "quote": "",
-      "url": "https://ds.njit.edu/phd-data-science"
+      "code": "2026-12-15",
+      "value": "Application deadline for fall admission is December 15.",
+      "quote": "Application deadlines are October 15 for spring and December 15 for fall.",
+      "url": "https://ds.njit.edu/phd-data-science",
+      "inferred": "year"
     },
     "gre_general": {
       "code": "Required",
@@ -26,9 +27,9 @@
       "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "The page says advisors are identified after admission, but does not state an admission rule.",
-      "quote": "",
+      "code": "Not required",
+      "value": "Research advisor is identified after admission, no later than the start of the second semester.",
+      "quote": "Students are recommended to identify a research advisor as soon as possible, and no later than the start of the second semester.",
       "url": "https://ds.njit.edu/phd-data-science"
     },
     "funding": {

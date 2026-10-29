@@ -4,7 +4,7 @@
   "country": "USA",
   "region": "New Jersey",
   "grad_page": "https://gradschool.princeton.edu/admission-onboarding/prepare/application-fee",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
       "code": "90 USD",
@@ -19,10 +19,11 @@
       "url": "https://www.cs.princeton.edu/grad/admissions-requirements"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "The Graduate School sets no GRE rule; each department or program sets its own (see the program records).",
+      "code": "Not required",
+      "value": "The Graduate School does not have a general GRE requirement; each department or program sets its own testing policy.",
       "quote": "The Graduate School does not have a minimum score requirement; each department or program may set its own.",
-      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/gre"
+      "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/gre",
+      "conflict": true
     },
     "toefl_min": {
       "code": "Not stated",

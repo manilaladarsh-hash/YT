@@ -4,7 +4,7 @@
   "country": "USA",
   "region": "Vermont",
   "grad_page": "https://www.uvm.edu/graduate/how-apply",
-  "checked": "2026-10-27",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
       "code": "65 USD",
@@ -31,10 +31,10 @@
       "url": "https://www.uvm.edu/graduate/how-apply"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "The page gives an old-scale TOEFL iBT score, which predates the January 2026 change; the new-scale value is not confirmed.",
-      "quote": "",
-      "url": "https://www.uvm.edu/graduate/how-apply-international-students"
+      "code": "90",
+      "value": "Minimum for admission to the Graduate College at UVM is TOEFL iBT 90 (or 4.5 on the new scale).",
+      "quote": "TOEFL: Minimum for admission to the Graduate College at UVM | 90 or 4.5*",
+      "url": "https://www.uvm.edu/graduate/international-student-admissions"
     },
     "ielts_min": {
       "code": "6.5",

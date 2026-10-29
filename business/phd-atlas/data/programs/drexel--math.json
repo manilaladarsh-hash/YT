@@ -5,13 +5,14 @@
   "also_fields": [],
   "department": "Department of Mathematics (College of Arts & Sciences)",
   "program_page": "https://drexel.edu/academics/grad-professional-programs/coas/mathematics",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
-      "code": "Not stated",
-      "value": "The PhD dates (Priority and Regular Dec. 1) appear only in split table cells, so they are not quoted.",
-      "quote": "",
-      "url": "https://drexel.edu/academics/grad-professional-programs/coas/mathematics"
+      "code": "2026-12-01",
+      "value": "Fall (Domestic/International) PhD applications are due December 1.",
+      "quote": "Fall (Domestic/International) - December 1",
+      "url": "https://drexel.edu/coas/academics/graduate-programs/mathematics/doctorate/",
+      "inferred": "year"
     },
     "gre_subject": {
       "code": "Not stated",
@@ -26,10 +27,10 @@
       "url": "https://drexel.edu/admissions/apply/grad-instructions/application-process"
     },
     "funding": {
-      "code": "Not stated",
-      "value": "The mathematics page does not describe PhD funding.",
-      "quote": "",
-      "url": "https://drexel.edu/academics/grad-professional-programs/coas/mathematics"
+      "code": "Competitive",
+      "value": "Teaching and research assistantships with stipend and full tuition remission available for up to five years.",
+      "quote": "Funding for teaching and research assistants available up to five years. Teaching and research assistants are eligible for stipend and tuition remission.",
+      "url": "https://drexel.edu/coas/academics/graduate-programs/mathematics/doctorate/"
     },
     "entry_route": {
       "code": "Either",

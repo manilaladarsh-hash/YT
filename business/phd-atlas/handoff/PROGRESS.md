@@ -51,3 +51,19 @@
 - Live validation: `288 universities, 2996 programs, 0 errors, 0 warnings` (`rc=0`).
 - Overall `Not stated` (`coverage.py`): `7,641 -> 7,418 / 32,956 = 22.51%`.
 - 15 of 18 fields are now `< 25%` (`statistics` joined the < 25% club at 24%). Only 3 remain slightly above: `datasci` (26%), `physics` (27%), `math` (29%).
+
+## Phase 5 (Wave 2 Batch B High-Yield Gapfills & DataSci Targeted Strike) — 2026-10-29
+- Universities: 9 enriched (`cmu`, `clevelandstate`, `drexel`, `princeton`, `rochester`, `slu`, `tulane`, `unimelb`, `uvm`) + targeted department strike on `datasci` and `statistics` programs.
+- Key enrichments verified with primary sources cached:
+  - `drexel` (15 programs): verified `app_fee: "65 USD"`, `fee_waiver: "None"`, `gre_general: "Optional"`, `toefl_min: "90"`, `ielts_min: "6.5"`, `english_waiver: "No"`, `drexel--math.json` deadline and funding, `drexel--physics.json` funding.
+  - `unimelb` (13 programs): verified `gre_general: "Not required"`, `english_waiver: "Conditional"`.
+  - `slu` (10 programs): verified `app_fee: "0 USD"`, `fee_waiver: "No fee"`, `gre_general: "Not required"`.
+  - `princeton` (14 programs): verified `gre_general: "Not required"`.
+  - `rochester` (14 programs): verified `fee_waiver: "Limited"`, `gre_general: "Not required"`.
+  - `tulane` (13 programs): verified `app_fee: "0 (no fee)"`, `fee_waiver: "No fee"`, `gre_general: "Not required"`, `toefl_min: "87"`, `ielts_min: "7"`, `english_waiver: "No"`, `tulane--biomed.json` funding and supervisor.
+  - `uvm` (11 programs): verified `toefl_min: "90"`.
+  - `cmu` (9 programs): verified `fee_waiver: "Limited"`, `gre_general: "Not required"`, `cmu--physics.json` funding (`Guaranteed`), `cmu--math.json` supervisor (`Not required`). Both CMU physics and math are 100% complete.
+  - Targeted programs: `uchicago--datasci`, `oregonstate--datasci`, `utah--datasci`, `baylor--statistics`, `udel--datasci`, `stonybrook--datasci`, `clevelandstate--datasci`, `njit--datasci`.
+- Live validation: `288 universities, 2996 programs, 0 errors, 0 warnings` (`rc=0`).
+- Overall `Not stated` (`coverage.py`): `7,418 -> 7,257 / 32,956 = 22.02%`.
+- 16 of 18 fields are now `< 25%` (`datasci` dropped to 24%). Only 2 fields remain above 25%: `physics` (27%) and `math` (28%).

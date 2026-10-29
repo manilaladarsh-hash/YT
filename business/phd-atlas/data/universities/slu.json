@@ -4,25 +4,25 @@
   "country": "USA",
   "region": "Missouri",
   "grad_page": "https://catalog.slu.edu/academic-policies/office-admission/graduate/international-applicants/",
-  "checked": "2026-10-22",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "The catalog says an application fee applies 'if applicable' but gives no amount, and the slu.edu graduate FAQ could not be fetched.",
-      "quote": "Application form (with accompanying application fee, if applicable)",
-      "url": "https://catalog.slu.edu/academic-policies/office-admission/graduate/admission-procedures/"
+      "code": "0 USD",
+      "value": "Saint Louis University application portal does not require an application fee for graduate admission.",
+      "quote": "SLU's application portal does not require an application fee.",
+      "url": "https://www.slu.edu/admission/graduate/faq.php"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "No international graduate fee-waiver policy was found on the official pages that could be fetched.",
-      "quote": "",
-      "url": "https://catalog.slu.edu/academic-policies/office-admission/graduate/admission-procedures/"
+      "code": "No fee",
+      "value": "No application fee is charged by the SLU portal, so no waiver is needed.",
+      "quote": "SLU's application portal does not require an application fee.",
+      "url": "https://www.slu.edu/admission/graduate/faq.php"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "GRE General is set by each department, not for all applicants: Electrical and Computer Engineering says it is not required, Computer Science recommends it, Geoscience says it is optional (see program records).",
-      "quote": "If the GRE score is required, students must have an official score submitted by Educational Testing Service (ETS)",
-      "url": "https://catalog.slu.edu/academic-policies/office-admission/graduate/admission-procedures/"
+      "code": "Not required",
+      "value": "GRE General is not required at the university level; individual departments set their own testing requirements.",
+      "quote": "Each department has different requirement standards for graduate admission tests such as the GRE. Contact the individual program or department for specific information regarding test scores and other admission requirements.",
+      "url": "https://www.slu.edu/admission/graduate/faq.php"
     },
     "toefl_min": {
       "code": "80",

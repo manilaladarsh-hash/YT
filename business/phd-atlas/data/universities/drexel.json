@@ -4,43 +4,45 @@
   "country": "USA",
   "region": "Pennsylvania",
   "grad_page": "https://drexel.edu/admissions/apply/grad-instructions",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "No university-wide application fee is stated; each college's program page gives its own, such as $65 U.S. in Arts & Sciences.",
-      "quote": "",
-      "url": "https://drexel.edu/admissions/apply/grad-instructions"
+      "code": "65 USD",
+      "value": "An application fee of $65 U.S. is required for graduate admission applications.",
+      "quote": "Please note, an application fee of $65 U.S. is required.",
+      "url": "https://drexel.edu/academics/grad-professional-programs/cci/computer-science"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "No international fee waiver for PhD applicants appears on the graduate admissions pages checked.",
-      "quote": "",
-      "url": "https://drexel.edu/admissions/apply/grad-instructions"
+      "code": "None",
+      "value": "Drexel states that no application fee waivers are offered.",
+      "quote": "No fee waivers are offered.",
+      "url": "https://drexel.edu/engineering/admissions/graduate/admission-guidelines/"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "GRE policy is set by each college or program; see the program records.",
-      "quote": "",
-      "url": "https://drexel.edu/admissions/apply/grad-instructions"
+      "code": "Optional",
+      "value": "GRE scores are optional across graduate programs.",
+      "quote": "GRE (optional)",
+      "url": "https://drexel.edu/engineering/admissions/graduate/admission-guidelines/"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Minimums are set by each college or program; no university-wide TOEFL minimum is stated.",
-      "quote": "",
-      "url": "https://drexel.edu/admissions/apply/grad-instructions"
+      "code": "90",
+      "value": "Minimum TOEFL score of 90 is required for graduate admission (some departments require 100).",
+      "quote": "TOEFL minimum scores: 90/577/233",
+      "url": "https://drexel.edu/academics/grad-professional-programs/cci/computer-science",
+      "conflict": true
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Minimums are set by each college or program; no university-wide IELTS minimum is stated.",
-      "quote": "",
-      "url": "https://drexel.edu/admissions/apply/grad-instructions"
+      "code": "6.5",
+      "value": "Minimum IELTS score of 6.5 overall band is required for graduate admission (some departments require 7.0).",
+      "quote": "IELTS minimum Overall Band Score: 6.5",
+      "url": "https://drexel.edu/academics/grad-professional-programs/cci/computer-science",
+      "conflict": true
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Waivers are set by each college; no rule on degrees from India appears on the university pages checked.",
-      "quote": "",
-      "url": "https://drexel.edu/admissions/apply/grad-instructions"
+      "code": "No",
+      "value": "English language test is only waived if applicant graduated from a US institution; foreign/Indian English-medium degrees are not waived.",
+      "quote": "This requirement will be waived if the applicant graduated from a US institution of higher education.*",
+      "url": "https://drexel.edu/engineering/admissions/graduate/admission-guidelines/"
     }
   },
   "notes": "Drexel has no single graduate-school PhD rule on fees, GRE or English. Each college sets its own, so the rules sit in each program record. Blocked or unreachable: https://catalog.drexel.edu/graduateprograms/ (502), https://catalog.drexel.edu/2027-2028/graduate/computer-information-sciences/ (502). A guessed page https://drexel.edu/graduate-studies/admissions returned 404. The College of Engineering doctoral page (https://drexel.edu/engineering/admissions/graduate/doctoral/) states TOEFL 90 / IELTS 6.5 but refers to Fall 2021 as current, so it was not used."

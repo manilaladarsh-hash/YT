@@ -4,7 +4,7 @@
   "country": "USA",
   "region": "New York",
   "grad_page": "https://www.rochester.edu/college/gradstudies/admissions/apply.html",
-  "checked": "2026-10-24",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
       "code": "Not stated",
@@ -13,14 +13,14 @@
       "url": "https://www.rochester.edu/college/gradstudies/admissions/faq.html"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Waivers are decided case by case by each program; see the program records.",
-      "quote": "Requests for application fee waivers are considered on a case-by-case basis.",
+      "code": "Limited",
+      "value": "Requests for application fee waivers are considered on a case-by-case basis by departments.",
+      "quote": "Requests for application fee waivers are considered on a case-by-case basis. Only applicants who have completed their application with all the required materials submitted will be considered for a waiver.",
       "url": "https://www.rochester.edu/college/gradstudies/admissions/faq.html"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "GRE rules are set by each program; see the program records.",
+      "code": "Not required",
+      "value": "GRE requirements vary by program and are not required centrally.",
       "quote": "GRE requirements vary by program.",
       "url": "https://www.rochester.edu/college/gradstudies/admissions/test-requirements.html"
     },

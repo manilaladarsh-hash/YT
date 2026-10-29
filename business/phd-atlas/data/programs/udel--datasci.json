@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Bioinformatics Data Science program",
   "program_page": "https://bioinformatics.udel.edu/education/degrees/binf-phd/",
-  "checked": "2026-10-22",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "2027-02-15",
@@ -57,16 +57,16 @@
       "url": "https://bioinformatics.udel.edu/education/prospective-students/"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "The department pages do not say whether a supervisor must agree before admission.",
-      "quote": "",
-      "url": "https://bioinformatics.udel.edu/education/degrees/binf-phd/"
+      "code": "Not required",
+      "value": "Applicants are instructed not to reach out to faculty independently; the admissions committee matches qualified applicants with faculty mentors.",
+      "quote": "Members of the committee will work with qualified applicants to identify a suitable faculty mentor to provide funding; applicants should not reach out to faculty independently.",
+      "url": "https://bioinformatics.udel.edu/education/prospective-students/admissions-frequently-asked-questions/"
     },
     "funding": {
-      "code": "Not stated",
-      "value": "The department pages do not say how PhD students are funded.",
-      "quote": "",
-      "url": "https://bioinformatics.udel.edu/education/degrees/binf-phd/"
+      "code": "Guaranteed",
+      "value": "Admission to the full-time PhD is contingent upon securing an RA, which provides full tuition and a stipend.",
+      "quote": "Admission to the full-time PhD is contingent upon securing a Research Assistantship (RA), which would include a stipend and full tuition coverage.",
+      "url": "https://bioinformatics.udel.edu/education/prospective-students/admissions-frequently-asked-questions/"
     }
   },
   "notes": "Bioinformatics Data Science PhD, a data science track. The department page says the TOEFL is waived for approved English-speaking countries. Conditional admission exists for applicants who need more English training.",
