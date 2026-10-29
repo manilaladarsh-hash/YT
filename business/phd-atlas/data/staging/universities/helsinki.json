@@ -1,0 +1,59 @@
+{
+  "id": "helsinki",
+  "institution": "University of Helsinki",
+  "country": "Finland",
+  "region": "Uusimaa",
+  "grad_page": "https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/how-apply-doctoral-programmes",
+  "checked": "2026-10-29",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No application fee is stated on the pages checked; they say only that there are no tuition fees for PhD students.",
+      "quote": "",
+      "url": "https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/how-apply-doctoral-programmes"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application fee is stated on the pages checked, so no fee waiver is described.",
+      "quote": "",
+      "url": "https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/how-apply-doctoral-programmes"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The pages checked do not mention the GRE for doctoral applicants.",
+      "quote": "",
+      "url": "https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/how-apply-doctoral-programmes"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT total of 4.5 with at least 4 in each section for tests taken on or after 21 January 2026.",
+      "quote": "TOEFL iBT (Internet-based) completed on or after 21st January, 2026: | Total score 4,5, with a minimum score of 4 in each section",
+      "url": "https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/proving-your-language-skills-doctoral-education",
+      "also": [
+        {
+          "quote": "TOEFL iBT (Internet-based) completed before 21st January, 2026: | Total score 92, a minimum score of 22 in the writing section",
+          "url": "https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/proving-your-language-skills-doctoral-education"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic overall 6.5, with at least 6.0 in every section; general-level IELTS is not accepted.",
+      "quote": "Overall score 6.5, with a minimum score of 6.0 in all sections",
+      "url": "https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/proving-your-language-skills-doctoral-education",
+      "also": [
+        {
+          "quote": "the University of Helsinki only accepts IELTS Academic test scores",
+          "url": "https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/proving-your-language-skills-doctoral-education"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "A degree from India counts as English proof only if it was taught and assessed entirely in English and the documents clearly say English was the language of instruction.",
+      "quote": "University degree completed in English (see list of accepted countries) | Hong Kong India Jamaica | Please note that your degree/programme must be taught and assessed entirely in English | Your educational documents must clearly state that the language of instruction for your degree was English",
+      "url": "https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/proving-your-language-skills-doctoral-education"
+    }
+  },
+  "notes": "The official list has 14 doctoral programmes. Saved STEM records: physics (Doctoral Programme in Science, SciDoc, which covers the other physical, earth, maths, statistics and computing fields), biology (MaCS), biomed (Biomedicine, with neuroscience also listed) and environment (ELOISA). Not saved as separate records, because a record holds one programme per field: Drug Research, One Health, Multidisciplinary Research in Renewable Natural Resources, Clinical Research (its brain research strand is not separately recorded), and Population Health and Human Behaviour (its page rendered only the menu, so it could not be read). No engineering PhD appears on the list, so ece, mech, chemeng, civil and bme have no record. Data science is a topic inside SciDoc's computer science area, not its own programme. Autumn 2026 rounds (2-15 September 2026) have closed. Application fee and GRE rules are not on the pages reached; a doctoral right has no funding attached, and PhD tuition is free."
+}

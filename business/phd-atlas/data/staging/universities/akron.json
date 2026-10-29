@@ -1,0 +1,47 @@
+{
+  "id": "akron",
+  "institution": "University of Akron",
+  "country": "USA",
+  "region": "Ohio",
+  "grad_page": "https://bulletin.uakron.edu/graduate/international-students/",
+  "checked": "2026-10-29",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No fetched official page states the application fee; the Graduate School admissions pages return 403.",
+      "quote": "",
+      "url": "https://bulletin.uakron.edu/graduate/fees-expenses/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No fetched official page states an international fee-waiver rule.",
+      "quote": "",
+      "url": "https://bulletin.uakron.edu/graduate/fees-expenses/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No fetched official page says whether GRE General is required; the Graduate School admissions pages return 403, so check each program.",
+      "quote": "",
+      "url": "https://bulletin.uakron.edu/graduate/fees-expenses/"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The 2026-27 bulletin asks for a minimum of 79 on the internet-based TOEFL; some departments may require more.",
+      "quote": "A Minimum score of 79 on the internet-based TOEFL",
+      "url": "https://bulletin.uakron.edu/graduate/international-students/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Graduate applicants need an IELTS score of at least 6.5; some departments may ask for more.",
+      "quote": "A minimum score of 6.5 on the IELTS",
+      "url": "https://bulletin.uakron.edu/graduate/international-students/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "India is not named. A waiver needs an official document, from a university where English is the language of administration and instruction, certifying that all administration and instruction is in English.",
+      "quote": "in which English is the language of administration and instruction | certifying that all the administrative functions ... and instruction are conducted in English",
+      "url": "https://bulletin.uakron.edu/graduate/international-students/international-students.pdf"
+    }
+  },
+  "notes": "Blocked: https://www.uakron.edu/graduate/admissions/apply and https://www.uakron.edu/gradsch/admissions/ (403), also https://www.uakron.edu/chemistry/academics/grad-admisison.dot (403). Application fee and GRE General are Not stated because no fetched official page gives them."
+}

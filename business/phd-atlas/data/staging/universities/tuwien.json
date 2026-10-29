@@ -1,0 +1,47 @@
+{
+  "id": "tuwien",
+  "institution": "TU Wien (Vienna University of Technology)",
+  "country": "Austria",
+  "region": "Vienna",
+  "grad_page": "https://www.tuwien.at/en/studies/admission/admission-to-a-doctoral-programme",
+  "checked": "2026-10-29",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No application fee is named on the doctoral admission pages checked.",
+      "quote": "",
+      "url": "https://www.tuwien.at/en/studies/admission/admission-to-a-doctoral-programme"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application-fee waiver is described on the doctoral admission pages checked.",
+      "quote": "",
+      "url": "https://www.tuwien.at/en/studies/admission/admission-to-a-doctoral-programme"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement appears on the doctoral admission pages checked.",
+      "quote": "",
+      "url": "https://www.tuwien.at/en/studies/admission/admission-to-a-doctoral-programme"
+    },
+    "toefl_min": {
+      "code": "Not required",
+      "value": "Doctoral applicants generally need no English certificate, so no TOEFL score is asked for. The TOEFL 87 minimum applies only to the master's route.",
+      "quote": "For applications for admission to a doctoral programme proof of language proficiency is generally not necessary.",
+      "url": "https://www.tuwien.at/en/studies/admission/masters-programmes/other-inter-national-bachelors-degree/competence-in-english"
+    },
+    "ielts_min": {
+      "code": "Not required",
+      "value": "Doctoral applicants generally need no English certificate, so no IELTS band is asked for. The IELTS 6.5 minimum applies only to the master's route.",
+      "quote": "For applications for admission to a doctoral programme proof of language proficiency is generally not necessary.",
+      "url": "https://www.tuwien.at/en/studies/admission/masters-programmes/other-inter-national-bachelors-degree/competence-in-english"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "Doctoral applicants generally need no English certificate, so an English-medium degree from India needs no waiver. The India exclusion on the master's English-medium list does not apply to doctoral applications.",
+      "quote": "For applications for admission to a doctoral programme proof of language proficiency is generally not necessary.",
+      "url": "https://www.tuwien.at/en/studies/admission/masters-programmes/other-inter-national-bachelors-degree/competence-in-english"
+    }
+  },
+  "notes": "TU Wien runs three umbrella doctoral programmes: Engineering Sciences (796 700), Natural Sciences (796 600) and Social and Economic Sciences (796 300). Doctoral admission periods on the academic calendar cover winter 2026/27 (6 July to 10 December 2026) and summer 2027 (7 January to 10 June 2027); no winter 2027/28 window is published yet. Non-EU doctoral students pay tuition from the first semester; this is not an application fee."
+}

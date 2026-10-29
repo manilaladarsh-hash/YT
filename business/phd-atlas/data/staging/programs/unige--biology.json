@@ -1,0 +1,64 @@
+{
+  "id": "unige--biology",
+  "university": "unige",
+  "field": "biology",
+  "also_fields": [
+    "biomed"
+  ],
+  "department": "PhD School in Life Sciences (Faculties of Sciences and Medicine)",
+  "program_page": "https://lifesciencesphd.unige.ch/faq-applicants",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "Two open calls a year close on April 1 and November 1. The Summer call starts in September (Autumn semester), so the April 1 deadline is the one for Fall 2027 entry; the year is not printed and is taken as 2027.",
+      "quote": "There are two open calls per year. Call deadlines are April 1st and November 1st. | candidates from the Summer call usually start in September (Autumn semester)",
+      "url": "https://lifesciencesphd.unige.ch/faq-applicants",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is stated for the school's programmes on the pages reached.",
+      "quote": "",
+      "url": "https://lifesciencesphd.unige.ch/faq-applicants"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Candidates are accepted only after a principal investigator makes an offer, so a supervisor's agreement comes before admission.",
+      "quote": "Only those candidates who have received an offer from a PI are officially accepted by the PhD School.",
+      "url": "https://lifesciencesphd.unige.ch/faq-applicants"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Enrolled PhD students are fully funded by their host lab with a University of Geneva salary contract, and do not need their own funding.",
+      "quote": "Yes, as a PhD student in the program, you are fully funded by your host laboratory. | As a student in the PhD program, you do not need to secure your own funding.",
+      "url": "https://lifesciencesphd.unige.ch/faq-applicants"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants need a Master's degree or an equivalent degree; those with a different degree can request an equivalence review.",
+      "quote": "Applicants eligible for admission to the doctorate in life sciences are holders of a Master’s degree or a degree judged equivalent from an institution of higher education in Switzerland or abroad | Applicants holding a different degree are still encouraged to apply for this doctorate.",
+      "url": "https://lifesciencesphd.unige.ch/faq-applicants"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The school asks for B1 English and no test certificate at the online application stage, so no TOEFL minimum is set.",
+      "quote": "You do not need to provide a certificate of English from an English language test (i.e. TOEIC, IELTS, TOEFL) in your online application.",
+      "url": "https://lifesciencesphd.unige.ch/faq-applicants"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The school asks for B1 English and no test certificate at the online application stage, so no IELTS minimum is set.",
+      "quote": "You do not need to provide a certificate of English from an English language test (i.e. TOEIC, IELTS, TOEFL) in your online application.",
+      "url": "https://lifesciencesphd.unige.ch/faq-applicants"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The school requires B1 English (Regulations Art. 5.1 asks for an attestation) and does not name India or English-medium degrees.",
+      "quote": "Applicants must also produce an attestation proving that they have the equivalent of a B1 competency level (Common European Framework of Reference for Languages) in the English language",
+      "url": "https://lifesciencesphd.unige.ch/storage/app/uploads/public/5de/0f0/a62/5de0f0a62db8d424834717.pdf"
+    }
+  },
+  "notes": "Own application (open calls and ad hoc route). One school record covers six programmes: Molecular Biosciences, Ecology and Evolution, Genomics and Digital Health, Physics of Biology, Biomedical Sciences, Pharmaceutical Sciences; saved under biology with biomed in also_fields. Physics of Biology is the school's interdisciplinary programme and is not the Physics Section PhD (see unige--physics). Fees: the FAQ sets a CHF 65 registration fee for foreign secondary-degree holders and CHF 500 semester fees, not an application fee. Deadline year: the page prints April 1 and November 1 without a year; the Winter Call 2026-27 (November 1, 2026) is for a Spring 2027 start. Pharmaceutical Sciences and Genomics pages were not mapped to Atlas fields.",
+  "name": "PhD School in Life Sciences"
+}
