@@ -4,44 +4,44 @@
   "country": "Germany",
   "region": "Baden-Württemberg",
   "grad_page": "https://www.khys.kit.edu/english/admission_requirements.php",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
       "code": "Not stated",
-      "value": "No application fee for the doctorate is stated on the KIT pages fetched; the KHYS financing page only says no tuition is charged for a doctorate.",
-      "quote": "",
-      "url": "https://www.khys.kit.edu/english/admission_requirements.php"
+      "value": "The KHYS doctorate pages fetched state no application fee; they only say no tuition is charged for a doctorate.",
+      "quote": "When pursuing a doctorate at KIT, no tuition fees will be charged",
+      "url": "https://www.khys.kit.edu/english/financing_doctorate.php"
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "No application fee or application-fee waiver is stated; enrolled doctoral researchers pay semester fees.",
+      "value": "No application fee or application-fee waiver is stated on the KHYS pages.",
       "quote": "",
       "url": "https://www.khys.kit.edu/english/admission_requirements.php"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "No GRE requirement appears on the KIT doctoral pages fetched; each faculty's doctoral regulations set admission.",
+      "value": "No GRE requirement appears on the KHYS doctoral pages; each department's doctoral regulations set admission.",
       "quote": "",
       "url": "https://www.khys.kit.edu/english/admission_requirements.php"
     },
     "toefl_min": {
       "code": "Not stated",
       "value": "KIT expects a very good command of English, but the page says formal proof such as TOEFL or IELTS is not usually required and gives no minimum score.",
-      "quote": "doctoral candidates are expected to have a very good command of English, even if formal proof such as TOEFL or IELTS is not usually required",
+      "quote": "As a rule, doctoral candidates are expected to have a very good command of English, even if formal proof such as TOEFL or IELTS is not usually required",
       "url": "https://www.khys.kit.edu/english/admission_requirements.php"
     },
     "ielts_min": {
       "code": "Not stated",
       "value": "KIT expects a very good command of English, but the page says formal proof such as TOEFL or IELTS is not usually required and gives no minimum band.",
-      "quote": "doctoral candidates are expected to have a very good command of English, even if formal proof such as TOEFL or IELTS is not usually required",
+      "quote": "As a rule, doctoral candidates are expected to have a very good command of English, even if formal proof such as TOEFL or IELTS is not usually required",
       "url": "https://www.khys.kit.edu/english/admission_requirements.php"
     },
     "english_waiver": {
       "code": "Not stated",
-      "value": "The KIT doctoral pages do not mention India or English-medium degrees; check with the supervisor and faculty.",
-      "quote": "doctoral candidates are expected to have a very good command of English, even if formal proof such as TOEFL or IELTS is not usually required",
+      "value": "The KHYS pages do not mention India or English-medium degrees; the language requirement is set with the supervisor.",
+      "quote": "Please note that you must clarify the language requirements for the doctorate with your supervisor",
       "url": "https://www.khys.kit.edu/english/admission_requirements.php"
     }
   },
-  "notes": "Admission is by each faculty under its doctoral regulations, with registration at KHYS (Docata). KHYS says: 'As a rule, a good to very good degree is expected.' Foreign degrees need an equivalence assessment from the International Students Office. Graduate schools with their own portals (KSOP, KSETA, KSQM, GRACE and others) are listed on the KIT Doctoral Programs page. Blocked or missing: https://www.kit.edu/english/doctorate.php returned 404. The ETIT doctoral page (https://www.etit.kit.edu/english/promotion.php) gives no admission requirements and the ETIT 2017 regulations page (https://www.etit.kit.edu/english/3549.php) gave no usable text."
+  "notes": "Umbrella rules from KHYS: admission is by each KIT department under its doctoral regulations. Department pages checked: Physics, Mathematics, Informatics, Mechanical Engineering, Civil Engineering/Geo and Environmental Sciences, Chemical and Process Engineering. Not usable: Chemistry and Biosciences PhD page (application form only), ETIT doctoral page (no admission rules). Graduate schools with own portals (KSOP, KSETA, KSQM, GRACE, BIF-IGS, KCDS) were not saved as overrides. KIT general page https://www.kit.edu/english/doctorate.php returned 404 in an earlier session."
 }

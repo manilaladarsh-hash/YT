@@ -5,24 +5,12 @@
   "also_fields": [],
   "department": "School of Electrical and Computer Engineering",
   "program_page": "https://catalog.okstate.edu/engineering-architecture-technology/electrical-computer-engineering/",
-  "checked": "2026-10-26",
+  "checked": "2026-10-22",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "The catalog gives no application deadline; the school memorandum was not reached.",
+      "value": "The catalog gives no application deadline.",
       "quote": "",
-      "url": "https://catalog.okstate.edu/engineering-architecture-technology/electrical-computer-engineering/"
-    },
-    "gre_general": {
-      "code": "Required",
-      "value": "The School of Electrical and Computer Engineering requires GRE scores for its doctoral program.",
-      "quote": "GRE scores are also required for admission to the doctoral program in the School of Electrical and Computer Engineering.",
-      "url": "https://catalog.okstate.edu/engineering-architecture-technology/electrical-computer-engineering/"
-    },
-    "entry_route": {
-      "code": "Direct from bachelor's",
-      "value": "The Graduate College requires at least 67 credit hours beyond the bachelor's degree for the PhD, with no master's stated as a requirement.",
-      "quote": "the Graduate College requires a minimum of 67 credit hours of acceptable academic work beyond the bachelor’s degree",
       "url": "https://catalog.okstate.edu/engineering-architecture-technology/electrical-computer-engineering/"
     },
     "gre_subject": {
@@ -33,17 +21,28 @@
     },
     "supervisor": {
       "code": "Not stated",
-      "value": "No supervisor-before-admission rule on the pages checked.",
+      "value": "No supervisor rule appears on the catalog page.",
       "quote": "",
       "url": "https://catalog.okstate.edu/engineering-architecture-technology/electrical-computer-engineering/"
     },
     "funding": {
       "code": "Not stated",
-      "value": "No PhD funding rule on the pages checked.",
+      "value": "No funding rule appears on the catalog page.",
       "quote": "",
+      "url": "https://catalog.okstate.edu/engineering-architecture-technology/electrical-computer-engineering/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The Graduate College requires 67 credit hours beyond a bachelor's degree.",
+      "quote": "the Graduate College requires a minimum of 67 credit hours of acceptable academic work beyond the bachelor’s degree",
+      "url": "https://catalog.okstate.edu/engineering-architecture-technology/electrical-computer-engineering/"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The school requires GRE scores for its doctoral program.",
+      "quote": "GRE scores are also required for admission to the doctoral program in the School of Electrical and Computer Engineering.",
       "url": "https://catalog.okstate.edu/engineering-architecture-technology/electrical-computer-engineering/"
     }
   },
-  "notes": "Catalog page only. The school's Memorandum to Graduate Students (ceat.okstate.edu/ece/graduate-programs.html) was not reached.",
-  "name": "Electrical Engineering, PhD"
+  "notes": "Department admissions and deadline pages on the OSU domain returned 403 or 502, so only the university catalog was read. The school's Memorandum to Graduate Students (ceat.okstate.edu/ece/graduate-programs.html) returned 403, so the deadline is not stated."
 }

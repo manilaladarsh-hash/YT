@@ -9,34 +9,34 @@
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "Only 2026 dates are shown (applications close around April 2026, jury early May 2026); no Fall 2027 date is published on the page.",
+      "value": "The 2026 Graduate School math dates were given as approximate, and 2027 dates are not published.",
       "quote": "Closing for applications, with notice from the thesis directors: around April 2026",
-      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/hadamard-doctoral-school-mathematics"
-    },
-    "supervisor": {
-      "code": "Required",
-      "value": "You must first find a thesis director and topic; the director gives an opinion on your application.",
-      "quote": "The first step for a student is to find a thesis director, and a research topic in a field that interests him or her.",
-      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/hadamard-doctoral-school-mathematics"
-    },
-    "funding": {
-      "code": "Guaranteed",
-      "value": "A thesis project needs funding secured for 3 years, either a competition-based doctoral contract or other funding such as CIFRE, ANR or ERC.",
-      "quote": "a research topic, and funding secured for 3 years",
       "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/hadamard-doctoral-school-mathematics"
     },
     "gre_subject": {
       "code": "Not stated",
-      "value": "Not stated on the page checked",
+      "value": "No GRE rule is stated on the school page checked.",
       "quote": "",
       "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/hadamard-doctoral-school-mathematics"
     },
-    "entry_route": {
-      "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
+    "supervisor": {
+      "code": "Required",
+      "value": "Each thesis needs a thesis director, and the first step for a student is to find one.",
+      "quote": "The first step for a student is to find a thesis director",
       "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/hadamard-doctoral-school-mathematics"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Each thesis must have three years of funding secured, so admitted students are funded.",
+      "quote": "There are 4 aspects to a thesis project: a doctoral student, a thesis director, a research topic, and funding secured for 3 years",
+      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/hadamard-doctoral-school-mathematics"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's or equivalent degree is needed to start a PhD in initial training.",
+      "quote": "Registration in initial training is possible as a continuation of a master or other equivalent degree",
+      "url": "https://www.universite-paris-saclay.fr/en/recherche/doctorat-et-hdr/prepare-phd"
     }
   },
-  "notes": "Recruitment by competition (doctoral contracts) or non-competitive mode (other funding). Apply on ADUM."
+  "notes": "Competition contracts (GS Math White Programme) and non-competitive funding both go through ADUM."
 }

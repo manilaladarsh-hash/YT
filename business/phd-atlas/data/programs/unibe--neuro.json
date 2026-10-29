@@ -1,0 +1,49 @@
+{
+  "id": "unibe--neuro",
+  "university": "unibe",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Specialized PhD in Neuroscience (BENEFRI), within the Graduate School of Health Sciences and the GCB",
+  "program_page": "https://phdneuroscience.unibe.ch/",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Doctoral applications at the University of Bern are accepted throughout the year once a thesis supervisor agrees (fall semester registration runs September 1 to October 15).",
+      "quote": "You can apply to do a doctorate throughout the year.",
+      "url": "https://www.unibe.ch/studies/dates/phd_candidates/index_eng.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The neuroscience page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://phdneuroscience.unibe.ch/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A confirmed supervisor at Bern must be in place before admission; the confirmation of supervision is filled in for every doctorate.",
+      "quote": "Fill in the confirmation of supervision that applies to your doctorate.",
+      "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page gives no funding rule for admitted PhD students.",
+      "quote": "",
+      "url": "https://phdneuroscience.unibe.ch/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's or licentiate from a Swiss university or ETH, or an equivalent degree, is needed for doctoral admission.",
+      "quote": "hold a master's degree or a licentiate from a Swiss university or Swiss Federal Institute of Technology, or an equivalent university degree",
+      "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html",
+      "also": [
+        {
+          "quote": "You may only apply for a GCB PhD specialization after you have successfully completed your GCB interview",
+          "url": "https://www.gcb.unibe.ch/phd_program/phd_specializations/index_eng.html"
+        }
+      ]
+    }
+  },
+  "notes": "",
+  "name": "Specialized PhD in Neuroscience / BENEFRI"
+}

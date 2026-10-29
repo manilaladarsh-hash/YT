@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Department of Physics",
   "program_page": "https://www.usd.edu/Academics/Graduate-Programs/Physics",
-  "checked": "2026-10-28",
+  "checked": "2026-10-29",
   "fields": {
     "funding": {
       "code": "Competitive",
@@ -20,10 +20,12 @@
       ]
     },
     "deadline": {
-      "code": "Not stated",
-      "value": "The Physics PhD admission requirements are on a catalog page that could not be fetched.",
-      "quote": "",
-      "url": "https://www.usd.edu/Academics/Graduate-Programs/Physics"
+      "code": "2027-02-01",
+      "value": "Fall priority deadline is February 1 (the year is not printed, so the 2026/27 cycle applies), with a final deadline of July 15; graduate assistantship consideration uses the February 1 date.",
+      "quote": "Priority Deadline: February 1 | Final Deadline: July 15",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2349",
+      "inferred": "year",
+      "time_sensitive": "2027-02-01"
     },
     "gre_subject": {
       "code": "Not stated",
@@ -38,11 +40,23 @@
       "url": "https://www.usd.edu/Academics/Graduate-Programs/Physics"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "The Physics page does not say whether a master's is needed; the catalog could not be fetched.",
-      "quote": "",
-      "url": "https://www.usd.edu/Academics/Graduate-Programs/Physics"
+      "code": "Either",
+      "value": "Doctoral applicants may enter with either an undergraduate degree or a master's in physics.",
+      "quote": "Applicants to the doctoral program will be considered with either an undergraduate or master's degree in physics",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2349"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The Physics catalog entry sets a TOEFL iBT minimum of 79 for applicants without an exempt degree.",
+      "quote": "a minimum score of 79 on the Internet-Based TOEFL (iBT)",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2349"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "The Physics catalog entry sets an IELTS Academic minimum of 6.0 overall.",
+      "quote": "6.0 on the IELTS Academic",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2349"
     }
   },
-  "notes": "Blocked (catalog returned no content): https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2349 and https://catalog.usd.edu/preview_program.php?catoid=41&poid=9505&returnto=2666. Program-level deadline, GRE, supervisor and entry rules could not be sourced."
+  "notes": "Admission rules come from the Physics PhD entry in the graduate catalog (catoid=41). The catalog gives no GRE rule and no faculty-agreement rule for Physics, so gre_subject and supervisor stay Not stated. Blocked URLs: none for this record."
 }

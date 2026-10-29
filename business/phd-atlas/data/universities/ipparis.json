@@ -4,44 +4,44 @@
   "country": "France",
   "region": "Île-de-France",
   "grad_page": "https://www.ip-paris.fr/en/education/useful-information/admissions",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
       "code": "Not stated",
-      "value": "The PhD pages checked give no application fee for the three-year PhD.",
+      "value": "No application fee is stated on IP Paris's PhD admissions pages or doctoral school internal regulations; applications are submitted online to thesis topics or via ADUM, and annual registration/CVEC fees apply upon enrolment.",
       "quote": "",
       "url": "https://www.ip-paris.fr/en/education/useful-information/admissions"
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "The PhD pages checked describe no international fee waiver.",
+      "value": "No PhD application fee or application-fee waiver is stated on the IP Paris doctoral pages checked.",
       "quote": "",
       "url": "https://www.ip-paris.fr/en/education/useful-information/admissions"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "The PhD pages checked do not mention the GRE.",
+      "value": "Neither IP Paris's PhD admissions pages nor the internal regulations of ED IP Paris and EDMH mention the GRE.",
       "quote": "",
-      "url": "https://www.ip-paris.fr/en/education/useful-information/admissions"
+      "url": "https://www.ip-paris.fr/sites/default/files/actualites/documents/EDIPParis_ReglementInterieur_English_19122024.pdf"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "The PhD pages checked set no TOEFL minimum for the three-year PhD.",
-      "quote": "",
-      "url": "https://www.ip-paris.fr/en/education/useful-information/admissions"
+      "code": "90",
+      "value": "90/120 minimum (or equivalent) required upon enrollment in the IP Paris Doctoral School (ED IP Paris, covering all IP Paris PhD disciplines except mathematics under co-accredited EDMH, which sets no score); conditional 1st-year enrollment is permitted with B2/C1 French while reaching the required English level in Year 1.",
+      "quote": "To this end, doctoral students must provide proof of their level of English upon enrollment (minimum TOEFL score 90/120 or equivalent). Otherwise, they may be authorized to register subject to providing proof of proficiency in French (level B2/C1) during their 1st registration and reaching the required level in English during the 1st year of thesis.",
+      "url": "https://www.ip-paris.fr/sites/default/files/actualites/documents/EDIPParis_ReglementInterieur_English_19122024.pdf"
     },
     "ielts_min": {
       "code": "Not stated",
-      "value": "The PhD pages checked set no IELTS minimum for the three-year PhD.",
+      "value": "ED IP Paris requires TOEFL 90/120 'or equivalent' at enrollment without specifying an IELTS band score (and EDMH states no score); the B2 IELTS/TOEFL/TOEIC requirement on the admissions page applies to the 5-year Bachelor-entry PhD Track.",
       "quote": "",
-      "url": "https://www.ip-paris.fr/en/education/useful-information/admissions"
+      "url": "https://www.ip-paris.fr/sites/default/files/actualites/documents/EDIPParis_ReglementInterieur_English_19122024.pdf"
     },
     "english_waiver": {
       "code": "Not stated",
-      "value": "The PhD pages checked say nothing about an English-medium degree from India.",
+      "value": "The three-year PhD regulations of ED IP Paris and EDMH state no exemption rule for English-medium degrees or India (the native-speaker and English-taught program exemption on the admissions page applies to the 5-year PhD Track).",
       "quote": "",
-      "url": "https://www.ip-paris.fr/en/education/useful-information/admissions"
+      "url": "https://www.ip-paris.fr/sites/default/files/actualites/documents/EDIPParis_ReglementInterieur_English_19122024.pdf"
     }
   },
-  "notes": "Three-year PhD (ED IP Paris and EDMH): apply on ADUM once a supervisor agrees. The 2026 calls closed (early call Feb 17, 2026; final call Apr 15, 2026); no 2027 dates are published on the pages checked. Five-year PhD Track (bachelor's entry): applications Oct 28, 2026 to Jan 14, 2027 for the 2027-2028 year, with B2 English proof (TOEIC, IELTS, TOEFL, Cambridge ESOL) except for native speakers and students who completed a program taught in English. The PhD Track is not coded in the program records, which cover the three-year PhD."
+  "notes": "IP Paris hosts two doctoral schools for the three-year PhD: the multidisciplinary IP Paris Doctoral School (ED IP Paris, covering 6 of 7 STEM PhD programs) and the co-accredited Hadamard Doctoral School of Mathematics (EDMH). ED IP Paris's internal regulations (validated March 13, 2024) require TOEFL 90/120 or equivalent upon enrollment (or conditional Year-1 registration with B2/C1 French), whereas EDMH's 2026 internal regulations (RI_EDMH_2026_vfinale.pdf) specify no English test threshold. The separate 5-year Bachelor-entry PhD Track requires B2 English (TOEIC, IELTS, TOEFL, Cambridge ESOL) with an MOI/native-speaker waiver."
 }

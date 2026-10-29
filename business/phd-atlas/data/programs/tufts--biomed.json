@@ -7,7 +7,7 @@
   ],
   "department": "Graduate School of Biomedical Sciences (Basic Science Division)",
   "program_page": "https://gsbs.tufts.edu/academics/basic-science-phd-programs",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
       "code": "90 USD",
@@ -28,21 +28,27 @@
       "url": "https://gsbs.tufts.edu/admissions/application-requirements"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "The school's English list names US, Australian, UK, Irish, Anglophone Canadian and New Zealand degrees but not India or English-medium degrees, so the graduate-school rule does not apply here.",
-      "quote": "",
-      "url": "https://gsbs.tufts.edu/admissions/application-requirements"
+      "code": "No",
+      "value": "GSBS accepts degrees from the US, Australia, UK, Ireland, Anglophone Canada or New Zealand, not India, so Indian applicants need a test score.",
+      "quote": "Receipt of a 2- or 4-year degree from a college or university in Australia, United Kingdom, Ireland, Anglophone Canada, or New Zealand before the program start date.",
+      "url": "https://gsbs.tufts.edu/admissions/application-requirements",
+      "also": [
+        {
+          "quote": "Receipt of a 2- or 4-year degree from a US-located college or university",
+          "url": "https://gsbs.tufts.edu/admissions/application-requirements"
+        }
+      ]
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "The school sets TOEFL minimums by programme in a table, which is not quoted here; check the application requirements page.",
-      "quote": "",
+      "code": "100",
+      "value": "The Basic Science PhD programmes require TOEFL iBT 100 (or 5 on the new scale); GSBS accepts the current scale through 2027.",
+      "quote": "TOEFL - 100 (current TOEFL iBT score, accepted through end of 2027) or 5 (new TOEFL score)",
       "url": "https://gsbs.tufts.edu/admissions/application-requirements"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "The school sets IELTS minimums by programme in a table, which is not quoted here; check the application requirements page.",
-      "quote": "",
+      "code": "7",
+      "value": "The Basic Science PhD programmes require IELTS Academic 7.0 overall (Duolingo 125 is the alternative).",
+      "quote": "IELTS - 7.0 Duolingo - 125",
       "url": "https://gsbs.tufts.edu/admissions/application-requirements"
     },
     "funding": {
@@ -58,10 +64,11 @@
       ]
     },
     "deadline": {
-      "code": "Not stated",
-      "value": "The official page prints a day and month without a year (for example 'Fall: December 1 (final)'), so no Fall 2027 date is stated.",
-      "quote": "",
-      "url": "https://gsbs.tufts.edu/academics/basic-science-phd-programs"
+      "code": "2026-12-01",
+      "value": "Basic Science PhD applications close December 1, 2026 for Fall 2027 entry; the GSBS table prints no year.",
+      "quote": "Basic Science Division PhD Programs September 15 December 1",
+      "url": "https://gsbs.tufts.edu/admissions/application-deadlines",
+      "inferred": "year"
     },
     "gre_subject": {
       "code": "No subject test",
@@ -82,5 +89,5 @@
       "url": "https://gsbs.tufts.edu/academics/basic-science-phd-programs"
     }
   },
-  "notes": "One umbrella record for the Basic Science Division: Genetics, Molecular and Cellular Biology; Immunology; Molecular Microbiology; Neuroscience (with Neuro at JAX); Mammalian Genetics at JAX. Neuroscience is listed as a separate PhD degree, so it is covered through also_fields. Clinical & Translational Science and Pharmacology are separate GSBS programmes and are not used. The GSBS deadline table is not quoted (table cells), so deadline is Not stated. Supervisor is not stated; students do three lab rotations in the first year."
+  "notes": "One umbrella record for the Basic Science Division: Genetics, Molecular and Cellular Biology; Immunology; Molecular Microbiology; Neuroscience (with Neuro at JAX); Mammalian Genetics at JAX. Neuroscience is listed as a separate PhD degree, so it is covered through also_fields. Clinical & Translational Science and Pharmacology are separate GSBS programmes and are not used. The GSBS English rules (TOEFL 100, IELTS 7.0) are the Basic Science PhD minimums and override the graduate-school view. Supervisor is not stated; students do three lab rotations in the first year."
 }

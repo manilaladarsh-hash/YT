@@ -7,22 +7,10 @@
   "program_page": "https://www.universite-paris-saclay.fr/en/doctoral-schools/electrical-optical-bio-physics-and-engineering-eobe",
   "checked": "2026-10-22",
   "fields": {
-    "supervisor": {
-      "code": "Required",
-      "value": "Contact the researcher offering the thesis subject first; the supervisor must give a favourable opinion on your ADUM application.",
-      "quote": "The first action you have to take is to get in direct touch with the researcher offering the subject.",
-      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/electrical-optical-bio-physics-and-engineering-eobe",
-      "also": [
-        {
-          "quote": "at least one favorable opinion of the thesis supervisor has been formulated from the ADUM space",
-          "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/electrical-optical-bio-physics-and-engineering-eobe"
-        }
-      ]
-    },
     "deadline": {
       "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
+      "value": "The school page shows the 2021 competition only; 2027 dates are not published.",
+      "quote": "Deadline for submission of full applications: 16/05/2021 at 11:59 p.m.",
       "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/electrical-optical-bio-physics-and-engineering-eobe"
     },
     "gre_subject": {
@@ -31,18 +19,36 @@
       "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
       "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
     },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants apply to a topic a researcher proposed and the research unit director validated, after contacting the supervisor.",
+      "quote": "The subjects proposed by the researchers attached to the EOBE doctoral school and validated by the directors of the research units are posted on the doctoral school's website",
+      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/electrical-optical-bio-physics-and-engineering-eobe",
+      "also": [
+        {
+          "quote": "if at least one contact (by phone or in person) has taken place between the candidate and the supervisor",
+          "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/electrical-optical-bio-physics-and-engineering-eobe"
+        }
+      ]
+    },
     "funding": {
       "code": "Not stated",
-      "value": "Not stated on the page checked",
+      "value": "The school page does not state how many admitted students are funded.",
       "quote": "",
       "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/electrical-optical-bio-physics-and-engineering-eobe"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
-      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/electrical-optical-bio-physics-and-engineering-eobe"
+      "code": "Master's usually required",
+      "value": "A master's or equivalent is the usual route, and a candidate without a European master's can still apply after extra checks.",
+      "quote": "YES, for sure. The doctoral school will just check additional points from the information given by the PhD supervisor",
+      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/electrical-optical-bio-physics-and-engineering-eobe",
+      "also": [
+        {
+          "quote": "Registration in initial training is possible as a continuation of a master or other equivalent degree",
+          "url": "https://www.universite-paris-saclay.fr/en/recherche/doctorat-et-hdr/prepare-phd"
+        }
+      ]
     }
   },
-  "notes": "Two recruitment modes: May competition for ministerial 3-year contracts, or year-round recruitment on research-contract funding. The page's dated calendar is for 2021, so no 2027 deadline is given."
+  "notes": "Umbrella school that also covers biomedical and bio-physics topics; no separate biomedical engineering track was found."
 }

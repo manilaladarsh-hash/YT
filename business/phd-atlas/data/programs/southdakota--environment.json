@@ -1,0 +1,44 @@
+{
+  "id": "southdakota--environment",
+  "university": "southdakota",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Sustainability (Ph.D.)",
+  "program_page": "https://www.usd.edu/Academics/Graduate-Programs/Sustainability",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Fall priority deadline is February 1 (year inferred); final deadline August 10.",
+      "quote": "Priority Deadline: February 1st | Final Deadline: August 10th",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2343",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must have contacted a prospective advisor and confirmed faculty research fit before admission.",
+      "quote": "applicants must have communicated with a prospective advisor and assured faculty research compatibility and capacity",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2343"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Assistantships are awarded by departments, but the page does not say how many PhD students are funded.",
+      "quote": "",
+      "url": "https://www.usd.edu/Academics/Graduate-Programs/Sustainability"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need a baccalaureate degree from an accredited institution.",
+      "quote": "Baccalaureate degree or an equivalent degree from an institution with institutional accreditation for that degree",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2343"
+    }
+  },
+  "notes": "Sustainability Ph.D. mapped to the environment field; the program is interdisciplinary.",
+  "name": "Sustainability (Ph.D.)"
+}

@@ -3,16 +3,16 @@
   "university": "unibe",
   "field": "biomed",
   "also_fields": [
-    "neuro"
+    "biology"
   ],
   "department": "Graduate School for Cellular and Biomedical Sciences (GCB)",
   "program_page": "https://www.gcb.unibe.ch/application_and__admission/application/index_eng.html",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
-      "code": "Not stated",
-      "value": "The GCB's next round closes on 15 December 2026, and rounds fall on 15 April, 15 August and 15 December; the page does not tie any round to an autumn 2027 start.",
-      "quote": "",
+      "code": "2026-12-15",
+      "value": "The Graduate School for Cellular and Biomedical Sciences (GCB) has three annual application deadlines: April 15, August 15, and December 15 (next deadline December 15, 2026).",
+      "quote": "The next GCB Application deadline is 23:59 on December 15, 2026! | The deadlines for application are April 15, August 15 and December 15.",
       "url": "https://www.gcb.unibe.ch/application_and__admission/application/index_eng.html"
     },
     "gre_subject": {
@@ -23,23 +23,23 @@
     },
     "supervisor": {
       "code": "Required",
-      "value": "Candidates must arrange a research laboratory and a supervisor before applying to the GCB.",
+      "value": "You must find a lab and a supervisor yourself before applying to the GCB.",
       "quote": "candidates must themselves arrange for a research laboratory and a supervisor",
       "url": "https://www.gcb.unibe.ch/application_and__admission/application/index_eng.html"
     },
     "funding": {
       "code": "Not stated",
-      "value": "The supervisor's acceptance letter includes a financial pledge, but no GCB page says that all or most students are funded.",
-      "quote": "Letter of acceptance by the supervisor, written on official letter paper, dated and signed, including a financial pledge.",
-      "url": "https://www.gcb.unibe.ch/application_and__admission/application/index_eng.html"
+      "value": "The supervisor pays the salary under SNSF guidelines, but no guaranteed funding for all students is stated.",
+      "quote": "The supervisor is responsible for the research project, the laboratory infrastructure, adequate supervision and the salary of the student according to SNSF guidelines",
+      "url": "https://www.gcb.unibe.ch/phd_program/index_eng.html"
     },
     "entry_route": {
       "code": "Master's usually required",
-      "value": "GCB applicants hold a master's degree or equivalent in life sciences, engineering, physics or computer science.",
-      "quote": "GCB applicants possess a master's degree or equivalent in life sciences or related areas",
-      "url": "https://www.gcb.unibe.ch/unibe/portal/center_gradschools/gs_cb/content/e126792/e289326/e398724/files1798826/GCBAnnualReport2025_eng.pdf"
+      "value": "A master's or licentiate from a Swiss university or ETH, or an equivalent degree, is needed for doctoral admission.",
+      "quote": "hold a master's degree or a licentiate from a Swiss university or Swiss Federal Institute of Technology, or an equivalent university degree",
+      "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html"
     }
   },
-  "notes": "Neuroscience and biomedical engineering are listed as also_fields because the GCB's own programme description covers them: \"The GCB offers structured training in experimental research in the fields of biochemistry, cell and molecular biology, immunology, biomedical sciences, epidemiology, neuroscience, and biomedical engineering, leading to a PhD\" (GCB Annual Report 2025, https://www.gcb.unibe.ch/unibe/portal/center_gradschools/gs_cb/content/e126792/e289326/e398724/files1798826/GCBAnnualReport2025_eng.pdf). The GCB rounds are 15 April, 15 August and 15 December. The GCB application page is cited for the supervisor rule; the 2025 annual report for the master's rule.",
-  "name": "PhD programmes of the Graduate School for Cellular and Biomedical Sciences"
+  "notes": "Covers biology as well as biomedical sciences. Applicants must pass a GCB interview. Specialisations include Neuroscience, Cardiovascular Research and Cell Migration.",
+  "name": "Graduate School for Cellular and Biomedical Sciences (GCB)"
 }

@@ -3,21 +3,23 @@
   "university": "southdakota",
   "field": "bme",
   "also_fields": [],
-  "department": "Department of Biomedical Engineering (Sioux Falls)",
+  "department": "Department of Biomedical Engineering",
   "program_page": "https://www.usd.edu/Academics/Graduate-Programs/Biomedical-Engineering",
-  "checked": "2026-10-28",
+  "checked": "2026-10-29",
   "fields": {
-    "funding": {
-      "code": "Competitive",
-      "value": "The department offers assistantships of $6,134 to $30,000, awarded on a competitive basis.",
-      "quote": "offers a number of graduate assistantships ranging from $6,134 to $30,000 on a competitive basis",
-      "url": "https://www.usd.edu/Academics/Graduate-Programs/Biomedical-Engineering"
-    },
     "deadline": {
-      "code": "Not stated",
-      "value": "The PhD admission requirements are on a catalog page that could not be fetched.",
-      "quote": "",
-      "url": "https://www.usd.edu/Academics/Graduate-Programs/Biomedical-Engineering"
+      "code": "2026-12-15",
+      "value": "Fall-start priority date for assistantship consideration is December 15, 2026 (year inferred); final deadline June 1.",
+      "quote": "December 15 (priority consideration for assistantships)",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2366",
+      "inferred": "year",
+      "time_sensitive": "2026-12-15"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The department requires the GRE General for its M.S. and Ph.D. applicants, with exceptions for current USD students and recent USD graduates.",
+      "quote": "The GRE General test is required for those seeking a M.S. or Ph.D.",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2366"
     },
     "gre_subject": {
       "code": "No subject test",
@@ -27,16 +29,23 @@
     },
     "supervisor": {
       "code": "Not stated",
-      "value": "The page does not say whether faculty agreement is needed before admission.",
+      "value": "The catalog and department pages do not say whether a faculty agreement is needed before admission.",
       "quote": "",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2366"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate assistantships range from $6,134 to $30,000 and are awarded on a competitive basis.",
+      "quote": "offers a number of graduate assistantships ranging from $6,134 to $30,000 on a competitive basis",
       "url": "https://www.usd.edu/Academics/Graduate-Programs/Biomedical-Engineering"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "The page does not say whether a master's is needed for the PhD; the catalog could not be fetched.",
-      "quote": "",
-      "url": "https://www.usd.edu/Academics/Graduate-Programs/Biomedical-Engineering"
+      "code": "Direct from bachelor's",
+      "value": "Applicants with a baccalaureate in engineering or a related field may be admitted to the graduate program.",
+      "quote": "Applicants with a baccalaureate degree in biomedical, chemical, electrical, mechanical, or metallurgical engineering",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2366"
     }
   },
-  "notes": "Blocked catalog page: https://www.usd.edu/Academics/catalog-links/graduate/arts-and-sciences/biomedical-engineering-phd (no content returned). Assistantship decisions are typically made in mid-March for fall, which is not a deadline."
+  "notes": "Ph.D. in biomedical engineering; GRE General is required by the department, which overrides the Graduate School position.",
+  "name": "Biomedical Engineering (Ph.D.)"
 }

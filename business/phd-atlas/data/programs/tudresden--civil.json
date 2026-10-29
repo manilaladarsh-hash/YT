@@ -5,11 +5,11 @@
   "also_fields": [],
   "department": "Faculty of Civil Engineering",
   "program_page": "https://tu-dresden.de/bu/bauingenieurwesen/postgraduales/promotion",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "The page gives no closing date. Applications for acceptance are made online in Promovendus, which the page says can be reached at any time.",
+      "value": "No closing date for admission is stated on the page checked.",
       "quote": "",
       "url": "https://tu-dresden.de/bu/bauingenieurwesen/postgraduales/promotion"
     },
@@ -21,22 +21,22 @@
     },
     "supervisor": {
       "code": "Required",
-      "value": "A professor or young investigator in the faculty must agree to supervise you, recorded in the supervision agreement.",
-      "quote": "Zudem benötigen Sie eine/n Hochschullehrer/in / Young Investigator der Fakultät Bauingenieurwesen, der/die sich bereit erklärt, die wissenschaftliche Betreuung Ihrer Promotion zu übernehmen",
+      "value": "A faculty professor or Young Investigator must agree to supervise you, recorded in a supervision agreement.",
+      "quote": "der/die sich bereit erklärt, die wissenschaftliche Betreuung Ihrer Promotion zu übernehmen",
       "url": "https://tu-dresden.de/bu/bauingenieurwesen/postgraduales/promotion"
     },
     "funding": {
       "code": "Not stated",
-      "value": "The pages checked do not state how many doctoral candidates are funded.",
+      "value": "No funding statement is stated on the page checked.",
       "quote": "",
       "url": "https://tu-dresden.de/bu/bauingenieurwesen/postgraduales/promotion"
     },
     "entry_route": {
       "code": "Master's usually required",
-      "value": "A Diploma, Master or Magister, or state exam, in engineering with at least a good grade. Non-engineering degrees also need an aptitude test.",
+      "value": "Admission needs a diploma, Master's or Magister in engineering with an overall grade of at least 'good' (German page, regulations of 19.12.2024).",
       "quote": "einen Diplom-, Master- oder Magistergrad an einer Hochschule oder das Staatsexamen in einem ingenieurwissenschaftlichen Studiengang",
       "url": "https://tu-dresden.de/bu/bauingenieurwesen/postgraduales/promotion"
     }
   },
-  "notes": "The faculty page is in German, and its regulations date from 19 December 2024. Admission requires a grade of at least good, and the thesis grade too."
+  "notes": "German page only. Related-field applicants (mathematics, natural sciences, business) also need a passed aptitude test."
 }

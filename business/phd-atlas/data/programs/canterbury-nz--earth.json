@@ -3,15 +3,22 @@
   "university": "canterbury-nz",
   "field": "earth",
   "also_fields": [],
-  "department": "School of Earth and Environment",
+  "department": "Geology",
   "program_page": "https://www.canterbury.ac.nz/study/academic-study/subjects/geology-pg",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
-      "code": "Not stated",
-      "value": "No application closing date is given on the official pages; a PhD may begin on the first day of any month.",
-      "quote": "",
-      "url": "https://www.canterbury.ac.nz/study/academic-study/qualifications/doctor-of-philosophy"
+      "code": "Rolling",
+      "value": "PhD enrolment at UC can begin on the first day of any month of the year; UC Doctoral Scholarships close 15 May 2027 for a second-half 2027 start.",
+      "quote": "You may begin your PhD on the first day of any month of the year.",
+      "url": "https://www.canterbury.ac.nz/study/academic-study/qualifications/doctor-of-philosophy",
+      "time_sensitive": "2027-05-15",
+      "also": [
+        {
+          "quote": "for students planning to start in the second half of 2027; opens 20 March, closes 15 May",
+          "url": "https://www.canterbury.ac.nz/study/getting-started/scholarships/doctoral-scholarships/uc-doctoral-scholarships"
+        }
+      ]
     },
     "gre_subject": {
       "code": "No subject test",
@@ -32,17 +39,23 @@
       ]
     },
     "funding": {
-      "code": "Not stated",
-      "value": "No official page states that most PhD students are funded or that funding is competitive.",
-      "quote": "",
-      "url": "https://www.canterbury.ac.nz/study/uc-graduate-school/future-research-students/become-a-research-student"
+      "code": "Competitive",
+      "value": "UC doctoral funding is scholarship-based and applied for in rounds, and some projects have no funding, so it is not guaranteed.",
+      "quote": "Two application rounds each year, the first closing in May and the second in October.",
+      "url": "https://www.canterbury.ac.nz/study/getting-started/scholarships/doctoral-scholarships",
+      "also": [
+        {
+          "quote": "It will also state if the project is funded (i.e. has a scholarship covering fees or a stipend or both, or none).",
+          "url": "https://www.canterbury.ac.nz/study/uc-graduate-school/future-research-students/become-a-research-student"
+        }
+      ]
     },
     "entry_route": {
       "code": "Either",
-      "value": "A research-focused honours or master's degree at First or Second Class Division I Honours or Distinction level is needed, so both routes are accepted.",
+      "value": "A research-focused honours or master's degree at First or Second Class Division I level is needed, so both routes are accepted.",
       "quote": "Enrolment in a PhD requires completion of a research-focused honours or master’s degree, at First or Second Class (Division I) Honours or Distinction level (or equivalent qualifications).",
       "url": "https://www.canterbury.ac.nz/study/academic-study/qualifications/doctor-of-philosophy"
     }
   },
-  "notes": "The official geology page lists a Doctor of Philosophy. Engineering Geology is a separate PhD and is not mapped. No department-level rule was found."
+  "notes": "Doctor of Philosophy in Geology is on the official PhD subject list."
 }

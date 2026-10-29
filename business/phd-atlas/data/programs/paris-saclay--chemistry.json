@@ -3,26 +3,14 @@
   "university": "paris-saclay",
   "field": "chemistry",
   "also_fields": [],
-  "department": "Doctoral School Chemical Sciences: Molecules, Materials, Instrumentation and Biosystems (ED 2MIB)",
+  "department": "Doctoral School Chemical Sciences: Molecules, Materials, Instrumentation and Bio-systems (ED 2MIB)",
   "program_page": "https://www.universite-paris-saclay.fr/en/doctoral-schools/chemical-sciences-molecules-materials-instrumentation-and-bio-systems",
   "checked": "2026-10-22",
   "fields": {
-    "funding": {
-      "code": "Guaranteed",
-      "value": "Registration in the PhD requires a PhD funding certificate.",
-      "quote": "PhD funding certificate, master diploma or certificate",
-      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/chemical-sciences-molecules-materials-instrumentation-and-bio-systems"
-    },
-    "entry_route": {
-      "code": "Master's usually required",
-      "value": "Registration requires a master diploma or certificate.",
-      "quote": "PhD funding certificate, master diploma or certificate",
-      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/chemical-sciences-molecules-materials-instrumentation-and-bio-systems"
-    },
     "deadline": {
       "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
+      "value": "The school page shows only the earlier MESRI contract round; 2027 dates are not published.",
+      "quote": "Until February 17th: Submission of subject proposals by HDR",
       "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/chemical-sciences-molecules-materials-instrumentation-and-bio-systems"
     },
     "gre_subject": {
@@ -32,11 +20,35 @@
       "url": "https://www.ets.org/gre/test-takers/subject-tests/scores.html"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
-      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/chemical-sciences-molecules-materials-instrumentation-and-bio-systems"
+      "code": "Required",
+      "value": "Candidates apply to thesis topics published by the school, which supervisors propose.",
+      "quote": "Student applications on topics published by ED",
+      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/chemical-sciences-molecules-materials-instrumentation-and-bio-systems",
+      "also": [
+        {
+          "quote": "Except in special cases, the supervision of a thesis will be entrusted to researchers or teaching researchers with a supervising authorization (HDR)",
+          "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/chemical-sciences-molecules-materials-instrumentation-and-bio-systems"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Doctoral contracts come mainly through annual school competitions, with other calls for projects alongside.",
+      "quote": "The competition for doctoral contracts awarded by the Ministry of Higher Education, Research and Innovation (MESRI)",
+      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/chemical-sciences-molecules-materials-instrumentation-and-bio-systems",
+      "also": [
+        {
+          "quote": "The collection of applications for various Calls for Projects",
+          "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/chemical-sciences-molecules-materials-instrumentation-and-bio-systems"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's or equivalent degree is needed to start a PhD in initial training.",
+      "quote": "Registration in initial training is possible as a continuation of a master or other equivalent degree",
+      "url": "https://www.universite-paris-saclay.fr/en/recherche/doctorat-et-hdr/prepare-phd"
     }
   },
-  "notes": "The school page shows only 2019-2020 competition calendars, so no Fall 2027 deadline is given."
+  "notes": "Umbrella school for chemistry; the page's dated calendars are from earlier MESRI rounds."
 }

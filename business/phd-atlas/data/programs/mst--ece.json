@@ -3,13 +3,13 @@
   "university": "mst",
   "field": "ece",
   "also_fields": [],
-  "department": "Department of Electrical and Computer Engineering",
+  "department": "Electrical and Computer Engineering",
   "program_page": "https://catalog.mst.edu/graduate/graduatedegreeprograms/electricalengineering/",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "2027-02-15",
-      "value": "Doctoral applications for fall entry should reach admissions by February 15; the catalog says applications are reviewed on a rolling basis.",
+      "value": "Doctoral applications for Fall entry are due February 15, and the catalog says they are reviewed on a rolling basis.",
       "quote": "Doctoral Fall semester: February 15",
       "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/",
       "inferred": "year",
@@ -22,8 +22,32 @@
     },
     "gre_general": {
       "code": "Required",
-      "value": "The ECE department requires GRE scores, but the requirement is waived with an undergraduate GPA of 3.5 from S&T electrical or computer engineering courses.",
-      "quote": "The ECE department requires ETS-reported GRE scores and recommends the following scores | This GRE requirement may be waived if the applicant has an undergraduate GPA of 3.5",
+      "value": "The ECE department requires GRE scores, and PhD applicants must meet its recommendations.",
+      "quote": "The ECE department requires ETS-reported GRE scores and recommends the following scores",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/electricalengineering/",
+      "also": [
+        {
+          "quote": "Students seeking admission to the Ph.D. program are expected to meet all of the above recommendations and have a graduate GPA of 3.5 or better",
+          "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/electricalengineering/"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The ECE department says the campus TOEFL score is 80 iBT or equivalent, above the catalog's 4.5.",
+      "quote": "The required score set by campus is 80 (iBT) or equivalent.",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/electricalengineering/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The ECE department accepts an IELTS score of 6.5 when TOEFL is not available.",
+      "quote": "an IELTS score of ≥ 6.5, a PTE score of 58, or a Duolingo score of 105 is strictly required",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/electricalengineering/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Direct entry from the bachelor's is for exceptional applicants only.",
+      "quote": "Exceptional applicants may apply directly to the Ph.D. program after completing the baccalaureate degree.",
       "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/electricalengineering/"
     },
     "gre_subject": {
@@ -34,28 +58,16 @@
     },
     "supervisor": {
       "code": "Not stated",
-      "value": "Each doctoral student gets an academic advisor after admission; the catalog does not say a supervisor must agree before admission.",
-      "quote": "All students pursuing a doctoral degree will have an academic advisor (and co-advisor, if applicable) who must be a member of the Missouri S&T graduate faculty.",
-      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/doctoratedegrees/"
-    },
-    "funding": {
-      "code": "Not stated",
-      "value": "The catalog gives no funding statement for the PhD.",
+      "value": "The catalog does not say a supervisor must agree before admission.",
       "quote": "",
       "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/electricalengineering/"
     },
-    "entry_route": {
-      "code": "Master's usually required",
-      "value": "PhD applicants are expected to have a graduate GPA of 3.5; exceptional applicants can enter directly after the bachelor's.",
-      "quote": "Students seeking admission to the Ph.D. program are expected to meet all of the above recommendations and have a graduate GPA of 3.5 or better | Exceptional applicants may apply directly to the Ph.D. program after completing the baccalaureate degree",
-      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/electricalengineering/",
-      "also": [
-        {
-          "quote": "Exceptional applicants may apply directly to the Ph.D. program after completing the baccalaureate degree.",
-          "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/computerengineering/"
-        }
-      ]
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog page states no funding policy.",
+      "quote": "",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/electricalengineering/"
     }
   },
-  "notes": "Covers electrical engineering and computer engineering PhDs. Department PhD pages on the mst.edu subdomains could not be reached (TLS verification failure through the proxy); this record uses the graduate catalog only."
+  "notes": "This record also covers the Computer Engineering PhD, which has the same ECE admission text. The ECE page gives Duolingo 105 where the campus gives 115, and the ECE page allows a 3.5 undergraduate GPA in department coursework to waive the GRE for the MS."
 }

@@ -3,13 +3,13 @@
   "university": "mst",
   "field": "mech",
   "also_fields": [],
-  "department": "Department of Mechanical and Aerospace Engineering",
+  "department": "Mechanical and Aerospace Engineering",
   "program_page": "https://catalog.mst.edu/graduate/graduatedegreeprograms/mechanicalengineering/",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "2027-02-15",
-      "value": "Doctoral applications for fall entry should reach admissions by February 15; the catalog says applications are reviewed on a rolling basis.",
+      "value": "Doctoral applications for Fall entry are due February 15, and the catalog says they are reviewed on a rolling basis.",
       "quote": "Doctoral Fall semester: February 15",
       "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/",
       "inferred": "year",
@@ -20,6 +20,12 @@
         }
       ]
     },
+    "entry_route": {
+      "code": "Either",
+      "value": "Mechanical PhD students enter with 72 hours beyond the BS or 42 beyond the MS, so both routes are open.",
+      "quote": "A student pursuing the doctor of philosophy degree normally follows a program of 72 semester hours beyond the B.S.",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/mechanicalengineering/"
+    },
     "gre_subject": {
       "code": "No subject test",
       "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
@@ -28,22 +34,16 @@
     },
     "supervisor": {
       "code": "Not stated",
-      "value": "Each doctoral student gets an academic advisor after admission; the catalog does not say a supervisor must agree before admission.",
-      "quote": "All students pursuing a doctoral degree will have an academic advisor (and co-advisor, if applicable) who must be a member of the Missouri S&T graduate faculty.",
-      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/doctoratedegrees/"
-    },
-    "funding": {
-      "code": "Not stated",
-      "value": "The catalog gives no funding statement for the PhD.",
+      "value": "The catalog does not say a supervisor must agree before admission.",
       "quote": "",
       "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/mechanicalengineering/"
     },
-    "entry_route": {
-      "code": "Either",
-      "value": "A PhD normally follows 72 semester hours beyond the B.S. or 42 hours beyond the M.S.",
-      "quote": "A student pursuing the doctor of philosophy degree normally follows a program of 72 semester hours beyond the B.S. | degree or 42 semester hours beyond the M.S.",
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog states no funding policy.",
+      "quote": "",
       "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/mechanicalengineering/"
     }
   },
-  "notes": "Covers the Mechanical Engineering and Aerospace Engineering PhDs. Department PhD pages on the mst.edu subdomains could not be reached (TLS verification failure through the proxy); this record uses the graduate catalog only."
+  "notes": "Aerospace Engineering (MS, PhD) shares this field; its catalog page has no GRE or English rule."
 }

@@ -3,25 +3,15 @@
   "university": "tuwien",
   "field": "cs",
   "also_fields": [],
-  "department": "Informatics Doctoral School (Faculty of Informatics)",
+  "department": "Faculty of Informatics (PhD School)",
   "program_page": "https://informatics.tuwien.ac.at/doctoral/",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "No window for Fall 2027 (winter 2027/28) is published yet. Informatics' 'any time' rule applies to the thesis application after admission, not to admission itself.",
-      "quote": "Once you have obtained admission for doctoral studies at TU Wien from the Admission Office",
-      "url": "https://informatics.tuwien.ac.at/doctoral/",
-      "also": [
-        {
-          "quote": "you can submit your application for a doctoral thesis to us at any time",
-          "url": "https://informatics.tuwien.ac.at/doctoral/"
-        },
-        {
-          "quote": "Doctoral Programme | Winter semester 2026/27 | 6 July 2026 to 10 December 2026 | Summer semester 2027 | 7 January 2027 to 10 June 2027",
-          "url": "https://www.tuwien.at/en/studies/admission/academic-calendar"
-        }
-      ]
+      "value": "Informatics says applications can be submitted at any time, but the university's doctoral admission periods remain the official windows.",
+      "quote": "you can submit your application for a doctoral thesis to us at any time",
+      "url": "https://informatics.tuwien.ac.at/doctoral/"
     },
     "gre_subject": {
       "code": "No subject test",
@@ -31,28 +21,22 @@
     },
     "supervisor": {
       "code": "Required",
-      "value": "A TU Wien Informatics academic supervisor is needed for the dissertation, and candidates contact professors directly to ask.",
-      "quote": "Do I need to have an academic supervisor at TU Wien Informatics for my dissertation? Yes.",
-      "url": "https://informatics.tuwien.ac.at/doctoral/faq/",
-      "also": [
-        {
-          "quote": "Contact them directly to inquire if they agree to supervise your dissertation.",
-          "url": "https://informatics.tuwien.ac.at/doctoral/faq/"
-        }
-      ]
+      "value": "Admission requires a supervision assurance from a full or associate TU Wien professor.",
+      "quote": "Supervision assurance of a full or associate Professor of TU Wien.",
+      "url": "https://www.tuwien.at/en/studies/studies/doctoral-programmes"
     },
     "funding": {
-      "code": "Typical",
-      "value": "Most doctoral candidates are employed by TU Wien, often through a Doctoral College or research project, though some are self-funded.",
-      "quote": "While some candidates are self-funded, most are employed by TU Wien",
-      "url": "https://informatics.tuwien.ac.at/doctoral/faq/"
+      "code": "Not stated",
+      "value": "No funding rule for this programme is stated on the pages checked.",
+      "quote": "",
+      "url": "https://informatics.tuwien.ac.at/doctoral/"
     },
     "entry_route": {
       "code": "Master's usually required",
-      "value": "A relevant master's, teacher training or other appropriate degree is the prerequisite for admission to a TU Wien doctoral programme.",
+      "value": "A relevant master's, teacher training or other appropriate degree is the prerequisite for admission.",
       "quote": "The prerequisite for admission to a doctoral programme at TU Wien is either successful completion of a relevant master's, teacher training or other appropriate degree programme",
       "url": "https://www.tuwien.at/en/studies/studies/doctoral-programmes"
     }
   },
-  "notes": "The Informatics Doctoral School page lists research areas such as artificial intelligence, but no separate data science or ML doctoral track was found, so datasci is not saved."
+  "notes": "The Informatics doctoral school page describes the admission office route and English-taught courses; no separate supervisor or funding rule was found beyond the university rule."
 }

@@ -4,13 +4,20 @@
   "country": "USA",
   "region": "South Dakota",
   "grad_page": "https://www.usd.edu/Admissions-and-Aid/International-Admissions/Applying-for-International-Graduate-Admission",
-  "checked": "2026-10-28",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
       "code": "38 USD",
-      "value": "The Graduate School's application fee is $38 USD, non-refundable.",
+      "value": "The Graduate School's international graduate admissions page sets a non-refundable $38 USD application fee (doctoral catalog entries list $40).",
       "quote": "$38 USD application fee is non-refundable",
-      "url": "https://www.usd.edu/Admissions-and-Aid/International-Admissions/Applying-for-International-Graduate-Admission"
+      "url": "https://www.usd.edu/Admissions-and-Aid/International-Admissions/Applying-for-International-Graduate-Admission",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "a non-refundable application fee of $40",
+          "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2336"
+        }
+      ]
     },
     "fee_waiver": {
       "code": "None",
@@ -49,5 +56,5 @@
       "url": "https://www.usd.edu/Admissions-and-Aid/International-Admissions/Applying-for-International-Graduate-Admission"
     }
   },
-  "notes": "The Graduate School page lists a $38 fee; the graduate catalog entry for Data Science and Engineering lists $40, so the program record carries $40. Graduate catalog program pages returned no content when fetched, so program-level deadlines, GRE and entry rules are Not stated."
+  "notes": "Graduate School international admissions page sets the $38 USD application fee (no waiver), which is used here; doctoral catalog entries (catalog.usd.edu, catoid=41) list $40, recorded as a conflict. The Graduate School sets no campus-wide GRE General rule."
 }

@@ -5,18 +5,12 @@
   "also_fields": [],
   "department": "Department of Statistics",
   "program_page": "https://catalog.okstate.edu/arts-sciences/statistics/",
-  "checked": "2026-10-26",
+  "checked": "2026-10-22",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "The catalog gives no application deadline.",
+      "value": "No deadline on the catalog page; the Statistics program pages returned 403.",
       "quote": "",
-      "url": "https://catalog.okstate.edu/arts-sciences/statistics/"
-    },
-    "entry_route": {
-      "code": "Direct from bachelor's",
-      "value": "The PhD is 90 hours beyond the BS degree, so students can enter straight from a bachelor's.",
-      "quote": "The PhD requires the completion of 90 hours beyond the BS degree.",
       "url": "https://catalog.okstate.edu/arts-sciences/statistics/"
     },
     "gre_subject": {
@@ -27,17 +21,22 @@
     },
     "supervisor": {
       "code": "Not stated",
-      "value": "No supervisor-before-admission rule on the pages checked.",
+      "value": "No supervisor rule appears on any official page we could read.",
       "quote": "",
       "url": "https://catalog.okstate.edu/arts-sciences/statistics/"
     },
     "funding": {
       "code": "Not stated",
-      "value": "No PhD funding rule on the pages checked.",
+      "value": "No funding rule appears on any official page we could read.",
       "quote": "",
+      "url": "https://catalog.okstate.edu/arts-sciences/statistics/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The PhD requires 90 hours beyond the B.S. degree.",
+      "quote": "The PhD requires the completion of 90 hours beyond the BS degree.",
       "url": "https://catalog.okstate.edu/arts-sciences/statistics/"
     }
   },
-  "notes": "Catalog page only. Admission and funding pages were not reached.",
-  "name": "Statistics, PhD"
+  "notes": "Department admissions and deadline pages on the OSU domain returned 403 or 502, so only the university catalog was read."
 }

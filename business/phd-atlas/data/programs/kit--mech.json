@@ -5,11 +5,11 @@
   "also_fields": [],
   "department": "KIT Department of Mechanical Engineering",
   "program_page": "https://www.mach.kit.edu/english/5117.php",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "The page gives no closing date; the department confirms or rejects acceptance about six weeks after submission.",
+      "value": "The page gives no application deadline; a decision on acceptance typically takes about 6 weeks.",
       "quote": "",
       "url": "https://www.mach.kit.edu/english/5117.php"
     },
@@ -21,28 +21,22 @@
     },
     "supervisor": {
       "code": "Required",
-      "value": "Acceptance as a doctoral candidate requires a scientific supervisor at KIT.",
-      "quote": "Acceptance as a doctoral candidate requires that you have found a scientific supervisor at KIT",
+      "value": "Acceptance needs a doctoral agreement with the supervisor and KHYS registration.",
+      "quote": "Application for acceptance as a doctoral candidate required: Doctoral agreement and registration with KHYS",
       "url": "https://www.mach.kit.edu/english/5117.php"
     },
     "funding": {
       "code": "Not stated",
-      "value": "The department page does not say how doctoral researchers are funded.",
+      "value": "The page does not say how doctoral candidates are funded.",
       "quote": "",
       "url": "https://www.mach.kit.edu/english/5117.php"
     },
     "entry_route": {
       "code": "Either",
-      "value": "A degree of at least four years' standard length, or one based on an undergraduate degree, is accepted, and the degree must be above average (grade 1.5 or better, or top 35 percent).",
-      "quote": "a degree program at a university or university of teacher education with a standard period of study of at least four years or | a degree program based on an undergraduate degree program at a university",
-      "url": "https://www.mach.kit.edu/english/5117.php",
-      "also": [
-        {
-          "quote": "A degree with an overall grade of \"very good\" (1.5) or better",
-          "url": "https://www.mach.kit.edu/english/5117.php"
-        }
-      ]
+      "value": "Admission requires a master's degree program, a four-year university degree, or a degree built on an undergraduate program, with an above-average result.",
+      "quote": "a degree program at a university or university of teacher education with a standard period of study of at least four years",
+      "url": "https://www.mach.kit.edu/english/5117.php"
     }
   },
-  "notes": "Application for acceptance is filed in DOCATA and the printed documents go to the Dean's Office; registration with KHYS is required first."
+  "notes": "Based on the 2017 Doctoral Degree Regulations for Mechanical Engineering. Above-average degree means a grade of 'very good' (1.5) or better, or the equivalent ECTS grade."
 }

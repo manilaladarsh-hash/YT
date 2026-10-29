@@ -1,0 +1,52 @@
+{
+  "id": "tufts--physics",
+  "university": "tufts",
+  "field": "physics",
+  "also_fields": [
+    "astronomy"
+  ],
+  "department": "Department of Physics & Astronomy",
+  "program_page": "https://asegrad.tufts.edu/program/physics-and-physics-astrophysics-doctorate",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall 2027 PhD applications are due December 1, 2026; the official table prints no year.",
+      "quote": "Physics and Physics: Astrophysics December 1 (final)",
+      "url": "https://asegrad.tufts.edu/applying/application-deadlines",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The programme page does not mention a subject GRE.",
+      "quote": "",
+      "url": "https://asegrad.tufts.edu/program/physics-and-physics-astrophysics-doctorate"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The programme page does not say whether a supervisor's agreement is needed before admission.",
+      "quote": "",
+      "url": "https://asegrad.tufts.edu/program/physics-and-physics-astrophysics-doctorate"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The programme page does not state a stipend or funding guarantee; the GSAS page says tuition is fully covered and many programmes offer assistantships.",
+      "quote": "",
+      "url": "https://asegrad.tufts.edu/program/physics-and-physics-astrophysics-doctorate",
+      "also": [
+        {
+          "quote": "Tuition for Graduate School of Arts and Sciences PhD students is fully covered by Tufts tuition scholarships.",
+          "url": "https://asegrad.tufts.edu/tuition-aid/graduate-school-arts-sciences-gsas"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The programme page does not say whether a bachelor's or a master's is needed.",
+      "quote": "",
+      "url": "https://asegrad.tufts.edu/program/physics-and-physics-astrophysics-doctorate"
+    }
+  },
+  "notes": "One page covers the Physics PhD and the Physics: Astrophysics PhD, so astronomy is listed in also_fields. Physics: Physics Education is a separate doctorate and is not used. Chemical Physics (a separate GSAS PhD) is not used here.",
+  "name": "Physics and Physics: Astrophysics"
+}

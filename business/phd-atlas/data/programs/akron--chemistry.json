@@ -5,13 +5,14 @@
   "also_fields": [],
   "department": "Department of Chemistry",
   "program_page": "https://bulletin.uakron.edu/graduate/colleges-programs/arts-sciences/chemistry/chemistry-phd/",
-  "checked": "2026-10-27",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "A review start date is given, but no application deadline is confirmed for Fall 2027.",
-      "quote": "",
-      "url": "https://bulletin.uakron.edu/graduate/colleges-programs/arts-sciences/chemistry/chemistry-phd/"
+      "value": "No hard closing deadline is published; the bulletin states that review of applicants for fall enrollment begins February 1.",
+      "quote": "Review of applicants for fall enrollment begins February 1 | The application package must be complete for review to occur",
+      "url": "https://bulletin.uakron.edu/graduate/colleges-programs/arts-sciences/chemistry/chemistry-phd/",
+      "time_sensitive": "2027-02-01"
     },
     "gre_subject": {
       "code": "No subject test",
@@ -38,5 +39,5 @@
       "url": "https://bulletin.uakron.edu/graduate/colleges-programs/arts-sciences/chemistry/chemistry-phd/"
     }
   },
-  "notes": "Admission needs the graduate application, transcripts, three letters of recommendation, a statement of purpose and a resume. Department page blocked (403)."
+  "notes": "Application needs the graduate application, official transcripts, three letters of recommendation, a statement of purpose and a resume. Department admissions page blocked (403)."
 }

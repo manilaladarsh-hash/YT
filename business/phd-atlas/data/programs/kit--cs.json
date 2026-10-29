@@ -3,15 +3,15 @@
   "university": "kit",
   "field": "cs",
   "also_fields": [],
-  "department": "KIT Faculty of Computer Science (Informatics)",
-  "program_page": "https://www.informatik.kit.edu/english/2008.php",
-  "checked": "2026-10-26",
+  "department": "KIT Department of Informatics",
+  "program_page": "https://www.informatik.kit.edu/english/1267.php",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "No closing date is stated; the page says to apply for acceptance within six months of concluding the supervision agreement.",
+      "value": "The international applicant page gives no deadline.",
       "quote": "",
-      "url": "https://www.informatik.kit.edu/english/2008.php"
+      "url": "https://www.informatik.kit.edu/english/1267.php"
     },
     "gre_subject": {
       "code": "No subject test",
@@ -20,23 +20,23 @@
       "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
     },
     "supervisor": {
-      "code": "Required",
-      "value": "A supervision agreement with an academic supervisor must be concluded before acceptance as a doctoral candidate.",
-      "quote": "a supervision agreement must be concluded with an academic supervisor before acceptance as a doctoral candidate",
-      "url": "https://www.informatik.kit.edu/english/2008.php"
+      "code": "Recommended",
+      "value": "Applicants must first contact a professor doing research in their area before applying.",
+      "quote": "you will first have to contact one of our professors who is doing research in the area you are interested in",
+      "url": "https://www.informatik.kit.edu/english/1267.php"
     },
     "funding": {
       "code": "Not stated",
-      "value": "The department page does not say how doctoral researchers are funded.",
+      "value": "The page does not say how doctoral candidates are funded.",
       "quote": "",
-      "url": "https://www.informatik.kit.edu/english/2008.php"
+      "url": "https://www.informatik.kit.edu/english/1267.php"
     },
     "entry_route": {
       "code": "Master's usually required",
-      "value": "Candidates need a master's or diploma degree in a course of study of at least five years at a recognised university.",
-      "quote": "candidates have to hold a master or diploma degree in a course of study over at least five years at a recognized university",
-      "url": "https://www.informatik.kit.edu/english/2008.php"
+      "value": "You need at least a Master's or Diplom degree, and the International Office checks whether your foreign degree is sufficient.",
+      "quote": "In Germany, you will need at least a Master's or Diplom degree",
+      "url": "https://www.informatik.kit.edu/english/1267.php"
     }
   },
-  "notes": "Doctoral degree regulations of 12.01.2017 apply to new candidates; older 2006/2014 regulations still apply to earlier candidates. Computational and Data Science (KCDS) is a graduate school, not separately researched; no datasci record saved."
+  "notes": "The page links the 2017 doctoral regulations (with 2025 amendments) as PDFs; their text was not fetched and no rule from them is saved."
 }

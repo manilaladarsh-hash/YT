@@ -5,12 +5,12 @@
   "also_fields": [],
   "department": "Institute of Computer Science (Faculty of Science)",
   "program_page": "https://www.philnat.unibe.ch/studies/study_programs/doctoral_degree_program_in_computer_science/index_eng.html",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
-      "code": "Not stated",
-      "value": "The computer science page gives no application deadline; the central page gives a fall receipt date of 15 October with no year, which closed for 2026.",
-      "quote": "",
+      "code": "Rolling",
+      "value": "Doctoral applications at the University of Bern are accepted throughout the year once a thesis supervisor agrees (fall semester registration runs September 1 to October 15).",
+      "quote": "You can apply to do a doctorate throughout the year.",
       "url": "https://www.unibe.ch/studies/dates/phd_candidates/index_eng.html"
     },
     "gre_subject": {
@@ -21,28 +21,33 @@
     },
     "supervisor": {
       "code": "Required",
-      "value": "A confirmation of supervision must be filled in before admission; the computer science page also says interested persons contact a research group leader directly.",
+      "value": "A confirmed supervisor at Bern must be in place before admission; the confirmation of supervision is filled in for every doctorate.",
       "quote": "Fill in the confirmation of supervision that applies to your doctorate.",
       "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html",
       "also": [
         {
-          "quote": "Interested persons can contact a leader of a research group directly to clarify the possibility of a doctorate",
+          "quote": "A doctorate is carried out in close collaboration with a supervisor from the Institute of Computer Science",
+          "url": "https://www.philnat.unibe.ch/studies/study_programs/doctoral_degree_program_in_computer_science/index_eng.html"
+        },
+        {
+          "quote": "Interested persons can contact a leader of a research group directly",
           "url": "https://www.philnat.unibe.ch/studies/study_programs/doctoral_degree_program_in_computer_science/index_eng.html"
         }
       ]
     },
     "funding": {
       "code": "Not stated",
-      "value": "The computer science page gives no funding rule for admitted doctoral students.",
+      "value": "The page gives no funding rule for admitted PhD students.",
       "quote": "",
       "url": "https://www.philnat.unibe.ch/studies/study_programs/doctoral_degree_program_in_computer_science/index_eng.html"
     },
     "entry_route": {
       "code": "Master's usually required",
-      "value": "A master's degree or licentiate from a Swiss university, or an equivalent degree, is needed for doctoral admission.",
-      "quote": "For admission at doctoral level, you must | hold a master's degree or a licentiate from a Swiss university or Swiss Federal Institute of Technology, or an equivalent university degree",
+      "value": "A master's or licentiate from a Swiss university or ETH, or an equivalent degree, is needed for doctoral admission.",
+      "quote": "hold a master's degree or a licentiate from a Swiss university or Swiss Federal Institute of Technology, or an equivalent university degree",
       "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html"
     }
   },
-  "notes": ""
+  "notes": "",
+  "name": "Doctoral Degree Program in Computer Science"
 }

@@ -4,11 +4,11 @@
   "country": "Switzerland",
   "region": "Basel",
   "grad_page": "https://www.unibas.ch/en/Studies/Before-My-Studies/Application-Admission/Application/Doctoral-Studies.html",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
       "code": "100 CHF",
-      "value": "Doctoral applications carry a CHF 100 application fee, paid online by card before the application can be submitted; it is not refunded.",
+      "value": "Doctoral applications carry a CHF 100 application fee, paid online; it is not refunded.",
       "quote": "An application fee of CHF 100 is due when you submit an application for doctoral studies",
       "url": "https://www.unibas.ch/en/Studies/Before-My-Studies/Application-Admission/Application/Doctoral-Studies.html",
       "also": [
@@ -32,22 +32,22 @@
     },
     "toefl_min": {
       "code": "Not stated",
-      "value": "No TOEFL requirement appears on the university or department doctoral pages checked.",
+      "value": "No TOEFL minimum appears on the university doctoral pages checked.",
       "quote": "",
-      "url": "https://www.unibas.ch/en/Studies/Before-My-Studies/Application-Admission/Application/Doctoral-Studies.html"
+      "url": "https://www.unibas.ch/en/Studies/Before-My-Studies/Application-Admission/Admission/Language-Skills.html"
     },
     "ielts_min": {
       "code": "Not stated",
-      "value": "No IELTS requirement appears on the university or department doctoral pages checked.",
+      "value": "No IELTS minimum appears on the university doctoral pages checked.",
       "quote": "",
-      "url": "https://www.unibas.ch/en/Studies/Before-My-Studies/Application-Admission/Application/Doctoral-Studies.html"
+      "url": "https://www.unibas.ch/en/Studies/Before-My-Studies/Application-Admission/Admission/Language-Skills.html"
     },
     "english_waiver": {
       "code": "Not stated",
-      "value": "The pages checked name German and English as languages of instruction but set no English test and no India rule.",
+      "value": "The pages checked name German and English as the principal languages of instruction and set no English test and no India rule.",
       "quote": "",
-      "url": "https://www.unibas.ch/en/Studies/Before-My-Studies/Application-Admission/Application/Doctoral-Studies.html"
+      "url": "https://www.unibas.ch/en/Studies/Before-My-Studies/Application-Admission/Admission/Language-Skills.html"
     }
   },
-  "notes": "Doctoral application page checked 26 Oct 2026. The Application deadlines page lists Doctoral Studies rows (spring 2027 sign-up 5 Jan 2027; fall 2027 sign-up 31 Jul 2027; application from 16 Mar 2027), but those are split table cells, so they are not quoted; program deadlines are Not stated. The 2017 'Preliminary information for international PhD candidates' PDF and the FS19 faculty PDF are older than five years and were not used. No blocked pages."
+  "notes": "Checked 29 Oct 2026. Doctoral pages, Language Skills and the Application deadlines table were read; no blocked pages. Faculty list (Oct 2026 PDF) has no PhD in astronomy, statistics or engineering (ECE, mechanical, chemical, civil). Some Faculty of Science subjects (e.g. pharmacology, toxicology, genetics, geography, meteorology) were not researched individually and have no program record."
 }

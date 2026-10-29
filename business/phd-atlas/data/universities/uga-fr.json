@@ -4,14 +4,18 @@
   "country": "France",
   "region": "Auvergne-Rhône-Alpes",
   "grad_page": "https://doctorat.univ-grenoble-alpes.fr/preparing-a-phd/doctorate-enrolment/apply-and-register-in-doctoral-school-890537.kjsp",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
       "code": "Not stated",
-      "value": "The Collège doctoral pages give no application fee for PhD applicants. The €398 registration fee is paid only after admission.",
+      "value": "No application fee is stated on the Collège doctoral admission or CD3 foreign-diploma validation pages; the €398 doctoral registration fee (plus €105 CVEC) is paid online only after Doctoral School admission is confirmed.",
       "quote": "",
       "url": "https://doctorat.univ-grenoble-alpes.fr/preparing-a-phd/doctorate-enrolment/apply-and-register-in-doctoral-school-890537.kjsp",
       "also": [
+        {
+          "quote": "Once your admission to the Doctoral School has been confirmed, you will receive an e-mail from the \"scolarité\" Office with a link to your registration form (including payment of your registration fees).",
+          "url": "https://doctorat.univ-grenoble-alpes.fr/preparing-a-phd/doctorate-enrolment/first-year-registration-890559.kjsp?RH=1611137559271"
+        },
         {
           "quote": "The registration fee is €398 for all PhD registrations for the academic year 2026/2027.",
           "url": "https://doctorat.univ-grenoble-alpes.fr/preparing-a-phd/doctorate-enrolment/registration-at-doctoral-college-890540.kjsp"
@@ -20,34 +24,34 @@
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "No application-fee waiver is stated. The registration-fee exemption applies after admission.",
+      "value": "No application-fee waiver is stated; the Collège doctoral fee-exemption scheme (French government scholarship, cotutelle, disability/refugee status, or financial hardship) applies to the €398 post-admission registration fee.",
       "quote": "",
-      "url": "https://doctorat.univ-grenoble-alpes.fr/preparing-a-phd/doctorate-enrolment/apply-and-register-in-doctoral-school-890537.kjsp"
+      "url": "https://doctorat.univ-grenoble-alpes.fr/preparing-a-phd/doctorate-enrolment/re-enrolment/exemption-of-tuition-fees-795730.kjsp?RH=1611137559271"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "No GRE requirement is stated on the Collège doctoral pages; each doctoral school sets its own admission rules.",
+      "value": "No university-wide GRE requirement is stated on the Collège doctoral pages; each of UGA's 13 doctoral schools sets its own admission prerequisites.",
       "quote": "",
       "url": "https://doctorat.univ-grenoble-alpes.fr/preparing-a-phd/doctorate-enrolment/apply-and-register-in-doctoral-school-890537.kjsp"
     },
     "toefl_min": {
       "code": "Not stated",
-      "value": "No TOEFL minimum is stated on the official Collège doctoral or doctoral school pages.",
+      "value": "No university-wide TOEFL minimum is stated on the Collège doctoral pages checked.",
       "quote": "",
       "url": "https://doctorat.univ-grenoble-alpes.fr/preparing-a-phd/doctorate-enrolment/apply-and-register-in-doctoral-school-890537.kjsp"
     },
     "ielts_min": {
       "code": "Not stated",
-      "value": "No IELTS minimum is stated on the official Collège doctoral or doctoral school pages.",
+      "value": "No university-wide IELTS minimum is stated on the Collège doctoral pages checked.",
       "quote": "",
       "url": "https://doctorat.univ-grenoble-alpes.fr/preparing-a-phd/doctorate-enrolment/apply-and-register-in-doctoral-school-890537.kjsp"
     },
     "english_waiver": {
       "code": "Not stated",
-      "value": "No English-test rule, including for Indian degrees, is stated on the official pages.",
+      "value": "No university-wide English-test or Indian-degree exemption rule is stated on the Collège doctoral pages checked.",
       "quote": "",
       "url": "https://doctorat.univ-grenoble-alpes.fr/preparing-a-phd/doctorate-enrolment/apply-and-register-in-doctoral-school-890537.kjsp"
     }
   },
-  "notes": "Admission is by each doctoral school (13 in total), after which the Collège doctoral registers the student. The official English pages give admission conditions (master's or foreign equivalence via CD3) but no English-test or application-fee rule."
+  "notes": "Pedagogical admission is handled by each of UGA's 13 doctoral schools (with foreign non-French Master's degrees examined monthly by the Commission Dispenses et Dérogations Doctorales, CD3), after which the Collège doctoral handles administrative registration (€398 + €105 CVEC for 2026/27). Checked English and French Collège doctoral application/admission, first-year registration, registration-at-doctoral-college, tuition-fee-exemption, and CD3 foreign-diploma exemption pages."
 }

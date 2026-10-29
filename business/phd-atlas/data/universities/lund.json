@@ -4,44 +4,50 @@
   "country": "Sweden",
   "region": "Skåne",
   "grad_page": "https://www.lunduniversity.lu.se/study/study-opportunities-lund-university/doctoral-studies",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Lund's doctoral pages state no application fee. The SEK 900 application fee on its site applies to degree programmes and courses applied for through universityadmissions.se.",
-      "quote": "",
-      "url": "https://www.lunduniversity.lu.se/study/admission-degree-studies/applying-studies-when-apply/application-fee"
+      "code": "0 (no fee)",
+      "value": "There are no application or tuition fees for PhD studies at Lund University (the SEK 900 fee applies only to Bachelor's and Master's applications via universityadmissions.se).",
+      "quote": "There are no application or tuition fees for: ... PhD studies",
+      "url": "https://www.lunduniversity.lu.se/study/admission-degree-studies/applying-studies-when-apply/tuition-fees",
+      "also": [
+        {
+          "quote": "You can pursue your doctoral studies in any of the nine faculties, and there are no tuition fees. Regular doctoral positions come with a salary and formal employment at the University.",
+          "url": "https://www.lunduniversity.lu.se/study/study-opportunities-lund-university/doctoral-studies"
+        }
+      ]
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "No fee waiver for doctoral applicants is stated on Lund's doctoral pages.",
-      "quote": "",
-      "url": "https://www.lunduniversity.lu.se/study/study-opportunities-lund-university/doctoral-studies"
+      "code": "No fee",
+      "value": "Not applicable — there are no application or tuition fees for PhD studies at Lund University.",
+      "quote": "There are no application or tuition fees for: ... PhD studies",
+      "url": "https://www.lunduniversity.lu.se/study/admission-degree-studies/applying-studies-when-apply/tuition-fees"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "No GRE requirement is mentioned on Lund's doctoral pages or in its doctoral admission rules.",
+      "value": "No GRE requirement is mentioned on Lund's doctoral studies page or in its 2024 Admission Rules for Doctoral Education.",
       "quote": "",
       "url": "https://www.lunduniversity.lu.se/study/study-opportunities-lund-university/doctoral-studies"
     },
     "toefl_min": {
       "code": "Not stated",
-      "value": "Lund's doctoral pages give no TOEFL score; a department may ask for a TOEFL or IELTS test. The 6.5 / TOEFL 90 standard on the English page is for degree programmes and courses, not stated for doctoral admission.",
-      "quote": "Candidates must have a very good command of English and you may be asked to include proof of proficiency in the form of a TOEFL or IELTS test, if requested by the individual department",
+      "value": "Lund sets no university-wide doctoral TOEFL cutoff; individual departments may request a TOEFL or IELTS test (the TOEFL 90 / IELTS 6.5 standard on the English requirements page is for Bachelor's/Master's degree studies).",
+      "quote": "Candidates must have a very good command of English and you may be asked to include proof of proficiency in the form of a TOEFL or IELTS test, if requested by the individual department.",
       "url": "https://www.lunduniversity.lu.se/study/study-opportunities-lund-university/doctoral-studies"
     },
     "ielts_min": {
       "code": "Not stated",
-      "value": "Lund's doctoral pages give no IELTS score; a department may ask for a TOEFL or IELTS test. The IELTS 6.5 standard on the English page is for degree programmes and courses.",
-      "quote": "Candidates must have a very good command of English and you may be asked to include proof of proficiency in the form of a TOEFL or IELTS test, if requested by the individual department",
+      "value": "Lund sets no university-wide doctoral IELTS cutoff; individual departments may request a TOEFL or IELTS test (the IELTS 6.5 / TOEFL 90 standard on the English requirements page is for Bachelor's/Master's degree studies).",
+      "quote": "Candidates must have a very good command of English and you may be asked to include proof of proficiency in the form of a TOEFL or IELTS test, if requested by the individual department.",
       "url": "https://www.lunduniversity.lu.se/study/study-opportunities-lund-university/doctoral-studies"
     },
     "english_waiver": {
       "code": "Not stated",
-      "value": "No Lund page says whether an English-medium degree from India is accepted for doctoral admission.",
-      "quote": "",
+      "value": "Doctoral English proof is requested at the discretion of individual departments; Lund states no university-wide doctoral exemption rule for English-medium degrees from India.",
+      "quote": "Candidates must have a very good command of English and you may be asked to include proof of proficiency in the form of a TOEFL or IELTS test, if requested by the individual department.",
       "url": "https://www.lunduniversity.lu.se/study/study-opportunities-lund-university/doctoral-studies"
     }
   },
-  "notes": "Lund has no central doctoral school: doctoral students are admitted by each faculty through advertised positions (apply via Varbi). Official pages used: the doctoral studies page, the 2024 Admission rules for doctoral education PDF, the English requirements page, the application fee page, and the faculty pages for Science, Medicine, LTH and the Centre for Mathematical Sciences. Blocked or unavailable: https://www.chem.lu.se/ and https://www.chem.lu.se/education/phd-studies (HTTP 502 via proxy); https://www.geo.lu.se/ (ERR_TUNNEL_CONNECTION_FAILED); https://www.cs.lth.se/education/phd-studies/ (404); the Chemistry physical chemistry fact sheet URL on lunduniversity.prodwebb8.lu.se (404). The 2020 Science general syllabi (PDFs linked on the Science page) are older than five years and were not used."
+  "notes": "Doctoral students at Lund University are admitted by each of the nine faculties via advertised vacancies (Varbi) with formal employment and monthly salary, and there are no application or tuition fees for PhD studies. Checked doctoral studies page, 2024 Admission Rules for Doctoral Education PDF, tuition fees page, application fee page, and English requirements page."
 }

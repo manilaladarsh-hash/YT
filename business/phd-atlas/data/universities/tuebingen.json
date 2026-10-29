@@ -4,68 +4,44 @@
   "country": "Germany",
   "region": "Baden-Württemberg",
   "grad_page": "https://uni-tuebingen.de/en/international/study-in-tuebingen/international-phd-candidates/",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "No application fee is stated; the page mentions only the semester fee paid after admission.",
-      "quote": "",
-      "url": "https://uni-tuebingen.de/en/research/support-for-junior-researchers/doctorates-at-the-university-of-tuebingen/",
-      "also": [
-        {
-          "quote": "These fees are to be paid by bank transfer after enrollment",
-          "url": "https://uni-tuebingen.de/en/study/application-and-enrollment/doctoral-studies-at-the-university-of-tuebingen/"
-        }
-      ]
+      "code": "0 (no fee)",
+      "value": "No application fee is stated for doctoral candidates; the only doctoral charge is the semester fee paid after enrollment, about EUR 155 per semester.",
+      "quote": "Although there are no specific fees for doctoral candidates, they must pay the semester fee twice a year",
+      "url": "https://uni-tuebingen.de/en/research/support-for-junior-researchers/doctorates-at-the-university-of-tuebingen/"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "No fee waiver for doctoral applicants is stated on the official pages checked.",
-      "quote": "",
-      "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/international-phd-candidates/"
+      "code": "No fee",
+      "value": "There is no doctoral application fee, so no waiver applies.",
+      "quote": "Although there are no specific fees for doctoral candidates, they must pay the semester fee twice a year",
+      "url": "https://uni-tuebingen.de/en/research/support-for-junior-researchers/doctorates-at-the-university-of-tuebingen/"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "No GRE requirement is stated on the official doctoral pages checked; the department pages were checked for it too.",
+      "value": "No GRE requirement is stated for doctoral applicants on the university pages checked.",
       "quote": "",
       "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/international-phd-candidates/"
     },
     "toefl_min": {
       "code": "Not stated",
-      "value": "No TOEFL minimum is stated for doctoral candidates on the official pages checked; the English rule is set by each programme.",
+      "value": "No TOEFL minimum is stated for doctoral applicants on the university pages checked.",
       "quote": "",
-      "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/international-phd-candidates/",
-      "also": [
-        {
-          "quote": "Different degree programs require different levels of English proficiency",
-          "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/degree-seeking-students/faq/application/"
-        }
-      ]
+      "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/international-phd-candidates/"
     },
     "ielts_min": {
       "code": "Not stated",
-      "value": "No TOEFL minimum is stated for doctoral candidates on the official pages checked; the English rule is set by each programme.",
+      "value": "No IELTS minimum is stated for doctoral applicants on the university pages checked.",
       "quote": "",
-      "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/international-phd-candidates/",
-      "also": [
-        {
-          "quote": "Different degree programs require different levels of English proficiency",
-          "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/degree-seeking-students/faq/application/"
-        }
-      ]
+      "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/international-phd-candidates/"
     },
     "english_waiver": {
       "code": "Not stated",
-      "value": "No India or English-medium rule is stated for doctoral candidates on the pages checked.",
+      "value": "No English-medium or India rule is stated for doctoral applicants on the university pages checked.",
       "quote": "",
-      "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/international-phd-candidates/",
-      "also": [
-        {
-          "quote": "Different degree programs require different levels of English proficiency",
-          "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/degree-seeking-students/faq/application/"
-        }
-      ]
+      "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/international-phd-candidates/"
     }
   },
-  "notes": "Doctoral admission is handled by each faculty's PhD office; the university pages give no PhD-specific English test, GRE or fee waiver. Blocked or missing: https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/chemistry/ and .../departments/biology/ redirect to a login page; https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methods-in-medical-informatics/teaching-and-education/doctoral-program/ returned 404. Not covered here (separate school records): the Graduate Training Centre of Neuroscience, the two International Max Planck Research Schools, and LEAD."
+  "notes": "Doctoral admission is handled by each faculty's PhD office under its own doctoral regulations (PromO, German only). The university pages checked give no doctoral application fee, English test, GRE or English-medium waiver; the English rules found are for degree-seeking students. Department root pages for chemistry and biology redirect to a login page. Not covered here (separate school records): Graduate Training Centre of Neuroscience, the two International Max Planck Research Schools, LEAD. Not researched: Biochemistry and Pharmaceutics, both listed as Faculty of Science doctoral subjects; no department doctoral page was found."
 }

@@ -3,70 +3,59 @@
   "university": "southdakotastate",
   "field": "mech",
   "also_fields": [],
-  "department": "Lohr College of Engineering",
+  "department": "Department of Mechanical Engineering",
   "program_page": "https://www.sdstate.edu/programs/graduate/mechanical-engineering-phd",
-  "checked": "2026-10-28",
+  "checked": "2026-10-29",
   "fields": {
-    "app_fee": {
-      "code": "Not stated",
-      "value": "Engineering degrees use the EngineeringCAS application, which sets its own fee; the fee was not found on the pages checked.",
-      "quote": "please use the EngineeringCAS application. The general application is not needed.",
-      "url": "https://www.sdstate.edu/admissions/graduate-admissions/international-graduate-school-applicants"
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The graduate school's fall application deadline is December 15; some departments set earlier dates.",
+      "quote": "Application Deadlines December 15 Fall semester",
+      "url": "https://www.sdstate.edu/admissions/graduate-admissions",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Some departments have earlier deadlines and/or only admit for certain terms!",
+          "url": "https://www.sdstate.edu/admissions/graduate-admissions"
+        }
+      ]
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "The engineering school's GRE rule was not found on the pages checked; only its GRE code (2862) is listed.",
-      "quote": "Lohr College of Engineering, use GRE code 2862.",
-      "url": "https://sdstate.edu/graduate-school/admission-requirements"
-    },
-    "toefl_min": {
-      "code": "Not stated",
-      "value": "The engineering school's TOEFL rule was not found on the pages checked.",
-      "quote": "",
-      "url": "https://www.sdstate.edu/admissions/graduate-admissions/international-graduate-school-applicants"
-    },
-    "ielts_min": {
-      "code": "Not stated",
-      "value": "The engineering school's IELTS rule was not found on the pages checked.",
-      "quote": "",
-      "url": "https://www.sdstate.edu/admissions/graduate-admissions/international-graduate-school-applicants"
-    },
-    "english_waiver": {
-      "code": "Not stated",
-      "value": "The engineering school's English-test waiver rule was not found on the pages checked.",
-      "quote": "",
-      "url": "https://www.sdstate.edu/admissions/graduate-admissions/international-graduate-school-applicants"
-    },
-    "deadline": {
-      "code": "Not stated",
-      "value": "No Ph.D. application deadline is stated on the pages checked.",
-      "quote": "",
-      "url": "https://www.sdstate.edu/programs/graduate/mechanical-engineering-phd"
+      "code": "Not required",
+      "value": "GRE is not required.",
+      "quote": "GRE: Not required",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15349"
     },
     "gre_subject": {
-      "code": "No subject test",
-      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
-      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
-      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+      "code": "Not required",
+      "value": "GRE is not required, so no subject test is needed.",
+      "quote": "GRE: Not required",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15349"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The ME PhD requires IELTS 6.5.",
+      "quote": "TOEFL Essentials: 8.5 IELTS: 6.5",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15349"
     },
     "supervisor": {
       "code": "Not stated",
-      "value": "The pages checked do not say whether a supervisor's agreement is needed.",
+      "value": "The page does not say whether a supervisor's agreement is needed before admission.",
       "quote": "",
       "url": "https://www.sdstate.edu/programs/graduate/mechanical-engineering-phd"
     },
     "funding": {
       "code": "Not stated",
-      "value": "The pages checked do not state a funding rule for this program.",
+      "value": "The page does not say whether most students receive funding.",
       "quote": "",
       "url": "https://www.sdstate.edu/programs/graduate/mechanical-engineering-phd"
     },
     "entry_route": {
       "code": "Either",
       "value": "Applicants may hold an undergraduate or master's degree in mechanical engineering or a related engineering field.",
-      "quote": "Have an undergraduate/master degree in mechanical engineering or a related engineering field.",
+      "quote": "Have an undergraduate/master degree in mechanical engineering or a related engineering field",
       "url": "https://www.sdstate.edu/programs/graduate/mechanical-engineering-phd"
     }
   },
-  "notes": "Engineering degrees are applied for through the EngineeringCAS application (international applicants page); the graduate-school fee and English rules are overridden as Not stated because the engineering rules were not found."
+  "notes": "Agricultural and Biosystems Engineering (Ph.D.) is a separate program in the engineering college (page: agricultural-biosystems-engineering-phd); its catalog admission page did not load, so it is not scored here."
 }

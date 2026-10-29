@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "PhD Course in Physics",
   "program_page": "https://www.unipd.it/en/dottorato/dottorati-42-ciclo",
-  "checked": "2026-10-21",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "Not stated",
@@ -30,10 +30,10 @@
       "url": "https://www.unipd.it/en/dottorato/dottorati-42-ciclo"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "Admission is by public competition (admission exam set out in each course information sheet); no prior supervisor agreement mentioned on the pages checked",
-      "quote": "For each course there is also an information sheet containing the specific information of that syllabus: the places and scholarships made available, the documents to be attached to the application, the tests in which the selection procedure is divided",
-      "url": "https://www.unipd.it/en/dottorato/dottorati-42-ciclo"
+      "code": "Not required",
+      "value": "Admission is by competition, and the FAQ says a supervisor need not be contacted first; the Academic Board assigns one within four months. Applicants still finishing a master's co-sign a thesis summary with a supervisor.",
+      "quote": "It is not necessary; in general, the supervisor will be assigned by the Academic Board within four months",
+      "url": "https://wwwassets.unipd.it/sites/default/files/2026-04/FAQ%20eng%20bando%2042_clean.pdf"
     },
     "funding": {
       "code": "Competitive",
@@ -54,5 +54,5 @@
       "url": "https://www.unipd.it/en/dottorato"
     }
   },
-  "notes": "Apply on pica.cineca.it. The Physics information sheet (places, scholarships, exam format) is a PDF and was not checked. The course website (phd.fisica.unipd.it) and department site could not be fetched. 531 PhD positions university-wide for 2026/27."
+  "notes": "Apply on pica.cineca.it. The 42nd-cycle Physics information sheet (PDF, checked) lists 24 positions, 1 without scholarship, admission exam in Italian or English at the candidate's choice, and English assessed at the oral exam. No Physics-specific IELTS, TOEFL, GRE or fee rule is stated. The 43rd-cycle call is not yet published. 531 PhD positions university-wide for 2026/27."
 }

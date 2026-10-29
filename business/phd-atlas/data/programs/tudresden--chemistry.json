@@ -3,13 +3,13 @@
   "university": "tudresden",
   "field": "chemistry",
   "also_fields": [],
-  "department": "Faculty of Chemistry and Food Chemistry (School of Science)",
+  "department": "Faculty of Chemistry and Food Chemistry (Bereich Mathematik und Naturwissenschaften)",
   "program_page": "https://tu-dresden.de/mn/chemie/postgraduales/promotion?set_language=en",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "The chemistry page gives no closing date and refers applicants to the School of Science doctorate pages.",
+      "value": "No closing date for admission is stated on the page checked.",
       "quote": "",
       "url": "https://tu-dresden.de/mn/chemie/postgraduales/promotion?set_language=en"
     },
@@ -23,17 +23,11 @@
       "code": "Required",
       "value": "A supervision agreement with your professor must be signed first, and a copy goes with the admission application.",
       "quote": "you are obliged to sign a supervision agreement",
-      "url": "https://tu-dresden.de/mn/postgraduales/promotion?set_language=en",
-      "also": [
-        {
-          "quote": "copy of the supervision agreement",
-          "url": "https://tu-dresden.de/mn/postgraduales/promotion?set_language=en"
-        }
-      ]
+      "url": "https://tu-dresden.de/mn/postgraduales/promotion?set_language=en"
     },
     "funding": {
       "code": "Not stated",
-      "value": "The pages checked do not state how many doctoral candidates are funded.",
+      "value": "No funding statement is stated on the page checked.",
       "quote": "",
       "url": "https://tu-dresden.de/mn/chemie/postgraduales/promotion?set_language=en"
     },
@@ -50,5 +44,5 @@
       ]
     }
   },
-  "notes": "The chemistry faculty page only refers to the School of Science pages, so its rules are the School of Science rules."
+  "notes": "The faculty page sends applicants to the School of Science page for admission rules. Opening of doctoral procedures is by prior appointment."
 }

@@ -3,14 +3,14 @@
   "institution": "University of Alabama at Birmingham",
   "country": "USA",
   "region": "Alabama",
-  "grad_page": "https://catalog.uab.edu/graduate/admission/",
-  "checked": "2026-10-26",
+  "grad_page": "https://www.uab.edu/gradadmissions/apply/international-applicants",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "The catalog says the Graduate School requires an application fee but gives no amount; the amount is on the uab.edu International Applicants page, which could not be fetched.",
-      "quote": "In addition to the completed online application, the Graduate School requires an application fee and official transcripts.",
-      "url": "https://catalog.uab.edu/graduate/admission/"
+      "code": "60 USD",
+      "value": "The Graduate School's standard application fee for international applicants is $60 (non-refundable).",
+      "quote": "Graduate School's standard fee is $50 for domestic applicants and $60 for international applicants. Certain programs have higher fees which will be assessed at the time of application. The application fee is non-refundable.",
+      "url": "https://www.uab.edu/gradadmissions/apply/international-applicants"
     },
     "fee_waiver": {
       "code": "Not stated",
@@ -25,23 +25,23 @@
       "url": "https://catalog.uab.edu/graduate/admission/"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "The Graduate School requires English proficiency from international applicants, but the minimum score is on the uab.edu International Applicants page, which could not be fetched.",
-      "quote": "The Graduate School requires English proficiency for international applicants",
-      "url": "https://catalog.uab.edu/graduate/admission/"
+      "code": "4.0 (new scale)",
+      "value": "The Graduate School's minimum required TOEFL score is 4.0 on the new scale.",
+      "quote": "TOEFL: 4.0*",
+      "url": "https://www.uab.edu/gradadmissions/apply/international-applicants"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "The Graduate School sets IELTS minimums on its International Applicants page, which could not be fetched.",
-      "quote": "which can be found on the Graduate School's International Applicants page",
-      "url": "https://catalog.uab.edu/graduate/admission/"
+      "code": "6.5",
+      "value": "The Graduate School's minimum required IELTS score is 6.5.",
+      "quote": "IELTS: 6.5*",
+      "url": "https://www.uab.edu/gradadmissions/apply/international-applicants"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "The only automatic waiver quoted is for a degree earned in the US with a 3.00 GPA; the rule for an Indian English-medium degree is on the uab.edu page that could not be fetched.",
-      "quote": "This requirement is automatically waived for international applicants who earned a bachelor’s, graduate, or professional degree in the US with a minimum GPA of 3.00",
-      "url": "https://catalog.uab.edu/graduate/admission/"
+      "code": "No",
+      "value": "English test waivers require a degree earned in the US with GPA >= 3.0 or citizenship in an exempt English-speaking country; India is not listed and medium-of-instruction waivers are not granted.",
+      "quote": "The applicant has earned a bachelor's, graduate, or professional degree in the United States with a GPA of 3.00 or higher. | The applicant is a citizen of one of the following countries: | Antigua | Australia | Bahamas | Barbados | Belize | Bermuda | Botswana | Cameroon | Canada, with the exception of Quebec | Cayman Islands | Ghana | Irish Republic | Jamaica | Kenya | Malawi | New Zealand | Nigeria | Rwanda | Sierra Leone | South Africa | Tanzania | Trinidad & Tobago | Uganda | United Kingdom (England, Scotland, Ireland, Wales) | Zambia | Zimbabwe",
+      "url": "https://www.uab.edu/gradadmissions/apply/international-applicants"
     }
   },
-  "notes": "Sources: UAB Graduate Catalog at catalog.uab.edu (the page carries a 2025-2026 edition label). Every www.uab.edu page (including https://www.uab.edu/gradadmissions/apply/international-applicants and https://www.uab.edu/graduate/) failed in this session: the fetch proxy returned 502 'upstream request failed' and direct TLS to www.uab.edu does not verify, so the graduate application fee, fee waiver, TOEFL/IELTS minimums and the India English-waiver rule are Not stated. Search snippets mention figures, but none were on a fetched page, so none are saved."
+  "notes": "Graduate application fee $60, TOEFL 4.0, IELTS 6.5 from the international graduate admissions page. GRE requirements are set at the program level."
 }

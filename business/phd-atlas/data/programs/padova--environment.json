@@ -3,33 +3,15 @@
   "university": "padova",
   "field": "environment",
   "also_fields": [],
-  "department": "PhD in Land, Environment, Resources and Health",
-  "program_page": "https://www.unipd.it/en/dottorato/dottorati-42-ciclo",
-  "checked": "2026-10-22",
+  "department": "Department of Land, Environment, Agriculture and Forestry (TESAF), Land, Environment, Resources and Health",
+  "program_page": "https://wwwassets.unipd.it/sites/default/files/2026-04/LAND%2C%20ENVIRONMENT%2C%20RESOURCES%20AND%20HEALTH_0.pdf",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "Annual call; the 2026/27 call closed May 20, 2026. The call for Fall 2027 entry (43rd cycle) is not yet published.",
+      "value": "The 2026/27 (42nd cycle) call closed May 20, 2026. The Fall 2027 (43rd cycle) call is not yet published.",
       "quote": "Application deadline: May 20, 2026, 1 p.m.",
       "url": "https://www.unipd.it/en/dottorato/dottorati-42-ciclo"
-    },
-    "funding": {
-      "code": "Competitive",
-      "value": "Each course offers a limited number of places and scholarships, and some places are awarded without a scholarship.",
-      "quote": "applicants awarded a place without a scholarship",
-      "url": "https://www.unipd.it/en/dottorato/dottorati-42-ciclo",
-      "also": [
-        {
-          "quote": "the places and scholarships made available",
-          "url": "https://www.unipd.it/en/dottorato/dottorati-42-ciclo"
-        }
-      ]
-    },
-    "entry_route": {
-      "code": "Master's usually required",
-      "value": "A master's degree (or equivalent) is required, plus passing the admission exam.",
-      "quote": "You can access the PhD programme, which lasts 3 or 4 years, only after obtaining a master's degree and passing an admission examination",
-      "url": "https://www.unipd.it/en/dottorato"
     },
     "gre_subject": {
       "code": "No subject test",
@@ -38,11 +20,23 @@
       "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked",
-      "quote": "",
-      "url": "https://www.unipd.it/en/dottorato/dottorati-42-ciclo"
+      "code": "Not required",
+      "value": "Applicants need not contact a supervisor first; the Academic Board assigns one within four months of course start. Applicants still finishing a master's co-sign a thesis summary with a supervisor.",
+      "quote": "It is not necessary; in general, the supervisor will be assigned by the Academic Board within four months",
+      "url": "https://wwwassets.unipd.it/sites/default/files/2026-04/FAQ%20eng%20bando%2042_clean.pdf"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Scholarship and no-scholarship places are filled by one competition. The sheet lists 12 positions, 2 of them without a scholarship.",
+      "quote": "Successful candidates, with or without a scholarship, must enrol by July 23rd 2026",
+      "url": "https://wwwassets.unipd.it/sites/default/files/2026-04/CALL%2042.pdf"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's degree is required, plus passing the admission examination announced for each cycle.",
+      "quote": "You can access the PhD programme, which lasts 3 or 4 years, only after obtaining a master's degree and passing an admission examination, which is announced annually.",
+      "url": "https://www.unipd.it/en/dottorato"
     }
   },
-  "notes": "Only university-level pages could be read (course information sheets are PDFs the fetcher cannot parse); other fields Not stated."
+  "notes": "Admission exam in English. English certificates are a scored document, not a minimum."
 }

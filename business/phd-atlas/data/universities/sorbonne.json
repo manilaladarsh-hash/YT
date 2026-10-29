@@ -4,11 +4,11 @@
   "country": "France",
   "region": "Île-de-France",
   "grad_page": "https://www.sorbonne-universite.fr/en/doctorate/application-and-admission",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
       "code": "Not stated",
-      "value": "No application fee for a doctorate is stated on the pages checked. The €398 doctoral fee is the enrolment fee paid after admission.",
+      "value": "No application fee is stated on Sorbonne University's doctoral admission or ADUM enrolment pages; the €398 doctoral fee (plus CVEC) is the annual national enrolment fee paid after admission.",
       "quote": "",
       "url": "https://www.sorbonne-universite.fr/en/doctorate/application-and-admission",
       "also": [
@@ -20,34 +20,34 @@
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "No application-fee waiver is stated. Non-EU doctoral students are not subject to the differentiated tuition fee, so they pay the same €398 enrolment fee as French students.",
+      "value": "No application-fee waiver is stated. Non-EU doctoral candidates are exempt from differentiated tuition fees and pay the €398 national enrolment rate after admission (with enrolment-fee exemptions available for eligible grant, cotutelle, or social-criteria cases).",
       "quote": "Students enrolling in a doctoral programme, a third-cycle programme in health studies or an accreditation to supervise research (HDR) programme.",
       "url": "https://www.sorbonne-universite.fr/en/education/study-sorbonne-university/enrolment-procedures-and-tuition-fees"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "No GRE requirement is stated on the Sorbonne doctoral pages checked.",
+      "value": "No university-wide GRE requirement is stated on Sorbonne University's doctoral pages.",
       "quote": "",
       "url": "https://www.sorbonne-universite.fr/en/doctorate/application-and-admission"
     },
     "toefl_min": {
       "code": "Not stated",
-      "value": "No English, GRE or test rule for doctoral applicants is stated on the Sorbonne doctoral pages checked.",
+      "value": "No university-wide TOEFL minimum is stated on Sorbonne University's doctoral admission or enrolment pages.",
       "quote": "",
       "url": "https://www.sorbonne-universite.fr/en/doctorate/application-and-admission"
     },
     "ielts_min": {
       "code": "Not stated",
-      "value": "No English, GRE or test rule for doctoral applicants is stated on the Sorbonne doctoral pages checked.",
+      "value": "No university-wide IELTS minimum is stated on Sorbonne University's doctoral admission or enrolment pages.",
       "quote": "",
       "url": "https://www.sorbonne-universite.fr/en/doctorate/application-and-admission"
     },
     "english_waiver": {
       "code": "Not stated",
-      "value": "No English-test rule for India or any other country is stated on the doctoral pages checked.",
+      "value": "No university-wide English-test exemption rule (including for Indian degrees) is stated on the doctoral pages checked; foreign Master's diplomas not in French or English require an English diploma supplement or sworn French translation.",
       "quote": "",
-      "url": "https://www.sorbonne-universite.fr/en/doctorate/application-and-admission"
+      "url": "https://www.sorbonne-universite.fr/sites/default/files/media/2024-06/SIM%20-%20Enrollment%20procedure%20and%20checklist%20enrollment%20aplication3.pdf"
     }
   },
-  "notes": "Entry needs a master's or equivalent, plus a supervisor's agreement and funding for exact sciences. Doctoral applications are made through each doctoral school. The 2026/27 PhD calendar (sciences: rolling until 16 April 2027) is not a Fall 2027 deadline. Pages checked: international doctoral programmes, international welcome desk admission page, application and admission, admission, funding, enrolment fees, PhD enrolment calendar, Sciences doctoral schools list. The Sciences international applying page (2023-24 fee figures) was not used because it is out of date. No pages were blocked. Fetch budget exceeded: about 9 university-wide fetches against the brief's 4-6."
+  "notes": "Doctoral applications are handled by individual doctoral schools and validated via ADUM once a thesis supervisor and funding (mandatory in exact/experimental sciences) are secured. Checked English and French application-and-admission pages, International Welcome Desk doctoral admission page, enrolment-procedures-and-tuition-fees (2026/27 €398 doctoral rate), inscriptions-reinscriptions-en-doctorat, and the PhD enrollment checklist PDF. 404 URL: https://www.sorbonne-universite.fr/le-doctorat/college-doctoral-et-ecoles-doctorales/les-programmes-doctoraux/programmes-doctoraux."
 }

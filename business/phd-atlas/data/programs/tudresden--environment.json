@@ -2,14 +2,16 @@
   "id": "tudresden--environment",
   "university": "tudresden",
   "field": "environment",
-  "also_fields": [],
+  "also_fields": [
+    "earth"
+  ],
   "department": "Faculty of Environmental Sciences",
   "program_page": "https://tu-dresden.de/bu/umwelt/postgraduales/promotion?set_language=en",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "The faculty page gives no closing date for admission. Applications are made through Promovendus and on paper at the Doctoral Office.",
+      "value": "No closing date for admission is stated on the page checked.",
       "quote": "",
       "url": "https://tu-dresden.de/bu/umwelt/postgraduales/promotion?set_language=en"
     },
@@ -21,22 +23,22 @@
     },
     "supervisor": {
       "code": "Required",
-      "value": "A university lecturer or TUD Young Investigator from the faculty must agree to supervise you, with at least one more supervisor in a team.",
+      "value": "You must find a faculty lecturer or Young Investigator and at least one further supervisor who agree to supervise you before admission.",
       "quote": "you must find a university lecturer from the Faculty or a TUD Young Investigator from the Faculty",
       "url": "https://tu-dresden.de/bu/umwelt/postgraduales/promotion?set_language=en"
     },
     "funding": {
       "code": "Not stated",
-      "value": "The pages checked do not state how many doctoral candidates are funded.",
+      "value": "No funding statement is stated on the page checked.",
       "quote": "",
       "url": "https://tu-dresden.de/bu/umwelt/postgraduales/promotion?set_language=en"
     },
     "entry_route": {
       "code": "Master's usually required",
-      "value": "A good university degree is generally needed, typically a Diplom or Master's with a research thesis.",
+      "value": "Admission generally needs a good overall grade in a relevant degree, typically a Diplom or Master's with a research thesis.",
       "quote": "typically a Diplom or Master’s program with a research thesis",
       "url": "https://tu-dresden.de/bu/umwelt/postgraduales/promotion?set_language=en"
     }
   },
-  "notes": "The Department of Geosciences has its own doctoral coordinator on this page, so the record lists earth as also_fields. The faculty regulations are dated 2 February 2026. The page says applications to open proceedings under the 2014 regulations are accepted until 21 December 2026."
+  "notes": "Faculty doctoral regulations dated 2 February 2026, in force 25 March 2026; the faculty lists a Department of Geosciences, so the earth field is covered here. Applications to open proceedings under the 2014 regulations are accepted only until 21 December 2026."
 }

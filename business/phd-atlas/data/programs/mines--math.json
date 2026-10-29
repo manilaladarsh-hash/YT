@@ -5,41 +5,54 @@
   "also_fields": [
     "statistics"
   ],
-  "department": "Department of Applied Mathematics and Statistics",
-  "program_page": "https://catalog.mines.edu/graduate/programs/ams/",
-  "checked": "2026-10-26",
+  "department": "Applied Mathematics and Statistics",
+  "program_page": "https://www.mines.edu/academics/graduate-academics/applied-mathematics-and-statistics-phd/",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "Mines' deadlines page gives a Fall international PhD date of March 1 but no year, so no Fall 2027 date is stated.",
-      "quote": "",
-      "url": "https://gradprograms.mines.edu/deadlines/"
+      "value": "No hard program closing deadline is published; the graduate school lists March 1 as the priority deadline for financial support consideration for international applicants.",
+      "quote": "The deadlines listed are considered priority deadlines for all programs. Applicants requesting financial support are strongly encouraged to submit applications by this date. | March 1",
+      "url": "https://gradprograms.mines.edu/deadlines/",
+      "time_sensitive": "2027-03-01"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The PhD does not require the GRE.",
+      "quote": "GRE: Not Required",
+      "url": "https://www.mines.edu/academics/graduate-academics/applied-mathematics-and-statistics-phd/"
     },
     "gre_subject": {
-      "code": "Not stated",
-      "value": "The catalog gives no subject GRE rule for this PhD.",
-      "quote": "",
-      "url": "https://catalog.mines.edu/graduate/programs/ams/"
+      "code": "Not required",
+      "value": "The PhD does not require the GRE, including the Mathematics subject test.",
+      "quote": "GRE: Not Required",
+      "url": "https://www.mines.edu/academics/graduate-academics/applied-mathematics-and-statistics-phd/"
     },
     "supervisor": {
       "code": "Not stated",
-      "value": "No official text on this PhD says whether a supervisor must agree before admission.",
+      "value": "No official page says whether a supervisor must agree before admission.",
       "quote": "",
-      "url": "https://catalog.mines.edu/graduate/programs/ams/"
+      "url": "https://www.mines.edu/academics/graduate-academics/applied-mathematics-and-statistics-phd/"
     },
     "funding": {
-      "code": "Not stated",
-      "value": "The page says assistantships are generally awarded, which does not show that most students are funded.",
-      "quote": "",
-      "url": "https://gradprograms.mines.edu/applicant-frequently-asked-questions/"
+      "code": "Typical",
+      "value": "Teaching and research assistantships are generally awarded to PhD applicants, according to the university FAQ; the department gives no separate figure.",
+      "quote": "Both Assistantships are generally awarded to Masters Thesis (MS-T) and Doctoral (PHD) level applicants.",
+      "url": "https://gradprograms.mines.edu/applicant-frequently-asked-questions/",
+      "also": [
+        {
+          "quote": "We strongly encourage applicants to meet the Fall admission priority deadline, if applying to a MS Thesis or PhD program and are seeking funding.",
+          "url": "https://ams.mines.edu/application-admission/"
+        }
+      ]
     },
     "entry_route": {
-      "code": "Either",
-      "value": "The PhD can be designed for applicants with a master's or with a bachelor's degree.",
-      "quote": "A course of study leading to the PhD degree can be designed either for students who have completed a master of science degree or for students with a bachelor of science degree.",
-      "url": "https://catalog.mines.edu/graduate/programs/ams/"
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is the requirement, and a master's is helpful but not required.",
+      "quote": "A master’s degree is helpful but not required.",
+      "url": "https://www.mines.edu/academics/graduate-academics/applied-mathematics-and-statistics-phd/"
     }
   },
-  "notes": "One Applied Mathematics and Statistics PhD covers both math and statistics.",
+  "notes": "Statistics is covered by this PhD (Applied Mathematics and Statistics). Director of Graduate Studies is named on the department page.",
   "name": "Applied Mathematics and Statistics (PhD)"
 }

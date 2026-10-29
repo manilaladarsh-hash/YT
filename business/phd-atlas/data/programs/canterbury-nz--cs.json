@@ -3,15 +3,22 @@
   "university": "canterbury-nz",
   "field": "cs",
   "also_fields": [],
-  "department": "Department of Computer Science and Software Engineering",
+  "department": "Computer Science and Software Engineering department",
   "program_page": "https://www.canterbury.ac.nz/study/academic-study/subjects/computer-science-pg",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
-      "code": "Not stated",
-      "value": "No application closing date is given on the official pages; a PhD may begin on the first day of any month.",
-      "quote": "",
-      "url": "https://www.canterbury.ac.nz/study/academic-study/qualifications/doctor-of-philosophy"
+      "code": "Rolling",
+      "value": "PhD enrolment at UC can begin on the first day of any month of the year; UC Doctoral Scholarships close 15 May 2027 for a second-half 2027 start.",
+      "quote": "You may begin your PhD on the first day of any month of the year.",
+      "url": "https://www.canterbury.ac.nz/study/academic-study/qualifications/doctor-of-philosophy",
+      "time_sensitive": "2027-05-15",
+      "also": [
+        {
+          "quote": "for students planning to start in the second half of 2027; opens 20 March, closes 15 May",
+          "url": "https://www.canterbury.ac.nz/study/getting-started/scholarships/doctoral-scholarships/uc-doctoral-scholarships"
+        }
+      ]
     },
     "gre_subject": {
       "code": "No subject test",
@@ -32,17 +39,23 @@
       ]
     },
     "funding": {
-      "code": "Not stated",
-      "value": "No official page states that most PhD students are funded or that funding is competitive.",
-      "quote": "",
-      "url": "https://www.canterbury.ac.nz/study/uc-graduate-school/future-research-students/become-a-research-student"
+      "code": "Competitive",
+      "value": "The department scholarship gives tuition for thesis enrolment at the domestic rate, and the highest-ranked applicants also get a stipend.",
+      "quote": "The highest-ranked applicants are offered a stipend of NZ$28,000 per 120 points of thesis enrolment",
+      "url": "https://www.canterbury.ac.nz/content/dam/uoc-main-site/documents/pdfs/a-regulations/scholarship-regulations/UC-CSSE-Doctoral-Scholarship-Regulations.pdf",
+      "also": [
+        {
+          "quote": "Applications for the scholarship must be made to the Administration of the Department.",
+          "url": "https://www.canterbury.ac.nz/content/dam/uoc-main-site/documents/pdfs/a-regulations/scholarship-regulations/UC-CSSE-Doctoral-Scholarship-Regulations.pdf"
+        }
+      ]
     },
     "entry_route": {
       "code": "Either",
-      "value": "A research-focused honours or master's degree at First or Second Class Division I Honours or Distinction level is needed, so both routes are accepted.",
+      "value": "A research-focused honours or master's degree at First or Second Class Division I level is needed, so both routes are accepted.",
       "quote": "Enrolment in a PhD requires completion of a research-focused honours or master’s degree, at First or Second Class (Division I) Honours or Distinction level (or equivalent qualifications).",
       "url": "https://www.canterbury.ac.nz/study/academic-study/qualifications/doctor-of-philosophy"
     }
   },
-  "notes": "The official computer science page lists a Doctor of Philosophy. No department-level rule was found."
+  "notes": "Department doctoral scholarship regulations are dated October 2022 on the PDF and should be confirmed with the department."
 }

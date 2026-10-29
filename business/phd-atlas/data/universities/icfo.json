@@ -1,47 +1,65 @@
 {
   "id": "icfo",
-  "institution": "ICFO – The Institute of Photonic Sciences",
+  "institution": "ICFO ? The Institute of Photonic Sciences",
   "country": "Spain",
   "region": "Catalonia (Castelldefels, Barcelona)",
   "grad_page": "https://www.icfo.eu/studies/phd-program/",
-  "checked": "2026-10-22",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
       "code": "Not stated",
-      "value": "ICFO's PhD pages do not mention an application fee; applications go through ICFOjobs.",
+      "value": "No application fee is mentioned on ICFO's PhD program, fellowship, or ICFOjobs pages; applications are submitted online through ICFOjobs.",
       "quote": "",
       "url": "https://www.icfo.eu/studies/phd-program/general-eligibility/"
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "Not stated on ICFO's PhD pages.",
+      "value": "No application fee or fee waiver is stated on ICFO's PhD pages.",
       "quote": "",
       "url": "https://www.icfo.eu/studies/phd-program/general-eligibility/"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "ICFO's PhD pages do not mention the GRE.",
-      "quote": "",
-      "url": "https://www.icfo.eu/studies/phd-program/general-eligibility/"
+      "code": "Optional",
+      "value": "Submitting standardized test results (GRE, TOEFL, etc.) is optional across ICFO PhD fellowship calls and group openings, though helpful for evaluating degrees obtained outside the European Higher Education Area.",
+      "quote": "If available, scanned copy of standardized test results (GRE, TOEFL, etc.). Note that submission of test results is optional, but they can be particularly helpful for evaluating candidates with degrees obtained outside the European Higher Education Area.",
+      "url": "https://www.icfo.eu/studies/phd-program/phd-fellowship-programs/Flight-Fellowships/",
+      "also": [
+        {
+          "quote": "If available, scanned copy of standardized test results (GRE, TOEFL, etc.). Note that submission of test results is optional, but they can be particularly helpful for evaluating candidates with degrees obtained outside the European Higher Education Area.",
+          "url": "https://jobs.icfo.eu/?detail=1066"
+        }
+      ]
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "No TOEFL score is given; ICFO only asks for a high working knowledge of English.",
-      "quote": "",
-      "url": "https://www.icfo.eu/studies/phd-program/general-eligibility/"
+      "code": "Not required",
+      "value": "No TOEFL certificate is required; ICFO requires a high working knowledge of English, and submitting standardized test results (TOEFL, etc.) is optional (though helpful for degrees from outside the EHEA).",
+      "quote": "A high working knowledge of English. | If available, scanned copy of standardized test results (GRE, TOEFL, etc.). Note that submission of test results is optional, but they can be particularly helpful for evaluating candidates with degrees obtained outside the European Higher Education Area.",
+      "url": "https://www.icfo.eu/studies/phd-program/phd-fellowship-programs/Flight-Fellowships/",
+      "also": [
+        {
+          "quote": "Have a high working knowledge of English. | If available, scanned copy of standardized test results (GRE, TOEFL, etc.). Note that submission of test results is optional, but they can be particularly helpful for evaluating candidates with degrees obtained outside the European Higher Education Area.",
+          "url": "https://jobs.icfo.eu/?detail=1066"
+        }
+      ]
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "No IELTS score is given; ICFO only asks for a high working knowledge of English.",
-      "quote": "",
-      "url": "https://www.icfo.eu/studies/phd-program/general-eligibility/"
+      "code": "Not required",
+      "value": "No IELTS certificate is required; ICFO requires a high working knowledge of English, and submitting standardized test results is optional (though helpful for degrees from outside the EHEA).",
+      "quote": "A high working knowledge of English. | If available, scanned copy of standardized test results (GRE, TOEFL, etc.). Note that submission of test results is optional, but they can be particularly helpful for evaluating candidates with degrees obtained outside the European Higher Education Area.",
+      "url": "https://www.icfo.eu/studies/phd-program/phd-fellowship-programs/Flight-Fellowships/",
+      "also": [
+        {
+          "quote": "Have a high working knowledge of English. | If available, scanned copy of standardized test results (GRE, TOEFL, etc.). Note that submission of test results is optional, but they can be particularly helpful for evaluating candidates with degrees obtained outside the European Higher Education Area.",
+          "url": "https://jobs.icfo.eu/?detail=1066"
+        }
+      ]
     },
     "english_waiver": {
       "code": "Not stated",
-      "value": "ICFO does not say whether an English-medium degree from India waives proof of English.",
+      "value": "No English certificate is mandatory (test submission is optional, though helpful for non-EHEA degrees); ICFO's PhD pages do not state a specific rule for English-medium degrees from India.",
       "quote": "",
-      "url": "https://www.icfo.eu/studies/phd-program/general-eligibility/"
+      "url": "https://www.icfo.eu/studies/phd-program/phd-fellowship-programs/Flight-Fellowships/"
     }
   },
-  "notes": "Pages checked: PhD program, general eligibility, fellowship programs and the ICFOjobs FAQ. None state fee, GRE or English test scores."
+  "notes": "Checked ICFO PhD Program overview, general eligibility, PhD fellowship programs, Standard PhD Fellowships, FLIGHT PhD Fellowships (https://www.icfo.eu/studies/phd-program/phd-fellowship-programs/Flight-Fellowships/), ICFOjobs portal and FAQs (https://jobs.icfo.eu/), Spring 2026 Severo Ochoa ICFO PhD Program call (https://jobs.icfo.eu/?detail=1066), and group PhD opening (?detail=1132). Both institutional PhD fellowship calls and group PhD openings state that standardized test results (GRE, TOEFL, etc.) are optional, though helpful for non-EHEA degrees. URL https://www.icfo.eu/studies/phd-program/flight/ returned 404 (live path is /studies/phd-program/phd-fellowship-programs/Flight-Fellowships/)."
 }

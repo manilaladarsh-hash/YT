@@ -4,7 +4,7 @@
   "country": "USA",
   "region": "Alabama",
   "grad_page": "https://graduate.auburn.edu/admissions/apply.php",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
       "code": "70 USD",
@@ -14,8 +14,8 @@
     },
     "fee_waiver": {
       "code": "Limited",
-      "value": "Waivers go only to current Auburn graduate students, Auburn employees, active-duty military and dual-program applicants.",
-      "quote": "The following applicants are eligible for a fee waiver | Full-time Auburn University employees | Current Auburn University graduate students enrolled in graduate courses",
+      "value": "Waivers go only to current Auburn graduate students, Auburn employees, active-duty military and dual-program applicants, not to international applicants in general.",
+      "quote": "The following applicants are eligible for a fee waiver: | Current Auburn University graduate students enrolled in graduate courses | Full-time Auburn University employees | Active Duty Military with a letter confirming duty",
       "url": "https://graduate.auburn.edu/admissions/apply.php"
     },
     "gre_general": {
@@ -49,5 +49,5 @@
       "url": "https://graduate.auburn.edu/admissions/international-instructions.php"
     }
   },
-  "notes": "Sources: graduate.auburn.edu application, international applicant and GRE waiver pages. The Graduate School all-programs page did not render its list, and bulletin.auburn.edu returned 502, so the doctoral list is taken from the Graduate School GRE waiver list. Department pages on cosam.auburn.edu and eng.auburn.edu fail TLS verification through the proxy, so department rules are not checked."
+  "notes": "Sources: graduate.auburn.edu application, international applicant and GRE waiver pages. Graduate School deadlines are in the Bulletin; the international page says the application deadline is three months prior to term, and departments may set earlier dates. Some departments require higher English scores (international page). Duolingo (115 overall, 110 minimum per section) is also accepted. The Graduate School all-programs page did not render, so the doctoral list is the GRE waiver list. Department pages on cosam.auburn.edu, auburn.edu/cosam and eng.auburn.edu fail TLS verification through the proxy (certificate chain not trusted), so department rules are not checked."
 }

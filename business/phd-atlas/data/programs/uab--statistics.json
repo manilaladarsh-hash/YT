@@ -3,13 +3,13 @@
   "university": "uab",
   "field": "statistics",
   "also_fields": [],
-  "department": "Department of Biostatistics, School of Public Health",
+  "department": "Department of Biostatistics (School of Public Health)",
   "program_page": "https://catalog.uab.edu/graduate/schoolofpublichealth/biostatistics/",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "2026-12-01",
-      "value": "Priority deadline is December 1 for Fall entry; the final deadline is May 1 for US applicants and April 1 for international applicants.",
+      "value": "The doctoral priority deadline is December 1, so for Fall 2027 entry it is December 1, 2026; final deadlines are May 1 for U.S. applicants and April 1 for international applicants.",
       "quote": "Priority deadline December 1, Final deadline May 1 (U.S.), April 1 (International)",
       "url": "https://catalog.uab.edu/graduate/schoolofpublichealth/biostatistics/",
       "inferred": "year"
@@ -21,29 +21,36 @@
       "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
     },
     "gre_general": {
-      "code": "Required",
-      "value": "The school's doctoral entrance table lists the GRE.",
-      "quote": "Entrance Tests: GRE",
+      "code": "Not stated",
+      "value": "The School's table lists GRE under entrance tests but gives no rule for it; its only link goes to the School's application page.",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/schoolofpublichealth/biostatistics/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The School requires TOEFL from international applicants whose native language is not English, but the page gives no minimum score.",
+      "quote": "TOEFL is required for international applicants whose native language is not English.",
       "url": "https://catalog.uab.edu/graduate/schoolofpublichealth/biostatistics/"
     },
     "supervisor": {
       "code": "Not stated",
-      "value": "The catalog page does not state a supervisor rule.",
+      "value": "The page does not say whether a supervisor must agree before admission.",
       "quote": "",
       "url": "https://catalog.uab.edu/graduate/schoolofpublichealth/biostatistics/"
     },
     "funding": {
       "code": "Not stated",
-      "value": "The catalog page does not state a funding rule.",
+      "value": "The page does not describe PhD funding for students.",
       "quote": "",
       "url": "https://catalog.uab.edu/graduate/schoolofpublichealth/biostatistics/"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "The catalog page does not state the entry degree.",
-      "quote": "",
+      "code": "Either",
+      "value": "A master's degree is recommended but not required for doctoral admission.",
+      "quote": "A master's degree is recommended but not required for admissions to doctoral programs",
       "url": "https://catalog.uab.edu/graduate/schoolofpublichealth/biostatistics/"
     }
   },
-  "notes": "The entrance and deadline rows are from the school's table shared by its master's and doctoral programs. The school's uab.edu pages could not be fetched."
+  "notes": "Admission runs through the School of Public Health's own application (www.uab.edu/soph/home/apply/graduate, not fetched), so the School's TOEFL rule is an override. The entry term is not labelled in the deadline table; December 1 is the doctoral priority date.",
+  "name": "PhD in Biostatistics"
 }

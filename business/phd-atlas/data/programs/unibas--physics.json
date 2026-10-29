@@ -5,13 +5,13 @@
   "also_fields": [],
   "department": "Department of Physics",
   "program_page": "https://physik.unibas.ch/en/study/phd-doctoral-program/",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
-      "code": "Not stated",
-      "value": "The physics PhD page gives no application deadline.",
-      "quote": "",
-      "url": "https://physik.unibas.ch/en/study/phd-doctoral-program/"
+      "code": "2027-07-31",
+      "value": "Doctoral sign-up for Fall Semester 2027 closes 31 July 2027 under the university's doctoral deadline table, which applies to every doctoral subject.",
+      "quote": "Doctoral Studies Semester Fall Semester 2027 Sign up until 31 Jul 2027",
+      "url": "https://www.unibas.ch/en/Studies/Before-My-Studies/Dates-Events/Deadlines/Application.html"
     },
     "gre_subject": {
       "code": "Not stated",
@@ -44,6 +44,6 @@
       "url": "https://physik.unibas.ch/en/study/phd-doctoral-program/"
     }
   },
-  "notes": "Department page says English is the main language and German is not required for PhD research; that is not an English test, so the university English values apply. The page links an FS19 faculty PDF, which is too old and was not used.",
+  "notes": "Department page says English is the main language and German is not required for PhD research; that is not an English test, so the university English values apply. The page links an FS19 faculty PDF, which is too old and was not used. The university deadline table applies to all doctoral subjects, so the physics deadline is taken from it.",
   "name": "PhD in Physics"
 }

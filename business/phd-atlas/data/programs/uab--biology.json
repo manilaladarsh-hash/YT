@@ -5,12 +5,12 @@
   "also_fields": [],
   "department": "Department of Biology",
   "program_page": "https://catalog.uab.edu/graduate/collegeofartsciences/biology/",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "2026-12-15",
-      "value": "Application materials for Fall entry are due at the Graduate School by December 15.",
-      "quote": "Deadline for All Application Materials to be in the Graduate School Office: December 15",
+      "value": "Students may enter at the beginning of the Fall semester; the deadline for all applicants is December 15, so for Fall 2027 entry it is December 15, 2026.",
+      "quote": "with a deadline of December 15 for all applicants",
       "url": "https://catalog.uab.edu/graduate/collegeofartsciences/biology/",
       "inferred": "year"
     },
@@ -21,29 +21,29 @@
       "url": "https://www.ets.org/gre/test-takers/subject-tests/scores.html"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "The catalog page does not state a GRE rule.",
-      "quote": "",
+      "code": "Optional",
+      "value": "The biology department says the GRE is optional.",
+      "quote": "The GRE is optional.",
       "url": "https://catalog.uab.edu/graduate/collegeofartsciences/biology/"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "The catalog page does not state a supervisor rule.",
-      "quote": "",
+      "code": "Recommended",
+      "value": "Applicants are strongly advised to contact a mentor before applying.",
+      "quote": "It is strongly recommended that a student contact a mentor before applying.",
       "url": "https://catalog.uab.edu/graduate/collegeofartsciences/biology/"
     },
     "funding": {
       "code": "Not stated",
-      "value": "The catalog page does not state a funding rule.",
+      "value": "The biology page does not describe PhD funding.",
       "quote": "",
       "url": "https://catalog.uab.edu/graduate/collegeofartsciences/biology/"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "The catalog page does not state the entry degree.",
-      "quote": "",
+      "code": "Direct from bachelor's",
+      "value": "Applicants need an undergraduate degree in biological science or a related field; the page does not require a master's.",
+      "quote": "an undergraduate degree in biological science or a related field",
       "url": "https://catalog.uab.edu/graduate/collegeofartsciences/biology/"
     }
   },
-  "notes": "Deadline from the catalog entry for Biology (M.S., Ph.D.). The department's uab.edu page could not be fetched."
+  "notes": "Umbrella note: the department's Fast-Track and ABM deadlines (May 1, August 1, December 1) apply to accelerated programs, not this PhD."
 }

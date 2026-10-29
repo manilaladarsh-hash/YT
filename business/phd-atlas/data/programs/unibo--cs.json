@@ -3,15 +3,15 @@
   "university": "unibo",
   "field": "cs",
   "also_fields": [],
-  "department": "Department of Computer Science and Engineering (DISI)",
+  "department": "Department of Computer Science and Engineering - DISI",
   "program_page": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/computer-science-and-engineering-1",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "The third round of the 42nd cycle closed on 8 October 2026, and no 2027 intake deadline is published yet, so none is stated.",
+      "value": "The 42nd-cycle (2026/27) calls closed by 8 October 2026, which is for Fall 2026 entry; no Fall 2027 deadline is published yet.",
       "quote": "",
-      "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/computer-science-and-engineering-1"
+      "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/"
     },
     "gre_subject": {
       "code": "No subject test",
@@ -20,36 +20,36 @@
       "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "No rule requires a supervisor's agreement before admission; the call only requires a research topic agreed with the supervisor after selection.",
-      "quote": "",
-      "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/attachments/42-second-round-call-for-applications/@@download/file/42%20cycle_CallforApplications_SecondRound_ENG.pdf"
+      "code": "Not required",
+      "value": "No supervisor is named at application; the thesis supervisor is identified by the Academic Board after enrolment.",
+      "quote": "The name of the possible PhD thesis supervisor should not be given, as this will only be identified by the PhD Academic Board after",
+      "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/attachments/42-3-computer-science-and-engineering-phd-programme-table/@@download/file/42_3_PhD%20Programme%20Table_ComputerScienceEngineering.pdf"
     },
     "funding": {
       "code": "Competitive",
-      "value": "Funded positions and scholarships are awarded by ranking, and the programme page lists a net monthly scholarship.",
+      "value": "Funded positions are awarded in ranking order, and some positions carry no scholarship.",
       "quote": "Topic-specific positions are awarded following the ranking order of the applicants who are eligible for each position.",
       "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/attachments/42-second-round-call-for-applications/@@download/file/42%20cycle_CallforApplications_SecondRound_ENG.pdf",
       "also": [
         {
-          "quote": "€ 1,350 net per month",
-          "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/computer-science-and-engineering-1"
+          "quote": "Payment of fees is also mandatory for positions without a scholarship.",
+          "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/applying-for-phd-programmes/how-to-apply-for-a-phd-if-you-come-from-a-non-eu-country"
         }
       ]
     },
     "entry_route": {
       "code": "Master's usually required",
-      "value": "Applicants need a second-cycle degree (Laurea Magistrale or an equivalent foreign degree) under the call's eligibility rule.",
+      "value": "Applicants need a second-cycle (Master's) degree or a recognised foreign equivalent; a bachelor's degree alone does not qualify under the call.",
       "quote": "at least one of the following degrees: a) Laurea Magistrale, Magistrale a ciclo unico or Laurea Specialistica (Italian Second-Cycle Degree)",
       "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/attachments/42-second-round-call-for-applications/@@download/file/42%20cycle_CallforApplications_SecondRound_ENG.pdf"
     },
     "english_waiver": {
       "code": "Not stated",
-      "value": "The CSE PhD page says English knowledge is tested at the entrance exam; it does not say whether Indian degrees are exempt.",
-      "quote": "Knowledge of the English language will be tested during the entrance exam.",
-      "url": "https://phd.unibo.it/cse/en/apply"
+      "value": "English is assessed at the oral exam. No exemption for an Indian degree is stated, so the department rule applies only to the exam.",
+      "quote": "During the oral examination, the applicant’s English proficiency shall be assessed.",
+      "url": "https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/2026-2027/attachments/42-3-computer-science-and-engineering-phd-programme-table/@@download/file/42_3_PhD%20Programme%20Table_ComputerScienceEngineering.pdf"
     }
   },
-  "notes": "",
+  "notes": "Qualifications and a multi-year research proposal, then an oral exam in English or Italian.",
   "name": "Computer Science and Engineering"
 }

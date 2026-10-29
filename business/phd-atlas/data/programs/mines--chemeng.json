@@ -3,41 +3,48 @@
   "university": "mines",
   "field": "chemeng",
   "also_fields": [],
-  "department": "Chemical and Biological Engineering Department",
-  "program_page": "https://catalog.mines.edu/graduate/programs/chemicalandbiologicalengineering/",
-  "checked": "2026-10-26",
+  "department": "Chemical and Biological Engineering",
+  "program_page": "https://chemeng.mines.edu/graduate-program/",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "Mines' deadlines page gives a Fall international PhD date of March 1 but no year, so no Fall 2027 date is stated.",
-      "quote": "",
-      "url": "https://gradprograms.mines.edu/deadlines/"
+      "value": "No hard program closing deadline is published; the graduate school lists March 1 as the priority deadline for financial support consideration for international applicants.",
+      "quote": "The deadlines listed are considered priority deadlines for all programs. Applicants requesting financial support are strongly encouraged to submit applications by this date. | March 1",
+      "url": "https://gradprograms.mines.edu/deadlines/",
+      "time_sensitive": "2027-03-01"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department no longer requires the GRE for its MS or PhD applications.",
+      "quote": "GRE scores are no longer required for application of our MS and PhD programs.",
+      "url": "https://chemeng.mines.edu/graduate-program/"
     },
     "gre_subject": {
-      "code": "No subject test",
-      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
-      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
-      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+      "code": "Not required",
+      "value": "The department no longer requires the GRE for its PhD applications.",
+      "quote": "GRE scores are no longer required for application of our MS and PhD programs.",
+      "url": "https://chemeng.mines.edu/graduate-program/"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "No official text on this PhD says whether a supervisor must agree before admission.",
-      "quote": "",
-      "url": "https://catalog.mines.edu/graduate/programs/chemicalandbiologicalengineering/"
+      "code": "Not required",
+      "value": "No advisor is needed before starting; the chair of graduate affairs advises new doctoral students in their first semester.",
+      "quote": "No. All incoming doctoral and master’s students are advised by CBE’s chair of graduate affairs for their first semester in the program.",
+      "url": "https://chemeng.mines.edu/graduate-program/"
     },
     "funding": {
-      "code": "Not stated",
-      "value": "The page says assistantships are generally awarded, which does not show that most students are funded.",
-      "quote": "",
-      "url": "https://gradprograms.mines.edu/applicant-frequently-asked-questions/"
+      "code": "Guaranteed",
+      "value": "Students admitted to the PhD are fully supported with an assistantship, stipend and tuition, as long as they make satisfactory progress.",
+      "quote": "Students admitted to the Ph.D. in chemical engineering are fully supported through research and teaching assistantships that include a living stipend and fully paid tuition, fees, and health insurance for as long as they are making satisfactory progress towards their degree",
+      "url": "https://chemeng.mines.edu/graduate-program/"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "The catalog gives no entry-level rule for this PhD.",
-      "quote": "",
-      "url": "https://catalog.mines.edu/graduate/programs/chemicalandbiologicalengineering/"
+      "code": "Either",
+      "value": "Many PhD students are admitted straight from a bachelor's degree, but some hold post-bachelor's coursework or a degree.",
+      "quote": "but many are admitted to the program directly from their bachelor’s degree",
+      "url": "https://chemeng.mines.edu/graduate-program/"
     }
   },
-  "notes": "The PhD consists of a minimum of 30 credits of coursework, a qualifying exam and a proposal defense.",
+  "notes": "The department admits PhD students mainly for Fall. Admission is by committee; the advisor is assigned after the first semester.",
   "name": "Chemical Engineering (PhD)"
 }

@@ -2,30 +2,16 @@
   "id": "paris-saclay--biomed",
   "university": "paris-saclay",
   "field": "biomed",
-  "also_fields": [
-    "neuro"
-  ],
-  "department": "Doctoral School Signaling and Integrated Networks in Biology (BIOSIGNE, ED 568)",
-  "program_page": "https://www.universite-paris-saclay.fr/en/doctoral-schools/signaling-and-integrated-networks-biology",
+  "also_fields": [],
+  "department": "Doctoral School Oncology: Biology, Medicine, Health (CBMS 582)",
+  "program_page": "https://www.universite-paris-saclay.fr/en/doctoral-schools/doctoral-school-oncology-biology-medicine-health-cbms-582",
   "checked": "2026-10-22",
   "fields": {
-    "funding": {
-      "code": "Competitive",
-      "value": "Research allowances are awarded by an annual competition open to all candidates.",
-      "quote": "the annual competition for allocations is open to all candidates, irrespective of the origin of their Master's degree or equivalent",
-      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/signaling-and-integrated-networks-biology"
-    },
-    "entry_route": {
-      "code": "Either",
-      "value": "Candidates need research ability shown by Master 2 results or by professional experience.",
-      "quote": "A candidate with research abilities, attested by his Master 2 results or by a professional experience",
-      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/signaling-and-integrated-networks-biology"
-    },
     "deadline": {
       "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
-      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/signaling-and-integrated-networks-biology"
+      "value": "The 2026 supervisor project deadline was February 27, 2026; 2027 dates are not published.",
+      "quote": "February 27, 2026: Deadline for supervisors to submit projects on ADUM",
+      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/doctoral-school-oncology-biology-medicine-health-cbms-582"
     },
     "gre_subject": {
       "code": "No subject test",
@@ -34,11 +20,29 @@
       "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
-      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/signaling-and-integrated-networks-biology"
+      "code": "Required",
+      "value": "Candidates apply to projects posted by supervisors, and the supervisor chooses and validates the application.",
+      "quote": "The supervisor chooses a student from among the applications for his project and validates this application on ADUM",
+      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/doctoral-school-oncology-biology-medicine-health-cbms-582"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Most applicants compete for the school's contract, though candidates with their own funding can also apply.",
+      "quote": "You are applying for the ED Contract GS LSaH Program",
+      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/doctoral-school-oncology-biology-medicine-health-cbms-582",
+      "also": [
+        {
+          "quote": "If you already have funding, several interview sessions are organized",
+          "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/doctoral-school-oncology-biology-medicine-health-cbms-582"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's or equivalent degree in a related discipline is required.",
+      "quote": "Applicants must hold a master's degree or equivalent degree in a discipline close to the thesis topic",
+      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/doctoral-school-oncology-biology-medicine-health-cbms-582"
     }
   },
-  "notes": "Covers neuroscience, endocrinology, reproduction and immunology. Application files can be written in English."
+  "notes": "Monothematic oncology school; the page is for the 2026 contract competition."
 }

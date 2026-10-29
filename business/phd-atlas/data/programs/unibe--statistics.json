@@ -3,14 +3,14 @@
   "university": "unibe",
   "field": "statistics",
   "also_fields": [],
-  "department": "Department of Mathematics and Statistics (Institute of Mathematical Statistics and Actuarial Science)",
+  "department": "Institute of Mathematical Statistics and Actuarial Science (Faculty of Science)",
   "program_page": "https://www.philnat.unibe.ch/studies/study_programs/phd_in_statistics/index_eng.html",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
-      "code": "Not stated",
-      "value": "The statistics page links to the central deadline page, which gives a fall receipt date of 15 October with no year; that round closed for 2026 and no 2027 date is stated.",
-      "quote": "",
+      "code": "Rolling",
+      "value": "Doctoral applications at the University of Bern are accepted throughout the year once a thesis supervisor agrees (fall semester registration runs September 1 to October 15).",
+      "quote": "You can apply to do a doctorate throughout the year.",
       "url": "https://www.unibe.ch/studies/dates/phd_candidates/index_eng.html"
     },
     "gre_subject": {
@@ -21,22 +21,23 @@
     },
     "supervisor": {
       "code": "Required",
-      "value": "A confirmation of supervision must be filled in before admission.",
+      "value": "A confirmed supervisor at Bern must be in place before admission; the confirmation of supervision is filled in for every doctorate.",
       "quote": "Fill in the confirmation of supervision that applies to your doctorate.",
       "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html"
     },
     "funding": {
       "code": "Not stated",
-      "value": "The statistics page says funding is the supervisor's responsibility and gives no guaranteed or typical support.",
-      "quote": "Potential funding of a PhD project is the responsibility of the corresponding supervisor.",
+      "value": "Funding is the supervisor's responsibility; the page states no guaranteed funding.",
+      "quote": "Potential funding of a PhD project is the responsibility of the corresponding supervisor",
       "url": "https://www.philnat.unibe.ch/studies/study_programs/phd_in_statistics/index_eng.html"
     },
     "entry_route": {
       "code": "Master's usually required",
-      "value": "A master's or equivalent in Mathematics or Statistics with a good or excellent grade is required.",
-      "quote": "To be admitted to the PhD program, one needs a master's or equivalent degree in Mathematics or Statistics with good or excellent grade.",
+      "value": "A master's or equivalent degree in mathematics or statistics with good or excellent grades is needed.",
+      "quote": "To be admitted to the PhD program, one needs a master's or equivalent degree in Mathematics or Statistics with good or excellent grade",
       "url": "https://www.philnat.unibe.ch/studies/study_programs/phd_in_statistics/index_eng.html"
     }
   },
-  "notes": ""
+  "notes": "",
+  "name": "PhD Program in Statistics"
 }

@@ -5,14 +5,8 @@
   "also_fields": [],
   "department": "Department of Chemistry",
   "program_page": "https://catalog.uab.edu/graduate/collegeofartsciences/chemistry/",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
-    "deadline": {
-      "code": "Not stated",
-      "value": "The catalog gives entry each semester and a deadline six weeks before term starts, not a date.",
-      "quote": "Each semester | Six weeks before term begins",
-      "url": "https://catalog.uab.edu/graduate/collegeofartsciences/chemistry/"
-    },
     "gre_subject": {
       "code": "No subject test",
       "value": "No GRE Subject Test exists for this field: ETS discontinued the GRE Chemistry Test in May 2023.",
@@ -20,29 +14,35 @@
       "url": "https://www.ets.org/gre/test-takers/subject-tests/scores.html"
     },
     "gre_general": {
-      "code": "Required",
-      "value": "The Chemistry entrance table lists the GRE; the international TOEFL/TWE requirement is noted in the same line.",
-      "quote": "GRE (TOEFL and TWE also required for international applicants whose native language is not English.)",
+      "code": "Not stated",
+      "value": "The GRE table on the page sits under the M.S. program's application deadlines, not the PhD, so no PhD GRE rule is stated.",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/collegeofartsciences/chemistry/"
+    },
+    "deadline": {
+      "code": "Not stated",
+      "value": "Entry is each semester, with materials due six weeks before term begins; the catalog gives no date.",
+      "quote": "Six weeks before term begins",
       "url": "https://catalog.uab.edu/graduate/collegeofartsciences/chemistry/"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "The catalog page does not state a supervisor rule.",
-      "quote": "",
+      "code": "Not required",
+      "value": "Students meet prospective mentors in their first year and choose one by the end of that year, so admission does not depend on a named supervisor.",
+      "quote": "The process of selecting the graduate research mentor must be completed by the end of the student's first year.",
       "url": "https://catalog.uab.edu/graduate/collegeofartsciences/chemistry/"
     },
     "funding": {
       "code": "Not stated",
-      "value": "The catalog page does not state a funding rule.",
+      "value": "The chemistry page does not describe PhD funding.",
       "quote": "",
       "url": "https://catalog.uab.edu/graduate/collegeofartsciences/chemistry/"
     },
     "entry_route": {
       "code": "Not stated",
-      "value": "The catalog page does not state the entry degree.",
+      "value": "The page does not say whether a master's is needed before the PhD.",
       "quote": "",
       "url": "https://catalog.uab.edu/graduate/collegeofartsciences/chemistry/"
     }
   },
-  "notes": "Department page on uab.edu could not be fetched; values are from the catalog program entry (M.S. and Ph.D.)."
+  "notes": "Chemistry M.S. and Ph.D. on the same catalog page. The only application table sits in the M.S. section, so it is not used for the PhD. Rotations in the first year are described on the page."
 }

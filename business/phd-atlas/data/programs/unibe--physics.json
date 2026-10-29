@@ -7,12 +7,12 @@
   ],
   "department": "Physics and Astronomy (Faculty of Science)",
   "program_page": "https://www.philnat.unibe.ch/studium/studienprogramme/doktoratsprogramm_physik/index_ger.html",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
-      "code": "Not stated",
-      "value": "The physics page sends applicants to the central deadline page, which gives a fall receipt date of 15 October with no year; that round closed for 2026 and no 2027 date is stated.",
-      "quote": "",
+      "code": "Rolling",
+      "value": "Doctoral applications at the University of Bern are accepted throughout the year once a thesis supervisor agrees (fall semester registration runs September 1 to October 15).",
+      "quote": "You can apply to do a doctorate throughout the year.",
       "url": "https://www.unibe.ch/studies/dates/phd_candidates/index_eng.html"
     },
     "gre_subject": {
@@ -46,5 +46,5 @@
       "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html"
     }
   },
-  "notes": "Astronomy is listed as also_fields because the physics doctorate page says supervisors come from the Physics and Astronomy institutes (quoted under supervisor). The page is German; quotes are verbatim German. The Studienplan PDF is not used."
+  "notes": "Astronomy is listed as also_fields because the physics doctorate page says supervisors come from the Physics and Astronomy institutes (quoted under supervisor). The page is German; quotes are verbatim German. The Studienplan PDF is not used. Re-checked 2026-10-29: the physics page sends applicants to the central dates page and states no English or IELTS rule, so ielts_min stays with the university record."
 }

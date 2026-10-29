@@ -3,13 +3,13 @@
   "university": "mst",
   "field": "chemeng",
   "also_fields": [],
-  "department": "Linda and Bipin Doshi Department of Chemical and Biochemical Engineering",
+  "department": "Chemical and Biochemical Engineering",
   "program_page": "https://catalog.mst.edu/graduate/graduatedegreeprograms/chemicalandbiochemicalengineering/",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "2027-02-15",
-      "value": "Doctoral applications for fall entry should reach admissions by February 15; the catalog says applications are reviewed on a rolling basis.",
+      "value": "Doctoral applications for Fall entry are due February 15, and the catalog says they are reviewed on a rolling basis.",
       "quote": "Doctoral Fall semester: February 15",
       "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/",
       "inferred": "year",
@@ -20,6 +20,12 @@
         }
       ]
     },
+    "entry_route": {
+      "code": "Either",
+      "value": "The graduate school sets 72 hours for a PhD after a bachelor's and 42 after a master's, so both routes are open.",
+      "quote": "Students who do not hold a master’s degree will be required to complete a minimum of seventy-two hours of graduate credit",
+      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/doctoratedegrees/"
+    },
     "gre_subject": {
       "code": "No subject test",
       "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
@@ -28,22 +34,16 @@
     },
     "supervisor": {
       "code": "Not stated",
-      "value": "Each doctoral student gets an academic advisor after admission; the catalog does not say a supervisor must agree before admission.",
-      "quote": "All students pursuing a doctoral degree will have an academic advisor (and co-advisor, if applicable) who must be a member of the Missouri S&T graduate faculty.",
-      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/doctoratedegrees/"
-    },
-    "funding": {
-      "code": "Not stated",
-      "value": "The catalog gives no funding statement for the PhD.",
+      "value": "The catalog does not say a supervisor must agree before admission.",
       "quote": "",
       "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/chemicalandbiochemicalengineering/"
     },
-    "entry_route": {
-      "code": "Either",
-      "value": "A PhD may be pursued directly after the bachelor's or after a master's.",
-      "quote": "a Ph.D. may be pursued without an M.S. degree",
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog states no funding policy.",
+      "quote": "",
       "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/chemicalandbiochemicalengineering/"
     }
   },
-  "notes": "Department PhD pages on the mst.edu subdomains could not be reached (TLS verification failure through the proxy); this record uses the graduate catalog only."
+  "notes": "The catalog page has no GRE or English rule."
 }

@@ -3,13 +3,13 @@
   "university": "mst",
   "field": "cs",
   "also_fields": [],
-  "department": "Department of Computer Science",
+  "department": "Computer Science",
   "program_page": "https://catalog.mst.edu/graduate/graduatedegreeprograms/computerscience/",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "2027-02-15",
-      "value": "Doctoral applications for fall entry should reach admissions by February 15; the catalog says applications are reviewed on a rolling basis.",
+      "value": "Doctoral applications for Fall entry are due February 15, and the catalog says they are reviewed on a rolling basis.",
       "quote": "Doctoral Fall semester: February 15",
       "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/",
       "inferred": "year",
@@ -22,8 +22,14 @@
     },
     "gre_general": {
       "code": "Required",
-      "value": "PhD applicants must submit GRE verbal, quantitative and analytical scores with their application.",
+      "value": "The PhD applicant must send GRE verbal, quantitative and analytical scores with a research-interests letter.",
       "quote": "Applicants must submit a letter outlining tentative research interests and career goals along with GRE verbal, quantitative, and analytical test scores",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/computerscience/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants without a graduate degree normally start in the master's, though outstanding applicants can enter the PhD directly.",
+      "quote": "Applicants who do not have a graduate degree will normally request admission to the M.S. program first but, outstanding applications will be admitted directly into the Ph.D. program",
       "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/computerscience/"
     },
     "gre_subject": {
@@ -34,22 +40,16 @@
     },
     "supervisor": {
       "code": "Not stated",
-      "value": "Each doctoral student gets an academic advisor after admission; the catalog does not say a supervisor must agree before admission.",
-      "quote": "All students pursuing a doctoral degree will have an academic advisor (and co-advisor, if applicable) who must be a member of the Missouri S&T graduate faculty.",
-      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/doctoratedegrees/"
-    },
-    "funding": {
-      "code": "Not stated",
-      "value": "The catalog says financial assistance is available but gives no funding rate.",
+      "value": "The catalog does not say a supervisor must agree before admission.",
       "quote": "",
       "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/computerscience/"
     },
-    "entry_route": {
-      "code": "Master's usually required",
-      "value": "Applicants without a graduate degree normally start in the M.S. program, though outstanding applicants can enter the PhD directly.",
-      "quote": "Applicants who do not have a graduate degree will normally request admission to the M.S. program first but, outstanding applications will be admitted directly into the Ph.D. program",
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog lists assistantships and fellowships but does not say most students are funded.",
+      "quote": "",
       "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/computerscience/"
     }
   },
-  "notes": "The catalog's M.S. TOEFL figure (570/230/89) is for the M.S. only, so the PhD uses the university TOEFL. Department PhD pages on the mst.edu subdomains could not be reached (TLS verification failure through the proxy); this record uses the graduate catalog only."
+  "notes": "The MS minimums (GRE 370/144 verbal, 700/155 quantitative, TOEFL 570/230/89) are listed under the MS only and are not applied here."
 }

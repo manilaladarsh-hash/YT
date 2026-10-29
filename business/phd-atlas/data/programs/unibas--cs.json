@@ -4,14 +4,14 @@
   "field": "cs",
   "also_fields": [],
   "department": "Department of Mathematics and Computer Science",
-  "program_page": "https://dmi.unibas.ch/en/studies/computer-science/",
-  "checked": "2026-10-26",
+  "program_page": "https://www.unibas.ch/dam/jcr:a3ad0751-af08-4c4a-942b-9f686cdc7e48/Doctoral_Studies_at_the_Faculties_FS27.289227038ce2f687daa49678b39ca819.pdf",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
-      "code": "Not stated",
-      "value": "No computer science PhD deadline is published on the department pages checked.",
-      "quote": "",
-      "url": "https://dmi.unibas.ch/en/studies/computer-science/"
+      "code": "2027-07-31",
+      "value": "Doctoral sign-up for Fall Semester 2027 closes 31 July 2027 under the university's doctoral deadline table, which applies to every doctoral subject.",
+      "quote": "Doctoral Studies Semester Fall Semester 2027 Sign up until 31 Jul 2027",
+      "url": "https://www.unibas.ch/en/Studies/Before-My-Studies/Dates-Events/Deadlines/Application.html"
     },
     "gre_subject": {
       "code": "No subject test",
@@ -20,30 +20,24 @@
       "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "The department pages checked do not describe supervisor rules.",
-      "quote": "",
-      "url": "https://dmi.unibas.ch/en/studies/computer-science/"
+      "code": "Required",
+      "value": "Registration needs a confirmation of supervision from a Faculty of Science Group I professor who is your first or second supervisor.",
+      "quote": "The confirmation of supervision required to register for doctoral studies must be provided by a Group I member of the Faculty of Science",
+      "url": "https://philnat.unibas.ch/fileadmin/user_upload/philnat/3_Forschung/Doctoral_studies_-_Guidelines_Version_06.2023_english_neu.pdf"
     },
     "funding": {
       "code": "Not stated",
-      "value": "The department pages checked do not describe funding.",
+      "value": "No funding rule for computer science doctoral students appears on the pages checked.",
       "quote": "",
-      "url": "https://dmi.unibas.ch/en/studies/computer-science/"
+      "url": "https://www.unibas.ch/dam/jcr:a3ad0751-af08-4c4a-942b-9f686cdc7e48/Doctoral_Studies_at_the_Faculties_FS27.289227038ce2f687daa49678b39ca819.pdf"
     },
     "entry_route": {
       "code": "Master's usually required",
-      "value": "Applicants need a master's degree qualifying them for the chosen subject; other degrees are judged for equivalence.",
-      "quote": "Candidates seeking admission to the listed subjects must hold a master’s degree",
-      "url": "https://www.unibas.ch/dam/jcr:a3ad0751-af08-4c4a-942b-9f686cdc7e48/Doctoral_Studies_at_the_Faculties_FS27.289227038ce2f687daa49678b39ca819.pdf",
-      "also": [
-        {
-          "quote": "Other degrees from a higher education institution recognized by the University of Basel or from a different faculty of the University of Basel may be classified as entirely, partially or not equivalent by the doctoral board",
-          "url": "https://www.unibas.ch/dam/jcr:a3ad0751-af08-4c4a-942b-9f686cdc7e48/Doctoral_Studies_at_the_Faculties_FS27.289227038ce2f687daa49678b39ca819.pdf"
-        }
-      ]
+      "value": "Admission needs a master's degree from the Faculty of Science that qualifies you for the subject.",
+      "quote": "must hold a master’s degree from the Faculty of ... qualifying them for their chosen subject of doctoral study",
+      "url": "https://www.unibas.ch/dam/jcr:a3ad0751-af08-4c4a-942b-9f686cdc7e48/Doctoral_Studies_at_the_Faculties_FS27.289227038ce2f687daa49678b39ca819.pdf"
     }
   },
-  "notes": "No computer science PhD page on the department site; the entry rule comes from the Faculty of Science section of the faculty information sheet.",
+  "notes": "No computer science department PhD page was found; the program record uses the Faculty of Science rules and the university deadline table.",
   "name": "PhD in Computer Science"
 }

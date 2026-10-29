@@ -4,44 +4,50 @@
   "country": "Germany",
   "region": "Baden-Württemberg",
   "grad_page": "https://www.mpi-hd.mpg.de/imprs-qd/application/",
-  "checked": "2026-10-24",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
       "code": "Not stated",
-      "value": "The school's application pages state no application fee.",
+      "value": "Neither the IMPRS-QD application page nor the HGSFP portal/FAQ states an application fee (admitted doctoral students are exempt from university student/tuition fees, paying only a small semester administration fee upon registration).",
       "quote": "",
-      "url": "https://www.mpi-hd.mpg.de/imprs-qd/application/"
+      "url": "https://www.mpi-hd.mpg.de/imprs-qd/application/",
+      "also": [
+        {
+          "quote": "Do I have to pay fees when I register at the university? | No, doctoral students are exempt from student fees, but you do have to pay a small administration fee when registering.",
+          "url": "https://hgsfp.physik.uni-heidelberg.de/howtoapply/faqs"
+        }
+      ]
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "The school's application pages say nothing about fee waivers.",
+      "value": "No application fee or fee waiver rule is stated on the IMPRS-QD or HGSFP pages.",
       "quote": "",
       "url": "https://www.mpi-hd.mpg.de/imprs-qd/application/"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "The school's application pages do not mention the GRE.",
+      "value": "Neither the IMPRS-QD application page nor the HGSFP admission requirements mention the GRE.",
       "quote": "",
       "url": "https://www.mpi-hd.mpg.de/imprs-qd/application/"
     },
     "toefl_min": {
       "code": "Not stated",
-      "value": "Proof of English proficiency is required, but no TOEFL minimum is stated.",
-      "quote": "",
+      "value": "Proof of proficiency in English is required if mother tongue is not English or German, but no TOEFL minimum score is stated.",
+      "quote": "Proof of proficiency in English (if mother tongue is not English or German)",
       "url": "https://www.mpi-hd.mpg.de/imprs-qd/application/"
     },
     "ielts_min": {
       "code": "Not stated",
-      "value": "Proof of English proficiency is required, but no IELTS minimum is stated.",
-      "quote": "",
+      "value": "Proof of proficiency in English is required if mother tongue is not English or German, but no IELTS minimum score is stated.",
+      "quote": "Proof of proficiency in English (if mother tongue is not English or German)",
       "url": "https://www.mpi-hd.mpg.de/imprs-qd/application/"
     },
     "english_waiver": {
       "code": "Not stated",
-      "value": "Proof of English is required unless your mother tongue is English or German; the page does not say whether an English-medium degree from India counts.",
+      "value": "Proof of proficiency in English is required unless your mother tongue is English or German; the pages do not state whether an English-medium degree from India qualifies.",
       "quote": "Proof of proficiency in English (if mother tongue is not English or German)",
       "url": "https://www.mpi-hd.mpg.de/imprs-qd/application/"
     }
   },
-  "notes": "The application and offers pages are short and state no fee, GRE, TOEFL or IELTS figures."
+  "notes": "IMPRS-QD applications are submitted online via the Heidelberg Graduate School for Physics (HGSFP) portal. Checked IMPRS-QD application/offers pages, HGSFP admission requirements, FAQs, and 2024 doctoral studies brochure PDF; no application fee, GRE, TOEFL/IELTS cutoffs, or India MOI waiver rules are stated."
 }

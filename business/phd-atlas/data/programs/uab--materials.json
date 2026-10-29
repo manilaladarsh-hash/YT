@@ -3,13 +3,13 @@
   "university": "uab",
   "field": "materials",
   "also_fields": [],
-  "department": "Department of Materials Science and Engineering",
+  "department": "Materials Science and Engineering (tri-campus Materials Science PhD)",
   "program_page": "https://catalog.uab.edu/graduate/schoolofengineering/materialsscienceandengineering/phd/",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "The catalog page gives no deadline; it points to a uab.edu page that could not be fetched.",
+      "value": "The page gives no PhD deadline.",
       "quote": "",
       "url": "https://catalog.uab.edu/graduate/schoolofengineering/materialsscienceandengineering/phd/"
     },
@@ -21,29 +21,29 @@
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "The catalog page does not state a GRE rule.",
+      "value": "The page does not mention a GRE requirement.",
       "quote": "",
       "url": "https://catalog.uab.edu/graduate/schoolofengineering/materialsscienceandengineering/phd/"
     },
     "supervisor": {
       "code": "Not stated",
-      "value": "The catalog page does not state a supervisor rule.",
+      "value": "The page does not say whether a supervisor must agree before admission.",
       "quote": "",
       "url": "https://catalog.uab.edu/graduate/schoolofengineering/materialsscienceandengineering/phd/"
     },
     "funding": {
       "code": "Not stated",
-      "value": "The catalog page does not state a funding rule.",
+      "value": "The page does not describe PhD funding.",
       "quote": "",
       "url": "https://catalog.uab.edu/graduate/schoolofengineering/materialsscienceandengineering/phd/"
     },
     "entry_route": {
       "code": "Direct from bachelor's",
-      "value": "Admission requires a baccalaureate degree in materials, metallurgical, or ceramics engineering or a similarly named program.",
-      "quote": "A baccalaureate degree in materials, metallurgical, or ceramics engineering or in a similarly named engineering program",
+      "value": "Bachelor's holders in materials or a similar engineering field are admitted; students with a BS also earn a Plan II master's during the PhD, which is not required for admission.",
+      "quote": "A baccalaureate degree in materials, metallurgical, or ceramics engineering or in a similarly named engineering program.",
       "url": "https://catalog.uab.edu/graduate/schoolofengineering/materialsscienceandengineering/phd/"
     }
   },
-  "notes": "Tri-campus PhD with the University of Alabama and UAH. The catalog's degree list also names a separate PhD in Materials Engineering from the same department, but its admission rules are not on the fetched catalog page.",
-  "name": "PhD in Materials Science (tri-campus)"
+  "notes": "This is the tri-campus Materials Science PhD (UAB, UA and UAH). The Materials Engineering PhD offered by the department is separate and its admission rules were not on the fetched pages.",
+  "name": "Tri-campus Materials Science PhD"
 }

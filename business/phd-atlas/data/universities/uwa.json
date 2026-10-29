@@ -4,50 +4,44 @@
   "country": "Australia",
   "region": "Western Australia",
   "grad_page": "https://www.uwa.edu.au/study/How-to-apply/Higher-Degree-by-Research",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
       "code": "0 (no fee)",
-      "value": "There is no application fee for research degree applications; they can be submitted at any time.",
-      "quote": "Applications may be submitted at any time and there is no application fee.",
-      "url": "https://researchdegrees.uwa.edu.au/"
+      "value": "There is no application fee for research degrees; submitting an application costs nothing.",
+      "quote": "There is no cost involved in submitting an application.",
+      "url": "https://www.uwa.edu.au/study/How-to-apply/Higher-Degree-by-Research"
     },
     "fee_waiver": {
-      "code": "Limited",
-      "value": "International PhD students pay tuition unless they hold a scholarship; the 2027 international scholarship round is closed.",
-      "quote": "International students must pay tuition fees ... unless sponsored or awarded a scholarship.",
-      "url": "https://uwa.edu.au/study/-/media/uwafs/docs/international/international-hdr-flyer-web.pdf",
-      "also": [
-        {
-          "quote": "2027 International Scholarship Round - Closed",
-          "url": "https://www.uwa.edu.au/study/scholarships-and-fees/scholarships/hdr-scholarships"
-        }
-      ]
+      "code": "No fee",
+      "value": "No application fee applies, so there is no fee to waive.",
+      "quote": "There is no cost involved in submitting an application.",
+      "url": "https://www.uwa.edu.au/study/How-to-apply/Higher-Degree-by-Research"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "No GRE requirement appears on the UWA research admission pages fetched.",
+      "value": "The UWA research degree pages fetched do not mention the GRE, so no GRE rule is stated.",
       "quote": "",
       "url": "https://www.uwa.edu.au/study/How-to-apply/Higher-Degree-by-Research"
     },
     "toefl_min": {
       "code": "Not stated",
-      "value": "The Graduate Research School sets research English rules; the page for them could not be fetched (uwa.edu.au/study/PG-lang-req returns 404), so no score is stated for PhD applicants. The coursework table (82 iBT) is not used because it is for coursework degrees.",
-      "quote": "",
+      "value": "The Graduate Research School sets the English standard for research students, and the score is not published on the pages fetched.",
+      "quote": "All applicants for a Higher Degree by Research course, including Australian applicants, must satisfy the requirements for English language competence set by the Graduate Research School.",
       "url": "https://www.uwa.edu.au/study/how-to-apply/pathways-and-eligibility/english-language-requirements"
     },
     "ielts_min": {
       "code": "Not stated",
-      "value": "The Graduate Research School sets research English rules; the page for them could not be fetched (uwa.edu.au/study/PG-lang-req returns 404), so no score is stated for PhD applicants. The coursework table (6.5 IELTS) is not used because it is for coursework degrees.",
-      "quote": "",
+      "value": "The Graduate Research School sets the English standard for research students, and the score is not published on the pages fetched.",
+      "quote": "All applicants for a Higher Degree by Research course, including Australian applicants, must satisfy the requirements for English language competence set by the Graduate Research School.",
       "url": "https://www.uwa.edu.au/study/how-to-apply/pathways-and-eligibility/english-language-requirements"
     },
     "english_waiver": {
       "code": "Not stated",
-      "value": "The English page says research applicants must meet Graduate Research School rules, which were not reachable; the coursework country list does not include India.",
+      "value": "The Graduate Research School sets English rules for research students, and the pages fetched do not say whether a degree taught in English in India is accepted. The exempt-country list on the English page is for coursework degrees and does not name India.",
       "quote": "All applicants for a Higher Degree by Research course, including Australian applicants, must satisfy the requirements for English language competence set by the Graduate Research School.",
       "url": "https://www.uwa.edu.au/study/how-to-apply/pathways-and-eligibility/english-language-requirements"
     }
   },
-  "notes": "Official doctoral list (researchdegrees.uwa.edu.au/courses) has one PhD, Doctor of Philosophy (code 895qq), used for all fields; fields are separated by school and project listings. Application fee: the Research Degrees portal says there is no application fee. Fee waiver: the international HDR flyer (dated August 2024) says international students pay tuition unless sponsored or scholarship-funded. Deadlines: the 2027 international scholarship round closed on 15 September 2026; the next international round is expected in August 2027. The 2027 domestic round (close 31 October 2026) is for domestic students and UWA international graduates only. English: the Graduate Research School rules for research degrees were not reachable (PG-lang-req page returns 404; askUWA a_id=3326 returns 401); the coursework English tables are not used for PhD values. The 'Degree studies taught and examined in English' list names Canada, Ireland, New Zealand, the UK and the USA, not India, but it is for coursework degrees. Blocked or unreachable: uwa.edu.au/study/PG-lang-req (404), askUWA a_id=3326 (401)."
+  "notes": "Research degrees use one PhD (Doctor of Philosophy) for all disciplines. The English page says higher HDR English scores apply in some schools only (Law, Graduate School of Education, Dental clinical projects, Business), none of them STEM. Scholarship rounds are in the scholarships section and are not fee rules. The 2027 international round closed 15 September 2026."
 }

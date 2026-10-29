@@ -3,15 +3,15 @@
   "university": "tudresden",
   "field": "biology",
   "also_fields": [],
-  "department": "Faculty of Biology (School of Science)",
-  "program_page": "https://tu-dresden.de/mn/biologie/postgraduales/promotion?set_language=en",
-  "checked": "2026-10-26",
+  "department": "Faculty of Biology",
+  "program_page": "https://tu-dresden.de/mn/biologie/studium/postgraduales",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "The biology page gives no closing date for admission.",
+      "value": "No closing date for admission is stated on the page checked.",
       "quote": "",
-      "url": "https://tu-dresden.de/mn/biologie/postgraduales/promotion?set_language=en"
+      "url": "https://tu-dresden.de/mn/biologie/studium/postgraduales"
     },
     "gre_subject": {
       "code": "No subject test",
@@ -23,19 +23,13 @@
       "code": "Required",
       "value": "A supervision agreement with your professor must be signed first, and a copy goes with the admission application.",
       "quote": "you are obliged to sign a supervision agreement",
-      "url": "https://tu-dresden.de/mn/biologie/postgraduales/promotion?set_language=en",
-      "also": [
-        {
-          "quote": "copy of the supervision agreement",
-          "url": "https://tu-dresden.de/mn/biologie/postgraduales/promotion?set_language=en"
-        }
-      ]
+      "url": "https://tu-dresden.de/mn/postgraduales/promotion?set_language=en"
     },
     "funding": {
       "code": "Not stated",
-      "value": "The pages checked do not state how many doctoral candidates are funded.",
+      "value": "No funding statement is stated on the page checked.",
       "quote": "",
-      "url": "https://tu-dresden.de/mn/biologie/postgraduales/promotion?set_language=en"
+      "url": "https://tu-dresden.de/mn/biologie/studium/postgraduales"
     },
     "entry_route": {
       "code": "Master's usually required",
@@ -50,5 +44,5 @@
       ]
     }
   },
-  "notes": "The biology page repeats the School of Science rules and says the admission application is made in Promovendus, with a valid ZIH login."
+  "notes": "The faculty page refers admission details to the School of Science page (Bereich Mathematik und Naturwissenschaften), where the regulations apply."
 }

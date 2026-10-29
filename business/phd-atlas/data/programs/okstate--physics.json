@@ -1,0 +1,48 @@
+{
+  "id": "okstate--physics",
+  "university": "okstate",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://catalog.okstate.edu/graduate-college/doctoral/physics-phd/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No application deadline appears on any official page we could read.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/graduate-college/doctoral/physics-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The catalog and department graduate page do not state a Physics GRE rule.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/graduate-college/doctoral/physics-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule appears on any official page we could read.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/graduate-college/doctoral/physics-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding rule appears on any official page we could read.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/graduate-college/doctoral/physics-phd/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The PhD is 72 hours beyond the bachelor's degree, or 60 hours beyond a master's degree.",
+      "quote": "Total Hours: 72 (Beyond the Bachelor's Degree)",
+      "url": "https://catalog.okstate.edu/graduate-college/doctoral/physics-phd/",
+      "also": [
+        {
+          "quote": "Total Hours: 60 (Beyond the Master's Degree)",
+          "url": "https://catalog.okstate.edu/graduate-college/doctoral/physics-phd/"
+        }
+      ]
+    }
+  },
+  "notes": "Department admissions and deadline pages on the OSU domain returned 403 or 502, so only the university catalog was read. The department graduate page (cas.okstate.edu/physics/graduate_studies) gives the 72 hours beyond the B.S. but no admission rules."
+}

@@ -3,41 +3,46 @@
   "university": "southdakotastate",
   "field": "biomed",
   "also_fields": [],
-  "department": "Department of Chemistry, Biochemistry and Physics",
-  "program_page": "https://www.sdstate.edu/programs/graduate/biochemistry-phd",
-  "checked": "2026-10-28",
+  "department": "Department of Pharmaceutical Sciences",
+  "program_page": "https://www.sdstate.edu/programs/graduate/pharmaceutical-sciences-phd",
+  "checked": "2026-10-29",
   "fields": {
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE is not required.",
+      "quote": "GRE: Not Required",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15300"
+    },
     "deadline": {
       "code": "Not stated",
-      "value": "No Ph.D. application deadline is stated on the pages checked.",
-      "quote": "",
-      "url": "https://www.sdstate.edu/programs/graduate/biochemistry-phd"
-    },
-    "gre_subject": {
-      "code": "No subject test",
-      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
-      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
-      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+      "value": "The department admits students in all three semesters, so no single deadline is stated.",
+      "quote": "The Department admits students in all three semesters",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15300"
     },
     "supervisor": {
       "code": "Not stated",
-      "value": "The pages checked do not say whether a supervisor's agreement is needed.",
-      "quote": "",
-      "url": "https://www.sdstate.edu/programs/graduate/biochemistry-phd"
+      "value": "Admission depends on research openings in faculty laboratories; the page does not say a faculty agreement is required.",
+      "quote": "contingent upon the availability of funds and research openings in faculty laboratories",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15300"
     },
     "funding": {
-      "code": "Typical",
-      "value": "Most graduate students in the department receive two years of teaching assistantship funding.",
-      "quote": "Most graduate students in the department are guaranteed six semesters (two years) of teaching assistantship",
-      "url": "https://www.sdstate.edu/chemistry-biochemistry-physics/graduate-program-overview-chemistry-biochemistry-physics"
+      "code": "Not stated",
+      "value": "Admission is contingent on the availability of funds; the page does not say most students are funded.",
+      "quote": "contingent upon the availability of funds and research openings in faculty laboratories",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15300"
     },
     "entry_route": {
       "code": "Either",
-      "value": "Applicants may hold an undergraduate or a master's degree in biochemistry, chemistry, biology and microbiology or related fields.",
-      "quote": "Have an undergraduate or master's degree in biochemistry, chemistry, biology and microbiology or related fields.",
-      "url": "https://www.sdstate.edu/programs/graduate/biochemistry-phd"
+      "value": "Applicants may hold an undergraduate or a professional degree in pharmacy, chemistry, biology or a related field.",
+      "quote": "Have an undergraduate or professional degree in pharmacy, chemistry, biology or a related field",
+      "url": "https://www.sdstate.edu/programs/graduate/pharmaceutical-sciences-phd"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "GRE is not required, so no subject test is needed.",
+      "quote": "GRE: Not Required",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15300"
     }
   },
-  "notes": "Biochemistry (Ph.D.) is filed under the biomed field because the field list has no biochemistry entry; a reviewer may prefer biology. Department funding statement covers all graduate students in the department.",
-  "name": "Biochemistry (Ph.D.)"
+  "notes": ""
 }

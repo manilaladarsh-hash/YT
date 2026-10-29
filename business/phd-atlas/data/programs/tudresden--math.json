@@ -3,39 +3,33 @@
   "university": "tudresden",
   "field": "math",
   "also_fields": [],
-  "department": "Faculty of Mathematics (School of Science)",
-  "program_page": "https://tu-dresden.de/mn/math/studium/postgraduales/promotion",
-  "checked": "2026-10-26",
+  "department": "Faculty of Mathematics (Bereich Mathematik und Naturwissenschaften)",
+  "program_page": "https://tu-dresden.de/mn/math/postgraduales/promotion",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "The mathematics page gives no closing date. Documents are submitted only after arranging a time with the Promotionsamt.",
+      "value": "No closing date for admission is stated on the page checked.",
       "quote": "",
-      "url": "https://tu-dresden.de/mn/math/studium/postgraduales/promotion"
+      "url": "https://tu-dresden.de/mn/math/postgraduales/promotion"
     },
     "gre_subject": {
       "code": "Not stated",
-      "value": "No GRE Subject test is mentioned.",
+      "value": "No GRE Subject test requirement is stated on the page checked.",
       "quote": "",
-      "url": "https://tu-dresden.de/mn/math/studium/postgraduales/promotion"
+      "url": "https://tu-dresden.de/mn/math/postgraduales/promotion"
     },
     "supervisor": {
       "code": "Required",
       "value": "A supervision agreement with your professor must be signed first, and a copy goes with the admission application.",
       "quote": "you are obliged to sign a supervision agreement",
-      "url": "https://tu-dresden.de/mn/postgraduales/promotion?set_language=en",
-      "also": [
-        {
-          "quote": "copy of the supervision agreement",
-          "url": "https://tu-dresden.de/mn/postgraduales/promotion?set_language=en"
-        }
-      ]
+      "url": "https://tu-dresden.de/mn/postgraduales/promotion?set_language=en"
     },
     "funding": {
       "code": "Not stated",
-      "value": "The pages checked do not state how many doctoral candidates are funded.",
+      "value": "No funding statement is stated on the page checked.",
       "quote": "",
-      "url": "https://tu-dresden.de/mn/math/studium/postgraduales/promotion"
+      "url": "https://tu-dresden.de/mn/math/postgraduales/promotion"
     },
     "entry_route": {
       "code": "Master's usually required",
@@ -50,5 +44,5 @@
       ]
     }
   },
-  "notes": "The mathematics page is in German and only covers the process; the admission rules are the School of Science rules."
+  "notes": "Doctoral admission follows the School of Science regulations (Bereich Mathematik und Naturwissenschaften). Applications go through Promovendus after prior appointment with the Doctoral Office."
 }

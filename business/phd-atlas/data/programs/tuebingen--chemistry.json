@@ -3,13 +3,13 @@
   "university": "tuebingen",
   "field": "chemistry",
   "also_fields": [],
-  "department": "Department of Chemistry (Faculty of Science doctoral subject)",
+  "department": "Department of Chemistry (Faculty of Science)",
   "program_page": "https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "No chemistry application deadline is stated on the pages checked.",
+      "value": "No chemistry application deadline is stated; the department's doctoral page could not be read.",
       "quote": "",
       "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/"
     },
@@ -21,28 +21,22 @@
     },
     "supervisor": {
       "code": "Required",
-      "value": "The application for acceptance must include a signed supervision agreement, so a supervisor must be agreed before admission.",
-      "quote": "Please be aware that incomplete applications cannot be processed | the filled out supervision agreement",
-      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/",
-      "also": [
-        {
-          "quote": "The first step is to find a supervisor at the University of Tuebingen",
-          "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/international-phd-candidates/"
-        }
-      ]
+      "value": "The acceptance application must include a signed supervision agreement, so supervisors are agreed before acceptance.",
+      "quote": "We need all required certificates and documents, the filled out supervision agreement, and the signatures of the docotral candidate and both supervisors",
+      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/"
     },
     "funding": {
-      "code": "Not stated",
-      "value": "No funding rule for chemistry doctoral candidates is stated on the pages checked.",
-      "quote": "",
-      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/"
+      "code": "Competitive",
+      "value": "Candidates must organise their own funding; positions or scholarships exist only in some programmes, so funding is competitive, not guaranteed.",
+      "quote": "Doctoral candidates are responsible for organizing their own funding. | Doctoral programs can offer positions or scholarships, but this does not apply to all programs.",
+      "url": "https://uni-tuebingen.de/en/research/support-for-junior-researchers/doctorates-at-the-university-of-tuebingen/"
     },
     "entry_route": {
       "code": "Not stated",
-      "value": "The chemistry pages do not state the entry degree for the doctorate.",
+      "value": "No entry degree is stated for chemistry doctoral applicants.",
       "quote": "",
       "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/"
     }
   },
-  "notes": "Chemistry is listed as a doctoral subject on the Faculty of Science page. The chemistry department pages redirect to a login page, so no department PhD rules were read: https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/chemistry/ ."
+  "notes": "The chemistry department root page redirects to a login page; its study page has no doctoral rules. Rules shown are the Faculty of Science rules."
 }

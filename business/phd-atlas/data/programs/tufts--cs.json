@@ -5,12 +5,12 @@
   "also_fields": [],
   "department": "Department of Computer Science",
   "program_page": "https://asegrad.tufts.edu/program/computer-science-doctorate",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "gre_general": {
       "code": "Required",
-      "value": "GRE is required unless you will already hold a degree from a US or Canadian institution by the time you enrol, so most applicants from India must sit it.",
-      "quote": "GRE General Test scores are not required for applicants who will have received a degree from an institution located in the U.S. or Canada by the time of enrollment.",
+      "value": "GRE General is required unless you will already hold a degree from a US or Canadian institution by the time you enrol, so most applicants from India must sit it.",
+      "quote": "GRE scores are required for all other applicants.",
       "url": "https://asegrad.tufts.edu/program/computer-science-doctorate",
       "also": [
         {
@@ -26,10 +26,11 @@
       "url": "https://engineering.tufts.edu/cs/prospective-students/phd"
     },
     "deadline": {
-      "code": "Not stated",
-      "value": "The official page prints a day and month without a year (for example 'Fall: December 1 (final)'), so no Fall 2027 date is stated.",
-      "quote": "",
-      "url": "https://asegrad.tufts.edu/program/computer-science-doctorate"
+      "code": "2026-12-15",
+      "value": "Fall 2027 PhD applications are due December 15, 2026; the official table prints no year.",
+      "quote": "Computer Science December 15 (final)",
+      "url": "https://asegrad.tufts.edu/applying/application-deadlines",
+      "inferred": "year"
     },
     "gre_subject": {
       "code": "No subject test",
@@ -39,9 +40,15 @@
     },
     "funding": {
       "code": "Not stated",
-      "value": "The official pages checked do not state that all or most admitted students are funded.",
+      "value": "The School of Engineering says full-time PhD students often receive a tuition scholarship; the page does not say that most are funded.",
       "quote": "",
-      "url": "https://asegrad.tufts.edu/program/computer-science-doctorate"
+      "url": "https://asegrad.tufts.edu/tuition-aid/school-engineering-soe",
+      "also": [
+        {
+          "quote": "Full-time PhD students within the School of Engineering often receive a tuition scholarship.",
+          "url": "https://asegrad.tufts.edu/tuition-aid/school-engineering-soe"
+        }
+      ]
     },
     "entry_route": {
       "code": "Not stated",
@@ -50,5 +57,5 @@
       "url": "https://asegrad.tufts.edu/program/computer-science-doctorate"
     }
   },
-  "notes": "The Human-Robot Interaction doctorate is a joint PhD with Mechanical and ECE; its own page is not used for field values here. The programme lists machine-learning research areas, but no separate data-science, AI or ML PhD exists, so no datasci record. Competitive TOEFL 100 / IELTS 7.5 are not minimums and are not used. The official deadline 'Fall: December 15 (final)' has no year, so deadline is Not stated."
+  "notes": "The Human-Robot Interaction doctorate is a joint PhD with Mechanical and ECE; its own page is not used for field values here. The programme lists machine-learning research areas, but no separate data-science, AI or ML PhD exists, so no datasci record. Competitive TOEFL 100 / IELTS 7.5 are not minimums and are not used."
 }

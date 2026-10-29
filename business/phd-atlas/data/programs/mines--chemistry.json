@@ -3,41 +3,48 @@
   "university": "mines",
   "field": "chemistry",
   "also_fields": [],
-  "department": "Department of Chemistry",
-  "program_page": "https://catalog.mines.edu/graduate/programs/chemistry/",
-  "checked": "2026-10-26",
+  "department": "Chemistry",
+  "program_page": "https://www.mines.edu/academics/graduate-academics/applied-chemistry-phd/",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "Mines' deadlines page gives a Fall international PhD date of March 1 but no year, so no Fall 2027 date is stated.",
-      "quote": "",
-      "url": "https://gradprograms.mines.edu/deadlines/"
+      "value": "No hard program closing deadline is published; the graduate school lists March 1 as the priority deadline for financial support consideration for international applicants.",
+      "quote": "The deadlines listed are considered priority deadlines for all programs. Applicants requesting financial support are strongly encouraged to submit applications by this date. | March 1",
+      "url": "https://gradprograms.mines.edu/deadlines/",
+      "time_sensitive": "2027-03-01"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Chemistry Department does not require the GRE for the Applied Chemistry PhD.",
+      "quote": "Currently, the Department does not require the Graduate Record Examination (GRE) to apply for the MS Chemistry and PhD Applied Chemistry programs.",
+      "url": "https://chemistry.mines.edu/graduate-program/"
     },
     "gre_subject": {
-      "code": "No subject test",
-      "value": "No GRE Subject Test exists for this field: ETS discontinued the GRE Chemistry Test in May 2023.",
-      "quote": "The GRE Chemistry Test was discontinued in May 2023.",
-      "url": "https://www.ets.org/gre/test-takers/subject-tests/scores.html"
+      "code": "Not required",
+      "value": "The Applied Chemistry PhD does not require a GRE, including the Chemistry subject test.",
+      "quote": "GRE: Not Required",
+      "url": "https://www.mines.edu/academics/graduate-academics/applied-chemistry-phd/"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "No official text on this PhD says whether a supervisor must agree before admission.",
-      "quote": "",
-      "url": "https://catalog.mines.edu/graduate/programs/chemistry/"
+      "code": "Recommended",
+      "value": "Applicants are encouraged to contact faculty directly about research group projects before applying.",
+      "quote": "You are also encouraged to contact any of our faculty directly to learn more about current opportunities for projects within specific research groups.",
+      "url": "https://chemistry.mines.edu/graduate-program/"
     },
     "funding": {
-      "code": "Not stated",
-      "value": "The page says assistantships are generally awarded, which does not show that most students are funded.",
-      "quote": "",
+      "code": "Typical",
+      "value": "Teaching and research assistantships are generally awarded to PhD applicants, according to the university FAQ; the department gives no separate figure.",
+      "quote": "Both Assistantships are generally awarded to Masters Thesis (MS-T) and Doctoral (PHD) level applicants.",
       "url": "https://gradprograms.mines.edu/applicant-frequently-asked-questions/"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "The catalog gives no entry-level rule for this PhD.",
-      "quote": "",
-      "url": "https://catalog.mines.edu/graduate/programs/chemistry/"
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is the requirement, and a master's is helpful but not required.",
+      "quote": "A master’s degree is helpful but not required.",
+      "url": "https://www.mines.edu/academics/graduate-academics/applied-chemistry-phd/"
     }
   },
-  "notes": "The PhD is in Applied Chemistry; the Chemistry MS is separate.",
+  "notes": "Department: deficiency courses may be needed for applicants without a chemistry bachelor's. TAs are generally offered by March 15 for the next year (department page). Geochemistry PhD is listed under earth.",
   "name": "Applied Chemistry (PhD)"
 }

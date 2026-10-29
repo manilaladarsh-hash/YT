@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Materials Science and Engineering (joint PhD)",
   "program_page": "https://asegrad.tufts.edu/program/materials-science-and-engineering-joint-phd-doctorate",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "entry_route": {
       "code": "Direct from bachelor's",
@@ -14,10 +14,17 @@
       "url": "https://asegrad.tufts.edu/program/materials-science-and-engineering-joint-phd-doctorate"
     },
     "deadline": {
-      "code": "Not stated",
-      "value": "The official page prints a day and month without a year (for example 'Fall: December 1 (final)'), so no Fall 2027 date is stated.",
-      "quote": "",
-      "url": "https://asegrad.tufts.edu/program/materials-science-and-engineering-joint-phd-doctorate"
+      "code": "2026-12-01",
+      "value": "Fall 2027 PhD applications are due December 1, 2026 for the Biomedical Engineering, Chemistry and Physics tracks, and December 15, 2026 for the other tracks; the table prints no year.",
+      "quote": "Materials Science and Engineering (Joint PhD) December 1 (Biomedical Engineering, Chemistry, Physics)",
+      "url": "https://asegrad.tufts.edu/applying/application-deadlines",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "December 15 (Chemical and Biological Engineering, Civil and Environmental Engineering, Electrical and Computer Engineering, Mechanical Engineering)",
+          "url": "https://asegrad.tufts.edu/applying/application-deadlines"
+        }
+      ]
     },
     "gre_subject": {
       "code": "No subject test",
@@ -33,10 +40,28 @@
     },
     "funding": {
       "code": "Not stated",
-      "value": "The official pages checked do not state that all or most admitted students are funded.",
+      "value": "The School of Engineering says full-time PhD students often receive a tuition scholarship; the page does not say that most are funded.",
       "quote": "",
-      "url": "https://asegrad.tufts.edu/program/materials-science-and-engineering-joint-phd-doctorate"
+      "url": "https://asegrad.tufts.edu/tuition-aid/school-engineering-soe",
+      "also": [
+        {
+          "quote": "Full-time PhD students within the School of Engineering often receive a tuition scholarship.",
+          "url": "https://asegrad.tufts.edu/tuition-aid/school-engineering-soe"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE is not required except on the Computer Science track, which requires it for applicants without a US or Canadian degree.",
+      "quote": "For applicants to all other tracks, GRE General Test scores are not required.",
+      "url": "https://asegrad.tufts.edu/program/materials-science-and-engineering-joint-phd-doctorate",
+      "also": [
+        {
+          "quote": "For applicants to the Computer Science track, GRE scores are required, unless the applicant will have received a degree from an institution located in the U.S. or Canada by time of enrollment.",
+          "url": "https://asegrad.tufts.edu/program/materials-science-and-engineering-joint-phd-doctorate"
+        }
+      ]
     }
   },
-  "notes": "This is a joint PhD run through the Chemistry, Physics, Biomedical Engineering, Chemical and Biological Engineering, Civil, ECE, Mechanical and Computer Science departments, each with its own track. GRE rules differ by track: the Computer Science track requires it unless the applicant has a US or Canadian degree, and the other tracks say it is not required. TOEFL 'recommend at least' and 'competitive' wording is not a minimum, so no toefl_min is saved. The official deadlines (Dec 1 / Dec 15) have no year, so deadline is Not stated."
+  "notes": "This is a joint PhD run through the Chemistry, Physics, Biomedical Engineering, Chemical and Biological Engineering, Civil, ECE, Mechanical and Computer Science departments, each with its own track. GRE rules differ by track (see gre_general). TOEFL 'recommend at least' and 'competitive' wording is not a minimum, so no toefl_min is saved."
 }

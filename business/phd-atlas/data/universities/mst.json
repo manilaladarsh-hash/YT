@@ -4,19 +4,19 @@
   "country": "USA",
   "region": "Missouri",
   "grad_page": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
       "code": "75 USD",
-      "value": "The non-refundable application fee is $75 for international applicants.",
-      "quote": "non-refundable application fee of $55 for U.S. citizens and permanent residents or $75 for international applicants",
-      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/"
+      "value": "The application fee is $75 for international graduate applicants.",
+      "quote": "$75 application fee for international graduate students.",
+      "url": "https://futurestudents.mst.edu/admissions/graduate/"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "The graduate catalog does not mention an application fee waiver.",
-      "quote": "",
-      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/"
+      "code": "Limited",
+      "value": "Fee waivers may be provided for attending official graduate admissions recruitment events.",
+      "quote": "Fee waivers may be provided for event attendance. Please review the Graduate Events website for upcoming events that will offer a fee waiver.",
+      "url": "https://futurestudents.mst.edu/admissions/graduate/"
     },
     "gre_general": {
       "code": "Not stated",
@@ -26,9 +26,16 @@
     },
     "toefl_min": {
       "code": "4.5 (new scale)",
-      "value": "The campus TOEFL minimum is 4.5; the catalog gives no older-scale figure.",
-      "quote": "The campus minimum for TOEFL scores is 4.5.",
-      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/"
+      "value": "Minimum TOEFL score is 4.5 on the new scale (80 on exams taken before January 1, 2026).",
+      "quote": "TOEFL: 4.5 (Test taken prior to January 1, 2026: 80)",
+      "url": "https://futurestudents.mst.edu/admissions/graduate/",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "The campus minimum for TOEFL scores is 4.5.",
+          "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/"
+        }
+      ]
     },
     "ielts_min": {
       "code": "6.5",
@@ -37,11 +44,11 @@
       "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "The catalog lists tests or the Pathway Program but no English-medium exemption; the exempt-country list is on a page I could not reach.",
-      "quote": "must demonstrate sufficient command of English to successfully pursue work at Missouri S&T by doing one of the following",
-      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/"
+      "code": "No",
+      "value": "English test waivers are limited to degrees earned from accredited institutions in the US, UK, Australia, New Zealand, or Canada (excluding Quebec); India is not exempt.",
+      "quote": "Applicants who have received a degree from a university in the United States, United Kingdom, Australia, New Zealand, or Canada (with exception of Quebec) will also be exempt from providing English test scores.",
+      "url": "https://futurestudents.mst.edu/admissions/graduate/"
     }
   },
-  "notes": "Blocked: futurestudents.mst.edu graduate admissions, doctoral applicant checklist and international freshmen FAQ pages (TLS failure). These hold the fee-waiver, English-exemption and GRE details, so those fields stay Not stated."
+  "notes": "Pearson PTE minimum 58 and Duolingo minimum 115 for campus are on the same catalog page. The ECE department page says the campus TOEFL score is 80 (iBT), which conflicts with the catalog's 4.5; the ECE record carries the department figure. Blocked: futurestudents.mst.edu (graduate, international and application-process pages) and grad.mst.edu return 502; the fee-waiver and English exempt-country rules are on those pages, so those fields stay Not stated. Department subdomains (physics, chem, cs, math, ece, psych) also return 502, so program records use catalog.mst.edu program pages."
 }

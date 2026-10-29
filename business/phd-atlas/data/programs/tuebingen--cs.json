@@ -3,15 +3,15 @@
   "university": "tuebingen",
   "field": "cs",
   "also_fields": [],
-  "department": "Department of Computer Science (Faculty of Science doctoral subject)",
-  "program_page": "https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/",
-  "checked": "2026-10-26",
+  "department": "Department of Computer Science; Institute for Bioinformatics and Medical Informatics (IBMI)",
+  "program_page": "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/interfaculty-facilities/ibmi/phd/doctoral-qualification-process/",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "No computer science application deadline is stated on the Faculty of Science page.",
-      "quote": "",
-      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/"
+      "value": "The IBMI page gives no deadline; it advises applying before or immediately after starting doctoral studies.",
+      "quote": "Applications for acceptance as a doctoral candidate should be submitted before or immediately after starting your doctoral studies",
+      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/interfaculty-facilities/ibmi/phd/doctoral-qualification-process/"
     },
     "gre_subject": {
       "code": "No subject test",
@@ -21,28 +21,29 @@
     },
     "supervisor": {
       "code": "Required",
-      "value": "The application for acceptance must include a signed supervision agreement, so a supervisor must be agreed before admission.",
-      "quote": "Please be aware that incomplete applications cannot be processed | the filled out supervision agreement",
+      "value": "The acceptance application must include a signed supervision agreement, so supervisors are agreed before acceptance.",
+      "quote": "We need all required certificates and documents, the filled out supervision agreement, and the signatures of the docotral candidate and both supervisors",
       "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/",
       "also": [
         {
-          "quote": "The first step is to find a supervisor at the University of Tuebingen",
-          "url": "https://uni-tuebingen.de/en/international/study-in-tuebingen/international-phd-candidates/"
+          "quote": "During the study phase, each doctoral candidate is assigned at least two academic supervisors",
+          "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/interfaculty-facilities/ibmi/phd/doctoral-qualification-process/"
         }
       ]
     },
     "funding": {
-      "code": "Not stated",
-      "value": "No funding rule for computer science doctoral candidates is stated on the pages checked.",
-      "quote": "",
-      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/"
+      "code": "Competitive",
+      "value": "Candidates must organise their own funding; positions or scholarships exist only in some programmes, so funding is competitive, not guaranteed.",
+      "quote": "Doctoral candidates are responsible for organizing their own funding. | Doctoral programs can offer positions or scholarships, but this does not apply to all programs.",
+      "url": "https://uni-tuebingen.de/en/research/support-for-junior-researchers/doctorates-at-the-university-of-tuebingen/"
     },
     "entry_route": {
       "code": "Not stated",
-      "value": "The Faculty of Science page does not state the entry degree for computer science.",
+      "value": "The IBMI page does not state the entry degree.",
       "quote": "",
-      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/doctoral-studies/"
+      "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/interfaculty-facilities/ibmi/phd/doctoral-qualification-process/"
     }
   },
-  "notes": "Computer science is listed as a doctoral subject on the Faculty of Science page. The department pages checked have no PhD rules. The Medical Informatics doctoral programme page returned 404."
+  "notes": "Covers the Computer Science doctoral subject. The IBMI page says PhDs in Bioinformatics and Medical Informatics belong to the Computer Science department, so those two subjects are covered here. The general Computer Science doctoral page was not found.",
+  "name": "Computer Science (PhD)"
 }

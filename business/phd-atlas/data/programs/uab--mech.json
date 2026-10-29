@@ -2,21 +2,16 @@
   "id": "uab--mech",
   "university": "uab",
   "field": "mech",
-  "also_fields": [
-    "bme",
-    "civil",
-    "ece",
-    "materials"
-  ],
-  "department": "School of Engineering",
-  "program_page": "https://catalog.uab.edu/graduate/schoolofengineering/interdisciplinaryengineering/",
-  "checked": "2026-10-26",
+  "also_fields": [],
+  "department": "Department of Mechanical and Materials Engineering",
+  "program_page": "https://catalog.uab.edu/graduate/schoolofengineering/mechanical/",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "2027-08-01",
-      "value": "Applications for Fall entry are due August 1, with all materials due seven days before term begins.",
-      "quote": "Deadline for Entry Term(s): Fall: August 1; Spring: December 1; Summer: May 1",
-      "url": "https://catalog.uab.edu/graduate/schoolofengineering/interdisciplinaryengineering/",
+      "value": "The PhD Fall-term application deadline is August 1; all application materials are due seven days before term begins.",
+      "quote": "Fall: August 1; Spring: December 1; Summer: May 1",
+      "url": "https://catalog.uab.edu/graduate/schoolofengineering/mechanical/",
       "inferred": "year"
     },
     "gre_subject": {
@@ -27,29 +22,29 @@
     },
     "gre_general": {
       "code": "Not required",
-      "value": "The program says the GRE is not required.",
+      "value": "The mechanical engineering PhD says the GRE is not required.",
       "quote": "GRE is not required",
-      "url": "https://catalog.uab.edu/graduate/schoolofengineering/interdisciplinaryengineering/"
+      "url": "https://catalog.uab.edu/graduate/schoolofengineering/mechanical/"
     },
     "supervisor": {
       "code": "Not stated",
-      "value": "The catalog page does not state a supervisor rule.",
+      "value": "The page does not say whether a supervisor must agree before admission.",
       "quote": "",
-      "url": "https://catalog.uab.edu/graduate/schoolofengineering/interdisciplinaryengineering/"
+      "url": "https://catalog.uab.edu/graduate/schoolofengineering/mechanical/"
     },
     "funding": {
       "code": "Not stated",
-      "value": "The catalog page does not state a funding rule.",
+      "value": "The page does not describe PhD funding.",
       "quote": "",
-      "url": "https://catalog.uab.edu/graduate/schoolofengineering/interdisciplinaryengineering/"
+      "url": "https://catalog.uab.edu/graduate/schoolofengineering/mechanical/"
     },
     "entry_route": {
       "code": "Either",
-      "value": "Admission requires an undergraduate or graduate degree in engineering.",
-      "quote": "Undergraduate or graduate degree in Engineering",
-      "url": "https://catalog.uab.edu/graduate/schoolofengineering/interdisciplinaryengineering/"
+      "value": "Applicants need an undergraduate or graduate degree in mechanical engineering or a related engineering field from an ABET-accredited program.",
+      "quote": "Undergraduate or graduate degree in Mechanical Engineering or related engineering field from an ABET (or equivalent) accredited program.",
+      "url": "https://catalog.uab.edu/graduate/schoolofengineering/mechanical/"
     }
   },
-  "notes": "Umbrella PhD drawing on Biomedical Engineering, Civil, Construction and Environmental Engineering, Electrical and Computer Engineering, and Mechanical and Materials Engineering. Saved under mech because UAB has no standalone mechanical PhD. The deadline year is inferred from the Fall 2027 cycle.",
-  "name": "Interdisciplinary Engineering (PhD)"
+  "notes": "The Interdisciplinary Engineering PhD (school of engineering) draws on BME, CCEE, ECE and Mechanical and Materials Engineering, and has its own page: catalog.uab.edu/graduate/schoolofengineering/interdisciplinaryengineering/. It is not saved as a separate record because the record id is one per field.",
+  "name": "PhD in Mechanical Engineering"
 }

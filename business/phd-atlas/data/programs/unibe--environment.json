@@ -5,19 +5,19 @@
   "also_fields": [],
   "department": "Graduate School of Climate Sciences",
   "program_page": "https://www.climatestudies.unibe.ch/admission/phd/index_eng.html",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
-    "app_fee": {
-      "code": "Not stated",
-      "value": "The graduate school says registration and application fees apply but gives no amount on its page.",
-      "quote": "registration and application fees apply",
-      "url": "https://www.climatestudies.unibe.ch/admission/phd/index_eng.html"
-    },
     "deadline": {
       "code": "Rolling",
-      "value": "A PhD can be started at any time, so entry is rolling rather than tied to a single fall receipt date.",
+      "value": "A PhD in Climate Sciences can be started at any time of the year once supervision and funding are arranged (central fall semester matriculation runs through October 15).",
       "quote": "A PhD can be started any time and takes 3 to 4 years full time work.",
-      "url": "https://www.climatestudies.unibe.ch/admission/phd/index_eng.html"
+      "url": "https://www.climatestudies.unibe.ch/admission/phd/index_eng.html",
+      "also": [
+        {
+          "quote": "You can apply to do a doctorate throughout the year.",
+          "url": "https://www.unibe.ch/studies/dates/phd_candidates/index_eng.html"
+        }
+      ]
     },
     "gre_subject": {
       "code": "No subject test",
@@ -27,23 +27,23 @@
     },
     "supervisor": {
       "code": "Required",
-      "value": "Candidates need a PhD project at an affiliated research unit and a general agreement with the PhD supervisor.",
+      "value": "You need a PhD project at an affiliated research unit and a general agreement with the supervisor before applying.",
       "quote": "must have a PhD project at one of the affiliated research units and a general agreement with the PhD supervisor",
       "url": "https://www.climatestudies.unibe.ch/admission/phd/index_eng.html"
     },
     "funding": {
       "code": "Not stated",
-      "value": "The page mentions fellowships and personal funding only and does not say that doctoral students are funded.",
+      "value": "The page gives no funding rule for admitted PhD students.",
       "quote": "",
       "url": "https://www.climatestudies.unibe.ch/admission/phd/index_eng.html"
     },
     "entry_route": {
       "code": "Master's usually required",
-      "value": "A master's of science or an equivalent degree is mandatory for admission to the PhD.",
-      "quote": "A Master of Science or an equivalent degree is mandatory for the admission to the PhD program.",
+      "value": "A master's degree or equivalent is mandatory for the climate sciences PhD.",
+      "quote": "A Master of Science or an equivalent degree is mandatory for the admission to the PhD program",
       "url": "https://www.climatestudies.unibe.ch/admission/phd/index_eng.html"
     }
   },
-  "notes": "",
+  "notes": "The topic must be related to climate sciences. The school says registration and application fees apply but gives no amount.",
   "name": "PhD in Climate Sciences"
 }

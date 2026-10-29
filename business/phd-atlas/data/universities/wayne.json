@@ -1,0 +1,53 @@
+{
+  "id": "wayne",
+  "institution": "Wayne State University",
+  "country": "USA",
+  "region": "Michigan",
+  "grad_page": "https://gradschool.wayne.edu/admissions/international-process",
+  "checked": "2026-10-29",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "Applicants to doctoral programs at Wayne State are not required to pay an application fee.",
+      "quote": "Applicants to doctoral programs, graduate certificate programs, and non-degree programs are not required to pay an application fee.",
+      "url": "https://gradschool.wayne.edu/admissions/international"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No fee is charged for doctoral program applications.",
+      "quote": "Applicants to doctoral programs, graduate certificate programs, and non-degree programs are not required to pay an application fee.",
+      "url": "https://gradschool.wayne.edu/admissions/international"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School does not set a general GRE requirement; standardized tests are required only if specified by the individual academic program.",
+      "quote": "The Graduate School does not require the GRE, GMAT, or other standardized admission tests for graduate admission. However, some academic programs may require official test scores as part of their admission requirements.",
+      "url": "https://gradschool.wayne.edu/admissions/international"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "The Graduate School requires a minimum TOEFL iBT score of 4.5 for tests taken on or after January 21, 2026 (79 for earlier tests).",
+      "quote": "Exams taken on or after January 21, 2026: | We require a minimum TOEFL iBT total score of 4.5",
+      "url": "https://gradschool.wayne.edu/admissions/english-proficiency",
+      "also": [
+        {
+          "quote": "Exams taken before January 21, 2026: | We require a minimum TOEFL iBT total score of 79.",
+          "url": "https://gradschool.wayne.edu/admissions/english-proficiency"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The Graduate School requires a minimum IELTS overall band score of 6.5.",
+      "quote": "IELTS | 6.5 (overall band)",
+      "url": "https://gradschool.wayne.edu/admissions/english-proficiency"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Degree exemptions from the English test apply only to graduates from specified native English-speaking countries; degrees from India are not exempt.",
+      "quote": "Non-U.S. applicants who complete a bachelor's degree or higher from an institution in one of the following countries are exempt from the TOEFL requirement. | Anguilla | Antigua | Australia | Bahamas | Barbados | Belize | Bermuda | British Virgin Islands | Canada (except Quebec) | Cayman Islands | Dominica | Ghana | Grenada | Greenland | Guyana | Ireland | Jamaica | Kenya | Liberia | New Zealand | Nigeria | St. Kitts and Nevis | St. Lucia | South Africa | Tobago | Trinidad | Turks and Caicos Islands | United Kingdom | United States | U.S. Virgin Islands",
+      "url": "https://gradschool.wayne.edu/admissions/english-proficiency"
+    }
+  },
+  "notes": "Doctoral applications have no application fee. TOEFL 4.5 (new scale) / 79, IELTS 6.5 minimums set by the Graduate School."
+}

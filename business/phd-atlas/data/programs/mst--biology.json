@@ -2,16 +2,14 @@
   "id": "mst--biology",
   "university": "mst",
   "field": "biology",
-  "also_fields": [
-    "biomed"
-  ],
-  "department": "Department of Biological Sciences",
+  "also_fields": [],
+  "department": "Biological Sciences",
   "program_page": "https://catalog.mst.edu/graduate/graduatedegreeprograms/biologicalsciences/",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
       "code": "2027-02-15",
-      "value": "Doctoral applications for fall entry should reach admissions by February 15; the catalog says applications are reviewed on a rolling basis.",
+      "value": "Doctoral applications for Fall entry are due February 15, and the catalog says they are reviewed on a rolling basis.",
       "quote": "Doctoral Fall semester: February 15",
       "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/",
       "inferred": "year",
@@ -22,6 +20,18 @@
         }
       ]
     },
+    "entry_route": {
+      "code": "Either",
+      "value": "The graduate school sets 72 hours for a PhD after a bachelor's and 42 after a master's, so both routes are open.",
+      "quote": "Students who do not hold a master’s degree will be required to complete a minimum of seventy-two hours of graduate credit",
+      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/doctoratedegrees/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching assistantships are competitively awarded to excellent applicants with a faculty mentor.",
+      "quote": "Competitively awarded graduate teaching assistantships are available for excellent applicants with an identified faculty mentor.",
+      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/biologicalsciences/"
+    },
     "gre_subject": {
       "code": "No subject test",
       "value": "No GRE Subject Test exists for this field: ETS discontinued the GRE Biology Test in May 2021.",
@@ -30,22 +40,10 @@
     },
     "supervisor": {
       "code": "Not stated",
-      "value": "Each doctoral student gets an academic advisor after admission; the catalog does not say a supervisor must agree before admission.",
-      "quote": "All students pursuing a doctoral degree will have an academic advisor (and co-advisor, if applicable) who must be a member of the Missouri S&T graduate faculty.",
-      "url": "https://catalog.mst.edu/graduate/admissionsandacademicprogramprocedures/doctoratedegrees/"
-    },
-    "funding": {
-      "code": "Competitive",
-      "value": "Teaching assistantships are competitively awarded to excellent applicants with an identified faculty mentor.",
-      "quote": "Competitively awarded graduate teaching assistantships are available for excellent applicants with an identified faculty mentor",
-      "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/biologicalsciences/"
-    },
-    "entry_route": {
-      "code": "Direct from bachelor's",
-      "value": "A student with a B.S. who pursues the PhD completes 72 credit hours, including 30 hours of research.",
-      "quote": "A student holding a B.S. degree and pursuing a Ph.D. in biological sciences will complete a total of 72 credit hours including a minimum of 30 credit hours in graduate course work and a minimum of 30 hours of research credit",
+      "value": "The catalog asks for an identified faculty mentor, but does not say the mentor must agree before admission.",
+      "quote": "",
       "url": "https://catalog.mst.edu/graduate/graduatedegreeprograms/biologicalsciences/"
     }
   },
-  "notes": "The PhD has a Biomedicine track, so biomed is listed as also_fields. Department PhD pages on the mst.edu subdomains could not be reached (TLS verification failure through the proxy); this record uses the graduate catalog only."
+  "notes": "The catalog page has no GRE or English rule."
 }

@@ -2,22 +2,18 @@
   "id": "paris-saclay--biology",
   "university": "paris-saclay",
   "field": "biology",
-  "also_fields": [],
-  "department": "Doctoral School SEVE: Plant Sciences, Ecology, Evolution",
-  "program_page": "https://www.universite-paris-saclay.fr/en/doctoral-schools/doctoral-school-seve-plant-sciences-ecology-evolution",
+  "also_fields": [
+    "environment"
+  ],
+  "department": "Doctoral School Agriculture, Food, Biology, Environment, Health (ABIES)",
+  "program_page": "https://www.universite-paris-saclay.fr/en/doctoral-schools/agriculture-food-biology-environment-health",
   "checked": "2026-10-22",
   "fields": {
-    "funding": {
-      "code": "Guaranteed",
-      "value": "Enrolment requires thesis funding for at least 36 months, from a competition or other sources.",
-      "quote": "you must obtain thesis funding for a minimum period of 36 months",
-      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/doctoral-school-seve-plant-sciences-ecology-evolution"
-    },
     "deadline": {
       "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
-      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/doctoral-school-seve-plant-sciences-ecology-evolution"
+      "value": "The school page shows only the 2020 contract competition; 2027 dates are not published.",
+      "quote": "Appliance for ABIES competition to get a doctoral contract is open until May 15th 2020",
+      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/agriculture-food-biology-environment-health"
     },
     "gre_subject": {
       "code": "No subject test",
@@ -26,17 +22,23 @@
       "url": "https://www.ets.org/gre/test-takers/subject-tests/scores.html"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
-      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/doctoral-school-seve-plant-sciences-ecology-evolution"
+      "code": "Required",
+      "value": "The thesis supervisor chooses the candidate for the subject from the applications received.",
+      "quote": "The thesis supervisor will select the candidate with the best profile for his subject",
+      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/agriculture-food-biology-environment-health"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Doctoral contracts are awarded through the school's competition.",
+      "quote": "Appliance for ABIES competition to get a doctoral contract is open until May 15th 2020",
+      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/agriculture-food-biology-environment-health"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "Not stated on the page checked",
-      "quote": "",
-      "url": "https://www.universite-paris-saclay.fr/en/doctoral-schools/doctoral-school-seve-plant-sciences-ecology-evolution"
+      "code": "Master's usually required",
+      "value": "A master's or equivalent degree is needed to start a PhD in initial training.",
+      "quote": "Registration in initial training is possible as a continuation of a master or other equivalent degree",
+      "url": "https://www.universite-paris-saclay.fr/en/recherche/doctorat-et-hdr/prepare-phd"
     }
   },
-  "notes": "Apply on ADUM to subjects of the school, including the GS-BioSphERA white-programme contracts."
+  "notes": "Covers the biology and environment doctoral school; the other life-science schools (SEVE, SIB, CBMS) are not merged here."
 }

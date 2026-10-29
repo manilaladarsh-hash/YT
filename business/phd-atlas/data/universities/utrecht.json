@@ -4,44 +4,44 @@
   "country": "Netherlands",
   "region": "Utrecht",
   "grad_page": "https://www.uu.nl/en/organisation/phd-programmes/phd-in-utrecht",
-  "checked": "2026-10-26",
+  "checked": "2026-10-29",
   "fields": {
     "app_fee": {
       "code": "Not stated",
-      "value": "No application fee for PhD candidates is stated on the university or graduate school pages fetched.",
+      "value": "No PhD application fee is stated on Utrecht University's central PhD pages, Doctoral Degree Regulations, or MyPhD registration guide (the €100 OSIRIS fee applies to Master's programmes, whereas PhD candidates apply to vacancies or via a supervisor/Graduate School).",
       "quote": "",
-      "url": "https://www.uu.nl/en/organisation/graduate-school-of-natural-sciences/phd/future-phd-candidates"
+      "url": "https://www.uu.nl/en/organisation/phd-programmes/starting-a-phd-track/types-of-phd-positions"
     },
     "fee_waiver": {
       "code": "Not stated",
-      "value": "No PhD application fee waiver is stated on the pages fetched.",
+      "value": "No PhD application fee or fee waiver is stated on the Utrecht University PhD pages checked.",
       "quote": "",
-      "url": "https://www.uu.nl/en/organisation/graduate-school-of-natural-sciences/phd/future-phd-candidates"
+      "url": "https://www.uu.nl/en/organisation/phd-programmes/starting-a-phd-track/types-of-phd-positions"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "No GRE requirement is stated on the university or graduate school pages fetched; check each programme.",
-      "quote": "",
-      "url": "https://www.uu.nl/en/organisation/graduate-school-of-natural-sciences/phd/future-phd-candidates"
+      "value": "No university-wide GRE requirement is stated; Utrecht University's Executive Board delegates general doctoral admission requirements to each Graduate School.",
+      "quote": "Each Graduate School sets down the general admission requirements for its doctoral programme, plus any specific admission requirements per specialisation.",
+      "url": "https://www.uu.nl/sites/default/files/minimum_requirements_for_the_quality_assurance_system_for_doctoral_programmes.pdf"
     },
     "toefl_min": {
       "code": "Not stated",
-      "value": "The PhD pages require EMI-experienced English with proof, under the rules for Master's students, but give no TOEFL score.",
-      "quote": "with proof and exceptions as defined for UU Master students",
-      "url": "https://www.uu.nl/en/education/graduate-school-of-geosciences/phds/future-phd-candidates"
+      "value": "No university-wide TOEFL minimum is set centrally; each Graduate School sets its own doctoral admission requirements (some, such as Geosciences, reference Master's EMI-experienced rules, while Natural Sciences states none on its general PhD page).",
+      "quote": "Each Graduate School sets down the general admission requirements for its doctoral programme, plus any specific admission requirements per specialisation.",
+      "url": "https://www.uu.nl/sites/default/files/minimum_requirements_for_the_quality_assurance_system_for_doctoral_programmes.pdf"
     },
     "ielts_min": {
       "code": "Not stated",
-      "value": "The PhD pages give no IELTS score; the Master's pages quote conflicting scores, so none is used here.",
-      "quote": "with proof and exceptions as defined for UU Master students",
-      "url": "https://www.uu.nl/en/education/graduate-school-of-geosciences/phds/future-phd-candidates"
+      "value": "No university-wide IELTS minimum is set centrally; each Graduate School sets its own doctoral admission requirements.",
+      "quote": "Each Graduate School sets down the general admission requirements for its doctoral programme, plus any specific admission requirements per specialisation.",
+      "url": "https://www.uu.nl/sites/default/files/minimum_requirements_for_the_quality_assurance_system_for_doctoral_programmes.pdf"
     },
     "english_waiver": {
       "code": "Not stated",
-      "value": "The PhD pages apply the Master's English exceptions, and the pages fetched do not say whether an Indian degree is accepted.",
-      "quote": "with proof and exceptions as defined for UU Master students",
-      "url": "https://www.uu.nl/en/education/graduate-school-of-geosciences/phds/future-phd-candidates"
+      "value": "No university-wide English-test exemption rule (including for Indian degrees) is set centrally for PhD candidates.",
+      "quote": "",
+      "url": "https://www.uu.nl/en/organisation/phd-programmes/phd-in-utrecht"
     }
   },
-  "notes": "Fetched: uu.nl PhD in Utrecht page; Graduate School of Natural Sciences (https://www.uu.nl/en/organisation/graduate-school-of-natural-sciences/phd/future-phd-candidates); Graduate School of Geosciences (https://www.uu.nl/en/education/graduate-school-of-geosciences/phds/future-phd-candidates); Graduate School of Life Sciences (https://www.uu.nl/en/education/phd-at-the-graduate-school-of-life-sciences/starting-your-phd/prospective-phd-candidates). Blocked (403): https://www.uu.nl/en/education/graduate-school-of-life-sciences/phd/prospective-phd-candidates. Master's English pages on uu.nl give IELTS 6.5 (6.0 writing) and TOEFL iBT 93 or 83 depending on page, so they conflict and are not used for PhD values. A 2015 exchange-programme PDF is not used (too old). PhD teaching is in English (PhD in Utrecht page)."
+  "notes": "PhD programmes at Utrecht University are conducted in English, and candidates are admitted as employees via job vacancies or as scholarship/externally funded/external candidates registered in MyPhD. Under the 2025 Doctoral Degree Regulations (Promotiereglement) and Executive Board quality-assurance rules, a Master's or equivalent degree is required, while specific admission/English criteria are set per Graduate School."
 }

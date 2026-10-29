@@ -7,19 +7,20 @@
   ],
   "department": "Department of Chemistry, Biochemistry and Physics",
   "program_page": "https://www.sdstate.edu/programs/graduate/physics-phd",
-  "checked": "2026-10-28",
+  "checked": "2026-10-29",
   "fields": {
     "deadline": {
-      "code": "Not stated",
-      "value": "No Ph.D. application deadline is stated on the pages checked.",
-      "quote": "",
-      "url": "https://www.sdstate.edu/programs/graduate/physics-phd"
+      "code": "2026-12-01",
+      "value": "Priority deadline for fall admission is December 1; a secondary deadline is January 15.",
+      "quote": "The priority deadline for applying for admission for the fall semester is December 1",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15914",
+      "inferred": "year"
     },
     "gre_subject": {
-      "code": "Not stated",
-      "value": "The pages checked do not mention the Physics GRE Subject test.",
-      "quote": "",
-      "url": "https://www.sdstate.edu/programs/graduate/physics-phd"
+      "code": "Recommended",
+      "value": "The Physics GRE subject score is recommended, not required.",
+      "quote": "General and subject score are recommended but not required",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15914"
     },
     "supervisor": {
       "code": "Not stated",
@@ -34,11 +35,23 @@
       "url": "https://www.sdstate.edu/chemistry-biochemistry-physics/graduate-program-overview-chemistry-biochemistry-physics"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "The page lists a background in physics or related fields but does not say whether a master's is needed.",
-      "quote": "",
-      "url": "https://www.sdstate.edu/programs/graduate/physics-phd"
+      "code": "Either",
+      "value": "Applicants may come from a physics, engineering, math or CS background; up to 30 master's credits can count toward the PhD.",
+      "quote": "Have a background in physics, engineering, mathematics, computer science or related scientific fields.",
+      "url": "https://www.sdstate.edu/programs/graduate/physics-phd",
+      "also": [
+        {
+          "quote": "Up to 30 credits from a completed master’s degree may be applied to a doctoral program",
+          "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15914"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "General and subject GRE scores are recommended, not required.",
+      "quote": "General and subject score are recommended but not required",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15914"
     }
   },
-  "notes": "The Ph.D. page names astrophysics among its research areas, so astronomy is listed in also_fields. Department funding statement covers all graduate students in the department."
+  "notes": "The Ph.D. page names astrophysics among its research areas, so astronomy is listed in also_fields. Department funding statement covers all graduate students in the department. Physics (Ph.D.) is on the 2026-27 catalog (poid 15914), not the 2025-26 doctoral list."
 }

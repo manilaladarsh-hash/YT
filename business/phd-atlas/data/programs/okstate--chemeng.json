@@ -5,24 +5,12 @@
   "also_fields": [],
   "department": "School of Chemical Engineering",
   "program_page": "https://catalog.okstate.edu/engineering-architecture-technology/chemical-engineering/",
-  "checked": "2026-10-26",
+  "checked": "2026-10-22",
   "fields": {
     "deadline": {
       "code": "Not stated",
-      "value": "The catalog gives no application deadline.",
+      "value": "No deadline on the catalog page; che.okstate.edu/graduate_students/faq returned 403.",
       "quote": "",
-      "url": "https://catalog.okstate.edu/engineering-architecture-technology/chemical-engineering/"
-    },
-    "gre_general": {
-      "code": "Required",
-      "value": "GRE is required for applicants who do not hold an ABET-approved chemical engineering degree (or recognized equivalent).",
-      "quote": "GRE (for those without a chemical engineering degree approved by ABET or a recognized equivalent from any international program)",
-      "url": "https://catalog.okstate.edu/engineering-architecture-technology/chemical-engineering/"
-    },
-    "entry_route": {
-      "code": "Direct from bachelor's",
-      "value": "Admission to the MS or PhD requires a chemical engineering degree from an ABET-approved curriculum; other backgrounds are assessed individually.",
-      "quote": "Admission to either the Master of Science or Doctor of Philosophy degree program requires graduation from a chemical engineering curriculum approved by the ABET or a recognized equivalent from any international program.",
       "url": "https://catalog.okstate.edu/engineering-architecture-technology/chemical-engineering/"
     },
     "gre_subject": {
@@ -33,17 +21,28 @@
     },
     "supervisor": {
       "code": "Not stated",
-      "value": "No supervisor-before-admission rule on the pages checked.",
+      "value": "No supervisor rule appears on the catalog page.",
       "quote": "",
       "url": "https://catalog.okstate.edu/engineering-architecture-technology/chemical-engineering/"
     },
     "funding": {
       "code": "Not stated",
-      "value": "No PhD funding rule on the pages checked.",
+      "value": "No funding rule appears on the catalog page.",
       "quote": "",
+      "url": "https://catalog.okstate.edu/engineering-architecture-technology/chemical-engineering/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The PhD requires a chemical engineering degree from an ABET-approved curriculum.",
+      "quote": "Admission to either the Master of Science or Doctor of Philosophy degree program requires graduation from a chemical engineering curriculum approved by the ABET or a recognized equivalent from any international program.",
+      "url": "https://catalog.okstate.edu/engineering-architecture-technology/chemical-engineering/"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE is required for applicants without an ABET-approved chemical engineering degree.",
+      "quote": "GRE (for those without a chemical engineering degree approved by ABET or a recognized equivalent from any international program)",
       "url": "https://catalog.okstate.edu/engineering-architecture-technology/chemical-engineering/"
     }
   },
-  "notes": "Catalog page only. Department pages were not reached.",
-  "name": "Chemical Engineering, PhD"
+  "notes": "Department admissions and deadline pages on the OSU domain returned 403 or 502, so only the university catalog was read."
 }
