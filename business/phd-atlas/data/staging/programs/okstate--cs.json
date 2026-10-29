@@ -1,0 +1,42 @@
+{
+  "id": "okstate--cs",
+  "university": "okstate",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://catalog.okstate.edu/arts-sciences/computer-science/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No deadline on the catalog page; cs.okstate.edu and cas.okstate.edu admissions pages returned 403 or 503.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/arts-sciences/computer-science/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE applies to Computer Science.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/arts-sciences/computer-science/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule appears on any official page we could read.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/arts-sciences/computer-science/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding rule appears on any official page we could read.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/arts-sciences/computer-science/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The PhD needs 90 hours beyond a bachelor's degree, or 60 hours beyond a master's degree.",
+      "quote": "For the PhD, 60 credit hours beyond a master's degree or 90 credit hours beyond a bachelor's degree are required.",
+      "url": "https://catalog.okstate.edu/arts-sciences/computer-science/"
+    }
+  },
+  "notes": "Department admissions and deadline pages on the OSU domain returned 403 or 502, so only the university catalog was read."
+}

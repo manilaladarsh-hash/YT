@@ -1,0 +1,48 @@
+{
+  "id": "okstate--earth",
+  "university": "okstate",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Boone Pickens School of Geology",
+  "program_page": "https://catalog.okstate.edu/arts-sciences/geology/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No deadline on the catalog page.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/arts-sciences/geology/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject GRE applies to this field.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/arts-sciences/geology/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule appears on the catalog page.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/arts-sciences/geology/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding rule appears on the catalog page.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/arts-sciences/geology/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Students normally hold a master's degree in geology or a related field before the PhD.",
+      "quote": "Under normal circumstances, students must hold a master's degree in geology or a related field to be accepted into the PhD program.",
+      "url": "https://catalog.okstate.edu/arts-sciences/geology/"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE is recommended but not required for admission.",
+      "quote": "The Graduate Record Examination is recommended, but not required, for admission to the program.",
+      "url": "https://catalog.okstate.edu/arts-sciences/geology/"
+    }
+  },
+  "notes": "Department admissions and deadline pages on the OSU domain returned 403 or 502, so only the university catalog was read."
+}

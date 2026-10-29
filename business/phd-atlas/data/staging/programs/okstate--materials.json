@@ -1,0 +1,48 @@
+{
+  "id": "okstate--materials",
+  "university": "okstate",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Materials Science and Engineering",
+  "program_page": "https://catalog.okstate.edu/graduate-college/doctoral/materials-science-engineering-phd/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No application deadline appears on any official page we could read.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/graduate-college/doctoral/materials-science-engineering-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE rule appears on any official page we could read.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/graduate-college/doctoral/materials-science-engineering-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule appears on any official page we could read.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/graduate-college/doctoral/materials-science-engineering-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding rule appears on any official page we could read.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/graduate-college/doctoral/materials-science-engineering-phd/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The PhD is 72 hours beyond a bachelor's degree, or 60 hours beyond a master's degree from outside OSU.",
+      "quote": "Total Hours: 72 (Group I - Beyond the Bachelor's Degree)",
+      "url": "https://catalog.okstate.edu/graduate-college/doctoral/materials-science-engineering-phd/",
+      "also": [
+        {
+          "quote": "Total Hours: 60 (Group II - Beyond the Master's Degree from Outside OSU)",
+          "url": "https://catalog.okstate.edu/graduate-college/doctoral/materials-science-engineering-phd/"
+        }
+      ]
+    }
+  },
+  "notes": "Department admissions and deadline pages on the OSU domain returned 403 or 502, so only the university catalog was read."
+}
