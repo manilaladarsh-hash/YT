@@ -8,10 +8,11 @@
   "checked": "2026-10-26",
   "fields": {
     "deadline": {
-      "code": "Not stated",
-      "value": "The page gives January 4 for PhD admission with no year, so it is not used.",
-      "quote": "",
-      "url": "https://math.nyu.edu/dynamic/graduate/phd-mathematics/admission-policies/"
+      "code": "2027-01-04",
+      "value": "January 4 for Ph.D. program admission (year inferred for Fall 2027 entry).",
+      "quote": "Admission to the Ph.D. program - January 4",
+      "url": "https://math.nyu.edu/dynamic/graduate/phd-mathematics/admission-policies/",
+      "inferred": "year"
     },
     "gre_subject": {
       "code": "Required",
@@ -20,9 +21,9 @@
       "url": "https://math.nyu.edu/dynamic/graduate/phd-mathematics/admission-policies/"
     },
     "supervisor": {
-      "code": "Not stated",
-      "value": "No supervisor rule is stated on the admissions pages.",
-      "quote": "",
+      "code": "Not required",
+      "value": "Admission decisions are based on committee review of academic record, recommendation letters, and credentials; no prior supervisor required before applying.",
+      "quote": "Admission decisions are based on a careful review of the applicant's previous academic record, letters of recommendation, TOEFL (if applicable) and GRE scores, as well as other credentials, such as work experience or previous research projects.",
       "url": "https://math.nyu.edu/dynamic/graduate/phd-mathematics/admission-policies/"
     },
     "funding": {

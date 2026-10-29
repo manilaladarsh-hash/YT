@@ -67,3 +67,19 @@
 - Live validation: `288 universities, 2996 programs, 0 errors, 0 warnings` (`rc=0`).
 - Overall `Not stated` (`coverage.py`): `7,418 -> 7,257 / 32,956 = 22.02%`.
 - 16 of 18 fields are now `< 25%` (`datasci` dropped to 24%). Only 2 fields remain above 25%: `physics` (27%) and `math` (28%).
+
+## Phase 6 (Wave 2 Batch C High-Yield Gapfills & Physics/Math Strike) — 2026-10-29
+- Universities: 5 universities enriched at central level (`clemson`, `lehigh`, `iub`, `lmu`, `tudresden`) + 10 targeted department programs (`clemson--math`, `lehigh--math`, `iub--physics`, `iub--math`, `nyu--math`, `brown--physics`, `clarkson--physics`, `buffalo--physics`, `lmu--physics`, `lmu--math`).
+- Key enrichments verified with primary sources cached:
+  - `clemson` (15 programs): `toefl_min: "4.0 (new scale)"`, `ielts_min: "6.5"`. Removed redundant department overrides.
+  - `lehigh` (12 programs): `gre_general: "Not required"`, `ielts_min: "6.5"`, `lehigh--math.json` `supervisor: "Not required"`. `lehigh--math.json` is 100% complete.
+  - `iub` (11 programs): `toefl_min: "79"`, `ielts_min: "6.5"`, `iub--physics.json` `supervisor: "Not required"`. Both IUB math and physics are 100% complete.
+  - `nyu`: `nyu--math.json` `deadline: "2027-01-04"`, `supervisor: "Not required"`.
+  - `brown`: `brown--physics.json` `supervisor: "Recommended"`. 100% complete.
+  - `clarkson`: `clarkson--physics.json` `supervisor: "Not required"`. 100% complete.
+  - `buffalo`: `buffalo--physics.json` `gre_general: "Optional"`. 100% complete.
+  - `lmu` (6 programs): `app_fee: "0 (no fee)"`, `fee_waiver: "No fee"`, `gre_general: "Not required"`, `lmu--physics.json` `funding: "Competitive"`, `lmu--math.json` `funding: "Competitive"`.
+  - `tudresden` (9 programs): `toefl_min: "Not required"`, `ielts_min: "Not required"`, `gre_general: "Not required"`.
+- Live validation: `288 universities, 2996 programs, 0 errors, 0 warnings` (`rc=0`).
+- Overall `Not stated` (`coverage.py`): `7,257 -> 7,187 / 32,956 = 21.81%`.
+- 16 of 18 fields `< 25%`. Remaining fields: `physics` (26.78%, need 66 resolved), `math` (28.12%, need 99 resolved).

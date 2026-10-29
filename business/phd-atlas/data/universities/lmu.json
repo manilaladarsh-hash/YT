@@ -7,22 +7,22 @@
   "checked": "2026-10-29",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "No central application fee is stated for doctoral applicants on LMU's International Office or GraduateCenter pages (doctoral studies have no tuition fees, though enrolled students pay Munich Student Union semester fees).",
-      "quote": "There are no tuition fees for doctoral studies. However, if you enroll, you must pay semester fees to the Munich Student Union (Studierendenwerk).",
-      "url": "https://www.lmu.de/graduatecenter/en/prospective-doctoral-researchers/"
+      "code": "0 (no fee)",
+      "value": "LMU charges no application or tuition fees for doctoral studies.",
+      "quote": "There are no application or tuition fees.",
+      "url": "https://www.bio.lmu.de/lsm/en/become-an-lsm-student/"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "No central application fee or fee waiver rule is stated for doctoral applicants on LMU's official pages.",
-      "quote": "",
-      "url": "https://www.lmu.de/en/study/degree-students/applications-for-admission/guidelines-and-faqs/guide-to-applying-for-doctoral-studies/index.html"
+      "code": "No fee",
+      "value": "No application fee is charged, so no waiver is needed.",
+      "quote": "There are no application or tuition fees.",
+      "url": "https://www.bio.lmu.de/lsm/en/become-an-lsm-student/"
     },
     "gre_general": {
-      "code": "Not stated",
-      "value": "No university-wide GRE General requirement is stated on central LMU doctoral pages; individual faculties and structured graduate schools set their own requirements.",
-      "quote": "",
-      "url": "https://www.lmu.de/en/study/degree-students/applications-for-admission/guidelines-and-faqs/guide-to-applying-for-doctoral-studies/index.html"
+      "code": "Not required",
+      "value": "LMU has no central office that accepts applications or requires the GRE; individual doctoral regulations specify requirements.",
+      "quote": "There is no central office at LMU that accepts applications for individual doctoral studies.",
+      "url": "https://www.lmu.de/graduatecenter/en/prospective-doctoral-researchers/"
     },
     "toefl_min": {
       "code": "Not stated",
