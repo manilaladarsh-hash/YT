@@ -1,0 +1,42 @@
+{
+  "id": "kit--mech",
+  "university": "kit",
+  "field": "mech",
+  "also_fields": [],
+  "department": "KIT Department of Mechanical Engineering",
+  "program_page": "https://www.mach.kit.edu/english/5117.php",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The page gives no application deadline; a decision on acceptance typically takes about 6 weeks.",
+      "quote": "",
+      "url": "https://www.mach.kit.edu/english/5117.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a GRE Subject test; no Mechanical Engineering subject test exists.",
+      "quote": "",
+      "url": "https://www.mach.kit.edu/english/5117.php"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Acceptance needs a doctoral agreement with the supervisor and KHYS registration.",
+      "quote": "Application for acceptance as a doctoral candidate required: Doctoral agreement and registration with KHYS",
+      "url": "https://www.mach.kit.edu/english/5117.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not say how doctoral candidates are funded.",
+      "quote": "",
+      "url": "https://www.mach.kit.edu/english/5117.php"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admission requires a master's degree program, a four-year university degree, or a degree built on an undergraduate program, with an above-average result.",
+      "quote": "a degree program at a university or university of teacher education with a standard period of study of at least four years",
+      "url": "https://www.mach.kit.edu/english/5117.php"
+    }
+  },
+  "notes": "Based on the 2017 Doctoral Degree Regulations for Mechanical Engineering. Above-average degree means a grade of 'very good' (1.5) or better, or the equivalent ECTS grade."
+}

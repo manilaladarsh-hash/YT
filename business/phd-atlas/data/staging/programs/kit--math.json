@@ -1,0 +1,42 @@
+{
+  "id": "kit--math",
+  "university": "kit",
+  "field": "math",
+  "also_fields": [],
+  "department": "KIT Department of Mathematics",
+  "program_page": "https://www.math.kit.edu/english/forschung/annahme_dok.php",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The acceptance page gives no application deadline.",
+      "quote": "",
+      "url": "https://www.math.kit.edu/english/forschung/annahme_dok.php"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention the Mathematics GRE Subject test.",
+      "quote": "",
+      "url": "https://www.math.kit.edu/english/forschung/annahme_dok.php"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Acceptance requires a written doctoral agreement with the supervisor and a synopsis of about 1-2 pages.",
+      "quote": "Doctoral agreement in writing between the doctoral candidate and the supervisor with a detailed synopsis of about 1-2 pages",
+      "url": "https://www.math.kit.edu/english/forschung/annahme_dok.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not say how doctoral candidates are funded.",
+      "quote": "",
+      "url": "https://www.math.kit.edu/english/forschung/annahme_dok.php"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Graduates of undergraduate programs can also apply, but must prove their scientific qualification in addition to the usual documents.",
+      "quote": "Graduates of undergraduate programs or graduates of universities of applied sciences and cooperative state universities additionally have to submit a proof of their scientific qualification",
+      "url": "https://www.math.kit.edu/english/forschung/annahme_dok.php"
+    }
+  },
+  "notes": "Acceptance is decided by the Doctoral Admissions Committee under the 2016 regulations cited on the page. Graduates of foreign universities and of other subjects must first get their degree recognised."
+}
