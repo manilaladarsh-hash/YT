@@ -1,0 +1,52 @@
+{
+  "id": "southdakota--chemistry",
+  "university": "southdakota",
+  "field": "chemistry",
+  "also_fields": [
+    "materials"
+  ],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.usd.edu/Academics/Graduate-Programs/Materials-Chemistry-PhD",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Fall priority deadline is February 15 (year inferred); final deadline August 10.",
+      "quote": "Priority Deadline: February 15 | Final Deadline: August 10th",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2337",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "40 USD",
+      "value": "The Materials Chemistry catalog entry lists a $40 non-refundable application fee.",
+      "quote": "a non-refundable application fee of $40",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2337"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The catalog does not mention a GRE requirement for Materials Chemistry.",
+      "quote": "",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2337"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether a faculty agreement is needed before admission.",
+      "quote": "",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2337"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "The catalog says graduate students are supported through teaching and research assistantships; it gives no share of funded students.",
+      "quote": "Graduate students are supported through teaching and research assistantships",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2337"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need a baccalaureate in chemistry or a closely related field.",
+      "quote": "Baccalaureate degree in Chemistry or a closely related field from an institution with institutional accreditation for that degree",
+      "url": "https://catalog.usd.edu/preview_entity.php?catoid=41&ent_oid=2337"
+    }
+  },
+  "notes": "Ph.D. in Materials Chemistry, run by the Department of Chemistry; covers the materials field through also_fields.",
+  "name": "Materials Chemistry (Ph.D.)"
+}
