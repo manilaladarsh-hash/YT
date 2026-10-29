@@ -1,0 +1,61 @@
+{
+  "id": "southdakotastate--civil",
+  "university": "southdakotastate",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil and Environmental Engineering",
+  "program_page": "https://www.sdstate.edu/programs/graduate/civil-engineering-phd",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The graduate school's fall application deadline is December 15; some departments set earlier dates.",
+      "quote": "Application Deadlines December 15 Fall semester",
+      "url": "https://www.sdstate.edu/admissions/graduate-admissions",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Some departments have earlier deadlines and/or only admit for certain terms!",
+          "url": "https://www.sdstate.edu/admissions/graduate-admissions"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "General GRE scores are recommended.",
+      "quote": "GRE: General scores recommended",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15312"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The civil PhD requires IELTS 6.5.",
+      "quote": "TOEFL Essentials: 8.5 IELTS: 6.5",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15312"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor's agreement is needed before admission.",
+      "quote": "",
+      "url": "https://www.sdstate.edu/programs/graduate/civil-engineering-phd"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog says assistantships will be offered to qualified students; it does not say most students are funded.",
+      "quote": "Research and teaching assistantships will be offered to qualified students",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15312"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may hold an undergraduate or a master's degree in civil engineering.",
+      "quote": "Have an undergraduate or master's degree in civil engineering",
+      "url": "https://www.sdstate.edu/programs/graduate/civil-engineering-phd"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Civil engineering has no GRE subject test; the page does not mention one.",
+      "quote": "GRE: General scores recommended",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15312"
+    }
+  },
+  "notes": ""
+}

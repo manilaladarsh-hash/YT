@@ -1,0 +1,69 @@
+{
+  "id": "southdakotastate--math",
+  "university": "southdakotastate",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Department of Mathematics and Statistics",
+  "program_page": "https://www.sdstate.edu/programs/graduate/computational-science-statistics-phd-mathematics-specialization",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The graduate school's fall application deadline is December 15; some departments set earlier dates.",
+      "quote": "Application Deadlines December 15 Fall semester",
+      "url": "https://www.sdstate.edu/admissions/graduate-admissions",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Some departments have earlier deadlines and/or only admit for certain terms!",
+          "url": "https://www.sdstate.edu/admissions/graduate-admissions"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE is not required for this specialization.",
+      "quote": "GRE: Not required",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15341"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The Mathematics GRE subject test is not required.",
+      "quote": "GRE: Not required",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15341"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "The mathematics specialization lists a TOEFL iBT minimum of 4.5.",
+      "quote": "TOEFL iBT: 4.5",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15341"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The mathematics specialization requires IELTS 6.5.",
+      "quote": "TOEFL Essentials: 9.5 IELTS: 6.5",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15341"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor's agreement is needed before admission.",
+      "quote": "",
+      "url": "https://www.sdstate.edu/programs/graduate/computational-science-statistics-phd-mathematics-specialization"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not say whether most students receive funding.",
+      "quote": "",
+      "url": "https://www.sdstate.edu/programs/graduate/computational-science-statistics-phd-mathematics-specialization"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may hold an undergraduate or a master's degree in mathematics, statistics or a related field.",
+      "quote": "Have an undergraduate or master's degree in mathematics, statistics or a related field",
+      "url": "https://www.sdstate.edu/programs/graduate/computational-science-statistics-phd-mathematics-specialization"
+    }
+  },
+  "notes": "Computational Science and Statistics (Ph.D.) has three specializations: Mathematics (this record, catalog poid 15341), Statistics (poid 15342) and Data Science (poid 15295). The statistics and data science catalog pages did not load, so the GRE and English figures above are the mathematics specialization's."
+}

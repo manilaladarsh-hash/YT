@@ -1,0 +1,49 @@
+{
+  "id": "unibe--chemistry",
+  "university": "unibe",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry, Biochemistry and Pharmaceutical Sciences (Faculty of Science)",
+  "program_page": "https://www.philnat.unibe.ch/studies/study_programs/phd_chemistry_and_molecular_sciences/index_eng.html",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2026-10-15",
+      "value": "Autumn-term receipt date is 15 October. The page gives no year, so this is the 2026/27 date, which has passed; no 2027 date is stated.",
+      "quote": "for the fall semester October 15",
+      "url": "https://www.unibe.ch/studies/dates/phd_candidates/index_eng.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "by October 15 for entry in the autumn term or March 31 for entry in the spring term",
+          "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The chemistry page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.philnat.unibe.ch/studies/study_programs/phd_chemistry_and_molecular_sciences/index_eng.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must be accepted by a research group before you can join the chemistry PhD programme.",
+      "quote": "be accepted in one of the research groups at DCBP",
+      "url": "https://www.philnat.unibe.ch/studies/study_programs/phd_chemistry_and_molecular_sciences/index_eng.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The chemistry page gives no funding rule for admitted PhD students.",
+      "quote": "",
+      "url": "https://www.philnat.unibe.ch/studies/study_programs/phd_chemistry_and_molecular_sciences/index_eng.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "You need a Master of Science (MSc) to join the chemistry PhD programme.",
+      "quote": "you need to hold an MSc (Master in Sciences)",
+      "url": "https://www.philnat.unibe.ch/studies/study_programs/phd_chemistry_and_molecular_sciences/index_eng.html"
+    }
+  },
+  "notes": "Taught in English, 3 to 4 years. Admission is through a research group at the department."
+}

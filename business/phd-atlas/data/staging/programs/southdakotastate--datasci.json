@@ -1,0 +1,67 @@
+{
+  "id": "southdakotastate--datasci",
+  "university": "southdakotastate",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "McComish Department of Electrical Engineering and Computer Science",
+  "program_page": "https://www.sdstate.edu/programs/graduate/artificial-intelligence-engineering-phd",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The graduate school's fall application deadline is December 15; some departments set earlier dates.",
+      "quote": "Application Deadlines December 15 Fall semester",
+      "url": "https://www.sdstate.edu/admissions/graduate-admissions",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Some departments have earlier deadlines and/or only admit for certain terms!",
+          "url": "https://www.sdstate.edu/admissions/graduate-admissions"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE is not required.",
+      "quote": "GRE: Not Required",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15917"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "GRE is not required, so no subject test is needed.",
+      "quote": "GRE: Not Required",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15917"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "The AI engineering PhD lists a TOEFL iBT minimum of 4.5.",
+      "quote": "TOEFL iBT: 4.5",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15917"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The AI engineering PhD requires IELTS 6.5.",
+      "quote": "TOEFL Essentials: 9.5 IELTS: 6.5",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15917"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor's agreement is needed before admission.",
+      "quote": "",
+      "url": "https://www.sdstate.edu/programs/graduate/artificial-intelligence-engineering-phd"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page does not say whether most students receive funding.",
+      "quote": "",
+      "url": "https://www.sdstate.edu/programs/graduate/artificial-intelligence-engineering-phd"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with a master's degree need a letter from the master's advisor; a bachelor's-only route is not stated.",
+      "quote": "for applicants with a master’s degree, one letter should be from the master’s advisor, if available",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15917"
+    }
+  },
+  "notes": "Data science, ML and AI track: the Data Science specialization of Computational Science and Statistics is listed under the math record."
+}

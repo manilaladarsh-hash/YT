@@ -1,0 +1,50 @@
+{
+  "id": "unibe--statistics",
+  "university": "unibe",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Institute of Mathematical Statistics and Actuarial Science (Faculty of Science)",
+  "program_page": "https://www.philnat.unibe.ch/studies/study_programs/phd_in_statistics/index_eng.html",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2026-10-15",
+      "value": "Autumn-term receipt date is 15 October. The page gives no year, so this is the 2026/27 date, which has passed; no 2027 date is stated.",
+      "quote": "for the fall semester October 15",
+      "url": "https://www.unibe.ch/studies/dates/phd_candidates/index_eng.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "by October 15 for entry in the autumn term or March 31 for entry in the spring term",
+          "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The statistics page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.philnat.unibe.ch/studies/study_programs/phd_in_statistics/index_eng.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A confirmed supervisor at Bern must be in place before admission; the confirmation of supervision is filled in for every doctorate.",
+      "quote": "Fill in the confirmation of supervision that applies to your doctorate.",
+      "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Funding is the supervisor's responsibility; the page states no guaranteed funding.",
+      "quote": "Potential funding of a PhD project is the responsibility of the corresponding supervisor",
+      "url": "https://www.philnat.unibe.ch/studies/study_programs/phd_in_statistics/index_eng.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's or equivalent degree in mathematics or statistics with good or excellent grades is needed.",
+      "quote": "To be admitted to the PhD program, one needs a master's or equivalent degree in Mathematics or Statistics with good or excellent grade",
+      "url": "https://www.philnat.unibe.ch/studies/study_programs/phd_in_statistics/index_eng.html"
+    }
+  },
+  "notes": "",
+  "name": "PhD Program in Statistics"
+}

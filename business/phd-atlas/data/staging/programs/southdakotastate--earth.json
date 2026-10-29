@@ -1,0 +1,49 @@
+{
+  "id": "southdakotastate--earth",
+  "university": "southdakotastate",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Geospatial Science and Engineering (GSE) program",
+  "program_page": "https://www.sdstate.edu/programs/graduate/geospatial-science-engineering-phd-remote-sensing-specialization",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The graduate school's fall application deadline is December 15; some departments set earlier dates.",
+      "quote": "Application Deadlines December 15 Fall semester",
+      "url": "https://www.sdstate.edu/admissions/graduate-admissions",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Some departments have earlier deadlines and/or only admit for certain terms!",
+          "url": "https://www.sdstate.edu/admissions/graduate-admissions"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Faculty advise only within their own specialization; the page does not say a faculty agreement is needed before admission.",
+      "quote": "individual faculty members will only advise students within their particular area of specialization",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15332"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Support comes from individual faculty grants or other sources; the page does not say most students are funded.",
+      "quote": "Financial support for students is provided by individual faculty members through their research grants or other funding sources",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15332"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may hold an undergraduate or a master's degree in geography or a related field.",
+      "quote": "Have an undergraduate or master's degree in geography or a related field",
+      "url": "https://www.sdstate.edu/programs/graduate/geospatial-science-engineering-phd-remote-sensing-specialization"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE subject test is stated; the page does not mention GRE.",
+      "quote": "Additional Admission Requirements",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15332"
+    }
+  },
+  "notes": "Two specializations: Geography (catalog poid 15333) and Remote Sensing (poid 15332). Admission is described as competitive and limited by faculty funding and personnel."
+}

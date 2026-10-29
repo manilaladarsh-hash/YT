@@ -1,0 +1,49 @@
+{
+  "id": "southdakotastate--chemistry",
+  "university": "southdakotastate",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry, Biochemistry and Physics",
+  "program_page": "https://www.sdstate.edu/programs/graduate/chemistry-phd",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Priority deadline for fall admission is December 1; a secondary deadline is January 15.",
+      "quote": "The priority deadline for applying for admission for the fall semester is December 1",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15262",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "General and subject GRE scores are recommended, not required.",
+      "quote": "General and subject score are recommended but not required",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15262"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The Chemistry GRE subject score is recommended, not required.",
+      "quote": "General and subject score are recommended but not required",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15262"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog lists a research assistantship from a professor as one support source, but does not say a faculty agreement is needed before admission.",
+      "quote": "Research assistantship from a professor in the department",
+      "url": "https://catalog.sdstate.edu/preview_program.php?catoid=61&poid=15262"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most graduate students in the department are guaranteed six semesters (two years) of teaching assistantship.",
+      "quote": "Most graduate students in the department are guaranteed six semesters (two years) of teaching assistantship",
+      "url": "https://www.sdstate.edu/chemistry-biochemistry-physics/graduate-program-overview-chemistry-biochemistry-physics"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may hold an undergraduate or a master's degree in chemistry or a related field.",
+      "quote": "Have an undergraduate or master's degree in chemistry, biochemistry, physics, biology, environmental science or related fields",
+      "url": "https://www.sdstate.edu/programs/graduate/chemistry-phd"
+    }
+  },
+  "notes": "Biochemistry (Ph.D.) is run by the same department; its catalog page has the same admission text. The department typically does not admit for spring unless funded."
+}

@@ -1,0 +1,50 @@
+{
+  "id": "unibe--earth",
+  "university": "unibe",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Institute of Geological Sciences (Faculty of Science)",
+  "program_page": "https://www.philnat.unibe.ch/studies/study_programs/phd_in_earth_sciences_geology/index_eng.html",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2026-10-15",
+      "value": "Autumn-term receipt date is 15 October. The page gives no year, so this is the 2026/27 date, which has passed; no 2027 date is stated.",
+      "quote": "for the fall semester October 15",
+      "url": "https://www.unibe.ch/studies/dates/phd_candidates/index_eng.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "by October 15 for entry in the autumn term or March 31 for entry in the spring term",
+          "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The earth sciences page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.philnat.unibe.ch/studies/study_programs/phd_in_earth_sciences_geology/index_eng.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must find a supervisor at the institute before the admission process starts.",
+      "quote": "A supervisor must be found at the institute before starting the admission process",
+      "url": "https://www.philnat.unibe.ch/studies/study_programs/phd_in_earth_sciences_geology/index_eng.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page gives no funding rule for admitted PhD students.",
+      "quote": "",
+      "url": "https://www.philnat.unibe.ch/studies/study_programs/phd_in_earth_sciences_geology/index_eng.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's or licentiate from a Swiss university or ETH, or an equivalent degree, is needed for doctoral admission.",
+      "quote": "hold a master's degree or a licentiate from a Swiss university or Swiss Federal Institute of Technology, or an equivalent university degree",
+      "url": "https://www.unibe.ch/studies/programs/doctorate/application/index_eng.html"
+    }
+  },
+  "notes": "",
+  "name": "PhD in Earth Sciences (Geology)"
+}
