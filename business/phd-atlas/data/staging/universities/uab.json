@@ -1,0 +1,47 @@
+{
+  "id": "uab",
+  "institution": "University of Alabama at Birmingham",
+  "country": "USA",
+  "region": "Alabama",
+  "grad_page": "https://catalog.uab.edu/graduate/admission/",
+  "checked": "2026-10-29",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The catalog says the Graduate School requires an application fee but gives no amount; the amount is on the International Applicants page, which returned 502 errors.",
+      "quote": "In addition to the completed online application, the Graduate School requires an application fee and official transcripts.",
+      "url": "https://catalog.uab.edu/graduate/admission/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No fee-waiver rule was found on the fetched catalog pages.",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/admission/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School does not require GRE scores; each program decides, so see the program record.",
+      "quote": "Standardized academic test scores are not required by the Graduate School; however, they may be required by the academic program.",
+      "url": "https://catalog.uab.edu/graduate/admission/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The Graduate School requires English proficiency from international applicants, but the minimum score is on its International Applicants page, which could not be fetched.",
+      "quote": "The Graduate School requires English proficiency for international applicants.",
+      "url": "https://catalog.uab.edu/graduate/admission/"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The IELTS minimum is on the Graduate School's International Applicants page, which could not be fetched.",
+      "quote": "which can be found on the Graduate School's International Applicants page",
+      "url": "https://catalog.uab.edu/graduate/admission/"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The only automatic waiver quoted is for a degree earned in the US with a 3.00 GPA; the rule for an Indian English-medium degree is on the International Applicants page, which could not be fetched.",
+      "quote": "This requirement is automatically waived for international applicants who earned a bachelor’s, graduate, or professional degree in the US with a minimum GPA of 3.00",
+      "url": "https://catalog.uab.edu/graduate/admission/"
+    }
+  },
+  "notes": "Sources: UAB Graduate Catalog (catalog.uab.edu): graduate admission page, graduate program index, Financial Information, and the program pages below. Every www.uab.edu page failed with 502 errors in this session: /gradadmissions/apply/international-applicants, /graduate/, /graduate/admissions, /gbs/home/admissions, /gbs/home/admissions/financial-support, /cas/physics/graduate, /cas/computerscience/graduate-programs. Fee, fee waiver, TOEFL/IELTS minimums and the India English rule are therefore Not stated. Program-level GRE, English and deadline rules come from each department page."
+}

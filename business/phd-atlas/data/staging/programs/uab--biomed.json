@@ -1,0 +1,50 @@
+{
+  "id": "uab--biomed",
+  "university": "uab",
+  "field": "biomed",
+  "also_fields": [
+    "neuro"
+  ],
+  "department": "Graduate Biomedical Sciences (GBS)",
+  "program_page": "https://catalog.uab.edu/graduate/jointhealthscience/graduatebiomedicalscience/",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The GBS admissions page, which holds the deadlines, could not be fetched (www.uab.edu returned 502).",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/jointhealthscience/graduatebiomedicalscience/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is mentioned on the page.",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/jointhealthscience/graduatebiomedicalscience/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The GBS catalog page gives no GRE rule; the admissions page could not be fetched.",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/jointhealthscience/graduatebiomedicalscience/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/jointhealthscience/graduatebiomedicalscience/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All students accepted into GBS programs receive a stipend and fully paid tuition and fees.",
+      "quote": "All students accepted into GBS programs receive a competitive annual stipend and fully paid tuition and fees.",
+      "url": "https://catalog.uab.edu/graduate/jointhealthscience/graduatebiomedicalscience/neuroscience/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not say whether a bachelor's or master's is needed.",
+      "quote": "",
+      "url": "https://catalog.uab.edu/graduate/jointhealthscience/graduatebiomedicalscience/"
+    }
+  },
+  "notes": "Umbrella program: eight interdisciplinary themes, including Neuroscience (listed in also_fields). Students select a theme on application. Admission rules are on the GBS Admissions page (www.uab.edu/gbs/home/admissions), which returned 502. The funding quote comes from the Neuroscience theme page. The MD/PhD program (MSTP) is not saved as a separate record."
+}
