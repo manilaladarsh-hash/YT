@@ -1,0 +1,86 @@
+{
+  "id": "tufts--biomed",
+  "university": "tufts",
+  "field": "biomed",
+  "also_fields": [
+    "neuro"
+  ],
+  "department": "Graduate School of Biomedical Sciences (Basic Science Division)",
+  "program_page": "https://gsbs.tufts.edu/academics/basic-science-phd-programs",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "90 USD",
+      "value": "The Graduate School of Biomedical Sciences charges a $90 non-refundable application fee for its PhD programmes, which overrides the $85 graduate-school fee.",
+      "quote": "There is a nonrefundable application fee of $90 for the PhD, MS, and Certificate programs.",
+      "url": "https://gsbs.tufts.edu/admissions/application-requirements"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "The school offers a hardship waiver only to US citizens and permanent residents, not to international applicants.",
+      "quote": "We do offer a hardship application fee waiver for our U.S. citizens/permanent residents, however we do not offer this option for our international applicants.",
+      "url": "https://gsbs.tufts.edu/admissions/application-requirements"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional for the Basic Science PhD programmes, and not submitting them has no negative effect.",
+      "quote": "GRE is optional. If submitted, scores will be considered. If not submitted, no negative impact on the admissions decision.",
+      "url": "https://gsbs.tufts.edu/admissions/application-requirements"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The school's English list names US, Australian, UK, Irish, Anglophone Canadian and New Zealand degrees but not India or English-medium degrees, so the graduate-school rule does not apply here.",
+      "quote": "",
+      "url": "https://gsbs.tufts.edu/admissions/application-requirements"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The school sets TOEFL minimums by programme in a table, which is not quoted here; check the application requirements page.",
+      "quote": "",
+      "url": "https://gsbs.tufts.edu/admissions/application-requirements"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The school sets IELTS minimums by programme in a table, which is not quoted here; check the application requirements page.",
+      "quote": "",
+      "url": "https://gsbs.tufts.edu/admissions/application-requirements"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Full-time Basic Science PhD students receive a full tuition scholarship and a stipend or research assistantship, though the page notes some students are self-funded.",
+      "quote": "Full-time students enrolled in PhD programs in the Basic Science Division receive a full tuition scholarship and a stipend or research assistantship",
+      "url": "https://gsbs.tufts.edu/admissions/financing-your-education/basic-science-division-phd-programs",
+      "also": [
+        {
+          "quote": "Self-funded students are charged an additional $6,000 per term to defray research laboratory costs.",
+          "url": "https://gsbs.tufts.edu/admissions/financing-your-education/basic-science-division-phd-programs"
+        }
+      ]
+    },
+    "deadline": {
+      "code": "Not stated",
+      "value": "The official page prints a day and month without a year (for example 'Fall: December 1 (final)'), so no Fall 2027 date is stated.",
+      "quote": "",
+      "url": "https://gsbs.tufts.edu/academics/basic-science-phd-programs"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The official programme page states no subject GRE rule.",
+      "quote": "",
+      "url": "https://gsbs.tufts.edu/academics/basic-science-phd-programs"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The official programme page states no rule on needing a supervisor's agreement before admission.",
+      "quote": "",
+      "url": "https://gsbs.tufts.edu/academics/basic-science-phd-programs"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The official programme page does not say whether a bachelor's or a master's is needed.",
+      "quote": "",
+      "url": "https://gsbs.tufts.edu/academics/basic-science-phd-programs"
+    }
+  },
+  "notes": "One umbrella record for the Basic Science Division: Genetics, Molecular and Cellular Biology; Immunology; Molecular Microbiology; Neuroscience (with Neuro at JAX); Mammalian Genetics at JAX. Neuroscience is listed as a separate PhD degree, so it is covered through also_fields. Clinical & Translational Science and Pharmacology are separate GSBS programmes and are not used. The GSBS deadline table is not quoted (table cells), so deadline is Not stated. Supervisor is not stated; students do three lab rotations in the first year."
+}

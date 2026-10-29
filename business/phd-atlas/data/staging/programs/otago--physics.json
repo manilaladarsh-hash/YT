@@ -1,0 +1,42 @@
+{
+  "id": "otago--physics",
+  "university": "otago",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://www.otago.ac.nz/physics/postgraduate/postgraduate-degrees/phd",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No fetchable page gives an application deadline for the PhD.",
+      "quote": "",
+      "url": "https://ask.otago.ac.nz/knowledgebase/article/KA-10000271"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No fetchable official page mentions a Physics GRE Subject test.",
+      "quote": "",
+      "url": "https://ask.otago.ac.nz/knowledgebase/article/KA-10000271"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Under the university-wide PhD rule, applicants must first find a supervisor and a department before a formal application.",
+      "quote": "you will first need to find a supervisor and a department and then make a formal application",
+      "url": "https://ask.otago.ac.nz/knowledgebase/article/KA-10000271"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "All PhD students can apply for the University of Otago Doctoral Scholarship, which is assessed competitively each quarter after an invitation to apply.",
+      "quote": "All PhD students are able to apply for a Doctoral Scholarship when they have submitted an application to the PhD programme | Applications are assessed on a quarterly basis, usually around March, June, September and November of each year. | Most successful international scholarship applicants will have the most relevant grades",
+      "url": "https://ask.otago.ac.nz/knowledgebase/article/KA-10004338/en-us"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "No fetchable official page says whether applicants enter directly from a bachelor's or need a master's.",
+      "quote": "",
+      "url": "https://ask.otago.ac.nz/knowledgebase/article/KA-10000271"
+    }
+  },
+  "notes": "The physics PhD page (https://www.otago.ac.nz/physics/postgraduate/postgraduate-degrees/phd) is titled 'PhD, Department of Physics' in an otago.ac.nz search result but returns a Cloudflare 403 to the fetcher, so the department's own deadline, GRE, English and entry rules are unverified. Supervisor and funding come from university-wide AskOtago pages, not from the physics page. The scholarship assessment rounds are 'usually around March, June, September and November' with no year or date, so no deadline or time_sensitive date is set. The doctoral scholarship page is blocked: https://www.otago.ac.nz/courses/scholarships/university-of-otago-doctoral-scholarship."
+}
