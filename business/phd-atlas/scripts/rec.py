@@ -37,7 +37,7 @@ def _fields(fields):
 def _write(folder, rid, record):
     folder.mkdir(parents=True, exist_ok=True)
     path = folder / f"{rid}.json"
-    path.write_text(json.dumps(record, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    path.write_text(json.dumps(record, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
     return path
 
 

@@ -13,7 +13,7 @@ CARD_FIELDS = [("deadline", "Deadline"), ("app_fee", "Fee"), ("fee_waiver", "Fee
 TONE = {
     "fee_waiver": {"Available": "good", "No fee": "good", "Limited": "warn", "Domestic only": "bad", "None": "bad"},
     "gre_general": {"Required": "bad", "Recommended": "warn", "Optional": "good", "Not required": "good", "Not considered": "good"},
-    "gre_subject": {"Required": "bad", "Recommended": "warn", "Optional": "good", "Not required": "good", "Not considered": "good"},
+    "gre_subject": {"Required": "bad", "Recommended": "warn", "Optional": "good", "Not required": "good", "Not considered": "good", "No subject test": "good"},
     "english_waiver": {"Yes": "good", "Conditional": "warn", "No": "bad", "Check tool": "warn"},
     "supervisor": {"Required": "warn", "Recommended": "warn", "Not required": "good"},
     "funding": {"Guaranteed": "good", "Typical": "good", "Competitive": "warn"},
@@ -24,8 +24,8 @@ CSS = """
 .card { border: 1px solid #dcdfe4; border-left: 3pt solid var(--gc); border-radius: 5pt; padding: 6pt 9pt; break-inside: avoid; font-size: 8.4pt; }
 .card header { display: flex; align-items: baseline; gap: 6pt; margin-bottom: 3pt; }
 .card .ftag { margin-left: auto; font-size: 7.5pt; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: var(--gc); }
-.card h3 { margin: 0; font-size: 11pt; }
-.card .meta { color: #5b6573; font-size: 8pt; }
+.card h3 { margin: 0; font-size: 11pt; white-space: nowrap; flex-shrink: 0; }
+.card .meta { color: #5b6573; font-size: 8pt; min-width: 0; }
 .card dl { display: grid; grid-template-columns: max-content 1.25fr max-content 1fr max-content 1fr; gap: 1.5pt 6pt; margin: 0; align-items: baseline; }
 .card dd { white-space: nowrap; }
 .card dt { color: #5b6573; }

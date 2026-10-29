@@ -73,7 +73,7 @@ The English rule is usually set **once for the whole university**, so it is the 
 
 {{GRE_FIELD_TABLE}}
 
-**GRE Subject tests.** ETS now offers Subject tests in **Physics, Chemistry, Mathematics and Psychology** (the Biology test was discontinued in 2023). Programs that **require** a Subject test for this cycle:
+**GRE Subject tests.** ETS now offers Subject tests only in **Mathematics, Physics and Psychology** (the Chemistry test was discontinued in May 2023, and Biology in May 2021). Programs that **require** a Subject test for this cycle:
 
 {{SUBJECT_REQUIRED_LIST}}
 
@@ -95,7 +95,7 @@ Rules differ more **between fields** than most applicants expect. Each line belo
 
 ### Physical sciences: physics, astronomy, chemistry, materials
 
-- **US programs admit a cohort** through a committee. You usually choose an adviser in year 1 (chemistry and materials departments often run formal rotations or lab visits). The Physics and Chemistry GRE Subject tests still matter at some programs (Section 5).
+- **US programs admit a cohort** through a committee. You usually choose an adviser in year 1 (chemistry and materials departments often run formal rotations or lab visits). The Physics GRE Subject test still matters at some physics and astronomy programs (Section 5); ETS discontinued the Chemistry test in May 2023.
 - **Europe and Australia** usually admit you to a group or an advertised position, often after a master's. Max Planck graduate schools (IMPRS) and the Max Planck Schools run central calls with fixed deadlines.
 - **Advice:** in your statement, name instruments, techniques and code you have actually used (e.g., XRD, DFT, cleanroom, Python analysis pipelines). Lab skills transfer.
 

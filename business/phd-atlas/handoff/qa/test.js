@@ -1,5 +1,5 @@
 const { chromium } = require('playwright');
-const file = 'file://' + require('path').resolve(__dirname, '../../dist/STEM-PhD-Atlas-2027/Atlas.html');
+const file = require('url').pathToFileURL(require('path').resolve(__dirname, '../../dist/STEM-PhD-Atlas-2027/Atlas.html')).href;
 const out = require('path').join(process.env.QA_OUT || require('os').tmpdir(), '') + require('path').sep;
 (async () => {
   const browser = await chromium.launch();

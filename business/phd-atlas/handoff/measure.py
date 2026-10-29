@@ -14,7 +14,7 @@ from coverage import effective  # noqa: E402
 
 
 def load(d, pattern):
-    return {p.stem: json.loads(p.read_text()) for p in (R / d).glob(pattern)}
+    return {p.stem: json.loads(p.read_text(encoding="utf-8")) for p in (R / d).glob(pattern)}
 
 
 def rate(uid, staged):

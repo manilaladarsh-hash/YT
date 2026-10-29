@@ -20,16 +20,10 @@
       ]
     },
     "gre_subject": {
-      "code": "Not stated",
-      "value": "The information sheet names no GRE Subject test; selection is by academic qualifications and an exam.",
-      "quote": "",
-      "url": "https://www2.sissa.it/sites/default/files/2025-12/TSDS.pdf",
-      "also": [
-        {
-          "quote": "Admission: Academic and scientific qualifications + written exam + oral exam",
-          "url": "https://www2.sissa.it/sites/default/files/2025-12/TSDS.pdf"
-        }
-      ]
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
     },
     "supervisor": {
       "code": "Not stated",

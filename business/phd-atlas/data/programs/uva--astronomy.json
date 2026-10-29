@@ -32,10 +32,10 @@
       "url": "https://api.uva.nl/vacancies/phd-recruitment-process/phd-recruitment-process.html"
     },
     "gre_subject": {
-      "code": "Not stated",
-      "value": "Not stated on the pages checked",
-      "quote": "",
-      "url": "https://api.uva.nl/vacancies/doing-a-phd-at-api/doing-a-phd-at-api.html"
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
     }
   },
   "notes": "English: 'we do not request formal qualifications in English, we may ask for them' (no test minimum). Salary EUR 3,059-3,881 gross per month."

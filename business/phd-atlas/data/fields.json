@@ -4,7 +4,7 @@
   "fields": [
     {"id": "physics", "name": "Physics", "group": "Physical sciences", "subject_gre": "Physics"},
     {"id": "astronomy", "name": "Astronomy & Astrophysics", "group": "Physical sciences", "subject_gre": "Physics"},
-    {"id": "chemistry", "name": "Chemistry", "group": "Physical sciences", "subject_gre": "Chemistry"},
+    {"id": "chemistry", "name": "Chemistry", "group": "Physical sciences", "subject_gre": null},
     {"id": "materials", "name": "Materials Science", "group": "Physical sciences", "subject_gre": null},
     {"id": "math", "name": "Mathematics", "group": "Mathematical sciences", "subject_gre": "Mathematics"},
     {"id": "statistics", "name": "Statistics & Biostatistics", "group": "Mathematical sciences", "subject_gre": "Mathematics"},

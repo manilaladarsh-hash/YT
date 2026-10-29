@@ -36,10 +36,10 @@
       "url": "https://biology.fau.edu/academics/graduate/phd-biology-admission-requirements-graduate.php"
     },
     "gre_subject": {
-      "code": "Not stated",
-      "value": "No GRE subject test is mentioned for this program.",
-      "quote": "",
-      "url": "https://www.fau.edu/graduate/graduate-programs/phd-integrative-biology/"
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field: ETS discontinued the GRE Biology Test in May 2021.",
+      "quote": "The GRE Biology Test and the GRE Literature in English Test were discontinued in May 2021.",
+      "url": "https://www.ets.org/gre/test-takers/subject-tests/scores.html"
     }
   },
   "notes": "Umbrella for the Biomedical Science (IBBS) and Environmental/Marine Science tracks, so those fields are also_fields. Neuroscience is a separate PhD and is saved as neuro. Concentrations must match a supervisor on their faculty list (dept page). Funding and GRE are not stated on the fetched pages. The department page exempts some applicants from countries with English-medium higher education (list not fetched)."

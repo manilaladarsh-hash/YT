@@ -8,7 +8,7 @@ import sys
 from pathlib import Path
 
 R = Path(__file__).resolve().parent.parent
-U = {u["id"]: u for u in json.loads((R / "data/universities.json").read_text())["universities"]}
+U = {u["id"]: u for u in json.loads((R / "data/universities.json").read_text(encoding="utf-8"))["universities"]}
 
 for uid in sys.argv[1:]:
     u = U[uid]

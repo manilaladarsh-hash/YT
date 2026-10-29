@@ -71,10 +71,10 @@
       ]
     },
     "gre_subject": {
-      "code": "Not stated",
-      "value": "No subject GRE is mentioned for this field.",
-      "quote": "",
-      "url": "https://www.clemson.edu/cecas/departments/eees/academics/gradprog/eees.html"
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
     }
   },
   "notes": "Environmental Engineering and Earth Sciences PhD. Earth sciences is part of the programme name, so earth is listed as also_fields. Forest Resources and Plant and Environmental Sciences PhDs (CAFLS) also exist; they are not saved because this file takes the single environment slot."

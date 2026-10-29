@@ -437,7 +437,7 @@ def write_xlsx(recs, path, values):
         link = ws.cell(row=row, column=26)
         link.hyperlink = r["program_page"]
         link.font = Font(color="1F5F8B", underline="single")
-    style_header(ws, [34, 22, 16, 30, 10, 12, 12, 40, 10, 9, 10, 14, 40, 13, 13, 12, 11, 13, 40, 14, 40, 12, 40, 18, 40, 40, 11])
+    style_header(ws, [34, 22, 16, 30, 10, 12, 12, 40, 10, 9, 10, 14, 40, 13, 16, 12, 11, 13, 40, 14, 40, 12, 40, 18, 40, 40, 11])
     ws.auto_filter.ref = f"A1:{get_column_letter(len(head))}{ws.max_row}"
     for row in ws.iter_rows(min_row=2):
         for c in row:
@@ -476,7 +476,7 @@ def write_xlsx(recs, path, values):
     for dv, ref in [(dv_prog, "A2:A41"), (dv_status, "K2:K41"), (dv_yes, "L2:L41"), (dv_letters, "M2:M41"), (dv_fee, "N2:N41")]:
         sl.add_data_validation(dv)
         dv.add(ref)
-    style_header(sl, [40, 9, 12, 9, 8, 9, 14, 13, 14, 14, 18, 9, 9, 16, 40])
+    style_header(sl, [40, 9, 12, 9, 8, 9, 14, 16, 14, 14, 18, 9, 9, 16, 40])
 
     bd = wb.create_sheet("Budget")
     bd.column_dimensions["A"].width = 58
@@ -618,7 +618,7 @@ def write_copy(values):
     for src in sorted(list((ROOT / "store").rglob("*.src.md")) + list((ROOT / "launch").rglob("*.src.md"))):
         dst = src.with_name(src.name.replace(".src.md", ".md"))
         note = f"<!-- Generated from {src.name} by product/build.py. Edit that file, not this one. -->\n"
-        dst.write_text(note + fill(src.read_text(encoding="utf-8"), values), encoding="utf-8")
+        dst.write_text(note + fill(src.read_text(encoding="utf-8"), values), encoding="utf-8", newline="\n")
         out.append(dst)
     return out
 

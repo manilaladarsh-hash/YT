@@ -33,10 +33,10 @@
       "url": "https://chemistry.wfu.edu/graduate/programs-of-study/"
     },
     "gre_subject": {
-      "code": "Not stated",
-      "value": "The chemistry pages do not mention the Chemistry GRE Subject test.",
-      "quote": "",
-      "url": "https://chemistry.wfu.edu/graduate/programs-of-study/"
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field: ETS discontinued the GRE Chemistry Test in May 2023.",
+      "quote": "The GRE Chemistry Test was discontinued in May 2023.",
+      "url": "https://www.ets.org/gre/test-takers/subject-tests/scores.html"
     }
   },
   "notes": "The chemistry.wfu.edu/graduate/ page returned 502; the programs-of-study page loaded and is used here. Subject GRE is not mentioned on any fetched page."

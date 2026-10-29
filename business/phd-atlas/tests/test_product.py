@@ -75,7 +75,7 @@ def expected_fit(r, today):
     bad += s == "Required"
     warn += s == "Recommended"
     if s == "Not stated" and r["country"] in ("USA", "Canada") and \
-            {r["field"], *r["also_fields"]} & {"physics", "chemistry", "math", "statistics", "astronomy"}:
+            {r["field"], *r["also_fields"]} & {"physics", "math", "statistics", "astronomy"}:
         warn += 1
     w = code(r, "english_waiver")
     bad += w == "No"

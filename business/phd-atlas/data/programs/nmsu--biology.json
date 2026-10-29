@@ -39,10 +39,10 @@
       "url": "https://bio.nmsu.edu/students/grads.html"
     },
     "gre_subject": {
-      "code": "Not stated",
-      "value": "No subject GRE rule is stated on the fetched pages.",
-      "quote": "",
-      "url": "https://bio.nmsu.edu/students/grads.html"
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field: ETS discontinued the GRE Biology Test in May 2021.",
+      "quote": "The GRE Biology Test and the GRE Literature in English Test were discontinued in May 2021.",
+      "url": "https://www.ets.org/gre/test-takers/subject-tests/scores.html"
     }
   },
   "notes": "The 2025 admissions PDF still asks for GRE general scores from applicants without a US degree; the newer grads page says the GRE is not required from Fall 2025, and that page is used for the value.",

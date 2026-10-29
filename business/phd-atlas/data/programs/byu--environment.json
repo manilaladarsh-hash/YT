@@ -39,10 +39,10 @@
       "url": "https://pws.byu.edu/graduate-applicant-faqs"
     },
     "gre_subject": {
-      "code": "Not stated",
-      "value": "The fetched page does not mention a GRE Subject test.",
-      "quote": "",
-      "url": "https://pws.byu.edu/graduate-applicant-faqs"
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
     }
   },
   "notes": "The department's graduate FAQ lists the Wildlife & Wildlands Conservation PhD. The admission page gives a GPA of 3.2 or higher, and any science-related bachelor's is acceptable. This is a judgment on which field it fits (environment); the PhD page itself was not fetched.",

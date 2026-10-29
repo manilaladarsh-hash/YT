@@ -41,10 +41,10 @@
       "url": "https://www.dtu.dk/english/education/phd/applicant/pre_acceptance-1-"
     },
     "gre_subject": {
-      "code": "Not stated",
-      "value": "No GRE Subject test is mentioned on DTU Compute's PhD pages.",
-      "quote": "",
-      "url": "https://www.compute.dtu.dk/education/phd-school"
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
     }
   },
   "notes": "One PhD School covers mathematics, statistics and computer science. No separate data science or AI PhD track was found, so no datasci record is saved."

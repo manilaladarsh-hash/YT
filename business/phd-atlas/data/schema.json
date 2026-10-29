@@ -97,13 +97,14 @@
       ]
     },
     "gre_subject": {
-      "label": "GRE Subject test (the field's own test, e.g. Physics, Chemistry, Mathematics)",
+      "label": "GRE Subject test (the field's own test; 'No subject test' where ETS offers none)",
       "enum": [
         "Required",
         "Recommended",
         "Optional",
         "Not required",
         "Not considered",
+        "No subject test",
         "Not stated"
       ]
     },

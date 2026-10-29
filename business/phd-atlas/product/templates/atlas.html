@@ -496,7 +496,7 @@ const SECTIONS = [["Dates and money", ["deadline", "app_fee", "fee_waiver", "fun
 const TONE = {
   fee_waiver: { "Available": "good", "No fee": "good", "Limited": "warn", "Domestic only": "bad", "None": "bad" },
   gre_general: { "Required": "bad", "Recommended": "warn", "Optional": "good", "Not required": "good", "Not considered": "good" },
-  gre_subject: { "Required": "bad", "Recommended": "warn", "Optional": "good", "Not required": "good", "Not considered": "good" },
+  gre_subject: { "Required": "bad", "Recommended": "warn", "Optional": "good", "Not required": "good", "Not considered": "good", "No subject test": "good" },
   english_waiver: { "Yes": "good", "Conditional": "warn", "No": "bad", "Check tool": "warn" },
   supervisor: { "Required": "warn", "Recommended": "warn", "Not required": "good" },
   funding: { "Guaranteed": "good", "Typical": "good", "Competitive": "warn" },
@@ -648,8 +648,8 @@ function fit(p) {
     const s = c("gre_subject");
     if (s === "Required") add("bad", "GRE Subject test required");
     else if (s === "Recommended") add("warn", "GRE Subject test recommended");
-    else if (s === "Not stated") { if (na && p.fieldsAll.some(x => ["physics", "chemistry", "math", "statistics", "astronomy"].includes(x))) add("warn", "GRE Subject policy not stated"); }
-    else add("good", "No GRE Subject test needed");
+    else if (s === "Not stated") { if (na && p.fieldsAll.some(x => ["physics", "math", "statistics", "astronomy"].includes(x))) add("warn", "GRE Subject policy not stated"); }
+    else add("good", s === "No subject test" ? "No GRE Subject test for this field" : "No GRE Subject test needed");
   }
   if (pr.ggre === "no") {
     const g = c("gre_general");
