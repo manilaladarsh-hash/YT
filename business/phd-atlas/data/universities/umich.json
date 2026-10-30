@@ -1,0 +1,47 @@
+{
+  "id": "umich",
+  "institution": "University of Michigan",
+  "country": "USA",
+  "region": "Michigan",
+  "grad_page": "https://rackham.umich.edu/admissions/",
+  "checked": "2026-10-30",
+  "notes": "Application fee is $75 for US citizens/permanent residents and $90 for non-US citizens.",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "Application fee is $75 for US citizens and permanent residents, and $90 for non-US citizens.",
+      "quote": "United States citizens and those with permanent resident visa status: $75",
+      "url": "https://rackham.umich.edu/admissions/applying/application-fee-and-payment/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Rackham fee waivers available for US citizens and permanent residents who have demonstrated financial need.",
+      "quote": "At this time, Rackham application fee waivers are available for U.S. citizens and permanent residents who have demonstrated financial need.",
+      "url": "https://rackham.umich.edu/admissions/applying/application-fee-and-payment/"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE general test scores are no longer included in the admissions process for Rackham doctoral programs.",
+      "quote": "GRE general test scores are no longer included in the admissions process for Rackham\u2019s doctoral programs.",
+      "url": "https://rackham.umich.edu/admissions/applying/tests/"
+    },
+    "toefl_min": {
+      "code": "84",
+      "value": "Minimum required TOEFL iBT score is 84.",
+      "quote": "Before January 21, 2026 = 84.",
+      "url": "https://rackham.umich.edu/admissions/applying/tests/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum required overall IELTS score is 6.5 Academic.",
+      "quote": "Academic version 6.5",
+      "url": "https://rackham.umich.edu/admissions/applying/tests/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exemption granted if applicant completed undergraduate degree where instruction is English only.",
+      "quote": "You completed all of your undergraduate education and earned an undergraduate degree at an institution where the language of instruction is English only.",
+      "url": "https://rackham.umich.edu/admissions/applying/tests/"
+    }
+  }
+}
