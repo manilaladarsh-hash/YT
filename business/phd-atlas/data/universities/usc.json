@@ -1,0 +1,47 @@
+{
+  "id": "usc",
+  "institution": "University of Southern California",
+  "country": "USA",
+  "region": "California",
+  "grad_page": "https://gradadm.usc.edu/domestic-students/how-to-apply/",
+  "checked": "2026-10-30",
+  "notes": "Application fee is $120 for most graduate programs.",
+  "fields": {
+    "app_fee": {
+      "code": "120 USD",
+      "value": "Application fee of $120 for most USC graduate programs.",
+      "quote": "The application fee for most USC graduate programs is $120 ($105 for programs beginning in fall 2026).",
+      "url": "https://gradadm.usc.edu/domestic-students/how-to-apply/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Fee waivers available for Fulbright applicants or applicants whose graduate program informs them they will pay the fee; financial hardship waivers are domestic only.",
+      "quote": "This option is not available to international students. | Eligibility Requirements: Your intended graduate program has informed you in writing that they will be paying for your USC application fee.",
+      "url": "https://gradadm.usc.edu/tools-resources/fee-waivers/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Most graduate programs require GRE or GMAT scores; check program website for specific requirements.",
+      "quote": "Most USC graduate programs require either GRE or GMAT scores. Please review your program\u2019s website for their test score requirements.",
+      "url": "https://gradadm.usc.edu/domestic-students/how-to-apply/"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "Minimum TOEFL score of 100 with 20 in each section for PhD programs.",
+      "quote": "100 or above, with 20 or above in each section.",
+      "url": "https://gradadm.usc.edu/prospective-international-students/english-proficiency/"
+    },
+    "ielts_min": {
+      "code": "7.0",
+      "value": "Minimum IELTS score of 7 or above with 6 on each band for PhD programs.",
+      "quote": "7 or above, with 6 or above on each band.",
+      "url": "https://gradadm.usc.edu/prospective-international-students/english-proficiency/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "USC does not waive English proficiency based on English-taught programs in non-Anglophone countries.",
+      "quote": "USC does not waive the English-proficiency requirement based on any other consideration such as work experience, ESL enrollment, amount of time spent in the U.S., etc. It also cannot be waived on the basis of programs taught in English in non-Anglophone countries.",
+      "url": "https://gradadm.usc.edu/prospective-international-students/english-proficiency/"
+    }
+  }
+}
