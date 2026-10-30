@@ -1,0 +1,47 @@
+{
+  "id": "ucsd",
+  "institution": "University of California, San Diego",
+  "country": "USA",
+  "region": "California",
+  "grad_page": "https://grad.ucsd.edu/admissions/index.html",
+  "checked": "2026-10-29",
+  "notes": "",
+  "fields": {
+    "app_fee": {
+      "code": "155 USD",
+      "value": "$155.00 for international applicants",
+      "quote": "International Applicants: $155.00",
+      "url": "https://grad.ucsd.edu/admissions/requirements/application-fee-and-fee-waiver/index.html"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Fee waivers are available only to U.S. citizens, Permanent Residents, and Undocumented students; international applicants are not eligible.",
+      "quote": "U.S. citizens, Permanent Residents, and Undocumented students may be eligible for a waiver of the application fee.",
+      "url": "https://grad.ucsd.edu/admissions/requirements/application-fee-and-fee-waiver/index.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Central graduate admissions does not set a single campus-wide GRE requirement; requirements vary by department.",
+      "quote": "While some departments require GRE scores, many have chosen to no longer require applicants to submit GRE scores for consideration.",
+      "url": "https://grad.ucsd.edu/admissions/requirements/exam-requirements.html"
+    },
+    "toefl_min": {
+      "code": "85",
+      "value": "University-wide minimum TOEFL score is 85 on iBT or 4.5 on the new internet based test.",
+      "quote": "The university-wide minimum TOEFL score required for consideration for graduate admission is 4.5 for the new internet based test (iBT) or 85",
+      "url": "https://grad.ucsd.edu/admissions/requirements/international-students/english-proficiency.html"
+    },
+    "ielts_min": {
+      "code": "7.0",
+      "value": "University-wide minimum IELTS Academic exam score is Band Score 7.",
+      "quote": "The university-wide minimum IELTS Academic Training exam score required for consideration for graduate admission is Band Score 7.",
+      "url": "https://grad.ucsd.edu/admissions/requirements/international-students/english-proficiency.html"
+    },
+    "english_waiver": {
+      "code": "Check tool",
+      "value": "Exemption available if foreign institution is verified in IAU WHED with English as sole language of instruction.",
+      "quote": "A foreign college or university which provides instruction solely in English. You may verify whether your institution meets this requirement by looking up your institution in the IAU World Higher Education Database (WHED).",
+      "url": "https://grad.ucsd.edu/admissions/requirements/international-students/english-proficiency.html"
+    }
+  }
+}

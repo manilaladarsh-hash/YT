@@ -1,0 +1,48 @@
+{
+  "id": "ucsd--datasci",
+  "university": "ucsd",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "Hal\u0131c\u0131o\u011flu Data Science Institute",
+  "program_page": "https://catalog.ucsd.edu/curric/DSC-gr.html",
+  "checked": "2026-10-29",
+  "notes": "",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "December application deadline for Fall admission",
+      "quote": "The application deadline is December for admissions effective the following fall quarter.",
+      "url": "https://catalog.ucsd.edu/curric/DSC-gr.html"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "Optional GRE requirements as per latest guidance from Graduate Division.",
+      "quote": "Optional GRE requirements as per the latest guidance from the Division of Graduate Education and Postdoctoral Affairs at UC San Diego.",
+      "url": "https://catalog.ucsd.edu/curric/DSC-gr.html"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers no Data Science subject test.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Pre-application supervisor requirement is not stated.",
+      "quote": "",
+      "url": "https://catalog.ucsd.edu/curric/DSC-gr.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "First-year PhD financial support package includes minimum $37,500 commitment plus tuition, mandatory fees, and non-resident supplemental tuition.",
+      "quote": "At UC San Diego, the general financial support package for first-year Ph.D. students includes a minimum commitment of $37,500 plus tuition and mandatory fees. If you are not a California resident, the non-resident supplemental tuition will also be covered.",
+      "url": "https://scripps.ucsd.edu/doctoral/cost-funding"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Successful applicants must hold a bachelor's degree or equivalent with at least 3.0 GPA.",
+      "quote": "Successful applicants must hold a bachelor's degree or the equivalent from an accredited institution in the United States or from a recognized university-level academic institution abroad and at least a B average (3.0 GPA) or its equivalent by the time they enroll.",
+      "url": "https://grad.ucsd.edu/admissions/requirements/index.html"
+    }
+  }
+}
