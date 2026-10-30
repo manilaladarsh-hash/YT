@@ -1,0 +1,47 @@
+{
+  "id": "manchester",
+  "institution": "University of Manchester",
+  "country": "United Kingdom",
+  "region": "England",
+  "grad_page": "https://www.manchester.ac.uk/study/postgraduate-research/admissions/how-to-apply/",
+  "checked": "2026-10-30",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "Central research admissions guidance does not state an application fee for postgraduate research degrees; taught master's application fees do not apply to PGR.",
+      "quote": "",
+      "url": "https://www.manchester.ac.uk/study/postgraduate-research/admissions/how-to-apply/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Central research admissions guidance does not publish fee waivers as no general PGR application fee is stated.",
+      "quote": "",
+      "url": "https://www.manchester.ac.uk/study/postgraduate-research/admissions/how-to-apply/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE General test is not required or requested centrally for postgraduate research admission at Manchester.",
+      "quote": "",
+      "url": "https://www.manchester.ac.uk/study/postgraduate-research/admissions/how-to-apply/"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "For most standard PhD/MPhil programmes, minimum TOEFL iBT requirement is 90 with at least 22 in each component.",
+      "quote": "a minimum IELTS score of 6.5 overall or TOEFL (iBT) 90;\neach component of the English test to meet the minimum requirement of IELTS 5.5 in all components, TOEFL (iBT 22);",
+      "url": "https://www.bmh.manchester.ac.uk/study/research/getting-started/eligibility-and-entry-requirements/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "For most standard PhD/MPhil programmes, minimum IELTS Academic requirement is 6.5 overall (minimum 5.5 in all components and 6.0 in writing).",
+      "quote": "a minimum IELTS score of 6.5 overall or TOEFL (iBT) 90;\neach component of the English test to meet the minimum requirement of IELTS 5.5 in all components, TOEFL (iBT 22);\nfor the writing component, that you have achieved a minimum of 6.0 (IELTS).",
+      "url": "https://www.bmh.manchester.ac.uk/study/research/getting-started/eligibility-and-entry-requirements/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Exemption applies only to nationals of UKVI-prescribed majority English-speaking countries or those holding degrees from those countries; degrees from India do not qualify.",
+      "quote": "For Student Route visa purposes, the UKVI has a prescribed list of Majority English-speaking countries (this list is not defined by The University of Manchester).",
+      "url": "https://www.manchester.ac.uk/study/international/admissions/language-requirements/"
+    }
+  },
+  "notes": "Postgraduate research degrees at Manchester include PhD and MPhil programmes across the Faculty of Science and Engineering and the Faculty of Biology, Medicine and Health."
+}
