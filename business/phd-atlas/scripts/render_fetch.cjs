@@ -19,14 +19,48 @@ const { chromium } = require("playwright");
     });
     const resp = await page.goto(url, { waitUntil: "domcontentloaded", timeout: 45000 });
     await page.waitForTimeout(2500);
+    for (let i = 0; i < 5; i++) {
+      const title = await page.title();
+      const bodyText = await page.evaluate(() => document.body ? document.body.innerText : "");
+      if (!title.includes("Just a moment") && !bodyText.includes("security verification") && !bodyText.includes("Checking your browser")) {
+        break;
+      }
+      await page.waitForTimeout(1500);
+    }
     await page.evaluate(() => {
+      document.querySelectorAll('details').forEach(d => { d.open = true; });
+      document.querySelectorAll('.hidden, [class*="hidden"], .h-0, [aria-hidden="true"]').forEach(el => {
+        el.classList.remove('hidden');
+        el.classList.remove('h-0');
+        el.removeAttribute('aria-hidden');
+        if (el.style) {
+          el.style.display = 'block';
+          el.style.height = 'auto';
+          el.style.visibility = 'visible';
+        }
+      });
+      document.querySelectorAll('button, a').forEach(el => {
+        const t = (el.innerText || '').toLowerCase();
+        if (t.includes('expand all') || t.includes('show all')) {
+          try { el.click(); } catch(e) {}
+        }
+      });
       document.querySelectorAll('*').forEach(el => {
-        if (el.style) el.style.visibility = 'visible';
+        if (el.style) {
+          el.style.visibility = 'visible';
+          if (el.style.display === 'none') el.style.display = 'block';
+        }
       });
     });
+    await page.waitForTimeout(1000);
     const text = await page.evaluate(() => document.body ? document.body.innerText : "");
     const html = await page.content();
-    process.stdout.write(JSON.stringify({ status: resp ? resp.status() : 0, final_url: page.url(), text, html }));
+    let status = resp ? resp.status() : 0;
+    const title = await page.title();
+    if (text.length > 500 && !title.includes("Just a moment") && !text.includes("security verification")) {
+      status = 200;
+    }
+    process.stdout.write(JSON.stringify({ status, final_url: page.url(), text, html }));
   } finally {
     await browser.close();
   }
