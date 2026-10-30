@@ -1,0 +1,42 @@
+{
+  "id": "southampton--biomed",
+  "university": "southampton",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Faculty of Medicine",
+  "program_page": "https://www.southampton.ac.uk/study/postgraduate-research/apply",
+  "checked": "2026-10-30",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Research applications operate on a rolling basis; applicants should apply as early as possible (funding deadlines are usually at least 6 months prior to start).",
+      "quote": "You should apply as early as possible if you need to secure a UK visa or if you are applying for funding or sponsorship. Deadlines for research funding are usually at least 6 months in advance of the start date.",
+      "url": "https://www.southampton.ac.uk/study/postgraduate-research/apply"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants present undergraduate and (if graduated) Master's transcripts and degree certificates.",
+      "quote": "an academic transcript of your undergraduate degree showing modules and marks achieved\nan academic transcript from your Master's degree showing modules and marks achieved if you have already graduated\nundergraduate degree certificate and Master's degree certificate (if you have already graduated)",
+      "url": "https://www.southampton.ac.uk/study/postgraduate-research/apply"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants are required to name their proposed supervisor and speak to them prior to submitting an application.",
+      "quote": "supervisor name (you should speak to the supervisor before applying)",
+      "url": "https://www.southampton.ac.uk/study/postgraduate-research/apply"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funded and competition-funded research projects cover tuition fees and stipends through competitive review.",
+      "quote": "For projects advertised as 'fully funded' or 'competition funded', your university fees will be paid and you will not need to apply for additional funding.",
+      "url": "https://www.southampton.ac.uk/study/postgraduate-research/funding"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    }
+  },
+  "notes": "Postgraduate research programme (Medical Sciences PhD) in the Faculty of Medicine at the University of Southampton."
+}
