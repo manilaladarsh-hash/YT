@@ -1,0 +1,47 @@
+{
+  "id": "uiowa",
+  "institution": "University of Iowa",
+  "country": "USA",
+  "region": "Iowa",
+  "grad_page": "https://grad.admissions.uiowa.edu/instructions/graduate-college",
+  "checked": "2026-10-30",
+  "notes": "Application fee $60 domestic, $100 international.",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "Application fee is $60 for domestic applicants and $100 for international applicants.",
+      "quote": "Submit the online application to the Graduate College and pay the $60 application fee by credit card ($100 for international applicants).",
+      "url": "https://grad.admissions.uiowa.edu/instructions/graduate-college"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Applicants for whom payment of the application fee presents a significant financial hardship may request an application fee waiver.",
+      "quote": "Applicants for whom payment of the application fee presents a significant financial hardship may request an application fee waiver.",
+      "url": "https://grad.admissions.uiowa.edu/cost-and-funding"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE requirements vary by academic program and are not stated centrally.",
+      "quote": "Application deadlines and required supplemental materials vary by academic program so it\u2019s important that you review the program-specific instructions including supplemental materials required by your academic program.",
+      "url": "https://grad.admissions.uiowa.edu/instructions/graduate-college"
+    },
+    "toefl_min": {
+      "code": "81",
+      "value": "Total score 81 required on TOEFL.",
+      "quote": "Total score 81",
+      "url": "https://grad.admissions.uiowa.edu/english-proficiency-requirements"
+    },
+    "ielts_min": {
+      "code": "7.0",
+      "value": "Overall score of 7 with no subscore less than 6.",
+      "quote": "Overall score of 7 with no subscore less than 6",
+      "url": "https://grad.admissions.uiowa.edu/english-proficiency-requirements"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Waiver given if applicant is a citizen or earned equivalent bachelor's, master's, or PhD in the US or exempt countries.",
+      "quote": "Applicants will be given a waiver if they are a citizen, or have earned the equivalent of a bachelor\u2019s degree, master's degree, or Ph.D. in the United States, or any of the following countries:",
+      "url": "https://grad.admissions.uiowa.edu/english-proficiency-requirements"
+    }
+  }
+}
