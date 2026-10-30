@@ -1,0 +1,47 @@
+{
+  "id": "ucl",
+  "institution": "University College London",
+  "country": "United Kingdom",
+  "region": "England",
+  "grad_page": "https://www.ucl.ac.uk/study/prospective-students/graduate/how-apply/applying-graduate-research-study-ucl",
+  "checked": "2026-10-30",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "UCL Research Degree courses are exempt from the graduate application fee.",
+      "quote": "Courses that are exempt from application fees\nUCL Research Degree courses",
+      "url": "https://www.ucl.ac.uk/study/prospective-students/graduate/how-apply/application-fees"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "Research degree courses do not charge an application fee.",
+      "quote": "Courses that are exempt from application fees\nUCL Research Degree courses",
+      "url": "https://www.ucl.ac.uk/study/prospective-students/graduate/how-apply/application-fees"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE General test is not required or requested centrally for graduate research admission at UCL.",
+      "quote": "",
+      "url": "https://www.ucl.ac.uk/study/prospective-students/graduate/how-apply/entry-requirements"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "UCL sets five levels of English language proficiency; each degree course page confirms which level applies.",
+      "quote": "See each degree course page to confirm which UCL level of English proficiency you will need to meet.",
+      "url": "https://www.ucl.ac.uk/study/prospective-students/graduate/how-apply/english-language-requirements"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "UCL sets five levels of English language proficiency; each degree course page confirms which level applies.",
+      "quote": "See each degree course page to confirm which UCL level of English proficiency you will need to meet.",
+      "url": "https://www.ucl.ac.uk/study/prospective-students/graduate/how-apply/english-language-requirements"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "UCL waives the English test only for degrees completed in an approved majority English-speaking country; degrees from India do not qualify.",
+      "quote": "This must be in a country that UCL considers to be acceptable for this purpose and the medium of instruction must be English.",
+      "url": "https://www.ucl.ac.uk/study/prospective-students/graduate/how-apply/english-language-requirements"
+    }
+  },
+  "notes": "Graduate research degrees at UCL include MPhil/PhD programmes across faculties. Most research programmes have rolling admission and no application fee."
+}
