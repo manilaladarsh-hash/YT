@@ -1,0 +1,47 @@
+{
+  "id": "newcastle",
+  "institution": "Newcastle University",
+  "country": "United Kingdom",
+  "region": "England",
+  "grad_page": "https://www.ncl.ac.uk/postgraduate-research/",
+  "checked": "2026-10-30",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "Central research guidance outlines tuition fees and postgraduate funding without stating a general application fee for research degree programmes.",
+      "quote": "",
+      "url": "https://www.ncl.ac.uk/postgraduate-research/how-to-apply/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Central guidance does not publish fee waiver procedures as no general PGR application fee is stated.",
+      "quote": "",
+      "url": "https://www.ncl.ac.uk/postgraduate-research/how-to-apply/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE General test is not required or requested centrally for postgraduate research admission at Newcastle.",
+      "quote": "",
+      "url": "https://www.ncl.ac.uk/postgraduate-research/how-to-apply/"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "Standard minimum English requirement for degree programmes is TOEFL iBT 90 with minimum sub-scores (such as reading 18).",
+      "quote": "Before 21 January 2026\nTOEFL IBT: score of 90 with a minimum of:\nreading: ",
+      "url": "https://www.ncl.ac.uk/international/language/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Standard minimum English requirement is IELTS 6.5 overall with at least 5.5 in each of the four sub-skills.",
+      "quote": "In most cases you will need an overall score of IELTS 6.5 or equivalent. You will also need at least IELTS 5.5 or equivalent in each of the four sub-ski",
+      "url": "https://www.ncl.ac.uk/international/language/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Exemption applies only to applicants from approved majority English-speaking countries; degrees from non-majority countries like India do not waive the test requirement.",
+      "quote": "If English is not your first language you will need to provide a recognised English language test or qualification.",
+      "url": "https://www.ncl.ac.uk/international/language/"
+    }
+  },
+  "notes": "Postgraduate research degrees at Newcastle University include PhD, MPhil, and MD programmes across faculties."
+}
