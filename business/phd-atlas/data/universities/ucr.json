@@ -1,0 +1,47 @@
+{
+  "id": "ucr",
+  "institution": "University of California, Riverside",
+  "country": "USA",
+  "region": "California",
+  "grad_page": "https://graduate.ucr.edu/admission-requirements",
+  "checked": "2026-10-30",
+  "notes": "Quarter system. Domestic application fee is $135; international application fee is $155.",
+  "fields": {
+    "app_fee": {
+      "code": "135 USD",
+      "value": "Application fee is $135 for domestic applicants and $155 for international applicants.",
+      "quote": "All programs except the MPAc, MFin, Business Analytics, and MBA: $135",
+      "url": "https://graduate.ucr.edu/admission-requirements"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Financial hardship fee waivers are available to qualified domestic applicants only.",
+      "quote": "A limited amount of Financial Hardship Fee Waivers are available to qualified domestic applicants only.",
+      "url": "https://graduate.ucr.edu/admission-requirements"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Many graduate programs no longer require GRE; required status depends on specific program.",
+      "quote": "Many graduate programs no longer require the GRE. However, if the graduate program you are applying to requires the GRE, this will be confirmed in the online application.",
+      "url": "https://graduate.ucr.edu/admission-requirements"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Minimum acceptable score is 80 for the TOEFL iBT (prior to January 21, 2026).",
+      "quote": "- 80 for the TOEFL iBT (prior to January 21, 2026)",
+      "url": "https://graduate.ucr.edu/admission-requirements"
+    },
+    "ielts_min": {
+      "code": "7.0",
+      "value": "Minimum acceptable overall score is 7.0, with no score less than 6 on any individual component.",
+      "quote": "- 7, with no score less than 6 on any individual component",
+      "url": "https://graduate.ucr.edu/admission-requirements"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exemption granted if degree earned where English is the exclusive language of instruction, confirmed through WHED.",
+      "quote": "You have earned or will earn an undergraduate or advanced degree at an institution outside of the U.S. where English is the exclusive language of instruction, confirmed through WHED. If English is not the only language listed or if no language is listed, additional documentation may be required.",
+      "url": "https://graduate.ucr.edu/admission-requirements"
+    }
+  }
+}
