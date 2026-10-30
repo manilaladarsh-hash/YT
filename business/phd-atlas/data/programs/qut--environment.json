@@ -1,0 +1,48 @@
+{
+  "id": "qut--environment",
+  "university": "qut",
+  "field": "environment",
+  "also_fields": [],
+  "department": "School of Civil and Environmental Engineering",
+  "program_page": "https://www.qut.edu.au/courses/doctor-of-philosophy",
+  "checked": "2026-10-30",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "The Doctor of Philosophy degree accepts applications on a rolling basis ('Start any time').",
+      "quote": "Start any time",
+      "url": "https://www.qut.edu.au/courses/doctor-of-philosophy"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Admission criteria for Doctor of Philosophy and Master of Philosophy degrees are outlined in the respective course requirements on the QUT website.",
+      "quote": "(8) Admission criteria for Doctor of Philosophy (PhD) and Master of Philosophy (MPhil) degrees are outlined in the respective course requirements and published on the QUT website.",
+      "url": "https://mopp.qut.edu.au/document/view.php?id=128&version=1"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "All higher degree research candidates must have a minimum of two academic supervisors (Principal and Associate).",
+      "quote": "(13) All higher degree research (HDR) candidates must have a minimum of two Supervisors, one of whom will be the Principal Supervisor and the other an Associate Supervisor. Both Supervisors must be current academic staff members.",
+      "url": "https://mopp.qut.edu.au/document/view.php?id=128&version=1",
+      "also": [
+        {
+          "quote": "Maintain regular contact with supervisors and participate in University scholarly activities such as seminars, teaching and publication; a program of supervised research and investigation; and preparation of a thesis.",
+          "url": "https://www.qut.edu.au/courses/doctor-of-philosophy"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Domestic HDR candidates are eligible for RTP tuition fee exemptions; QUT offers a limited number of sponsorships to international students.",
+      "quote": "(16) Consistent with the Australian Government Research Training Program, all domestic higher degree research (HDR) candidates are normally eligible for a period of tuition fee exemption. QUT offers a limited number of sponsorships to international students based on faculty recommendations.",
+      "url": "https://mopp.qut.edu.au/document/view.php?id=128&version=1"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    }
+  },
+  "notes": "QUT offers the Doctor of Philosophy in School of Civil and Environmental Engineering under centralized Higher Degree Research Candidature regulations."
+}
