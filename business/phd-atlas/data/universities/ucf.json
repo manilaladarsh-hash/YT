@@ -1,0 +1,47 @@
+{
+  "id": "ucf",
+  "institution": "University of Central Florida",
+  "country": "USA",
+  "region": "Florida",
+  "grad_page": "https://graduate.ucf.edu/applying-to-ucf/",
+  "checked": "2026-10-29",
+  "notes": "",
+  "fields": {
+    "app_fee": {
+      "code": "30 USD",
+      "value": "Application fee is $30 for each application submitted.",
+      "quote": "Complete a graduate application online and submit the non-refundable $30 application fee.",
+      "url": "https://graduate.ucf.edu/applying-to-ucf/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Application fee waivers are available for specific qualifying graduate programs/scholars; no hardship fee waivers are provided.",
+      "quote": "An application fee waiver may be available for students applying to specific graduate programs. | The College of Graduate Studies does not provide hardship fee waivers.",
+      "url": "https://graduate.ucf.edu/applying-to-ucf/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The university does not set a campus-wide GRE requirement; requirements are set individually by each degree program.",
+      "quote": "If the GRE or GMAT is required, the specific test will be explicitly stated in the “Admissions Requirements” section of the program.",
+      "url": "https://graduate.ucf.edu/application-deadlines-and-requirements/doctoral/2026/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Minimum university requirement is 80 on TOEFL iBT (or 4 on revised test). Certain programs require higher scores.",
+      "quote": "Minimum UCF Requirement for TOEFL/IELTS/Duolingo | TOEFL iBT | 80 | NOTE: Certain graduate programs require higher TOEFL iBT, IELTS or DET scores. Review your program’s application requirements for minimum score requirements.",
+      "url": "https://graduate.ucf.edu/international-applicants/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum university requirement is 6.5 overall band.",
+      "quote": "IELTS | 6.5 | Sent electronically via IELTS",
+      "url": "https://graduate.ucf.edu/international-applicants/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exemption is granted for applicants who earned a degree from an institution where English is the only official language of instruction.",
+      "quote": "Those who have earned a degree equivalent to a U.S. Bachelor’s, Master’s, or Doctoral degree from a university where English is the only official language of instruction. | Applicants who meet the criteria will have this requirement waived once an application fee has been received and their application has been processed.",
+      "url": "https://graduate.ucf.edu/international-applicants/"
+    }
+  }
+}
