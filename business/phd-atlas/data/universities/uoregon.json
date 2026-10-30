@@ -1,0 +1,47 @@
+{
+  "id": "uoregon",
+  "institution": "University of Oregon",
+  "country": "USA",
+  "region": "Oregon",
+  "grad_page": "https://graduatestudies.uoregon.edu/apply/how-to-apply",
+  "checked": "2026-10-30",
+  "notes": "Application fee is $70 domestic, $90 international.",
+  "fields": {
+    "app_fee": {
+      "code": "70 USD",
+      "value": "Application fee of $70 for domestic applicants and $90 for international applicants.",
+      "quote": "Domestic applicants: $70 | International applicants: $90",
+      "url": "https://graduatestudies.uoregon.edu/apply/how-to-apply"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Limited full fee waivers for international applicants with significant financial need who are nominated by their prospective program.",
+      "quote": "We offer a limited number of full fee waivers for international applicants with significant financial need. Applicants must be nominated by their prospective program.",
+      "url": "https://graduatestudies.uoregon.edu/apply/application-fee-waivers-discounts"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE requirements determined by each graduate program.",
+      "quote": "Submit GMAT or GRE scores (if required by your program)",
+      "url": "https://graduatestudies.uoregon.edu/apply/how-to-apply"
+    },
+    "toefl_min": {
+      "code": "88",
+      "value": "Minimum TOEFL iBT score of 88.",
+      "quote": "88 or 4.5",
+      "url": "https://graduatestudies.uoregon.edu/apply/international-applicants"
+    },
+    "ielts_min": {
+      "code": "7.0",
+      "value": "Minimum IELTS score of 7.0 overall band score.",
+      "quote": "7.0 Overall Band Score",
+      "url": "https://graduatestudies.uoregon.edu/apply/international-applicants"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "English-medium-of-instruction certificates not accepted in place of approved documentation.",
+      "quote": "The University of Oregon does not accept English-medium-of-instruction certificates in place of approved English proficiency documentation.",
+      "url": "https://graduatestudies.uoregon.edu/apply/international-applicants"
+    }
+  }
+}
