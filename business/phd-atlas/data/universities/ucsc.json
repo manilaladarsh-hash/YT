@@ -1,0 +1,47 @@
+{
+  "id": "ucsc",
+  "institution": "University of California, Santa Cruz",
+  "country": "USA",
+  "region": "California",
+  "grad_page": "https://graduateadmissions.ucsc.edu/help-for-applicants/",
+  "checked": "2026-10-30",
+  "notes": "Quarter system. Domestic application fee is $135; international application fee is $155.",
+  "fields": {
+    "app_fee": {
+      "code": "135 USD",
+      "value": "Application fee is $135.00 for domestic applicants and $155.00 for international applicants.",
+      "quote": "The application fee is $135.00 for domestic applicants and $155.00 for international applicants. Electronic payment options are available through our application system; a small fee (approximately $4) will also be charged for credit card processing.",
+      "url": "https://graduateadmissions.ucsc.edu/help-for-applicants/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Fee waivers are available for US Citizens, AB 540, or Permanent Residents with financial hardship, but are extremely limited.",
+      "quote": "If you are a US Citizen, AB 540, or Permanent Resident of the United States, you may request an application fee waiver if you believe you are eligible. Please be aware that fee waivers are extremely limited.",
+      "url": "https://graduateadmissions.ucsc.edu/help-for-applicants/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE requirements vary by program; applicants should check specific program requirements.",
+      "quote": "GRE requirements vary by program; applicants whose native language is not English may be required to take the TOEFL iBT (including the Home Edition) or IELTS Academic exam.",
+      "url": "https://graduateadmissions.ucsc.edu/help-for-applicants/"
+    },
+    "toefl_min": {
+      "code": "83",
+      "value": "Minimum TOEFL iBT score is 83 for general programs, though select STEM programs require 89.",
+      "quote": "83 for all other programs.",
+      "url": "https://graduateadmissions.ucsc.edu/test-score-requirements/"
+    },
+    "ielts_min": {
+      "code": "7.0",
+      "value": "A minimum overall band score of 7 from the IELTS test is required for admission.",
+      "quote": "For those choosing to take the IELTS Academic (in-person and online versions), a minimum overall score of 7 from the IELTS test is required for admission.",
+      "url": "https://graduateadmissions.ucsc.edu/test-score-requirements/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Waivers for admission purposes may be requested by applicants who completed a 4-year bachelor's degree at an English-speaking institution.",
+      "quote": "TOEFL/IELTS waivers for admission purposes may be requested by applicants who do not have English as their first language and who have completed a four-year bachelor\u2019s degree at an English-speaking institution.",
+      "url": "https://graduateadmissions.ucsc.edu/help-for-applicants/"
+    }
+  }
+}
