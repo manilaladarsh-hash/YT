@@ -1,0 +1,47 @@
+{
+  "id": "unc",
+  "institution": "University of North Carolina at Chapel Hill",
+  "country": "USA",
+  "region": "North Carolina",
+  "grad_page": "https://gradschool.unc.edu/admissions/instructions.html",
+  "checked": "2026-10-30",
+  "notes": "Non-refundable $95 application fee per program.",
+  "fields": {
+    "app_fee": {
+      "code": "95 USD",
+      "value": "A non-refundable $95.00 application fee is required for each program to which you apply.",
+      "quote": "A non-refundable $95.00 application fee is required for each program to which you apply.",
+      "url": "https://gradschool.unc.edu/admissions/instructions.html"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "There are several categories of applicants who may qualify for an application fee waiver.",
+      "quote": "Fee waiver. There are several categories of applicants who may qualify for an application fee waiver. Please see Information on Application Fee Waiver requests.",
+      "url": "https://gradschool.unc.edu/admissions/instructions.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Standardized test score requirements determined by specific program listings.",
+      "quote": "Please see specific program listings for test score requirement information.",
+      "url": "https://gradschool.unc.edu/admissions/instructions.html"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "Recommended minimum internet-based TOEFL score is 90.",
+      "quote": "TOEFL tests taken prior to January 26, 2026 = 90",
+      "url": "https://gradschool.unc.edu/admissions/instructions.html"
+    },
+    "ielts_min": {
+      "code": "7.0",
+      "value": "Recommended minimum IELTS exam score is 7.0.",
+      "quote": "The IELTS exam = 7",
+      "url": "https://gradschool.unc.edu/admissions/instructions.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exemption granted if applicant received or will receive degree from an accredited university where English is sole language of instruction.",
+      "quote": "applicants who have received or will receive a degree from an accredited university where English is the SOLE language of instruction.",
+      "url": "https://gradschool.unc.edu/admissions/instructions.html"
+    }
+  }
+}
