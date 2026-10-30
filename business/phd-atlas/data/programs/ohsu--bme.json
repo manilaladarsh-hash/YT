@@ -1,0 +1,50 @@
+{
+  "id": "ohsu--bme",
+  "university": "ohsu",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biomedical Engineering",
+  "program_page": "https://www.ohsu.edu/school-of-medicine/biomedical-engineering/admissions",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-10",
+      "value": "We encourage prospective Ph.D. students to apply by Dec. 10 to start in the fall of the following year. We also accept applications year-round and review them quarterly.",
+      "quote": "We encourage prospective Ph.D. students to apply by Dec. 10 to start in the fall of the following year. We also accept applications year-round and review them quarterly.",
+      "url": "https://www.ohsu.edu/school-of-medicine/biomedical-engineering/admissions",
+      "inferred": "year",
+      "rolling": true
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study; ETS offers no Biomedical Engineering subject test.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on program admissions page.",
+      "quote": "",
+      "url": "https://www.ohsu.edu/school-of-medicine/biomedical-engineering/admissions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "We provide a stipend to all students in our program. All tuition and student fees are waived for full-time students who are members of Graduate Researchers United.",
+      "quote": "We provide a stipend to all students in our program. Please see the stipend policy for current rates. All tuition and student fees are waived for full-time students who are members of Graduate Researchers United. Students are also eligible for health and dental insurance.",
+      "url": "https://www.ohsu.edu/school-of-medicine/biomedical-engineering/admissions"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants should have taken undergraduate classes in engineering or other basic sciences with a strong math component; there are no specific undergraduate course requirements for admission.",
+      "quote": "Applicants should have taken undergraduate classes in engineering or other basic sciences with a strong math component. However, there are no specific undergraduate course requirements for admission. The GRE is not required.",
+      "url": "https://www.ohsu.edu/school-of-medicine/biomedical-engineering/admissions"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "We do not require the GRE and there are no GRE subject test requirements.",
+      "quote": "What GRE score do I need? Do I need to complete a GRE subject test?\nWe do not require the GRE and there are no GRE subject test requirements.",
+      "url": "https://www.ohsu.edu/school-of-medicine/biomedical-engineering/admissions"
+    }
+  },
+  "notes": ""
+}

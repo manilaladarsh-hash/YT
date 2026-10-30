@@ -1,0 +1,50 @@
+{
+  "id": "uwyo--neuro",
+  "university": "uwyo",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Graduate Neuroscience Program",
+  "program_page": "https://uwyo.catalog.acalog.com/preview_program.php?catoid=19&poid=20505",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "The priority deadline for students entering in the fall is March 1.",
+      "quote": "The priority deadline for students entering in the fall is March 1.",
+      "url": "https://uwyo.catalog.acalog.com/preview_entity.php?catoid=19&ent_oid=3180",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are accepted but not required.",
+      "quote": "GRE: Accepted but not required;",
+      "url": "https://uwyo.catalog.acalog.com/preview_program.php?catoid=19&poid=20505"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "GRE scores are accepted but not required.",
+      "quote": "GRE: Accepted but not required;",
+      "url": "https://uwyo.catalog.acalog.com/preview_program.php?catoid=19&poid=20505"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A student is expected to have a graduate adviser at all times, who must be a participating member of the Neuroscience faculty.",
+      "quote": "A student is expected to have a graduate adviser at all times. The faculty adviser must be a participating member of the Neuroscience faculty",
+      "url": "https://uwyo.catalog.acalog.com/preview_program.php?catoid=19&poid=20505"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Many graduate programs offer assistantships, which provide tuition benefits and stipends to eligible students.",
+      "quote": "Graduate Assistantships: Many graduate programs offer assistantships, which provide tuition benefits and stipends to eligible students.",
+      "url": "https://uwyo.catalog.acalog.com/content.php?catoid=19&navoid=2018"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree in a biological science from an accredited institution is required.",
+      "quote": "Bachelor’s degree in a biological science from an accredited institution;",
+      "url": "https://uwyo.catalog.acalog.com/preview_program.php?catoid=19&poid=20505"
+    }
+  },
+  "notes": "",
+  "name": "Neuroscience"
+}

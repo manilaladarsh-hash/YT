@@ -19,6 +19,10 @@ import sys
 from datetime import date
 from pathlib import Path
 
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -59,7 +63,7 @@ def html_to_text(html):
 
 
 def normalize(text):
-    lines = [re.sub(r"[ \t ]+", " ", ln).strip() for ln in text.splitlines()]
+    lines = [re.sub(r"[ \t\u00a0]+", " ", ln).strip() for ln in text.splitlines()]
     return "\n".join(ln for ln in lines if ln)
 
 
@@ -76,17 +80,34 @@ def is_pdf(r):
 
 def render(url):
     env = dict(os.environ)
-    env["NODE_PATH"] = subprocess.run(
-        [shutil.which("npm") or "npm", "root", "-g"], capture_output=True, text=True, encoding="utf-8"
-    ).stdout.strip()
+    npm_cmd = shutil.which("npm.cmd") or shutil.which("npm") or "npm"
+    try:
+        npm_root = subprocess.run(
+            [npm_cmd, "root", "-g"],
+            capture_output=True,
+            text=True,
+            encoding="utf-8",
+            shell=True if sys.platform == "win32" else False,
+        ).stdout.strip()
+    except Exception:
+        npm_root = ""
+    appdata = os.environ.get("APPDATA", "")
+    default_npm = str(Path(appdata) / "npm" / "node_modules") if appdata else ""
+    env["NODE_PATH"] = os.pathsep.join(
+        [p for p in [env.get("NODE_PATH"), npm_root, default_npm] if p]
+    )
     out = subprocess.run(
         ["node", str(ROOT / "scripts" / "render_fetch.cjs"), url],
-        capture_output=True, text=True, encoding="utf-8", env=env, timeout=90,
+        capture_output=True,
+        text=True,
+        encoding="utf-8",
+        env=env,
+        timeout=90,
     )
     if out.returncode != 0:
         raise RuntimeError(out.stderr.strip()[:300])
     data = json.loads(out.stdout)
-    return data["status"], data["final_url"], normalize(data["text"])
+    return data["status"], data["final_url"], normalize(data["text"]), data.get("html", "")
 
 
 def fetch(url, refresh=False, force_render=False):
@@ -97,25 +118,29 @@ def fetch(url, refresh=False, force_render=False):
         if not cached.get("text", "").startswith("%PDF"):
             return cached
     status, final_url, text, method = 0, url, "", "http"
+    rendered_html = ""
+    raw_html = ""
     try:
         r = requests.get(url, headers={"User-Agent": UA}, timeout=30)
         status, final_url = r.status_code, r.url
         if r.ok and is_pdf(r):
             text, method = pdf_to_text(r.content), "pdf"
         elif r.ok:
+            raw_html = r.text
             text = html_to_text(r.text)
     except requests.RequestException as exc:
         text = ""
         status = f"error: {exc.__class__.__name__}"
     if method != "pdf" and (force_render or status != 200 or len(text) < 800):
         try:
-            status, final_url, text = render(url)
+            status, final_url, text, rendered_html = render(url)
             method = "chromium"
         except Exception as exc:  # keep the http result if rendering fails
             method = f"http (render failed: {exc})"
     links = []
-    if method == "http" and status == 200:
-        soup = BeautifulSoup(r.text, "lxml")
+    html_src = raw_html if (method == "http" and (status == 200 or str(status).startswith("2"))) else rendered_html if (method.startswith("chromium") and rendered_html) else ""
+    if html_src:
+        soup = BeautifulSoup(html_src, "lxml")
         for a in soup.find_all("a", href=True):
             label = " ".join(a.get_text(" ").split())
             links.append([label[:120], requests.compat.urljoin(final_url, a["href"])])

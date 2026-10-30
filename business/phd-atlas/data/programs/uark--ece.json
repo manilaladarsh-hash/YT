@@ -1,0 +1,49 @@
+{
+  "id": "uark--ece",
+  "university": "uark",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical Engineering",
+  "program_page": "https://catalog.uark.edu/graduatecatalog/programsofstudy/electricalengineeringeleg/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Recommended deadline for Fall graduate assistantship consideration is February 1.",
+      "quote": "The recommended deadline for fall semester graduate assistantship consideration is Feb. 1, although departments/programs may have earlier deadlines.",
+      "url": "https://catalog.uark.edu/graduatecatalog/admissions/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE is required; waiver is available only for students with an ABET-accredited B.S. degree and high GPA.",
+      "quote": "Students who are applying for the Ph.D. E.E. degree may have the GRE requirement waived providing the student obtained a B.S. degree from an ABET-Accredited program",
+      "url": "https://catalog.uark.edu/graduatecatalog/programsofstudy/electricalengineeringeleg/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the catalog page.",
+      "quote": "",
+      "url": "https://catalog.uark.edu/graduatecatalog/programsofstudy/electricalengineeringeleg/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate assistantships include a monthly stipend and tuition coverage, awarded on a competitive basis.",
+      "quote": "Graduate Assistant Positions: All graduate assistants receive a monthly stipend, and | most cover the cost of tuition.",
+      "url": "https://graduate-students.uark.edu/admissions/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students may enter with a bachelor's degree (36 hours coursework) or with an M.S. degree (minimum additional 12 hours graded coursework).",
+      "quote": "A student entering the Ph.D. program with an M.S. degree will be required to complete a minimum of an additional 12 hours of graded coursework",
+      "url": "https://catalog.uark.edu/graduatecatalog/programsofstudy/electricalengineeringeleg/"
+    }
+  },
+  "notes": ""
+}

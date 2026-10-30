@@ -1,0 +1,55 @@
+{
+  "id": "uark--bme",
+  "university": "uark",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biomedical Engineering",
+  "program_page": "https://catalog.uark.edu/graduatecatalog/programsofstudy/biomedicalengineeringbmen/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Recommended deadline for Fall graduate assistantship consideration is February 1.",
+      "quote": "The recommended deadline for fall semester graduate assistantship consideration is Feb. 1, although departments/programs may have earlier deadlines.",
+      "url": "https://catalog.uark.edu/graduatecatalog/admissions/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "A GRE score of 302 or above (verbal and quantitative) is required.",
+      "quote": "A GRE score of 302 or above (verbal and quantitative).",
+      "url": "https://catalog.uark.edu/graduatecatalog/programsofstudy/biomedicalengineeringbmen/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "A TOEFL score of at least 80 (internet based) is required.",
+      "quote": "A TOEFL score of at least 213 (computer-based) or 80 (internet based). This requirement is waived for applicants whose native language is English",
+      "url": "https://catalog.uark.edu/graduatecatalog/programsofstudy/biomedicalengineeringbmen/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A member of the faculty must agree to serve as the Major Adviser to the prospective student.",
+      "quote": "A member of the faculty who is eligible (graduate status of group III or higher) must agree to serve as the Major Adviser to the prospective student",
+      "url": "https://catalog.uark.edu/graduatecatalog/programsofstudy/biomedicalengineeringbmen/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate assistantships include a monthly stipend and tuition coverage, awarded on a competitive basis.",
+      "quote": "Graduate Assistant Positions: All graduate assistants receive a monthly stipend, and | most cover the cost of tuition.",
+      "url": "https://graduate-students.uark.edu/admissions/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students with a B.S. or M.S. degree in engineering or engineering equivalent are eligible to apply.",
+      "quote": "Engineering Academic Background: Students with a B.S. or M.S. degree in engineering or engineering equivalent are eligible to apply for the Ph.D. program.",
+      "url": "https://catalog.uark.edu/graduatecatalog/programsofstudy/biomedicalengineeringbmen/"
+    }
+  },
+  "notes": ""
+}

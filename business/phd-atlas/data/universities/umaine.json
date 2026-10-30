@@ -1,0 +1,47 @@
+{
+  "id": "umaine",
+  "institution": "University of Maine",
+  "country": "USA",
+  "region": "Maine",
+  "grad_page": "https://gradcatalog.umaine.edu/content.php?catoid=41&navoid=1009",
+  "checked": "2026-10-29",
+  "fields": {
+    "app_fee": {
+      "code": "65 USD",
+      "value": "A complete degree application includes a $65 application fee.",
+      "quote": "$65 application fee",
+      "url": "https://umaine.edu/graduate/apply/application-checklist/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Application fee waivers are available only for IRT Scholars, McNair Scholars, current and former US Armed Forces members/dependents, and UMS alumni.",
+      "quote": "At this time, the only application fee waiver options at the Graduate School are for the following scenarios:\nIRT Scholars will receive an application fee waiver.\nMcNair Scholars will receive an application fee waiver.",
+      "url": "https://umaine.edu/graduate/apply/faq/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Graduate examination scores (GRE and/or GMAT) are not required by the Graduate School, but they may be required for the program to which you are applying.",
+      "quote": "Graduate examination scores (GRE and/or GMAT) are not required by the Graduate School, but they may be required for the program to which you are applying.",
+      "url": "https://umaine.edu/graduate/apply/faq/"
+    },
+    "toefl_min": {
+      "code": "82",
+      "value": "The Graduate School requires a minimum score of 82 on the iBT TOEFL or equivalent.",
+      "quote": "The Graduate School requires a minimum score of 82 on the iBT TOEFL or equivalent.",
+      "url": "https://gradcatalog.umaine.edu/content.php?catoid=41&navoid=1009"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The minimum IELTS score required for admission is 6.5.",
+      "quote": "Minimum Score: 6.5",
+      "url": "https://umaine.edu/graduate/apply/test-scores/"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "An English language proficiency exam is not needed if your undergraduate (or master's) degree was taught in English or if English is an official language of your home country.",
+      "quote": "An English language proficiency exam is not needed if your undergraduate (or master’s) degree was taught in English or if English is an official language of your home country.",
+      "url": "https://umaine.edu/graduate/apply/faq/"
+    }
+  },
+  "notes": ""
+}
