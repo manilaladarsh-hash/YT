@@ -1,0 +1,47 @@
+{
+  "id": "kuleuven",
+  "institution": "KU Leuven",
+  "country": "Belgium",
+  "region": "Flemish Brabant",
+  "grad_page": "https://www.kuleuven.be/english/phd",
+  "checked": "2026-10-30",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "Applicants for a doctoral or predoctoral programme are exempted from paying an application fee at KU Leuven.",
+      "quote": "Who is exempted from paying the application fee?\nExemptions on paying the application fee are only granted to applicants:\nfor a (pre)doctoral programme",
+      "url": "https://www.kuleuven.be/english/apply/requested-documents/application-fee"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "Doctoral applicants are exempt from the application fee, so no fee is charged.",
+      "quote": "Who is exempted from paying the application fee?\nExemptions on paying the application fee are only granted to applicants:\nfor a (pre)doctoral programme",
+      "url": "https://www.kuleuven.be/english/apply/requested-documents/application-fee"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE General test is not required or mentioned for doctoral admission at KU Leuven.",
+      "quote": "",
+      "url": "https://www.kuleuven.be/english/apply/application-instructions/instructions-doctoral"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "KU Leuven requires a minimum TOEFL iBT overall score of 79 for English proficiency.",
+      "quote": "The minimum overall score is 79.",
+      "url": "https://www.kuleuven.be/english/apply/language-requirements/english-proficiency-tests"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "KU Leuven requires a minimum IELTS Academic overall band score of 6.5 for English proficiency.",
+      "quote": "The minimum overall score is 6.5.",
+      "url": "https://www.kuleuven.be/english/apply/language-requirements/english-proficiency-tests"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "English proficiency test is waived only for applicants who have obtained a previous diploma taught in English in Australia, English-speaking Canada, Ireland, New Zealand, the UK, or the USA.",
+      "quote": "All applicants who have not obtained a previous diploma in a programme taught in English in Australia, English-speaking Canada, Ireland, New Zealand, the United Kingdom or the United States of America must submit one of the tests mentioned on this webpage, proving their proficiency in English.",
+      "url": "https://www.kuleuven.be/english/apply/language-requirements/english-proficiency-tests"
+    }
+  },
+  "notes": "Doctoral education at KU Leuven is organized through doctoral schools including the Arenberg Doctoral School (Science, Engineering & Technology) and Biomedical Sciences Doctoral School. Applicants must secure a supervisor before applying."
+}
