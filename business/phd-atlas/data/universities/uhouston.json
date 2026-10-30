@@ -1,0 +1,47 @@
+{
+  "id": "uhouston",
+  "institution": "University of Houston",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://www.uh.edu/graduate-school/admissions/how-to-apply/",
+  "checked": "2026-10-30",
+  "notes": "Domestic application fee is $50; international application fee is $80.",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "Application fees are $50 for domestic applicants, $80 for international applicants.",
+      "quote": "Application fees are $50 for domestic applicants, $80 for international applicants and $25 for non-degree (Certificate based programs). Limited application fee waivers are available. Please check with program regarding eligibility for application fee waivers.",
+      "url": "https://www.uh.edu/graduate-school/admissions/how-to-apply/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Limited application fee waivers are available depending on program eligibility.",
+      "quote": "Limited application fee waivers are available. Please check with program regarding eligibility for application fee waivers.",
+      "url": "https://www.uh.edu/graduate-school/admissions/how-to-apply/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Test score requirements vary by program; refer to program website.",
+      "quote": "Test Scores (GRE, GMAT, etc.) should be sent by the testing agency. Refer to the program's website for test score requirements. Use school code 6870 when reporting test scores to University of Houston.",
+      "url": "https://www.uh.edu/graduate-school/admissions/how-to-apply/"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Minimum score required by UH for internet-based TOEFL is 79 overall.",
+      "quote": "Minimum score required by UH for internet-based = 79 (120 scale) overall or 4 (6-point scale) overall internet-based test",
+      "url": "https://www.uh.edu/nsm/computer-science/graduate/admissions/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum score required by UH is 6.5 overall.",
+      "quote": "Minimum score required by UH = 6.5 overall",
+      "url": "https://www.uh.edu/nsm/computer-science/graduate/admissions/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Waiver granted for baccalaureate degree earned from an accredited US institution or institution in an English-medium country.",
+      "quote": "Baccalaureate degree (or higher) earned from a regionally accredited U.S. institution or at an institution at which English is the medium of instruction in the countries listed here.",
+      "url": "https://www.uh.edu/nsm/computer-science/graduate/admissions/"
+    }
+  }
+}
