@@ -1,0 +1,47 @@
+{
+  "id": "univie",
+  "institution": "University of Vienna",
+  "country": "Austria",
+  "region": "Vienna",
+  "grad_page": "https://doktorat.univie.ac.at/en/",
+  "checked": "2026-10-30",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No application fee is charged to submit an admission application through u:space at the University of Vienna.",
+      "quote": "",
+      "url": "https://studieren.univie.ac.at/en/studying-and-learning/financial-matters/amount-of-the-tuition-fee/students-union-fee"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application fee is charged, so no application fee waiver is stated.",
+      "quote": "",
+      "url": "https://studieren.univie.ac.at/en/studying-and-learning/financial-matters/amount-of-the-tuition-fee/students-union-fee"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE is not required or used for doctoral admission at the University of Vienna.",
+      "quote": "",
+      "url": "https://studieren.univie.ac.at/en/find-your-degree-programme"
+    },
+    "toefl_min": {
+      "code": "94",
+      "value": "Minimum TOEFL iBT score of 94 points or higher is required for English language proficiency at level B2.",
+      "quote": "TOEFL: IBT (internet-based): 94 points or higher",
+      "url": "https://studieren.univie.ac.at/en/applying-for-a-programme/language-proficiency/english-language-proficiency"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic overall band score of 6.5 points is required for English language proficiency at level B2.",
+      "quote": "IELTS Academic: Overall Band Score: 6.5 points",
+      "url": "https://studieren.univie.ac.at/en/applying-for-a-programme/language-proficiency/english-language-proficiency"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "English proficiency is satisfied by a full-time degree programme of at least two years taught entirely in English at a university in an EU/EEA country, Switzerland, UK, USA, Australia, New Zealand or Canada.",
+      "quote": "full-time degree programme of at least two years and\ntaught entirely in English and\nat a university in an EU/EEA country, Switzerland, the United Kingdom of Great Britain and Northern Ireland, the USA, Australia, New Zealand or Canada.",
+      "url": "https://studieren.univie.ac.at/en/applying-for-a-programme/language-proficiency/english-language-proficiency"
+    }
+  },
+  "notes": "Doctoral studies at the University of Vienna (Dr. rer. nat., Dr. techn., PhD) are managed through the Center for Doctoral Studies and Vienna Doctoral Schools. Researchers are typically appointed as PraeDocs under employment contracts."
+}
