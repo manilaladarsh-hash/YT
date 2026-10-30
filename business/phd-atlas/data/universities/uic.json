@@ -1,0 +1,47 @@
+{
+  "id": "uic",
+  "institution": "University of Illinois Chicago",
+  "country": "USA",
+  "region": "Illinois",
+  "grad_page": "https://grad.uic.edu/admissions/domestic-admission/",
+  "checked": "2026-10-30",
+  "notes": "Non-refundable application fee is $80; international credential evaluation fee of $100 applies to international credentials.",
+  "fields": {
+    "app_fee": {
+      "code": "80 USD",
+      "value": "A non-refundable application fee of $80 is required.",
+      "quote": "A non-refundable application fee of $80 (U.S. currency) is required to have your application reviewed.",
+      "url": "https://grad.uic.edu/admissions/domestic-admission/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Financial hardship waivers are not granted; specific waivers available only for UIC alumni and select programs.",
+      "quote": "Unfortunately, financial hardship waivers for graduate and professional applications are not granted.",
+      "url": "https://admissions.uic.edu/graduate-professional/application-process/application-fee-waivers"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE requirements are determined by each specific academic program.",
+      "quote": "These are determined by program. See the program's website for complete details. Program requirements may include (but are not limited to) items such as: GRE scores - use our Institutional Code 1851 to report your results",
+      "url": "https://admissions.uic.edu/graduate-professional/requirements-deadlines/international-requirements"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Minimum required score for iBT Internet-based TOEFL is 80.",
+      "quote": "Minimum required scores are: iBT Internet-based TOEFL of 80, with subscores of Reading 19, Listening 17, Speaking 20, and Writing 21; IELTS of 6.5, with all four subscores of at least 6.0",
+      "url": "https://ece.uic.edu/admissions/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum required IELTS Academic overall band score is 6.5.",
+      "quote": "Minimum required scores are: iBT Internet-based TOEFL of 80, with subscores of Reading 19, Listening 17, Speaking 20, and Writing 21; IELTS of 6.5, with all four subscores of at least 6.0",
+      "url": "https://ece.uic.edu/admissions/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exemption granted for enrollment at an accredited U.S. institution for at least two years of full-time study.",
+      "quote": "Enrollment at an accredited U.S. institution for at least two years of full-time, academic study.",
+      "url": "https://admissions.uic.edu/graduate-professional/requirements-deadlines/international-requirements"
+    }
+  }
+}
