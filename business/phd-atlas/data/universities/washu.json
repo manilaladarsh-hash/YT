@@ -1,0 +1,47 @@
+{
+ "id": "washu",
+ "institution": "Washington University in St. Louis",
+ "country": "USA",
+ "region": "Missouri",
+ "grad_page": "https://provost.washu.edu/vpge/graduate-admissions-academics-and-policies/",
+ "checked": "2026-10-30",
+ "notes": "Private research university in St. Louis, Missouri. Ph.D. programs across Arts & Sciences, McKelvey Engineering, and Division of Biology & Biomedical Sciences (DBBS).",
+ "fields": {
+  "app_fee": {
+   "code": "45 USD",
+   "value": "Non-refundable $45 application fee for graduate programs in Arts & Sciences (engineering programs are $75).",
+   "quote": "The application fee for graduate programs in Arts & Sciences is $45.",
+   "url": "https://gradstudies.artsci.washu.edu/admissions-faqs"
+  },
+  "fee_waiver": {
+   "code": "Limited",
+   "value": "Fee waivers available for prospective applicants who attend an eligible graduate admissions information session or qualify through partner pipeline programs.",
+   "quote": "Graduate applicants: Attend an info session and skip the application fee",
+   "url": "https://engineering.washu.edu/academics/graduate-admissions/application-checklist.html"
+  },
+  "gre_general": {
+   "code": "Optional",
+   "value": "GRE General Test is optional for doctoral programs across engineering and arts and sciences.",
+   "quote": "While the GRE General Test is optional for many programs, applicants are still encouraged to submit valid GRE scores if a test has already been taken or can take the test and provide results by our application deadline, as it gives us additional information when evaluating an application.",
+   "url": "https://engineering.washu.edu/academics/graduate-admissions/application-checklist.html"
+  },
+  "toefl_min": {
+   "code": "90",
+   "value": "Minimum score of 90 on old scale or 5.0 on new scale for TOEFL iBT.",
+   "quote": "Test of English as a Foreign Language (TOEFL) iBT \u2013 5.0 overall (new scale) OR 4.5 \u2265 90 overall (old scale)",
+   "url": "https://provost.washu.edu/vpge/graduate-admissions-academics-and-policies/"
+  },
+  "ielts_min": {
+   "code": "6.5",
+   "value": "Minimum composite score of 6.5 on IELTS Academic.",
+   "quote": "International English Language Testing System (IELTS) Academic \u2013 6.5 minimum composite score",
+   "url": "https://provost.washu.edu/vpge/graduate-admissions-academics-and-policies/"
+  },
+  "english_waiver": {
+   "code": "Yes",
+   "value": "Exemption from English proficiency testing granted for citizens of listed English-medium countries including India.",
+   "quote": "Citizenship from one of the following countries: Australia, Bermuda, Cameroon, Canada, Caribbean Commonwealth countries and British Caribbean territories (Anguilla, Antigua and Barbuda, The Bahamas, Barbados, Belize, British Virgin Islands, Cayman Islands, Dominica, Grenada, Guyana, Jamaica, Montserrat, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Islands), Ghana, Gibraltar, Hong Kong, India, Ireland, Kenya, Liberia, New Zealand, Nigeria, Sierra Leone, Singapore, South Africa, Uganda, United Kingdom, United States, Zambia, Zimbabwe.",
+   "url": "https://provost.washu.edu/vpge/graduate-admissions-academics-and-policies/"
+  }
+ }
+}
