@@ -17,6 +17,11 @@ const { chromium } = require("playwright");
     });
     const resp = await page.goto(url, { waitUntil: "domcontentloaded", timeout: 45000 });
     await page.waitForTimeout(2500);
+    await page.evaluate(() => {
+      document.querySelectorAll('*').forEach(el => {
+        if (el.style) el.style.visibility = 'visible';
+      });
+    });
     const text = await page.evaluate(() => document.body ? document.body.innerText : "");
     const html = await page.content();
     process.stdout.write(JSON.stringify({ status: resp ? resp.status() : 0, final_url: page.url(), text, html }));
