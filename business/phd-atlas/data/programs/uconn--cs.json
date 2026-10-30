@@ -1,0 +1,48 @@
+{
+  "id": "uconn--cs",
+  "university": "uconn",
+  "field": "cs",
+  "also_fields": [],
+  "department": "School of Computing",
+  "program_page": "https://computing.engineering.uconn.edu/graduate-studies/ph-d-program/",
+  "checked": "2026-10-29",
+  "notes": "",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "January 1 deadline for full consideration for Fall admission",
+      "quote": "For full consideration, applications must be received by January 1.",
+      "url": "https://computing.engineering.uconn.edu/graduate-studies/ph-d-program/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional but may be submitted as an additional demonstration of preparedness.",
+      "quote": "GRE scores are optional but may be submitted as an additional means to demonstrate academic preparedness.",
+      "url": "https://computing.engineering.uconn.edu/graduate-studies/ph-d-program/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers no Computer Science subject test.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Mentorship with a faculty research advisor is central, with direct research groups.",
+      "quote": "The program emphasizes self-directed study, independent inquiry, and close mentorship with a faculty research advisor.",
+      "url": "https://computing.engineering.uconn.edu/graduate-studies/ph-d-program/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All Ph.D. students receive financial aid through research or teaching assistantships with stipends, tuition coverage, and health insurance.",
+      "quote": "The UConn College of Engineering offers competitive financial support for Ph.D. students, including stipends, full tuition coverage, and health insurance. | All Ph.D. students receive financial aid through research assistantships (RAs) or teaching assistantships (TAs), which provide a stipend based on the assistantship type and department.",
+      "url": "https://grad.engineering.uconn.edu/ph-d-in-engineering/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Direct admission beyond the bachelor's degree.",
+      "quote": "Can I apply directly to the Ph.D. Program without an MS degree? | Yes.",
+      "url": "https://me.engr.uconn.edu/graduate/admissions"
+    }
+  }
+}
