@@ -1,0 +1,47 @@
+{
+  "id": "uga",
+  "institution": "University of Georgia",
+  "country": "USA",
+  "region": "Georgia",
+  "grad_page": "https://grad.uga.edu/admissions/requirements/",
+  "checked": "2026-10-29",
+  "notes": "",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "Application fee is $75 for the first application and $25 for each additional application.",
+      "quote": "As of July 2, 2024, the fee to apply for graduate programs at the University of Georgia is $75 for the first application; $25 for each additional application.",
+      "url": "https://grad.uga.edu/admissions/application-fee/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Application fee waivers are available only to applicants who have participated in select qualifying programs.",
+      "quote": "A limited number of application fee waivers are available only to applicants who have participated in qualifying programs. To obtain the application fee waiver, you will be prompted to upload supporting documentation related to your qualifying program as part of your application.",
+      "url": "https://grad.uga.edu/admissions/application-fee/"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Scores on the General Test of the GRE are required for admission as a prospective candidate for most graduate degrees, though several departments waive it.",
+      "quote": "Scores on the Verbal and Quantitative sections of the General Test of the Graduate Record Examinations (GRE) are required for admission as a prospective candidate for most graduate degrees.",
+      "url": "https://grad.uga.edu/admissions/requirements/entrance-test-scores/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Minimum TOEFL score requirement is 80 overall with at least 20 on speaking and writing (or 4.5 on the new scale with 4 on speaking and writing).",
+      "quote": "Minimum TOEFL score requirement: For exams taken prior to January 21, 2026, overall score of 80 with at least 20 on speaking and writing. For exams taken on or after January 22, 2026: overall score of 4.5 with at least a 4 on speaking and writing.",
+      "url": "https://grad.uga.edu/admissions/requirements/international-applications/english-language-proficiency-requirement/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS score requirement is an overall band of 6.5 with no single band below 6.0.",
+      "quote": "Minimum IELTS score requirement: overall band-width of 6.5, with no single band (score) below 6.0",
+      "url": "https://grad.uga.edu/admissions/requirements/international-applications/english-language-proficiency-requirement/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Applicants from countries where English is not the primary language must submit test scores; an Indian degree taught in English does not waive the requirement.",
+      "quote": "Applicants who have received degrees from non-U.S. accredited institutions in countries where English is not the primary/official language are required to demonstrate English proficiency. Applicants who have received degrees from accredited institutions in the U.S. or from institutions in countries where English is the primary language (e.g., the United Kingdom, Australia, New Zealand) usually are not required to submit the TOEFL (or IELTS) scores.",
+      "url": "https://grad.uga.edu/admissions/requirements/international-applications/english-language-proficiency-requirement/"
+    }
+  }
+}
