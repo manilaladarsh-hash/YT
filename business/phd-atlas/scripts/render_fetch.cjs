@@ -9,7 +9,9 @@ const { chromium } = require("playwright");
     console.error("usage: render_fetch.cjs <url>");
     process.exit(2);
   }
-  const browser = await chromium.launch();
+  const browser = await chromium.launch({
+    args: ["--disable-blink-features=AutomationControlled"],
+  });
   try {
     const page = await browser.newPage({
       userAgent:

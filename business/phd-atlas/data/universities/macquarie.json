@@ -1,0 +1,47 @@
+{
+  "id": "macquarie",
+  "institution": "Macquarie University",
+  "country": "Australia",
+  "region": "New South Wales",
+  "grad_page": "https://www.mq.edu.au/research/phd-and-research-degrees",
+  "checked": "2026-10-30",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The Graduate Research Admissions Policy states the university may charge an application fee, but specifies no fee amount for research degree applications.",
+      "quote": "(17) The University may charge an application fee.",
+      "url": "https://policies.mq.edu.au/document/view.php?id=369"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No fee amount is specified for research applications, and no fee waiver provision is stated.",
+      "quote": "",
+      "url": "https://policies.mq.edu.au/document/view.php?id=369"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement is stated in Macquarie University graduate research admission policies.",
+      "quote": "",
+      "url": "https://policies.mq.edu.au/document/view.php?id=369"
+    },
+    "toefl_min": {
+      "code": "86",
+      "value": "Schedule 1 sets TOEFL iBT minimum score of 86 overall (18 reading, 21 writing, 17 listening, 21 speaking) for most Graduate Research courses.",
+      "quote": "Competent English 86 18 21 17 21 Most Graduate Research courses",
+      "url": "https://policies.mq.edu.au/download.php?id=759&version=9&associated"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Schedule 1 sets IELTS Academic minimum score of 6.5 overall (minimum 6.0 in all bands) for most Graduate Research courses.",
+      "quote": "Competent English 6.5 6.0 6.0 6.0 6.0 Most Graduate Research courses",
+      "url": "https://policies.mq.edu.au/download.php?id=759&version=9&associated"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Macquarie accepts prior study in specified English-speaking countries (Australia, Canada, New Zealand, South Africa, Ireland, UK, USA) or postgraduate study taught in English from 13 listed countries (not including India).",
+      "quote": "Section 2: Study undertaken in specified English-speaking countries\nThe University may accept as meeting English proficiency requirements:",
+      "url": "https://policies.mq.edu.au/download.php?id=759&version=9&associated"
+    }
+  },
+  "notes": "Macquarie University admits doctoral candidates under the centralized Graduate Research Admissions Policy. Minimum degree requirements and English language standards are governed centrally by the Graduate Research Academy and Academic Senate."
+}
