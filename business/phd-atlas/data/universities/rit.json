@@ -1,0 +1,47 @@
+{
+  "id": "rit",
+  "institution": "Rochester Institute of Technology",
+  "country": "USA",
+  "region": "New York",
+  "grad_page": "https://www.rit.edu/admissions/graduate/apply",
+  "checked": "2026-10-29",
+  "notes": "",
+  "fields": {
+    "app_fee": {
+      "code": "65 USD",
+      "value": "$65 non-refundable application fee",
+      "quote": "To be considered for graduate study, you are required to pay a non-refundable $65 application fee. Your application fee can be paid within your admissions portal after you submit your application.",
+      "url": "https://www.rit.edu/admissions/graduate/application-instructions"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Waivers available for current RIT students and RIT alumni",
+      "quote": "Current RIT students and RIT alumni are not required to pay the $65.00 application fee. The application fee will be waived within 24 hours of the submission of your application.",
+      "url": "https://www.rit.edu/admissions/graduate/application-instructions"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Central graduate admissions does not set a campus-wide GRE requirement; requirements vary by academic degree program.",
+      "quote": "Test Scores (GRE/GMAT) varies by program Test Score Requirements Only some degrees require a GMAT (Graduate Management Admissions Test) or GRE (Graduate Record Examination).",
+      "url": "https://www.rit.edu/admissions/graduate/application-instructions"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "Central graduate admissions does not set a single university-wide minimum TOEFL score; minimums are determined by each individual degree program in the deadlines and requirements table.",
+      "quote": "View the overall minimum score requirement for your intended program in the graduate admission deadlines and requirements table.",
+      "url": "https://www.rit.edu/admissions/graduate/application-instructions"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "Central graduate admissions does not set a single university-wide minimum IELTS score; minimums are determined by each individual degree program in the deadlines and requirements table.",
+      "quote": "View the overall minimum score requirement for your intended program in the graduate admission deadlines and requirements table.",
+      "url": "https://www.rit.edu/admissions/graduate/application-instructions"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "International applicants may be considered for a waiver if they have worked or studied in the U.S. for the last two years.",
+      "quote": "International Applicants may be considered for a waiver of an english language proficiency exam if:\nThey have worked or studied in the U.S. for the last two years",
+      "url": "https://www.rit.edu/admissions/graduate/application-instructions"
+    }
+  }
+}
