@@ -1,0 +1,47 @@
+{
+  "id": "utdallas",
+  "institution": "The University of Texas at Dallas",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://graduate-admissions.utdallas.edu/deadlines-and-fees/",
+  "checked": "2026-10-30",
+  "notes": "Application fee is $75 for graduate applicants.",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "Application fee of $75 for all graduate applicants unless fee waiver applies.",
+      "quote": "All applicants are required to submit a $75 application fee within the application or Applicant Portal, unless you meet one of the fee waiver criteria below. The application fee is non-refundable.",
+      "url": "https://graduate-admissions.utdallas.edu/deadlines-and-fees/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Application fee waivers available for eligible participants in select programs; limited to U.S. citizens or permanent residents.",
+      "quote": "To qualify, students must be applying for a PhD or master\u2019s degree at UT Dallas. Non-degree applicants are not eligible for fee waivers. Only U.S. citizens, or permanent residents, are eligible to request a fee waiver.",
+      "url": "https://graduate-admissions.utdallas.edu/graduate-application-fee-waiver-program/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE or GMAT score required only if applicable by program.",
+      "quote": "GRE or GMAT score (if applicable)",
+      "url": "https://graduate-admissions.utdallas.edu/international-students/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Minimum TOEFL iBT score of 80 for tests taken on or before January 26, 2026 (or 4 on new scale).",
+      "quote": "Test of English as a Foreign Language iBT (Internet-based test) Minimum score: 80 (for tests taken on or before January 26, 2026)",
+      "url": "https://graduate-admissions.utdallas.edu/international-students/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic score of 6.5.",
+      "quote": "International English Language Testing System, Academic (IELTS) Minimum score: 6.5",
+      "url": "https://graduate-admissions.utdallas.edu/international-students/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exempt from English exam if degree earned through instruction and examination in English.",
+      "quote": "Your bachelor\u2019s or master\u2019s degree (or its equivalent) was earned through instruction and examination in English.",
+      "url": "https://graduate-admissions.utdallas.edu/international-students/"
+    }
+  }
+}
