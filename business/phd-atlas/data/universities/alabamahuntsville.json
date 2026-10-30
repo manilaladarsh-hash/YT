@@ -3,45 +3,45 @@
   "institution": "University of Alabama in Huntsville",
   "country": "USA",
   "region": "Alabama",
-  "grad_page": "https://www.uah.edu/admissions/graduate/apply-for-admission/international-students",
-  "checked": "2026-10-22",
+  "grad_page": "https://www.uah.edu/admissions/graduate/apply-for-admission",
+  "checked": "2026-10-29",
+  "notes": "",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not verified: the UAH graduate-school page could not be read, so this value is unknown.",
-      "quote": "",
-      "url": "https://www.uah.edu/admissions/graduate/apply-for-admission/international-students"
+      "code": "60 USD",
+      "value": "$60 nonrefundable application fee",
+      "quote": "Complete your application through your Charger account and pay the nonrefundable $60 application fee.",
+      "url": "https://www.uah.edu/admissions/graduate/apply-for-admission"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not verified: the UAH graduate-school page could not be read, so this value is unknown.",
-      "quote": "",
-      "url": "https://www.uah.edu/admissions/graduate/apply-for-admission/international-students"
+      "code": "Limited",
+      "value": "Fee waivers are available for current UAH JUMP students and full-time employees, with discounted fees for UAH graduates, but UAH has no general waiver process for others.",
+      "quote": "Current UAH JUMP students and full-time UAH employees will automatically have their application fees waived upon applying. Current UAH undergraduate students and graduates of UAH will receive a discounted application fee of $35.00. If you are a current UAH graduate student seeking to switch or add a program, you might be eligible for a fee waiver. Please email admissions@uah.edu to see if you are eligible. If you do not fall into one of the above categories, then we will not be able to waive or discount your application fee. We do not have a process for applying for an application fee waiver.",
+      "url": "https://www.uah.edu/admissions/graduate/apply-for-admission"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not verified: the UAH graduate-school page could not be read, so this value is unknown.",
-      "quote": "",
-      "url": "https://www.uah.edu/admissions/graduate/apply-for-admission/international-students"
+      "value": "Central graduate admissions does not set a single campus-wide GRE requirement; requirements vary by program.",
+      "quote": "Are GRE or GMAT scores required for admission? It depends on the program to which you are applying. Please view our test score requirements to determine if your program requires test scores for admissions consideration.",
+      "url": "https://www.uah.edu/admissions/graduate/apply-for-admission"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not verified: the UAH graduate-school page could not be read, so this value is unknown.",
-      "quote": "",
+      "code": "79",
+      "value": "TOEFL iBT minimum score is 79 (no sub-score below 19) on the old scale or 4 on the new scale.",
+      "quote": "TOEFL iBT: Old scoring scale - 79 (no sub-score below 19) OR New scoring scale - 4 (no section score below 3.5)",
       "url": "https://www.uah.edu/admissions/graduate/apply-for-admission/international-students"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not verified: the UAH graduate-school page could not be read, so this value is unknown.",
-      "quote": "",
+      "code": "6.0",
+      "value": "IELTS Academic minimum overall band is 6.0 (no sub-score below 6.0).",
+      "quote": "IELTS: 6.0 (no sub-score below 6.0)",
       "url": "https://www.uah.edu/admissions/graduate/apply-for-admission/international-students"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not verified: the UAH graduate-school page could not be read, so this value is unknown.",
-      "quote": "",
+      "code": "No",
+      "value": "No waiver for English-medium education outside approved exempt countries (US accredited institution, IB diploma, or schooling in an official English language country).",
+      "quote": "You do not need to submit a language test score if: You graduated from an accredited high school or university in the United States. You graduated from an International Baccalaureate high school with an IB diploma. Your first language is English and you completed your schooling in English in a country where English is an official language.",
       "url": "https://www.uah.edu/admissions/graduate/apply-for-admission/international-students"
     }
-  },
-  "notes": "Unverified: no official UAH graduate-school page could be read in this session. www.uah.edu presents an InCommon certificate chain whose emSign root is not in the local trust stores, so TLS verification fails (not bypassed). The 2025-2026 Academic Catalog PDF on louis.uah.edu (cgi/viewcontent.cgi?article=1059&context=catalogs) returns a Cloudflare challenge (403). All values are Not stated because no page was read, not because the pages are silent. Re-run research once a page is reachable."
+  }
 }

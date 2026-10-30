@@ -4,44 +4,44 @@
   "country": "USA",
   "region": "Alaska",
   "grad_page": "https://www.uaf.edu/gradschool/prospective-students/graduate-admissions.php",
-  "checked": "2026-10-22",
+  "checked": "2026-10-29",
+  "notes": "",
   "fields": {
     "app_fee": {
-      "code": "Not stated",
-      "value": "Not stated: the official UAF graduate admissions page could not be fetched in this session.",
-      "quote": "",
+      "code": "75 USD",
+      "value": "$75 nonrefundable application fee",
+      "quote": "$75 nonrefundable application fee",
       "url": "https://www.uaf.edu/gradschool/prospective-students/graduate-admissions.php"
     },
     "fee_waiver": {
-      "code": "Not stated",
-      "value": "Not stated: the official UAF graduate admissions page could not be fetched in this session.",
-      "quote": "",
+      "code": "Available",
+      "value": "Ph.D. applicants can apply for free using fee waiver code #UAFR1.",
+      "quote": "Apply to UAF for Free! For a limited time, you can apply to our Ph.D. program for free using the fee waiver code #UAFR1.",
       "url": "https://www.uaf.edu/gradschool/prospective-students/graduate-admissions.php"
     },
     "gre_general": {
       "code": "Not stated",
-      "value": "Not stated: the official UAF graduate admissions page could not be fetched in this session.",
-      "quote": "",
-      "url": "https://www.uaf.edu/gradschool/prospective-students/graduate-admissions.php"
+      "value": "Central graduate admissions does not set a single campus-wide GRE requirement; requirements vary by department.",
+      "quote": "The University of Alaska Fairbanks does not require submission of Graduate Record Exam (GRE) scores from all students. However, individual departments may require or allow submission of GRE scores.",
+      "url": "https://catalog.uaf.edu/getting-started/admission/"
     },
     "toefl_min": {
-      "code": "Not stated",
-      "value": "Not stated: the official UAF graduate admissions page could not be fetched in this session.",
-      "quote": "",
-      "url": "https://www.uaf.edu/gradschool/prospective-students/graduate-admissions.php"
+      "code": "79",
+      "value": "TOEFL minimum score is 79.",
+      "quote": "A minimum TOEFL score of 79",
+      "url": "https://catalog.uaf.edu/getting-started/admission/"
     },
     "ielts_min": {
-      "code": "Not stated",
-      "value": "Not stated: the official UAF graduate admissions page could not be fetched in this session.",
-      "quote": "",
-      "url": "https://www.uaf.edu/gradschool/prospective-students/graduate-admissions.php"
+      "code": "6.5",
+      "value": "IELTS Academic minimum overall band is 6.5.",
+      "quote": "A minimum IELTS score of 6.5",
+      "url": "https://catalog.uaf.edu/getting-started/admission/"
     },
     "english_waiver": {
-      "code": "Not stated",
-      "value": "Not stated: the official UAF graduate admissions page could not be fetched in this session.",
-      "quote": "",
-      "url": "https://www.uaf.edu/gradschool/prospective-students/graduate-admissions.php"
+      "code": "No",
+      "value": "No waiver for English-medium education outside approved exempt countries; India is not exempt.",
+      "quote": "Applicants who have completed secondary or baccalaureate education, where the primary language of instruction was English, from one of the following countries or territories** are exempt from this requirement:",
+      "url": "https://catalog.uaf.edu/getting-started/admission/"
     }
-  },
-  "notes": "Blocked, not researched. Every www.uaf.edu page (graduate admissions, graduate school home, physics department) and catalog.uaf.edu returned 502 through scripts/research.py. Cause: the www.uaf.edu certificate chain (InCommon, alaska.edu) needs the root 'emSign Root TLS CA - G1', which is not in /root/.ccr/ca-bundle.crt, so TLS verification fails before the page loads. Fix needed before a re-run: trust that root for this session. No program records saved: the doctoral program list and every department page are on the blocked hosts."
+  }
 }
