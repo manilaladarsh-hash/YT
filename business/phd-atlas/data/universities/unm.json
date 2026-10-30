@@ -1,0 +1,47 @@
+{
+  "id": "unm",
+  "institution": "University of New Mexico",
+  "country": "USA",
+  "region": "New Mexico",
+  "grad_page": "https://grad.unm.edu/prospective-students/apply-now.html",
+  "checked": "2026-10-30",
+  "notes": "Application fee is $60 domestic, $70 international.",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "$60 domestic, $70 international online application fee.",
+      "quote": "When you have completed your application and are ready to submit it, you will be required to pay an application fee via credit card online ($60 for domestic applications, $70 for international applications).",
+      "url": "https://grad.unm.edu/prospective-students/apply-now.html"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Application fee waivers are not available to international applicants.",
+      "quote": "Application fee waivers are not available to international applicants.",
+      "url": "https://grad.unm.edu/prospective-students/apply-now.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Each graduate and professional program has specific requirements for admissions.",
+      "quote": "Each graduate and professional program has specific requirements for admissions, as well as its own deadlines. Before applying, be sure to review the application requirements and instructions for your program of interest, as well as the information below.",
+      "url": "https://grad.unm.edu/prospective-students/apply-now.html"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "79 internet-based minimum TOEFL score.",
+      "quote": "79 (4.5)",
+      "url": "https://international.unm.edu/english-proficiency.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "6.5 minimum IELTS Academic band score.",
+      "quote": "6.5",
+      "url": "https://international.unm.edu/english-proficiency.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exemption granted for bachelor's degree from regionally-accredited US institution or recognized institution in English-speaking country.",
+      "quote": "Bachelor's degree from a regionally-accredited US college or university or a recognized institution in English-Speaking Canada, the United Kingdom, South Africa, Australia, or New Zealand.",
+      "url": "https://international.unm.edu/english-proficiency.html"
+    }
+  }
+}
