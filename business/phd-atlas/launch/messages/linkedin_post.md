@@ -1,12 +1,12 @@
 <!-- Generated from linkedin_post.src.md by product/build.py. Edit that file, not this one. -->
 # E4: LinkedIn post
 
-Applying to STEM PhDs from India means hunting the same answers across dozens of websites. I checked the official pages of 2,968 programs in 18 fields, at 283 universities in the US, UK, Europe, Canada and Australia:
+Applying to STEM PhDs from India means hunting the same answers across dozens of websites. I checked the official pages of 3,649 programs in 18 fields, at 332 universities in the US, UK, Europe, Canada and Australia:
 
-→ 279 programs charge no application fee at all
-→ 34 universities accept an English-medium Indian degree instead of IELTS/TOEFL; 83 don't
+→ 498 programs charge no application fee at all
+→ 36 universities accept an English-medium Indian degree instead of IELTS/TOEFL; 114 don't
 → A GRE Subject test is still required at 26 programs
-→ 796 programs need a supervisor's agreement before you apply
+→ 1101 programs need a supervisor's agreement before you apply
 → Dec 1, 2026 is the most common US deadline
 
 I packaged it as the STEM PhD Atlas 2027. Every value is linked to the official sentence it came from. The offline explorer checks each program against your own situation (degree, tests, fee budget, funding) and builds a deadline plan with fees in ₹. Free 12-program sample: {SAMPLE_URL}?utm_source=linkedin&utm_medium=post&utm_campaign=launch2026
