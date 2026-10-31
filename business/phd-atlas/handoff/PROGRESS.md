@@ -259,4 +259,14 @@ Blocked pages (for owner): none
 Owner questions: none
 Commit: 4e411a01
 
+## Phase A Batch 8 (Repair Manchester) — 2026-10-31
+Universities: added 0 | repaired 1 (manchester) | screened out 0
+Programs: +0 new, −1 moved to _removed (manchester--bme: no standalone Biomedical Engineering PhD at Manchester; research delivered through Biomaterials PhD/MPhil and projects in Mechanical Engineering / EEE; bme added to also_fields of manchester--mech)
+Not stated: overall 20.65% (8260/40007) -> 20.64% (8257/39996) | math 25% | physics 24%
+audit_quality: generic_page 307 -> 290 (-17) / off_topic 688 / absence 123 / odd_cache 46
+Blocked pages (for owner): none
+Owner questions: none
+Commit: pending
+
+
 
