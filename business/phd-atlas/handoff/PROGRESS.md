@@ -204,3 +204,12 @@ audit_quality: generic_page 426 -> 409 (-17) / off_topic 742 / absence 123 / odd
 Blocked pages (for owner): none
 Owner questions: none
 Commit: 1c2bd815
+
+## Phase A Batch 2 (Repair Bath) — 2026-10-31
+Universities: added 0 | repaired 1 (bath) | screened out 0
+Programs: +0 new, −4 moved to _removed (bath--bme, bath--materials, bath--earth, bath--environment: no standalone PhD in BME, Materials, Earth Sciences, or Environmental Science at Bath; bme mapped to also_fields of bath--mech, materials mapped to also_fields of bath--chemeng, environment mapped to also_fields of bath--civil; Bath offers no Earth Sciences degree)
+Not stated: overall 20.68% (8297/40128) -> 20.66% (8283/40084) | math 25% | physics 24%
+audit_quality: generic_page 409 -> 392 (-17) / off_topic 742 / absence 123 / odd_cache 46
+Blocked pages (for owner): none
+Owner questions: none
+Commit: d08a18a6

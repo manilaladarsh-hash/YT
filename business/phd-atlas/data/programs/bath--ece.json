@@ -4,32 +4,33 @@
   "field": "ece",
   "also_fields": [],
   "department": "Department of Electronic & Electrical Engineering",
-  "program_page": "https://www.bath.ac.uk/guides/how-to-apply-for-doctoral-study/",
-  "checked": "2026-10-30",
+  "program_page": "https://www.bath.ac.uk/courses/postgraduate-research/phd-electronic-and-electrical-engineering-full-time/",
+  "checked": "2026-10-31",
   "fields": {
     "deadline": {
-      "code": "2027-06-30",
-      "value": "The application deadline for an end-of-September start is 30 June for Overseas applicants (or three months before other intended start dates).",
-      "quote": "The application deadlines are three months before the intended start date (for Overseas applicants) or two months before the intended start date (for Home applicants).\nFor example, for an end-of-September start, the deadline is:\n30 J",
-      "url": "https://www.bath.ac.uk/guides/how-to-apply-for-doctoral-study/"
+      "code": "Rolling",
+      "value": "Applications are accepted on a rolling basis with deadlines 3 months prior to the intended start date for international applicants (30 June for September start).",
+      "quote": "3 months prior to the intended start date (for international applicants) or 2 months prior to the intended start date (for home applicants). For example, for an end of September start, the deadline is 30 June (international) and 31 July (home).",
+      "url": "https://www.bath.ac.uk/courses/postgraduate-research/phd-electronic-and-electrical-engineering-full-time/",
+      "time_sensitive": "2027-06-30"
     },
     "entry_route": {
-      "code": "Either",
-      "value": "Most PhD programmes are open to applicants with a first-class or upper second-class undergraduate degree or a master's degree with Merit (or international equivalents).",
-      "quote": "Most PhD programmes are open to applicants with a first-class or upper second-class undergraduate degree or a masterâs degree with Merit (or their international equivalents). You ca",
-      "url": "https://www.bath.ac.uk/guides/applying-for-doctoral-study-at-the-university-of-bath-faqs/"
+      "code": "Direct from bachelor's",
+      "value": "A first-class or upper second-class UK Honours degree (or equivalent), or a relevant Master's degree.",
+      "quote": "A first-class or upper second-class honours degree (or equivalent)",
+      "url": "https://www.bath.ac.uk/courses/postgraduate-research/phd-electronic-and-electrical-engineering-full-time/"
     },
     "supervisor": {
       "code": "Required",
-      "value": "Applications must name at least one proposed supervisor who will review the application, and applicants are strongly recommended to contact supervisors in advance.",
-      "quote": "If you are applying with your own research proposal, your application must name at least one proposed supervisor who is working in a relevant research area. This is important as that supervisor will review your application. We strongly recommend contacting p",
-      "url": "https://www.bath.ac.uk/guides/applying-for-doctoral-study-at-the-university-of-bath-faqs/"
+      "value": "Applicants must identify at least one intended lead supervisor in their application, and are strongly recommended to contact them beforehand.",
+      "quote": "You must identify at least one (up to two) intended lead supervisor(s) in your application. We cannot consider your application if no supervisor has been named.",
+      "url": "https://www.bath.ac.uk/courses/postgraduate-research/phd-electronic-and-electrical-engineering-full-time/"
     },
     "funding": {
       "code": "Competitive",
-      "value": "Standard studentships provide the UKRI stipend rate (£21,805 for 2026-2027) plus tuition fees via competitive university awards and research councils.",
-      "quote": "A standard University of Bath studentship offers the UK Research and Innovation (UKRI) stipend rate of Â£21,805 for the 2026 to 2027 academic ye",
-      "url": "https://www.bath.ac.uk/guides/applying-for-doctoral-study-at-the-university-of-bath-faqs/"
+      "value": "Funding is competitive via university research studentships, research councils, or project-specific funding.",
+      "quote": "Fees and funding information for Electronic and Electrical Engineering PhD",
+      "url": "https://www.bath.ac.uk/courses/postgraduate-research/phd-electronic-and-electrical-engineering-full-time/"
     },
     "gre_subject": {
       "code": "No subject test",
