@@ -286,6 +286,16 @@ Blocked pages (for owner): none
 Owner questions: none
 Commit: c1f8ea47
 
+## Phase A Batch 11 (Repair Southampton — UK Eleven Complete!) — 2026-10-31
+Universities: added 0 | repaired 1 (southampton) | screened out 0
+Programs: +0 new, −2 moved to _removed (southampton--bme, southampton--materials: Southampton has no standalone Department of Biomedical Engineering or Materials Science PhD, research delivered within Department of Mechanical Engineering; bme and materials added to also_fields of southampton--mech)
+Not stated: overall 20.63% (8244/39963) -> 20.61% (8234/39941) | math 25% | physics 24%
+audit_quality: generic_page 256 -> 239 (-17) / off_topic 671 / absence 123 / odd_cache 46
+Blocked pages (for owner): none
+Owner questions: none
+Commit: pending
+
+
 
 
 

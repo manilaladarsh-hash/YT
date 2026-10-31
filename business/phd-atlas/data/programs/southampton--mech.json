@@ -2,9 +2,12 @@
   "id": "southampton--mech",
   "university": "southampton",
   "field": "mech",
-  "also_fields": [],
-  "department": "School of Engineering",
-  "program_page": "https://www.southampton.ac.uk/study/postgraduate-research/apply",
+  "also_fields": [
+    "bme",
+    "materials"
+  ],
+  "department": "Department of Mechanical Engineering",
+  "program_page": "https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-engineering/department-of-mechanical-engineering",
   "checked": "2026-10-30",
   "fields": {
     "deadline": {
@@ -38,5 +41,5 @@
       "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
     }
   },
-  "notes": "Postgraduate research programme (Mechanical Engineering PhD) in the School of Engineering at the University of Southampton."
+  "notes": "Postgraduate research programme (Mechanical Engineering PhD) in the Department of Mechanical Engineering (School of Engineering) at the University of Southampton. Doctoral research in biomedical engineering and materials is delivered within this department."
 }
