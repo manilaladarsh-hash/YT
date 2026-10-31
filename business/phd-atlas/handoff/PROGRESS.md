@@ -295,6 +295,16 @@ Blocked pages (for owner): none
 Owner questions: none
 Commit: c332602e
 
+## Phase A Batch 12 (Repair UCR) — 2026-10-31
+Universities: added 0 | repaired 1 (ucr) | screened out 0
+Programs: +0 new, −0 moved to _removed (all 16 PhD programs verified across departmental homepages: cs, ece, mech, bme, chemeng, chemistry, materials, math, statistics, physics, astronomy, earth, environment, biology, neuro, biomed)
+Not stated: overall 20.61% (8234/39941) -> 20.61% (8234/39941) | math 25% | physics 24%
+audit_quality: generic_page 239 -> 223 (-16) / off_topic 671 / absence 123 / odd_cache 46
+Blocked pages (for owner): none
+Owner questions: none
+Commit: pending
+
+
 
 
 
