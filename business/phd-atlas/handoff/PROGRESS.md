@@ -222,3 +222,12 @@ audit_quality: generic_page 392 -> 375 (-17) / off_topic 740 (-2) / absence 123 
 Blocked pages (for owner): none
 Owner questions: none
 Commit: 737952dc
+
+## Phase A Batch 4 (Repair Sheffield) — 2026-10-31
+Universities: added 0 | repaired 1 (sheffield) | screened out 0
+Programs: +0 new, −0 moved to _removed (all 17 PhD fields verified across departmental/school research pages: cs, chemistry, math, statistics, physics, astronomy, mech, civil, chemeng, materials, bme, ece, biology, biomed, earth, environment, neuro)
+Not stated: overall 20.66% (8275/40062) -> 20.66% (8275/40062) | math 25% | physics 24%
+audit_quality: generic_page 375 -> 358 (-17) / off_topic 740 -> 723 (-17) / absence 123 / odd_cache 46
+Blocked pages (for owner): none
+Owner questions: none
+Commit: pending
