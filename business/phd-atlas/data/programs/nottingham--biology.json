@@ -3,8 +3,8 @@
   "university": "nottingham",
   "field": "biology",
   "also_fields": [],
-  "department": "School of Life Sciences",
-  "program_page": "https://www.nottingham.ac.uk/pgstudy/course/research/physics-phd",
+  "department": "School of Biosciences",
+  "program_page": "https://www.nottingham.ac.uk/pgstudy/course/research/biosciences-phd",
   "checked": "2026-10-30",
   "fields": {
     "deadline": {
@@ -15,9 +15,9 @@
     },
     "entry_route": {
       "code": "Either",
-      "value": "Standard doctoral entry requires a 2:1 honours degree or a relevant Master's qualification.",
-      "quote": "2:1 or a masters in physics, mathematical physics or mathematics",
-      "url": "https://www.nottingham.ac.uk/pgstudy/course/research/physics-phd"
+      "value": "Standard doctoral entry requires a 2:1 honours degree in a relevant subject, or a 2:2 with a Merit at master's level.",
+      "quote": "2:1 (or international equivalent) in a relevant subject or 2:2 (or international equivalent) in a relevant subject with a Merit at masters level; other qualifications may also be accepted.",
+      "url": "https://www.nottingham.ac.uk/pgstudy/course/research/biosciences-phd"
     },
     "supervisor": {
       "code": "Required",
@@ -38,5 +38,5 @@
       "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
     }
   },
-  "notes": "Postgraduate research programme (Biological Sciences PhD) in the School of Life Sciences at the University of Nottingham."
+  "notes": "Postgraduate research programme (Biosciences PhD) in the School of Biosciences at the University of Nottingham."
 }

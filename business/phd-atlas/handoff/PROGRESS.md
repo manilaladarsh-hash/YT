@@ -277,6 +277,16 @@ Blocked pages (for owner): none
 Owner questions: none
 Commit: 454ae850
 
+## Phase A Batch 10 (Repair Nottingham) — 2026-10-31
+Universities: added 0 | repaired 1 (nottingham) | screened out 0
+Programs: +0 new, −1 moved to _removed (nottingham--bme: no standalone Biomedical Engineering PhD at Nottingham; research delivered through Materials Engineering and EEE; bme added to also_fields of nottingham--mech)
+Not stated: overall 20.63% (8248/39974) -> 20.63% (8244/39963) | math 25% | physics 24%
+audit_quality: generic_page 273 -> 256 (-17) / off_topic 671 / absence 123 / odd_cache 46
+Blocked pages (for owner): none
+Owner questions: none
+Commit: pending
+
+
 
 
 
