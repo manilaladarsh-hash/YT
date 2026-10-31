@@ -268,6 +268,16 @@ Blocked pages (for owner): none
 Owner questions: none
 Commit: 9bc32d38
 
+## Phase A Batch 9 (Repair Liverpool) — 2026-10-31
+Universities: added 0 | repaired 1 (liverpool) | screened out 0
+Programs: +0 new, −2 moved to _removed (liverpool--chemeng, liverpool--astronomy: Liverpool has no standalone Chemical Engineering department or PhD, research conducted in Chemistry and Materials; Astrophysics Research Institute is based at LJMU rather than Liverpool; chemeng added to also_fields of liverpool--chemistry, astronomy added to also_fields of liverpool--physics)
+Not stated: overall 20.64% (8257/39996) -> 20.63% (8248/39974) | math 25% | physics 24%
+audit_quality: generic_page 290 -> 273 (-17) / off_topic 688 -> 671 (-17) / absence 123 / odd_cache 46
+Blocked pages (for owner): none
+Owner questions: none
+Commit: pending
+
+
 
 
 
