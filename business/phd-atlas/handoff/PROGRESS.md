@@ -195,3 +195,12 @@
   - 123 inferred from silence quotes (e.g. GRE not mentioned -> "Not required").
   - 46 odd cache entries (cached via non-`research.py` helper scripts, mainly `uark`, `uwyo`).
 - Status: Phase 0 verified. Pausing for owner decisions E1–E5 before Phase A repairs.
+
+## Phase A Batch 1 (Repair Birmingham) — 2026-10-31
+Universities: added 0 | repaired 1 (birmingham) | screened out 0
+Programs: +0 new, −1 moved to _removed (birmingham--bme: no standalone Biomedical Engineering PhD at Birmingham; research conducted under Mechanical Engineering PhD and Chemical Engineering PhD; bme added to also_fields of birmingham--mech)
+Not stated: overall 20.69% (8304/40139) -> 20.68% (8297/40128) | math 25% | physics 24%
+audit_quality: generic_page 426 -> 409 (-17) / off_topic 742 / absence 123 / odd_cache 46
+Blocked pages (for owner): none
+Owner questions: none
+Commit: 1c2bd815
