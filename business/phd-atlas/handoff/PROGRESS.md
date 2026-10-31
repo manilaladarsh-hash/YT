@@ -240,3 +240,12 @@ audit_quality: generic_page 358 -> 341 (-17) / off_topic 723 / absence 123 / odd
 Blocked pages (for owner): none
 Owner questions: none
 Commit: 78948a0a
+
+## Phase A Batch 6 (Repair Newcastle) — 2026-10-31
+Universities: added 0 | repaired 1 (newcastle) | screened out 0
+Programs: +0 new, −1 moved to _removed (newcastle--bme: no standalone Biomedical Engineering PhD at Newcastle; research conducted through Centre for Biomedical Engineering within Mechanical and Systems Engineering; bme added to also_fields of newcastle--mech)
+Not stated: overall 20.65% (8263/40018) -> 20.65% (8260/40007) | math 25% | physics 24%
+audit_quality: generic_page 341 -> 324 (-17) / off_topic 723 -> 705 (-18) / absence 123 / odd_cache 46
+Blocked pages (for owner): none
+Owner questions: none
+Commit: pending
