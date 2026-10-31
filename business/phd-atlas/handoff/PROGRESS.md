@@ -231,3 +231,12 @@ audit_quality: generic_page 375 -> 358 (-17) / off_topic 740 -> 723 (-17) / abse
 Blocked pages (for owner): none
 Owner questions: none
 Commit: 2735bc38
+
+## Phase A Batch 5 (Repair Exeter) — 2026-10-31
+Universities: added 0 | repaired 1 (exeter) | screened out 0
+Programs: +0 new, −4 moved to _removed (exeter--chemistry, exeter--chemeng, exeter--bme, exeter--materials: Exeter has no Department or PhD in Chemistry or Chemical Engineering; Biomedical Engineering and Materials Engineering are sub-areas under MPhil/PhD Engineering and mapped to also_fields of exeter--mech)
+Not stated: overall 20.66% (8275/40062) -> 20.65% (8263/40018) | math 25% | physics 24%
+audit_quality: generic_page 358 -> 341 (-17) / off_topic 723 / absence 123 / odd_cache 46
+Blocked pages (for owner): none
+Owner questions: none
+Commit: pending
