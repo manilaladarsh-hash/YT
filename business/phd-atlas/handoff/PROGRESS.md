@@ -132,3 +132,66 @@
     - `statistics`: 18.66%
 - Live validation: `288 universities, 2996 programs, 0 errors, 0 warnings` (`rc=0`).
 - Overall `Not stated` (`coverage.py`): `7,187 -> 6,617 / 32,956 = 20%`.
+
+## Phase 8 (44 Added Universities: US R1/R2, Australia, Europe, UK) — 2026-10-29 to 2026-10-30
+- Universities added: 44 (total: 332 universities, 3,649 programs):
+  - US R1/R2 (30): `uark`, `uwyo`, `unh`, `umaine`, `ohsu`, `rit`, `wpi`, `wayne`, `uah`, `uaf`, `ucsd`, `ufl`, `uga`, `ucf`, `uconn`, `ucr`, `ucsc`, `uhouston`, `uic`, `uiowa`, `umich`, `unc`, `unm`, `uoregon`, `usc`, `utdallas`, `utk`, `virginiatech`, `washu`, `wsu`.
+  - Australia (3): `macquarie`, `qut`, `monash`.
+  - Europe (2): `univie`, `kuleuven`.
+  - UK (13): `oxford`, `ucl`, `manchester`, `birmingham`, `leeds`, `sheffield`, `southampton`, `nottingham`, `bath`, `exeter`, `cardiff`, `newcastle`, `liverpool`.
+- Commits:
+  - `dd909eb6` Add and promote verified universities: uark, uwyo, unh, umaine, ohsu with STEM PhD programs
+  - `55210bb0` Add and promote verified university and 10 STEM PhD programs for rit
+  - `f0919b2d` Add and promote 14 verified STEM PhD programs for wpi
+  - `f1151081` Add and promote 13 verified STEM PhD programs for wayne
+  - `972c5bfd` Add verified STEM PhD records for UAH and UAF
+  - `3f63736c` Add verified STEM PhD records for UCSD
+  - `548325e9` Add verified STEM PhD records for UFL
+  - `9f7e7148` Add verified STEM PhD records for UGA
+  - `cb755765` Add verified STEM PhD records for UCF
+  - `a630024b` Add verified STEM PhD records for UConn
+  - `f9b03e43` Add University of California, Riverside (ucr) with 16 STEM PhD programs
+  - `b745a6cb` Add University of California, Santa Cruz (ucsc) with 13 STEM PhD programs
+  - `f7649d97` Add University of Houston (uhouston) with 9 STEM PhD programs
+  - `d1c83ded` Add University of Illinois Chicago (uic) with 12 STEM PhD programs
+  - `6e6390cb` Add University of Iowa (uiowa) with 12 STEM PhD programs
+  - `64f87d78` Add University of Michigan (umich) with 11 STEM PhD programs
+  - `ebac613b` Add University of North Carolina at Chapel Hill (unc) with 9 STEM PhD programs
+  - `b5477f3d` Add unm (University of New Mexico) with 11 STEM PhD programs and cached pages
+  - `1a55ab02` Add uoregon (University of Oregon) with 6 STEM PhD programs and cached pages
+  - `dae74844` Add USC with 12 STEM PhD programs and cached sources
+  - `f45c62c5` Add UT Dallas with 12 STEM PhD programs and cached sources
+  - `e4c8d048` Add UT Knoxville with 13 STEM PhD programs and cached sources
+  - `c191973a` Add Virginia Tech (virginiatech) with 13 STEM PhD programs and cached pages
+  - `dce56965` Add Washington University in St. Louis (washu) with 12 STEM PhD programs and cached pages
+  - `ef2fdead` Add Washington State University (wsu) with 12 STEM PhD programs and cached pages
+  - `ec3cfb9f` Add Macquarie University (macquarie) with 12 STEM PhD programs and cached pages
+  - `86660039` Add Queensland University of Technology (qut) with 14 STEM PhD programs and cached pages
+  - `c9acd4e5` Add Monash University (monash) with 14 STEM PhD programs and cached pages
+  - `cce9bb1a` Add University of Vienna (univie) with 9 STEM PhD programs and cached pages
+  - `25297f02` Add KU Leuven (kuleuven) with 15 STEM PhD programs and cached pages
+  - `2449ea0a` Add University of Oxford (oxford) with 16 STEM DPhil programs and cached pages
+  - `14cfd9a3` Add University College London (ucl) with 16 STEM MPhil/PhD programs and cached pages
+  - `cd275283` Add University of Manchester (manchester) with 17 STEM PhD programs and cached pages
+  - `d92bb48f` Add University of Birmingham (birmingham) with 17 STEM PhD programs and cached pages
+  - `5cd822c0` Add University of Leeds (leeds) with 17 STEM PhD programs and cached pages
+  - `0e4546d7` Add University of Sheffield (sheffield) with 17 STEM PhD programs and cached pages
+  - `ec010bbd` Add University of Southampton (southampton) with 17 STEM PhD programs and cached pages
+  - `cd4c9ac7` Add University of Nottingham (nottingham) with 17 STEM PhD programs and cached pages
+  - `efba135a` Add University of Bath (bath) with 17 STEM PhD programs and cached pages
+  - `9e35609a` Add University of Exeter (exeter) with 17 STEM PhD programs and cached pages
+  - `110323ae` Add Cardiff University (cardiff) with 17 STEM PhD programs and cached pages
+  - `adc031f9` Add Newcastle University (newcastle) with 17 STEM PhD programs and cached pages
+  - `6e21f347` Add University of Liverpool (liverpool) with 17 STEM PhD programs and cached pages
+  - `c1946806` Handoff v2: audit of recent research, US R1/R2 coverage plan, quality audit script
+- Verification numbers:
+  - `validate_data.py --dir data --require-cache`: 332 universities, 3649 programs, 0 errors, 0 warnings (`rc=0`).
+  - `coverage.py --gate`: 332 of 340 listed universities have a record; 332 have programs; 3649 programs. Not stated overall: 8,304 / 40,139 = 20.69% (`rc=1`, gate ceiling is 15% overall; `math` at 25.4% exceeds 25% field ceiling).
+  - `audit_quality.py`: 3,981 records checked: `generic_page: 426`, `off_topic: 742`, `absence: 123`, `odd_cache: 46`.
+  - `product/build.py && pytest -q tests`: Explorer built with 3,649 programs into `dist/STEM-PhD-Atlas-2027-v2.0.zip`; 22 passed, 2 skipped (`rc=0`).
+- Quality Audit Findings (`HANDOFF.md` §1):
+  - 426 programs across 37 universities used generic "how to apply" / catalog landing pages with identical quotes across programs (existence of department PhD unproven on department page). Heavily concentrated in UK Russell Group (11 universities x 17 programs) and others (UCL, UCR, KU Leuven, Caltech, QUT, UCF, Monash, UCSC, Macquarie).
+  - 742 off-topic quotes flagged (e.g. deadline quoted for funding).
+  - 123 inferred from silence quotes (e.g. GRE not mentioned -> "Not required").
+  - 46 odd cache entries (cached via non-`research.py` helper scripts, mainly `uark`, `uwyo`).
+- Status: Phase 0 verified. Pausing for owner decisions E1–E5 before Phase A repairs.
