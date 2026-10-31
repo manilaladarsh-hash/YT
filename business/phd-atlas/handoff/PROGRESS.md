@@ -249,3 +249,13 @@ audit_quality: generic_page 341 -> 324 (-17) / off_topic 723 -> 705 (-18) / abse
 Blocked pages (for owner): none
 Owner questions: none
 Commit: 98702d2c
+
+## Phase A Batch 7 (Repair Cardiff) — 2026-10-31
+Universities: added 0 | repaired 1 (cardiff) | screened out 0
+Programs: +0 new, −0 moved to _removed (all 17 PhD fields verified across departmental and school research degree pages: cs, chemistry, math, statistics, physics, astronomy, biology, biomed, neuro, earth, environment, mech, materials, ece, bme, civil, chemeng)
+Not stated: overall 20.65% (8260/40007) -> 20.65% (8260/40007) | math 25% | physics 24%
+audit_quality: generic_page 324 -> 307 (-17) / off_topic 705 -> 688 (-17) / absence 123 / odd_cache 46
+Blocked pages (for owner): none
+Owner questions: none
+Commit: pending
+
