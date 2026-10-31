@@ -221,4 +221,4 @@ Not stated: overall 20.66% (8283/40084) -> 20.66% (8275/40062) | math 25% | phys
 audit_quality: generic_page 392 -> 375 (-17) / off_topic 740 (-2) / absence 123 / odd_cache 46
 Blocked pages (for owner): none
 Owner questions: none
-Commit: pending
+Commit: 737952dc
