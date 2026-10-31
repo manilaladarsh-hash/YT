@@ -212,4 +212,13 @@ Not stated: overall 20.68% (8297/40128) -> 20.66% (8283/40084) | math 25% | phys
 audit_quality: generic_page 409 -> 392 (-17) / off_topic 742 / absence 123 / odd_cache 46
 Blocked pages (for owner): none
 Owner questions: none
-Commit: d08a18a6
+Commit: ede53a2f
+
+## Phase A Batch 3 (Repair Leeds) — 2026-10-31
+Universities: added 0 | repaired 1 (leeds) | screened out 0
+Programs: +0 new, −2 moved to _removed (leeds--bme, leeds--materials: no standalone PhD in BME or Materials Science at Leeds; research conducted under Mechanical Engineering PhD and Chemical and Process Engineering PhD; bme added to also_fields of leeds--mech, materials added to also_fields of leeds--chemeng)
+Not stated: overall 20.66% (8283/40084) -> 20.66% (8275/40062) | math 25% | physics 24%
+audit_quality: generic_page 392 -> 375 (-17) / off_topic 740 (-2) / absence 123 / odd_cache 46
+Blocked pages (for owner): none
+Owner questions: none
+Commit: pending
