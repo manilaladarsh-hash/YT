@@ -334,6 +334,8 @@ Commit: 7c5f0815
 2026-10-31 | CARD 2 | Repaired ugent (7 programs) | Not stated 20.61% -> 20.61% | generic_page 92 -> 85 (-7)
 2026-10-31 | CARD 2 | Repaired usc (7 programs) | Not stated 20.61% -> 20.61% | generic_page 85 -> 78 (-7)
 2026-10-31 | CARD 2 | Repaired uga (6 programs) | Not stated 20.61% -> 20.61% | generic_page 78 -> 72 (-6)
+2026-10-31 | CARD 2 | Repaired uio (6 programs) | Not stated 20.61% -> 20.61% | generic_page 72 -> 66 (-6)
+
 
 
 
