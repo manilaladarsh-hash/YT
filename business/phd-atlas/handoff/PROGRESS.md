@@ -329,4 +329,6 @@ Commit: 7c5f0815
 2026-10-31 | CARD 2 | Repaired macquarie (12 programs) | Not stated 20.61% -> 20.61% | commit e5fb10cf
 2026-10-31 | CARD 2 | Repaired auburn (11 programs) | Not stated 20.61% -> 20.61% | commit cb7963b0
 2026-10-31 | CARD 2 | Repaired univie (9 programs) | Not stated 20.61% -> 20.61% | generic_page 116 -> 107 (-9)
+2026-10-31 | CARD 2 | Repaired groningen (8 programs) | Not stated 20.61% -> 20.61% | generic_page 107 -> 99 (-8)
+
 
