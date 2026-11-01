@@ -331,6 +331,8 @@ Commit: 7c5f0815
 2026-10-31 | CARD 2 | Repaired univie (9 programs) | Not stated 20.61% -> 20.61% | generic_page 116 -> 107 (-9)
 2026-10-31 | CARD 2 | Repaired groningen (8 programs) | Not stated 20.61% -> 20.61% | generic_page 107 -> 99 (-8)
 2026-10-31 | CARD 2 | Repaired adelaide (7 programs) | Not stated 20.61% -> 20.61% | generic_page 99 -> 92 (-7)
+2026-10-31 | CARD 2 | Repaired ugent (7 programs) | Not stated 20.61% -> 20.61% | generic_page 92 -> 85 (-7)
+
 
 
 
