@@ -1,5 +1,7 @@
 # Handoff v2: repair, finish the US top 300, close the gap
 
+> **Coding agent: work from `handoff/GEMINI_TASKS.md` (simple task cards). This file is the background. The defaults below are already built into the cards: E1 Carnegie R1+R2; E2 nothing is deleted, the agent only lists it in `OWNER_REVIEW.md`; E3 no inferring from silence; E4 health-science schools do only biomed, neuro and bme; E5 stop and ask.**
+
 Written 2026-10-31 after auditing the 50 commits made since the first handoff (`f304198` to `6e21f34`). Every number here was measured on that date; re-measure in Phase 0. Paths are relative to `business/phd-atlas/` in `manilaladarsh-hash/YT`. Branch: `claude/magical-dirac-6pfq3g`.
 
 The rules in §8 still apply: no guessing, staging first, check exit codes, no secrets, no PR unless the owner asks.
