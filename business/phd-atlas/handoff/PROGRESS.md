@@ -312,3 +312,12 @@ Commit: 00937f45
 
 
 
+
+## Phase A Batch 13 (Repair Caltech) — 2026-10-31
+Universities: added 0 | repaired 1 (caltech) | screened out 0
+Programs: +0 new, −0 moved to _removed (all 14 PhD programs verified across departmental option homepages: astronomy, biology, bme, chemeng, chemistry, civil, cs, earth, ece, environment, materials, math, mech, neuro)
+Not stated: overall 20.61% (8234/39941) -> 20.61% (8234/39941) | math 25% | physics 24%
+audit_quality: generic_page 223 -> 209 (-14) / off_topic 671 -> 657 (-14) / absence 123 / odd_cache 46
+Blocked pages (for owner): none
+Owner questions: none
+Commit: 7c5f0815
