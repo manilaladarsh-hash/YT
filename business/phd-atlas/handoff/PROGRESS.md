@@ -322,3 +322,4 @@ Blocked pages (for owner): none
 Owner questions: none
 Commit: 7c5f0815
 2026-10-31 | CARD 2 | Repaired kuleuven (15 programs) | Not stated 20.61% -> 20.61% | commit 6dfcaf7
+2026-10-31 | CARD 2 | Repaired monash (14 programs) | Not stated 20.61% -> 20.61% | commit 5202a274
