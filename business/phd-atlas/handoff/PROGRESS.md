@@ -326,3 +326,4 @@ Commit: 7c5f0815
 2026-10-31 | CARD 2 | Repaired qut (14 programs) | Not stated 20.61% -> 20.61% | commit 381458f0
 2026-10-31 | CARD 2 | Repaired ucf (14 programs) | Not stated 20.61% -> 20.61% | commit 166e1cbf
 2026-10-31 | CARD 2 | Repaired ucsc (13 programs) | Not stated 20.61% -> 20.61% | commit 4098d2d7
+2026-10-31 | CARD 2 | Repaired macquarie (12 programs) | Not stated 20.61% -> 20.61% | commit e5fb10cf
