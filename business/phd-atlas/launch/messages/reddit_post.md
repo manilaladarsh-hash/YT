@@ -3,11 +3,11 @@
 
 Read each subreddit's rules first, and skip any that ban self-promotion (or ask the mods). Pin `reddit_profile_post.md` to your profile **before** posting this. The body below deliberately has **no links**: store links get posts removed.
 
-**Title:** I checked 3,649 STEM PhD programs' official pages (US, UK, Europe, Canada, Australia) for rules that trip up Indian/international applicants: here's what I found
+**Title:** I checked 3,631 STEM PhD programs' official pages (US, UK, Europe, Canada, Australia) for rules that trip up Indian/international applicants: here's what I found
 
 **Body:**
 
-I'm a physics PhD student (came to Canada from India) and spent the past few weeks reading PhD programs' own admissions pages, across 18 fields from physics and chemistry to CS, biology and engineering, for the things that are hard to find as an international applicant. Everything below is from official pages as of October 30, 2026; check the pages yourself before acting.
+I'm a physics PhD student (came to Canada from India) and spent the past few weeks reading PhD programs' own admissions pages, across 18 fields from physics and chemistry to CS, biology and engineering, for the things that are hard to find as an international applicant. Everything below is from official pages as of October 31, 2026; check the pages yourself before acting.
 
 **Application fees:** 498 programs charge none, including ANU, Aarhus, Adelaide, Amsterdam (UvA), Bristol, Cardiff, Carnegie Mellon, Case Western and 47 more. Of the rest, many offer fee waivers only to domestic applicants; 132 say internationals can get one outright.
 
@@ -15,7 +15,7 @@ I'm a physics PhD student (came to Canada from India) and spent the past few wee
 
 **GRE:** the General GRE is required at only 328 programs; 210 won't look at a score even if you send one. But a GRE Subject test is still required at 26 programs, including Berkeley, Brown, Calgary, Caltech, Cornell, FAU and 15 more.
 
-**Supervisor first:** 1101 programs need a supervisor's agreement before admission. In most of Europe you apply for an advertised paid position, and in Australia and much of Canada you find a supervisor before you apply.
+**Supervisor first:** 1066 programs need a supervisor's agreement before admission. In most of Europe you apply for an advertised paid position, and in Australia and much of Canada you find a supervisor before you apply.
 
 **Funding:** 851 programs say every admitted PhD student is funded. Elsewhere it's competitive or tied to an adviser's grant.
 

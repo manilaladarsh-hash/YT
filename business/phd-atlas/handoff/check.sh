@@ -7,6 +7,8 @@ python3 scripts/validate_data.py --dir data --require-cache | tail -1; [ "${PIPE
 if ls data/staging/universities/*.json data/staging/programs/*.json >/dev/null 2>&1; then
     python3 scripts/validate_data.py --dir data/staging --require-cache | tail -1; [ "${PIPESTATUS[0]}" -eq 0 ] || fail "staging validation"
 fi
+untracked=$(git status --porcelain --untracked-files=all .cache/pages | grep -c '^??')
+[ "$untracked" -eq 0 ] || echo "NOTE: $untracked fetched pages in .cache/pages are not committed yet. Run: git add .cache/pages (without them, quotes fail on every other computer)."
 python3 scripts/audit_quality.py | tail -4
 python3 scripts/coverage.py | sed -n 1,2p
 echo; echo "ALL CHECKS PASSED"
