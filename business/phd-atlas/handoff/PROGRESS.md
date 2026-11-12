@@ -372,3 +372,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (berkeley x2, bgsu, boise, bonn-cologne, bostonu, brandeis, bristol x3) | off_topic 551 -> 541, absence 73 -> 73
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (buffalo x2, byu x3, calgary x5) | off_topic 541 -> 538, absence 73 -> 73, 7 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (calgary--bme, chemeng, chemistry, civil) | off_topic 538 -> 538, absence 73 -> 73, 10 rows reviewed
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (calgary--cs, earth, ece, math) | off_topic 538 -> 538, absence 73 -> 73, 10 rows reviewed
