@@ -364,3 +364,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (tuberlin, tudresden, twente, ua, uab, uark) | off_topic 598 -> 593, absence 96 -> 94, odd_cache 46 -> 28, 3 uark rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (uci, ucr, uga-fr, ugent, uic, uiowa) | off_topic 593 -> 586, absence 94 -> 91
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (umontreal, unibe, unlv, unt, uppsala) | off_topic 586 -> 582, absence 91 -> 88, 3 umontreal rows reviewed
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (uq, uri, uta, utrecht) | off_topic 582 -> 576, absence 88 -> 85, 1 uta row reviewed
