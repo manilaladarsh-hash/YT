@@ -347,3 +347,4 @@ Commit: 7c5f0815
 2026-10-31 | CARD 2 | Repaired unimelb (6 programs) | Not stated 20.61% -> 20.62% | generic_page 60 -> 54 (-6)
 2026-11-12 | CARD 2 | Repaired unsw (6 programs) | Not stated 20.62% -> 20.62% | generic_page 54 -> 48 (-6)
 2026-11-12 | CARD 2 | Repaired usyd (6 programs) | Not stated 20.66% -> 20.66% | generic_page 48 -> 42 (-6)
+2026-11-12 | CARD 2 | Repaired washu (6 programs) | Not stated 20.66% -> 20.66% | generic_page 42 -> 36 (-6)
