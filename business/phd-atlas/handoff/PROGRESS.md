@@ -356,3 +356,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (byu, canterbury-nz, clemson, clevelandstate, cmu, colostate) | off_topic 650 -> 642, absence 122 -> 120
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (dalhousie, denver, dtu, ecu) | off_topic 642 -> 636, absence 120 -> 116
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (floridatech, freiburg, fuberlin, georgetown, glasgow) | off_topic 636 -> 631, absence 116 -> 114, 3 glasgow rows reviewed
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (heidelberg, imperial, ipparis) | off_topic 631 -> 626, absence 114 -> 109
