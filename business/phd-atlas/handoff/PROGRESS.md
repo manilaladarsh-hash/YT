@@ -378,3 +378,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (clemson x3, cmu x2, colostate x5; updated clemson--physics toefl_min) | off_topic 525 -> 516, absence 73 -> 73, 1 row reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (concordia, cornell x4, denver x2, dtu, edinburgh x2) | off_topic 516 -> 508, absence 73 -> 73, 2 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (epfl x5, ethz--neuro, fau x4) | off_topic 508 -> 502, absence 73 -> 73, 4 rows reviewed
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (fau--mech, fiu x3, floridatech x6) | off_topic 502 -> 496, absence 73 -> 69
