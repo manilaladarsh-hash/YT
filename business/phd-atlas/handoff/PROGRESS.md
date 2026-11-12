@@ -374,3 +374,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (calgary--bme, chemeng, chemistry, civil) | off_topic 538 -> 538, absence 73 -> 73, 10 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (calgary--cs, earth, ece, math) | off_topic 538 -> 538, absence 73 -> 73, 10 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (calgary--mech, neuro x6; canterbury-nz x4) | off_topic 538 -> 534, absence 73 -> 73, 6 rows reviewed
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (canterbury-nz x7, claremontgrad--biology, clarkson x2) | off_topic 534 -> 525, absence 73 -> 73, 1 row reviewed
