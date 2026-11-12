@@ -363,3 +363,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (sorbonne, stanford, stockholm, stuttgart, syracuse) | off_topic 604 -> 598, absence 100 -> 96
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (tuberlin, tudresden, twente, ua, uab, uark) | off_topic 598 -> 593, absence 96 -> 94, odd_cache 46 -> 28, 3 uark rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (uci, ucr, uga-fr, ugent, uic, uiowa) | off_topic 593 -> 586, absence 94 -> 91
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (umontreal, unibe, unlv, unt, uppsala) | off_topic 586 -> 582, absence 91 -> 88, 3 umontreal rows reviewed
