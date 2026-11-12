@@ -361,3 +361,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (loyolachicago, lsu, marquette, memphis, mines, minnesota, mps-photonics, ou, portlandstate) | off_topic 620 -> 611, absence 105 -> 104
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (portlandstate, princeton, rockefeller, sissa, siucarbondale, sorbonne) | off_topic 611 -> 604, absence 104 -> 100
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (sorbonne, stanford, stockholm, stuttgart, syracuse) | off_topic 604 -> 598, absence 100 -> 96
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (tuberlin, tudresden, twente, ua, uab, uark) | off_topic 598 -> 593, absence 96 -> 94, odd_cache 46 -> 28, 3 uark rows reviewed
