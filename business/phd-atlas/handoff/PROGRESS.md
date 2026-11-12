@@ -370,3 +370,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (akron, alabamahuntsville x5 programs) | off_topic 563 -> 557, absence 81 -> 76
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (alabamahuntsville x3, baylor x4 programs) | off_topic 557 -> 551, absence 76 -> 73, 1 baylor--neuro row reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (berkeley x2, bgsu, boise, bonn-cologne, bostonu, brandeis, bristol x3) | off_topic 551 -> 541, absence 73 -> 73
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (buffalo x2, byu x3, calgary x5) | off_topic 541 -> 538, absence 73 -> 73, 7 rows reviewed
