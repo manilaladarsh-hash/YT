@@ -3,9 +3,9 @@
   "university": "miami",
   "field": "civil",
   "also_fields": [],
-  "department": "Civil and Architectural Engineering",
-  "program_page": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html",
-  "checked": "2026-10-26",
+  "department": "Department of Civil and Architectural Engineering",
+  "program_page": "https://bulletin.miami.edu/graduate-academic-programs/engineering/civil-architectural-environmental-engineering/civil-engineering-phd/",
+  "checked": "2026-11-12",
   "fields": {
     "app_fee": {
       "code": "85 USD",
@@ -45,10 +45,10 @@
       "url": "https://cae.coe.miami.edu/_assets/pdf/cae-graduate-degree-programs-2023.pdf"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "The College pages do not say whether a master's is needed for the PhD.",
-      "quote": "",
-      "url": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html"
+      "code": "Direct from bachelor's",
+      "value": "Students without a prior M.S. degree may enter directly and complete a minimum of 72 graduate-level credits beyond the B.S. degree.",
+      "quote": "For students who do not have an earned M.S. (in either civil or architectural engineering, or a closely-related field), a minimum of 72 graduate-level credits (with an average of \"B\" or better and no grade below \"C\") are required beyond the B.S. degree.",
+      "url": "https://bulletin.miami.edu/graduate-academic-programs/engineering/civil-architectural-environmental-engineering/civil-engineering-phd/"
     }
   },
   "notes": "College of Engineering PhD rules (one page for all six departments). The college admits PhD students only for fall. The college international page (grad.miami.edu) sets the English test rules, so no English override. Department PhD pages were not fetched separately. CONFLICT: the CAE 2023 brochure says the GRE is required; the College page says not required. Verify with CAE before publishing. Industrial Engineering also offers a PhD, but it has no field id."

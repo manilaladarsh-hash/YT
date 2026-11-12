@@ -3,9 +3,9 @@
   "university": "miami",
   "field": "mech",
   "also_fields": [],
-  "department": "Mechanical and Aerospace Engineering",
-  "program_page": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html",
-  "checked": "2026-10-26",
+  "department": "Department of Mechanical and Aerospace Engineering",
+  "program_page": "https://bulletin.miami.edu/graduate-academic-programs/engineering/mechanical-aerospace-engineering/mechanical-engineering-phd/",
+  "checked": "2026-11-12",
   "fields": {
     "app_fee": {
       "code": "85 USD",
@@ -45,10 +45,10 @@
       "url": "https://www.coe.miami.edu/academics/programs/doctorate-programs/index.html"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "The College pages do not say whether a master's is needed for the PhD.",
-      "quote": "",
-      "url": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html"
+      "code": "Direct from bachelor's",
+      "value": "Students may enter with only a B.S. degree in Engineering (as well as with a Master's degree in Engineering).",
+      "quote": "Part 2 of the Qualifying Exam is to be taken within 2 years if the student has a Master’s degree in Engineering and 2.5 years if the student has only a B.S. degree in Engineering.",
+      "url": "https://bulletin.miami.edu/graduate-academic-programs/engineering/mechanical-aerospace-engineering/mechanical-engineering-phd/"
     }
   },
   "notes": "College of Engineering PhD rules (one page for all six departments). The college admits PhD students only for fall. The college international page (grad.miami.edu) sets the English test rules, so no English override. Department PhD pages were not fetched separately. MAE page (https://mae.coe.miami.edu/programs/phd-programs/index.html) links only to the MAE Graduate Student Handbook."

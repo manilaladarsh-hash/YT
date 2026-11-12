@@ -3,9 +3,9 @@
   "university": "miami",
   "field": "bme",
   "also_fields": [],
-  "department": "Biomedical Engineering",
-  "program_page": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html",
-  "checked": "2026-10-26",
+  "department": "Department of Biomedical Engineering",
+  "program_page": "https://bulletin.miami.edu/graduate-academic-programs/engineering/biomedical-engineering/biomedical-engineering-phd/",
+  "checked": "2026-11-12",
   "fields": {
     "app_fee": {
       "code": "85 USD",
@@ -45,10 +45,10 @@
       "url": "https://www.coe.miami.edu/academics/programs/doctorate-programs/index.html"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "The College pages do not say whether a master's is needed for the PhD.",
-      "quote": "",
-      "url": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html"
+      "code": "Direct from bachelor's",
+      "value": "The Department admits students with BS or MS degrees in Biomedical Engineering or related science and engineering fields.",
+      "quote": "In general, the Department admits students with BS or MS degrees in Biomedical Engineering or related science and engineering fields, or students with MD degrees with undergraduate degrees in sciences or engineering.",
+      "url": "https://bulletin.miami.edu/graduate-academic-programs/engineering/biomedical-engineering/biomedical-engineering-phd/"
     }
   },
   "notes": "College of Engineering PhD rules (one page for all six departments). The college admits PhD students only for fall. The college international page (grad.miami.edu) sets the English test rules, so no English override. Department PhD pages were not fetched separately. The Medical Physics emphasis is listed under the BME PhD; its MS is the main medical physics route."
