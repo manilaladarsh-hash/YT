@@ -354,3 +354,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 2 | Repaired uconn (5 programs) | Not stated 20.63% -> 20.63% | generic_page 21 -> 16 (-5)
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (adelaide, albany, anu, arizona, auckland, baylor, bristol) | off_topic 657 -> 650, absence 123 -> 122, 3 anu rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (byu, canterbury-nz, clemson, clevelandstate, cmu, colostate) | off_topic 650 -> 642, absence 122 -> 120
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (dalhousie, denver, dtu, ecu) | off_topic 642 -> 636, absence 120 -> 116
