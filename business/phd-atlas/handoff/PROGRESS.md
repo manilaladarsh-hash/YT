@@ -351,3 +351,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 2 | Repaired gwu (5 programs) | Not stated 20.66% -> 20.65% | generic_page 36 -> 31 (-5)
 2026-11-12 | CARD 2 | Repaired miami (5 programs) | Not stated 20.65% -> 20.63% | generic_page 31 -> 26 (-5)
 2026-11-12 | CARD 2 | Repaired oxford (5 programs) | Not stated 20.63% -> 20.63% | generic_page 26 -> 21 (-5)
+2026-11-12 | CARD 2 | Repaired uconn (5 programs) | Not stated 20.63% -> 20.63% | generic_page 21 -> 16 (-5)
