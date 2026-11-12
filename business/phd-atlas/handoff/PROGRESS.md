@@ -358,3 +358,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (floridatech, freiburg, fuberlin, georgetown, glasgow) | off_topic 636 -> 631, absence 116 -> 114, 3 glasgow rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (heidelberg, imperial, ipparis) | off_topic 631 -> 626, absence 114 -> 109
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (ku, leiden, lmu, louisville) | off_topic 626 -> 620, absence 109 -> 105
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (loyolachicago, lsu, marquette, memphis, mines, minnesota, mps-photonics, ou, portlandstate) | off_topic 620 -> 611, absence 105 -> 104

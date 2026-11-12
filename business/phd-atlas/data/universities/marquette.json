@@ -4,7 +4,7 @@
   "country": "USA",
   "region": "Wisconsin",
   "grad_page": "https://www.marquette.edu/grad/faqs.php",
-  "checked": "2026-10-28",
+  "checked": "2026-11-12",
   "fields": {
     "app_fee": {
       "code": "50 USD",
@@ -15,14 +15,8 @@
     "fee_waiver": {
       "code": "Limited",
       "value": "Waivers are limited to former Marquette graduate students and people who attended a Marquette campus visit event.",
-      "quote": "Applicants who have previously attended Marquette University as a graduate student",
-      "url": "https://www.marquette.edu/grad/faqs.php",
-      "also": [
-        {
-          "quote": "There are only a few circumstances in which the application fee may be waived",
-          "url": "https://www.marquette.edu/grad/faqs.php"
-        }
-      ]
+      "quote": "There are only a few circumstances in which the application fee may be waived: | Applicants who have previously attended Marquette University as a graduate student",
+      "url": "https://www.marquette.edu/grad/faqs.php"
     },
     "gre_general": {
       "code": "Not stated",

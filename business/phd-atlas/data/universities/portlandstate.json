@@ -4,19 +4,19 @@
   "country": "USA",
   "region": "Oregon",
   "grad_page": "https://www.pdx.edu/admissions/apply-to-grad-school",
-  "checked": "2026-10-28",
+  "checked": "2026-11-12",
   "fields": {
     "app_fee": {
       "code": "65 USD",
       "value": "A $65 application fee plus a $2 processing fee, both non-refundable.",
-      "quote": "A non-refundable $65 application fee and $2 processing fee is required to successfully complete the Portland State University graduate application.",
+      "quote": "Submit Your Application and $65 Application Fee | Graduate applicants may be eligible for an application fee waiver of their $65 admission application fee (plus $2 processing fee).",
       "url": "https://www.pdx.edu/admissions/apply-to-grad-school"
     },
     "fee_waiver": {
       "code": "Limited",
-      "value": "Waivers are narrow: Fulbright Foreign Student participants, Gates and McNair scholars and similar groups get $0, and a limited number go to first-come applicants in listed categories. Requests are due at least two weeks before the deadline.",
-      "quote": "Participant in the Fulbright Foreign Student Program, Gates Millennium Scholars",
-      "url": "https://www.pdx.edu/admissions/apply-to-grad-school"
+      "value": "For international applicants, application fee waivers are only available if the program provides full funding packages (graduate assistantship) and the applicant attends a program information session; Fulbright and Gates Millennium Scholars also qualify.",
+      "quote": "International student eligibility: Application fee waivers are only available to international applicants if the program provides full funding packages, i.e. a graduate assistantship, and the applicant attends an information session offered by the program to which they’re applying.",
+      "url": "https://pdx.edu/admissions/graduate-admission-application-fee-waiver"
     },
     "gre_general": {
       "code": "Not stated",
