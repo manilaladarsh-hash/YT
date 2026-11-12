@@ -366,3 +366,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (umontreal, unibe, unlv, unt, uppsala) | off_topic 586 -> 582, absence 91 -> 88, 3 umontreal rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (uq, uri, uta, utrecht) | off_topic 582 -> 576, absence 88 -> 85, 1 uta row reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (utrecht, uts, uva, uwa) | off_topic 576 -> 571, absence 85 -> 82, 2 uwa rows reviewed
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (uwa, vcu, warwick, washu, western, wrightstate, wur, aarhus) | off_topic 571 -> 563, absence 82 -> 81, 1 uwa row reviewed
