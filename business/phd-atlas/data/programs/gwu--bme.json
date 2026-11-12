@@ -3,8 +3,8 @@
   "university": "gwu",
   "field": "bme",
   "also_fields": [],
-  "department": "School of Engineering and Applied Science: Biomedical Engineering PhD",
-  "program_page": "https://graduate.engineering.gwu.edu/doctoral-admissions-requirements",
+  "department": "Department of Biomedical Engineering",
+  "program_page": "https://graduate.engineering.gwu.edu/phd-biomedical-engineering",
   "checked": "2026-10-22",
   "fields": {
     "deadline": {
@@ -39,10 +39,10 @@
       "url": "https://graduate.engineering.gwu.edu/funding-your-graduate-education"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "The school pages do not say whether a master's is needed.",
-      "quote": "",
-      "url": "https://graduate.engineering.gwu.edu/doctoral-admissions-requirements"
+      "code": "Direct from bachelor's",
+      "value": "Direct-entry PhD with a bachelor's degree (minimum 3.4 GPA) or a master's degree in a relevant field.",
+      "quote": "Bachelor's or master's degree in a relevant field from an accredited institution. | For bachelor's-only applicants, a minimum of a 3.4 GPA (out of a 4.0 scale) must have been achieved.",
+      "url": "https://graduate.engineering.gwu.edu/phd-biomedical-engineering"
     },
     "toefl_min": {
       "code": "4.0 (new scale)",
@@ -63,5 +63,5 @@
       "url": "https://graduate.engineering.gwu.edu/toefl-exempt-countries"
     }
   },
-  "notes": "Department page not reachable; school-wide SEAS rules applied."
+  "notes": "SEAS doctoral program page checked; school-wide SEAS deadline, GRE, English, supervisor, and funding rules apply."
 }

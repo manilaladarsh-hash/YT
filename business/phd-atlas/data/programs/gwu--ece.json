@@ -3,8 +3,8 @@
   "university": "gwu",
   "field": "ece",
   "also_fields": [],
-  "department": "School of Engineering and Applied Science: Electrical Engineering PhD and Computer Engineering PhD",
-  "program_page": "https://graduate.engineering.gwu.edu/doctoral-admissions-requirements",
+  "department": "Department of Electrical and Computer Engineering",
+  "program_page": "https://graduate.engineering.gwu.edu/phd-electrical-engineering",
   "checked": "2026-10-22",
   "fields": {
     "deadline": {
@@ -39,10 +39,10 @@
       "url": "https://graduate.engineering.gwu.edu/funding-your-graduate-education"
     },
     "entry_route": {
-      "code": "Not stated",
-      "value": "The school pages do not say whether a master's is needed.",
-      "quote": "",
-      "url": "https://graduate.engineering.gwu.edu/doctoral-admissions-requirements"
+      "code": "Direct from bachelor's",
+      "value": "Direct-entry PhD with a bachelor's degree (minimum 3.3 GPA) or a master's degree (minimum 3.4 GPA) in an appropriate area.",
+      "quote": "Bachelor\u2019s or master\u2019s degree in an appropriate area from an accredited institution. | If applicant has only obtained a bachelor\u2019s, the minimum grade point average must be a 3.3 (on a scale of 4.0).",
+      "url": "https://graduate.engineering.gwu.edu/phd-electrical-engineering"
     },
     "toefl_min": {
       "code": "4.0 (new scale)",
@@ -63,5 +63,5 @@
       "url": "https://graduate.engineering.gwu.edu/toefl-exempt-countries"
     }
   },
-  "notes": "Both the Electrical Engineering and Computer Engineering PhDs are listed under this field. Department pages were not reachable; school-wide SEAS rules applied."
+  "notes": "SEAS doctoral program page checked; school-wide SEAS deadline, GRE, English, supervisor, and funding rules apply."
 }
