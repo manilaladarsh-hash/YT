@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Department of Civil and Environmental Engineering",
   "program_page": "https://www.uah.edu/eng/departments/cee/graduate-program/cee-phd-requirements",
-  "checked": "2026-10-29",
+  "checked": "2026-11-12",
   "notes": "",
   "fields": {
     "deadline": {
@@ -15,10 +15,16 @@
       "url": "https://www.uah.edu/graduate/programs"
     },
     "gre_general": {
-      "code": "Not required",
-      "value": "GRE is not required per central test score requirements table.",
-      "quote": "Not required",
-      "url": "https://www.uah.edu/admissions/graduate/apply-for-admission/test-score-requirements"
+      "code": "Required",
+      "value": "GRE is required for the Civil Engineering PhD (minimum 300 combined verbal and quantitative and 3.0 analytical writing).",
+      "quote": "Civil Engineering | Doctor of Philosophy | GRE score required",
+      "url": "https://www.uah.edu/admissions/graduate/apply-for-admission/test-score-requirements",
+      "also": [
+        {
+          "quote": "All applicants must have a Graduate Record Examination combined score of 300 on the verbal and quantitative and a 3.0 on the analytical, and a grade point average of 3.0 or higher on a 4.0 scale.",
+          "url": "https://www.uah.edu/eng/departments/cee/graduate-program/cee-phd-requirements"
+        }
+      ]
     },
     "gre_subject": {
       "code": "No subject test",
