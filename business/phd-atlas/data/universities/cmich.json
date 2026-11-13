@@ -1,0 +1,53 @@
+{
+  "id": "cmich",
+  "institution": "Central Michigan University",
+  "country": "USA",
+  "region": "Michigan",
+  "grad_page": "https://www.cmich.edu/graduate/how-to-apply",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "65 USD",
+      "value": "International graduate application fee is $65 USD ($50 USD non-refundable for domestic graduate applicants).",
+      "quote": "Submit an online application to the graduate program and pay the accompanying $65 application fee.",
+      "url": "https://www.cmich.edu/international-admissions/graduate/apply-international",
+      "also": [
+        {
+          "quote": "Domestic applicants will need to submit a $50 non-refundable application fee along with the application.",
+          "url": "https://www.cmich.edu/graduate/how-to-apply"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "CMU's published graduate application fee waiver applies to U.S. military veterans, active duty, National Guard, and Reserve service members; no general international graduate fee waiver is published.",
+      "quote": "All U.S. military veterans, active duty, National Guard and Reserve service members are eligible to have their application fee waived.",
+      "url": "https://www.cmich.edu/graduate/how-to-apply"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE requirements are set by individual graduate programs (see program overrides): Mathematical Sciences and Statistics & Analytics require the general GRE, whereas BCMB, Neuroscience, and Science of Advanced Materials list GRE scores as optional.",
+      "quote": "",
+      "url": "https://www.cmich.edu/graduate/how-to-apply"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Minimum TOEFL score of 79 iBT (550 PBT) for regular admission (ETS institutional code 1106; Duolingo 100, PTE 53, MET 52 also accepted).",
+      "quote": "TOEFL: 550 PBT/79 IBT for regular admission.",
+      "url": "https://www.cmich.edu/international-admissions/contact/english-proficiency"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS score of 6.5 for regular admission.",
+      "quote": "IELTS: 6.5 for regular admission.",
+      "url": "https://www.cmich.edu/international-admissions/contact/english-proficiency"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Applicants from CMU's TOEFL Exempt Countries list (which excludes India) are exempt, and proficiency can also be satisfied by completing a degree program (such as a baccalaureate degree) or 24+ graded postsecondary credits (2.50 GPA) at a recognized institution where the language of instruction is English.",
+      "quote": "Successful completion of a course of study (e.g. high school diploma, associate degree, baccalaureate degree) at a recognized institution where the language of instruction is English.",
+      "url": "https://www.cmich.edu/international-admissions/contact/english-proficiency"
+    }
+  },
+  "notes": "7 STEM Ph.D. programs offered: Biochemistry, Cell & Molecular Biology; Earth & Ecosystem Science; Mathematical Sciences; Neuroscience; Physics; Science of Advanced Materials; Statistics & Analytics. ETS institution code: 1106."
+}

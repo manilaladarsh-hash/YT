@@ -1,0 +1,64 @@
+{
+  "id": "cmich--physics",
+  "university": "cmich",
+  "field": "physics",
+  "also_fields": [
+    "astronomy"
+  ],
+  "department": "Department of Physics",
+  "program_page": "https://www.cmich.edu/academics/colleges/college-science-engineering/departments-schools/physics/graduate-programs",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "February 1, 2027 Fall application deadline on the Physics Department graduate admissions page (2025-2026 Graduate Bulletin also notes March 15 encouraged / rolling admission).",
+      "quote": "The deadline for receipt of application materials for admission into the physics Ph.D. program is February 1.",
+      "url": "https://www.cmich.edu/academics/colleges/college-science-engineering/departments-schools/physics/graduate-programs",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Application Deadline: Applications are encouraged by March 15 for Fall admission, but students can be admitted on a rolling basis.",
+          "url": "https://cmich.smartcatalogiq.com/en/2025-2026/graduate-bulletin/colleges-and-departments/physics-department-of/physics-phd/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "General GRE is not stated as required for the Physics Ph.D. (only the Physics GRE Subject Test is specified for external applicants).",
+      "quote": "",
+      "url": "https://www.cmich.edu/academics/colleges/college-science-engineering/departments-schools/physics/graduate-programs"
+    },
+    "gre_subject": {
+      "code": "Required",
+      "value": "Physics GRE Subject Test scores are required unless the applicant earned an M.S. in Physics from CMU (historically above the 50th percentile).",
+      "quote": "Physics GRE scores if the applicant did not obtain an M.S. physics degree from CMU",
+      "url": "https://www.cmich.edu/academics/colleges/college-science-engineering/departments-schools/physics/graduate-programs"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admitted Physics Ph.D. students must have an approved faculty mentor, and the personal statement must identify a potential faculty mentor with whom the applicant should ideally have communicated beforehand.",
+      "quote": "Students admitted for a doctoral degree in physics must have a faculty mentor approved and financial support in the form of a teaching or research assistantship in place.",
+      "url": "https://www.cmich.edu/academics/colleges/college-science-engineering/departments-schools/physics/graduate-programs"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted Physics Ph.D. students must have a teaching or research assistantship in place, providing a competitive stipend, 20 credit hours of tuition waiver per academic year, and Michigan resident tuition classification.",
+      "quote": "Students admitted for a doctoral degree in physics must have a faculty mentor approved and financial support in the form of a teaching or research assistantship in place.",
+      "url": "https://www.cmich.edu/academics/colleges/college-science-engineering/departments-schools/physics/graduate-programs",
+      "also": [
+        {
+          "quote": "Through an assistantship, you'll receive: A competitive stipend. 20 credit hours of tuition waiver for the academic year (unused hours may be used in the summer).",
+          "url": "https://www.cmich.edu/academics/colleges/college-science-engineering/departments-schools/physics/graduate-programs/graduate-assistantships"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Candidates are required to hold both Bachelor of Science (B.S.) and Master of Science (M.S.) degrees in physics or a related science (minimum 60 graduate credits beyond the M.S.).",
+      "quote": "Candidates are required to hold Bachelor of Science (B.S.) and Master of Science (M.S.) degrees in physics or a related area of science.",
+      "url": "https://www.cmich.edu/academics/colleges/college-science-engineering/departments-schools/physics/graduate-programs"
+    }
+  },
+  "notes": "60-credit-hour post-M.S. Ph.D. in Physics covering astronomy/astrophysics, quantum science, nuclear physics, and theoretical/computational physics.",
+  "name": "Ph.D. in Physics"
+}
