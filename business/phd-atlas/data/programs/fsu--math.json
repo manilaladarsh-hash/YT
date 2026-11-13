@@ -40,9 +40,15 @@
     },
     "supervisor": {
       "code": "Not required",
-      "value": "Applicants apply to a research area and the area, not a named supervisor, decides admission.",
-      "quote": "Admission and funding decisions are made by areas",
-      "url": "https://www.math.fsu.edu/apply/"
+      "value": "Applicants apply to a research area whose admissions committee decides admission; a dissertation committee and primary advisor are appointed later before the candidacy exam.",
+      "quote": "Each major has its own admissions committee, required and elective courses, and qualifier requirements. | Before taking the candidacy exam, the student will have a dissertation committee appointed.",
+      "url": "https://mathematics.fsu.edu/graduate/graduate-handbook",
+      "also": [
+        {
+          "quote": "Admission and funding decisions are made by areas.",
+          "url": "https://www.math.fsu.edu/apply/"
+        }
+      ]
     },
     "funding": {
       "code": "Competitive",
