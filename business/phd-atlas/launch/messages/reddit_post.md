@@ -3,22 +3,22 @@
 
 Read each subreddit's rules first, and skip any that ban self-promotion (or ask the mods). Pin `reddit_profile_post.md` to your profile **before** posting this. The body below deliberately has **no links**: store links get posts removed.
 
-**Title:** I checked 3,675 STEM PhD programs' official pages (US, UK, Europe, Canada, Australia) for rules that trip up Indian/international applicants: here's what I found
+**Title:** I checked 3,720 STEM PhD programs' official pages (US, UK, Europe, Canada, Australia) for rules that trip up Indian/international applicants: here's what I found
 
 **Body:**
 
 I'm a physics PhD student (came to Canada from India) and spent the past few weeks reading PhD programs' own admissions pages, across 18 fields from physics and chemistry to CS, biology and engineering, for the things that are hard to find as an international applicant. Everything below is from official pages as of November 13, 2026; check the pages yourself before acting.
 
-**Application fees:** 434 programs charge none, including ANU, Aarhus, Adelaide, Baylor College of Medicine, Bristol, Cardiff, Carnegie Mellon, Case Western and 43 more. Of the rest, many offer fee waivers only to domestic applicants; 136 say internationals can get one outright.
+**Application fees:** 436 programs charge none, including ANU, Aarhus, Adelaide, Baylor College of Medicine, Bristol, Cardiff, Carnegie Mellon, Case Western and 44 more. Of the rest, many offer fee waivers only to domestic applicants; 140 say internationals can get one outright.
 
-**English tests:** 37 universities accept an English-medium Indian degree instead of TOEFL/IELTS (ANU, Arizona, Boston College, CU Boulder, Caltech, Copenhagen, ETH Zurich, Georgetown University and 29 more). 132 accept it with conditions (a medium-of-instruction letter, a named list, or a minimum duration), and 118 require a test regardless, usually because they only exempt "majority English-speaking" countries.
+**English tests:** 39 universities accept an English-medium Indian degree instead of TOEFL/IELTS (ANU, American University, Arizona, Boston College, CU Boulder, Caltech, Copenhagen, ETH Zurich and 31 more). 135 accept it with conditions (a medium-of-instruction letter, a named list, or a minimum duration), and 123 require a test regardless, usually because they only exempt "majority English-speaking" countries.
 
-**GRE:** the General GRE is required at only 335 programs; 212 won't look at a score even if you send one. But a GRE Subject test is still required at 26 programs, including Berkeley, Brown, Calgary, Caltech, Cornell, FAU and 15 more.
+**GRE:** the General GRE is required at only 355 programs; 214 won't look at a score even if you send one. But a GRE Subject test is still required at 27 programs, including Berkeley, Brown, Calgary, Caltech, Central Michigan University, Cornell and 16 more.
 
-**Supervisor first:** 1069 programs need a supervisor's agreement before admission. In most of Europe you apply for an advertised paid position, and in Australia and much of Canada you find a supervisor before you apply.
+**Supervisor first:** 1075 programs need a supervisor's agreement before admission. In most of Europe you apply for an advertised paid position, and in Australia and much of Canada you find a supervisor before you apply.
 
-**Funding:** 869 programs say every admitted PhD student is funded. Elsewhere it's competitive or tied to an adviser's grant.
+**Funding:** 883 programs say every admitted PhD student is funded. Elsewhere it's competitive or tied to an adviser's grant.
 
-**Deadlines:** Dec 1, 2026 is the most common US deadline (501 programs), and 108 programs close in November, mostly European calls and UK scholarship rounds.
+**Deadlines:** Dec 1, 2026 is the most common US deadline (506 programs), and 110 programs close in November, mostly European calls and UK scholarship rounds.
 
 Disclosure: I made a paid kit out of this (every value with its official quote and link, an offline explorer that checks programs against your situation, fees in ₹, and a planner sheet), plus a free 12-program sample. I'm not linking it here because of the sub's rules; details are pinned on my profile. Happy to answer questions in the comments either way.

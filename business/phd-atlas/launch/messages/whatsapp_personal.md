@@ -3,13 +3,13 @@
 
 Hi {name}! Are you (or anyone in your batch) applying for PhDs abroad this cycle?
 
-I've spent the last few weeks checking the official pages of 3,675 STEM PhD programs (342 universities in the US, UK, Europe, Canada and Australia) for the things that trip up Indian applicants. Some findings:
+I've spent the last few weeks checking the official pages of 3,720 STEM PhD programs (352 universities in the US, UK, Europe, Canada and Australia) for the things that trip up Indian applicants. Some findings:
 
-• 434 programs charge no application fee at all, including ANU, Aarhus, Adelaide, Baylor College of Medicine, Bristol, Cardiff, Carnegie Mellon, Case Western and 43 more
-• 37 universities accept an English-medium Indian degree instead of IELTS/TOEFL; 118 need a test regardless
-• A GRE Subject test is still required at 26 programs, including Berkeley, Brown, Calgary, Caltech, Cornell, FAU and 15 more
-• 1069 programs need a supervisor's agreement before you apply
-• Dec 1, 2026 is the most common US deadline (501 programs)
+• 436 programs charge no application fee at all, including ANU, Aarhus, Adelaide, Baylor College of Medicine, Bristol, Cardiff, Carnegie Mellon, Case Western and 44 more
+• 39 universities accept an English-medium Indian degree instead of IELTS/TOEFL; 123 need a test regardless
+• A GRE Subject test is still required at 27 programs, including Berkeley, Brown, Calgary, Caltech, Central Michigan University, Cornell and 16 more
+• 1075 programs need a supervisor's agreement before you apply
+• Dec 1, 2026 is the most common US deadline (506 programs)
 
 Free 12-program sample: {SAMPLE_URL}?utm_source=whatsapp&utm_medium=personal&utm_campaign=launch2026
 The full version covers 18 fields: you enter your situation and it shows what fits, what to check and what rules you out, with fees in ₹ and a deadline plan. About ₹190 in India, and you can pay by UPI: {PAID_URL}?utm_source=whatsapp&utm_medium=personal&utm_campaign=launch2026
