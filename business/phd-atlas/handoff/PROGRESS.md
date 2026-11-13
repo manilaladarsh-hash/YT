@@ -473,3 +473,4 @@ Commit: 7c5f0815
 2026-11-13 | CARD 4 | rowan | added Rowan University (13 STEM PhD programs: bme, chemeng, civil [also environment], ece, mech, materials, cs, datasci, chemistry, biology, earth, biomed, neuro) | Not stated 21% -> 21%
 2026-11-13 | CARD 4 | rutgerscamden | added Rutgers University-Camden (1 STEM PhD program: biology [Computational & Integrative Biology]) | Not stated 21% -> 21%
 2026-11-13 | CARD 4 | rutgersnewark | added Rutgers University-Newark (6 STEM PhD programs: biology, chemistry, environment, math [also datasci], neuro, physics) | Not stated 21% -> 21%
+2026-11-13 | CARD 4 | Screened out South Carolina State University: no STEM PhD (only doctoral degree offered is Doctor of Education [Ed.D.] in Educational Administration; graduate STEM offerings are M.S. in Nutritional Sciences/Transportation and a Graduate Certificate in Environmental Monitoring & Restoration). Source: https://www.scsu.edu/academics/academic_programs_list.php
