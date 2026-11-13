@@ -59,8 +59,14 @@
     "entry_route": {
       "code": "Either",
       "value": "PhD normally follows an MSc; direct-entry PhD from a 4-year bachelor's needs an A (85%) average and strong research experience.",
-      "quote": "We accept applicants for the MSc, MASc, PhD, and direct-entry PhD. | Minimum total average of A (85%).",
-      "url": "https://www.chem.queensu.ca/graduate/future-students/application-information"
+      "quote": "PhD | MSc degree in Chemistry or a related field, such as Biochemistry, Chemical Physics, Materials Science, or Chemical Engineering | Direct entry PhD (with only a BSc) | Four (4) year Bachelor's Honours degree or equivalent in Chemistry or a related field, such as Biochemistry, Chemical Physics, Materials Science, or Chemical Engineering",
+      "url": "https://www.chem.queensu.ca/graduate/future-students/application-information",
+      "also": [
+        {
+          "quote": "Minimum total average of A (85%).",
+          "url": "https://www.chem.queensu.ca/graduate/future-students/application-information"
+        }
+      ]
     }
   },
   "notes": "Starts in September, January or May. Supervisor confirms interest before the admissions committee reviews the file."
