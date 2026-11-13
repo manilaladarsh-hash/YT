@@ -1,0 +1,65 @@
+{
+  "id": "catholic",
+  "institution": "Catholic University of America",
+  "country": "USA",
+  "region": "District of Columbia",
+  "grad_page": "https://www.catholic.edu/admission-aid/graduate-admission",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "Doctoral (PhD) applications require a $60 USD application fee (many master's programs have no fee).",
+      "quote": "Minimum Required Documents for PhD A completed Catholic University online application along with the $60 application fee.",
+      "url": "https://www.catholic.edu/admission-aid/graduate-admission/application-process/us-students",
+      "also": [
+        {
+          "quote": "Minimum Required Documents for PhD A completed Catholic University online application along with the $60 application fee.",
+          "url": "https://www.catholic.edu/admission-aid/international-admission/graduate-international-admission"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Graduate Admissions FAQ states many programs do not require a fee and directs applicants to contact cua-gradadmissions@cua.edu; no university-wide PhD fee waiver policy is published on graduate or STEM program admission pages.",
+      "quote": "",
+      "url": "https://www.catholic.edu/admission-aid/graduate-admission/frequently-asked-questions"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "PhD admissions pages state GRE results are required (Biology PhD overrides to Optional; some CEPC programs note GRE may be waived on a case-by-case basis).",
+      "quote": "Minimum Required Documents for PhD ... Results of the Graduate Record Examination are required.",
+      "url": "https://www.catholic.edu/admission-aid/graduate-admission/application-process/us-students",
+      "also": [
+        {
+          "quote": "GRE scores, for applicants to the doctoral program",
+          "url": "https://engineering.catholic.edu/programs-admission/how-apply-transfers"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Minimum TOEFL iBT score is 80 for exams taken before Jan 21, 2026 (or 4.5 on the new scale after Jan 21, 2026); IELTS 6.5, Duolingo 120, or PTE 58 also accepted.",
+      "quote": "TOEFL 80 internet or 4.5*",
+      "url": "https://www.catholic.edu/admission-aid/international-admission/english-proficiency",
+      "also": [
+        {
+          "quote": "*For exams taken before January 21, 2026, the Minimum total score: 80 For exams taken after January 21, 2026, the Minimum total score: 4.5",
+          "url": "https://www.catholic.edu/admission-aid/international-admission/english-proficiency"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS score is 6.5 (TOEFL 80/4.5, Duolingo 120, or PTE 58 also accepted).",
+      "quote": "IELTS 6.5",
+      "url": "https://www.catholic.edu/admission-aid/international-admission/english-proficiency"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "English testing is required for all non-native English speakers; waivers are limited to applicants with a degree (B.A./B.S., graduate degree, or A.A.) from an accredited U.S. institution, not English-medium degrees from India.",
+      "quote": "The University requires all applicants whose native language is not English to take the Test of English as a Foreign Language (TOEFL) or an International English Language Testing System (IELTS) exam before they can be considered for final admission. ... The English language testing requirement can be waived on a case-by-case basis should the applicant have appropriate documentation of successful completion of one of the following: ... A graduate degree, a Bachelor's Degree (B.A. or B.S.), or an Associates Degree (A. A.) from an accredited U.S. institution of higher education",
+      "url": "https://www.catholic.edu/admission-aid/international-admission/english-proficiency"
+    }
+  },
+  "notes": "TOEFL/GRE institutional code 5104. International general Fall deadline is July 1 (Spring November 1); individual STEM PhD programs set rolling or earlier scholarship priority (Feb 1) deadlines."
+}

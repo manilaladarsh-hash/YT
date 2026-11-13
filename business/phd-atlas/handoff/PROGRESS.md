@@ -448,3 +448,4 @@ Commit: 7c5f0815
 2026-11-13 | CARD 5/4 | unmc | added University of Nebraska Medical Center (2 STEM PhD programs: biomed, neuro via IGPBS)
 2026-11-13 | CARD 5/4 | weillcornell | added Weill Cornell Medicine (3 STEM PhD programs: biomed, neuro, biology)
 2026-11-13 | CARD 5/4 | american | added American University (3 STEM PhD programs: biomed, cs, neuro)
+2026-11-13 | CARD 5/4 | catholic | added Catholic University of America (9 STEM PhD programs: biology, physics, materials, bme, civil, cs, ece, environment, mech)
