@@ -472,3 +472,4 @@ Commit: 7c5f0815
 2026-11-13 | CARD 4 | pvamu | added Prairie View A&M University (1 STEM PhD program: ece)
 2026-11-13 | CARD 4 | rowan | added Rowan University (13 STEM PhD programs: bme, chemeng, civil [also environment], ece, mech, materials, cs, datasci, chemistry, biology, earth, biomed, neuro) | Not stated 21% -> 21%
 2026-11-13 | CARD 4 | rutgerscamden | added Rutgers University-Camden (1 STEM PhD program: biology [Computational & Integrative Biology]) | Not stated 21% -> 21%
+2026-11-13 | CARD 4 | rutgersnewark | added Rutgers University-Newark (6 STEM PhD programs: biology, chemistry, environment, math [also datasci], neuro, physics) | Not stated 21% -> 21%

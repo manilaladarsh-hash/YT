@@ -1,0 +1,64 @@
+{
+  "id": "rutgersnewark--chemistry",
+  "university": "rutgersnewark",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://sasn.rutgers.edu/ms-phd-chemistry",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Applications are processed on a rolling basis with preferred Fall submission by January 15, 2027 (final Non-U.S. Fall 2027 portal deadline is March 1, 2027; U.S. April 1, 2027). Year 2027 is inferred for the January 15 preferred date.",
+      "quote": "Applications are processed on a rolling basis; early applications are encouraged with a preferred submission by 1/15.",
+      "url": "https://sasn.rutgers.edu/chemistry-graduate-admissions",
+      "inferred": "year",
+      "rolling": true,
+      "also": [
+        {
+          "quote": "Fall 2027 Apr 1, 2027 Mar 1, 2027",
+          "url": "https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?id=a501U0000004gFdQAI"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The General GRE is optional for Chemistry Ph.D. applicants.",
+      "quote": "General GRE is optional",
+      "url": "https://sasn.rutgers.edu/chemistry-graduate-admissions"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Chemistry admissions page states the Chemistry GRE is optional while the international applicants page says it is not required but recommended (note ETS discontinued the Chemistry GRE in May 2023).",
+      "quote": "The Chemistry GRE is optional.",
+      "url": "https://sasn.rutgers.edu/chemistry-graduate-admissions",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "The Chemistry GRE is not required, but is recommended",
+          "url": "https://sasn.rutgers.edu/chemistry-international-applicants"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Chemistry Ph.D. and admissions pages do not state whether securing a supervisor before admission is required.",
+      "quote": "",
+      "url": "https://sasn.rutgers.edu/chemistry-graduate-admissions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Financial support is available for all admitted full-time domestic and international Ph.D. students (including a $40,000 stipend, health benefits, and tuition/fee waivers).",
+      "quote": "Financial support is available for all full-time domestic and international students that are admitted to the Ph.D. program.",
+      "url": "https://sasn.rutgers.edu/ms-phd-chemistry"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The Chemistry Ph.D. pages do not explicitly state whether entry is direct from a bachelor's degree or requires a master's degree.",
+      "quote": "",
+      "url": "https://sasn.rutgers.edu/chemistry-graduate-admissions"
+    }
+  },
+  "notes": "Chemistry international applicants page also accepts Duolingo English Test with a minimum score of 130.",
+  "name": "Ph.D. in Chemistry"
+}

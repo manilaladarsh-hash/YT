@@ -1,0 +1,53 @@
+{
+  "id": "rutgersnewark",
+  "institution": "Rutgers University-Newark",
+  "country": "USA",
+  "region": "New Jersey",
+  "grad_page": "https://gsn.newark.rutgers.edu/admissions",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "70 USD",
+      "value": "The application fee is $70 and is nonrefundable.",
+      "quote": "$70 nonrefundable application fee",
+      "url": "https://gradstudy.rutgers.edu/apply/application-guidelines"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Fee waivers are limited to specific cohorts such as McNair, Project 1000, GEM scholars, U.S. military/veterans using GI Bill benefits, and Rutgers-Newark SURI program alumni; general international applicants are not eligible.",
+      "quote": "If you are a McNair, Project 1000, GEM, or other scholar, you may be eligible for an application fee waiver. | Applicants who are currently serving in the U.S. Military or are Military Veterans who plan to apply for educational benefits under the GI Bill, receive a waiver of the application fee.",
+      "url": "https://gradstudy.rutgers.edu/apply/application-guidelines",
+      "also": [
+        {
+          "quote": "Program alumni are eligible for application fee waivers when applying to Rutgers Graduate School-Newark.",
+          "url": "https://gsn.newark.rutgers.edu/suri"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No university-wide GRE General policy is set by Graduate School-Newark; individual programs set their own GRE rules.",
+      "quote": "",
+      "url": "https://gradstudy.rutgers.edu/apply/before-you-apply"
+    },
+    "toefl_min": {
+      "code": "Sections",
+      "value": "Graduate admissions sets section minimums rather than an overall total: Writing 22, Speaking 23, Reading 21, and Listening 17 on the 0-120 scale (or Writing 4.5, Speaking 4.5, Reading 4, and Listening 4 on the new scale). Some programs state their own thresholds.",
+      "quote": "Writing 22, Speaking 23, Reading 21, and Listening 17 | Writing 4.5, Speaking 4.5, Reading 4, and Listening 4",
+      "url": "https://gradstudy.rutgers.edu/information/international-students"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Minimum overall IELTS score for admission consideration is band 7 (some departments state different minimums).",
+      "quote": "Minimum overall IELTS score for admission consideration is a bandwidth 7",
+      "url": "https://gradstudy.rutgers.edu/information/international-students"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "An English proficiency test waiver may be requested case by case if your entire degree was completed at an institution where English is the principal language of instruction; India is not automatically exempt.",
+      "quote": "The English proficiency test requirement may be waived for applicants who have completed their entire degree at an institution where English is the principal language of instruction. | Requests for waivers are reviewed on a case-by-case basis.",
+      "url": "https://gradstudy.rutgers.edu/information/international-students"
+    }
+  },
+  "notes": "Public Carnegie R2 campus of Rutgers University in Newark, New Jersey. Graduate School-Newark offers 12 Ph.D. programs in total, 6 of which map to the 18 STEM Atlas fields: Biology (federated with NJIT), Chemistry, Environmental Sciences, Mathematical Sciences (pure mathematics and data science tracks), Neuroscience (CMBN), and Applied Physics (joint with NJIT). The other 6 Ph.D. programs are non-STEM (American Studies, Criminal Justice, Global Urban Studies, Management, Psychology, and Public Administration). Note Psychology offers a Neuroscience training area alongside CMBN's dedicated Ph.D. in Neuroscience."
+}
