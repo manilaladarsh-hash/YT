@@ -10,8 +10,14 @@
     "deadline": {
       "code": "Rolling",
       "value": "Applicants are advised to apply at least four months before their proposed start date; admissions operate on a rolling basis across multiple start dates.",
-      "quote": "We advise you to apply at least four months before your proposed start date. This is to allow sufficient time to review your application and undertake any additional checks.",
-      "url": "https://www.leeds.ac.uk/research-applying/doc/applying-research-degrees"
+      "quote": "Deadlines We advise you to apply at least four months before your proposed start date. This is to allow sufficient time to review your application and undertake any additional checks.",
+      "url": "https://www.leeds.ac.uk/research-applying/doc/applying-research-degrees",
+      "also": [
+        {
+          "quote": "Our entry points are 1 September, 1 October, 1 February and 1 April, though some areas may offer only one or two start dates per year.",
+          "url": "https://www.leeds.ac.uk/research-applying/doc/start-dates-application-deadlines"
+        }
+      ]
     },
     "entry_route": {
       "code": "Either",

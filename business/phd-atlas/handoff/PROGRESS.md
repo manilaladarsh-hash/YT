@@ -385,3 +385,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (hamburg x2, illinoistech x6, imperial x2 + ielts_min) | off_topic 476 -> 466, absence 60 -> 60, 1 row reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (imperial x3, imprs-cpqm, iub x2, jhu--cs, kcl--bme, kent--biomed) | off_topic 466 -> 462, absence 60 -> 59, 5 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (kent--math, kit--mech, ksu x2, ku x3, leeds x3) | off_topic 462 -> 453, absence 59 -> 59, 1 row reviewed
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (leeds--chemeng..neuro deadline) | off_topic 453 -> 443, absence 59 -> 59
