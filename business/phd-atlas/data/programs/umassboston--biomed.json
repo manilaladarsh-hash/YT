@@ -1,0 +1,55 @@
+{
+  "id": "umassboston--biomed",
+  "university": "umassboston",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "College of Science and Mathematics — Integrative Biosciences (IB) PhD",
+  "program_page": "https://www.umb.edu/academics/program-finder/integrative-biosciences-phd/",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Apply by February 15, 2027 for Fall admission (November 1 for Spring admission).",
+      "quote": "Deadlines: February 15 for fall; November 1 for spring",
+      "url": "https://www.umb.edu/academics/program-finder/integrative-biosciences-phd/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "General GRE test scores are required for Integrative Biosciences PhD admission.",
+      "quote": "General GRE test scores required; for concerns, please reach out to the Graduate Program Director, Professor Mohamed Gharbi at mohamed.gharbi@umb.edu.",
+      "url": "https://www.umb.edu/academics/program-finder/integrative-biosciences-phd/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for Integrative Biosciences; only General GRE scores are required.",
+      "quote": "General GRE test scores required; for concerns, please reach out to the Graduate Program Director, Professor Mohamed Gharbi at mohamed.gharbi@umb.edu.",
+      "url": "https://www.umb.edu/academics/program-finder/integrative-biosciences-phd/",
+      "also": [
+        {
+          "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+          "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "It is helpful for applicants to identify faculty with matching research interests who will likely serve as laboratory rotation advisors, and applicants are encouraged to contact faculty about position availability.",
+      "quote": "It is helpful if you identify members of the faculty whose research interests are similar to your own (see list of participating faculty). These faculty members will likely serve as laboratory rotation advisors. Feel free to contact individual faculty members to discuss your interests and inquire about availability of positions.",
+      "url": "https://www.umb.edu/academics/program-finder/integrative-biosciences-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate teaching and research assistantships are assigned by the program ($25,865 stipend + 100% tuition waiver for a 1.0 FTE TA/RA in AY 2026-27).",
+      "quote": "These positions are assigned by the student's department/program and are subject to the agreement between UMass Boston and UAW/Graduate Employees Organization (GEO). | Full Assistantship | 18.00 | 1.00 | $1,293.25 | $25,865.00 | 100%",
+      "url": "https://www.umb.edu/admissions/graduate-students/graduate-students-assistantships/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may enter with a Bachelor of Science or a master's degree in biology, chemistry, physics, mathematics, environmental science, or computer science.",
+      "quote": "Given the multi-disciplinary nature of the IB, we expect that our applicants will be undergraduates with Bachelor of Science degrees in biology, chemistry, physics, mathematics, environmental or computer science or graduates with Master's degrees in these areas.",
+      "url": "https://www.umb.edu/academics/program-finder/integrative-biosciences-phd/"
+    }
+  },
+  "notes": "Offers tracks in Biochemistry, Biophysics, and Bioinformatics."
+}

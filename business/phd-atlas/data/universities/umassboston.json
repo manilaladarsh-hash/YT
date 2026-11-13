@@ -1,0 +1,59 @@
+{
+  "id": "umassboston",
+  "institution": "University of Massachusetts-Boston",
+  "country": "USA",
+  "region": "Massachusetts",
+  "grad_page": "https://www.umb.edu/admissions/graduate-students/apply/",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The nonrefundable graduate application fee is $75 USD (waived for UMass Boston alumni and current degree-completing students).",
+      "quote": "The nonrefundable application fee is $75. If you pay the $75 application fee and later receive a program fee waiver code, the $75 payment remains nonrefundable. Fee waivers must be applied at the time of application.",
+      "url": "https://www.umb.edu/admissions/graduate-students/apply/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Application fee waivers are automatically granted to UMass Boston alumni and current graduating students, and program fee waiver codes are available for applicants facing financial challenges.",
+      "quote": "No application fee for UMass Boston alumni! UMass Boston alumni and current students that plan to complete degree requirements prior to graduate enrollment can submit the application without paying the application fee. | Fee waivers must be applied at the time of application.",
+      "url": "https://www.umb.edu/admissions/graduate-students/apply/",
+      "also": [
+        {
+          "quote": "Fee waivers are available for students facing financial challenges. Contact the program if the fee represents a significant financial challenge.",
+          "url": "https://www.umb.edu/academics/program-finder/developmental-brain-sciences-phd/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE requirements vary by doctoral program; see each program record.",
+      "quote": "",
+      "url": "https://www.umb.edu/admissions/graduate-students/apply/",
+      "also": [
+        {
+          "quote": "Some programs require official GRE or GMAT test scores. Please review program requirements to confirm.",
+          "url": "https://www.umb.edu/admissions/graduate-students/apply/"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "Minimum TOEFL iBT score of 4 on the post-January 2026 scale (79 on the 0-120 scale) for most programs; Biology requires 4.5 (90).",
+      "quote": "UMass Boston requires the following minimum scores | TOEFL IBT (taken on/prior to 1/21/26) | TOEFL IBT (taken after 1/21/26) | IELTS Academic | Biology (all programs) 90 | 4.5 | 6.5 | Most Other Programs | 79 | 4 | 6.0",
+      "url": "https://www.umb.edu/admissions/graduate-students/apply/international-graduate-applicants/"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "Minimum overall IELTS Academic score of 6.0 for most graduate programs (6.5 for Biology programs).",
+      "quote": "UMass Boston requires the following minimum scores | TOEFL IBT (taken on/prior to 1/21/26) | TOEFL IBT (taken after 1/21/26) | IELTS Academic | Biology (all programs) 90 | 4.5 | 6.5 | Most Other Programs | 79 | 4 | 6.0",
+      "url": "https://www.umb.edu/admissions/graduate-students/apply/international-graduate-applicants/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "English proficiency testing is waived only for applicants who have completed at least two academic years of full-time study at an English-language institution in the U.S. or one of 32 designated countries; India is not on the exempt country list.",
+      "quote": "Applicants that have not completed at least two academic years of full-time study (excluding ESL and test-prep) prior to the anticipated term of enrollment (i.e., the first term of matriculation in the graduate program) at an English-language institution in the U.S. or one of the countries listed below must submit official score results. | Australia | Bahamas | Barbados | Belize | Botswana | Canada (except Quebec) | Dominica | Ghana | Grand Cayman | Grenada | Guyana | Hong Kong | Ireland | Jamaica | Kenya | Liberia | Malawi | Namibia | New Zealand | Nigeria | Scotland | Sierra Leone | Singapore | South Africa | Swaziland | Tanzania | Trinidad/Tobago | Uganda | United Kingdom | West Indies | Zambia | Zimbabwe",
+      "url": "https://www.umb.edu/admissions/graduate-students/apply/international-graduate-applicants/"
+    }
+  },
+  "notes": "Graduate teaching and research assistantships at UMass Boston are governed by the UMass Boston/UAW Graduate Employees Organization contract ($25,865 stipend + 100% tuition waiver for 1.0 FTE TA/RA in AY 2026-27; $28,052 stipend + 100% tuition waiver for Teaching Fellows)."
+}
