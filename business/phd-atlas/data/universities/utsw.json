@@ -1,0 +1,59 @@
+{
+  "id": "utsw",
+  "institution": "The University of Texas Southwestern Medical Center",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://gsbs.utsouthwestern.edu/application-and-admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "There is no application fee for Graduate School of Biomedical Sciences Ph.D. programs.",
+      "quote": "There is no application fee.",
+      "url": "https://gsbs.utsouthwestern.edu/application-and-admissions/"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No fee waiver is needed because there is no application fee.",
+      "quote": "There is no application fee.",
+      "url": "https://gsbs.utsouthwestern.edu/application-and-admissions/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required for Division of Basic Science Ph.D. programs (Basic Biomedical Sciences and Biomedical Engineering).",
+      "quote": "Are GRE Scores Required? No",
+      "url": "https://gsbs.utsouthwestern.edu/application-and-admissions/basic-sciences.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "International applicants whose native language is not English must submit TOEFL iBT, TOEFL Essentials, IELTS, or Duolingo scores, but there are no published minimum score requirements (competitive scores are typically TOEFL iBT 100 or above).",
+      "quote": "",
+      "url": "https://gsbs.utsouthwestern.edu/application-and-admissions/basic-sciences.html",
+      "also": [
+        {
+          "quote": "We accept the following test scores – TOEFL iBT, TOEFL Essentials, IELTS, and DuoLingo. While there are no minimum score requirements, competitive scores are typically equivalent to a TOEFL iBT score of 100 or above.",
+          "url": "https://gsbs.utsouthwestern.edu/application-and-admissions/basic-sciences.html"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "IELTS is accepted alongside TOEFL iBT, TOEFL Essentials, and Duolingo, with no published minimum band score requirement.",
+      "quote": "",
+      "url": "https://gsbs.utsouthwestern.edu/application-and-admissions/basic-sciences.html",
+      "also": [
+        {
+          "quote": "We accept the following test scores – TOEFL iBT, TOEFL Essentials, IELTS, and DuoLingo. While there are no minimum score requirements, competitive scores are typically equivalent to a TOEFL iBT score of 100 or above.",
+          "url": "https://gsbs.utsouthwestern.edu/application-and-admissions/basic-sciences.html"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Language proficiency test waivers must be requested at the time of application and are determined case by case (typically granted for undergraduate degrees from countries whose official languages include English; English-medium instruction in a non-English-speaking country or a master's degree from an English-speaking country alone is not sufficient).",
+      "quote": "Yes, Language Proficiency Exam scores can be waived upon request and will be determined on a case-by-case basis. In general, international applicants who have completed an undergraduate degree in a country whose Official Language(s) include English, a waiver is typically granted. Applicants whose education medium of instruction is English but in a non-English-speaking country must still submit Language Proficiency Exam scores.",
+      "url": "https://gsbs.utsouthwestern.edu/application-and-admissions/basic-sciences.html"
+    }
+  },
+  "notes": "Graduate School of Biomedical Sciences (GSBS), Division of Basic Science. Health-science scope covers the Basic Biomedical Sciences (BBS) umbrella Ph.D. (which includes Neuroscience and Cell & Molecular Biology) and the Biomedical Engineering Ph.D. Note: international applicants with non-US/Canada degrees must upload a NACES/AICE course-by-course transcript evaluation."
+}
