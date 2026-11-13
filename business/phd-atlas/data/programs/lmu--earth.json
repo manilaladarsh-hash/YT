@@ -21,15 +21,9 @@
     },
     "supervisor": {
       "code": "Required",
-      "value": "The application for admission as a doctoral candidate must carry a supervision confirmation signed by both supervisors.",
-      "quote": "unterschrieben von beiden Betreuungspersonen",
-      "url": "https://www.geo.lmu.de/de/promotion-und-habilitation/promotion.html",
-      "also": [
-        {
-          "quote": "Betreuungszusage (Seite 2 im Antrag)",
-          "url": "https://www.geo.lmu.de/de/promotion-und-habilitation/promotion.html"
-        }
-      ]
+      "value": "The application for admission as a doctoral candidate must include a confirmation of supervision signed by both supervisors.",
+      "quote": "Application for admission to doctoral studies (PDF, 289 KB), completed and signed by you, together with a completed confirmation of supervision (page 2 of the application) and signed by both supervisors",
+      "url": "https://www.geo.lmu.de/en/doctorate-and-habilitation/doctoral-study.html"
     },
     "funding": {
       "code": "Not stated",

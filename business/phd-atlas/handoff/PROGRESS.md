@@ -386,3 +386,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (imperial x3, imprs-cpqm, iub x2, jhu--cs, kcl--bme, kent--biomed) | off_topic 466 -> 462, absence 60 -> 59, 5 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (kent--math, kit--mech, ksu x2, ku x3, leeds x3) | off_topic 462 -> 453, absence 59 -> 59, 1 row reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (leeds--chemeng..neuro deadline) | off_topic 453 -> 443, absence 59 -> 59
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (leeds x2, lehigh--biology, lmu x5, louisville--math x2) | off_topic 443 -> 435, absence 59 -> 58, 1 row reviewed
