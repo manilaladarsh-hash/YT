@@ -1,0 +1,62 @@
+{
+  "id": "ccny--mech",
+  "university": "ccny",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering",
+  "program_page": "https://sites.google.com/view/leeccny/home/graduate-program",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Priority deadline February 15, 2027 for Fall 2027 PhD admission (applications evaluated rolling thereafter; final Fall deadline May 1 per CCNY).",
+      "quote": "Below you will find the information required to apply for the Fall 2027 admission cycle. | Priority Deadline: February 15, 2027",
+      "url": "https://sites.google.com/view/leeccny/home/graduate-program",
+      "time_sensitive": "2027-02-15"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The ME PhD program page states the GRE requirement is suspended and scores will not be considered (note: an older CCNY admissions summary still lists GRE Required: Yes).",
+      "quote": "The GRE requirement is suspended for the Fall 2026 application cycle. Please do not send GRE scores, as they will not be considered in the application review process.",
+      "url": "https://sites.google.com/view/leeccny/home/graduate-program",
+      "also": [
+        {
+          "quote": "GRE Required: Yes",
+          "url": "https://www.ccny.cuny.edu/admissions/mechanical-engineering"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for Mechanical Engineering (ETS offers Subject Tests only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "toefl_min": {
+      "code": "73",
+      "value": "CCNY's Mechanical Engineering admissions page lists minimum TOEFL 73 iBT (533 PBT).",
+      "quote": "Minimum TOEFL/IELTS Scores: 533 (PBT), 73 (IBT) or 6",
+      "url": "https://www.ccny.cuny.edu/admissions/mechanical-engineering"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Prospective students are strongly encouraged to contact faculty members to inquire about lab openings.",
+      "quote": "We strongly encourage prospective students to contact the faculty members they are interested in working with to inquire about potential openings in their research labs.",
+      "url": "https://sites.google.com/view/leeccny/home/graduate-program"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted ME PhD students are offered full financial support (stipend and tuition waiver) via RA and/or TA appointments.",
+      "quote": "All students admitted to our Ph.D. program will be offered full financial support, which includes a stipend and tuition waiver, through a Research Assistantship and/or a Teaching Assistantship.",
+      "url": "https://sites.google.com/view/leeccny/home/graduate-program"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Open to applicants holding an accredited bachelor's degree (or foreign equivalent) with an adequate ME/engineering background.",
+      "quote": "Graduate study is open to qualified students who possess a bachelor’s degree from an accredited U.S. college or university or the equivalent from a foreign institution and an adequate background in the field of study that they wish to pursue.",
+      "url": "https://www.ccny.cuny.edu/admissions/gradstep2requirements"
+    }
+  },
+  "notes": "The older CCNY Admissions summary for Mechanical Engineering lists GRE Required: Yes and IELTS 6, whereas the active ME Graduate Program page (updated for Fall 2027) suspends GRE and CCNY graduate admissions FAQ lists IELTS 6.5 as the college baseline.",
+  "name": "Ph.D. in Mechanical Engineering"
+}

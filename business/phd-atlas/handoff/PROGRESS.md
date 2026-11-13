@@ -455,3 +455,4 @@ Commit: 7c5f0815
 2026-11-13 | CARD 4 | cmich | added Central Michigan University (7 STEM PhD programs: biology [also biomed, chemistry], earth [also environment], math, neuro, physics [also astronomy], materials [also chemistry, physics], statistics [also datasci])
 2026-11-13 | CARD 4 | clark | added Clark University (5 STEM PhD programs: physics, chemistry, biomed, biology, environment [also earth])
 2026-11-13 | CARD 7 | Refreshed business docs (352 universities, 3720 programs, 18 fields, Not stated 21%)
+2026-11-13 | CARD 4 | ccny | added CUNY City College (5 STEM PhD programs: bme, chemeng, civil, ece, mech)
