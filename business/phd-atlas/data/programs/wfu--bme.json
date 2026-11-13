@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Biomedical Engineering (Virginia Tech-Wake Forest School of Biomedical Engineering and Sciences)",
   "program_page": "https://school.wakehealth.edu/education-and-training/graduate-programs/biomedical-engineering-programs",
-  "checked": "2026-10-26",
+  "checked": "2026-11-12",
   "fields": {
     "deadline": {
       "code": "2026-12-15",
@@ -15,10 +15,16 @@
       "inferred": "year"
     },
     "gre_general": {
-      "code": "Not required",
-      "value": "The Biomedical Engineering MS and PhD required items list no GRE.",
-      "quote": "Personal information, Transcripts, 2 Recommendation letters, Personal statement (Written), Attestation statement, Application fee",
-      "url": "https://school.wakehealth.edu/Education-and-Training/Graduate-Programs/How-to-Apply"
+      "code": "Optional",
+      "value": "Initial application to this joint Virginia Tech-Wake Forest BME PhD is through Virginia Tech, where the GRE is optional.",
+      "quote": "GRE: optional",
+      "url": "https://catalog.vt.edu/graduate/degree-programs/biomedical-engineering/biomedical-engineering-phd/",
+      "also": [
+        {
+          "quote": "Biomedical Engineering MS and Biomedical Engineering PhD Initial application to this joint program is made through the Virginia Tech Graduate School. Please consult the VT website for additional information.",
+          "url": "https://school.wakehealth.edu/Education-and-Training/Graduate-Programs/How-to-Apply"
+        }
+      ]
     },
     "gre_subject": {
       "code": "No subject test",

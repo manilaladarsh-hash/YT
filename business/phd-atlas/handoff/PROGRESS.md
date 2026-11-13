@@ -427,3 +427,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (utoronto--astronomy, biology x2, chemeng, ece, materials, physics; utsa--biology, biomed, cs) | off_topic 179 -> 170, absence 48 -> 47, 0 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (utsa--datasci, physics, statistics x2; uvic--physics; uwashington--environment; uwmilwaukee--biology x3; uzh--chemistry) | off_topic 170 -> 161, absence 47 -> 46, 0 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (uzh--chemistry, earth; villanova--ece + fee/waiver; vuw--biology; warwick--materials; waterloo--math x2; wayne--materials x2; western--chemistry) | off_topic 161 -> 151, absence 46 -> 46, 0 rows reviewed
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (western--earth, neuro x2, physics, statistics; wfu--biomed x2, bme x2, neuro x2) | off_topic 151 -> 143, absence 46 -> 43, 0 rows reviewed
