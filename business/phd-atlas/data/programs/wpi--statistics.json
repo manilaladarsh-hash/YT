@@ -46,9 +46,15 @@
     },
     "entry_route": {
       "code": "Either",
-      "value": "Students entering with a BS complete 90 semester hours, while students entering with an MS complete 60 semester hours.",
-      "quote": "Students entering the program with a BS must successfully complete 90 semester hours of graduate work (students with an MS must complete 60 semester hours).",
-      "url": "https://www.wpi.edu/academics/study/phd-statistics"
+      "value": "Students entering with a bachelor's degree complete at least 90 credit hours, while students entering with a master's degree complete at least 60 credit hours.",
+      "quote": "The course of study leading to the doctor of philosophy in statistics requires the completion of at least 90 credit hours beyond the bachelor’s degree or at least 60 credit hours beyond the master’s degree, as follows:",
+      "url": "https://wpi-grad.cleancatalog.net/mathematical-sciences/phd-in-statistics",
+      "also": [
+        {
+          "quote": "Students entering the program with a BS must successfully complete 90 semester hours of graduate work (students with an MS must complete 60 semester hours).",
+          "url": "https://www.wpi.edu/academics/study/phd-statistics"
+        }
+      ]
     },
     "toefl_min": {
       "code": "100",
