@@ -1,0 +1,74 @@
+{
+  "id": "astate--environment",
+  "university": "astate",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Environmental Sciences Graduate Program (Beck College of Science and Mathematics)",
+  "program_page": "https://catalog.astate.edu/preview_program.php?catoid=15&poid=5211&returnto=444",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Recommended Fall application deadline of February 15, 2027 (Spring deadline July 15; the standalone program webpage also notes a recommended January 15 Fall date in its checklist and September 15 for Spring).",
+      "quote": "Applicants are encouraged to submit the application no later than February 15th for the fall semester and July 15th for the spring semester.",
+      "url": "https://catalog.astate.edu/preview_program.php?catoid=15&poid=5211&returnto=444",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Environmental Sciences (M.S. & Ph.D.) Spring (July 15)/Fall (Feb. 15)",
+          "url": "https://www.astate.edu/admissions-and-aid/international-student-admission/graduate-students.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE scores are required per the 2026-2027 Graduate Bulletin and Ph.D. program webpage (recommended minimum 150 Verbal and 150 Quantitative); note that A-State's International Graduate Admissions chart lists 'No' for GRE under Environmental Sciences.",
+      "quote": "Scores from the Graduate Record Examination are required. A score of 150 on both the verbal and quantitative tests are recommended for acceptance.",
+      "url": "https://catalog.astate.edu/preview_program.php?catoid=15&poid=5211&returnto=444",
+      "also": [
+        {
+          "quote": "Environmental Sciences (M.S. & Ph.D.) Spring (July 15)/Fall (Feb. 15) 2.75 No",
+          "url": "https://www.astate.edu/admissions-and-aid/international-student-admission/graduate-students.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers no GRE Subject Test in Environmental Sciences (Subject Tests exist only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly encouraged to contact Environmental Sciences faculty beforehand and must identify potential advisor candidates in their statement of purpose; the 2026-2027 Graduate Bulletin sets Doctoral Advisory Committee chair selection during the first year, though the program webpage checklist mentions a sponsoring graduate faculty member.",
+      "quote": "Applicants should also contact faculty they would like to work with and describe in the statement of purpose what faculty member would be a good candidate to be their advisor.",
+      "url": "https://catalog.astate.edu/preview_program.php?catoid=15&poid=5211&returnto=444",
+      "also": [
+        {
+          "quote": "A sponsoring graduate faculty member within Arkansas State University.",
+          "url": "https://www.astate.edu/programs/phd-in-environmental-sciences.html"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate assistantships are awarded competitively to a limited number of qualified applicants across departments; full doctoral graduate assistantships include an out-of-state tuition waiver and an in-state tuition fellowship (up to 10 semesters).",
+      "quote": "Doctoral graduate assistantship carries a tuition fellowship covering the cost of tuition.",
+      "url": "https://catalog.astate.edu/content.php?catoid=15&navoid=437",
+      "also": [
+        {
+          "quote": "Doctoral graduate assistants also have in-state tuition covered by the university or their program.",
+          "url": "https://www.astate.edu/academics/graduate-school/graduate-assistantships.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Minimum of a bachelor's degree (BA/BS) in a relevant field, with a master's degree preferred; 72 graduate credits beyond the bachelor's or 42 beyond the master's are required (with an en route M.S. available upon candidacy).",
+      "quote": "Applicants to the PhD Graduate Program in Environmental Sciences Program must hold a baccalaureate degree (BA, BS) and preferably a master’s degree (MA, MS) from an accredited institution in a relevant field of study.",
+      "url": "https://catalog.astate.edu/preview_program.php?catoid=15&poid=5211&returnto=444"
+    }
+  },
+  "notes": "Interdisciplinary Ph.D. in Environmental Sciences spanning environmental chemistry/soil and water science, environmental policy/law/economics, and ecological/biosciences research; en route M.S. available upon Ph.D. candidacy.",
+  "name": "Ph.D. in Environmental Sciences"
+}
