@@ -5,13 +5,19 @@
   "also_fields": [],
   "department": "Graduate School of Chemical and Molecular Sciences Zurich (CMSZH)",
   "program_page": "https://www.cmszh.uzh.ch/en/Application.html",
-  "checked": "2026-10-22",
+  "checked": "2026-11-12",
   "fields": {
     "deadline": {
       "code": "Per position",
       "value": "No fixed deadline: you apply to a supervisor (PI), who then starts the CMSZH procedure.",
-      "quote": "Applications have to be submitted directly to the supervisor (PI) and upon his/her request, the further application procedure will then be handled by the CMSZH.",
-      "url": "https://www.cmszh.uzh.ch/en/Application.html"
+      "quote": "Open PhD Theses | There are no open PhD positions at this moment.",
+      "url": "https://www.cmszh.uzh.ch/en/Open-PhD-Theses.html",
+      "also": [
+        {
+          "quote": "Applications have to be submitted directly to the supervisor (PI) and upon his/her request, the further application procedure will then be handled by the CMSZH.",
+          "url": "https://www.cmszh.uzh.ch/en/Application.html"
+        }
+      ]
     },
     "supervisor": {
       "code": "Required",
