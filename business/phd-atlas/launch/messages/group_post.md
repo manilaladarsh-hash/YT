@@ -3,12 +3,12 @@
 
 Hi all, {your name} here ({IISER TVM BS-MS '23 / McMaster Physics PhD}; edit as you like).
 
-For anyone applying to STEM PhDs abroad for 2027: I checked the official pages of 3,720 programs in 18 fields (352 universities in the US, UK, Europe, Canada and Australia) for the rules that trip up Indian applicants. What stood out:
+For anyone applying to STEM PhDs abroad for 2027: I checked the official pages of 3,769 programs in 18 fields (362 universities in the US, UK, Europe, Canada and Australia) for the rules that trip up Indian applicants. What stood out:
 
-1. **Fees you may not have to pay:** 436 programs charge no application fee, including ANU, Aarhus, Adelaide, Baylor College of Medicine, Bristol, Cardiff, Carnegie Mellon, Case Western and 44 more.
-2. **English tests:** 39 universities accept an English-medium Indian degree instead of IELTS/TOEFL, 135 with conditions, and 123 require a test regardless.
+1. **Fees you may not have to pay:** 443 programs charge no application fee, including ANU, Aarhus, Adelaide, Baylor College of Medicine, Bristol, Cardiff, Carnegie Mellon, Case Western and 45 more.
+2. **English tests:** 42 universities accept an English-medium Indian degree instead of IELTS/TOEFL, 135 with conditions, and 129 require a test regardless.
 3. **GRE Subject tests aren't gone:** still required at 27 programs, including Berkeley, Brown, Calgary, Caltech, Central Michigan University, Cornell and 16 more.
-4. **Supervisor first:** 1075 programs need a supervisor's agreement before admission, mostly in Europe, Australia and Canada.
+4. **Supervisor first:** 1079 programs need a supervisor's agreement before admission, mostly in Europe, Australia and Canada.
 5. **Deadlines are early:** Dec 1, 2026 is the most common US date, and 110 programs close in November.
 
 Free 12-program sample: {SAMPLE_URL}?utm_source=group&utm_medium=post&utm_campaign=launch2026
