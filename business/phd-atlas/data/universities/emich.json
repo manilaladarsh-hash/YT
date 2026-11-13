@@ -1,0 +1,59 @@
+{
+  "id": "emich",
+  "institution": "Eastern Michigan University",
+  "country": "USA",
+  "region": "Michigan",
+  "grad_page": "https://www.emich.edu/admissions/international/graduates/how-to-apply.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "45 USD",
+      "value": "The graduate application fee is $45.00 (one-time, non-refundable).",
+      "quote": "Application Fee - Graduate $45.00",
+      "url": "https://www.emich.edu/sbs/basics/other.php"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "EMU waives the graduate application fee for military veterans (upon emailing veteran.services@emich.edu); no general international graduate fee waiver is published.",
+      "quote": "Eastern Michigan waives the application fee for military veterans. | In order for Graduate students to have their application fee waived the student must e-mail veteran.services@emich.edu to request a waiver.",
+      "url": "https://www.emich.edu/veterans/students/index.php"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each program; see the program record.",
+      "quote": "",
+      "url": "https://www.emich.edu/admissions/international/graduates/how-to-apply.php"
+    },
+    "toefl_min": {
+      "code": "85",
+      "value": "Minimum TOEFL iBT 85 for straight admission (effective 2026 new scale: 4.5 straight admission; 71-84 or 4.0 may qualify for ESL Placement). MyBest and Home Edition scores are accepted by the Graduate School.",
+      "quote": "Accepted tests and minimum scores required: TOEFL: 85",
+      "url": "https://www.emich.edu/admissions/international/graduates/how-to-apply.php",
+      "also": [
+        {
+          "quote": "TOEFL: 85 iBT* (TOEFL Home Edition also accepted) | Effective 2026: 4.5 (straight admission) or 4 (ESL Placement & potentially 500-level/advanced speaking and writing courses)",
+          "url": "https://catalog.emich.edu/mime/media/view/48/16154/2026-2027+Grad+Academic+Policie+and+Procedures2.pdf"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic 6.5 (IELTS Indicator is also accepted).",
+      "quote": "IELTS: 6.5 (IELTS Indicator also accepted)",
+      "url": "https://www.emich.edu/admissions/international/graduates/how-to-apply.php"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "India is on EMU's English Test Waiver country list for applicants who completed their education there; International Admissions makes the waiver decision at the time of review.",
+      "quote": "Students who completed their education in the countries listed below are eligible for an English Test Waiver. Waiver decision will be made at the time of review. | India",
+      "url": "https://www.emich.edu/admissions/international/graduates/how-to-apply.php",
+      "also": [
+        {
+          "quote": "Consult the official list of English-speaking countries and territories for which applicants are not required to submit English proficiency test scores",
+          "url": "https://catalog.emich.edu/mime/media/view/48/16154/2026-2027+Grad+Academic+Policie+and+Procedures2.pdf"
+        }
+      ]
+    }
+  },
+  "notes": "Only STEM PhD in the 18 Atlas fields is the interdisciplinary STEM-designated Ph.D. in Technology (with concentrations in Polymers and Coatings, Cybersecurity and Applied Computing, and Construction Management). EMU's other PhDs are Clinical Psychology, Educational Leadership, and Educational Studies."
+}
