@@ -1,0 +1,279 @@
+=== msstate--math.json ===
+  funding: {"code": "Competitive", "value": "Graduate teaching assistantships are awarded competitively, mostly for the Fall intake.", "quote": "GTA is available on a COMPETITIVE basis.", "url": "https://www.math.msstate.edu/graduate/procedure"}
+  gre_subject: {"code": "Not stated", "value": "Not stated on the official pages checked.", "quote": "", "url": "https://www.math.msstate.edu/graduate/procedure"}
+  entry_route: {"code": "Not stated", "value": "Not stated on the official pages checked.", "quote": "", "url": "https://www.math.msstate.edu/graduate/procedure"}
+=== msu--statistics.json ===
+  funding: {"code": "Not stated", "value": "Page says only that the department awards graduate assistant positions to admitted students", "quote": "", "url": "https://stt.natsci.msu.edu/graduate-programs/prospective-students/phd-in-statistics.aspx"}
+  gre_subject: {"code": "Not required", "value": "GRE subject tests are not required.", "quote": "Sub tests are not required.", "url": "https://stt.natsci.msu.edu/graduate-programs/prospective-students/phd-in-statistics.aspx"}
+  entry_route: {"code": "Not stated", "value": "Not stated on the page checked", "quote": "", "url": "https://stt.natsci.msu.edu/graduate-programs/prospective-students/phd-in-statistics.aspx"}
+=== mtu--biology.json ===
+  funding: {"code": "Not stated", "value": "The page gives no funding rule.", "quote": "", "url": "https://www.mtu.edu/biological/graduate/bio-sci/"}
+  gre_subject: {"code": "Not required", "value": "The biology PhD does not require the GRE.", "quote": "GRE not required", "url": "https://www.mtu.edu/biological/graduate/bio-sci/"}
+  entry_route: {"code": "Either", "value": "Admission is possible after a bachelor's (60 credits) or a master's (30 credits).", "quote": "MS-PhD (minimum) 30 Credits | BS-PhD (minimum) 60 Credits", "url": "https://www.mtu.edu/biological/graduate/bio-sci/"}
+=== mtu--bme.json ===
+  funding: {"code": "Not stated", "value": "The page gives no funding rule.", "quote": "", "url": "https://www.mtu.edu/gradschool/programs/degrees/biomedical-engineering/"}
+  gre_subject: {"code": "No subject test", "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.", "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study", "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"}
+  entry_route: {"code": "Either", "value": "Admission is possible after a bachelor's (60 credits) or a master's (30 credits).", "quote": "MS-PhD (minimum) 30 Credits | BS-PhD (minimum) 60 Credits", "url": "https://www.mtu.edu/gradschool/programs/degrees/biomedical-engineering/"}
+=== mtu--chemeng.json ===
+  funding: {"code": "Not stated", "value": "The page gives no funding rule.", "quote": "", "url": "https://www.mtu.edu/gradschool/programs/degrees/chemical-engineering/"}
+  gre_subject: {"code": "Not required", "value": "The chemical engineering PhD does not require the GRE.", "quote": "GRE not required", "url": "https://www.mtu.edu/gradschool/programs/degrees/chemical-engineering/"}
+  entry_route: {"code": "Either", "value": "Admission is possible after a bachelor's (60 credits) or a master's (30 credits).", "quote": "MS-PhD (minimum) 30 Credits | BS-PhD (minimum) 60 Credits", "url": "https://www.mtu.edu/gradschool/programs/degrees/chemical-engineering/"}
+=== mtu--chemistry.json ===
+  funding: {"code": "Competitive", "value": "Only a small number (usually 3-10) of admitted PhD students are offered support, depending on budget and research group space.", "quote": "select number (usually 3-10) of admitted Ph.D. students will be offered financial support", "url": "https://www.mtu.edu/chemistry/graduate/chemistry/"}
+  gre_subject: {"code": "Not required", "value": "The chemistry PhD does not require the GRE.", "quote": "No GRE required", "url": "https://www.mtu.edu/chemistry/graduate/chemistry/"}
+  entry_route: {"code": "Either", "value": "Admission is possible after a bachelor's (60 credits) or a master's (30 credits).", "quote": "MS-PhD (minimum) 30 Credits | BS-PhD (minimum) 60 Credits", "url": "https://www.mtu.edu/chemistry/graduate/chemistry/"}
+=== mtu--civil.json ===
+  funding: {"code": "Not stated", "value": "The page gives no funding rule.", "quote": "", "url": "https://www.mtu.edu/cege/graduate/civil/"}
+  gre_subject: {"code": "Not required", "value": "The civil engineering PhD does not require the GRE.", "quote": "GRE not required", "url": "https://www.mtu.edu/cege/graduate/civil/"}
+  entry_route: {"code": "Either", "value": "Admission is possible after a bachelor's (60 credits) or a master's (30 credits).", "quote": "MS-PhD (minimum) 30 Credits | BS-PhD (minimum) 60 Credits", "url": "https://www.mtu.edu/cege/graduate/civil/"}
+=== mtu--cs.json ===
+  funding: {"code": "Not stated", "value": "The page gives no funding rule.", "quote": "", "url": "https://www.mtu.edu/gradschool/programs/degrees/computer-science/"}
+  gre_subject: {"code": "No subject test", "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.", "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study", "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"}
+  entry_route: {"code": "Either", "value": "Admission is possible after a bachelor's (60 credits) or a master's (30 credits).", "quote": "MS-PhD (minimum) 30 Credits | BS-PhD (minimum) 60 Credits", "url": "https://www.mtu.edu/gradschool/programs/degrees/computer-science/"}
+=== mtu--earth.json ===
+  funding: {"code": "Not stated", "value": "The page gives no funding rule.", "quote": "", "url": "https://www.mtu.edu/gradschool/programs/degrees/geophysics/"}
+  gre_subject: {"code": "Not required", "value": "The geophysics PhD does not require the GRE.", "quote": "GRE not required", "url": "https://www.mtu.edu/gradschool/programs/degrees/geophysics/"}
+  entry_route: {"code": "Either", "value": "Admission is possible after a bachelor's (60 credits) or a master's (30 credits).", "quote": "MS-PhD (minimum) 30 Credits | BS-PhD (minimum) 60 Credits", "url": "https://www.mtu.edu/gradschool/programs/degrees/geophysics/"}
+
+--- CACHES ---
+=== 01312ace19c6e634.json | https://www.ets.org/gre/score-users/about/subject-tests.html ===
+=== 0802ddf0668280cc.json | https://www.mtu.edu/gradschool/programs/degrees/chemical-engineering/ ===
+or delivery type to learn more about the chemical
+engineering program at Michigan Tech. For international students, Chemical Engineering is a designated STEM program.
+On-Campus Programs
+PhD Requirements: Chemical Engineering
+To complete a doctoral degree, students must complete the following milestones:
+Complete all coursework and research credits (see credit requirements below)
+Pass Qualifying Examination
+Pass Research Proposal Examination
+Prepare and Submit Approved Dissertation
+Pass Final Oral Defense
+The minimum credit requirements are as follows:
+Total Credit Requirements
+Degrees
+Credits
+MS-PhD (minimum)
+30 Credits
+BS-PhD (minimum)
+60 Credits
+Individual programs may have higher standards and students are expected to know their
+program's requirements. See the Doctor of Philosophy Requirements website for more information about PhD milestones and related timelines.
+MS, Chemical Engineering: Thesis Option
+This option requires a research thesis prepared under the supervision of the advisor.
+The thesis describes a research investigation and its results. The scope of the research
+topic for the thesis should be defined in such a way that a full-time student could
+complete the require
+=== 58183c97bcf3aea2.json | https://www.mtu.edu/biological/graduate/bio-sci/ ===
+ximum of 12 credits at the 3000-4000 level.
+For additional University minimum requirements for a course to accepted at the graduate
+level see Degree Requirements for the Graduate School.
+PhD Requirements: Biological Sciences
+To complete a doctoral degree, students must complete the following milestones:
+Complete all coursework and research credits (see credit requirements below)
+Pass Qualifying Examination
+Pass Research Proposal Examination
+Prepare and Submit Approved Dissertation
+Pass Final Oral Defense
+The minimum credit requirements are as follows:
+Total Credit Requirements
+Degrees
+Credits
+MS-PhD (minimum)
+30 Credits
+BS-PhD (minimum)
+60 Credits
+Individual programs may have higher standards and students are expected to know their
+program's requirements. See the Doctor of Philosophy Requirements website for more information about PhD milestones and related timelines.
+MS, Biological Sciences: Thesis Option
+This option requires a research thesis prepared under the supervision of the advisor.
+The thesis describes a research investigation and its results. The scope of the research
+topic for the thesis should be defined in such a way that a full-time student could
+complete the requirem
+=== 5bea0c8fab1ece92.json | https://www.mtu.edu/gradschool/programs/degrees/geophysics/ ===
+oose a specific degree option or delivery type to learn more about the geophysics
+program at Michigan Tech. For international students, Geophysics is a designated STEM program.
+On-Campus Programs
+PhD Requirements, Geophysics
+To complete a doctoral degree, students must complete the following milestones:
+Complete all coursework and research credits (see credit requirements below)
+Pass Qualifying Examination
+Pass Research Proposal Examination
+Prepare and Submit Approved Dissertation
+Pass Final Oral Defense
+The minimum credit requirements are as follows:
+Total Credit Requirements
+Degrees
+Credits
+MS-PhD (minimum)
+30 Credits
+BS-PhD (minimum)
+60 Credits
+Individual programs may have higher standards and students are expected to know their
+program's requirements. See the Doctor of Philosophy Requirements website for more information about PhD milestones and related timelines.
+MS, Geophysics: Thesis Option
+This option requires a research thesis prepared under the supervision of the advisor.
+The thesis describes a research investigation and its results. The scope of the research
+topic for the thesis should be defined in such a way that a full-time student could
+complete the requirements for 
+=== 74fc3fbb4cb3cc3c.json | https://www.math.msstate.edu/graduate/procedure ===
+sion-re….
+Submission of three letters of recommendation.
+In the GCC judgment, a student is expected to possess qualities that indicate the applicant has the ability to do graduate work.
+Prospective Students: Application Deadlines:
+Application Semester
+International (on-campus)
+Domestic and International (online)
+Fall
+May 1
+August 1
+Spring
+October 1
+December 1
+Summer
+March 1
+May 15
+Application portal: https://www.grad.msstate.edu/apply
+Graduate Teaching Assistantship (GTA):
+GTA is available on a COMPETITIVE basis.
+Most GTAs will be granted for the Fall intake. The GTA selection process will begin in mid-January.
+Very few have been supported for the Spring intake.
+No GTA is available for the Summer intake.
+Application Procedure
+Financial Assistance
+PhD Program in Mathematical Sciences
+Dual Program and Direct Admission to Ph.D. Program
+Master’s Degree in Mathematics
+Master’s Degree in Statistics
+Minor in Mathematics or Statistics Programs
+Examination Procedures
+Time Limits Regulation for 
+=== 7ff253864d10807e.json | https://www.mtu.edu/gradschool/programs/degrees/biomedical-engineering/ ===
+ivery type to learn more about the biomedical
+engineering program at Michigan Tech. For international students, Biomedical Engineering is a designated STEM program.
+On-Campus Programs
+PhD Requirements: Biomedical Engineering
+To complete a doctoral degree, students must complete the following milestones:
+Complete all coursework and research credits (see credit requirements below)
+Pass Qualifying Examination
+Pass Research Proposal Examination
+Prepare and Submit Approved Dissertation
+Pass Final Oral Defense
+The minimum credit requirements are as follows:
+Total Credit Requirements
+Degrees
+Credits
+MS-PhD (minimum)
+30 Credits
+BS-PhD (minimum)
+60 Credits
+Individual programs may have higher standards and students are expected to know their
+program's requirements. See the Doctor of Philosophy Requirements website for more information about PhD milestones and related timelines.
+MS, Biomedical Engineering: Thesis Option
+This option requires a research thesis prepared under the supervision of the advisor.
+The thesis describes a research investigation and its results. The scope of the research
+topic for the thesis should be defined in such a way that a full-time student could
+complete the requi
+=== bcaa45e2b94f6223.json | https://www.mtu.edu/cege/graduate/civil/ ===
+nation of degree requirements can be found on the Graduate School's
+Doctor of Philosophy requirements page. For more information regarding our department see the graduate student handbook.
+PhD Requirements: Civil Engineering
+To complete a doctoral degree, students must complete the following milestones:
+Complete all coursework and research credits (see credit requirements below)
+Pass Qualifying Examination
+Pass Research Proposal Examination
+Prepare and Submit Approved Dissertation
+Pass Final Oral Defense
+The minimum credit requirements are as follows:
+Total Credit Requirements
+Degrees
+Credits
+MS-PhD (minimum)
+30 Credits
+BS-PhD (minimum)
+60 Credits
+Individual programs may have higher standards and students are expected to know their
+program's requirements. See the Doctor of Philosophy Requirements website for more information about PhD milestones and related timelines.
+Graduate Learning Outcomes
+Request Info
+How to Apply
+Request Master’s Info
+Request PhD Info
+How to Apply
+Contact
+Graduate Program Director:
+Qingli Dai
+Graduate Program Assistant:
+Angela Keranen
+Application Process and Admissions Requirements
+Using a holistic approach, our graduate admissions team reviews applications 
+=== e76ae365530a8e6a.json | https://stt.natsci.msu.edu/graduate-programs/prospective-students/phd-in-statistics.aspx ===
+in the US) colleges can send electronic transcripts. International colleges are required to send hard (paper) copies. Note: Applicants are encouraged to upload unofficial transcripts to the student portal for the committee to review while we wait for Admissions to add your official transcripts to your profile.
+Mailing address for official transcripts
+Michigan State University
+Admissions
+426 Auditorium Road
+Room 250
+East Lansing, MI 48824-2604
+USA
+GRE
+The GRE test is required for PhD applicants. Sub tests are not required. Test Scores must be submitted to the Michigan State University Graduate Admissions Office by the Educational Testing Service. The Institutional Code for MSU is 1465. No department code is necessary.
+Three (3) Letters of Recommendation
+The Department of Statistics and Probability requires THREE (3) letters of recommendation. These must be submitted from professors or other professionals who can assess your promise of success in our graduate program. You cannot upload t
+=== e8313141648c7337.json | https://www.mtu.edu/gradschool/programs/degrees/computer-science/ ===
+gree option or delivery type to learn more about the computer
+science program at Michigan Tech. For international students, Computer Science is a designated STEM program.
+On-Campus Programs
+PhD Requirements: Computer Science
+To complete a doctoral degree, students must complete the following milestones:
+Complete all coursework and research credits (see credit requirements below)
+Pass Qualifying Examination
+Pass Research Proposal Examination
+Prepare and Submit Approved Dissertation
+Pass Final Oral Defense
+The minimum credit requirements are as follows:
+Total Credit Requirements
+Degrees
+Credits
+MS-PhD (minimum)
+30 Credits
+BS-PhD (minimum)
+60 Credits
+Individual programs may have higher standards and students are expected to know their
+program's requirements. See the Doctor of Philosophy Requirements website for more information about PhD milestones and related timelines.
+MS, Computer Science: Thesis Option
+This option requires a research thesis prepared under the supervision of the advisor.
+The thesis describes a research investigation and its results. The scope of the research
+topic for the thesis should be defined in such a way that a full-time student could
+complete the requirement
+=== f4a1a9a0e23fc2ea.json | https://www.mtu.edu/chemistry/graduate/chemistry/ ===
+metabolism of inositol phosphates in plants,
+and understanding the relationship between protein misfolding/aggregation and disease
+processes.
+Learn More About Research Opportunities
+Degree Options
+PhD Requirements: Chemistry
+To complete a doctoral degree, students must complete the following milestones:
+Complete all coursework and research credits (see credit requirements below)
+Pass Qualifying Examination
+Pass Research Proposal Examination
+Prepare and Submit Approved Dissertation
+Pass Final Oral Defense
+The minimum credit requirements are as follows:
+Total Credit Requirements
+Degrees
+Credits
+MS-PhD (minimum)
+30 Credits
+BS-PhD (minimum)
+60 Credits
+Individual programs may have higher standards and students are expected to know their
+program's requirements. See the Doctor of Philosophy Requirements website for more information about PhD milestones and related timelines.
+This is a brief overview of the requirements for a PhD degree from the Department
+of Chemistry:
+A minimum of 60 credits:
+20 Course Credits
+Qualifying Examination (Research Update)
+Original research proposal
+PhD Dissertation
+Oral Defense of PhD Research
+Proof of mastery of chemistry concepts through passing Placement E
