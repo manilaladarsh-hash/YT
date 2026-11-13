@@ -1,0 +1,71 @@
+{
+  "id": "american--biomed",
+  "university": "american",
+  "field": "biomed",
+  "also_fields": [
+    "environment",
+    "biology",
+    "chemistry"
+  ],
+  "department": "Biomedical and Environmental Health Sciences (PhD), College of Arts & Sciences",
+  "program_page": "https://www.american.edu/cas/bio-chem-environment-phd/index.cfm",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall priority admission deadline is January 15 (no spring or summer admission).",
+      "quote": "Fall priority admission: January 15",
+      "url": "https://www.american.edu/cas/bio-chem-environment-phd/phd-requirements.cfm",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores can be submitted but are not required.",
+      "quote": "GRE can be submitted but is not required",
+      "url": "https://www.american.edu/cas/bio-chem-environment-phd/phd-requirements.cfm"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers no GRE Subject Test in Biomedical Sciences, Chemistry, Biology, or Environmental Science, and GRE is not required for BEHS.",
+      "quote": "GRE can be submitted but is not required",
+      "url": "https://www.american.edu/cas/bio-chem-environment-phd/phd-requirements.cfm",
+      "also": [
+        {
+          "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+          "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Statement of Purpose must name prospective faculty mentor(s) of interest and the curriculum includes BEHS-720 Lab Rotation, but pages do not state whether prior advisor agreement is required before applying.",
+      "quote": "",
+      "url": "https://www.american.edu/cas/bio-chem-environment-phd/phd-requirements.cfm",
+      "also": [
+        {
+          "quote": "*Statement of Purpose should include the names of the faculty mentor(s) you would like to work with and a description of your research interests, experiences, and career goals.",
+          "url": "https://www.american.edu/cas/bio-chem-environment-phd/phd-requirements.cfm"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "All applicants are automatically considered for merit scholarships; CAS awards a limited number of graduate doctoral awards on a competitive basis.",
+      "quote": "All applicants automatically considered for merit scholarships.",
+      "url": "https://www.american.edu/cas/bio-chem-environment-phd/index.cfm",
+      "also": [
+        {
+          "quote": "A limited number of graduate doctoral awards are available on a competitive basis. All doctoral applicants are automatically considered.",
+          "url": "https://www.american.edu/cas/admissions/finance.cfm"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Full graduate admission requires an earned U.S. baccalaureate degree or an international equivalent to a four-year U.S. bachelor's degree (alternative pathway via 3.30+ master's GPA or 3.50+ in last 12 graduate credits).",
+      "quote": "Applicants must hold either an earned baccalaureate degree from a nationally accredited institution or a degree equivalent to a four-year U.S. baccalaureate degree from an international institution with a similar level of accreditation or recognition by its home country.",
+      "url": "https://www.american.edu/provost/ogps/graduate-studies/upload/Graduate-Academic-Regulations-2025-2026-3.pdf"
+    }
+  },
+  "notes": "Multidisciplinary PhD offered by the Department of Biology in partnership with Chemistry and Environmental Science (41 credits plus dissertation; full-time or part-time)."
+}

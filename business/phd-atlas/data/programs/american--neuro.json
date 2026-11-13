@@ -1,0 +1,49 @@
+{
+  "id": "american--neuro",
+  "university": "american",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Behavior, Cognition, and Neuroscience (PhD), Department of Neuroscience",
+  "program_page": "https://www.american.edu/cas/neuroscience/phd/index.cfm",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall application deadline is December 1 (fall admission only; full-time study only).",
+      "quote": "There is a December 1 application deadline—fall admission only.",
+      "url": "https://www.american.edu/cas/neuroscience/phd/requirements.cfm",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers no GRE Subject Test in Neuroscience (Subject Tests cover Mathematics, Physics, and Psychology only).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "BCaN admits students to work with specific faculty without lab rotations; prospective applicants should contact faculty mentors in advance to check openings and discuss research options, and must name prospective mentor(s) in the Statement of Purpose.",
+      "quote": "The Program admits students to work with specific faculty members. BCaN student do not rotate through multiple labs prior to selecting their mentor. Prospective students should contact faculty pursuing research topics of interest and inquire if they are accepting students in the coming year and possibly arrange to discuss research options directly with the prospective mentor.",
+      "url": "https://www.american.edu/cas/neuroscience/phd/requirements.cfm"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "The department tries to fund all BCaN PhD students via merit-based AU funds or grants covering full tuition plus a stipend (including a Teaching Assistantship).",
+      "quote": "The department tries to fund all the PhD students in the BCAN program. These funds are based on merit and come from American University or personal grants. They cover full tuition as well as a stipend, which includes a Teaching Assistantship.",
+      "url": "https://www.american.edu/cas/neuroscience/phd/requirements.cfm"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Direct entry from a bachelor's degree is supported; students admitted without an accepted master's degree complete the Neuroscience MS (thesis option) en passant toward the 54-credit PhD.",
+      "quote": "Students who have been admitted to the doctoral program but do not have a masters degree that has been accepted by the department must complete the degree requirements for the Neuroscience (MS) (thesis option) before they can be awarded the doctorate.",
+      "url": "https://www.american.edu/cas/neuroscience/phd/requirements.cfm",
+      "also": [
+        {
+          "quote": "Applicants must hold either an earned baccalaureate degree from a nationally accredited institution or a degree equivalent to a four-year U.S. baccalaureate degree from an international institution with a similar level of accreditation or recognition by its home country.",
+          "url": "https://www.american.edu/provost/ogps/graduate-studies/upload/Graduate-Academic-Regulations-2025-2026-3.pdf"
+        }
+      ]
+    }
+  },
+  "notes": "STEM-designated multidisciplinary PhD applying biological and psychological principles to behavior, cognition, and neuroscience (54 credits plus dissertation; invitation-only interview)."
+}
