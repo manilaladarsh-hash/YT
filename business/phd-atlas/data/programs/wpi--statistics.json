@@ -17,7 +17,7 @@
     "gre_general": {
       "code": "Not required",
       "value": "GRE is not required",
-      "quote": "Not required",
+      "quote": "GRE Not required",
       "url": "https://www.wpi.edu/admissions/graduate/how-to-apply"
     },
     "gre_subject": {
@@ -34,15 +34,21 @@
     },
     "funding": {
       "code": "Competitive",
-      "value": "Full consideration for fall admission and funding given to applications completed by January 1.",
-      "quote": "January 1 is the deadline to complete an application for full consideration for fall admission (we begin reviewing applications just after that date).",
-      "url": "https://www.wpi.edu/admissions/graduate/how-to-apply"
+      "value": "WPI PhD students typically receive funding support through Research and/or Teaching Assistantships and/or Fellowships; applicants should complete applications by priority dates as funding decreases over time.",
+      "quote": "WPI PhD students typically receive funding support throughout their doctoral studies, through Research and/or Teaching Assistantships and/or Fellowships.",
+      "url": "https://www.wpi.edu/academics/graduate/graduate-student-experience/funding-opportunities",
+      "also": [
+        {
+          "quote": "With each passing month the availability of funds decreases, so applicants who are interested in funding should complete their applications by the priority dates associated with each term.",
+          "url": "https://wpi-grad.cleancatalog.net/admission-information"
+        }
+      ]
     },
     "entry_route": {
-      "code": "Direct from bachelor's",
-      "value": "Direct admission from bachelor's degree is standard.",
-      "quote": "Three letters of recommendation from individuals who can comment on your qualifications for pursuing graduate study are required.",
-      "url": "https://www.wpi.edu/admissions/graduate/how-to-apply"
+      "code": "Either",
+      "value": "Students entering with a BS complete 90 semester hours, while students entering with an MS complete 60 semester hours.",
+      "quote": "Students entering the program with a BS must successfully complete 90 semester hours of graduate work (students with an MS must complete 60 semester hours).",
+      "url": "https://www.wpi.edu/academics/study/phd-statistics"
     },
     "toefl_min": {
       "code": "100",
