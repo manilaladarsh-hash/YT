@@ -406,3 +406,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (sorbonne x4, southalabama--cs, southdakotastate x3, stevens--physics, stockholm--chemistry) | off_topic 319 -> 309, absence 49 -> 49, 0 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (stockholm x2, strathclyde x2, stuttgart x6) | off_topic 309 -> 299, absence 49 -> 49, 0 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (syracuse x8, tamu--astronomy, tudresden--civil) | off_topic 299 -> 290, absence 49 -> 49, 1 row reviewed
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (tuebingen--math, tufts--biomed, uab x2, ualberta x4, uark--astronomy x2) | off_topic 290 -> 283, absence 49 -> 49, odd_cache 28 -> 26, 3 rows reviewed
