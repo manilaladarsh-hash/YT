@@ -1,0 +1,50 @@
+{
+  "id": "pvamu--ece",
+  "university": "pvamu",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical and Computer Engineering",
+  "program_page": "https://www.pvamu.edu/ece/graduate-program/phd-electrical-engineering/",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Doctoral Fall priority funding deadline is February 1 and the final application deadline is March 1 (Spring priority is September 1).",
+      "quote": "For Doctoral Fall Admissions: February 1 (priority- funding); March 1 (final deadline).",
+      "url": "https://www.pvamu.edu/graduateschool/applying-admissions/international-admissions/",
+      "inferred": "year",
+      "time_sensitive": "2027-02-01"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS does not offer a GRE Subject Test in Electrical and Computer Engineering.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No pre-admission faculty supervisor is required; the ECE Graduate Program Administrator serves as initial advisor upon admission, and students choose a Ph.D. Advisory Committee chair after completing nine hours of doctoral coursework.",
+      "quote": "The Electrical and Computer Engineering Graduate Program Administrator will serve as the Graduate Advisor of each student upon admission into the Ph.D. program. After the student completes nine hours of doctoral class work, the student will be required to choose a chairperson of the student’s Ph.D. Advisory committee.",
+      "url": "https://www.pvamu.edu/ece/graduate-program/phd-electrical-engineering/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "The ECE department offers a limited number of competitive graduate research/teaching assistantships; assistantship holders (>=50% FTE) qualify for nonresident tuition waivers and may apply for the PVAMU Doctoral Tuition and Fee Scholarship.",
+      "quote": "The Graduate Programs of the Electrical Engineering Department offer a limited number of graduate assistantships to qualified full-time students. Students who receive such an award are required to assist faculty in research projects and/or teach courses in the undergraduate program.",
+      "url": "https://www.pvamu.edu/ece/graduate-program/phd-electrical-engineering/",
+      "also": [
+        {
+          "quote": "PVAMU Doctoral Scholarship – The PVAMU Doctoral Tuition and Fee Scholarship Program covers tuition and fees for full-time students pursuing doctoral degrees. ... Additionally, eligibility for the scholarship includes holding an assistantship.",
+          "url": "https://www.pvamu.edu/graduateschool/graduate-student-support-services/funding/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Requires a bachelor's degree in engineering, mathematics, or physical sciences (2.75+ GPA) AND a Master of Science in Electrical Engineering or a related discipline (3.2+ graduate GPA).",
+      "quote": "Hold a baccalaureate degree in engineering, mathematics, or the physical sciences conferred by a regionally accredited institution. | Have a 2.75 Grade Point Average (GPA) on a four-point scale on all completed undergraduate course work. | Hold a Masters of Science degree in Electrical Engineering or one of the related disciplines, conferred by an accredited institution. | Have a 3.2 GPA on all completed graduate work.",
+      "url": "https://www.pvamu.edu/ece/graduate-program/phd-electrical-engineering/"
+    }
+  },
+  "notes": "Requires 53 semester credit hours beyond the master's degree across tracks in Computer Engineering, Communication and Signal Processing, Microelectronics, and Power Engineering."
+}
