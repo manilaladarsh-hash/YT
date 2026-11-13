@@ -1,0 +1,65 @@
+{
+  "id": "uthealth",
+  "institution": "The University of Texas Health Science Center at Houston",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://gsbs.uth.edu/admissions/admissions-and-deadlines",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The GSBS online application fee is $50.",
+      "quote": "$50 Application Fee",
+      "url": "https://gsbs.uth.edu/admissions/requirements"
+    },
+    "fee_waiver": {
+      "code": "Available",
+      "value": "Application fee waivers are available to applicants (including international PhD applicants) who attend a Discover Biomedicine Series webinar or participated in a UTHealth Houston / MD Anderson Undergraduate Summer Program (waiver requests due Oct 25, 2026).",
+      "quote": "Applicants who attend a webinar as part of the Discover Biomedicine Series are eligible for a fee waiver.",
+      "url": "https://gsbs.uth.edu/admissions/admissions-and-deadlines",
+      "also": [
+        {
+          "quote": "PHD Biomedical Sciences and SMS Genetic Counseling (includes international applicants) – October 25, 2026",
+          "url": "https://gsbs.uth.edu/admissions/admissions-and-deadlines"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The GRE is neither required nor recommended, and GRE scores are not taken into consideration by the Admissions Committee.",
+      "quote": "The GRE is neither required nor recommended as part of the application. GRE scores are not taken into consideration by the Admissions Committee when reviewing an application.",
+      "url": "https://gsbs.uth.edu/admissions/faqs"
+    },
+    "toefl_min": {
+      "code": "98",
+      "value": "International applicants must submit a TOEFL iBT score of at least 98 (or overall minimum of 5 under the new ETS scale), valid within 2 years.",
+      "quote": "Test of English as a Foreign Language (TOEFL) – ETS TOEFL Minimum score of 98 or overall minimum of 5 under the new scale. Scores must be valid (within 2 years).",
+      "url": "https://gsbs.uth.edu/admissions/requirements"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "IELTS is not accepted; TOEFL iBT is the only accepted English proficiency exam.",
+      "quote": "",
+      "url": "https://gsbs.uth.edu/admissions/faqs",
+      "also": [
+        {
+          "quote": "No, the TOEFL iBT is the only test accepted for English proficiency requirements.",
+          "url": "https://gsbs.uth.edu/admissions/faqs"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "TOEFL may be waived upon formal waiver request if the required WES or ECE Course-by-Course evaluation indicates the degree's mode of instruction was English for 3 or more years (India is not on the exempt-country list).",
+      "quote": "If the degree reviewed by World Education Services (WES) or Educational Credential Evaluators (ECE) Transcript Evaluation indicates the mode of instruction was in English (3 or more years).",
+      "url": "https://gsbs.uth.edu/admissions/requirements",
+      "also": [
+        {
+          "quote": "If you meet the above reference criteria or have questions regarding waivers, please email [email protected] with a formal waiver. Please include supplemental documentation for consideration.",
+          "url": "https://gsbs.uth.edu/admissions/requirements"
+        }
+      ]
+    }
+  },
+  "notes": "Joint MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences (GSBS). Health-science scope covers Biomedical Sciences Ph.D. (umbrella admissions) and Neuroscience Ph.D.; no standalone Biology or BME Ph.D."
+}
