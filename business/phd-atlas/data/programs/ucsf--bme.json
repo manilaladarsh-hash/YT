@@ -1,0 +1,96 @@
+{
+  "id": "ucsf--bme",
+  "university": "ucsf",
+  "field": "bme",
+  "also_fields": [],
+  "department": "UC Berkeley–UCSF Graduate Program in Bioengineering (Joint Ph.D.)",
+  "program_page": "https://bioegrad.berkeley.edu/prospectivegrads/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "155 USD",
+      "value": "Applications are submitted through UC Berkeley Graduate Division, whose non-refundable international application fee is $155 ($135 for U.S. citizens and permanent residents).",
+      "quote": "The non-refundable application fee is $135 for U.S. citizens and current permanent residents and $155 for all other applicants.",
+      "url": "https://grad.berkeley.edu/admissions/application-process/requirements/",
+      "also": [
+        {
+          "quote": "All applications must be submitted through the Berkeley campus’ online application site",
+          "url": "https://catalog.ucsf.edu/programs/bioengineering/"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "UC Berkeley Graduate Division fee waivers are available only to U.S. citizens and current permanent residents.",
+      "quote": "U.S. citizens or current permanent residents may be eligible for an application fee waiver.",
+      "url": "https://grad.berkeley.edu/admissions/application-process/fee-waiver/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE General Test is optional for the UC Berkeley–UCSF Joint Bioengineering Ph.D.",
+      "quote": "The Graduate Record Examination (GRE) became optional for all applicants beginning the Fall 2020 admission cycle.",
+      "url": "https://bioegrad.berkeley.edu/prospectivegrads/application",
+      "also": [
+        {
+          "quote": "Graduate Record Exam (GRE) official scores (optional)",
+          "url": "https://catalog.ucsf.edu/programs/bioengineering/"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "Via UC Berkeley Graduate Division: minimum TOEFL iBT 90 (tests June 1, 2025 – Jan 20, 2026) or 5 overall with 4.5 Speaking and Writing (tests on or after Jan 21, 2026).",
+      "quote": "Tests taken from June 1, 2025 to January 20, 2026: 90 minimum total score | Tests taken on or after January 21, 2026: 5 minimum total score, with 4.5 minimum Speaking and Writing section scores.",
+      "url": "https://grad.berkeley.edu/admissions/application-process/requirements/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Via UC Berkeley Graduate Division: minimum IELTS Academic band score of 7 (plus 6.5 Speaking and Writing for tests on or after Jan 21, 2026).",
+      "quote": "Tests taken from June 1, 2025 to January 20, 2026: 7 minimum overall band score | Tests taken on or after January 21, 2026: 7 overall band score, with 6.5 minimum Speaking and Writing section scores",
+      "url": "https://grad.berkeley.edu/admissions/application-process/requirements/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Via UC Berkeley Graduate Division: India is explicitly listed as requiring TOEFL or IELTS scores.",
+      "quote": "Review the list of countries and regions below to determine whether you must submit TOEFL or IELTS scores based on the location of the institution that awarded your bachelor’s degree (or equivalent). | India Yes",
+      "url": "https://grad.berkeley.edu/admissions/application-process/requirements/"
+    },
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications for Fall 2027 entry (applied Fall 2026) and all materials must be received by December 1, 2026 at 8:59 PM PST.",
+      "quote": "e.g. fall 2027 for students who apply in fall 2026. | All application materials must be received no later than December 1, 8:59 PM PST.",
+      "url": "https://bioegrad.berkeley.edu/prospectivegrads/admissions"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for bioengineering (ETS offers Subject Tests only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "First-year Bioengineering Ph.D. students complete three research rotations with core faculty before choosing a dissertation research mentor at the end of spring.",
+      "quote": "Students complete three research rotations with program core faculty members during their first year in the program. After completion of these rotations at the end of the spring semester, students select a rotation mentor as their dissertation research mentor.",
+      "url": "https://catalog.ucsf.edu/programs/bioengineering/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All students maintaining satisfactory academic progress receive full support (stipend, tuition, fees, health and dental insurance); admission for international applicants depends on available funding.",
+      "quote": "Full financial support is provided to all students maintaining satisfactory academic progress. We provide a competitive stipend and cover the cost of all tuition and fees, including comprehensive health and dental insurance throughout the doctoral program.",
+      "url": "https://bioegrad.berkeley.edu/prospectivegrads/financial",
+      "also": [
+        {
+          "quote": "Because of our commitment to fund all of our students, even the most qualified international applicants may not gain admission if funding cannot be found.",
+          "url": "https://bioegrad.berkeley.edu/prospectivegrads/financial"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants with a Bachelor of Arts or Bachelor of Science degree in engineering, biology, or other sciences are eligible for admission.",
+      "quote": "Anyone with a Bachelor of Arts or Bachelor of Science degree in engineering, biology, or other sciences, is eligible for admission.",
+      "url": "https://bioegrad.berkeley.edu/prospectivegrads/admissions"
+    }
+  },
+  "notes": "Joint UC Berkeley–UCSF Ph.D. administered via UC Berkeley Graduate Division; overrides reflect UC Berkeley application fee ($155), GRE Optional, and TOEFL/IELTS/English waiver rules."
+}
