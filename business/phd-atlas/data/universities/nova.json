@@ -1,0 +1,47 @@
+{
+  "id": "nova",
+  "institution": "Nova Southeastern University",
+  "country": "USA",
+  "region": "Florida",
+  "grad_page": "https://grad.nova.edu/admissions/index.html",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "Each NSU college sets its own admissions process; Computing and Halmos charge 50 USD (see program records), while Allopathic Medicine does not state a fee on its Biomedical Sciences Ph.D. pages.",
+      "quote": "",
+      "url": "https://grad.nova.edu/admissions/index.html"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Not stated on NSU graduate or college doctoral admissions pages checked.",
+      "quote": "",
+      "url": "https://grad.nova.edu/admissions/index.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Each college sets its own requirements: Computer Science and Biomedical Sciences do not require GRE scores, whereas Oceanography/Marine Biology requires GRE scores (see program records).",
+      "quote": "",
+      "url": "https://grad.nova.edu/admissions/index.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "NSU requires English proficiency for non-native English speakers, with specific minimum scores set by each college/program (typically TOEFL iBT 79-80 or 4.0 on the new 1-6 scale; see program records).",
+      "quote": "",
+      "url": "https://www.nova.edu/international-affairs/students/prospective.html"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "NSU accepts IELTS across most colleges, with specific minimum bands set by each college/program (6.0 where stated; see program records).",
+      "quote": "",
+      "url": "https://www.nova.edu/international-affairs/students/prospective.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Applicants whose native or official language is not English must prove English proficiency; university-wide OIA rules list only a U.S. degree or Talk International Level 9 (India is not exempt at any NSU STEM PhD college).",
+      "quote": "Applicants whose native or official language is not English are required to demonstrate English proficiency in order to be admitted into a degree program. Each program may have additional requirements. | Proof of English language competency can also be in the form of successful completion of a degree at an approved U.S. institution of higher education or passing Level 9 at Talk International Language School.",
+      "url": "https://www.nova.edu/international-affairs/students/prospective.html"
+    }
+  },
+  "notes": "NSU delegates graduate/doctoral admissions policies to individual colleges (Computing, Halmos, Allopathic Medicine); see program records for college-specific overrides."
+}

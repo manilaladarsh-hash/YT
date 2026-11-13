@@ -1,0 +1,85 @@
+{
+  "id": "nova--cs",
+  "university": "nova",
+  "field": "cs",
+  "also_fields": [],
+  "department": "College of Computing, AI, and Cybersecurity",
+  "program_page": "https://computing.nova.edu/degrees/doctoral/computer-science.html",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Rolling admissions with August, January, and May start dates; doctoral applications and all required documents must be submitted at least two months prior to the desired term (Winter 2027 deadline: Dec 4, 2026).",
+      "quote": "There are no application deadlines. Admissions decisions are made on a rolling basis. To ensure evaluation for the desired starting term, applications and all required documents must be ready for review at least one month prior to the start of the term for master's applications and at least two months prior to the start of the term for doctoral applications.",
+      "url": "https://computing.nova.edu/admissions/index.html",
+      "also": [
+        {
+          "quote": "All College of Computing, AI, and Cybersecurity doctoral degree programs begin in August, January, and May.",
+          "url": "https://computing.nova.edu/degrees/doctoral/computer-science.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers no GRE Subject Test in Computer Science (Subject Tests exist only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants are evaluated by admissions review without a pre-admission adviser requirement; students secure an adviser and dissertation committee after passing the qualifier stage.",
+      "quote": "Students must successfully pass the qualifier stage, secure an adviser and dissertation committee, and have an approved Idea Paper before pursuing dissertation course registration.",
+      "url": "https://computing.nova.edu/degrees/doctoral/computer-science.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "The College FAQ states no research assistantships are available at this time; competitive institutional scholarships exist (though major listed awards require U.S. citizenship or specific U.S. employment), so funding is not guaranteed.",
+      "quote": "NSU's College of Computing, AI, and Cybersecurity offers a variety of institutional scholarships to recognize the academic achievement and leadership potential of future students.",
+      "url": "https://computing.nova.edu/graduate/scholarships.html",
+      "also": [
+        {
+          "quote": "Are there research assistantships available? There are no available opportunities at this time.",
+          "url": "https://computing.nova.edu/admissions/index.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Offers both B.S.-to-Ph.D. (minimum 66 credits) and M.S.-to-Ph.D. (minimum 51 credits) pathways.",
+      "quote": "NSU’s Ph.D. in Computer Science is a minimum of 51 total credits with the M.S. track or a minimum of 66 total credits with the B.S. track",
+      "url": "https://computing.nova.edu/degrees/doctoral/computer-science.html"
+    },
+    "app_fee": {
+      "code": "50 USD",
+      "value": "College of Computing, AI, and Cybersecurity doctoral applications require a non-refundable $50 USD application fee.",
+      "quote": "Online application and non-refundable $50.",
+      "url": "https://computing.nova.edu/admissions/doctoral.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required for College of Computing, AI, and Cybersecurity programs.",
+      "quote": "Do I need to submit my GRE scores? There is no requirement to submit the GRE score.",
+      "url": "https://computing.nova.edu/admissions/index.html"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Minimum TOEFL iBT score is 80 on the 1-120 scale (or 4.0 on the new 1-6 scale effective Jan 21, 2026); IELTS 6.0, Duolingo 105, or PTE 54 also accepted.",
+      "quote": "Minimum score: 4.0 on the new 1-6 scale Internet-based test *(prior to January 21, 2026, the minimum score is 80 on the 1-120 scale Internet-based test)",
+      "url": "https://computing.nova.edu/admissions/international.html"
+    },
+    "ielts_min": {
+      "code": "6",
+      "value": "Minimum IELTS Academic score is 6.0 (TOEFL 80/4.0, Duolingo 105, or PTE 54 also accepted).",
+      "quote": "International English Language Testing System (IELTS) Minimum score: 6.0 on the Academic test module",
+      "url": "https://computing.nova.edu/admissions/international.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Exemptions apply only to U.S. bachelor's+ degrees, Talk International Level 5 (>=85%), or degrees from Australia, English-speaking Canada, Ghana, Ireland, New Zealand, or the UK; Indian degrees are not exempt.",
+      "quote": "An applicant can qualify for an exemption from taking an English proficiency examination if one of the following criteria is met: Successful completion of at least a bachelor's degree at a regionally-accredited U.S. institution of higher education. Passing Level 5 with at least 85% at Talk International Language School. Completion of a degree at an institution in one of the following countries: Australia, English speaking Canada, Ghana, Ireland, New Zealand, or the United Kingdom.",
+      "url": "https://computing.nova.edu/admissions/international.html"
+    }
+  },
+  "notes": "Coursework and dissertation areas cover AI, data science, and cybersecurity; the college also offers separate Ph.D.s in Cybersecurity Management and Information Systems (hybrid online/campus with no residency requirement). F-1 students pay a $500 enrollment deposit for I-20 processing.",
+  "name": "Ph.D. in Computer Science"
+}
