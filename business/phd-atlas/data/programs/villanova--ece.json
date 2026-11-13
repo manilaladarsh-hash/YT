@@ -10,20 +10,14 @@
   ],
   "department": "College of Engineering",
   "program_page": "https://live-villanova-engineering.cleancatalog.io/engineering/engineering-bs-to-phd",
-  "checked": "2026-10-26",
+  "checked": "2026-11-12",
   "fields": {
     "deadline": {
-      "code": "2027-04-01",
-      "value": "The college's table gives April 1 for fall entry for foreign students from non-U.S. institutions; the PhD page itself gives no date.",
-      "quote": "The completed application materials are submitted by the applicant prior to the following dates",
-      "url": "https://live-villanova-engineering.cleancatalog.io/master-of-science-program",
-      "inferred": "year",
-      "also": [
-        {
-          "quote": "Fall semester | for foreign students from non-U.S. institutions",
-          "url": "https://live-villanova-engineering.cleancatalog.io/master-of-science-program"
-        }
-      ]
+      "code": "2027-01-09",
+      "value": "January 9 for Fall entry based on the published Fall 2026 College of Engineering PhD application deadline (Fall 2027 dates not yet posted).",
+      "quote": "Fall 2026 Start Term | Jan. 9, 2026: Fall 2026 application deadline",
+      "url": "https://www.villanova.edu/university/engineering/academic-programs/graduate-studies/admissions/PHD-Application-Requirements.html",
+      "inferred": "year"
     },
     "gre_subject": {
       "code": "No subject test",
@@ -50,10 +44,10 @@
       "url": "https://live-villanova-engineering.cleancatalog.io/engineering/engineering-bs-to-phd"
     },
     "app_fee": {
-      "code": "Not stated",
-      "value": "The College of Engineering sets its own application fee, which the fetched catalog does not state.",
-      "quote": "",
-      "url": "https://live-villanova-engineering.cleancatalog.io/engineering/engineering-bs-to-phd"
+      "code": "0 (no fee)",
+      "value": "No application fee is charged for any College of Engineering graduate program.",
+      "quote": "The College of Engineering has removed the $50.00 application fee. There is no longer an application fee for any College of Engineering graduate program.",
+      "url": "https://www.villanova.edu/university/engineering/academic-programs/graduate-studies/admissions/PHD-Application-Requirements.html"
     },
     "gre_general": {
       "code": "Optional",
@@ -75,17 +69,17 @@
     },
     "english_waiver": {
       "code": "Conditional",
-      "value": "The Associate Dean may waive the TOEFL or IELTS with proof of strong English, such as several years working in an engineering job in English.",
-      "quote": "The TOEFL / IELTS examination may be waived by the Associate Dean if there is sufficient proof of the candidate’s ability to speak, comprehend, and write high-quality English.",
-      "url": "https://live-villanova-engineering.cleancatalog.io/engineering/engineering-bs-to-phd",
-      "also": [
-        {
-          "quote": "An example of this is if the candidate were successfully working for at least several years in an engineering position.",
-          "url": "https://live-villanova-engineering.cleancatalog.io/engineering/engineering-bs-to-phd"
-        }
-      ]
+      "value": "TOEFL or IELTS is waived if the applicant holds a U.S. degree, is a U.S. Permanent Resident, or submits an institutional letter confirming English was the primary language of instruction.",
+      "quote": "Official TOEFL or IELTS Scores sent directly from testing centers. Waived if applicant has a degree from a college/university in the U.S. or is a Permanent Resident of the U.S. If your bachelor’s or master’s degree is from an institution where English is the primary language of instruction, please provide a letter from your educational institution stating that your education was in English to have this requirement waived.",
+      "url": "https://www.villanova.edu/university/engineering/academic-programs/graduate-studies/admissions/PHD-Application-Requirements.html"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No application fee is charged for College of Engineering graduate programs.",
+      "quote": "There is no longer an application fee for any College of Engineering graduate program.",
+      "url": "https://www.villanova.edu/university/engineering/academic-programs/graduate-studies/admissions/PHD-Application-Requirements.html"
     }
   },
-  "notes": "One Engineering Ph.D. covers both BS-to-PhD and MS-to-PhD entry, with a concentration in any College of Engineering program. The catalog's graduate programs in chemical/biochemical, civil/water resources and environmental, electrical/computer, mechanical/aerospace and biomedical engineering are listed as also_fields. Sustainable Engineering and Cybersecurity are not mapped to a field because the catalog names no department for them. The deadline comes from the college-wide table on the Master of Science page. The college's own PhD application page and handbook PDF returned 502, so its fee, deadline and funding were not checked.",
+  "notes": "One Engineering Ph.D. covers both BS-to-PhD and MS-to-PhD entry, with a concentration in any College of Engineering program. The catalog's graduate programs in chemical/biochemical, civil/water resources and environmental, electrical/computer, mechanical/aerospace and biomedical engineering are listed as also_fields. Sustainable Engineering and Cybersecurity are not mapped to a field because the catalog names no department for them. The PhD deadline, zero application fee, and English-medium waiver come from the College of Engineering PhD Program Application Requirements page; funding and supervisor approval before admission are not stated there or in the catalog.",
   "name": "Engineering, Ph.D."
 }
