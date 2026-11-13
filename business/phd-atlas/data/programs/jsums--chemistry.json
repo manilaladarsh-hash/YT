@@ -1,0 +1,74 @@
+{
+  "id": "jsums--chemistry",
+  "university": "jsums",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry, Physics, and Atmospheric Sciences",
+  "program_page": "https://www.jsums.edu/chemistry/graduate-degrees-requirements/",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Fall admission deadline for the Ph.D. in Chemistry & Biochemistry is March 1, 2027 (matching the March 1 Graduate Assistantship and Tuition-waiver deadline).",
+      "quote": "Fall Admission: March 1 | Ph.D. in Chemistry & Biochemistry",
+      "url": "https://www.jsums.edu/graduateschool/doctoral-admissions/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "The deadline for submitting applications is March 1.",
+          "url": "https://www.jsums.edu/graduateschool/graduate-funding-financial-aid/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "Applicants may submit GRE scores or take the Chemistry Department's entrance exam instead (note the Courseleaf catalog lists 'GRE Score' without noting the entrance-exam option).",
+      "quote": "GRE Score* | (*Students may take the Department’s entrance exam instead of the GRE)",
+      "url": "https://www.jsums.edu/chemistry/graduate-degrees-requirements/",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "GRE Score",
+          "url": "https://jsums-public.courseleaf.com/graduate/college-science-engineering-technology/department-chemistry-physics-atmospheric-sciences/chemistry-phd/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for Chemistry (discontinued in May 2023); ETS offers Subject Tests only in Mathematics, Physics, and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Neither the Chemistry graduate requirements page nor the graduate catalog states whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.jsums.edu/chemistry/graduate-degrees-requirements/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching Assistant and Research Assistant positions (>= $12,000/year + tuition) are open to first-time graduate students; PhD students must teach as a TA for 2-4 semesters, and university assistantships/tuition waivers require a separate March 1 application (federal LS-MAMP, PREM, RISE, Title III, and agency fellowships on the page are restricted to U.S. citizens/permanent residents).",
+      "quote": "Teaching Assistant | Who should apply: First Time Graduate Students (≥ $12,000/year + Tuition) | Research Assistant | Who should apply: First Time Graduate Students (≥ $12,000/year + Tuition)",
+      "url": "https://www.jsums.edu/chemistry/graduate-scholarship-programs/",
+      "also": [
+        {
+          "quote": "The Division of Graduate Studies awards assistantships each year with a monthly stipend plus tuition for one academic year: Fall and Spring... The deadline for submitting applications is March 1.",
+          "url": "https://www.jsums.edu/graduateschool/graduate-funding-financial-aid/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants enter with a B.S. in chemistry or a closely related field (grades of 'C' or better in core chemistry lab courses); entrants with an M.S. in chemistry may transfer up to 12 lecture credits.",
+      "quote": "applicants must have a B.S. degree in chemistry or a closely related field with passing grades ‘C’ or better for the following courses with labs:",
+      "url": "https://www.jsums.edu/chemistry/graduate-degrees-requirements/",
+      "also": [
+        {
+          "quote": "Students Entering the Ph.D. Program With a M.S. Degree in Chemistry",
+          "url": "https://jsums-public.courseleaf.com/graduate/college-science-engineering-technology/department-chemistry-physics-atmospheric-sciences/chemistry-phd/"
+        }
+      ]
+    }
+  },
+  "notes": "60-credit Ph.D. in Chemistry (18 lecture credits, 2 seminar credits, 40 dissertation research credits)."
+}

@@ -1,0 +1,53 @@
+{
+  "id": "jsums--datasci",
+  "university": "jsums",
+  "field": "datasci",
+  "also_fields": [
+    "cs",
+    "math",
+    "statistics"
+  ],
+  "department": "College of Science, Engineering, and Technology (CDS&E)",
+  "program_page": "https://jsums-public.courseleaf.com/graduate/college-science-engineering-technology/computational-data-enabled-science-engineering/computational-data-enabled-sciences-engineering-phd/",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Fall admission deadline for the Ph.D. in Data Enabled Science & Engineering is March 1, 2027 (matching the March 1 Graduate Assistantship and Tuition-waiver deadline).",
+      "quote": "Fall Admission: March 1 | Ph.D. in Data Enabled Science & Engineering",
+      "url": "https://www.jsums.edu/graduateschool/doctoral-admissions/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "The deadline for submitting applications is March 1.",
+          "url": "https://www.jsums.edu/graduateschool/graduate-funding-financial-aid/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for Data Science or Computer Science (ETS offers a Mathematics Subject Test, though neither the CDS&E nor Mathematics track pages require or mention any GRE exam).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The CDS&E PhD catalog pages do not state whether a faculty supervisor must agree before admission (students form a doctoral advisory committee with their chosen faculty advisor after passing the Comprehensive Qualifying Examination).",
+      "quote": "",
+      "url": "https://jsums-public.courseleaf.com/graduate/college-science-engineering-technology/computational-data-enabled-science-engineering/computational-data-enabled-sciences-engineering-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Division of Graduate Studies Graduate Assistantships (monthly stipend plus tuition for Fall and Spring) and partial/full Graduate Tuition-waivers are awarded competitively via separate application to the department chair or academic dean by March 1.",
+      "quote": "The Division of Graduate Studies awards assistantships each year with a monthly stipend plus tuition for one academic year: Fall and Spring... The deadline for submitting applications is March 1.",
+      "url": "https://www.jsums.edu/graduateschool/graduate-funding-financial-aid/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may enter with either a bachelor's or master's degree in a STEM or related field (minimum 3.00 GPA on highest degree earned; 72 credit hours beyond B.S. or 48 beyond M.S.).",
+      "quote": "The applicant must have a Bachelor’s or Master’s degree from an accredited college or university in a STEM or Public Health Sciences, and | A minimum GPA of 3.00 (on a 4.00 scale) on the highest degree earned.",
+      "url": "https://jsums-public.courseleaf.com/graduate/college-science-engineering-technology/computational-data-enabled-science-engineering/computational-data-enabled-sciences-engineering-phd/"
+    }
+  },
+  "notes": "Interdisciplinary Ph.D. in Computational and Data-Enabled Science & Engineering (CDS&E) with five specialized tracks: Computational Biology and Bioinformatics, Computational Mathematics and Statistical Sciences, Computational Physical Sciences, Computational Science and Engineering, and Computational Public Health Science."
+}

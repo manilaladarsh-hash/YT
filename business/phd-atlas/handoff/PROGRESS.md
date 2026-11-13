@@ -462,3 +462,4 @@ Commit: 7c5f0815
 2026-11-13 | CARD 4 | Screened out East Texas A&M University: no STEM PhD in the 18 Atlas fields (doctoral majors are Counselor Education and Supervision PhD, Educational Administration EdD, English PhD, Higher Education EdD, Supervision, Curriculum and Instruction EdD, and an online cognition/education-focused Experimental Psychology PhD). Source: https://coursecatalog.tamuc.edu/grad/office-of-graduate-studies/
 2026-11-13 | CARD 4 | emich | added Eastern Michigan University (1 STEM PhD program: materials [also cs, civil])
 2026-11-13 | CARD 4 | famu | added Florida Agricultural and Mechanical University (8 STEM PhD programs: physics, environment, biomed, chemeng [also bme], civil, ece, materials, mech)
+2026-11-13 | CARD 4 | jsums | added Jackson State University (5 STEM PhD programs: chemistry, environment, datasci [also cs, math, statistics], ece, civil)
