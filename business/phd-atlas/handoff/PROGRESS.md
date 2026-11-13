@@ -440,3 +440,4 @@ Commit: 7c5f0815
 2026-11-13 | CARD 5/4 | musc | added Medical University of South Carolina (2 STEM PhD programs: biomed, neuro)
 2026-11-13 | CARD 5/4 | uthsc | added The University of Tennessee Health Science Center (2 STEM PhD programs: biomed [incl. neuro], bme)
 2026-11-13 | CARD 5/4 | uthealth | added The University of Texas Health Science Center at Houston (2 STEM PhD programs: biomed, neuro)
+2026-11-13 | CARD 5/4 | uthscsa | added The University of Texas Health Science Center at San Antonio (2 STEM PhD programs: biomed [incl. neuro], bme)

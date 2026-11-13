@@ -1,0 +1,75 @@
+{
+  "id": "uthscsa--biomed",
+  "university": "uthscsa",
+  "field": "biomed",
+  "also_fields": [
+    "neuro"
+  ],
+  "department": "Graduate School of Biomedical Sciences — Ph.D. in Integrated Biomedical Sciences (including Neuroscience discipline)",
+  "program_page": "https://uthscsa.edu/biomedical-sciences/programs/integrated",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "inferred": "year",
+      "value": "Application opens September 1 with a December 1 submission deadline.",
+      "quote": "Application Submission Site Opens: September 1",
+      "url": "https://uthscsa.edu/biomedical-sciences/programs/integrated/admissions",
+      "also": [
+        {
+          "quote": "Submission Deadline: December 1",
+          "url": "https://uthscsa.edu/biomedical-sciences/programs/integrated/admissions"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required for the Ph.D. in Integrated Biomedical Sciences.",
+      "quote": "GRE scores are not required for applicants applying to the IBMS Graduate Program",
+      "url": "https://uthscsa.edu/biomedical-sciences/programs/integrated"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for biomedical sciences or neuroscience, and GRE scores are not required.",
+      "quote": "GRE scores are not required for applicants applying to the IBMS Graduate Program",
+      "url": "https://uthscsa.edu/biomedical-sciences/programs/integrated",
+      "also": [
+        {
+          "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+          "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No prior faculty contact or supervisor is needed during the application process; students select a primary discipline during their first year.",
+      "quote": "Do I need to contact faculty prior to applying to a graduate program? No, there is no need to reach out to faculty during the application process.",
+      "url": "https://uthscsa.edu/biomedical-sciences/admissions/faq",
+      "also": [
+        {
+          "quote": "Students admitted into the IBMS identify a “primary discipline of interest” during their first year.",
+          "url": "https://uthscsa.edu/biomedical-sciences/programs/integrated"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Students receive a $35,000 annual stipend, with tuition, fees, and student health insurance covered by the program.",
+      "quote": "Students receive an annual stipend of $35,000",
+      "url": "https://uthscsa.edu/biomedical-sciences/programs/integrated",
+      "also": [
+        {
+          "quote": "Tuition/Fees and Student Health Insurance are covered by the program",
+          "url": "https://uthscsa.edu/biomedical-sciences/programs/integrated"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants must have, or be in the process of completing, a bachelor's degree with a final GPA of 3.0 or above.",
+      "quote": "Applicants to the Integrated Biomedical Sciences (IBMS) Graduate Program must have, or be in the process of completing, a bachelor's degree with a final Grade Point Average of 3.0 or above.",
+      "url": "https://uthscsa.edu/biomedical-sciences/programs/integrated/admissions"
+    }
+  },
+  "notes": "Integrated Biomedical Sciences Ph.D. spans seven disciplines: Biochemical Mechanisms in Medicine, Biology of Aging, Cancer Biology, Cell Biology Genetics & Molecular Medicine, Molecular Immunology & Microbiology, Neuroscience, and Physiology & Pharmacology."
+}

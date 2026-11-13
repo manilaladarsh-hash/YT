@@ -1,0 +1,53 @@
+{
+  "id": "uthscsa",
+  "institution": "The University of Texas Health Science Center at San Antonio",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://uthscsa.edu/biomedical-sciences/programs",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "GSBS assesses a $50 nonrefundable administrative processing fee for applicants who require visa sponsorship.",
+      "quote": "Starting 9/01/24 a $50 nonrefundable administrative processing fee will be assessed in the GSBS application for applicants that require Visa Sponsorship.",
+      "url": "https://uthscsa.edu/biomedical-sciences/admissions/faq"
+    },
+    "fee_waiver": {
+      "code": "Available",
+      "value": "Each program is allotted administrative processing fee waivers; applicants may contact the program directly to inquire.",
+      "quote": "Each program has been allotted a certain amount of fee waivers. If you would like to be considered please reach out to the program directly to inquire.",
+      "url": "https://uthscsa.edu/biomedical-sciences/admissions/faq"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE requirements are set per program (several GSBS PhD programs have dropped the GRE requirement; see individual program records).",
+      "quote": "",
+      "url": "https://uthscsa.edu/biomedical-sciences/admissions/faq",
+      "also": [
+        {
+          "quote": "Some programs have opted into dropping the GRE requirement. We recommend checking their specific website for the most up to date information.",
+          "url": "https://uthscsa.edu/biomedical-sciences/admissions/faq"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "84",
+      "value": "GSBS minimum TOEFL iBT score is 84 (or 4.5 for tests taken after Jan 21, 2026).",
+      "quote": "TOEFL 84 or 4.5 for applicants testing after 01/21/2026",
+      "url": "https://uthscsa.edu/biomedical-sciences/admissions/faq"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "GSBS requires a minimum Academic IELTS score of 7.0.",
+      "quote": "IELTS 7.0",
+      "url": "https://uthscsa.edu/biomedical-sciences/admissions/faq"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "India is explicitly listed among countries exempted from the TOEFL, IELTS, and Duolingo requirement.",
+      "quote": "Countries exempted from the TOEFL, IELTS and/or Duolingo requirement: Antigua and Barbuda, Australia, Bahamas, Barbados, Belize, Botswana, Burundi, Cameroon, Canada (except Quebec), Cayman Islands Dominica, Eswatini, Fiji, Gambia, Ghana, Grenada, Guam, Guyana, India, Ireland, Jamaica, Kenya, Kiribati, Lesotho, Liberia, Malawi, Malta, Marshall Islands, Mauritius, Micronesia, Namibia, Nauru, New Zealand, Nigeria, Pakistan, Palau, Papa New Guinea, Philippines, Rwanda, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Samoa, Seychelles, Sierra Leone, Singapore, Solomon Islands, South Africa, South Sudan, Sudan, Tanzania, Tonga, Trinidad-Tobago, Tuvalu, Uganda, United Kingdom, Vanuatu, Virgin Islands, Zambia, and Zimbabwe",
+      "url": "https://uthscsa.edu/biomedical-sciences/admissions/faq"
+    }
+  },
+  "notes": "UT Health San Antonio (integrated with UT San Antonio). Health-science scope covers the Integrated Biomedical Sciences Ph.D. (including the Neuroscience and Biology of Aging disciplines) and the joint Ph.D. in Biomedical Engineering."
+}

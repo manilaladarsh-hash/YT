@@ -1,0 +1,61 @@
+{
+  "id": "uthscsa--bme",
+  "university": "uthscsa",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Joint Graduate Program in Biomedical Engineering (UT Health San Antonio / UTSA)",
+  "program_page": "https://uthscsa.edu/biomedical-sciences/programs/biomedical-engineering-phd",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "inferred": "year",
+      "value": "Fall application deadline is February 1 (Spring deadline is October 1).",
+      "quote": "February 1",
+      "url": "https://uthscsa.edu/biomedical-sciences/programs/biomedical-engineering-phd/admissions"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required for Biomedical Engineering Ph.D. applicants.",
+      "quote": "GRE Scores are NOT required.",
+      "url": "https://uthscsa.edu/biomedical-sciences/programs/biomedical-engineering-phd/admissions"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for biomedical engineering, and GRE scores are not required.",
+      "quote": "GRE Scores are NOT required.",
+      "url": "https://uthscsa.edu/biomedical-sciences/programs/biomedical-engineering-phd/admissions",
+      "also": [
+        {
+          "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+          "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No prior faculty contact or supervisor is needed when applying to GSBS programs; BME Ph.D. students complete a required Lab Rotation in the core curriculum.",
+      "quote": "Do I need to contact faculty prior to applying to a graduate program? No, there is no need to reach out to faculty during the application process.",
+      "url": "https://uthscsa.edu/biomedical-sciences/admissions/faq",
+      "also": [
+        {
+          "quote": "All students are required to take core courses in the areas of Biomaterials, Biomechanics, Bioelectronics/Imaging, and Biology (Cell and Molecular Biology and either Gross Human Anatomy or Human Physiology), as well as Analytic Techniques in Engineering Analysis, Ethics in Research, Experimental Design and Data Analysis, Lab Rotation, Supervised Teaching, and Introduction to Clinical Practices.",
+          "url": "https://uthscsa.edu/biomedical-sciences/programs/biomedical-engineering-phd/currriculum"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Students receive a $24,000-$35,000 stipend, with tuition, fees, and basic student health insurance covered by the program.",
+      "quote": "Students receive a stipend of $24,000-$35,000. Tuition, fees, and basic student health insurance are covered by the program.",
+      "url": "https://uthscsa.edu/biomedical-sciences/programs/biomedical-engineering-phd"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Students who hold an undergraduate or master's degree may apply (3.0+ GPA in last 60 credit hours; BS in engineering, physical science, or biological science expected).",
+      "quote": "Students who hold an undergraduate or master's degree may apply to the program.",
+      "url": "https://uthscsa.edu/biomedical-sciences/programs/biomedical-engineering-phd/admissions"
+    }
+  },
+  "notes": "Joint Ph.D. in Biomedical Engineering with UTSA Klesse College of Engineering and Integrated Design; admissions page also notes UTSA Graduate School TOEFL 79 baseline (GSBS lists 84)."
+}
