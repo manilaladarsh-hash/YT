@@ -1,0 +1,59 @@
+{
+  "id": "clarkson",
+  "institution": "Clarkson University",
+  "country": "USA",
+  "region": "New York",
+  "grad_page": "https://www.clarkson.edu/admissions-aid/graduate/how-to-apply",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "0 (waived)",
+      "value": "Clarkson is waiving graduate application fees for now, so there is no fee to pay.",
+      "quote": "To support prospective graduate students, we are waiving application fees at this time.",
+      "url": "https://www.clarkson.edu/admissions-aid/graduate/how-to-apply"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "Because the application fee is waived, there is no fee to waive.",
+      "quote": "To support prospective graduate students, we are waiving application fees at this time.",
+      "url": "https://www.clarkson.edu/admissions-aid/graduate/how-to-apply"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school leaves GRE rules to each program; see the program records.",
+      "quote": "GMAT/GRE test scores. For information and instructions related to waivers, please visit the page for your intended program of study.",
+      "url": "https://www.clarkson.edu/admissions-aid/graduate/how-to-apply"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "The international admissions page lists the minimum TOEFL as 4.5 on the new scale; the older how-to-apply page still shows 80.",
+      "quote": "Accepted tests with minimum acceptable scores are: TOEFL (4.5), TOEFL Essentials (8.5), IELTS (6.5), PTE (56), Duolingo English Test (115).",
+      "url": "https://www.clarkson.edu/international-admissions-requirements",
+      "also": [
+        {
+          "quote": "Accepted tests with minimum acceptable scores are: TOEFL (80) and TOEFL Essentials (8.5), IELTS (6.5), PTE (56) or Duolingo English Test (115).",
+          "url": "https://www.clarkson.edu/admissions-aid/graduate/how-to-apply"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The overall IELTS minimum is 6.5; the IELTS General Edition is not accepted.",
+      "quote": "Accepted tests with minimum acceptable scores are: TOEFL (80) and TOEFL Essentials (8.5), IELTS (6.5), PTE (56) or Duolingo English Test (115).",
+      "url": "https://www.clarkson.edu/admissions-aid/graduate/how-to-apply",
+      "also": [
+        {
+          "quote": "The IELTS General Edition is not accepted.",
+          "url": "https://www.clarkson.edu/international-admissions-requirements"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "An English-medium degree from India does not waive the English test, because Clarkson does not waive it for language of instruction.",
+      "quote": "We do not automatically waive this requirement based on language of instruction, nor do we accept university certificates.",
+      "url": "https://www.clarkson.edu/international-admissions-requirements"
+    }
+  },
+  "notes": "Graduate pages say TOEFL (80); the international page's graduate list says TOEFL (4.5), the same list as its undergraduate section, so 80 is used. Department pages repeat TOEFL (80) and IELTS (6.5). Waiver for native-English countries: India is not on the list in the PDF linked from the physics page (https://www.clarkson.edu/sites/default/files/2023-09/CountriesWhereEnglishistheNativeLanguage.pdf). Rolling admissions with no set deadline."
+}

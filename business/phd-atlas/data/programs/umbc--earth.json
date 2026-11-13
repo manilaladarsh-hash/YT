@@ -1,0 +1,50 @@
+{
+  "id": "umbc--earth",
+  "university": "umbc",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Geography and Environmental Systems",
+  "program_page": "https://ges.umbc.edu/home/graduate-programs/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-31",
+      "value": "International applicants must submit by December 31, 2026; the department's Fall deadline is February 1, 2027.",
+      "quote": "International students must submit their materials by December 31st",
+      "url": "https://ges.umbc.edu/home/graduate-programs/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department does not require GRE scores.",
+      "quote": "We do not require GRE scores",
+      "url": "https://ges.umbc.edu/home/graduate-programs/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department does not require GRE scores.",
+      "quote": "We do not require GRE scores",
+      "url": "https://ges.umbc.edu/home/graduate-programs/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must contact a potential advisor and name them in the personal statement to be considered; the page does not say the advisor must agree.",
+      "quote": "In order to be considered, you must contact a potential advisor and list their name",
+      "url": "https://ges.umbc.edu/home/graduate-programs/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Funding terms are not stated on the department page.",
+      "quote": "",
+      "url": "https://ges.umbc.edu/home/graduate-programs/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Entry route is not stated on the department page.",
+      "quote": "",
+      "url": "https://ges.umbc.edu/home/graduate-programs/"
+    }
+  },
+  "notes": "Geography and Environmental Systems is a geography PhD; it is mapped to the earth field as the closest listed field. Environment is taken by the MEES record.",
+  "name": "Geography and Environmental Systems PhD"
+}

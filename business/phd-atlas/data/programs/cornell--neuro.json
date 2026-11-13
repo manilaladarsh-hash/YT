@@ -1,0 +1,50 @@
+{
+  "id": "cornell--neuro",
+  "university": "cornell",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Department of Neurobiology and Behavior",
+  "program_page": "https://nbb.cornell.edu/graduate",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1; no spring admission.",
+      "quote": "The deadline for fall admission is December 1. There is no spring admission.",
+      "url": "https://nbb.cornell.edu/graduate",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE scores are not required or accepted.",
+      "quote": "GRE Scores are not required or accepted.",
+      "url": "https://nbb.cornell.edu/graduate"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "GRE scores are not required or accepted.",
+      "quote": "GRE Scores are not required or accepted.",
+      "url": "https://nbb.cornell.edu/graduate"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "The Director of Graduate Studies advises picking a lab and emailing the faculty member before applying.",
+      "quote": "Then email the faculty member with a brief statement of your interests, your research experience (if any) and ask if the lab will be accepting students in the next application cycle.",
+      "url": "https://nbb.cornell.edu/graduate"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Six years of support guaranteed (fellowships, GRA or TA).",
+      "quote": "Students admitted into the program are guaranteed 6 years of support in the form of CU fellowships, graduate research assistantships, or teaching assistantships.",
+      "url": "https://nbb.cornell.edu/graduate"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The program is aimed at undergraduates; no master's degree is offered.",
+      "quote": "Our graduate program is for academically talented undergraduates with a strong interest in neurobiology and/or animal behavior.",
+      "url": "https://nbb.cornell.edu/graduate"
+    }
+  },
+  "notes": "",
+  "name": "Neurobiology and Behavior"
+}

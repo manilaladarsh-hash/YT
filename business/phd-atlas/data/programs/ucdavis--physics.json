@@ -1,0 +1,60 @@
+{
+  "id": "ucdavis--physics",
+  "university": "ucdavis",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://physics.ucdavis.edu/graduates/admissions-faqs",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The Fall 2026 round has closed (applications completed by December 15 were reviewed; submissions ran until June 1, 2026); no Fall 2027 date is on the fetched FAQ.",
+      "quote": "Applications completed by December 15 will receive full review. | Applications can be submitted until June 1, 2026",
+      "url": "https://physics.ucdavis.edu/graduates/admissions-faqs"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The physics FAQ states a minimum of 7 on the IELTS.",
+      "quote": "UC Davis requires a minimum score of 80 on the internet-based TOEFL, 550 on the paper-based TOEFL, or 7 on the IELTS.",
+      "url": "https://physics.ucdavis.edu/graduates/admissions-faqs"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "The physics FAQ says fee waivers are only available to US citizens and permanent residents.",
+      "quote": "Fee waivers are only available to US citizens and Permanent Residents.",
+      "url": "https://physics.ucdavis.edu/graduates/admissions-faqs"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The fetched FAQ does not mention the GRE.",
+      "quote": "",
+      "url": "https://physics.ucdavis.edu/graduates/admissions-faqs"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No physics subject-test rule on the fetched pages.",
+      "quote": "",
+      "url": "https://physics.ucdavis.edu/graduates/admissions-faqs"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule on the fetched pages.",
+      "quote": "",
+      "url": "https://physics.ucdavis.edu/graduates/admissions-faqs"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding statement on the fetched pages.",
+      "quote": "",
+      "url": "https://physics.ucdavis.edu/graduates/admissions-faqs"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "No entry-route statement on the fetched pages.",
+      "quote": "",
+      "url": "https://physics.ucdavis.edu/graduates/admissions-faqs"
+    }
+  },
+  "notes": "Physics application and PhD program pages return 403 to the cached fetcher, so only the admissions FAQ was used. The FAQ's TOEFL line (80 iBT) is the pre-2026 scale and is not recorded, because the university page gives 4.5 for tests from 21 January 2026. No separate astronomy PhD appears in the Graduate Studies program list."
+}

@@ -1,0 +1,47 @@
+{
+  "id": "unh",
+  "institution": "University of New Hampshire",
+  "country": "USA",
+  "region": "New Hampshire",
+  "grad_page": "https://gradschool.unh.edu/admissions/international-students",
+  "checked": "2026-10-29",
+  "fields": {
+    "app_fee": {
+      "code": "65 USD",
+      "value": "The application fee is $65 for a degree program and $25 for a graduate certificate.",
+      "quote": "The application fee is $65 for a degree program and $25 for a graduate certificate.",
+      "url": "https://gradschool.unh.edu/admissions/international-students"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "Application fee waivers are not available for most programs in most circumstances.",
+      "quote": "Application fee waivers are not available for most programs in most circumstances.",
+      "url": "https://gradschool.unh.edu/admissions/international-students"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Many UNH graduate programs require applicants to submit GRE, GMAT, PRAXIS, or other examination scores; specific testing requirements vary by program.",
+      "quote": "Many UNH graduate programs require applicants to submit GRE, GMAT, PRAXIS, or other examination scores.",
+      "url": "https://gradschool.unh.edu/admissions/test-scores"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "TOEFL iBT: 80",
+      "quote": "TOEFL iBT: 80",
+      "url": "https://gradschool.unh.edu/admissions/international-students"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS (International English Language Testing System): 6.5",
+      "quote": "IELTS (International English Language Testing System): 6.5",
+      "url": "https://gradschool.unh.edu/admissions/international-students"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Applicants whose first language is English, whose prior education was conducted in English, or who have earned a degree from a U.S. institution may be eligible to request a waiver.",
+      "quote": "Applicants whose first language is English, whose prior education was conducted in English, or who have earned a degree from a U.S. institution may be eligible to request a waiver.",
+      "url": "https://gradschool.unh.edu/admissions/international-students"
+    }
+  },
+  "notes": ""
+}

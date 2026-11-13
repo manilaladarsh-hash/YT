@@ -1,0 +1,53 @@
+{
+  "id": "usu",
+  "institution": "Utah State University",
+  "country": "USA",
+  "region": "Utah",
+  "grad_page": "https://gradschool.usu.edu/admissions/policies",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "55 USD",
+      "value": "The School of Graduate Studies charges a $55 nonrefundable application fee, paid by card at submission.",
+      "quote": "requires a $55 ($25 for graduate certificates) nonrefundable application fee",
+      "url": "https://gradschool.usu.edu/admissions/policies"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Only McNair Scholars and active USU Honors students are waived, and some departments offer hardship waivers; the School gives none.",
+      "quote": "Application fees will be waived for McNair Scholars and active USU Honors students | The School of Graduate Studies does not give out application fee waivers to applicants | Some departments offer financial hardship fee waivers",
+      "url": "https://gradschool.usu.edu/admissions/policies"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The School sets no GRE rule; each program decides whether a GRE is needed.",
+      "quote": "Please refer to the supplemental items tab in your application to see if test scores are required for your program",
+      "url": "https://gradschool.usu.edu/resources/faq/applications-admission.php"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "For TOEFL iBT tests taken from 21 January 2026, the minimum is 4.0 on the 1-6 scale; the older minimum was 79.",
+      "quote": "TOEFL iBT tests taken on or after January 21, 2026, require a score of at least 4.0 (1-6 scale)",
+      "url": "https://gradschool.usu.edu/admissions/policies",
+      "also": [
+        {
+          "quote": "TOEFL internet-based (iBT) exam score of at least 79",
+          "url": "https://gradschool.usu.edu/admissions/policies"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic overall band 6.5, with at least 5.0 on each subscale.",
+      "quote": "IELTS score of 6.5 overall band score with a minimum of 5.0 on each subscale",
+      "url": "https://gradschool.usu.edu/admissions/policies"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "India is not on the country list, so an English-medium Indian degree needs a registrar letter or an English language-of-instruction entry on the official transcript.",
+      "quote": "Applicants that attended schools in countries outside of the list that have English as the official Language of Instruction may request an official letter from their previous institution’s registrar’s office | This requirement can also be fulfilled if English is clearly listed as the Language of Instruction on an official transcript",
+      "url": "https://gradschool.usu.edu/admissions/policies"
+    }
+  },
+  "notes": "Official doctoral list: the USU browse-degrees page (Doctorate section, usu.edu/degrees-majors/browse/?l=graduate). The official catalog (catalog.usu.edu) returned 403. Each department lists its own GRE, deadline and assistantship rules; the department pages are used in the program records. The English country list on the policy page does not include India. Duolingo (105) is also accepted by the School. The fee waiver applies to McNair and Honors students only; the Math/Stat page says it does not waive its fee."
+}

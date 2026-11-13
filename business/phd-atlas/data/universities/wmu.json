@@ -1,0 +1,53 @@
+{
+  "id": "wmu",
+  "institution": "Western Michigan University",
+  "country": "USA",
+  "region": "Michigan",
+  "grad_page": "https://wmich.edu/grad/apply",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "100 USD",
+      "value": "The graduate application fee is $100 for international applicants, paid online and not refundable.",
+      "quote": "a nonrefundable application fee online by credit card—$50 for domestic applicants and $100 for international applicants",
+      "url": "https://wmich.edu/grad/apply"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No international fee waiver appears on the official graduate application pages. The Psychology department runs its own waiver form, which does not cover this program.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/apply"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school leaves the GRE to each department, and some departments may waive it on request.",
+      "quote": "Some departments that require these exams/scores may allow you to request a waiver",
+      "url": "https://wmich.edu/grad/apply/faq"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Most graduate programs require TOEFL iBT 80 (WMU code 1902). The page also lists a newer 2026-scale score of 4.",
+      "quote": "Test of English as a Foreign Language (TOEFL iBT) - WMU Institutional Code: 1902 80",
+      "url": "https://wmich.edu/international/apply/english-proficiency"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Most graduate programs require IELTS Academic 6.5 overall.",
+      "quote": "International English Language Testing System (IELTS) Academic 6.5",
+      "url": "https://wmich.edu/international/apply/english-proficiency"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Indian applicants need a test: the waiver list covers only the countries named on the page, and India is not one of them.",
+      "quote": "Applicants do not need to submit proof of English language proficiency if they have successfully completed:",
+      "url": "https://wmich.edu/international/apply/english-proficiency",
+      "also": [
+        {
+          "quote": "One year of full-time tertiary (university-level) education in one of the countries below:",
+          "url": "https://wmich.edu/international/apply/english-proficiency"
+        }
+      ]
+    }
+  },
+  "notes": "Graduate-school rules. Physics, chemistry and the other program records carry their own department rules where the department states them. No PhD in astronomy, materials, neuroscience, environmental science, biomedical science, biomedical engineering or data science appears in the Graduate College doctoral list (https://wmich.edu/grad/program-doctoralprograms). Not mapped to a field: Industrial Engineering, Paper and Printing Science, Engineering and Applied Sciences (college page https://wmich.edu/engineer/phd-0 blocked, HTTP 403), Interdisciplinary Health Sciences (cohorts only in even years, Summer II start), Science Education and Mathematics Education variants."
+}

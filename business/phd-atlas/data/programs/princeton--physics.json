@@ -1,0 +1,50 @@
+{
+  "id": "princeton--physics",
+  "university": "princeton",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://phy.princeton.edu/academics/graduate-program/graduate-admissions",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Applications close December 15, 2026 at 11:59 PM Eastern (the page gives the day and month; the year comes from the Graduate School's Fall 2027 statement).",
+      "quote": "Application deadline: December 15 - 11:59 PM Eastern Standard Time",
+      "url": "https://phy.princeton.edu/academics/graduate-program/graduate-admissions",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "While the application is for Fall 2027 enrollment, all associated deadlines fall within the 2026 calendar year (e.g., November 15, 2026)",
+          "url": "https://gradschool.princeton.edu/department_deadlines"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The physics page lists the Physics Subject Test as an application component but states no rule.",
+      "quote": "",
+      "url": "https://phy.princeton.edu/academics/graduate-program/graduate-admissions"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule is stated on the pages that could be read.",
+      "quote": "",
+      "url": "https://phy.princeton.edu/academics/graduate-program/graduate-admissions"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The funding rules are on a Graduate Student Funding page that is blocked (403).",
+      "quote": "",
+      "url": "https://phy.princeton.edu/academics/graduate-program/graduate-admissions"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages do not state whether applicants come straight from a bachelor's degree.",
+      "quote": "",
+      "url": "https://phy.princeton.edu/academics/graduate-program/graduate-admissions"
+    }
+  },
+  "notes": "Blocked or missing: phy.princeton.edu/academics/graduate-program/graduate-admissions/graduate-student-funding (403); phy.princeton.edu/graduate-program (403); phy.princeton.edu/program-study (403); phy.princeton.edu/academics/graduate-program/graduate-admissions/fees-and-fee-waivers (404); /gre-general-and-physics-subject-tests (404); /english-language-tests (404); gradschool fields-of-study/physics (403). The physics FAQ answers (fee waiver, English, funding) are in accordions that did not render. Plasma Physics (own PhD, deadline December 1) and Quantum Science and Engineering are not saved as separate records.",
+  "name": "Physics"
+}

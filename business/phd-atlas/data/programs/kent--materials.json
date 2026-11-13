@@ -1,0 +1,67 @@
+{
+  "id": "kent--materials",
+  "university": "kent",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Materials Science Graduate Program",
+  "program_page": "https://www.kent.edu/materials-science/ms-phd-materials-science",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Priority deadline for Fall is January 15; later applications are accepted with a lower chance of admission.",
+      "quote": "Priority deadline: January 15",
+      "url": "https://www.kent.edu/materials-science/ms-phd-materials-science",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Application deadline is January 15th.",
+          "url": "https://www.kent.edu/materials-science/admission-requirements-0"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE is not required but is strongly recommended.",
+      "quote": "GRE scores (general and subject test in physics or chemistry) are not required, but strongly recommended.",
+      "url": "https://www.kent.edu/materials-science/ms-phd-materials-science"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The general and physics or chemistry subject GRE are strongly recommended, not required.",
+      "quote": "GRE scores (general and subject test in physics or chemistry) are not required, but strongly recommended.",
+      "url": "https://www.kent.edu/materials-science/ms-phd-materials-science"
+    },
+    "toefl_min": {
+      "code": "71",
+      "value": "The department requires TOEFL iBT 71.",
+      "quote": "Minimum 71 TOEFL iBT score",
+      "url": "https://www.kent.edu/materials-science/ms-phd-materials-science"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "The department requires IELTS 6.0.",
+      "quote": "Minimum 6.0 IELTS score",
+      "url": "https://www.kent.edu/materials-science/ms-phd-materials-science"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are asked to name three to five faculty they want to work with, which is advised but not required.",
+      "quote": "Students should identify 3-5 faculty who they are interested in working with based on their and the faculty’s research interests.",
+      "url": "https://www.kent.edu/materials-science/admission-requirements-0"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every admitted PhD student receives a teaching or research assistantship.",
+      "quote": "graduate assistantships are awarded to all admitted PhD students in the form of teaching or research assistantships",
+      "url": "https://www.kent.edu/materials-science/ms-phd-materials-science"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with a bachelor's degree or higher can apply; the page also gives a separate credit path for master's holders.",
+      "quote": "Bachelor's degree or higher from an accredited college or university | Minimum Total Credit Hours for Post-Master's Students",
+      "url": "https://www.kent.edu/materials-science/ms-phd-materials-science"
+    }
+  },
+  "notes": "Program page and admission page both give the January 15 deadline. Admission is by background review; the page says there is no conditional admission."
+}

@@ -1,39 +1,30 @@
 # Start here
 
-**Physics PhD Atlas 2027 · version {{VERSION}} · data checked {{CHECKED}}**
+**STEM PhD Atlas 2027 · v{{VERSION}} · checked {{CHECKED}}**
 
-Thank you for buying the Atlas. Your kit contains:
-
-| File | What it's for |
-|---|---|
-| **Atlas.html** | Offline program explorer. Open it in any browser, filter, star programs, export your shortlist. Tap any value to see the exact official sentence and its link. |
-| **Atlas.xlsx** | Planner workbook: Programs, Shortlist (auto-fills deadlines, fees, rules), Budget, Recommenders, Supervisor outreach, Sources. Works in Excel, Google Sheets (File → Import) and LibreOffice. |
-| **Atlas.csv** | The same program data for any other tool. |
-| **Playbook.pdf** | Step-by-step guidance: timeline, English tests, GRE, Canadian supervisors, how Europe differs, SOP, letters, fee waivers, checklist. |
-| **LICENSE.txt** | What you may and may not do with the files. |
+- **Atlas.html**: the explorer, {{N}} PhD programs in {{N_FIELDS}} fields at {{N_UNIS}} universities. Works offline in any browser.
+- **Atlas.xlsx**: planner workbook with Programs, Shortlist, Budget, Recommenders, Supervisor outreach and Sources.
+- **Atlas.csv**: the same data for any other tool.
+- **Playbook.pdf**: timeline, English tests, GRE, field-by-field admissions, country systems, emails, SOP, letters, fee waivers.
+- **LICENSE.txt**: what you may share.
 
 ### Your first 15 minutes
 
-1. Open **Atlas.html** and tap the **Quick picks** that match you, e.g. *Physics GRE not needed*, *English-test waiver possible*, *Bachelor's OK* or *Funded*. On a phone, tap **Filters** for the full set.
-2. Star 8-15 programs and click **Export shortlist (CSV)**, or pick them in the **Shortlist** tab of Atlas.xlsx.
-3. Read Playbook Sections 2-9, which cover the decisions with deadlines this month: the UK, the rest of Europe, Australia and Canada each work differently.
-4. Before paying any fee, click the value and open the official page. Rules change mid-cycle.
+1. Open **Atlas.html** and fill in **Your situation**: fields, regions, degree, tests, fees, funding. Each program then shows ✕ obstacles, ! things to check and ✓ confirmed points.
+2. Tap ☆ on 8–15 programs. **My plan** lists every deadline in date order, the total fees in ₹ and a checklist per program. **Add to calendar (.ics)** puts the deadlines in your phone's calendar with a 7-day reminder.
+3. Read Playbook §2–6, then the section for each country on your list (§7–10).
+4. Before you pay a fee, tap the value and open the official page. Rules change mid-cycle.
 
-### What the labels mean
+### Labels
 
-- **Not stated**: the official pages we checked did not say. This is *not* a "no", so ask the program.
+- **Not stated**: the official pages we checked did not say. It is *not* a "no", so ask the program.
+- **University-wide**: set by the graduate school for every department. A program's own rule takes priority.
 - **Year inferred**: the page gave a day and month only; we assumed the 2027-entry cycle.
-- **Per position / Rolling**: no central deadline. You apply to a professor or an advertised position (common in Europe).
-- **Sources conflict**: two official pages disagree. We show both and use the safer number.
-- **≈ ₹ amounts**: application fees converted to rupees at the Bank of Canada rate on the date shown at the bottom of Atlas.html. They're approximate, and your bank adds a margin.
-- **Licence**: a *Personal* licence is for you. A *Batch* licence lets you share the files with up to 30 people in one batch, society or mentoring group.
+- **Per position / Rolling**: no central deadline. You apply to an advertised position or a professor.
+- **≈ ₹**: fees converted using {{FX_SOURCE}} ({{FX_DATE}}). Your bank adds a margin.
 
 ### Updates and corrections
 
-You get every update for the Fall 2027 cycle free. The download link in your Gumroad receipt (and your Gumroad Library) always serves the newest version. The version number is at the bottom of Atlas.html, so check back before you finalize your list.
-
-If you spot a changed or wrong value, reply to your purchase receipt with the program name and the page link.
-
-**One question, once you've used it:** reply to your receipt with one line on what, if anything, the Atlas changed in your applications (a program added or dropped, a fee waiver requested, a test skipped). Your answers decide what goes into the next update.
+Every update for the 2027 cycle is free: the link in your Gumroad receipt always serves the newest version (the version is at the bottom of Atlas.html). To report a changed or wrong value, reply to your receipt with the program and the page link. Once you've applied, one line on what the Atlas changed for you (a program added or dropped, a waiver requested, a test skipped) decides what goes into the next update.
 
 *Not affiliated with any university. Not immigration, visa or legal advice.*

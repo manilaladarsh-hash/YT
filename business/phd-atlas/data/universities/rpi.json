@@ -1,0 +1,59 @@
+{
+  "id": "rpi",
+  "institution": "Rensselaer Polytechnic Institute",
+  "country": "USA",
+  "region": "New York",
+  "grad_page": "https://gradadmissions.rpi.edu/deadlines-and-requirements",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "Nonrefundable $75 application processing fee, paid electronically after the online application.",
+      "quote": "Nonrefundable application processing fee of $75",
+      "url": "https://gradadmissions.rpi.edu/deadlines-and-requirements"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The fee is waived only for Rensselaer alumni, current students, employees and employee spouses; no waiver for international applicants is listed.",
+      "quote": "The application fee is waived for Rensselaer alumni, current Rensselaer students (matriculating and non-matriculating), employees, and employee spouses.",
+      "url": "https://gradadmissions.rpi.edu/deadlines-and-requirements"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE is optional for PhD programmes except Management, which requires it.",
+      "quote": "Optional for all other degree programs.",
+      "url": "https://gradadmissions.rpi.edu/deadlines-and-requirements"
+    },
+    "toefl_min": {
+      "code": "88",
+      "value": "TOEFL iBT minimum is 88 (or 4.5 on the new 6.0 scale); some departments set higher.",
+      "quote": "TOEFL score of 88 iBT (or a 4.5 on the new 6.0 scale)",
+      "url": "https://gradadmissions.rpi.edu/deadlines-and-requirements",
+      "also": [
+        {
+          "quote": "Some departments require a higher language proficiency score than the Institute minimum.",
+          "url": "https://gradadmissions.rpi.edu/deadlines-and-requirements"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic minimum is 6.5 overall.",
+      "quote": "IELTS (Academic) score of 6.5",
+      "url": "https://gradadmissions.rpi.edu/deadlines-and-requirements"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "The English test is waived only for a degree from a regionally accredited U.S. or English-speaking-country university, so an Indian degree does not qualify on this page.",
+      "quote": "Non-Native English-speaking international applicants who have, or will have earned, an undergraduate or graduate degree from a regionally accredited university in the U.S. or country where English is the official language",
+      "url": "https://gradadmissions.rpi.edu/deadlines-and-requirements",
+      "also": [
+        {
+          "quote": "Please note that this waiver will be applied after your application has been submitted and reviewed by the Graduate Admissions Office.",
+          "url": "https://gradadmissions.rpi.edu/deadlines-and-requirements"
+        }
+      ]
+    }
+  },
+  "notes": "Checked 2026-10-26. Blocked (403): https://admissions.rpi.edu/graduate/masters-and-phd-applicants and https://gradadmissions.rpi.edu/application-instructions-and-process. The doctoral deadline and English rules come from the deadlines page. Physics and other departments may set their own TOEFL rule (see program records)."
+}

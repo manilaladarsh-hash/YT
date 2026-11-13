@@ -1,0 +1,67 @@
+{
+  "id": "ohiostate--neuro",
+  "university": "ohiostate",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Neuroscience Graduate Program",
+  "program_page": "https://ngp.osu.edu/students/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-30",
+      "value": "Applicants outside the US must apply by November 30; applicants in the US by December 1.",
+      "quote": "All applications from students who are not currently in the United States are due by November 30th.",
+      "url": "https://ngp.osu.edu/prospective-students/frequently-asked-questions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is no longer required.",
+      "quote": "The GRE is no longer required for admission.",
+      "url": "https://ngp.osu.edu/prospective-students/frequently-asked-questions"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The program asks for IELTS Academic 7.0.",
+      "quote": "7.0 on the IELTS Academic test or IELTS Indicator",
+      "url": "https://ngp.osu.edu/students/admissions"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Waivers are for domestic applicants; international applicants already in the US can get one, those abroad cannot.",
+      "quote": "Unfortunately, the NGP does not offer fee waivers to students who are not in the United States at the time of application.",
+      "url": "https://ngp.osu.edu/prospective-students/frequently-asked-questions",
+      "also": [
+        {
+          "quote": "International students who are already in the United States at the time of application are eligible for fee waivers.",
+          "url": "https://ngp.osu.edu/prospective-students/frequently-asked-questions"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You do not need to secure an advisor before applying, though contacting faculty is strongly encouraged; students rotate before choosing a lab.",
+      "quote": "Applicants are not required to finalize an advisor before I applying.",
+      "url": "https://ngp.osu.edu/prospective-students/frequently-asked-questions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The program is fully funded, mostly through Graduate Research Associate appointments with tuition, health insurance and a stipend.",
+      "quote": "This program is fully funded!",
+      "url": "https://ngp.osu.edu/prospective-students/frequently-asked-questions"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's from an accredited institution is required.",
+      "quote": "Applicants must have or will have a Bachelor's degree from an accredited institution.",
+      "url": "https://ngp.osu.edu/students/admissions"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://ngp.osu.edu/students/admissions"
+    }
+  },
+  "notes": ""
+}

@@ -1,0 +1,75 @@
+{
+  "id": "lsu--physics",
+  "university": "lsu",
+  "field": "physics",
+  "also_fields": [
+    "astronomy"
+  ],
+  "department": "Department of Physics & Astronomy",
+  "program_page": "https://www.lsu.edu/physics/graduate/physics-astronomy/faq.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Fall applications must be received by January 1; applications after March 15 are generally not considered for fall.",
+      "quote": "For admissions for the fall semester (starting in August), the deadline for us to receive completed applications is January 1 of the same year | Generally, applications received after March 15 are not considered for fall admission",
+      "url": "https://www.lsu.edu/physics/graduate/physics-astronomy/faq.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE general scores are not currently required for applicants.",
+      "quote": "GRE general scores are not currently required for applicants",
+      "url": "https://www.lsu.edu/physics/graduate/physics-astronomy/faq.php"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The GRE Physics test is not required, but the department encourages sending a score if you have one.",
+      "quote": "GRE Physics score is not required, but may be helpful for some applicants, and so we encourage you to send us your score",
+      "url": "https://www.lsu.edu/physics/graduate/physics-astronomy/faq.php"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "The department requires a TOEFL iBT of 100 for admission, higher than the Graduate School's 79.",
+      "quote": "We require a minimum TOEFL score of 100 on the iBt scale (600 old scale) (IELTS 7.0) for admission",
+      "url": "https://www.lsu.edu/physics/graduate/physics-astronomy/faq.php"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The department requires IELTS 7.0 for admission, higher than the Graduate School's 6.5.",
+      "quote": "We require a minimum TOEFL score of 100 on the iBt scale (600 old scale) (IELTS 7.0) for admission",
+      "url": "https://www.lsu.edu/physics/graduate/physics-astronomy/faq.php"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The department has limited funds to cover the application fee for international applicants with demonstrable need; write to the admissions chair to ask.",
+      "quote": "We have limited funds to cover the application fee for international students with demonstrable need",
+      "url": "https://www.lsu.edu/physics/graduate/physics-astronomy/faq.php"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Contacting professors is suggested but not required; a major professor is chosen by mutual consent after the qualifying exam.",
+      "quote": "it might be useful to have direct contact with our professors",
+      "url": "https://www.lsu.edu/physics/graduate/physics-astronomy/instructions.php",
+      "also": [
+        {
+          "quote": "who will be chosen by mutual consent, not assigned by the department",
+          "url": "https://www.lsu.edu/physics/graduate/graduate-guide.php"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Essentially all admitted students are offered a graduate assistantship (TA or RA), with a full tuition waiver and most health insurance.",
+      "quote": "essentially all students accepted into our Department are offered financial support in the form of a graduate assistantship",
+      "url": "https://www.lsu.edu/physics/graduate/physics-astronomy/faq.php"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants who go straight from a four-year undergraduate programme are considered alongside others; no master's is mentioned as a prerequisite.",
+      "quote": "we have no bias against non-traditional students (i.e., those not applying directly out of a four-year undergraduate program)",
+      "url": "https://www.lsu.edu/physics/graduate/physics-astronomy/faq.php"
+    }
+  },
+  "notes": "Astronomy is covered by the PhD in Physics (Appendix A: 'A Guide to Graduate Studies in Astronomy and Astrophysics (Leading to the PhD in Physics)', graduate-guide.php). The department's deadline-and-fee table (Jan 1 first round, May 15 final, Foreign $70) is split across lines, so it is not quoted. Medical physics track (separate application page) not covered. Department GRE and TOEFL wording dates partly from COVID-era notes on the FAQ."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "colostate--physics",
+  "university": "colostate",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://www.physics.colostate.edu/future-students/future-grad-students/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Full consideration for Fall admission is January 15. The page gives no year, so the 2026/27 cycle date is used.",
+      "quote": "The application deadline for full consideration for Fall admissions is January 15th.",
+      "url": "https://www.physics.colostate.edu/future-students/future-grad-students/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.physics.colostate.edu/future-students/future-grad-students/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.physics.colostate.edu/future-students/future-grad-students/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page mentions teaching and research roles but gives no share of admitted students who are funded.",
+      "quote": "",
+      "url": "https://www.physics.colostate.edu/future-students/future-grad-students/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The department page does not state a degree-entry rule.",
+      "quote": "",
+      "url": "https://www.physics.colostate.edu/future-students/future-grad-students/"
+    }
+  },
+  "notes": "Astronomy is listed as a research area and on the department site, but there is no separate astronomy PhD and the Physics PhD page does not say it covers astronomy, so no also_fields. TOEFL scale changes to 1-6 from January 2026 (not a minimum). No IELTS rule stated.",
+  "name": "Physics (Ph.D.)"
+}

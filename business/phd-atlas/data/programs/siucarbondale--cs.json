@@ -1,0 +1,54 @@
+{
+  "id": "siucarbondale--cs",
+  "university": "siucarbondale",
+  "field": "cs",
+  "also_fields": [],
+  "department": "School of Computing",
+  "program_page": "https://gradcatalog.siu.edu/programs/cs/",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The catalog gives no application deadline for the PhD, and the department's admissions page no longer loads.",
+      "quote": "",
+      "url": "https://gradcatalog.siu.edu/programs/cs/"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General scores are an admission requirement for the PhD.",
+      "quote": "Graduate Record Examination (GRE) general test scores",
+      "url": "https://gradcatalog.siu.edu/programs/cs/"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "A computer science GRE Subject score is recommended but not required.",
+      "quote": "It is recommended that results from the GRE subject area in computer science or a related area be included",
+      "url": "https://gradcatalog.siu.edu/programs/cs/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether a faculty agreement is needed before admission.",
+      "quote": "",
+      "url": "https://gradcatalog.siu.edu/programs/cs/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether admitted PhD students are funded.",
+      "quote": "",
+      "url": "https://gradcatalog.siu.edu/programs/cs/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's in CS or a related field with a 3.25 GPA is normal; bachelor's-only applicants are admitted only in exceptional cases.",
+      "quote": "A master’s degree in computer science or a related field with a minimum GPA of 3.25/4.0",
+      "url": "https://gradcatalog.siu.edu/programs/cs/",
+      "also": [
+        {
+          "quote": "In exceptional cases, high achieving students with only bachelor's degrees will be admitted to the program",
+          "url": "https://gradcatalog.siu.edu/programs/cs/"
+        }
+      ]
+    }
+  },
+  "notes": "Blocked: https://cs.siu.edu/graduate/degrees_offered/phd_comp_science/phd_adm_req.php returned 410 Gone, so the department admissions page was not used. Applications are reviewed on an individual basis."
+}

@@ -1,0 +1,47 @@
+{
+  "id": "bath",
+  "institution": "University of Bath",
+  "country": "United Kingdom",
+  "region": "England",
+  "grad_page": "https://www.bath.ac.uk/guides/how-to-apply-for-doctoral-study/",
+  "checked": "2026-10-30",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "Central research guidance outlines tuition fees and postgraduate funding without stating a general application fee for research degree programmes.",
+      "quote": "",
+      "url": "https://www.bath.ac.uk/guides/how-to-apply-for-doctoral-study/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Central guidance does not publish fee waiver procedures as no general PGR application fee is stated.",
+      "quote": "",
+      "url": "https://www.bath.ac.uk/guides/how-to-apply-for-doctoral-study/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE General test is not required or requested centrally for postgraduate research admission at Bath.",
+      "quote": "",
+      "url": "https://www.bath.ac.uk/guides/how-to-apply-for-doctoral-study/"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "Standard minimum English requirement for Category C programmes is TOEFL iBT 90 overall with 21 in each component.",
+      "quote": "TOEFL iBT and iBT Home Edition\n90 overall with 21 in each component\n",
+      "url": "https://www.bath.ac.uk/corporate-information/english-language-requirements-for-qualifications-category-c/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Standard minimum English requirement for Category C programmes is IELTS Academic 6.5 with at least 6.0 in each component.",
+      "quote": "IELTS Academic and IELTS Online (including One Skill Retake)â¯\n6.5 with 6.0 in each comp",
+      "url": "https://www.bath.ac.uk/corporate-information/english-language-requirements-for-qualifications-category-c/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Exemption depends on nationality or previous study in majority English-speaking countries; degrees from non-majority countries like India do not qualify.",
+      "quote": "If English is not your first language, you must meet our English language requirements. You may be exempt depending on nationality or previous study. We",
+      "url": "https://www.bath.ac.uk/guides/applying-for-doctoral-study-at-the-university-of-bath-faqs/"
+    }
+  },
+  "notes": "Postgraduate research degrees at the University of Bath include PhD, Integrated PhD, and Professional Doctorate programmes across faculties."
+}

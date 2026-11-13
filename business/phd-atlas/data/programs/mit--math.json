@@ -1,0 +1,66 @@
+{
+  "id": "mit--math",
+  "university": "mit",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Department of Mathematics",
+  "program_page": "https://oge.mit.edu/programs/mathematics/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The Math department's own pages say December 1, 11:59 PM EST (the OGE directory lists December 15); apply by December 1 to be safe. Fee-waiver requests are due November 20, 2026.",
+      "quote": "The application filing deadline is December 1, for matriculation in September.",
+      "url": "https://math.mit.edu/academics/grad/phd/admission/faq.html",
+      "inferred": "year",
+      "time_sensitive": "2026-11-20",
+      "also": [
+        {
+          "quote": "Fill out the on-line application by 23:59, EST, December 1.",
+          "url": "https://math.mit.edu/academics/grad/phd/admission/index.html"
+        },
+        {
+          "quote": "Fee waiver applications are due before the application deadline: November 20, 2026",
+          "url": "https://math.mit.edu/academics/grad/phd/admission/faq.html"
+        },
+        {
+          "quote": "Deadline: December 15 at 11:59 PM Eastern Time",
+          "url": "https://oge.mit.edu/programs/mathematics/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE General is optional; it will not hurt you if omitted.",
+      "quote": "GRE general/subject scores are optional. We will accept scores if submitted but it will not negatively influence your application if not included.",
+      "url": "https://math.mit.edu/academics/grad/phd/admission/faq.html"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Mathematics Subject GRE is optional, but it is the score the department is most interested in if you send one.",
+      "quote": "Submitting GRE scores is entirely optional: We will accept scores if submitted (and are most interested in the Math Subject test result, if any) but it will not hurt your application if not included.",
+      "url": "https://oge.mit.edu/programs/mathematics/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department pages checked do not say whether contacting a supervisor is needed; short-listed applicants interview with a faculty committee in January.",
+      "quote": "",
+      "url": "https://math.mit.edu/academics/grad/phd/admission/faq.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Five years of full support (tuition, stipend, health cover) for students making satisfactory progress; first year on full fellowship.",
+      "quote": "Financial support is guaranteed for five years to students making satisfactory progress. Students receive full tuition, a stipend, and individual health coverage.",
+      "url": "https://oge.mit.edu/programs/mathematics/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "No master's degree needed; a bachelor's (or equivalent) is required.",
+      "quote": "Do I need a master's degree before applying? No, a bachelor's degree (or equivalent) is required.",
+      "url": "https://math.mit.edu/academics/grad/phd/admission/faq.html"
+    }
+  },
+  "notes": "Statistics: MIT has no standalone statistics PhD admission. The Interdisciplinary Doctoral Program in Statistics (IDPS) gives an 'Interdisciplinary PhD in Mathematics and Statistics' (also with Physics, BCS, MechE, Aero/Astro, IDSS-SES and others); students already enrolled in a participating PhD join it via a selection form after their second semester. IELTS is the preferred English test."
+}

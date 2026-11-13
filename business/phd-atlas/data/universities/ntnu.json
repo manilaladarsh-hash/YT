@@ -1,0 +1,47 @@
+{
+  "id": "ntnu",
+  "institution": "Norwegian University of Science and Technology (NTNU)",
+  "country": "Norway",
+  "region": "Tr?ndelag",
+  "grad_page": "https://www.ntnu.edu/phd/admission-and-financing",
+  "checked": "2026-10-29",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No PhD application fee is stated on NTNU's PhD admission pages or 2026 PhD regulations; PhD candidates are exempt from international tuition fees.",
+      "quote": "",
+      "url": "https://www.ntnu.edu/phd/admission-and-financing"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No PhD application fee or fee waiver is stated on NTNU's PhD admission pages.",
+      "quote": "",
+      "url": "https://www.ntnu.edu/phd/admission-and-financing"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE General is not required for PhD admission at NTNU.",
+      "quote": "To qualify for admission to a PhD programme, applicants must normally hold a master's degree that includes a major independent project (minimum 30 ECTS) equivalent to a master's thesis, cf. the descriptions in the Norwegian Qualifications Framework Level 7.",
+      "url": "https://www.ntnu.edu/documents/1263185004/1285991844/NTNU+PhD-regulations+updated+20260203+%281%29.pdf/b9ab638d-5d97-b2bc-ab17-5a20ff1ceac0?t=1778059527861"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "NTNU's central PhD pages and 2026 PhD regulations set no university-wide TOEFL minimum (the general TOEFL 90 / 4.5 page covers master's and external course admission, while PhD vacancies or faculties may set their own requirements).",
+      "quote": "",
+      "url": "https://www.ntnu.edu/phd/admission-and-financing"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "NTNU's central PhD pages and 2026 PhD regulations set no university-wide IELTS minimum (the general IELTS 6.5 page covers master's and external course admission, while PhD vacancies or faculties may set their own requirements).",
+      "quote": "",
+      "url": "https://www.ntnu.edu/phd/admission-and-financing"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "NTNU's central PhD pages and 2026 PhD regulations state no university-wide English test or English-medium degree waiver rule for PhD admission.",
+      "quote": "",
+      "url": "https://www.ntnu.edu/phd/admission-and-financing"
+    }
+  },
+  "notes": "Checked PhD admission and financing (https://www.ntnu.edu/phd/admission-and-financing), PhD application portal page (https://www.ntnu.edu/phd/application-phdprogramme), PhD regulations page (https://www.ntnu.edu/phd/regulations) and the 3 Feb 2026 English PhD Regulations PDF, plus tuition fees (https://www.ntnu.edu/studies/tuition-fees, which exempts PhD students from tuition fees). None state a PhD application fee, GRE policy, or university-wide PhD English test rule; 'no application fee' and TOEFL 90 / IELTS 6.5 statements on ntnu.edu apply to master's/exchange/external-course admission rather than PhD admission. Old URL https://www.ntnu.edu/phd/application-for-a-phd-programme returned 404 (now /phd/application-phdprogramme)."
+}

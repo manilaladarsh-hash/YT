@@ -1,0 +1,47 @@
+{
+  "id": "uncc",
+  "institution": "University of North Carolina at Charlotte",
+  "country": "USA",
+  "region": "North Carolina",
+  "grad_page": "https://gradadmissions.charlotte.edu/apply-now/international-applicants/",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "85 USD",
+      "value": "The processing fee for international applicants to graduate programs, including doctoral, is $85.",
+      "quote": "$85 USD – International Applicants",
+      "url": "https://gradadmissions.charlotte.edu/apply-now/application-requirements/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Graduate School fee waivers are few and narrow: UNC Charlotte permanent employees, McNair pathway participants in the US, and US military service members.",
+      "quote": "The Graduate School provides a limited number of fee waivers to:",
+      "url": "https://gradadmissions.charlotte.edu/apply-now/application-requirements/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school sets no GRE rule for doctoral applicants; each program sets its own.",
+      "quote": "Most graduate programs do not require a standardized test.",
+      "url": "https://gradadmissions.charlotte.edu/apply-now/application-requirements/"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "The TOEFL iBT minimum is 4.5 on the new CEFR-based 1 to 6 scale, in force since January 21, 2026.",
+      "quote": "Updated Minimum TOEFL iBT Requirement: 4.5 out of 6",
+      "url": "https://gradadmissions.charlotte.edu/apply-now/international-applicants/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The IELTS Academic minimum is an overall band score of 6.5.",
+      "quote": "Minimum Score Required: Overall band score of 6.5.",
+      "url": "https://gradadmissions.charlotte.edu/apply-now/international-applicants/"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The exemptions cover at least one academic year of study or a full year of work in the US or an approved English-primary country; India is not named, so the waiver for Indian applicants is not stated.",
+      "quote": "",
+      "url": "https://gradadmissions.charlotte.edu/apply-now/international-applicants/"
+    }
+  },
+  "notes": "Sources: the graduate admissions International Applicants page (English rules, exempt countries), the Application Requirements page (fee, fee waivers, GRE general wording), and the official doctoral list on academics.charlotte.edu (3 pages, read in full). The English exemption list has no India entry. The 2026 TOEFL switch means 83 (old iBT scale) is no longer the minimum; it is accepted only for tests taken before January 21, 2026, and is not recorded. Duolingo English Test minimum 115 is stated on the same page but has no schema field. Official doctoral programs found: 3 list pages; the STEM PhDs are listed in the programs."
+}

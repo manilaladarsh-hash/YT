@@ -1,0 +1,55 @@
+{
+  "id": "uri--math",
+  "university": "uri",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://web.uri.edu/mathematics/academics/mathematics-and-applied-mathematics-ph-d/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "International applicants should apply by February 1; the department lists July 15 for Fall.",
+      "quote": "international applicants are expected to apply for fall programs by February 1",
+      "url": "https://web.uri.edu/graduate-school/admission/international/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "The application deadlines for both master’s and doctoral programs are July 15 for Fall semester",
+          "url": "https://web.uri.edu/mathematics/academics/graduate-programs/admission/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The programs do not require GRE scores.",
+      "quote": "Our programs do not require GRE scores",
+      "url": "https://web.uri.edu/mathematics/academics/graduate-programs/admission/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The programs do not require GRE scores, so no Mathematics subject test is needed.",
+      "quote": "Our programs do not require GRE scores",
+      "url": "https://web.uri.edu/mathematics/academics/graduate-programs/admission/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must have a major professor who agrees to work with them.",
+      "quote": "When applying to the Ph.D. program (with a master’s degree), you are required to have a major professor who agrees to work with you",
+      "url": "https://web.uri.edu/mathematics/academics/graduate-programs/admission/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Several assistantships are available each year; full consideration for TA support requires a March 1 deadline.",
+      "quote": "The department has several assistantships available every year",
+      "url": "https://web.uri.edu/mathematics/academics/graduate-programs/admission/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "The department describes applying to the PhD with a master's degree.",
+      "quote": "When applying to the Ph.D. program (with a master’s degree)",
+      "url": "https://web.uri.edu/mathematics/academics/graduate-programs/admission/"
+    }
+  },
+  "notes": ""
+}

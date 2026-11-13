@@ -1,0 +1,53 @@
+{
+  "id": "southernmississippi",
+  "institution": "University of Southern Mississippi",
+  "country": "USA",
+  "region": "Mississippi",
+  "grad_page": "https://www.usm.edu/graduate-school/international-graduate-admissions.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "The application fee is $60, non-refundable, for all applicants.",
+      "quote": "$60 non-refundable application fee",
+      "url": "https://www.usm.edu/graduate-school/international-graduate-admissions.php"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Fee waivers go only to domestic applicants in listed groups, such as US military veterans and Fulbright scholars.",
+      "quote": "fee waivers for domestic applicants who are active duty or veterans of the United States military",
+      "url": "https://www.usm.edu/graduate-school/admission-guide-faq.php"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Some departments may require GRE, GMAT or MAT; each program record gives its department's rule.",
+      "quote": "Some departments may require GRE, GMAT, or MAT.",
+      "url": "https://www.usm.edu/graduate-school/international-graduate-admissions.php"
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "The Graduate School's TOEFL iBT minimum is 4 on the new scale (71 on the old).",
+      "quote": "TOEFL (IBT) (ETS Code 1479) score of 4 (new)/71 (old)",
+      "url": "https://www.usm.edu/graduate-school/international-graduate-admissions.php"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "The IELTS Academic overall minimum is 6.0.",
+      "quote": "IELTS Academic Overall 6.0",
+      "url": "https://www.usm.edu/graduate-school/international-graduate-admissions.php"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the waiver list, and MOI letters are not accepted, so Indian applicants need a test score.",
+      "quote": "We do not accept MOI (Memorandum/Mode of Instruction) letters from foreign universities in place of English Proficiency Test Scores",
+      "url": "https://www.usm.edu/graduate-school/international-graduate-admissions.php",
+      "also": [
+        {
+          "quote": "The English proficiency requirement will be waived for applicants who are citizens of or have received degrees from the following countries",
+          "url": "https://www.usm.edu/graduate-school/international-graduate-admissions.php"
+        }
+      ]
+    }
+  },
+  "notes": ""
+}

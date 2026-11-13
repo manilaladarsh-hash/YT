@@ -1,0 +1,56 @@
+{
+  "id": "mit--biomed",
+  "university": "mit",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Harvard-MIT Program in Health Sciences and Technology (HST)",
+  "program_page": "https://oge.mit.edu/programs/harvard-mit-health-sciences-and-technology/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026, 11:59 PM US Eastern (application opens September 1); official English test results must reach MIT by the deadline.",
+      "quote": "Deadline: December 1 at 11:59 PM Eastern Time",
+      "url": "https://oge.mit.edu/programs/harvard-mit-health-sciences-and-technology/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "HST does not accept GRE (or MCAT) scores.",
+      "quote": "No, we do not accept GRE scores and will not consider GRE scores during the evaluation of your application.",
+      "url": "https://hst.mit.edu/applying-hst/applying-medical-engineering-and-medical-physics-memp-phd-program/phd-admissions-faq"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "No GRE scores are considered.",
+      "quote": "will not consider GRE scores during the evaluation of your application",
+      "url": "https://hst.mit.edu/applying-hst/applying-medical-engineering-and-medical-physics-memp-phd-program/phd-admissions-faq"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "An English-medium degree is not a ground for a waiver: HST considers waivers only for recent test results (taken on or after 8/31/2024) or a first/second-author peer-reviewed journal paper.",
+      "quote": "Waivers: HST will consider waivers if official test results are within three years of matriculation (i.e. for fall 2027 enrollment exam date must be 8/31/2024 or later) or an applicant has a first or second author publication, from a major journal that is peer reviewed (conference papers not accepted).",
+      "url": "https://hst.mit.edu/applying-hst/applying-medical-engineering-and-medical-physics-memp-phd-program/phd-admissions-faq"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You need not name professors; HST asks applicants not to contact faculty until applications have been reviewed. Students can later work in any Harvard or MIT lab.",
+      "quote": "It is not necessary to name specific professors or labs you might want to join. HST requests that candiates wait to contact professors after applications have been reviewed.",
+      "url": "https://hst.mit.edu/applying-hst/applying-medical-engineering-and-medical-physics-memp-phd-program"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "MEMP is fully funded: students in good standing get living expenses, tuition and health insurance for the whole PhD.",
+      "quote": "HST MEMP is a fully-funded program. Students in good academic standing receive financial support",
+      "url": "https://oge.mit.edu/programs/harvard-mit-health-sciences-and-technology/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's in engineering or a physical/quantitative science is expected; a master's is not required.",
+      "quote": "MEMP applicants should have an undergraduate (bachelors/baccalaureate) degree in an engineering discipline or a physical/quantitative science field (for example, chemistry, physics, computer science, computational neuroscience). A masters degree is not required.",
+      "url": "https://hst.mit.edu/applying-hst/applying-medical-engineering-and-medical-physics-memp-phd-program/phd-admissions-faq"
+    }
+  },
+  "notes": "Joint Harvard-MIT PhD combining engineering/physical science with biomedical and clinical training; applicants need a quantitative background (a pure life-science degree is generally not enough). The HST FAQ says its fee waivers are for US citizens and permanent residents under OGE rules. Duolingo 135 and Cambridge 185 accepted.",
+  "name": "Medical Engineering and Medical Physics (MEMP) PhD"
+}

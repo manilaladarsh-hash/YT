@@ -1,0 +1,47 @@
+{
+  "id": "montana",
+  "institution": "Montana State University",
+  "country": "USA",
+  "region": "Montana",
+  "grad_page": "https://www.montana.edu/gradschool/policy/admissions_intl.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "70 USD",
+      "value": "The application fee is $70 and cannot be waived, deferred or refunded.",
+      "quote": "Payment of a non-refundable application fee of U.S. $70.00, which will not be waived, deferred, or refunded",
+      "url": "https://www.montana.edu/gradschool/policy/admissions_intl.html"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The $70 application fee cannot be waived for any applicant, international or domestic.",
+      "quote": "which will not be waived, deferred, or refunded",
+      "url": "https://www.montana.edu/gradschool/policy/admissions_intl.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Graduate School says the GRE is not required for any program.",
+      "quote": "The Graduate Records Exam is NOT required to apply for any program at MSU.",
+      "url": "https://www.montana.edu/gradschool/policy/admissions_intl.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The Graduate School lists TOEFL iBT 80, an old-scale score, so no number is recorded. Departments set their own TOEFL minimums (see program records).",
+      "quote": "Minimum test scores from acceptable testing agencies are: TOEFL: 80-internet-based [iBT], IELTS: 6.5, or 120 Duolingo",
+      "url": "https://www.montana.edu/gradschool/policy/admissions_intl.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The Graduate School minimum is IELTS Academic 6.5 overall; most departments set higher.",
+      "quote": "IELTS: 6.5, or 120 Duolingo",
+      "url": "https://www.montana.edu/gradschool/policy/admissions_intl.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the exempt-country list, so Indian applicants need an English test score.",
+      "quote": "If your country is not listed, the requirement to supply and English proficiency exam will not be waived.",
+      "url": "https://www.montana.edu/gradschool/policy/admissions_intl.html"
+    }
+  },
+  "notes": "Sources: Graduate School international admissions page (fetched 2026-10-27). The official graduate programs list (grad-programs/) gives the PhD list used for the program records. Not saved as program records: Neuroscience PhD (MCB page says it is not accepting applications; not on the official list); Biochemistry PhD is inside the chemistry record; Environmental Engineering PhD and Applied Mechanics are options of the Civil PhD in Engineering; IMSE PhD (Ph.D. in Engineering, Industrial Engineering Option) is noted in the mechanical record; Plant Genetics, Plant Pathology and Fish & Wildlife Biology PhDs were not researched; Psychological Science, Mathematics Education, Animal & Range Sciences, Exercise & Nutrition, and the non-STEM PhDs were out of scope. No data science, biomedical engineering or astronomy-only PhD appears on the official list (astrophysics is a research area of the physics PhD). No blocked URLs."
+}

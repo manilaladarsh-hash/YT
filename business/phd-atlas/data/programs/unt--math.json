@@ -1,0 +1,48 @@
+{
+  "id": "unt--math",
+  "university": "unt",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=17104",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The fetched catalog gives no mathematics application deadline.",
+      "quote": "",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=17104"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The catalog says the general GRE is strongly recommended but not required.",
+      "quote": "General GRE scores are strongly recommended but not required",
+      "url": "https://catalog.unt.edu/mime/media/view/36/4024/2025-26_UNT_graduate_catalog.pdf"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The catalog recommends the Mathematics Subject GRE.",
+      "quote": "the Math Subject GRE is recommended",
+      "url": "https://catalog.unt.edu/mime/media/view/36/4024/2025-26_UNT_graduate_catalog.pdf"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not state an admission rule for a faculty supervisor.",
+      "quote": "",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=17104"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding rule was on the fetched catalog pages.",
+      "quote": "",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=17104"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students can enter with a bachelor's (72 graduate hours) or a master's (54 hours).",
+      "quote": "The student will be expected to complete at least 72 hours of graduate work in mathematics beyond the bachelor’s degree | Those students admitted with a master’s degree in pure and/or applied mathematics will be expected to complete at least 54 hours of graduate work in mathematics beyond the master’s degree",
+      "url": "https://catalog.unt.edu/preview_program.php?catoid=36&poid=17104"
+    }
+  },
+  "notes": "GRE wording comes from the 2025-26 catalog PDF (mathematics section). The mathematics department page (math.unt.edu) returned 502."
+}

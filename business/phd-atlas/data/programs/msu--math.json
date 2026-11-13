@@ -1,0 +1,62 @@
+{
+  "id": "msu--math",
+  "university": "msu",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://math.msu.edu/graduate/apply.aspx",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "December 1 (2026) to be considered for merit College/University fellowships; departmental deadline is January 20, 2027 for full admission consideration.",
+      "quote": "Applicants who wish to be considered for merit based College and University fellowships must apply by December 1 of the prior year.",
+      "url": "https://math.msu.edu/graduate/apply.aspx",
+      "inferred": "year",
+      "time_sensitive": "2026-12-01",
+      "also": [
+        {
+          "quote": "The Departmental deadline for applications to the PhD programs in mathematics and applied mathematics is January 20 of the desired year of admission.",
+          "url": "https://math.msu.edu/graduate/apply.aspx"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "General GRE scores are required.",
+      "quote": "GRE General Scores are required",
+      "url": "https://math.msu.edu/graduate/apply.aspx"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The Mathematics subject test is strongly recommended but not required.",
+      "quote": "The GRE subject test in mathematics is strongly recommended but not required.",
+      "url": "https://math.msu.edu/graduate/apply.aspx"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Waiver is by enquiry to the Graduate Office; no international criteria published.",
+      "quote": "You may enquire about waiving of the MSU application fee by contacting the Graduate Office",
+      "url": "https://math.msu.edu/graduate/apply.aspx"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://math.msu.edu/graduate/apply.aspx"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All accepted PhD students are offered a five-year teaching assistantship (first-year stipend $21,990).",
+      "quote": "All accepted PhD students will be offered a teaching assistantship for five years of study",
+      "url": "https://math.msu.edu/Graduate/fellowships.aspx"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://math.msu.edu/graduate/apply.aspx"
+    }
+  },
+  "notes": "Fall only, PhD only. University and some other fellowships are for US citizens/permanent residents."
+}

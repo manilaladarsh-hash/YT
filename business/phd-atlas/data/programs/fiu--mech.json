@@ -1,0 +1,49 @@
+{
+  "id": "fiu--mech",
+  "university": "fiu",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical and Materials Engineering",
+  "program_page": "https://cec.fiu.edu/degrees-programs/graduate/phd-in-mechanical-engineering/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "The university's standard PhD deadline for Fall is February 15; the program page does not give its own date.",
+      "quote": "Ph.D. applications & supporting documents | December 1 | February 15 | August 1",
+      "url": "https://admissions.fiu.edu/international/graduate-school/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE is not required for admission.",
+      "quote": "GRE not required for admission",
+      "url": "https://cec.fiu.edu/degrees-programs/graduate/phd-in-mechanical-engineering/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "GRE is not required for admission.",
+      "quote": "GRE not required for admission",
+      "url": "https://cec.fiu.edu/degrees-programs/graduate/phd-in-mechanical-engineering/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by committee; an advisor must be secured within four months of admission.",
+      "quote": "Ph.D. students with a master’s degree are required to select a research area and secure a faculty advisor within four months of admission to the program",
+      "url": "https://cec.fiu.edu/degrees-programs/graduate/phd-in-mechanical-engineering/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding is offered depending on qualifications and performance.",
+      "quote": "Ph.D. applicants may be considered for teaching assistantships, research assistantships and fellowships depending on qualifications and performance",
+      "url": "https://cec.fiu.edu/degrees-programs/graduate/phd-in-mechanical-engineering/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's or master's degree in engineering, physical sciences, computer science or mathematics is accepted.",
+      "quote": "A bachelor’s or master’s degree in engineering, physical sciences, computer science or mathematics",
+      "url": "https://cec.fiu.edu/degrees-programs/graduate/phd-in-mechanical-engineering/"
+    }
+  },
+  "notes": "Catalog lists GRE: No. Program GPA: 3.0 for bachelor's, 3.3 for a completed master's in Mechanical Engineering."
+}

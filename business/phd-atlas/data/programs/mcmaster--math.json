@@ -1,0 +1,62 @@
+{
+  "id": "mcmaster--math",
+  "university": "mcmaster",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics & Statistics",
+  "program_page": "https://math.mcmaster.ca/graduate/application-procedure/",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Submit the complete application by February 1 for full consideration; later applications only if space remains (portal closes April 30). Only a September intake.",
+      "quote": "For full consideration, applications must be submitted with all documentation attached by February 1.",
+      "url": "https://math.mcmaster.ca/graduate/application-procedure/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Typical Deadline February 1",
+          "url": "https://gs.mcmaster.ca/program/mathematics/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department does not require any GRE scores.",
+      "quote": "No, Math & Statistics does not require GRE scores.",
+      "url": "https://math.mcmaster.ca/graduate/application-procedure/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You may apply without one, but the program only admits students a supervisor agrees to sponsor, so contact faculty first.",
+      "quote": "The program only accepts students that a supervisor has agreed to sponsor. | it is strongly recommended that you contact potential supervisors before applying",
+      "url": "https://math.mcmaster.ca/graduate/application-procedure/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "McMaster guarantees every full-time PhD student at least full tuition plus CAD 17,500 a year for the first four years.",
+      "quote": "All full-time Doctoral students who meet the stated criteria under Section 4 shall receive financial support of a minimum of full-time tuition plus $17,500",
+      "url": "https://academiccalendars.romcmaster.ca/content.php?catoid=64&navoid=14575",
+      "also": [
+        {
+          "quote": "the School of Graduate Studies (SGS) sets a minimum level of funding for full-time doctoral studies for the first four years of full-time enrolment",
+          "url": "https://academiccalendars.romcmaster.ca/content.php?catoid=64&navoid=14575"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's in mathematics, statistics or a related discipline is required.",
+      "quote": "Required Credentials Master's degree in Mathematics, Statistics or a related discipline",
+      "url": "https://gs.mcmaster.ca/program/mathematics/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required.",
+      "quote": "No, Math & Statistics does not require GRE scores.",
+      "url": "https://math.mcmaster.ca/graduate/application-procedure/"
+    }
+  },
+  "notes": "",
+  "name": "Mathematics PhD"
+}

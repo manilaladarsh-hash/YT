@@ -1,0 +1,67 @@
+{
+  "id": "fsu--chemistry",
+  "university": "fsu",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry & Biochemistry",
+  "program_page": "https://www.chem.fsu.edu/admissions/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The priority deadline is December 1 and the final deadline February 1, but the page gives no year.",
+      "quote": "December 1st: Priority deadline for admission into the Department of Chemistry & Biochemistry",
+      "url": "https://www.chem.fsu.edu/admissions/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department no longer requires the GRE for domestic or international students.",
+      "quote": "The GRE is no longer required for both domestic or international students",
+      "url": "https://www.chem.fsu.edu/admissions/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department no longer requires the GRE for domestic or international students.",
+      "quote": "The GRE is no longer required for both domestic or international students",
+      "url": "https://www.chem.fsu.edu/admissions/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The department asks for 80 on the IB-TOEFL, an old-scale figure; the Graduate School's current rule is 4.0 on the new scale, so confirm which scale applies.",
+      "quote": "80 on the IB-TOEFL, or 7.0 on the IELTS",
+      "url": "https://www.chem.fsu.edu/admissions/",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Internet based TOEFL (IBTOEFL): 80 (if taken before January 21, 2026) or 4.0 (if taken on or after January 21, 2026)",
+          "url": "https://gradschool.fsu.edu/prospective-students/graduate-admissions/international-admissions"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The department asks for an IELTS overall band of 7.0, above the University's 6.5.",
+      "quote": "80 on the IB-TOEFL, or 7.0 on the IELTS",
+      "url": "https://www.chem.fsu.edu/admissions/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page asks applicants to name faculty of interest but does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.chem.fsu.edu/admissions/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Applicants who complete applications by the priority date are considered for Graduate School fellowships and department TA, RA and tuition-waiver awards.",
+      "quote": "Students with complete applications by this date will be considered for the University’s Graduate School Fellowships",
+      "url": "https://www.chem.fsu.edu/admissions/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The University minimum accepts a bachelor's or a graduate degree; the department page adds no rule.",
+      "quote": "A bachelor's degree from a regionally accredited U.S. institution, or a comparable degree from an international institution | A graduate degree from a regionally accredited U.S. institution, or a comparable degree from an international institution",
+      "url": "https://gradschool.fsu.edu/prospective-students/graduate-admissions"
+    }
+  },
+  "notes": "Final deadline February 1 (no year on the page). Application asks for three faculty of interest."
+}

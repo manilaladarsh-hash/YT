@@ -1,0 +1,51 @@
+{
+  "id": "wmu--math",
+  "university": "wmu",
+  "field": "math",
+  "also_fields": [],
+  "department": "Mathematics",
+  "program_page": "https://wmich.edu/grad/program-doctoral-math/",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Fall entry. February 15 is the date to be considered for a graduate assistantship; later applications are considered only if space remains.",
+      "quote": "For Fall semester, and consideration for a graduate assistantship: February 15.",
+      "url": "https://wmich.edu/grad/program-doctoral-math/",
+      "inferred": "year",
+      "time_sensitive": "2027-02-15"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The mathematics PhD does not require the General GRE.",
+      "quote": "This program does not require the General GRE.",
+      "url": "https://wmich.edu/grad/program-doctoral-math/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The mathematics page checked does not mention a Mathematics Subject GRE.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/program-doctoral-math/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The mathematics page checked does not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/program-doctoral-math/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The mathematics page checked does not say how many students are funded.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/program-doctoral-math/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The mathematics page checked does not say whether a master's degree is needed.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/program-doctoral-math/"
+    }
+  },
+  "notes": "Only the Graduate College program summary was checked; the department's own page was not fetched. Most fields are Not stated for that reason.",
+  "name": "Mathematics (Ph.D.)"
+}

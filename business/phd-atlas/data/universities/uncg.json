@@ -1,0 +1,47 @@
+{
+  "id": "uncg",
+  "institution": "University of North Carolina at Greensboro",
+  "country": "USA",
+  "region": "North Carolina",
+  "grad_page": "https://admissions.uncg.edu/admissions/international-admissions/international-requirements/",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "65 USD",
+      "value": "The Graduate School charges a $65 nonrefundable application processing fee.",
+      "quote": "$65 nonrefundable application processing fee",
+      "url": "https://admissions.uncg.edu/admissions/graduate-admissions/graduate-requirements/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The fee is waived only for a short list of UNCG employees, certain scholarship or program participants, and military; no general international waiver is listed.",
+      "quote": "the application fee is not required for full-time UNCG employees (excludes student employees), McNair Scholars",
+      "url": "https://admissions.uncg.edu/admissions/graduate-admissions/graduate-requirements/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School sets no single GRE rule; each program decides, so see the program records.",
+      "quote": "Official results of GRE scores or other examinations as required by the program to which one applies",
+      "url": "https://admissions.uncg.edu/admissions/graduate-admissions/graduate-requirements/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The page's TOEFL figure reads only '4', which is not a usable minimum, so no score is recorded.",
+      "quote": "TOEFL 4 IBT (Use code 5913)",
+      "url": "https://admissions.uncg.edu/admissions/international-admissions/international-requirements/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Graduate applicants need an IELTS band score of 6.5.",
+      "quote": "IELTS 6.5 Band Score",
+      "url": "https://admissions.uncg.edu/admissions/international-admissions/international-requirements/"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "A degree from a non-US university where English is the primary language of instruction waives the English test. The page does not name India, so check that the degree is taught mainly in English.",
+      "quote": "The applicant is or will be a graduate of a non-U.S. college/university where English is the primary language of instruction",
+      "url": "https://admissions.uncg.edu/admissions/international-admissions/international-requirements/"
+    }
+  },
+  "notes": "Graduate English proficiency scores must be no more than 2 years old at application. Other exemptions include INTERLINK Level 6 and graduates of US regionally accredited universities. Program list taken from the Graduate School program search (grs.uncg.edu/programs). catalog.uncg.edu returned errors and was not used."
+}

@@ -1,0 +1,47 @@
+{
+  "id": "smu",
+  "institution": "Southern Methodist University",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://grad.smu.edu/the-international-applicants-guide-to-a-phd",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The graduate application fee is $75, paid online.",
+      "quote": "$75 application fee (collected online)",
+      "url": "https://grad.smu.edu/the-international-applicants-guide-to-a-phd"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No graduate-school-wide fee waiver was found on the fetched pages. Lyle runs its own waiver (see its programs).",
+      "quote": "",
+      "url": "https://grad.smu.edu/the-international-applicants-guide-to-a-phd"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school says to check department requirements; each program record gives its own GRE rule.",
+      "quote": "Official scores for the Graduate Record Examination (GRE) (check department requirements)",
+      "url": "https://grad.smu.edu/the-international-applicants-guide-to-a-phd"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "TOEFL iBT 80 (old scale), or score level 4 on the new scale from 2026.",
+      "quote": "The minimum TOEFL score for admission is 80/score level 4.",
+      "url": "https://www.smu.edu/moody/prospective-students/international-applicants/dedman-international-students"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic overall 6.5 minimum.",
+      "quote": "The minimum IELTS score is 6.5.",
+      "url": "https://www.smu.edu/moody/prospective-students/international-applicants/dedman-international-students"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "The waiver covers only a U.S. degree or a listed country. India is not on the list, so Indian applicants need a test score even with an English-medium degree.",
+      "quote": "This requirement can only be waived if applicants have either a bachelor’s or master’s degree from a U.S. institution or a qualifying country from the list below",
+      "url": "https://www.smu.edu/moody/prospective-students/international-applicants/dedman-international-students"
+    }
+  },
+  "notes": "Sources: grad.smu.edu international guide; Moody 'International Applicants' pages; Dedman international requirements page (TOEFL, IELTS, waiver list). Lyle School of Engineering runs its own admissions (lyle/apply-now and FAQ): same $75 fee and test minimums, but its own GRE rule (required for PhD) and a fee waiver for applications by October 31, 2026. The Dedman deadlines page carries an 'Update: GRE Requirement' link that points to smu.edu/moody; no matching notice was found, so GRE values for Dedman programs may change. The Dedman Data Science PhD URL listed on the Moody degrees page returns 404; the Statistics and Data Science graduate page was used instead."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ucsb--neuro",
+  "university": "ucsb",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Interdepartmental Graduate Program in Dynamical Neuroscience",
+  "program_page": "https://www.dyns.ucsb.edu/graduate/apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The program says December 1 (year not shown); the Graduate Division directory lists December 2, 2026.",
+      "quote": "Application Deadline December 1",
+      "url": "https://www.dyns.ucsb.edu/graduate/apply",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Wednesday, December 2, 2026",
+          "url": "https://engage.graddiv.ucsb.edu/portal/programs?cmd=prog&code=DYNS-PHD-0"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The program does not currently require GRE scores.",
+      "quote": "DYNS does not currently require GRE exam scores.",
+      "url": "https://www.dyns.ucsb.edu/graduate/apply"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The program does not currently require GRE scores.",
+      "quote": "DYNS does not currently require GRE exam scores.",
+      "url": "https://www.dyns.ucsb.edu/graduate/apply"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly encouraged to contact faculty early and list potential advisors.",
+      "quote": "Applicants are strongly encouraged to contact individual faculty members whose research interests align with their own early in the application process and to list potential advisors on their applications.",
+      "url": "https://www.dyns.ucsb.edu/graduate/apply"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All DYNS doctoral students receive a multiyear funding package on recruitment.",
+      "quote": "All the DYNS doctoral students receive a multiyear funding package upon recruitment.",
+      "url": "https://www.dyns.ucsb.edu/graduate/financial-support"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants come from undergraduate degrees in biology, engineering, computer science, physics and similar fields.",
+      "quote": "includes, but is not limited to under graduate degrees in biology, engineering, computer science, physics",
+      "url": "https://www.dyns.ucsb.edu/graduate/apply"
+    }
+  },
+  "notes": ""
+}

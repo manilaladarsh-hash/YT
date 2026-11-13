@@ -1,0 +1,47 @@
+{
+  "id": "portlandstate",
+  "institution": "Portland State University",
+  "country": "USA",
+  "region": "Oregon",
+  "grad_page": "https://www.pdx.edu/admissions/apply-to-grad-school",
+  "checked": "2026-11-12",
+  "fields": {
+    "app_fee": {
+      "code": "65 USD",
+      "value": "A $65 application fee plus a $2 processing fee, both non-refundable.",
+      "quote": "Submit Your Application and $65 Application Fee | Graduate applicants may be eligible for an application fee waiver of their $65 admission application fee (plus $2 processing fee).",
+      "url": "https://www.pdx.edu/admissions/apply-to-grad-school"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "For international applicants, application fee waivers are only available if the program provides full funding packages (graduate assistantship) and the applicant attends a program information session; Fulbright and Gates Millennium Scholars also qualify.",
+      "quote": "International student eligibility: Application fee waivers are only available to international applicants if the program provides full funding packages, i.e. a graduate assistantship, and the applicant attends an information session offered by the program to which they’re applying.",
+      "url": "https://pdx.edu/admissions/graduate-admission-application-fee-waiver"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School leaves the GRE to each program, so see the program records.",
+      "quote": "Many departments require essays or a statement of purpose, letters of recommendation, standardized test scores, e.g., GRE (not required by all programs)",
+      "url": "https://www.pdx.edu/admissions/apply-to-grad-school"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT minimum of 4.5 overall with 4 in reading and writing for tests taken on or after 21 January 2026 (the older scale required 80).",
+      "quote": "TOEFL: | For exams taken on or after January 21, 2026: | Minimum overall of 4.5 with minimum subscores of 4 in reading and writing.",
+      "url": "https://www.pdx.edu/admissions/international/english-language-proficiency"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic minimum of 6.5 overall, with 6.5 in reading and writing.",
+      "quote": "IELTS: 6.5 overall score with minimum sub-scores of 6.5 in reading and writing",
+      "url": "https://www.pdx.edu/admissions/international/english-language-proficiency"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the list of countries whose degrees waive the English test, so an Indian degree needs a TOEFL, IELTS, PTE or Duolingo score. A degree from a US university would waive it.",
+      "quote": "Completion of a bachelor's, master's or doctoral degree in Australia, English-speaking Canada, Ghana, Ireland, Kenya, New Zealand, Nigeria, South Africa, Uganda, United Kingdom, United States, or Zimbabwe",
+      "url": "https://www.pdx.edu/admissions/international/english-language-proficiency"
+    }
+  },
+  "notes": "Graduate School rules for all PhD applicants. The graduate directory lists 17 doctoral programs (the page text says 21); the Atlas records cover the STEM ones found there. Applied Physics is closed for 2027-28."
+}

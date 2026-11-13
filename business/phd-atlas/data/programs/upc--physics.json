@@ -1,0 +1,43 @@
+{
+  "id": "upc--physics",
+  "university": "upc",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Computational and Applied Physics (Departments of Applied Physics and Physics and Nuclear Engineering)",
+  "program_page": "https://doctorat-fcia.postgrau.upc.edu/en/academic-information/admission-to-the-doctoral-programme",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Applications are accepted throughout the academic year under UPC's general rule; the programme page sets no separate date.",
+      "quote": "As a general rule, you can apply for a doctoral programme throughout the academic year.",
+      "url": "https://doctorat.upc.edu/en/future-doctoral-candidates/access-and-admission/admissions-calendar"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admission depends on a programme teacher being available to supervise the thesis, so a supervisor must be found before admission.",
+      "quote": "Even if the admission requirements are fulfilled, admissions will be subject to the availability of one of the teachers of the doctoral programme to supervise the thesis.",
+      "url": "https://doctorat-fcia.postgrau.upc.edu/en/academic-information/admission-to-the-doctoral-programme"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "UPC predoctoral grants are awarded through annual general calls; the programme pages do not say how many students are funded.",
+      "quote": "General calls of predoctoral grants, financed by state and autonomous public bodies, the UPC, and private foundations.",
+      "url": "https://doctorat.upc.edu/en/future-doctoral-candidates/grants"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants must hold an official Spanish bachelor's degree or equivalent and a master's degree.",
+      "quote": "To be eligible to enter a doctoral programme, a candidate must hold an official Spanish bachelor's degree (or equivalent) and a master's degree.",
+      "url": "https://doctorat-fcia.postgrau.upc.edu/en/academic-information/admission-to-the-doctoral-programme"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on the programme pages.",
+      "quote": "",
+      "url": "https://doctorat-fcia.postgrau.upc.edu/en/academic-information/admission-to-the-doctoral-programme"
+    }
+  },
+  "notes": "Enrolment requires a signed student-supervisor agreement (CDDT) after admission. Grants page lists one example (BE-OPTICAL) and a job opening; no competitive call text on the programme site. Astronomy is not a separate UPC PhD (only a research group is listed), so no astronomy record.",
+  "name": "PhD in Computational and Applied Physics"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "uga--cs",
+  "university": "uga",
+  "field": "cs",
+  "also_fields": [],
+  "department": "School of Computing",
+  "program_page": "https://cs.uga.edu/graduate-degree-programs",
+  "checked": "2026-10-29",
+  "notes": "",
+  "fields": {
+    "deadline": {
+      "code": "2026-10-15",
+      "value": "October 15 deadline for international applicants",
+      "quote": "Graduate Admission Application Deadlines: | Domestic applicants: November 15th International Applicants: October 15th",
+      "url": "https://cs.uga.edu/graduate-degree-programs"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "All applicants are required to submit official GRE scores.",
+      "quote": "All applicants are required to submit official GRE, and official TOEFL or IELTS score results to the University of Georgia, Graduate Admissions office at gradadm@uga.edu.",
+      "url": "https://cs.uga.edu/graduate-degree-programs"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers no Computer Science subject test.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Pre-application supervisor agreement is not stated as required.",
+      "quote": "",
+      "url": "https://cs.uga.edu/graduate-degree-programs"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Accepted doctoral students have priority departmental funding in the form of Teaching or Research Assistantships.",
+      "quote": "*Accepted Doctoral students have priority departmental funding in the form of Teaching or Research Assistantships.",
+      "url": "https://cs.uga.edu/graduate-degree-programs"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Direct admission from four-year bachelor's degree.",
+      "quote": "A four-year bachelor\u2019s degree, a three-year bachelor\u2019s plus a master\u2019s degree, or a three-year bachelor\u2019s plus completion of first year of the master\u2019s program from a recognized institution by the Association of Indian University (AIU) or All India Council for Technical Education (AICTE).",
+      "url": "https://grad.uga.edu/admissions/requirements/international-applications/country-specific-requirements/"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "School of Computing does not provide graduate application fee waivers.",
+      "quote": "NOTE: We DO NOT provide Graduate Application Fee waiver. All applicants are required to pay application fee for admission.",
+      "url": "https://cs.uga.edu/graduate-admissions"
+    }
+  }
+}

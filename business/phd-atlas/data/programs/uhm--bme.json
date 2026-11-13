@@ -1,0 +1,43 @@
+{
+  "id": "uhm--bme",
+  "university": "uhm",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Molecular Biosciences and Bioengineering (MBBE)",
+  "program_page": "https://manoa.hawaii.edu/graduate/molecular-biosciences-and-bioengineering/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-15",
+      "value": "Apply by March 15 for fall.",
+      "quote": "Application deadlines Fall Spring March 15 September 30",
+      "url": "https://manoa.hawaii.edu/graduate/molecular-biosciences-and-bioengineering/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The program page does not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/molecular-biosciences-and-bioengineering/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The program page does not describe funding.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/molecular-biosciences-and-bioengineering/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The program page does not say whether a master's is needed before the PhD.",
+      "quote": "",
+      "url": "https://manoa.hawaii.edu/graduate/molecular-biosciences-and-bioengineering/"
+    }
+  },
+  "notes": "Mapped to bme as a bioengineering PhD; the page does not say biomedical engineering."
+}

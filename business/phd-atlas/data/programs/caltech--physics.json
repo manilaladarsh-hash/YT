@@ -1,0 +1,55 @@
+{
+  "id": "caltech--physics",
+  "university": "caltech",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics (PMA)",
+  "program_page": "https://physics.caltech.edu/academics/graduate-studies/information-for-applicants",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "December 15 (catalog). Year inferred for Fall 2027.",
+      "quote": "The application submission deadline for physics is December 15.",
+      "url": "https://catalog.caltech.edu/current/information-for-graduate-students/special-regulations-for-graduate-options/physics-ph/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Required",
+      "value": "Physics GRE REQUIRED for the Fall 2027 cohort",
+      "quote": "The GRE general test is recommended and the GRE physics subject test is required.",
+      "url": "https://physics.caltech.edu/academics/graduate-studies/information-for-applicants"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by the Physics Graduate Admissions Committee.",
+      "quote": "The Physics Graduate Admissions Committee will review the applications and recommendations for admission are sent to the Graduate Studies Office.",
+      "url": "https://physics.caltech.edu/academics/graduate-studies/information-for-applicants"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All doctoral students have full financial support (fellowships, research or teaching assistantships).",
+      "quote": "all doctoral students have full financial support in the form of internal or external fellowships, research assistantships, teaching assistantships, or some combination of fellowship and assistantship support.",
+      "url": "https://www.gradoffice.caltech.edu/admissions/faq-applicants"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply with a bachelor's degree or equivalent; no master's needed.",
+      "quote": "Applicants must have completed a bachelor's degree or the equivalent before beginning graduate study.",
+      "url": "https://www.gradoffice.caltech.edu/admissions/checklist"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Waivers are requested inside the online application; eligibility rules are not stated on the department page",
+      "quote": "Application fee waivers are also requested and processed through the application process.",
+      "url": "https://physics.caltech.edu/academics/graduate-studies/information-for-applicants"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "Recommended, not required; considered if submitted",
+      "quote": "Important graduate admissions update for applicants to the Fall 2027 cohort: The GRE general test is recommended and the GRE physics subject test is required.",
+      "url": "https://physics.caltech.edu/academics/graduate-studies/information-for-applicants"
+    }
+  },
+  "notes": "Astronomy faculty can supervise physics students and vice versa."
+}

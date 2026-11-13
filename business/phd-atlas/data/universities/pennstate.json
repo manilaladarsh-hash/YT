@@ -1,0 +1,65 @@
+{
+  "id": "pennstate",
+  "institution": "Penn State University (University Park)",
+  "country": "USA",
+  "region": "Pennsylvania",
+  "grad_page": "https://gradschool.psu.edu/admissions/prepare-to-apply",
+  "checked": "2026-10-24",
+  "fields": {
+    "app_fee": {
+      "code": "85 USD",
+      "value": "International applicants pay $85 for a degree-program application (US applicants pay $65).",
+      "quote": "International applicants for degree programs and certificate programs: $85",
+      "url": "https://gradschool.psu.edu/admissions/prepare-to-apply"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Waivers are granted only in certain situations and are requested through the intended graduate program, not the Graduate School.",
+      "quote": "To request an application fee waiver, contact your intended graduate program directly.",
+      "url": "https://gradschool.psu.edu/admissions/prepare-to-apply",
+      "also": [
+        {
+          "quote": "In certain situations, an applicant may be granted a fee waiver.",
+          "url": "https://gradschool.psu.edu/admissions/frequently-asked-questions"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School sets no GRE rule; each program decides, so see the program record.",
+      "quote": "All questions regarding the GRE should be directed to your intended graduate program.",
+      "url": "https://gradschool.psu.edu/admissions/frequently-asked-questions"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT overall 4.5 (new 1-6 scale) with at least 3.5 in speaking; for tests taken before 21 January 2026 the minimum was 80 overall and 19 speaking. Some programs set higher minimums.",
+      "quote": "Test of English as a Foreign Language (TOEFL) iBT: overall score of at least 4.5 with a 3.5 or greater on the speaking section.",
+      "url": "https://gradschool.psu.edu/admissions/prepare-to-apply",
+      "also": [
+        {
+          "quote": "(For tests taken prior to January 21, 2026: overall score of at least 80 with a minimum speaking score of 19)",
+          "url": "https://gradschool.psu.edu/admissions/prepare-to-apply"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic minimum overall band of 6.5.",
+      "quote": "International English Language Testing System (IELTS) Academic Test: minimum overall band score of 6.5",
+      "url": "https://gradschool.psu.edu/admissions/prepare-to-apply"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "The exemption is by country of degree and India is not on the exempt list, so Indian applicants need TOEFL or IELTS even with an English-medium degree.",
+      "quote": "International applicants who have received a baccalaureate or a graduate degree in one of the following countries are exempt from the TOEFL/IELTS requirement:",
+      "url": "https://gradschool.psu.edu/admissions/prepare-to-apply",
+      "also": [
+        {
+          "quote": "Some graduate plans of study may have more stringent requirements.",
+          "url": "https://gradschool.psu.edu/admissions/prepare-to-apply"
+        }
+      ]
+    }
+  },
+  "notes": "Programs set their own deadlines, GRE rules and sometimes stricter English minimums; several department pages still quote the older TOEFL 80/19 iBT scale. Everything goes through the Fox Graduate School application."
+}

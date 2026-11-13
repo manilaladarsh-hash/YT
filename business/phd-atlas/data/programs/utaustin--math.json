@@ -1,0 +1,67 @@
+{
+  "id": "utaustin--math",
+  "university": "utaustin",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://math.utexas.edu/academics/graduate-admissions-how-apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Apply by December 15 (2026 for Fall 2027); the application opens August 1. Fall entry only.",
+      "quote": "The application period opens on August 1 each year. The deadline for applying for Fall admission is December 15.",
+      "url": "https://math.utexas.edu/academics/graduate-admissions-how-apply",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The General GRE is not required and carries much less weight than the Mathematics Subject GRE.",
+      "quote": "GRE scores are not required by UT Austin but the Mathematics GRE is highly recommended (optional).",
+      "url": "https://math.utexas.edu/academics/graduate-admissions-how-apply"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The Mathematics Subject GRE is optional but highly recommended; there is no cut-off and it is one factor in a holistic review.",
+      "quote": "GRE scores are not required by UT Austin but the Mathematics GRE is highly recommended (optional). There is no minimum score required.",
+      "url": "https://math.utexas.edu/academics/graduate-admissions-how-apply"
+    },
+    "toefl_min": {
+      "code": "Sections",
+      "value": "The department quotes a TOEFL score of 21.5 (apparently a section-level score on the 30-point scale, with 23 a plus) rather than a total; the Graduate School minimum of 79 total still applies. Duolingo 135 (145 preferred) is accepted.",
+      "quote": "A TOEFL score of at least 21.5, an overall IELTS band score of 7.5, or a DuoLingo overall score of 135 minimum (though a 145 is preferred) is considered sufficient.",
+      "url": "https://math.utexas.edu/academics/graduate-admissions-how-apply"
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "The department considers an overall IELTS band of 7.5 sufficient (8.0 is a plus); slightly lower scores are sometimes admitted if speaking is strong.",
+      "quote": "an overall IELTS band score of 7.5",
+      "url": "https://math.utexas.edu/academics/graduate-admissions-how-apply"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applications are reviewed by the department's faculty admissions committee; your chosen area of interest only routes your file and does not commit you.",
+      "quote": "The Department’s Graduate Admissions Committee considers the following factors in arriving at its decision concerning the admission of an applicant | The selection does not commit you to specializing in that area.",
+      "url": "https://math.utexas.edu/academics/graduate-admissions-how-apply"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All PhD students making satisfactory progress get five years of support (TA, GRA or fellowship); offers of admission include funding with no separate application.",
+      "quote": "The Mathematics Department provides five years—ten Fall or Spring semesters—of financial support to all Ph.D. students who are making satisfactory progress towards their degrees.",
+      "url": "https://math.utexas.edu/academics/graduate-assistantships-funding",
+      "also": [
+        {
+          "quote": "Our offers of admission come with a package of financial support; no separate application is required.",
+          "url": "https://math.utexas.edu/academics/graduate-admissions-how-apply"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply with a strong undergraduate mathematics record (analysis, algebra, topology); graduate courses help but are not required.",
+      "quote": "Not every successful applicant has had the opportunity to take graduate classes.",
+      "url": "https://math.utexas.edu/academics/graduate-admissions-how-apply"
+    }
+  },
+  "notes": "About 15 admitted from over 400 applicants per year. Applied mathematics applicants can also apply to the Oden Institute CSEM PhD."
+}

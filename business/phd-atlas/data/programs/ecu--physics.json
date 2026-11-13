@@ -1,0 +1,56 @@
+{
+  "id": "ecu--physics",
+  "university": "ecu",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://physics.ecu.edu/graduate-admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "The Fall application deadline is March 1; late applications are screened until places are filled.",
+      "quote": "The application deadline as a new student for the Fall semester is March 1",
+      "url": "https://physics.ecu.edu/graduate-admissions/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The department dropped the general GRE requirement from Fall 2021; submit scores if you have them.",
+      "quote": "Starting Fall 2021, we no longer require general GRE scores for applications",
+      "url": "https://physics.ecu.edu/graduate-programs/",
+      "also": [
+        {
+          "quote": "if scores are available, then we recommend they be submitted with your application",
+          "url": "https://physics.ecu.edu/graduate-programs/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The department does not mention a Physics subject GRE.",
+      "quote": "",
+      "url": "https://physics.ecu.edu/graduate-programs/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department page does not state a supervisor rule.",
+      "quote": "",
+      "url": "https://physics.ecu.edu/graduate-admissions/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department pages do not state funding terms.",
+      "quote": "",
+      "url": "https://physics.ecu.edu/graduate-admissions/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The department pages do not state whether a master's is needed.",
+      "quote": "",
+      "url": "https://physics.ecu.edu/graduate-admissions/"
+    }
+  },
+  "notes": "Single concentration choice at application. Asks for three letters, a personal statement and a CV. The Graduate School handles the application.",
+  "name": "PhD in Biomedical Physics"
+}

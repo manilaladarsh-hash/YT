@@ -1,0 +1,61 @@
+{
+  "id": "rutgers--math",
+  "university": "rutgers",
+  "field": "math",
+  "also_fields": [],
+  "department": "Mathematics",
+  "program_page": "https://www.math.rutgers.edu/academics/graduate-program/admissions-grad/848-ph-d-applying",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Apply by December 15, 2026 for guaranteed full consideration; later applications are accepted but not guaranteed full consideration.",
+      "quote": "Fall 2027 Dec 15, 2026 Dec 15, 2026",
+      "url": "https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?id=a501U0000004gFfQAI",
+      "also": [
+        {
+          "quote": "The official deadline for applications is December 15.",
+          "url": "https://www.math.rutgers.edu/academics/graduate-program/admissions-grad/848-ph-d-applying"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The GRE Mathematics Subject Test is highly recommended and carries substantial weight.",
+      "quote": "The Graduate Record Examination (GRE) Mathematics Subject Test is highly recommended and will carry substantial weight in the admissions decision",
+      "url": "https://www.math.rutgers.edu/academics/graduate-program/admissions-grad/848-ph-d-applying"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE General Test scores are optional.",
+      "quote": "Scores from the Graduate Record Examination (GRE) General Test are optional.",
+      "url": "https://www.math.rutgers.edu/academics/graduate-program/admissions-grad/848-ph-d-applying"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Contacting professors you would like to work with can help if it is a genuine expression of interest, but it is not required.",
+      "quote": "It can be helpful to contact professors with whom you would like to work, so long as this is a genuine expression of interest.",
+      "url": "https://www.math.rutgers.edu/images/documents/graduate/FAQs_Applying_Math_PhD_Program.pdf"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Everyone admitted to the PhD is fully funded, generally assured for five years.",
+      "quote": "All students who are made an offer and admitted to our PhD program are fully funded, generally assured for five years.",
+      "url": "https://www.math.rutgers.edu/images/documents/graduate/FAQs_Applying_Math_PhD_Program.pdf"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "You can apply without a master's degree; most applicants have only a bachelor's.",
+      "quote": "You can apply without a master's degree; most of our applicants have only bachelor's degrees.",
+      "url": "https://www.math.rutgers.edu/images/documents/graduate/FAQs_Applying_Math_PhD_Program.pdf"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "The department says it does not supply application fee waivers to international applicants, only to domestic PhD applicants in exceptional circumstances (department FAQ).",
+      "quote": "We don't supply application fee waivers for international applicants. We only supply waivers to domestic PhD student applicants, and then only in exceptional circumstances.",
+      "url": "https://www.math.rutgers.edu/images/documents/graduate/FAQs_Applying_Math_PhD_Program.pdf",
+      "conflict": true
+    }
+  },
+  "notes": "The department FAQ PDF also says the TOEFL is waived for 3+ years of English-medium study."
+}

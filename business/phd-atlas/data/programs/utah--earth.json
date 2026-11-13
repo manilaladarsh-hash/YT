@@ -1,0 +1,73 @@
+{
+  "id": "utah--earth",
+  "university": "utah",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Geology and Geophysics",
+  "program_page": "https://earth.utah.edu/students/students-graduate/index.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall deadline January 15; most students are admitted for Fall.",
+      "quote": "Fall Semester - January 15th",
+      "url": "https://earth.utah.edu/students/students-graduate/index.php",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Waivers go to students with financial limitations, and only after a faculty advisor agrees to review the application and pay the fee.",
+      "quote": "We offer application fee waivers to students who have financial limitation.",
+      "url": "https://earth.utah.edu/students/students-graduate/index.php",
+      "also": [
+        {
+          "quote": "Once you have communicated with a faculty advisor, they have agreed to review your application, and have confirmed that they will pay the fee, you may email the graduate advisor to request the waiver code",
+          "url": "https://earth.utah.edu/students/students-graduate/index.php"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are no longer required.",
+      "quote": "GRE scores are no longer required.",
+      "url": "https://earth.utah.edu/students/students-graduate/index.php"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "GRE scores are no longer required.",
+      "quote": "GRE scores are no longer required.",
+      "url": "https://earth.utah.edu/students/students-graduate/index.php"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants must name 3 potential advisors and are more likely to be accepted if they have contacted faculty first.",
+      "quote": "Students who have identified and contacted their top faculty choices are more likely to be accepted into a graduate program.",
+      "url": "https://earth.utah.edu/students/students-graduate/index.php",
+      "also": [
+        {
+          "quote": "Prior to submitting an application, identify 3 potential advising faculty in our department.",
+          "url": "https://earth.utah.edu/students/students-graduate/index.php"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Accepted students are fully funded (tuition and mandatory fees covered) through research or teaching assistantships or fellowships; international fees may not be covered.",
+      "quote": "Once accepted into our program, our students are fully funded; meaning their general graduate tuition and mandatory fees are covered.",
+      "url": "https://earth.utah.edu/students/students-graduate/index.php"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A direct-to-PhD route exists with no prerequisites, but most students without a master's start in the master's program and change classification after about a year and a half.",
+      "quote": "There are no prerequisites to apply to our graduate programs.",
+      "url": "https://earth.utah.edu/students/students-graduate/index.php",
+      "also": [
+        {
+          "quote": "Most student who don't have their master's yet and want to do Direct to PhD, don't end up taking this route.",
+          "url": "https://earth.utah.edu/students/students-graduate/index.php"
+        }
+      ]
+    }
+  },
+  "notes": "Covers Geology and Geophysics PhDs; a Geological Engineering PhD is also listed. Fee and English rules are the university's."
+}

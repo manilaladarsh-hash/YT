@@ -1,0 +1,59 @@
+{
+  "id": "gmu",
+  "institution": "George Mason University",
+  "country": "USA",
+  "region": "Virginia",
+  "grad_page": "https://www.gmu.edu/graduate/apply",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "Graduate applicants pay a non-refundable $75 application fee.",
+      "quote": "Applicants to our graduate programs pay a non-refundable $75 application fee.",
+      "url": "https://www.gmu.edu/graduate/apply"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The standard waiver covers Mason faculty and staff and eligible Virginia residents aged 60 or older, so most international applicants pay. A few programs offer their own waivers; see the program records.",
+      "quote": "Full-time George Mason faculty or classified staff and eligible Virginia residents, 60 years or older may be eligible for an application fee waiver",
+      "url": "https://graduate.gmu.edu/studying-here/prospective-students"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Mason sets no university-wide GRE rule; each program states its own in its record.",
+      "quote": "",
+      "url": "https://graduate.gmu.edu/studying-here/prospective-students"
+    },
+    "toefl_min": {
+      "code": "5.0 (new scale)",
+      "value": "Graduate applicants need an overall 5.0 with 4.5 in each section for tests taken from January 21, 2026; older tests need 88 with 20 in each section.",
+      "quote": "Tests taken January 21, 2026 or later: 5.0 and 4.5 each subsection",
+      "url": "https://www.gmu.edu/international/english-language-requirements",
+      "also": [
+        {
+          "quote": "Tests taken before January 21, 2026: 88 and 20 each subsection",
+          "url": "https://www.gmu.edu/international/english-language-requirements"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Graduate applicants need an IELTS Academic overall band of 7.0 with at least 6.5 in each section; College of Engineering and Computing programs accept 6.5.",
+      "quote": "7.0 and 6.5 each subsection",
+      "url": "https://www.gmu.edu/international/english-language-requirements"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on Mason's list of waiver-eligible countries, so an Indian degree does not waive the English test and a score is needed.",
+      "quote": "Graduate or Undergraduate applicants who have completed a bachelor's degree or higher degree from a George Mason-recognized institution in the United States or a waiver-eligible country below",
+      "url": "https://www.gmu.edu/international/english-language-requirements",
+      "also": [
+        {
+          "quote": "Ghana Gibraltar Grenada Guam Guyana Ireland Jamaica",
+          "url": "https://www.gmu.edu/international/english-language-requirements"
+        }
+      ]
+    }
+  },
+  "notes": "Set from gmu.edu and graduate.gmu.edu pages. The College of Engineering and Computing (CEC) uses lower English scores; its programs carry overrides. Mason's GRE policy is set program by program."
+}

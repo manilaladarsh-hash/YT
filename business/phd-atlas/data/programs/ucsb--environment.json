@@ -1,0 +1,48 @@
+{
+  "id": "ucsb--environment",
+  "university": "ucsb",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Bren School of Environmental Science and Management",
+  "program_page": "https://bren.ucsb.edu/phd-environmental-science-and-management/phd-admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-16",
+      "value": "PhD applications are due December 16, 2026.",
+      "quote": "Wednesday, December 16, 2026",
+      "url": "https://engage.graddiv.ucsb.edu/portal/programs?cmd=prog&code=ESM-PHD-0"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The Bren School is not accepting GRE scores this cycle.",
+      "quote": "The Bren School will not be accepting any GRE scores at this time.",
+      "url": "https://bren.ucsb.edu/phd-environmental-science-and-management/phd-admissions"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "The Bren School is not accepting GRE scores this cycle.",
+      "quote": "The Bren School will not be accepting any GRE scores at this time.",
+      "url": "https://bren.ucsb.edu/phd-environmental-science-and-management/phd-admissions"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You must identify a Bren faculty member who agrees to sponsor your admission.",
+      "quote": "identify a faculty member within that research area who agrees to sponsor them for admission to the Bren School",
+      "url": "https://bren.ucsb.edu/phd-environmental-science-and-management/phd-admissions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every PhD student, including international students, is admitted with a funding plan.",
+      "quote": "Every PhD student at the Bren School, including international students, are admitted based on a plan for funding",
+      "url": "https://bren.ucsb.edu/phd-environmental-science-and-management/phd-fellowships-and-employment"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A master's degree is not required for the PhD, though some faculty prefer one.",
+      "quote": "does not require that you have a master’s degree to apply for the PhD program, some faculty prefer that you do",
+      "url": "https://bren.ucsb.edu/phd-environmental-science-and-management/phd-admissions"
+    }
+  },
+  "notes": "UCSB also has a separate PhD in Marine Science (Interdepartmental Graduate Program in Marine Science, igpms.ucsb.edu), not saved as its own record because it falls in the same Atlas field."
+}

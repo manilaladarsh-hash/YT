@@ -1,0 +1,50 @@
+{
+  "id": "iastate--earth",
+  "university": "iastate",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Earth Science graduate programme",
+  "program_page": "https://www.grad-college.iastate.edu/programs/earth_science",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Priority date is December 1; the page gives no year, so the 2026 date is used for Fall 2027 entry.",
+      "quote": "Priority date of December 1",
+      "url": "https://www.grad-college.iastate.edu/programs/earth_science",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The programme does not require the GRE.",
+      "quote": "Program Requires GRE: No",
+      "url": "https://www.grad-college.iastate.edu/programs/earth_science"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The programme does not require the GRE.",
+      "quote": "Program Requires GRE: No",
+      "url": "https://www.grad-college.iastate.edu/programs/earth_science"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The programme page gives no supervisor rule.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/earth_science"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The programme page gives no funding rule.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/earth_science"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The stated admission requirement is a 4 year bachelor's degree (or equivalent); no master's is named.",
+      "quote": "4 year Bachelor’s degree (or equivalent)",
+      "url": "https://www.grad-college.iastate.edu/programs/earth_science"
+    }
+  },
+  "notes": "Geology and Meteorology also have Ph.D. pages (not saved). The programme requires a departmental assessment of coursework qualifications.",
+  "name": "Earth Science"
+}

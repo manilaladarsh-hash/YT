@@ -1,0 +1,85 @@
+{
+  "id": "lehigh--bme",
+  "university": "lehigh",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Bioengineering",
+  "program_page": "https://engineering.lehigh.edu/academics/graduate/phd/phd-bioengineering",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Fall applications for financial aid consideration are due December 15, 2026; international applicants are recommended to apply by June 1 for visa timing.",
+      "quote": "PhD applicants wishing to be considered for financial assistance should submit a complete application no later than December 15",
+      "url": "https://engineering.lehigh.edu/academics/graduate/phd",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Fall - June 1",
+          "url": "https://engineering.lehigh.edu/academics/graduate/admissions"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The application fee is $50 USD.",
+      "quote": "Application fee of $50 USD",
+      "url": "https://engineering.lehigh.edu/academics/graduate/phd"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The GRE is not required or considered for any Rossin College PhD.",
+      "quote": "The GRE is not required or considered for any Rossin College graduate program",
+      "url": "https://engineering.lehigh.edu/academics/graduate/phd"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "The GRE is not required or considered for any Rossin College PhD, so no subject test is used.",
+      "quote": "The GRE is not required or considered for any Rossin College graduate program",
+      "url": "https://engineering.lehigh.edu/academics/graduate/phd"
+    },
+    "toefl_min": {
+      "code": "81",
+      "value": "The Rossin minimum is TOEFL iBT 81 (old scale) or 4 (new scale).",
+      "quote": "TOEFL iBT overall 81 (old scale) or 4 (new scale)",
+      "url": "https://engineering.lehigh.edu/academics/graduate/phd"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The Rossin minimum is IELTS overall 6.5.",
+      "quote": "IELTS overall 6.5",
+      "url": "https://engineering.lehigh.edu/academics/graduate/phd"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "A degree taught in English in India is accepted outright, because India is on the college's list of English-speaking countries.",
+      "quote": "Earned a degree in another English-speaking country (with English as the language of instruction) | Hong Kong, India, Jamaica, Kenya",
+      "url": "https://engineering.lehigh.edu/academics/graduate/admissions/english-proficiency-requirements"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Rossin recommends building a relationship with the department and faculty before applying, but does not require it.",
+      "quote": "In general, we recommend building a relationship with your department of interest and faculty of interest before applying",
+      "url": "https://engineering.lehigh.edu/academics/graduate/admissions",
+      "also": [
+        {
+          "quote": "Contact potential advisors to discuss your research interests and their recruitment needs",
+          "url": "https://engineering.lehigh.edu/academics/graduate/admissions"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every Rossin PhD is fully funded with tuition and a stipend, though sources vary by department.",
+      "quote": "All PhDs at the Rossin College are 100% fully-funded",
+      "url": "https://engineering.lehigh.edu/academics/graduate/phd"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students can enter with a bachelor's (72 credits) or a master's (48 credits beyond it).",
+      "quote": "Lehigh University requires a minimum of 72 graduate credits for a doctoral degree for students entering with a bachelor’s degree | a minimum of 48 graduate credits for students entering with a prior master’s degree from another institution",
+      "url": "https://engineering.lehigh.edu/academics/graduate/phd"
+    }
+  },
+  "notes": "Rossin College program. Fee, GRE, English and funding are the college rules. The department publishes no program-specific stipend figures."
+}

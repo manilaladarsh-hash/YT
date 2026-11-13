@@ -1,0 +1,53 @@
+{
+  "id": "unl",
+  "institution": "University of Nebraska-Lincoln",
+  "country": "USA",
+  "region": "Nebraska",
+  "grad_page": "https://graduate.unl.edu/admissions/international-applicants/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The application fee is $50 for applicants not currently enrolled at UNL; current UNL students pay $25.",
+      "quote": "$50 – All applicants not currently enrolled at UNL",
+      "url": "https://cms.unl.edu/executive-vice-chancellor/graduate-studies/application-requirements-additional-details/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Graduate Studies issues no fee waivers; a department may cover the fee, and you must ask that program.",
+      "quote": "The Office of Graduate Studies does not issue application fee waivers. Departments may elect to cover the cost of the application fee.",
+      "url": "https://cms.unl.edu/executive-vice-chancellor/graduate-studies/application-requirements-additional-details/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate Studies pages checked set no GRE rule; each program sets its own.",
+      "quote": "",
+      "url": "https://graduate.unl.edu/admissions/international-applicants/"
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "For TOEFL tests taken after 21 January 2026 the minimum is 4 on the new scale; older iBT tests needed 79.",
+      "quote": "For tests taken after January 21, 2026, minimum score required: 4.",
+      "url": "https://graduate.unl.edu/english-proficiency/",
+      "also": [
+        {
+          "quote": "For tests taken prior to January 21, 2026, score of at least 79 (iBT).",
+          "url": "https://graduate.unl.edu/english-proficiency/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic needs an overall band of at least 6.5.",
+      "quote": "An overall band score of at least 6.5 on the academic test.",
+      "url": "https://graduate.unl.edu/english-proficiency/"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "A bachelor's or higher degree from an accredited institution taught in English waives the test, so an English-medium Indian degree qualifies; the page does not name India.",
+      "quote": "Exemptions for the English proficiency requirement are granted for non-native speakers who have received a bachelor's or more advanced degree from an accredited institution which English is the official language of instruction.",
+      "url": "https://graduate.unl.edu/english-proficiency/"
+    }
+  },
+  "notes": "Statistics and Earth and Atmospheric Sciences PhD pages say the Board of Regents voted on December 5 to eliminate them, so no record is saved for either. Agricultural PhDs and Architectural Engineering, Biological Engineering, Biochemistry and Complex Biosystems PhDs have no field id here and are not mapped. Engineering school overrides: GRE optional for nearly all engineering programs."
+}

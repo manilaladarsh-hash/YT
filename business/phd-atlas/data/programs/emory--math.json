@@ -1,0 +1,55 @@
+{
+  "id": "emory--math",
+  "university": "emory",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://mathematics.emory.edu/graduate/admissions/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Mathematics PhD applications are due December 15; the page gives no year, so 2026 is inferred for Fall 2027 entry.",
+      "quote": "Applications are due by December 15 for the PhD program",
+      "url": "https://mathematics.emory.edu/graduate/admissions/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The program does not require the GRE General and will consider it only if submitted.",
+      "quote": "The program does not require the submission of the GRE General Test scores.",
+      "url": "https://mathematics.emory.edu/graduate/admissions/index.html"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department does not require the GRE Subject Test.",
+      "quote": "We do not require the GRE Subject Test scores.",
+      "url": "https://mathematics.emory.edu/graduate/admissions/index.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "Non-native English speakers must submit TOEFL scores; no minimum score is given.",
+      "quote": "",
+      "url": "https://mathematics.emory.edu/graduate/admissions/index.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The mathematics pages do not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://mathematics.emory.edu/graduate/admissions/index.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Students admitted to the PhD get full tuition and stipend support.",
+      "quote": "Students admitted to a PhD program are awarded full tuition and stipend support.",
+      "url": "https://mathematics.emory.edu/graduate/grad-info.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The PhD is intended for students with an undergraduate maths degree or equivalent experience.",
+      "quote": "intended for students with an undergraduate mathematics degree or equivalent experience",
+      "url": "https://mathematics.emory.edu/graduate/grad-info.html"
+    }
+  },
+  "notes": "Department page says a TOEFL is needed for non-native speakers, with exceptions for those who lived in English-speaking countries for a significant time."
+}

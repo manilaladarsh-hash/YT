@@ -1,0 +1,52 @@
+{
+  "id": "usu--physics",
+  "university": "usu",
+  "field": "physics",
+  "also_fields": [
+    "astronomy"
+  ],
+  "department": "Department of Physics",
+  "program_page": "https://artsci.usu.edu/physics/students/graduate-application-process",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall applications should be in by January 15, 2027 for full consideration; applications are otherwise accepted on a rolling basis.",
+      "quote": "Applications are accepted on a rolling basis | Fall semester – January 15",
+      "url": "https://www.usu.edu/degrees-majors/physics_ms_phd",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The fetched Physics pages do not mention a Physics Subject GRE.",
+      "quote": "",
+      "url": "https://artsci.usu.edu/physics/students/graduate-application-process"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "A score at or above the 40th percentile on the GRE, MAT or GMAT is required; the GRE General is one of the three accepted tests.",
+      "quote": "Score at or above the 40th percentile on the GRE, MAT, or GMAT",
+      "url": "https://www.usu.edu/degrees-majors/physics_ms_phd"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "PhD students enter on probation and a research advisory committee is formed only after qualification, so no faculty agreement is needed to be admitted.",
+      "quote": "PhD students enter the program on a probationary basis | After qualification a research advisory committee is formed",
+      "url": "https://artsci.usu.edu/physics/students/graduate-program"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All PhD students receive tuition waivers, health insurance and a monthly stipend for work as a TA or RA.",
+      "quote": "All of our PhD students are supported with graduate school tuition waivers, graduate student health insurance, and a monthly stipend",
+      "url": "https://artsci.usu.edu/physics/students/graduate-program"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A PhD can be entered from a bachelor's (60 credit hours of coursework) or after a master's (30 credit hours beyond it).",
+      "quote": "60 credit hour minimum | beyond a bachelors degree | 30 credit hour minimum | beyond a master’s degree",
+      "url": "https://artsci.usu.edu/physics/files/students/phd-handbook.pdf"
+    }
+  },
+  "notes": "Evaluation of applications begins on January 15 for Fall (artsci Physics application page). Application is via applynow.usu.edu plus an introduction email. The PhD candidacy exam is normally taken in the fifth semester. The Physics page says international students have additional requirements but does not state them. The PhD covers astrophysics as one of its research areas, so astronomy is listed as also_fields. Physics page also lists the $55 fee, matching the university record.",
+  "name": "PhD in Physics"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "ksu--chemistry",
+  "university": "ksu",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.k-state.edu/chem/student-success/graduate_students/admissions/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-02",
+      "value": "Chemistry gives January 2 for full consideration of international PhD applications.",
+      "quote": "January 2: For full consideration of international applications",
+      "url": "https://www.k-state.edu/chem/student-success/graduate_students/admissions/",
+      "inferred": "year",
+      "time_sensitive": "2026-11-28",
+      "also": [
+        {
+          "quote": "November 28: For full consideration for the Timothy R. Donoghue Graduate Scholarship",
+          "url": "https://www.k-state.edu/chem/student-success/graduate_students/admissions/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "Chemistry says the GRE is not required.",
+      "quote": "GRE is not required, but your GRE scores may make your application stronger.",
+      "url": "https://www.k-state.edu/chem/student-success/graduate_students/admissions/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The Chemistry page says the GRE is not required, so no Chemistry subject score is needed.",
+      "quote": "GRE is not required, but your GRE scores may make your application stronger.",
+      "url": "https://www.k-state.edu/chem/student-success/graduate_students/admissions/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Chemistry asks for TOEFL iBT (MyBest) 80 or more, with at least 22 in speaking; this is higher than the Graduate School's rule.",
+      "quote": "(≥ 80 for TOEFL (MyBest); ≥ 6.5 for IELTS)",
+      "url": "https://www.k-state.edu/chem/student-success/graduate_students/admissions/",
+      "also": [
+        {
+          "quote": "For TOEFL (MyBest), listening/writing/reading ≥ 20 and speaking ≥ 22",
+          "url": "https://www.k-state.edu/chem/student-success/graduate_students/admissions/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Chemistry asks for IELTS 6.5 overall, with at least 7 in speaking.",
+      "quote": "For IELTS, listening/writing/reading ≥ 6.5 and speaking ≥ 7",
+      "url": "https://www.k-state.edu/chem/student-success/graduate_students/admissions/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to contact a professor, but are not bound to work with that professor.",
+      "quote": "You are encouraged to contact a professor, but this does not mean you must work with the professor.",
+      "url": "https://www.k-state.edu/chem/student-success/graduate_students/admissions/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Chemistry PhD students are supported as teaching or research assistants, with a stipend and tuition covered.",
+      "quote": "Our graduate students are supported as either graduate teaching assistants (GTAs) or graduate research assistants (GRAs).",
+      "url": "https://www.k-state.edu/chem/student-success/graduate_students/admissions/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Domestic students usually enter after a bachelor's; international students may enter after a bachelor's or master's.",
+      "quote": "domestic students typically enter directly after the BS; international students may enter after receiving a BS or MS depending on what is most common for their countries.",
+      "url": "https://www.k-state.edu/chem/student-success/graduate_students/admissions/"
+    }
+  },
+  "notes": "Chemistry page's TOEFL (MyBest) 80 and IELTS speaking 7 are stricter than the Graduate School's table. Nov 28 date is the Donoghue scholarship round."
+}

@@ -22,14 +22,14 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
-from validate_data import PROGRAMS, norm, quote_parts  # noqa: E402
+from validate_data import DATA, norm, quote_parts  # noqa: E402
 
 MANIFEST = ROOT / "data" / "source_manifest.json"
 
 
 def cited_sources():
-    """Yield (program_id, field, url, quote) for every quoted claim."""
-    for f in sorted(PROGRAMS.glob("*.json")):
+    """Yield (record_id, field, url, quote) for every quoted claim in university and program records."""
+    for f in sorted((DATA / "universities").glob("*.json")) + sorted((DATA / "programs").glob("*.json")):
         rec = json.loads(f.read_text())
         for name, fld in rec["fields"].items():
             pairs = [(fld.get("quote", ""), fld.get("url", ""))]
@@ -92,7 +92,7 @@ def report(missing, unreachable):
     lines = [f"# Source watch report: {date.today().isoformat()}", ""]
     if missing:
         lines += [f"**{len(missing)} quoted claims no longer match their source page.** Review these records:", ""]
-        lines += ["| Program | Field | Missing text | Source |", "|---|---|---|---|"]
+        lines += ["| Record | Field | Missing text | Source |", "|---|---|---|---|"]
         for pid, field, url, part in missing:
             lines.append(f"| {pid} | {field} | {part[:70]} | {url} |")
     else:

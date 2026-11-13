@@ -1,0 +1,49 @@
+{
+  "id": "fiu--earth",
+  "university": "fiu",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Earth and Environment",
+  "program_page": "https://case.fiu.edu/earth-environment/students/graduate/phd-in-earth-systems-science/admissions/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Apply by February 1 for Fall entry.",
+      "quote": "Fall: Apply by February 1, 5 p.m. EST",
+      "url": "https://case.fiu.edu/earth-environment/students/graduate/phd-in-earth-systems-science/admissions/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department page says the GRE is not required; the catalog lists a 1120 minimum (conflict noted).",
+      "quote": "GRE: Not Required",
+      "url": "https://case.fiu.edu/earth-environment/students/graduate/phd-in-earth-systems-science/admissions/index.html"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department page says no GRE is required.",
+      "quote": "GRE: Not Required",
+      "url": "https://case.fiu.edu/earth-environment/students/graduate/phd-in-earth-systems-science/admissions/index.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admission requires a faculty sponsor with graduate faculty status, and assistantships need a faculty member to agree to sponsor.",
+      "quote": "Faculty sponsor with graduate faculty status",
+      "url": "https://case.fiu.edu/earth-environment/students/graduate/phd-in-earth-systems-science/admissions/index.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most full-time students are supported by teaching or research assistantships, awarded competitively.",
+      "quote": "Most full-time students in this PhD program are supported with teaching assistantships or research assistantships",
+      "url": "https://case.fiu.edu/earth-environment/students/graduate/phd-in-earth-systems-science/admissions/index.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A 3.0 GPA in the last two undergraduate years or in the master's program is required.",
+      "quote": "GPA: 3.0 in last two years of undergraduate study or in master's program",
+      "url": "https://case.fiu.edu/earth-environment/students/graduate/phd-in-earth-systems-science/admissions/index.html"
+    }
+  },
+  "notes": "Conflict: the 2025-26 catalog says GRE Required (1120 minimum) while the department page says GRE Not Required. Verify before applying. The page does not say the PhD covers environmental science."
+}

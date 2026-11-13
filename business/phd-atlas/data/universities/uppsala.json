@@ -1,0 +1,47 @@
+{
+  "id": "uppsala",
+  "institution": "Uppsala University",
+  "country": "Sweden",
+  "region": "Uppsala",
+  "grad_page": "https://www.uu.se/en/research/phd-studies",
+  "checked": "2026-11-12",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "No application or tuition fee for PhD programmes, whatever your citizenship.",
+      "quote": "Application and tuition fees for PhD students | PhD programmes are free of charge in Sweden, regardless of citizenship.",
+      "url": "https://www.uu.se/en/research/phd-studies"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No fee to waive.",
+      "quote": "Application and tuition fees for PhD students | PhD programmes are free of charge in Sweden, regardless of citizenship.",
+      "url": "https://www.uu.se/en/research/phd-studies"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE General is not required for doctoral studies at Uppsala.",
+      "quote": "completed a degree at the advanced level (Master’s level), or",
+      "url": "https://www.uu.se/en/staff/faculty/science-and-technology/education-and-teaching/doctoral-studies/subjects-and-study-plans/subjects/engineering-sciences-with-specialisation-in-applied-mechanics"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The university asks only for good English skills; no test score is stated. Check each job advertisement.",
+      "quote": "",
+      "url": "https://www.uu.se/en/research/phd-studies"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The university asks only for good English skills; no test score is stated. Check each job advertisement.",
+      "quote": "",
+      "url": "https://www.uu.se/en/research/phd-studies"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The university page requires good English skills but states no India rule or exemption; check each advertisement.",
+      "quote": "possess good English language skills",
+      "url": "https://www.uu.se/en/research/phd-studies"
+    }
+  },
+  "notes": "PhD applicants apply to advertised positions at departments; Faculty of Medicine and Pharmacy sets its own English rules and is not covered here."
+}

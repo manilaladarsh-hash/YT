@@ -1,0 +1,47 @@
+{
+ "id": "wsu",
+ "institution": "Washington State University",
+ "country": "USA",
+ "region": "Washington",
+ "grad_page": "https://gradschool.wsu.edu/apply/",
+ "checked": "2026-10-30",
+ "notes": "Public land-grant research university in Pullman, Washington. Ph.D. programs across engineering, computing, physical and life sciences, and agriculture.",
+ "fields": {
+  "app_fee": {
+   "code": "100 USD",
+   "value": "Non-refundable $100 application fee for graduate degree applications.",
+   "quote": "$100 Non-refundable Application Fee*",
+   "url": "https://gradschool.wsu.edu/apply/"
+  },
+  "fee_waiver": {
+   "code": "Limited",
+   "value": "Fee waivers available from Graduate School for McNair Scholars and WSU REU students; other requests handled by target departments.",
+   "quote": "*McNair Scholars and WSU Research Experience for Undergraduates (REU) students are eligible for an application fee waiver from the Graduate School. Please contact Dr. Raymond Herrera before applying. All other application fee waiver requests should be directed to the program(s) to which you are applying.",
+   "url": "https://gradschool.wsu.edu/apply/"
+  },
+  "gre_general": {
+   "code": "Not stated",
+   "value": "Graduate School sets no central GRE requirement; requirements vary by degree program.",
+   "quote": "Please check with your specific Degree Program to determine whether a GRE test is required.",
+   "url": "https://gradschool.wsu.edu/international-requirements/"
+  },
+  "toefl_min": {
+   "code": "75",
+   "value": "Minimum score of 75 on TOEFL iBT (or 4 on new scale effective Jan 21, 2026).",
+   "quote": "Exam TOEFL Essentials TOEFL (PBT) TOEFL (iBT) New TOEFL (iBT) (Effective Jan 21, 2026) IELTS Duolingo Cambridge B2 First, C1 Advanced, C2 Proficiency Michigan English Test (MET) Pearson Test for English (PTEA) International Test of English Proficiency (iTEP) Minimum Score 8 540 75 4 6.5 105 176 52 56 4.5",
+   "url": "https://gradschool.wsu.edu/international-requirements/"
+  },
+  "ielts_min": {
+   "code": "6.5",
+   "value": "Minimum score of 6.5 on IELTS Academic.",
+   "quote": "Exam TOEFL Essentials TOEFL (PBT) TOEFL (iBT) New TOEFL (iBT) (Effective Jan 21, 2026) IELTS Duolingo Cambridge B2 First, C1 Advanced, C2 Proficiency Michigan English Test (MET) Pearson Test for English (PTEA) International Test of English Proficiency (iTEP) Minimum Score 8 540 75 4 6.5 105 176 52 56 4.5",
+   "url": "https://gradschool.wsu.edu/international-requirements/"
+  },
+  "english_waiver": {
+   "code": "Conditional",
+   "value": "Waiver granted for applicants who earned a degree where the language of instruction was English with official letter or transcript notation.",
+   "quote": "Hold a baccalaureate-level or higher degree from a college or university outside the United States where the language of instruction was English (provide an official letter or transcript from the school stating English was the language of instruction).",
+   "url": "https://gradschool.wsu.edu/international-requirements/"
+  }
+ }
+}

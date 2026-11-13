@@ -1,0 +1,55 @@
+{
+  "id": "unlv--neuro",
+  "university": "unlv",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Neuroscience PhD (Interdisciplinary Programs)",
+  "program_page": "https://www.unlv.edu/degree/phd-neuroscience",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The neuroscience PhD takes applications by December 1, 2026.",
+      "quote": "Neuroscience (Ph.D.) Dec. 1",
+      "url": "https://www.unlv.edu/admissions/graduate/application-deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The Dec 2024 Graduate College table lists the GRE as optional for the neuroscience PhD.",
+      "quote": "Neuroscience Ph.D. Optional GRE",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2024-12/Grad-Programs-Standardized-Tests%20FINAL%20(1).pdf"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The program page does not mention a Psychology GRE subject test.",
+      "quote": "",
+      "url": "https://www.unlv.edu/degree/phd-neuroscience"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The handbook describes a mentor model after entry but does not say a mentor must agree before admission.",
+      "quote": "The Neuroscience Ph.D. Program operates on a mentor model.",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2026-01/2025-26-PhD-Neuroscience-Handbook.pdf"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most admitted students are offered graduate assistantships, subject to available funds; these are competitive.",
+      "quote": "most students accepted into the Neuroscience Ph.D. Program will be offered Graduate Assistantships",
+      "url": "https://www.unlv.edu/sites/default/files/media/document/2026-01/2025-26-PhD-Neuroscience-Handbook.pdf"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Two tracks: post-bachelor's and post-master's.",
+      "quote": "Post-Bachelor's Track",
+      "url": "https://www.unlv.edu/degree/phd-neuroscience",
+      "also": [
+        {
+          "quote": "Post-Master's Track",
+          "url": "https://www.unlv.edu/degree/phd-neuroscience"
+        }
+      ]
+    }
+  },
+  "notes": "Admission criteria (GPA, letters, tests) are in the graduate catalog, which the program page and handbook refer to; the catalog page did not load, so those fields are Not stated. The program fee ($60 domestic / $95 international) matches the Graduate College rule and is not overridden. The Psychological and Brain Sciences PhD is a psychology program and is not saved here."
+}

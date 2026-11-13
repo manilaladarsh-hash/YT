@@ -1,0 +1,47 @@
+{
+  "id": "utk",
+  "institution": "University of Tennessee, Knoxville",
+  "country": "USA",
+  "region": "Tennessee",
+  "grad_page": "https://gradschool.utk.edu/admissions/",
+  "checked": "2026-10-30",
+  "notes": "Application fee is $60 for prospective graduate students.",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "Application fee of $60 nonrefundable fee for prospective graduate students.",
+      "quote": "Graduate Application Fee $60 nonrefundable fee due for prospective graduate students with each first-time admissions application.",
+      "url": "https://onestop.utk.edu/tuition-detail/"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "Non-refundable application fee required before individual can become a graduate student; central waiver not available.",
+      "quote": "A non-refundable Graduate Admissions Application Fee must be submitted with each first-time admissions application before an individual will be permitted to become a University of Tennessee graduate student or attend classes and before an individual student account will be established.",
+      "url": "https://catalog.utk.edu/content.php?catoid=57&navoid=12403"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Standardized testing such as GRE or GMAT depends on the specific program.",
+      "quote": "The program to which you are applying may require test scores such as the GRE or the GMAT. Please check with your desired program to see if they require any standardized test scores.",
+      "url": "https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/admission-requirements/testing-requirements/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Minimum TOEFL score of 80 with at least 20 on speaking and writing (or 4.5 on scale after Jan 22, 2026).",
+      "quote": "Minimum TOEFL score requirement: For exams taken prior to January 21, 2026, an overall score of 80 with at least 20 on speaking and writing is required. For exams taken on or after January 22, 2026, an overall score of 4.5 with at least a 4 on speaking and writing is required.",
+      "url": "https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/admission-requirements/testing-requirements/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS score of 6.5 overall with no single band below 6.0.",
+      "quote": "Minimum IELTS score requirement: An overall bandwidth of 6.5, with no single band (score) below 6.0 is required.",
+      "url": "https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/admission-requirements/testing-requirements/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exempt if English is an official language in applicant's country of citizenship.",
+      "quote": "An applicant may be exempted from the English Certification requirement if: English is an official language in the applicant\u2019s country of citizenship, according to standards published by the Graduate School",
+      "url": "https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/admission-requirements/testing-requirements/"
+    }
+  }
+}

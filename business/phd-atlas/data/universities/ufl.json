@@ -1,0 +1,47 @@
+{
+  "id": "ufl",
+  "institution": "University of Florida",
+  "country": "USA",
+  "region": "Florida",
+  "grad_page": "https://gradcatalog.ufl.edu/graduate/admission/",
+  "checked": "2026-10-29",
+  "notes": "",
+  "fields": {
+    "app_fee": {
+      "code": "30 USD",
+      "value": "Non-refundable $30 application fee for graduate admission.",
+      "quote": "A completed application and non-refundable $30 application fee",
+      "url": "https://gradcatalog.ufl.edu/graduate/admission/"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The application fee is required and non-refundable; no general fee waivers are offered.",
+      "quote": "The non-refundable application fee is $30. The application fee cannot be waived.",
+      "url": "https://math.ufl.edu/graduate-studies-in-mathematics/admission/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Central graduate admissions does not set a single campus-wide GRE requirement; examinations are required only when specified by the academic unit.",
+      "quote": "Academic examinations (e.g., GRE, GMAT) are required only when specified by the academic unit.",
+      "url": "https://gradcatalog.ufl.edu/graduate/admission/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "University minimum TOEFL score is 80 on the Internet-based test (iBT).",
+      "quote": "TOEFL (Test of English as a Foreign Language): 80 (iBT)",
+      "url": "https://gradcatalog.ufl.edu/graduate/admission/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "University minimum IELTS score is 6.5.",
+      "quote": "IELTS (International English Language Testing System): 6.5 minimum",
+      "url": "https://gradcatalog.ufl.edu/graduate/admission/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Applicants who completed degrees at institutions where English is the language of instruction may be considered for an exemption at the discretion of the academic unit.",
+      "quote": "Applicants from select countries where English is an official language (https://admissions.ufl.edu/apply/graduate/international) or who have completed degrees at institutions where English is the language of instruction may be considered for an exemption (listed below) at the discretion of the academic unit.",
+      "url": "https://gradcatalog.ufl.edu/graduate/admission/"
+    }
+  }
+}

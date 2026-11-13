@@ -1,0 +1,55 @@
+{
+  "id": "miami--civil",
+  "university": "miami",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil and Architectural Engineering",
+  "program_page": "https://bulletin.miami.edu/graduate-academic-programs/engineering/civil-architectural-environmental-engineering/civil-engineering-phd/",
+  "checked": "2026-11-12",
+  "fields": {
+    "app_fee": {
+      "code": "85 USD",
+      "value": "The College's application fee is $85.00 USD, non-refundable.",
+      "quote": "A non-refundable application fee of $85.00 USD",
+      "url": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html"
+    },
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The College's priority deadline for fall 2027 entry is December 1, 2026; later applications are reviewed on a space-available basis.",
+      "quote": "Fall 2027 - Priority deadline - December 1",
+      "url": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The Civil and Architectural Engineering 2023 brochure says GRE scores are required for PhD applications, which differs from the College page.",
+      "quote": "GRE scores are required for applications to the PhD program",
+      "url": "https://cae.coe.miami.edu/_assets/pdf/cae-graduate-degree-programs-2023.pdf"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly encouraged to contact faculty before applying, but admission does not require a supervisor.",
+      "quote": "Potential applicants are strongly encouraged to contact faculty experts in their field of expertise",
+      "url": "https://www.coe.miami.edu/academics/programs/doctorate-programs/index.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "The CAE 2023 brochure says teaching and research assistantships with full tuition and stipend are awarded on a competitive basis.",
+      "quote": "and full stipend, are available on a competitive basis for",
+      "url": "https://cae.coe.miami.edu/_assets/pdf/cae-graduate-degree-programs-2023.pdf"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Students without a prior M.S. degree may enter directly and complete a minimum of 72 graduate-level credits beyond the B.S. degree.",
+      "quote": "For students who do not have an earned M.S. (in either civil or architectural engineering, or a closely-related field), a minimum of 72 graduate-level credits (with an average of \"B\" or better and no grade below \"C\") are required beyond the B.S. degree.",
+      "url": "https://bulletin.miami.edu/graduate-academic-programs/engineering/civil-architectural-environmental-engineering/civil-engineering-phd/"
+    }
+  },
+  "notes": "College of Engineering PhD rules (one page for all six departments). The college admits PhD students only for fall. The college international page (grad.miami.edu) sets the English test rules, so no English override. Department PhD pages were not fetched separately. CONFLICT: the CAE 2023 brochure says the GRE is required; the College page says not required. Verify with CAE before publishing. Industrial Engineering also offers a PhD, but it has no field id."
+}

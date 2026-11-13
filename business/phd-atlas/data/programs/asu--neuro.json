@@ -1,0 +1,56 @@
+{
+  "id": "asu--neuro",
+  "university": "asu",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "School of Life Sciences",
+  "program_page": "https://sols.asu.edu/admission/graduate/faq",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-15",
+      "value": "Apply by November 15, 2026 for fall 2027 (fall entry only listed).",
+      "quote": "Neuroscience PhD Tempe Fall A/C Nov. 15",
+      "url": "https://sols.asu.edu/admission/graduate/deadlines",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE is not required for SOLS graduate programs; you may send scores if you have them.",
+      "quote": "GRE scores are not required for all SOLS graduate programs. However, if you have taken the test and would like to send your scores",
+      "url": "https://sols.asu.edu/admission/graduate/faq"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE (general or subject) is required by SOLS.",
+      "quote": "GRE scores are not required for all SOLS graduate programs.",
+      "url": "https://sols.asu.edu/admission/graduate/faq"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "SOLS cannot waive the fee, but a prospective faculty advisor may pay it for you.",
+      "quote": "The SOLS Graduate Office does not have the ability to waive the application fee, but instead, a faculty member may pay for the application fee on your behalf.",
+      "url": "https://sols.asu.edu/admission/graduate/faq"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Not required, but contacting potential advisors first is highly recommended to find who is recruiting.",
+      "quote": "For thesis-based programs: although it is not required, it is highly recommended to contact potential faculty advisors in advance to find out who is actively recruiting to take on new students.",
+      "url": "https://sols.asu.edu/admission/graduate/faq"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD students are guaranteed five years of funding (assistantship stipend, tuition and health insurance); program fees are extra.",
+      "quote": "PhD students are guaranteed five years of funding (i.e., stipends for assistantships, tuition coverage, health insurance coverage).",
+      "url": "https://sols.asu.edu/admission/graduate/faq"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply directly to the PhD with a bachelor's or a master's.",
+      "quote": "You can apply directly into the PhD program with a bachelor’s or a master’s degree, and all accepted applicants enter as PhD pre-candidates.",
+      "url": "https://sols.asu.edu/admission/graduate/faq"
+    }
+  },
+  "notes": "Listed among SOLS doctoral programs; same SOLS-wide FAQ rules apply.",
+  "name": "Neuroscience PhD"
+}

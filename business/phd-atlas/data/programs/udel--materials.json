@@ -1,0 +1,61 @@
+{
+  "id": "udel--materials",
+  "university": "udel",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Department of Materials Science and Engineering",
+  "program_page": "https://mseg.udel.edu/students/graduate/admission-requirements-information/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Priority deadline is December 15; applications are considered until March.",
+      "quote": "December 15: Priority consideration (Ph.D.)",
+      "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/programs/materials-science-engineering/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "While the priority deadline ensures prompt review, all applications will be continually considered up until the March deadline",
+          "url": "https://mseg.udel.edu/students/graduate/admission-requirements-information/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The MSE Department does not require GRE scores.",
+      "quote": "The MSE Department does not require GRE scores",
+      "url": "https://mseg.udel.edu/students/graduate/admission-requirements-information/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The MSE Department does not require GRE scores.",
+      "quote": "The MSE Department does not require GRE scores",
+      "url": "https://mseg.udel.edu/students/graduate/admission-requirements-information/"
+    },
+    "fee_waiver": {
+      "code": "Available",
+      "value": "Submit without paying and the fee is waived for admitted candidates.",
+      "quote": "the application fee for admitted candidates will be waived",
+      "url": "https://mseg.udel.edu/students/graduate/admission-requirements-information/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "PhD applicants are typically admitted with full support.",
+      "quote": "PhD applicants are typically admitted with full support (competitive stipend, tuition, and health benefits)",
+      "url": "https://mseg.udel.edu/students/graduate/admission-requirements-information/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need a bachelor's degree in science, engineering or mathematics.",
+      "quote": "must have a bachelor’s degree in the sciences, engineering, or mathematics fields from an accredited institution",
+      "url": "https://mseg.udel.edu/students/graduate/admission-requirements-information/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department pages do not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://mseg.udel.edu/students/graduate/admission-requirements-information/"
+    }
+  },
+  "notes": "Typical applicants have a GPA of 3.2 or above. Admission review follows the December 15 priority date."
+}

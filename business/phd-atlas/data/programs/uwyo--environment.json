@@ -1,0 +1,44 @@
+{
+  "id": "uwyo--environment",
+  "university": "uwyo",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Program in Ecology and Evolution",
+  "program_page": "https://uwyo.catalog.acalog.com/preview_program.php?catoid=19&poid=20503",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "The priority deadline for students entering in the fall is March 1.",
+      "quote": "The priority deadline for students entering in the fall is March 1.",
+      "url": "https://uwyo.catalog.acalog.com/preview_entity.php?catoid=19&ent_oid=3180",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Agreement by a member of the PiE2 faculty to sponsor or co-sponsor the student is required for admission.",
+      "quote": "Agreement by a member of the PiE2 faculty to sponsor the student, or to co-sponsor the student together with a PiE2 affiliate",
+      "url": "https://uwyo.catalog.acalog.com/preview_program.php?catoid=19&poid=20503"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Many graduate programs offer assistantships, which provide tuition benefits and stipends to eligible students.",
+      "quote": "Graduate Assistantships: Many graduate programs offer assistantships, which provide tuition benefits and stipends to eligible students.",
+      "url": "https://uwyo.catalog.acalog.com/content.php?catoid=19&navoid=2018"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Requirements for entry into a doctoral program are determined by departmental faculty; in some cases students enter directly following a bachelor's degree.",
+      "quote": "Students wishing to pursue direct entry into a doctoral program following their bachelor’s degree | The requirements for entry into a doctoral program are determined by the departmental faculty. In some cases, students may enter",
+      "url": "https://uwyo.catalog.acalog.com/content.php?catoid=19&navoid=2054"
+    }
+  },
+  "notes": "",
+  "name": "Ecology and Evolution"
+}

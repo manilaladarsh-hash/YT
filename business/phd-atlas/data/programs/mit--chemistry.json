@@ -1,0 +1,80 @@
+{
+  "id": "mit--chemistry",
+  "university": "mit",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://oge.mit.edu/programs/chemistry/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026, 11:59 PM US Eastern (application opens September 15). OGE fee-waiver requests are due November 18, 2026.",
+      "quote": "Deadline: December 1 at 11:59 PM Eastern Time",
+      "url": "https://oge.mit.edu/programs/chemistry/",
+      "inferred": "year",
+      "time_sensitive": "2026-11-18",
+      "also": [
+        {
+          "quote": "The deadline to request a fee waiver from OGE is November 18, 2026.",
+          "url": "https://chemistry.mit.edu/academic-programs/graduate-programs/faqs/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "Chemistry does not accept GRE scores (General or Chemistry Subject).",
+      "quote": "Graduate Record Examination (GRE) is not required nor accepted for admission.",
+      "url": "https://oge.mit.edu/programs/chemistry/"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "The Chemistry GRE Subject test is not accepted or considered.",
+      "quote": "the MIT Department of Chemistry does not accept GRE scores for applications. All applications will be given full consideration without reference to GRE scores, this includes both the general test and Chemistry subject test scores.",
+      "url": "https://chemistry.mit.edu/academic-programs/graduate-programs/faqs/"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "TOEFL iBT 100 (or 5 on the new 1–6 band scale).",
+      "quote": "Minimum score required: 100 (iBT) or 5 (iBT26)",
+      "url": "https://oge.mit.edu/programs/chemistry/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic 7.0 overall.",
+      "quote": "International English Language Testing System (IELTS) Minimum score required: 7",
+      "url": "https://oge.mit.edu/programs/chemistry/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Chemistry grants no English-test waivers, so Indian applicants must submit TOEFL or IELTS even with an English-medium degree.",
+      "quote": "The Department of Chemistry does not grant English Language Proficiency test waivers.",
+      "url": "https://oge.mit.edu/programs/chemistry/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by the department; you may contact faculty but need not. Name three faculty you would like to work with in your Statement of Objectives.",
+      "quote": "You are welcome to contact our faculty directly if you would like, however many of our faculty are very busy and may not have time to respond to all inquiries from applicants.",
+      "url": "https://chemistry.mit.edu/academic-programs/graduate-programs/faqs/",
+      "also": [
+        {
+          "quote": "Please mention in your Statement of Objectives the names of three specific faculty members with whom you would like to work.",
+          "url": "https://oge.mit.edu/programs/chemistry/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted PhD students get full tuition and a monthly stipend in year 1; funding continues for the whole PhD while in good standing, subject to availability of funds.",
+      "quote": "All students admitted to the PhD program receive full tuition coverage along with a monthly stipend for the first academic year | After the first year, continued funding is provided for the duration of the PhD program, subject to the availability of funds for that purpose, as long as students remain in good academic standing.",
+      "url": "https://chemistry.mit.edu/academic-programs/graduate-programs/faqs/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is the only educational requirement; there is no separate MS programme.",
+      "quote": "The only educational requirement for our program is that students must have received a Bachelors degree prior to the start of our program.",
+      "url": "https://chemistry.mit.edu/academic-programs/graduate-programs/faqs/"
+    }
+  },
+  "notes": "PhD only (no MS). Test scores must be verified by February 1, 2027. Chemistry also participates in the Program in Polymers and Soft Matter."
+}

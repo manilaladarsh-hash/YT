@@ -1,0 +1,53 @@
+{
+  "id": "fiu",
+  "institution": "Florida International University",
+  "country": "USA",
+  "region": "Florida",
+  "grad_page": "https://admissions.fiu.edu/international/graduate-school/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "30 USD",
+      "value": "The application fee is $30 U.S., non-refundable, for all graduate applicants.",
+      "quote": "There is a non-refundable application fee of $30 U.S. dollars.",
+      "url": "https://admissions.fiu.edu/international/graduate-school/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The Graduate School may waive the $30 fee for applicants in financial need, usually on FAFSA-based criteria. The page does not say whether international applicants qualify.",
+      "quote": "Applicants demonstrating financial need may have the application fee of $30 USD waived by the Graduate School",
+      "url": "https://case.fiu.edu/psychology/students/graduate/phd-in-cognitive-neuroscience/admissions/index.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school sets no single rule; GRE requirements are set by each program, so see the program records.",
+      "quote": "Some graduate programs at FIU require the GRE exam or even the GMAT.",
+      "url": "https://admissions.fiu.edu/international/graduate-school/"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "A TOEFL iBT score of 4.5 on the new scale is the minimum for tests taken from January 21, 2026.",
+      "quote": "TOEFL iBT/PBT:4.5 on the iBT TOEFL",
+      "url": "https://admissions.fiu.edu/international/graduate-school/english-language-proficiency/",
+      "also": [
+        {
+          "quote": "for tests taken prior to this date, the required minimum score is 80 on the iBT",
+          "url": "https://admissions.fiu.edu/international/graduate-school/english-language-proficiency/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic minimum is 6.5 overall.",
+      "quote": "IELTS: 6.5 | Duolingo English Test: 110",
+      "url": "https://admissions.fiu.edu/international/graduate-school/english-language-proficiency/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on FIU's list of English-proficiency exempt countries, so Indian applicants need a test score. The page does not mention English-medium degrees.",
+      "quote": "English Proficiency Exempt Countries | Antigua and Barbuda ... Zimbabwe",
+      "url": "https://admissions.fiu.edu/international/graduate-school/english-language-proficiency/"
+    }
+  },
+  "notes": "Fee waiver: the Graduate School waives the $30 fee for financial need (FAFSA-based, per the Psychology page); no international-specific waiver was found. TOEFL: 4.5 on the new scale from 21 Jan 2026, 80 before. Some doctoral programs set higher English minimums (see program records)."
+}

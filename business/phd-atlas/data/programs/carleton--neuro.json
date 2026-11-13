@@ -1,0 +1,43 @@
+{
+  "id": "carleton--neuro",
+  "university": "carleton",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Department of Neuroscience",
+  "program_page": "https://graduate.carleton.ca/program/neuroscience-doctoral-programs/",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Apply by February 1; later applications are considered but funding is not guaranteed.",
+      "quote": "The deadline for applications for both programs is February 1st. | Applications received after February 1st will be considered, although funding is not guaranteed after this date",
+      "url": "https://carleton.ca/neuroscience/graduate-programs/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://graduate.carleton.ca/program/neuroscience-doctoral-programs/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "You must discuss supervision with at least one researcher before applying (applications without this are unlikely to be considered), and are strongly encouraged to secure a supervisor.",
+      "quote": "Prior to submitting an application, you must discuss potential supervision with at least one researcher. | Applicants are strongly encouraged to secure a supervisor prior to applying.",
+      "url": "https://carleton.ca/neuroscience/graduate-programs/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "You are automatically considered for funding (TA, research stipend, scholarships) when you apply; any offer comes with the admission letter, with no guaranteed amount stated.",
+      "quote": "When submitting an application for admission to Carleton, students are automatically considered for funding and if eligible, will be notified in the Offer of Admission and Funding.",
+      "url": "https://graduate.carleton.ca/financial-assistance/admissions-funding/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "An MSc is usually required.",
+      "quote": "An M.Sc. from an appropriate university is usually required for entry to the Ph.D. program.",
+      "url": "https://calendar.carleton.ca/grad/gradprograms/neuroscience/"
+    }
+  },
+  "notes": "No winter admission."
+}

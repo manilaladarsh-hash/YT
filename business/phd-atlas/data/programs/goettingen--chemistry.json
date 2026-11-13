@@ -1,0 +1,54 @@
+{
+  "id": "goettingen--chemistry",
+  "university": "goettingen",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Faculty of Chemistry (Promotionsstudiengang Chemie)",
+  "program_page": "https://www.uni-goettingen.de/de/659322.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The chemistry programme page gives no application deadline.",
+      "quote": "",
+      "url": "https://www.uni-goettingen.de/de/659322.html"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field: ETS discontinued the GRE Chemistry Test in May 2023.",
+      "quote": "The GRE Chemistry Test was discontinued in May 2023.",
+      "url": "https://www.ets.org/gre/test-takers/subject-tests/scores.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Before admission you need confirmation of supervision from a supervisor in the doctoral programme in chemistry for the doctoral project.",
+      "quote": "Confirmation of supervision by a supervisor in the doctoral programme in chemistry for the doctoral project",
+      "url": "https://www.uni-goettingen.de/en/659322.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "University-wide, the research group or department usually funds doctoral students by contract or scholarship; this is not a guarantee for every applicant.",
+      "quote": "Usually, the research group or department provides funding to their doctoral students in the form of either an employment contract or a scholarship",
+      "url": "https://www.uni-goettingen.de/en/fees+and+funding/442369.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "You need a relevant consecutive Master's and at least four years of total study.",
+      "quote": "Fachlich einschlägiger konsekutiver Master-Studiengang (mind. 1 Jahr Regelstudienzeit) und eine Gesamtstudiendauer von mindestens 4 Jahren",
+      "url": "https://www.uni-goettingen.de/de/659322.html"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "English is not tested if your bachelor's was taught in English; an English-medium bachelor's from India therefore meets the English rule.",
+      "quote": "If your native language or the language of your Bachelor's degree programme is not English , you must prove sufficient knowledge of the English language at the level C1 GER",
+      "url": "https://www.uni-goettingen.de/en/659322.html",
+      "also": [
+        {
+          "quote": "If your native language or the language of your Bachelor's programme is not German , you must prove sufficient knowledge of the German language at the level DSH-2 or comparable",
+          "url": "https://www.uni-goettingen.de/en/659322.html"
+        }
+      ]
+    }
+  },
+  "notes": "Applicants whose bachelor's was not taught in German must also prove German at DSH-2 (quoted under english_waiver). This is stricter than the English rule for Indian applicants. Funding quote is the university-wide statement. The Catalysis for Sustainable Synthesis (CaSuS) thematic programme is not saved separately."
+}

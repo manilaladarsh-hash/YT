@@ -1,0 +1,50 @@
+{
+  "id": "colostate--biology",
+  "university": "colostate",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://www.biology.colostate.edu/apply-to-biology-graduate-program/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Materials in by January 1 for full consideration for fall admission. No year is given, so the 2026/27 cycle is used.",
+      "quote": "For full consideration for fall admission, please have your application materials in by January 1st.",
+      "url": "https://www.biology.colostate.edu/apply-to-biology-graduate-program/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department says GRE scores are not required for admission.",
+      "quote": "GRE scores are NOT required for admission to our graduate programs.",
+      "url": "https://www.biology.colostate.edu/apply-to-biology-graduate-program/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE Subject test is required, since GRE scores are not required.",
+      "quote": "GRE scores are NOT required for admission to our graduate programs.",
+      "url": "https://www.biology.colostate.edu/apply-to-biology-graduate-program/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admission requires a faculty sponsor who agrees to be your advisor, so contact faculty before applying.",
+      "quote": "Admission to the MS and PhD Programs requires a faculty sponsor who will agree to serve as your graduate advisor.",
+      "url": "https://www.biology.colostate.edu/apply-to-biology-graduate-program/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page mentions fellowships held by students but gives no funding rule for admitted PhD students.",
+      "quote": "",
+      "url": "https://www.biology.colostate.edu/apply-to-biology-graduate-program/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not state the degree needed before a PhD.",
+      "quote": "",
+      "url": "https://www.biology.colostate.edu/apply-to-biology-graduate-program/"
+    }
+  },
+  "notes": "Cell and Molecular Biology (Ph.D.), a separate university-wide PhD, is not saved (one record per field). Its published dates are December 2, 2026 (Channel 1 and international Channel 2) and January 15, 2027 (US Channel 2), and it says all incoming students are supported. Department states its own GRE rule; the Graduate School's English rules apply.",
+  "name": "Biological Science (Ph.D.)"
+}

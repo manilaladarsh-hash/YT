@@ -1,0 +1,47 @@
+{
+  "id": "uark",
+  "institution": "University of Arkansas",
+  "country": "USA",
+  "region": "Arkansas",
+  "grad_page": "https://graduate-students.uark.edu/admissions/",
+  "checked": "2026-10-29",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The application fee is $75 for all new international graduate applicants.",
+      "quote": "The application fee is $75 for all new international graduate applicants.",
+      "url": "https://graduate-students.uark.edu/admissions/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Application fee waivers are granted to individuals who are U of A summer REU participants or full-time employees.",
+      "quote": "An application fee waiver will be granted to individuals that qualify under these | circumstances: | Full-time employees at the U of A main campus | U of A summer REU program participants",
+      "url": "https://graduate-students.uark.edu/admissions/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School does not require standardized test scores; requirements are set by individual programs.",
+      "quote": "The University of Arkansas Graduate School does not require a standardized test score | (GRE, GMAT or other graduate-level standardized test) for official admission to the | university. However, individual programs may require a standardized test score.",
+      "url": "https://graduate-students.uark.edu/admissions/"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "The Graduate School requires a minimum TOEFL iBT score of 4.0.",
+      "quote": "4.0 on the Internet-based Test of English as a Foreign Language (TOEFL)",
+      "url": "https://catalog.uark.edu/graduatecatalog/admissions/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The Graduate School requires a minimum IELTS Academic score of 6.5.",
+      "quote": "6.5 on the International English Language Testing System Academic (IELTS)",
+      "url": "https://catalog.uark.edu/graduatecatalog/admissions/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Degrees from non-native English countries do not automatically waive the English requirement; waivers require an appeal to the Academic Appeals Committee.",
+      "quote": "unless they have received a bachelor's or graduate degree from an accredited U.S. college or university or receive a waiver of the English Language proficiency requirement by the Graduate Council Academic Appeals Committee by demonstrating an acceptable level of language proficiency as defined in the Graduate School Handbook located on the Graduate School website.",
+      "url": "https://catalog.uark.edu/graduatecatalog/admissions/"
+    }
+  },
+  "notes": ""
+}

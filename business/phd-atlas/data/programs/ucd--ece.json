@@ -1,0 +1,42 @@
+{
+  "id": "ucd--ece",
+  "university": "ucd",
+  "field": "ece",
+  "also_fields": [],
+  "department": "UCD School of Electrical and Electronic Engineering",
+  "program_page": "https://www.ucd.ie/eleceng/research/researchvacancies/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The School's PhD pages give no closing date.",
+      "quote": "",
+      "url": "https://www.ucd.ie/eleceng/research/researchvacancies/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The School pages checked do not say whether a supervisor must agree before applying.",
+      "quote": "",
+      "url": "https://www.ucd.ie/eleceng/research/researchvacancies/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The School lists funded PhD positions, but the pages checked do not describe a competition or typical funding.",
+      "quote": "",
+      "url": "https://www.ucd.ie/eleceng/research/researchvacancies/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the School of Electrical and Electronic Engineering or course catalogue pages.",
+      "quote": "",
+      "url": "https://www.ucd.ie/eleceng/research/researchvacancies/"
+    }
+  },
+  "notes": "The course catalogue pages are official but the other UCD course catalogue pages were not fetched. Other fields were checked on the School's research vacancies page."
+}

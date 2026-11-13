@@ -1,0 +1,55 @@
+{
+  "id": "iastate--physics",
+  "university": "iastate",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics and Astronomy",
+  "program_page": "https://www.grad-college.iastate.edu/programs/physics",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall admission deadline is January 15; the page gives no year, so 2027 is inferred.",
+      "quote": "January 15th for fall admission",
+      "url": "https://www.grad-college.iastate.edu/programs/physics",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE General and Subject Tests are optional for the PhD.",
+      "quote": "GRE General and Subject Tests are optional",
+      "url": "https://www.grad-college.iastate.edu/programs/physics"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Physics subject GRE is optional.",
+      "quote": "GRE General and Subject Tests are optional",
+      "url": "https://www.grad-college.iastate.edu/programs/physics"
+    },
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "The Physics PhD programme states there is no application fee.",
+      "quote": "No application fee for the PhD program.",
+      "url": "https://www.grad-college.iastate.edu/programs/physics"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The programme page names faculty contacts but does not say a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/physics"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The programme page gives no funding rule; the Graduate College says assistantships typically come with a stipend, which is not a statement that most students are funded.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/physics"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The stated admission requirement is a 4-year bachelor's degree (or equivalent); no master's is named.",
+      "quote": "4-year bachelor’s degree (or equivalent)",
+      "url": "https://www.grad-college.iastate.edu/programs/physics"
+    }
+  },
+  "notes": "Source: Graduate College Physics programme page (physics.iastate.edu refused by the proxy). Other Ph.D. pages on the same list, not saved (one record per field): Applied Physics, Condensed Matter Physics, High Energy Physics, Nuclear Physics, Biophysics; Astrophysics is saved as the astronomy record. TOEFL and IELTS match the Graduate College minimums, so they are inherited."
+}

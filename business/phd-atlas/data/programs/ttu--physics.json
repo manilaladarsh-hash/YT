@@ -1,0 +1,56 @@
+{
+  "id": "ttu--physics",
+  "university": "ttu",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics and Astronomy",
+  "program_page": "https://www.depts.ttu.edu/phas/academics/graduate/admission-requirements.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Fall applications are due by February 1; the Graduate School admits on a rolling basis and late applications are considered if funding remains.",
+      "quote": "Deadline for Fall Admission: February 1",
+      "url": "https://www.depts.ttu.edu/phas/academics/graduate/application-procedure.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The department says GRE scores are not required and submitting them is optional.",
+      "quote": "At this time GRE scores are not required for applications to graduate programs at Texas Tech. Submitting GRE scores remains optional.",
+      "url": "https://www.depts.ttu.edu/phas/academics/graduate/admission-requirements.php"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The GRE Physics Subject Test is optional; provisional admission is possible before it is taken.",
+      "quote": "At this time GRE scores are not required for applications to graduate programs at Texas Tech. Submitting GRE scores remains optional.",
+      "url": "https://www.depts.ttu.edu/phas/academics/graduate/admission-requirements.php"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The physics department asks international applicants for a TOEFL score of 79 or higher, on the old iBT scale.",
+      "quote": "Scored 79 or higher on the TOEFL if an international student",
+      "url": "https://www.depts.ttu.edu/phas/academics/graduate/admission-requirements.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department pages do not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.depts.ttu.edu/phas/academics/graduate/admission-requirements.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The application page does not describe how many admitted students are funded.",
+      "quote": "",
+      "url": "https://www.depts.ttu.edu/phas/academics/graduate/application-procedure.php"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The admission page lists GRE, transcripts and letters but does not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://www.depts.ttu.edu/phas/academics/graduate/admission-requirements.php"
+    }
+  },
+  "notes": "Astronomy has no separate PhD in the Graduate School list (only Physics, Ph.D. under Physics and Astronomy).",
+  "name": "Physics, Ph.D."
+}

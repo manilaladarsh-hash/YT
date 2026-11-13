@@ -1,0 +1,71 @@
+{
+  "id": "upenn--biology",
+  "university": "upenn",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology (Biology Graduate Group)",
+  "program_page": "https://www.bio.upenn.edu/graduate",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-08",
+      "value": "Applications close December 8, 2026 at 11:59 pm EST; interviews on Zoom in late January.",
+      "quote": "December 8, 2026 - applications and accompanying requirements can be submitted until 11:59 pm EST.",
+      "url": "https://www.bio.upenn.edu/graduate/application-information",
+      "time_sensitive": "2026-11-24"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The Biology Graduate Group does not require or accept GRE scores.",
+      "quote": "The Biology Graduate Group does not require or accept GRE scores.",
+      "url": "https://www.bio.upenn.edu/graduate/application-information/application-process"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "GRE scores of any kind are not accepted.",
+      "quote": "The Biology Graduate Group does not require or accept GRE scores.",
+      "url": "https://www.bio.upenn.edu/graduate/application-information/application-process"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "TOEFL, IELTS or TSE is required, but one page waives it for colleges where English is the language of instruction while the FAQ says the institution's primary language must be English; confirm with the department for an Indian English-medium degree. No minimum score is set.",
+      "quote": "International candidates who attend a college or university where English is the language of instruction do not need to submit a language score.",
+      "url": "https://www.bio.upenn.edu/graduate/application-information/application-process",
+      "also": [
+        {
+          "quote": "Requirement can be waived for candidates who graduate with a Bachelor's degree from an institution whose primary language is English.",
+          "url": "https://www.bio.upenn.edu/graduate/faq"
+        },
+        {
+          "quote": "Therefore, we do not have a cut-off score for admissions.",
+          "url": "https://www.bio.upenn.edu/graduate/faq"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "You apply to the graduate group and do lab rotations in year 1, but you are strongly encouraged to contact faculty before applying.",
+      "quote": "We strongly encourage prospective students to contact faculty with whom they may be interested in working, to determine whether the lab is accepting new students",
+      "url": "https://www.bio.upenn.edu/graduate/application-information",
+      "also": [
+        {
+          "quote": "Students undertake lab rotations in their first year to gain experience with different research approaches",
+          "url": "https://www.bio.upenn.edu/graduate/faq"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted students are fully funded for at least five years, subject to satisfactory performance (2026-27 stipend $49,000).",
+      "quote": "Students are fully funded for a minimum of five years dependent upon satisfactory academic performance.",
+      "url": "https://www.bio.upenn.edu/graduate/application-information/admissions-information"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages do not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://www.bio.upenn.edu/graduate/application-information"
+    }
+  },
+  "notes": "The Biology department cannot award fee waivers itself; requests go to the SAS Graduate Division."
+}

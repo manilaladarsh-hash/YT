@@ -1,4 +1,4 @@
-"""Scenario model for the Physics PhD Atlas. Every number here is an ASSUMPTION
+"""Scenario model for the STEM PhD Atlas. Every number here is an ASSUMPTION
 except Gumroad's published fees, checked 2026-10-21:
   - 10% + $0.50 per direct sale, plus card processing 2.9% + $0.30 (gumroad.com/help/article/66-gumroads-fees)
   - 30% flat on Discover marketplace sales, processing included (same page)

@@ -1,0 +1,43 @@
+{
+  "id": "purdue--math",
+  "university": "purdue",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/mathematics/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "International applicants apply by December 1, 2026 for fall entry; there is no spring or summer entry.",
+      "quote": "International December 1 No Entry No Entry",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/mathematics/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/mathematics/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/mathematics/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages that could be fetched.",
+      "quote": "",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/mathematics/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The department admits to the PhD rather than the MS (MS admission is by exception only) and encourages MS-minded applicants to apply to the PhD.",
+      "quote": "Admission into the Master of Science (MS) program is by exception only. | We encourage those considering our MS program to consider applying to our PhD program instead.",
+      "url": "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/mathematics/"
+    }
+  },
+  "notes": "The mathematics department website (math.purdue.edu) could not be fetched (TLS failure), so GRE and funding are Not stated."
+}

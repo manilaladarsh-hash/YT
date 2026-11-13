@@ -1,0 +1,47 @@
+{
+  "id": "brandeis",
+  "institution": "Brandeis University",
+  "country": "USA",
+  "region": "Massachusetts",
+  "grad_page": "https://www.brandeis.edu/graduate-admissions/apply/index.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The online application fee is $75 for PhD applicants unless they qualify for a waiver.",
+      "quote": "The online application fee is $75. This fee is required for all applicants unless you are eligible for an application fee waiver.",
+      "url": "https://www.brandeis.edu/graduate-admissions/apply/phd.html"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The fee is waived for people who attend an admissions event, hold a fee waiver code, or belong to listed organizations such as Peace Corps or Teach for America. The page does not say international applicants can get a waiver otherwise.",
+      "quote": "candidates who attend an admissions event | receive a fee waiver code",
+      "url": "https://www.brandeis.edu/graduate-admissions/apply/fees-waivers.html"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional for most PhD programs; Computer Science and the biochemistry, molecular and cell biology and neuroscience programs set their own rules.",
+      "quote": "Submission of GRE scores is optional for most programs (exceptions below).",
+      "url": "https://www.brandeis.edu/graduate-admissions/apply/phd.html"
+    },
+    "toefl_min": {
+      "code": "5.0 (new scale)",
+      "value": "Brandeis recommends a TOEFL iBT score of at least 5.0 on the new scale, which equals 100 on the old scale.",
+      "quote": "We recommend a TOEFL iBT score of at least 5.0",
+      "url": "https://www.brandeis.edu/graduate-admissions/apply/international.html"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Brandeis asks international applicants for an IELTS score of at least 7.0.",
+      "quote": "IELTS score of at least 7.0.",
+      "url": "https://www.brandeis.edu/graduate-admissions/apply/international.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "An English-medium Indian bachelor's counts only if it had at least three full-time years of study with English as the only language of instruction, shown on the institution's website, transcript or mark sheets; otherwise a test is needed.",
+      "quote": "Completed an on-campus bachelor’s degree with at least three full-time academic years of study where English was the ONLY language of instruction. | English as the language of instruction should be indicated on the institution’s website, transcript and/or mark sheets.",
+      "url": "https://www.brandeis.edu/graduate-admissions/apply/international.html"
+    }
+  },
+  "notes": "Official PhD list (doctorate filter): STEM PhDs are Chemistry, Computer Science, Mathematics, Physics, Molecular and Cell Biology, Biochemistry and Biophysics, Neuroscience. No PhD in astronomy, statistics, materials, data science, environment, earth science or engineering. Psychology PhD and Heller Social Policy PhD are not Atlas fields. The Physics department page (http://www.brandeis.edu/departments/physics/graduate/newInnerPage.html) returned 403. The $55 application fee in a provisional bulletin conflicts with the $75 on the official pages and was not used."
+}

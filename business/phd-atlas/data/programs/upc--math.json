@@ -1,0 +1,49 @@
+{
+  "id": "upc--math",
+  "university": "upc",
+  "field": "math",
+  "also_fields": [],
+  "department": "Applied Mathematics (School of Mathematics and Statistics, FME)",
+  "program_page": "https://appliedmathematics.postgrau.upc.edu/en/admission/admission",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Applications are accepted throughout the academic year under UPC's general rule; the programme page sets no separate date.",
+      "quote": "As a general rule, you can apply for a doctoral programme throughout the academic year.",
+      "url": "https://doctorat.upc.edu/en/future-doctoral-candidates/access-and-admission/admissions-calendar"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "The Academic Committee decides admission on the CV, record and statement of interest, and assigns the thesis director after admission.",
+      "quote": "The final assignment of the Thesis Director must be made by the Academic Committee of the program after the admission of the doctoral candidate.",
+      "url": "https://appliedmathematics.postgrau.upc.edu/en/admission/admission"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Admission does not come with a grant; UPC predoctoral grants are awarded through annual general calls.",
+      "quote": "The admission in the PhD program does not imply any grant.",
+      "url": "https://appliedmathematics.postgrau.upc.edu/en/admission/admission",
+      "also": [
+        {
+          "quote": "General calls of predoctoral grants, financed by state and autonomous public bodies, the UPC, and private foundations.",
+          "url": "https://doctorat.upc.edu/en/future-doctoral-candidates/grants"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants normally hold a master's degree or are in the final year of one.",
+      "quote": "Holders of a master's degree, or students in the last year of studies of a master's degree, can apply for admission.",
+      "url": "https://appliedmathematics.postgrau.upc.edu/en/admission/admission"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE Subject test is mentioned on the programme pages.",
+      "quote": "",
+      "url": "https://appliedmathematics.postgrau.upc.edu/en/admission/admission"
+    }
+  },
+  "notes": "Applicants submit the application form with CV, degree transcripts and statement of interest; a foreign degree needs an equivalence to the Spanish system. No English rule is stated on the programme admission page.",
+  "name": "Applied Mathematics doctoral programme"
+}

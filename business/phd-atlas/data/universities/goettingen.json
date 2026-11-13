@@ -1,0 +1,53 @@
+{
+  "id": "goettingen",
+  "institution": "University of Göttingen",
+  "country": "Germany",
+  "region": "Lower Saxony",
+  "grad_page": "https://www.uni-goettingen.de/en/132114.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "Doctoral applicants are exempt from the only application-related fee found on the official pages (the evaluation fee for non-EU applicants).",
+      "quote": "You are exempt from the evaluation fee, if you are either: applying to a doctoral programme",
+      "url": "https://www.uni-goettingen.de/en/47096.html"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No application fee is charged to doctoral applicants, so no waiver applies.",
+      "quote": "You are exempt from the evaluation fee, if you are either: applying to a doctoral programme",
+      "url": "https://www.uni-goettingen.de/en/47096.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The doctoral regulations and programme pages fetched do not mention the GRE.",
+      "quote": "",
+      "url": "https://www.uni-goettingen.de/en/132114.html"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Doctoral applicants need an internet-based TOEFL score of at least 80, which must be no more than two years old.",
+      "quote": "at least 80 points in the “New internet-based TOEFL - Test of English as a Foreign Language”",
+      "url": "https://www.uni-goettingen.de/en/132114.html",
+      "also": [
+        {
+          "quote": "Successful completion of the test must not date back more than two years prior to lodging the application for admission to doctoral studies",
+          "url": "https://www.uni-goettingen.de/en/132114.html"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Doctoral applicants need an IELTS Academic overall score of 7 or higher.",
+      "quote": "\"International English Language Testing System\" (IELTS) level 7 or higher",
+      "url": "https://www.uni-goettingen.de/en/132114.html"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "Applicants who completed a degree programme taught in English are exempt from the English test; the page does not name India, so the English-medium degree must meet this rule.",
+      "quote": "candidates who have completed a degree programme in English, are exempt from providing evidence of having taken a test",
+      "url": "https://www.uni-goettingen.de/en/132114.html"
+    }
+  },
+  "notes": "The doctoral admission regulation (section 5) sets the English rules for every doctoral candidate. The Göttingen 'Internationally recognised tests' page is for an M.A. programme and was not used. Tuition is fully subsidised, and a semester fee of about 300 EUR applies (Fees and Funding page)."
+}

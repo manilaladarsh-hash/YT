@@ -1,0 +1,91 @@
+{
+  "id": "utah--chemistry",
+  "university": "utah",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.chemistry.utah.edu/application-information/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Priority deadline December 1; later applications reviewed on a rolling basis until February 1.",
+      "quote": "For priority consideration, completed applications should be received by December 1.",
+      "url": "https://www.chemistry.utah.edu/application-information/",
+      "inferred": "year"
+    },
+    "app_fee": {
+      "code": "65 USD",
+      "value": "USD 65 for international applicants; the department reimburses it if you are admitted.",
+      "quote": "The application fee for the Chemistry PhD is $55 for Domestic applicants and $65 for International applicants.",
+      "url": "https://www.chemistry.utah.edu/application-information/",
+      "also": [
+        {
+          "quote": "Upon your admittance into our program we will reimburse this cost.",
+          "url": "https://www.chemistry.utah.edu/application-information/"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "No fee waiver for international applicants before applying; the fee is reimbursed only after admission.",
+      "quote": "International application fee waiver is NOT available prior to applying.",
+      "url": "https://www.chemistry.utah.edu/application-information/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not needed.",
+      "quote": "No, GRE scores are not needed when applying.",
+      "url": "https://www.chemistry.utah.edu/application-information/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "GRE scores, including the subject test, are not needed.",
+      "quote": "No, GRE scores are not needed when applying.",
+      "url": "https://www.chemistry.utah.edu/application-information/"
+    },
+    "toefl_min": {
+      "code": "105",
+      "value": "Department asks for TOEFL iBT 105 (higher than the university minimum); Duolingo 135.",
+      "quote": "TOEFL minimum score requirement – 105",
+      "url": "https://www.chemistry.utah.edu/application-information/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Department asks for IELTS 7 overall (higher than the university minimum).",
+      "quote": "IELTS minimum score requirement – 7",
+      "url": "https://www.chemistry.utah.edu/application-information/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "An English-medium degree from India does not waive the test; only degrees from Australia, Canada (except Quebec), New Zealand, Puerto Rico or the UK do.",
+      "quote": "if country is not listed above and mode of instruction was in English, YOU ARE STILL REQUIRED TO PROVIDE OFFICIAL SCORES",
+      "url": "https://www.chemistry.utah.edu/application-information/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No need to find an advisor before applying, but research interests should match the department.",
+      "quote": "Do I need to find a research advisor before applying? | No, however, your research interests should align with our research offerings.",
+      "url": "https://www.chemistry.utah.edu/application-information/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department page does not describe stipend or funding for PhD students.",
+      "quote": "",
+      "url": "https://www.chemistry.utah.edu/application-information/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A recognized four-year degree is enough; the department admits PhD students only.",
+      "quote": "Graduation with a recognized four-year degree",
+      "url": "https://www.chemistry.utah.edu/application-information/",
+      "also": [
+        {
+          "quote": "No, accepting applications for prospective PhD students ONLY",
+          "url": "https://www.chemistry.utah.edu/application-information/"
+        }
+      ]
+    }
+  },
+  "notes": "Dates are shown without a year; the 2026/27 cycle is assumed."
+}

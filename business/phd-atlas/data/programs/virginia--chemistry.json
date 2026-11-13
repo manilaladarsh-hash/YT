@@ -1,0 +1,49 @@
+{
+  "id": "virginia--chemistry",
+  "university": "virginia",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry (Graduate School of Arts and Sciences)",
+  "program_page": "https://chemistry.as.virginia.edu/applying-phd-program",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "PhD applications are due December 1; the GSAS portal opens October 1.",
+      "quote": "The deadline for PhD Applications is December 1.",
+      "url": "https://chemistry.as.virginia.edu/applying-phd-program",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The General GRE is not considered.",
+      "quote": "No, the Chemistry Graduate Admissions committee will not consider scores from the General GRE exam.",
+      "url": "https://chemistry.as.virginia.edu/applying-phd-program"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The Graduate School requires GRE scores only from a few programs, and Chemistry is not one of them.",
+      "quote": "Applicants to all other programs are not required to submit GRE scores.",
+      "url": "https://graduate.as.virginia.edu/requirements"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You apply to the program, not to a lab; you may list up to three faculty of interest but are not bound by them.",
+      "quote": "applicants apply to the Graduate Chemistry Program, not to a particular lab",
+      "url": "https://chemistry.as.virginia.edu/applying-phd-program"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Doctoral students get at least five years of support, including a 12-month stipend of $37,260 and tuition remission.",
+      "quote": "The Graduate School offers doctoral students a minimum of five years of financial support upon admission, including twelve-month living support of $37,260",
+      "url": "https://graduate.as.virginia.edu/graduate-student-financial-support"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants with a bachelor's in chemistry, biochemistry or an allied discipline are considered; a master's is not mentioned as required.",
+      "quote": "In addition to applicants with bachelor degrees in chemistry or biochemistry, candidates with degrees in allied disciplines",
+      "url": "https://chemistry.as.virginia.edu/applying-phd-program"
+    }
+  },
+  "notes": "Dept confirms TOEFL 90 / IELTS 7.0 each section and $85 fee, same as the Graduate School; dept cannot give fee waivers itself."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "mcgill--math",
+  "university": "mcgill",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Department of Mathematics and Statistics",
+  "program_page": "https://www.mcgill.ca/mathstat/graduate/prospective-students/admissions",
+  "checked": "2026-10-23",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "January 15 for full consideration for admission and funding (Fall 2027, international and Canadian).",
+      "quote": "The Departmental deadlines for full consideration for Departmental admission and funding are: | September (Fall Term): January 15th (International and Canadian Applicants)",
+      "url": "https://www.mcgill.ca/mathstat/graduate/prospective-students/admissions",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "Not required, but pure and applied mathematics applicants without a Canadian degree are encouraged to send GRE Mathematics Subject scores; statistics applicants need not.",
+      "quote": "Applicants in pure and applied mathematics, who do not hold a previous Canadian degree preparing them for graduate study in these areas, are encouraged to submit GRE mathematics subject examination scores, if available. However GRE scores are not a departmental admissions requirement.",
+      "url": "https://www.mcgill.ca/mathstat/graduate/prospective-students/admissions"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The admissions page asks you to name preferred research groups in your statement but does not say a supervisor's agreement is needed.",
+      "quote": "",
+      "url": "https://www.mcgill.ca/mathstat/graduate/prospective-students/admissions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted students receive guaranteed funding (not counting TA work).",
+      "quote": "Students admitted to the program receive funding",
+      "url": "https://www.mcgill.ca/gradapplicants/program/mathematics-statistics-phd",
+      "also": [
+        {
+          "quote": "Guaranteed Funding (Approx.) Does NOT include Teaching Assistantships",
+          "url": "https://www.mcgill.ca/mathstat/graduate/feesfunding"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's with high standing is required; exceptionally strong bachelor's graduates may be admitted directly to PhD 1.",
+      "quote": "For Ph.D. students: A Master's degree with high standing is required",
+      "url": "https://www.mcgill.ca/mathstat/graduate/prospective-students/admissions",
+      "also": [
+        {
+          "quote": "Students without a master's degree, but with exceptionally strong undergraduate training, may be admitted directly to Ph.D. 1.",
+          "url": "https://coursecatalogue.mcgill.ca/en/graduate/science/mathematics-statistics/"
+        }
+      ]
+    }
+  },
+  "notes": "",
+  "name": "PhD in Mathematics and Statistics"
+}

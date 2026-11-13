@@ -1,0 +1,53 @@
+{
+  "id": "vcu",
+  "institution": "Virginia Commonwealth University",
+  "country": "USA",
+  "region": "Virginia",
+  "grad_page": "https://admissions.vcu.edu/apply-to-vcu/international/graduate/",
+  "checked": "2026-11-12",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "All international graduate applications require a state-mandated non-refundable $75 application fee.",
+      "quote": "A $75 state-required application fee must accompany all applications. The application fee is nonrefundable and must be submitted online using a credit card.",
+      "url": "https://admissions.vcu.edu/apply-to-vcu/international/graduate/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "A $75 application fee waiver is available to eligible applicants through the RAM Opportunity Program upon request prior to submission.",
+      "quote": "$75 Application Fee Waiver: Granted to all eligible applicants upon request prior to application submission.",
+      "url": "https://graduate.vcu.edu/prospective-students/ram-opportunity/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School does not set a campus-wide standardized testing requirement; each program specifies whether GRE scores are required.",
+      "quote": "Entrance examinations. Submission of standardized graduate-level test scores (fewer than five years old) may be required by the individual program/department. Note: Not all programs require standardized test scores.",
+      "url": "https://bulletin.vcu.edu/graduate/study/admission-graduate-study/admission-requirements/"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "The minimum TOEFL iBT score is 4.5 for tests taken on or after January 21, 2026 (80 for earlier tests).",
+      "quote": "TOEFL iBT (exam taken on or after January 21, 2026) | Minimum score of 4.5",
+      "url": "https://admissions.vcu.edu/apply-to-vcu/international/graduate/",
+      "also": [
+        {
+          "quote": "TOEFL iBT (exam taken on or before January 20, 2026) | Minimum score of 80",
+          "url": "https://admissions.vcu.edu/apply-to-vcu/international/graduate/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The minimum required IELTS band score is 6.5.",
+      "quote": "International English Language Testing System (IELTS) | Minimum score of 6.5",
+      "url": "https://admissions.vcu.edu/apply-to-vcu/international/graduate/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Degrees from designated English-speaking countries are exempt from the English test; degrees from India are not exempt.",
+      "quote": "Applicants may be exempted from an English proficiency test if they meet any of the following criteria. | A bachelor's or higher degree from a university or college in one of the following countries: | Antigua, Anguilla, Australia, Bahamas, Barbados, Belize, Bermuda, British Virgin Islands, Canada (except Quebec), Cayman Islands, Dominica, Fiji, Ghana, Grenada, Guyana, Republic of Ireland, Jamaica, Kenya, Malawi, New Zealand, Nigeria, Seychelles, Singapore, South Africa, St. Kitts and Nevis, St. Lucia, Tobago, Trinidad, United Kingdom, US Virgin Islands, USA, Zimbabwe.",
+      "url": "https://admissions.vcu.edu/apply-to-vcu/international/graduate/"
+    }
+  },
+  "notes": "Application fee $75, RAM Opportunity fee waivers, TOEFL 4.5 (new scale) / 80, IELTS 6.5. GRE is program-specific."
+}

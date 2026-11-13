@@ -1,0 +1,55 @@
+{
+  "id": "colostate--mech",
+  "university": "colostate",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering",
+  "program_page": "https://www.engr.colostate.edu/me/grad-apply/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Full consideration for MS and PhD fall admission is January 1. The page gives no year, so the year is inferred.",
+      "quote": "Master of Science and Ph.D. Program Deadlines",
+      "url": "https://www.engr.colostate.edu/me/grad-apply/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Fall Admission: January 1",
+          "url": "https://www.engr.colostate.edu/me/grad-apply/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department no longer requires the GRE for admission.",
+      "quote": "The GRE is no longer required by our department for admissions.",
+      "url": "https://www.engr.colostate.edu/me/grad-apply/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE, including a subject test, is required.",
+      "quote": "The GRE is no longer required by our department for admissions.",
+      "url": "https://www.engr.colostate.edu/me/grad-apply/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "A faculty advisor does not need to be secured before applying, though identifying faculty is helpful.",
+      "quote": "It is not required that applicants have secured a faculty advisor prior to submitting their application materials.",
+      "url": "https://www.engr.colostate.edu/me/grad-apply/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The department describes its MS and PhD research programmes as fully funded via GTA or GRA positions.",
+      "quote": "Students will work either as graduate teaching assistants or as graduate research assistants in these fully funded programs.",
+      "url": "https://www.engr.colostate.edu/me/grad-apply/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not state the degree needed before a PhD.",
+      "quote": "",
+      "url": "https://www.engr.colostate.edu/me/grad-apply/"
+    }
+  },
+  "notes": "Department says it cannot provide application fee waivers beyond the Graduate School's; the English rules are set by the Graduate School."
+}

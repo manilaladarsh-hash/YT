@@ -1,0 +1,53 @@
+{
+  "id": "bgsu",
+  "institution": "Bowling Green State University",
+  "country": "USA",
+  "region": "Ohio",
+  "grad_page": "https://www.bgsu.edu/admissions/international/graduate/admission-requirements.html",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "International applicants pay a $75 nonrefundable application fee; domestic applicants pay $45.",
+      "quote": "$45 for domestic applicants and $75 for international applicants",
+      "url": "https://www.bgsu.edu/admissions/graduate/graduate-application-instructions.html"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "BGSU does not give international applicants application fee waivers on request.",
+      "quote": "we are unable to provide application fee waivers upon request",
+      "url": "https://www.bgsu.edu/admissions/graduate/graduate-application-instructions/international-faq.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate College does not require GRE scores; individual programs may, so see each program record.",
+      "quote": "",
+      "url": "https://www.bgsu.edu/admissions/graduate/graduate-application-instructions.html"
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "For 2026 and later admissions the Graduate College minimum is TOEFL iBT 4 on the new scale.",
+      "quote": "2026 and beyond: TOEFL IBT: 4 (new scale)",
+      "url": "https://www.bgsu.edu/admissions/international/graduate/admission-requirements.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The Graduate College minimum is an IELTS score of 6.5.",
+      "quote": "IELTS: 6.5 PTE (Pearson Test of English): 53",
+      "url": "https://www.bgsu.edu/admissions/international/graduate/admission-requirements.html"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The exemption covers applicants from countries where instruction is in English; India is not named, so the rule does not settle an English-medium degree from India.",
+      "quote": "",
+      "url": "https://www.bgsu.edu/admissions/international/graduate/admission-requirements.html",
+      "also": [
+        {
+          "quote": "Are from, or earned a degree from, a country in which instruction was delivered in English",
+          "url": "https://www.bgsu.edu/admissions/international/graduate/admission-requirements.html"
+        }
+      ]
+    }
+  },
+  "notes": "TOEFL and IELTS minimums are the Graduate College's; the 2025-and-before TOEFL rule (80, old scale) no longer applies to Fall 2027."
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ttu",
+  "institution": "Texas Tech University",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://www.depts.ttu.edu/gradschool/admissions/prospective-students/international-students/index.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The application fee is $75 for a first application, $25 for each later one for the same term.",
+      "quote": "$75 initial application fee (non-refundable)",
+      "url": "https://www.depts.ttu.edu/gradschool/admissions/prospective-students/international-students/index.php"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Only full-time or at least half-time TTU or TTUHSC staff and faculty can get the application fee waiver.",
+      "quote": "Full-time and at least half-time employees (staff or faculty) of TTU/TTUHSC may qualify for an application fee waiver.",
+      "url": "https://www.depts.ttu.edu/gradschool/admissions/prospective-students/international-students/index.php"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Graduate School does not require the GRE for admission at this time; departments may set their own rule.",
+      "quote": "At this time, neither the Graduate School nor the Department of Landscape Architecture requires the GRE for admission.",
+      "url": "https://ttugradschool.my.site.com/admissions/programs"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "For exams taken on or after 21 January 2026 the minimum iBT score is 4.5 on the new scale; the old minimum was 79.",
+      "quote": "We require a minimum TOEFL iBT score of 4.5",
+      "url": "https://www.depts.ttu.edu/gradschool/admissions/prospective-students/international-students/index.php",
+      "also": [
+        {
+          "quote": "We require a minimum TOEFL iBT score of 79.",
+          "url": "https://www.depts.ttu.edu/gradschool/admissions/prospective-students/international-students/index.php"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The IELTS Academic overall band minimum is 6.5; General Training results are not accepted.",
+      "quote": "The minimum IELTS required score is an overall band score of 6.5 on the Academic version.",
+      "url": "https://www.depts.ttu.edu/gradschool/admissions/prospective-students/international-students/index.php"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the English proficiency-exempt country list, so an Indian degree does not waive the English test.",
+      "quote": "This test is waived only for graduates of U.S. universities or universities in English proficiency-exempt countries.",
+      "url": "https://www.depts.ttu.edu/gradschool/admissions/prospective-students/international-students/index.php",
+      "also": [
+        {
+          "quote": "Countries Exempt from English Language Proficiency Requirement",
+          "url": "https://www.depts.ttu.edu/gradschool/admissions/exemptcountries.php"
+        }
+      ]
+    }
+  },
+  "notes": "Institution-wide rules from the Graduate School. Department rules that differ are on the program records. Blocked pages: none."
+}

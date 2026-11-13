@@ -1,0 +1,57 @@
+{
+  "id": "uchicago--materials",
+  "university": "uchicago",
+  "field": "materials",
+  "also_fields": [
+    "bme"
+  ],
+  "department": "Pritzker School of Molecular Engineering",
+  "program_page": "https://pme.uchicago.edu/admissions/phd-programs-admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-30",
+      "value": "PhD in Molecular Engineering: November 30, 2026. The separate PhD in Quantum Science and Engineering is due December 14, 2026.",
+      "quote": "For the PhD in Molecular Engineering, the application deadline is Monday, November 30, 2026 (11:59 p.m., US Central Time)",
+      "url": "https://pme.uchicago.edu/admissions/phd-programs-admissions/how-apply"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "No PME program accepts or reviews the General GRE.",
+      "quote": "Do not take the GRE general test; none of our programs accept or will review the GRE general test.",
+      "url": "https://pme.uchicago.edu/admissions/phd-programs-admissions/how-apply"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "The Molecular Engineering application accepts no GRE scores; only the Quantum track may submit an optional Physics, Mathematics or Chemistry Subject test.",
+      "quote": "The Molecular Engineering application does not accept GRE scores in any form for admission.",
+      "url": "https://pme.uchicago.edu/admissions/phd-programs-admissions/how-apply"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You list at least two PME faculty of interest but do not have to contact them; students are not assigned a lab at admission and find an advisor after arriving.",
+      "quote": "Applicants do not have to contact faculty as part of the admission and application process.",
+      "url": "https://pme.uchicago.edu/admissions/phd-programs-admissions/faqs"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Standard package gives full tuition, a living stipend and health insurance for the duration of the PhD while in good academic standing.",
+      "quote": "will receive a standard UChicago PME PhD funding package that provides full financial support for the duration of your studies, if you remain in good academic standing",
+      "url": "https://pme.uchicago.edu/admissions/phd-programs-admissions/phd-funding-packages-financial-aid-fellowships"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is the requirement; admitted students enter the PhD directly with no pre-doctoral year.",
+      "quote": "A bachelor's degree (usually with a major in a STEM field)",
+      "url": "https://pme.uchicago.edu/admissions/phd-programs-admissions/how-apply",
+      "also": [
+        {
+          "quote": "Once students are admitted, they are directly admitted into the PhD program. There is no pre-doctoral work.",
+          "url": "https://pme.uchicago.edu/admissions/phd-programs-admissions/faqs"
+        }
+      ]
+    }
+  },
+  "notes": "Covers the PhD in Molecular Engineering (materials for sustainability, immunoengineering and bioengineering, quantum). PME has its own application. The PhD in Quantum Science and Engineering is a separate PME program.",
+  "name": "PhD in Molecular Engineering"
+}

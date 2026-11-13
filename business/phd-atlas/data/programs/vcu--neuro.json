@@ -1,0 +1,55 @@
+{
+  "id": "vcu--neuro",
+  "university": "vcu",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "School of Medicine",
+  "program_page": "https://bulletin.vcu.edu/graduate/school-medicine/neuroscience-phd/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Portal applications are due December 1, 2026, the year before matriculation.",
+      "quote": "Fall Dec 1 before year of matriculation",
+      "url": "https://bulletin.vcu.edu/graduate/school-medicine/neuroscience-phd/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The catalog does not state a GRE rule for this PhD.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/school-medicine/neuroscience-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The catalog does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/school-medicine/neuroscience-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/school-medicine/neuroscience-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog does not say how many students are funded.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/school-medicine/neuroscience-phd/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Successful applicants typically hold an undergraduate degree at enrollment, with a GPA of 3.5 and wet-lab research.",
+      "quote": "A baccalaureate degree or its equivalent in the biological sciences (or other area related to neuroscience) at the time of enrollment",
+      "url": "https://bulletin.vcu.edu/graduate/school-medicine/neuroscience-phd/"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "The portal asks for a TOEFL score of 100 (iBT) for applicants whose second language is English, above the university's 80.",
+      "quote": "TOEFL scores of 600 (pBT), 250 (cBT) or 100 (iBT) for individuals for whom English is a second language",
+      "url": "https://bulletin.vcu.edu/graduate/school-medicine/neuroscience-phd/"
+    }
+  },
+  "notes": "Applications go through the Biomedical Sciences Doctoral Portal (School of Medicine). Catalog only; the School of Medicine pages were not fetched."
+}

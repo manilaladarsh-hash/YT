@@ -1,0 +1,55 @@
+{
+  "id": "stevens--math",
+  "university": "stevens",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematical Sciences, Schaefer School of Engineering and Science",
+  "program_page": "https://www.stevens.edu/program/mathematics-phd",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "The preferred Ph.D. deadline for Fall is January 15, so applying by then gives the best chance of funding consideration. The page gives no year, so 2027 is inferred.",
+      "quote": "Ph.D. January 15",
+      "url": "https://www.stevens.edu/admission-aid/graduate-admissions/application-deadlines",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "you should submit your application by February 15 for the following Fall",
+          "url": "https://www.stevens.edu/program/mathematics-phd"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE or GMAT scores are required for the Mathematics PhD.",
+      "quote": "A competitive GRE or GMAT score - Math Subject Test recommended (required)",
+      "url": "https://www.stevens.edu/program/mathematics-phd"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The Math page recommends the Math Subject GRE.",
+      "quote": "Math Subject Test recommended",
+      "url": "https://www.stevens.edu/program/mathematics-phd"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Math page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.stevens.edu/program/physics-phd"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "A few PhD students get a teaching assistantship with a salary and tuition waiver, and the department says aid is limited.",
+      "quote": "A limited number of Ph.D. students may receive teaching assistantships, which provide recipients with a salary and waiver of tuition costs",
+      "url": "https://www.stevens.edu/program/mathematics-phd"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Strong applicants with a bachelor's degree can apply straight to the PhD instead of a master's.",
+      "quote": "Exceptionally well-qualified applicants with a bachelor’s degree in these fields who have demonstrated a solid mathematical and analytical orientation may apply directly to the doctoral program instead of the master’s program",
+      "url": "https://www.stevens.edu/program/mathematics-phd"
+    }
+  },
+  "notes": "The Math page says the department strongly advises the fall term and that financial aid consideration needs an application by February 15."
+}

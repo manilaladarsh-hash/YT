@@ -1,0 +1,73 @@
+{
+  "id": "northwestern--mech",
+  "university": "northwestern",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Mechanical Engineering",
+  "program_page": "https://www.mccormick.northwestern.edu/mechanical/academics/graduate/prospective-phd/how-to-apply.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The FAQ gives a December 15 graduate-school deadline with no year, so no Fall 2027 date is taken.",
+      "quote": "",
+      "url": "https://www.mccormick.northwestern.edu/mechanical/academics/graduate/prospective-phd/faq.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is no longer required for Mechanical Engineering PhD applicants.",
+      "quote": "The GRE is no longer required and will not be used in admission decisions",
+      "url": "https://www.mccormick.northwestern.edu/mechanical/academics/graduate/prospective-phd/how-to-apply.html"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "GRE scores are not used in admission decisions.",
+      "quote": "The GRE is no longer required and will not be used in admission decisions",
+      "url": "https://www.mccormick.northwestern.edu/mechanical/academics/graduate/prospective-phd/how-to-apply.html"
+    },
+    "app_fee": {
+      "code": "95 USD",
+      "value": "The department says the application fee is $95, paid by credit card.",
+      "quote": "The fee for an application is $95.",
+      "url": "https://www.mccormick.northwestern.edu/mechanical/academics/graduate/prospective-phd/how-to-apply.html"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "The page asks for 90 on the internet-based TOEFL, which conflicts with the 4.5 new-scale minimum on the BME and ECE pages.",
+      "quote": "and 90 or higher on the Internet-based test",
+      "url": "https://www.mccormick.northwestern.edu/mechanical/academics/graduate/prospective-phd/how-to-apply.html",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "If taken after January 21, 2026: 4.5 or better",
+          "url": "https://www.mccormick.northwestern.edu/biomedical/academics/graduate/phd/admissions.html"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS of 7.0 also satisfies the English requirement.",
+      "quote": "An International English Language Testing System (IELTS) score of 7.0 also fulfills this",
+      "url": "https://www.mccormick.northwestern.edu/mechanical/academics/graduate/prospective-phd/how-to-apply.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Nearly all admitted PhD students receive full financial support, including tuition, health insurance and a monthly stipend.",
+      "quote": "Nearly all of our admitted PhD students receive full financial support including tuition, health insurance, and monthly stipend",
+      "url": "https://www.mccormick.northwestern.edu/mechanical/academics/graduate/prospective-phd/how-to-apply.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not state a supervisor rule.",
+      "quote": "",
+      "url": "https://www.mccormick.northwestern.edu/mechanical/academics/graduate/prospective-phd/how-to-apply.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants with a bachelor's degree may apply to the PhD program directly.",
+      "quote": "Students with a bachelor's degree may apply to the PhD program directly.",
+      "url": "https://www.mccormick.northwestern.edu/mechanical/academics/graduate/prospective-phd/how-to-apply.html"
+    }
+  },
+  "notes": "The 90 IBT figure on this page is undated and conflicts with the 4.5 rule on the 2026 BME and ECE pages, so toefl_min is flagged."
+}

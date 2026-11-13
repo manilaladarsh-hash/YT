@@ -1,0 +1,55 @@
+{
+  "id": "mit--mech",
+  "university": "mit",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering (MechE)",
+  "program_page": "https://oge.mit.edu/programs/mechanical-engineering/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026, 11:59 PM US Eastern (application opens September 15); recommendation letters are also due December 1.",
+      "quote": "Deadline: December 1 at 11:59 PM Eastern Time",
+      "url": "https://oge.mit.edu/programs/mechanical-engineering/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "MechE does not accept GRE scores for the SM/PhD (only the Naval Engineer's degree needs them).",
+      "quote": "MechE does not accept GRE scores* and will not consider GRE scores in the evaluation of your application.",
+      "url": "https://oge.mit.edu/programs/mechanical-engineering/"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "No GRE scores are considered.",
+      "quote": "will not consider GRE scores in the evaluation of your application",
+      "url": "https://oge.mit.edu/programs/mechanical-engineering/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "MechE offers no English-test waivers; Indian applicants must submit TOEFL, IELTS or Duolingo.",
+      "quote": "The Department of Mechanical Engineering does not offer waivers for the English Language Proficiency (ELP) test score requirement.",
+      "url": "https://oge.mit.edu/programs/mechanical-engineering/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by the department; after admission you contact faculty to secure a research assistantship (which is how most students are funded).",
+      "quote": "Students are eligible for assistantships after they have been admitted to the Department. To facilitate the student-faculty matching process and secure funding for the coming academic year as early as possible, we recommend that newly admitted students begin to contact faculty whose research is of interest to them as soon as they are admitted to the Department.",
+      "url": "https://meche.mit.edu/education/prospective-students/graduate/graduate-admissions-faq"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most research students are funded by research assistantships (tuition plus stipend), with a limited number of TAs and fellowships; there is no blanket guarantee.",
+      "quote": "The majority of research students in the MechE department are supported by research assistantships (RA).",
+      "url": "https://oge.mit.edu/programs/mechanical-engineering/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "With a bachelor's you are admitted to the SM and continue to the PhD; with a master's from elsewhere you can apply directly to the PhD.",
+      "quote": "Students without a Master's degree will earn that degree before proceeding on to the PhD. If you already hold a Master's degree from another school, you can apply directly to the PhD. We do not admit directly to the PhD from the Bachelor's Degree, you must apply for the Master of Science program first.",
+      "url": "https://meche.mit.edu/education/prospective-students/graduate/graduate-admissions-faq"
+    }
+  },
+  "notes": "Test scores must be verified by January 31, 2027. Aeronautics and Astronautics runs a separate PhD admission (not recorded here); Nuclear Science and Engineering also separate."
+}

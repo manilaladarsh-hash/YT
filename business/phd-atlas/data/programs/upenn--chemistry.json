@@ -1,0 +1,66 @@
+{
+  "id": "upenn--chemistry",
+  "university": "upenn",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.chem.upenn.edu/graduate/graduate-admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-08",
+      "value": "Applications are due December 8, 2026 at 11:59pm EST.",
+      "quote": "Submitted applications are due by 11:59pm EST on December 8th.",
+      "url": "https://www.chem.upenn.edu/graduate/graduate-admissions",
+      "inferred": "year",
+      "time_sensitive": "2026-11-24"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are not required, but strongly recommended for physical chemistry (especially theory); you are not penalized without them.",
+      "quote": "GRE general and subject scores are not required, but they are strongly recommended if you are applying to the physical chemistry division",
+      "url": "https://www.chem.upenn.edu/graduate/admissions/frequently-asked-questions"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Chemistry subject test is not required, but strongly recommended for physical chemistry (especially theory).",
+      "quote": "GRE general and subject scores are not required, but they are strongly recommended if you are applying to the physical chemistry division",
+      "url": "https://www.chem.upenn.edu/graduate/admissions/frequently-asked-questions"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "TOEFL is required for non-native speakers even with prior study in the US or another English-speaking country; the FAQ says most admits have iBT above 100 and a Speaking score of at least 20 is required. IELTS is accepted.",
+      "quote": "We require TOEFL scores regardless of undergraduate and graduate work already completed in the United States or another English speaking country.",
+      "url": "https://www.chem.upenn.edu/graduate/graduate-admissions",
+      "also": [
+        {
+          "quote": "The majority of admitted students have total iBT scores above 100",
+          "url": "https://www.chem.upenn.edu/graduate/admissions/frequently-asked-questions"
+        },
+        {
+          "quote": "We will accept IELTS scores in place of the TOEFL.",
+          "url": "https://www.chem.upenn.edu/graduate/graduate-admissions"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Apply to the department, not a group; you pick an advisor during the fall of the first year.",
+      "quote": "There is no need to contact Penn Chemistry professors during the application process. | The research advisor selection process takes place during the Fall of the first year.",
+      "url": "https://www.chem.upenn.edu/graduate/admissions/frequently-asked-questions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All accepted PhD students get tuition, health insurance and a monthly stipend for all 5 years, regardless of citizenship.",
+      "quote": "provides full support (tuition, health insurance, and a monthly stipend) to all accepted graduate students for all 5 years of study.",
+      "url": "https://www.chem.upenn.edu/graduate/admissions/frequently-asked-questions"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages do not say whether a master's is needed.",
+      "quote": "",
+      "url": "https://www.chem.upenn.edu/graduate/admissions/frequently-asked-questions"
+    }
+  },
+  "notes": "The FAQ still says materials are due December 1; the admissions page and SAS calendar say December 8. No TOEFL minimum is stated as a rule (iBT above 100 is only what most admits have)."
+}

@@ -1,0 +1,57 @@
+{
+  "id": "umass--biology",
+  "university": "umass",
+  "field": "biology",
+  "also_fields": [
+    "biomed"
+  ],
+  "department": "Molecular and Cellular Biology Graduate Program",
+  "program_page": "https://www.umass.edu/molecular-cellular/how-apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Application materials are due December 1 for the PhD beginning the following fall.",
+      "quote": "December 1 is the deadline for the receipt of application materials for acceptance into the PhD program beginning the following fall.",
+      "url": "https://www.umass.edu/molecular-cellular/how-apply",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE General scores can be submitted but are not required.",
+      "quote": "GRE scores for the General Exam or Subject Tests can be submitted to supplement the application, but are not required.",
+      "url": "https://www.umass.edu/molecular-cellular/how-apply"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "GRE Subject scores can be submitted but are not required.",
+      "quote": "GRE scores for the General Exam or Subject Tests can be submitted to supplement the application, but are not required.",
+      "url": "https://www.umass.edu/molecular-cellular/how-apply"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "First-semester PhD students do three lab rotations before choosing a group.",
+      "quote": "First semester PhD students undertake 3 rotations and are supported in the Fall with College fellowships.",
+      "url": "https://www.umass.edu/molecular-cellular/academics/about-our-phd-program"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD students get a stipend (about $43,000 in 2026/27), health insurance and tuition waivers, and are supported for up to five years in good standing.",
+      "quote": "Doctoral degree students who remain in good standing will be supported for up to five years.",
+      "url": "https://www.umass.edu/molecular-cellular/academics/about-our-phd-program",
+      "also": [
+        {
+          "quote": "PhD graduate students are provided the following support",
+          "url": "https://www.umass.edu/molecular-cellular/academics/about-our-phd-program"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is required before the program starts; no master's is needed.",
+      "quote": "A bachelor's degree from a qualified college or university is required or expected prior to the program's start date.",
+      "url": "https://www.umass.edu/molecular-cellular/how-apply"
+    }
+  },
+  "notes": "Other UMass biology PhDs (Organismic and Evolutionary Biology, Microbiology, Plant Biology) are separate programs not saved here. Biomedicine is one of MCB's listed research areas."
+}

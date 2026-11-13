@@ -1,0 +1,49 @@
+{
+  "id": "uvm--chemistry",
+  "university": "uvm",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.uvm.edu/cas/chemistry/graduate-programs-overview",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Applications received by December 15 get priority consideration for admission.",
+      "quote": "Students who have submitted applications by December 15 will receive priority consideration for admission into the graduate program.",
+      "url": "https://www.uvm.edu/cas/chemistry/graduate-programs-overview",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Graduate College listing says no GRE is required for Chemistry.",
+      "quote": "Additional Requirements: No GRE required Coordinator: Dr. Giuseppe Petrucci",
+      "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The Graduate College listing says no GRE is required for Chemistry.",
+      "quote": "Additional Requirements: No GRE required Coordinator: Dr. Giuseppe Petrucci",
+      "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The pages checked do not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.uvm.edu/cas/chemistry/graduate-programs-overview"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All full-time graduate students in chemistry receive a teaching or research fellowship with a stipend and tuition.",
+      "quote": "All full-time graduate students in the Department of Chemistry receive financial aid in the form of teaching or research fellowships.",
+      "url": "https://www.uvm.edu/cas/chemistry/financial-aid-graduate-students"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The pages checked do not say whether a master's is needed before the PhD.",
+      "quote": "",
+      "url": "https://www.uvm.edu/cas/chemistry/graduate-programs-overview"
+    }
+  },
+  "notes": "The Graduate College deadline listing gives a fall deadline of December 15 for MS and PhD."
+}

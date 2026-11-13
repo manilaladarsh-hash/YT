@@ -1,0 +1,70 @@
+{
+  "id": "ohiostate--statistics",
+  "university": "ohiostate",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Department of Statistics",
+  "program_page": "https://stat.osu.edu/graduates/prospective-students/admission",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The department page lists only the Autumn 2026 cycle (priority December 15, 2025); the Autumn 2027 dates are not posted.",
+      "quote": "",
+      "url": "https://stat.osu.edu/graduates/prospective-students/admission"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE General Test is required of all PhD applicants (no minimum score) and cannot be waived.",
+      "quote": "We require the GRE General Test; we do not require any of the GRE Subject Tests.",
+      "url": "https://stat.osu.edu/graduates/prospective-students/admission",
+      "also": [
+        {
+          "quote": "No. The GRE is required of all applicants and cannot be waived.",
+          "url": "https://stat.osu.edu/graduates/prospective-students/admission"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE Subject Test is required.",
+      "quote": "we do not require any of the GRE Subject Tests",
+      "url": "https://stat.osu.edu/graduates/prospective-students/admission"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "The department requires TOEFL iBT 100 (600 paper) or equivalent, above the university minimum.",
+      "quote": "we require at least a 600 on the paper-based TOEFL (100 on the iBT)",
+      "url": "https://stat.osu.edu/graduates/prospective-students/admission"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students are admitted to the department, not to a faculty member; advisors are chosen later (typically in year 3).",
+      "quote": "Unlike some other departments, we admit students to the statistics department to work in statistics, but not to work with a particular faculty member.",
+      "url": "https://stat.osu.edu/graduates/prospective-students/admission"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "All applicants are considered for fellowships and associateships; those offered funding at admission are typically supported up to five years, but not everyone is offered it.",
+      "quote": "All applicants for admission are considered for funding through the department.",
+      "url": "https://stat.osu.edu/graduates/prospective-students/admission",
+      "also": [
+        {
+          "quote": "typically guaranteed funding through the duration of their program",
+          "url": "https://stat.osu.edu/graduates/prospective-students/funding"
+        },
+        {
+          "quote": "Any international applicant who is admitted and not offered full funding must submit documents to prove that you have sufficient financial resources",
+          "url": "https://stat.osu.edu/graduates/prospective-students/admission"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A four-year bachelor's in any subject is the minimum.",
+      "quote": "four-year baccalaureate or higher degree (in any subject area) from an accredited college or university",
+      "url": "https://stat.osu.edu/graduates/prospective-students/admission"
+    }
+  },
+  "notes": "Application deadlines for Autumn 2027 were not posted on the page checked."
+}

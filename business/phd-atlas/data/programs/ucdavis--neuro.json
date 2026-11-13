@@ -1,0 +1,54 @@
+{
+  "id": "ucdavis--neuro",
+  "university": "ucdavis",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Neuroscience Graduate Group",
+  "program_page": "https://grad.neuroscience.ucdavis.edu/apply",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Program application deadline is midnight December 1 (PST), for fall admission only.",
+      "quote": "General: Dec 1, 2026",
+      "url": "https://grad.ucdavis.edu/programs/gnes",
+      "also": [
+        {
+          "quote": "Program application deadline is midnight December 1 (PST).",
+          "url": "https://grad.neuroscience.ucdavis.edu/apply"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE statement in the cached apply page.",
+      "quote": "",
+      "url": "https://grad.neuroscience.ucdavis.edu/apply"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE or Psychology subject statement in the cached apply page.",
+      "quote": "",
+      "url": "https://grad.neuroscience.ucdavis.edu/apply"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule on the fetched pages.",
+      "quote": "",
+      "url": "https://grad.neuroscience.ucdavis.edu/apply"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding statement on the fetched pages.",
+      "quote": "",
+      "url": "https://grad.neuroscience.ucdavis.edu/apply"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The apply page says Ph.D. only but gives no entry-route rule.",
+      "quote": "",
+      "url": "https://grad.neuroscience.ucdavis.edu/apply"
+    }
+  },
+  "notes": "The apply page has no year on its deadline; the year comes from the Graduate Studies program page. The group admits fall entry only."
+}

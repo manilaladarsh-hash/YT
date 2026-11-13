@@ -1,0 +1,50 @@
+{
+  "id": "wm--chemistry",
+  "university": "wm",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.wm.edu/as/graduate/admission/chemistry/index.php",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Apply by February 15, 2027 for Supplemental Fellowships; the base financial aid deadline is April 1, 2027.",
+      "quote": "For Fall Admission: February 15 to ensure consideration for Supplemental Fellowships; April 1 to be considered for base financial aid package",
+      "url": "https://www.wm.edu/as/graduate/admission/chemistry/index.php",
+      "inferred": "year",
+      "time_sensitive": "2027-02-15"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The Chemistry department made GRE General and Subject scores optional, and not sending them does not hurt.",
+      "quote": "The Chemistry Department at William & Mary has made the submission of GRE General Test and/or Subject Test scores optional | Not submitting GRE scores will not negatively impact your application",
+      "url": "https://www.wm.edu/as/graduate/admission/chemistry/index.php"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Chemistry Subject GRE is optional.",
+      "quote": "The Chemistry Department at William & Mary has made the submission of GRE General Test and/or Subject Test scores optional",
+      "url": "https://www.wm.edu/as/graduate/admission/chemistry/index.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The chemistry page does not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.wm.edu/as/graduate/admission/chemistry/index.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding comes as a financial aid package, with extra Supplemental Fellowships for those who apply by February 15.",
+      "quote": "For Fall Admission: February 15 to ensure consideration for Supplemental Fellowships; April 1 to be considered for base financial aid package",
+      "url": "https://www.wm.edu/as/graduate/admission/chemistry/index.php"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The minimum is a bachelor's degree in a physical or natural science; the PhD is taken as a combined Chemistry M.S. and Applied Science Ph.D.",
+      "quote": "Minimally, each applicant must have a Bachelor's degree with a major in a physical or natural science, mathematics, or an engineering discipline",
+      "url": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/apsc/"
+    }
+  },
+  "notes": "The PhD route is 'Chemistry, M.S. combined with Ph.D. in Applied Science' (wm.edu degree programs page). The Applied Science catalog lists Biophysical Chemistry and Polymer Chemistry concentrations. Supervisor not stated on the chemistry page."
+}

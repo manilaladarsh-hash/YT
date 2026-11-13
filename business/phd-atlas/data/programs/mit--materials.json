@@ -1,0 +1,81 @@
+{
+  "id": "mit--materials",
+  "university": "mit",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Department of Materials Science and Engineering (DMSE)",
+  "program_page": "https://oge.mit.edu/programs/materials-science-and-engineering/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026, 11:59 PM US Eastern (application opens September 1). Department fee-waiver requests close November 15; ELP waiver requests close November 28.",
+      "quote": "Deadline: December 1 at 11:59 PM Eastern Time",
+      "url": "https://oge.mit.edu/programs/materials-science-and-engineering/",
+      "inferred": "year",
+      "time_sensitive": "2026-11-15"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "DMSE does not accept GRE scores.",
+      "quote": "The Department of Material Sciences and Engineering does not accept GRE scores and will not consider GRE scores in the evaluation of your application.",
+      "url": "https://oge.mit.edu/programs/materials-science-and-engineering/"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "No GRE scores of any kind are accepted.",
+      "quote": "Effective the Fall 2024 admissions cycle, the department will not accept GRE scores as supplementary material.",
+      "url": "https://dmse.mit.edu/education/graduate-program/applying/"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "TOEFL iBT 100 (or 5 on the new band scale); Duolingo 135 also accepted.",
+      "quote": "iBT Minimum score: 100 (iBT) or 5 (iBT26)",
+      "url": "https://oge.mit.edu/programs/materials-science-and-engineering/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic 7.0 overall.",
+      "quote": "International English Language Testing System (IELTS) Minimum score required: 7",
+      "url": "https://oge.mit.edu/programs/materials-science-and-engineering/"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "DMSE waives the English test if you earned (or will earn) a degree from an institution where English is the main language of instruction, which covers English-medium Indian degrees; request it in the application (Test Scores Instructions page) by November 28.",
+      "quote": "The IELTS/TOEFL requirement will be automatically waived once you submit which of the following criteria you meet: | Earned (or will earn) a degree from an institution where English is the primary language of instruction",
+      "url": "https://dmse.mit.edu/education/graduate-program/applying/",
+      "also": [
+        {
+          "quote": "ELP waivers can only be requested directly in the application on the Test Scores Instructions page. Do not request an ELP waiver via email. The last date to request an ELP waiver is November 28.",
+          "url": "https://oge.mit.edu/programs/materials-science-and-engineering/"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Besides the OGE route, DMSE grants its own fee waivers first come, first served to nearly complete applications with an undergraduate GPA of 3.9 or higher; requests close November 15.",
+      "quote": "Application Fee Waivers are considered on a first come, first serve basis. Requests will not be considered after November 15th. | An undergraduate GPA of 3.9 or higher",
+      "url": "https://oge.mit.edu/programs/materials-science-and-engineering/",
+      "time_sensitive": "2026-11-15"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by a departmental committee; DMSE asks applicants not to contact faculty until admitted.",
+      "quote": "Admission decisions are made by a departmental committee. We ask that you not contact faculty directly. | Students should wait for official admission to DMSE before contacting faculty regarding research assistantships and thesis supervision.",
+      "url": "https://dmse.mit.edu/education/graduate-program/applying/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "PhD students are generally supported by fellowships, research or teaching assistantships covering tuition, stipend and health insurance; no explicit guarantee is stated.",
+      "quote": "S.M./Ph.D. students are generally supported by a variety of fellowships, research assistantships, and teaching assistantships during their time at MIT. These appointments pay tuition, a competitive stipend, and health insurance.",
+      "url": "https://oge.mit.edu/programs/materials-science-and-engineering/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "MIT does not require a master's degree to apply for a PhD; you can apply from a bachelor's degree (final-year students may be admitted if the degree is awarded before enrolment).",
+      "quote": "The Institute does not require applicants to hold a master’s or other advanced degree in order to apply to a Ph.D program.",
+      "url": "https://oge.mit.edu/graduate-admissions/applications/procedures/"
+    }
+  },
+  "notes": "Test scores must be verified by January 15, 2027. Interdisciplinary options include PPSM, TPP and CSE."
+}

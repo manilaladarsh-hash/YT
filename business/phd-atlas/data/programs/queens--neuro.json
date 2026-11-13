@@ -1,0 +1,49 @@
+{
+  "id": "queens--neuro",
+  "university": "queens",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Centre for Neuroscience Studies",
+  "program_page": "https://www.queensu.ca/neuroscience/grad-program/prospective-students",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Apply by February 1 to be eligible for internal awards. Year inferred.",
+      "quote": "Students who submit applications by February 1st will be eligible for internal awards.",
+      "url": "https://www.queensu.ca/neuroscience/grad-program/prospective-students",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not mentioned.",
+      "quote": "",
+      "url": "https://www.queensu.ca/neuroscience/grad-program/prospective-students"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You can apply without one, but an offer needs a supervisor willing to take you into their lab.",
+      "quote": "In order to be offered admission to our graduate program you will need to meet the minimum academic requirements and have a supervisor who is willing to offer you a position in their lab.",
+      "url": "https://www.queensu.ca/neuroscience/grad-program/prospective-students"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Minimum PhD stipend CAD 24,000 a year on the Centre's page; Queen's guarantees full-time PhD students at least CAD 25,000 a year in 2026-27.",
+      "quote": "Current minimum stipends are $21,000/year for an MSc and $24,000/year for a PhD.",
+      "url": "https://www.queensu.ca/neuroscience/grad-program/prospective-students",
+      "also": [
+        {
+          "quote": "For the 2026-27 academic year, our full-time PhD students will receive a guaranteed minimum funding package of $25,000 a year",
+          "url": "https://www.queensu.ca/grad-postdoc/grad-studies/funding/packages"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's in neuroscience or a field with a strong neuroscience and research component is required.",
+      "quote": "The minimum requirement for admission into the Ph.D. program is a master’s degree in Neuroscience, or in a field with a strong neuroscience and research component.",
+      "url": "https://www.queensu.ca/neuroscience/grad-program/prospective-students"
+    }
+  },
+  "notes": ""
+}

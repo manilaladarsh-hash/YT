@@ -1,0 +1,54 @@
+{
+  "id": "rutgers--neuro",
+  "university": "rutgers",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Graduate Program in Neuroscience",
+  "program_page": "https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?id=a501U0000004gFhQAI",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026 (same date for US and non-US applicants).",
+      "quote": "Fall 2027 Dec 1, 2026 Dec 1, 2026",
+      "url": "https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?id=a501U0000004gFhQAI"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional.",
+      "quote": "Official GRE Scores (Optional)",
+      "url": "https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?id=a501U0000004gFhQAI"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All accepted full-time PhD students in the Rutgers biomedical PhD programs receive a stipend plus tuition, health insurance and fees.",
+      "quote": "All accepted full-time Ph.D. students will receive a competitive stipend along with full payment of tuition, health insurance, and general fees.",
+      "url": "https://grad.rutgers.edu/academics/graduate-programs/biomedical-and-health-sciences-phd-programs",
+      "also": [
+        {
+          "quote": "Financial aid is provided to highly qualified students, and typically includes a stipend to cover living expenses and remission of tuition fees.",
+          "url": "https://grad.rutgers.edu/academics/graduate-programs/neuroscience"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "An undergraduate GPA of at least B is the stated academic threshold; no master's is mentioned as required.",
+      "quote": "A student must have an undergraduate cumulative grade-point average of at least B to be considered for admission.",
+      "url": "https://grad.rutgers.edu/academics/graduate-programs/neuroscience"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?id=a501U0000004gFhQAI"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?id=a501U0000004gFhQAI"
+    }
+  },
+  "notes": "Program is run with Robert Wood Johnson Medical School; its own pages (rwjms.rutgers.edu) returned 403."
+}

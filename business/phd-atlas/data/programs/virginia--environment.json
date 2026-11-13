@@ -1,0 +1,57 @@
+{
+  "id": "virginia--environment",
+  "university": "virginia",
+  "field": "environment",
+  "also_fields": [
+    "earth"
+  ],
+  "department": "Department of Environmental Sciences (Graduate School of Arts and Sciences)",
+  "program_page": "https://evsc.as.virginia.edu/prospective-graduate-students",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Apply by January 15 for full financial-aid consideration; later applications are reviewed but aid may not be available.",
+      "quote": "Applications received by January 15 will receive full consideration for financial aid",
+      "url": "https://evsc.as.virginia.edu/prospective-graduate-students",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE scores are neither required nor accepted.",
+      "quote": "GRE scores: We do not require, nor do we accept, submission of GRE scores.",
+      "url": "https://evsc.as.virginia.edu/prospective-graduate-students"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "GRE scores of any kind are neither required nor accepted.",
+      "quote": "GRE scores: We do not require, nor do we accept, submission of GRE scores.",
+      "url": "https://evsc.as.virginia.edu/prospective-graduate-students"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Admission is largely driven by a match with a faculty adviser; contact recruiting faculty before applying (listed on the page for Fall 2027).",
+      "quote": "we recommend applying to the M.S. and Ph.D. programs only if you find a potential fit with a faculty adviser",
+      "url": "https://evsc.as.virginia.edu/prospective-graduate-students"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD admission comes with a stipend, tuition and health insurance (GTA/GRA); duration is set in the offer letter, and the Graduate School guarantees five years.",
+      "quote": "Admission to our M.S. and Ph.D. programs comes with financial aid including stipend, tuition, and health insurance.",
+      "url": "https://evsc.as.virginia.edu/prospective-graduate-students",
+      "also": [
+        {
+          "quote": "The Graduate School offers doctoral students a minimum of five years of financial support upon admission",
+          "url": "https://graduate.as.virginia.edu/graduate-student-financial-support"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "No specific undergraduate degree is required; admitted students typically have a science or engineering bachelor's.",
+      "quote": "We do not require any specific undergraduate degree, and admitted students typically have a range of undergraduate majors across science and engineering.",
+      "url": "https://evsc.as.virginia.edu/prospective-graduate-students"
+    }
+  },
+  "notes": "One PhD covers ecology, geosciences, hydrology and atmospheric science, so earth is listed in also_fields."
+}

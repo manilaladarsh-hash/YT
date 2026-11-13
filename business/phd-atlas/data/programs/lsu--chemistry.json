@@ -1,0 +1,62 @@
+{
+  "id": "lsu--chemistry",
+  "university": "lsu",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.lsu.edu/science/chemistry/academics/graduate/application-process.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The priority deadline for fellowship and scholarship consideration is December 1; applications are reviewed on a rolling basis after it.",
+      "quote": "Applications will be reviewed on a rolling basis after the December 1st priority deadline",
+      "url": "https://www.lsu.edu/science/chemistry/academics/graduate/application-process.php",
+      "inferred": "year",
+      "time_sensitive": "2026-12-01"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "GRE scores are no longer required, but the department says to include them if you have them.",
+      "quote": "GRE Scores are no longer required for admission, but feel free to include them to strengthen your application if you have them",
+      "url": "https://www.lsu.edu/science/chemistry/academics/graduate/application-process.php"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are no longer required, but the department says to include them if you have them.",
+      "quote": "GRE Scores are no longer required for admission, but feel free to include them to strengthen your application if you have them",
+      "url": "https://www.lsu.edu/science/chemistry/academics/graduate/application-process.php"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Department TOEFL minimum is 79 (internet-based), the same as the Graduate School.",
+      "quote": "TOEFL minimum score of 550 (paper-based), 213 (computer-based), 79 (internet-based)",
+      "url": "https://www.lsu.edu/science/chemistry/academics/graduate/application-process.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Department IELTS minimum is 6.5, the same as the Graduate School.",
+      "quote": "IELTS minimum score of 6.5",
+      "url": "https://www.lsu.edu/science/chemistry/academics/graduate/application-process.php"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "A committee reviews applications, so you do not need to contact individual faculty first.",
+      "quote": "A committee reviews applications; you do not need to contact individual faculty members",
+      "url": "https://www.lsu.edu/science/chemistry/academics/graduate/application-process.php"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Support is guaranteed for 5.5 years to incoming students who are qualified to teach undergraduate labs, which is not every admitted applicant.",
+      "quote": "Our Department guarantees 5.5 years of support to all incoming students who are qualified to teach in our undergraduate laboratory courses",
+      "url": "https://www.lsu.edu/science/chemistry/academics/graduate/application-process.php"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The department welcomes applicants straight from a four-year undergraduate programme as well as non-traditional applicants.",
+      "quote": "We are also open to applicants who are not applying directly out of a four-year undergraduate program",
+      "url": "https://www.lsu.edu/science/chemistry/academics/graduate/application-process.php"
+    }
+  },
+  "notes": "About 20 students admitted each Fall; spring admission is almost never offered. The department's own TOEFL and IELTS minimums match the Graduate School's. The page's Dates & Deadlines block is split across lines, so the December 1 date is taken from the sentence. Master's coursework only is accepted for MS."
+}

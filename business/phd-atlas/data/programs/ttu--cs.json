@@ -1,0 +1,67 @@
+{
+  "id": "ttu--cs",
+  "university": "ttu",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.depts.ttu.edu/cs/grad/phd/index.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "The department accepts and reviews PhD applications on a rolling basis.",
+      "quote": "The Dept. of Computer Science accepts and reviews applications on a rolling basis.",
+      "url": "https://www.depts.ttu.edu/cs/grad/phd/index.php"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The department does not offer application fee waivers.",
+      "quote": "We do not offer application fee waivers.",
+      "url": "https://www.depts.ttu.edu/cs/grad/admissions.php"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department has waived the GRE until further notice.",
+      "quote": "The GRE is waived until further notice.",
+      "url": "https://www.depts.ttu.edu/cs/grad/admissions.php"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The GRE is waived, and no CS subject test exists.",
+      "quote": "The GRE is waived until further notice.",
+      "url": "https://www.depts.ttu.edu/cs/grad/admissions.php"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "The department asks for an internet-based TOEFL of at least 100 from international applicants.",
+      "quote": "International students should submit TOEFL scores of at least 600 on the paper−based version, 250 on the computer−based version, and 100 on the internet−based version",
+      "url": "https://www.depts.ttu.edu/cs/grad/admissions.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department asks for an IELTS score of at least 6.5 from international applicants.",
+      "quote": "IELTS score of at least 6.5",
+      "url": "https://www.depts.ttu.edu/cs/grad/admissions.php"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students are not assigned a dissertation advisor; they identify one during the first years.",
+      "quote": "Students will not be automatically assigned a dissertation advisor.",
+      "url": "https://www.depts.ttu.edu/cs/grad/phd/index.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Applicants must secure an RA or TA position before they are offered admission.",
+      "quote": "Prospective students must secure competitive funding in the form of an RA or TA position BEFORE they are offered admission.",
+      "url": "https://www.depts.ttu.edu/cs/grad/phd/index.php"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with a bachelor's or a master's can enter; a master's allows more transfer hours.",
+      "quote": "With an earned master's in computer science, up to 30 hours may be transferred. Otherwise, up to 12 hours may be transferred.",
+      "url": "https://www.depts.ttu.edu/cs/grad/phd/index.php"
+    }
+  },
+  "notes": "No data science or AI PhD exists as a separate track in the CS PhD pages, so datasci is not saved.",
+  "name": "Computer Science, Ph.D."
+}

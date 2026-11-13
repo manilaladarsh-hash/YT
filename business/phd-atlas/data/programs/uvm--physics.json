@@ -1,0 +1,49 @@
+{
+  "id": "uvm--physics",
+  "university": "uvm",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://www.uvm.edu/cems/physics/program/phd-physics",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Fall applications are rolling; priority for funding is January 1, 2027.",
+      "quote": "Program: Physics Degree: AMP, MS, PhD | MS/PhD: Fall Deadline: Rolling, Priority deadline for funding January 1st",
+      "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The physics PhD page says the general GRE is not required for admission.",
+      "quote": "The Graduate Record Examination (general) is not required for admission.",
+      "url": "https://www.uvm.edu/cems/physics/program/phd-physics"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The Graduate College listing says no GRE is required for Physics.",
+      "quote": "Additional Requirements: No GRE required Coordinator: Dr. Alex Kozen",
+      "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to contact physics professors directly about research opportunities.",
+      "quote": "Potential students are encouraged to reach out to Physics professors directly for available research opportunities.",
+      "url": "https://www.uvm.edu/cems/physics/program/phd-physics"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "PhD students are supported as teaching or research assistants with a stipend and tuition scholarship.",
+      "quote": "PhD students in physics are supported through Graduate Teaching Assistantship (GTA) or Graduate Research Assistantships (GRA), including a stipend and tuition scholarship.",
+      "url": "https://www.uvm.edu/cems/physics/graduate-programs"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Undergraduate physics majors are considered for admission to the PhD.",
+      "quote": "Undergraduate majors in physics are considered for admission to the program.",
+      "url": "https://www.uvm.edu/cems/physics/program/phd-physics"
+    }
+  },
+  "notes": ""
+}

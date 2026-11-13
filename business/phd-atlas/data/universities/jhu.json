@@ -1,0 +1,47 @@
+{
+  "id": "jhu",
+  "institution": "Johns Hopkins University",
+  "country": "USA",
+  "region": "Maryland",
+  "grad_page": "https://krieger.jhu.edu/graduate-admissions/apply/how-to-apply",
+  "checked": "2026-10-24",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "Krieger School of Arts and Sciences (physics, chemistry, math, biology, earth science) charges USD 75 per application.",
+      "quote": "A non-refundable fee of $75.00 is required for each application to the Krieger School of Arts and Sciences.",
+      "url": "https://krieger.jhu.edu/graduate-admissions/apply/how-to-apply"
+    },
+    "fee_waiver": {
+      "code": "Available",
+      "value": "A financial-hardship waiver can be requested in the application, and international applicants are not excluded; some partner-program waivers also exist.",
+      "quote": "To request a waiver based on financial hardship please select the option on the application and upload one of the following",
+      "url": "https://krieger.jhu.edu/graduate-admissions/apply/how-to-apply"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Krieger lets each program decide; see the program record.",
+      "quote": "Many of our graduate programs no longer require submitting GRE scores.",
+      "url": "https://krieger.jhu.edu/graduate-admissions/apply/exams"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "Krieger prefers TOEFL iBT 100 or higher (worded as a preference, not a hard cutoff).",
+      "quote": "Applicants seeking admission who have taken the TOEFL test will preferably have a score of at least 100 for the Internet Based Test",
+      "url": "https://krieger.jhu.edu/graduate-admissions/apply/exams"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Krieger prefers an IELTS Academic band of at least 7 (a preference, not a hard cutoff).",
+      "quote": "Applicants seeking admission who have taken the IELTS test will preferably have an academic Band Score at least equal to 7.",
+      "url": "https://krieger.jhu.edu/graduate-admissions/apply/exams"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the exempt-country list, and English as the language of instruction is not enough outside the US or listed countries, so Indian applicants need a test score.",
+      "quote": "Please note language of instruction in English is not sufficient unless the university is located in the United States or on the list of countries below.",
+      "url": "https://krieger.jhu.edu/graduate-admissions/apply/exams"
+    }
+  },
+  "notes": "JHU has no single graduate school: this record is the Krieger School of Arts and Sciences (physics, chemistry, math, biology, earth science). Whiting School of Engineering and School of Medicine programs carry their own overrides."
+}

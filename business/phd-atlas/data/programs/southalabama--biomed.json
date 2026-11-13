@@ -1,0 +1,71 @@
+{
+  "id": "southalabama--biomed",
+  "university": "southalabama",
+  "field": "biomed",
+  "also_fields": [
+    "biology",
+    "neuro"
+  ],
+  "department": "College of Medicine, Doctoral Program in Basic Medical Sciences",
+  "program_page": "https://www.southalabama.edu/colleges/com/doctoral-program/how-to-apply.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-31",
+      "value": "Applications are due March 31 each year, and the program admits only for the Fall term, so the next entry is Fall 2027.",
+      "quote": "The deadline for applications to the Graduate Program is March 31st each year",
+      "url": "https://www.southalabama.edu/colleges/com/doctoral-program/how-to-apply.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Ph.D. in Basic Medical Sciences - March 31 (Fall semester admittance only)",
+          "url": "https://www.southalabama.edu/departments/admissions/graduate-deadlines.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is no longer required for admission.",
+      "quote": "Beginning in Fall 2022 admissions, we no longer require GRE test scores for admission.",
+      "url": "https://www.southalabama.edu/colleges/com/doctoral-program/how-to-apply.html"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE test scores are required, subject tests included.",
+      "quote": "Beginning in Fall 2022 admissions, we no longer require GRE test scores for admission.",
+      "url": "https://www.southalabama.edu/colleges/com/doctoral-program/how-to-apply.html"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The College of Medicine does not offer application fee waivers.",
+      "quote": "We do not offer application fee waivers.",
+      "url": "https://www.southalabama.edu/colleges/com/doctoral-program/how-to-apply.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "The College of Medicine does not waive the English test, so Indian applicants who studied outside the US must submit a score.",
+      "quote": "We do not offer a waiver for the English proficiency score.",
+      "url": "https://www.southalabama.edu/colleges/com/doctoral-program/how-to-apply.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by committee. Students do three rotations in the first year to find a mentor.",
+      "quote": "No, our students complete three rotations within the first year in order to find a mentor and laboratory to complete their dissertation research.",
+      "url": "https://www.southalabama.edu/colleges/com/doctoral-program/how-to-apply.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every admitted student receives an annual stipend of $31,000 plus paid health insurance and full tuition.",
+      "quote": "All admitted students receive an annual stipend ($31,000), single-coverage paid health insurance, and full paid tuition from the College of Medicine.",
+      "url": "https://www.southalabama.edu/colleges/com/doctoral-program/how-to-apply.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's degree is not needed to apply.",
+      "quote": "No, a master's degree is not required.",
+      "url": "https://www.southalabama.edu/colleges/com/doctoral-program/how-to-apply.html"
+    }
+  },
+  "notes": "The page heading reads 'Apply for Fall 2026' and gives the March 31 deadline each year. The bulletin lists the PhD tracks as Biochemistry and Molecular Biology, Microbiology and Immunology, Molecular and Cellular Pharmacology, Physiology, Cell Biology and Neuroscience. The College of Medicine recommends TOEFL 100, IELTS 7 and Duolingo 100 but states them as recommended scores, not minimums, so they are not saved as minimums.",
+  "name": "Basic Medical Sciences (PhD)"
+}

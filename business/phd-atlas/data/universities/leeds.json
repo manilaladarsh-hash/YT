@@ -1,0 +1,47 @@
+{
+  "id": "leeds",
+  "institution": "University of Leeds",
+  "country": "United Kingdom",
+  "region": "England",
+  "grad_page": "https://www.leeds.ac.uk/research-applying/doc/applying-research-degrees",
+  "checked": "2026-10-30",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "Central research degree admissions guidance lists tuition fees and funding with no general application fee for postgraduate research degrees.",
+      "quote": "",
+      "url": "https://www.leeds.ac.uk/research-applying/doc/applying-research-degrees"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Central guidance does not publish fee waiver procedures as no general PGR application fee is stated.",
+      "quote": "",
+      "url": "https://www.leeds.ac.uk/research-applying/doc/applying-research-degrees"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE General test is not required or requested centrally for postgraduate research admission at Leeds.",
+      "quote": "",
+      "url": "https://www.leeds.ac.uk/research-applying/doc/applying-research-degrees"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "Specific TOEFL minimums vary by faculty and school programme; applicants should confirm scores on their individual school course pages.",
+      "quote": "",
+      "url": "https://environment.leeds.ac.uk/see-research-degrees/doc/entry-requirements"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "Standard minimum English requirement for research degrees is IELTS 6.0 overall with at least 5.5 in all components.",
+      "quote": "IELTS: 6.0 overall with at least 5.5 in all components.",
+      "url": "https://environment.leeds.ac.uk/see-research-degrees/doc/entry-requirements"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Exemption applies only to degrees completed in a recognised majority English-speaking country; degrees completed in English elsewhere do not qualify.",
+      "quote": "a postgraduate degree from a majority English speaking country. The duration of the degree must be at least 12 months and awarded less than 2 years and 4 months from the proposed start date of the PhD",
+      "url": "https://environment.leeds.ac.uk/see-research-degrees/doc/entry-requirements"
+    }
+  },
+  "notes": "Postgraduate research degrees at the University of Leeds include PhD, MPhil, and MSc by Research programmes across eight academic faculties."
+}

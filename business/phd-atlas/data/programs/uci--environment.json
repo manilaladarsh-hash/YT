@@ -1,0 +1,69 @@
+{
+  "id": "uci--environment",
+  "university": "uci",
+  "field": "environment",
+  "also_fields": [
+    "earth"
+  ],
+  "department": "Department of Earth System Science",
+  "program_page": "https://www.ess.uci.edu/prospective-students",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1 for the best chance (rolling review); the final deadline is January 18, 2027.",
+      "quote": "Applicants are encouraged to apply by December 1st for the best chance of admission. | The final deadline for applications is January 18th, 2027.",
+      "url": "https://www.ess.uci.edu/prospective-students",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department does not require the GRE.",
+      "quote": "Starting Fall 2021, the ESS department does not require the GRE.",
+      "url": "https://www.ess.uci.edu/faqs-earth-system-science-ess-graduate-program"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE Subject Test is required.",
+      "quote": "A GRE subject test is not required.",
+      "url": "https://www.ess.uci.edu/faqs-earth-system-science-ess-graduate-program"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "A provisional advisor is assigned at admission, but applicants are encouraged to contact prospective advisors.",
+      "quote": "Students will be assigned a provisional advisor at the time of admission. | Students are encouraged to contact prospective faculty advisors about their research interests.",
+      "url": "https://www.ess.uci.edu/faqs-earth-system-science-ess-graduate-program"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted students, including international students, are fully funded through employment and/or fellowships.",
+      "quote": "all admitted students (including international students) are fully-funded via employment and/or fellowships.",
+      "url": "https://www.ess.uci.edu/faqs-earth-system-science-ess-graduate-program",
+      "also": [
+        {
+          "quote": "Guaranteed funding and full tuition and fee coverage, including health insurance.",
+          "url": "https://www.ess.uci.edu/phd-earth-system-science"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "TOEFL iBT 80 minimum; a Speaking score of 26 is preferred for TA service.",
+      "quote": "For the TOEFL, a minimum of 80 is required.",
+      "url": "https://www.ess.uci.edu/faqs-earth-system-science-ess-graduate-program"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS overall 7 with no module below 6; Speaking 8 preferred.",
+      "quote": "For the IELTS, an overall minimum of 7 and no less than 6 on any module is required.",
+      "url": "https://www.ess.uci.edu/faqs-earth-system-science-ess-graduate-program"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.ess.uci.edu/prospective-students"
+    }
+  },
+  "notes": "Earth System Science covers atmosphere, ocean, land and climate, so it is filed under environment with earth as a second field. Entry route is not stated."
+}

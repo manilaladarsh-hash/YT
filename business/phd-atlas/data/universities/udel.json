@@ -1,0 +1,65 @@
+{
+  "id": "udel",
+  "institution": "University of Delaware",
+  "country": "USA",
+  "region": "Delaware",
+  "grad_page": "https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The graduate application fee is $75 and is non-refundable.",
+      "quote": "For the current application season the application fee is $75.00. The $75.00 graduate application fee is non-refundable.",
+      "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Waivers cover listed programs such as McNair and GEM; a department may pay the fee on merit, and Computer Science and Chemistry do not.",
+      "quote": "Waiver categories include those who have participated in the following programs:",
+      "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/",
+      "also": [
+        {
+          "quote": "departments may be able to pay the application fee for you based on your academic merit",
+          "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/admissions-faqs/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate College sets no GRE rule; each program decides.",
+      "quote": "it is an admission requirement set by the graduate programs themselves",
+      "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/admissions-faqs/"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "TOEFL iBT minimum is 79 (100 for some programs), or 4 on the new 1-6 scale.",
+      "quote": "Minimum score 79 (100 for some programs)",
+      "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/test-scores/",
+      "also": [
+        {
+          "quote": "Minimum total score of 4",
+          "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/test-scores/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall, with no Speaking sub-score below 6.0, is the equivalent of TOEFL 79.",
+      "quote": "The minimum TOEFL ibt is 79 and this is equal to an IELTS (International English Language Testing System) score of 6.5 overall",
+      "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/test-scores/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the approved country list, so Indian applicants need a test score.",
+      "quote": "If you are an International applicant, proof of English proficiency is required, and waivers are only authorized under strict exceptions.",
+      "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/admissions-faqs/",
+      "also": [
+        {
+          "quote": "Our list of approved countries includes Anguilla ... Zambia and Zimbabwe",
+          "url": "https://www.udel.edu/academics/colleges/grad/prospective-students/grad-admissions/test-scores/"
+        }
+      ]
+    }
+  },
+  "notes": "Duolingo is not accepted. The program pages set their own GRE, TOEFL and English rules where stated."
+}

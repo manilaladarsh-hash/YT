@@ -1,0 +1,59 @@
+{
+  "id": "ista",
+  "institution": "Institute of Science and Technology Austria (ISTA)",
+  "country": "Austria",
+  "region": "Lower Austria",
+  "grad_page": "https://phd.pages.ista.ac.at/apply/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No application fee is stated on the official admissions, FAQ or applicant-guide pages; ISTA says only that it charges no tuition fees.",
+      "quote": "",
+      "url": "https://phd.ista.ac.at/phd-application-admission/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application fee is stated, so no fee waiver rule is given.",
+      "quote": "",
+      "url": "https://phd.ista.ac.at/phd-application-admission/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "Indian applicants need no GRE: ISTA does not ask for a GRE or an English test score.",
+      "quote": "Do I need to submit a TOEFL/IELTS or GRE score? | No, you do not.",
+      "url": "https://phd.ista.ac.at/phd-program-faq-2/"
+    },
+    "toefl_min": {
+      "code": "Not required",
+      "value": "No TOEFL is required; ISTA asks for no formal English certificate, though the program is taught entirely in English.",
+      "quote": "A formal proof of competence in English (IELTS, CPE or TOEFL) is not required.",
+      "url": "https://phd.ista.ac.at/phd-program-faq-2/",
+      "also": [
+        {
+          "quote": "Language tests such as TOEFL, IELTS etc. are not mandatory.",
+          "url": "https://phd.ista.ac.at/instructions-applicants"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "Not required",
+      "value": "No IELTS is required; ISTA asks for no formal English certificate, though the program is taught entirely in English.",
+      "quote": "A formal proof of competence in English (IELTS, CPE or TOEFL) is not required.",
+      "url": "https://phd.ista.ac.at/phd-program-faq-2/",
+      "also": [
+        {
+          "quote": "Language tests such as TOEFL, IELTS etc. are not mandatory.",
+          "url": "https://phd.ista.ac.at/instructions-applicants"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "No English test is required of any applicant, so an English-medium Indian degree needs no waiver.",
+      "quote": "A formal proof of competence in English (IELTS, CPE or TOEFL) is not required.",
+      "url": "https://phd.ista.ac.at/phd-program-faq-2/"
+    }
+  },
+  "notes": "One intake per year. Applicants must show proficiency in written and oral English, which is checked at interview. Master's en-route to PhD is an optional component. The official admissions page (phd.ista.ac.at/phd-application-admission/) returned HTTP 503 on the first two attempts and was fetched on a retry; its content gives no fee."
+}

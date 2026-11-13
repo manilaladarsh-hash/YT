@@ -1,0 +1,53 @@
+{
+  "id": "odu",
+  "institution": "Old Dominion University",
+  "country": "USA",
+  "region": "Virginia",
+  "grad_page": "https://www.odu.edu/admission/graduate",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The non-refundable $50 (USD) application fee is required of all applicants.",
+      "quote": "The non-refundable $50 (USD) application fee is required of all applicants.",
+      "url": "https://www.odu.edu/admission/international/process/answers",
+      "also": [
+        {
+          "quote": "Application and $50 fee",
+          "url": "https://www.odu.edu/admission/international"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The only fee waiver the page names is for McNair Scholars, who must email for a code.",
+      "quote": "McNair Scholars are eligible for an application fee waiver.",
+      "url": "https://www.odu.edu/admission/graduate"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each program; see the program records.",
+      "quote": "",
+      "url": "https://www.odu.edu/admission/graduate/requirements"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT 4.5 for tests taken on or after January 21, 2026.",
+      "quote": "4.5 - For exams taken on or after January 21, 2026",
+      "url": "https://www.odu.edu/admission/proficiency"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall.",
+      "quote": "IELTS 6.5 overall",
+      "url": "https://www.odu.edu/admission/proficiency"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The waiver covers degrees from a country where English is the official language; India is not named, so it is unconfirmed.",
+      "quote": "Possession of a Bachelor's or Master's degree equivalent from an accredited institution located in a country where English is the official language.",
+      "url": "https://www.odu.edu/admission/proficiency"
+    }
+  },
+  "notes": "Old-scale TOEFL iBT 79 (tests taken before January 21, 2026) is an unconfirmed old-scale value and is not saved as a number. The page also says conditional admission is offered pending English proficiency."
+}

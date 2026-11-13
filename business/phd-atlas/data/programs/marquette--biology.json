@@ -1,0 +1,50 @@
+{
+  "id": "marquette--biology",
+  "university": "marquette",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://www.marquette.edu/grad/programs-biological-sciences.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Full consideration requires applications by December 1, 2026 for fall 2027 entry.",
+      "quote": "Application Deadline: December 1",
+      "url": "https://www.marquette.edu/grad/programs-biological-sciences.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE General Test is optional for this program.",
+      "quote": "Optional application requirements: GRE scores (General Test)",
+      "url": "https://www.marquette.edu/grad/programs-biological-sciences.php"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The page lists the GRE Subject Test as optional.",
+      "quote": "GRE scores (Subject Test)",
+      "url": "https://www.marquette.edu/grad/programs-biological-sciences.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page asks applicants to name faculty they would like to work with but does not say a faculty agreement is needed before admission.",
+      "quote": "Which faculty members are you interesting in rotating or working with?",
+      "url": "https://www.marquette.edu/grad/programs-biological-sciences.php"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The department commits to full 12-month support for every PhD student in good standing, including tuition scholarship and stipend.",
+      "quote": "committed to the full 12-month support of each graduate student in good academic standing",
+      "url": "https://www.marquette.edu/grad/programs-biological-sciences.php"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's degree is not a prerequisite for the doctoral program.",
+      "quote": "A master's degree is not a prerequisite for admittance to the doctoral program.",
+      "url": "https://www.marquette.edu/grad/programs-biological-sciences.php"
+    }
+  },
+  "notes": "",
+  "name": "Ph.D. in Biological Sciences"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "fau--math",
+  "university": "fau",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics and Statistics",
+  "program_page": "https://www.fau.edu/graduate/graduate-programs/phd-mathematics",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-07-01",
+      "value": "The fall deadline is July 1.",
+      "quote": "Fall: July 1",
+      "url": "https://www.fau.edu/graduate/graduate-programs/phd-mathematics",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The math pages do not mention a GRE subject test.",
+      "quote": "",
+      "url": "https://www.fau.edu/graduate/graduate-programs/phd-mathematics"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is approved by the graduate committee rather than a named supervisor.",
+      "quote": "Approval of the FAU Mathematics and Statistics Department graduate committee",
+      "url": "https://www.fau.edu/graduate/graduate-programs/phd-mathematics"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Qualified full-time PhD students may be eligible for a teaching assistantship; it is not promised to all.",
+      "quote": "Qualified full-time Ph.D. students may be eligible to receive a Graduate Teaching Assistantship",
+      "url": "https://www.math.fau.edu/ta.php",
+      "also": [
+        {
+          "quote": "These assistantships carry a stipend of $26,000 per calendar year",
+          "url": "https://www.math.fau.edu/ta.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's in mathematics or a related field with a B average is the entry requirement.",
+      "quote": "A baccalaureate in Mathematics or a related field completed with an average of",
+      "url": "https://www.math.fau.edu/phd.php"
+    }
+  },
+  "notes": "The math pages do not mention GRE scores, so GRE fields are Not stated. Stipend figure is from the TA page, undated."
+}

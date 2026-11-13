@@ -1,0 +1,67 @@
+{
+  "id": "uc--physics",
+  "university": "uc",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://www.artsci.uc.edu/natural-sciences/physics/academic-programs/graduate-programs/apply-grad.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Completed applications received by January 15 get full consideration; the committee reviews from February.",
+      "quote": "All completed applications received by January 15 will receive full consideration.",
+      "url": "https://www.artsci.uc.edu/natural-sciences/physics/academic-programs/graduate-programs/apply-grad.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Applicants should take the General GRE; the department strongly encourages the Physics subject test for international applicants.",
+      "quote": "Applicants should take the General GRE, and are strongly encouraged to take the Physics GRE subject area test for international applicants.",
+      "url": "https://www.artsci.uc.edu/natural-sciences/physics/academic-programs/graduate-programs/apply-grad.html"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The Physics GRE subject test is strongly encouraged for international applicants; those without it must show other evidence of achievement.",
+      "quote": "strongly encouraged to take the Physics GRE subject area test for international applicants | Applicants without GRE subject scores must provide other evidence of outstanding achievement and promise.",
+      "url": "https://www.artsci.uc.edu/natural-sciences/physics/academic-programs/graduate-programs/apply-grad.html"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The Physics Department says its application fee cannot be waived.",
+      "quote": "This fee cannot be waived.",
+      "url": "https://www.artsci.uc.edu/natural-sciences/physics/academic-programs/graduate-programs/apply-grad.html"
+    },
+    "toefl_min": {
+      "code": "68",
+      "value": "Physics states a minimum TOEFL iBT of 68, below the graduate school's 80; check this with the department before relying on it.",
+      "quote": "The preference is to have TOEFL IBT scores sent directly by ETS to the Physics Department. | The minimum acceptable score is 68.",
+      "url": "https://www.artsci.uc.edu/natural-sciences/physics/academic-programs/graduate-programs/apply-grad.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Admission requires a bachelor's degree; the department also runs a separate master's program.",
+      "quote": "A student must have a bachelor's degree from a college or university regarded as standard by a regional or general accrediting agency.",
+      "url": "https://www.artsci.uc.edu/natural-sciences/physics/academic-programs/graduate-programs/apply-grad.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applications are judged by the admissions committee; PhD students work with a faculty advisor after starting.",
+      "quote": "The admissions committee will evaluate completed applications beginning in February and until the program is filled for the upcoming fall semester.",
+      "url": "https://www.artsci.uc.edu/natural-sciences/physics/academic-programs/graduate-programs/apply-grad.html",
+      "also": [
+        {
+          "quote": "Subsequently, they pursue their doctoral research under the guidance of a faculty advisor.",
+          "url": "https://www.artsci.uc.edu/natural-sciences/physics/academic-programs/graduate-programs.html"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department says it may offer full tuition plus stipend support to PhD students; it does not say most are funded.",
+      "quote": "The department may offer full tuition plus stipend support to our PhD program’s students.",
+      "url": "https://www.artsci.uc.edu/natural-sciences/physics/academic-programs/graduate-programs/apply-grad.html"
+    }
+  },
+  "notes": "The graduate school sets TOEFL 80; Physics states 68. No separate astronomy PhD appears on the College of Arts and Sciences doctoral list."
+}

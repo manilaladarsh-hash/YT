@@ -1,0 +1,43 @@
+{
+  "id": "albany--math",
+  "university": "albany",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics & Statistics",
+  "program_page": "https://www.albany.edu/math/programs/phd-mathematics",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Apply by February 1, 2027 for departmental assistantship consideration; without it, the deadline is August 1.",
+      "quote": "Departmental Assistantship Consideration Fall: February 1",
+      "url": "https://www.albany.edu/math/programs/phd-mathematics",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The math page says nothing on a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.albany.edu/math/programs/phd-mathematics"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The math page does not say whether a supervisor's agreement is needed.",
+      "quote": "",
+      "url": "https://www.albany.edu/math/programs/phd-mathematics"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The math page gives assistantship consideration dates but no funding rule.",
+      "quote": "",
+      "url": "https://www.albany.edu/math/programs/phd-mathematics"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The Graduate School requires only a bachelor's degree before a PhD starts; the department page lists no master's requirement.",
+      "quote": "To be eligible for graduate study, you must have a bachelor's degree from an accredited college or university prior to starting the program",
+      "url": "https://www.albany.edu/graduate/admissions/apply-degree-or-certificate-program"
+    }
+  },
+  "notes": "The PhD page says the dissertation is a contribution to 'mathematics or statistics'. Biostatistics is saved separately under statistics."
+}

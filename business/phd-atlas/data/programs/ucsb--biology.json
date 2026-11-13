@@ -1,0 +1,61 @@
+{
+  "id": "ucsb--biology",
+  "university": "ucsb",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Ecology, Evolution and Marine Biology",
+  "program_page": "https://www.eemb.ucsb.edu/academics/graduate/apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The FAQ says December 1 (year not shown); the apply page and Graduate Division directory give December 2, 2026.",
+      "quote": "Our application deadline is December 1.",
+      "url": "https://www.eemb.ucsb.edu/academics/graduate/faqs",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Application Deadline December 2, 2026",
+          "url": "https://www.eemb.ucsb.edu/academics/graduate/apply"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "EEMB no longer considers the GRE.",
+      "quote": "EEMB no longer considers the GRE for admission",
+      "url": "https://www.eemb.ucsb.edu/academics/graduate/apply"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "EEMB no longer considers the GRE.",
+      "quote": "EEMB no longer considers the GRE for admission",
+      "url": "https://www.eemb.ucsb.edu/academics/graduate/apply"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You need a faculty mentor who agrees to supervise you before you are admitted.",
+      "quote": "The graduate program in EEMB does not accept graduate students without support from a faculty mentor.",
+      "url": "https://www.eemb.ucsb.edu/academics/graduate/apply",
+      "also": [
+        {
+          "quote": "Applicants to the Department must be accepted by a major professor with whom they wish to work and who has agreed to supervise the student's graduate training and thesis dissertation research.",
+          "url": "https://www.eemb.ucsb.edu/academics/graduate/apply"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Department funds are very limited; funding depends on the admitting faculty, and after the first year the student and advisor find funding.",
+      "quote": "We have very limited department funds, but we try to fund our students through their first year as much as we can.",
+      "url": "https://www.eemb.ucsb.edu/academics/graduate/faqs"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is the stated requirement.",
+      "quote": "A Bachelor's degree is required.",
+      "url": "https://www.eemb.ucsb.edu/academics/graduate/apply"
+    }
+  },
+  "notes": "The department's financial-support FAQ mentions a December 15 date for financial-support consideration; apply by the earlier date."
+}

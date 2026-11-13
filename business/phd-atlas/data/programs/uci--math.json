@@ -1,0 +1,67 @@
+{
+  "id": "uci--math",
+  "university": "uci",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://math.uci.edu/how-to-apply/",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "All application materials are due December 1 (once a year, Fall admission only).",
+      "quote": "Deadline: December 1 for all materials.",
+      "url": "https://math.uci.edu/how-to-apply/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The General GRE is not required.",
+      "quote": "General GRE is not required.",
+      "url": "https://math.uci.edu/how-to-apply/"
+    },
+    "gre_subject": {
+      "code": "Required",
+      "value": "The GRE Mathematics Subject Test is required; if you cannot take it for reasons beyond your control you may apply with a future test date and an explanation.",
+      "quote": "GRE Math Subject Test: Required for both PhD and MS programs.",
+      "url": "https://math.uci.edu/how-to-apply/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by committee; students pick an advisor by the beginning of the third year.",
+      "quote": "By the beginning of the third year, students select an advisor specializing in their major area.",
+      "url": "https://math.uci.edu/math-graduate-program-requirements/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Financial support is typically provided for up to 6 years; apply by the December 1 deadline to be considered for support.",
+      "quote": "Financial support is typically provided for up to 6 years",
+      "url": "https://math.uci.edu/math-graduate-program-requirements/",
+      "also": [
+        {
+          "quote": "To be considered for admission and financial support, applicants need to complete their application by the deadline of December 1st for Fall admission.",
+          "url": "https://math.uci.edu/how-to-apply/"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "TOEFL iBT 80 (or IELTS 7, or a WHED English-medium degree); TA employment needs TOEFL Speaking 26+ or IELTS Speaking 8+.",
+      "quote": "International applicants must submit a TOEFL score of minimum IBT 80, or IELTS minimum 7",
+      "url": "https://math.uci.edu/how-to-apply/"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS 7 overall (alternative to TOEFL 80).",
+      "quote": "International applicants must submit a TOEFL score of minimum IBT 80, or IELTS minimum 7",
+      "url": "https://math.uci.edu/how-to-apply/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://math.uci.edu/how-to-apply/"
+    }
+  },
+  "notes": "Entry route is not stated on the pages checked."
+}

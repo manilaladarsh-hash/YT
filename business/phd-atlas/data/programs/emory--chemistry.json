@@ -1,0 +1,67 @@
+{
+  "id": "emory--chemistry",
+  "university": "emory",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://chemistry.emory.edu/graduate/apply.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Chemistry's PhD application deadline is December 1; the page gives no year, so 2026 is inferred for Fall 2027 entry.",
+      "quote": "The application deadline is December 1.",
+      "url": "https://chemistry.emory.edu/graduate/apply.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The department does not require or accept GRE scores.",
+      "quote": "Our department does not require or accept GRE scores.",
+      "url": "https://chemistry.emory.edu/graduate/apply.html"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "The department does not require or accept GRE scores, including the subject test.",
+      "quote": "Our department does not require or accept GRE scores.",
+      "url": "https://chemistry.emory.edu/graduate/apply.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "TOEFL or IELTS is required unless the applicant studied a year in an English-speaking country; the suggested TOEFL figure is on an unclear scale, so no minimum is recorded.",
+      "quote": "",
+      "url": "https://chemistry.emory.edu/graduate/apply.html"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Chemistry suggests a minimum IELTS of 7, but reviews every application holistically.",
+      "quote": "We suggest a minimum score of 5 (TOEFL) or 7 (IELTS), but we review every application holistically.",
+      "url": "https://chemistry.emory.edu/graduate/apply.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by an admissions committee into a rotations programme; no advisor is needed beforehand.",
+      "quote": "there is no need to secure an advisor prior to admission",
+      "url": "https://chemistry.emory.edu/graduate/apply.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All accepted chemistry PhD applicants get a $43,260 base stipend and a full tuition waiver.",
+      "quote": "All accepted applicants receive our generous base stipend.",
+      "url": "https://chemistry.emory.edu/graduate/apply.html",
+      "also": [
+        {
+          "quote": "100% Tuition Subsidy and Insurance Waiver",
+          "url": "https://chemistry.emory.edu/graduate/apply.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page says an MS can be earned on the way to the PhD but does not say whether a bachelor's alone is enough.",
+      "quote": "",
+      "url": "https://chemistry.emory.edu/graduate/apply.html"
+    }
+  },
+  "notes": "Chemistry's application runs through Laney. The Peterson's listing (GRE and January 3 deadline) is third-party and was not used. Apply-by Nov 15 link on the homepage is not explained on the apply page and was not used."
+}

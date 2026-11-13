@@ -1,0 +1,51 @@
+{
+  "id": "txstate--math",
+  "university": "txstate",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Department of Mathematics",
+  "program_page": "https://www.gradcollege.txst.edu/programs/math-phd.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "International applicants should apply by January 1, 2027 for priority review; the standard deadline is June 1, 2027.",
+      "quote": "Fall - Priority U.S. CITIZEN January 1 INTERNATIONAL January 1",
+      "url": "https://www.gradcollege.txst.edu/programs/math-phd.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE is required, so there is no subject test.",
+      "quote": "GRE not required",
+      "url": "https://www.gradcollege.txst.edu/programs/math-phd.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE is not required; applicants whose GPA is not competitive may be asked to submit scores for review.",
+      "quote": "GRE not required, however, applicants whose GPA is not deemed competitive by the program may be offered the opportunity to submit GRE scores for review",
+      "url": "https://www.gradcollege.txst.edu/programs/math-phd.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The program pages do not say whether a supervisor is needed before admission.",
+      "quote": "",
+      "url": "https://www.gradcollege.txst.edu/programs/math-phd.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages describe assistant-instructor stipends but do not say how many students are funded.",
+      "quote": "",
+      "url": "https://www.gradcollege.txst.edu/programs/math-phd.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants can enter with a bachelor's in mathematics or statistics; a master's can earn up to 30 hours of waived coursework.",
+      "quote": "Baccalaureate degree in mathematics, statistics, or a closely related discipline from a regionally accredited university | Applicants who have completed a master’s degree in mathematics, statistics, or a closely related discipline from an accredited college or university can, upon approval of the program advisor, have up to 30 hours of coursework waived",
+      "url": "https://www.gradcollege.txst.edu/programs/math-phd.html"
+    }
+  },
+  "notes": "Statistics concentration of the Mathematics PhD is listed as also_fields."
+}

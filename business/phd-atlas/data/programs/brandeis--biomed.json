@@ -1,0 +1,56 @@
+{
+  "id": "brandeis--biomed",
+  "university": "brandeis",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Biochemistry and Biophysics",
+  "program_page": "https://www.brandeis.edu/biochemistry-biophysics/phd-program.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026 (Round 1) for Fall 2027 entry.",
+      "quote": "Chemistry, Psychology, Molecular and Cell Biology, Neuroscience, Biochemistry and Biophysics | December 1",
+      "url": "https://www.brandeis.edu/graduate-admissions/apply/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE scores are not considered for the Biochemistry and Biophysics PhD.",
+      "quote": "Biochemistry and Biophysics, Molecular and Cell Biology, Neuroscience: GRE scores are not considered in the admissions process.",
+      "url": "https://www.brandeis.edu/graduate-admissions/apply/phd.html"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "GRE scores are not considered for the Biochemistry and Biophysics PhD.",
+      "quote": "Biochemistry and Biophysics, Molecular and Cell Biology, Neuroscience: GRE scores are not considered in the admissions process.",
+      "url": "https://www.brandeis.edu/graduate-admissions/apply/phd.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is by the BCBP Admissions Committee; students then complete four 9-week lab rotations.",
+      "quote": "four 9-week laboratory rotations",
+      "url": "https://www.brandeis.edu/biochemistry-biophysics/phd-program.html",
+      "also": [
+        {
+          "quote": "the BCBP Admissions Committee invites specific applicants to visit Brandeis",
+          "url": "https://www.brandeis.edu/biochemistry-biophysics/apply.html"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All Biochemistry and Biophysics PhD students are guaranteed stipend, full tuition and health insurance while making satisfactory progress.",
+      "quote": "All Biochemistry and Biophysics PhD students are guaranteed funding, including stipend, full tuition, and health insurance",
+      "url": "https://www.brandeis.edu/biochemistry-biophysics/phd-program.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need a bachelor's degree to apply.",
+      "quote": "You must hold (or be about to earn) a bachelor’s degree from an accredited U.S. or international institution.",
+      "url": "https://www.brandeis.edu/graduate-admissions/apply/phd.html"
+    }
+  },
+  "notes": "Filed under biomed as the closest Atlas field; Molecular and Cell Biology holds biology. Dates and funding from the program page and the graduate school table.",
+  "name": "Biochemistry and Biophysics"
+}

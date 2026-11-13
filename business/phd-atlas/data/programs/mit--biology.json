@@ -1,0 +1,62 @@
+{
+  "id": "mit--biology",
+  "university": "mit",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://oge.mit.edu/programs/biology/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026, 11:59 PM US Eastern (application opens October 1). Requests for an English-test waiver close November 18, 2026.",
+      "quote": "Deadline: December 1 at 11:59 PM Eastern Time",
+      "url": "https://oge.mit.edu/programs/biology/",
+      "inferred": "year",
+      "time_sensitive": "2026-11-18"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "Biology does not accept GRE scores.",
+      "quote": "The Department of Biology does not accept GRE scores and will not consider GRE scores during the evaluation of your application.",
+      "url": "https://oge.mit.edu/programs/biology/"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "No GRE scores are considered.",
+      "quote": "The Department of Biology does not accept GRE scores",
+      "url": "https://oge.mit.edu/programs/biology/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Biology considers English-test waiver requests case by case (instructions on the application's Test Score Instructions page); requests close November 18, 2026.",
+      "quote": "The Department of Biology considers English Language Proficiency test requirement waivers by request on a case by case basis. | The last day to request a waiver for the ELP test requirement is November 18, 2026.",
+      "url": "https://oge.mit.edu/programs/biology/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is to the department; you do three four-week lab rotations in the spring of year 1 and choose a thesis lab by the end of May.",
+      "quote": "During your second semester, you will sample different lab environments and styles during three four-week laboratory rotations. | After completing three rotations, you will choose a lab by the end of May and begin full-time research.",
+      "url": "https://biology.mit.edu/graduate/why-mit-biology/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All doctoral students receive full tuition, a living stipend and individual health insurance.",
+      "quote": "All doctoral graduate students receive: Full-tuition coverage Stipend to cover living expenses",
+      "url": "https://oge.mit.edu/programs/biology/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "MIT does not require a master's degree to apply for a PhD; you can apply from a bachelor's degree (final-year students may be admitted if the degree is awarded before enrolment). Biology offers no master's; it is a doctoral programme only.",
+      "quote": "The Institute does not require applicants to hold a master’s or other advanced degree in order to apply to a Ph.D program.",
+      "url": "https://oge.mit.edu/graduate-admissions/applications/procedures/",
+      "also": [
+        {
+          "quote": "MIT Graduate Biology is a doctoral program. There is no Masters offered.",
+          "url": "https://biology.mit.edu/graduate/prospective-students/application-process/"
+        }
+      ]
+    }
+  },
+  "notes": "Test scores must be verified by April 15, 2027. Cambridge C1/C2 (190) is also accepted. MIT also runs separate PhD admissions in Microbiology and in Computational and Systems Biology (not recorded separately here)."
+}

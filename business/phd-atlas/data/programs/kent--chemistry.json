@@ -1,0 +1,85 @@
+{
+  "id": "kent--chemistry",
+  "university": "kent",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry and Biochemistry",
+  "program_page": "https://www.kent.edu/chemistry/chemistry-phd",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Priority deadline for Fall is December 15; applications are accepted until positions are filled.",
+      "quote": "Priority deadline: December 15",
+      "url": "https://www.kent.edu/chemistry/chemistry-phd",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "However, applications will be accepted until all positions are filled.",
+          "url": "https://www.kent.edu/chemistry/graduate-admissions-requirements"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The general GRE is encouraged but not required. The requirements page also says it is required, which is not resolved.",
+      "quote": "It is recommended (not required) that all applicants have the results of the Graduate Record Examination (GRE) sent directly to the University",
+      "url": "https://www.kent.edu/chemistry/graduate-admissions-requirements",
+      "also": [
+        {
+          "quote": "We encourage applicants to submit the general GRE; however, it is not required.",
+          "url": "https://www.kent.edu/chemistry/admissions-faq"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The Chemistry subject GRE is not required, but applicants are encouraged to send one.",
+      "quote": "Although the subject GRE is not required, candidates are encouraged to provide a subject GRE score to strengthen their file",
+      "url": "https://www.kent.edu/chemistry/graduate-admissions-requirements"
+    },
+    "toefl_min": {
+      "code": "71",
+      "value": "The department requires TOEFL iBT 71.",
+      "quote": "Minimum 71 TOEFL iBT score",
+      "url": "https://www.kent.edu/chemistry/chemistry-phd"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "The department requires IELTS 6.0.",
+      "quote": "Minimum 6.0 IELTS score",
+      "url": "https://www.kent.edu/chemistry/chemistry-phd"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The department says neither it nor the university can waive the application fee.",
+      "quote": "Neither the Department nor the University is able to waive the application fee",
+      "url": "https://www.kent.edu/chemistry/admissions-faq"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No advisor needs to be chosen before applying; admission is decided by the graduate committee.",
+      "quote": "Do I need to contact and choose an advisor prior to applying to the graduate program? | No.",
+      "url": "https://www.kent.edu/chemistry/admissions-faq",
+      "also": [
+        {
+          "quote": "Admissions decisions are based on a holistic review of the applicant's file by our graduate committee",
+          "url": "https://www.kent.edu/chemistry/admissions-faq"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most doctoral applicants are considered for a teaching assistantship with tuition paid; the department says it does not usually admit PhD students without funding.",
+      "quote": "It is not our standard practice to admit doctoral students without financial support",
+      "url": "https://www.kent.edu/chemistry/admissions-faq"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with a bachelor's degree or higher can apply; the page also gives a separate credit path for master's holders.",
+      "quote": "Bachelor's degree or higher from an accredited college or university | Minimum Total Credit Hours for Post-Master's Students",
+      "url": "https://www.kent.edu/chemistry/chemistry-phd"
+    }
+  },
+  "notes": "Department pages disagree on the GRE: the requirements page says 'The general GRE exam is required' in one sentence and 'recommended (not required)' in another; the FAQ says not required. Saved as Recommended. Teaching assistantship stipend is listed on the requirements page."
+}

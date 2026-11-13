@@ -1,0 +1,61 @@
+{
+  "id": "pitt--math",
+  "university": "pitt",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://www.mathematics.pitt.edu/graduate/admissions-and-financial-aid",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "January 15, 2027 for admission and financial aid for Fall 2027.",
+      "quote": "The deadline for consideration for admission and financial aid for graduate applications is January 15 for the following fall semester.",
+      "url": "https://www.mathematics.pitt.edu/graduate/admissions-and-financial-aid",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE is not required; scores may be submitted and high scores help.",
+      "quote": "GRE scores are not required for application to, and acceptance to, our program. Scores may be submitted, and high scores on these exams will contribute to an application's chance of admission.",
+      "url": "https://www.mathematics.pitt.edu/graduate/admissions-and-financial-aid"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "Mathematics subject GRE may be submitted but is not required.",
+      "quote": "The GRE test is not required and applications without GRE will receive full consideration.",
+      "url": "https://www.mathematics.pitt.edu/graduate/admissions-and-financial-aid",
+      "also": [
+        {
+          "quote": "if also possible, on the GRE Subject Test in mathematics",
+          "url": "https://www.mathematics.pitt.edu/graduate/admissions-and-financial-aid"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "The department advertises financial aid packages (teaching or research assistantships, fellowships) for PhD students, but does not state a guarantee.",
+      "quote": "Attractive financial aid packages for PhD students, including teaching assistantships, research assistantships, and fellowships.",
+      "url": "https://www.mathematics.pitt.edu/graduate",
+      "also": [
+        {
+          "quote": "Teaching assistants and teaching fellows (PhD students only) normally conduct six hours of undergraduate recitation and laboratory sections per week",
+          "url": "https://www.mathematics.pitt.edu/graduate/admissions-and-financial-aid"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree in mathematics or a closely related field is enough (minimum QPA 3.0 overall and 3.25 in mathematics).",
+      "quote": "an applicant must have a bachelor's degree in mathematics or a closely related field, a minimum overall QPA of 3.0",
+      "url": "https://www.mathematics.pitt.edu/graduate/admissions-and-financial-aid"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked",
+      "quote": "",
+      "url": "https://www.mathematics.pitt.edu/graduate/admissions-and-financial-aid"
+    }
+  },
+  "notes": "The department page still quotes the old TOEFL 90 minimum (22 per section) and IELTS 7.0; the Dietrich new-scale TOEFL minimum applies to tests taken from 21 January 2026."
+}

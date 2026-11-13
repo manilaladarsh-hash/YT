@@ -1,0 +1,47 @@
+{
+  "id": "umontana",
+  "institution": "University of Montana",
+  "country": "USA",
+  "region": "Montana",
+  "grad_page": "https://www.umt.edu/grad/apply/international.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "70 USD",
+      "value": "The first application fee is $70; each later application within 12 months is $25.",
+      "quote": "The first application fee is $70.00; any application after, within a 12 month period is $25.00.",
+      "url": "https://www.umt.edu/grad/apply/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "No need-based fee waiver; only McNair Scholars and UM TRIO undergraduates get one.",
+      "quote": "There are no need-based application fee waivers.",
+      "url": "https://www.umt.edu/grad/faq/default.php"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School's pages do not mention the GRE; each program sets its own rule.",
+      "quote": "",
+      "url": "https://www.umt.edu/grad/apply/international.php"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT minimum is 4.5 on the new scale for tests taken after 21 January 2026.",
+      "quote": "TOEFL IBT (Home Edition also accepted) - For exams taken after January 21st, 2026 | Minimum score: 4.5",
+      "url": "https://www.umt.edu/grad/apply/international.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic minimum is 6.5 overall.",
+      "quote": "Minimum score: 6.5",
+      "url": "https://www.umt.edu/grad/apply/international.php"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "An Indian degree waives the test only if its institution's primary language of instruction was English and the university gets a verification. The exempt-country list (Policy A8.300) could not be checked.",
+      "quote": "If you received a degree from an institution whose primary language of instruction was English, we can accept a verification of language of instruction in place of an English proficiency exam.",
+      "url": "https://www.umt.edu/grad/faq/default.php"
+    }
+  },
+  "notes": "Catalog pages with the full graduate policy (A8.200/A8.300 exempt-country list) returned HTTP 502, so India's status on that list is unverified. The undergraduate exemptions page was not used. Department-level rules are in the program records."
+}

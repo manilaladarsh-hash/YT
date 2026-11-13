@@ -1,0 +1,47 @@
+{
+  "id": "unige",
+  "institution": "University of Geneva",
+  "country": "Switzerland",
+  "region": "Geneva",
+  "grad_page": "https://www.unige.ch/doctorat/en/une-these/une-these-geneve",
+  "checked": "2026-10-29",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No application fee is stated on the official pages reached. The CHF 65 on the Life Sciences FAQ is a registration fee deducted from first-semester fees, not an application fee.",
+      "quote": "",
+      "url": "https://lifesciencesphd.unige.ch/faq-applicants"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No international application-fee waiver is stated on the official pages reached.",
+      "quote": "",
+      "url": "https://lifesciencesphd.unige.ch/faq-applicants"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement is stated on the official pages reached.",
+      "quote": "",
+      "url": "https://lifesciencesphd.unige.ch/faq-applicants"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "No central TOEFL minimum is stated on the pages reached.",
+      "quote": "",
+      "url": "https://lifesciencesphd.unige.ch/faq-applicants"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "No central IELTS minimum is stated on the pages reached.",
+      "quote": "",
+      "url": "https://lifesciencesphd.unige.ch/faq-applicants"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "No India or English-medium degree rule is stated on the official pages reached.",
+      "quote": "",
+      "url": "https://lifesciencesphd.unige.ch/faq-applicants"
+    }
+  },
+  "notes": "Blocked to the fetcher (bot-check or support-ID rejection, plain HTTP and headless Chromium), so not used: https://www.unige.ch/doctorat/en/une-these/une-these-geneve ; https://www.unige.ch/doctorat/en/une-these/programs/programmes-doctoraux (official list of doctoral programmes) ; https://www.unige.ch/doctorat/en/une-these/admission ; https://www.unige.ch/admissions/englishCorner/doctorate ; https://www.unige.ch/admissions/sinscrire/immatenglish/ ; https://www.unige.ch/immatriculations/en/conditions ; https://www.unige.ch/immatriculations/en/informations/fees ; https://www.unige.ch/immatriculations/en/faq ; https://www.unige.ch/sciences/enseignements/formations/doctorats ; https://www.unige.ch/sciences/espace-etudiant/mondoctorat/parcours-de-these ; https://www.unige.ch/sciences/en/secretariatetudiants/mondoctorat/parcours-de-these ; https://www.unige.ch/sciences/physique/en/programs-study/phd ; https://www.unige.ch/doctorat/en/une-these/programs/sciences/programe-doctoral-en-mathematiques ; https://www.unige.ch/dinfo/en/other-programs/doctorat ; https://www.unige.ch/sciences/astro/en/education/services-for-students/first-steps ; https://www.unige.ch/sciences/chimie/teaching/general-information-2/doctorat ; https://www.unige.ch/sciences/biochimie/phd-program ; https://www.unige.ch/gsem/en/programs/phd/statistics ; https://www.unige.ch/environnement/en/education/learning-programs . Reached but not fee, English or GRE rules: https://vie-de-campus.unige.ch/campus-life/administrative-procedures/reimm/doctorat (re-enrolment page only)."
+}

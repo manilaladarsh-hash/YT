@@ -1,0 +1,54 @@
+{
+  "id": "stanford--materials",
+  "university": "stanford",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Department of Materials Science and Engineering",
+  "program_page": "https://mse.stanford.edu/academics-admissions/how-to-apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "PhD applications are due December 1, 2026 for Fall 2027 entry; no late applications.",
+      "quote": "The deadlines to apply are December 1, 2026, for PhD applicants and January 12, 2027, for MS applicants.",
+      "url": "https://mse.stanford.edu/academics-admissions/how-to-apply"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "No GRE scores (general or subject) are accepted.",
+      "quote": "MSE Admissions will NOT accept GRE Scores Submitted.",
+      "url": "https://mse.stanford.edu/academics-admissions/frequently-asked-questions"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The GRE is not required and MSE will not accept GRE scores.",
+      "quote": "Scores from the general or subject Graduate Record Examination (GRE) are not required for admission to the Materials Science and Engineering PhD or MS Programs for Fall 2027 entry.",
+      "url": "https://mse.stanford.edu/academics-admissions/how-to-apply",
+      "also": [
+        {
+          "quote": "No, the GRE is not required. MSE Admissions will NOT accept GRE Scores Submitted.",
+          "url": "https://mse.stanford.edu/academics-admissions/frequently-asked-questions"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You are admitted to the department as a whole and matched with an advisor during the first year; no advisor is needed before applying.",
+      "quote": "Applicants are not expected to have a confirmed PhD faculty advisor before applying. We admit students to the department as a whole, and their faculty advisors are matched during the first year of the program.",
+      "url": "https://mse.stanford.edu/academics-admissions/frequently-asked-questions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All PhD students get full support (stipend/salary, tuition, health insurance subsidy) for the whole program while making satisfactory progress.",
+      "quote": "We provide full financial support to all of our PhD students for the duration of their program, contingent on maintaining satisfactory degree progress.",
+      "url": "https://mse.stanford.edu/academics-admissions/frequently-asked-questions"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree (or international equivalent) is the minimum requirement.",
+      "quote": "You must hold, or expect to hold before enrollment at Stanford, a U.S. bachelor’s degree or its international equivalent from a college or university of recognized standing.",
+      "url": "https://gradadmissions.stanford.edu/apply/eligibility"
+    }
+  },
+  "notes": "Single Fall-entry cycle."
+}

@@ -1,0 +1,61 @@
+{
+  "id": "miami--ece",
+  "university": "miami",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical and Computer Engineering",
+  "program_page": "https://bulletin.miami.edu/graduate-academic-programs/engineering/electrical-computer-engineering/electrical-computer-engineering-phd/",
+  "checked": "2026-11-12",
+  "fields": {
+    "app_fee": {
+      "code": "85 USD",
+      "value": "The College's application fee is $85.00 USD, non-refundable.",
+      "quote": "A non-refundable application fee of $85.00 USD",
+      "url": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html"
+    },
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The College's priority deadline for fall 2027 entry is December 1, 2026; later applications are reviewed on a space-available basis.",
+      "quote": "Fall 2027 - Priority deadline - December 1",
+      "url": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The College says the GRE is not required.",
+      "quote": "GRE is NOT required",
+      "url": "https://www.coe.miami.edu/academics/admissions/prospective-phd-students/index.html"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly encouraged to contact faculty before applying, but admission does not require a supervisor.",
+      "quote": "Potential applicants are strongly encouraged to contact faculty experts in their field of expertise",
+      "url": "https://www.coe.miami.edu/academics/programs/doctorate-programs/index.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted doctoral students receive financial assistance: a monthly stipend and a full tuition waiver.",
+      "quote": "all doctoral students receive financial assistance including a monthly stipend and a full tuition waiver",
+      "url": "https://www.coe.miami.edu/academics/programs/doctorate-programs/index.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The bulletin lists a BS-to-PhD track for students entering with only a B.S. degree in Engineering.",
+      "quote": "FOR STUDENTS WITH ONLY A B.S. DEGREE IN ENGINEERING",
+      "url": "https://bulletin.miami.edu/graduate-academic-programs/engineering/electrical-computer-engineering/electrical-computer-engineering-phd/",
+      "also": [
+        {
+          "quote": "PhD in Electrical and Computer Engineering (BS-to-PhD)",
+          "url": "https://bulletin.miami.edu/graduate-academic-programs/engineering/electrical-computer-engineering/electrical-computer-engineering-phd/"
+        }
+      ]
+    }
+  },
+  "notes": "College of Engineering PhD rules (one page for all six departments). The college admits PhD students only for fall. The college international page (grad.miami.edu) sets the English test rules, so no English override. Department PhD pages were not fetched separately."
+}

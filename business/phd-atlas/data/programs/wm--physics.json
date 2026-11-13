@@ -1,0 +1,55 @@
+{
+  "id": "wm--physics",
+  "university": "wm",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics (School of Computing, Data Sciences & Physics)",
+  "program_page": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/phys/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No deadline could be verified: the physics admissions page on cdsp.wm.edu returned errors, and the catalog defers to each program's own deadline.",
+      "quote": "",
+      "url": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/phys/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores, general or physics subject, are not required and do not hurt an application if left out.",
+      "quote": "The general and physics subject GRE scores are not required but may optionally be supplied | The absence of GRE scores will not negatively affect the application",
+      "url": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/phys/"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Physics GRE Subject test is optional.",
+      "quote": "The general and physics subject GRE scores are not required but may optionally be supplied",
+      "url": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/phys/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The physics page does not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/phys/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The department will try to fund PhD students who make satisfactory progress, but the page does not say what share is funded.",
+      "quote": "",
+      "url": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/phys/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with only a bachelor's degree are admitted directly to the PhD but must finish the M.S. requirements before the PhD work.",
+      "quote": "Students are admitted directly to the Ph.D. program | Students applying with an undergraduate degree must satisfactorily complete the M.S. requirements before working towards the PhD.",
+      "url": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/phys/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "The physics program can recommend a waiver of TOEFL or IELTS for applicants whose degree was taught in English; an Indian degree needs that recommendation.",
+      "quote": "Upon the recommendation of the physics program the TOEFL/IELTS requirement can be waived for applicants who will have received a degree from a college or university in which English is the primary language of instruction",
+      "url": "https://catalog.wm.edu/graduate/school-computing-data-sciences-physics/departments/phys/"
+    }
+  },
+  "notes": "Physics PhD in the CDSP catalog. Deadline page cdsp.wm.edu/admissions/graduate/physics/ is blocked (502), so the deadline is Not stated. Application fee is the CDSP $50, same as the university record.",
+  "name": "Physics, Ph.D."
+}

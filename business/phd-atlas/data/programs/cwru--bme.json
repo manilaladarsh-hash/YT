@@ -1,0 +1,61 @@
+{
+  "id": "cwru--bme",
+  "university": "cwru",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Biomedical Engineering",
+  "program_page": "https://case.edu/bme/academics/graduate/doctoral-programs/phd-program-biomedical-engineering",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The how-to-apply page gives May 31 and December 15 with no year, so no date is recorded.",
+      "quote": "Even though the application deadline for the PhD program in biomedical engineering is May 31 to be considered for the fall semester, you should apply by Dec. 15 to be considered for the regular recruitment process and Open House.",
+      "url": "https://case.edu/bme/academics/graduate/how-apply"
+    },
+    "toefl_min": {
+      "code": "5.0 (new scale)",
+      "value": "The School sets 5.0 on the new scale, with no section below 4.0, for tests from 21 January 2026. The department page still lists 100.",
+      "quote": "Biomedical Engineering: For TOEFL exams taken on or after January 21, 2026, the minimum score is 5.0 with no subscore lower than 4.0.",
+      "url": "https://case.edu/gradstudies/prospective-students/instructions-requirements",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "For students whose first language is not English, a minimum TOEFL score of 100 is required for unconditional admission.",
+          "url": "https://case.edu/bme/academics/graduate/how-apply"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department says the GRE is not required.",
+      "quote": "GRE is not required.",
+      "url": "https://case.edu/bme/academics/graduate/how-apply"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE Subject test applies, and the department says the GRE is not required.",
+      "quote": "GRE is not required.",
+      "url": "https://case.edu/bme/academics/graduate/how-apply"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants applying outside the regular cycle should first identify an interested professor or lab.",
+      "quote": "Students interested in admission outside of this cycle should first identify an interested professor/lab before applying.",
+      "url": "https://case.edu/bme/academics/graduate/how-apply"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Fellowships and research assistantships are available, but the page does not say most or all students are funded.",
+      "quote": "Numerous fellowships and research assistantships are available to support you in your studies.",
+      "url": "https://case.edu/bme/academics/graduate/doctoral-programs/phd-program-biomedical-engineering"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not state which degree is needed for the PhD.",
+      "quote": "",
+      "url": "https://case.edu/bme/academics/graduate/how-apply"
+    }
+  },
+  "notes": "Applications go through the School of Graduate Studies. The how-to-apply page's TOEFL 100 sentence is older than the School's new TOEFL scale, so the conflict flag is set. Blocked: none."
+}

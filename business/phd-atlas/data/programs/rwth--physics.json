@@ -1,0 +1,54 @@
+{
+  "id": "rwth--physics",
+  "university": "rwth",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics (Faculty 1)",
+  "program_page": "https://www.physik.rwth-aachen.de/cms/physik/studium/nach-dem-studium/~bvcvii/promotion/?lidx=1",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The central table gives a winter-term window with no year, which may not be the Fall 2027 intake; confirm with the Faculty 1 Dean's Office.",
+      "quote": "",
+      "url": "https://www.rwth-aachen.de/global/show_document.asp?id=aaaaaaaaacjbkfq&download=1"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The physics doctorate page does not mention the GRE Physics subject test.",
+      "quote": "",
+      "url": "https://www.physik.rwth-aachen.de/cms/physik/studium/nach-dem-studium/~bvcvii/promotion/?lidx=1"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A named doctoral advisor is needed, and a professor must confirm in writing that they will supervise before admission.",
+      "quote": "The doctoral advisor of the dissertation, who is also the reviewer, as well as a second reviewer must be named in writing at the beginning of the doctoral studies",
+      "url": "https://www.fb1.rwth-aachen.de/global/show_document.asp?id=aaaaaaaachkbpad",
+      "also": [
+        {
+          "quote": "a written confirmation by a RWTH professor that he or she is willing to act as the candidate's academic supervisor",
+          "url": "https://www.rwth-aachen.de/go/id/cfov/lidx/1"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The pages checked do not say that most physics PhD candidates are funded.",
+      "quote": "",
+      "url": "https://www.fb1.rwth-aachen.de/global/show_document.asp?id=aaaaaaaachkbpad",
+      "also": [
+        {
+          "quote": "frequently, doctoral candidates are employed",
+          "url": "https://www.rwth-aachen.de/go/id/cfov/lidx/1"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Usually a research-university degree equal to a German Master's is needed, and RWTH's International Office checks equivalence.",
+      "quote": "This degree has to be equivalent to a German Master's degree",
+      "url": "https://www.rwth-aachen.de/go/id/cgew/lidx/1"
+    }
+  },
+  "notes": "Physics has no physics-specific admission, fee, GRE or English rule on its doctorate page; the physics page says Faculty 1 runs the doctoral process. Deadline is the central RWTH Promotion window (day and month only, year inferred). The window may refer to an intake starting in October 2026, so confirm the Fall 2027 window with the Faculty 1 Dean's Office. Funding not stated on the pages checked."
+}

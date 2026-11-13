@@ -1,0 +1,53 @@
+{
+  "id": "txstate",
+  "institution": "Texas State University",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://www.gradcollege.txst.edu/admissions/policy.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "90 USD",
+      "value": "The non-refundable graduate application fee is $90 for applicants with international credentials ($55 for others).",
+      "quote": "$90 for applications with international credentials",
+      "url": "https://www.gradcollege.txst.edu/admissions/policy.html"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Fee waivers are need-based, for applicants from economically disadvantaged backgrounds; you request one from Graduate Admissions.",
+      "quote": "Graduate application fee waivers are granted based on evidence of financial need and are intended to assist applicants from economically disadvantaged backgrounds in pursuing graduate admission",
+      "url": "https://www.gradcollege.txst.edu/admissions/policy.html",
+      "also": [
+        {
+          "quote": "To request a fee waiver, please contact Graduate Admissions.",
+          "url": "https://www.gradcollege.txst.edu/admissions/policy.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "There is no university-wide GRE rule; some programs require it, so see each program record.",
+      "quote": "",
+      "url": "https://www.gradcollege.txst.edu/admissions/policy.html"
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "TOEFL iBT 4 overall (new scale) for tests taken after January 21, 2026; the old minimum was 78.",
+      "quote": "4 overall if taken after January 21, 2026",
+      "url": "https://www.gradcollege.txst.edu/international/language.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall, with at least 6.0 in each section.",
+      "quote": "6.5 overall with minimum section scores of",
+      "url": "https://www.gradcollege.txst.edu/international/language.html"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The waiver depends on a country list that does not name India on the fetched page, so an English waiver for Indian applicants is not confirmed.",
+      "quote": "",
+      "url": "https://www.gradcollege.txst.edu/international/language.html"
+    }
+  },
+  "notes": "Graduate College rules. Program pages restate the fee and English minimums; GRE is set per program."
+}

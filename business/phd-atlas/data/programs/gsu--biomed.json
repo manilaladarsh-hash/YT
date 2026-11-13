@@ -1,0 +1,69 @@
+{
+  "id": "gsu--biomed",
+  "university": "gsu",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Institute for Biomedical Sciences",
+  "program_page": "https://biomedical.gsu.edu/admissions/graduate-students/doctoral-degree/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-01",
+      "value": "The early decision deadline is November 1, 2026; the final deadline is March 1, 2027, and there is no spring or summer admission.",
+      "quote": "Early decision deadline: November 1 | Final admissions deadline: March 1",
+      "url": "https://biomedical.gsu.edu/admissions/graduate-students/doctoral-degree/",
+      "inferred": "year",
+      "time_sensitive": "2026-11-01",
+      "also": [
+        {
+          "quote": "Fall Early Decision Deadline: November 1 | Fall Final Deadline: March 1",
+          "url": "https://www.gsu.edu/program/translational-biomedical-sciences-phd/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The institute says GRE scores are not required for admission.",
+      "quote": "GRE scores are not required for admission",
+      "url": "https://biomedical.gsu.edu/admissions/graduate-students/doctoral-degree/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The institute says GRE scores are not required for admission.",
+      "quote": "GRE scores are not required for admission",
+      "url": "https://biomedical.gsu.edu/admissions/graduate-students/doctoral-degree/"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The institute's English-degree rule points to a country list that the fetched page does not show, so the graduate-school rule is not applied here.",
+      "quote": "where English is the official language of academic instruction – see list of countries below",
+      "url": "https://biomedical.gsu.edu/admissions/graduate-students/doctoral-degree/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants do not need to contact faculty or secure a lab before applying; accepted students are matched with labs after admission.",
+      "quote": "Doctoral applicants are not required to contact available faculty or secure a lab match before they are eligible to submit an application",
+      "url": "https://biomedical.gsu.edu/admissions/graduate-students/doctoral-degree/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All accepted doctoral students are guaranteed a graduate research assistantship with a full tuition waiver and a monthly stipend.",
+      "quote": "All accepted doctoral students are guaranteed funding in the form of a graduate research assistantship (GRA) appointment, which includes a full tuition waiver and a monthly stipend",
+      "url": "https://www.gsu.edu/program/translational-biomedical-sciences-phd/",
+      "also": [
+        {
+          "quote": "All accepted doctoral students will be awarded funding in the form of a graduate research assistantship upon admission",
+          "url": "https://biomedical.gsu.edu/admissions/graduate-students/doctoral-degree/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A conferred bachelor's degree is the only requirement to apply for the doctoral program.",
+      "quote": "A conferred bachelor's degree is the only requirement for applicants interested in applying for the Ph.D. program",
+      "url": "https://biomedical.gsu.edu/admissions/graduate-students/doctoral-degree/"
+    }
+  },
+  "notes": "The institute's English rule refers to a country list that did not load, so english_waiver is Not stated rather than the graduate-school Yes. The institute's TOEFL 69 and IELTS 6.0 match the graduate-school minimums.",
+  "name": "Translational Biomedical Sciences, Ph.D."
+}

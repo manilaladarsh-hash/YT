@@ -1,0 +1,64 @@
+{
+  "id": "iastate--neuro",
+  "university": "iastate",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Neuroscience graduate programme",
+  "program_page": "https://www.grad-college.iastate.edu/programs/neuroscience",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "January 1 is the fall admission deadline; the page gives no year, so 2027 is inferred.",
+      "quote": "January 1 for fall admission",
+      "url": "https://www.grad-college.iastate.edu/programs/neuroscience",
+      "inferred": "year"
+    },
+    "toefl_min": {
+      "code": "85",
+      "value": "The programme lists TOEFL iBT 85 without the new-scale note; the Graduate College uses 4.5 (new scale) for tests from 21 January 2026. Check with the programme.",
+      "quote": "TOEFL Paper (PBT) 563 TOEFL Internet (iBT) 85",
+      "url": "https://www.grad-college.iastate.edu/programs/neuroscience",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Internet-Based Test of English as a Foreign Language (TOEFL iBT): 79 (for exams taken before Jan. 21, 2026); 4.5 (for exams taken on or after January 21, 2026)",
+          "url": "https://www.grad-college.iastate.edu/future/InternationalApplicants"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The programme does not require the GRE.",
+      "quote": "Program Requires GRE: No",
+      "url": "https://www.grad-college.iastate.edu/programs/neuroscience"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The programme does not require the GRE, including the Psychology subject test.",
+      "quote": "Program Requires GRE: No",
+      "url": "https://www.grad-college.iastate.edu/programs/neuroscience"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The programme page gives no supervisor rule.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/neuroscience"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The programme page gives no funding rule.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/neuroscience"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The stated admission requirement is a 4 year bachelor's degree (or equivalent); no master's is named.",
+      "quote": "4 year Bachelor’s degree (or equivalent)",
+      "url": "https://www.grad-college.iastate.edu/programs/neuroscience"
+    }
+  },
+  "notes": "Record is conflict-flagged on the TOEFL iBT score (no new-scale note on the page).",
+  "name": "Neuroscience",
+  "conflict": true
+}

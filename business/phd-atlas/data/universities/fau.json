@@ -1,0 +1,47 @@
+{
+  "id": "fau",
+  "institution": "Florida Atlantic University",
+  "country": "USA",
+  "region": "Florida",
+  "grad_page": "https://www.fau.edu/graduate/apply/",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "30 USD",
+      "value": "Each application pays a non-refundable $30 fee.",
+      "quote": "Individuals who make application for admission to Florida Atlantic University shall pay a non-refundable Application Fee of $30.00",
+      "url": "https://www.fau.edu/regulations/documents/chapter8/reg-8-003-april2025.pdf"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "A fee waiver is possible only for applicants who document one based on economic need.",
+      "quote": "Provisions may be made to waive this fee for applicants who can document that they have received a fee waiver based on economic need",
+      "url": "https://www.fau.edu/regulations/documents/chapter8/reg-8-003-april2025.pdf"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each program; see the program record.",
+      "quote": "",
+      "url": "https://www.fau.edu/graduate/apply/"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The minimum university TOEFL iBT score is 79.",
+      "quote": "The minimum university requirement for TOEFL is 548 (Paper-Based Test) and 79 (Internet-Based Test)",
+      "url": "https://www.fau.edu/graduate/apply/"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "The minimum university IELTS Academic band score is 6.0.",
+      "quote": "The minimum university requirement for IELTS is a band score of 6.0",
+      "url": "https://www.fau.edu/graduate/apply/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "An English-medium degree from India can waive the test if it is at least a bachelor's-level degree (60 credits or an associate degree or higher) taught fully in English.",
+      "quote": "Completion of at least sixty (60) post-secondary credits or an associate degree or higher from a U.S. regionally accredited postsecondary institution or from a recognized post-secondary institution abroad with full curriculum of instruction in English",
+      "url": "https://www.fau.edu/graduate/apply/"
+    }
+  },
+  "notes": "Graduate College apply page: TOEFL 79 iBT, IELTS 6.0. Several program pages (physics, chemistry, math, Integrative Biology, neuroscience, engineering) also print 'TOEFL 4.5; IELTS 6.0; Duolingo 110', which conflicts with the 79 (not resolved; flagged). Chemistry sets its own IELTS 6.5. GRE is set by each program. Waiver of the test by Regulation 4.009 (e) is also possible for 30 credits with a C or higher, including ENC 1101 and 1102 or equivalent."
+}

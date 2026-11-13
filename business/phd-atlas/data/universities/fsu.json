@@ -1,0 +1,54 @@
+{
+  "id": "fsu",
+  "institution": "Florida State University",
+  "country": "USA",
+  "region": "Florida",
+  "grad_page": "https://gradschool.fsu.edu/prospective-students/graduate-admissions",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "30 USD",
+      "value": "The application fee is $30 (the Graduate School lists it as 30.00USD).",
+      "quote": "The application fee is 30.00USD",
+      "url": "https://gradschool.fsu.edu/prospective-students/graduate-admissions"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The Graduate School cannot waive the application fee, except narrow exceptions for FAMU Feeder, McNair and McKnight Scholars; there is no international-only waiver.",
+      "quote": "the Office of Graduate Admissions is unable to waive the application fee payment for graduate applicants | Exceptions may exist for applicants that have completed the FAMU Feeder program, McNair Scholars, or McKnight Scholars",
+      "url": "https://gradschool.fsu.edu/prospective-students/graduate-admissions",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "the Graduate School does not offer application waivers under any circumstances",
+          "url": "https://physics.fsu.edu/graduate/frequently-asked-questions"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE is required for doctoral applicants; some programs offer a waiver, so check the program record.",
+      "quote": "Official test results are required from a nationally standardized graduate admission test | Some programs offer an option to waive the GRE requirement",
+      "url": "https://gradschool.fsu.edu/prospective-students/graduate-admissions"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "Internet TOEFL 4.0 on the new scale for tests taken on or after 21 January 2026 (80 for older tests). Some departments set higher minimums.",
+      "quote": "Internet based TOEFL (IBTOEFL): 80 (if taken before January 21, 2026) or 4.0 (if taken on or after January 21, 2026)",
+      "url": "https://gradschool.fsu.edu/prospective-students/graduate-admissions/international-admissions"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic overall band 6.5.",
+      "quote": "International English Language Testing System (Academic IELTS): 6.5",
+      "url": "https://gradschool.fsu.edu/prospective-students/graduate-admissions/international-admissions"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The English test is waived only for a BA or higher from the US or an English-speaking country. The page does not say whether an English-medium Indian degree counts, and India is not on its published exempt-country list.",
+      "quote": "",
+      "url": "https://gradschool.fsu.edu/prospective-students/graduate-admissions/international-admissions"
+    }
+  },
+  "notes": "Doctoral pages checked: Graduate School list and admissions pages (Graduate School footer dated 2024). Department PhD list: 'Doctoral Degree Programs' page. Undated day-and-month deadlines are Not stated."
+}

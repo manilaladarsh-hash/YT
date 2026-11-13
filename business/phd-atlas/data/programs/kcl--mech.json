@@ -1,0 +1,53 @@
+{
+  "id": "kcl--mech",
+  "university": "kcl",
+  "field": "mech",
+  "also_fields": [
+    "ece",
+    "civil",
+    "chemeng"
+  ],
+  "department": "Department of Engineering",
+  "program_page": "https://www.kcl.ac.uk/engineering/study-with-us/research-degrees",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-01",
+      "value": "For October 2027 entry the next deadline is 1 June 2027 for overseas students and 25 August 2027 for home students.",
+      "quote": "The next application deadline for studies commencing in October 2027 is 01 June 2027 for Overseas students and 25 August 2027 for Home students.",
+      "url": "https://www.kcl.ac.uk/engineering/study-with-us/research-degrees"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "King's does not consider the GRE in its selection processes, so no GRE Subject test is used.",
+      "quote": "Please note that at King's we do not consider the GRE in our selection processes.",
+      "url": "https://www.kcl.ac.uk/study/postgraduate-research/how-to-apply/policies-and-guidance"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Written agreement from a supervisor is needed before the application can go forward.",
+      "quote": "You must receive written confirmation that your supervisor(s) have agreed to submit you before progressing with your application.",
+      "url": "https://www.kcl.ac.uk/study/postgraduate-research/how-to-apply",
+      "also": [
+        {
+          "quote": "Potential applicants can identify and contact appropriate supervisors proposing projects",
+          "url": "https://www.kcl.ac.uk/engineering/study-with-us/research-degrees"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "All scholarships and awards are competitive; some cover both stipend and fees, others fees only.",
+      "quote": "All scholarships, bursaries or other awards are offered on a competitive basis.",
+      "url": "https://www.kcl.ac.uk/engineering/study-with-us/research-degrees"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree with 2:1 honours in an engineering discipline or a closely related subject; a 2:2 only with a Masters with Merit or above.",
+      "quote": "Applicants should have a bachelors degree with 2:1 honours degree in an Engineering discipline or a closely related subject",
+      "url": "https://www.kcl.ac.uk/engineering/study-with-us/research-degrees"
+    }
+  },
+  "notes": "One engineering PhD covers the department's research themes. The page names no sub-discipline, so the also_fields are inferred from the umbrella title and should be checked. Biomedical engineering is a separate record.",
+  "name": "Engineering Research (PhD)"
+}

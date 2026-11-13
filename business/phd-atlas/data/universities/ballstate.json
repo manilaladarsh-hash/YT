@@ -1,0 +1,53 @@
+{
+  "id": "ballstate",
+  "institution": "Ball State University",
+  "country": "USA",
+  "region": "Indiana",
+  "grad_page": "https://www.bsu.edu/admissions/graduate/apply",
+  "checked": "2026-10-28",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "The application fee is $60 per program and is nonrefundable.",
+      "quote": "Applications are $60 per program.",
+      "url": "https://www.bsu.edu/admissions/graduate/apply"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Waivers cover Ball State students, alumni, employees, veterans and active-duty military, guest students and information-session attendees; no international applicant waiver is listed.",
+      "quote": "You do not have to pay the application fee if you are a:",
+      "url": "https://www.bsu.edu/admissions/graduate/apply"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate application and English pages checked do not mention the GRE; check each program.",
+      "quote": "",
+      "url": "https://www.bsu.edu/admissions/graduate/apply"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT 4.5 on the new 1-6 scale; a score of 79 on the old 0-120 scale is accepted through December 2027.",
+      "quote": "TOEFL iBT -4.5 (new 1-6 scale) | Through December 2027, a score of 79 or higher on the previous 0-120 scale will continue to meet the English proficiency requirement for full admission.",
+      "url": "https://www.bsu.edu/admissions/international/graduate/graduate-english-proficiency-waivers-and-conditional-admission"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic overall 6.5 minimum.",
+      "quote": "IELTS Academic-6.5",
+      "url": "https://www.bsu.edu/admissions/international/graduate/graduate-english-proficiency-waivers-and-conditional-admission"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "A degree from an institution where English is the primary language of instruction can qualify for a waiver, reviewed case by case; a medium-of-instruction letter alone is not enough.",
+      "quote": "Medium of Instruction (MOI) letters or certificates alone are not sufficient to establish English proficiency.",
+      "url": "https://www.bsu.edu/admissions/international/graduate/graduate-english-proficiency-waivers-and-conditional-admission",
+      "also": [
+        {
+          "quote": "where English is the primary language of instruction may be considered for an English proficiency waiver",
+          "url": "https://www.bsu.edu/admissions/international/graduate/graduate-english-proficiency-waivers-and-conditional-admission"
+        }
+      ]
+    }
+  },
+  "notes": "Doctoral programs do not offer conditional admission: \"All doctoral programs and online programs at Ball State do not offer conditional admission.\" Only PhD programs are Environmental Sciences and Human Bioenergetics (Counseling Psychology, Educational Psychology, Educational Studies, Elementary Education, School Psychology and Special Education PhDs are outside STEM). Fee waivers and English rules were read from the graduate pages; individual programs may set their own rules."
+}

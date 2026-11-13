@@ -1,0 +1,66 @@
+{
+  "id": "tulane--cs",
+  "university": "tulane",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://catalog.tulane.edu/science-engineering/computer-science/computer-science-phd/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "No application fee for School of Science and Engineering PhD programs.",
+      "quote": "there are no application fees for our PhD, MS, or Graduate Certificate programs",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The School of Science and Engineering does not require the GRE.",
+      "quote": "The GRE is not required.",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The GRE is not required for School of Science and Engineering applicants.",
+      "quote": "The GRE is not required.",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    },
+    "toefl_min": {
+      "code": "87",
+      "value": "School of Science and Engineering minimum: TOEFL iBT 87 overall.",
+      "quote": "Minimum overall score on TOEFL iBT: 87.",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "School of Science and Engineering minimum: IELTS Academic 7.0 overall.",
+      "quote": "Minimum overall band score on IELTS Academic: 7.0.",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is not tied to a named advisor; students are paired with one after entry.",
+      "quote": "Students are typically paired with an advisor upon entry into the program",
+      "url": "https://catalog.tulane.edu/science-engineering/computer-science/computer-science-phd/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The school offers teaching or research assistantships to all incoming PhD students.",
+      "quote": "offers Teaching Assistantships and/or Research Assistantships to all incoming PhD students",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need an undergraduate degree before starting; no master's is listed as required.",
+      "quote": "Earned an undergraduate degree from an accredited institution prior to the first semester of proposed graduate study",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    },
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Application deadline January 15, 2027 for Fall 2027 entry (School table).",
+      "quote": "PhD Computer Science 01/15/2027",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    }
+  },
+  "notes": "No department admissions page was found. The catalog lists an AI/ML course requirement and an AI minor; it is not a separate PhD track, so no datasci record was created."
+}

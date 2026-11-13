@@ -1,0 +1,47 @@
+{
+  "id": "liverpool",
+  "institution": "University of Liverpool",
+  "country": "United Kingdom",
+  "region": "England",
+  "grad_page": "https://www.liverpool.ac.uk/study/postgraduate-research/",
+  "checked": "2026-10-30",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "Central research guidance outlines tuition fees and postgraduate funding without stating a general application fee for research degree programmes.",
+      "quote": "",
+      "url": "https://www.liverpool.ac.uk/study/postgraduate-research/how-to-apply/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Central guidance does not publish fee waiver procedures as no general PGR application fee is stated.",
+      "quote": "",
+      "url": "https://www.liverpool.ac.uk/study/postgraduate-research/how-to-apply/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE General test is not required or requested centrally for postgraduate research admission at Liverpool.",
+      "quote": "",
+      "url": "https://www.liverpool.ac.uk/study/postgraduate-research/how-to-apply/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "Liverpool accepts TOEFL iBT (excluding Home Edition) as an approved alternative test alongside course-specific requirements.",
+      "quote": "TOEFL iBT (excluding TOEFL Home Edition which is not accepted)",
+      "url": "https://www.liverpool.ac.uk/international/applying/entry-requirements/english-language-requirements/international-english-language-tests/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Most postgraduate research courses require IELTS 6.5 overall with no component less than 5.5 (or 6.0 in some disciplines).",
+      "quote": "Most of our postgraduate research courses require one of:\nIELTS 6.5 overall, with no component less than 5.5, or equivalen",
+      "url": "https://www.liverpool.ac.uk/international/applying/entry-requirements/english-language-requirements/international-english-language-tests/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Exemption applies only to nationals of majority English-speaking countries; degrees from non-majority countries like India do not qualify.",
+      "quote": "For most international students, unless you're a national of a majority English speaking country, you'll need to provide",
+      "url": "https://www.liverpool.ac.uk/study/international/apply/english-language/"
+    }
+  },
+  "notes": "Postgraduate research degrees at the University of Liverpool include PhD, MPhil, and MD programmes across faculties."
+}

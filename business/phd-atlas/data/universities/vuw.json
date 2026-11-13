@@ -1,0 +1,57 @@
+{
+  "id": "vuw",
+  "institution": "Victoria University of Wellington",
+  "country": "New Zealand",
+  "region": "Wellington",
+  "grad_page": "https://www.wgtn.ac.nz/fgr/apply/international",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No application fee for PhD applicants is stated on the official doctoral pages checked; the only fee on the PhD how-to-apply page is a small fee for a Scholaro GPA report.",
+      "quote": "",
+      "url": "https://www.wgtn.ac.nz/fgr/apply/how"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application fee waiver or international fee waiver for PhD applicants is stated on the official pages checked.",
+      "quote": "",
+      "url": "https://www.wgtn.ac.nz/fgr/apply/international"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE requirement is stated on the official doctoral pages checked.",
+      "quote": "",
+      "url": "https://www.wgtn.ac.nz/fgr/apply/how"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "TOEFL iBT total 90 with 21 in Writing for PhD applicants, with other sub-scores at the mid-point of high-intermediate level.",
+      "quote": "PhD only: Total score of 90 with a 21 in Writing",
+      "url": "https://www.wgtn.ac.nz/international/applying/entry-requirements/english-language/standard-postgraduate"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic overall 6.5 with no band below 6.0 for postgraduate study, which includes the PhD.",
+      "quote": "Overall score of 6.5 with no band lower than 6.0",
+      "url": "https://www.wgtn.ac.nz/international/applying/entry-requirements/english-language/standard-postgraduate"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Indian applicants may meet the English requirement only if the whole undergraduate degree was taught in English at a listed IIT or NIT, completed within two years of application, with English medium confirmed; other Indian applicants need a test.",
+      "quote": "Students who have studied at one of the institutions in India listed below may satisfy the English language requirements, if the following criteria are met",
+      "url": "https://www.wgtn.ac.nz/international/applying/entry-requirements/english-language/standard-postgraduate",
+      "also": [
+        {
+          "quote": "Successful completion of an entire undergraduate degree at one of the institutions listed below",
+          "url": "https://www.wgtn.ac.nz/international/applying/entry-requirements/english-language/standard-postgraduate"
+        },
+        {
+          "quote": "The study must have been undertaken no more than two years prior to the point of application",
+          "url": "https://www.wgtn.ac.nz/international/applying/entry-requirements/english-language/standard-postgraduate"
+        }
+      ]
+    }
+  },
+  "notes": "Official PhD English table (standard postgraduate page) is used for IELTS and TOEFL; the domestic English page was not used. No application fee is stated for doctoral applicants. PhD application rounds are 1 March, 1 July and 1 November with no year on the official pages, so no deadline is recorded as 2027. International PhD tuition is NZ$11,150 per 120 points (estimated for 2027), which is tuition, not an application fee."
+}

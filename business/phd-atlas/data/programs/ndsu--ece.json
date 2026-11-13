@@ -1,0 +1,68 @@
+{
+  "id": "ndsu--ece",
+  "university": "ndsu",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Electrical and Computer Engineering",
+  "program_page": "https://catalog.ndsu.edu/curriculum/graduate/electrical-and-computer-engineering-doctorate",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-28",
+      "value": "Fall deadline February 28; spring October 15.",
+      "quote": "Fall semester - February 28; Spring semester - October 15",
+      "url": "https://catalog.ndsu.edu/curriculum/graduate/electrical-and-computer-engineering-doctorate",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE required only if no ECE professor recommends the applicant.",
+      "quote": "If the applicant is not recommended by a professor, the program requires applicants to complete the GRE with a score of at least 145 Verbal and 155 Quantitative",
+      "url": "https://catalog.ndsu.edu/curriculum/graduate/electrical-and-computer-engineering-doctorate"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The subject area test is not required.",
+      "quote": "The GRE subject area test is not required.",
+      "url": "https://catalog.ndsu.edu/curriculum/graduate/electrical-and-computer-engineering-doctorate"
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "Department states TOEFL iBT 4/71; teaching assistants need TOEFL 100.",
+      "quote": "TOEFL ibT 4/71, IELTS 6, Duolingo 105, PTE Academic: 50",
+      "url": "https://catalog.ndsu.edu/curriculum/graduate/electrical-and-computer-engineering-doctorate"
+    },
+    "ielts_min": {
+      "code": "6",
+      "value": "Department states IELTS 6; teaching assistants need IELTS 7.",
+      "quote": "TOEFL ibT 4/71, IELTS 6, Duolingo 105, PTE Academic: 50",
+      "url": "https://catalog.ndsu.edu/curriculum/graduate/electrical-and-computer-engineering-doctorate",
+      "also": [
+        {
+          "quote": "To qualify for teaching assistantship TOEFL ibT 100, IELTS 7, Duolingo 125",
+          "url": "https://catalog.ndsu.edu/curriculum/graduate/electrical-and-computer-engineering-doctorate"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are advised to contact and work with an ECE professor before applying.",
+      "quote": "this program prefers applicants to contact and work with an ECE professor before coming to NDSU",
+      "url": "https://catalog.ndsu.edu/curriculum/graduate/electrical-and-computer-engineering-doctorate"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the pages checked.",
+      "quote": "",
+      "url": "https://catalog.ndsu.edu/curriculum/graduate/electrical-and-computer-engineering-doctorate"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A B.S. or M.S. in electrical or computer engineering is accepted.",
+      "quote": "on their latest Electrical Engineering or Computer Engineering degree, either B.S. or M.S.",
+      "url": "https://catalog.ndsu.edu/curriculum/graduate/electrical-and-computer-engineering-doctorate"
+    }
+  },
+  "notes": "The graduate school table lists Fall - February 28 and Spring - October 15, matching the catalog.",
+  "name": "Electrical and Computer Engineering"
+}

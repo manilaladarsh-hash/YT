@@ -1,0 +1,60 @@
+{
+  "id": "temple",
+  "institution": "Temple University",
+  "country": "USA",
+  "region": "Pennsylvania",
+  "grad_page": "https://grad.temple.edu/admissions/international-applicants/required-application-documents",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "The College of Engineering page says there is a $60 application fee. The Graduate School costs table also lists the online application at $60, but that table cannot be quoted.",
+      "quote": "There is a $60 application fee.",
+      "url": "https://www.temple.edu/schools-colleges/college-of-engineering/admissions-information-graduate"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No fee waiver for international applicants is stated on the official pages that could be fetched; the how-to-apply page is blocked.",
+      "quote": "",
+      "url": "https://grad.temple.edu/admissions/international-applicants/required-application-documents"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each school and program; the Graduate Bulletin says a program may require the GRE, so see each program record.",
+      "quote": "A school/college and program may require an examination such as the Graduate Record Examination (GRE®)",
+      "url": "https://bulletin.temple.edu/graduate/graduate-policies/"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The Graduate Bulletin and FAQ give 79. The College of Engineering page gives 4.5 (current version), and the Graduate School admissions table lists 4.5 from 21 January 2026, so the current minimum conflicts across pages.",
+      "quote": "The minimum score required is 79 for all programs, with the exception of the Master of Music (MM) in performance",
+      "url": "https://bulletin.temple.edu/graduate/graduate-policies/",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "The minimum scores required are 79 on the TOEFL (previous version) or 4.5 overall (current version)",
+          "url": "https://engineering.temple.edu/admissions/graduate-admissions"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall, per the Graduate Bulletin.",
+      "quote": "The minimum score required on the academic version of the test is 6.5",
+      "url": "https://bulletin.temple.edu/graduate/graduate-policies/"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The quoted waiver covers US and English-speaking-country degrees; India is not confirmed on the quoted text, and the sources conflict.",
+      "quote": "",
+      "url": "https://grad.temple.edu/admissions/international-applicants/required-application-documents",
+      "also": [
+        {
+          "quote": "An applicant who does not hold a baccalaureate degree from an institution in which the sole language of instruction is English is required to present official scores",
+          "url": "https://bulletin.temple.edu/graduate/graduate-policies/"
+        }
+      ]
+    }
+  },
+  "notes": "Blocked: https://grad.temple.edu/admissions/how-apply (403) - the search summary cited a $60 fee and waiver rules there, not verified. The Graduate School costs table (https://grad.temple.edu/admissions/costs-financial-aid-more) shows an online application fee of $60 in a table cell, not quoted. The Graduate School admissions table lists TOEFL iBT 4.5 from 21 January 2026 in a list cell, not quoted. Doctoral list: https://bulletin.temple.edu/graduate/scd/cst/ , /engineering/ , /medicine/ ."
+}

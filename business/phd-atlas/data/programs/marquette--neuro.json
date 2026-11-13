@@ -1,0 +1,44 @@
+{
+  "id": "marquette--neuro",
+  "university": "marquette",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Neuroscience",
+  "program_page": "https://www.marquette.edu/grad/programs-neuroscience.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "The application deadline is December 1, 2026.",
+      "quote": "Application Deadline: December 1",
+      "url": "https://www.marquette.edu/grad/programs-neuroscience.php",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.marquette.edu/grad/programs-neuroscience.php"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "A recruitment committee reviews applications, so admission does not depend on a supervisor agreeing first.",
+      "quote": "The recruitment committee reviews applications and selects a sub-group for phone interviews.",
+      "url": "https://www.marquette.edu/grad/programs-neuroscience.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page says research and teaching assistantships are available, but does not say most or all students receive one.",
+      "quote": "",
+      "url": "https://www.marquette.edu/grad/programs-neuroscience.php"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The page requires a bachelor's degree in a STEM field and does not list a master's requirement.",
+      "quote": "A bachelor's degree in science, technology, engineering, or mathematics from a regionally accredited institution or international equivalent must be completed prior to starting graduate school.",
+      "url": "https://www.marquette.edu/grad/programs-neuroscience.php"
+    }
+  },
+  "notes": "Also offers an accelerated bachelor's-doctoral route.",
+  "name": "Ph.D. in Neuroscience"
+}

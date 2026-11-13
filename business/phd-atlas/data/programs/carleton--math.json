@@ -1,0 +1,52 @@
+{
+  "id": "carleton--math",
+  "university": "carleton",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "School of Mathematics and Statistics",
+  "program_page": "https://graduate.carleton.ca/program/mathematics-and-statistics-doctoral-programs/",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "First deadline February 1; applications after that are reviewed on a rolling basis.",
+      "quote": "Application Deadline: February 1",
+      "url": "https://graduate.carleton.ca/program/mathematics-and-statistics-doctoral-programs/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Carleton operates on a rolling admission timeline after the first deadline of February 1st",
+          "url": "https://carleton.ca/math/faq-prospective-students/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the official pages checked.",
+      "quote": "",
+      "url": "https://graduate.carleton.ca/program/mathematics-and-statistics-doctoral-programs/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You do not need a supervisor before applying, though you can contact faculty whose research interests you.",
+      "quote": "Do I need to have a supervisor before I apply? | No, you do not have to have a supervisor lined up.",
+      "url": "https://carleton.ca/math/faq-prospective-students/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding (TAs about CAD 12,089 a year, scholarships, RAs) is considered at admission and depends on applicant numbers and available funds; international PhD students are considered for a tuition bursary (IDTS).",
+      "quote": "Consideration for funding, is made at the time of admission. | The number of TAs and scholarships are awarded depend on the number of applicants and availability of funds.",
+      "url": "https://carleton.ca/math/faq-prospective-students/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's in mathematics (or equivalent) with at least B+ is the normal requirement.",
+      "quote": "The normal requirement for admission to the Ph.D. program is a master's degree in mathematics, or the equivalent, with at least B+ standing.",
+      "url": "https://calendar.carleton.ca/grad/gradprograms/mathematics/"
+    }
+  },
+  "notes": "Specializations: Applied Mathematics, Probability and Statistics, Pure Mathematics. Part of the Ottawa-Carleton Institute for Mathematics and Statistics (OCIMS).",
+  "name": "PhD in Mathematics and Statistics"
+}

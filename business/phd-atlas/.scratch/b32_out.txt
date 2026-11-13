@@ -1,0 +1,125 @@
+=== imperial--ece.json [funding] ===
+program_page: https://www.imperial.ac.uk/electrical-engineering/study/phd/
+field: {
+  "code": "Competitive",
+  "value": "Supervisors nominate applicants for department, EPSRC and college funding only after an offer, and an Awards Panel decides. Some scholarships (Maria Petrou, Alex Fortescue) cover Home or Overseas fees for any nationality, but competition is intense: past winners typically had first-class master's degrees and publications.",
+  "quote": "Candidates are nominated by their potential PhD supervisor only after receiving an offer of a PhD place. | Previous successful applicants have obtained 1st class equivalent degrees at Master's level",
+  "url": "https://www.imperial.ac.uk/engineering/departments/electrical-engineering/study/phd/funding-and-scholarships/",
+  "also": [
+    {
+      "quote": "The Alex Fortescue scholarship covers tuition fees (Home & Overseas), bursary (at UKRI rates with London allowance) and an allowance towards conferences and travel.",
+      "url": "https://www.imperial.ac.uk/engineering/departments/electrical-engineering/study/phd/funding-and-scholarships/"
+    }
+  ]
+}
+cache entries (1):
+  2bf69190ec41f0ef.json: status=200 method=http via=None fetched=2026-10-22 len=15768
+  CONTEXT: "'s role is to decide on the allocation of the Department and College’s available funding resources to PhD candidates, with the aim of attracting and securing PhD candidates with research interests that fall within the research activities of the department. Our Awards Panel meets four times a year to consider funding nominations for PhD applicants. Candidates are nominated by their potential PhD supervisor only after receiving an offer of a PhD place. The Panel oversees the allocation of departmental and EPSRC funding. The Panel also submits the department's recommendations for University-wide scholarships. Current students are not considered for any funding except CSC (see below). Assessment The Awards Panel considers a number of indicators to assess your academic achievements and research potential. Indicators of academic achievement include: grades; cohort ranking; awards for academic "
+
+=== imperial--materials.json [supervisor] ===
+program_page: https://www.imperial.ac.uk/engineering/departments/materials/study/materialsphd/phd-application-process--scholarship-hub/
+field: {
+  "code": "Required",
+  "value": "Even if you are self-funded, you must first get a Materials academic interested in supporting you. They may interview you, and you name them on your application (only one academic per department).",
+  "quote": "Regardless of your funding needs, you must identify and secure the interest of a department academic whose research aligns with your background.",
+  "url": "https://www.imperial.ac.uk/engineering/departments/materials/study/materialsphd/phd-application-process--scholarship-hub/",
+  "also": [
+    {
+      "quote": "To get a PhD, it is vital that you get a member of the academic staff to support your application, even if you are self-funded!",
+      "url": "https://www.imperial.ac.uk/materials/study/materialsphd/materials-phd-faqs/"
+    }
+  ]
+}
+cache entries (1):
+  3a8c83b72e1d338c.json: status=200 method=http via=None fetched=2026-10-22 len=16259
+  CONTEXT: "opportunities within the Department of Materials and Imperial College London. We regularly update this page to provide the latest funding information. You can also explore the College Scholarship Search Tool for additional opportunities. PhD Application Process Overview For Applicants: Find a Prospective Supervisor and submit a formal application: Regardless of your funding needs, you must identify and secure the interest of a department academic whose research aligns with your background. After initial contact, the supervisor may invite you for an interview or encourage you to submit a formal application - check out our How to Apply Webpage To find a prospective supervisor, check out our department's academic and research web pages. Interview Process If a supervisor is interested, an interview will be arranged. Discuss your research proposal and personal statement with the supervisor if"
+
+=== imperial--physics.json [fee_waiver] ===
+program_page: https://www.imperial.ac.uk/natural-sciences/departments/physics/students/postgraduate-admissions/phd-opportunities/
+field: {
+  "code": "No fee",
+  "value": "PhD applications carry no application fee, so no waiver is needed",
+  "quote": "Postgraduate Doctoral degrees (e.g. PhD, EngD)",
+  "url": "https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/"
+}
+cache entries (1):
+  818f7ca4e8a0c50a.json: status=200 method=http via=None fetched=2026-11-12 len=11307
+  CONTEXT: 'e Imperial Business School £90 for all Master’s applications (MSc, MPH, MRes) Imperial Business School £90 for MRes/Doctoral applications £125 for MSc applications £150 for MBA applications Postgraduate courses without an application fee You do not need to pay an application fee for: Postgraduate Certificates (PGCert) Postgraduate Diplomas (PGDip) Postgraduate Doctoral degrees (e.g. PhD, EngD) Combined MRes + PhD (1+3) Centre for Doctoral Training programmes Note: Application fees are charged per application, not per course choice, where a second choice is allowed. Application fee waiver You can get an application fee waiver if: You are experiencing financial difficulties and meet the criteria for our application fee waiver. You are a current Imperial student. You must ask for the waiver before you submit your application and pay the fee. Visit the application fee waiver page to find out'
+
+=== imprs-cpqm--physics.json [supervisor] ===
+program_page: https://imprs-cpqm.mpg.de/apply-now
+field: {
+  "code": "Not required",
+  "value": "Central application via the online form; do not send applications to individual PIs. Project supervisors and a PI team review applications",
+  "quote": "Also, please do not send your application to individual PIs.",
+  "url": "https://imprs-cpqm.mpg.de/apply-now",
+  "also": [
+    {
+      "quote": "Written applications will be considered by the supervisors of the projects applied for, and by a team selected from PIs at the participating institutions.",
+      "url": "https://imprs-cpqm.mpg.de/101737/Selection"
+    }
+  ]
+}
+cache entries (1):
+  6916be7f611ed134.json: status=200 method=http via=None fetched=2026-10-21 len=3832
+  CONTEXT: 'itment cycle, please submit your application as soon as possible, but no later than 30 November 2026. We will review applications after the submission deadline, and then provide feedback to all applicants as soon as possible. Please use our online form to submit your application. Applications received by email will not be taken into consideration. Also, please do not send your application to individual PIs. Students who are admitted to IMPRS-CPQM after the current recruitment cycle, are expected to start their PhD project no later than September 2027. In case that timeline outlined above is not suitable for you, we should mention that we accept applications throughout the entire year, and then will process them individually. Questions? If you have more specific questions about the application process, e.g. regarding eligibility or the required documents, please visit the FAQ page. There,'
+
+=== iub--cs.json [english_waiver] ===
+program_page: https://luddy.iu.edu/admissions/graduate/index.html
+field: {
+  "code": "No",
+  "value": "All PhD applicants need an English test regardless of where they studied.",
+  "quote": "This includes ALL PhD applicants, regardless of location of their previous education.",
+  "url": "https://luddy.iu.edu/admissions/graduate/index.html"
+}
+cache entries (1):
+  e7a0606c91695805.json: status=200 method=http via=None fetched=2026-10-24 len=15347
+  CONTEXT: 'TS, or Duolingo (for non-native English speakers) Only non-native English speakers who earned an undergraduate degree in the US and are applying to a master’s program are exempt from submitting an English proficiency test score. Otherwise, all non-native English speakers must provide an English proficiency test score to complete their application. This includes ALL PhD applicants, regardless of location of their previous education. Official test scores need to be sent electronically to Indiana University. You must also upload a scanned copy of your score sheet into the application. It can take a few weeks for scores to be sent and processed, so please plan accordingly. We accept only current TOEFL, IELTS or Duolingo scores and these can be put into the Test Scores section. Official scores will only attach to an application after submission. TOEFL Recommended minimum score 100 School Code'
+
+=== iub--physics.json [entry_route] ===
+program_page: https://physics.indiana.edu/graduate/how-to-apply/international-applications.html
+field: {
+  "code": "Direct from bachelor's",
+  "value": "Applicants need a recognized four-year bachelor's degree with GPA of at least 3.0; a master's is not mentioned as required.",
+  "quote": "Graduation from a recognized four-year college, university, or institute of technology.",
+  "url": "https://physics.indiana.edu/graduate/how-to-apply/domestic-applications.html"
+}
+cache entries (1):
+  98d5b4660cdf7240.json: status=200 method=http via=None fetched=2026-10-21 len=6848
+  CONTEXT: 'al seal of the issuing institution. Transcripts should be mailed directly by a registrar to the program to which the application is being sent or given to the applicant by the registrar in a sealed and signed envelope and then submitted to the graduate program by the applicant along with the other application materials. Your transcripts must show: Graduation from a recognized four-year college, university, or institute of technology. Minimum GPA of 3.0. Graduate Record Examination (GRE) scores Waiver GRE Requirement Waiver: Effective for the Fall 2027 application cycle, submission of the physics subject GRE score is highly recommended and submission of the general GRE score is optional. We impose no minimum scores and we will give full consideration to applications without GRE scores. Only official score reports can be used in the admissions process. If you intend to provide scores, plea'
+
+=== jhu--cs.json [entry_route] ===
+program_page: https://www.cs.jhu.edu/academic-programs/graduate-studies/phd-program/phd-admissions-faqs
+field: {
+  "code": "Direct from bachelor's",
+  "value": "Entering students are expected to have a program equivalent to the BS in computer science; no master's is required.",
+  "quote": "Entering students are expected to have completed a program of study equivalent to that required by the BS in computer science.",
+  "url": "https://www.cs.jhu.edu/academic-programs/graduate-studies/phd-program/phd-admissions-faqs"
+}
+cache entries (1):
+  0036c7ef43441643.json: status=200 method=http via=None fetched=2026-10-24 len=15347
+  CONTEXT: 'dents come from major US universities with active research programs, in which case they had the opportunity to publish. Other students come from smaller schools without such opportunities. Each year we accept many students without prior publications and reject students with multiple publications. Do you accept students from other disciplines? Yes. Entering students are expected to have completed a program of study equivalent to that required by the BS in computer science. Applicants from other disciplines are required to have coursework (or equivalent experience) in intermediate programming (C++ and Java), data structures, automata theory, computer systems fundamentals, and algorithms. The Application Process General Application Requirements for WSE Learn about the standardized tests, recommendations, transcripts, and application requirements for doctoral programs at the Whiting School o'
+
+=== kcl--bme.json [deadline] ===
+program_page: https://www.kcl.ac.uk/bmeis/postgraduate/postgraduate-research
+field: {
+  "code": "Per position",
+  "value": "Individually funded PhD studentships are advertised with their own application steps and dates.",
+  "quote": "Applications are invited for a range of individually funded PhD studentships",
+  "url": "https://www.kcl.ac.uk/bmeis/postgraduate/postgraduate-research"
+}
+cache entries (1):
+  a05eef7559d2f73d.json: status=200 method=http via=None fetched=2026-10-26 len=5888
+  CONTEXT: 'tunities managed both within the School of Biomedical Engineering & Imaging Sciences (BMEIS) and College-Wide. Please note application instructions for individual programmes prior to applying: BMEIS Postgraduate Research Funding Programmes/Studentships Individually Funded PhD Projects We recruit excellent students for a wide range of studentships. Applications are invited for a range of individually funded PhD studentships offered by our interdisciplinary research groups and centres: EPSRC DLA Multiscale Medical Imaging: from Molecules to Populations King’s Prize Doctoral Award (MMI) The School of Biomedical Engineering & Imaging Sciences has been at the forefront of training imaging scientists through the EPSRC Centre for Doctoral Training in Smart Medical Imaging, which delivered a world-class interdisciplinary PhD programme in partnership with Imperial College London. Building on this'
+
+=== kent--biomed.json [fee_waiver] ===
+program_page: https://www.kent.edu/biomedical/cellular-molecular-biology-phd
+field: {
+  "code": "Domestic only",
+  "value": "Domestic applicants can have the fee waived in the October 19-26 free week. Internationals do not get a waiver.",
+  "quote": "Free application week for domestic students is October 19-26th!",
+  "url": "https://www.kent.edu/biomedical/admission-information"
+}
+cache entries (1):
+  14345ddfc5b3aa87.json: status=200 method=http via=None fetched=2026-10-27 len=4085
+  CONTEXT: 'on Close Admission Overview Financial Assistance International Students Newsletter Close Newsletter Overview Spring 2026 Fall 2025 Spring 2025 Fall 2024 Spring 2024 Fall 2023 FlashLine Login Calendars Phone Directory Maps & Directions Search Apply Visit Give Now Admission Information Kent School of Biomedical Sciences Admission General Information Free application week for domestic students is October 19-26th! Interested students should follow the application procedures provided under "Apply Now." Applicants must select one of our degree programs under the School of Biomedical Sciences (e.g., Biomedical Sciences-Neurosciences). Fall is the only term in which we admit students. Please see our specific program pages by clicking on the Program Areas tab to review admission requirements. We also highly advise potential applicants to review the typical profile of admitted students below, as m'

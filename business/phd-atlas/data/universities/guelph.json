@@ -1,0 +1,53 @@
+{
+  "id": "guelph",
+  "institution": "University of Guelph",
+  "country": "Canada",
+  "region": "Ontario",
+  "grad_page": "https://graduatestudies.uoguelph.ca/prospective-students/international-applicants",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "125 CAD",
+      "value": "CAD 125 for most graduate programs, non-refundable, paid to OUAC when you submit the online application.",
+      "quote": "The application fee for most graduate programs is $125. | Please note: This fee is non refundable and is payable to OUAC.",
+      "url": "https://graduatestudies.uoguelph.ca/future/applying-guelph"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "The graduate school pages checked do not describe an application fee waiver.",
+      "quote": "",
+      "url": "https://graduatestudies.uoguelph.ca/future/applying-guelph"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No university-wide GRE rule; each program decides, so check the program record.",
+      "quote": "A GRE or GMAT test score is not required for all departments. | You MUST review the website of the program to which you are applying to determine if GRE or GMAT score is an admission requirement of the program.",
+      "url": "https://graduatestudies.uoguelph.ca/future/faq"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT 4.5 overall on the new scale with at least 4.0 in each section; for tests taken before January 21, 2026 the minimum is 89 with no section below 21.",
+      "quote": "Test of English as a Foreign Language (TOEFL) and (TOEFL Special Home Edition (iBT)) | Note: A minimum score of 4.0 must be achieved in each of the four categories (listening, speaking, reading, writing). For tests prior January 21, 2026, a minimum overall score of 89 must be achieved with no categories below 21. 4.5",
+      "url": "https://graduatestudies.uoguelph.ca/future/international/english"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic (or computer-delivered IELTS) 6.5 overall; some departments ask for more.",
+      "quote": "International English Language Testing System (Academic) (IELTS) Computer-delivered IELTS 6.5 | Some departments may require higher than the University minimum English as a Second Language test scores.",
+      "url": "https://graduatestudies.uoguelph.ca/future/international/english"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "If your degree was taught in English you can ask the department to waive the test; it decides case by case, and a medium-of-instruction letter alone does not meet the university requirement.",
+      "quote": "If your first language is not English but you have completed prior post-secondary studies in which English was the language instruction, you may request to have your English Language Proficiency requirement waived. These decisions are made on a case-by-case basis by the department you are applying to.",
+      "url": "https://graduatestudies.uoguelph.ca/prospective-students/international-applicants",
+      "also": [
+        {
+          "quote": "Letters from your universities stating the medium of instruction is English are not acceptable to meet the University requirement, the department may ask for this information.",
+          "url": "https://graduatestudies.uoguelph.ca/future/apply/documents"
+        }
+      ]
+    }
+  },
+  "notes": "Applications go through OUAC; documents are uploaded to WebAdvisor."
+}

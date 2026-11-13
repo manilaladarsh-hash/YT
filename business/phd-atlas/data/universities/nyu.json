@@ -1,0 +1,47 @@
+{
+  "id": "nyu",
+  "institution": "New York University",
+  "country": "USA",
+  "region": "New York",
+  "grad_page": "https://gsas.nyu.edu/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "The graduate school application fee is not on any page the fetcher could read; the Tandon $90 and Vilcek $125 fees apply only to those schools.",
+      "quote": "",
+      "url": "https://gsas.nyu.edu/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "The graduate school's fee-waiver policy page is blocked to the fetcher.",
+      "quote": "",
+      "url": "https://gsas.nyu.edu/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each school and department; see the program records.",
+      "quote": "",
+      "url": "https://gsas.nyu.edu/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The graduate school's English policy page is blocked; school-level minimums are on the program records.",
+      "quote": "",
+      "url": "https://gsas.nyu.edu/"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "The graduate school's English policy page is blocked; school-level minimums are on the program records.",
+      "quote": "",
+      "url": "https://gsas.nyu.edu/"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The graduate school's English exemption rules are blocked; see the program records for school rules.",
+      "quote": "",
+      "url": "https://gsas.nyu.edu/"
+    }
+  },
+  "notes": "GSAS application-policy, international-applicant and PhD list pages return 403 to the fetcher (gsas.nyu.edu/admissions/arc/application-policies.html, gsas.nyu.edu/programs/phd-programs.html, gsas.nyu.edu/content/nyu-as/gsas/admissions/gsas-application-resource-center/international-applicants.html); the bulletins.nyu.edu pages return 502; the testing-requirements page returns 403 over https and http."
+}

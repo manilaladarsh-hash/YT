@@ -1,0 +1,60 @@
+{
+  "id": "virginia--datasci",
+  "university": "virginia",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "School of Data Science (PhD in Data Science)",
+  "program_page": "https://datascience.virginia.edu/phd/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-08",
+      "value": "Fall 2027 applications are due January 8, 2027 (11:59 pm ET), with a one-week grace period for transcripts, English scores and letters.",
+      "quote": "The following deadlines are for Fall 2027 admission: | Friday, Jan. 8, 2027 (11:59 pm ET)",
+      "url": "https://datascience.virginia.edu/degrees/phd/deadlines"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE scores are not reviewed.",
+      "quote": "The Ph.D. in Data Science does not review other standardized test scores (i.e., GRE, GMAT, MCAT) in its holistic evaluation of applicants.",
+      "url": "https://datascience.virginia.edu/phd/admissions"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "GRE scores of any kind are not reviewed.",
+      "quote": "The Ph.D. in Data Science does not review other standardized test scores (i.e., GRE, GMAT, MCAT) in its holistic evaluation of applicants.",
+      "url": "https://datascience.virginia.edu/phd/admissions"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "TOEFL iBT 100 overall (22/22/23/23 sections) for tests before 21 Jan 2026; 5 overall on the new scale after that. Higher than the Graduate School's 90.",
+      "quote": "TOEFL taken prior to Jan. 21, 2026: 100 overall (including minimum section scores of 22 in speaking, 22 in writing, 23 in reading, and 23 in listening).",
+      "url": "https://datascience.virginia.edu/phd/admissions",
+      "also": [
+        {
+          "quote": "TOEFL taken after Jan. 21, 2026: 5 overall (including minimum section scores of 4 in speaking, 4.5 in writing, 4.5 in reading, and 5 in listening).",
+          "url": "https://datascience.virginia.edu/phd/admissions"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You do not need a supervisor before applying; students usually choose one by the end of year two.",
+      "quote": "The Ph.D. in Data Science program does not require students to identify a research supervisor prior to applying for our program.",
+      "url": "https://datascience.virginia.edu/phd/admissions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted students get School of Data Science support for the duration of their enrollment: tuition and fee remission, health premium and annual wages.",
+      "quote": "Admitted applicants will receive financial support from the School of Data Science for the duration of their enrollment in the program",
+      "url": "https://datascience.virginia.edu/phd/admissions"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is enough; a master's is not required and does not improve your chances.",
+      "quote": "does not make an applicant more competitive in the admissions process | We welcome applicants from all undergraduate majors or programs of study who have earned their bachelor's degree",
+      "url": "https://datascience.virginia.edu/phd/admissions"
+    }
+  },
+  "notes": "Own application and English rules from the School of Data Science. IELTS 7.0 overall matches the Graduate School; fee is $85."
+}

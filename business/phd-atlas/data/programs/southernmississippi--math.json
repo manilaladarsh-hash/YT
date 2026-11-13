@@ -1,0 +1,52 @@
+{
+  "id": "southernmississippi--math",
+  "university": "southernmississippi",
+  "field": "math",
+  "also_fields": [
+    "physics"
+  ],
+  "department": "Computational Science, School of Mathematics and Natural Sciences",
+  "program_page": "https://www.usm.edu/graduate-programs/computational-science.php",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-01",
+      "value": "The program page gives no separate date, so the Graduate School's May 1 international Fall deadline applies.",
+      "quote": "Fall admission (August start date) – May 1",
+      "url": "https://www.usm.edu/graduate-school/international-graduate-admissions.php",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The computational science page does not mention a GRE Subject test.",
+      "quote": "",
+      "url": "https://www.usm.edu/graduate-programs/computational-science.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The computational science page does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.usm.edu/graduate-programs/computational-science.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching assistantships range from $18,000 to $24,000 with a full tuition waiver, and they are limited and competitive.",
+      "quote": "Assistantships are limited and are granted on a competitive basis",
+      "url": "https://www.usm.edu/graduate-school/international-graduate-admissions.php",
+      "also": [
+        {
+          "quote": "Teaching assistantships are available, ranging from $18,000 for 9 months to $24,000 for 12 months",
+          "url": "https://www.usm.edu/graduate-programs/computational-science.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The computational science page does not say whether a master's is needed before the PhD.",
+      "quote": "",
+      "url": "https://www.usm.edu/graduate-programs/computational-science.php"
+    }
+  },
+  "notes": "Options are mathematics and physics; the physics option is recorded here as also_fields, and no separate physics PhD appears in the Graduate School directory.",
+  "name": "Computational Science PhD"
+}

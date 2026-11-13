@@ -1,0 +1,57 @@
+{
+  "id": "bgsu--chemistry",
+  "university": "bgsu",
+  "field": "chemistry",
+  "also_fields": [
+    "physics"
+  ],
+  "department": "Department of Chemistry (Center for Photochemical Sciences)",
+  "program_page": "https://www.bgsu.edu/academics/graduate/photochemical-sciences-doctorate.html",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Fall applications are due March 1, 2027; spring applications are due November 1.",
+      "quote": "Photochemical Sciences - PhD (Main) (Fall Admission Only) ... Fall Mar 1; Spring Nov 1",
+      "url": "https://www.bgsu.edu/admissions/graduate/graduate-application-instructions/gradadmissionsdeadlines.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required for the Photochemical Sciences application.",
+      "quote": "Official Graduate Record Exam (GRE) is not required.",
+      "url": "https://www.bgsu.edu/arts-and-sciences/center-for-photochemical-sciences/phd-program/apply.html"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE, including the Chemistry subject test, is required.",
+      "quote": "Official Graduate Record Exam (GRE) is not required.",
+      "url": "https://www.bgsu.edu/arts-and-sciences/center-for-photochemical-sciences/phd-program/apply.html"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The department still lists a minimum iBT TOEFL of 80 (old scale), which overrides the Graduate College minimum for this program.",
+      "quote": "The minimum total TOEFL score required in order to be eligible to apply is 80 on the Internet-based test",
+      "url": "https://www.bgsu.edu/arts-and-sciences/center-for-photochemical-sciences/phd-program/apply.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department states no supervisor-agreement rule for admission.",
+      "quote": "",
+      "url": "https://www.bgsu.edu/academics/graduate/photochemical-sciences-doctorate.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Financial assistance is limited and offered to applicants on a competitive basis.",
+      "quote": "Only limited amount of financial assistance (stipends, tuition waiver, non-resident fee coverage for out-of-state students) is available.",
+      "url": "https://www.bgsu.edu/arts-and-sciences/center-for-photochemical-sciences/phd-program/apply.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Outstanding applicants may enter directly after a bachelor's degree in chemistry, biology, physics or a related field.",
+      "quote": "may enter directly into the Ph.D program after completing a bachelor’s degree in chemistry, biology, physics or related disciplines",
+      "url": "https://www.bgsu.edu/academics/graduate/photochemical-sciences-doctorate.html"
+    }
+  },
+  "notes": "Physics: the Ph.D. covers chemistry and physics (also_fields). Conflict: the program page says the Center provides full support for all students in good standing, but the apply page says financial assistance is limited; recorded as Competitive from the apply page. The physics.bgsu.edu page for the Toledo cooperative PhD could not be fetched (connection failed)."
+}

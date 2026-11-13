@@ -1,0 +1,56 @@
+{
+  "id": "fsu--biology",
+  "university": "fsu",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Science",
+  "program_page": "https://www.bio.fsu.edu/grad/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The final PhD deadline is listed as December 1st, but the page gives no year. PhD applications are accepted for fall only.",
+      "quote": "",
+      "url": "https://www.bio.fsu.edu/grad/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field: ETS discontinued the GRE Biology Test in May 2021.",
+      "quote": "The GRE Biology Test and the GRE Literature in English Test were discontinued in May 2021.",
+      "url": "https://www.ets.org/gre/test-takers/subject-tests/scores.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants identify faculty of interest in the supplemental application. Reaching out to faculty is strongly encouraged in Cell & Molecular Biology (which uses three first-year lab rotations), while Ecology & Evolution requires a faculty sponsor to be admitted and Neuroscience asks applicants to list at least one contacted potential sponsor.",
+      "quote": "Applicants will identify their intended area and faculty members of interest within the Biological Science Supplemental Application under your Application Checklist.",
+      "url": "https://www.bio.fsu.edu/grad/",
+      "also": [
+        {
+          "quote": "First-year CMB students typically arrange for and participate in three lab rotations as a prerequisite for final selection of their lab and major professor. Even though prospective students do NOT need a prospective faculty mentor to sponsor their candidacy prior to application, we strongly encouraged you to reach out to faculty members whose research you are interested in as early as possible.",
+          "url": "https://www.bio.fsu.edu/grad/cmbgrad/applicationTips.php"
+        },
+        {
+          "quote": "While prospective students do NOT need a faculty sponsor prior to applying, each prospective student MUST have a faculty sponsor who is willing to serve as their formal mentor in order to be admitted.",
+          "url": "https://www.bio.fsu.edu/grad/eegrad/appInstructions.php"
+        },
+        {
+          "quote": "On this form you'll specify Neuroscience as your area of interest and list at least one faculty member with whom you have communicated and identified as a potential faculty sponsor.",
+          "url": "https://www.bio.fsu.edu/grad/neuro/application.php"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every PhD student receives a stipend, tuition waiver and health subsidy, usually as a TA or RA.",
+      "quote": "All PhD and thesis-based Masters students are provided financial support in the form of a stipend, tuition waiver, and health insurance subsidy throughout their tenure",
+      "url": "https://www.bio.fsu.edu/grad/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The University minimum accepts a bachelor's or a graduate degree; the department page adds no rule.",
+      "quote": "A bachelor's degree from a regionally accredited U.S. institution, or a comparable degree from an international institution | A graduate degree from a regionally accredited U.S. institution, or a comparable degree from an international institution",
+      "url": "https://gradschool.fsu.edu/prospective-students/graduate-admissions"
+    }
+  },
+  "notes": "Three areas: Ecology and Evolution, Cellular and Molecular Biology, Neuroscience. Each area has its own review and instructions. The interdisciplinary Program in Neuroscience is saved separately as neuro. GRE not required for PhD applicants granted a waiver."
+}

@@ -1,0 +1,65 @@
+{
+  "id": "msstate",
+  "institution": "Mississippi State University",
+  "country": "USA",
+  "region": "Mississippi",
+  "grad_page": "https://www.grad.msstate.edu/students/admissions/international-studies",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "80 USD",
+      "value": "International applicants pay $80; domestic applicants pay $60.",
+      "quote": "Application Fees: Domestic applicants: $60 International applicants: $80",
+      "url": "https://www.grad.msstate.edu/students/admissions"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No international graduate application-fee waiver was found on the official pages checked.",
+      "quote": "",
+      "url": "https://www.grad.msstate.edu/students/admissions/international-studies"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Graduate School no longer requires the GRE for admission; some departments may require it for an assistantship.",
+      "quote": "Mississippi State University’s Graduate School no longer requires the GRE or GMAT for admissions purposes.",
+      "url": "https://www.grad.msstate.edu/students/admissions/test-scores",
+      "also": [
+        {
+          "quote": "However, some departments may require these test scores to be eligible for an assistantship.",
+          "url": "https://www.grad.msstate.edu/students/admissions/test-scores"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "3.5 (new scale)",
+      "value": "The Graduate School minimum is 3.5 on the new TOEFL iBT scale (54 on the old scale); some programs require more.",
+      "quote": "Minimum English Language Test Score requirements for admission to Mississippi State University: 6.0 TOEFL Essentials 54 TOEFL iBT (old score system) 3.5 TOEFL iBT (new score system) 4.5 IELTS 95 Duolingo",
+      "url": "https://www.grad.msstate.edu/students/admissions/international-studies",
+      "also": [
+        {
+          "quote": "The following degree programs require higher test scores than the University requirement:",
+          "url": "https://www.grad.msstate.edu/students/admissions/international-studies"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "4.5",
+      "value": "The Graduate School minimum is an IELTS score of 4.5; some programs require more.",
+      "quote": "Minimum English Language Test Score requirements for admission to Mississippi State University: 6.0 TOEFL Essentials 54 TOEFL iBT (old score system) 3.5 TOEFL iBT (new score system) 4.5 IELTS 95 Duolingo",
+      "url": "https://www.grad.msstate.edu/students/admissions/international-studies"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Only degrees from English-first countries or institutions, and listed exempt countries, skip the test. India is not on the list, so Indian applicants need a test unless a department says otherwise.",
+      "quote": "An international student from a country where English is the first language, as documented by a statement on the high school graduating certificate that English is the official (first) language of the country, or who holds one or more degrees (baccalaureate or higher) from a college or university where English is the first language is not required to submit English language test scores.",
+      "url": "https://www.grad.msstate.edu/students/admissions/international-studies",
+      "also": [
+        {
+          "quote": "TOEFL/IELT Exempt Countries Anguilla Antigua and Barbuda Australia Bahamas Barbados Belize Bermuda British Virgin Islands Canada (except Quebec) Cayman Islands Christmas Island Dominica England/Wales/United Kingdom Gambia (The) Ghana Gibraltar Grenada Guyana Isle of Man Jamaica Liberia Malawi Malta Micronesia Montserrat New Zealand Nigeria Northern Ireland Pitcairn Islands Republic of Ireland Saint Helena Saint Kitts and Nevis Saint Lucia Saint Vincent and Grenadines Sierra Leone Swaziland Tanzania Trinidad and Tobago Turks and Caicos Islands Uganda",
+          "url": "https://catalog.msstate.edu/graduate/admissions-information/admission-requirements/international-students/"
+        }
+      ]
+    }
+  },
+  "notes": "Sources: the Graduate School international and test-scores pages (current, with the new TOEFL scale) and the 2026-27 catalog international page (exempt-country list). The catalog's own English table (477 PBT, 53 iBT, IELTS 4.5) is older and was not used. The Graduate School's separate exempt-country list was not on the fetched pages. An older Graduate School FAQ says the international fee 'will increase to $80.00'; the admissions page now gives $80."
+}

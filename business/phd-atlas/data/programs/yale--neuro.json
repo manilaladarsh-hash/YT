@@ -1,0 +1,73 @@
+{
+  "id": "yale--neuro",
+  "university": "yale",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Interdepartmental Neuroscience Program",
+  "program_page": "https://medicine.yale.edu/inp/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "December 1, 11:59 pm Eastern; apply through the BBS Neuroscience Track (year inferred from the 2026-27 cycle).",
+      "quote": "Application Deadline December 1 11:59pm ET",
+      "url": "https://gsas.yale.edu/programs-of-study/interdepartmental-neuroscience-program",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The General GRE is not accepted.",
+      "quote": "GRE is not accepted.",
+      "url": "https://gsas.yale.edu/programs-of-study/interdepartmental-neuroscience-program"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "No GRE scores are accepted, so the Psychology Subject GRE is not considered either.",
+      "quote": "GRE is not accepted.",
+      "url": "https://gsas.yale.edu/programs-of-study/interdepartmental-neuroscience-program"
+    },
+    "toefl_min": {
+      "code": "5.0 (new scale)",
+      "value": "BBS, which admits neuroscience applicants, requires at least 5.0 on the new TOEFL scale (100 on the pre-2026 iBT).",
+      "quote": "TOEFL: We require a score of at least 5.0 (or 100 on the pre-2026 exam).",
+      "url": "https://medicine.yale.edu/bbs/apply/requirements",
+      "also": [
+        {
+          "quote": "BBS requires a score of at least 600 on the paper version, 250 on the computer-based exam, and 100 on the internet-based exam.",
+          "url": "https://gsas.yale.edu/programs-of-study/interdepartmental-neuroscience-program"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "IELTS is accepted and BBS sets no minimum score.",
+      "quote": "There is no minimum score requirement for the IELTS.",
+      "url": "https://medicine.yale.edu/bbs/apply/requirements"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants use the BBS Neuroscience Track and rotate through three labs in the first year before choosing a thesis adviser.",
+      "quote": "We will require you to rotate through three labs during your first year of study to help you explore your research interests and find a thesis adviser.",
+      "url": "https://medicine.yale.edu/bbs/apply/faq/",
+      "also": [
+        {
+          "quote": "applicants interested in pursuing a degree in cell biology should apply to the Neuroscience Track within BBS.",
+          "url": "https://gsas.yale.edu/programs-of-study/interdepartmental-neuroscience-program"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every PhD student gets full tuition plus a stipend for at least five years.",
+      "quote": "Every PhD student receives a funding package that covers the full cost of tuition and provides a stipend to cover basic living costs like rent, food, and books — for a minimum of five years.",
+      "url": "https://gsas.yale.edu/resources/graduate-financial-aid"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's is not required to apply for a Yale PhD, so you can apply straight from a bachelor's (some programs prefer extra training).",
+      "quote": "A Master's degree is not required to apply for a PhD at Yale, although some programs give preference to applicants with post-baccalaureate training.",
+      "url": "https://gsas.yale.edu/admissions/phdmasters-application-process"
+    }
+  },
+  "notes": "Admission is through the BBS Neuroscience Track."
+}

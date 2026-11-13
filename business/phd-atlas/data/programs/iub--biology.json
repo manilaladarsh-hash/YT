@@ -1,0 +1,79 @@
+{
+  "id": "iub--biology",
+  "university": "iub",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology",
+  "program_page": "https://biology.indiana.edu/graduate/how-to-apply/phd-apply.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1 (EEB, GCDB, Microbiology); no extensions.",
+      "quote": "by the December 1 application deadline",
+      "url": "https://biology.indiana.edu/graduate/how-to-apply/phd-apply.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Applications for Fall 2027 will open September 1, 2026, for all programs.",
+          "url": "https://biology.indiana.edu/graduate/how-to-apply/phd-apply.html"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The department gives no waivers; only some Graduate School waivers exist.",
+      "quote": "The Department of Biology does not currently offer graduate application fee waivers or reimbursements. | The Graduate School Bloomington offers some waivers.",
+      "url": "https://biology.indiana.edu/graduate/how-to-apply/phd-apply.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE is not required.",
+      "quote": "GRE Scores are Not Required",
+      "url": "https://biology.indiana.edu/graduate/how-to-apply/phd-apply.html"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "GRE is not required.",
+      "quote": "GRE Scores are Not Required",
+      "url": "https://biology.indiana.edu/graduate/how-to-apply/phd-apply.html"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Minimum recommended TOEFL iBT 79; IELTS 6.5; Duolingo 115.",
+      "quote": "The minimum recommended scores for admission to the IU Bloomington Graduate Biology program are: IELTS – 6.5 TOEFL – 79",
+      "url": "https://biology.indiana.edu/graduate/how-to-apply/phd-apply.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum recommended IELTS 6.5.",
+      "quote": "The minimum recommended scores for admission to the IU Bloomington Graduate Biology program are: IELTS – 6.5 TOEFL – 79",
+      "url": "https://biology.indiana.edu/graduate/how-to-apply/phd-apply.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Waiver only for citizens of English-official countries on IU's list or degrees from the US, UK or Canada; India is not on IU's list, so a test is required.",
+      "quote": "Citizens of a country where English is the official language and/or students that have a degree from a higher education institution in the United States, United Kingdom, or Canada do not need to submit English Language test results.",
+      "url": "https://biology.indiana.edu/graduate/how-to-apply/phd-apply.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You do not need a lab picked out; most students pick a lab after the first semester.",
+      "quote": "Students do not need to have a lab picked out when they apply.",
+      "url": "https://biology.indiana.edu/graduate/how-to-apply/faq-phd.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted PhD students get a stipend and fee remission; support is guaranteed for 5 years.",
+      "quote": "Support is guaranteed for 5 years.",
+      "url": "https://biology.indiana.edu/graduate/financial-support.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Entry requires an undergraduate major in biology or a related science.",
+      "quote": "Minimum entrance requirements include an undergraduate major in one of the biological sciences or in a related field such as chemistry, physics, or mathematics.",
+      "url": "https://biology.indiana.edu/graduate/how-to-apply/phd-apply.html"
+    }
+  },
+  "notes": "Covers Evolution, Ecology and Behavior; Genome, Cell and Developmental Biology; and Microbiology PhDs."
+}

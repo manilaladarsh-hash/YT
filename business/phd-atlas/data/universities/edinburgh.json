@@ -1,0 +1,63 @@
+{
+  "id": "edinburgh",
+  "institution": "University of Edinburgh",
+  "country": "United Kingdom",
+  "region": "Scotland",
+  "grad_page": "https://study.ed.ac.uk/postgraduate/applying/research-degrees",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "There is no application fee for PhD programmes (stated on each programme page).",
+      "quote": "There is no fee to apply to this programme.",
+      "url": "https://study.ed.ac.uk/programmes/postgraduate-research/16-chemistry",
+      "also": [
+        {
+          "quote": "There is no fee to apply to this programme.",
+          "url": "https://study.ed.ac.uk/programmes/postgraduate-research/189-astrophysics"
+        },
+        {
+          "quote": "There is no fee to apply to this programme.",
+          "url": "https://study.ed.ac.uk/programmes/postgraduate-research/947-engineering"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No application fee is charged, so no waiver is needed.",
+      "quote": "There is no fee to apply to this programme.",
+      "url": "https://study.ed.ac.uk/programmes/postgraduate-research/16-chemistry"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The University's postgraduate research pages do not mention the GRE.",
+      "quote": "",
+      "url": "https://study.ed.ac.uk/postgraduate/applying/what"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "Set per programme; see the programme record (the PhD pages checked show 4.5 new scale / 92 old scale).",
+      "quote": "",
+      "url": "https://study.ed.ac.uk/postgraduate/applying/entry-requirements/english-language"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "Set per programme; see the programme record (the PhD pages checked show 6.5 overall, 6.0 per component).",
+      "quote": "",
+      "url": "https://study.ed.ac.uk/postgraduate/applying/entry-requirements/english-language"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "A degree taught and assessed in English counts only if it is from a majority English-speaking country or a university on Edinburgh's approved list; for India only the named approved universities qualify, otherwise a test is required.",
+      "quote": "a degree that was taught and assessed in English (restrictions apply)",
+      "url": "https://study.ed.ac.uk/postgraduate/applying/entry-requirements/english-language",
+      "also": [
+        {
+          "quote": "We have approved the named university only. Affiliated colleges and other related institutions are not covered, and an English language test is still required.",
+          "url": "https://study.ed.ac.uk/postgraduate/applying/entry-requirements/english-language/approved-universities"
+        }
+      ]
+    }
+  },
+  "notes": "English test scores vary between programmes (the Education PhD page differs), so they are recorded per program."
+}

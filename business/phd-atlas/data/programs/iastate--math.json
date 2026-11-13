@@ -1,0 +1,55 @@
+{
+  "id": "iastate--math",
+  "university": "iastate",
+  "field": "math",
+  "also_fields": [],
+  "department": "Mathematics graduate programme",
+  "program_page": "https://www.grad-college.iastate.edu/programs/mathematics",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Fall term deadline is February 1; the page gives no year, so 2027 is inferred.",
+      "quote": "Fall term – February 1st.",
+      "url": "https://www.grad-college.iastate.edu/programs/mathematics",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The programme does not require the GRE.",
+      "quote": "Program Requires GRE: No",
+      "url": "https://www.grad-college.iastate.edu/programs/mathematics"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The programme does not require the GRE, including the Mathematics subject test.",
+      "quote": "Program Requires GRE: No",
+      "url": "https://www.grad-college.iastate.edu/programs/mathematics"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The mathematics programme requires IELTS 7, above the Graduate College's 6.5.",
+      "quote": "IELTS 7 PTE 53 Duolingo 115",
+      "url": "https://www.grad-college.iastate.edu/programs/mathematics"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The programme page gives no supervisor rule.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/mathematics"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The programme page gives no funding rule.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/mathematics"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The stated admission requirement is a 4 year bachelor's degree (or equivalent); no master's is named.",
+      "quote": "4 year Bachelor’s degree (or equivalent)",
+      "url": "https://www.grad-college.iastate.edu/programs/mathematics"
+    }
+  },
+  "notes": "Applied Mathematics is also a Ph.D. page (not saved). The page sets a TOEFL Speak minimum of 20 for non-native speakers; this schema has no speaking field."
+}

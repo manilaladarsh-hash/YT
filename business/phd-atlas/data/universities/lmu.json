@@ -1,0 +1,53 @@
+{
+  "id": "lmu",
+  "institution": "Ludwig-Maximilians-Universität München (LMU Munich)",
+  "country": "Germany",
+  "region": "Bavaria",
+  "grad_page": "https://www.lmu.de/en/study/degree-students/applications-for-admission/guidelines-and-faqs/guide-to-applying-for-doctoral-studies/index.html",
+  "checked": "2026-11-12",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "LMU charges no application or tuition fees for doctoral studies.",
+      "quote": "There are no application or tuition fees.",
+      "url": "https://www.bio.lmu.de/lsm/en/become-an-lsm-student/"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No application fee is charged, so no waiver is needed.",
+      "quote": "There are no application or tuition fees.",
+      "url": "https://www.bio.lmu.de/lsm/en/become-an-lsm-student/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://www.lmu.de/graduatecenter/en/prospective-doctoral-researchers/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "LMU's GraduateCenter states that required language proficiency certificates are not set centrally and are clarified case-by-case (or per structured doctoral program).",
+      "quote": "The question of which language proficiency certificates must be provided for a doctorate at LMU cannot be answered in general terms, but can only be clarified on a case-by-case basis, usually in consultation with the future supervisor.",
+      "url": "https://www.lmu.de/graduatecenter/en/prospective-doctoral-researchers/"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "LMU's GraduateCenter states that required language proficiency certificates are not set centrally and are clarified case-by-case (or per structured doctoral program).",
+      "quote": "The question of which language proficiency certificates must be provided for a doctorate at LMU cannot be answered in general terms, but can only be clarified on a case-by-case basis, usually in consultation with the future supervisor.",
+      "url": "https://www.lmu.de/graduatecenter/en/prospective-doctoral-researchers/"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "Central LMU pages set no university-wide English-medium waiver rule for doctoral applicants (language proof is clarified case-by-case); India is named centrally for the APS certificate requirement.",
+      "quote": "The question of which language proficiency certificates must be provided for a doctorate at LMU cannot be answered in general terms, but can only be clarified on a case-by-case basis, usually in consultation with the future supervisor.",
+      "url": "https://www.lmu.de/graduatecenter/en/prospective-doctoral-researchers/",
+      "also": [
+        {
+          "quote": "Applicants with school leaving certificates and/or university degrees from the PR China, India and Vietnam should submit the certificate from the Akademische",
+          "url": "https://www.lmu.de/en/study/degree-students/applications-for-admission/"
+        }
+      ]
+    }
+  },
+  "notes": "Two routes: individual doctoral studies (secure a supervisor's Betreuungszusage, obtain admission from the faculty's doctoral committee, and register with the International Office or Registrar) and structured doctoral programs coordinated via the GraduateCenter. Checked International Office doctoral guide, admissions page, FAQs, Registrar doctoral studies page, semester fees page, and GraduateCenter prospective doctoral researchers page. Blocked/unreachable: https://portal.graduatecenter.lmu.de/ (ERR_NAME_NOT_RESOLVED)."
+}

@@ -1,0 +1,63 @@
+{
+  "id": "uvic--physics",
+  "university": "uvic",
+  "field": "physics",
+  "also_fields": [
+    "astronomy"
+  ],
+  "department": "Physics and Astronomy",
+  "program_page": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-phd.php",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1 of the year before a September entry.",
+      "quote": "The deadline is December 1 of the previous year.",
+      "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-phd.php",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The GRE, including the Physics exam, is recommended for international applicants.",
+      "quote": "The GRE, including both General and Physics exams, is recommended for applicants from international universities.",
+      "url": "https://www.uvic.ca/science/physics/prospective/graduate/FAQ/index.php"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE is not required, but it is recommended for applicants from outside North America, which includes India.",
+      "quote": "it is recommended for applicants from outside of North America",
+      "url": "https://www.uvic.ca/science/physics/prospective/graduate/FAQ/index.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The physics FAQ repeats the 6.5 overall band, with no component below 6.0.",
+      "quote": "A minimum overall score of Band 6.5, with no score less than 6.0 on each individual IELTS component.",
+      "url": "https://www.uvic.ca/science/physics/prospective/graduate/FAQ/index.php"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No supervisor is needed before applying; faculty review applications and assign a supervisor after an offer.",
+      "quote": "No, you do not need to find a supervisor before you apply.",
+      "url": "https://www.uvic.ca/science/physics/prospective/graduate/FAQ/index.php",
+      "also": [
+        {
+          "quote": "you will be assigned a supervisor based on your research area and interests",
+          "url": "https://www.uvic.ca/science/physics/prospective/graduate/FAQ/index.php"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All accepted MSc and PhD students are guaranteed funding; the minimum guaranteed level for PhD students is $29,002.",
+      "quote": "All accepted MSc and PhD students to the Physics and Astronomy Department are guaranteed funding.",
+      "url": "https://www.uvic.ca/science/physics/prospective/graduate/FAQ/index.php"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's (or equivalent) in physics, astronomy or a related field is required; UVic MSc students can transfer to the PhD.",
+      "quote": "You must hold a master’s degree (or equivalent) in physics, astronomy or a related field",
+      "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-phd.php"
+    }
+  },
+  "notes": "The PhD includes an astronomy concentration (saved as also_fields). Medical physics and ocean physics are other concentrations. The physics FAQ still gives a TOEFL iBT minimum of 90 with section minimums of 20; the graduate page sets 4.5 for tests taken after January 21, 2026, so the university value is kept. The FAQ says application fees are refunded to admitted MSc and PhD students in the first semester; the application page says fees are non-refundable. Confirm with the department."
+}

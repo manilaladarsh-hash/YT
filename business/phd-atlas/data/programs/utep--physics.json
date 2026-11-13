@@ -1,0 +1,62 @@
+{
+  "id": "utep--physics",
+  "university": "utep",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://www.utep.edu/science/physics/academic-programs/graduate/phd-program-in-physics.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall applications are due December 1.",
+      "quote": "Fall: December 1",
+      "url": "https://www.utep.edu/science/physics/academic-programs/graduate/phd-program-in-physics.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The physics page does not mention the GRE Subject test.",
+      "quote": "",
+      "url": "https://www.utep.edu/science/physics/academic-programs/graduate/phd-program-in-physics.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission does not require an agreed supervisor; students choose a research advisor by the fourth semester.",
+      "quote": "The students will be required to choose a research advisor and committee by the end of the fourth semester at the latest",
+      "url": "https://www.utep.edu/science/physics/academic-programs/graduate/phd-program-in-physics.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The physics page does not describe assistantships or stipends.",
+      "quote": "",
+      "url": "https://www.utep.edu/science/physics/academic-programs/graduate/phd-program-in-physics.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A bachelor's or master's degree in physics, applied mathematics or engineering is accepted.",
+      "quote": "bachelor’s or master’s degree in physics, applied mathematics, or engineering from an accredited institution in the United States",
+      "url": "https://www.utep.edu/science/physics/academic-programs/graduate/phd-program-in-physics.html",
+      "also": [
+        {
+          "quote": "The entering students should have a minimum 3.3 grade point average in their bachelor’s and/or master’s degree",
+          "url": "https://www.utep.edu/science/physics/academic-programs/graduate/phd-program-in-physics.html"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The physics page gives only the old internet-based 79 (550 paper-based) minimum, which is not recorded; the Graduate School's 4.5 (new scale) applies.",
+      "quote": "A minimum internet-based iBT of 79 (same as 550 for previous paper-based or 217 computer-based test scores)",
+      "url": "https://www.utep.edu/science/physics/academic-programs/graduate/phd-program-in-physics.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The physics department states IELTS 6.5 for some international applicants.",
+      "quote": "or 6.5 for IELTS or 110 for Duolingo is required for international applicants whose first language is not English",
+      "url": "https://www.utep.edu/science/physics/academic-programs/graduate/phd-program-in-physics.html"
+    }
+  },
+  "notes": "Entering students need a minimum 3.3 GPA. The qualifying exam is due by the fourth semester.",
+  "name": "Ph.D. in Physics"
+}

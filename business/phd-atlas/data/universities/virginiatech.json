@@ -1,0 +1,47 @@
+{
+ "id": "virginiatech",
+ "institution": "Virginia Tech",
+ "country": "USA",
+ "region": "Virginia",
+ "grad_page": "https://graduateschool.vt.edu/admissions/how-to-apply.html",
+ "checked": "2026-10-30",
+ "notes": "Comprehensive research university in Blacksburg, Virginia. Ph.D. programs across engineering, science, computing, and life sciences.",
+ "fields": {
+  "app_fee": {
+   "code": "75 USD",
+   "value": "Non-refundable $75 application fee for degree-seeking students.",
+   "quote": "Degree-seeking students must include a $75 fee with their application, though check to see if you qualify for a waiver or reduced fee. All application fees are non-refundable.",
+   "url": "https://graduateschool.vt.edu/admissions/how-to-apply.html"
+  },
+  "fee_waiver": {
+   "code": "Limited",
+   "value": "Application fee waivers available based on qualifying events and pipeline programs.",
+   "quote": "Applicants may be eligible for a Virginia Tech Graduate School application fee waivers based on the qualifying events below. Documentation as evidence of eligibility must be provided for review and approval under each category.",
+   "url": "https://graduateschool.vt.edu/admissions/tuition-and-costs/Application_Fees.html"
+  },
+  "gre_general": {
+   "code": "Not stated",
+   "value": "Graduate School does not centrally require entrance tests; departments set entrance test requirements.",
+   "quote": "The Graduate School does not require entrance tests, but check to see whether your department requires you to submit GRE, GMAT, or subject test scores with your application.",
+   "url": "https://graduateschool.vt.edu/admissions/how-to-apply.html"
+  },
+  "toefl_min": {
+   "code": "90",
+   "value": "Minimum overall TOEFL score of 90 with 20 on each subsection (or 4.5 on scale after Jan 21, 2026).",
+   "quote": "For TOEFL tests taken prior to January 21, 2026, a minimum overall score of 90 and 20 on each subsection score is required. Some departments may require higher minimum scores.",
+   "url": "https://graduateschool.vt.edu/admissions/how-to-apply/testing-requirements.html"
+  },
+  "ielts_min": {
+   "code": "6.5",
+   "value": "Minimum IELTS score of 6.5 required for admission.",
+   "quote": "A minimum TOEFL score of 4.5 (IBT) or IELTS score of 6.5 is required for admission.",
+   "url": "https://graduateschool.vt.edu/admissions/how-to-apply/testing-requirements.html"
+  },
+  "english_waiver": {
+   "code": "Conditional",
+   "value": "Waiver granted for applicants who earned a bachelor's degree from an accredited university where English is the medium of instruction.",
+   "quote": "English proficiency can also be demonstrated through a conferred bachelor\u2019s degree from an accredited university where English is the medium of instruction. If this applies to you, we will code a waiver of the English proficiency requirement into your application once we receive and review your transcript showing degree conferral and medium of instruction as English.",
+   "url": "https://graduateschool.vt.edu/admissions/how-to-apply/testing-requirements.html"
+  }
+ }
+}

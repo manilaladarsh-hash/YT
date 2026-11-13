@@ -1,0 +1,50 @@
+{
+  "id": "memphis--earth",
+  "university": "memphis",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Center for Earthquake Research and Information (CERI)",
+  "program_page": "https://www.memphis.edu/ceri/study/admission.php",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Submit by January 15 for the following Fall semester; later submissions are accepted.",
+      "quote": "January 15 for the following fall semester",
+      "url": "https://www.memphis.edu/ceri/study/admission.php",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "CERI does not require the GRE test.",
+      "quote": "The Graduate School and CERI no longer require the GRE test",
+      "url": "https://www.memphis.edu/ceri/study/guidelines.php"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Graduate School and CERI no longer require the GRE test.",
+      "quote": "The Graduate School and CERI no longer require the GRE test",
+      "url": "https://www.memphis.edu/ceri/study/guidelines.php"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly urged to contact CERI faculty and graduate students before applying.",
+      "quote": "We strongly urge prospective students to contact faculty members and graduate students at CERI",
+      "url": "https://www.memphis.edu/ceri/study/admission.php"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All CERI graduate students receive full 12-month research assistantships.",
+      "quote": "All graduate students at CERI receive full (12 month) Research Assistantships at competitive funding levels",
+      "url": "https://www.memphis.edu/ceri/study/admission.php"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The fetched CERI pages do not state whether a master's degree is needed.",
+      "quote": "",
+      "url": "https://www.memphis.edu/ceri/study/admission.php"
+    }
+  },
+  "notes": "Covers the Geophysics concentration of the Earth Sciences PhD, run by CERI. The Earth Sciences PhD's other concentrations were not checked. The GRE policy is taken from the CERI guidelines page.",
+  "name": "Earth Sciences (PhD), Geophysics concentration"
+}

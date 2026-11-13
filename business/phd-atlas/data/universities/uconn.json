@@ -1,0 +1,47 @@
+{
+  "id": "uconn",
+  "institution": "University of Connecticut",
+  "country": "USA",
+  "region": "Connecticut",
+  "grad_page": "https://grad.uconn.edu/admissions/requirements/",
+  "checked": "2026-10-29",
+  "notes": "",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "Application fee is $75 for each application submitted.",
+      "quote": "You will be asked to provide a valid credit card for a non-refundable payment of the application fee ($75.00).",
+      "url": "https://grad.uconn.edu/admissions/requirements/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Fee waivers are available for prospective students associated with select qualifying organizations, military service, and partnerships.",
+      "quote": "As we are committed to promoting a diverse graduate community, the Graduate School has agreed to waive the $75 non-refundable application fee for prospective students associated with the following organizations and partnerships:",
+      "url": "https://grad.uconn.edu/admissions/application-fee-waivers/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Central graduate admissions does not set a single campus-wide GRE requirement; requirements are set individually by each degree program.",
+      "quote": "The program you are applying to may require the GRE, specific GRE Subject Tests, or the GMAT.",
+      "url": "https://grad.uconn.edu/admissions/requirements/"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Minimum university requirement is 79 on TOEFL iBT (or 4.5 on new scale).",
+      "quote": "Regardless of visa status, students whose primary** language is not English must show evidence of proficiency in the English Language by submitting either TOEFL, IELTS, PTE or Duolingo scores. The required minimum score for each test is listed in the chart: | TOEFL (old scale) | 79",
+      "url": "https://grad.uconn.edu/admissions/requirements/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum university requirement is 6.5 overall band on IELTS.",
+      "quote": "IELTS | 6.5 | Online IELTS is accepted. IELTS One Skill Retake, IELTS General Training, and IELTS Indicator are not accepted.",
+      "url": "https://grad.uconn.edu/admissions/requirements/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exemption is granted for applicants who received a degree from an institution outside the U.S. where the language of instruction for the entire degree is English (requires registrar certification).",
+      "quote": "International applicants who have received a degree or will receive a degree prior to matriculation from a post-secondary institution outside of the United States whose language of instruction for the entire degree is English. Documentation will be required from the institution’s Registrar’s/Controller of Exam’s office stating that the medium of instruction for the degree is English.",
+      "url": "https://grad.uconn.edu/admissions/requirements/"
+    }
+  }
+}

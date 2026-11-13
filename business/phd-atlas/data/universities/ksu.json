@@ -1,0 +1,53 @@
+{
+  "id": "ksu",
+  "institution": "Kansas State University",
+  "country": "USA",
+  "region": "Kansas",
+  "grad_page": "https://www.k-state.edu/grad/admissions/application-process/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "The international degree-seeking application fee is $75.",
+      "quote": "International degree seeking ... $75",
+      "url": "https://www.k-state.edu/grad/admissions/application-process/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "The Graduate School gives no fee-waiver codes; a department may offer a code to a few applicants through a competitive process.",
+      "quote": "Departments may be able to offer a fee waiver code to a limited number of applicants based on a competitive process.",
+      "url": "https://www.k-state.edu/grad/admissions/application-process/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Only a few programs require the GRE; each program record gives its own rule.",
+      "quote": "A few academic programs require GRE/GMAT scores (see table below)",
+      "url": "https://www.k-state.edu/grad/admissions/application-process/"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT 4.5 minimum for tests taken on or after January 21, 2026 (79 for earlier tests).",
+      "quote": "IBT TOEFL (internet based) [Valid scores earned on or after January 21, 2026] ... 4.5",
+      "url": "https://www.k-state.edu/grad/admissions/application-process/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 minimum.",
+      "quote": "IELTS academic test ... 6.5",
+      "url": "https://www.k-state.edu/grad/admissions/application-process/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the Graduate School's list of countries exempt from the English test, and no medium-of-instruction exception is stated, so Indian applicants need a test score.",
+      "quote": "English proficiency test scores are required if English is not your native language and you are not a US Citizen or Permanent Resident",
+      "url": "https://www.k-state.edu/grad/admissions/application-process/",
+      "also": [
+        {
+          "quote": "Applicants from the following countries are not required to provide English proficiency test scores",
+          "url": "https://www.k-state.edu/grad/admissions/application-process/countries.html"
+        }
+      ]
+    }
+  },
+  "notes": "Doctoral programs taken from K-State's official program contacts list (gradapply.ksu.edu embed). The Graduate School's Feb. 1 international fall deadline is used where a program states none. Handbook says the test date must be within 18 months; the application page says two years, so check."
+}

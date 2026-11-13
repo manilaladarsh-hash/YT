@@ -1,0 +1,52 @@
+{
+  "id": "vcu--physics",
+  "university": "vcu",
+  "field": "physics",
+  "also_fields": [
+    "materials"
+  ],
+  "department": "Department of Physics",
+  "program_page": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/physics/nanoscience-nanotechnology-phd/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-15",
+      "value": "The catalog gives April 15 for fall entry.",
+      "quote": "Fall Apr 15 GRE Spring Oct 15",
+      "url": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/physics/nanoscience-nanotechnology-phd/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Admission depends on satisfactory GRE scores, so the catalog treats the GRE as required.",
+      "quote": "Acceptance is based upon undergraduate performance, satisfactory scores on the GRE and letters of recommendation",
+      "url": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/physics/nanoscience-nanotechnology-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The catalog does not mention a GRE Subject test in Physics.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/physics/nanoscience-nanotechnology-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/physics/nanoscience-nanotechnology-phd/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog says students may receive support but does not say most are funded.",
+      "quote": "Graduate students in the nanoscience and nanotechnology Ph.D. program may receive financial support via teaching or research assistantships or fellowships available from the home department",
+      "url": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/physics/nanoscience-nanotechnology-phd/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The catalog asks for a bachelor's degree with 30 credit hours in chemistry, physics or engineering.",
+      "quote": "to have a bachelor’s degree from an accredited college or university with 30 credit hours in chemistry, physics or engineering",
+      "url": "https://bulletin.vcu.edu/graduate/college-humanities-sciences/physics/nanoscience-nanotechnology-phd/"
+    }
+  },
+  "notes": "Catalog only; the Department of Physics site returned HTTP 502. The same nanoscience PhD is also listed under the Department of Chemistry (not saved separately). The catalog's Medical Physics PhD (School of Medicine, Jan 15 deadline) is a separate program and is not saved here.",
+  "name": "Nanoscience and Nanotechnology, PhD [Department of Physics]"
+}

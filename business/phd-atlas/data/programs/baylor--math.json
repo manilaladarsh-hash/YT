@@ -1,0 +1,74 @@
+{
+  "id": "baylor--math",
+  "university": "baylor",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://math.artsandsciences.baylor.edu/graduate-program/apply-our-programs",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "The application deadline is December 15, 2026; materials by then are needed for financial assistance.",
+      "quote": "The deadline for applications is December 15.",
+      "url": "https://math.artsandsciences.baylor.edu/graduate-program/apply-our-programs",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Mathematics Ph.D. December 15",
+          "url": "https://graduate.baylor.edu/programs"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The department lists a $50 processing fee; the Graduate School lists $60 for international applicants.",
+      "quote": "There is a $50.00 processing fee.",
+      "url": "https://math.artsandsciences.baylor.edu/graduate-program/apply-our-programs"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The math pages do not mention the GRE.",
+      "quote": "",
+      "url": "https://math.artsandsciences.baylor.edu/graduate-program/apply-our-programs"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No subject test is mentioned on the math pages.",
+      "quote": "",
+      "url": "https://math.artsandsciences.baylor.edu/graduate-program/apply-our-programs"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The math pages do not say whether a faculty sponsor is needed.",
+      "quote": "",
+      "url": "https://math.artsandsciences.baylor.edu/graduate-program/apply-our-programs"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted students get a graduate assistantship with a $33,000 stipend for 12 months and full tuition remission.",
+      "quote": "all accepted students receive a Graduate Assistantship consisting of a stipend of $33,000 for 12 months, full tuition remission",
+      "url": "https://math.artsandsciences.baylor.edu/graduate-program",
+      "also": [
+        {
+          "quote": "The Department of Mathematics offers Graduate Teaching Assistantships to all admitted students.",
+          "url": "https://catalog.baylor.edu/graduate-school/curriculum-departments-institutes-instruction/college-arts-sciences/mathematics/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is required, and the department admits students only into the PhD.",
+      "quote": "Graduate School applicants must hold a bachelor's or equivalent professional degree.",
+      "url": "https://graduate.baylor.edu/admissions/international-applicants",
+      "also": [
+        {
+          "quote": "Please note that the Mathematics Department only accepts students applying to the PhD. Program.",
+          "url": "https://math.artsandsciences.baylor.edu/graduate-program/apply-our-programs"
+        }
+      ]
+    }
+  },
+  "notes": "The math page's $50 processing fee differs from the Graduate School's $60 for international applicants; both are shown.",
+  "name": "Mathematics, Ph.D."
+}

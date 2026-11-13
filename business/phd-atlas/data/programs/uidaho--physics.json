@@ -1,0 +1,82 @@
+{
+  "id": "uidaho--physics",
+  "university": "uidaho",
+  "field": "physics",
+  "also_fields": [
+    "astronomy"
+  ],
+  "department": "Department of Physics",
+  "program_page": "https://www.uidaho.edu/academics/degree-finder/physics-phd",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "To be considered for departmental funding, submit a complete application before January 15 for Fall admission; international applicants should apply by Apr. 15 at the latest.",
+      "quote": "Students interested in being considered for departmental funding must submit a complete application before January 15 for Fall term admission",
+      "url": "https://www.uidaho.edu/academics/degree-finder/physics-phd",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Deadlines for international applicants | To provide sufficient time for application evaluation and for U.S. immigration student visa, submit your application no later than these dates. | Fall semester (August to December) Apr. 15",
+          "url": "https://www.uidaho.edu/graduate-studies/admissions/application-and-deadlines"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The department page lists a $50 application fee.",
+      "quote": "Application Fee: $50",
+      "url": "https://www.uidaho.edu/academics/degree-finder/physics-phd"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The physics page says no GRE is required.",
+      "quote": "GRE: Not required",
+      "url": "https://www.uidaho.edu/academics/degree-finder/physics-phd"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "Since the physics page says no GRE is required, the Physics GRE Subject test is not required either.",
+      "quote": "GRE: Not required",
+      "url": "https://www.uidaho.edu/academics/degree-finder/physics-phd"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "The department lists TOEFL 4.5, the new-scale minimum for tests taken from January 21, 2026.",
+      "quote": "Accepted tests: TOEFL: 4.5, IELTS: 6.5, Duolingo: 115, PTE-A: 58",
+      "url": "https://www.uidaho.edu/academics/degree-finder/physics-phd",
+      "also": [
+        {
+          "quote": "minimum total score 4.5 (test taken on and after January 21, 2026)",
+          "url": "https://www.uidaho.edu/graduate-studies/admissions/international-grad-admissions-requirements"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department lists IELTS Academic 6.5 overall.",
+      "quote": "Accepted tests: TOEFL: 4.5, IELTS: 6.5, Duolingo: 115, PTE-A: 58",
+      "url": "https://www.uidaho.edu/academics/degree-finder/physics-phd"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to contact a potential faculty advisor before applying; it is not a formal requirement.",
+      "quote": "Applicants seeking admission to the Ph.D. program are encouraged to identify and contact a potential faculty advisor or major professor during the application process",
+      "url": "https://www.uidaho.edu/academics/degree-finder/physics-phd"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page describes a teaching-assistant support package but does not say that all admitted students are funded.",
+      "quote": "Base stipend: $19,461.00 for the 9-month academic year",
+      "url": "https://www.uidaho.edu/academics/degree-finder/physics-phd"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Requires a bachelor's degree in a similar or related field; no master's is mentioned.",
+      "quote": "Education level: Bachelor's degree in a similar or related field",
+      "url": "https://www.uidaho.edu/academics/degree-finder/physics-phd"
+    }
+  },
+  "notes": "Research areas include astronomy and planetary science, so astronomy is listed as also_fields. Conditional admission with pending English proficiency applies to Physics. Full TA package starts Fall 2026 per the page.",
+  "name": "Physics (Ph.D.)"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ucla--astronomy",
+  "university": "ucla",
+  "field": "astronomy",
+  "also_fields": [],
+  "department": "Department of Physics and Astronomy",
+  "program_page": "https://grad.ucla.edu/requirements/?app=admission&major=00EB",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Apply by December 15, 2026 (Fall entry only).",
+      "quote": "Deadlines to apply | December 15, 2026",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=00EB"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The Physics GRE is optional but strongly recommended.",
+      "quote": "GRE: General and Subject accepted but, not required. GRE Subject in Physics is strongly recommended.",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=00EB"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The General GRE is accepted but not required.",
+      "quote": "GRE: General and Subject accepted but, not required.",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=00EB"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated; the department site (astro.ucla.edu) could not be fetched.",
+      "quote": "",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=00EB"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated; the department site (astro.ucla.edu) could not be fetched.",
+      "quote": "",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=00EB"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply with a bachelor's in physics or astronomy; the program admits only Ph.D. applicants.",
+      "quote": "Applicants should hold a bachelor's degree in physics or astronomy. | Admits only Ph.D. applicants.",
+      "url": "https://grad.ucla.edu/requirements/?app=admission&major=00EB"
+    }
+  },
+  "notes": "Department site astro.ucla.edu returned 502; facts are from the UCLA Graduate Education program page."
+}

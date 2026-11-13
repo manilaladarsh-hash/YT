@@ -1,0 +1,55 @@
+{
+  "id": "umbc--physics",
+  "university": "umbc",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://physics.umbc.edu/grad/faqs-for-graduate-students/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-07",
+      "value": "Fall admission deadline is January 7; spring admission is rare.",
+      "quote": "The application deadline for Fall admission is January 7",
+      "url": "https://physics.umbc.edu/grad/faqs-for-graduate-students/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Physics Department does not require or request GRE scores, and does not weigh them if reported.",
+      "quote": "The UMBC Department of Physics DOES NOT require or request GRE test scores for applications",
+      "url": "https://physics.umbc.edu/grad/faqs-for-graduate-students/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No subject GRE is required; the department does not request GRE scores.",
+      "quote": "The UMBC Department of Physics DOES NOT require or request GRE test scores for applications",
+      "url": "https://physics.umbc.edu/grad/faqs-for-graduate-students/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "A limited number of application-fee waivers exist for well-qualified students with financial need, including lower-income international students; ask the Chair of Admissions.",
+      "quote": "A limited number of application-fee waivers are available for well-qualified students with demonstrated financial need, including lower-income international students",
+      "url": "https://physics.umbc.edu/grad/faqs-for-graduate-students/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants do not need a research advisor before admission; they find one in the first years.",
+      "quote": "During the first year of study, you will have adequate time to examine the research areas and find an advisor and topic area",
+      "url": "https://physics.umbc.edu/grad/faqs-for-graduate-students/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most first-year students get a teaching assistantship with stipend, tuition and health benefits; later years are usually assistantships.",
+      "quote": "Typically, yes, unless you are supported in some other way",
+      "url": "https://physics.umbc.edu/grad/faqs-for-graduate-students/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "You may enter the PhD program with a bachelor's degree.",
+      "quote": "No, you may enter the PhD program with a Bachelor’s degree",
+      "url": "https://physics.umbc.edu/grad/faqs-for-graduate-students/"
+    }
+  },
+  "notes": "Atmospheric Physics PhD is also run by the Physics Department under the same admissions chair; its own rules were not researched separately. No astronomy PhD: the department offers only an astrophysics minor. The FAQ's TOEFL and DuoLingo figures restate the Graduate School rule, so they are not used as overrides. Department says it does not require GRE scores, so GRE is shown as not required."
+}

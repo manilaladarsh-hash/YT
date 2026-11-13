@@ -1,0 +1,70 @@
+{
+  "id": "iastate--chemeng",
+  "university": "iastate",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Chemical Engineering graduate programme",
+  "program_page": "https://www.grad-college.iastate.edu/programs/chemical_engineering",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Priority consideration for international applicants is December 1; the page gives no year, so the 2026 date is used for Fall 2027 entry.",
+      "quote": "Priority consideration deadlines for Fall admission are December 1 (international applicants)",
+      "url": "https://www.grad-college.iastate.edu/programs/chemical_engineering",
+      "inferred": "year"
+    },
+    "toefl_min": {
+      "code": "5.0 (new scale)",
+      "value": "The programme lists TOEFL iBT 5.0 without a scale label; it is read as the new 1-6 scale, which is above the Graduate College's 4.5. Check with the programme.",
+      "quote": "TOEFL Paper (PBT) 587 TOEFL Internet (iBT) 5.0 IELTS 7 PTE 64",
+      "url": "https://www.grad-college.iastate.edu/programs/chemical_engineering",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Internet-Based Test of English as a Foreign Language (TOEFL iBT): 79 (for exams taken before Jan. 21, 2026); 4.5 (for exams taken on or after January 21, 2026)",
+          "url": "https://www.grad-college.iastate.edu/future/InternationalApplicants"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "The chemical engineering programme requires IELTS 7, above the Graduate College's 6.5.",
+      "quote": "TOEFL Paper (PBT) 587 TOEFL Internet (iBT) 5.0 IELTS 7 PTE 64",
+      "url": "https://www.grad-college.iastate.edu/programs/chemical_engineering"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The programme does not require the GRE.",
+      "quote": "Program Requires GRE: No",
+      "url": "https://www.grad-college.iastate.edu/programs/chemical_engineering"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The programme does not require the GRE.",
+      "quote": "Program Requires GRE: No",
+      "url": "https://www.grad-college.iastate.edu/programs/chemical_engineering"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The programme page gives no supervisor rule.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/chemical_engineering"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The programme page gives no funding rule.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/chemical_engineering"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The stated admission requirement is a 4 year bachelor's degree (or equivalent); no master's is named.",
+      "quote": "4 year Bachelor’s degree (or equivalent)",
+      "url": "https://www.grad-college.iastate.edu/programs/chemical_engineering"
+    }
+  },
+  "notes": "Record is conflict-flagged on the TOEFL iBT score (the page gives no scale label). The Graduate College's new-scale minimum is 4.5.",
+  "name": "Chemical Engineering",
+  "conflict": true
+}

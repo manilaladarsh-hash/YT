@@ -1,0 +1,82 @@
+{
+  "id": "ohiou--physics",
+  "university": "ohiou",
+  "field": "physics",
+  "also_fields": [
+    "astronomy"
+  ],
+  "department": "Physics and Astronomy",
+  "program_page": "https://www.ohio.edu/cas/physics-astronomy/graduate/admissions",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Applications received by January 15 get full consideration; most offers go out by April 15. The fee waiver window closes December 13.",
+      "quote": "Applications received by Jan. 15 are given full consideration and the majority of offers are made by April 15.",
+      "url": "https://www.ohio.edu/cas/physics-astronomy/graduate/admissions",
+      "inferred": "year",
+      "time_sensitive": "2026-12-13"
+    },
+    "app_fee": {
+      "code": "55 USD",
+      "value": "Physics charges $55 USD for international applicants.",
+      "quote": "The Application fee is $50 for domestic applicants and $55 for international applicants.",
+      "url": "https://www.ohio.edu/cas/physics-astronomy/graduate/admissions"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Physics may waive the fee for PhD applicants with a GPA above 3.7 who meet the English rules and apply by December 13.",
+      "quote": "The application fee waiver can be considered for applications to the Ph.D. program that satisfy a GPA greater than 3.7 and the minimum English proficiency requirements (see above) and submitted on or before Dec. 13.",
+      "url": "https://www.ohio.edu/cas/physics-astronomy/graduate/admissions"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The General GRE is optional for physics applicants.",
+      "quote": "The Verbal and Quantitative GRE General Tests are optional.",
+      "url": "https://www.ohio.edu/cas/physics-astronomy/graduate/admissions"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Physics GRE Subject Test is optional.",
+      "quote": "The Physics GRE Subject Test is optional.",
+      "url": "https://www.ohio.edu/cas/physics-astronomy/graduate/admissions"
+    },
+    "toefl_min": {
+      "code": "95",
+      "value": "Physics requires a TOEFL iBT of 95 (or 590 on the paper test).",
+      "quote": "The minimum scores for Physics and Astronomy are TOEFL are 95 (iBT) or 590 (PBT)",
+      "url": "https://www.ohio.edu/cas/physics-astronomy/graduate/admissions"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Physics requires an IELTS score of 7 across all bands.",
+      "quote": "for the IELTS a minimum score of 7 across all bands is required",
+      "url": "https://www.ohio.edu/cas/physics-astronomy/graduate/admissions"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by the department's Admissions Committee; a research advisor is chosen after the first-year evaluation.",
+      "quote": "The Admissions Committee in the Physics & Astronomy Department looks for candidates with an aptitude for and active interest in scientific inquiry.",
+      "url": "https://www.ohio.edu/cas/physics-astronomy/graduate/admissions",
+      "also": [
+        {
+          "quote": "After passing the comps, students form a Dissertation Committee in consultation with their research advisor.",
+          "url": "https://www.ohio.edu/cas/physics-astronomy/graduate/physics-phd"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Virtually all physics graduate students are supported, usually by a teaching assistantship early on and a research assistantship later.",
+      "quote": "Virtually all graduate students in the Department of Physics & Astronomy are supported financially, usually via a teaching assistantship (TA) during their first one or two years and a research assistantship (RA) thereafter.",
+      "url": "https://www.ohio.edu/cas/physics-astronomy/graduate/financial-aid"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is the entry requirement; a U.S. master's-equivalent degree is not needed.",
+      "quote": "Applicants are not required to hold a U.S. master's-equivalent degree for admission.",
+      "url": "https://www.ohio.edu/cas/physics-astronomy/graduate/admissions"
+    }
+  },
+  "notes": "The Physics PhD page lists Astrophysics and Cosmology as a concentration, so astronomy is in also_fields. The Physics TA stipend for year one is stated as $27,000 on the financial aid page."
+}

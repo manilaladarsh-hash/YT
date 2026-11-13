@@ -1,0 +1,78 @@
+{
+  "id": "wvu--earth",
+  "university": "wvu",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Geology and Geography",
+  "program_page": "https://www.geo.wvu.edu/graduate/geology-graduate-program/admission-requirements",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Deadline for fall admission is December 15, 2026; the Academic Catalog lists January 1, 2027.",
+      "quote": "Deadline for Fall Semester Admission: December 15",
+      "url": "https://www.geo.wvu.edu/graduate/geology-graduate-program/admission-requirements",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "The deadline for Fall semester admission is Jan 1st",
+          "url": "https://catalog.wvu.edu/graduate/eberlycollegeofartsandsciences/geology/"
+        },
+        {
+          "quote": "Fall: December 15",
+          "url": "https://graduateadmissions.wvu.edu/academics/graduate-programs/geology-d"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are not required; submission is optional, though some advisors prefer them.",
+      "quote": "The Geology Graduate Program does not require GRE scores from applicants, and so submission of GRE scores is optional",
+      "url": "https://www.geo.wvu.edu/graduate/geology-graduate-program/admission-requirements"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "GRE scores are not required; submission is optional.",
+      "quote": "The Geology Graduate Program does not require GRE scores from applicants, and so submission of GRE scores is optional",
+      "url": "https://www.geo.wvu.edu/graduate/geology-graduate-program/admission-requirements"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Admission depends on placement with a graduate faculty advisor who is willing to advise the applicant.",
+      "quote": "Acceptance into the graduate program is contingent on placement with a graduate faculty advisor willing and able to advise the prospective student",
+      "url": "https://www.geo.wvu.edu/graduate/geology-graduate-program/admission-requirements"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "All applicants are considered for GTA and GRA support; the catalog gives no guarantee.",
+      "quote": "All applicants will be considered for financial support in the form of Graduate Teaching Assistantships (GTAs) and Graduate Research Assistantships (GRAs)",
+      "url": "https://catalog.wvu.edu/graduate/eberlycollegeofartsandsciences/geology/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants can enter the PhD directly from a bachelor's degree or after a master's.",
+      "quote": "Applicants may apply to the Ph.D. program with an M.S. or seek direct admission with a B.S. or B.A. degree",
+      "url": "https://catalog.wvu.edu/graduate/eberlycollegeofartsandsciences/geology/"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "Applicants whose bachelor's degree is from India, and from several other listed countries, need no English test score.",
+      "quote": "International applicants who did not complete their bachelor's degree at an institution in Australia, Canada, Republic of Ireland, New Zealand, United Kingdom, United States and its territories, Liberia, Nigeria, Ghana, Nepal, India, Pakistan",
+      "url": "https://www.geo.wvu.edu/graduate/geology-graduate-program/admission-requirements"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The page still gives the old-scale TOEFL iBT 79, so no TOEFL minimum is recorded here.",
+      "quote": "TOEFL iBT total score of at least 79",
+      "url": "https://www.geo.wvu.edu/graduate/geology-graduate-program/admission-requirements"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department requires an IELTS overall band of at least 6.5.",
+      "quote": "IELTS overall band score of at least 6.5",
+      "url": "https://www.geo.wvu.edu/graduate/geology-graduate-program/admission-requirements"
+    }
+  },
+  "notes": "Students must contact potential advisers before applying and name one in the personal statement. The graduate school lists the same December 15 fall deadline.",
+  "name": "Geology, PhD"
+}

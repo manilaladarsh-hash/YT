@@ -1,0 +1,73 @@
+{
+  "id": "brandeis--neuro",
+  "university": "brandeis",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Neuroscience",
+  "program_page": "https://www.brandeis.edu/neuroscience/graduate/phd-program/faqs.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026 for Fall 2027 entry; fall entry only.",
+      "quote": "The Neuroscience PhD program accepts applications for the Fall semester only | The deadline for applications is Dec. 1",
+      "url": "https://www.brandeis.edu/neuroscience/graduate/phd-program/faqs.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE scores are not considered for the Neuroscience PhD.",
+      "quote": "Biochemistry and Biophysics, Molecular and Cell Biology, Neuroscience: GRE scores are not considered in the admissions process.",
+      "url": "https://www.brandeis.edu/graduate-admissions/apply/phd.html",
+      "also": [
+        {
+          "quote": "The GRE is no longer accepted as a part of your application.",
+          "url": "https://www.brandeis.edu/neuroscience/graduate/phd-program/faqs.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "The Psychology subject test is not considered for the Neuroscience PhD.",
+      "quote": "Biochemistry and Biophysics, Molecular and Cell Biology, Neuroscience: GRE scores are not considered in the admissions process.",
+      "url": "https://www.brandeis.edu/graduate-admissions/apply/phd.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "The Neuroscience FAQ exempts only citizens or graduates of listed countries, which do not include India, so Indian applicants need a test score.",
+      "quote": "Students who are citizens of the following countries, or who have graduated from an accredited degree program within these countries, are exempt from this requirement",
+      "url": "https://www.brandeis.edu/neuroscience/graduate/phd-program/faqs.html",
+      "also": [
+        {
+          "quote": "Australia, Canada (except Quebec), Ireland, New Zealand, South Africa, USA and the United Kingdom.",
+          "url": "https://www.brandeis.edu/neuroscience/graduate/phd-program/faqs.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants need not contact a faculty member before admission; every student rotates through four labs first.",
+      "quote": "It is not necessary for applicants to contact faculty members in advance of admission regarding joining their lab",
+      "url": "https://www.brandeis.edu/neuroscience/graduate/phd-program/faqs.html",
+      "also": [
+        {
+          "quote": "All Neuro PhD students must complete four research rotations in their first year",
+          "url": "https://www.brandeis.edu/neuroscience/graduate/phd-program/faqs.html"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All Neuroscience PhD students are guaranteed funding, including a fellowship, full tuition and health insurance.",
+      "quote": "Students are guaranteed funding, including a competitive fellowship, a full-tuition scholarship, and health insurance benefits.",
+      "url": "https://www.brandeis.edu/neuroscience/graduate/phd-program/funding.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need a bachelor's degree to apply.",
+      "quote": "You must hold (or be about to earn) a bachelor’s degree from an accredited U.S. or international institution.",
+      "url": "https://www.brandeis.edu/graduate-admissions/apply/phd.html"
+    }
+  },
+  "notes": "The Neuroscience FAQ's English exemption list conflicts with the graduate school English-medium route; the department rule is recorded as the program value."
+}

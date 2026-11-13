@@ -1,0 +1,67 @@
+{
+  "id": "yale--biology",
+  "university": "yale",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Ecology & Evolutionary Biology",
+  "program_page": "https://eeb.yale.edu/interested-joining-graduate-program",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "December 1 (year inferred from the 2026-27 cycle).",
+      "quote": "Submit your application by December 1 (midnight EST) and pay the $105 application fee",
+      "url": "https://eeb.yale.edu/interested-joining-graduate-program",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "EEB no longer accepts GRE scores.",
+      "quote": "the Yale EEB program no longer accepts GRE scores (from either the general GRE or the Biology GRE)",
+      "url": "https://eeb.yale.edu/interested-joining-graduate-program",
+      "also": [
+        {
+          "quote": "GRE is not accepted.",
+          "url": "https://gsas.yale.edu/programs-of-study/ecology-evolutionary-biology"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "The Biology Subject GRE is not accepted either.",
+      "quote": "the Yale EEB program no longer accepts GRE scores (from either the general GRE or the Biology GRE)",
+      "url": "https://eeb.yale.edu/interested-joining-graduate-program"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Contact prospective advisors before applying; fit with a faculty advisor weighs heavily, and students also do two rotations.",
+      "quote": "Students should not apply for the graduate program unless they have already been in contact with one or more prospective faculty advisors in the department.",
+      "url": "https://eeb.yale.edu/interested-joining-graduate-program"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Students receive guaranteed financial support.",
+      "quote": "students receive guaranteed financial support, participate in research rotations, take graduate courses",
+      "url": "https://eeb.yale.edu/interested-joining-graduate-program",
+      "also": [
+        {
+          "quote": "Every PhD student receives a funding package that covers the full cost of tuition and provides a stipend to cover basic living costs like rent, food, and books — for a minimum of five years.",
+          "url": "https://gsas.yale.edu/resources/graduate-financial-aid"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "No minimum requirement apart from an undergraduate degree by the start date.",
+      "quote": "there are no minimum requirements, apart from an undergraduate degree by your matriculation date, for admission into EEB at Yale.",
+      "url": "https://eeb.yale.edu/interested-joining-graduate-program",
+      "also": [
+        {
+          "quote": "A Master's degree is not required to apply for a PhD at Yale, although some programs give preference to applicants with post-baccalaureate training.",
+          "url": "https://gsas.yale.edu/admissions/phdmasters-application-process"
+        }
+      ]
+    }
+  },
+  "notes": "Interviews are usually in mid to late January; international students may interview remotely."
+}

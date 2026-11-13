@@ -1,0 +1,61 @@
+{
+  "id": "fau--neuro",
+  "university": "fau",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Neuroscience Graduate Program, FAU Stiles-Nicholson Brain Institute",
+  "program_page": "https://www.fau.edu/graduate/graduate-programs/phd-neuroscience",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications close December 1 at 5 p.m. Eastern for the following fall.",
+      "quote": "Application Deadline: Dec. 1 at 5 p.m. EST",
+      "url": "https://www.fau.edu/brain/gradneuro/apply/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The page does not mention a GRE subject test; the field's usual test is Psychology.",
+      "quote": "",
+      "url": "https://www.fau.edu/graduate/graduate-programs/phd-neuroscience"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE general scores are optional.",
+      "quote": "GRE test scores are optional",
+      "url": "https://www.fau.edu/graduate/graduate-programs/phd-neuroscience"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The Neuroscience Graduate Program does not waive the GradCAS application fee.",
+      "quote": "The Neuroscience Graduate Program does not waive the GradCAS application fee",
+      "url": "https://www.fau.edu/brain/gradneuro/apply/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants list five faculty of interest; the page does not require faculty agreement.",
+      "quote": "Supervisor of Interest: List five potential FAU NGP Faculty from the list on the webpage that you are interested in their research",
+      "url": "https://www.fau.edu/brain/gradneuro/apply/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The fetched pages do not state funding terms.",
+      "quote": "",
+      "url": "https://www.fau.edu/brain/gradneuro/apply/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Only an undergraduate GPA is listed; a graduate GPA counts only if the applicant has one.",
+      "quote": "Undergraduate GPA of 3.4",
+      "url": "https://www.fau.edu/graduate/graduate-programs/phd-neuroscience",
+      "also": [
+        {
+          "quote": "Graduate GPA of 3.4 (if applicable)",
+          "url": "https://www.fau.edu/graduate/graduate-programs/phd-neuroscience"
+        }
+      ]
+    }
+  },
+  "notes": "Applications open in September. The page says the GRE is optional and the program does not waive the GradCAS fee. The Graduate College page prints TOEFL 4.5 (conflicts with the 79 on the apply page; not resolved)."
+}

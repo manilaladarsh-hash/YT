@@ -1,0 +1,60 @@
+{
+  "id": "lmu--biomed",
+  "university": "lmu",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Faculty of Medicine, Munich Medical Research School (MMRS) and Dr. rer. nat. route",
+  "program_page": "https://www.med.lmu.de/en/doctorate/from-a-to-z-your-guide-to-your-degree/ph.d.-medical-research/application-ph.d/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "Each core area or associated program sets its own deadline; the deadline table on the page could not be read.",
+      "quote": "The various core areas and associated programs set their own application deadlines and select their doctoral candidates for the Ph.D. independently",
+      "url": "https://www.med.lmu.de/en/doctorate/from-a-to-z-your-guide-to-your-degree/ph.d.-medical-research/application-ph.d/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "In many programs you must submit a project proposal developed with your future first TAC member at the time of application.",
+      "quote": "In many programs, you must submit a project proposal developed together with your future 1st TAC member at the time of application. For the individual Ph.D. Medical Research program, the 1st TAC member must also be a member of the LMU Medical Faculty.",
+      "url": "https://www.med.lmu.de/en/doctorate/from-a-to-z-your-guide-to-your-degree/ph.d.-medical-research/application-ph.d/",
+      "also": [
+        {
+          "quote": "A 3-member committee (TAC) accompanies your project and regularly documents the progress in TAC meetings.",
+          "url": "https://www.med.lmu.de/en/doctorate/from-a-to-z-your-guide-to-your-degree/ph.d.-medical-research/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The application page does not say how doctoral students are funded.",
+      "quote": "",
+      "url": "https://www.med.lmu.de/en/doctorate/from-a-to-z-your-guide-to-your-degree/ph.d.-medical-research/application-ph.d/"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A master's or equivalent degree of at least 240 ECTS is required in medicine, a natural science, pharmacy, health sciences or a related subject.",
+      "quote": "A qualifying degree, i.e. a Master's degree or equivalent",
+      "url": "https://www.med.lmu.de/en/doctorate/from-a-to-z-your-guide-to-your-degree/ph.d.-medical-research/application-ph.d/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "English proof is required (EU B2, IELTS 5.0 to 6.5 or TOEFL 87 to 109) but may be submitted before the end of the second semester; native speakers and English-speaking university graduates are exempt.",
+      "quote": "or who have a degree from an English-speaking university do not have to provide proof",
+      "url": "https://www.med.lmu.de/en/doctorate/from-a-to-z-your-guide-to-your-degree/ph.d.-medical-research/application-ph.d/",
+      "also": [
+        {
+          "quote": "APS certificate (only required for degrees from China, India and Vietnam)",
+          "url": "https://www.med.lmu.de/en/doctorate/from-a-to-z-your-guide-to-your-degree/ph.d.-medical-research/application-ph.d/"
+        }
+      ]
+    }
+  },
+  "notes": "Ph.D. Medical Research (MMRS core areas and associated programs) and the Dr. rer. nat. route under the Faculty of Medicine are covered together. The Dr. rer. nat. route applies to a natural-science master's supervised by an LMU Faculty of Medicine supervisor authorised to supervise. The deadline table on the application page did not come through; the individual core-area pages were not fetched."
+}

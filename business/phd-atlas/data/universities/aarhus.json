@@ -1,0 +1,47 @@
+{
+  "id": "aarhus",
+  "institution": "Aarhus University",
+  "country": "Denmark",
+  "region": "Central Denmark",
+  "grad_page": "https://phd.au.dk/how-to-apply",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "Natural Sciences and Technical Sciences do not charge an application fee.",
+      "quote": "GSNS does not charge an application fee.",
+      "url": "https://phd.nat.au.dk/for-applicants/application-guide/"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "There is no application fee to waive at Natural Sciences or Technical Sciences.",
+      "quote": "GSNS does not charge an application fee.",
+      "url": "https://phd.nat.au.dk/for-applicants/application-guide/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school pages checked do not mention the GRE General test.",
+      "quote": "",
+      "url": "https://phd.nat.au.dk/for-applicants/application-guide/"
+    },
+    "toefl_min": {
+      "code": "83",
+      "value": "Natural Sciences and Technical Sciences ask for a TOEFL iBT of 83 (a comparable level).",
+      "quote": "English language requirement is comparable to a minimum of TOEFL 83 or IELTS 6.5",
+      "url": "https://phd.nat.au.dk/for-applicants/application-guide/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Natural Sciences and Technical Sciences ask for an IELTS Academic score of 6.5 (a comparable level).",
+      "quote": "English language requirement is comparable to a minimum of TOEFL 83 or IELTS 6.5",
+      "url": "https://phd.nat.au.dk/for-applicants/application-guide/"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "The Natural Sciences and Technical Sciences pages checked do not say whether an English-medium degree from India waives the English test. Health says no test waiver (see biomed).",
+      "quote": "",
+      "url": "https://phd.nat.au.dk/for-applicants/application-guide/"
+    }
+  },
+  "notes": "Five graduate schools run PhDs at Aarhus University; STEM programmes sit in Natural Sciences (GSNS), Technical Sciences (GSTS) and Health. GSNS and GSTS share the same fee and English levels. Health sets its own English rules (biomed record). No GRE page was found on any of the graduate school pages checked. Health open calls take a Danish or equivalent master's degree; Health pages were checked at phd.health.au.dk. Not saved: Agroecology, Animal and Veterinary Sciences, Food Science and Quantitative Genetics (GSTS) and Public Health and ClinFO (Health) have no matching field. Molecular Biology & Genetics (GSNS) and Ecoscience (GSTS) are separate programmes not saved as their own records; see the biology and environment notes."
+}

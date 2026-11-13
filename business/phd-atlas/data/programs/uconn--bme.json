@@ -1,0 +1,48 @@
+{
+  "id": "uconn--bme",
+  "university": "uconn",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biomedical Engineering",
+  "program_page": "https://www.bme.uconn.edu/graduate-program/application-procedure/",
+  "checked": "2026-10-29",
+  "notes": "",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "January 1 deadline for Ph.D. applications for Fall admission",
+      "quote": "January 1 for both full-time M.S. and Ph.D. applications for Fall admission.",
+      "url": "https://www.bme.uconn.edu/graduate-program/application-procedure/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE is waived for all applicants to MS and PhD programs.",
+      "quote": "1.3.1 GRE GRE is waived for all applicants, to both MS and PhD programs.",
+      "url": "https://www.bme.uconn.edu/graduate-program/application-procedure/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers no Biomedical Engineering subject test.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Applicants are encouraged to communicate with a potential major advisor at submission.",
+      "quote": "All applicants must put the name of their preferred faculty advisor on their application, and applicants are encouraged to communicate directly with a potential major advisor at the time of the graduate application submission.",
+      "url": "https://www.bme.uconn.edu/graduate-program/application-procedure/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Financial support is offered through research and teaching assistantships.",
+      "quote": "2.0 FINANCIAL SUPPORT Financial support (graduate assistantship) is offered in the Biomedical Engineering Graduate Program through research and teaching assistantships.",
+      "url": "https://www.bme.uconn.edu/graduate-program/application-procedure/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Direct admission from accredited bachelor's degree.",
+      "quote": "You must hold a bachelor's degree from a degree-granting institution accredited by a U.S.",
+      "url": "https://grad.uconn.edu/admissions/requirements/"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "pennstate--math",
+  "university": "pennstate",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://science.psu.edu/math/graduate/admission/how-to-apply",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-05",
+      "value": "Applications are due January 5 each year (year inferred).",
+      "quote": "Application Deadline is January 5th!",
+      "url": "https://science.psu.edu/math/graduate/admission/how-to-apply",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "The deadline each year is January 5th.",
+          "url": "https://science.psu.edu/math/graduate/admission/frequently-asked-questions"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional, not required.",
+      "quote": "Scores from the Graduate Record Examination (GRE) are optional, not required for admission.",
+      "url": "https://science.psu.edu/math/graduate/admission/requirements"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Math Subject GRE is not required; GRE scores in general are optional.",
+      "quote": "Is the Math Subject GRE required? | Scores for the Graduate Record Examination (GRE) are optional, not required for admission.",
+      "url": "https://science.psu.edu/math/graduate/admission/frequently-asked-questions"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "A waiver is possible under special circumstances by contacting the department.",
+      "quote": "Yes, under special circumstances we may be able to waive the fee.",
+      "url": "https://science.psu.edu/math/graduate/admission/frequently-asked-questions"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students pass qualifying exams first and then choose a thesis adviser.",
+      "quote": "After passing the qualifying examinations, students are expected to select a thesis adviser and form a doctoral committee.",
+      "url": "https://science.psu.edu/math/graduate/phd-program"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "The main support is a teaching assistantship (tuition waiver, health insurance, stipend), normally for up to five years; the department supports only doctoral students.",
+      "quote": "The main source of financial assistance is teaching assistantships. | In most cases, doctoral students are supported for no more than five years.",
+      "url": "https://science.psu.edu/math/graduate/admission/fellowships-and-financial-aid",
+      "also": [
+        {
+          "quote": "The department offers support exclusively to doctoral students.",
+          "url": "https://science.psu.edu/math/graduate/admission/requirements"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply straight to the PhD; the department admits only PhD students and no master's is needed first.",
+      "quote": "No, you may apply directly to the Ph.D. program without a master's degree.",
+      "url": "https://science.psu.edu/math/graduate/admission/frequently-asked-questions",
+      "also": [
+        {
+          "quote": "We only admit students into our Ph.D. program.",
+          "url": "https://science.psu.edu/math/graduate/admission/how-to-apply"
+        }
+      ]
+    }
+  },
+  "notes": "Older department pages (math.psu.edu) show December 30 and GRE required; the current science.psu.edu pages say January 5 and GRE optional."
+}

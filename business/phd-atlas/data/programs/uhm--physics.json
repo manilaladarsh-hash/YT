@@ -1,0 +1,49 @@
+{
+  "id": "uhm--physics",
+  "university": "uhm",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics and Astronomy",
+  "program_page": "https://www.phys.hawaii.edu/graduate/grad-admission/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall applicants should apply by December 1.",
+      "quote": "Fall Admission: December 1st",
+      "url": "https://www.phys.hawaii.edu/graduate/grad-admission/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The department does not require the GRE; applicants may send scores if they have them.",
+      "quote": "We do not require the GRE for the admission, but you have the option to provide your scores if you have taken them",
+      "url": "https://www.phys.hawaii.edu/graduate/grad-admission/"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The department does not require the GRE; applicants may send scores if they have them.",
+      "quote": "We do not require the GRE for the admission, but you have the option to provide your scores if you have taken them",
+      "url": "https://www.phys.hawaii.edu/graduate/grad-admission/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department pages do not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.phys.hawaii.edu/graduate/grad-admission/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The fetched department pages do not describe PhD funding.",
+      "quote": "",
+      "url": "https://www.phys.hawaii.edu/graduate/grad-admission/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The fetched department pages do not say whether a master's is needed before the PhD.",
+      "quote": "",
+      "url": "https://www.phys.hawaii.edu/graduate/grad-admission/"
+    }
+  },
+  "notes": "Department statement on TA experience (not funding): 'At least one year of experience as a teaching assistant is required of all MS and Ph.D. candidates.' (https://www.phys.hawaii.edu/graduate/)."
+}

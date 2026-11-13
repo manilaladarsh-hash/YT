@@ -1,0 +1,49 @@
+{
+  "id": "tufts--math",
+  "university": "tufts",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://asegrad.tufts.edu/program/mathematics-doctorate",
+  "checked": "2026-10-29",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall 2027 PhD applications are due December 1, 2026; the official table prints no year.",
+      "quote": "Mathematics December 1 (final)",
+      "url": "https://asegrad.tufts.edu/applying/application-deadlines",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The programme page does not mention a subject GRE.",
+      "quote": "",
+      "url": "https://asegrad.tufts.edu/program/mathematics-doctorate"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The programme page describes an advisor for the candidacy exam but does not say whether a supervisor's agreement is needed before admission.",
+      "quote": "",
+      "url": "https://asegrad.tufts.edu/program/mathematics-doctorate"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The programme page does not state a stipend or funding guarantee; the GSAS page says tuition is fully covered and many programmes offer assistantships.",
+      "quote": "",
+      "url": "https://asegrad.tufts.edu/program/mathematics-doctorate",
+      "also": [
+        {
+          "quote": "Tuition for Graduate School of Arts and Sciences PhD students is fully covered by Tufts tuition scholarships.",
+          "url": "https://asegrad.tufts.edu/tuition-aid/graduate-school-arts-sciences-gsas"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The programme page does not say whether a bachelor's or a master's is needed.",
+      "quote": "",
+      "url": "https://asegrad.tufts.edu/program/mathematics-doctorate"
+    }
+  },
+  "notes": "The official PhD list has a single Mathematics doctorate. No statistics, data-science or environmental PhD appears on the programme list."
+}

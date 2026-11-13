@@ -1,0 +1,59 @@
+{
+  "id": "boise",
+  "institution": "Boise State University",
+  "country": "USA",
+  "region": "Idaho",
+  "grad_page": "https://www.boisestate.edu/global-international/apply/ia-international-graduate-admission/",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "95 USD",
+      "value": "International graduate applicants pay a $95 application fee, which is non-refundable.",
+      "quote": "$95 application fee (non-refundable)",
+      "url": "https://www.boisestate.edu/global-international/apply/ia-international-graduate-admission/"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "Boise State cannot waive the application fee for international graduate applicants.",
+      "quote": "Unfortunately, we are unable to waive application fees for international graduate applicants at this time.",
+      "url": "https://www.boisestate.edu/global-international/apply/ia-international-graduate-admission/",
+      "also": [
+        {
+          "quote": "The Graduate College cannot waive application fees.",
+          "url": "https://www.boisestate.edu/graduatecollege/admissions/how-to-apply/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "There is no university-wide GRE rule; each program sets its own GRE policy.",
+      "quote": "Testing requirements vary between graduate programs.",
+      "url": "https://www.boisestate.edu/global-international/apply/ia-international-graduate-admission/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The Graduate College lists TOEFL iBT 80, an old-scale score, and the university says new-scale minimums are still being finalised, so no TOEFL number is recorded.",
+      "quote": "Boise State is currently finalizing its minimum score requirements for the new TOEFL scoring scale.",
+      "url": "https://www.boisestate.edu/global-international/apply/ia-international-graduate-admission/",
+      "also": [
+        {
+          "quote": "TOEFL iBT and iBT Home Edition 80",
+          "url": "https://www.boisestate.edu/global-international/apply/ia-international-graduate-admission/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The Graduate College's IELTS minimum is 6.5.",
+      "quote": "IELTS and IELTS Online 6.5",
+      "url": "https://www.boisestate.edu/global-international/apply/ia-international-graduate-admission/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on Boise State's list of approved countries, so an Indian degree does not waive the English test.",
+      "quote": "Graduate applicants are exempt from submitting additional proof of English proficiency if they have earned or will earn prior to enrollment at Boise State a Bachelor's, Master's, or Doctoral degree from an accredited or recognized institution located in one of the approved countries in the table below.",
+      "url": "https://www.boisestate.edu/global-international/apply/ia-international-graduate-admission/"
+    }
+  },
+  "notes": "Graduate College Duolingo English Test minimum is 115 (table on the International Admissions page). The Graduate Gem Scholarship deadline is February 15 for fall (the International Admissions page). Program records hold the department rules."
+}

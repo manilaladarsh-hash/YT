@@ -1,0 +1,48 @@
+{
+  "id": "ufl--environment",
+  "university": "ufl",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Environmental Engineering Sciences (ESSIE)",
+  "program_page": "https://essie.ufl.edu/admissions/graduate-admissions/",
+  "checked": "2026-10-29",
+  "notes": "",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-05",
+      "value": "December 5 priority deadline for Fall applicants",
+      "quote": "Application submission deadlines | Fall | December 5",
+      "url": "https://essie.ufl.edu/admissions/graduate-admissions/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE or FE verifications are not required for PhD applicants.",
+      "quote": "The Graduate Records Examination (GRE) or Fundamentals of Engineering (FE) verifications are not required for master-level/Ph.D. applicants.",
+      "url": "https://essie.ufl.edu/admissions/graduate-admissions/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers no Environmental Engineering subject test.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Contacting faculty is not required for application submission, but applicants are encouraged to contact faculty to discuss research and funding.",
+      "quote": "Statement of Purpose: Please indicate the faculty who you are interested in working with and if you have secured any outside funding in this statement.",
+      "url": "https://essie.ufl.edu/admissions/graduate-admissions/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Funding is awarded by individual faculty members based on educational background and research experience.",
+      "quote": "Most entering graduate students are initially supported by a teaching assistantship, which pays the student\u2019s tuition and provides a stipend.",
+      "url": "https://phys.ufl.edu/graduate/admissions/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Direct admission from bachelor's degree with upper-division GPA of at least 3.0.",
+      "quote": "For applicants with solely a bachelor\u2019s degree, a minimum 3.0 GPA on all coursework completed after the applicant has earned 60 semester hours (90 quarter hours) is required.",
+      "url": "https://gradcatalog.ufl.edu/graduate/admission/"
+    }
+  }
+}

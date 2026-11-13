@@ -1,0 +1,55 @@
+{
+  "id": "virginia--physics",
+  "university": "virginia",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics (Graduate School of Arts and Sciences)",
+  "program_page": "https://graduate.as.virginia.edu/requirements",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "PhD Physics: December 15 (year inferred; portal opens October 1). Physics MS has a separate Jan 15 / rolling-to-May 1 schedule.",
+      "quote": "PhD | December 1 | Biology, Psychology, Chemistry | December 15 | Anthropology (not accepting applications this cycle), Art & Architectural History, Economics, English, History, Media Studies, Nursing, Physics, Politics, Religious Studies, French",
+      "url": "https://graduate.as.virginia.edu/deadlines",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Required",
+      "value": "Valid Physics GRE score required (self-reported at application; official scores needed on matriculation)",
+      "quote": "Applicants to degree programs in Physics require a valid Physics GRE score; general GRE scores are not required.",
+      "url": "https://graduate.as.virginia.edu/requirements"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No supervisor is needed to apply; first-year students try preliminary research with several faculty and move to a dissertation advisor of their choice later.",
+      "quote": "A student may engage in several such preliminary research periods before embarking upon their dissertation research by which time they would transfer to a faculty advisor of their choice.",
+      "url": "https://www.phys.virginia.edu/GraduateBrochure/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Doctoral admits get at least five years of support: 12-month stipend $37,260, full tuition/fees remission, single health insurance",
+      "quote": "The Graduate School offers doctoral students a minimum of five years of financial support upon admission, including twelve-month living support of $37,260 and full remission of tuition, fees and the premium for single-person coverage",
+      "url": "https://graduate.as.virginia.edu/graduate-student-financial-support"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked",
+      "quote": "",
+      "url": "https://graduate.as.virginia.edu/requirements"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "General GRE not required for Physics",
+      "quote": "Applicants to degree programs in Physics require a valid Physics GRE score; general GRE scores are not required.",
+      "url": "https://graduate.as.virginia.edu/requirements"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic 7.0 in each section (department admissions page).",
+      "quote": "The minimum IELTS score requirement is 7.0 in each section.",
+      "url": "https://www.phys.virginia.edu/GraduateBrochure/GraduateAdmissions.asp"
+    }
+  },
+  "notes": "Physics department admissions pages (www.phys.virginia.edu/GraduateBrochure) were fetched in this pass; physics.virginia.edu itself is unreachable. Application fee, fee waiver, TOEFL and English waiver inherit the university record. Department page also states: degree in physics or a related discipline expected (entry route kept Not stated). Enrolling students without an English-medium undergraduate degree must take the UVELPE exam in May."
+}

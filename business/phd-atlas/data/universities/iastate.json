@@ -1,0 +1,61 @@
+{
+  "id": "iastate",
+  "institution": "Iowa State University",
+  "country": "USA",
+  "region": "Iowa",
+  "grad_page": "https://www.grad-college.iastate.edu/future/InternationalApplicants",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "100 USD",
+      "value": "Graduate applicants pay a separate nonrefundable application fee for each program; the international fee is $100.",
+      "quote": "International applicants: $100 (nonrefundable).",
+      "url": "https://www.iastate.edu/admission-and-aid/admissions/graduate-application-information"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Application fee waivers are only for McNair Scholars; no other waiver is listed for international applicants.",
+      "quote": "Fee waivers are available exclusively for McNair Scholars.",
+      "url": "https://www.iastate.edu/admission-and-aid/admissions/graduate-application-information"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate College pages disagree on whether most programmes require the GRE; each programme record gives its own rule.",
+      "quote": "While Iowa State University does not have a university-wide requirement for the GRE or GMAT, most graduate programs require one of these tests.",
+      "url": "https://www.iastate.edu/admission-and-aid/admissions/graduate-application-information",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "While Iowa State University does not have a university-wide requirement for the GRE or GMAT, most graduate programs do not require one of these tests.",
+          "url": "https://www.grad-college.iastate.edu/future/InternationalApplicants"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "The Graduate College minimum is TOEFL iBT 4.5 on the new scale for exams taken on or after 21 January 2026 (79 before that).",
+      "quote": "Internet-Based Test of English as a Foreign Language (TOEFL iBT): 79 (for exams taken before Jan. 21, 2026); 4.5 (for exams taken on or after January 21, 2026)",
+      "url": "https://www.grad-college.iastate.edu/future/InternationalApplicants"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The Graduate College minimum is IELTS Academic 6.5 overall; programmes can set higher.",
+      "quote": "International English Language Testing System (IELTS): 6.5",
+      "url": "https://www.grad-college.iastate.edu/future/InternationalApplicants"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Only degrees from English-speaking countries waive the English test, and India is not on the list, so Indian applicants need a test score.",
+      "quote": "If you have not earned a degree from an English-speaking country, you must provide official scores from one of the following exams.",
+      "url": "https://www.grad-college.iastate.edu/future/InternationalApplicants",
+      "also": [
+        {
+          "quote": "These countries recognize English as an official language: ... Zambia, Zimbabwe.",
+          "url": "https://www.grad-college.iastate.edu/future/InternationalApplicants"
+        }
+      ]
+    }
+  },
+  "notes": "Graduate College rules for all programmes. The Graduate College says both its minimum and the programme minimum must be met. Fields with no Ph.D. programme on the official list: datasci (Artificial Intelligence and Machine Learning and Data Engineering are Master's only) and bme (no Biomedical Engineering Ph.D. on the list). Blocked or refused by the proxy: https://www.grad.iastate.edu/ (502 on CONNECT), https://admissions.iastate.edu/ (502), https://catalog.iastate.edu/, and department hosts (physics, phys, chem, math, ece, me, stat, bbmb, cs, ge, ccee .iastate.edu), including https://www.cs.iastate.edu/graduate-admissions-deadlines. Deadlines on the programme pages are day and month only; the year is inferred by the brief's cycle rule.",
+  "conflict": true
+}

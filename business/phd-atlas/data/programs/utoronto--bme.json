@@ -1,0 +1,54 @@
+{
+  "id": "utoronto--bme",
+  "university": "utoronto",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Institute of Biomedical Engineering (BME)",
+  "program_page": "https://bme.utoronto.ca/prospective-student/admission-to-graduate-studies/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-28",
+      "value": "Round 1 for September 2027 runs November 1, 2026 to February 28, 2027 (Round 2 closes May 31, 2027, with fewer places). Deadlines are 5 p.m. ET.",
+      "quote": "2027 September start (Round 1) | International or Domestic | Nov 1, 2026 | Feb 28, 2027",
+      "url": "https://bme.utoronto.ca/prospective-student/admission-to-graduate-studies/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE is not required.",
+      "quote": "GRE score is not required",
+      "url": "https://bme.utoronto.ca/prospective-student/doctor-of-philosophy/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE scores are required.",
+      "quote": "GRE score is not required",
+      "url": "https://bme.utoronto.ca/prospective-student/doctor-of-philosophy/"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You can apply without one, but you must secure a BME faculty supervisor to receive an offer.",
+      "quote": "Although MASc/PhD applicants don’t need a supervisor when applying, students should have a supervisor confirmed by the last closing date associated with their intended program start to receive an admission offer. | successful candidates must identify and secure a BME faculty supervisor to receive admission.",
+      "url": "https://bme.utoronto.ca/prospective-student/admission-to-graduate-studies/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "PhD students in years 1-4 receive a guaranteed minimum stipend that also covers program fees.",
+      "quote": "PhD students receive a guaranteed stipend for four years.",
+      "url": "https://bme.utoronto.ca/prospective-student/doctor-of-philosophy/",
+      "also": [
+        {
+          "quote": "Eligible students in the funded cohort (MASc years 1–2; PhD years 1–4) each receive the unit’s normal funding package",
+          "url": "https://bme.utoronto.ca/current-students/tuition-and-funding/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Direct entry from a bachelor's (A- in each of the last two years) or after a master's (B+).",
+      "quote": "Direct entry after completion of a bachelor’s degree: A four-year bachelor’s degree with an average of at least 3.7 on a 4.0 GPA scale (i.e., A minus) in each of the last two years of completed study.",
+      "url": "https://bme.utoronto.ca/prospective-student/doctor-of-philosophy/"
+    }
+  },
+  "notes": "BME has its own English-language policy (linked from the PhD page, on a ServiceNow knowledge base that was not checked)."
+}

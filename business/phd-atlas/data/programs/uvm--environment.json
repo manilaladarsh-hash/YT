@@ -1,0 +1,61 @@
+{
+  "id": "uvm--environment",
+  "university": "uvm",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Rubenstein School of Environment and Natural Resources",
+  "program_page": "https://www.uvm.edu/rsenr/program/phd-natural-resources",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Fall deadline is January 1 (priority for funding); the Graduate College lists April 15 as its regular fall date.",
+      "quote": "Fall Deadline: January 1",
+      "url": "https://www.uvm.edu/rsenr/program/phd-natural-resources",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Fall Deadline: April 15; January 1 priority deadline for funding",
+          "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The school stopped requiring the GRE in December 2018.",
+      "quote": "As of December 1, 2018, the Rubenstein School does not require a writing sample or GRE.",
+      "url": "https://www.uvm.edu/rsenr/program/phd-natural-resources"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The school stopped requiring the GRE in December 2018.",
+      "quote": "As of December 1, 2018, the Rubenstein School does not require a writing sample or GRE.",
+      "url": "https://www.uvm.edu/rsenr/program/phd-natural-resources"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A potential faculty advisor must accept the applicant before admission.",
+      "quote": "Acceptability to a potential faculty advisor holding an appointment in the Rubenstein School and the UVM Graduate College",
+      "url": "https://www.uvm.edu/rsenr/program/phd-natural-resources",
+      "also": [
+        {
+          "quote": "Applicants must have established a relationship with an advisor to be admitted",
+          "url": "https://www.uvm.edu/graduate/programs-and-deadlines-apply"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Admission also requires school graduate faculty or applicant full-time assistantship funding, but the page does not say most students are funded.",
+      "quote": "Rubenstein School graduate faculty or applicant full-time assistantship funding",
+      "url": "https://www.uvm.edu/rsenr/program/phd-natural-resources"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "A master's degree is preferred but not required.",
+      "quote": "Applicants with a Master of Science degree are preferred.",
+      "url": "https://www.uvm.edu/rsenr/program/phd-natural-resources"
+    }
+  },
+  "notes": "Contact: Rubenstein School graduate program coordinator (rsenrgc@uvm.edu). Field mapping: Natural Resources PhD is saved under environment."
+}

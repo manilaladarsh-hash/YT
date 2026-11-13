@@ -1,0 +1,63 @@
+{
+  "id": "wmu--statistics",
+  "university": "wmu",
+  "field": "statistics",
+  "also_fields": [],
+  "department": "Statistics",
+  "program_page": "https://wmich.edu/grad/program-doctoral-statistics",
+  "checked": "2026-10-28",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Fall entry only. Apply by March 1 as an international applicant (July 1 for domestic). February 15 is the priority date for a teaching assistantship.",
+      "quote": "Submission deadline is July 1 for domestic applicants and March 1 for international applicants.",
+      "url": "https://wmich.edu/grad/program-doctoral-statistics",
+      "inferred": "year",
+      "time_sensitive": "2027-02-15",
+      "also": [
+        {
+          "quote": "Applications must be submitted by the priority deadline of February 15 to be considered for a graduate assistantship.",
+          "url": "https://wmich.edu/grad/program-doctoral-statistics"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The statistics PhD does not require the General GRE.",
+      "quote": "This program does not require the General GRE.",
+      "url": "https://wmich.edu/grad/program-doctoral-statistics"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department says neither the General GRE nor any GRE Subject Test is required for doctoral admission.",
+      "quote": "Neither the GRE General Test nor any GRE Subject Tests are required for admission to the Master’s or doctoral programs.",
+      "url": "https://wmich.edu/statistics/faq"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The statistics pages checked do not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/program-doctoral-statistics"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "The department usually has five to seven teaching assistantships a year and offers no non-teaching financial aid, so funding is limited.",
+      "quote": "The department does not offer non-teaching financial aid.",
+      "url": "https://wmich.edu/statistics/faq",
+      "also": [
+        {
+          "quote": "we usually have five to seven positions available.",
+          "url": "https://wmich.edu/statistics/faq"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The statistics pages checked do not say whether a master's degree is needed.",
+      "quote": "",
+      "url": "https://wmich.edu/grad/program-doctoral-statistics"
+    }
+  },
+  "notes": "Department FAQ and program page agree on the GRE rule. Funding is via teaching assistantships only.",
+  "name": "Statistics (Ph.D.)"
+}

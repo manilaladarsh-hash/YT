@@ -1,0 +1,50 @@
+{
+  "id": "iastate--environment",
+  "university": "iastate",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Environmental Science graduate programme",
+  "program_page": "https://www.grad-college.iastate.edu/programs/environmental_science",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "December 15 is the priority Fellowship consideration date; the page gives no year, so the 2026 date is used for Fall 2027 entry.",
+      "quote": "December 15 for priority Fellowship consideration",
+      "url": "https://www.grad-college.iastate.edu/programs/environmental_science",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The programme does not require the GRE.",
+      "quote": "Program Requires GRE: No",
+      "url": "https://www.grad-college.iastate.edu/programs/environmental_science"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The programme does not require the GRE.",
+      "quote": "Program Requires GRE: No",
+      "url": "https://www.grad-college.iastate.edu/programs/environmental_science"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must contact a faculty member and be nominated by one before they are considered for admission.",
+      "quote": "Only applicants that contact faculty, apply for the program and are then nominated by a faculty member will be considered for admission to the program.",
+      "url": "https://www.grad-college.iastate.edu/programs/environmental_science"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page gives a fellowship consideration date but does not say students are funded.",
+      "quote": "",
+      "url": "https://www.grad-college.iastate.edu/programs/environmental_science"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The stated admission requirement is a 4 year bachelor's degree (or equivalent); no master's is named.",
+      "quote": "4 year Bachelor’s degree (or equivalent)",
+      "url": "https://www.grad-college.iastate.edu/programs/environmental_science"
+    }
+  },
+  "notes": "Environmental Science is a direct-admit programme; the student joins a major professor's lab. Meteorology also has a Ph.D. page (not saved).",
+  "name": "Environmental Science"
+}

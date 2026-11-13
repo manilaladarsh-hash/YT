@@ -1,0 +1,42 @@
+{
+  "id": "okstate--math",
+  "university": "okstate",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://catalog.okstate.edu/arts-sciences/mathematics/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "No deadline on the catalog page; cas.okstate.edu/mathematics pages returned 403.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/arts-sciences/mathematics/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "No GRE rule appears on any official page we could read.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/arts-sciences/mathematics/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "No supervisor rule appears on any official page we could read.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/arts-sciences/mathematics/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "No funding rule appears on any official page we could read.",
+      "quote": "",
+      "url": "https://catalog.okstate.edu/arts-sciences/mathematics/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "The PhD needs 90 graduate hours beyond a bachelor's degree, or 60 hours beyond a master's degree.",
+      "quote": "A minimum of 90 semester credit hours of graduate credit beyond the bachelor's degree or 60 hours of beyond the master's degree is required for the PhD degree.",
+      "url": "https://catalog.okstate.edu/arts-sciences/mathematics/"
+    }
+  },
+  "notes": "Department admissions and deadline pages on the OSU domain returned 403 or 502, so only the university catalog was read."
+}

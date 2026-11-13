@@ -1,0 +1,47 @@
+{
+  "id": "gwu",
+  "institution": "George Washington University",
+  "country": "USA",
+  "region": "District of Columbia",
+  "grad_page": "https://graduate.admissions.gwu.edu/international-student-application-requirements",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "80 USD",
+      "value": "The application fee is $80, non-refundable, paid by credit card online.",
+      "quote": "The $80 non-refundable application fee must be paid in U.S. dollars",
+      "url": "https://graduate.admissions.gwu.edu/international-student-application-requirements"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Waivers cover narrow groups such as GW alumni, active-duty military and some information-session attendees; none is based on financial need.",
+      "quote": "The application fee is waived for: | We do not offer fee waivers based on financial need.",
+      "url": "https://columbian.gwu.edu/application-requirements"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The graduate school sets no single GRE rule; each school and program decides, and Columbian College says many doctoral programs require it.",
+      "quote": "Many doctoral programs and master's degree programs require a current, official general GRE test score.",
+      "url": "https://columbian.gwu.edu/application-requirements"
+    },
+    "toefl_min": {
+      "code": "81",
+      "value": "Graduate school minimum is TOEFL 81; Columbian College and Engineering set their own minimums in the program records.",
+      "quote": "Test of English as a Foreign Language (TOEFL): score of 81",
+      "url": "https://graduate.admissions.gwu.edu/international-student-application-requirements"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Graduate school minimum is IELTS overall 6.5; Columbian College and Engineering set lower minimums in the program records.",
+      "quote": "International English Language Testing System (IELTS): overall score of 6.5",
+      "url": "https://graduate.admissions.gwu.edu/international-student-application-requirements"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on Columbian College's list of exempt countries, so Indian applicants need an English test score.",
+      "quote": "We will provide an exemption from the English test requirement if you hold (or will by the time you begin studies at GW) a Bachelor's, Master's, or doctoral degree from one of the countries listed below.",
+      "url": "https://columbian.gwu.edu/international-graduate-applicants"
+    }
+  },
+  "notes": "Sources: Graduate School international page (fee, English minimums), Columbian College pages (fee waivers, exemption list, GRE), School of Engineering pages (fee, GRE, English minimums, funding, supervisor). The graduate school page's IELTS 6.5 and TOEFL 81 conflict with Columbian College (IELTS 6.0 or 7.0) and Engineering (IELTS 6.0, TOEFL 4.0 new scale); the lower school rules are recorded as program overrides. The official Bulletin list of doctoral programs (bulletin.gwu.edu) returned 502 errors on every attempt, so the program list was built from school pages."
+}

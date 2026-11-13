@@ -1,0 +1,44 @@
+{
+  "id": "ucd--mech",
+  "university": "ucd",
+  "field": "mech",
+  "also_fields": [
+    "materials"
+  ],
+  "department": "UCD School of Mechanical and Materials Engineering",
+  "program_page": "https://www.ucd.ie/mecheng/research/postgraduateopportunities/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The School page gives no closing date; applicants should contact a supervisor first.",
+      "quote": "",
+      "url": "https://www.ucd.ie/mecheng/research/postgraduateopportunities/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are asked to contact a potential supervisor first, though overseas or other applicants unable to reach a supervisor may submit the application form directly.",
+      "quote": "When you come across a project in which you are interested, please contact the supervisor and discuss with him/her what the project entails, your background, funding, etc. If you both decide to pursue the application, please apply online here. If you are overseas or it is difficult for you to contact the supervisor, simply fill in the application form.",
+      "url": "https://www.ucd.ie/mecheng/research/postgraduateopportunities/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Some listed PhDs are fully funded scholarships, such as the I-Form and DMI studentships.",
+      "quote": "a full-time, 4-year PhD scholarship with I-Form and DMI",
+      "url": "https://www.ucd.ie/mecheng/research/postgraduateopportunities/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Not stated on the School of Mechanical and Materials Engineering or course catalogue pages.",
+      "quote": "",
+      "url": "https://www.ucd.ie/mecheng/research/postgraduateopportunities/"
+    }
+  },
+  "notes": "Materials is in also_fields because the official PhD is titled 'PhD in Mechanical & Materials Engineering' (course catalogue T244)."
+}

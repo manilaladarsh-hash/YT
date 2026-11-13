@@ -1,0 +1,56 @@
+{
+  "id": "boise--materials",
+  "university": "boise",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Micron School of Materials Science and Engineering",
+  "program_page": "https://www.boisestate.edu/coen-materials/students/graduate-studies/phd-program/",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Priority applications for fall admission are due January 15, 2027, with a final deadline of May 15, 2027.",
+      "quote": "Fall admission: Priority Applications submit by January 15. Final deadline is May 15.",
+      "url": "https://www.boisestate.edu/coen-materials/students/graduate-studies/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "The MSE graduate program does not consider GRE scores for admission.",
+      "quote": "The MSE Graduate Program does not consider GRE scores for admissions.",
+      "url": "https://www.boisestate.edu/coen-materials/students/graduate-studies/"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "The MSE graduate program does not consider GRE scores for admission.",
+      "quote": "The MSE Graduate Program does not consider GRE scores for admissions.",
+      "url": "https://www.boisestate.edu/coen-materials/students/graduate-studies/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are advised to contact faculty whose research matches theirs before or alongside applying.",
+      "quote": "Reach out directly to faculty whose research interests align with yours before or alongside submitting your application.",
+      "url": "https://www.boisestate.edu/coen-materials/students/graduate-studies/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every admitted PhD student receives a stipend, full tuition and health insurance.",
+      "quote": "All students accepted into the PhD Program are supported financially.",
+      "url": "https://www.boisestate.edu/coen-materials/students/graduate-studies/phd-program/",
+      "also": [
+        {
+          "quote": "Every admitted research student receives a stipend, full tuition, and health insurance. No exceptions.",
+          "url": "https://www.boisestate.edu/coen-materials/students/graduate-studies/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students can enter with a bachelor's or a master's; those with a master's often finish sooner.",
+      "quote": "Students entering with a masters degree often complete the degree in less time than those who enter direct from bachelors.",
+      "url": "https://www.boisestate.edu/coen-materials/students/graduate-studies/phd-program/"
+    }
+  },
+  "notes": "Minimum 3.0 GPA (exceptions considered) and an entrance exam in the first year are listed on the graduate studies page. Funding is on the same terms for international students.",
+  "name": "Materials Science and Engineering PhD"
+}

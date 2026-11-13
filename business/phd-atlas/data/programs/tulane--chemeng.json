@@ -1,0 +1,79 @@
+{
+  "id": "tulane--chemeng",
+  "university": "tulane",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Department of Chemical and Biomolecular Engineering",
+  "program_page": "https://sse.tulane.edu/cbe/graduate-faqs",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "No application fee for the chemical engineering PhD.",
+      "quote": "There is no fee to apply to the PhD program.",
+      "url": "https://sse.tulane.edu/cbe/graduate-faqs"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department does not require the GRE General Test; scores may be reported.",
+      "quote": "The Department of Chemical and Biomolecular Engineering does not require the GRE General Test",
+      "url": "https://sse.tulane.edu/cbe/graduate-faqs"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The GRE subject test is not required.",
+      "quote": "The GRE subject test is not required.",
+      "url": "https://sse.tulane.edu/cbe/graduate-faqs"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Department minimum: TOEFL iBT 80.",
+      "quote": "The School of Science and Engineering requires a minimum score of 80.",
+      "url": "https://sse.tulane.edu/cbe/graduate-faqs"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "School of Science and Engineering minimum: IELTS Academic 7.0 overall.",
+      "quote": "Minimum overall band score on IELTS Academic: 7.0.",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Advised to identify at least one faculty member whose research matches theirs before applying.",
+      "quote": "it is helpful to identify at least one faculty member who has a background and research in the area in which you are most interested in studying",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted doctoral students receive full financial aid: tuition plus a stipend.",
+      "quote": "Full financial aid (tuition + stipend) is given to all students admitted to the Doctoral Program.",
+      "url": "https://sse.tulane.edu/cbe/graduate-faqs"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants need an undergraduate degree before starting; no master's is listed as required.",
+      "quote": "Earned an undergraduate degree from an accredited institution prior to the first semester of proposed graduate study",
+      "url": "https://sse.tulane.edu/graduate/admissions"
+    },
+    "deadline": {
+      "code": "2026-12-31",
+      "value": "Due December 31 before Fall entry for full consideration; the School table lists January 15, 2027.",
+      "quote": "Applications for Fall admissions are due by December 31 of the preceding year",
+      "url": "https://sse.tulane.edu/cbe/graduate-faqs",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "PhD Chemical and Biomolecular Engineering 01/15/2027",
+          "url": "https://sse.tulane.edu/graduate/admissions"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "An English-medium bachelor's degree does not waive the test; TOEFL or IELTS is required for international applicants.",
+      "quote": "TOEFL or IELTS scores are required for all international applicants regardless of language of instruction for your bachelor’s degree.",
+      "url": "https://sse.tulane.edu/cbe/graduate-faqs"
+    }
+  },
+  "notes": "The department FAQ says the School requires TOEFL 80; the School's own page says 87. The department value is used. The department FAQ lists no IELTS minimum, so the School's IELTS 7.0 applies."
+}

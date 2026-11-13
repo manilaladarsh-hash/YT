@@ -1,0 +1,59 @@
+{
+  "id": "asu",
+  "institution": "Arizona State University",
+  "country": "USA",
+  "region": "Arizona",
+  "grad_page": "https://admission.asu.edu/graduate/apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "120 USD",
+      "value": "USD 120 for international applicants on a nonimmigrant visa studying in the U.S. (e.g. F-1); the fee is non-refundable.",
+      "quote": "$120: International students on any nonimmigrant visa type studying in the U.S. (e.g., F-1, H1-B, H-4, etc).",
+      "url": "https://admission.asu.edu/graduate/apply"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "ASU Admission Services offers no general fee waiver; some academic units grant their own waivers, so ask your department.",
+      "quote": "Admission Services does not offer a general application fee waiver. However, you are welcome to check with your program of interest’s academic unit to see if waivers are an option.",
+      "url": "https://admission.asu.edu/contact/faqs"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each program; ASU does not accept the at-home GRE General Test.",
+      "quote": "",
+      "url": "https://admission.asu.edu/graduate/apply",
+      "also": [
+        {
+          "quote": "Please note that ASU does not accept the GRE® General Test at home.",
+          "url": "https://admission.asu.edu/graduate/apply"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "TOEFL iBT 80 for tests taken before January 21, 2026, or 4 on the new scale for tests on or after that date; some programs set higher minimums.",
+      "quote": "For exams taken before January 21, 2026: Minimum score of 80.",
+      "url": "https://admission.asu.edu/international/graduate/english-proficiency"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic 6.5 overall (Duolingo 105 and PTE also accepted).",
+      "quote": "Overall band score on the academic test of at least 6.5.",
+      "url": "https://admission.asu.edu/international/graduate/english-proficiency",
+      "also": [
+        {
+          "quote": "Duolingo English test | Graduate minimum score of 105.",
+          "url": "https://admission.asu.edu/international/graduate/english-proficiency"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "India is not on ASU's list of English-speaking countries, but a bachelor's or higher from an institution where English was the only language of instruction can be exempted through the Medium of Instruction form with an official letter or the institution's website.",
+      "quote": "Degree from an International Institution Where English is the Sole Medium of Instruction | Earned a bachelor’s degree or higher from an international institution where English was the only language of instruction. | A letter on official letterhead from the institution confirming English as the sole language of instruction OR a link to the institution’s official website verifying the language of instruction",
+      "url": "https://admission.asu.edu/international/graduate/english-proficiency"
+    }
+  },
+  "notes": "Minimum GPA 3.00 generally applies. TOEFL new-scale minimum 4 for exams on or after January 21, 2026. Programs may set higher English requirements."
+}

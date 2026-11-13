@@ -24,4 +24,4 @@
 | Welcome and feedback question (Gumroad receipt); Workflows once emails unlock | Judging refunds in edge cases (default: just refund) |
 | Weekly source-change detection (GitHub Actions) | Deciding whether a flagged change matters |
 | Data validation and build checks (scripts) | Uploading new versions to Gumroad |
-| Gate calculation (workbook formulas) | The Dec 15 proceed/change/stop decision |
+| Gate calculation (workbook formulas) | The gate-review proceed/change/stop decision |

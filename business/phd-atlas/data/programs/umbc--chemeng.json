@@ -1,0 +1,62 @@
+{
+  "id": "umbc--chemeng",
+  "university": "umbc",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Department of Chemical, Biochemical & Environmental Engineering",
+  "program_page": "https://cbee.umbc.edu/academics/graduate-application/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-07",
+      "value": "Fall priority deadline is January 7, 2027; the final deadline for international students is March 1, 2027.",
+      "quote": "January 7 (priority deadline)",
+      "url": "https://cbee.umbc.edu/academics/graduate-application/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "March 1 (final deadline international students)",
+          "url": "https://cbee.umbc.edu/academics/graduate-application/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The department says GRE scores are not required for MS or PhD applications.",
+      "quote": "GRE scores are NOT required as part of MS or PhD applications",
+      "url": "https://cbee.umbc.edu/academics/graduate-application/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The department says GRE scores are not required at all.",
+      "quote": "GRE scores are NOT required as part of MS or PhD applications",
+      "url": "https://cbee.umbc.edu/academics/graduate-application/"
+    },
+    "fee_waiver": {
+      "code": "Available",
+      "value": "The department says an application fee waiver is available on request by email to cbeegrad@umbc.edu.",
+      "quote": "Application Fee Waiver is available. Email cbeegrad@umbc.edu to request an application fee waiver",
+      "url": "https://cbee.umbc.edu/academics/graduate-application/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The statement must name potential advisors, but the page does not say a faculty agreement is needed.",
+      "quote": "This must include the names of potential advisors",
+      "url": "https://cbee.umbc.edu/academics/graduate-application/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants can apply after a bachelor's or a master's, provided the program requirements are met.",
+      "quote": "can apply after earning an undergraduate degree or master’s degree as long as the necessary program requirements are fulfilled",
+      "url": "https://cbee.umbc.edu/academics/graduate-application/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on the department pages checked.",
+      "quote": "",
+      "url": "https://cbee.umbc.edu/academics/graduate-application/"
+    }
+  },
+  "notes": "The same department admits the Environmental Engineering PhD (saved as civil). Graduate School TOEFL and IELTS minimums apply, because the department refers applicants to that site.",
+  "name": "Chemical and Biochemical Engineering PhD"
+}

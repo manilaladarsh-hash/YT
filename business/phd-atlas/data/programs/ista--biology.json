@@ -1,0 +1,60 @@
+{
+  "id": "ista--biology",
+  "university": "ista",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Biology",
+  "program_page": "https://phd.ista.ac.at/biology/",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-08",
+      "value": "Applications close January 8, 2027 at 3:00 PM CET for the single 2027 intake, with program start on 15 September 2027.",
+      "quote": "Deadline for applicants: January 8, 2027 (3:00 PM CET)",
+      "url": "https://phd.pages.ista.ac.at/apply/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No GRE of any kind is required, so the subject test is not needed either.",
+      "quote": "Do I need to submit a TOEFL/IELTS or GRE score? | No, you do not.",
+      "url": "https://phd.ista.ac.at/phd-program-faq-2/"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No supervisor agreement is needed to apply: admission is by committee, and students start unaffiliated and join a group after rotations.",
+      "quote": "All ISTA students start as unaffiliated, i.e. they are not yet part of a research group.",
+      "url": "https://phd.ista.ac.at/phd-program-faq-2/",
+      "also": [
+        {
+          "quote": "the names of the professor(s) they wish to work with at the time of application",
+          "url": "https://phd.ista.ac.at/instructions-applicants"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All admitted PhD students are fully funded at internationally competitive salary levels until their thesis defense.",
+      "quote": "All our PhD students are fully funded, at internationally competitive salary levels",
+      "url": "https://phd.ista.ac.at/phd-program-overview/",
+      "also": [
+        {
+          "quote": "All students making reasonable progress are fully funded until the time of their thesis defense.",
+          "url": "https://phd.ista.ac.at/phd-program-overview/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with a bachelor's or a master's degree in these fields are encouraged to apply; a bachelor's is the minimum entry requirement.",
+      "quote": "The minimum formal entry requirement is a Bachelor degree.",
+      "url": "https://phd.ista.ac.at/instructions-applicants",
+      "also": [
+        {
+          "quote": "Students with a Bachelor’s or Master’s degree in biology, chemistry, neuroscience, mathematics, computer science, physics, data science and scientific computing, astronomy, earth science and related areas are encouraged to apply.",
+          "url": "https://phd.ista.ac.at/phd-application-admission/"
+        }
+      ]
+    }
+  },
+  "notes": "Biology track; the biology page says it is one of the largest tracks in the PhD program."
+}

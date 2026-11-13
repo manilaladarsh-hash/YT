@@ -1,0 +1,72 @@
+{
+  "id": "ucdavis",
+  "institution": "University of California, Davis",
+  "country": "USA",
+  "region": "California",
+  "grad_page": "https://grad.ucdavis.edu/international-applicants",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "155 USD",
+      "value": "International applicants pay a $155 application fee, per Graduate Studies.",
+      "quote": "Applicants must pay a non-refundable application fee ($135 for domestic applicants or $155 for international applicants) to be eligible for admission.",
+      "url": "https://grad.ucdavis.edu/minimum-requirements",
+      "also": [
+        {
+          "quote": "a $155 application fee",
+          "url": "https://grad.ucdavis.edu/international-applicants"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Graduate Studies fee waivers go only to domestic applicants from approved preparation programs; programs may offer a few fellowships.",
+      "quote": "Graduate Studies offers application fee waivers ONLY to domestic applicants who participated in one or more of the approved Graduate Preparatory Programs.",
+      "url": "https://grad.ucdavis.edu/minimum-requirements"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Each program sets its own GRE rule; the university sets no GRE minimum.",
+      "quote": "Some graduate programs require the Graduate Record Examination (GRE) general test and some also require the subject test.",
+      "url": "https://grad.ucdavis.edu/testing"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "A TOEFL iBT minimum of 4.5 out of 6.0 applies to tests taken from 21 January 2026; the admission criteria page still says 80.",
+      "quote": "Minimum Score: A minimum TOEFL score of 80 is required for TOEFL exams taken prior to January 21, 2026 (old scoring), and a minimum score of 4.5 out of 6.0 is required for exams taken on or after January 21, 2026.",
+      "url": "https://grad.ucdavis.edu/english-language-examinations",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "The minimum TOEFL score required for admission to UC Davis is an overall minimum score of 80 on the Internet Based Test.",
+          "url": "https://grad.ucdavis.edu/admission-criteria"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "IELTS Academic overall 7.0 on a 9-point scale.",
+      "quote": "Minimum Score: 7.0 on a 9-point scale",
+      "url": "https://grad.ucdavis.edu/english-language-examinations",
+      "also": [
+        {
+          "quote": "The minimum IELTS score is 7.0 on a 9-point scale.",
+          "url": "https://grad.ucdavis.edu/admission-criteria"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "Check tool",
+      "value": "A degree from an Indian institution waives the English test only if the IAU WHED database lists that institution as English-only; the page does not name India.",
+      "quote": "UC Davis Graduate Studies will only approve waivers for foreign colleges and universities which list English as the sole language of instruction in the IAU World Higher Education Database (WHED).",
+      "url": "https://grad.ucdavis.edu/international-applicants",
+      "also": [
+        {
+          "quote": "No other documentation (e.g. letters, language certificates, institutional websites) will be accepted for a waiver request.",
+          "url": "https://grad.ucdavis.edu/english-language-examinations"
+        }
+      ]
+    }
+  },
+  "notes": "Blocked (403) physics pages: https://physics.ucdavis.edu/graduates/application-information and https://physics.ucdavis.edu/graduates/phd-program. Blocked (403) ECE pages: https://ece.ucdavis.edu/graduate/preparing-apply and https://ece.ucdavis.edu/graduate/application-requirements. Blocked (404): https://statistics.ucdavis.edu/grad/phd-program; https://grad.ucdavis.edu/programs/gphy returns 403. The admissions FAQ URL redirects to /admissions and has no fee. TOEFL conflict: the English page gives 4.5 out of 6.0 for tests from 21 January 2026 and the admission criteria page gives 80. A $140 international fee in a search snippet was not on a fetched Graduate Studies page and is not used."
+}

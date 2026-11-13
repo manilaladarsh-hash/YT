@@ -1,0 +1,63 @@
+{
+  "id": "uwashington--earth",
+  "university": "uwashington",
+  "field": "earth",
+  "also_fields": [],
+  "department": "Department of Earth and Space Sciences",
+  "program_page": "https://ess.uw.edu/admissions/how-to-apply/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026 (midnight PST); international applicants are advised to submit by November 15.",
+      "quote": "The final deadline is 12:00 midnight (Pacific Standard Time) on December 1. | It is recommended that international applicants complete the UW Online Application for Graduate Admission by November 15 to allow additional time for processing.",
+      "url": "https://ess.uw.edu/admissions/how-to-apply/",
+      "inferred": "year",
+      "time_sensitive": "2026-11-15"
+    },
+    "gre_general": {
+      "code": "Not considered",
+      "value": "GRE use has been suspended since 2021; scores are not considered.",
+      "quote": "has suspended use of the Graduate Records Examinations (GRE) for all applications to our graduate programs as of July 2021. Self-reported GRE scores will not be considered during application review.",
+      "url": "https://ess.uw.edu/admissions/how-to-apply/"
+    },
+    "gre_subject": {
+      "code": "Not considered",
+      "value": "No GRE scores are considered.",
+      "quote": "Self-reported GRE scores will not be considered during application review.",
+      "url": "https://ess.uw.edu/admissions/how-to-apply/"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Applicants who don't qualify for the Graduate School waiver (e.g. internationals) can ask ESS directly to pay the fee; request by November 1.",
+      "quote": "Applicants who do not qualify for a fee waiver through the UW Graduate School may apply directly to ESS. To apply, applicants should fill out the Department of Earth and Space Sciences Application Fee Payment Request by 11:59 PM Pacific Time on November 1.",
+      "url": "https://ess.uw.edu/admissions/how-to-apply/",
+      "time_sensitive": "2026-11-01"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "You are admitted only if matched with a faculty advisor who has funding; contact faculty before applying and name at least three.",
+      "quote": "Applicants will be admitted if they can be matched to a faculty member looking for new graduate students to join his or her research group and if there is funding available.",
+      "url": "https://ess.uw.edu/education/graduate-program/frequently-asked-questions/",
+      "also": [
+        {
+          "quote": "Applicants should review our faculty profiles to determine whether their academic background, interests, and objectives fit with one (or more) faculty, and contact them directly to find out more about their research and whether they are accepting graduate students.",
+          "url": "https://ess.uw.edu/admissions/how-to-apply/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted PhD students are guaranteed RA or TA support for 5 years (nine-month academic year); summer is not guaranteed.",
+      "quote": "PhD students admitted to ESS are guaranteed support (either through a Research Assistant (RA) or Teaching Assistant (TA) positions), for 5 years during the nine-month academic year.",
+      "url": "https://ess.uw.edu/education/graduate-program/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "You can apply to the PhD straight from an undergraduate degree; an MS is not needed.",
+      "quote": "Applicants who have earned an undergraduate degree may apply to either program. (Applicants do not need an MS degree before they can begin working on a PhD degree.)",
+      "url": "https://ess.uw.edu/education/graduate-program/frequently-asked-questions/"
+    }
+  },
+  "notes": "International TOEFL/IELTS scores must arrive by January 5. A Data Science Option and a dual-title Astrobiology PhD are available."
+}

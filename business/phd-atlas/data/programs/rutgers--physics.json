@@ -1,0 +1,57 @@
+{
+  "id": "rutgers--physics",
+  "university": "rutgers",
+  "field": "physics",
+  "also_fields": [
+    "astronomy"
+  ],
+  "department": "Physics and Astronomy",
+  "program_page": "https://physics.rutgers.edu/academics/graduate-program/admissions",
+  "checked": "2026-10-21",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Submit everything before January 1 for full financial-aid consideration (fall). Year inferred.",
+      "quote": "In order to receive full consideration for financial aid, applicants should submit all materials (application, transcripts, and letters of recommendation) before January 1 for fall admission",
+      "url": "https://physics.rutgers.edu/academics/graduate-program/admissions",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "Preferred for physics applicants (optional for astronomy); take the October test",
+      "quote": "The Physics and General GREs are preferred for physics applicants.",
+      "url": "https://physics.rutgers.edu/academics/graduate-program/admissions"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by the department's admissions review of the whole application; no faculty agreement is needed before applying.",
+      "quote": "You do not need to make arrangements with faculty to be accepted. New students can start working with an adviser during their first year, but they do not need to.",
+      "url": "https://physics.rutgers.edu/academics/graduate-program/graduate-program-faq"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Department generally guarantees PhD support for 5 years",
+      "quote": "We are generally required to guarantee support to all Ph.D. students for 5 years.",
+      "url": "https://physics.rutgers.edu/academics/graduate-program/graduate-program-faq"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "An undergraduate degree with a GPA of 3.0 or better is normally what is required; a master's degree is not.",
+      "quote": "An undergraduate degree with a cumulative grade-point average of 3.0 or better in undergraduate courses is normally required for admission.",
+      "url": "https://physics.rutgers.edu/academics/graduate-program/admissions"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "SGS auto-waives for certain groups; department can waive for a few applicants each year, usually used up months before the deadline - ask early",
+      "quote": "The department has a small budget that typically allows us to waive fees for a few applicants each year. Normally, all of these funds are used a few months before the application deadline.",
+      "url": "https://physics.rutgers.edu/academics/graduate-program/graduate-program-faq"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "Preferred for physics applicants (optional for astronomy)",
+      "quote": "The Physics and General GREs are preferred for physics applicants.",
+      "url": "https://physics.rutgers.edu/academics/graduate-program/admissions"
+    }
+  },
+  "notes": "Final decisions generally before April 15 for complete applications received by January."
+}

@@ -1,0 +1,65 @@
+{
+  "id": "miami",
+  "institution": "University of Miami",
+  "country": "USA",
+  "region": "Florida",
+  "grad_page": "https://www.grad.miami.edu/graduate-education/international-credentials-and-applicants/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "85 USD",
+      "value": "The Graduate School's application fee is $85 for Arts & Sciences, Engineering, Miller School of Medicine and Rosenstiel; some schools charge more.",
+      "quote": "The $85 non-refundable application fee can be paid online when you submit your Graduate School Application",
+      "url": "https://www.edu.miami.edu/admission/graduate/doctoral-app-process/index.html",
+      "also": [
+        {
+          "quote": "Find your school or college below to see its application fee",
+          "url": "https://www.grad.miami.edu/apply/on-campus-graduate-programs/index.html"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "The Graduate School's pages describe no fee waiver; waivers are set school by school, and the program records give them.",
+      "quote": "",
+      "url": "https://www.grad.miami.edu/graduate-education/international-credentials-and-applicants/index.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate School sets no single GRE rule; each program says whether it requires the GRE.",
+      "quote": "If your program requires an entrance exam, submit official score reports (GRE, GMAT, TOEFL, IELTS, Duolingo English Test, etc.) to the University of Miami",
+      "url": "https://www.grad.miami.edu/apply/on-campus-graduate-programs/index.html"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "The Graduate School requires a TOEFL iBT overall score of 4.5 for tests taken on or after January 21, 2026; some programs ask for more.",
+      "quote": "4.5 (after January 21, 2026)",
+      "url": "https://www.grad.miami.edu/graduate-education/international-credentials-and-applicants/index.html",
+      "also": [
+        {
+          "quote": "*Some programs may have higher minimum score requirements",
+          "url": "https://www.grad.miami.edu/graduate-education/international-credentials-and-applicants/index.html"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The Graduate School requires an IELTS Academic overall band of 6.5.",
+      "quote": "IELTS (Academic) 6.5",
+      "url": "https://www.grad.miami.edu/graduate-education/international-credentials-and-applicants/index.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "An English-medium degree from India waives the English test only if the transcript or a registrar letter confirms English as the language of instruction.",
+      "quote": "The English proficiency exam requirement may also be waived if you hold an undergraduate or graduate degree from an academic institution, regardless of country, where the language of instruction was English",
+      "url": "https://www.grad.miami.edu/graduate-education/international-credentials-and-applicants/index.html",
+      "also": [
+        {
+          "quote": "Official documentation confirming English as the language of instruction must be submitted with your application",
+          "url": "https://www.grad.miami.edu/graduate-education/international-credentials-and-applicants/index.html"
+        }
+      ]
+    }
+  },
+  "notes": "Source for every university field: the Graduate School pages (grad.miami.edu international credentials and apply pages). Application fees by school (apply page): $85 for Architecture, Arts & Sciences, Communication, Education and Human Development, Engineering, Miller School of Medicine and Rosenstiel; $100 Miami Herbert Business School; $110 Frost School of Music; Nursing, Physical Therapy, Public Health Sciences, the MD program and Law use their own portals. Public Health Sciences (Biostatistics PhD) applies through SOPHAS, does not offer fee waivers and requires GRE. Miller School of Medicine (PIBS) allows fee waivers only for U.S. citizens and permanent residents. The Graduate School's A-Z list of graduate programs (https://www.grad.miami.edu/graduate-education/a-z-listing-graduate-programs/index.html) was used to find the doctoral programs. No Astronomy PhD and no Data Science PhD (Data Science is MS only). Materials Science is covered by the Chemical, Environmental and Materials Engineering PhD. Industrial Engineering (COE), Epidemiology, Prevention Science, Psychology, Exercise Physiology and STEM Education PhDs have no matching field id, so no record. Bulletin pages (bulletin.miami.edu) returned HTTP 502 for every request, so no bulletin text is quoted."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "uidaho--math",
+  "university": "uidaho",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics and Statistical Science",
+  "program_page": "https://www.uidaho.edu/academics/degree-finder/math-phd",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Jan. 15 is the university's priority date for Fall admission, financial support or assistantships; international applicants should apply by Apr. 15 at the latest.",
+      "quote": "All applications submitted before this date will receive full consideration for admission, financial support or assistantships. | Fall semester (August to December) Jan. 15",
+      "url": "https://www.uidaho.edu/graduate-studies/admissions/application-and-deadlines",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Deadlines for international applicants | To provide sufficient time for application evaluation and for U.S. immigration student visa, submit your application no later than these dates. | Fall semester (August to December) Apr. 15",
+          "url": "https://www.uidaho.edu/graduate-studies/admissions/application-and-deadlines"
+        }
+      ]
+    },
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The department page lists a $50 application fee.",
+      "quote": "Application fee: $50",
+      "url": "https://www.uidaho.edu/academics/degree-finder/math-phd"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The mathematics page says no GRE is required.",
+      "quote": "GRE: Not required",
+      "url": "https://www.uidaho.edu/academics/degree-finder/math-phd"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The mathematics page says no GRE is required.",
+      "quote": "GRE: Not required",
+      "url": "https://www.uidaho.edu/academics/degree-finder/math-phd"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "The department lists TOEFL 4.5, the new-scale minimum for tests taken from January 21, 2026.",
+      "quote": "Accepted tests: TOEFL: 4.5, IELTS: 6.5, Duolingo: 115, PTE-A: 58",
+      "url": "https://www.uidaho.edu/academics/degree-finder/math-phd",
+      "also": [
+        {
+          "quote": "minimum total score 4.5 (test taken on and after January 21, 2026)",
+          "url": "https://www.uidaho.edu/graduate-studies/admissions/international-grad-admissions-requirements"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The department lists IELTS Academic 6.5 overall.",
+      "quote": "Accepted tests: TOEFL: 4.5, IELTS: 6.5, Duolingo: 115, PTE-A: 58",
+      "url": "https://www.uidaho.edu/academics/degree-finder/math-phd"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to identify and contact a potential faculty advisor during the application process.",
+      "quote": "Applicants seeking admission to the Ph.D. are encouraged to identify and contact a potential faculty advisor or major professor during the application process",
+      "url": "https://www.uidaho.edu/academics/degree-finder/math-phd"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page points to graduate funding resources but does not state a funding rule for the program.",
+      "quote": "",
+      "url": "https://www.uidaho.edu/academics/degree-finder/math-phd"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Requires a bachelor's degree; no master's is mentioned.",
+      "quote": "Education level: Bachelor's",
+      "url": "https://www.uidaho.edu/academics/degree-finder/math-phd"
+    }
+  },
+  "notes": "No separate statistics PhD page was found; the department is named Mathematics and Statistical Science.",
+  "name": "Mathematics (Ph.D.)"
+}

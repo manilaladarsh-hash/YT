@@ -1,0 +1,61 @@
+{
+  "id": "uiuc--materials",
+  "university": "uiuc",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Department of Materials Science and Engineering",
+  "program_page": "https://matse.illinois.edu/admissions/graduate/phd",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Apply by December 1, 2026 for Fall 2027; this deadline also covers funding consideration.",
+      "quote": "Apply by December 1 for Fall 2027 admission.",
+      "url": "https://matse.illinois.edu/admissions/graduate/phd",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "No subject GRE is required.",
+      "quote": "There are no required subject tests.",
+      "url": "https://matse.illinois.edu/admissions/graduate/frequently-asked-questions"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE General is optional (waived).",
+      "quote": "GRE Score optional (waived)",
+      "url": "https://matse.illinois.edu/admissions/graduate/apply"
+    },
+    "toefl_min": {
+      "code": "103",
+      "value": "MatSE wants TOEFL iBT 103 (old scale) for full-status admission; lower scores meeting the university minimum get limited status only rarely.",
+      "quote": "The Department requires a minimum TOEFL score of 103 and an IELTS score of 7.5 for full status admission.",
+      "url": "https://matse.illinois.edu/admissions/graduate/frequently-asked-questions"
+    },
+    "ielts_min": {
+      "code": "7.5",
+      "value": "IELTS 7.5 overall for full-status admission.",
+      "quote": "The Department requires a minimum TOEFL score of 103 and an IELTS score of 7.5 for full status admission.",
+      "url": "https://matse.illinois.edu/admissions/graduate/frequently-asked-questions"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "You apply to the department; all PhD students join a research group by the end of September of their first semester.",
+      "quote": "All PhD students join a research group early in their first semester (by the end of September).",
+      "url": "https://matse.illinois.edu/admissions/graduate/phd"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "The Grainger Engineering five-year PhD funding guarantee covers tuition and a stipend for fall and spring.",
+      "quote": "Through the Grainger Engineering Five-Year Ph.D. Funding Guarantee, Ph.D. students in their first five years of enrollment are guaranteed a funded appointment for fall and spring that includes a full tuition waiver and stipend.",
+      "url": "https://matse.illinois.edu/admissions/graduate/phd"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Apply directly to the PhD with a bachelor's or with a master's.",
+      "quote": "If you intend to pursue the Ph.D. program with a bachelor's degree (or equivalent), without a master's degree, apply directly to the Ph.D. program (not to the M.S. program).",
+      "url": "https://matse.illinois.edu/admissions/graduate/phd"
+    }
+  },
+  "notes": "The department offers no fee waivers."
+}

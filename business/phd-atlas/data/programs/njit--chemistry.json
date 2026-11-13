@@ -1,0 +1,56 @@
+{
+  "id": "njit--chemistry",
+  "university": "njit",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry and Environmental Science, Jordan Hu College of Science and Liberal Arts",
+  "program_page": "https://catalog.njit.edu/graduate/science-liberal-arts/chemistry-environmental-science/chemistry-environmental-science.pdf",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The catalog gives no application deadline for the chemistry Ph.D.",
+      "quote": "",
+      "url": "https://catalog.njit.edu/graduate/science-liberal-arts/chemistry-environmental-science/chemistry-environmental-science.pdf"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The chemistry catalog says general GRE scores are required, but the graduate school makes the GRE optional for this college.",
+      "quote": "General GRE scores are also required for admission.",
+      "url": "https://catalog.njit.edu/graduate/science-liberal-arts/chemistry-environmental-science/chemistry-environmental-science.pdf",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Jordan Hu College of Science and Liberal Arts - GRE optional for all MS and PhD applicants",
+          "url": "https://www.njit.edu/admissions/phd-programs"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The chemistry catalog says GRE subject scores are not required.",
+      "quote": "GRE subject scores are not required.",
+      "url": "https://catalog.njit.edu/graduate/science-liberal-arts/chemistry-environmental-science/chemistry-environmental-science.pdf"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog does not say whether a supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://catalog.njit.edu/graduate/science-liberal-arts/chemistry-environmental-science/chemistry-environmental-science.pdf"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The catalog does not state how many admitted students are funded.",
+      "quote": "",
+      "url": "https://catalog.njit.edu/graduate/science-liberal-arts/chemistry-environmental-science/chemistry-environmental-science.pdf"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Qualified students can enter with a bachelor's degree or after a master's degree in chemistry.",
+      "quote": "Qualified students may be accepted directly into the program with a bachelor's degree or after they have completed a master's degree in chemistry.",
+      "url": "https://catalog.njit.edu/graduate/science-liberal-arts/chemistry-environmental-science/chemistry-environmental-science.pdf"
+    }
+  },
+  "notes": "The catalog states a TOEFL of at least 550 (214 computer-based) for international students; this older scale is not recorded as a program override. The chemistry.njit.edu admissions page covers a different policy-studies PhD and is not used.",
+  "name": "Ph.D. in Chemistry"
+}

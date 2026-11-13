@@ -1,0 +1,49 @@
+{
+  "id": "bc--chemistry",
+  "university": "bc",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/academics/graduate.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Applications for fall admission are due December 15.",
+      "quote": "The due date for the receipt of applications for fall admission is December 15",
+      "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/academics/graduate.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE General Test is strongly recommended.",
+      "quote": "GRE General Test (strongly recommended)",
+      "url": "https://www.bc.edu/bc-web/schools/mcas/graduate/admission.html"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The Chemistry Subject Test is recommended, but not required.",
+      "quote": "GRE Subject Test in Chemistry is recommended, but not required",
+      "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/academics/graduate.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The chemistry pages do not say whether a faculty agreement is needed before admission.",
+      "quote": "",
+      "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/academics/graduate.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Graduate students receive assistantships and tuition remission, but the page does not say every admitted student is funded.",
+      "quote": "Graduate students receive financial support in the form of Teaching (TA) and Research (RA) assistantships as well as tuition remission",
+      "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/academics/graduate/welcome.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Many students enter the Ph.D. straight after undergraduate studies, while others come after chemistry-related industry work.",
+      "quote": "Many students enroll in the Boston College Chemistry Ph.D. program immediately following their undergraduate studies, and others begin their Ph.D. studies after working in a chemistry-related industry",
+      "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/academics/graduate/welcome.html"
+    }
+  },
+  "notes": "The graduate school grid lists the Chemistry GRE Subject test as optional; the department page says recommended but not required, so the department page is used."
+}

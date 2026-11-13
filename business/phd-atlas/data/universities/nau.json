@@ -1,0 +1,47 @@
+{
+  "id": "nau",
+  "institution": "Northern Arizona University",
+  "country": "USA",
+  "region": "Arizona",
+  "grad_page": "https://in.nau.edu/center-international-education/apply-graduate/",
+  "checked": "2026-10-29",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "International graduate applicants pay a non-refundable application fee of $75.",
+      "quote": "Complete the online application and pay the $75 application fee.",
+      "url": "https://nau.edu/graduate-college/international-graduate-admission/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Not stated on the fetched page.",
+      "quote": "",
+      "url": "https://nau.edu/graduate-college/international-graduate-admission/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each program; see the program records.",
+      "quote": "",
+      "url": "https://nau.edu/graduate-college/international-graduate-admission/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The minimum TOEFL score for most graduate programs is 80 (or 4 on tests taken after January 21, 2026).",
+      "quote": "TOEFL iBT: 80 | TOEFL iBT (test taken after 01/21/2026): 4",
+      "url": "https://nau.edu/graduate-college/international-graduate-admission/"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "Not stated on the fetched page.",
+      "quote": "",
+      "url": "https://nau.edu/graduate-college/international-graduate-admission/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "English proficiency is only waived for passport holders or university degree earners from approved English-speaking countries; India is not exempt and no MOI waiver is offered.",
+      "quote": "Proof of English proficiency may be waived if: | You hold a passport from an approved English speaking country | You completed a university degree from one of these English-speaking countries (official transcript is required).",
+      "url": "https://nau.edu/graduate-college/international-graduate-admission/"
+    }
+  },
+  "notes": "Application fee $75 and TOEFL 80 / 4 verified from the Center for International Education graduate application page."
+}

@@ -1,0 +1,53 @@
+{
+  "id": "oxford",
+  "institution": "University of Oxford",
+  "country": "United Kingdom",
+  "region": "England",
+  "grad_page": "https://www.ox.ac.uk/admissions/graduate/application-guide",
+  "checked": "2026-10-30",
+  "fields": {
+    "app_fee": {
+      "code": "20 GBP",
+      "value": "An application fee of GBP 20 is payable for applications to research courses (including DPhil and MSc by Research).",
+      "quote": "The application fee for applications to research courses is...Research courses comprise Centres for Doctoral Training",
+      "url": "https://www.ox.ac.uk/admissions/graduate/application-guide/declaration-and-payment/application-fee"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Application fee waivers are available for residents of eligible low-income countries, refugees, and UK applicants from low-income backgrounds.",
+      "quote": "If you indicate on the application form that you are resident in one of the eligible countries in this section of the guidance, you will be asked additional questions relating to this waiver scheme.",
+      "url": "https://www.ox.ac.uk/admissions/graduate/application-guide/declaration-and-payment/application-fee-waivers",
+      "also": [
+        {
+          "quote": "Some UK applicants from low-income backgrounds are eligible for a fee waiver.",
+          "url": "https://www.ox.ac.uk/admissions/graduate/application-guide/declaration-and-payment/application-fee-waivers"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE General Test scores are not required for most courses; only a small number of courses require or encourage them.",
+      "quote": "For a small number of courses, applicants are required or encouraged to submit GRE General Test scores. For other courses, they are not required.",
+      "url": "https://www.ox.ac.uk/admissions/graduate/application-guide/supporting-documents/other-supporting-documents"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "English language proficiency is required at the University's standard or higher level; each course page states the required level for that course.",
+      "quote": "To take up a place on one of our courses, you must be able to demonstrate English language proficiency at the University's standard or higher level. Each course page states the required level for that course.",
+      "url": "https://www.ox.ac.uk/admissions/graduate/application-guide/qualifications-experience-languages-funding/english-language-proficiency"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "English language proficiency is required at the University's standard or higher level; each course page states the required level for that course.",
+      "quote": "To take up a place on one of our courses, you must be able to demonstrate English language proficiency at the University's standard or higher level. Each course page states the required level for that course.",
+      "url": "https://www.ox.ac.uk/admissions/graduate/application-guide/qualifications-experience-languages-funding/english-language-proficiency"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "You may apply for a waiver if you have completed or are completing a degree-level course of at least nine months taught and assessed entirely in English within 2 academic years; evidence must be uploaded if not from a majority English speaking country.",
+      "quote": "undertaken at a recognised institution where teaching and assessment throughout the course is undertaken entirely in English; and",
+      "url": "https://www.ox.ac.uk/admissions/graduate/application-guide/qualifications-experience-languages-funding/english-language-test-waivers"
+    }
+  },
+  "notes": "Graduate research courses at Oxford lead to the degree of Doctor of Philosophy (DPhil). Applicants apply to specific DPhil courses and colleges."
+}

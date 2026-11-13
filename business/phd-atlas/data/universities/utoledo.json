@@ -1,0 +1,57 @@
+{
+  "id": "utoledo",
+  "institution": "University of Toledo",
+  "country": "USA",
+  "region": "Ohio",
+  "grad_page": "https://www.utoledo.edu/graduate/admission/requirements/index.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "International applicants pay a $75 non-refundable application fee.",
+      "quote": "non-refundable application fee of $45 for domestic applicants and $75 for",
+      "url": "https://catalog.utoledo.edu/graduate/graduate-studies/college-policies/admission-requirements/admission-requirements.pdf"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application-fee waiver is described on the fetched UToledo graduate pages.",
+      "quote": "",
+      "url": "https://www.utoledo.edu/graduate/admission/how-to-apply/index.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The catalog says the GRE is generally no longer required, but international applicants without a US degree may be asked for it. The rule for each program was not found.",
+      "quote": "Generally, the GRE is no longer a requirement for",
+      "url": "https://catalog.utoledo.edu/graduate/graduate-studies/college-policies/admission-requirements/admission-requirements.pdf"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "TOEFL iBT minimum of 80 for graduate applicants.",
+      "quote": "TOEFL iBT (0-120 scale) 80",
+      "url": "https://www.utoledo.edu/graduate/international/english-language-proficiency.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic minimum of 6.5.",
+      "quote": "IELTS Academic 6.5",
+      "url": "https://www.utoledo.edu/graduate/international/english-language-proficiency.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "India is not on the exempt-country list, so most Indian applicants need a test. A degree from a CHEA-member university where English is the language of instruction can count, with documents.",
+      "quote": "from a school in one of | where English is the official language of instruction",
+      "url": "https://www.utoledo.edu/graduate/admission/english-proficiency/english-test-exempt.html",
+      "also": [
+        {
+          "quote": "A CHEA-member accredited non-US university where English is the official language of instruction",
+          "url": "https://www.utoledo.edu/graduate/international/english-language-proficiency.html"
+        },
+        {
+          "quote": "If your institution is not in the US, please also provide documentation regarding",
+          "url": "https://www.utoledo.edu/graduate/international/english-language-proficiency.html"
+        }
+      ]
+    }
+  },
+  "notes": "Fee from the 2026-27 graduate catalog (admission requirements). Test minimums and exempt-country list from the College of Graduate Studies English pages. Program pages set their own rules where they differ."
+}

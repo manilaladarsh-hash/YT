@@ -1,0 +1,51 @@
+{
+  "id": "memphis--math",
+  "university": "memphis",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Department of Mathematical Sciences",
+  "program_page": "https://www.memphis.edu/msci/grad/admissions.php",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The PhD admissions page gives no deadline; its May 1 international deadline applies to MS applicants only.",
+      "quote": "",
+      "url": "https://www.memphis.edu/msci/grad/admissions.php"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General scores are required for the PhD.",
+      "quote": "GRE General Test scores are required (subject exam is not required)",
+      "url": "https://www.memphis.edu/msci/grad/admissions.php"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The subject exam is not required for the PhD.",
+      "quote": "GRE General Test scores are required (subject exam is not required)",
+      "url": "https://www.memphis.edu/msci/grad/admissions.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The page does not say whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.memphis.edu/msci/grad/admissions.php"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The page says department assistantships and tuition waivers are reserved for PhD students, but does not say all admitted students are funded.",
+      "quote": "financial support through the Department of Mathematical Sciences (assistantships, tuition waivers etc.) are exclusively reserved for the PhD program",
+      "url": "https://www.memphis.edu/msci/grad/admissions.php"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "The PhD prerequisites list an undergraduate degree with a minimum GPA of 3.0 on a 4.0 scale; no master's is listed.",
+      "quote": "Undergraduate degree with minimum GPA of 3.0 on 4.0 scale",
+      "url": "https://www.memphis.edu/msci/grad/admissions.php"
+    }
+  },
+  "notes": "Covers the Mathematics and Applied Statistics concentrations of the Mathematical Sciences PhD. The Applied Statistics concentration is also listed under statistics; the statistics record is the School of Public Health Biostatistics PhD.",
+  "name": "Mathematical Sciences (PhD)"
+}

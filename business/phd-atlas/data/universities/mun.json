@@ -1,0 +1,47 @@
+{
+  "id": "mun",
+  "institution": "Memorial University of Newfoundland",
+  "country": "Canada",
+  "region": "Newfoundland and Labrador",
+  "grad_page": "https://www.mun.ca/become/graduate/apply-to-memorial/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "120 CAD",
+      "value": "International applicants pay a non-refundable CAD$120 application fee, by credit card only.",
+      "quote": "The application fee of CAD$60 for Canadian applicants or CAD$120 for international applicants is payable by credit card (Visa or Mastercard) only",
+      "url": "https://www.mun.ca/become/graduate/apply-to-memorial/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application-fee waiver for international applicants is listed on the pages checked.",
+      "quote": "",
+      "url": "https://www.mun.ca/become/graduate/apply-to-memorial/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "No GRE General requirement is listed for science PhDs; the apply page names GRE only for some management and psychology programs.",
+      "quote": "",
+      "url": "https://www.mun.ca/become/graduate/apply-to-memorial/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "The default TOEFL iBT minimum is 80 overall; some graduate programs require 92.",
+      "quote": "TOEFL: An aggregate score of 80 (92 for graduate programs with higher English proficiency requirements)",
+      "url": "https://www.mun.ca/become/graduate/apply-to-memorial/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The default IELTS Academic minimum is an overall band of 6.5; some programs require 7.",
+      "quote": "IELTS Academic: An aggregate score of 6.5 (7 for graduate programs with higher English proficiency requirements)",
+      "url": "https://www.mun.ca/become/graduate/apply-to-memorial/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "A degree taught in English at a recognized institution waives the test, but the page does not name India, so confirm with the School of Graduate Studies.",
+      "quote": "Students who have completed secondary schooling, an undergraduate degree, or a graduate degree at a recognized institution where the language of instruction is English are not required to take an English proficiency test",
+      "url": "https://www.mun.ca/become/graduate/apply-to-memorial/"
+    }
+  },
+  "notes": "Source conflicts: the School of Graduate Studies acceptance page (https://www.mun.ca/sgs/new-students/acceptance-process/) still gives a $40 application fee, older than the CAD$120 on the apply page, which is used here. Chemistry lists $100 for international applicants and its record overrides the fee. Several department pages were blocked or 404 (see the program notes)."
+}

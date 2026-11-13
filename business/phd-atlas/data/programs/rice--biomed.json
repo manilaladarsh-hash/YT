@@ -1,0 +1,55 @@
+{
+  "id": "rice--biomed",
+  "university": "rice",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Department of BioSciences (Biochemistry and Cell Biology)",
+  "program_page": "https://biosciences.rice.edu/how-apply-bcb",
+  "checked": "2026-10-24",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Applications by December 1, 2026 get early evaluation; the final deadline is December 31, 2026.",
+      "quote": "Applications submitted by December 1 will be prioritized for early evaluation. | The application deadline is December 31.",
+      "url": "https://biosciences.rice.edu/how-apply-bcb",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional and applicants who skip them are not at a disadvantage.",
+      "quote": "Submission of GRE scores is optional for applicants to the BCB program.",
+      "url": "https://biosciences.rice.edu/how-apply-bcb"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "Subject tests are not required, but a high score in a relevant field helps.",
+      "quote": "GRE subject-matter tests are not required, but a high score on a subject test in a relevant field will strengthen your application.",
+      "url": "https://biosciences.rice.edu/how-apply-bcb"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applications go to the program and its committee, not to a specific faculty member.",
+      "quote": "Applications are made to the departmental graduate program and not to a specific faculty member or professor.",
+      "url": "https://biosciences.rice.edu/how-apply-bcb"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Incoming students without an external fellowship get a fellowship with full tuition waiver and stipend for the first year; admission includes a research stipend.",
+      "quote": "Admission to the graduate program includes a research stipend.",
+      "url": "https://biosciences.rice.edu/how-apply-bcb",
+      "also": [
+        {
+          "quote": "Incoming students who do not hold external fellowships will be awarded a Biochemistry & Cell Biology Graduate Fellowship for their first year of study comprised of a full tuition waiver and a stipend to cover living expenses.",
+          "url": "https://biosciences.rice.edu/bcb-financial-support"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "The page does not say whether a master's degree is needed.",
+      "quote": "",
+      "url": "https://biosciences.rice.edu/how-apply-bcb"
+    }
+  },
+  "notes": "Systems, Synthetic and Physical Biology is a separate interdisciplinary PhD program not saved here."
+}

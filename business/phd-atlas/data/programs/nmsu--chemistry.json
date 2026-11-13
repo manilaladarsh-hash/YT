@@ -1,0 +1,55 @@
+{
+  "id": "nmsu--chemistry",
+  "university": "nmsu",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry and Biochemistry",
+  "program_page": "https://chemistry.nmsu.edu/students/grad-admisissions-faq.html",
+  "checked": "2026-10-27",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The FAQ gives a July 15 date only for spring admission; no Fall date is on a fetched page.",
+      "quote": "all application materials must be received before the July 15 deadline for international students",
+      "url": "https://chemistry.nmsu.edu/students/grad-admisissions-faq.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is not required.",
+      "quote": "The GRE is not required",
+      "url": "https://chemistry.nmsu.edu/students/grad-admisissions-faq.html"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "The GRE is not required, so no Chemistry subject test is needed.",
+      "quote": "The GRE is not required",
+      "url": "https://chemistry.nmsu.edu/students/grad-admisissions-faq.html"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "The FAQ gives an old-scale TOEFL iBT 80, which is not recorded; the Graduate School's 4.0 new-scale rule applies.",
+      "quote": "The minimum TOEFL, IELTS, or Duolingo scores for international students are 80, 6.5 and 105, respectively.",
+      "url": "https://chemistry.nmsu.edu/students/grad-admisissions-faq.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly advised to contact potential research advisors, but it is not required.",
+      "quote": "It is strongly recommended that you contact potential research advisors to ensure availability and compatible research interests, but it is not required.",
+      "url": "https://chemistry.nmsu.edu/students/grad-admisissions-faq.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All graduate students are supported by a teaching or research assistantship for their studies.",
+      "quote": "All graduate students are supported by either a teaching or research assistantship for the duration of their studies.",
+      "url": "https://chemistry.nmsu.edu/students/grad-admisissions-faq.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Holders of a B.S. in Chemistry, Biochemistry or a related degree may apply for the PhD.",
+      "quote": "Students holding B.S. in Chemistry, Biochemistry or related degree are eligible to apply for either M.S. or Ph.D. degrees.",
+      "url": "https://chemistry.nmsu.edu/students/grad-admisissions-faq.html"
+    }
+  },
+  "notes": "Department FAQ (copyright 2024 on the page). The official admissions sub-page returned 404, so no Fall deadline was verified.",
+  "name": "Chemistry (Ph.D.)"
+}

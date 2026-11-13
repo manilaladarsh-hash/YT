@@ -1,0 +1,59 @@
+{
+  "id": "mtu",
+  "institution": "Michigan Technological University",
+  "country": "USA",
+  "region": "Michigan",
+  "grad_page": "https://www.mtu.edu/gradschool/prospective/international-applicants/",
+  "checked": "2026-10-26",
+  "fields": {
+    "app_fee": {
+      "code": "10 USD",
+      "value": "International applicants pay a $10 processing fee per application; the application itself is free.",
+      "quote": "A $10 application processing fee is required for all international applicants. | There is no application fee",
+      "url": "https://www.mtu.edu/gradschool/prospective/international-applicants/"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The $10 international processing fee cannot be waived.",
+      "quote": "The fee cannot be waived, transferred to another application, or refunded.",
+      "url": "https://www.mtu.edu/globalcampus/gradadmissions/prospective/apply-now/faq/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The university has no GRE requirement, but individual programs may require it (see program records).",
+      "quote": "MTU does not have any Graduate Record Exam (GRE) or Graduate Management Admission Test (GMAT) requirement. | However, individual programs may require one of these examinations.",
+      "url": "https://www.mtu.edu/globalcampus/gradadmissions/prospective/apply-now/requirements/"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "TOEFL iBT minimum 4.5 overall for tests taken on or after January 21, 2026.",
+      "quote": "TOEFL iBT: Minimum overall score of 4.5 for tests taken on or after January 21, 2026.",
+      "url": "https://www.mtu.edu/gradschool/prospective/international-applicants/",
+      "also": [
+        {
+          "quote": "TOEFL iBT tests taken before January 21, 2026: Minimum overall score of 79.",
+          "url": "https://www.mtu.edu/gradschool/prospective/international-applicants/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "IELTS Academic minimum overall band of 6.5.",
+      "quote": "IELTS: Minimum overall band score of 6.5.",
+      "url": "https://www.mtu.edu/gradschool/prospective/international-applicants/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the exempt-country list, so an English-medium degree from India does not waive the test; submit TOEFL or IELTS.",
+      "quote": "If your home country or country of education is not on our waiver eligible list, you will not qualify for a waiver.",
+      "url": "https://www.mtu.edu/globalcampus/gradadmissions/prospective/apply-now/faq/",
+      "also": [
+        {
+          "quote": "Other countries in the following list will not be considered.",
+          "url": "https://www.mtu.edu/gradschool/prospective/international-applicants/english-language-exempt-countries/"
+        }
+      ]
+    }
+  },
+  "notes": "Official degree directory is filtered by JavaScript and could not be listed; program records come from individual department pages found by search. Graduate School lists the TOEFL and IELTS minimums; several departments state higher recommended scores (see program notes)."
+}

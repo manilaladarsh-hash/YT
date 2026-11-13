@@ -1,0 +1,48 @@
+{
+  "id": "fuberlin--physics",
+  "university": "fuberlin",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics",
+  "program_page": "https://physik.fu-berlin.de/en/studium/promotion/index.html",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "The physics page lists the start as any time, and the doctoral admission page says applications can be made at any time.",
+      "quote": "Start: any time",
+      "url": "https://physik.fu-berlin.de/en/studium/promotion/index.html",
+      "also": [
+        {
+          "quote": "You may apply and be admitted at any time.",
+          "url": "https://www.fu-berlin.de/en/sites/drs/doctorate/admission/index.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The physics page mentions no GRE Subject test.",
+      "quote": "",
+      "url": "https://physik.fu-berlin.de/en/studium/promotion/index.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must already have found an open doctoral position in one of the department's research groups.",
+      "quote": "You have already found an open doctoral position in one of our research groups.",
+      "url": "https://physik.fu-berlin.de/en/studium/promotion/index.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The physics page describes doctoral positions but does not say whether they are funded.",
+      "quote": "",
+      "url": "https://physik.fu-berlin.de/en/studium/promotion/index.html"
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A Master of Science or Diploma is listed as a requirement for doctoral study in physics.",
+      "quote": "Degree as Master of Science or Diploma",
+      "url": "https://physik.fu-berlin.de/en/studium/promotion/index.html"
+    }
+  },
+  "notes": "The 2013 English translation of the physics doctoral regulations (https://www.imp.fu-berlin.de/fbv/prom-habil/Promotionsordnungen/Promotionsordnung-Physik-2013-engl_.pdf) asks for B1 English for an English dissertation, but it predates the 2023 amendment, so it is not used. Amendment (German) not fetched."
+}

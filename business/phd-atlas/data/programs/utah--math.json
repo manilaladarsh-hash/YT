@@ -1,0 +1,61 @@
+{
+  "id": "utah--math",
+  "university": "utah",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://www.math.utah.edu/graduate/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "January 1 for admission and financial consideration; late applications considered through March 15 if positions remain. Fall entry only.",
+      "quote": "The deadline to apply for full consideration (for admission and financial assistance) is January 1 each year.",
+      "url": "https://www.math.utah.edu/graduate/faq.php",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Students are only admitted to the PhD program in the fall semester of each year.",
+          "url": "https://www.math.utah.edu/graduate/"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "A few waivers exist, mainly for US citizens and permanent residents; none for international students.",
+      "quote": "Fee waivers for international students cannot be granted.",
+      "url": "https://www.math.utah.edu/graduate/faq.php"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "Not required; you may submit scores, and omission is not penalised.",
+      "quote": "the omission of GRE test scores will not adversely impact your application.",
+      "url": "https://www.math.utah.edu/graduate/faq.php"
+    },
+    "gre_subject": {
+      "code": "Optional",
+      "value": "The Mathematics subject score may be submitted, especially for pure mathematics, but is not required.",
+      "quote": "In this case you may submit the test scores, especially the mathematics subject test score if you are interested in pure mathematics areas",
+      "url": "https://www.math.utah.edu/graduate/faq.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The department does not say whether a supervisor is needed; applicants name potential advisors in the personal statement.",
+      "quote": "",
+      "url": "https://www.math.utah.edu/graduate/faq.php"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Every admitted PhD applicant is offered a teaching assistantship with stipend (about USD 27,000 a year), tuition waiver and health insurance.",
+      "quote": "All applicants admitted to the PhD program are offered a teaching assistantship.",
+      "url": "https://www.math.utah.edu/graduate/faq.php"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A bachelor's degree is enough; a master's is not required.",
+      "quote": "A master's degree is not required to apply for the doctoral (Ph.D.) program.",
+      "url": "https://www.math.utah.edu/graduate/faq.php"
+    }
+  },
+  "notes": "Probability and statistics is a research area within the mathematics PhD; there is no separate statistics PhD. The department does not waive the university English requirement."
+}

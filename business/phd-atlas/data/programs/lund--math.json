@@ -1,0 +1,50 @@
+{
+  "id": "lund--math",
+  "university": "lund",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Centre for Mathematical Sciences (LTH and Faculty of Science)",
+  "program_page": "https://www.maths.lu.se/education/phd-studies",
+  "checked": "2026-10-26",
+  "fields": {
+    "deadline": {
+      "code": "Per position",
+      "value": "Doctoral positions are advertised individually; apply when a position is advertised.",
+      "quote": "You apply directly to the relevant faculty or department when a doctoral position is advertised",
+      "url": "https://www.lunduniversity.lu.se/study/study-opportunities-lund-university/doctoral-studies"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Centre's page does not mention a GRE Mathematics subject test.",
+      "quote": "",
+      "url": "https://www.maths.lu.se/education/phd-studies"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Centre's page sets no rule on supervisor agreement before admission.",
+      "quote": "",
+      "url": "https://www.maths.lu.se/education/phd-studies"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "PhD students are employed by their faculty; a PhD post usually lasts five years, with 20% departmental duties.",
+      "quote": "PhD students are employed by their respective faculties",
+      "url": "https://www.maths.lu.se/education/phd-studies",
+      "also": [
+        {
+          "quote": "A PhD post at the Centre for Mathematical Sciences usually lasts for 5 years",
+          "url": "https://www.maths.lu.se/education/phd-studies"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Lund's general rule is a second-cycle qualification, or 240 credits including 60 at second-cycle level.",
+      "quote": "been awarded a second-cycle qualification",
+      "url": "https://www.staff.lu.se/sites/staff.lu.se/files/2024-10/admission-rules-for-doctoral-education-at-lun-university.pdf"
+    }
+  },
+  "notes": "The Centre's PhD programme covers mathematics and mathematical statistics, so statistics is listed in also_fields. The Faculty of Science and LTH maths subject plans were not separately fetched."
+}

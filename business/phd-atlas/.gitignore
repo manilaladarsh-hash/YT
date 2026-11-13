@@ -1,6 +1,10 @@
-.cache/
+.cache/*
+# The fetched official pages are kept: they are the evidence every quote is checked against.
+!.cache/pages/
+.cache/pages/*.tmp
 __pycache__/
 *.pyc
-# The paid kit is built locally and delivered via Gumroad; keep it out of the (public) repo.
+# The paid kit is built locally and delivered via Gumroad; keep it out of the repo.
 dist/Physics-PhD-Atlas-2027/
+dist/STEM-PhD-Atlas-2027/
 dist/*.zip
