@@ -436,3 +436,4 @@ Commit: 7c5f0815
 2026-11-13 | CARD 4 | Added cunygc (8 programs) | Not stated 21% -> 21%
 2026-11-13 | CARD 4 | iuindy | added Indiana University Indianapolis (10 STEM PhD programs)
 2026-11-13 | CARD 4 | umassboston | added University of Massachusetts-Boston (10 STEM PhD programs)
+2026-11-13 | CARD 5/4 | bcm | added Baylor College of Medicine (2 STEM PhD programs: biomed, neuro)

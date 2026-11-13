@@ -1,0 +1,53 @@
+{
+  "id": "bcm",
+  "institution": "Baylor College of Medicine",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/admissions",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "No application fee is required for GSBS Ph.D. applications.",
+      "quote": "We do not require an application fee for our Ph.D. application. No waiver request is necessary.",
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/admissions/frequently-asked-questions",
+      "also": [
+        {
+          "quote": "There is no application fee!",
+          "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/admissions"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No application fee is charged for GSBS Ph.D. applications, so no fee waiver is needed.",
+      "quote": "We do not require an application fee for our Ph.D. application. No waiver request is necessary.",
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/admissions/frequently-asked-questions"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is no longer required by any GSBS Ph.D. program (optional only for Neuroscience and Quantitative & Computational Biosciences).",
+      "quote": "The GRE is no longer required by any of the graduate school Ph.D. programs. If you are applying to the Neuroscience or Quantitative & Computational Biosciences programs, GRE scores are optional, but not required.",
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/admissions/standardized-test-scores"
+    },
+    "toefl_min": {
+      "code": "5.0 (new scale)",
+      "value": "Minimum TOEFL score of 5.0 for exams taken Jan. 21, 2026 or later (or 90 for exams taken prior to Jan. 21, 2026).",
+      "quote": "TOEFL (Test of English as a Foreign Language) - The minimum TOEFL score required is 5.0 or greater for exams taken Jan. 21, 2026 or later, or a score of 90 or greater for exams taken prior to Jan. 21, 2026.",
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/admissions/standardized-test-scores"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum overall IELTS score of 6.5 (no exceptions).",
+      "quote": "IELTS (International English Language Testing Service) - The minimum IELTS score required is an overall score of a 6.5.",
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/admissions/standardized-test-scores"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Waived for a bachelor’s or higher degree from a country where English is not the official language if both instruction and examination were in English, with a sealed/stamped letter from the institution’s registrar or administrative official.",
+      "quote": "Baccalaureate degree (or higher) from a country where official language is not English, but the mode of instruction and examination of the institution was in English. Applicants will need to have the institution’s registrar or administrative official submit a letter containing the university’s seal or stamp stating the mode of instruction was in English.",
+      "url": "https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/admissions/standardized-test-scores"
+    }
+  },
+  "notes": "Baylor College of Medicine Graduate School of Biomedical Sciences (GSBS) accepts Duolingo English Test (120 overall) beginning with the 2027 admissions cycle and charges no Ph.D. application fee."
+}
