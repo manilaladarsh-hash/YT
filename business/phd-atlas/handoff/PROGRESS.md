@@ -438,3 +438,4 @@ Commit: 7c5f0815
 2026-11-13 | CARD 4 | umassboston | added University of Massachusetts-Boston (10 STEM PhD programs)
 2026-11-13 | CARD 5/4 | bcm | added Baylor College of Medicine (2 STEM PhD programs: biomed, neuro)
 2026-11-13 | CARD 5/4 | musc | added Medical University of South Carolina (2 STEM PhD programs: biomed, neuro)
+2026-11-13 | CARD 5/4 | uthsc | added The University of Tennessee Health Science Center (2 STEM PhD programs: biomed [incl. neuro], bme)
