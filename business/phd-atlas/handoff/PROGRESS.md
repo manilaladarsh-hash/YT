@@ -415,3 +415,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (udel--ece, math; uga-fr--chemistry x2, earth x2, ece x2; uhm--chemistry; uhouston--math) | off_topic 259 -> 255, absence 49 -> 49, 6 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (uhouston--statistics; uic--biology x2, bme, chemeng x2, chemistry, civil x2, cs) | off_topic 255 -> 245, absence 49 -> 49, 0 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (uic--ece x2, materials x2, math x2, physics, statistics x2; uiowa--biology) | off_topic 245 -> 235, absence 49 -> 49, 0 rows reviewed
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (uiowa--biomed, bme, chemeng, chemistry, civil, cs, ece, math, mech, physics entry_route) | off_topic 235 -> 225, absence 49 -> 49, 0 rows reviewed
