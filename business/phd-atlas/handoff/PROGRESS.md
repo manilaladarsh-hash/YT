@@ -465,3 +465,4 @@ Commit: 7c5f0815
 2026-11-13 | CARD 4 | jsums | added Jackson State University (5 STEM PhD programs: chemistry, environment, datasci [also cs, math, statistics], ece, civil)
 2026-11-13 | CARD 4 | lsuneworleans | added Louisiana State University New Orleans (10 STEM PhD programs: biology, chemistry, neuro, cs, earth [also environment], math, physics, civil, ece, mech)
 2026-11-13 | CARD 4 | marshall | added Marshall University (7 STEM PhD programs: biomed [also neuro], bme, civil, cs, datasci, ece, mech)
+2026-11-13 | CARD 4 | montclair | added Montclair State University (1 STEM PhD program: environment)

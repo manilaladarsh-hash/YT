@@ -1,0 +1,62 @@
+{
+  "id": "montclair--environment",
+  "university": "montclair",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Earth and Environmental Studies, College of Science and Mathematics",
+  "program_page": "https://www.montclair.edu/academics/programs/phd-environmental-science-and-management",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Fall-only admission with a December 15, 2026 application deadline (interviews for select candidates in February; admitted students must respond by April 15).",
+      "quote": "Application Deadline: December 15th, Fall Admission only",
+      "url": "https://www.montclair.edu/academics/programs/phd-environmental-science-and-management",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are not required for the Ph.D. in Environmental Science and Management, though applicants have the option of submitting GRE scores.",
+      "quote": "Standardized Test Scores: GRE Not Required. Applicants have the option of submitting GRE scores.",
+      "url": "https://www.montclair.edu/academics/programs/phd-environmental-science-and-management"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Environmental Science; ETS offers Subject Tests only in Mathematics, Physics, and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Prospective Environmental Science and Management Ph.D. applicants must contact faculty in advance, identify at least one doctoral faculty member willing to serve as their Ph.D. advisor, and list those faculty in their research statement.",
+      "quote": "Environmental Science and Management PhD: Prospective students must identify at least one member of the doctoral faculty who will agree to serve as their PhD advisor and mention it in their research statement during the application process.",
+      "url": "https://www.montclair.edu/admissions-aid/graduate-admissions/frequently-asked-questions",
+      "also": [
+        {
+          "quote": "The essay should include a list of faculty members with whom you have communicated and who are willing to serve as your research advisor (2 page maximum).",
+          "url": "https://www.montclair.edu/academics/programs/phd-environmental-science-and-management"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "A limited number of Graduate and Doctoral Assistantships (tuition remission and/or biweekly stipend for up to 20 hours/week, up to 8 semesters for doctoral students with 3.2+ GPA) are awarded competitively and are not guaranteed.",
+      "quote": "Please note: Assistantships are competitive, and availability varies by program, department, and funding.",
+      "url": "https://inside.montclair.edu/resources/graduate-center/opportunities-graduate-students",
+      "also": [
+        {
+          "quote": "A limited number of assistantships are available for master's and PhD students. These are highly competitive opportunities. ... Assistantships are not guaranteed – apply early and explore all funding options.",
+          "url": "https://www.montclair.edu/admissions-aid/how-apply-montclair-state-university/international-applicants/international-graduate-applicants"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may enter with the equivalent of a U.S. bachelor's degree (3.0+ undergraduate GPA) and/or a master's degree (3.3+ GPA on a 4.0 scale).",
+      "quote": "Equivalent of a U.S. bachelor’s degree. ... An undergraduate GPA of 3.0 or higher and/or a masters degree with a GPA of 3.3 or higher on a 4.0 scale.",
+      "url": "https://www.montclair.edu/academics/programs/phd-environmental-science-and-management"
+    }
+  },
+  "notes": "Transdisciplinary 72-73 credit STEM-designated Ph.D. integrating natural and physical sciences (climate change, ecosystem management, hydrology, environmental toxicology) with environmental policy and management. Requires two essays (2-page statement of purpose and 2-page research/inquiry statement naming willing faculty advisors), CV/resume, and three letters of recommendation.",
+  "name": "Environmental Science and Management"
+}
