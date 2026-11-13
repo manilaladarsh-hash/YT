@@ -470,3 +470,4 @@ Commit: 7c5f0815
 2026-11-13 | CARD 7 | Refreshed business docs (362 universities, 3769 programs, 18 fields, Not stated 21%)
 2026-11-13 | CARD 4 | ncat | added North Carolina A&T State University (8 STEM PhD programs: physics [also chemistry, biology, earth, environment, datasci], bme, datasci, cs, ece, mech, materials, environment)
 2026-11-13 | CARD 4 | pvamu | added Prairie View A&M University (1 STEM PhD program: ece)
+2026-11-13 | CARD 4 | rowan | added Rowan University (13 STEM PhD programs: bme, chemeng, civil [also environment], ece, mech, materials, cs, datasci, chemistry, biology, earth, biomed, neuro) | Not stated 21% -> 21%
