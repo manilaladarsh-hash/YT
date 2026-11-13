@@ -411,3 +411,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (uark--cs x2, earth x2, ece x2, environment x3, materials) | off_topic 283 -> 283, absence 49 -> 49, odd_cache 16 -> 6, 10 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (uark--math, mech, physics x4; ubc--chemistry, physics; uc--bme; ucd--civil) | off_topic 283 -> 279, absence 49 -> 49, odd_cache 6 -> 0, 6 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (ucd--ece, ucd--mech x2, ucdavis--biomed, uchicago--biology x2, biomed x2, datasci, neuro) | off_topic 279 -> 269, absence 49 -> 49, 0 rows reviewed
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (uchicago--neuro, statistics; uci--chemistry; uconn--math; ucph--chemistry, physics; ucsb--earth; udel--biology, chemeng, chemistry) | off_topic 269 -> 259, absence 49 -> 49, 0 rows reviewed
