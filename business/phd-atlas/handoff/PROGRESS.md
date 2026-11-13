@@ -380,3 +380,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (epfl x5, ethz--neuro, fau x4) | off_topic 508 -> 502, absence 73 -> 73, 4 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (fau--mech, fiu x3, floridatech x6) | off_topic 502 -> 496, absence 73 -> 69
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (floridatech--bme, chemeng, chemistry, civil, ece gre_general) | off_topic 496 -> 491, absence 69 -> 64
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (floridatech--environment, math, mech, physics; fordham--biology; fsu--biology) | off_topic 491 -> 485, absence 64 -> 60

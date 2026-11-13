@@ -20,10 +20,24 @@
       "url": "https://www.ets.org/gre/test-takers/subject-tests/scores.html"
     },
     "supervisor": {
-      "code": "Not required",
-      "value": "Each area reviews applications on its own, and applicants name faculty of interest in the supplemental application.",
-      "quote": "each area conducts its own review of applications and guides its students to the completion of their degrees",
-      "url": "https://www.bio.fsu.edu/grad/"
+      "code": "Recommended",
+      "value": "Applicants identify faculty of interest in the supplemental application. Reaching out to faculty is strongly encouraged in Cell & Molecular Biology (which uses three first-year lab rotations), while Ecology & Evolution requires a faculty sponsor to be admitted and Neuroscience asks applicants to list at least one contacted potential sponsor.",
+      "quote": "Applicants will identify their intended area and faculty members of interest within the Biological Science Supplemental Application under your Application Checklist.",
+      "url": "https://www.bio.fsu.edu/grad/",
+      "also": [
+        {
+          "quote": "First-year CMB students typically arrange for and participate in three lab rotations as a prerequisite for final selection of their lab and major professor. Even though prospective students do NOT need a prospective faculty mentor to sponsor their candidacy prior to application, we strongly encouraged you to reach out to faculty members whose research you are interested in as early as possible.",
+          "url": "https://www.bio.fsu.edu/grad/cmbgrad/applicationTips.php"
+        },
+        {
+          "quote": "While prospective students do NOT need a faculty sponsor prior to applying, each prospective student MUST have a faculty sponsor who is willing to serve as their formal mentor in order to be admitted.",
+          "url": "https://www.bio.fsu.edu/grad/eegrad/appInstructions.php"
+        },
+        {
+          "quote": "On this form you'll specify Neuroscience as your area of interest and list at least one faculty member with whom you have communicated and identified as a potential faculty sponsor.",
+          "url": "https://www.bio.fsu.edu/grad/neuro/application.php"
+        }
+      ]
     },
     "funding": {
       "code": "Guaranteed",
