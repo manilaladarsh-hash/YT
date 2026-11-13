@@ -1,0 +1,56 @@
+{
+  "id": "afit--physics",
+  "university": "afit",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Engineering Physics",
+  "program_page": "https://www.afit.edu/EN/programs.cfm?a=view&D=19",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-30",
+      "value": "International military/government packages must arrive at AFIT/IMSO by April 30, 2027 for September 2027 entrance; year-round applications should be submitted at least 3 months before desired enrollment.",
+      "quote": "Application packages for eligibility evaluation should arrive at the IMSO no later than 30 April of each year in preparation for entrance the following September.",
+      "url": "https://www.afit.edu/ADMISSIONS/page.cfm?page=22201",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "AFIT applications are processed year-round, however, you should submit your application at least three months prior to the date you wish to enroll.",
+          "url": "https://www.afit.edu/ADMISSIONS/page.cfm?page=460"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Not stated on the Applied Physics PhD page; only the GRE General Test (156V/160Q, desired but waivable) is listed.",
+      "quote": "",
+      "url": "https://www.afit.edu/EN/programs.cfm?a=view&D=19"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the Applied Physics PhD page.",
+      "quote": "",
+      "url": "https://www.afit.edu/EN/programs.cfm?a=view&D=19"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Students assigned full-time by the Department of the Air Force or military organizations in a fully-sponsored capacity incur no tuition liability; all other students are responsible for tuition ($434.00/credit hour in 2026-2027) unless supported by their home government via U.S. Embassy SAO, DAGSI scholarships, or research assistantships.",
+      "quote": "All other students are responsible for their financial obligations, including tuition. | DAGSI scholarships are the major source of financial aid for non-DoD civilian students. However, other grants and scholarships may be sourced and used by the student. Research assistantships are also available.",
+      "url": "https://www.afit.edu/ADMISSIONS/page.cfm?page=447",
+      "also": [
+        {
+          "quote": "International military officers are asked to contact United States (U.S.) Security Assistance Office (SAO) at the U.S. Embassy in their home country to determine if their government will support studies at AFIT's Graduate School of Engineering and Management.",
+          "url": "https://www.afit.edu/ADMISSIONS/page.cfm?page=22201"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Requires a Master's degree in a Physical Science or Engineering (3.50 MS GPA, 3.00 BS GPA; case-by-case waivers possible).",
+      "quote": "Degree Required: A Master's degree in a Physical Science or Engineering",
+      "url": "https://www.afit.edu/EN/programs.cfm?a=view&D=19"
+    }
+  },
+  "notes": "In-residence Ph.D. in Applied Physics (typically 36 months beyond M.S.). Program page lists GRE 156V/160Q as 'desired, but waivable.' Department of Engineering Physics also offers a Ph.D. in Optical Science and Engineering (https://www.afit.edu/EN/programs.cfm?a=view&D=28) and a Ph.D. in Nuclear Engineering (https://www.afit.edu/EN/programs.cfm?a=view&D=25, which requires a SECRET security clearance and certification to need to know).",
+  "name": "Ph.D. in Applied Physics"
+}

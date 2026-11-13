@@ -450,3 +450,4 @@ Commit: 7c5f0815
 2026-11-13 | CARD 5/4 | american | added American University (3 STEM PhD programs: biomed, cs, neuro)
 2026-11-13 | CARD 5/4 | catholic | added Catholic University of America (9 STEM PhD programs: biology, physics, materials, bme, civil, cs, ece, environment, mech)
 2026-11-13 | CARD 5/4 | nova | added Nova Southeastern University (3 STEM PhD programs: cs, environment [also biology, earth], biomed)
+2026-11-13 | CARD 4 | afit | added Air Force Institute of Technology Graduate School of Engineering & Management (7 STEM PhD programs: physics, materials, math [also statistics], cs, datasci, ece, mech)
