@@ -389,3 +389,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (leeds x2, lehigh--biology, lmu x5, louisville--math x2) | off_topic 443 -> 435, absence 59 -> 58, 1 row reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (loyolachicago--cs, lsu--math, lund x8) | off_topic 435 -> 431, absence 58 -> 58, 6 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (lund x4, marquette--chemistry, maryland--physics x2, mcmaster x3) | off_topic 431 -> 427, absence 58 -> 57, 5 rows reviewed
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (memphis x2, miami x2, miamiohio x6) | off_topic 427 -> 420, absence 57 -> 54
