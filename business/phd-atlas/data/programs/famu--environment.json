@@ -1,0 +1,49 @@
+{
+  "id": "famu--environment",
+  "university": "famu",
+  "field": "environment",
+  "also_fields": [],
+  "department": "School of the Environment",
+  "program_page": "https://www.famu.edu/academics/all-programs/soe/environmental-science-phd.php",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "No separate School of the Environment deadline is published; SGSR's Fall international F-1 applicant deadline is February 15, 2027 (general domestic regular deadline July 1; SGSR urges applying early so funding reviews begin in January).",
+      "quote": "Fall (August to December) | April 1 | July 1 | February 15",
+      "url": "https://graduateschool.famu.edu/students/prospective.php",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Environmental Science; ETS offers Subject Tests only in Mathematics, Physics, and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The School of the Environment PhD pages do not state whether a faculty supervisor must agree before admission.",
+      "quote": "",
+      "url": "https://www.famu.edu/academics/all-programs/soe/environmental-science-phd.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "The School of the Environment offers eligible students support through scholarships and work-study assistantships; SGSR states university assistantships and tuition awards are competitive and not guaranteed yearly.",
+      "quote": "The School offers eligible students support through scholarships and work-study assistantships.",
+      "url": "https://www.famu.edu/academics/all-programs/soe/environmental-science-phd.php",
+      "also": [
+        {
+          "quote": "Tuition and assistantship awards are competitive and merit-based, and the School/College will award only a selected number of graduate students each Academic Semester. Funding is not guaranteed yearly",
+          "url": "https://graduateschool.famu.edu/funding-opportunities.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may enter with a B.S. degree or a graduate degree in the natural sciences, engineering, mathematics, or a closely related area (3.0 / 'B' average in the last 60 B.S. credit hours).",
+      "quote": "Applicants for admission should have a Bachelor of Science (B.S.) or a graduate degree in the natural sciences, engineering, mathematics or a closely related area.",
+      "url": "https://www.famu.edu/academics/all-programs/soe/environmental-science-phd.php"
+    }
+  },
+  "notes": "Requires GRE General combined score of at least 300 (V+Q), 3 letters of recommendation, and Statement of Intent. Program page cites TOEFL >= 550 (paper-based; equivalent to FAMU's 80 iBT)."
+}

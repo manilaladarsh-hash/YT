@@ -1,0 +1,107 @@
+{
+  "id": "famu--chemeng",
+  "university": "famu",
+  "field": "chemeng",
+  "also_fields": [
+    "bme"
+  ],
+  "department": "Department of Chemical & Biomedical Engineering, FAMU-FSU College of Engineering",
+  "program_page": "https://eng.famu.fsu.edu/cbe/graduate-admissions",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall admissions only. Early Admissions deadline is December 1, 2026, Full Funding Consideration deadline is January 15, 2027 (also recommended deadline for international applicants), and regular domestic deadline is May 1, 2027 (I-20 deadline May 15).",
+      "quote": "Early Admissions | 1 December | Full Funding Consideration/Admissions | 15 January | Regular Domestic (USA) Student Admissions | 1 May",
+      "url": "https://eng.famu.fsu.edu/cbe/graduate-admissions",
+      "inferred": "year",
+      "time_sensitive": "2026-12-01"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Chemical or Biomedical Engineering; ETS offers Subject Tests only in Mathematics, Physics, and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "PhD students do not need an advisor before admission; CBE students select a research topic and faculty advisor by the end of their first fall semester.",
+      "quote": "Select a research topic and faculty advisor(s) by the end of fall semester of first year.",
+      "url": "https://eng.famu.fsu.edu/cbe/graduate/phd-programs",
+      "also": [
+        {
+          "quote": "The Ph.D. student selects a Major Professor (Faculty Advisor) by the end of the first semester",
+          "url": "https://eng.famu.fsu.edu/sites/default/files/pdfs/cbe/CBE-Graduate-Handbook-CBE_Revised-July%202026%20_7-31-AAcompliance-updated.pdf"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Funding through assistantships is typically reserved for PhD students and all current PhD students are supported (typically up to 5 years of TA/RA support contingent on satisfactory progress and availability); applicants by the deadline are automatically considered for TA support and encouraged to contact faculty for RA positions.",
+      "quote": "Funding through assistantships is typically reserved for PhD students, and all current PhD students are supported by these assistantships.",
+      "url": "https://eng.famu.fsu.edu/cbe/graduate-admissions",
+      "also": [
+        {
+          "quote": "Departmentally funded Ph.D. students are normally eligible to receive up to five years of combined TA and/or RA support, provided they remain in good academic standing, make satisfactory progress toward their degree, and funding remains available.",
+          "url": "https://eng.famu.fsu.edu/sites/default/files/pdfs/cbe/CBE-Graduate-Handbook-CBE_Revised-July%202026%20_7-31-AAcompliance-updated.pdf"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may enter with a bachelor's degree in chemical/biomedical engineering or an allied field or with a graduate degree (3.0+ upper-division undergraduate or graduate GPA; M.S. holders from FAMU-FSU CoE may need only 6 additional coursework credits).",
+      "quote": "A baccalaureate degree in chemical/biomedical engineering or an allied field from an accredited college or university. | An undergraduate upper-division GPA or graduate GPA of 3.0 (on a 4.0 scale) or higher.",
+      "url": "https://eng.famu.fsu.edu/cbe/graduate-admissions",
+      "also": [
+        {
+          "quote": "Students with a master’s degree in ChE from the FAMU-FSU College of Engineering may, with approval of the graduate committee and major professor, take six (6) additional approved semester hours beyond the thesis-type master's course requirements",
+          "url": "https://eng.famu.fsu.edu/cbe/graduate/phd-programs"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Starting Fall 2027, the FAMU-FSU College of Engineering ADRGS office offers a limited number of application fee waivers exclusively for PhD applicants on a first-come, first-served basis (for FAMU applicants, complete the ApplyWeb application up to the Acknowledgement section without paying and submit the waiver request form).",
+      "quote": "offering a limited number of application fee waivers for PhD applicants, starting in the Fall 2027 semester. Only PhD applicants are eligible to request an application fee waiver at this time. Application fee waivers will be awarded on a first come, first serve basis.",
+      "url": "https://eng.famu.fsu.edu/graduate-application-fee-waiver-process",
+      "also": [
+        {
+          "quote": "Starting for the Fall 2027 semester PhD applicants can apply for the application fee to be waived.",
+          "url": "https://eng.famu.fsu.edu/prospective/graduate"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "Department admissions pages state a minimum new iBT TOEFL score of 4.0 (550 paper-based); note the central College of Engineering admissions page still lists legacy 80 iBT.",
+      "quote": "Internet based TOEFL (new IBTOEFL): 4.0 minimum",
+      "url": "https://eng.famu.fsu.edu/cbe/graduate-admissions",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Internet based TOEFL (IBTOEFL): 80",
+          "url": "https://eng.famu.fsu.edu/prospective/graduate/admissions-requirements"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the FAMU-FSU College of Engineering exempt-country list, and departments require English proficiency scores unless the applicant's country's official language is English or they graduated from an accredited U.S. bachelor's or master's program.",
+      "quote": "The English Language Proficiency requirement can be waived, at the University-level, for applicants who have earned a minimum of a bachelor’s degree or higher in the US or in an English-Speaking Country.",
+      "url": "https://eng.famu.fsu.edu/prospective/graduate",
+      "also": [
+        {
+          "quote": "For International students, an English Proficiency Score Report is required if: | The applicant’s country’s official language is NOT English or | The applicant did NOT graduate from an accredited US institution with either a bachelor’s or master’s degree.",
+          "url": "https://eng.famu.fsu.edu/cbe/graduate-admissions"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "Recommended GRE General percentile minima of 48% verbal and 75% quantitative; admission decisions are based on the entire application package, and doctoral applicants may request a GRE waiver.",
+      "quote": "A recommended Graduate Record Examination General Test (GRE) score of a minimum GRE percentile of at least 48% on the verbal portion and 75% on the quantitative portion of the test. However, the decision to admit will be based on a prospective student’s entire application package.",
+      "url": "https://eng.famu.fsu.edu/cbe/graduate-admissions"
+    }
+  },
+  "notes": "Joint FAMU-FSU College of Engineering department offering both Ph.D. in Chemical Engineering and Ph.D. in Biomedical Engineering (bme listed in also_fields; identical admissions requirements and deadlines). Apply through either FAMU or FSU, not both."
+}

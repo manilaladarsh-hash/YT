@@ -1,0 +1,66 @@
+{
+  "id": "famu",
+  "institution": "Florida Agricultural and Mechanical University",
+  "country": "USA",
+  "region": "Florida",
+  "grad_page": "https://graduateschool.famu.edu/students/prospective.php",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "30 USD",
+      "value": "The graduate application fee is $30.00 (non-refundable) per application; note an OIED international admissions page and a legacy School of the Environment undergraduate section still mention $35.00.",
+      "quote": "A $30.00 non-refundable application fee is required of all applicants for each application submitted",
+      "url": "https://graduateschool.famu.edu/students/prospective.php",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "All International applicants applying to Florida A&M University are required to submit an online application ($35.00 Application Fee Grad).",
+          "url": "https://www.famu.edu/students/international-education-and-development/recruitment-and-admissions/graduate-international-students.php"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Under FAMU Regulation 2.015, application fee waivers are only for First-Time-in-College Florida residents demonstrating economic need; international graduate applicants must pay the $30 fee (except FAMU-FSU College of Engineering PhD applicants, who have a separate limited Fall 2027 waiver process).",
+      "quote": "Each applicant must submit an admission application and the requisite non-refundable fee. Fee waivers are accepted from First-Time-in-College Florida residents who can document that they have received a fee waiver based on economic need",
+      "url": "https://policy.famu.edu/B.aspx?BookId=14160",
+      "also": [
+        {
+          "quote": "A $30.00 non-refundable application fee is required of all applicants for each application submitted",
+          "url": "https://graduateschool.famu.edu/students/prospective.php"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE scores (300 combined verbal and quantitative minimum cited by SGSR) are required for doctoral applicants unless an individual academic program grants a waiver; check program records for engineering waivers and cutoffs.",
+      "quote": "GRE scores are required for doctoral applicants and for those applying to master’s programs that require admissions test scores. The GRE or GMAT requirement may be waived for certain applicants who meet clearly established academic criteria determined by the academic program",
+      "url": "https://policy.famu.edu/B.aspx?BookId=14160",
+      "also": [
+        {
+          "quote": "Submit Graduate Record Examination (GRE) scores (verbal and quantitative score of 300)",
+          "url": "https://graduateschool.famu.edu/students/prospective.php"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Minimum TOEFL score is 80 iBT (550 paper-based) university-wide; FAMU-FSU College of Engineering department pages list 4.0 on the new iBT scale.",
+      "quote": "Test of English as a Foreign Language (TOEFL= 550/paper-based; 80 internet-based)",
+      "url": "https://graduateschool.famu.edu/students/prospective.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic overall score is 6.5.",
+      "quote": "International English Language Testing System (IELTS) scores (6.5) sent directly to FAMU",
+      "url": "https://graduateschool.famu.edu/students/prospective.php"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "FAMU Regulation 2.015 and SGSR state scores are required if not from a U.S. institution, a country where English is the only official language, or a university where English is the only official language of instruction, without stating whether English-medium Indian degrees qualify or providing a country list (note FAMU-FSU Engineering excludes India).",
+      "quote": "",
+      "url": "https://policy.famu.edu/B.aspx?BookId=14160"
+    }
+  },
+  "notes": "Doctoral programs reviewed across SGSR (graduateschool.famu.edu), CST, School of the Environment, College of Pharmacy & Pharmaceutical Sciences, and the joint FAMU-FSU College of Engineering (eng.famu.fsu.edu). Two PhD programs are omitted from the 18 Atlas fields: (1) Ph.D. in Entomology (CAFS), listed as 'Cooperative--degree awarded by UF' with the degree conferred by the University of Florida; and (2) Ph.D. in Industrial & Manufacturing Engineering (joint FAMU-FSU CoE), which falls outside the 18 Atlas STEM fields. catalog.famu.edu failed TLS verification during automated fetching and was not queried without TLS."
+}
