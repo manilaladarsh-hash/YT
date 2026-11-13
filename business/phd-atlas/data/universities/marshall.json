@@ -1,0 +1,54 @@
+{
+  "id": "marshall",
+  "institution": "Marshall University",
+  "country": "USA",
+  "region": "West Virginia",
+  "grad_page": "https://www.marshall.edu/international-admissions/international-admissions-requirements/",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "0 (waived)",
+      "value": "Application fees for degree-seeking programs are currently waived for international applicants (unless a specific program notes otherwise on the application checklist; the special student fee schedule lists $40 domestic graduate and the Graduate Catalog mentions $150 international graduate fees).",
+      "quote": "Currently application fees for degree-seeking programs are waived for international applicants. If an application fee is required for your chosen program, it will appear on your checklist.",
+      "url": "https://www.marshall.edu/international-admissions/international-admissions-requirements/",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Application Fees | Undergraduate | 40.00 | Graduate | 40.00",
+          "url": "https://www.marshall.edu/tuition/2026-2027-special-student-fees/"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No fee waiver request is needed because application fees for degree-seeking programs are currently waived for international applicants.",
+      "quote": "Currently application fees for degree-seeking programs are waived for international applicants.",
+      "url": "https://www.marshall.edu/international-admissions/international-admissions-requirements/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Graduate Admissions leaves standardized test requirements (GRE/GMAT) to individual academic programs; both STEM Ph.D. programs at Marshall state that GRE scores are not required but may be submitted to strengthen an application.",
+      "quote": "",
+      "url": "https://catalog.marshall.edu/graduate/admissions/"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "Minimum TOEFL iBT score is 4.5 or 86 for exams taken after January 20, 2026 (1/21/2026 or later in the Graduate Catalog), or 80 for exams taken before January 21, 2026 (ETS institution code 5396).",
+      "quote": "TOEFL iBT (Exam taken before 1/21/2026) | 61 | 80 | TOEFL iBT (Exam taken after 1/20/2026) | 4.0 or 72 | 4.5 or 86",
+      "url": "https://www.marshall.edu/international-admissions/proof-of-english-proficiency/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS (Academic) score is 6.5 (Duolingo 105, PTE Academic/Express 60 on International Admissions or PTE 53 in the Graduate Catalog, and MELAB 82% are also accepted).",
+      "quote": "IELTS (Academic) | 6.0 | 6.5",
+      "url": "https://www.marshall.edu/international-admissions/proof-of-english-proficiency/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on Marshall's Approved List of Countries for Direct Entry English Proficiency Exemption; Indian applicants must submit English proficiency scores unless they have completed 18 graduate credit hours (one year full-time study) or a degree at a U.S.-accredited institution or an approved ESL program.",
+      "quote": "The proof of English proficiency requirement may be waived if we receive official proof of the equivalent of a U.S. high school diploma or U.S. post-secondary degree from an accepted, accredited institution in one of the approved English-speaking countries listed below. ... Asia | Singapore",
+      "url": "https://www.marshall.edu/international-admissions/proof-of-english-proficiency/"
+    }
+  },
+  "notes": "Located in Huntington, WV (Carnegie R2). International graduate applicants must submit a NACES or AICE course-by-course credential evaluation with CGPA. Only two Ph.D. degrees are offered university-wide: Biomedical Research, Ph.D. (Joan C. Edwards School of Medicine, including the Neurobiology and Addiction cluster) and Engineering, Ph.D. (College of Engineering and Computer Sciences). Excluded non-Atlas Engineering Ph.D. concentrations: Cyber Security, Engineering Management, and Industrial and System Engineering."
+}
