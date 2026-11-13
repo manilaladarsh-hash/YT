@@ -5,7 +5,7 @@
   "also_fields": [],
   "department": "Department of Computer Sciences",
   "program_page": "https://www.cs.wisc.edu/grad/programs/admissions/",
-  "checked": "2026-10-22",
+  "checked": "2026-11-12",
   "fields": {
     "deadline": {
       "code": "2026-12-15",
@@ -29,7 +29,7 @@
     "supervisor": {
       "code": "Not required",
       "value": "Traditional MS/PhD applicants are reviewed as one pool by the department; no advisor agreement is required.",
-      "quote": "applicants are reviewed for admission as one applicant pool regardless of their intention on pursuing the MS or PhD.",
+      "quote": "All applications are reviewed by the Computer Sciences Graduate Admissions Committee. The committee is composed of faculty members representing a variety of research areas within the department. After careful review, the Graduate Admissions Committee recommends admission for the applicants they feel are most qualified for our program. | The Department of Computer Sciences offers a traditional CS MS/PhD program. This program is one track, and as such, applicants are reviewed for admission as one applicant pool regardless of their intention on pursuing the MS or PhD.",
       "url": "https://www.cs.wisc.edu/grad/programs/admissions/"
     },
     "funding": {
@@ -47,8 +47,14 @@
     "entry_route": {
       "code": "Direct from bachelor's",
       "value": "Apply from a bachelor's to the single traditional MS/PhD track; you need programming, data structures, machine organization and calculus-level maths.",
-      "quote": "At a minimum, the applicant should have some programming experience, including courses in data structures and machine organization, along with a year of college-level mathematics at the calculus level or above.",
-      "url": "https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-phd/"
+      "quote": "My undergraduate degree was in a field other than computer sciences. Am I eligible to apply for the traditional MS or PhD program? Yes | Although an undergraduate degree in CS is not required, it is important to have documented course work or skills that indicate your capability",
+      "url": "https://www.cs.wisc.edu/grad/programs/admissions/",
+      "also": [
+        {
+          "quote": "At a minimum, the applicant should have some programming experience, including courses in data structures and machine organization, along with a year of college-level mathematics at the calculus level or above.",
+          "url": "https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-phd/"
+        }
+      ]
     },
     "fee_waiver": {
       "code": "Domestic only",
