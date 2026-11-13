@@ -422,3 +422,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (umontreal--neuro x2, physics x2, statistics x2; uncg--biology; unige--biology; univie--astronomy, biology) | off_topic 207 -> 204, absence 48 -> 48, 7 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (univie--chemistry, cs, earth, environment, math, neuro, physics; unlv--astronomy x3) | off_topic 204 -> 197, absence 48 -> 48, 3 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (unlv--astronomy, biology x2, earth x2, ece, environment x2, mech x2) | off_topic 197 -> 194, absence 48 -> 48, 7 rows reviewed
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (uoregon--cs; upc--civil x2, environment, math; uq--biomed; usu--cs; uta--chemistry; utah--bme, cs) | off_topic 194 -> 189, absence 48 -> 48, 5 rows reviewed
