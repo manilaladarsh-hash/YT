@@ -398,3 +398,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (nmsu--ece, northwestern x4, nyu--math/mech, odu--biology/environment) | off_topic 378 -> 370, absence 53 -> 51, 1 row reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (odu--math x2, ohiostate x4, ohsu x2, okstate--chemistry, olemiss--physics) | off_topic 370 -> 362, absence 51 -> 50, 1 row reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (oregonstate x2, ou--physics, paris-saclay x6, pitt--biology) | off_topic 362 -> 356, absence 50 -> 50, 4 rows reviewed
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (pitt--bme, portlandstate--chemistry, princeton x4, qmul x4) | off_topic 356 -> 347, absence 50 -> 50, 1 row reviewed
