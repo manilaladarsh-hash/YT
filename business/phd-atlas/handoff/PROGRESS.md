@@ -444,3 +444,4 @@ Commit: 7c5f0815
 2026-11-13 | CARD 5/4 | utsw | added The University of Texas Southwestern Medical Center (2 STEM PhD programs: biomed [incl. neuro], bme)
 2026-11-13 | CARD 5/4 | ucsf | added University of California, San Francisco (4 STEM PhD programs: biomed, neuro, biology [Tetrad], bme [joint UC Berkeley]) — UCSF Drupal/Cloudflare pages 403, catalog.ucsf.edu + UC Berkeley joint BioE used
 2026-11-13 | CARD 7 | Refreshed business docs (342 universities, 3675 programs, 18 fields, Not stated 21%)
+2026-11-13 | CARD 5/4 | cuanschutz | added University of Colorado Denver/Anschutz Medical Campus (4 STEM PhD programs: biomed, neuro, bme, biology)

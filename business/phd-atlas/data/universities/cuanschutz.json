@@ -1,0 +1,75 @@
+{
+  "id": "cuanschutz",
+  "institution": "University of Colorado Denver/Anschutz Medical Campus",
+  "country": "USA",
+  "region": "Colorado",
+  "grad_page": "https://graduateschool.cuanschutz.edu/admissions/apply",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "Application fee is $75 USD for international applicants ($50 for domestic applicants).",
+      "quote": "The application fee ($50 domestic, $75 international)",
+      "url": "https://graduateschool.cuanschutz.edu/admissions/apply"
+    },
+    "fee_waiver": {
+      "code": "Available",
+      "value": "The $75 application fee is automatically waived for applicants required to undergo ECE/WES external credential evaluations (required for CU Anschutz international applicants, though ECE/WES itself charges $163–$208), and fee waivers are also available for Fulbright recipients, applicants with qualifying disabilities, or recruitment event attendees.",
+      "quote": "Application fees are automatically waived for: Veteran or military. Applicants required to undergo external credential evaluations.",
+      "url": "https://graduateschool.cuanschutz.edu/admissions/application-fee-waivers",
+      "also": [
+        {
+          "quote": "Graduate students opting to do an ECE or WES evaluation will not be charged the $75 application fee.",
+          "url": "https://www.ucdenver.edu/international-admissions/apply-for-admission/graduate"
+        },
+        {
+          "quote": "Fulbright Scholarship recipients. An individual with a disability that substantially limits one or more major life activities.",
+          "url": "https://graduateschool.cuanschutz.edu/admissions/application-fee-waivers"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE requirements are set by individual programs; all four STEM health-science/biology PhD programs listed here do not require GRE scores.",
+      "quote": "",
+      "url": "https://graduateschool.cuanschutz.edu/admissions/apply",
+      "also": [
+        {
+          "quote": "Some graduate programs require standardized test scores (such as GRE or GMAT) for admission.",
+          "url": "https://www.ucdenver.edu/international-admissions/apply-for-admission/graduate"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Minimum TOEFL iBT score of 79 overall (Reading 8, Listening 7, Speaking 18, Writing 16); for tests taken on or after Jan 21, 2026 (1–6 scale), minimum 4 overall (Reading 3, Listening 2.5, Speaking 3.5, Writing 3.5).",
+      "quote": "Test TOEFL iBT IELTS Academic PTE Academic Duolingo English Test Overall Score 79 6.5 58 105 Subscores - Reading 8 5.5 42 Literacy: 85 - Listening 7 5.5 42 Conversation: 85 - Speaking 18 5.5 42 Comprehension: 85 - Writing 16 5.5 42 Production: 85",
+      "url": "https://catalog.cuanschutz.edu/cu-anschutz/admissions/international-admissions/proof-english-language-proficiency/",
+      "also": [
+        {
+          "quote": "*Scores in the 1–6 scale apply only to TOEFL iBT tests taken on or after January 21, 2026.",
+          "url": "https://www.ucdenver.edu/international-admissions/apply-for-admission/graduate"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic score of 6.5 overall (5.5 minimum in Reading, Listening, Speaking, and Writing).",
+      "quote": "Test TOEFL iBT IELTS Academic PTE Academic Duolingo English Test Overall Score 79 6.5 58 105 Subscores - Reading 8 5.5 42 Literacy: 85 - Listening 7 5.5 42 Conversation: 85 - Speaking 18 5.5 42 Comprehension: 85 - Writing 16 5.5 42 Production: 85",
+      "url": "https://catalog.cuanschutz.edu/cu-anschutz/admissions/international-admissions/proof-english-language-proficiency/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the exempt country list, and Medium-of-Instruction letters (LOIs) are not accepted; Indian applicants without a US or exempt-country degree must submit English test scores.",
+      "quote": "CU Denver does not accept Letters of Instruction (LOIs) issued by schools as proof of English language proficiency. Applicants must provide official test scores or other approved documentation.",
+      "url": "https://www.ucdenver.edu/international-admissions/apply-for-admission/graduate",
+      "also": [
+        {
+          "quote": "International applicants holding citizenship from the following countries do not need to prove their English language proficiency for admission to CU Denver.",
+          "url": "https://catalog.cuanschutz.edu/cu-anschutz/admissions/international-admissions/proof-english-language-proficiency/"
+        }
+      ]
+    }
+  },
+  "notes": "Health-science scope (CU Anschutz Medical Campus & CU Denver): research covers biomed, neuro, bme, and biology PhDs. International CU Anschutz applicants must provide a course-by-course ECE or WES evaluation."
+}
