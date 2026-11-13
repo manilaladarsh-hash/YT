@@ -1,0 +1,53 @@
+{
+  "id": "morganstate",
+  "institution": "Morgan State University",
+  "country": "USA",
+  "region": "Maryland",
+  "grad_page": "https://www.morgan.edu/school-of-graduate-studies",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "All graduate applicants must pay a non-refundable $50 application fee.",
+      "quote": "In addition to the completed application, all applicants must pay an application fee of $50 for the online application. | All application fees are non-refundable.",
+      "url": "https://www.morgan.edu/school-of-graduate-studies/admissions/application-process"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Application fee waivers are limited to participants in the McNair Scholars and Gates Millennium Scholars programs.",
+      "quote": "Only participants in the McNair Scholars and Gates Millennium Scholars Program may request a fee waiver.",
+      "url": "https://www.morgan.edu/school-of-graduate-studies/admissions/application-process"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The School of Graduate Studies sets no university-wide GRE requirement or minimum score and defers to individual graduate programs (among STEM Ph.D.s, Bioenvironmental Sciences requires GRE unless holding a master's degree with GPA 3.0+ and Transportation requires GRE).",
+      "quote": "",
+      "url": "https://www.morgan.edu/school-of-graduate-studies/admissions/application-process"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "International Admissions publishes a paper-based TOEFL minimum of 550 (and Duolingo minimum of 115) without stating a 0-120 iBT minimum; departments determine whether scores are sufficient.",
+      "quote": "",
+      "url": "https://www.morgan.edu/school-of-graduate-studies/admissions/international-application-process"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "IELTS is accepted alongside TOEFL (550 PBT) and Duolingo (115), but no numeric IELTS minimum band is published; individual departments determine whether the score is sufficient.",
+      "quote": "",
+      "url": "https://www.morgan.edu/school-of-graduate-studies/admissions/international-application-process"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "Foreign applicants are exempt from submitting English proficiency test scores if they hold a bachelor's or higher degree from an institution where English was the language of instruction, or are from listed British Commonwealth countries.",
+      "quote": "Foreign applicants are exempt from submitting TOEFL scores where: ... (c) the student holds a bachelor’s, master’s, doctorate, or professional (e.g., law or medicine) from a regionally accredited college or university in the United States or where English was the language of instruction.",
+      "url": "https://catalog.morgan.edu/content.php?catoid=29&navoid=2182",
+      "also": [
+        {
+          "quote": "English proficiency testing is not required for applicants from the British Commonwealth, Australia, Canada, Great Britain, West Indies, New Zealand, South Africa, Nigeria, Kenya, and Tanzania).",
+          "url": "https://www.morgan.edu/school-of-graduate-studies/admissions/international-application-process"
+        }
+      ]
+    }
+  },
+  "notes": "Located in Baltimore, MD (Carnegie R2). International transcripts require a course-by-course NACES evaluation (WES, ECE, FIS, IEE, or SpanTran). International Admissions lists TOEFL minimum 550 (paper-based scale) and Duolingo minimum 115, with no iBT (0-120) or IELTS numeric minimum stated. School of Graduate Studies international F-1 deadline is April 1 for Fall unless an earlier program deadline applies. Other Morgan State doctoral programs outside the 18 Atlas STEM fields (or overlapping the same department) include Industrial Engineering (Ph.D., D.Eng. in Engineering), Secure Embedded Systems (Ph.D., ECE/CAP), Transportation and Urban Infrastructure Systems (Ph.D.), CICS Interdisciplinary Ph.D. programs, and non-STEM / health-sciences Ph.D./Ed.D./Dr.P.H. degrees."
+}

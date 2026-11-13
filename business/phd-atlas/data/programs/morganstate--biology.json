@@ -1,0 +1,59 @@
+{
+  "id": "morganstate--biology",
+  "university": "morganstate",
+  "field": "biology",
+  "also_fields": [
+    "environment"
+  ],
+  "department": "School of Computer, Mathematical, and Natural Sciences",
+  "program_page": "https://catalog.morgan.edu/preview_program.php?catoid=29&poid=6799&returnto=2166",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "School of Graduate Studies sets April 1 as the Fall application deadline for international F-1 degree-seeking applicants (unless an earlier program deadline applies); Morgan's Application Deadlines portal lists May 1, 2027 for Bioenvironmental Sciences, PhD (Fall 2027), and SGS funding applications are due April 30.",
+      "quote": "Application deadlines for the School of Graduate Studies (SGS) are as follows (unless earlier deadline dates are indicated by the individual programs): ... International, degree-seeking (All F-1 in and out of USA) Fall - April 1",
+      "url": "https://www.morgan.edu/school-of-graduate-studies/admissions/application-process",
+      "inferred": "year",
+      "time_sensitive": "2027-04-01",
+      "also": [
+        {
+          "quote": "Bioenvironmental PhD Saturday, May 1, 2027 Fall 2027 Graduate Bioenvironmental Sciences, PhD",
+          "url": "https://morgan.elluciancrmrecruit.com/ApplyGRAD/Home/ApplicationDeadlines"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE is required for applicants who do not hold a master's degree with a GPA of 3.0 or higher.",
+      "quote": "GRE Requirement: GRE is not required for applicants who hold a master’s degree with a GPA of 3.0 or higher.",
+      "url": "https://catalog.morgan.edu/preview_program.php?catoid=29&poid=6799&returnto=2166"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Biology or Environmental Science; ETS offers Subject Tests only in Mathematics, Physics, and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Students form a five-member Dissertation Committee (including advisor) later in the program; no pre-admission supervisor commitment is stated.",
+      "quote": "",
+      "url": "https://catalog.morgan.edu/preview_program.php?catoid=29&poid=6799&returnto=2166"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate assistantships (TA/RA, $21,000 doctoral stipend plus tuition award up to 9 credits/semester excluding university fees) and fellowships require a separate School of Graduate Studies funding application (due April 30 for Fall) and are not guaranteed.",
+      "quote": "SUBMISSION OF A FUNDING APPLICATION DOES NOT MEAN YOU WILL BE APPROVED. The decisions will be based on program selection and availability of funding per each program. | Graduate assistantships for doctoral and master's degree students pay a stipend ($21,000-doctoral $12,000-master's) Tuition awards do not pay for university and miscellaneous fees.",
+      "url": "https://www.morgan.edu/school-of-graduate-studies/new-and-current-students/funding"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Offers a 60-credit Standard Track from a bachelor's degree and a 36-credit Advanced Track beyond a master's degree in a related field.",
+      "quote": "Advanced Track: Candidates for the PhD in Bioenvironmental Sciences degree who already possess a master’s degree in a related field must complete a minimum of Thirty-Six (36) academic credit hours ... Standard Track: Candidates for the PhD in Bioenvironmental Sciences degree who possess a baccalaureate degree in a related field must complete a minimum of Sixty (60) academic credit hours",
+      "url": "https://catalog.morgan.edu/preview_program.php?catoid=29&poid=6799&returnto=2166"
+    }
+  },
+  "notes": "Interdisciplinary Ph.D. housed in SCMNS across Biology, Chemistry, Physics, and the Patuxent Environmental & Aquatic Research Laboratory (PEARL). Spring admission deadline is December 1.",
+  "name": "Bioenvironmental Sciences"
+}
