@@ -1,0 +1,61 @@
+{
+  "id": "iuindy--biology",
+  "university": "iuindy",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biology (School of Science)",
+  "program_page": "https://science.indianapolis.iu.edu/biology/admissions/apply.html",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Final Ph.D. application deadline is December 15 for non-U.S. citizens (recommended October 30) and March 1 for U.S. citizens (recommended January 1; University Fellowships deadline January 15).",
+      "quote": "Deadlines | Ph.D.: Recommended January 1 (US citizens). Final deadline is March 1 (US citizens). | Ph.D.: Recommended October 30 (Non-US citizens), final deadline December 15 (Non-US citizens).",
+      "url": "https://science.indianapolis.iu.edu/biology/admissions/apply.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE General Test is not required for Ph.D. applicants, though submitted scores are added to the file for consideration.",
+      "quote": "The GRE and/or subject tests are not required for Ph.D. and Thesis M.S. applicants; however, if submitted, the results are added to the applicant's file for consideration.",
+      "url": "https://science.indianapolis.iu.edu/biology/admissions/apply.html"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS discontinued the Biology GRE Subject Test; the department does not require subject tests.",
+      "quote": "The GRE and/or subject tests are not required for Ph.D. and Thesis M.S. applicants; however, if submitted, the results are added to the applicant's file for consideration.",
+      "url": "https://science.indianapolis.iu.edu/biology/admissions/apply.html",
+      "also": [
+        {
+          "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+          "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students may enter either having chosen a major professor or complete first-semester laboratory rotations before selecting a major professor.",
+      "quote": "You can enter the Ph.D. program either having chosen a major professor, or you can choose to do a series of laboratory rotations in your first semester to become acquainted with various research possibilities.",
+      "url": "https://science.indianapolis.iu.edu/academics/degrees-and-programs/_degrees/biology-phd-iupui-biophd.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Fellowships and teaching assistantships are available on a competitive basis (University Fellowships deadline January 15; Fellowship/Teaching Assistantship deadline March 15).",
+      "quote": "Note: Fall semester deadline to be considered for a Fellowship or Teaching Assistant ship is March 15. University Fellowships deadline is January 15.",
+      "url": "https://science.indianapolis.iu.edu/biology/admissions/apply.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants must hold a baccalaureate degree from an accredited institution and complete 90 credit hours for the Ph.D.",
+      "quote": "To be eligible for graduate admission to the biology department, you must hold a baccalaureate degree from an accredited institution of higher learning and demonstrate good preparation in biology, organic chemistry, physics, and mathematics.",
+      "url": "https://science.indianapolis.iu.edu/biology/admissions/apply.html",
+      "also": [
+        {
+          "quote": "The Doctor of Philosophy in Biology requires 90 credit hours and is the highest degree conferred in the Department of Biology at IU Indianapolis.",
+          "url": "https://science.indianapolis.iu.edu/academics/degrees-and-programs/_degrees/biology-phd-iupui-biophd.html"
+        }
+      ]
+    }
+  },
+  "notes": ""
+}

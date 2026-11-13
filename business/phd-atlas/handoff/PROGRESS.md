@@ -434,3 +434,4 @@ Commit: 7c5f0815
 2026-11-13 | CARD 3 | Reviewed 10 audit rows (wpi--materials, math x2, mech x3, physics, statistics x4) | off_topic 120 -> 111, absence 37 -> 35, 0 rows reviewed
 2026-11-13 | CARD 3 | Reviewed 5 final audit rows (wpi--math, wpi--statistics, wrightstate--mech, wvu--earth, yorku--cs) | off_topic 111 -> 106, absence 35 -> 35, 0 rows left in Phase A
 2026-11-13 | CARD 4 | Added cunygc (8 programs) | Not stated 21% -> 21%
+2026-11-13 | CARD 4 | iuindy | added Indiana University Indianapolis (10 STEM PhD programs)
