@@ -1,0 +1,59 @@
+{
+  "id": "etsu--biomed",
+  "university": "etsu",
+  "field": "biomed",
+  "also_fields": [
+    "neuro"
+  ],
+  "department": "Quillen College of Medicine — Biomedical Science Graduate Program",
+  "program_page": "https://www.etsu.edu/com/grad/",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Preferred Fall 2027 deadline is February 1, 2027; final deadline for international applicants is April 1, 2027 (final domestic deadline is August 1, 2027).",
+      "quote": "preferred deadline | Final Deadline Domestic Applicants | final deadline International applicants | Fall Feb 1 August 1 April 1",
+      "url": "https://www.etsu.edu/gradschool/doctoral-degrees.php",
+      "inferred": "year",
+      "time_sensitive": "2027-02-01"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required for admission to the Biomedical Sciences Ph.D. program.",
+      "quote": "The GRE score is not required for application to the Biomedical Science Graduate Program.",
+      "url": "https://www.etsu.edu/com/grad/prospective-students/admissionsfaq.php"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for Biomedical Sciences (ETS offers Subject Tests only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Centralized admission into the umbrella Biomedical Sciences Ph.D. program; students complete flexible laboratory rotations during the first year before choosing a concentration and mentor.",
+      "quote": "Students have the opportunity to explore their individual research interests through laboratory rotations. They are encouraged to sample a variety of faculty research programs by participating in rotations across departments.",
+      "url": "https://www.etsu.edu/com/grad/prospective-students/curriculum.php",
+      "also": [
+        {
+          "quote": "Students are admitted centrally rather than to departmental graduate programs and need not select an area of concentration until the end of the ﬁrst year of study.",
+          "url": "https://catalog.etsu.edu/preview_program.php?catoid=66&poid=19242&returnto=4989"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most admitted Biomedical Sciences Ph.D. students receive a graduate assistantship providing a $27,000 per 12-month stipend plus payment of tuition and fees.",
+      "quote": "Most Biomedical Science Graduate Program students who are admitted to the program will be offered support through a graduate assistantship that includes a stipend as well as payment of tuition and fees. The stipend is currently $27,000 per 12 months.",
+      "url": "https://www.etsu.edu/com/grad/prospective-students/financial-support.php"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Direct entry beyond a bachelor's degree is standard (minimum 60 credit-hours beyond the baccalaureate degree; ETSU M.S. Biology graduates may have up to 16 fewer credits).",
+      "quote": "A minimum of 60 credit-hours are required beyond the baccalaureate degree.",
+      "url": "https://catalog.etsu.edu/preview_program.php?catoid=66&poid=19242&returnto=4989"
+    }
+  },
+  "notes": "Umbrella Ph.D. in Quillen College of Medicine with five concentrations: Cardiovascular Sciences; Cellular, Molecular and Chemical Biology; Immunology, Inflammation and Infectious Diseases; Neuroscience; and Pharmaceutical Sciences. Requires 3.0 GPA (international), CV, 3 recommendations, personal statement (max 1,000 words), and potential interview.",
+  "name": "Ph.D. in Biomedical Sciences"
+}

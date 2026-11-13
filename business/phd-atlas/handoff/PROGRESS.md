@@ -458,3 +458,4 @@ Commit: 7c5f0815
 2026-11-13 | CARD 4 | ccny | added CUNY City College (5 STEM PhD programs: bme, chemeng, civil, ece, mech)
 2026-11-13 | CARD 4 | Screened out CUNY Hunter College: no standalone STEM PhD (STEM PhDs administered via CUNY Graduate Center [cunygc]; Hunter doctorates are Nursing PhD/DNP, DPT, EdD). Source: https://www.hunter.cuny.edu/academics/majors-degree-tracks/
 2026-11-13 | CARD 4 | desu | added Delaware State University (5 STEM PhD programs: chemistry, environment, math [also physics], neuro, physics)
+2026-11-13 | CARD 4 | etsu | added East Tennessee State University (1 STEM PhD program: biomed [also neuro])

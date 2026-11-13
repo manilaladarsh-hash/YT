@@ -1,0 +1,47 @@
+{
+  "id": "etsu",
+  "institution": "East Tennessee State University",
+  "country": "USA",
+  "region": "Tennessee",
+  "grad_page": "https://www.etsu.edu/gradschool/application-instructions.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "65 USD",
+      "value": "The non-refundable international graduate application fee is $65 USD ($55 USD for domestic applicants).",
+      "quote": "Submit the non-refundable application fee of $65.00.",
+      "url": "https://www.etsu.edu/gradschool/application-instructions.php"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "ETSU's Graduate School states that it does not provide application fee waivers (the only listed exception on the application instructions page is for currently enrolled ETSU graduate students).",
+      "quote": "Please note that the Graduate School does not provide application fee waivers. The application fee is a required processing fee. The only exception to this is if you are a currently enrolled graduate student at ETSU.",
+      "url": "https://www.etsu.edu/gradschool/application-instructions.php"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each individual graduate program (for example, Biomedical Sciences Ph.D. does not require the GRE).",
+      "quote": "",
+      "url": "https://www.etsu.edu/gradschool/application-instructions.php"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "Minimum TOEFL iBT score for graduate admission is 4.0 on the post-January 21, 2026 scale (or 79 on the pre-January 21, 2026 scale).",
+      "quote": "TOEFL iBT (after January 21, 2026) 4.0 TOEFL iBT (before January 21, 2026) 79",
+      "url": "https://www.etsu.edu/international/english_proficiency/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic overall score for graduate admission is 6.5 (PTE Academic 53 is also accepted).",
+      "quote": "TOEFL iBT (before January 21, 2026) 79 IELTS 6.5",
+      "url": "https://www.etsu.edu/international/english_proficiency/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on ETSU's exempt-country list for English proficiency; Indian applicants must submit TOEFL (4.0 new / 79 legacy), IELTS (6.5), or PTE (53) unless they hold a U.S. institution degree or meet rare U.S. employment/study or USMLE exceptions.",
+      "quote": "All international applicants must provide proof of English proficiency by submitting documentation of one of the following: ... Applicants who have earned a degree from an accredited U.S. institution are exempt. | The Graduate School may waive the language proficiency test requirement in rare circumstances",
+      "url": "https://www.etsu.edu/international/english_proficiency/"
+    }
+  },
+  "notes": "International applicants must submit a course-by-course NACES transcript evaluation (ECE, IEE, TEC, or WES; allow 8+ weeks). Indian three-year bachelor's degrees from NAAC 'A' (3.01-4.0) accredited universities are accepted as equivalent to four-year U.S. bachelor's degrees; individual year marksheets are required (summary marksheets are not accepted). International GAs/scholarship recipients must complete an Oral Proficiency Exam on campus."
+}
