@@ -396,3 +396,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (ncsu--earth x2, ncsu--materials x2, newcastle x6 + physics deadline) | off_topic 394 -> 388, absence 53 -> 53, 4 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (newcastle x10 entry_route + x9 deadline) | off_topic 388 -> 378, absence 53 -> 53
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (nmsu--ece, northwestern x4, nyu--math/mech, odu--biology/environment) | off_topic 378 -> 370, absence 53 -> 51, 1 row reviewed
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (odu--math x2, ohiostate x4, ohsu x2, okstate--chemistry, olemiss--physics) | off_topic 370 -> 362, absence 51 -> 50, 1 row reviewed

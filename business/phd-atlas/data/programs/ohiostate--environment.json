@@ -28,15 +28,9 @@
     },
     "entry_route": {
       "code": "Either",
-      "value": "PhD applicants are considered for a Regular-admit track (with a master's) or a Direct-admit track.",
-      "quote": "PhD applicants will be considered for either the Regular-admit Track or the Direct-admit Track.",
-      "url": "https://senr.osu.edu/academics/graduate/graduate-admissions",
-      "also": [
-        {
-          "quote": "Regular-admit Track: Upload a document providing a summary of the research done for your master’s degree.",
-          "url": "https://senr.osu.edu/academics/graduate/graduate-admissions"
-        }
-      ]
+      "value": "PhD applicants are considered for a Regular-admit track (with a master's) or a Direct-admit track (with a bachelor's).",
+      "quote": "The equivalent of a four-year bachelor's or advanced degree from an accredited college or university. | PhD applicants will be considered for either the Regular-admit Track or the Direct-admit Track. | Regular-admit Track: Upload a document providing a summary of the research done for your master’s degree.",
+      "url": "https://senr.osu.edu/academics/graduate/graduate-admissions"
     },
     "gre_subject": {
       "code": "No subject test",
