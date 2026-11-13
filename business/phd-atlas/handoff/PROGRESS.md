@@ -401,3 +401,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (pitt--bme, portlandstate--chemistry, princeton x4, qmul x4) | off_topic 356 -> 347, absence 50 -> 50, 1 row reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (qmul x7, queens x3) | off_topic 347 -> 340, absence 50 -> 50, 3 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (queens--civil, queens--physics, rit x8) | off_topic 340 -> 338, absence 50 -> 50, 8 rows reviewed
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (rochester--neuro x2, rpi--cs, rutgers--physics, rwth x5, scripps--biology) | off_topic 338 -> 329, absence 50 -> 49, 0 rows reviewed
