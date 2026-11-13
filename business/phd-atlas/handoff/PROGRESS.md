@@ -418,3 +418,4 @@ Commit: 7c5f0815
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (uiowa--biomed, bme, chemeng, chemistry, civil, cs, ece, math, mech, physics entry_route) | off_topic 235 -> 225, absence 49 -> 49, 0 rows reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (uiowa--statistics; uiuc--astronomy, physics; uky--ece, physics; umanitoba--math; umass--astronomy, statistics x2; umbc--mech) | off_topic 225 -> 217, absence 49 -> 48, 1 row reviewed
 2026-11-12 | CARD 3 | Reviewed 10 audit rows (umkc--biology, chemistry, earth, math, physics; uml--chemeng, chemistry, civil, ece; umontana--chemistry) | off_topic 217 -> 207, absence 48 -> 48, 0 rows reviewed
+2026-11-12 | CARD 3 | Reviewed 10 audit rows (umontreal--biology x2, biomed x2, bme, chemistry x2, cs, math x2) | off_topic 207 -> 207, absence 48 -> 48, 10 rows reviewed
