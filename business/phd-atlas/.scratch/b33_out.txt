@@ -1,0 +1,131 @@
+=== kent--math.json [funding] ===
+program_page: https://catalog.kent.edu/colleges/sh/math/applied-mathematics-phd/
+field: {
+  "code": "Typical",
+  "value": "Assistantships are normally the first appointment a new student receives, and all accepted students are considered.",
+  "quote": "is normally the first appointment a new student will receive",
+  "url": "https://www.kent.edu/math/assistantship-application",
+  "also": [
+    {
+      "quote": "All students accepted into the program will be considered for Assistantship.",
+      "url": "https://www.kent.edu/math/assistantship-application"
+    }
+  ]
+}
+cache entries (1):
+  7bfbf93534de74d9.json: status=200 method=http via=None fetched=2026-10-27 len=6732
+  CONTEXT: "nizations Awards and Scholarships FlashLine Login Calendars Phone Directory Maps & Directions Search Apply Visit Give Now Assistantship and Financial Information Kent Department of Mathematical Sciences Graduate Programs Assistantship and Financial Information Mathematics Graduate Assistantship Available to both doctoral and master's students, and is normally the first appointment a new student will receive. These appointments carry a stipend that is paid for teaching, grading, tutoring, library or systems work. A Graduate Assistantship is 20 hours of service to the Department or supporting grant in exchange for a tuition waiver and stipend. Assistantships are considered once a year, six months prior to the start of the fall semester of that academic year. The department starts the review of Assistantship in early February before the academic year for which you wish to apply. All student"
+
+=== kit--mech.json [supervisor] ===
+program_page: https://www.mach.kit.edu/english/5117.php
+field: {
+  "code": "Required",
+  "value": "Acceptance needs a doctoral agreement with the supervisor and KHYS registration.",
+  "quote": "Application for acceptance as a doctoral candidate required: Doctoral agreement and registration with KHYS",
+  "url": "https://www.mach.kit.edu/english/5117.php"
+}
+cache entries (1):
+  c6eda73c95b4372d.json: status=200 method=http via=None fetched=2026-10-26 len=8272
+  CONTEXT: 'didate at the faculty. Registration with KHYS (Karlsruhe House of Young Scientists) is required: Doctoral agreement for the registration(https://docata.khys.kit.edu/home) you need a ***∂kit.edu - or a ***∂partner.kit.edu email account. If you do not yet have such an account, your main supervisor at KIT, your institute or the faculty will help you. Application for acceptance as a doctoral candidate required: Doctoral agreement and registration with KHYS. in DOCATA (optional) Enrollment as a student required: Acceptance as a doctoral candidate. Enrollment is mandatory for doctoral candidates, exceptions exist for persons employed full-time at KIT. Information on this can be obtained from Student Services. Application for acceptance as a doctoral candidate The application for acceptance as a doctoral candidate is made via DOCATA. Please keep your contact details up to date to ensure smooth '
+
+=== ksu--chemistry.json [entry_route] ===
+program_page: https://www.k-state.edu/chem/student-success/graduate_students/admissions/
+field: {
+  "code": "Either",
+  "value": "Domestic students usually enter after a bachelor's; international students may enter after a bachelor's or master's.",
+  "quote": "domestic students typically enter directly after the BS; international students may enter after receiving a BS or MS depending on what is most common for their countries.",
+  "url": "https://www.k-state.edu/chem/student-success/graduate_students/admissions/"
+}
+cache entries (1):
+  5be46114d61e228d.json: status=200 method=http via=None fetched=2026-10-26 len=3491
+  CONTEXT: 'cially start working with your major professor in late November. 6. Affidavit of financial support for international applicants You do not need to provide the affidavit for application to our PhD program. 7. Spring admission We do not accept applications for spring enrollment. 8. MS application We only accept applications for PhD, not MS. Of note, domestic students typically enter directly after the BS; international students may enter after receiving a BS or MS depending on what is most common for their countries. 9. Application fee Domestic applicants: $65 International applicants: $75 How to Apply Request Info Visit Department of Chemistry 213 CBC Building 1212 Mid-Campus Dr North, Manhattan, KS 66506-0401 785-532-6668 | chemdept@k-state.edu Contact Us Emergency Statements and Disclosures Accessibility KBOR Free Expression Statement © Kansas State University Updated Updated: 9/29/26'
+
+=== ksu--civil.json [gre_general] ===
+program_page: https://ce.k-state.edu/academics/graduate/
+field: {
+  "code": "Required",
+  "value": "International applicants need an 80th-percentile quantitative GRE; ABET-accredited civil engineering bachelor's graduates may be waived.",
+  "quote": "K-State CE’s minimum requirement for admission is 80th percentile rank on quantitative portion of the exam.",
+  "url": "https://ce.k-state.edu/docs/handbooks/graduate-student-handbook.pdf",
+  "also": [
+    {
+      "quote": "Students who have got their bachelor’s degree from an ABET - accredited civil engineering program may be waived from the GRE requirement",
+      "url": "https://ce.k-state.edu/docs/handbooks/graduate-student-handbook.pdf"
+    }
+  ]
+}
+cache entries (1):
+  79cc18b376afdcba.json: status=200 method=pdf via=None fetched=2026-10-26 len=81881
+  CONTEXT: 'ing website: version 8/21 10 KSU Civil Engineering Graduate Handbook http://www.k-state.edu/grad/admissions/application-process/international/ 7. TOEFL/IELTS score. International Applicants. The score obtained in the Test of English as a Foreign Language (TOEFL) should be reported officially to Kansas State University Civil Engineering Department. K-State CE’s minimum requirement for TOEFL is 550 paper-based / 213 computer-based / 79 internet-based. Applicants who submit an International English Language Testing System (IELTS) score must have a minimum of 6.5 to be considered for admission to the graduate program. For more requirements on English proficiency, visit the Graduate School Handbook website at: http://www.k-state.edu/grad/graduate_handbook/index.html. 8. GRE score. International Applicants. The score obtained in the Graduate Record Examination (GRE) should be reported official'
+
+=== ku--cs.json [supervisor] ===
+program_page: https://eecs.ku.edu/phd-program
+field: {
+  "code": "Not required",
+  "value": "Students choose a research cluster and adviser during the program, not before admission.",
+  "quote": "encouraged to choose a research cluster and dissertation topic as early in the graduate program as possible",
+  "url": "https://eecs.ku.edu/phd-program"
+}
+cache entries (1):
+  12418b3637e3cd96.json: status=200 method=http via=None fetched=2026-10-26 len=8793
+  CONTEXT: 'lication Statement of Objectives and Resume Official Transcript Letters of Recommendation (3) (Optional) GRE scores (school code 6871) TOEFL scores (international students) Financial Statement (international students only) See the Graduate Studies website for the application procedure and fees. Research Clusters Computer Science Ph.D. students are encouraged to choose a research cluster and dissertation topic as early in the graduate program as possible and identify a faculty adviser who is interested in supervising their work. Associated Focus Areas Computational Science and Engineering Data Science and Engineering Computer Systems Design Languages and Semantics Theory of Computing Computing in the Biosciences Explore: Graduate Research Electrical Engineering Click to expand Fortune 500 companies to start-ups hire KU Electrical Engineering Ph.D. graduates for their abilities to invent, '
+
+=== ku--ece.json [supervisor] ===
+program_page: https://eecs.ku.edu/phd-program
+field: {
+  "code": "Not required",
+  "value": "Students choose a research cluster and adviser during the program, not before admission.",
+  "quote": "as early in the graduate program as possible",
+  "url": "https://eecs.ku.edu/phd-program"
+}
+cache entries (1):
+  12418b3637e3cd96.json: status=200 method=http via=None fetched=2026-10-26 len=8793
+  CONTEXT: ' Letters of Recommendation (3) (Optional) GRE scores (school code 6871) TOEFL scores (international students) Financial Statement (international students only) See the Graduate Studies website for the application procedure and fees. Research Clusters Computer Science Ph.D. students are encouraged to choose a research cluster and dissertation topic as early in the graduate program as possible and identify a faculty adviser who is interested in supervising their work. Associated Focus Areas Computational Science and Engineering Data Science and Engineering Computer Systems Design Languages and Semantics Theory of Computing Computing in the Biosciences Explore: Graduate Research Electrical Engineering Click to expand Fortune 500 companies to start-ups hire KU Electrical Engineering Ph.D. graduates for their abilities to invent, engineer, and deliver innovations. Many EECS Ph.D. students are'
+
+=== ku--statistics.json [funding] ===
+program_page: https://www.kumc.edu/school-of-medicine/academics/departments/biostatistics-and-data-science/academics/ph.d.-in-biostatistics/admissions.html
+field: {
+  "code": "Competitive",
+  "value": "Graduate research and teaching assistantships are limited and highly competitive.",
+  "quote": "GRA and GTA slots are limited and highly competitive.",
+  "url": "https://www.kumc.edu/school-of-medicine/academics/departments/biostatistics-and-data-science/academics/ph.d.-in-biostatistics/graduate-research-assistantships.html"
+}
+cache entries (1):
+  5ad4219f811ea38f.json: status=200 method=http via=None fetched=2026-10-26 len=4945
+  CONTEXT: "lational Researchers About About Faculty Staff Department Resources Faculty Development Honors & Awards Alumni Spotlights Giving Ph.D. in Biostatistics Graduate Research Assistantships Graduate research assistantships and graduate teaching assistantships are available through the Department of Biostatistics & Data Science. REQUEST MORE INFORMATION GRA and GTA slots are limited and highly competitive. While they are primarily for Ph.D. students, limited slots may be available for master's degree students. Ph.D. GRA students are employed at .50 FTE. This is approximately 20 hours per week, which works out to $38,500 per year, if employed the entire year (26 pay periods). Tuition up to 6 credit hours per fall and spring semesters and 3 credit hours per summer semester toward a Ph.D. in Biostatistics at KU Medical Center will be covered by the department. Eligibility and Requirements To qual"
+
+=== leeds--astronomy.json [deadline] ===
+program_page: https://eps.leeds.ac.uk/physics-research-degrees
+field: {
+  "code": "Rolling",
+  "value": "Applicants are advised to apply at least four months before their proposed start date; admissions operate on a rolling basis across multiple start dates.",
+  "quote": "We advise you to apply at least four months before your proposed start date. This is to allow sufficient time to review your application and undertake any additional checks.",
+  "url": "https://www.leeds.ac.uk/research-applying/doc/applying-research-degrees"
+}
+cache entries (1):
+  d7bc03bab70303f5.json: status=200 method=http via=None fetched=2026-10-30 len=12406
+  CONTEXT: 'iminal conviction, you may need to declare it to us. This is usually required when we make you an offer that you wish to accept. For a small number of our courses, you will need to declare it when you apply. Having a criminal conviction will only rarely stop you from studying at Leeds. Find out more about declaring a criminal conviction. Deadlines We advise you to apply at least four months before your proposed start date. This is to allow sufficient time to review your application and undertake any additional checks. You may also need adequate time to apply for ATAS (Academic Technology Approval Scheme) clearance or a Student visa, as well as making arrangements to travel to Leeds. For advice on when to apply, please see the information on start dates and application deadlines. We cannot guarantee that we will be able to consider applications received after this date and, where there is'
+
+=== leeds--biology.json [deadline] ===
+program_page: https://biologicalsciences.leeds.ac.uk/research-degrees
+field: {
+  "code": "Rolling",
+  "value": "Applicants are advised to apply at least four months before their proposed start date; admissions operate on a rolling basis across multiple start dates.",
+  "quote": "We advise you to apply at least four months before your proposed start date. This is to allow sufficient time to review your application and undertake any additional checks.",
+  "url": "https://www.leeds.ac.uk/research-applying/doc/applying-research-degrees"
+}
+cache entries (1):
+  d7bc03bab70303f5.json: status=200 method=http via=None fetched=2026-10-30 len=12406
+  CONTEXT: 'iminal conviction, you may need to declare it to us. This is usually required when we make you an offer that you wish to accept. For a small number of our courses, you will need to declare it when you apply. Having a criminal conviction will only rarely stop you from studying at Leeds. Find out more about declaring a criminal conviction. Deadlines We advise you to apply at least four months before your proposed start date. This is to allow sufficient time to review your application and undertake any additional checks. You may also need adequate time to apply for ATAS (Academic Technology Approval Scheme) clearance or a Student visa, as well as making arrangements to travel to Leeds. For advice on when to apply, please see the information on start dates and application deadlines. We cannot guarantee that we will be able to consider applications received after this date and, where there is'
+
+=== leeds--biomed.json [deadline] ===
+program_page: https://biologicalsciences.leeds.ac.uk/research-degrees
+field: {
+  "code": "Rolling",
+  "value": "Applicants are advised to apply at least four months before their proposed start date; admissions operate on a rolling basis across multiple start dates.",
+  "quote": "We advise you to apply at least four months before your proposed start date. This is to allow sufficient time to review your application and undertake any additional checks.",
+  "url": "https://www.leeds.ac.uk/research-applying/doc/applying-research-degrees"
+}
+cache entries (1):
+  d7bc03bab70303f5.json: status=200 method=http via=None fetched=2026-10-30 len=12406
+  CONTEXT: 'iminal conviction, you may need to declare it to us. This is usually required when we make you an offer that you wish to accept. For a small number of our courses, you will need to declare it when you apply. Having a criminal conviction will only rarely stop you from studying at Leeds. Find out more about declaring a criminal conviction. Deadlines We advise you to apply at least four months before your proposed start date. This is to allow sufficient time to review your application and undertake any additional checks. You may also need adequate time to apply for ATAS (Academic Technology Approval Scheme) clearance or a Student visa, as well as making arrangements to travel to Leeds. For advice on when to apply, please see the information on start dates and application deadlines. We cannot guarantee that we will be able to consider applications received after this date and, where there is'
