@@ -463,3 +463,4 @@ Commit: 7c5f0815
 2026-11-13 | CARD 4 | emich | added Eastern Michigan University (1 STEM PhD program: materials [also cs, civil])
 2026-11-13 | CARD 4 | famu | added Florida Agricultural and Mechanical University (8 STEM PhD programs: physics, environment, biomed, chemeng [also bme], civil, ece, materials, mech)
 2026-11-13 | CARD 4 | jsums | added Jackson State University (5 STEM PhD programs: chemistry, environment, datasci [also cs, math, statistics], ece, civil)
+2026-11-13 | CARD 4 | lsuneworleans | added Louisiana State University New Orleans (10 STEM PhD programs: biology, chemistry, neuro, cs, earth [also environment], math, physics, civil, ece, mech)

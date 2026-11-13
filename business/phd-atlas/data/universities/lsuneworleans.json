@@ -1,0 +1,53 @@
+{
+  "id": "lsuneworleans",
+  "institution": "Louisiana State University New Orleans",
+  "country": "USA",
+  "region": "Louisiana",
+  "grad_page": "https://www.lsuneworleans.edu/academics/grad/admission-requirements",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "30 USD",
+      "value": "Non-refundable graduate application fee is $30.00 for international applicants ($20.00 for domestic applicants) per application submission.",
+      "quote": "Currently, the graduate application fee for domestic applicants is $20.00 and $30.00 for international applicants. ... The application fee is non-refundable once the application has been submitted.",
+      "url": "https://www.lsuneworleans.edu/academics/grad/admission-requirements"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Application fee waivers and/or discounts may be available upon contacting the Graduate School; no automatic international waiver program is published.",
+      "quote": "Application fee waivers and/or discounts may be available.",
+      "url": "https://www.lsuneworleans.edu/academics/grad/admission-requirements"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The Graduate School no longer requires GRE or GMAT scores for most programs; individual programs set their own GRE rules (for instance, most Engineering & Applied Science Ph.D. concentrations require a 300 combined GRE score).",
+      "quote": "GRE and GMAT are no longer required for most programs. | Please check the individual program webpages for more information.",
+      "url": "https://www.lsuneworleans.edu/academics/grad/admission-requirements"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "Minimum TOEFL score is 4.0 total on the updated scale effective January 21, 2026 (or 79 iBT if taken before January 21, 2026; institution code 6379). Note: Teaching Assistant Instructor of Record (TA-IOR) appointments require TOEFL 100, IELTS 7.5, or PTE 61.",
+      "quote": "Test score of 4.0 total. The institution code for reporting TOEFL to LSU New Orleans is 6379. | Please note - TOEFL updated their score scale January 21, 2026. If test was taken prior to this date, 79 is the total score required based on their previous scale.",
+      "url": "https://www.lsuneworleans.edu/academics/grad/admission-requirements/international",
+      "also": [
+        {
+          "quote": "TA-IOR appointees must meet the University’s requirement for assessing English Proficiency. For non-native English speakers, this may be determined by either TOEFL of 100 or IELTS 7.5 or PTE 61.",
+          "url": "https://www.lsuneworleans.edu/academics/grad/assistantships"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS overall band score is 6.5 (PTE Academic 58 and Duolingo English Test 105 are also accepted; TA-IOR requires IELTS 7.5).",
+      "quote": "IELTSThe International English Language Testing System | Overall band score of 6.5",
+      "url": "https://www.lsuneworleans.edu/academics/grad/admission-requirements/international"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the Graduate School's exempt-country list; Indian applicants must submit English proficiency scores unless they hold a bachelor's or master's degree from a U.S. institution accredited by a USDOE-recognized accreditor.",
+      "quote": "Please note the following examples in which the English proficiency requirement can be waived: | If applicant has a bachelor's or master's degree from a US college or university accredited at the institutional level by an accreditor recognized by the USDOE. | If applicant is from one of the following countries: Anguilla, Antigua and Barbuda, Australia, Bahamas, Barbados, Belize, Bermuda, British Virgin Islands, Canada (except Quebec), Cayman Islands, Dominica, Gibraltar, Grenada, Guyana, Republic of Ireland, Jamaica, Montserrat, New Zealand, Nigeria, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Trinidad & Tobago, Turks and Caicos Islands, U.K. (England, Northern Ireland, Scotland, Wales), U.S.A.",
+      "url": "https://www.lsuneworleans.edu/academics/grad/admission-requirements/international"
+    }
+  },
+  "notes": "Formerly the University of New Orleans (UNO), transitioning to Louisiana State University New Orleans (lsuneworleans.edu). Graduate School minimum GPA is 2.5 overall undergraduate, 2.75 on the last 60 undergraduate hours, or 3.0 on at least 9 graduate hours; international transcripts require a NACES course-by-course evaluation with GPA calculation (IEE $120 / TEC-SpanTran $150 partner discounts). Teaching and Research Assistants enrolled full-time (9 cr Fall/Spring, 3.0 GPA) receive a non-resident fee waiver, in-state tuition exemption, and mandatory fee waiver per LA Act 664, though differential/course fees and summer tuition/fees are not covered. Excluded Engineering & Applied Science Ph.D. concentrations: Naval Architecture and Marine Engineering (outside the 18 Atlas STEM fields) and Engineering Management (explicitly paused and not accepting applications)."
+}

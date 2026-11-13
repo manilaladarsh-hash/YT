@@ -1,0 +1,78 @@
+{
+  "id": "lsuneworleans--math",
+  "university": "lsuneworleans",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics, College of Sciences (Engineering & Applied Science Ph.D.)",
+  "program_page": "https://www.lsuneworleans.edu/academics/cos/mathematics/graduate",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-19",
+      "value": "The program's Fall deadline is July 1/July 15 for domestic applicants, so international applicants must meet the Graduate School international Fall deadline of May 19, 2027; apply by March 1, 2027 for Graduate School Awards consideration.",
+      "quote": "International graduate fall deadline: May 19.",
+      "url": "https://www.lsuneworleans.edu/admissions/deadlines",
+      "inferred": "year",
+      "time_sensitive": "2027-03-01",
+      "also": [
+        {
+          "quote": "Application student submission deadline (If program deadlines earlier, earliest deadline applies.) | Fall 2026 | May 19, 2026",
+          "url": "https://www.lsuneworleans.edu/academics/grad/admission-requirements/international"
+        },
+        {
+          "quote": "Mathematics, M.S., Ph.D.* Ms Mathematics Degree Requirements | College of Sciences ... Spring Admission: October 15 | Fall Admission: July 1",
+          "url": "https://www.lsuneworleans.edu/academics/grad/programs"
+        },
+        {
+          "quote": "Apply by March 1st to be considered",
+          "url": "https://www.lsuneworleans.edu/academics/grad/graduate-financing/awards"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The Mathematics department states GRE General scores are not required for MS/PhD admission, though encouraged for TA applicants (conflict: the Engineering & Applied Science Ph.D. overview page still lists a combined GRE score of 300).",
+      "quote": "Applicants to the MS and PhD program must meet the following requirements for admission: ... If available, submission of General GRE exam scores is encouraged for applicants interested in a TA position, though it is not required.",
+      "url": "https://www.lsuneworleans.edu/academics/cos/mathematics/graduate/how-to-apply",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "GRE Score (combined verbal and quantitative sections) of 300, and proof of English proficiency.",
+          "url": "https://www.lsuneworleans.edu/academics/coe/applied-science/how-to-apply"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Neither the Mathematics graduate pages nor the Engineering & Applied Science pages state a policy for the GRE Mathematics Subject Test.",
+      "quote": "",
+      "url": "https://www.lsuneworleans.edu/academics/cos/mathematics/graduate/how-to-apply"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Interested Ph.D. applicants should first contact the department chair and then a faculty member specializing in their area of interest.",
+      "quote": "Advanced students may work towards the Doctoral Degree, which is offered by the department under Engineering and Applied Sciences. To explore this option, interested students should first contact the department chair, and then a faculty member who specializes in their field of interest.",
+      "url": "https://www.lsuneworleans.edu/academics/cos/mathematics/graduate"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching assistantships (6-10 department-wide, providing a salary and tuition waiver for 9+ credits) and Ph.D. research assistantships (subject to project grant availability) are competitive.",
+      "quote": "Teaching assistant positions are competitive and all applications for teaching assistant positions are reviewed by the Graduate Advisory Committee. ... Students enrolled in the PhD program can be paid through a research assistantship depending on the availability of funds for the student's research project.",
+      "url": "https://www.lsuneworleans.edu/academics/cos/mathematics/graduate"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Preference is given to applicants holding a Master's degree in a related field (up to 30 credits transferable toward the 81-credit Ph.D.), while applicants with a strong Bachelor's transcript are also considered and complete M.S.-level coursework within the 51 coursework credits.",
+      "quote": "Possess a Bachelor’s degree (or 4-year equivalency) in a field related to one of the nine participating programs. | Preference will be given to students who possess a Master’s degree in the related field, but students whose Bachelor’s transcript demonstrate a strong academic performance will be considered.",
+      "url": "https://www.lsuneworleans.edu/academics/coe/applied-science/how-to-apply",
+      "also": [
+        {
+          "quote": "81 graduate credit hours are required in total for the Ph. D. program in Engineering & Applied Science, of which 30 hours in dissertation research are required and aa minimum of 51 semester credit hours of graduate course work in an approved program beyond the Bachelor's degree. Up to 30 graduate credit hours from a Master's degree program, if the area of the Master's degree is relevant to the concentration, may be applied towards the satisfaction of credit hours for the Ph.D..",
+          "url": "https://www.lsuneworleans.edu/academics/coe/applied-science/degree-requirements"
+        }
+      ]
+    }
+  },
+  "notes": "Mathematics concentration within the Engineering & Applied Science Ph.D. Requires Calculus III and Introduction to Linear Algebra (or equivalent); contact Graduate Coordinator Linxiong Li for application documents and TA consideration.",
+  "name": "Engineering and Applied Science (Mathematics)"
+}
