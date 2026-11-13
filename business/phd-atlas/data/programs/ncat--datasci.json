@@ -1,0 +1,56 @@
+{
+  "id": "ncat--datasci",
+  "university": "ncat",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "Department of Computational Data Science and Engineering",
+  "program_page": "https://www.ncat.edu/coe/departments/cdse/phd-program/index.php",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "General Fall priority admission and merit-based funding deadline is January 15 (applied automatically with the admission application); general international Fall deadline is May 15.",
+      "quote": "Priority Admission Application Deadline / Priority Funding Deadline (applies only to Fall semester admissions): January 15 | International Student Admission Application Deadline: May 15",
+      "url": "https://www.ncat.edu/admissions/graduate/admission-requirements.php",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Ph.D. applicants in Computational Data Science and Engineering must satisfy Graduate School GRE examination requirements.",
+      "quote": "Applicants to the Ph.D. Program must comply with the requirements for admission as specified by the School of Graduate Studies for all similar programs. In particular, they must comply with: | The TOEFL and GRE examination requirements;",
+      "url": "https://www.ncat.edu/coe/departments/cdse/phd-program/index.php"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS does not offer a GRE Subject Test in Computational or Data Science.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No pre-admission supervisor is required; the Ph.D. Program Director acts as initial academic advisor for new students, who select a Major Advisor by the beginning of the second year.",
+      "quote": "Major Advisor: Initially the Director of the Ph.D. Program will serve as an Academic Advisor for all new students entering the Program. Each student in the Ph. D. Program is expected to select a Major Advisor by the beginning of the second year with the approval of the Department Chair.",
+      "url": "https://www.ncat.edu/coe/departments/cdse/phd-program/index.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Engineering Ph.D. students compete for College of Engineering GRAs/GTAs and Graduate College Doctoral GTAs ($20,000 minimum 9-month stipend plus tuition and health insurance).",
+      "quote": "Graduate Research Assistantships (GRAs) are available to M.S. and Ph.D. students. ... Availability of GRAs is dependent on faculty research areas and funding/grant status. | Academic background and familiarity with course content will play a role in selection for GTA positions.",
+      "url": "https://www.ncat.edu/coe/current-students/grad-financial-support.php",
+      "also": [
+        {
+          "quote": "However, currently only a portion of qualified students will be supported as GTAs.",
+          "url": "https://www.ncat.edu/tgc/prospective-students/grad-funding/funding-faq.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Designed primarily for applicants with an M.S. or M.Eng. in computational/computer/data science or an allied field (3.00+ GPA), with direct B.S. admission also possible from an ABET-accredited program with a 3.5+ GPA.",
+      "quote": "Master of Science or Engineering degree in computational, computer, or data science and engineering or in an allied field in science, engineering, business, economics, and technology. | Admission to the PhD program is also possible with a B.S. in computational, computer, or data science and engineering or in an allied field in science, engineering, business, economics, and technology, from an ABET accredited program with a cumulative GPA of 3.5 or above with additional requirements for admission and graduation.",
+      "url": "https://catalog.ncat.edu/preview_program.php?catoid=11&poid=1603&returnto=352"
+    }
+  },
+  "notes": "Research includes big data, computational statistics, AI/machine learning, scientific visualization, and HPC. 44 credits post-MS or 62 credits post-BS."
+}

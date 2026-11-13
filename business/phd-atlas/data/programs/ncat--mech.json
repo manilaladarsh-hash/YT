@@ -1,0 +1,56 @@
+{
+  "id": "ncat--mech",
+  "university": "ncat",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical Engineering",
+  "program_page": "https://www.ncat.edu/coe/departments/me/graduate-programs.php",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "General Fall priority admission and merit-based funding deadline is January 15 (applied automatically with the admission application); general international Fall deadline is May 15.",
+      "quote": "Priority Admission Application Deadline / Priority Funding Deadline (applies only to Fall semester admissions): January 15 | International Student Admission Application Deadline: May 15",
+      "url": "https://www.ncat.edu/admissions/graduate/admission-requirements.php",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Satisfactory GRE scores are required for unconditional admission to the Mechanical Engineering Ph.D. program.",
+      "quote": "To be considered for unconditional admission to the Ph.D. in Mechanical Engineering, an applicant must have the Master of Science degree in Mechanical Engineering or a closely related field with a minimum GPA of 3.3 and satisfactory GRE scores.",
+      "url": "https://www.ncat.edu/coe/departments/me/graduate-programs.php"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS does not offer a GRE Subject Test in Mechanical Engineering.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "No pre-admission supervisor commitment is required; graduate students select an academic advisor during their first semester and a dissertation advisor by 27 attempted credit hours.",
+      "quote": "All graduate students must select an academic advisor during their first semester of enrollment and an advisory committee by the end of the first year.",
+      "url": "https://www.ncat.edu/coe/departments/me/handbooks/me_grad_handbook_august_2020_final.pdf"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Engineering Ph.D. students compete for College of Engineering GRAs/GTAs and Graduate College Doctoral GTAs ($20,000 minimum 9-month stipend plus tuition and health insurance).",
+      "quote": "Graduate Research Assistantships (GRAs) are available to M.S. and Ph.D. students. ... Availability of GRAs is dependent on faculty research areas and funding/grant status. | Academic background and familiarity with course content will play a role in selection for GTA positions.",
+      "url": "https://www.ncat.edu/coe/current-students/grad-financial-support.php",
+      "also": [
+        {
+          "quote": "However, currently only a portion of qualified students will be supported as GTAs.",
+          "url": "https://www.ncat.edu/tgc/prospective-students/grad-funding/funding-faq.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Direct admission is open to B.S.M.E. graduates from an accredited program with a 3.5+ GPA, as well as M.S. graduates in ME or a closely related field with a 3.3+ GPA.",
+      "quote": "A student with a BSME degree from an accredited program with a 3.5 GPA or higher, satisfactory GRE scores, and strong reference letters may be admitted directly to the PhD program.",
+      "url": "https://www.ncat.edu/coe/departments/me/graduate-programs.php"
+    }
+  },
+  "notes": "Focus areas include Aerospace, Materials, Control & System Dynamics, Fluids & Thermal Management, and Mechatronics & Machine Design."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ncat--bme",
+  "university": "ncat",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Chemical, Biological, and Bioengineering",
+  "program_page": "https://www.ncat.edu/academics/graduate-programs/coe/bioengineering.php",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "General Fall priority admission and merit-based funding deadline is January 15 (applied automatically with the admission application); general international Fall deadline is May 15.",
+      "quote": "Priority Admission Application Deadline / Priority Funding Deadline (applies only to Fall semester admissions): January 15 | International Student Admission Application Deadline: May 15",
+      "url": "https://www.ncat.edu/admissions/graduate/admission-requirements.php",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required for the Bioengineering Ph.D. program.",
+      "quote": "GRE scores are not required.",
+      "url": "https://www.ncat.edu/academics/graduate-programs/coe/bioengineering.php"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS does not offer a GRE Subject Test in Bioengineering or Biomedical Engineering.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Bioengineering Ph.D. admissions page does not state whether a pre-admission faculty supervisor commitment is required.",
+      "quote": "",
+      "url": "https://www.ncat.edu/academics/graduate-programs/coe/bioengineering.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Engineering Ph.D. students compete for College of Engineering GRAs (dependent on faculty grant funding), GTAs, and Graduate College Doctoral GTAs ($20,000 minimum 9-month stipend plus tuition and health insurance).",
+      "quote": "Graduate Research Assistantships (GRAs) are available to M.S. and Ph.D. students. ... Availability of GRAs is dependent on faculty research areas and funding/grant status. | Academic background and familiarity with course content will play a role in selection for GTA positions.",
+      "url": "https://www.ncat.edu/coe/current-students/grad-financial-support.php",
+      "also": [
+        {
+          "quote": "However, currently only a portion of qualified students will be supported as GTAs.",
+          "url": "https://www.ncat.edu/tgc/prospective-students/grad-funding/funding-faq.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants may enter directly with a bachelor's degree (3.5 minimum GPA) or with a prior master's degree (3.0 minimum GPA) in Bioengineering, Biomedical Engineering, or a closely related field.",
+      "quote": "Bachelor's or Master's degree in Bioengineering, Biomedical Engineering, or a closely related engineering or science discipline, with a minimum GPA of 3.0 (for students with a prior Master's degree) or a minimum GPA of 3.5 (for students without a prior Master's degree).",
+      "url": "https://www.ncat.edu/academics/graduate-programs/coe/bioengineering.php"
+    }
+  },
+  "notes": "Offers two Ph.D. tracks: (1) Neurotechnology and Neural Engineering, and (2) Molecular, Cellular, and Systems Engineering."
+}

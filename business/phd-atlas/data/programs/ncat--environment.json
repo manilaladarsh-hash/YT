@@ -1,0 +1,56 @@
+{
+  "id": "ncat--environment",
+  "university": "ncat",
+  "field": "environment",
+  "also_fields": [],
+  "department": "College of Agriculture and Environmental Sciences",
+  "program_page": "https://www.ncat.edu/caes/phd-program/index.php",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "General Fall priority admission and merit-based funding deadline is January 15 (applied automatically with the admission application); general international Fall deadline is May 15.",
+      "quote": "Priority Admission Application Deadline / Priority Funding Deadline (applies only to Fall semester admissions): January 15 | International Student Admission Application Deadline: May 15",
+      "url": "https://www.ncat.edu/admissions/graduate/admission-requirements.php",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "A GRE Aptitude Exam score is required for admission to the Sustainable Agriculture and Environmental Sciences concentration of the Ph.D. program.",
+      "quote": "Additional Admission Requirements | A Graduate Record Exam (GRE) Aptitude Exam score",
+      "url": "https://catalog.ncat.edu/preview_program.php?catoid=18&poid=2916&returnto=701"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS does not offer a GRE Subject Test in Environmental Sciences.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Neither the CAES Ph.D. program page nor the Sustainable Agriculture & Environmental Sciences catalog entry states a pre-admission supervisor requirement.",
+      "quote": "",
+      "url": "https://www.ncat.edu/caes/phd-program/index.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Applicants who apply by the priority deadline are automatically considered for Graduate College Doctoral GTAs ($20,000 minimum 9-month stipend, full tuition, and student health insurance for 1 year, renewable up to 2 years, followed by faculty grant GRAs), though currently only a portion of qualified students are funded.",
+      "quote": "Doctoral Graduate Teaching Assistants (GTAs): doctoral student support will be paid by The Graduate College, and include tuition in the amount for a full time student, health insurance, and a nine month stipend at a minimum of $20,000. This package is a one-year commitment that can be renewed for a maximum of two years. | However, currently only a portion of qualified students will be supported as GTAs.",
+      "url": "https://www.ncat.edu/tgc/prospective-students/grad-funding/funding-faq.php",
+      "also": [
+        {
+          "quote": "Students who apply late have significantly reduced chances of receiving funding as offers are made to eligible students on a first-come, first-serve basis.",
+          "url": "https://www.ncat.edu/tgc/prospective-students/grad-funding/university-funding-opportunities-for-graduate-students.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Applicants must hold an earned master's degree in a food, agricultural, biological science, environmental science, or closely related discipline with a minimum cumulative GPA of 3.3.",
+      "quote": "To gain admission to this agricultural and environmental sciences Ph.D. program, students must have earned a master’s degree in a food, agricultural, biological science or environmental science discipline or in a closely related area of study with a cumulative GPA of 3.3.",
+      "url": "https://www.ncat.edu/caes/phd-program/index.php"
+    }
+  },
+  "notes": "Includes five concentrations, notably Sustainable Agriculture and Environmental Sciences (plus Food Science, Agribusiness, Animal Health, and Agricultural & Extension Education)."
+}
