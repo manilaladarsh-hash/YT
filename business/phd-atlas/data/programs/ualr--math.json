@@ -1,0 +1,82 @@
+{
+  "id": "ualr--math",
+  "university": "ualr",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Department of Applied Science (Applied Mathematics and Statistics Emphasis)",
+  "program_page": "https://ualr.edu/appliedscience/programs-facilities/applied-mathematics-and-statistics/",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-01",
+      "value": "No separate Applied Science deadline is published; under Policy LR 509.9 (revised April 2026) and Graduate School International Prospects, all international application materials for Fall must be received by June 1 (June 1, 2027 inferred for Fall 2027; Spring Oct 1; Summer March 1). Note: the 2026-2027 catalog also prints legacy general international dates of July 1 and Feb 1.",
+      "quote": "Application materials must be received no later than June 1 for fall semester, October 1 for spring semester, and March 1 for summer semester.",
+      "url": "https://ualr.edu/policy/home/student/graduate-school-international-student/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Fall applications: June 1 | Spring applications: October 1 | Summer applications: March 1",
+          "url": "https://ualr.edu/gradschool/international-prospects/"
+        },
+        {
+          "quote": "They must be received no later than July 1 for the fall semester and November 1 for the spring semester, and March 1 for the summer semester.",
+          "url": "https://catalog.ualr.edu/content.php?catoid=21&navoid=2484"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General is required (min 155Q, 138V, 4.5 AW in the 2026-2027 catalog; the program Steps to Apply page states 300 combined and 4.5 AW), except applicants with a 3.5+ GPA on their last 60 credit hours may be exempted with graduate coordinator approval.",
+      "quote": "Official GRE General Test from ETS (UA Little Rock’s institutional code is 6368) | Applicants with a 3.5 or greater GPA on their last 60 credit hours are not required to take the GRE.",
+      "url": "https://ualr.edu/appliedscience/steps-to-apply/",
+      "also": [
+        {
+          "quote": "On the GRE, applicants must have a minimum quantitative score of 155, a verbal score of at least 138, and a writing assessment score of at least 4.5 | With the approval of the graduate coordinator, applicants with a 3.5 GPA or greater on their last 60 graduate and undergraduate credit hours, may not be required to take the GRE.",
+          "url": "https://catalog.ualr.edu/preview_program.php?catoid=21&poid=5494"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Neither the catalog nor the program page states whether the ETS GRE Mathematics Subject Test is required, optional, or not considered (only GRE General requirements are stated).",
+      "quote": "",
+      "url": "https://catalog.ualr.edu/preview_program.php?catoid=21&poid=5497"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is made with the collective input of Applied Science Doctoral faculty (faculty mentor availability is considered), and entering students complete a mandatory first-semester Laboratory Rotation (ASCI 7450X) to select a dissertation advisor.",
+      "quote": "Recommendations on a doctoral application for admission to the Applied Science program are made with the collective input of the Applied Science Doctoral faculty. | All Applied Science doctoral students must register for Introduction to Research in Applied Science (ASCI 7450X), also called “Laboratory Rotation,” in their first semester in the program",
+      "url": "https://catalog.ualr.edu/preview_program.php?catoid=21&poid=5497"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding is limited and not guaranteed with admission; admission and funding decisions are separate. Full-time doctoral GAs/TAs/RAs receive a minimum $15,000 9-month stipend (effective Fall 2026), 9 credits of tuition waiver per semester, and $400/semester health insurance reimbursement, renewable each semester with >=3.0 GPA.",
+      "quote": "Admission decisions and funding decisions are considered separately, and the number of students admitted is usually much higher than the number of students who are funded. There are a limited number of funding opportunities and funding is not guaranteed to all students.",
+      "url": "https://ualr.edu/appliedscience/student-funding-options/",
+      "also": [
+        {
+          "quote": "The full-time stipend for the academic year is a minimum of $15,000 for doctoral students and $10,000 for master’s students. | Full-time Graduate Assistants must be enrolled in at least 9 hours of credit courses that are covered by the tuition waiver.",
+          "url": "https://ualr.edu/gradschool/assistantship/"
+        },
+        {
+          "quote": "The Doctoral Health Insurance Reimbursement provides $400 of insurance reimbursement for Fall and another $400 for Spring.",
+          "url": "https://ualr.edu/gradschool/current-students/health-insurance/"
+        },
+        {
+          "quote": "Doctoral-level graduate assistants will see their minimum stipend increase from $13,000 to $15,000.",
+          "url": "https://ualr.edu/news/2026/06/18/ua-little-rock-increases-financial-support-for-graduate-assistantships/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Requires a baccalaureate degree in an appropriate scientific discipline with at least 3.0 overall GPA (catalog) or 3.3 on the last 60 credit hours (Steps to Apply page); 72 credit hours beyond the bachelor's degree. Requires prerequisite preparation in discrete math, single/multivariable calculus, linear algebra, differential equations, mathematical statistics, and programming through data structures.",
+      "quote": "Applicants must possess a baccalaureate degree in an appropriate scientific discipline such as chemistry, physics, materials science, biology, mathematics, statistics, or earth science. | All emphases require a minimum of 72 credit hours beyond the baccalaureate degree.",
+      "url": "https://catalog.ualr.edu/preview_program.php?catoid=21&poid=5497"
+    }
+  },
+  "notes": "Applied Science, Applied Mathematics and Statistics, Ph.D. (catalog poid=5497). Covers both Applied Mathematics and Applied Statistics candidacy/research areas (mapped to math + also_fields: statistics). Non-native English speakers qualifying for a TA must score 5.0 on TSE.",
+  "name": "Applied Science, Applied Mathematics and Statistics, Ph.D."
+}
