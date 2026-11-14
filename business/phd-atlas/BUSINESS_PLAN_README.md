@@ -25,7 +25,7 @@ The research questions where your work would change the plan most are in **§13*
 
 ## 1. One-paragraph summary
 
-**STEM PhD Atlas 2027** is a downloadable kit for international, mostly Indian, students applying to PhD programs in **any STEM field** (physics, astronomy, chemistry, materials, maths, statistics, computer science, data science and AI, biology, biomedical sciences, neuroscience, earth and environmental science, and five engineering fields) for 2027 entry. It covers 373 universities in the **US, the UK, continental Europe, Canada and Australia & NZ**. Other directories don't collect the rules that trip international applicants up, so the Atlas does:
+**STEM PhD Atlas 2027** is a downloadable kit for international, mostly Indian, students applying to PhD programs in **any STEM field** (physics, astronomy, chemistry, materials, maths, statistics, computer science, data science and AI, biology, biomedical sciences, neuroscience, earth and environmental science, and five engineering fields) for 2027 entry. It covers 383 universities in the **US, the UK, continental Europe, Canada, Australia & NZ, and Asia (Singapore & Hong Kong)**. Other directories don't collect the rules that trip international applicants up, so the Atlas does:
 - international fee waivers;
 - whether an English-medium Indian degree waives TOEFL or IELTS;
 - whether the GRE General or the field's GRE Subject test is required this cycle;
@@ -42,7 +42,7 @@ Every value carries the exact official sentence it came from, the link and the c
 
 | Item | State |
 |---|---|
-| Dataset | **Schema 2.0, two levels:** a university record holds the graduate-school rules (fee, fee waiver, GRE General, TOEFL and IELTS minimums, English waiver for Indian degrees); a program record per field holds the department's rules (deadline, GRE Subject, supervisor-first, funding, entry route) and any override. The frozen list has 381 universities and 18 fields. One research agent per university writes to `data/staging/`; each university is reviewed and promoted. `python3 scripts/coverage.py` shows live progress. |
+| Dataset | **Schema 2.0, two levels:** a university record holds the graduate-school rules (fee, fee waiver, GRE General, TOEFL and IELTS minimums, English waiver for Indian degrees); a program record per field holds the department's rules (deadline, GRE Subject, supervisor-first, funding, entry route) and any override. The frozen list has 391 universities and 18 fields. One research agent per university writes to `data/staging/`; each university is reviewed and promoted. `python3 scripts/coverage.py` shows live progress. |
 | Release gate | ≥180 universities, ≥12 fields, every quote verified, Not stated under 15% overall and under 25% in every field with 30+ programs, explorer tests on desktop and phone, explorer ≤5 MB and loading in under 2 s on a 4× slower CPU, PDFs clean. `python3 scripts/coverage.py --gate`. |
 | Verification | A script checks that every quote appears verbatim on the cached official page (0 errors required at both levels). Pages that block automated reads (Oxford, UCL, Michigan) can be saved by the owner in a browser and imported with `scripts/import_saved_page.py`. |
 | Product | Offline explorer (HTML), planner workbook (XLSX), CSV, Playbook (PDF), START-HERE (PDF), licence, and a free sample (PDF). Built into a ZIP by `product/build.py`. |
