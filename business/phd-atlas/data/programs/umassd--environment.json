@@ -1,0 +1,69 @@
+{
+  "id": "umassd--environment",
+  "university": "umassd",
+  "field": "environment",
+  "also_fields": [],
+  "department": "School for Marine Science and Technology (SMAST)",
+  "program_page": "https://www.umassd.edu/programs/marine-science-phd/",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-07-15",
+      "value": "Fall 2027 international application closing date is July 15, 2027 (Spring 2027 international closing date: December 15; Summer not open to international students). Priority consideration for university assistantships or fellowships is January 15, 2027.",
+      "quote": "For fall applicants, the date for priority consideration for university assistantships or fellowships is January 15. | Application closing dates: | International application: July 15 | Note: International students may only apply for fall or spring.",
+      "url": "https://www.umassd.edu/graduate/dates/",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE General is optional for Marine Science and Technology Ph.D. applicants.",
+      "quote": "GRE is optional.",
+      "url": "https://www.umassd.edu/programs/marine-science-phd/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Marine Science or Environmental/Ocean Science (ETS offers Subject Tests only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "SMAST advises applicants to take an active role in contacting potential faculty advisors and seeking funding before applying.",
+      "quote": "Applicants should take an active role in contacting faculty member(s) who could potentially advise them, as well as make an effort to seek funding before applying.",
+      "url": "https://www.umassd.edu/programs/marine-science-phd/",
+      "also": [
+        {
+          "quote": "Applicants should take an active role in contacting faculty member(s) who could potentially advise them, as well as make an effort to seek funding before applying.",
+          "url": "https://www.umassd.edu/smast/admissions--aid/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Limited teaching/research assistantships and competitive fellowships are available (including Graduate Research Assistantships with stipend + tuition waiver, First-Year Doctoral Fellows at $16,000 + full tuition/fee waiver, and Distinguished Doctoral Fellows at $24,000/yr + waivers for outstanding applicants).",
+      "quote": "A limited number of assistantships are available on a competitive basis. This award is subject to the work needs of the position and department, your satisfactory performance of duties, your academic record, and availability of funds, and may be subject to change.",
+      "url": "https://www.umassd.edu/programs/marine-science-phd/",
+      "also": [
+        {
+          "quote": "The Distinguished Doctoral Fellows annually receive a $24,000 stipend plus full tuition and Curriculum Support Fee waivers. | The First Year Doctoral Fellows receive one year of support that includes a stipend of $16,000 plus a full tuition and Curriculum Support Fee waiver. | The School for Marine Science & Technology also offers graduate research assistantships",
+          "url": "https://www.umassd.edu/smast/admissions--aid/assistantships-scholarships--fellowships/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admits candidates holding an undergraduate or graduate degree (minimum 3.00 GPA, strong natural sciences/engineering background, calculus encouraged); direct Ph.D. entry from a bachelor's expects exceptional credentials, and some bachelor's entrants may complete an M.S. first.",
+      "quote": "Completion of an undergraduate or graduate degree with a GPA of 3.00 or higher.",
+      "url": "https://www.umassd.edu/programs/marine-science-phd/",
+      "also": [
+        {
+          "quote": "Candidates may apply for admission at either the master's or PhD (doctoral) level. | Students admitted directly into the PhD (doctoral) program are expected to have exceptional academic credentials and/or work experience. | Students entering with a bachelor’s degree may be required to complete the requirements of a master's degree before admission to the doctoral program.",
+          "url": "https://www.umassd.edu/smast/admissions--aid/"
+        }
+      ]
+    }
+  },
+  "notes": "UMass systemwide Intercampus Marine Science (IMS) / SMAST Ph.D. program; also offers a University of Sao Paulo Dual Ph.D. option.",
+  "name": "Marine Science and Technology Ph.D."
+}

@@ -1,0 +1,63 @@
+{
+  "id": "umassd--ece",
+  "university": "umassd",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical & Computer Engineering",
+  "program_page": "https://www.umassd.edu/programs/electrical-engineering-phd/",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-07-15",
+      "value": "Fall 2027 international application closing date is July 15, 2027 (Spring 2027 international closing date: December 15; Summer not open to international students). Priority consideration for university assistantships or fellowships is January 15, 2027.",
+      "quote": "For fall applicants, the date for priority consideration for university assistantships or fellowships is January 15. | Application closing dates: | International application: July 15 | Note: International students may only apply for fall or spring.",
+      "url": "https://www.umassd.edu/graduate/dates/",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General is required for international applicants; waived only for students with a bachelor's or graduate degree from an institution in the United States.",
+      "quote": "GRE is required. The GRE is waived for students with a bachelor's or graduate degree from an institution in the United States.",
+      "url": "https://www.umassd.edu/programs/electrical-engineering-phd/"
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "Department requires TOEFL iBT 80 (4 on the post-1/21/2026 1-6 scale), Duolingo 110, or PTE Academic 58.",
+      "quote": "International students should have a minimum English Proficiency score of TOEFL iBT 80 (New TOEFL 2026 score of 4), IELTS 6.5, Duolingo 110 or the Pearsons PTE Academic 58.",
+      "url": "https://www.umassd.edu/programs/electrical-engineering-phd/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Department requires IELTS 6.5 minimum (higher than the university general minimum of 6.0).",
+      "quote": "International students should have a minimum English Proficiency score of TOEFL iBT 80 (New TOEFL 2026 score of 4), IELTS 6.5, Duolingo 110 or the Pearsons PTE Academic 58.",
+      "url": "https://www.umassd.edu/programs/electrical-engineering-phd/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Electrical or Computer Engineering (ETS offers Subject Tests only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admissions are evaluated competitively and exceptions are approved by the ECE Graduate Committee rather than requiring an advisor pre-commitment (only BS/MS applicants are encouraged to include a faculty advisor letter).",
+      "quote": "However, students who do not meet minimum requirements—but who otherwise show evidence of strong academic, professional, or research ability—may be accepted upon approval of the ECE Graduate Committee. | BS/MS applicants are encouraged to include a recommendation from a department faculty member willing to advise their graduate research.",
+      "url": "https://www.umassd.edu/programs/electrical-engineering-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "A limited number of graduate assistantships are available on a competitive basis.",
+      "quote": "A limited number of assistantships are available on a competitive basis. This award is subject to the work needs of the position and department, your satisfactory performance of duties, your academic record, and availability of funds, and may be subject to change.",
+      "url": "https://www.umassd.edu/programs/electrical-engineering-phd/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Encourages both master's holders (min. 18 credits beyond MS) and direct bachelor's holders in EE, CompE, or a closely related discipline (min. 48 credits beyond BS, exclusive of dissertation research).",
+      "quote": "Students possessing a master's degree and a strong academic background in electrical engineering, computer engineering, or similar disciplines are encouraged to apply. | While most students admitted to the doctoral program hold a master’s degree, applicants with a bachelor’s degree in electrical engineering, computer engineering, or a closely related discipline are also encouraged to apply for direct admission to the PhD program.",
+      "url": "https://www.umassd.edu/programs/electrical-engineering-phd/"
+    }
+  },
+  "notes": "Offers two formal Ph.D. options: Electrical Engineering and Computer Engineering (catalog poid=12719).",
+  "name": "Electrical Engineering Ph.D. (and Computer Engineering Option)"
+}
