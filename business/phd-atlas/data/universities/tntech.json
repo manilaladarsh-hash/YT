@@ -1,0 +1,65 @@
+{
+  "id": "tntech",
+  "institution": "Tennessee Technological University",
+  "country": "USA",
+  "region": "Tennessee",
+  "grad_page": "https://www.tntech.edu/graduatestudies/admissions/requirements.php",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "40 USD",
+      "value": "Nonrefundable graduate application fee is $40.00 for international applicants ($35.00 for domestic applicants).",
+      "quote": "The current rate for the nonrefundable graduate application fee is $35.00 for domestic applicants and $40.00 for international applicants.",
+      "url": "https://www.tntech.edu/graduatestudies/admissions/requirements.php"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Domestic applicants starting a new application between May 1 and May 31 have the $35 fee waived; no waiver is offered for international applicants ($40 fee is not waived).",
+      "quote": "If you are a domestic student and start a new admissions application between May 1 and May 31, we will waive the application fee of $35.",
+      "url": "https://www.tntech.edu/graduatestudies/admissions/requirements.php",
+      "also": [
+        {
+          "quote": "Fill out our online application and submit your application fee of $35 ($40 for international students). We do not waive this fee.",
+          "url": "https://www.tntech.edu/graduatestudies/admissions/apply.php"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Defined by each major department/college; see individual program records (required for Engineering concentrations except TTU B.S. alumni, waived for Computer Science Ph.D. and Environmental Sciences Ph.D., and listed for Arts & Sciences in catalog procedures though omitted from Integrative Biology Ph.D. checklist).",
+      "quote": "",
+      "url": "https://www.tntech.edu/graduatestudies/admissions/requirements.php"
+    },
+    "toefl_min": {
+      "code": "3.5 (new scale)",
+      "value": "Baseline TOEFL minimum is 3.5 on the new 2026 scale (71 iBT prior scale) for Biology and Environmental Sciences Biology; Engineering, Computer Science, and Environmental Sciences Chemistry require 4.0 (79 iBT) — see program overrides.",
+      "quote": "Normally, it is expected that an applicant will submit a score of at least 3.5 on the Test of English as a Foreign Language (TOEFL) or base score of 6.0 on the International English Language Testing System (IELTS) or 48 on the Pearson Test of English-Academic (PTE-A).",
+      "url": "https://grad.catalog.tntech.edu/admission/international",
+      "also": [
+        {
+          "quote": "Biology; MPS; and Environmental Sciences Biology (Ph.D.) | 71 iBT 3.5(Effective 1/21/26)",
+          "url": "https://www.tntech.edu/graduatestudies/admissions/international-documentation.php"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "Minimum IELTS overall band score of 6.0 (or Duolingo 100, PTE-A 48/53, or ELS Level 112).",
+      "quote": "Normally, it is expected that an applicant will submit a score of at least 3.5 on the Test of English as a Foreign Language (TOEFL) or base score of 6.0 on the International English Language Testing System (IELTS) or 48 on the Pearson Test of English-Academic (PTE-A).",
+      "url": "https://grad.catalog.tntech.edu/admission/international",
+      "also": [
+        {
+          "quote": "Minimum Passing Scores | Test | Minimum Score | IELTS | 6.0",
+          "url": "https://www.tntech.edu/graduatestudies/admissions/international-documentation.php"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Letters of Medium of Instruction are not accepted as proof of English proficiency, and India is not among the exempt countries listed where English is an official language.",
+      "quote": "We do not recognize a letter of Medium of Instruction as proof of English proficiency. If you are from one of the following countries where English is one of the official languages, an English proficiency exam is not required:",
+      "url": "https://www.tntech.edu/graduatestudies/admissions/international-documentation.php"
+    }
+  },
+  "notes": "Public R2 technological university in Cookeville, Tennessee. International Fall 2027 application deadline is May 1, 2027 (documents due June 1). TOEFL scores transitioned on 1/21/26 to the new 1-6 scale (3.5 = 71 iBT; 4.0 = 79 iBT). Graduate Research and Teaching Assistantships provide in-state tuition remission, cover most fees, and pay a monthly stipend."
+}
