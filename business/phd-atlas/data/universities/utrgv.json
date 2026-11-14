@@ -1,0 +1,53 @@
+{
+  "id": "utrgv",
+  "institution": "The University of Texas Rio Grande Valley",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://www.utrgv.edu/admissions/graduate/index.htm",
+  "checked": "2026-11-14",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "Most UTRGV graduate programs—including all 5 STEM Ph.D. programs—do not require an application fee (only six health-professions programs charge $50 domestic / $100 international).",
+      "quote": "Most of our graduate programs currently do not require an application fee. | Below is a list of the programs with an application fee: Communication Sciences and Disorders (COMD) Family Nurse Practitioner (Post Master's Certificate) Occupational Therapy (OTD) Physician Assistant Studies (MPAS) Physical Therapy (DPT) Psychiatric/Mental Health Nurse Practitioner Certificate Program",
+      "url": "https://www.utrgv.edu/admissions/graduate/resources/grad-application-fee/index.htm"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No application fee is charged for UTRGV STEM Ph.D. programs, so no fee waiver is needed.",
+      "quote": "Most of our graduate programs currently do not require an application fee.",
+      "url": "https://www.utrgv.edu/admissions/graduate/resources/grad-application-fee/index.htm"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE General requirements and waivers vary by department (required with GPA waivers for CS and Materials Science & Engineering; optional for Physics; unstated for Human Genetics and Mathematics & Statistics).",
+      "quote": "",
+      "url": "https://www.utrgv.edu/admissions/graduate/resources/gre-gmat-exams/index.htm"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Minimum TOEFL score is 79 Internet-Based (550 Paper-Based, 213 Computer-Based; or 8.5 TOEFL Essentials; Duolingo 105; PTE Academic 45); institution code 6570.",
+      "quote": "TOEFL (Test of English as a Foreign Language) Paper-Based: 550 Computer-Based: 213 Internet-Based: 79",
+      "url": "https://www.utrgv.edu/admissions/graduate/resources/english-proficiency-exam/index.htm"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic overall score is 6.5.",
+      "quote": "IELTS (International English Language Testing System): 6.5",
+      "url": "https://www.utrgv.edu/admissions/graduate/resources/english-proficiency-exam/index.htm"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "An English-medium degree from India does not waive the English proficiency exam under UTRGV's country table (India: English Test Required = Yes); exemptions require an exempt country, 30 credit hours in an exempt country, or UTRGV ELP Advanced Level.",
+      "quote": "Country English Test Required Minimum Degree | India Yes 4-year bachelor; 3-year bachelor + master or 3-year bachelor + post-grad diploma",
+      "url": "https://www.utrgv.edu/admissions/graduate/how-to-apply/international/index.htm",
+      "also": [
+        {
+          "quote": "Visit the English Proficiency Exam and Degree Requirements by Country page to check if your country qualifies for an exemption. | Completion of at least 30 credit hours of university-level coursework in an exempt country.",
+          "url": "https://www.utrgv.edu/admissions/graduate/resources/english-proficiency-exam/index.htm"
+        }
+      ]
+    }
+  },
+  "notes": "UTRGV lists 8 Ph.D. programs officially: 5 STEM Ph.D. programs covered here (Computer Science with Interdisciplinary Applications, Human Genetics, Materials Science and Engineering, Mathematics and Statistics with Interdisciplinary Applications, and Physics) plus 3 non-STEM Ph.D.s excluded (Business Administration, Clinical Psychology, Rehabilitation Counseling). International applicants must submit a course-by-course foreign credential evaluation (WES, FCSA, SPANTRAN, or IEE)."
+}
