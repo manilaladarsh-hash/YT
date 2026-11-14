@@ -494,4 +494,5 @@ Commit: 7c5f0815
 2026-11-14 | CARD 4B | ntusg | added Nanyang Technological University, Singapore (13 STEM PhD programs covering 17 of 18 fields: cs [+datasci], chemistry, chemeng [+bme], civil, ece, mech, materials, biology, math [+statistics], physics, environment [+earth], biomed, neuro; no standalone Astronomy PhD) | Not stated 21% (8926/42867)
 2026-11-14 | CARD 7 | Refreshed business docs (383 of 391 universities, 3897 programs, 18 fields, Not stated 21% [8926/42867]; product/build.py built 2.02 MB explorer + ZIP; pytest 22 passed, 2 skipped [soffice absent])
 2026-11-14 | CARD 4 | umdearborn | added University of Michigan-Dearborn (3 Rackham STEM PhD programs: cs [+datasci], ece, mech [+bme, materials]; Industrial & Systems Engineering Ph.D. noted; 2 D.Eng. & Ed.D. excluded) | Not stated 21% (8926/42900)
+2026-11-14 | CARD 4B | cuhk | added The Chinese University of Hong Kong (16 STEM PhD programs: cs, datasci [SEEM], ece [GRE General Recommended], mech, bme, materials, physics, astronomy, math, statistics, chemistry, biology, environment, earth [2027-01-31 regular], biomed, neuro [Psychology]; no Civil/ChemEng PhD) | Not stated 21% (8964/43076)
 

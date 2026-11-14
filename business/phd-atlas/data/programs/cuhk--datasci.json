@@ -1,0 +1,49 @@
+{
+  "id": "cuhk--datasci",
+  "university": "cuhk",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "Faculty of Engineering — Department of Systems Engineering and Engineering Management",
+  "program_page": "https://www.se.cuhk.edu.hk/programmes/postgraduate-programmes/research-postgraduate-programmes/qualifications-for-admission/",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Main Round and HKPFS application deadline for 2027-28 entry is December 1, 2026 (Clearing Round: March 31, 2027, subject to availability).",
+      "quote": "Main Round: 1 December 2026",
+      "url": "https://www.gs.cuhk.edu.hk/programmes/engineering/mphil-phd-systems-engineering-and-engineering-management",
+      "time_sensitive": "2026-12-01"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers GRE Subject Tests only in Mathematics, Physics, and Psychology (none in this field).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Department qualifications page does not state a pre-application supervisor contact requirement.",
+      "quote": "",
+      "url": "https://www.se.cuhk.edu.hk/programmes/postgraduate-programmes/research-postgraduate-programmes/qualifications-for-admission/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All full-time MPhil and PhD students receive financial support (HK$19,100/month Postgraduate Studentship for regular students, HK$28,700/month under HKPFS).",
+      "quote": "All full-time M.Phil. and Ph.D. students receive fnancial support.",
+      "url": "https://www.se.cuhk.edu.hk/programmes/postgraduate-programmes/research-postgraduate-programmes/m-phil-ph-d-programme-finanical-aid/",
+      "also": [
+        {
+          "quote": "Annual studentship for 2026-27 is HK$229,200 (approx. US$29,400). Payable during the normative period of study.",
+          "url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/studentships"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admits master's holders as well as exceptional candidates with a bachelor's degree directly to the PhD programme (or MPhil-PhD articulated stream).",
+      "quote": "Exceptional candidates with a bachelor degree may apply directly to the Ph.D. Programme.",
+      "url": "https://www.se.cuhk.edu.hk/programmes/postgraduate-programmes/research-postgraduate-programmes/qualifications-for-admission/"
+    }
+  },
+  "notes": "SEEM covers operations research, data analytics, AI/machine learning, financial engineering, and systems engineering. Note verbatim source spelling 'fnancial' on the SEEM financial aid page. Related data science and AI PhD training is also offered by the Department of Statistics and Data Science (statistics), CSE (cs), and Information Engineering."
+}
