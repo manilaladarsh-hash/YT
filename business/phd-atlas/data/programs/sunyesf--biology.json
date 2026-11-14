@@ -1,0 +1,55 @@
+{
+  "id": "sunyesf--biology",
+  "university": "sunyesf",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Environmental Biology",
+  "program_page": "https://www.esf.edu/biology/graduate/degrees.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Apply by January 15, 2027 for Fall funding/assistantship consideration (general Fall target deadline is April 30; Spring target is November 1 for funding and December 15 final).",
+      "quote": "While the following dates are particularly important for applicants wishing to be considered for fellowships, assistantships, and other forms of financial assistance, ESF will continue to accept and fully consider graduate applications beyond each of the noted deadlines: Application Target Dates ... PhD & MS Fall January 15 April 30",
+      "url": "https://www.esf.edu/graduate/prospective/admission.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE General Test is optional for Environmental Biology Ph.D. admission and is used for funding/Graduate Assistantship considerations.",
+      "quote": "Graduate Record Examination (GRE) ... Environmental Biology ... M.S., Ph.D. Optional, used for funding/GA considerations",
+      "url": "https://www.esf.edu/graduate/prospective/admission.php"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS discontinued the GRE Biology Subject Test in May 2021; the department states no subject test requirement.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Initial pre-application contact with potential Major Professors is highly recommended though not strictly required to apply, but admission requires an agreement by one or more faculty members to serve as major professor.",
+      "quote": "Although initial contact with potential Major Professors is highly recommended, it is not a requirement. ... After consideration of all aspects of a graduate application including an agreement by one or more professors to serve as major professor, the EB faculty recommends or denies admission",
+      "url": "https://www.esf.edu/biology/graduate/prospective-message.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Doctoral research is often funded through extramural grants to the major professor, alongside Graduate Assistantships (typically $22,000 academic-year stipend plus tuition scholarship up to 10 credits/semester) and departmental fellowships.",
+      "quote": "Research activity is often funded through extramural grants to the student’s major professor. Abundant opportunities exist to gain teaching experience during the doctoral program.",
+      "url": "https://www.esf.edu/biology/graduate/degrees.php",
+      "also": [
+        {
+          "quote": "Doctoral stipends are typically $22,000 (based on 20 hours per week per academic year). Award includes a tuition scholarship up to 10 credit hours per semester",
+          "url": "https://www.esf.edu/graduate/funding/esf-graduate-funding-sources.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Direct entry from a bachelor's degree or following a master's degree (60 total credits required for the Ph.D.).",
+      "quote": "The doctor of philosophy degree may be pursued directly from the bachelor’s level, or following a master's degree program.",
+      "url": "https://www.esf.edu/biology/graduate/degrees.php"
+    }
+  },
+  "notes": "Environmental Biology Ph.D. (CIP 261307) with research areas in Aquatic & Fisheries Science, Chemical Ecology, Conservation Biology, Ecology & Evolution, Entomology, Environmental Biotechnology, Microbiology, Molecular Biology & Ecology, Mycology & Forest Pathology, Plant Science, Wildlife Ecology & Management, and Indigenous Peoples & the Environment."
+}

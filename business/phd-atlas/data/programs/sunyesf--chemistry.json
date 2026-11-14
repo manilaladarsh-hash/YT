@@ -1,0 +1,71 @@
+{
+  "id": "sunyesf--chemistry",
+  "university": "sunyesf",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.esf.edu/chemistry/graduate/index.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Target date for Fall admission and full consideration is January 15, 2027 (Spring target date is November 1); ESF Graduate School final Fall target date is April 30.",
+      "quote": "Application Target Dates Semester of Matriculation Application Target Dates * Fall January 15 Spring November 1 *These dates are not deadlines, but if you apply by these dates, we guarantee to fully consider your application.",
+      "url": "https://www.esf.edu/chemistry/graduate/admissions.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE General Test is not required for admission to the Environmental and Forest Chemistry Ph.D. program.",
+      "quote": "Graduate Record Examination (GRE) ... Chemistry Program Degree Is the GRE Required for Admission? Environmental & Forest Chemistry M.S., M.P.S., Ph.D. No",
+      "url": "https://www.esf.edu/graduate/prospective/admission.php"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "ESF's 2025-2026 Academic Catalog lists the Chemistry GRE Subject Test (and Biology for Biochemistry) as recommended, though ETS discontinued the Biology Subject Test in May 2021 and the Chemistry Subject Test in May 2023.",
+      "quote": "Graduate Record Exam Subject Tests Subject tests are recommended by the following programs: Graduate Program Subject Test Environmental and forest chemistry Chemistry - recommended Biochemistry area of study within environmental and forest chemistry Chemistry or Biology - recommended",
+      "url": "https://www.esf.edu/catalog/2025-2026/admission.php",
+      "also": [
+        {
+          "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+          "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Prospective students are advised to contact Chemistry faculty prior to applying to discuss study and research opportunities; a temporary advisor is appointed if admitted without a major professor.",
+      "quote": "individuals who are interested in applying for graduate study should contact ESF faculty to discuss degree programs and learn about specific opportunities for study and research at ESF.",
+      "url": "https://www.esf.edu/graduate/prospective/admission.php"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Ph.D. students are usually supported in years 1-2 via Teaching Assistantships and typically via research grants or fellowships in summers and later years ($20,000+ calendar-year stipend, tuition waiver, and health benefits; all newly admitted students are considered for GA funding).",
+      "quote": "With a teaching or research assistantship, PhD students receive tuition waivers and stipends. Students are usually supported during their first and second academic year as teaching assistants. Students are typically supported by research grants or fellowships during summers, and in subsequent academic years. ... PhD students should earn $20,000 per calendar year.",
+      "url": "https://www.esf.edu/chemistry/graduate/faq.php",
+      "also": [
+        {
+          "quote": "PhD students are eligible for graduate assistantships which include a $20,000 stipend, tuition scholarship, and excellent health benefits.",
+          "url": "https://www.esf.edu/chemistry/graduate/index.php"
+        },
+        {
+          "quote": "All newly admitted chemistry graduate students are considered for graduate assistant funding.",
+          "url": "https://www.esf.edu/graduate/funding/esf-graduate-funding-sources.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Direct entry from an earned bachelor's degree (at least a B average in junior/senior years) with strong chemistry preparation including analytical and physical chemistry.",
+      "quote": "Transcripts of an earned bachelor's degree from a recognized institution with an academic record showing at least a \"B\" average for junior and senior years of the baccalaureate program or for the master's program",
+      "url": "https://www.esf.edu/graduate/prospective/admission.php",
+      "also": [
+        {
+          "quote": "a strong background in chemistry, including at least one course in analytical chemistry and one in physical chemistry",
+          "url": "https://www.esf.edu/chemistry/graduate/admissions.php"
+        }
+      ]
+    }
+  },
+  "notes": "Environmental and Forest Chemistry Ph.D. (CIP 400509) with specializations in Biochemistry, Environmental Chemistry, Organic Chemistry of Natural Products, Polymer Chemistry, and joint Chemical Ecology (with Environmental Biology)."
+}

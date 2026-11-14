@@ -1,0 +1,53 @@
+{
+  "id": "sunyesf",
+  "institution": "SUNY College of Environmental Science and Forestry",
+  "country": "USA",
+  "region": "New York",
+  "grad_page": "https://www.esf.edu/graduate/prospective/admission.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "Nonrefundable $60 (US) application fee is required for graduate applicants.",
+      "quote": "A nonrefundable $60(US) application fee",
+      "url": "https://www.esf.edu/graduate/prospective/admission.php"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Application fee waivers are limited to domestic/qualifying service pathways such as the Sloan Indigenous Graduate Partnership (U.S. citizens, permanent residents, and Jay Treaty-eligible applicants) and SUNY's AmeriCorps alumni waiver; no general international fee waiver is published.",
+      "quote": "Applications will be reviewed for all U.S. citizens and permanent residents admitted to a residential master's or PhD program at the State University of New York College of Environmental Science and Forestry ... Your application fee and GRE requirement will be waived.",
+      "url": "https://www.esf.edu/nativepeoples/graduate-partnership/faq.php",
+      "also": [
+        {
+          "quote": "SUNY has enacted a System-wide college application fee waiver for AmeriCorps alumni",
+          "url": "https://www.esf.edu/news/2023/SUNY_americorps_waiver.php"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each program; see individual program records (not required for Chemical Engineering, Chemistry, and Sustainable Resources Management; optional for funding consideration in Environmental Biology and Environmental Science; required with faculty-endorsed waiver option in Environmental Resources Engineering).",
+      "quote": "",
+      "url": "https://www.esf.edu/graduate/prospective/admission.php"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Minimum TOEFL iBT score of 80 with no individual component below 17 (or 4 on the new scale for exams after January 2026); MyBest TOEFL scores are accepted.",
+      "quote": "TOEFL (internet-based) ... 80 (no individual component < 17) ... Note: SUNY ESF accepts MyBest TOEFL scores for both undergraduate and graduate admissions.",
+      "url": "https://www.esf.edu/admissions/apply/international-students/index.php"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "Minimum IELTS overall band score of 6.0 with at least 5 in Writing (Duolingo English Test 105 is also accepted).",
+      "quote": "IELTS ... Total: 6.0 (with no less than 5 in Writing)",
+      "url": "https://www.esf.edu/admissions/apply/international-students/index.php"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "English proficiency test may be waived with completion of at least two years of college academic studies (not ESL) at an institution where courses were taught in English, or at least one semester at SUNY ESF.",
+      "quote": "Previous college-level instruction in English ... Completion of at least two years of college (academic studies, not English language instruction) at an institution where the courses were taught in English. Successful completion of at least one semester at SUNY ESF",
+      "url": "https://www.esf.edu/admissions/apply/international-students/index.php"
+    }
+  },
+  "notes": "SUNY ESF is a specialized environmental science, engineering, and forestry doctoral institution in Syracuse, NY. Ph.D. programs share Graduate School target dates (January 15 for Fall funding consideration; April 30 Fall target) while setting GRE rules by department."
+}

@@ -1,0 +1,63 @@
+{
+  "id": "sunyesf--chemeng",
+  "university": "sunyesf",
+  "field": "chemeng",
+  "also_fields": [
+    "materials"
+  ],
+  "department": "Department of Chemical Engineering",
+  "program_page": "https://www.esf.edu/chemeng/graduate.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Apply by January 15, 2027 for Fall funding/assistantship consideration (general Fall target deadline is April 30; Spring target is November 1 for funding and December 15 final).",
+      "quote": "While the following dates are particularly important for applicants wishing to be considered for fellowships, assistantships, and other forms of financial assistance, ESF will continue to accept and fully consider graduate applications beyond each of the noted deadlines: Application Target Dates ... PhD & MS Fall January 15 April 30",
+      "url": "https://www.esf.edu/graduate/prospective/admission.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE General Test is not required for admission to the Bioprocess Engineering or Paper Science and Engineering Ph.D. programs.",
+      "quote": "Graduate Record Examination (GRE) To find out the GRE requirement for intended program, please review the GRE Requirements by Program and Degree chart below: Chemical Engineering Program Degree Is the GRE Required for Admission? Bioprocess Engineering M.S., M.P.S., Ph.D No ... Paper Science & Engineering M.S., M.P.S., Ph.D. No",
+      "url": "https://www.esf.edu/graduate/prospective/admission.php"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS does not offer a GRE Subject Test in Chemical Engineering.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Prospective applicants are encouraged to contact Chemical Engineering faculty before applying to discuss research projects and available positions; Ph.D. research is conducted under a major professor.",
+      "quote": "Students interested in the degree program are encouraged to reach out to faculty to discuss possible research projects and available graduate student positions.",
+      "url": "https://www.esf.edu/academics/graduate/bioprocessengineering.php",
+      "also": [
+        {
+          "quote": "An important component of the M.S. and Ph.D. graduate programs is research under direction of a major professor.",
+          "url": "https://www.esf.edu/chemeng/graduate.php"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "All Ph.D. applicants without external support who indicate interest to a major professor, chair, or coordinator are considered for Graduate Assistantships (typically $22,000 academic-year stipend plus tuition scholarship up to 10 credits/semester), Research Project Assistantships, or fellowships.",
+      "quote": "Doctoral stipends are typically $22,000 (based on 20 hours per week per academic year). Award includes a tuition scholarship up to 10 credit hours per semester ... The department considers all graduate students for funding as long as they are not supported by external sources",
+      "url": "https://www.esf.edu/graduate/funding/esf-graduate-funding-sources.php",
+      "also": [
+        {
+          "quote": "The department enjoys excellent external support in the form of graduate assistantships, fellowships, research assistantships, and support from industry as well as a number of governments granting agencies.",
+          "url": "https://www.esf.edu/chemeng/graduate.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Direct entry from a bachelor's degree in science or engineering (with coursework in physics, chemistry, calculus, and biology); up to 30 credits from a conferred master's may transfer toward the 60-credit Ph.D.",
+      "quote": "The Doctor of Philosophy (PhD) is a thesis degree program. The program requires 60 total credits. ... Applicants to all programs of study are required to have a bachelor’s degree in science or engineering and are expected to have completed college level courses in physics, chemistry, calculus, and biology.",
+      "url": "https://www.esf.edu/academics/graduate/bioprocessengineering.php"
+    }
+  },
+  "notes": "Covers Ph.D. options in Bioprocess Engineering (CIP 140501, including biocomposite materials, biopolymers, and nanocomposites) and Paper Science and Engineering (CIP 144001)."
+}
