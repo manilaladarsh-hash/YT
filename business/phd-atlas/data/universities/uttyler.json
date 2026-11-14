@@ -1,0 +1,59 @@
+{
+  "id": "uttyler",
+  "institution": "The University of Texas at Tyler",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://www.uttyler.edu/admissions-aid/graduate/",
+  "checked": "2026-11-14",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "Graduate application fee is $75 nonrefundable for international applicants ($50 for domestic applicants).",
+      "quote": "The graduate application fee is $50 for domestic and $75 for international applications.",
+      "url": "https://www.uttyler.edu/admissions-aid/graduate/application-fee/",
+      "also": [
+        {
+          "quote": "Pay the $75 nonrefundable application fee.",
+          "url": "https://www.uttyler.edu/admissions-aid/international/"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Application fee is waived only for returning UT Tyler students, active duty U.S. military and veterans, full-time UT Tyler faculty/staff, and McNair Scholars.",
+      "quote": "The application fee is currently waived for returning students, active duty US military and veterans, full-time faculty/staff, and McNair Scholars.",
+      "url": "https://www.uttyler.edu/admissions-aid/graduate/application-fee/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Entrance exam requirements vary by graduate program (most programs desire GRE 290-300, some do not require an exam, and others offer waivers). Integrated Biomedical Sciences Ph.D. requires the GRE General Test.",
+      "quote": "",
+      "url": "https://www.uttyler.edu/admissions-aid/graduate/"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Minimum TOEFL score is 79 (iBT) or 550 (pBT) for general graduate admission (87 iBT required for graduate psychology and counseling programs).",
+      "quote": "TOEFL – 79 (iBT) or 550 (pBT)",
+      "url": "https://www.uttyler.edu/admissions-aid/international/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS overall band score of 6.5 with at least 6.0 in each subsection (7.0 overall / 6.5 subsection for graduate psychology and counseling).",
+      "quote": "IELTS – 6.5 band score with 6.0 in each subsection",
+      "url": "https://www.uttyler.edu/admissions-aid/international/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "An English-medium degree from India does not waive TOEFL/IELTS; exemptions require a U.S. degree, ENGL 1301/1302 with B+, UT Tyler Intensive English Language Institute Level 6/7, or citizenship/degree from listed countries (India is omitted).",
+      "quote": "Applicants from one of the following countries or those who have earned a bachelor’s, master’s, doctoral or professional degree from one of the following countries are exempt from the TOEFL or IELTS requirement. Official transcripts are required for confirmation.",
+      "url": "https://www.uttyler.edu/admissions-aid/international/",
+      "also": [
+        {
+          "quote": "Applicants who have completed a high school diploma, associate, bachelor’s, master’s, doctoral or professional degree from a U.S. academic institution are not required to submit English proficiency test scores.",
+          "url": "https://www.uttyler.edu/admissions-aid/international/"
+        }
+      ]
+    }
+  },
+  "notes": "UT Tyler's official doctoral programs list names 4 Ph.D. programs: Integrated Biomedical Sciences (School of Medicine, covered as biomed), Clinical Psychology (excluded), Human Resource Development (excluded), and Nursing (excluded), plus Ed.D., DNP, Pharm.D., and M.D. International applicants with foreign transcripts must submit a course-by-course NACES evaluation."
+}

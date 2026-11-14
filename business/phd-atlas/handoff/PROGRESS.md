@@ -482,3 +482,5 @@ Commit: 7c5f0815
 2026-11-14 | CARD 4 | tamuk | added Texas A&M University-Kingsville (6 STEM PhD programs: chemeng, civil, ece, mech, environment, biology [Wildlife & Rangeland Science, also environment]) | Not stated 21% -> 21%
 2026-11-14 | CARD 7 | Refreshed business docs (373 universities, 3830 programs, 18 fields, Not stated 21%; Free Sample PDF + store/launch copy refreshed; Playbook/START-HERE/ZIP & pdftotext tests pending Linux/pandoc/poppler)
 2026-11-14 | CARD 4 | tsu | added Texas Southern University (2 STEM PhD programs: biomed [Pharmaceutical Sciences], environment [Environmental Toxicology]; Urban Planning & Environmental Policy excluded) | Not stated 21% -> 21%
+2026-11-14 | CARD 4 | uttyler | added The University of Texas at Tyler (1 STEM PhD program: biomed [Integrated Biomedical Sciences]; Clinical Psychology, HRD, Nursing excluded) | Not stated 21% -> 21%
+
