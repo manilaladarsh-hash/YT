@@ -1,0 +1,53 @@
+{
+  "id": "uwf",
+  "institution": "The University of West Florida",
+  "country": "USA",
+  "region": "Florida",
+  "grad_page": "https://uwf.edu/graduate/",
+  "checked": "2026-11-14",
+  "fields": {
+    "app_fee": {
+      "code": "30 USD",
+      "value": "Non-refundable $30 graduate application processing fee (transferable once within 3 semesters). Separately, international applicants confirming admission to an on-campus program and requesting an I-20 must pay a $200 non-refundable enrollment deposit prior to I-20 issuance.",
+      "quote": "The application for graduate admission and a nonrefundable $30 processing fee payable to the University of West Florida should be submitted six to nine months prior to the semester for which admission is requested.",
+      "url": "https://uwf.edu/graduate/international/",
+      "also": [
+        {
+          "quote": "A $200 non-refundable admission deposit will be required for international graduate student applicants seeking an on-campus program who confirm their admission and request a Form I-20. This fee must be paid prior to issuing the I-20.",
+          "url": "https://catalog.uwf.edu/graduate/admissions/internationaladmissions/"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "UWF policy does not waive the $30 graduate application processing fee.",
+      "quote": "It is the policy of the University not to waive the application processing fee.",
+      "url": "https://uwf.edu/graduate/international/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each graduate program; see the program record (UWF's sole Ph.D. has conflicting GRE General statements across official pages).",
+      "quote": "",
+      "url": "https://catalog.uwf.edu/graduate/admissions/admissionpolicies/"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "Minimum TOEFL score is 4.5 on the new scale for exams taken on or after January 21, 2026 (79 for exams taken before January 21, 2026); individual departments may require higher scores.",
+      "quote": "Test of English as a Foreign Language (TOEFL: For exams taken before January 21, 2026): 79 | Test of English as a Foreign Language (TOEFL: For exams taken on or after January 21, 2026): 4.5",
+      "url": "https://catalog.uwf.edu/graduate/admissions/internationaladmissions/"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "Minimum IELTS score is 6.0; individual departments may require higher scores.",
+      "quote": "International English Language Testing System (IELTS): 6.0",
+      "url": "https://catalog.uwf.edu/graduate/admissions/internationaladmissions/"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "Official UWF sources conflict on English-medium degrees outside primary-English countries: the 2026-2027 Graduate Catalog and UWF/REG-3.042 (amended June 18, 2026) exempt a prior bachelor's, master's, or doctoral degree 'from a university at which English is the official language of instruction', whereas Graduate Admissions' International webpage requires an approved test unless the applicant's native language is English, primary country language is English, or they hold a regionally accredited U.S. bachelor's degree.",
+      "quote": "",
+      "url": "https://catalog.uwf.edu/graduate/admissions/internationaladmissions/"
+    }
+  },
+  "notes": "UWF offers one research Ph.D. (Intelligent Systems & Robotics, Ph.D.; the other two doctorates are online Ed.D. degrees in Curriculum & Instruction and Instructional & Performance Technology). International applicants with non-U.S. credentials must submit an official course-by-course credential evaluation from a UWF-approved agency (or check with the department for internal evaluation). Conflict on english_waiver: https://catalog.uwf.edu/graduate/admissions/internationaladmissions/ and UWF/REG-3.042 allow a degree from a university where English is the official language of instruction, while https://uwf.edu/graduate/international/ omits that exemption."
+}
