@@ -1,0 +1,65 @@
+{
+  "id": "tamuk",
+  "institution": "Texas A&M University-Kingsville",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://www.tamuk.edu/enrollment-management/admission/graduate/international.html",
+  "checked": "2026-11-14",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "International graduate applicants pay a nonrefundable $75 USD application fee ($50 USD for domestic applicants).",
+      "quote": "$75 application fee.",
+      "url": "https://www.tamuk.edu/enrollment-management/admission/graduate/international.html",
+      "also": [
+        {
+          "quote": "$75 Non-refundable Application Fee.",
+          "url": "https://catalog.tamuk.edu/graduate/admission/requirements/"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "University graduate admissions pages do not state any application fee waiver policy for international applicants (and Civil and Architectural Engineering states it cannot waive the fee).",
+      "quote": "",
+      "url": "https://www.tamuk.edu/enrollment-management/admission/graduate/international.html"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "University graduate policy requires GRE General scores (school code 6822, within 5 years) unless waived by the program; all Frank H. Dotterweich College of Engineering Ph.D. programs do not require the GRE (overridden at the program level).",
+      "quote": "Students applying for other graduate programs must submit the Graduate Record Exam (GRE; Code#6822)",
+      "url": "https://www.tamuk.edu/enrollment-management/admission/graduate/international.html",
+      "also": [
+        {
+          "quote": "Have an official Graduate Record Examination score or other program specific entrance exam taken within the last five years.",
+          "url": "https://catalog.tamuk.edu/graduate/graduate-studies/doctoral/"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "University minimum is 4 on the new TOEFL iBT scale for tests taken after January 21, 2026 (or 79 on the traditional iBT / 550 paper-based scale).",
+      "quote": "A score of 79 (internet-based) or a 4 or higher on test taken past January 21, 2026 is the university minimum requirement for all graduate students.",
+      "url": "https://www.tamuk.edu/enrollment-management/admission/graduate/international.html",
+      "also": [
+        {
+          "quote": "a minimum TOEFL score of 550 (paper-based), 213 (computer-based), or 79 (internet-based).",
+          "url": "https://catalog.tamuk.edu/graduate/admission/requirements/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "University minimum is IELTS 6.0 overall band score, submitted electronically by the IELTS test center.",
+      "quote": "The minimum score required is a 6.0 overall band score. Texas A&M University-Kingsville only accepts scores submitted electronically by the IELTS test center.",
+      "url": "https://www.tamuk.edu/enrollment-management/admission/graduate/international.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on TAMUK's list of exempt English-speaking countries; Indian applicants need TOEFL (79 / 4), IELTS (6.0), PTE (53), Duolingo (100), GRE Verbal >= 146, at least 12 graded U.S./exempt-country credits (C or better), or TAMUK ELTC / TIEC TIEP completion.",
+      "quote": "All international students are required to take one of the above english proficiency tests unless they qualify for a waiver. | Students who have completed their entire formal education at the secondary or postsecondary level in the following countries are exempt from the TOEFL requirement: | Based on the review and decision of the College of Graduate Studies, students who have earned at least 12 credits, with a grade C or better, in university-level courses from a U.S. institution or an institution in one of the countries listed above, may be exempt from TOEFL.",
+      "url": "https://www.tamuk.edu/enrollment-management/admission/graduate/international.html"
+    }
+  },
+  "notes": "Public R2 university in Kingsville, Texas (Texas A&M University System). Offers 3 STEM Ph.D. degrees represented by 6 Atlas records: Engineering, Ph.D. (Chemical, Civil, Electrical, and Mechanical Engineering specializations; Sustainable Energy Engineering specialization has no separate Atlas field), Environmental Engineering, Ph.D. (including the Environmental Sustainability and Resilience track), and Wildlife and Rangeland Science, Ph.D. (mapped to biology with also_fields=['environment']). Excludes Horticulture, Cooperative Ph.D. (degree awarded by and applied through Texas A&M University), Hispanic Studies Cooperative Ph.D., and Ed.D. programs."
+}

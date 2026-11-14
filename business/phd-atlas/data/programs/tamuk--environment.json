@@ -1,0 +1,56 @@
+{
+  "id": "tamuk--environment",
+  "university": "tamuk",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Wayne H. King Department of Chemical and Environmental Engineering",
+  "program_page": "https://www.tamuk.edu/engineering/departments/chev/Environmental_Engineering/Graduate/Ph.D-Environmental-Engineering.html",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-01",
+      "value": "International graduate application deadline for Fall entry is June 1, 2027 (apply earlier for assistantship/fellowship consideration; financial aid priority deadline is January 15).",
+      "quote": "Fall applications must be submitted by June 1",
+      "url": "https://www.tamuk.edu/enrollment-management/admission/graduate/international.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "Effective Summer 2024 onwards, the Frank H. Dotterweich College of Engineering does not require the GRE for graduate admissions (superseding older departmental catalog/webpage text).",
+      "quote": "effective Summer 2024 onwards | GRE: GRE is not required for admissions.",
+      "url": "https://www.tamuk.edu/engineering/deansoffice/Graduate-Admission-Requirements.html"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics, and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Contacting faculty and the Doctoral Graduate Coordinator is recommended; for direct B.S.-to-Ph.D. admission, a faculty member must be willing to advise the student (otherwise admission is conditional on earning an M.S. degree).",
+      "quote": "Student must have faculty willing to advise the student; otherwise, the student would be provisionally admitted into the Ph.D. program with a condition that they obtain an M.S. degree.",
+      "url": "https://catalog.tamuk.edu/graduate/graduate-studies/doctoral-engineering/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Competitive TA, RA, and fellowship support is available through faculty grants and department/graduate resources; for direct B.S.-to-Ph.D. admission, faculty supervisor funding guarantees admission.",
+      "quote": "If a faculty member agrees to supervise and fund a student, the student should be admitted. | who has received any form of support from TAMUK (e.g., TA, RA, fellowship, etc.)",
+      "url": "https://catalog.tamuk.edu/graduate/graduate-studies/doctoral-engineering/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Minimum requirement is a baccalaureate degree; M.S. entrants complete 63 credits (or reduced coursework for TAMUK Environmental Engineering M.S. graduates), while direct B.S.-to-Ph.D. entrants complete 93 credits.",
+      "quote": "Students must hold a minimum of a baccalaureate degree | Specific Admission Requirements for Direct B.S. to Ph.D. Route | A direct admit Ph.D. student is required to complete a total of 93 credits, including at least 42 credits of didactic coursework to fulfill the degree requirements.",
+      "url": "https://catalog.tamuk.edu/graduate/graduate-studies/doctoral-engineering/",
+      "also": [
+        {
+          "quote": "Completion of a minimum of 63 credit hours: 24 to 36 credit hours of classroom graduate-level courses, 6 credit hours of graduate seminar, and 21 to 33 credit hours of research.",
+          "url": "https://www.tamuk.edu/engineering/departments/chev/Environmental_Engineering/Graduate/Ph.D-Environmental-Engineering.html"
+        }
+      ]
+    }
+  },
+  "notes": "Includes the Environmental Sustainability and Resilience, Ph.D. track.",
+  "name": "Environmental Engineering, Ph.D."
+}

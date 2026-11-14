@@ -1,0 +1,56 @@
+{
+  "id": "tamuk--mech",
+  "university": "tamuk",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Department of Mechanical and Industrial Engineering",
+  "program_page": "https://www.tamuk.edu/engineering/departments/mien/mechanical/PhD-in-Engineering.html",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-01",
+      "value": "International graduate application deadline for Fall entry is June 1, 2027 (apply earlier for assistantship/fellowship consideration; financial aid priority deadline is January 15).",
+      "quote": "Fall applications must be submitted by June 1",
+      "url": "https://www.tamuk.edu/enrollment-management/admission/graduate/international.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "Effective Summer 2024 onwards, the Frank H. Dotterweich College of Engineering does not require the GRE for graduate admissions (superseding older departmental catalog/webpage text).",
+      "quote": "effective Summer 2024 onwards | GRE: GRE is not required for admissions.",
+      "url": "https://www.tamuk.edu/engineering/deansoffice/Graduate-Admission-Requirements.html"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics, and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Having a faculty advisor is recommended and is required for direct B.S.-to-Ph.D. admission (otherwise direct B.S. applicants are routed to or provisionally admitted via the M.S.).",
+      "quote": "Must have faculty willing to advise them; otherwise, admit them into the MS program",
+      "url": "https://www.tamuk.edu/engineering/departments/mien/mechanical/PhD-in-Engineering.html",
+      "also": [
+        {
+          "quote": "Must have faculty willing to advise the student; otherwise he/she would be provisionally admitted into the Ph.D. program with a condition that they obtain a M.S. degree.",
+          "url": "https://catalog.tamuk.edu/graduate/graduate-studies/doctoral-engineering/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Limited departmental teaching assistantships are available, and research assistantships are awarded at the discretion of grant PIs or major advisors.",
+      "quote": "Departments may have limited teaching assistantships available to support Ph.D. students. Research assistantship funding, if any, is at the discretion of the grant Principal Investigator and/or the major advisor.",
+      "url": "https://catalog.tamuk.edu/graduate/graduate-studies/doctoral-engineering/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may enter with an M.S. degree (63 credits) or directly with a B.S. degree in exceptional cases (93 credits, including 42 didactic coursework credits).",
+      "quote": "Must have earned a master’s or bachelor’s degree in engineering or science | A direct admit Ph.D. student is required to take 93 total credits, including at least 42 credits of didactic coursework | A total of 63 credits to meet the graduation requirements",
+      "url": "https://www.tamuk.edu/engineering/departments/mien/mechanical/PhD-in-Engineering.html"
+    }
+  },
+  "notes": "Mechanical Engineering specialization within the college-wide Engineering, Ph.D.",
+  "name": "Engineering, Ph.D. (Mechanical Engineering)"
+}
