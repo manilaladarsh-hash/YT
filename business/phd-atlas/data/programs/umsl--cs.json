@@ -1,0 +1,77 @@
+{
+  "id": "umsl--cs",
+  "university": "umsl",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.umsl.edu/cmpsci/degrees-and-programs/graduate-studies/phd-cs.html",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "February 1 is the Fall funding-consideration priority deadline in the Graduate School directory/profile PDF (rolling general Fall deadline July 1; departmental GTA application deadline March 20; typical international visa cutoff May 31).",
+      "quote": "Fall - July 1 (February 1, if requesting funding)",
+      "url": "https://www.umsl.edu/gradschool/gradprograms/profiles/doc/phd-mathcompprofile.pdf",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "GTA applications are processed in the middle of a semester when/if a position is available for the following semester. Deadlines are March 20 for the fall and October 1 for the spring semester.",
+          "url": "https://www.umsl.edu/cmpsci/degrees-and-programs/graduate-studies/assistantships.html"
+        },
+        {
+          "quote": "The department admits students for the Fall and Spring semesters on a rolling basis. For international students, the deadlines are determined by the visa processing times and usually are May 31 for the Fall semester and October 31 for the Spring semester.",
+          "url": "https://www.umsl.edu/cmpsci/degrees-and-programs/graduate-studies/phd-cs.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE General Test is not required per Graduate School profile PDF (though department advises applicants—especially direct bachelor's entrants—to submit scores within 5 years).",
+      "quote": "The GRE General Test is not required but may enhance your application.",
+      "url": "https://www.umsl.edu/gradschool/gradprograms/profiles/doc/phd-mathcompprofile.pdf",
+      "also": [
+        {
+          "quote": "Applicants are advised to submit scores from the GRE general test, which are not more than 5 years old.",
+          "url": "https://www.umsl.edu/cmpsci/degrees-and-programs/graduate-studies/phd-cs.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers GRE Subject Tests only in Mathematics, Physics, and Psychology (none in this field).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Advisor is selected after admission during Ph.D. candidacy Step B; pre-application faculty contact is only encouraged when seeking a faculty-funded GRA.",
+      "quote": "The student finds a research direction/area and the appropriate advisor, constitutes a research committee, and then must do one of the following",
+      "url": "https://www.umsl.edu/cmpsci/degrees-and-programs/graduate-studies/phd-cs.html",
+      "also": [
+        {
+          "quote": "Students interested in GRA positions are also encouraged to review the research interests of our faculty, the list of current or past sponsored projects, the list of posted openings, and approach selected faculty directly.",
+          "url": "https://www.umsl.edu/cmpsci/degrees-and-programs/graduate-studies/assistantships.html"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Department offers a limited number of competitive GTA and faculty-funded GRA positions (easier to obtain after enrolling; separate GTA/GRA email application required by March 20 for Fall). GTA includes stipend plus full tuition remission for 9 graduate credits/semester.",
+      "quote": "The department offers some assistantships, and individual faculty may offer research assistantships.",
+      "url": "https://www.umsl.edu/cmpsci/degrees-and-programs/graduate-studies/phd-cs.html",
+      "also": [
+        {
+          "quote": "Both assistantships are easier to get once in the program after establishing a relationship with the department (GTA), or with faculty (GRA). | Both assistantships come with a stipend and possible tuition reduction/remission. GTA includes full tuition remission of educational fees for 9 hours of graduate-level courses per semester",
+          "url": "https://www.umsl.edu/cmpsci/degrees-and-programs/graduate-studies/assistantships.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants normally hold a Master's in CS or a related area (GPA >= 3.0), but exceptional bachelor's holders without a master's are also considered for direct Ph.D. admission.",
+      "quote": "An applicant for admission to the Ph.D. in Mathematical and Computational Science - Computer Science option should have completed a Master's in Computer Science or a related area, with a GPA of at least 3.0/4.0. An applicant without a related Master's but with an exceptional record will also be considered for admission into the Ph.D. program.",
+      "url": "https://www.umsl.edu/cmpsci/degrees-and-programs/graduate-studies/phd-cs.html"
+    }
+  },
+  "notes": "Degree title is Ph.D. in Mathematical and Computational Science — Computer Science Option (60 credit hours). Mathematics and Statistics emphases under the same degree stopped accepting applications in Fall 2021. Two letters of recommendation required. International applicants are automatically considered for UMSL Global tuition scholarships if not awarded an assistantship."
+}

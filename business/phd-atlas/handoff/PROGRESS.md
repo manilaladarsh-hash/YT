@@ -495,4 +495,5 @@ Commit: 7c5f0815
 2026-11-14 | CARD 7 | Refreshed business docs (383 of 391 universities, 3897 programs, 18 fields, Not stated 21% [8926/42867]; product/build.py built 2.02 MB explorer + ZIP; pytest 22 passed, 2 skipped [soffice absent])
 2026-11-14 | CARD 4 | umdearborn | added University of Michigan-Dearborn (3 Rackham STEM PhD programs: cs [+datasci], ece, mech [+bme, materials]; Industrial & Systems Engineering Ph.D. noted; 2 D.Eng. & Ed.D. excluded) | Not stated 21% (8926/42900)
 2026-11-14 | CARD 4B | cuhk | added The Chinese University of Hong Kong (16 STEM PhD programs: cs, datasci [SEEM], ece [GRE General Recommended], mech, bme, materials, physics, astronomy, math, statistics, chemistry, biology, environment, earth [2027-01-31 regular], biomed, neuro [Psychology]; no Civil/ChemEng PhD) | Not stated 21% (8964/43076)
+2026-11-14 | CARD 4 | umsl | added University of Missouri-St. Louis (4 active STEM PhD programs: biology [+environment via EEB, TOEFL 80], chemistry [2027-02-21 intl Fall], cs [Math & Comp Sci CS Option], neuro [Psych PBS, CIP 42.2799]; Physics, Math & Stats PhDs suspended Fall 2021; no Engineering PhD) | Not stated 21% (8967/43120)
 

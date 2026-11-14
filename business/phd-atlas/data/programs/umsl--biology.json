@@ -1,0 +1,79 @@
+{
+  "id": "umsl--biology",
+  "university": "umsl",
+  "field": "biology",
+  "also_fields": [
+    "environment"
+  ],
+  "department": "Department of Biology",
+  "program_page": "https://www.umsl.edu/~biology/Graduate%20Programs/applic.html",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Department Application and Admission page and Graduate School Doctoral directory list December 1 for Fall admission (Graduate School profile PDF prints December 15).",
+      "quote": "Applications are due by December 1 for admission for the following academic year.",
+      "url": "https://www.umsl.edu/~biology/Graduate%20Programs/applic.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Biology Ph.D. | Application Deadlines | Fall - December 1",
+          "url": "https://www.umsl.edu/gradschool/gradprograms/doctoral.html"
+        },
+        {
+          "quote": "Fall Semester: December 15",
+          "url": "https://www.umsl.edu/gradschool/gradprograms/profiles/doc/phd-bioprofile.pdf"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE General scores are optional/encouraged but not required for Biology Ph.D. admission.",
+      "quote": "GRE Scores (Optional) | GRE scores (Verbal, Quantitative, and Analytical) are encouraged but not required.",
+      "url": "https://www.umsl.edu/~biology/Graduate%20Programs/applic.html"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers GRE Subject Tests only in Mathematics, Physics, and Psychology (none in this field).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Department states applicants are not admitted to the Ph.D. program without support from a potential faculty advisor and must identify faculty members in the statement of purpose (Bulletin notes EEB admits typically enter with an advisor agreement while CMB admits may rotate through three labs).",
+      "quote": "Students are not admitted to the Ph.D. program without support from a potential faculty advisor. Prospective students interested in the Ph.D. program or the thesis-based M.S. program are strongly encouraged to contact faculty members in their area of interest prior to applying.",
+      "url": "https://www.umsl.edu/~biology/Graduate%20Programs/applic.html",
+      "also": [
+        {
+          "quote": "Students entering the program with an agreement in hand may join the lab in their first semester (this is more common for the EEB emphasis). Alternatively, students entering the program may rotate through three labs to identify a permanent lab and advisor (more common for the CMB emphasis).",
+          "url": "https://bulletin.umsl.edu/programs/biology-phd-ecology-evolution-and-behavior-emphasis/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Competitive GTA/GRA support for Ph.D. students provides at least $10,000 per Fall/Spring semester ($20,000 for 10 months) plus Graduate School or advisor tuition coverage for up to five years (profile PDF prints legacy $8,000/term).",
+      "quote": "Teaching and research assistantships are awarded competitively to qualified Ph.D. students. | A minimum of $10,000 per semester for up to five years (Fall and Spring semesters; totaling 10 months). | Tuition is covered by the Graduate School (for teaching assistants) or by research advisors (for research assistants).",
+      "url": "https://www.umsl.edu/~biology/Graduate%20Programs/applic.html",
+      "also": [
+        {
+          "quote": "Assistantships are currently funded at $8,000 per academic term",
+          "url": "https://www.umsl.edu/gradschool/gradprograms/profiles/doc/phd-bioprofile.pdf"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admits applicants with an accredited bachelor's or M.S. degree in biology or equivalent preparation (minimum 3.0 overall and biology GPA).",
+      "quote": "Applicants should have a bachelor's or M.S. degree from an accredited United States college or university or evidence of equivalent training at an accredited institution outside the United States.",
+      "url": "https://bulletin.umsl.edu/programs/biology-phd-ecology-evolution-and-behavior-emphasis/"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Department overrides the general 79 (4.5) UMSL Global guideline with a minimum TOEFL iBT score of 80 (550 PBT / 213 CBT); all incoming international students take a diagnostic English exam during orientation.",
+      "quote": "Minimum TOEFL scores for admission are 550 (for paper-based test), 213 (for computer-based test), and 80 (for internet-based test),",
+      "url": "https://www.umsl.edu/~biology/Graduate%20Programs/applic.html"
+    }
+  },
+  "notes": "Ph.D. in Biology has three Bulletin emphases: Cell and Molecular Biology (CMB), Ecology, Evolution and Behavior (EEB; covers environment/ecology), and Integrative Biology. Note discrepancy between December 1 (department & GS doctoral page) and December 15 (profile PDF), and between department current stipend ($10,000/semester) and profile PDF ($8,000/term)."
+}

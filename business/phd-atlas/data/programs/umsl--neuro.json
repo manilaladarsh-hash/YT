@@ -1,0 +1,61 @@
+{
+  "id": "umsl--neuro",
+  "university": "umsl",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Department of Psychological Sciences",
+  "program_page": "https://www.umsl.edu/sswpbs/psychological-sciences/graduate-programs/pbs/doctorate.html",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall-only admission; all admission materials are due December 1.",
+      "quote": "Fall Semester Only - The deadline for receipt of all admission materials is December 1 of each year for admission",
+      "url": "https://www.umsl.edu/gradschool/gradprograms/profiles/doc/phd-psychbnprofile.pdf",
+      "time_sensitive": "2026-12-01",
+      "also": [
+        {
+          "quote": "The Application Deadline for the Psychological and Brain Sciences Program is December 1.",
+          "url": "https://bulletin.umsl.edu/programs/psychology-phd-psychological-and-brain-sciences-emphasis/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Psychological and Brain Sciences Ph.D. webpage, Bulletin entry, and Graduate School profile PDF do not state a GRE General requirement.",
+      "quote": "",
+      "url": "https://www.umsl.edu/sswpbs/psychological-sciences/graduate-programs/pbs/doctorate.html"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Department webpages and profile PDF do not state whether the ETS GRE Psychology Subject Test is required, optional, or not required.",
+      "quote": "",
+      "url": "https://www.umsl.edu/sswpbs/psychological-sciences/graduate-programs/pbs/doctorate.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Uses a mentorship/apprenticeship model where each student works continuously with a faculty member, and the personal statement requires naming which faculty member(s) you would like to work with and why.",
+      "quote": "It also has an apprenticeship model in which each student works closely and continuously with a faculty member within the realm of the faculty member's research interests. | Describe your interest in the biological basis of behavior, any prior research experience, your career goals, and which faculty member(s) you would like to work with and why",
+      "url": "https://www.umsl.edu/sswpbs/psychological-sciences/graduate-programs/pbs/doctorate.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Ph.D. students receive a Graduate Teaching Assistantship ($21,000/year stipend plus tuition remission up to $28,872/year) in Years 1 and 2; funding in later years is not guaranteed and may come from grants or teaching.",
+      "quote": "Students in the Ph.D. program receive a Graduate Teaching Assistantship ($21,000/year stipend + tuition remission) in their first and second year. Funding in later years is not guaranteed, but could come from grant funding and/or teaching courses.",
+      "url": "https://www.umsl.edu/sswpbs/psychological-sciences/graduate-programs/pbs/doctorate.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Requires at least a bachelor's degree before enrollment (minimum 3.0 overall GPA, 3.2 in psychology courses, and >= 12 undergraduate psychology/neuroscience credits); up to 30 prior graduate credit hours may transfer toward the 60-credit Ph.D.",
+      "quote": "Successful applicants must have completed at least a baccalaureate degree before beginning the program.",
+      "url": "https://www.umsl.edu/sswpbs/psychological-sciences/graduate-programs/pbs/doctorate.html",
+      "also": [
+        {
+          "quote": "A minimum of 60 credit hours are required for the degree program. A maximum of 30 hours credit may be transferred.",
+          "url": "https://www.umsl.edu/gradschool/gradprograms/profiles/doc/phd-psychbnprofile.pdf"
+        }
+      ]
+    }
+  },
+  "notes": "Ph.D. in Psychology — Psychological and Brain Sciences (CIP 42.2799, STEM OPT eligible; biological basis of behavior, psychophysiology, psychopharmacology, neuroendocrinology, cognitive neuroscience, neuropsychology). UMSL's Clinical Community Psychology Ph.D. is excluded as clinical practice, and Industrial/Organizational Psychology Ph.D. is suspended."
+}
