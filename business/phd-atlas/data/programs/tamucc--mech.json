@@ -1,0 +1,55 @@
+{
+  "id": "tamucc--mech",
+  "university": "tamucc",
+  "field": "mech",
+  "also_fields": [],
+  "name": "Engineering, Ph.D. (Mechanical and Energy Engineering)",
+  "department": "Department of Engineering",
+  "program_page": "https://www.tamucc.edu/programs/graduate-programs/coecs/engineering-phd.php",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-30",
+      "value": "Fall I priority deadline is April 30, 2027 (final deadline July 15, 2027); applications are reviewed on a rolling basis as received, with priority filing recommended for full consideration.",
+      "quote": "Applications are reviewed on a rolling basis as they are received. To receive full consideration, apply by the priority deadline. | Priority Deadline | April 30 | Final Deadline | July 15",
+      "url": "https://www.tamucc.edu/programs/graduate-programs/coecs/engineering-phd.php",
+      "inferred": "year",
+      "time_sensitive": "2027-04-30"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists in Mechanical Engineering; ETS offers Subject Tests only in Mathematics, Physics, and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must identify a faculty member willing to serve as their graduate faculty advisor prior to admission and will not be admitted without an advisor.",
+      "quote": "Students seeking admission to the PhD in Engineering program must identify a faculty member willing to serve as their graduate faculty advisor. | Applicants will not be admitted to the program without a graduate advisor.",
+      "url": "https://catalog.tamucc.edu/graduate/engineering/doctoral/engineering-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate teaching assistantships and grant-funded research assistantships may be available through the College of Engineering and Computer Science; 50% FTE assistantships qualify non-resident/international students for in-state tuition rates under Texas Education Code 54.212.",
+      "quote": "Graduate teaching assistantships and research assistantships may be available, depending on available institutional and external grant funding.",
+      "url": "https://www.tamucc.edu/programs/graduate-programs/coecs/engineering-phd.php",
+      "also": [
+        {
+          "quote": "A number of fellowships, research assistantships, and teaching assistantships are available to graduate level students through the College of Engineering.",
+          "url": "https://www.tamucc.edu/engineering/student-information/graduate-funding.php"
+        },
+        {
+          "quote": "According to the Texas Education Code, Section 54.212, non-resident students receiving a 50% FTE graduate assistantship will receive in-state tuition and fees at the rate charged to Texas residents for the semester in which they hold the assistantship appointment.",
+          "url": "https://www.tamucc.edu/research/graduate-excellence/funding/assistantships.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Typically requires a master's degree in engineering or a closely related field (48 SCH minimum), though exceptional applicants with a bachelor's degree in engineering may be considered for direct Ph.D. admission (81 SCH minimum).",
+      "quote": "To get started, you’ll need a master's degree in engineering or a closely related field. Exceptional applicants with a bachelor's degree in engineering may also be considered for direct admission to the Ph.D. program.",
+      "url": "https://www.tamucc.edu/programs/graduate-programs/coecs/engineering-phd.php"
+    }
+  },
+  "notes": "Mechanical and Energy Engineering concentration within the Ph.D. in Engineering. Neither the program page nor the 2026-2027 catalog mentions a GRE requirement for Engineering Ph.D., so GRE General remains Not stated."
+}

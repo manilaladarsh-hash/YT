@@ -1,0 +1,59 @@
+{
+  "id": "tamucc",
+  "institution": "Texas A&M University-Corpus Christi",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://catalog.tamucc.edu/graduate/admissions/",
+  "checked": "2026-11-14",
+  "fields": {
+    "app_fee": {
+      "code": "70 USD",
+      "value": "International applicants pay a nonrefundable $70 USD application fee ($50 for U.S. citizens).",
+      "quote": "A $50, nonrefundable, application fee. (For international applicants, the nonrefundable application fee is $70, paid in U.S. currency.)",
+      "url": "https://catalog.tamucc.edu/graduate/admissions/",
+      "also": [
+        {
+          "quote": "non-refundable $50 for U.S. citizen; $70 for International Students",
+          "url": "https://www.tamucc.edu/admissions/graduate-students/application-process.php"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Graduate application fee waiver eligibility criteria are not published on graduate admissions pages (the application process page notes only that applicants who qualify for a waiver should select Check or Money Order on ApplyTexas).",
+      "quote": "",
+      "url": "https://www.tamucc.edu/admissions/graduate-students/application-process.php"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE General requirements are set by individual degree programs (not required/waived for Computer Science Ph.D. and Coastal and Marine System Science Ph.D. program page, omitted from Engineering Ph.D. materials, and listed as required in the 2026-2027 catalog for Marine Biology Ph.D.).",
+      "quote": "",
+      "url": "https://catalog.tamucc.edu/graduate/admissions/"
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "University minimum is 4 on the TOEFL iBT scale effective after January 21, 2026 (73 iBT prior to January 21, 2026; 537 paper-based). Coastal and Marine System Science Ph.D. sets a higher minimum (79-80 iBT / 550 PBT); see program override.",
+      "quote": "a minimum TOEFL IBT score of 73, or if taken after January 21, 2026 a minimum score of 4",
+      "url": "https://catalog.tamucc.edu/graduate/admissions/",
+      "also": [
+        {
+          "quote": "If you take the TOEFL iBT on or after January 21, 2026",
+          "url": "https://www.tamucc.edu/admissions/graduate-students/international-students.php"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "University minimum is IELTS Academic 6.0 overall band (IELTS General is not accepted). Coastal and Marine System Science Ph.D. requires 6.5; see program override.",
+      "quote": "A minimum IELTS Academic test score of 6.0 overall band for both undergraduate and graduate students",
+      "url": "https://catalog.tamucc.edu/graduate/admissions/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not among the exempt English-official countries listed in the Graduate Catalog, and degree-based exemption requires a bachelor's degree or two years of instruction at a U.S. or Canadian institution.",
+      "quote": "The applicant completed a bachelor’s degree at a U.S. or Canadian institution of higher education, or | In addition, applicant's native to one of the following countries whose official language is English will be exempt from the TOEFL or IELTS requirements:",
+      "url": "https://catalog.tamucc.edu/graduate/admissions/"
+    }
+  },
+  "notes": "Public R2 university in Corpus Christi, Texas (Texas A&M University System). Offers 4 STEM Ph.D. programs represented by 6 Atlas records: Computer Science (CS), Engineering (Civil, Electrical, Mechanical; the Industrial and Process Engineering concentration has no matching Atlas field), Marine Biology (Biology), and Coastal and Marine System Science (Environment, also Earth). Under Texas Education Code Section 54.212, non-resident/international students holding a 50% FTE graduate assistantship qualify for in-state tuition and fees."
+}
