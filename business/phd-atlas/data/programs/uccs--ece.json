@@ -1,0 +1,72 @@
+{
+  "id": "uccs--ece",
+  "university": "uccs",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical and Computer Engineering",
+  "program_page": "https://eas.uccs.edu/academics/programs/engineering-concentration-in-electrical-engineering-phd",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-08-16",
+      "value": "Fall 2027 Graduate School deadline is August 16, 2027 (applications are reviewed continuously); however, ECE recommends international applicants apply at least 3 months before term start (~May 2027) for visa processing, and Graduate School First-Year Fellowship nominations close February 15, 2027.",
+      "quote": "Fall 2027: August 16, 2027",
+      "url": "https://graduateschool.uccs.edu/academics",
+      "time_sensitive": "2027-02-15",
+      "also": [
+        {
+          "quote": "Applications are reviewed on a continual basis. Please visit the Graduate School’s page to review application deadlines by program. It is recommended that international students apply at least three months prior to the start of the semester to allow time to request a visa.",
+          "url": "https://eas.uccs.edu/academics/programs/engineering-concentration-in-electrical-engineering-phd"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General (Verbal and Quantitative) is required for applicants whose highest degree is from an international university or non-ABET program (may be waived only by special petition to the ECE Graduate Studies Committee).",
+      "quote": "Graduate Record Examination (GRE): applicants whose highest degree is held from an international university or from a non-ABET-accredited undergraduate program are required to take the verbal-reasoning and quantitative-reasoning portions of the Graduate Records Examinations (GRE) | The GRE requirement may be waived by special petition to the Department Graduate Studies Committee.",
+      "url": "https://eas.uccs.edu/academics/programs/engineering-concentration-in-electrical-engineering-phd",
+      "also": [
+        {
+          "quote": "GRE: required if domestic applicant GPA < 3.3; GRE is required for all students with international transcripts",
+          "url": "https://graduateschool.uccs.edu/academics"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Electrical and Computer Engineering (ETS offers Subject Tests only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Students select a Ph.D. advisor after admission and develop their Plan of Study with that advisor by the end of their second semester.",
+      "quote": "Once accepted into the ECE PhD program the student must: Select a PhD advisor and complete a Plan of Study | Once accepted into the program, the student must select a PhD advisor. ... This must be accomplished by the end of the second semester of residence in the PhD program.",
+      "url": "https://eas.uccs.edu/graduate-programs/electrical-engineering-phd/graduation-requirements"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding is competitive rather than guaranteed: students apply separately to the department for RA/TA positions, alongside competitive Graduate School PhD Grants (up to $26,000/yr), Tuition Matching Grants (up to $8,000/yr), and First-Year Fellowships ($6,000/yr).",
+      "quote": "Research/Teaching Assistantships may be available, and are used for requesting financial assistance from the department - please contact the department directly for the RA/TA application.",
+      "url": "https://eas.uccs.edu/future-student-resources/how-to-apply",
+      "also": [
+        {
+          "quote": "Spring 2027: January 12, 2027 (assistantships: October 1, 2026)",
+          "url": "https://graduateschool.uccs.edu/academics"
+        },
+        {
+          "quote": "The Graduate School Tuition Matching Grant provides funding, up to $8,000, with 50 – 100 awards made annually across all graduate programs at UCCS.",
+          "url": "https://graduateschool.uccs.edu/fellowships-scholarships"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Both bachelor's-entry (66 credit hours: 36 coursework + 30 dissertation) and master's-entry (60 credit hours: 12 coursework + up to 18 MS transfer credits + 30 dissertation) pathways exist, requiring a >= 3.3 GPA.",
+      "quote": "Requirements for students entering with a master's degree (60 credits): ... Requirements for students entering without a master's degree (66 credits):",
+      "url": "https://eas.uccs.edu/academics/programs/engineering-concentration-in-electrical-engineering-phd"
+    }
+  },
+  "notes": "ECE notes 'Applicants earning an undergraduate or graduate degrees from non-English institutions are required to show proof of English proficiency' without detailing an MOI waiver; under Graduate School policy, contact ECE directly to verify whether an English-medium degree from India qualifies (legacy EAS instructions cite only US-degree or UCCS ESL completion waivers). Minimum GPA 3.3 across previous undergraduate and graduate work; preliminary exam is offered annually in January.",
+  "name": "Engineering, Ph.D. (Electrical Engineering Concentration)"
+}

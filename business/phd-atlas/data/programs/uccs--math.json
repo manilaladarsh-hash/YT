@@ -1,0 +1,79 @@
+{
+  "id": "uccs--math",
+  "university": "uccs",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics",
+  "program_page": "https://math.uccs.edu/academics/phd",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "Graduate Teaching Fellowship (GTF) funding applications for Fall are due April 1, 2027 (inferred from annual 'APRIL 1st'; Spring GTF: October 31). Admission itself is rolling until 1 week before Fall 2027 classes (August 16, 2027 on GS page; 60 days prior recommended for international/document processing); Graduate School First-Year Fellowship nominations close February 15.",
+      "quote": "Applications for GTF positions are due APRIL 1st for the Fall semester and OCTOBER 31st for the Spring semester.",
+      "url": "https://math.uccs.edu/graduate-requirements/graduate-teaching-fellowships",
+      "inferred": "year",
+      "time_sensitive": "2027-02-15",
+      "also": [
+        {
+          "quote": "Fall 2027: August 16, 2027",
+          "url": "https://graduateschool.uccs.edu/academics"
+        },
+        {
+          "quote": "Completed applications (including all supporting documentation) should be submitted 60 days prior to the term for which admission is sought. However, applications are reviewed on a continuous basis, and will be considered if this deadline is not met.",
+          "url": "https://math.uccs.edu/graduate-requirements/applications-forms"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General Test taken within the last 2 years is required (for non-UCCS students), with >= 80th percentile Quantitative recommended.",
+      "quote": "Submit GRE General Test scores, taken within the last 2 years, with a recommended percentile of 80 or higher on the Quantitative Reasoning section.",
+      "url": "https://math.uccs.edu/academics/phd",
+      "also": [
+        {
+          "quote": "Scores from the GRE General Test, taken within the last 2 years (for Spring 2022 or later admission)",
+          "url": "https://math.uccs.edu/graduate-requirements/applications-forms"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Department and Graduate School pages list only the GRE General Test and do not state any policy on the ETS Mathematics Subject Test.",
+      "quote": "",
+      "url": "https://math.uccs.edu/academics/phd"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission decisions are made individually by the Mathematics Graduate Committee; prospective applicants are encouraged to review faculty research interests and contact faculty to discuss mentorship.",
+      "quote": "decisions regarding admission are made on an individual basis by the Graduate Committee.",
+      "url": "https://math.uccs.edu/academics/phd",
+      "also": [
+        {
+          "quote": "For more information or to discuss mentorship, please see our research interests and contact faculty directly.",
+          "url": "https://math.uccs.edu/academics/graduate"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "A limited number of competitive Graduate Teaching Fellowships (GTFs) provide a tuition grant and teaching pay (renewable annually based on performance; apply by April 1 for Fall), alongside competitive Graduate School PhD Grants (up to $26,000/yr) and Tuition Matching Grants (up to $8,000/yr).",
+      "quote": "For students enrolled in the mathematics M.S. and Ph.D. programs, the department offers a limited number of Graduate Teaching Fellowships (GTF's). Each GTF receives a tuition grant and pay for teaching. | Applications for GTF positions are due APRIL 1st for the Fall semester",
+      "url": "https://math.uccs.edu/graduate-requirements/graduate-teaching-fellowships",
+      "also": [
+        {
+          "quote": "A limited number of scholarships are available each year from the Department of Mathematics to provide financial support to students enrolled in the PhD program.",
+          "url": "https://math.uccs.edu/academics/phd"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Requires a bachelor's degree in mathematics or a related field with significant math coursework (>= 3.0 overall and math GPA); up to 25% of the 60 required credits may be transferred from prior graduate or MS coursework.",
+      "quote": "Holding a baccalaureate degree in mathematics or a related field with significant math coursework from an accredited college or university | The total hours of graduate coursework and dissertation work applied to the degree must be 60. This total may include coursework applied toward a Master's degree.",
+      "url": "https://math.uccs.edu/academics/phd"
+    }
+  },
+  "notes": "Official degree track is Applied Science: Mathematics, Ph.D., spanning probability and statistics, differential equations, applied analysis, algebra, and coding theory. Department English page confirms TOEFL 80 (legacy web scale) / IELTS 6.5 / Duolingo 105 (note GS updated chart lists 4.5 on the 1-6 scale effective 1/21/2026 and Duolingo 115) and defers exemptions to UCCS admissions policy. Conditional admission is NOT granted for applicants not meeting English proficiency requirements.",
+  "name": "Applied Science: Mathematics, Ph.D."
+}

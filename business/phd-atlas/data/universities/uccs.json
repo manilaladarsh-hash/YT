@@ -1,0 +1,63 @@
+{
+  "id": "uccs",
+  "institution": "University of Colorado Colorado Springs",
+  "country": "USA",
+  "region": "Colorado",
+  "grad_page": "https://graduateschool.uccs.edu/admissions",
+  "checked": "2026-11-14",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "Non-refundable $60 application fee for both domestic and international graduate applicants (note: a legacy College of Engineering and Applied Science page still lists $100 for international applicants, though current university Admissions and Mathematics pages both state $60).",
+      "quote": "A $60 non-refundable application fee for domestic students and $60 non-refundable application fee is required for international student applicants.",
+      "url": "https://www.uccs.edu/admissions-aid/application-details/graduate",
+      "also": [
+        {
+          "quote": "$60 application fee",
+          "url": "https://graduateschool.uccs.edu/admissions"
+        },
+        {
+          "quote": "A $100, non-refundable application fee, paid online or check made payable to UCCS.",
+          "url": "https://eas.uccs.edu/future-student-resources/how-to-apply"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "UCCS offers fee waivers only via specific scholar programs (including Fulbright Scholar Program, GEM, McNair, MARC, RISE, Gates Millennium, TRIO SSS, U-STAR), financial-need criteria requiring a FAFSA or ETS GRE fee reduction voucher, or U.S. military/veteran status.",
+      "quote": "UCCS offers three application fee waiver options. | If you were involved in one or more of the following scholar programs, you may be eligible for an application fee waiver: ... Fullbright Scholar Program | If you received a fee reduction voucher from ETS to take the GRE test, you qualify for an application fee waiver.",
+      "url": "https://graduateschool.uccs.edu/admissions"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each graduate program rather than the Graduate School; UCCS institution code is 4874. Engineering (CS, ECE, MAE) and Mathematics Ph.D. programs require GRE General scores for international applicants, while Physics requires the Physics GRE instead. See each program record.",
+      "quote": "",
+      "url": "https://graduateschool.uccs.edu/admissions"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "Graduate School minimum for all covered STEM Ph.D. programs is 4.5 on the TOEFL iBT 1-6 scale effective January 21, 2026 (80 on the legacy 0-120 iBT scale prior to 1/21/2026; scores valid 2 years; Duolingo 115 also accepted). Note: Physics department pages still state 83 iBT (560 PBT).",
+      "quote": "Tests must have been taken in the last two years. See the Summary of Program Requirements chart below. | Computer Science MS & PhD 80 4.5 6.5 115 | Electrical Engineering MSEE & PhD 80 4.5 6.5 115 | Mathematics: Applied Science PhD 80 4.5 6.5 115 | Mechanical & Aerospace Engineering PhD 80 4.5 6.5 115 | Physics: Applied Science PhD 80 4.5 6.5 115",
+      "url": "https://graduateschool.uccs.edu/english-proficiency-requirements"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Graduate School minimum IELTS score for all covered STEM Ph.D. programs is 6.5 (scores must be taken within the last two years; institution code 4874).",
+      "quote": "Tests must have been taken in the last two years. See the Summary of Program Requirements chart below. | Computer Science MS & PhD 80 4.5 6.5 115 | Physics: Applied Science PhD 80 4.5 6.5 115",
+      "url": "https://graduateschool.uccs.edu/english-proficiency-requirements"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "An English-medium degree from India may qualify conditionally at the Graduate School level if the transcript or an official institutional letter states English was the medium of instruction, BUT each academic program chooses which methods to accept (Computer Science and Physics specify US-study waivers only — always confirm with the program; India is not on the citizenship exemption list).",
+      "quote": "Academic programs use one or more of the following methods for determining English proficiency. **Please contact your program to verify which method(s) they allow.** | You have received or will receive a post-secondary degree where English is the language (medium) of instruction. If the language of instruction is English, but not noted on the transcript, students may be asked to submit an official letter from their post-secondary institution stating that the medium of instruction is English in order to meet the English Language Proficiency requirement.",
+      "url": "https://graduateschool.uccs.edu/english-proficiency-requirements",
+      "also": [
+        {
+          "quote": "Each program judges the qualifications of its students in the use of English. The following are options for determining English Proficiency. Departments must use at least one of these options: Postsecondary degree from a US accredited institution or in a program where English is the language of instruction.",
+          "url": "https://graduateschool.uccs.edu/current-student-resources/policies-procedures"
+        }
+      ]
+    }
+  },
+  "notes": "All UCCS graduate programs reviewed via Graduate School Academics directory: 5 STEM Ph.D. tracks mapped (CS plus companion Cybersecurity PhD, ECE, MAE, Applied Science: Mathematics, Applied Science: Physics). Excluded non-STEM/clinical doctorates: Psychology: Clinical (Geropsychology & Trauma, APA-accredited clinical Ph.D.s), Educational Leadership, Research & Policy Ph.D., Executive DBA, DNP, and DPT; Biology and Chemistry offer master's degrees only. International applicants with foreign post-secondary coursework must submit an official NACES or AICE course-by-course transcript evaluation (UCCS preferred partner IEE offers a $145 discounted 3-day rate). Graduate School funding includes competitive Graduate School PhD Grants (up to $26,000/yr, international eligible), Tuition Matching Grants (up to $8,000/yr with paid GTA/GRA/GPTI appointment), and First-Year Graduate Fellowships ($6,000, Feb 15 program nomination deadline)."
+}
