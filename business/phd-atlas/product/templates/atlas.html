@@ -512,7 +512,7 @@ const TAGS = [
 const FUND = { "Guaranteed": ["Fully funded", "good"], "Typical": ["Usually funded", ""], "Competitive": ["Competitive", "", "funding"], "Not stated": ["Funding not stated", "na"] };
 const GROUP_COLOR = { "Physical sciences": "--g-phys", "Mathematical sciences": "--g-math", "Computing": "--g-comp",
   "Life sciences": "--g-life", "Earth & environment": "--g-earth", "Engineering": "--g-eng" };
-const REGIONS = ["US", "UK", "Europe", "Australia & NZ", "Canada"];
+const REGIONS = ["US", "UK", "Europe", "Australia & NZ", "Canada", "Asia & Middle East", "Latin America"];
 const NS = { code: "Not stated", value: "Not stated on the official pages checked", quote: "", url: "" };
 const QUESTIONS = ["degree", "sgre", "ggre", "english", "fees", "funding", "supervisor"];
 const BLANK = { fields: [], regions: [], degree: "", sgre: "", ggre: "", english: "", toefl: "", ielts: "", fees: "", funding: "", supervisor: "" };
@@ -600,9 +600,13 @@ function loadDetail() {
   });
   return detailLoading;
 }
+const ASIA_ME = new Set(["Singapore", "Hong Kong", "Taiwan", "Japan", "South Korea", "Macao", "Saudi Arabia", "United Arab Emirates", "Qatar", "Israel"]);
 function regionOf(c) {
   if (c === "USA") return "US"; if (c === "United Kingdom") return "UK"; if (c === "Canada") return "Canada";
-  return (c === "Australia" || c === "New Zealand") ? "Australia & NZ" : "Europe";
+  if (c === "Australia" || c === "New Zealand") return "Australia & NZ";
+  if (ASIA_ME.has(c)) return "Asia & Middle East";
+  if (c === "Chile") return "Latin America";
+  return "Europe";
 }
 function prepare() {
   const tax = Object.fromEntries(A.taxonomy.map(t => [t.id, t]));

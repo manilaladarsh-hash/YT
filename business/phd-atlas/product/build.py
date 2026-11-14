@@ -47,7 +47,8 @@ TEMPLATES = ROOT / "product" / "templates"
 BUILD = ROOT / ".cache" / "build"
 NORTH_AMERICA = {"USA", "Canada"}
 AUS_NZ = {"Australia", "New Zealand"}
-CURRENCIES = ["USD", "GBP", "EUR", "AUD", "CAD", "CHF", "NZD", "SEK", "DKK", "NOK"]
+CURRENCIES = ["USD", "GBP", "EUR", "AUD", "CAD", "CHF", "NZD", "SEK", "DKK", "NOK",
+              "SGD", "HKD", "JPY", "KRW", "TWD", "SAR", "AED", "QAR", "ILS", "CZK", "PLN", "CLP", "RUB", "MOP"]
 PRICE_LINE = ("Priced for students: about ₹190 in India (Gumroad shows rupees and accepts UPI), $5 elsewhere. "
               "A batch licence covers up to 30 students for about ₹750. Can't afford it? Reply to your receipt for a free copy.")
 
@@ -172,14 +173,27 @@ def fmt_inr(amount):
     return "₹" + ",".join(groups + [tail]) if groups else "₹" + tail
 
 
+ASIA_ME = {
+    "Singapore", "Hong Kong", "Taiwan", "Japan", "South Korea", "Macao",
+    "Saudi Arabia", "United Arab Emirates", "Qatar", "Israel",
+}
+LATAM = {"Chile"}
+
+
 def area(r):
     if r["country"] in NORTH_AMERICA:
         return "North America"
-    return "Australia & NZ" if r["country"] in AUS_NZ else "Europe"
+    if r["country"] in AUS_NZ:
+        return "Australia & NZ"
+    if r["country"] in ASIA_ME:
+        return "Asia & Middle East"
+    if r["country"] in LATAM:
+        return "Latin America"
+    return "Europe"
 
 
 def region_of(r):
-    """The five buyer-facing regions used in filters and copy."""
+    """Buyer-facing regions used in filters and copy."""
     c = r["country"]
     if c == "USA":
         return "US"
@@ -187,7 +201,13 @@ def region_of(r):
         return "UK"
     if c == "Canada":
         return "Canada"
-    return "Australia & NZ" if c in AUS_NZ else "Europe"
+    if c in AUS_NZ:
+        return "Australia & NZ"
+    if c in ASIA_ME:
+        return "Asia & Middle East"
+    if c in LATAM:
+        return "Latin America"
+    return "Europe"
 
 
 # ---------------------------------------------------------------- data
@@ -234,7 +254,7 @@ def label(r):
 
 
 def fee_parts(code):
-    m = re.match(r"^(\d+(?:\.\d+)?) (USD|CAD|GBP|EUR|CHF|SEK|DKK|NOK|AUD|NZD)$", code)
+    m = re.match(rf"^(\d+(?:\.\d+)?) ({'|'.join(CURRENCIES)})$", code)
     if m:
         return float(m.group(1)), m.group(2)
     if code.startswith("0"):

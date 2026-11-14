@@ -38,13 +38,28 @@
     "Spain",
     "Belgium",
     "Ireland",
+    "Portugal",
+    "Czechia",
+    "Poland",
     "Australia",
-    "New Zealand"
+    "New Zealand",
+    "Singapore",
+    "Hong Kong",
+    "Taiwan",
+    "Japan",
+    "South Korea",
+    "Macao",
+    "Saudi Arabia",
+    "United Arab Emirates",
+    "Qatar",
+    "Israel",
+    "Chile",
+    "Russia"
   ],
   "university_fields": {
     "app_fee": {
       "label": "Application fee",
-      "code": "'<amount> USD|CAD|GBP|EUR|CHF|SEK|DKK|NOK|AUD|NZD', '0 (waived)', '0 (no fee)' or 'Not stated'"
+      "code": "'<amount> USD|CAD|GBP|EUR|CHF|SEK|DKK|NOK|AUD|NZD|SGD|HKD|JPY|KRW|TWD|SAR|AED|QAR|ILS|CZK|PLN|CLP|RUB|MOP', '0 (waived)', '0 (no fee)' or 'Not stated'"
     },
     "fee_waiver": {
       "label": "Fee waiver for international applicants",

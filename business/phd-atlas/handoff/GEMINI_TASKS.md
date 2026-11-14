@@ -150,6 +150,16 @@ This is a quick check. Use one or two fetches only.
 
 ---
 
+## CARD 4B & 5B: Add / screen a QS Top 300 high-income university
+
+`handoff/qs_top300.csv` tracks all QS World University Rankings 2027 Top 300 institutions filtered to **World Bank High-Income economies** (developing/non-high-income countries such as India, China, Malaysia, Indonesia, Brazil, Mexico, Colombia, South Africa, etc. are marked `excluded-non-high-income`).
+
+1. If `next.py` prints `existing id: <uid>` (already in `data/universities.json` without files yet), use that id; otherwise run `python3 handoff/add_university.py <id> "<official name>" "<region or city>" "<country>"`.
+2. Follow the same official-source research rules as CARD 4 / CARD 5 (`data/staging/` first, `validate_data.py --require-cache`, `audit_quality.py`, `promote.py <id>`).
+3. Update `atlas_id` and `status` (`covered` or `screened-out`) in `handoff/qs_top300.csv`, update `handoff/PROGRESS.md`, commit, and push.
+
+---
+
 ## CARD 6: Gap-fill one university
 
 `next.py` prints the university with the most `Not stated` values.

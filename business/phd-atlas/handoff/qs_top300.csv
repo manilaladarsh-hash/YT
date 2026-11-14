@@ -1,0 +1,302 @@
+qs_rank_2027,institution,country,wb_income,atlas_id,status
+1,Massachusetts Institute of Technology (MIT),USA,High income,mit,covered
+=2,Imperial College London,United Kingdom,High income,imperial,covered
+=2,Stanford University,USA,High income,stanford,covered
+4,University of Oxford,United Kingdom,High income,oxford,covered
+5,Harvard University,USA,High income,harvard,covered
+6,University of Cambridge,United Kingdom,High income,cambridge,covered
+7,California Institute of Technology (Caltech),USA,High income,caltech,covered
+=8,ETH Zurich,Switzerland,High income,ethz,covered
+=8,UCL,United Kingdom,High income,ucl,covered
+10,National University of Singapore (NUS),Singapore,High income,,add
+11,The University of Hong Kong,Hong Kong,High income,,add
+12,"Nanyang Technological University, Singapore (NTU Singapore)",Singapore,High income,,add
+13,Peking University,China,Upper-middle income,,excluded-non-high-income
+14,Tsinghua University,China,Upper-middle income,,excluded-non-high-income
+15,University of Pennsylvania,USA,High income,upenn,covered
+=16,Cornell University,USA,High income,cornell,covered
+=16,Yale University,USA,High income,yale,covered
+18,The Chinese University of Hong Kong (CUHK),Hong Kong,High income,,add
+19,UNSW Sydney,Australia,High income,unsw,covered
+=20,Johns Hopkins University,USA,High income,jhu,covered
+=20,"University of California, Berkeley (UCB)",USA,High income,berkeley,covered
+=22,EPFL,Switzerland,High income,epfl,covered
+=22,University of Melbourne,Australia,High income,unimelb,covered
+24,University of Chicago,USA,High income,uchicago,covered
+25,Technical University of Munich,Germany,High income,tum,covered
+26,Fudan University,China,Upper-middle income,,excluded-non-high-income
+27,Princeton University,USA,High income,princeton,covered
+28,University of Sydney,Australia,High income,usyd,covered
+29,Australian National University (ANU),Australia,High income,anu,covered
+30,McGill University,Canada,High income,mcgill,covered
+31,Monash University,Australia,High income,monash,covered
+32,University of Toronto,Canada,High income,utoronto,covered
+33,The Hong Kong University of Science and Technology (HKUST),Hong Kong,High income,,add
+34,Université PSL,France,High income,,add
+35,The University of Edinburgh,United Kingdom,High income,edinburgh,covered
+36,Shanghai Jiao Tong University,China,Upper-middle income,,excluded-non-high-income
+37,King's College London,United Kingdom,High income,kcl,covered
+38,Seoul National University,South Korea,High income,,add
+39,The University of Tokyo,Japan,High income,,add
+=40,University of Manchester,United Kingdom,High income,manchester,covered
+=40,University of Queensland,Australia,High income,uq,covered
+42,Yonsei University,South Korea,High income,,add
+=43,Columbia University,USA,High income,columbia,covered
+=43,Institut Polytechnique de Paris,France,High income,ipparis,covered
+=45,Northwestern University,USA,High income,northwestern,covered
+=45,University of British Columbia,Canada,High income,ubc,covered
+47,Zhejiang University,China,Upper-middle income,,excluded-non-high-income
+48,Delft University of Technology,Netherlands,High income,tudelft,covered
+49,"University of California, Los Angeles (UCLA)",USA,High income,ucla,covered
+50,The Hong Kong Polytechnic University,Hong Kong,High income,,add
+51,University of Michigan-Ann Arbor,USA,High income,umich,covered
+=52,City University of Hong Kong (CityUHK),Hong Kong,High income,,add
+=52,Korea University,South Korea,High income,,add
+54,National Taiwan University (NTU),Taiwan,High income,,add
+55,Carnegie Mellon University,USA,High income,cmu,covered
+56,Universiti Malaya (UM),Malaysia,Upper-middle income,,excluded-non-high-income
+57,University of Bristol,United Kingdom,High income,bristol,covered
+58,New York University (NYU),USA,High income,nyu,covered
+59,KU Leuven,Belgium,High income,kuleuven,covered
+60,University of Amsterdam,Netherlands,High income,uva,covered
+61,Ludwig-Maximilians-Universität München,Germany,High income,lmu,covered
+62,London School of Economics and Political Science (LSE),United Kingdom,High income,,screen-check-stem-phd
+63,King Fahd University of Petroleum & Minerals (KFUPM),Saudi Arabia,High income,,add
+64,Kyoto University,Japan,High income,,add
+65,Korea Advanced Institute of Science and Technology (KAIST),South Korea,High income,,add
+66,Brown University,USA,High income,brown,covered
+67,University of Auckland,New Zealand,High income,auckland,covered
+=68,University of Birmingham,United Kingdom,High income,birmingham,covered
+=68,University of Warwick,United Kingdom,High income,warwick,covered
+70,Duke University,USA,High income,duke,covered
+71,Lund University,Sweden,High income,lund,covered
+72,University of Texas at Austin,USA,High income,utaustin,covered
+73,Sorbonne University,France,High income,sorbonne,covered
+74,University of Illinois Urbana-Champaign,USA,High income,uiuc,covered
+75,Trinity College Dublin,Ireland,High income,tcd,covered
+76,Université Paris-Saclay,France,High income,paris-saclay,covered
+=77,University of Leeds,United Kingdom,High income,leeds,covered
+=77,University of Western Australia,Australia,High income,uwa,covered
+79,Adelaide University,Australia,High income,adelaide,covered
+80,University of Glasgow,United Kingdom,High income,glasgow,covered
+81,"University of California, San Diego (UCSD)",USA,High income,ucsd,covered
+=82,KTH Royal Institute of Technology,Sweden,High income,kth,covered
+=82,University of Sheffield,United Kingdom,High income,sheffield,covered
+84,Universidad de Buenos Aires (UBA),Argentina,Upper-middle income,,excluded-non-high-income
+85,Durham University,United Kingdom,High income,durham,covered
+86,Universität Heidelberg,Germany,High income,heidelberg,covered
+=87,Politecnico di Milano,Italy,High income,polimi,covered
+=87,University of Technology Sydney (UTS),Australia,High income,uts,covered
+=87,Uppsala University,Sweden,High income,uppsala,covered
+=90,Nanjing University,China,Upper-middle income,,excluded-non-high-income
+=90,University of Copenhagen,Denmark,High income,ucph,covered
+=92,Pennsylvania State University,USA,High income,pennstate,covered
+=92,University of Washington,USA,High income,uwashington,covered
+94,Boston University,USA,High income,bostonu,covered
+95,The University of Osaka,Japan,High income,,add
+96,University of Alberta,Canada,High income,ualberta,covered
+=97,Institute of Science Tokyo,Japan,High income,,add
+=97,University of Nottingham,United Kingdom,High income,nottingham,covered
+=98,Freie Universität Berlin,Germany,High income,fuberlin,covered
+=98,University of Zurich,Switzerland,High income,uzh,covered
+=100,Purdue University,USA,High income,purdue,covered
+=100,University College Dublin,Ireland,High income,ucd,covered
+102,Tohoku University,Japan,High income,,add
+103,Queen Mary University of London,United Kingdom,High income,qmul,covered
+104,RWTH Aachen University,Germany,High income,rwth,covered
+105,Technical University of Denmark,Denmark,High income,dtu,covered
+106,Pohang University of Science and Technology (POSTECH),South Korea,High income,,add
+107,King Saud University,Saudi Arabia,High income,,add
+108,Sungkyunkwan University (SKKU),South Korea,High income,,add
+109,Qatar University,Qatar,High income,,add
+110,Karlsruhe Institute of Technology (KIT),Germany,High income,kit,covered
+=111,Sapienza University of Rome,Italy,High income,,add
+=111,University of Southampton,United Kingdom,High income,southampton,covered
+=113,University of Waterloo,Canada,High income,waterloo,covered
+=113,Utrecht University,Netherlands,High income,utrecht,covered
+=115,Lomonosov Moscow State University,Russia,High income,,add
+=115,University of St Andrews,United Kingdom,High income,standrews,covered
+118,Indian Institute of Technology Delhi (IITD),India,Lower-middle income,,excluded-non-high-income
+=119,Leiden University,Netherlands,High income,leiden,covered
+=119,Pontificia Universidad Católica de Chile (UC),Chile,High income,,add
+=119,RMIT University,Australia,High income,,add
+122,Rice University,USA,High income,rice,covered
+=123,University of Bologna,Italy,High income,unibo,covered
+=123,University of Helsinki,Finland,High income,helsinki,covered
+125,University of Bath,United Kingdom,High income,bath,covered
+=126,Aalto University,Finland,High income,aalto,covered
+=126,Macquarie University,Australia,High income,macquarie,covered
+=128,Aarhus University,Denmark,High income,aarhus,covered
+=128,Universiti Sains Malaysia (USM),Malaysia,Upper-middle income,,excluded-non-high-income
+130,Universiti Kebangsaan Malaysia (UKM),Malaysia,Upper-middle income,,excluded-non-high-income
+=131,University of Oslo,Norway,High income,uio,covered
+=131,University of Wisconsin-Madison,USA,High income,wisconsin,covered
+133,Universidade de São Paulo (USP),Brazil,Upper-middle income,,excluded-non-high-income
+=134,Indian Institute of Technology Bombay (IITB),India,Lower-middle income,,excluded-non-high-income
+=134,University of Science and Technology of China (USTC),China,Upper-middle income,,excluded-non-high-income
+136,University of Exeter,United Kingdom,High income,exeter,covered
+137,"University of California, Davis",USA,High income,ucdavis,covered
+138,Universiti Putra Malaysia (UPM),Malaysia,Upper-middle income,,excluded-non-high-income
+139,University of Liverpool,United Kingdom,High income,liverpool,covered
+=140,Humboldt-Universität zu Berlin,Germany,High income,,add
+=140,University of Vienna,Austria,High income,univie,covered
+=142,Georgia Institute of Technology,USA,High income,georgiatech,covered
+=142,National Tsing Hua University (NTHU),Taiwan,High income,,add
+=142,Western University,Canada,High income,western,covered
+145,Universidad Nacional Autónoma de México (UNAM),Mexico,Upper-middle income,,excluded-non-high-income
+146,Tongji University,China,Upper-middle income,,excluded-non-high-income
+147,Khalifa University,United Arab Emirates,High income,,add
+148,Erasmus University Rotterdam,Netherlands,High income,,screen-check-stem-phd
+149,Newcastle University,United Kingdom,High income,newcastle,covered
+=150,Ghent University,Belgium,High income,ugent,covered
+=150,University of Basel,Switzerland,High income,unibas,covered
+152,Eindhoven University of Technology,Netherlands,High income,tue,covered
+153,University of Southern California,USA,High income,usc,covered
+154,Wageningen University & Research,Netherlands,High income,wur,covered
+155,Hanyang University,South Korea,High income,,add
+156,Nagoya University,Japan,High income,,add
+157,University of Groningen,Netherlands,High income,groningen,covered
+=158,Technische Universität Berlin,Germany,High income,tuberlin,covered
+=158,Universiti Teknologi Malaysia (UTM),Malaysia,Upper-middle income,,excluded-non-high-income
+=158,University of North Carolina at Chapel Hill,USA,High income,unc,covered
+=158,University of York,United Kingdom,High income,york-uk,add
+=162,Université de Montréal,Canada,High income,umontreal,covered
+=162,Washington University in St. Louis,USA,High income,washu,covered
+164,Lancaster University,United Kingdom,High income,lancaster,add
+=165,Universitat de Barcelona,Spain,High income,,add
+=165,Wuhan University,China,Upper-middle income,,excluded-non-high-income
+167,Stockholm University,Sweden,High income,stockholm,covered
+168,University of Geneva,Switzerland,High income,unige,covered
+169,Texas A&M University,USA,High income,tamu,covered
+170,Indian Institute of Technology Madras (IITM),India,Lower-middle income,,excluded-non-high-income
+171,Kyushu University,Japan,High income,,add
+172,Arizona State University,USA,High income,asu,covered
+173,"University of California, Santa Barbara (UCSB)",USA,High income,ucsb,covered
+=174,Chalmers University of Technology,Sweden,High income,chalmers,covered
+=174,McMaster University,Canada,High income,mcmaster,covered
+=174,Queen's University Belfast,United Kingdom,High income,qub,add
+=177,Al-Farabi Kazakh National University,Kazakhstan,Upper-middle income,,excluded-non-high-income
+=177,National Yang Ming Chiao Tung University (NYCU),Taiwan,High income,,add
+=179,Cardiff University,United Kingdom,High income,cardiff,covered
+=179,Hokkaido University,Japan,High income,,add
+=179,Queen's University,Canada,High income,queens,covered
+182,Michigan State University,USA,High income,msu,covered
+183,Emory University,USA,High income,emory,covered
+184,University of Cape Town,South Africa,Upper-middle income,,excluded-non-high-income
+=185,Technische Universität Dresden,Germany,High income,tudresden,covered
+=185,Universidad de Chile,Chile,High income,,add
+=185,Vrije Universiteit Amsterdam,Netherlands,High income,,add
+188,Tecnológico de Monterrey,Mexico,Upper-middle income,,excluded-non-high-income
+189,Curtin University,Australia,High income,,add
+190,Harbin Institute of Technology,China,Upper-middle income,,excluded-non-high-income
+=191,National Cheng Kung University (NCKU),Taiwan,High income,,add
+=191,TU Wien,Austria,High income,tuwien,covered
+=191,Universitas Indonesia,Indonesia,Upper-middle income,,excluded-non-high-income
+=191,University of Bern,Switzerland,High income,unibe,covered
+195,University of Wollongong,Australia,High income,,add
+=196,Université catholique de Louvain (UCLouvain),Belgium,High income,,add
+=196,University of Reading,United Kingdom,High income,,add
+198,University of Otago,New Zealand,High income,otago,covered
+199,Complutense University of Madrid,Spain,High income,,add
+200,King Abdulaziz University (KAU),Saudi Arabia,High income,,add
+=201,The Ohio State University,USA,High income,ohiostate,covered
+=201,Waseda University,Japan,High income,,add
+203,Loughborough University,United Kingdom,High income,loughborough,add
+204,University of Padova,Italy,High income,padova,covered
+205,Indian Institute of Technology Kharagpur (IIT-KGP),India,Lower-middle income,,excluded-non-high-income
+=206,Universitas Gadjah Mada,Indonesia,Upper-middle income,,excluded-non-high-income
+=206,Politecnico di Torino,Italy,High income,polito,covered
+208,Tel Aviv University,Israel,High income,,add
+=209,University of Bonn,Germany,High income,bonn-cologne,covered
+=209,University of Hamburg,Germany,High income,hamburg,covered
+211,Universitat Autònoma de Barcelona,Spain,High income,,add
+212,Chulalongkorn University,Thailand,Upper-middle income,,excluded-non-high-income
+=213,Hamad Bin Khalifa University (HBKU),Qatar,High income,,add
+=213,Keio University,Japan,High income,,add
+215,Massey University,New Zealand,High income,,add
+216,Hong Kong Baptist University,Hong Kong,High income,,add
+217,United Arab Emirates University,United Arab Emirates,High income,,add
+=218,Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany,High income,,add
+=218,Hebrew University of Jerusalem,Israel,High income,,add
+220,University College Cork,Ireland,High income,,add
+=221,Indian Institute of Science (IISc),India,Lower-middle income,,excluded-non-high-income
+=221,Indian Institute of Technology Kanpur (IITK),India,Lower-middle income,,excluded-non-high-income
+=223,American University of Beirut (AUB),Lebanon,Lower-middle income,,excluded-non-high-income
+=223,University of Twente,Netherlands,High income,twente,covered
+225,University of Gothenburg,Sweden,High income,,add
+226,Universidad Autónoma de Madrid,Spain,High income,,add
+227,Deakin University,Australia,High income,,add
+=228,University of Florida,USA,High income,ufl,covered
+=228,University of Ottawa,Canada,High income,uottawa,covered
+=230,University of Tübingen,Germany,High income,tuebingen,covered
+=230,Griffith University,Australia,High income,,add
+=230,University of Strathclyde,United Kingdom,High income,,add
+=233,Universidad de los Andes,Colombia,Upper-middle income,,excluded-non-high-income
+=233,University of Lausanne,Switzerland,High income,,add
+=235,École Normale Supérieure de Lyon,France,High income,,add
+=235,Tianjin University,China,Upper-middle income,,excluded-non-high-income
+=237,Beijing Normal University,China,Upper-middle income,,excluded-non-high-income
+=237,University of Lisbon,Portugal,High income,,add
+239,Central European University,Austria,High income,,screen-check-stem-phd
+240,Queensland University of Technology (QUT),Australia,High income,qut,covered
+=241,La Trobe University,Australia,High income,,add
+=241,Victoria University of Wellington,New Zealand,High income,vuw,covered
+243,Beijing Institute of Technology,China,Upper-middle income,,excluded-non-high-income
+244,"The University of Newcastle, Australia",Australia,High income,,add
+245,University of Freiburg,Germany,High income,freiburg,covered
+=246,Université Paris 1 Panthéon-Sorbonne,France,High income,,screen-check-stem-phd
+=246,University of Surrey,United Kingdom,High income,surrey,add
+248,Université libre de Bruxelles (ULB),Belgium,High income,,add
+249,University of Calgary,Canada,High income,calgary,covered
+250,Technical University of Darmstadt,Germany,High income,,add
+251,University of Rochester,USA,High income,rochester,covered
+=252,"University of California, Irvine",USA,High income,uci,covered
+=252,"University of Maryland, College Park",USA,High income,maryland,covered
+254,Maastricht University,Netherlands,High income,,screen-check-stem-phd
+=255,University of Minnesota,USA,High income,minnesota,covered
+=255,University of Porto,Portugal,High income,,add
+257,University of Canterbury,New Zealand,High income,canterbury-nz,covered
+=258,American University of Sharjah (AUS),United Arab Emirates,High income,,screen-check-stem-phd
+=258,Sun Yat-sen University,China,Upper-middle income,,excluded-non-high-income
+260,University of Massachusetts Amherst,USA,High income,umass,covered
+=261,Universiti Teknologi PETRONAS (UTP),Malaysia,Upper-middle income,,excluded-non-high-income
+=261,University of Göttingen,Germany,High income,goettingen,covered
+263,Universitat Pompeu Fabra,Spain,High income,,add
+264,Norwegian University of Science and Technology (NTNU),Norway,High income,ntnu,covered
+265,Vanderbilt University,USA,High income,vanderbilt,covered
+266,Singapore University of Technology and Design (SUTD),Singapore,High income,,add
+267,University of Macau,Macao,High income,,add
+268,University of Virginia,USA,High income,virginia,covered
+269,University of Cologne,Germany,High income,bonn-cologne,covered
+=270,Dartmouth College,USA,High income,dartmouth,covered
+=270,University of Milan,Italy,High income,,add
+272,Taylor's University,Malaysia,Upper-middle income,,excluded-non-high-income
+=273,Charles University,Czechia,High income,,add
+=273,University of Sussex,United Kingdom,High income,sussex,add
+275,University of Galway,Ireland,High income,,add
+276,Universitas Airlangga,Indonesia,Upper-middle income,,excluded-non-high-income
+=277,Universidade Estadual de Campinas (Unicamp),Brazil,Upper-middle income,,excluded-non-high-income
+=277,University of Antwerp,Belgium,High income,,add
+=279,Istanbul Technical University,Türkiye,Upper-middle income,,excluded-non-high-income
+=279,University of Navarra,Spain,High income,,add
+=279,University of Pittsburgh,USA,High income,pitt,covered
+282,UCSI University,Malaysia,Upper-middle income,,excluded-non-high-income
+=283,Radboud University,Netherlands,High income,,add
+=283,University of Bergen,Norway,High income,,add
+=283,University of Sharjah,United Arab Emirates,High income,,add
+=283,University of Southern Denmark (SDU),Denmark,High income,,add
+287,Institut Teknologi Bandung (ITB),Indonesia,Upper-middle income,,excluded-non-high-income
+288,University of Aberdeen,United Kingdom,High income,aberdeen,add
+=289,Georgetown University,USA,High income,georgetown,covered
+=289,University of Warsaw,Poland,High income,,add
+291,Swinburne University of Technology,Australia,High income,,add
+292,University of Johannesburg,South Africa,Upper-middle income,,excluded-non-high-income
+=293,Universidad Nacional de Colombia,Colombia,Upper-middle income,,excluded-non-high-income
+=293,University of Waikato,New Zealand,High income,,add
+295,Vrije Universiteit Brussel (VUB),Belgium,High income,,add
+=296,Stellenbosch University,South Africa,Upper-middle income,,excluded-non-high-income
+=296,Xi'an Jiaotong University,China,Upper-middle income,,excluded-non-high-income
+298,Dalhousie University,Canada,High income,dalhousie,covered
+299,Ulsan National Institute of Science and Technology (UNIST),South Korea,High income,,add
+=300,Sichuan University,China,Upper-middle income,,excluded-non-high-income
+=300,University of Notre Dame,USA,High income,notredame,covered
