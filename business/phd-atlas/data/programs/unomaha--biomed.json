@@ -1,0 +1,84 @@
+{
+  "id": "unomaha--biomed",
+  "university": "unomaha",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "School of Interdisciplinary Informatics",
+  "program_page": "https://catalog.unomaha.edu/graduate/degree-programs-certificates-minors/biomedical-informatics/biomedical-informatics-phd/",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-07-01",
+      "value": "Fall 2027 application deadline is July 1 (Spring 2027 December 1; Summer 2027 April 1).",
+      "quote": "Fall 2027: July 1",
+      "url": "https://catalog.unomaha.edu/graduate/degree-programs-certificates-minors/biomedical-informatics/biomedical-informatics-phd/",
+      "time_sensitive": "2027-07-01",
+      "also": [
+        {
+          "quote": "Fall Term – July 1",
+          "url": "https://www.unomaha.edu/college-of-information-science-and-technology/phd-biomedical-informatics/prospective-students/deadlines-and-forms.php"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "All Ph.D. applicants must submit a valid GRE (or GMAT) score regardless of assistantship interest (minimum target 310/336 GRE or >80th percentile GMAT, though Doctoral Program Committee may grant individual waivers).",
+      "quote": "All applicants to the Ph.D. program are required to have a valid GRE/GMAT score, irrespective of whether they are applying for an assistantship or not.",
+      "url": "https://www.unomaha.edu/college-of-information-science-and-technology/phd-biomedical-informatics/prospective-students/frequently-asked-questions.php",
+      "also": [
+        {
+          "quote": "Applicants must score 310 out of 336 on the Graduate Record Exam (GRE) or above the 80th percentile on the Graduate Management Admission Test (GMAT).",
+          "url": "https://www.unomaha.edu/college-of-information-science-and-technology/phd-biomedical-informatics/prospective-students/index.php"
+        },
+        {
+          "quote": "GRE requirement may be waived for students on an individual basis based on a review by the Doctoral Program Committee.",
+          "url": "https://catalog.unomaha.edu/graduate/degree-programs-certificates-minors/biomedical-informatics/biomedical-informatics-phd/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers GRE Subject Tests only in Mathematics, Physics, and Psychology (none in Biomedical Informatics).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "Program requires internet-based TOEFL 90 (above Graduate Council's 80 / 4.0 new-scale minimum).",
+      "quote": "Internet-based TOEFL: 90, IELTS: 7.0, PTE: 64, Duolingo: 120",
+      "url": "https://catalog.unomaha.edu/graduate/degree-programs-certificates-minors/biomedical-informatics/biomedical-informatics-phd/"
+    },
+    "ielts_min": {
+      "code": "7.0",
+      "value": "Program requires IELTS 7.0 (above Graduate Council's 6.5 minimum).",
+      "quote": "Internet-based TOEFL: 90, IELTS: 7.0, PTE: 64, Duolingo: 120",
+      "url": "https://catalog.unomaha.edu/graduate/degree-programs-certificates-minors/biomedical-informatics/biomedical-informatics-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Applications are evaluated by the Doctoral Program Committee with attention to research alignment with IS&T faculty; no pre-application advisor confirmation is stated.",
+      "quote": "",
+      "url": "https://catalog.unomaha.edu/graduate/degree-programs-certificates-minors/biomedical-informatics/biomedical-informatics-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Competitive UNO Graduate Assistantships (20 hrs/week, monthly salary, tuition remission up to 12 credits/semester, subsidized health insurance; limited to 6 semesters beyond a master's; selected individually by departments).",
+      "quote": "As a graduate assistant you will be considered a UNO employee with a tuition waiver, monthly salary, and subsidized health insurance. | doctoral students are limited to six (6) semesters beyond their master's degree.",
+      "url": "https://catalog.unomaha.edu/graduate/financing-education/graduate-assistantships/",
+      "also": [
+        {
+          "quote": "GAs are selected by each department individually, so please contact your department's office to apply.",
+          "url": "https://www.unomaha.edu/office-of-graduate-studies/prospective-students/affording-your-education.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Requires a baccalaureate degree (3.5+ GPA recommended) with preference given to applicants holding a related master's or doctoral degree; 90 credits beyond the bachelor's with up to 24 prior graduate credits transferable.",
+      "quote": "successfully completed a baccalaureate degree from an accredited institution: preference will be given to students with a master's or doctoral degree from a related field. | A maximum of 24 credit hours of graduate coursework can be transferred from courses taken in a graduate program prior to admission into the PhD in BMI.",
+      "url": "https://catalog.unomaha.edu/graduate/degree-programs-certificates-minors/biomedical-informatics/biomedical-informatics-phd/"
+    }
+  },
+  "notes": "Joint doctoral program offered by UNO and the University of Nebraska Medical Center (UNMC). Requires 3 letters of recommendation, CV, 2-page statement of purpose, and a writing sample/research portfolio; admission statement notes PTE 61 vs Catalog PTE 64 (Catalog used).",
+  "name": "Biomedical Informatics, Ph.D."
+}

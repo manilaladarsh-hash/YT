@@ -1,0 +1,74 @@
+{
+  "id": "unomaha--cs",
+  "university": "unomaha",
+  "field": "cs",
+  "also_fields": [
+    "datasci"
+  ],
+  "department": "College of Information Science & Technology",
+  "program_page": "https://catalog.unomaha.edu/graduate/degree-programs-certificates-minors/information-technology/information-technology-phd/",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Fall 2027 priority deadline is February 1 for applicants seeking funding (April 1 for all other Fall applicants; Spring 2027 deadline September 15).",
+      "quote": "Fall 2027: Applicants seeking funding February 1, all other applicants April 1",
+      "url": "https://catalog.unomaha.edu/graduate/degree-programs-certificates-minors/information-technology/information-technology-phd/",
+      "time_sensitive": "2027-02-01"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General is required for most applicants (typical competitive scores 150V / 160Q); automatically waived for a U.S. computing M.S. with GPA >= 3.3, and waiver petitions are accepted >= 1 month before deadline for U.S. computing B.S. >= 3.6 GPA, 5+ years U.S. IT experience, or peer-reviewed computing publications.",
+      "quote": "Graduate Record Examination (GRE) scores are required for most applicants but are only one component of a holistic admission decision.",
+      "url": "https://catalog.unomaha.edu/graduate/degree-programs-certificates-minors/information-technology/information-technology-phd/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers GRE Subject Tests only in Mathematics, Physics, and Psychology (none in Computer Science or Data Science).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "toefl_min": {
+      "code": "90",
+      "value": "Program requires internet-based TOEFL 90 (above Graduate Council's 80 / 4.0 new-scale minimum).",
+      "quote": "Internet-based TOEFL: 90, IELTS: 7.0, PTE: 61, Duolingo: 120",
+      "url": "https://catalog.unomaha.edu/graduate/degree-programs-certificates-minors/information-technology/information-technology-phd/"
+    },
+    "ielts_min": {
+      "code": "7.0",
+      "value": "Program requires IELTS 7.0 (above Graduate Council's 6.5 minimum).",
+      "quote": "Internet-based TOEFL: 90, IELTS: 7.0, PTE: 61, Duolingo: 120",
+      "url": "https://catalog.unomaha.edu/graduate/degree-programs-certificates-minors/information-technology/information-technology-phd/"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are advised to identify matching faculty in their statement of purpose and reach out via email to faculty prior to applying.",
+      "quote": "identify specific research areas that interest you in your statement of purpose, and explicitly mention faculty names with whom you see a good match. Feel free to reach out via email to our faculty prior to submitting your application to discuss your interest.",
+      "url": "https://catalog.unomaha.edu/graduate/degree-programs-certificates-minors/information-technology/information-technology-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Competitive Graduate Assistantships (20 hrs/week, monthly salary, tuition waiver up to 12 credits/semester, subsidized health insurance, capped at 6 semesters beyond a master's) and doctoral fellowships (separate fellowship interest letter; Feb 1 funding deadline).",
+      "quote": "If you are interested in applying for a doctoral fellowship, please submit a letter stating your interest in the fellowship | Fall 2027: Applicants seeking funding February 1",
+      "url": "https://catalog.unomaha.edu/graduate/degree-programs-certificates-minors/information-technology/information-technology-phd/",
+      "also": [
+        {
+          "quote": "As a graduate assistant you will be considered a UNO employee with a tuition waiver, monthly salary, and subsidized health insurance. | doctoral students are limited to six (6) semesters beyond their master's degree.",
+          "url": "https://catalog.unomaha.edu/graduate/financing-education/graduate-assistantships/"
+        },
+        {
+          "quote": "Partner with faculty on funded research projects | Gain experience through research assistantships",
+          "url": "https://www.unomaha.edu/college-of-information-science-and-technology/academics/computing_and_information_science_phd.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with an earned bachelor's or master's degree in a computing discipline may apply directly to the 90-credit Ph.D.; up to 24 foundation credits may transfer from a prior computing master's degree.",
+      "quote": "Applicants with an earned undergraduate or graduate degree in a computing discipline (e.g., computer science, management information systems, bioinformatics, cybersecurity or a closely related discipline) can apply for admission to the PhD program. | Credit for graduate computing-related coursework in a prior degree may only be used to satisfy foundation course hours in the plan of study.",
+      "url": "https://catalog.unomaha.edu/graduate/degree-programs-certificates-minors/information-technology/information-technology-phd/"
+    }
+  },
+  "notes": "STEM-OPT eligible Ph.D. in Computing & Information Science covering core computer science, cybersecurity, data analytics, and the Artificial Intelligence Concentration (also mapped to datasci), plus Computing Systems, Human-Centered Computing, and IT Project Management concentrations. Requires 90 graduate credits, statement of purpose (max 2 pages), CV, 2 letters of recommendation (3rd optional), and GRE waiver requests at least 1 month before the deadline.",
+  "name": "Computing & Information Science, Ph.D."
+}
