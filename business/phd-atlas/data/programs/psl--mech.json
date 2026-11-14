@@ -1,0 +1,54 @@
+{
+  "id": "psl--mech",
+  "university": "psl",
+  "field": "mech",
+  "also_fields": [],
+  "department": "Engineering, Applied Sciences and Innovation (ISAI) / Mechanical & Systems Engineering (ED 621 ISMME & ED 391 SMAER)",
+  "program_page": "https://www.minesparis.psl.eu/ismme/",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "Standard 3-year PhD enrollment runs September 1 to mid-December after supervisor, funding, and doctoral-school jury selection; Fall 2027 doctoral-contract competition dates are not yet published (separate 5-year Bachelor-entry PhD Track call runs Oct 14 - Dec 14, 2026).",
+      "quote": "This generally takes place from September 1st until mid-December for the current year.",
+      "url": "https://psl.eu/en/education/find-your-curriculum/doctoral-college-universite-psl"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Doctoral candidates must obtain agreement from an accredited dissertation advisor (HDR) and admission to a PSL-affiliated research unit before enrolling.",
+      "quote": "Before enrolling in the program, doctoral students must obtain approval from their dissertation advisor and be admitted to a research unit or team that belongs to a PSL-accredited or co-accredited doctoral school.",
+      "url": "https://psl.eu/en/education/find-your-curriculum/doctoral-college-universite-psl",
+      "also": [
+        {
+          "quote": "Pour être admis en doctorat, le candidat doit trouver un directeur de thèse habilité à diriger des recherches (HDR) avec qui il s’accorde sur un projet",
+          "url": "https://www.minesparis.psl.eu/ismme/la-vie-de-lecole-doctorale/sujets-de-these-candidatures-et-recrutement/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Doctoral contracts are allocated competitively via Graduate Program and Doctoral School juries (alongside CIFRE industrial agreements, ANR/agency grants, and international fellowships); secured 3-year funding is generally required to enroll in science/engineering schools.",
+      "quote": "Each graduate program assigns doctoral contracts to doctoral schools accredited or co-accredited by Université PSL and affiliated with the graduate program. | Doctoral school students are selected by a jury usually comprised of PSL faculty and external members.",
+      "url": "https://psl.eu/en/education/find-your-curriculum/doctoral-college-universite-psl",
+      "also": [
+        {
+          "quote": "Toutes les sujets de thèse proposés par les laboratoires de l’École Doctorale garantissent un financement sur 3 ans du doctorant au moins égal au montant du contrat doctoral de droit public.",
+          "url": "https://www.minesparis.psl.eu/ismme/la-vie-de-lecole-doctorale/sujets-de-these-candidatures-et-recrutement/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A Master's degree or equivalent is required for standard 3-year PhD admission under French national doctoral regulations (Article 10) and constituent-school rules; PSL also offers a separate 5-year Bachelor-entry PhD Track in select Graduate Programs.",
+      "quote": "Prérequis : pour être inscrit en doctorat, le candidat doit être titulaire d’un diplôme de l’union européenne de master ou d’un autre diplôme conférant le grade de master (diplôme d’ingénieur ou d’architecte)",
+      "url": "https://www.minesparis.psl.eu/ismme/la-vie-de-lecole-doctorale/sujets-de-these-candidatures-et-recrutement/"
+    }
+  },
+  "notes": "ED 621 ISMME (Mines Paris - PSL, Chimie ParisTech - PSL) requires a Master's/engineering degree, supervisor agreement, and CEFR B2 English proficiency (oral/written check if no certificate is supplied; A2/B1 French recommended for non-French speakers) and guarantees 3-year funding on all published ED thesis offers; also connected with ED 391 SMAER (Mechanical, Acoustic, Electronic and Robotic Sciences, https://ed391.sorbonne-universite.fr/)."
+}
