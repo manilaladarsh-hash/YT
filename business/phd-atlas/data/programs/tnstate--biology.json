@@ -1,0 +1,56 @@
+{
+  "id": "tnstate--biology",
+  "university": "tnstate",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Department of Biological Sciences",
+  "program_page": "https://catalog.tnstate.edu/preview_program.php?catoid=20&poid=3539&returnto=1172",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-15",
+      "value": "Graduate Catalog admissions policies list Biological Sciences Ph.D. Fall admission only as August 1 - November 15; however, the Biological Sciences Ph.D. catalog entry itself states rolling admission with all documents due July 1 for Fall (December 1 for Spring/Summer).",
+      "quote": "Biological Sciences Doctoral Program | Fall Admission only August 1 - November 15",
+      "url": "https://catalog.tnstate.edu/content.php?catoid=20&navoid=1154",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "There is no priority deadline. Admission is done by a rolling deadline, and all documents must be submitted by July 1st for the FALL semester, and December 1st for the SPRING and SUMMER semesters.",
+          "url": "https://catalog.tnstate.edu/preview_program.php?catoid=20&poid=3539&returnto=1172"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS discontinued the GRE Biology Subject Test in May 2021; the department states no subject test requirement.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Admissions decisions are made by the Departmental admissions committee based on application materials and interviews with selected applicants; pre-admission supervisor agreement is not explicitly stated.",
+      "quote": "",
+      "url": "https://catalog.tnstate.edu/preview_program.php?catoid=20&poid=3539&returnto=1172"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate Assistantships (~20 hours/week in research, teaching, or administration) provide a monthly stipend and most include tuition and fees; Title III doctoral assistantships pay $3,000/month plus in-state tuition for up to 4 years (POTUS Fellowships are U.S. citizen/permanent resident only).",
+      "quote": "Graduate Assistants are required to work approximately 20 hours per week. ... Appointments provide a monthly stipend and most include tuition and fees.",
+      "url": "https://www.tnstate.edu/academics/graduate-studies/financial-aid/",
+      "also": [
+        {
+          "quote": "$3,000 monthly stipend for doctoral students | In-state tuition while under contract | Doctoral students are eligible for up to 4 years maximum of support",
+          "url": "https://www.tnstate.edu/administration/title-iii/ga/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Requires a bachelor's degree (3.0+ GPA) with at least 24 acceptable semester hours in biology and prerequisite science/math courses; students entering with a master's degree may transfer up to 30 applicable credits toward the 76-credit Ph.D.",
+      "quote": "Applicants are required to have accumulated a minimum of 24 acceptable semester hours in biology plus a Bachelor’s degree from an accredited four-year college or university with a GPA of 3.0 or higher",
+      "url": "https://catalog.tnstate.edu/preview_program.php?catoid=20&poid=3539&returnto=1172"
+    }
+  },
+  "notes": "Requires Cell Biology, General Biology, Genetics, Biochemistry, Pre-Calculus or higher, Physics, and Statistics prerequisites plus 3 letters of recommendation and personal statement.",
+  "name": "Biological Sciences, Ph.D."
+}
