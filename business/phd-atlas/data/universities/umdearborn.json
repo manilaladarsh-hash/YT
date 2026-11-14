@@ -1,0 +1,53 @@
+{
+  "id": "umdearborn",
+  "institution": "University of Michigan-Dearborn",
+  "country": "USA",
+  "region": "Michigan",
+  "grad_page": "https://umdearborn.edu/admissions-aid/graduate-applicants/apply-graduate-student",
+  "checked": "2026-11-14",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "$60 non-refundable graduate application fee per program application.",
+      "quote": "Submission requires a $60 application fee. UM-Dearborn offers limited application fee waivers on a first-come, first-serve basis. The fee is nonrefundable and cannot be applied toward tuition or other fees.",
+      "url": "https://umdearborn.edu/admissions-aid/graduate-applicants/apply-graduate-student"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Limited first-come, first-served waivers: international applicants qualify if they are current Fulbright Scholars, UM-Dearborn students/alumni/employees, citizens/residents of countries with SWIFT banking sanctions, or attendees who check in at an eligible recruitment event (financial need waivers are restricted to U.S. citizens/permanent residents).",
+      "quote": "UM-Dearborn has a defined policy for granting application fee waivers, which are considered on a first-come, first-serve basis. | Current Fulbright or McNair Scholar with award letter | U.S. citizens or legal permanent residents demonstrating extreme financial need (financial need waivers are not available to international applicants) | Applicants from countries with SWIFT banking sanctions in place will be considered for a waiver | Attend an eligible recruitment event",
+      "url": "https://umdearborn.edu/admissions-aid/graduate-applicants/planning-graduate-school/application-fee-waivers"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE/GMAT is not required for UM-Dearborn graduate programs (optional; admissions committee may request scores during holistic review if needed to demonstrate readiness).",
+      "quote": "Note: our graduate programs do not require the GRE or GMAT. If received, they will be linked to your application file and weighed at the discretion of the review committee during decision review.",
+      "url": "https://catalog.umd.umich.edu/graduate/graduate-admissions/",
+      "also": [
+        {
+          "quote": "Our graduate programs do not require the GRE or GMAT. If you submit test scores, we will link them to your application file and the review committee may consider them during the admissions decision process.",
+          "url": "https://umdearborn.edu/admissions-aid/graduate-applicants/apply-graduate-student"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "84",
+      "value": "Minimum TOEFL iBT score of 84 overall is required for Ph.D. programs (higher than the 79 overall minimum for most master's programs; ETS code 1861; Duolingo 105 or MET 59 also accepted).",
+      "quote": "Overall 79 for most programs; 84 overall for PhD, EdD, EdS, and Psychology (MS)",
+      "url": "https://catalog.umd.umich.edu/graduate/graduate-admissions/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic score of 6.5 overall required for graduate admission.",
+      "quote": "IELTS | Overall 6.5",
+      "url": "https://catalog.umd.umich.edu/graduate/graduate-admissions/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Applicants who have earned or will earn a bachelor's or master's degree from an institution where the language of instruction is exclusively English (including India) may be exempt from submitting an official English proficiency score; institutional verification may be required.",
+      "quote": "Applicants who have earned or will earn a bachelor's or master's degree from an institution where the language of instruction is exclusively English may be exempt from submitting an Official English Proficiency Score. Verification from the school may be required.",
+      "url": "https://catalog.umd.umich.edu/graduate/graduate-admissions/"
+    }
+  },
+  "notes": "UM-Dearborn's 4 research Ph.D. programs are Rackham Graduate School (University of Michigan-Ann Arbor) programs located, administered, and offered by UM-Dearborn within the College of Engineering and Computer Science (CECS). 3 programs map to the 18 Atlas fields: cs (Computer and Information Science, also datasci), ece (Electrical, Electronics, and Computer Engineering), and mech (Mechanical Sciences and Engineering, also bme & materials). The 4th Ph.D. — Industrial and Systems Engineering (https://umdearborn.edu/academics/program/industrial-and-systems-engineering-phd; master's required GPA >= 3.5, Jan 15 Fall / Aug 1 Winter deadline, 5-year guaranteed GSI/GSRA funding, no GRE required) — has no standalone Industrial Engineering category in the 18 Atlas fields and is noted here. Excluded professional and non-STEM doctorates: Doctor of Engineering (D.Eng.) in Automotive Systems and Mobility and in Electrical and Computer Engineering (geared toward working professionals with >= 2 years industry experience), and Ed.D. in Education."
+}

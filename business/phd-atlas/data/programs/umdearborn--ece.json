@@ -1,0 +1,56 @@
+{
+  "id": "umdearborn--ece",
+  "university": "umdearborn",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical and Computer Engineering",
+  "program_page": "https://umdearborn.edu/academics/program/electrical-electronics-and-computer-engineering-phd",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Strict Fall 2027 deadline: January 15, 2027 (Winter term deadline: August 1).",
+      "quote": "This program operates on a strict deadline. All application and materials must be submitted by January 15 for Fall consideration and August 1 for Winter consideration.",
+      "url": "https://umdearborn.edu/academics/program/electrical-electronics-and-computer-engineering-phd",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Electrical and Computer Engineering (ETS offers Subject Tests only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applications are reviewed by the ECE department; enrolled Ph.D. students receive guidance from an assigned faculty advisor and mentor.",
+      "quote": "Ph.D. students receive academic and research guidance from their assigned faculty advisor and mentor.",
+      "url": "https://umdearborn.edu/cecs/departments/electrical-and-computer-engineering/graduate-programs",
+      "also": [
+        {
+          "quote": "Individual CECS departments review all applications for program admission requirements and make decisions on each applicant.",
+          "url": "https://umdearborn.edu/cecs/graduate-programs/admissions"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All Ph.D. EECE students receive full funding via GSI and/or GSRA appointments (monthly stipend, health insurance, and tuition waiver) guaranteed for up to 5 years with good standing.",
+      "quote": "To lessen financial concerns, all PhD students receive full funding in the form of appointments as a graduate student instructor, a research assistant, or both. The appointments provide a monthly stipend, health insurance, and a tuition waiver. Students are guaranteed full funding for up to five years provided they maintain good academic standing and adequate progress toward their degree.",
+      "url": "https://umdearborn.edu/academics/program/electrical-electronics-and-computer-engineering-phd"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admits students with a bachelor's or master's degree in ECE/CS (expected GPA >= 3.2; 36 coursework + 24 dissertation credits for direct B.S. entrants, with optional embedded M.S. in EE or CE).",
+      "quote": "Electrical, Electronics and Computer Engineering (PhD) | Previous Degrees Required | Bachelor or master's degree in electrical and/or computer engineering or computer science with an expected GPA of 3.2 or higher on a 4-point scale",
+      "url": "https://catalog.umd.umich.edu/graduate/graduate-admissions/prerequisites-by-college/college-engineering-and-computer-science/",
+      "also": [
+        {
+          "quote": "The EECE Ph.D. degree requirements include a minimum of 36 credits of coursework and a minimum of 24 credit hours of dissertation credits for Ph.D. students entering the program without a prior M.S. degree.",
+          "url": "https://catalog.umd.umich.edu/graduate/college-engineering-computer-science/electrical-computer-engineering/"
+        }
+      ]
+    }
+  },
+  "notes": "Rackham Ph.D. in Electrical, Electronics, and Computer Engineering offered by UM-Dearborn ECE (core areas: Computer Systems & Networks; Control Systems & Signal Processing; Electronics, Optoelectronics, Power & Energy Systems; Intelligent Systems & Robotics). Separate part-time/working-professional D.Eng. in ECE is excluded.",
+  "name": "Electrical, Electronics, and Computer Engineering, Ph.D."
+}
