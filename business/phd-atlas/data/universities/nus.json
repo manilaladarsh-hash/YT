@@ -1,0 +1,57 @@
+{
+  "id": "nus",
+  "institution": "National University of Singapore",
+  "country": "Singapore",
+  "region": "Singapore",
+  "grad_page": "https://nusgs.nus.edu.sg/admissions/",
+  "checked": "2026-11-14",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "Central NUS Graduate School (nusgs.nus.edu.sg) and Faculty of Science pages are blocked by Imperva/Incapsula WAF; individual schools/departments state fees (e.g., S$50 in School of Computing).",
+      "quote": "",
+      "url": "https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Accessible NUS doctoral admissions pages do not state an international application fee waiver policy (nusgs.nus.edu.sg blocked by Imperva/Incapsula).",
+      "quote": "",
+      "url": "https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE requirements are set by each faculty and department (optional in School of Computing and Statistics; strongly encouraged in Chemistry and Mathematics).",
+      "quote": "",
+      "url": "https://www.comp.nus.edu.sg/programmes/pg/phdcs/admissions/"
+    },
+    "toefl_min": {
+      "code": "85",
+      "value": "University-wide baseline minimum for NUS is TOEFL iBT 85 (several faculties set higher requirements, such as 90 in Computing and 95 / 5 on the new scale in Chemistry).",
+      "quote": "the minimum TOEFL score ranges for NUS: | Internet-Based (iBT): 85",
+      "url": "https://www.stat.nus.edu.sg/education/graduate/phd-in-statistics-and-data-science/prospective-students/"
+    },
+    "ielts_min": {
+      "code": "6",
+      "value": "University-wide baseline minimum for NUS is IELTS 6.0 (some departments set higher requirements, such as 7.0 in Chemistry).",
+      "quote": "the minimum TOEFL score ranges for NUS: | For IELTS, the score should be 6 and above.",
+      "url": "https://www.stat.nus.edu.sg/education/graduate/phd-in-statistics-and-data-science/prospective-students/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Applicants whose medium of undergraduate instruction was English may be exempt from TOEFL/IELTS depending on faculty verification; otherwise an approved test score is required.",
+      "quote": "* The following guidelines are provided for applicants whose native language or medium of undergraduate instruction is not English",
+      "url": "https://www.stat.nus.edu.sg/education/graduate/phd-in-statistics-and-data-science/prospective-students/",
+      "also": [
+        {
+          "quote": "*International applicants who graduated from universities where English is not the main medium of communication must submit TOEFL (http://www.ets.org/) or IELTS (International English Language Testing System) (http://www.ielts.org) scores.",
+          "url": "https://www.comp.nus.edu.sg/programmes/pg/phdcs/admissions/"
+        },
+        {
+          "quote": "a candidate whose medium of undergraduate instruction is not English is required to submit TOEFL (with the minimum score 95 (old scale) or 5 (new scale) for the internet-based test) or IELTS (with the minimum score 7.0) scores.",
+          "url": "https://chemistry.nus.edu.sg/education/graduate/phd-programme/"
+        }
+      ]
+    }
+  },
+  "notes": "Five Faculty of Science / School of Computing PhD programmes verified from accessible official NUS department pages (cs, chemistry, statistics [+datasci], math, biology). Imperva/Incapsula WAF blocked automated fetching of nusgs.nus.edu.sg, science.nus.edu.sg, cde.nus.edu.sg (engineering PhDs: bme, chemeng, civil, ece, materials, mech), medicine.nus.edu.sg (biomed, neuro), fass.nus.edu.sg/geog/ (earth, environment), and collapsed accordions on physics.nus.edu.sg."
+}
