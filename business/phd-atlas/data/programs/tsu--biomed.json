@@ -1,0 +1,55 @@
+{
+  "id": "tsu--biomed",
+  "university": "tsu",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Department of Pharmaceutical Sciences (College of Pharmacy and Health Sciences)",
+  "program_page": "https://catalog.tsu.edu/graduate/schools-colleges/pharmacy-health-sciences/pharmaceutical-sciences-phd/",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "The Ph.D. catalog page and Graduate School HTML admission pages state that deadlines vary by program and link to a PDF deadline table not extractable on this system; contact mathew.joseph@tsu.edu or graduateadmissions@tsu.edu.",
+      "quote": "",
+      "url": "https://tsu.edu/academics/colleges-and-schools/graduate-school/admission-requirements-deadlines.php"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Pharmaceutical Sciences; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Pre-admission supervisor agreement is not required; Ph.D. students complete three laboratory rotations in PHS 814 before selecting a dissertation advisor.",
+      "quote": "An introduction of on-going research projects to students in three laboratories. Students must complete this course before selecting the dissertation advisor.",
+      "url": "https://catalog.tsu.edu/graduate/course-descriptions/phs/",
+      "also": [
+        {
+          "quote": "All graduate students are assigned advisors by their department.",
+          "url": "https://catalog.tsu.edu/graduate/admission-requirements/admission-enrollment/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "The Graduate School provides tuition fellowships for a limited number of students nominated by their programs to work as teaching or research assistants (program labs are funded by NIH/RCMI and CPRIT grants).",
+      "quote": "The Graduate School provides tuition fellowships for a limited number of students nominated by their programs to work as teaching or research assistants.",
+      "url": "https://catalog.tsu.edu/graduate/fees-expenses/",
+      "also": [
+        {
+          "quote": "They are successfully funded by various agencies, such as the National Institutes of Health (NIH), including Research Centers in Minority Institutions (RCMI) and other mechanisms, Cancer Prevention and Research Institute of Texas (CPRIT), and other foundations.",
+          "url": "https://tsu.edu/academics/colleges-and-schools/cophs/departments-and-programs/phd-pharmaceutical-sciences.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants must have earned a bachelor's degree in the natural or health sciences (minimum 2.75 cumulative undergraduate GPA); 74 credit hours required across Pharmacology or Pharmaceutics tracks.",
+      "quote": "applicants to the Doctor of Philosophy in Pharmaceutical Sciences must have earned a bachelor’s degree in the natural or health sciences.",
+      "url": "https://catalog.tsu.edu/graduate/schools-colleges/pharmacy-health-sciences/pharmaceutical-sciences-phd/"
+    }
+  },
+  "notes": "Graduate Program in Pharmaceutical Sciences (GPPS) offers Pharmacology and Pharmaceutics tracks (74 credit hours). Requires GRE General score, 3 letters of recommendation, and >=2.75 UG GPA.",
+  "name": "Pharmaceutical Sciences, Doctor of Philosophy"
+}
