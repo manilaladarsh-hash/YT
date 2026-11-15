@@ -149,7 +149,7 @@ SHORT = {
     "niu": "Northern Illinois", "siucarbondale": "SIU Carbondale", "loyolachicago": "Loyola Chicago",
     "bgsu": "Bowling Green", "clevelandstate": "Cleveland State", "wmu": "Western Michigan",
     "uwmilwaukee": "UW-Milwaukee", "claremontgrad": "Claremont Graduate", "portlandstate": "Portland State",
-    "rit": "RIT", "umaryland": "Maryland (Baltimore)",
+    "rit": "RIT", "umaryland": "Maryland (Baltimore)", "snu": "Seoul National",
 }
 
 
