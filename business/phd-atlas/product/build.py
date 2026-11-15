@@ -150,6 +150,7 @@ SHORT = {
     "bgsu": "Bowling Green", "clevelandstate": "Cleveland State", "wmu": "Western Michigan",
     "uwmilwaukee": "UW-Milwaukee", "claremontgrad": "Claremont Graduate", "portlandstate": "Portland State",
     "rit": "RIT", "umaryland": "Maryland (Baltimore)", "snu": "Seoul National", "unf": "North Florida",
+    "utokyo": "Tokyo",
 }
 
 
