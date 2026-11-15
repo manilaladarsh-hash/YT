@@ -1,0 +1,53 @@
+{
+  "id": "unf",
+  "institution": "University of North Florida",
+  "country": "USA",
+  "region": "Florida",
+  "grad_page": "https://www.unf.edu/graduateschool/",
+  "checked": "2026-11-15",
+  "fields": {
+    "app_fee": {
+      "code": "30 USD",
+      "value": "Non-refundable graduate application fee is $30 per program application (must be in U.S. currency drawn from a U.S. bank if paid by check/money order).",
+      "quote": "All graduate applicants must complete and submit an online application and pay the non-refundable application fee of $30 by the deadline posted for the applicable term.",
+      "url": "https://www.unf.edu/catalog/admissions/graduate/Admission-Procedures.html",
+      "also": [
+        {
+          "quote": "Application Fee: The application fee is $30.00. The application fee must be in U.S. currency only (check or money order) drawn from a U.S. bank.",
+          "url": "https://www.unf.edu/catalog/admissions/graduate/International-Students.html"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "No financial-need or general application fee waivers are offered; a waiver is available only by student request to the Graduate School when reapplying or switching programs within three consecutive terms of a previously paid fee.",
+      "quote": "Please note, we do not offer application fee waivers unless the applicant has previously paid and qualifies for a waiver as discussed in the What should I know about the application fee? question above. | The graduate application fee may be good for three consecutive terms. Contact us if you previously paid an application fee within three consecutive terms of a current application and would like to know if you are eligible to an application fee waiver.",
+      "url": "https://www.unf.edu/graduateschool/admissions/faqs.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Graduate Admissions Policy leaves standardized test (GRE) requirements to each individual department and program (Computing Ph.D. requires GRE Verbal >= 150 and Quantitative >= 155).",
+      "quote": "",
+      "url": "https://www.unf.edu/catalog/admissions/graduate/Admission-Requirements.html"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Minimum Graduate School TOEFL iBT score is 79 (UNF Regulation 2.0385R states a general university floor of 63 iBT / 500 PBT while authorizing UNF to set higher graduate minimums).",
+      "quote": "Minimum ELP test scores: | TOEFL 79 | IELTS 6.5 | DuoLingo 110 | PTE 53",
+      "url": "https://www.unf.edu/graduateschool/admissions/faqs.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum Graduate School IELTS Academic overall score is 6.5 (also accepts Duolingo 110 or PTE 53).",
+      "quote": "Minimum ELP test scores: | TOEFL 79 | IELTS 6.5 | DuoLingo 110 | PTE 53",
+      "url": "https://www.unf.edu/graduateschool/admissions/faqs.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "English Language Proficiency cannot be waived as a university requirement, but applicants who graduated from a college taught in English (documented via school website, transcript, or Medium of Instruction certificate) or scored GRE Verbal >= 152 satisfy ELP if their Graduate Program Director emails approval and documentation to the Graduate School.",
+      "quote": "Graduate applicants who meet one of the non-test score indicators for ELP should email their Graduate Program Director with official proof to request consideration. The Graduate Program Director must email The Graduate School stating their approval and the documentation if they would like to accept the indicator as demonstration of English Language Proficiency. | Non-test score English Language Proficiency Indicators: | Student graduated from a college taught in English (documented on the school website, transcript, or Medium of Instruction (MOI) certificate).",
+      "url": "https://www.unf.edu/graduateschool/admissions/faqs.html"
+    }
+  },
+  "notes": "Carnegie R2 institution in Jacksonville, Florida. Currently offers one active STEM research Ph.D. (Doctor of Philosophy in Computing, with Cybersecurity and Intelligent Systems concentrations; Note: the School of Computing webpage states F-1 visa international admission to the Computing Ph.D. is currently closed pending SEVP approval). All other active UNF doctoral degrees are non-STEM/clinical practice doctorates (Ed.D. in Curriculum & Instruction and Educational Leadership; D.C.N., D.H.A., D.N.P., D.P.T.). Engineering, Biology, Chemistry, Physics, and Math/Stats offer Master's degrees only."
+}
