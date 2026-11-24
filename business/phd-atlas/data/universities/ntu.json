@@ -1,0 +1,53 @@
+{
+  "id": "ntu",
+  "institution": "National Taiwan University",
+  "country": "Taiwan",
+  "region": "Taipei",
+  "grad_page": "https://admissions.ntu.edu.tw/apply/degree-students/international-students/",
+  "checked": "2026-11-24",
+  "fields": {
+    "app_fee": {
+      "code": "2000 TWD",
+      "value": "Regular application fee is NTD 2,000 (or USD 80 for international payments) per department/graduate institute/division; NTD 1,500 (USD 60) per additional application from the third application onward, or for prior NTU students.",
+      "quote": "The regular fee is NTD 2,000 or USD 80 per department/graduate institute/division. Where an applicant applies for three or more departments/graduate institutes/divisions, the fee is NTD 1,500 or USD 60 per additional application from the third application onwards.",
+      "url": "https://admissions.ntu.edu.tw/wp-content/uploads/116-1Admission-Guidelines-for-Intl-Degree-Students_ENG_V3.pdf"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "NTU's 2027/2028 September Entry Admission Guidelines state that application fees are non-refundable under any circumstances and unpaid applications will not be processed; discounts apply for 3+ applications or prior NTU students, with no fee waiver stated.",
+      "quote": "",
+      "url": "https://admissions.ntu.edu.tw/wp-content/uploads/116-1Admission-Guidelines-for-Intl-Degree-Students_ENG_V3.pdf"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "NTU's 2027/2028 September Entry Admission Guidelines do not state a university-wide GRE General requirement; individual programs specify whether GRE is optional (e.g., TIGP Interdisciplinary Neuroscience).",
+      "quote": "",
+      "url": "https://admissions.ntu.edu.tw/wp-content/uploads/116-1Admission-Guidelines-for-Intl-Degree-Students_ENG_V3.pdf"
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "English-taught programs require CEFR B2 or above: TOEFL iBT 4 or above on the post-January 2026 new scoring scale (or TOEFL iBT 72 or above on the prior 0-120 scale). Some departments recommend CEFR C1.",
+      "quote": "TOEFL (iBT) 72 or above | TOEFL iBT (New Scoring Scale) 4 or above",
+      "url": "https://oiasystem.ntu.edu.tw/globaladmission/foreign/requirement/dept.detail/id/MCF9BXADkkHV/degree_key/D/sn/9855?lang=en",
+      "also": [
+        {
+          "quote": "If you are applying for a program that is conducted in English, you will need to submit an English proficiency certificate at CEFR B2 (Vantage) or above. | TOEFL iBT: 72",
+          "url": "https://admissions.ntu.edu.tw/apply/degree-students/admission-information/language-proficiency-requirements/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "5.5",
+      "value": "English-taught programs require CEFR B2 or above: IELTS Academic 5.5 or above.",
+      "quote": "If you are applying for a program that is conducted in English, you will need to submit an English proficiency certificate at CEFR B2 (Vantage) or above. | IELTS (Academic): 5.5",
+      "url": "https://admissions.ntu.edu.tw/apply/degree-students/admission-information/language-proficiency-requirements/"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exempt from submitting an English proficiency certificate if the applicant is from an English-speaking country, or obtained their previous degree from an institution in an English-speaking country or conducted entirely in English (official proof required).",
+      "quote": "Applicants from one of the English-speaking countries may be exempt from the English language proficiency requirement. Applicants whose previous degree was obtained from an institution in an English-speaking country or conducted in English shall submit relevant proof in place of an English proficiency certificate.",
+      "url": "https://admissions.ntu.edu.tw/wp-content/uploads/116-1Admission-Guidelines-for-Intl-Degree-Students_ENG_V3.pdf"
+    }
+  },
+  "notes": "QS WUR 2027 #54. Covers 17 STEM PhD programs spanning all 18 Atlas fields (Statistics is covered via also_fields on Department of Mathematics, as NTU's Institute of Statistics and Data Science and Master Program in Statistics are Master's-only). For 2027/2028 September Entry, Round 1 ran September 29 to November 19, 2026 and Round 2 runs December 1, 2026 to January 28, 2027 (4pm GMT+8); PhD programs require a Master's degree (except Graduate School of Advanced Technology direct-entry doctoral tracks). Competitive funding includes NTU International Graduate Student Scholarships (applied for via checkbox in the online application), college/department fellowships (e.g., EECS Global Elite Cultivation Fellowship at NT$20,000/month for up to 4 years; College of Medicine International Student Scholarship; Academia Sinica TIGP Scholarship), and Taiwan MOE/MOFA Scholarships."
+}
