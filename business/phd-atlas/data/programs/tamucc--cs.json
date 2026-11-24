@@ -1,0 +1,71 @@
+{
+  "id": "tamucc--cs",
+  "university": "tamucc",
+  "field": "cs",
+  "also_fields": [],
+  "name": "Computer Science, Ph.D.",
+  "department": "Department of Computer Science",
+  "program_page": "https://www.tamucc.edu/programs/graduate-programs/coecs/computer-science-phd.php",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-30",
+      "value": "Fall I priority deadline is April 30, 2027 (final deadline July 15, 2027) for both domestic and international applicants; applications are reviewed on a rolling basis, with priority filing strongly recommended for funding and advisor alignment.",
+      "quote": "Applications are reviewed on a rolling basis; however, applying by the priority deadline is strongly recommended—especially for applicants seeking faculty alignment and funding consideration. | Priority Deadline | April 30 | Final Deadline | July 15",
+      "url": "https://www.tamucc.edu/programs/graduate-programs/coecs/computer-science-phd.php",
+      "inferred": "year",
+      "time_sensitive": "2027-04-30"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required at this time for admission to the Ph.D. in Computer Science.",
+      "quote": "GRE scores are not required at this time.",
+      "url": "https://www.tamucc.edu/programs/graduate-programs/coecs/computer-science-phd.php"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists in Computer Science; ETS offers Subject Tests only in Mathematics, Physics, and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must identify a potential faculty advisor before applying, and admission is contingent on faculty support and research alignment.",
+      "quote": "Applicants will be asked to indicate a potential faculty advisor as part of the application. | Admission is contingent on faculty support and research alignment.",
+      "url": "https://www.tamucc.edu/programs/graduate-programs/coecs/computer-science-phd.php",
+      "also": [
+        {
+          "quote": "Persons seeking admission to the COSC program should first contact the program to identify a faculty member willing to serve as their graduate advisor. Applicants will not be admitted to the program without a graduate faculty advisor.",
+          "url": "https://catalog.tamucc.edu/graduate/engineering/doctoral/geospatial-computer-science-phd/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Limited teaching and research assistantships (at least 10 graduate assistantships awarded yearly across the program), faculty-led research funding, and competitive NSF CREST-GEIMS Doctoral Fellowships ($1,800-$2,400/month plus tuition and fees for Geospatial Informatics fellows) are available; 50% FTE assistantships qualify international students for in-state tuition under Texas Education Code 54.212.",
+      "quote": "A limited number of research and teaching assistantships are available each year. Many students are supported through faculty-led research projects, depending on funding availability and research alignment.",
+      "url": "https://www.tamucc.edu/programs/graduate-programs/coecs/computer-science-phd.php",
+      "also": [
+        {
+          "quote": "Each year, the Geospatial Computer Science, PhD Program awards at least 10 graduate assistantships to students.",
+          "url": "https://www.tamucc.edu/engineering/student-information/graduate-research.php"
+        },
+        {
+          "quote": "The NSF CREST-GEIMS Center at TAMU-CC offers a competitive Fellowship to Ph.D. students pursuing doctoral degrees in Coastal and Marine Systems Science (CMSS) or Computer Science with a Geospatial focus at TAMU-CC.",
+          "url": "https://www.tamucc.edu/engineering/research/crest/fellows-information.php"
+        },
+        {
+          "quote": "According to the Texas Education Code, Section 54.212, non-resident students receiving a 50% FTE graduate assistantship will receive in-state tuition and fees at the rate charged to Texas residents for the semester in which they hold the assistantship appointment.",
+          "url": "https://www.tamucc.edu/research/graduate-excellence/funding/assistantships.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may enter with either a bachelor's degree (75 semester credit hours minimum) or a master's degree (57 semester credit hours minimum) in computer science or a closely related field.",
+      "quote": "Applicants may enter the program with either a bachelor’s or master’s degree in computer science or a closely related field.",
+      "url": "https://www.tamucc.edu/programs/graduate-programs/coecs/computer-science-phd.php"
+    }
+  },
+  "notes": "Offers an optional specialization in Geospatial Informatics (previously titled Geospatial Computer Science on earlier catalog/research pages); no standalone Data Science Ph.D. track exists. Ph.D. Geospatial Computer Science applicants are exempt from third-party foreign transcript evaluation and may submit official academic credentials/transcripts directly."
+}

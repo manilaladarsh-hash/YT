@@ -1,0 +1,47 @@
+{
+  "id": "psl",
+  "institution": "Université PSL",
+  "country": "France",
+  "region": "Île-de-France",
+  "grad_page": "https://psl.eu/en/education/find-your-curriculum/doctoral-college-universite-psl",
+  "checked": "2026-11-14",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "No doctoral application fee is stated on PSL's Doctoral College, ADUM, or component-school PhD admission pages; annual national doctoral registration fees are €398/year (2026/27 rate, all nationalities) plus the ~€105/year CVEC campus contribution.",
+      "quote": "",
+      "url": "https://psl.eu/en/education/find-your-curriculum/doctoral-college-universite-psl"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked (several exemptions exist for the annual CVEC campus tax).",
+      "quote": "",
+      "url": "https://psl.eu/en/education/find-your-curriculum/doctoral-college-universite-psl"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Not stated on the page checked; no GRE General requirement is published across PSL's Doctoral College or component-school PhD pages.",
+      "quote": "",
+      "url": "https://psl.eu/en/education/find-your-curriculum/doctoral-college-universite-psl"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "No university-wide TOEFL minimum is stated on PSL's Doctoral College or constituent-school PhD admission pages; specific doctoral schools set their own language checks (e.g. ED 621 ISMME requires CEFR B2 English; the separate 5-year Bachelor-entry PhD Track recommends C1 English).",
+      "quote": "",
+      "url": "https://psl.eu/en/education/find-your-curriculum/doctoral-college-universite-psl"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "No university-wide IELTS minimum is stated on PSL's Doctoral College or constituent-school PhD admission pages (the separate 5-year Bachelor-entry PhD Track recommends C1 English, with official TOEFL/IELTS scores optional when not from an English-speaking university).",
+      "quote": "",
+      "url": "https://psl.eu/en/education/find-your-curriculum/doctoral-college-universite-psl"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "No university-wide English-test exemption rule is stated for standard 3-year PhD enrollment; for the separate 5-year Bachelor-entry PhD Track, applicants whose first language is English or who earned a degree at an English-speaking university include a statement rather than TOEFL/IELTS scores.",
+      "quote": "",
+      "url": "https://psl.eu/en/education/find-your-curriculum/phd-track/psl-phd-track-faq"
+    }
+  },
+  "notes": "Université PSL's Collège Doctoral federates 30 accredited and co-accredited doctoral schools and 15 thesis-preparation component institutions (including ENS - PSL, Mines Paris - PSL, Chimie ParisTech - PSL, ESPCI Paris - PSL, Paris Dauphine - PSL, Observatoire de Paris - PSL, EPHE - PSL, Collège de France, and Institut Curie), all conferring the Doctorat de l'Université PSL with online registration via ADUM (https://adum.fr/index.pl?site=PSL). Annual registration fees for 2026/27 are €398/year (all nationalities) plus ~€105/year CVEC (https://psl.eu/en/lifepsl/campus-life-paris/financial-aids). Beside the standard 3-year PhD (Master's required, supervisor agreement and funding secured prior to enrollment), PSL also runs selective 5-year Bachelor-entry English-taught PhD Tracks (2026 call October 14 - December 14, 2026; €10,000/yr Master's grant followed by a doctoral contract; C1 English recommended; https://psl.eu/en/education/find-your-curriculum/phd-track/psl-phd-track-faq). Unreachable/error external ED URLs during verification: edpif.org (timeout), ed386.upmc.fr / ed397.upmc.fr / ed398.sorbonne-universite.fr (SSL cert errors), collegedoctoral.psl.eu / phys.ens.psl.eu (502), dauphine.psl.eu/en/training/doctorate & espci.psl.eu/en/education/phd-studies/ & ed129.sorbonne-universite.fr (404)."
+}

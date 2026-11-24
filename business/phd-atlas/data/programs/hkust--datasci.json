@@ -1,0 +1,43 @@
+{
+  "id": "hkust--datasci",
+  "university": "hkust",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "School of Engineering — Department of Industrial Engineering and Decision Analytics",
+  "program_page": "https://prog-crs.hkust.edu.hk/pgprog/2027-28/mphil-phd-ieda",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-01",
+      "value": "Fall 2027-28 non-local full-time deadline is June 1, 2027 (rolling admissions; local full-time deadline July 15, 2027; HKPFS deadline December 1, 2026).",
+      "quote": "For 2027/28 Fall Term Intake (commencing in Sep 2027): | Non-local Applicants* | Full-time: 1 Jun 2027 | Local Applicants | Full-time: 15 Jul 2027 | Admissions is on rolling basis.",
+      "url": "https://prog-crs.hkust.edu.hk/pgprog/2027-28/mphil-phd-ieda",
+      "time_sensitive": "2027-06-01"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for data science or decision analytics (ETS offers Subject Tests only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "IEDA PhD admissions and 2027-28 catalog pages do not state a pre-application supervisor contact requirement.",
+      "quote": "",
+      "url": "https://ieda.hkust.edu.hk/eng/detail.php?catid=3&sid=65&tid=84"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Full-time PhD students are eligible for HKUST Postgraduate Studentships (HK$229,620/yr, ~US$29,420/yr for up to 4 years), RedBird PhD Award, and HKPFS.",
+      "quote": "Postgraduate Studentship (PGS) | HK$229,620 per year (~US$29,420/ year) | Up to 4 years for full-time PhD students",
+      "url": "https://fytgs.hkust.edu.hk/admissions/Admissions-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admits bachelor's holders with outstanding performance (4-year full-time PhD) and research master's holders (3-year full-time PhD).",
+      "quote": "Full-time: 3 years (with a relevant research master’s degree), 4 years (without a relevant research master’s degree) | Applicants seeking admissions to a doctoral degree program should have obtained a bachelor’s degree with a proven record of outstanding performance from a recognized institution",
+      "url": "https://prog-crs.hkust.edu.hk/pgprog/2027-28/mphil-phd-ieda"
+    }
+  },
+  "notes": "IEDA focuses on Operations Research and Decision Analytics (causal inference, stochastic optimization, statistical and machine learning), Financial Engineering, and Engineering Management; CSE (AI & Data Science themes) and ECE (DSAI focus) also train ML/AI PhD students."
+}

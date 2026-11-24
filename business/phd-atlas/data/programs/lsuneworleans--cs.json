@@ -1,0 +1,77 @@
+{
+  "id": "lsuneworleans--cs",
+  "university": "lsuneworleans",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science, College of Sciences (Engineering & Applied Science Ph.D.)",
+  "program_page": "https://www.lsuneworleans.edu/academics/cos/computer-science/graduate",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-19",
+      "value": "The program's Fall deadline is July 1/July 15 for domestic applicants, so international applicants must meet the Graduate School international Fall deadline of May 19, 2027; apply by March 1, 2027 for Graduate School Awards consideration.",
+      "quote": "International graduate fall deadline: May 19.",
+      "url": "https://www.lsuneworleans.edu/admissions/deadlines",
+      "inferred": "year",
+      "time_sensitive": "2027-03-01",
+      "also": [
+        {
+          "quote": "Application student submission deadline (If program deadlines earlier, earliest deadline applies.) | Fall 2026 | May 19, 2026",
+          "url": "https://www.lsuneworleans.edu/academics/grad/admission-requirements/international"
+        },
+        {
+          "quote": "Computer Science, M.S, Ph.D. | College of Sciences ... Spring Admission: November 15 | Fall Admission: July 1 | Ph.D. Department Requirements | GRE",
+          "url": "https://www.lsuneworleans.edu/academics/grad/programs"
+        },
+        {
+          "quote": "Apply by March 1st to be considered",
+          "url": "https://www.lsuneworleans.edu/academics/grad/graduate-financing/awards"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Computer Science Ph.D. requirements list the GRE, and the Engineering and Applied Science Ph.D. specifies a combined GRE (Verbal + Quantitative) score of 300.",
+      "quote": "GRE Score (combined verbal and quantitative sections) of 300, and proof of English proficiency.",
+      "url": "https://www.lsuneworleans.edu/academics/coe/applied-science/how-to-apply",
+      "also": [
+        {
+          "quote": "Ph.D. Department Requirements | GRE | 3 references are required. Applicants will provide contact information within the application. | Statement of Purpose",
+          "url": "https://www.lsuneworleans.edu/academics/grad/programs"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Computer Science; ETS offers Subject Tests only in Mathematics, Physics, and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Neither the Computer Science graduate page nor the Engineering & Applied Science admissions page states whether a faculty supervisor's agreement is required before admission.",
+      "quote": "",
+      "url": "https://www.lsuneworleans.edu/academics/cos/computer-science/graduate"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching and research assistantships are available to qualified graduate students on a competitive basis; all graduate assistants must participate in departmental seminars.",
+      "quote": "Teaching and research assistantships are available to qualified graduate students on a competitive basis. All graduate assistants are required to participate in the departmental seminars.",
+      "url": "https://www.lsuneworleans.edu/academics/cos/computer-science/graduate"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Preference is given to applicants holding a Master's degree in a related field (up to 30 credits transferable toward the 81-credit Ph.D.), while applicants with a strong Bachelor's transcript are also considered and complete M.S.-level coursework within the 51 coursework credits.",
+      "quote": "Possess a Bachelor’s degree (or 4-year equivalency) in a field related to one of the nine participating programs. | Preference will be given to students who possess a Master’s degree in the related field, but students whose Bachelor’s transcript demonstrate a strong academic performance will be considered.",
+      "url": "https://www.lsuneworleans.edu/academics/coe/applied-science/how-to-apply",
+      "also": [
+        {
+          "quote": "81 graduate credit hours are required in total for the Ph. D. program in Engineering & Applied Science, of which 30 hours in dissertation research are required and aa minimum of 51 semester credit hours of graduate course work in an approved program beyond the Bachelor's degree. Up to 30 graduate credit hours from a Master's degree program, if the area of the Master's degree is relevant to the concentration, may be applied towards the satisfaction of credit hours for the Ph.D..",
+          "url": "https://www.lsuneworleans.edu/academics/coe/applied-science/degree-requirements"
+        }
+      ]
+    }
+  },
+  "notes": "Computer Science concentration within the interdisciplinary Ph.D. in Engineering & Applied Science (over 23 CS Ph.D. students enrolled). Requires GRE, 3 references, and statement of purpose.",
+  "name": "Engineering and Applied Science (Computer Science)"
+}

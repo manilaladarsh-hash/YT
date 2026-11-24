@@ -1,0 +1,52 @@
+{
+  "id": "umassboston--datasci",
+  "university": "umassboston",
+  "field": "datasci",
+  "also_fields": [
+    "math",
+    "statistics"
+  ],
+  "department": "College of Science and Mathematics — Computational Sciences (CSci) PhD",
+  "program_page": "https://www.umb.edu/academics/program-finder/computational-sciences-phd/",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Priority Fall application deadline is February 1, 2027; final Fall deadline is April 1, 2027 (Spring priority October 1, final December 1).",
+      "quote": "Deadlines: February 1 (priority deadline) or April 1 (final deadline) for fall; October 1 (priority deadline) or December 1 (final deadline) for spring",
+      "url": "https://www.umb.edu/academics/program-finder/computational-sciences-phd/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Applicants are required to take the GRE General Test.",
+      "quote": "Applicants are required to take the general GRE test.",
+      "url": "https://www.umb.edu/academics/program-finder/computational-sciences-phd/"
+    },
+    "gre_subject": {
+      "code": "Not required",
+      "value": "Only the GRE General Test is required for the Computational Sciences PhD program.",
+      "quote": "Applicants are required to take the general GRE test.",
+      "url": "https://www.umb.edu/academics/program-finder/computational-sciences-phd/"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Applicants must select a track (Data Analytics, Bioinformatics, or Computational Physics), but the program page does not state whether a faculty advisor must be secured prior to admission.",
+      "quote": "",
+      "url": "https://www.umb.edu/academics/program-finder/computational-sciences-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate teaching and research assistantships are assigned by the program ($25,865 stipend + 100% tuition waiver for a 1.0 FTE TA/RA in AY 2026-27).",
+      "quote": "These positions are assigned by the student's department/program and are subject to the agreement between UMass Boston and UAW/Graduate Employees Organization (GEO). | Full Assistantship | 18.00 | 1.00 | $1,293.25 | $25,865.00 | 100%",
+      "url": "https://www.umb.edu/admissions/graduate-students/graduate-students-assistantships/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may enter with a Bachelor of Science or a master's degree in computer science, mathematics, biology, chemistry, or physics.",
+      "quote": "Given the multi-disciplinary nature of the Computational Science program, we expect that our applicants will be undergraduates with bachelor of science degrees in computer science, mathematics, biology, chemistry, physics, or graduates with master's degrees in these areas.",
+      "url": "https://www.umb.edu/academics/program-finder/computational-sciences-phd/"
+    }
+  },
+  "notes": "Interdisciplinary PhD involving the Departments of Mathematics, Computer Science, Physics, Biology, Chemistry, and Engineering, with tracks in Data Analytics, Bioinformatics, and Computational Physics."
+}

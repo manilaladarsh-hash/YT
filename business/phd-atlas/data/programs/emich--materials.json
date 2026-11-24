@@ -1,0 +1,71 @@
+{
+  "id": "emich--materials",
+  "university": "emich",
+  "field": "materials",
+  "also_fields": [
+    "cs",
+    "civil"
+  ],
+  "department": "GameAbove College of Engineering and Technology",
+  "program_page": "https://catalog.emich.edu/preview_program.php?catoid=48&poid=20696&returnto=15845",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-31",
+      "value": "Fall entry only. The program website lists January 31 as the application deadline; the 2026-2027 Graduate Catalog states all application materials must be received by February 1.",
+      "quote": "Consideration for Admittance - Application Deadline: January 31",
+      "url": "https://www.emich.edu/cet/programs/technology-phd/index.php",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Students will start the program in the Fall. | Application materials must be received by February 1st.",
+          "url": "https://catalog.emich.edu/preview_program.php?catoid=48&poid=20696&returnto=15845"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE Verbal, Quantitative, and Analytical Writing scores (under 5 years old) are listed as a program requirement in the 2026-2027 catalog (an earlier note states the GRE was waived for Fall 2024).",
+      "quote": "Academic ability as measured by verbal, quantitative, and written scores on the Graduate Record Exam/GRE (website). An applicant’s GRE scores must be under five (5) years old. Students with older GRE results are required to retake the GRE. The GRE is waived for the Fall 2024 application cycle.",
+      "url": "https://catalog.emich.edu/preview_program.php?catoid=48&poid=20696&returnto=15845"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for these fields; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The catalog requires fit between the applicant and faculty scholarly activity in the personal statement and review by the Doctoral Operations Committee, without stating whether applicants must contact or secure a supervisor before applying.",
+      "quote": "",
+      "url": "https://catalog.emich.edu/preview_program.php?catoid=48&poid=20696&returnto=15845"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "A limited number of graduate assistantships (stipend plus tuition scholarship for 9 or 18 credits/year) and competitive doctoral fellowships (after 12 PhD credits with 3.6 GPA) are awarded to qualified full-time students.",
+      "quote": "A number of graduate assistantships are awarded each year to qualified students. ... Graduate assistantships include a tuition scholarship for 9 (10 hr/week) or 18 (20 hr/week) credits per academic year and a stipend based upon current policies.",
+      "url": "https://www.emich.edu/cet/programs/technology-phd/index.php",
+      "also": [
+        {
+          "quote": "A few graduate/doctoral fellowships are available to highly qualified students who have full admission to the doctoral program and have served as graduate assistants at EMU.",
+          "url": "https://catalog.emich.edu/preview_program.php?catoid=48&poid=20696&returnto=15845"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Full admission requires a completed master's degree in a related technology area (minimum 30 graduate semester hours including statistics); exceptional conditional admission with a bachelor's or in-progress master's is listed in the catalog, though EMU policy states F-1/J-1 international students are ineligible for conditional admission.",
+      "quote": "Option A: Master’s degree (full admission): Students must meet one of the following requirements, 1) Master’s degree from any EMU GameAbove College of Engineering and Technology program, or 2) Master’s degree from any regionally accredited institution in an area related to one of the Ph.D. in technology concentrations. Preference will be given to students holding a completed master’s degree.",
+      "url": "https://catalog.emich.edu/preview_program.php?catoid=48&poid=20696&returnto=15845",
+      "also": [
+        {
+          "quote": "International students (F1 and J1 visa holders) are not eligible for conditional admission.",
+          "url": "https://catalog.emich.edu/mime/media/view/48/16154/2026-2027+Grad+Academic+Policie+and+Procedures2.pdf"
+        }
+      ]
+    }
+  },
+  "notes": "STEM-designated interdisciplinary umbrella PhD (PHD-TC, 60 credits beyond master's). Mapped concentrations: Polymers and Coatings (materials, via Coatings Research Institute), Cybersecurity and Applied Computing (cs), and Construction Management (civil). Non-Atlas concentrations also offered: Engineering Management, Quality Management, Technology Management, Technology and Society, and Interior Design.",
+  "name": "Technology, Ph.D. (Polymers & Coatings; Cybersecurity & Applied Computing; Construction Management)"
+}

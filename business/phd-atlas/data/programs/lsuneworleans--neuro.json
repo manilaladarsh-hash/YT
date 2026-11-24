@@ -1,0 +1,64 @@
+{
+  "id": "lsuneworleans--neuro",
+  "university": "lsuneworleans",
+  "field": "neuro",
+  "also_fields": [],
+  "department": "Department of Psychology, College of Sciences",
+  "program_page": "https://www.lsuneworleans.edu/academics/cos/psychology/graduate/applied-biopsychology",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-15",
+      "value": "Fall-only admission; completed applications must be on file by March 15, 2027 for initial acceptance and funding decisions, and by March 1, 2027 for scholarship consideration (late applications may still be considered pending availability; no Spring admission).",
+      "quote": "Doctoral candidate admission is restricted to the fall semester only and no provisional admissions are made. Completed applications must be on file by March 15th for initial acceptance and funding decisions. Applications received by March 1st will be considered for scholarships.",
+      "url": "https://www.lsuneworleans.edu/academics/cos/psychology/graduate/application-process",
+      "inferred": "year",
+      "time_sensitive": "2027-03-01"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The Psychology department states GRE scores are not currently required to apply but may be included for consideration (note the 2026-2027 catalog still references GRE performance).",
+      "quote": "The Graduate Record Examination (GRE) is not currently required to apply but can be included for consideration.",
+      "url": "https://www.lsuneworleans.edu/academics/cos/psychology/graduate/application-process",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "the department’s recommendation for admission is based on the student’s performance on the Graduate Record Examination, letters of recommendation, and on the student’s academic performance.",
+          "url": "https://catalog.lsuneworleans.edu/preview_program.php?catoid=13&poid=3703"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Neither the Applied Psychology admissions page nor the catalog states a policy for the GRE Psychology Subject Test.",
+      "quote": "",
+      "url": "https://www.lsuneworleans.edu/academics/cos/psychology/graduate/application-process"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must select and rank at least three potential faculty advisors in the application, and at least one faculty member must be willing to accept the applicant into their laboratory and serve as major professor.",
+      "quote": "the applicant must select and rank at least 3 potential choices for a major advisor. After the initial review, at least one faculty member must be willing to accept the applicant into their laboratory and serve as the student’s major professor.",
+      "url": "https://www.lsuneworleans.edu/academics/cos/psychology/graduate/application-process"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Applicants are considered for teaching or grant-funded research assistantships (20 hours/week, providing a stipend and tuition waiver) and Graduate School scholarships, but funding is not guaranteed.",
+      "quote": "Applicants will be considered for funding or scholarships, but this is not guaranteed. The most common source of funding is through teaching assistantships through the department or research assistantships through faculty grants. Twenty hours of work each week are typically required with both kinds of assistantships. Assistantships include a stipend and tuition waiver.",
+      "url": "https://www.lsuneworleans.edu/academics/cos/psychology/graduate/application-process"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants apply directly from an undergraduate degree (3.0+ GPA strongly preferred) and complete an M.S. degree en route to the Ph.D.",
+      "quote": "Although all applications are reviewed, applications that exceed an undergraduate GPA of 3.0 are substantially more likely to be accepted.",
+      "url": "https://www.lsuneworleans.edu/academics/cos/psychology/graduate/application-process",
+      "also": [
+        {
+          "quote": "Both MS and PhD students will earn a MS degree | Students may complete the M.S. while in progress towards the Ph.D. at LSU New Orleans",
+          "url": "https://www.lsuneworleans.edu/academics/cos/psychology/graduate"
+        }
+      ]
+    }
+  },
+  "notes": "Ph.D. in Applied Psychology with Applied Biopsychology specialization (behavioral neuroscience, neuroendocrinology, psychophysiology, neuropsychology); the separate Applied Developmental Psychology specialization is non-neuroscience. Requires 3 references, CV, and 1-2 page statement.",
+  "name": "Applied Psychology (Applied Biopsychology)"
+}

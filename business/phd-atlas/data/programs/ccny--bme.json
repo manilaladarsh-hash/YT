@@ -1,0 +1,81 @@
+{
+  "id": "ccny--bme",
+  "university": "ccny",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biomedical Engineering",
+  "program_page": "https://www.ccny.cuny.edu/bme/phd-application-procedure",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Submit by January 15, 2027 for full financial aid consideration; final Fall deadline is May 1, 2027.",
+      "quote": "While the application deadline is May 1 for the Fall semester, applications should be submitted by January 15 to be fully considered for financial aid.",
+      "url": "https://www.ccny.cuny.edu/bme/phd-application-procedure",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional (since Fall 2020); applicants applying without GRE are encouraged to check with prospective faculty advisors.",
+      "quote": "Graduate Record Examination (GRE) Scores are optional. Applicants that intend to submit an application without GRE scores are encouraged to contact faculty with whom they would like to work with, and ask if the GRE is an important criterion.",
+      "url": "https://www.ccny.cuny.edu/bme/phd-application-procedure"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for Biomedical Engineering (ETS offers Subject Tests only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Minimum TOEFL iBT 79-80 (or 4.5 on the updated TOEFL scale); PTE 53 and Duolingo 100 are also accepted.",
+      "quote": "Minimum Language Test Scores: 79-80 (TOEFL IBT), 4.5 (TOEFL updated scale), 6.5 (IELTS), 53 (PTE) or 100 (Duolingo)",
+      "url": "https://www.ccny.cuny.edu/admissions/biomedical-engineering",
+      "also": [
+        {
+          "quote": "Most international students accepted into the program have a score of at least 550 on the TOEFL paper-based test or 79-80 on the TOEFL Internet-based test.",
+          "url": "https://www.ccny.cuny.edu/bme/ccny-biomedical-engineering-phd-program-admissions-frequently-asked-questions"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic band score is 6.5.",
+      "quote": "Minimum Language Test Scores: 79-80 (TOEFL IBT), 4.5 (TOEFL updated scale), 6.5 (IELTS), 53 (PTE) or 100 (Duolingo)",
+      "url": "https://www.ccny.cuny.edu/admissions/biomedical-engineering"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Not required before applying (all complete applications are reviewed first), though applicants are encouraged to reach out to faculty.",
+      "quote": "Students are encouraged to reach out to faculty members whose research align with their interests when applying.",
+      "url": "https://www.ccny.cuny.edu/bme/phd-application-procedure",
+      "also": [
+        {
+          "quote": "You are welcome to contact individual faculty members to find out if they anticipate accepting new students into their lab. However, the only way we can evaluate you as a candidate is based on your complete application.",
+          "url": "https://www.ccny.cuny.edu/bme/ccny-biomedical-engineering-phd-program-admissions-frequently-asked-questions"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "BME typically accepts PhD students only when full financial support can be provided ($44,000 yearly stipend for Fall 2026, tuition waiver, and health insurance for 5 years).",
+      "quote": "The BME department typically accepts PhD students into the program only if financial support can be provided for them. Financial support packages include a yearly stipend of $44,000.00 (for Fall 2026), tuition waiver, and health insurance.",
+      "url": "https://www.ccny.cuny.edu/bme/ccny-biomedical-engineering-phd-program-admissions-frequently-asked-questions",
+      "also": [
+        {
+          "quote": "Stipend and tuition are covered for 5 years typically with a combinations of funds from research grants the the individual Faculty mentor, the BME Department and and the School of Engineering.",
+          "url": "https://www.ccny.cuny.edu/bme/ccny-biomedical-engineering-phd-program-admissions-frequently-asked-questions"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Direct entry from an accredited bachelor's degree in engineering or an appropriate science; master's holders may transfer up to 30 credits.",
+      "quote": "Applicants must have received a bachelor's degree from a college or university of accredited standing, in a branch of engineering or science appropriate to the study of biomedical engineering.",
+      "url": "https://www.ccny.cuny.edu/bme/phd-application-procedure"
+    }
+  },
+  "notes": "Strong PhD applicants who are not admitted to the PhD program are automatically considered for the MS program (which lacks incoming funding).",
+  "name": "Ph.D. Program in Biomedical Engineering"
+}

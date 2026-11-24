@@ -1,0 +1,70 @@
+{
+  "id": "ualr--cs",
+  "university": "ualr",
+  "field": "cs",
+  "also_fields": [],
+  "department": "School of Computer and Information Sciences",
+  "program_page": "https://ualr.edu/computerinformationsciences/cis-phd-computer-science/",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-01",
+      "value": "No separate CIS Ph.D. deadline is published; under Policy LR 509.9 (revised April 2026) and Graduate School International Prospects, all international application materials for Fall must be received by June 1 (June 1, 2027 inferred for Fall 2027; Spring Oct 1; Summer March 1). Note: the 2026-2027 catalog also prints legacy general international dates of July 1 and Feb 1.",
+      "quote": "Application materials must be received no later than June 1 for fall semester, October 1 for spring semester, and March 1 for summer semester.",
+      "url": "https://ualr.edu/policy/home/student/graduate-school-international-student/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Fall applications: June 1 | Spring applications: October 1 | Summer applications: March 1",
+          "url": "https://ualr.edu/gradschool/international-prospects/"
+        },
+        {
+          "quote": "They must be received no later than July 1 for the fall semester and November 1 for the spring semester, and March 1 for the summer semester.",
+          "url": "https://catalog.ualr.edu/content.php?catoid=21&navoid=2484"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General Test (within 5 years) is required: desired combined V+Q >= 301, minimums 142V and 144Q, plus an additional minimum of 156 Quantitative for the Computer Science and Information Science tracks (Analytical Writing ~3.0+ or writing samples).",
+      "quote": "GRE test scores are taken within five years of application. The desired combined quantitative and verbal score on the GRE is 301 or above (on a 336 scale), with minimum scores of 142 and 144 on the verbal and quantitative sections, respectively. Computer Science and Information Science tracks have an additional minimum score requirement of 156 for the quantitative section.",
+      "url": "https://ualr.edu/computerinformationsciences/cis-phd-computer-science/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Computer Science (ETS offers Subject Tests only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "The CIS Steering Committee evaluates admission and program fit; new students are initially advised by their track coordinator and formally declare a research adviser by the end of their 1st or 2nd semester.",
+      "quote": "The CIS Steering Committee will evaluate the compatibility between the applicant’s background, research interests, and communication skills vis-a-vis the doctoral program when making admission decisions | New students will be advised initially by the program coordinator of the student’s chosen track area. | Students should formally declare a research adviser preferably at the end of the first semester but not later than the second semester.",
+      "url": "https://catalog.ualr.edu/preview_program.php?catoid=21&poid=5481"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Financial support is not guaranteed with admission. Competitive TA/RA/GA packages cover 9 credit hours of tuition per semester and a stipend (CIS lists $1,500/month; Graduate School raised the 9-month doctoral GA minimum to $15,000 in Fall 2026); faculty-nominated Fall international students may also receive an International Student Scholarship reducing tuition to in-state rates.",
+      "quote": "Please be advised, financial support is not guaranteed with admission. However, some financial support is available for eligible students in the Ph.D. program. | Full-time assistantship pays for 9 hours of tuition per semester and a monthly stipend of $1,500.",
+      "url": "https://ualr.edu/computerinformationsciences/financial-support-cis-phd/",
+      "also": [
+        {
+          "quote": "International Student Scholarships reduce tuition to in-state rates for international students as long as they remain in good standing in the program.",
+          "url": "https://ualr.edu/computerinformationsciences/financial-support-cis-phd/"
+        },
+        {
+          "quote": "The full-time stipend for the academic year is a minimum of $15,000 for doctoral students and $10,000 for master’s students.",
+          "url": "https://ualr.edu/gradschool/assistantship/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Requires a bachelor's degree or higher (75 credit hours beyond the baccalaureate) with >= 3.0 GPA on the last 60 credit hours; strongest preparation is an undergraduate or master's degree in CS, CE, engineering, or math.",
+      "quote": "A bachelor’s degree or higher from an institutionally or regionally accredited institution. | The program requires a minimum of 75 hours beyond the baccalaureate degree.",
+      "url": "https://catalog.ualr.edu/preview_program.php?catoid=21&poid=5481"
+    }
+  },
+  "notes": "Computer and Information Sciences, Ph.D. (catalog poid=5481) has 3 tracks: Computer Science (in-person), Information Science (in-person/online), and Information Quality (in-person/online). Note English/TA nuance in catalog poid=5481: TOEFL 'should exceed 550 (paper-based test), 213 (computer-based test), or 79 (internet-based test)' (provisional admission possible if close); TA requires AEOCPT >= 80% or TSE >= 5.0. Admission may be deferred/denied if a track is at full faculty/funding capacity. Policy LR 509.9 sets June 1 Fall international deadline (vs legacy July 1/Feb 1 in catalog).",
+  "name": "Computer and Information Sciences, Ph.D."
+}

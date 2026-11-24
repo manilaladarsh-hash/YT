@@ -1,0 +1,42 @@
+{
+  "id": "nus--biology",
+  "university": "nus",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Faculty of Science — Department of Biological Sciences",
+  "program_page": "https://www.dbs.nus.edu.sg/education/graduates/doctor-of-philosophy/",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "Rolling",
+      "value": "Department of Biological Sciences PhD admissions are open year-round.",
+      "quote": "Application for admissions are open all year round so come be a part of our community today!",
+      "url": "https://www.dbs.nus.edu.sg/education/graduates/doctor-of-philosophy/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for biology (ETS discontinued the Biology Subject Test in May 2021).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Department of Biological Sciences PhD page lists a Laboratory Rotation Programme accordion whose details were collapsed in automated rendering, and science.nus.edu.sg FAQ is WAF-blocked.",
+      "quote": "",
+      "url": "https://www.dbs.nus.edu.sg/education/graduates/doctor-of-philosophy/"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Scholarship and stipend details on the Biological Sciences PhD page were collapsed in automated rendering and nusgs.nus.edu.sg/scholarships/ is WAF-blocked.",
+      "quote": "",
+      "url": "https://www.dbs.nus.edu.sg/education/graduates/doctor-of-philosophy/"
+    },
+    "entry_route": {
+      "code": "Not stated",
+      "value": "Admission criteria on the Biological Sciences PhD page were collapsed in automated rendering and science.nus.edu.sg is WAF-blocked.",
+      "quote": "",
+      "url": "https://www.dbs.nus.edu.sg/education/graduates/doctor-of-philosophy/"
+    }
+  },
+  "notes": "Page accordions for Admission Criteria, Scholarships, and Laboratory Rotation Programme did not expand under headless Chromium."
+}

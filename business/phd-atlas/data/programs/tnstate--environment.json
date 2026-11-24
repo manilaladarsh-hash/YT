@@ -1,0 +1,66 @@
+{
+  "id": "tnstate--environment",
+  "university": "tnstate",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Department of Agricultural Science and Engineering",
+  "program_page": "https://catalog.tnstate.edu/preview_program.php?catoid=20&poid=3596&returnto=1164",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "International applicants abroad have an April 1 Fall priority deadline (June 1 for international applicants in the U.S.; July 1 general Fall priority); the program page notes doctoral deadlines are typically earlier than master's programs and should be confirmed with the Graduate School.",
+      "quote": "Priority application deadlines for international applicants: | Fall Semester April 1 June 1",
+      "url": "https://catalog.tnstate.edu/content.php?catoid=20&navoid=1154",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Application deadlines for doctoral programs are typically earlier than master’s programs.",
+          "url": "https://catalog.tnstate.edu/preview_program.php?catoid=20&poid=3596&returnto=1164"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Minimum GRE score of 290 required (Verbal + Quantitative, or Verbal, Quantitative & Subject).",
+      "quote": "Minimum GRE score of 290 (Verbal + Quantitative, or Verbal, Quantitative & Subject).",
+      "url": "https://catalog.tnstate.edu/preview_program.php?catoid=20&poid=3596&returnto=1164"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers GRE Subject Tests only in Mathematics, Physics, and Psychology (none in environmental or agricultural sciences).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "A faculty advisor aligned with the student's chosen concentration must be identified prior to admission and must accept the student.",
+      "quote": "A faculty advisor must be identified prior to admission, and the advisor must accept the student.",
+      "url": "https://catalog.tnstate.edu/preview_program.php?catoid=20&poid=3596&returnto=1164"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Graduate Research Assistantship (GRA) support at the Ph.D. level is standard for 36 months; Graduate School and Title III assistantships provide monthly stipends ($3,000/month under Title III) and tuition coverage/in-state tuition.",
+      "quote": "Graduate Research Assistantship (GRA) at the Ph.D. level is standard for 36 months.",
+      "url": "https://catalog.tnstate.edu/preview_program.php?catoid=20&poid=3596&returnto=1164",
+      "also": [
+        {
+          "quote": "Appointments provide a monthly stipend and most include tuition and fees.",
+          "url": "https://www.tnstate.edu/academics/graduate-studies/financial-aid/"
+        },
+        {
+          "quote": "$3,000 monthly stipend for doctoral students | In-state tuition while under contract",
+          "url": "https://www.tnstate.edu/administration/title-iii/ga/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Requires both a four-year bachelor's degree and a thesis-based M.S. degree (minimum 3.0 M.S. GPA) in an agricultural, food, biological, environmental, or related science.",
+      "quote": "Bachelor’s degree from an accredited four-year degree-granting college or university AND a thesis-based M.S. degree with a major in an agricultural, food, biological, environmental, or related science.",
+      "url": "https://catalog.tnstate.edu/preview_program.php?catoid=20&poid=3596&returnto=1164"
+    }
+  },
+  "notes": "Ph.D. in Food, Agricultural and Environmental Sciences (48 credits post-M.S.) offers three concentrations: Natural Resources (environmental sciences, ecology, soils, forestry, geospatial analysis, climate), Plant Science, and Food and Animal Sciences.",
+  "name": "Food, Agricultural and Environmental Sciences, Ph.D."
+}

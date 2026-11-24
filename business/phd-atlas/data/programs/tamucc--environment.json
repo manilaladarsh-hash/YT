@@ -1,0 +1,79 @@
+{
+  "id": "tamucc--environment",
+  "university": "tamucc",
+  "field": "environment",
+  "also_fields": [
+    "earth"
+  ],
+  "name": "Coastal and Marine System Science, Ph.D.",
+  "department": "Department of Physical and Environmental Sciences",
+  "program_page": "https://www.tamucc.edu/programs/graduate-programs/coastal-and-marine-system-science-ms-phd.php",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-10",
+      "value": "Fall priority deadline for full admissions and funding consideration is January 10, 2027; international final deadline for Fall is June 1, 2027 (domestic final deadline July 17, 2027).",
+      "quote": "International Students: | Final deadline for receipt of complete applications: | Fall - June 1 | *Priority deadline to receive complete applications: | Fall - January 10 | *Complete application should be received for full admissions and funding consideration",
+      "url": "https://www.tamucc.edu/programs/graduate-programs/coastal-and-marine-system-science-ms-phd.php",
+      "inferred": "year",
+      "time_sensitive": "2027-01-10"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The program admissions webpage states GRE scores are waived until further notice (though the 2026-2027 catalog text still prints general test scores).",
+      "quote": "GRE scores waived until further notice",
+      "url": "https://www.tamucc.edu/programs/graduate-programs/coastal-and-marine-system-science-ms-phd.php"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Program requires a higher TOEFL minimum than the university baseline: 79-80 iBT (or 550 paper-based).",
+      "quote": "Official TOEFL score minimum paper-based score of 550 or internet-based score of 79-80",
+      "url": "https://www.tamucc.edu/programs/graduate-programs/coastal-and-marine-system-science-ms-phd.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Program requires a minimum IELTS Academic score of 6.5 (higher than the 6.0 university baseline).",
+      "quote": "Official IELTS score minimum 6.5",
+      "url": "https://www.tamucc.edu/programs/graduate-programs/coastal-and-marine-system-science-ms-phd.php"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists in Environmental or Earth Sciences; ETS offers Subject Tests only in Mathematics, Physics, and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must contact program faculty, identify a willing graduate supervisor before applying, include a summary of those discussions in their essay, and will not be admitted without a supervisor.",
+      "quote": "Persons seeking admission to the program should first contact the program faculty and identify a faculty member, or members, willing to serve as the graduate supervisor, and the applicant must include a summary of their discussions with faculty members in their essay. Applicants will not be admitted to the program without a graduate supervisor.",
+      "url": "https://www.tamucc.edu/programs/graduate-programs/coastal-and-marine-system-science-ms-phd.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Teaching assistantships, graduate research assistantships, scholarships, and competitive NSF CREST-GEIMS Doctoral Fellowships ($1,800-$2,400/month plus tuition and fees) are available; Marine Biology and CMSS Ph.D. programs jointly award at least 20 assistantships yearly, and 50% FTE appointments waive non-resident tuition under Texas Education Code 54.212.",
+      "quote": "Teaching Assistantships, graduate research assistantships, fellowships, or scholarships may be available to graduate students admitted as degree-seeking students",
+      "url": "https://www.tamucc.edu/programs/graduate-programs/coastal-and-marine-system-science-ms-phd.php",
+      "also": [
+        {
+          "quote": "Each year, the Marine Biology and Coastal and Marine System Science PhD programs award at least 20 graduate assistantships to students.",
+          "url": "https://www.tamucc.edu/science/student-information/graduate-research.php"
+        },
+        {
+          "quote": "The NSF CREST-GEIMS Center at TAMU-CC offers a competitive Fellowship to Ph.D. students pursuing doctoral degrees in Coastal and Marine Systems Science (CMSS) or Computer Science with a Geospatial focus at TAMU-CC.",
+          "url": "https://www.tamucc.edu/engineering/research/crest/fellows-information.php"
+        },
+        {
+          "quote": "According to the Texas Education Code, Section 54.212, non-resident students receiving a 50% FTE graduate assistantship will receive in-state tuition and fees at the rate charged to Texas residents for the semester in which they hold the assistantship appointment.",
+          "url": "https://www.tamucc.edu/research/graduate-excellence/funding/assistantships.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may enter with either a bachelor's degree (90 SCH minimum) or a master's degree (60 SCH minimum).",
+      "quote": "Each student accepted to the CMSS Ph.D. degree program must complete a minimum of 90 hours beyond the bachelor’s degree or 60 hours beyond the master’s degree",
+      "url": "https://catalog.tamucc.edu/graduate/science/doctoral/coastal-marine-system-science-phd/"
+    }
+  },
+  "notes": "Interdisciplinary Earth System Science Ph.D. integrating biogeochemistry, geospatial information science, ecosystem dynamics, and quantitative modeling. The 2026-2027 catalog still prints GRE required and an older Dec 1 Fall deadline, whereas the current CMSS program webpage specifies GRE waived until further notice and January 10 priority / June 1 international final Fall deadlines."
+}

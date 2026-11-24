@@ -1,0 +1,53 @@
+{
+  "id": "ntusg",
+  "institution": "Nanyang Technological University, Singapore",
+  "country": "Singapore",
+  "region": "Singapore",
+  "grad_page": "https://www.ntu.edu.sg/admissions/graduate/radmissionguide",
+  "checked": "2026-11-14",
+  "fields": {
+    "app_fee": {
+      "code": "50 SGD",
+      "value": "S$50 (nett) non-refundable application fee per research application (waived only for nationals who have resided since birth in Singapore or 55 listed developing countries; India is not on the list).",
+      "quote": "An application fee of S$50 (Nett) will be charged for each Research application. Payment can be made online before submitting application by VISA/Mastercard.",
+      "url": "https://www.ntu.edu.sg/admissions/graduate/radmissionguide"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Automatic application fee waiver applies only to nationals who have resided since birth in Singapore or 55 listed developing countries (India is not on the 56-country waiver list, so Indian applicants pay S$50).",
+      "quote": "Wavier of Application fees will be extended to applicants from the countries listed below, if they are nationals of an eligible country and have resided there since birth.",
+      "url": "https://www.ntu.edu.sg/admissions/graduate/radmissionguide"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE/GMAT/GATE scores are optional across NTU research programs (minimum 90th percentile GATE within 3 years accepted from Indian applicants to strengthen applications), except where specific schools/programs require or do not require them.",
+      "quote": "GRE / GMAT / GATE are optional*. | Strong evidence of quantitative, verbal, and/or analytical skills through these tests will enhance your application.",
+      "url": "https://www.ntu.edu.sg/admissions/graduate/radmissionguide"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "Central graduate research guide requires a 'good TOEFL/IELTS score' without a university-wide numerical cutoff; individual schools set minimums (EEE 100, MSE 100, ASE 5.0 new scale, IGP Neuroscience 105).",
+      "quote": "English Language Proficiency: A good TOEFL/IELTS score for applicants whose Bachelor’s degree is not conducted in English.",
+      "url": "https://www.ntu.edu.sg/admissions/graduate/radmissionguide"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "Central graduate research guide does not specify a university-wide IELTS band minimum; individual schools set minimums (EEE 6.5, MSE 6.5, ASE 6.5, IGP Neuroscience 7.0).",
+      "quote": "English Language Proficiency: A good TOEFL/IELTS score for applicants whose Bachelor’s degree is not conducted in English.",
+      "url": "https://www.ntu.edu.sg/admissions/graduate/radmissionguide"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Applicants whose tertiary studies were taught in English may request a TOEFL/IELTS waiver by submitting an official Medium of Instruction certification letter from their home university (case-by-case at the School's discretion).",
+      "quote": "If the medium of instruction used in your studies is English, you may obtain a letter from your home University to certify the medium of instruction for waiver.",
+      "url": "https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/frequently-asked-questions",
+      "also": [
+        {
+          "quote": "Test score (TOEFL/IELTS, GRE) exemptions are granted on a case-by-case basis at the School's discretion. Contact the School directly for more information.",
+          "url": "https://www.ntu.edu.sg/admissions/graduate/frequently-asked-questions"
+        }
+      ]
+    }
+  },
+  "notes": "Covers 17 of 18 Atlas STEM fields across 13 PhD programs (no standalone Astronomy PhD at NTU Singapore). Note two school-specific August 2027 intake deadlines differ from NTU's standard 2027-01-31 cutoff: LKCMedicine (biomed) closes 2026-12-31, and CEE (civil) closes 2027-02-28. International PhD Research Scholarship stipends were revised effective January 2026 to S$3,000/month (+ up to S$500/month post-QE) with full tuition coverage, and NPGS/PGA to S$4,300/month."
+}

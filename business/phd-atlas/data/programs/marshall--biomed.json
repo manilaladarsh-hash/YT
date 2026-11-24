@@ -1,0 +1,58 @@
+{
+  "id": "marshall--biomed",
+  "university": "marshall",
+  "field": "biomed",
+  "also_fields": [
+    "neuro"
+  ],
+  "department": "Joan C. Edwards School of Medicine",
+  "program_page": "https://jcesom.marshall.edu/health-sciences-graduate-programs/doctor-of-philosophy-in-biomedical-research-phd/",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-15",
+      "value": "Rolling admissions until June 30 (preferred entry is July Summer III term, with Fall/Spring considered case-by-case); the Graduate Catalog specifies that international applicants must adhere to the Office of International Admissions deadline of June 15, 2027 for Fall.",
+      "quote": "Applications are accepted on a rolling basis and are reviewed until the class is filled. Applications will be considered until June 30, if openings are available. International applicants should adhere to the deadlines set in place by the Office of International Admissions.",
+      "url": "https://catalog.marshall.edu/graduate/programs-az/medicine/biomedical-research-phd/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Fall semester – June 15",
+          "url": "https://www.marshall.edu/international-admissions/international-admissions-requirements/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "No entrance exam is required for the Biomedical Research Ph.D., though GRE scores may be submitted to strengthen an application.",
+      "quote": "No entrance exam is required, however. | GRE scores may be submitted to strengthen your application.",
+      "url": "https://jcesom.marshall.edu/health-sciences-graduate-programs/doctor-of-philosophy-in-biomedical-research-phd/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Biomedical Sciences (ETS offers Subject Tests only in Mathematics, Physics, and Psychology; the Biomedical Research Ph.D., including its Neurobiology & Addiction cluster, requires no entrance exam).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Incoming Biomedical Research Ph.D. students complete rotations through a minimum of three different laboratories (at least 120 hours each) across five research clusters before selecting a research mentor.",
+      "quote": "When entering the Biomedical Research Ph.D. program, students are required to complete rotations through a minimum of three different laboratories, each rotation consisting of at least 120 hours.",
+      "url": "https://jcesom.marshall.edu/health-sciences-graduate-programs/doctor-of-philosophy-in-biomedical-research-phd/"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Accepted Biomedical Research Ph.D. students receive tuition remission, an annual stipend of $28,500, and health insurance, with no classroom teaching requirement.",
+      "quote": "Accepted Biomedical Research Ph.D. students receive tuition remission, an annual stipend of $28,500, and health insurance.",
+      "url": "https://jcesom.marshall.edu/health-sciences-graduate-programs/doctor-of-philosophy-in-biomedical-research-phd/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants enter directly with a baccalaureate degree from an accredited college or university (3.0+ overall and combined science/math GPA recommended) plus biology, general chemistry, organic chemistry, physics, and biochemistry/molecular biology prerequisites.",
+      "quote": "Baccalaureate degree from an accredited college or university.",
+      "url": "https://jcesom.marshall.edu/health-sciences-graduate-programs/doctor-of-philosophy-in-biomedical-research-phd/"
+    }
+  },
+  "notes": "Interdisciplinary Ph.D. across five research clusters: Cell Biology, Obesity and Related Diseases, Neurobiology and Addiction Research Center, Toxicology and Environment Health, and Cardiovascular Disease. Covers both biomedical sciences and neuroscience (Neurobiology and Addiction cluster states no entrance exam is required). Requires 3 letters of recommendation, written statement, CV/resume, and publication of 3 peer-reviewed manuscripts (2 as first author) prior to graduation.",
+  "name": "Biomedical Research"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "ualr--biomed",
+  "university": "ualr",
+  "field": "biomed",
+  "also_fields": [
+    "biology"
+  ],
+  "department": "UA Little Rock / UAMS Joint Graduate Program in Bioinformatics",
+  "program_page": "https://ualr.edu/bioinformatics/programs/phd/",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "Fall application deadline is April 1 with notification by May 1 (April 1, 2027 inferred for Fall 2027; Spring is October 15 with notification Nov 15). Applications may be considered at any time, but most are reviewed in these two cohorts.",
+      "quote": "Fall April 1 May 1 | Spring Oct. 15 Nov. 15 | While admissions applications may be considered at any time, the majority of the applications will be considered as a group twice per year:",
+      "url": "https://ualr.edu/bioinformatics/programs/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General Test is required unless a GRE Waiver Form is submitted; the admissions committee has no fixed minimum score, though most successful applicants score at or above the 60th percentile on Quantitative.",
+      "quote": "GRE scores (general test only) or GRE Waiver Form",
+      "url": "https://ualr.edu/bioinformatics/programs/",
+      "also": [
+        {
+          "quote": "The Bioinformatics Graduate Program’s Student Admissions Committee had not established minimum GRE scores for admission to the program. | The GRE Quantitative Score is especially important; most successful applicants score in the 60th percentile or higher.",
+          "url": "https://ualr.edu/bioinformatics/faq/"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "Only the GRE General Test is required; no ETS GRE Subject Test exists for Bioinformatics / Biomedical Sciences.",
+      "quote": "Only the general GRE transcript is needed.",
+      "url": "https://ualr.edu/bioinformatics/faq/",
+      "also": [
+        {
+          "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+          "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by the Bioinformatics Student Admissions Committee (no pre-application CV/faculty match needed); students identify a research mentor during first-year lab rotations and form an advisory committee within 6 months.",
+      "quote": "We make admission decisions based on all the materials requested as part of the application packet, so it is not necessary to send a CV prior to applying... only then will they forward it on the Admissions Committee.",
+      "url": "https://ualr.edu/bioinformatics/faq/",
+      "also": [
+        {
+          "quote": "Within the first six months of entering the Ph.D. program, students must have an approved advisory committee and defend their dissertation proposals.",
+          "url": "https://catalog.ualr.edu/preview_program.php?catoid=21&poid=5566"
+        },
+        {
+          "quote": "By identifying a research topic and mentor during the first year’s research lab rotation",
+          "url": "https://ualr.edu/bioinformatics/programs/phd/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantships are highly competitive and not guaranteed; the program notes it admits many more students than it can fund. Ph.D. students receive priority, and funded GAs have UA Little Rock/UAMS tuition paid plus a stipend (university minimum $15,000/9-mo for full-time doctoral GAs from Fall 2026).",
+      "quote": "Graduate assistantships that support research opportunities are available to qualified full-time students on a highly competitive basis. Tuition is paid, and a stipend is provided for living expenses.",
+      "url": "https://catalog.ualr.edu/preview_program.php?catoid=21&poid=5566",
+      "also": [
+        {
+          "quote": "Ph.D. Students typically receive priority for any available assistantships. | Keep in mind that we admit many more students than we are able to supply financial assistance to.",
+          "url": "https://ualr.edu/bioinformatics/faq/"
+        },
+        {
+          "quote": "The full-time stipend for the academic year is a minimum of $15,000 for doctoral students and $10,000 for master’s students.",
+          "url": "https://ualr.edu/gradschool/assistantship/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Ph.D. admission requires completion of an M.S. degree in bioinformatics or a closely related field (with strong master's project/thesis performance); applicants entering with only a bachelor's apply to the M.S. track first.",
+      "quote": "The Ph.D. program admission requires completion of the M.S. degree in bioinformatics or a closely related field. Students pursuing the Ph.D. need to demonstrate good research potential in their culminating master’s project or thesis.",
+      "url": "https://catalog.ualr.edu/preview_program.php?catoid=21&poid=5566",
+      "also": [
+        {
+          "quote": "Only by completing the master’s degree, and excelling on the master’s capstone project and its defense, will students be admitted to the Ph.D. program.",
+          "url": "https://ualr.edu/bioinformatics/programs/phd/"
+        }
+      ]
+    }
+  },
+  "notes": "Joint Ph.D. offered by UA Little Rock and University of Arkansas for Medical Sciences (UAMS). UA Little Rock is the primary administrative home for admission; UAMS non-degree admission is completed after enrollment for taking UAMS courses or working with UAMS mentors. Note Bioinformatics FAQ refers to legacy 213 CBT TOEFL (equivalent to 79 iBT per Graduate School policy).",
+  "name": "Bioinformatics, Ph.D."
+}

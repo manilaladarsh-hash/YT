@@ -1,0 +1,74 @@
+{
+  "id": "weillcornell",
+  "institution": "Weill Cornell Medicine",
+  "country": "USA",
+  "region": "New York",
+  "grad_page": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/application-process",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "80 USD",
+      "value": "Application processing fee is $80 USD (non-refundable).",
+      "quote": "An application processing fee of $80 charged through the application system.",
+      "url": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/application-process"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "WCGS lists financial-hardship fee waivers with documentation including a letter from a U.S. Embassy/Consulate, EducationUSA, or U.S. government entity (or select pipeline programs), though the main application-process page limits waiver text to U.S. citizens, permanent residents, or undocumented applicants; fee waiver form opens Sept 1 and closes Nov 22, 2026.",
+      "quote": "PhD Application fee waivers are available to applicants who have demonstrated financial hardship or participated in specific pipeline programs described below. ... Letter sent directly from a U.S. Embassy or Consulate, EducationUSA, or other U.S. government agency/entity attesting to the applicant’s financial hardship.",
+      "url": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/financial-support",
+      "time_sensitive": "2026-11-22",
+      "also": [
+        {
+          "quote": "Application fee waivers are available to US citizens, permanent residents, or undocumented applicants who have demonstrated financial hardship or participated in specific pipeline programs.",
+          "url": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/application-process"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE General scores are optional for all Weill Cornell Graduate School PhD programs (ETS institution code 2119).",
+      "quote": "GRE scores are optional for all Weill Cornell PhD programs.",
+      "url": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/application-process"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "No minimum TOEFL score is set; WCGS accepts TOEFL (code 2119), IELTS, and DET and uses a holistic admissions review with no minimum test score.",
+      "quote": "",
+      "url": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/frequently-asked-questions",
+      "also": [
+        {
+          "quote": "There is no minimum GPA or minimum test scores required to apply. WCGS embraces a holistic approach evaluating each application.",
+          "url": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/frequently-asked-questions"
+        },
+        {
+          "quote": "International applicants are required to provide proof of English language proficiency. Accepted Exams: Test of English as a Foreign Language (TOEFL) (WCGS ETS Code: #2119)",
+          "url": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/application-process"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "No minimum IELTS score is set; WCGS accepts IELTS, TOEFL, and DET and uses a holistic admissions review with no minimum test score.",
+      "quote": "",
+      "url": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/frequently-asked-questions",
+      "also": [
+        {
+          "quote": "There is no minimum GPA or minimum test scores required to apply. WCGS embraces a holistic approach evaluating each application.",
+          "url": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/frequently-asked-questions"
+        },
+        {
+          "quote": "International English Language Testing System (IELTS)",
+          "url": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/application-process"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "Standing exemption waives TOEFL/IELTS/DET for applicants who earned an international equivalent of a U.S. bachelor’s degree in an English-official country where English is the language of instruction (India is explicitly named; physical presence required for majority of enrollment).",
+      "quote": "At the time of enrollment at Weill Cornell, will have earned the international equivalent of a U.S. bachelor’s degree from a college or university located in a country where English is an official language, and where English is the language of instruction (including but not limited to Ghana, Hong Kong, India, Nigeria, and Pakistan).",
+      "url": "https://gradschool.weill.cornell.edu/admissions/doctoral-program-admissions/application-process"
+    }
+  },
+  "notes": "Weill Cornell Graduate School of Medical Sciences (WCGS, Manhattan, NY; health-science scope): research covers biomed (Immunology & Microbial Pathogenesis, Pharmacology, Physiology/Biophysics/Systems Biology), neuro (Neuroscience), and biology (BCMB Allied Program); WCGS does not offer a Biomedical Engineering PhD (Cornell BME is on the Ithaca campus). Non-US transcripts require a NACES course-by-course evaluation (WES/TEC/IEE)."
+}

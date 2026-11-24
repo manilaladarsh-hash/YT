@@ -1,0 +1,53 @@
+{
+  "id": "hku",
+  "institution": "The University of Hong Kong",
+  "country": "Hong Kong",
+  "region": "Hong Kong",
+  "grad_page": "https://gradsch.hku.hk/prospective_students/application/admission_requirement",
+  "checked": "2026-11-14",
+  "fields": {
+    "app_fee": {
+      "code": "780 HKD",
+      "value": "Non-refundable, non-transferable online application fee of HK$780 per application.",
+      "quote": "Application fee for each application is HK$780.",
+      "url": "https://gradsch.hku.hk/prospective_students/application/faq_on_application"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "HKU Graduate School states that application fee waivers will not be considered.",
+      "quote": "Please note that a waiver of application fee will not be considered.",
+      "url": "https://gradsch.hku.hk/prospective_students/application/faq_on_application"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE General (or GMAT) is required only for Faculty of Business and Economics applicants, not for STEM PhD programs.",
+      "quote": "Faculty of Business and Economics applicants are required to demonstrate their capability for graduate studies by obtaining satisfactory scores in the Graduate Management Admission Test (GMAT) or Graduate Record Examinations (GRE), taken within five years",
+      "url": "https://gradsch.hku.hk/prospective_students/application/admission_requirement"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "Minimum TOEFL iBT overall score is 4.5 (for tests taken from January 21, 2026 onwards) or 85 (for tests taken before January 21, 2026), taken in one single attempt within 2 years (Home Edition not accepted).",
+      "quote": "TOEFL - Internet-based test (taken in one single attempt within 2 years) | An overall score of 85 or above (for tests taken before January 21, 2026) | An overall score of 4.5 or above (for tests taken from January 21, 2026 onwards)",
+      "url": "https://gradsch.hku.hk/prospective_students/application/admission_requirement"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic overall band score is 6.5 with no sub-score lower than 6.0 (taken in one single attempt within 2 years; One Skill Retake not accepted).",
+      "quote": "IELTS - Academic Module (taken in one single attempt within 2 years) | Other Faculties: Overall score – 6.5; All sub-score – not lower than 6",
+      "url": "https://gradsch.hku.hk/prospective_students/application/admission_requirement"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "English proficiency tests are required only for qualifications obtained outside Hong Kong where the language of teaching and/or examination is not English; applicants whose prior university degree was taught and examined in English are exempt.",
+      "quote": "An applicant who is seeking admission on the basis of a qualification from a university or comparable institution outside Hong Kong of which the language of teaching and/or examination is not English is required to obtain one of the followings:",
+      "url": "https://gradsch.hku.hk/prospective_students/application/admission_requirement",
+      "also": [
+        {
+          "quote": "A TOEFL/ IELTS score is not required if your first language is English or English was used as the medium of instruction in your undergraduate studies.",
+          "url": "https://www.cds.hku.hk/prospective-students/postgraduate/"
+        }
+      ]
+    }
+  },
+  "notes": "HKU offers PhD and MPhil degrees across 17 covered STEM fields in 2027-28; no Chemical Engineering PhD is offered (Faculty of Engineering and Graduate School list Civil Engineering, Computing and Data Science, Data and Systems Engineering, Electrical and Computer Engineering, Materials and Energy, Mechanical Engineering, Biomedical Engineering, and School of Innovation). Note Chemistry's department page (chemistry.hku.hk/study/postgraduate_students/2/) still lists a legacy HK$600 fee vs HKU Graduate School's HK$780 fee; and Department of IMSE (imse.hku.hk) was renamed Department of Data and Systems Engineering (dase.hku.hk) in September 2024."
+}

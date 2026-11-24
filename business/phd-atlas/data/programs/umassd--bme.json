@@ -1,0 +1,81 @@
+{
+  "id": "umassd--bme",
+  "university": "umassd",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Bioengineering",
+  "program_page": "https://www.umassd.edu/programs/biomedical-engineering-biotechnology/",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-07-15",
+      "value": "Fall 2027 international application closing date is July 15, 2027 (Spring closing: December 15). University priority date for assistantships/fellowships is January 15, 2027; the BMEBT catalog additionally notes a March 15th deadline for teaching/research assistantship applications.",
+      "quote": "For fall applicants, the date for priority consideration for university assistantships or fellowships is January 15. | Application closing dates: | International application: July 15 | Note: International students may only apply for fall or spring.",
+      "url": "https://www.umassd.edu/graduate/dates/",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15",
+      "also": [
+        {
+          "quote": "Applicants desiring teaching or research assistantships should submit completed applications by March 15th.",
+          "url": "https://catalog.umassd.edu/preview_program.php?catoid=89&poid=12705"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General is required (catalog notes a 300 minimum combined V+Q guideline), though the program page states GRE is waived (but strongly recommended) for applicants with cumulative baccalaureate GPA > 3.00 and the catalog notes waiver by petition for holders of an accredited U.S. graduate degree.",
+      "quote": "GRE is required, but waived (but strongly recommended) for applicants with cumulative baccalaureate degree GPA > 3.00.",
+      "url": "https://www.umassd.edu/programs/biomedical-engineering-biotechnology/",
+      "also": [
+        {
+          "quote": "Applicants accepted into the program should present a minimum Graduate Record Exam (GRE) combined verbal + quantitative score of 300. | The GRE can be waived by petition to the AACC for applicants with a prior graduate degree from an accredited US institution; an application without the GRE must demonstrate exceptional potential.",
+          "url": "https://catalog.umassd.edu/preview_program.php?catoid=89&poid=12705"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Biomedical Engineering or Biotechnology (ETS offers Subject Tests only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are strongly encouraged to contact participating faculty before applying to explore specialization fit and report those contacts in their Statement of Purpose; admissions are decided by the campus AACC, and acceptance is subject to availability of appropriate advisors.",
+      "quote": "Applicants are strongly encouraged to contact participating faculty to explore how they might fit into a specific specialization option before submitting their application and to report on the results of those contacts in their Statement of Purpose (see below). | Admissions decisions are made at the campus level, under the purview of each campus’s Admissions/Advising/Curriculum Committee (AACC). | Acceptance into the program is subject to the availability of appropriate advisors.",
+      "url": "https://catalog.umassd.edu/preview_program.php?catoid=89&poid=12705",
+      "also": [
+        {
+          "quote": "indicate your specific areas of interest within Biomedical Engineering and Biotechnology so that an appropriate fit in the program can be determined. If you have a specific interest in working with one or more of the program’s faculty, describe that specific interest and identify those faculty members.",
+          "url": "https://www.umassd.edu/programs/biomedical-engineering-biotechnology/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "A limited number of graduate assistantships (predominantly Research Assistantships) are available on a competitive basis; applicants are invited to contact faculty about RA opportunities and apply by January 15 (university priority) / March 15 (program assistantship deadline).",
+      "quote": "A limited number of assistantships are available on a competitive basis. This award is subject to the work needs of the position and department, your satisfactory performance of duties, your academic record, and availability of funds, and may be subject to change.",
+      "url": "https://www.umassd.edu/programs/biomedical-engineering-biotechnology/",
+      "also": [
+        {
+          "quote": "A limited number of assistantships are available on a competitive basis. Applicants desiring teaching or research assistantships should submit completed applications by March 15th. | Almost all assistantship support in this program comes in the form of Research Assistantships. Applicants are invited to contact faculty about opportunities for Research Assistantships.",
+          "url": "https://catalog.umassd.edu/preview_program.php?catoid=89&poid=12705"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Accepts both bachelor's and master's holders in life sciences, physical sciences, or engineering (minimum 3.0 GPA and 2 semesters of calculus); MS entrants may receive Advanced Standing (>=44 credits minimum vs. 63 credits from BS).",
+      "quote": "Individuals holding a bachelor’s or master’s degree in the life sciences or engineering/physical science fields (or the U.S. baccalaureate equivalents from a foreign institution) are encouraged to apply.",
+      "url": "https://www.umassd.edu/programs/biomedical-engineering-biotechnology/",
+      "also": [
+        {
+          "quote": "Applications will be accepted from individuals holding appropriate bachelor’s degrees or master’s degrees (or the US baccalaureate equivalents from a foreign institution). | Students who join the program with an earned master’s degree may receive Advanced Standing in the doctoral program.",
+          "url": "https://catalog.umassd.edu/preview_program.php?catoid=89&poid=12705"
+        }
+      ]
+    }
+  },
+  "notes": "Intercampus UMass BMEBT program (Boston, Dartmouth, Lowell, UMass Chan Medical); applicants apply directly to their intended home campus.",
+  "name": "Biomedical Engineering and Biotechnology Ph.D."
+}

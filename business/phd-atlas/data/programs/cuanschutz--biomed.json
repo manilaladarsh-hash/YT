@@ -1,0 +1,61 @@
+{
+  "id": "cuanschutz--biomed",
+  "university": "cuanschutz",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Biomedical Sciences Program (BSP, School of Medicine / Graduate School)",
+  "program_page": "https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-01",
+      "value": "International priority deadline is November 1, 2026 (applications accepted September 1 through December 1, 2026; submissions after November 1 are only considered if processing completes before December 1).",
+      "quote": "PRIORITY DEADLINE FOR INTERNATIONAL APPLICANTS IS NOVEMBER 1. | Applications are accepted September 1 until December 1 of each year",
+      "url": "https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/admissions",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE is no longer required for admission to Biomedical Sciences.",
+      "quote": "Graduate Record Exam (GRE) | The GRE is no longer required for admissions.",
+      "url": "https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/admissions"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers no GRE Subject Test in Biomedical Sciences, and the GRE is no longer required.",
+      "quote": "The GRE is no longer required for admissions.",
+      "url": "https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/admissions",
+      "also": [
+        {
+          "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+          "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Cohort-based umbrella PhD admissions; students complete lab rotations before choosing one of 11 PhD-granting programs after year one.",
+      "quote": "BSP is a small cohort umbrella program, typically welcoming 8-15 students in a year. ... you will have full rotation options within that program, this is not a direct admission into one lab.",
+      "url": "https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/admissions"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All BSP students are fully funded with stipend, tuition, fees, and health insurance covered.",
+      "quote": "BSP students are fully-funded. ... first year stipend and tuition is covered entirely by the Graduate School.",
+      "url": "https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/resources/grants-and-fellowships",
+      "also": [
+        {
+          "quote": "Since tuition and fees are paid for and a stipend is received for all students, a financial affidavit showing adequate funds to live and study in the United States is not required during the application process.",
+          "url": "https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/admissions"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Apply with a bachelor's degree (minimum 3.0/4.0 GPA).",
+      "quote": "The Graduate School requires completion of a baccalaureate degree with a minimum 3.0 (out of 4.0) grade point average.",
+      "url": "https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/admissions"
+    }
+  },
+  "notes": "Umbrella PhD program feeding into 11 biomedical PhD programs at CU Anschutz. Very few fellowships are available for international students via BSP, so direct application to individual PhD programs is recommended."
+}

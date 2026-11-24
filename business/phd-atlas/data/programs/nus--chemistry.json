@@ -1,0 +1,67 @@
+{
+  "id": "nus--chemistry",
+  "university": "nus",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Faculty of Science — Department of Chemistry",
+  "program_page": "https://chemistry.nus.edu.sg/education/graduate/phd-programme/",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-15",
+      "value": "August intake application window runs from May 16 to November 15 of the previous year (January intake closes May 15 of the previous year).",
+      "quote": "For August intake: 16 May to 15 November (of the previous year)",
+      "url": "https://chemistry.nus.edu.sg/education/graduate/phd-programme/",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for chemistry (ETS discontinued the Chemistry Subject Test in May 2023).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants choose up to 3 proposed PhD supervisors from the Chemistry Faculty / Jointly Appointed Faculty list (and contact proposed supervisors for grant-funded scholarships).",
+      "quote": "Please choose up to 3 proposed PhD supervisors from the “Faculty” and “Jointly Appointed Faculty” sections only",
+      "url": "https://chemistry.nus.edu.sg/education/graduate/phd-programme/",
+      "also": [
+        {
+          "quote": "PhD Scholarship under research grant (contact the proposed supervisor)",
+          "url": "https://chemistry.nus.edu.sg/education/graduate/phd-programme/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Competitive scholarships include NUS Research Scholarship, President's Graduate Fellowship, and the Faculty of Science Dean Graduate Fellowship (top 20% of scholarship holders, adding S$600/month to stipends of S$2,800/month for international students).",
+      "quote": "PhD Scholarships in Department of Chemistry | NUS Research Scholarship | President’s Graduate Fellowship (PGF) | Dean Graduate Fellowship (DGF) | Selected from those with RSB, SINGA, IRP in admission per AY (top 20%) | Stipends in years 1-4, increase by 600 S$ per month | SC: S$3,400 +CPF 578; SPR: S$3,000; IS: S$2,800",
+      "url": "https://chemistry.nus.edu.sg/education/graduate/phd-programme/"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Requires a 4-year bachelor's or Honours degree (at least 2nd Class Upper Honours or equivalent for Research Scholarship applicants).",
+      "quote": "A Bachelor’s (Honours) degree or a 4-year Bachelor’s degree | Candidates applying for Research Scholarships must have obtained a bachelor’s degree with at least a 2nd Class Upper Honours, or its equivalent.",
+      "url": "https://chemistry.nus.edu.sg/education/graduate/phd-programme/"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "Chemistry strongly encourages all PhD candidates to submit GRE scores (minimum 320 Verbal + Quantitative and 3.5 Analytical Writing).",
+      "quote": "For all PhD programmes, candidates are strongly encouraged to submit GRE (minimum score of 320 [Verbal+ Quantitative] and 3.5 [Analytical Writing]).",
+      "url": "https://chemistry.nus.edu.sg/education/graduate/phd-programme/"
+    },
+    "toefl_min": {
+      "code": "5 (new scale)",
+      "value": "Chemistry requires TOEFL iBT 5 on the new scale (95 on the old scale) or IELTS 7.0 if undergraduate instruction was not in English.",
+      "quote": "a candidate whose medium of undergraduate instruction is not English is required to submit TOEFL (with the minimum score 95 (old scale) or 5 (new scale) for the internet-based test) or IELTS (with the minimum score 7.0) scores.",
+      "url": "https://chemistry.nus.edu.sg/education/graduate/phd-programme/"
+    },
+    "ielts_min": {
+      "code": "7.0",
+      "value": "Chemistry requires IELTS 7.0 overall (or TOEFL iBT 95 old / 5 new scale) if undergraduate instruction was not in English.",
+      "quote": "a candidate whose medium of undergraduate instruction is not English is required to submit TOEFL (with the minimum score 95 (old scale) or 5 (new scale) for the internet-based test) or IELTS (with the minimum score 7.0) scores.",
+      "url": "https://chemistry.nus.edu.sg/education/graduate/phd-programme/"
+    }
+  },
+  "notes": "Department-specific higher English thresholds (TOEFL 95 old / 5 new, IELTS 7.0) and GRE recommendation override NUS baseline."
+}

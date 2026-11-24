@@ -1,0 +1,58 @@
+{
+  "id": "tnstate--cs",
+  "university": "tnstate",
+  "field": "cs",
+  "also_fields": [
+    "datasci"
+  ],
+  "department": "Department of Computer Science / College of Engineering",
+  "program_page": "https://catalog.tnstate.edu/preview_program.php?catoid=20&poid=3580&returnto=1167",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "International applicants abroad have an April 1 Fall priority deadline (June 1 for international applicants in the U.S.; July 1 general Fall deadline listed on the catalog program page).",
+      "quote": "Priority application deadlines for international applicants: | Fall Semester April 1 June 1",
+      "url": "https://catalog.tnstate.edu/content.php?catoid=20&navoid=1154",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Application Deadlines | Fall Semester Spring Semester Summer Semester July 1 November 1 April 1",
+          "url": "https://catalog.tnstate.edu/preview_program.php?catoid=20&poid=3580&returnto=1167"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS does not offer a GRE Computer Science or Data Science Subject Test.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Pre-admission supervisor agreement is not stated on the ENCS Computational Sciences catalog or Computer Science department pages.",
+      "quote": "",
+      "url": "https://catalog.tnstate.edu/preview_program.php?catoid=20&poid=3580&returnto=1167"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Competitive Graduate Assistantships (~20 hours/week) provide monthly stipends and most include tuition and fees, alongside Title III doctoral assistantships ($3,000/month plus in-state tuition for up to 4 years; POTUS Fellowships are limited to U.S. citizens/permanent residents).",
+      "quote": "Graduate Assistants are required to work approximately 20 hours per week. ... Appointments provide a monthly stipend and most include tuition and fees.",
+      "url": "https://www.tnstate.edu/academics/graduate-studies/financial-aid/",
+      "also": [
+        {
+          "quote": "$3,000 monthly stipend for doctoral students | In-state tuition while under contract",
+          "url": "https://www.tnstate.edu/administration/title-iii/ga/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Enter with either a relevant master's degree (minimum 3.00 GPA in catalog; 3.30 GPA noted on College ENCS pages) or a B.S. in engineering or computer science (minimum 3.30 GPA); 72 credits total beyond B.S. (up to 24 credits transferable with a master's).",
+      "quote": "Hold a Master of Science degree in an engineering discipline or computer science; a Master of Engineering degree; a master’s degree in a closely related field; or a Bachelor of Science degree in an engineering discipline or computer science. | For unconditional admission: (a) the student must have a minimum cumulative grade point average (GPA) of 3.00 on a 4.0 scale for a master’s degree or 3.30 on a 4.0 scale for a bachelor’s degree",
+      "url": "https://catalog.tnstate.edu/preview_program.php?catoid=20&poid=3580&returnto=1167"
+    }
+  },
+  "notes": "Computational Sciences Concentration of the interdisciplinary ENCS Ph.D., including Data Science, Cybersecurity and Networking, and HPC and Bioinformatics specialties (per Department of Computer Science degrees page).",
+  "name": "Engineering and Computational Sciences, Ph.D. (Computational Sciences Concentration)"
+}

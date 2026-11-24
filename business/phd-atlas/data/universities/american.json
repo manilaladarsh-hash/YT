@@ -1,0 +1,59 @@
+{
+  "id": "american",
+  "institution": "American University",
+  "country": "USA",
+  "region": "District of Columbia",
+  "grad_page": "https://www.american.edu/cas/admissions/apply.cfm",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "55 USD",
+      "value": "College of Arts & Sciences (which houses all STEM PhD programs) charges a nonrefundable $55 USD application fee.",
+      "quote": "As part of the application form submission, the system will apply a nonrefundable $55 application fee required at this stage to access the supplemental items section.",
+      "url": "https://www.american.edu/cas/admissions/apply.cfm"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "CAS does not grant individual fee waiver codes; fee waivers are reserved for recruitment event or webinar attendees (CAS Events page).",
+      "quote": "Fee waivers are reserved for recruitment event or webinar attendees.",
+      "url": "https://www.american.edu/cas/admissions/apply.cfm",
+      "also": [
+        {
+          "quote": "Please note that we no longer provide application fee waiver codes on an individual basis.",
+          "url": "https://www.american.edu/cas/admissions/international.cfm"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "CAS standardized test requirements vary by program ('Some may require: Standardized Test Scores'); BEHS and Computational Science & AI explicitly state GRE is not required, while BCaN Neuroscience does not list GRE policy.",
+      "quote": "",
+      "url": "https://www.american.edu/cas/admissions/requirements.cfm",
+      "also": [
+        {
+          "quote": "Some may require: Standardized Test Scores",
+          "url": "https://www.american.edu/cas/admissions/requirements.cfm"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "CAS requires a minimum TOEFL score of 100 (also accepts IELTS 7.0, PTE 68, or Duolingo 120).",
+      "quote": "TOEFL, minimum score of 100",
+      "url": "https://www.american.edu/cas/admissions/international.cfm"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "CAS requires a minimum IELTS score of 7.0 (also accepts TOEFL 100, PTE 68, or Duolingo 120).",
+      "quote": "IELTS, minimum score of 7.0",
+      "url": "https://www.american.edu/cas/admissions/international.cfm"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "CAS considers automatic English proficiency waivers for Indian citizens who earned a bachelor's degree from an accredited university where English is the sole language of instruction (also for U.S.-based bachelor's/higher degrees).",
+      "quote": "We can consider automatic waivers for applicants who meet the following criteria: Earned a bachelor's degree or higher from an accredited US-based university or Earned a bachelor's degree from an accredited university where English is the only language of instruction and the applicant is a citizen of one of these countries: ... India",
+      "url": "https://www.american.edu/cas/admissions/international.cfm"
+    }
+  },
+  "notes": "Graduate admissions and policies at American University are set by school/college; all three STEM PhD programs sit in the College of Arts and Sciences (CAS). International visa-sponsored general fallback deadline is May 15 unless a program specifies an earlier deadline (all three STEM PhDs have earlier Fall deadlines of Dec 1 or Jan 15)."
+}

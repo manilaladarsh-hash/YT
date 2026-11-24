@@ -1,0 +1,62 @@
+{
+  "id": "ncat--physics",
+  "university": "ncat",
+  "field": "physics",
+  "also_fields": [
+    "chemistry",
+    "biology",
+    "earth",
+    "environment",
+    "datasci"
+  ],
+  "department": "College of Science and Technology (Applied Science and Technology Ph.D. Program)",
+  "program_page": "https://www.ncat.edu/academics/graduate-programs/cost/applied-science-and-technology.php",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2026-11-01",
+      "value": "Applied Science & Technology (AST) Ph.D. admits for Fall only with a priority funding deadline of November 1 and a regular application deadline of December 3.",
+      "quote": "Special Case - Applied Science and Technology (AST) Ph.D. program: The priority funding application deadline for the AST program is November 1 and the regular application deadline is December 3.",
+      "url": "https://www.ncat.edu/admissions/graduate/admission-requirements.php",
+      "inferred": "year",
+      "time_sensitive": "2026-11-01"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The 2025-2026 AST Ph.D. Curriculum Guide lists GRE scores as optional (not required); note that older 2025-26 Graduate Catalog text still lists GRE verbal and quantitative scores with no minimum.",
+      "quote": "GRE Scores Optional (not required)",
+      "url": "https://www.ncat.edu/cost/graduate-programs/ast-2025-26-curriculum-guide.pdf"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "Neither the AST Ph.D. page, 2025-2026 Curriculum Guide, nor the Graduate Catalog states a GRE Physics Subject Test requirement.",
+      "quote": "",
+      "url": "https://www.ncat.edu/academics/graduate-programs/cost/applied-science-and-technology.php"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Neither the AST Ph.D. page nor the 2025-2026 Curriculum Guide states whether contacting or securing a faculty supervisor before applying is required.",
+      "quote": "",
+      "url": "https://www.ncat.edu/academics/graduate-programs/cost/applied-science-and-technology.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Applicants who apply by the priority deadline are automatically considered for Graduate College Doctoral GTAs ($20,000 minimum 9-month stipend, full tuition, and student health insurance for 1 year, renewable up to 2 years, followed by faculty grant GRAs), though currently only a portion of qualified students are funded.",
+      "quote": "Doctoral Graduate Teaching Assistants (GTAs): doctoral student support will be paid by The Graduate College, and include tuition in the amount for a full time student, health insurance, and a nine month stipend at a minimum of $20,000. This package is a one-year commitment that can be renewed for a maximum of two years. | However, currently only a portion of qualified students will be supported as GTAs.",
+      "url": "https://www.ncat.edu/tgc/prospective-students/grad-funding/funding-faq.php",
+      "also": [
+        {
+          "quote": "Students who apply late have significantly reduced chances of receiving funding as offers are made to eligible students on a first-come, first-serve basis.",
+          "url": "https://www.ncat.edu/tgc/prospective-students/grad-funding/university-funding-opportunities-for-graduate-students.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants may enter directly with a STEM B.S. degree (GPA >= 3.25) or with a STEM M.S. degree (GPA >= 3.0).",
+      "quote": "B.S. degree in a science, technology, engineering, math (STEM) or related discipline with a GPA≥3.25/4.0 or a M.S. degree in a science, technology, engineering, math (STEM) or related discipline with a GPA≥3.0/4.0 from a college or university recognized by a regional or general accrediting agency",
+      "url": "https://www.ncat.edu/cost/graduate-programs/ast-2025-26-curriculum-guide.pdf"
+    }
+  },
+  "notes": "Interdisciplinary umbrella Ph.D. with 9 concentrations: Applied Physics (including Nuclear Physics & Astronomy), Applied Chemistry, Bioscience, Atmospheric, Environmental and Energy Science, Data Science and Analytics, Geospatial Sciences, Information Technology, STEM Education, and Technology Management. Fall admission only."
+}

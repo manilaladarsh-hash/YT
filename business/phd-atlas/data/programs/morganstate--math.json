@@ -1,0 +1,51 @@
+{
+  "id": "morganstate--math",
+  "university": "morganstate",
+  "field": "math",
+  "also_fields": [],
+  "department": "Department of Mathematics, School of Computer, Mathematical, and Natural Sciences",
+  "program_page": "https://catalog.morgan.edu/preview_program.php?catoid=29&poid=6804&returnto=2166",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "School of Graduate Studies sets April 1 as the Fall application deadline for international F-1 degree-seeking applicants (unless an earlier program deadline applies); Morgan's Application Deadlines portal lists May 1, 2027 for Industrial and Computational Mathematics, PhD (Fall 2027), and SGS funding applications are due April 30.",
+      "quote": "Application deadlines for the School of Graduate Studies (SGS) are as follows (unless earlier deadline dates are indicated by the individual programs): ... International, degree-seeking (All F-1 in and out of USA) Fall - April 1",
+      "url": "https://www.morgan.edu/school-of-graduate-studies/admissions/application-process",
+      "inferred": "year",
+      "time_sensitive": "2027-04-01",
+      "also": [
+        {
+          "quote": "Mathematics PhD Saturday, May 1, 2027 Fall 2027 Graduate Industrial and Computational Mathematics, PhD",
+          "url": "https://morgan.elluciancrmrecruit.com/ApplyGRAD/Home/ApplicationDeadlines"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The catalog entry for Industrial and Computational Mathematics does not mention the GRE Mathematics Subject Test.",
+      "quote": "",
+      "url": "https://catalog.morgan.edu/preview_program.php?catoid=29&poid=6804&returnto=2166"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Admitted students choose a specialization and dissertation advisor in consultation with ICM graduate faculty; no pre-admission advisor commitment is stated.",
+      "quote": "",
+      "url": "https://catalog.morgan.edu/preview_program.php?catoid=29&poid=6804&returnto=2166"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate assistantships (TA/RA, $21,000 doctoral stipend plus tuition award up to 9 credits/semester excluding university fees) and fellowships require a separate School of Graduate Studies funding application (due April 30 for Fall) and are not guaranteed.",
+      "quote": "SUBMISSION OF A FUNDING APPLICATION DOES NOT MEAN YOU WILL BE APPROVED. The decisions will be based on program selection and availability of funding per each program. | Graduate assistantships for doctoral and master's degree students pay a stipend ($21,000-doctoral $12,000-master's) Tuition awards do not pay for university and miscellaneous fees.",
+      "url": "https://www.morgan.edu/school-of-graduate-studies/new-and-current-students/funding"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Option I requires 36 academic credit hours beyond a master's degree; Option II requires 60 academic credit hours for candidates with a baccalaureate degree.",
+      "quote": "Candidates for the Doctor of Philosophy degree must complete: a minimum of 36 academic credit hours for candidates who already possess the master’s degree (OPTION I) and a minimum of 60 academic credits for candidates only possess the baccalaureate degree (OPTION II)",
+      "url": "https://catalog.morgan.edu/preview_program.php?catoid=29&poid=6804&returnto=2166"
+    }
+  },
+  "notes": "Graduate catalog specifies 36 credits post-master's or 60 credits post-bachelor's (the grad.morgan.edu marketing summary lists 39 credits). Spring admission deadline is December 1.",
+  "name": "Industrial and Computational Mathematics"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "umassd--datasci",
+  "university": "umassd",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "College of Engineering — Machine Learning & Data Science (EAS Ph.D.)",
+  "program_page": "https://catalog.umassd.edu/preview_program.php?catoid=89&poid=12777",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-07-15",
+      "value": "Fall 2027 international application closing date is July 15, 2027 (Spring 2027 international closing date: December 15; Summer not open to international students). Priority consideration for university assistantships or fellowships is January 15, 2027.",
+      "quote": "For fall applicants, the date for priority consideration for university assistantships or fellowships is January 15. | Application closing dates: | International application: July 15 | Note: International students may only apply for fall or spring.",
+      "url": "https://www.umassd.edu/graduate/dates/",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE General is waived for Engineering and Applied Science (EAS) Ph.D. applicants.",
+      "quote": "GRE is waived.",
+      "url": "https://www.umassd.edu/programs/engineering-applied-science-phd/"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "EAS Ph.D. requires TOEFL iBT 90 (4.5 on the post-1/21/2026 1-6 scale), Duolingo 120, or PTE 60 — higher than the university minimum of 72.",
+      "quote": "International students should have a minimum English Proficiency score of TOEFL iBT 90 (New TOEFL 2026 score of 4.5), IELTS 6.5, Duolingo 120 or the Pearsons PTE 60.",
+      "url": "https://www.umassd.edu/programs/engineering-applied-science-phd/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "EAS Ph.D. requires IELTS 6.5 minimum (higher than the university general minimum of 6.0).",
+      "quote": "International students should have a minimum English Proficiency score of TOEFL iBT 90 (New TOEFL 2026 score of 4.5), IELTS 6.5, Duolingo 120 or the Pearsons PTE 60.",
+      "url": "https://www.umassd.edu/programs/engineering-applied-science-phd/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field (ETS offers Subject Tests only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applications indicating option preferences are made directly to the EAS Ph.D. program and reviewed by admissions committees in the selected options rather than requiring a pre-committed supervisor.",
+      "quote": "Applications indicating option preferences will be made directly to the PhD program and reviewed by admissions committees in the selected options. Admission is made by the Associate Provost for Graduate Studies and the Dean of the College of Engineering upon the recommendation of the EAS Graduate Program Director and the admissions director of the major option.",
+      "url": "https://www.umassd.edu/programs/engineering-applied-science-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "A limited number of graduate assistantships are available on a competitive basis.",
+      "quote": "A limited number of assistantships are available on a competitive basis. This award is subject to the work needs of the position and department, your satisfactory performance of duties, your academic record, and availability of funds, and may be subject to change.",
+      "url": "https://www.umassd.edu/programs/engineering-applied-science-phd/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Encourages applicants with either a bachelor's degree (min. 3.00 GPA) or a master's degree (min. 3.25 GPA); 66 semester credit hours minimum beyond the bachelor's degree.",
+      "quote": "Students possessing a bachelor's or master's degree and a strong academic background in any of the four program tracks (Applied Mechanics and Materials, Computational Science and Engineering, Computer Science and Information Science, Industrial and Systems Engineering) or similar disciplines are encouraged to apply for admission to the EAS PhD program. | Generally, a minimum undergraduate GPA of 3.00 (on a scale of 4.00) is required or a minimum graduate GPA of 3.25. | EAS options require a minimum of 66 semester credit hours beyond the bachelor’s degree.",
+      "url": "https://www.umassd.edu/programs/engineering-applied-science-phd/"
+    }
+  },
+  "notes": "Machine Learning and Data Science (MLDS) option of the College of Engineering EAS Ph.D. program (13 courses / 66 credits spanning MTH, CIS, and DSC coursework). Shared EAS admissions rules (GRE waived; TOEFL 90 / 4.5 new scale, IELTS 6.5) appear on https://www.umassd.edu/programs/engineering-applied-science-phd/.",
+  "name": "Engineering and Applied Science Ph.D. — Machine Learning and Data Science"
+}

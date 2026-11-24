@@ -1,0 +1,50 @@
+{
+  "id": "ncat--cs",
+  "university": "ncat",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.ncat.edu/academics/graduate-programs/coe/computer-science.php",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "General Fall priority admission and merit-based funding deadline is January 15 (applied automatically with the admission application); general international Fall deadline is May 15.",
+      "quote": "Priority Admission Application Deadline / Priority Funding Deadline (applies only to Fall semester admissions): January 15 | International Student Admission Application Deadline: May 15",
+      "url": "https://www.ncat.edu/admissions/graduate/admission-requirements.php",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE scores are required: M.S. applicants need GRE Verbal 150 and Quantitative 155; direct B.S. applicants need GRE Verbal >= 153 and Quantitative >= 159.",
+      "quote": "A 3.25 GPA, GRE verbal score 150 and quantitative score 155 and a MS degree in Computer Science or a related discipline are required for admission. A highly qualified applicant with a B.S. in CS with GPA of at least 3.5, GRE verbal score of at least 153 and quantitative score of at least 159 can apply for the PhD program.",
+      "url": "https://www.ncat.edu/coe/departments/cs/graduate-programs/msphd-handbook.pdf"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS does not offer a GRE Subject Test in Computer Science.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "A temporary advisor is assigned upon admission; students select a permanent advisor within 9 credit hours or by the end of the first semester.",
+      "quote": "Contact the temporary advisor that is assigned by the Department of Computer Science. | Select a permanent advisor (with the approval of the Graduate Coordinator) no more than 9 credit hours into the program or by the end of the first semester (whichever comes first).",
+      "url": "https://www.ncat.edu/coe/departments/cs/graduate-programs/msphd-handbook.pdf"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Assistantship awards (tuition or stipend) are competitive and vary by semester depending on department and Graduate College grant funding; applicants must indicate interest on the application.",
+      "quote": "The number of assistantships available varies from semester to semester that depends on the research grants and funding of the department and the Graduate College. All awards are made on competitive basis, and every applicant may not receive an offer.",
+      "url": "https://www.ncat.edu/coe/departments/cs/graduate-programs/msphd-handbook.pdf"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Typically entered with an M.S. in CS (3.25+ GPA), though highly qualified B.S. in CS graduates (3.5+ GPA) may apply directly.",
+      "quote": "It is generally assumed that an entering student has completed graduate study with an MS in CS. A 3.25 GPA, GRE verbal score 150 and quantitative score 155 and a MS degree in Computer Science or a related discipline are required for admission. A highly qualified applicant with a B.S. in CS with GPA of at least 3.5, GRE verbal score of at least 153 and quantitative score of at least 159 can apply for the PhD program.",
+      "url": "https://www.ncat.edu/coe/departments/cs/graduate-programs/msphd-handbook.pdf"
+    }
+  },
+  "notes": "Graduate Handbook updated January 2025. Research areas include cybersecurity, AI, distributed systems, cloud computing, and visualization."
+}

@@ -1,0 +1,62 @@
+{
+  "id": "marshall--bme",
+  "university": "marshall",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Department of Biomedical and Electrical Engineering, College of Engineering and Computer Sciences",
+  "program_page": "https://www.marshall.edu/cecs/biomedical-engineering-2/",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-15",
+      "value": "Follows Graduate Admissions deadlines; international applicants requiring a visa must submit all required documents by June 15, 2027 for Fall (Spring: October 15; Summer: March 15).",
+      "quote": "Fall semester – June 15",
+      "url": "https://www.marshall.edu/international-admissions/international-admissions-requirements/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "June 15 - for students applying to the fall term beginning in August | October 15 - for students applying to the spring term beginning in January | March 15 - for students applying to the summer term",
+          "url": "https://catalog.marshall.edu/graduate/admissions/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "No GRE score is required for Engineering Ph.D. admission, though one may be submitted to strengthen an application.",
+      "quote": "No Graduate Record Exam (GRE) score is required, but one may be submitted to strengthen an application.",
+      "url": "https://catalog.marshall.edu/graduate/programs-az/engineering-computer-sciences/engineering-phd/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Engineering (Biomedical Engineering); ETS offers Subject Tests only in Mathematics, Physics, and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Fulfilling minimum requirements does not guarantee admission; decisions consider fit of research objectives with program faculty and availability of faculty to supervise the applicant's research.",
+      "quote": "Fulfilling the minimum requirements does not guarantee admission and factors such as appropriateness of the applicant's research objectives to the research interests of the program faculty, availability of faculty to supervise the applicant's research, availability of research funds to support the research, and prior research accomplishments of the applicant will also influence the admission decision.",
+      "url": "https://catalog.marshall.edu/graduate/programs-az/engineering-computer-sciences/engineering-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate assistantships (teaching, research, or faculty support) are awarded competitively via Marshall HR postings and depend on availability of research funds; full GAs (20 hrs/wk) receive at least minimum wage plus proportional base E&G tuition reduction (fees excluded).",
+      "quote": "Availability of appropriate faculty to serve as research advisor(s) and availability of research funds to support the student’s desired program of study.",
+      "url": "https://catalog.marshall.edu/graduate/programs-az/engineering-computer-sciences/engineering-phd/",
+      "also": [
+        {
+          "quote": "Graduate assistantships (GA) are available in teaching, research, clinical practice, or faculty support. ... At Marshall University, all positions available for graduate students are listed on the Human Resources website.",
+          "url": "https://www.marshall.edu/graduate/graduate-assistantship-overview/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may enter either with an earned Master's degree in a relevant discipline (3.0+ GPA) or directly with a Bachelor's degree in a relevant engineering or computing discipline (3.5+ GPA).",
+      "quote": "Earned Master’s degree in a relevant discipline with a minimum GPA of 3.0 on a 4.0 scale; Or | Bachelor’s degree in a relevant engineering or computing discipline with a minimum GPA of 3.5 on a 4.0 scale;",
+      "url": "https://catalog.marshall.edu/graduate/programs-az/engineering-computer-sciences/engineering-phd/"
+    }
+  },
+  "notes": "Biomedical Engineering concentration within the College of Engineering and Computer Sciences Ph.D. in Engineering. Requires 3 letters of recommendation, CV/resume, and a statement of purpose (up to 2 pages); 20+ dissertation credits (ENGR 702) and qualifying/comprehensive exams required.",
+  "name": "Engineering (Biomedical Engineering)"
+}

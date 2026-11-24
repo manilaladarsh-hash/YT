@@ -2728,6 +2728,534 @@
    "region": "Montana",
    "kind": "university",
    "wave": 4
+  },
+  {
+   "id": "cunygc",
+   "name": "CUNY Graduate School and University Center",
+   "country": "USA",
+   "region": "New York",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "iuindy",
+   "name": "Indiana University Indianapolis",
+   "country": "USA",
+   "region": "Indiana",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "umassboston",
+   "name": "University of Massachusetts-Boston",
+   "country": "USA",
+   "region": "Massachusetts",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "bcm",
+   "name": "Baylor College of Medicine",
+   "country": "USA",
+   "region": "Texas",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "musc",
+   "name": "Medical University of South Carolina",
+   "country": "USA",
+   "region": "South Carolina",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "uthsc",
+   "name": "The University of Tennessee Health Science Center",
+   "country": "USA",
+   "region": "Tennessee",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "uthealth",
+   "name": "The University of Texas Health Science Center at Houston",
+   "country": "USA",
+   "region": "Texas",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "uthscsa",
+   "name": "The University of Texas Health Science Center at San Antonio",
+   "country": "USA",
+   "region": "Texas",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "utsw",
+   "name": "The University of Texas Southwestern Medical Center",
+   "country": "USA",
+   "region": "Texas",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "ucsf",
+   "name": "University of California, San Francisco",
+   "country": "USA",
+   "region": "California",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "cuanschutz",
+   "name": "University of Colorado Denver/Anschutz Medical Campus",
+   "country": "USA",
+   "region": "Colorado",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "unmc",
+   "name": "University of Nebraska Medical Center",
+   "country": "USA",
+   "region": "Nebraska",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "weillcornell",
+   "name": "Weill Cornell Medicine",
+   "country": "USA",
+   "region": "New York",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "american",
+   "name": "American University",
+   "country": "USA",
+   "region": "District of Columbia",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "catholic",
+   "name": "Catholic University of America",
+   "country": "USA",
+   "region": "District of Columbia",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "nova",
+   "name": "Nova Southeastern University",
+   "country": "USA",
+   "region": "Florida",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "afit",
+   "name": "Air Force Institute of Technology Graduate School of Engineering & Management",
+   "country": "USA",
+   "region": "Ohio",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "astate",
+   "name": "Arkansas State University",
+   "country": "USA",
+   "region": "Arkansas",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "cmich",
+   "name": "Central Michigan University",
+   "country": "USA",
+   "region": "Michigan",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "clark",
+   "name": "Clark University",
+   "country": "USA",
+   "region": "Massachusetts",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "ccny",
+   "name": "CUNY City College",
+   "country": "USA",
+   "region": "New York",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "desu",
+   "name": "Delaware State University",
+   "country": "USA",
+   "region": "Delaware",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "etsu",
+   "name": "East Tennessee State University",
+   "country": "USA",
+   "region": "Tennessee",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "emich",
+   "name": "Eastern Michigan University",
+   "country": "USA",
+   "region": "Michigan",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "famu",
+   "name": "Florida Agricultural and Mechanical University",
+   "country": "USA",
+   "region": "Florida",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "jsums",
+   "name": "Jackson State University",
+   "country": "USA",
+   "region": "Mississippi",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "lsuneworleans",
+   "name": "Louisiana State University New Orleans",
+   "country": "USA",
+   "region": "Louisiana",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "marshall",
+   "name": "Marshall University",
+   "country": "USA",
+   "region": "West Virginia",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "montclair",
+   "name": "Montclair State University",
+   "country": "USA",
+   "region": "New Jersey",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "morganstate",
+   "name": "Morgan State University",
+   "country": "USA",
+   "region": "Maryland",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "ncat",
+   "name": "North Carolina A&T State University",
+   "country": "USA",
+   "region": "North Carolina",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "pvamu",
+   "name": "Prairie View A&M University",
+   "country": "USA",
+   "region": "Texas",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "rowan",
+   "name": "Rowan University",
+   "country": "USA",
+   "region": "New Jersey",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "rutgerscamden",
+   "name": "Rutgers University-Camden",
+   "country": "USA",
+   "region": "New Jersey",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "rutgersnewark",
+   "name": "Rutgers University-Newark",
+   "country": "USA",
+   "region": "New Jersey",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "subr",
+   "name": "Southern University and A&M College",
+   "country": "USA",
+   "region": "Louisiana",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "sunyesf",
+   "name": "SUNY College of Environmental Science and Forestry",
+   "country": "USA",
+   "region": "New York",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "tnstate",
+   "name": "Tennessee State University",
+   "country": "USA",
+   "region": "Tennessee",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "tntech",
+   "name": "Tennessee Technological University",
+   "country": "USA",
+   "region": "Tennessee",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "tamucc",
+   "name": "Texas A&M University-Corpus Christi",
+   "country": "USA",
+   "region": "Texas",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "tamuk",
+   "name": "Texas A&M University-Kingsville",
+   "country": "USA",
+   "region": "Texas",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "tsu",
+   "name": "Texas Southern University",
+   "country": "USA",
+   "region": "Texas",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "uttyler",
+   "name": "The University of Texas at Tyler",
+   "country": "USA",
+   "region": "Texas",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "utrgv",
+   "name": "The University of Texas Rio Grande Valley",
+   "country": "USA",
+   "region": "Texas",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "uwf",
+   "name": "The University of West Florida",
+   "country": "USA",
+   "region": "Florida",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "ualr",
+   "name": "University of Arkansas at Little Rock",
+   "country": "USA",
+   "region": "Arkansas",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "uccs",
+   "name": "University of Colorado Colorado Springs",
+   "country": "USA",
+   "region": "Colorado",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "nus",
+   "name": "National University of Singapore",
+   "country": "Singapore",
+   "region": "Singapore",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "hku",
+   "name": "The University of Hong Kong",
+   "country": "Hong Kong",
+   "region": "Hong Kong",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "umassd",
+   "name": "University of Massachusetts Dartmouth",
+   "country": "USA",
+   "region": "Massachusetts",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "ntusg",
+   "name": "Nanyang Technological University, Singapore",
+   "country": "Singapore",
+   "region": "Singapore",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "umdearborn",
+   "name": "University of Michigan-Dearborn",
+   "country": "USA",
+   "region": "Michigan",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "cuhk",
+   "name": "The Chinese University of Hong Kong",
+   "country": "Hong Kong",
+   "region": "Hong Kong",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "umsl",
+   "name": "University of Missouri-St. Louis",
+   "country": "USA",
+   "region": "Missouri",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "hkust",
+   "name": "The Hong Kong University of Science and Technology",
+   "country": "Hong Kong",
+   "region": "Hong Kong",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "unomaha",
+   "name": "University of Nebraska Omaha",
+   "country": "USA",
+   "region": "Nebraska",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "psl",
+   "name": "Université PSL",
+   "country": "France",
+   "region": "Île-de-France",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "uncw",
+   "name": "University of North Carolina Wilmington",
+   "country": "USA",
+   "region": "North Carolina",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "snu",
+   "name": "Seoul National University",
+   "country": "South Korea",
+   "region": "Seoul",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "unf",
+   "name": "University of North Florida",
+   "country": "USA",
+   "region": "Florida",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "utokyo",
+   "name": "The University of Tokyo",
+   "country": "Japan",
+   "region": "Tokyo",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "yonsei",
+   "name": "Yonsei University",
+   "country": "South Korea",
+   "region": "Seoul",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "polyu",
+   "name": "The Hong Kong Polytechnic University",
+   "country": "Hong Kong",
+   "region": "Hong Kong",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "cityuhk",
+   "name": "City University of Hong Kong (CityUHK)",
+   "country": "Hong Kong",
+   "region": "Hong Kong",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "korea",
+   "name": "Korea University",
+   "country": "South Korea",
+   "region": "Seoul",
+   "kind": "university",
+   "wave": 5
+  },
+  {
+   "id": "ntu",
+   "name": "National Taiwan University",
+   "country": "Taiwan",
+   "region": "Taipei",
+   "kind": "university",
+   "wave": 5
   }
  ]
 }

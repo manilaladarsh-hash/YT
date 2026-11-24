@@ -1,0 +1,54 @@
+{
+  "id": "psl--datasci",
+  "university": "psl",
+  "field": "datasci",
+  "also_fields": [],
+  "department": "PSL DATA Program / Artificial Intelligence & Data Science (ED 543 SDOSE, ED 386, AI4theSciences)",
+  "program_page": "https://psl.eu/en/programmes-gradues/programme-data",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "Not stated",
+      "value": "Standard 3-year PhD enrollment runs September 1 to mid-December after supervisor, funding, and doctoral-school jury selection; Fall 2027 doctoral-contract competition dates are not yet published (separate 5-year Bachelor-entry PhD Track call runs Oct 14 - Dec 14, 2026).",
+      "quote": "This generally takes place from September 1st until mid-December for the current year.",
+      "url": "https://psl.eu/en/education/find-your-curriculum/doctoral-college-universite-psl"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Doctoral candidates must obtain agreement from an accredited dissertation advisor (HDR) and admission to a PSL-affiliated research unit before enrolling.",
+      "quote": "Before enrolling in the program, doctoral students must obtain approval from their dissertation advisor and be admitted to a research unit or team that belongs to a PSL-accredited or co-accredited doctoral school.",
+      "url": "https://psl.eu/en/education/find-your-curriculum/doctoral-college-universite-psl",
+      "also": [
+        {
+          "quote": "Avant de candidater, il est essentiel de : Obtenir l’accord d’un directeur ou d’une directrice de thèse | Trouver un financement pour votre thèse",
+          "url": "https://ecole-doctorale.dauphine.psl.eu/candidature/1ere-annee-de-these"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Doctoral contracts are allocated competitively via Graduate Program and Doctoral School juries (alongside CIFRE industrial agreements, ANR/agency grants, and international fellowships); secured 3-year funding is generally required to enroll in science/engineering schools.",
+      "quote": "Each graduate program assigns doctoral contracts to doctoral schools accredited or co-accredited by Université PSL and affiliated with the graduate program. | Doctoral school students are selected by a jury usually comprised of PSL faculty and external members.",
+      "url": "https://psl.eu/en/education/find-your-curriculum/doctoral-college-universite-psl",
+      "also": [
+        {
+          "quote": "Launched in 2020, this six-year programme will fund 26 doctoral contracts at the interface of artificial intelligence and massive data processing over three cohorts.",
+          "url": "https://psl.eu/en/education/find-your-curriculum/doctoral-college-universite-psl"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A Master's degree or equivalent is required for standard 3-year PhD admission under French national doctoral regulations (Article 10) and constituent-school rules; PSL also offers a separate 5-year Bachelor-entry PhD Track in select Graduate Programs.",
+      "quote": "Diplôme de Master et relevés de notes (si le M2 est en cours, fournir les notes à disposition du candidat)",
+      "url": "https://ecole-doctorale.dauphine.psl.eu/candidature/1ere-annee-de-these"
+    }
+  },
+  "notes": "Covers doctoral research in AI, Machine Learning, and Data Science through Dauphine-PSL LAMSADE ('Sciences des Données; Intelligence artificielle, apprentissage automatique, apprentissage profond' on ED 543 SDOSE), ENS-PSL, and Mines Paris-PSL (COFUND AI4theSciences & Paris School of AI)."
+}

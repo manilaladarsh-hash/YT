@@ -1,0 +1,59 @@
+{
+  "id": "uncw",
+  "institution": "University of North Carolina Wilmington",
+  "country": "USA",
+  "region": "North Carolina",
+  "grad_page": "https://www.uncw.edu/admissions/graduate/index.html",
+  "checked": "2026-11-14",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "$75 USD non-refundable, non-transferable application fee due upon online submission (MasterCard, Visa, or Discover).",
+      "quote": "A $75 USD (non-transferable and non-refundable) application fee is due upon submission and is payable by MasterCard, Visa, or Discover via the online application.",
+      "url": "https://www.uncw.edu/admissions/graduate/getting-started.html",
+      "also": [
+        {
+          "quote": "$75 USD application fee (payable by MasterCard, Visa or Discover) | Application fees are non-refundable and non-transferable and due upon submission",
+          "url": "https://www.uncw.edu/admissions/graduate/apply/index.html"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Application fee waivers are limited to United States Service Members, McNair Scholars, and UNCW Faculty/Staff or Dependents; no general need-based or international waiver is available.",
+      "quote": "If you are eligible for an application fee waiver, complete the proper form (including any required approvals) from the choices below and upload it into the application when prompted. | United States Service Member | McNair Scholar (form located within the online application) | UNCW Faculty/Staff or Dependent",
+      "url": "https://www.uncw.edu/admissions/graduate/getting-started.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE requirements are set by individual graduate programs rather than centrally by the Graduate School (UNCW institution code 5907; test scores valid for five years). Applied Coastal & Ocean Sciences and Integrative, Comparative & Marine Biology do not require GRE scores; Pharmaceutical Chemistry lists no GRE in the 2026-2027 Graduate Catalogue.",
+      "quote": "",
+      "url": "https://www.uncw.edu/admissions/graduate/getting-started.html"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "Graduate School minimum TOEFL iBT score is 4.5 on the 1-6 scale for exams taken on or after January 21, 2026 (79 on the 0-120 scale for exams taken before January 21, 2026; institution code 5907; scores valid 2 years; Duolingo 115 also accepted).",
+      "quote": "TOEFL iBT | School Code: 5907 | For exams taken before January 21, 2026: | Minimum total score: 79 | For exams taken on or after January 21, 2026: | Minimum total score: 4.5",
+      "url": "https://www.uncw.edu/admissions/graduate/int-graduate.html",
+      "also": [
+        {
+          "quote": "A minimum score of 79 for tests taken before January 21, 2026; 4.5 for tests taken on or after January 21, 2026 (TOEFL iBT), 6.5 on the IELTS, or 115 on the Duolingo English Test is required for admission.",
+          "url": "https://catalogue.uncw.edu/content.php?catoid=82&navoid=12358"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Graduate School minimum IELTS score is 6.5 for admission and 7.0 for Teaching Assistantship consideration (scores valid 2 years).",
+      "quote": "IELTS | IELTS (GENERAL) | School Code: UNCW Graduate School | Minimum Score Requirement: 6.5 for acceptance & 7.0 for teaching assistantship consideration",
+      "url": "https://www.uncw.edu/admissions/graduate/int-graduate.html"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "India is explicitly listed under UNCW's 'Additional Approved Country' section of 'Approved Countries with English as the Primary Language', exempting applicants from India from English proficiency test scores (graduates of accredited U.S. colleges/universities are also exempt).",
+      "quote": "You are exempt from submitting English language proficiency scores if you meet any of the following conditions: | You are from a country where English is the official primary language (see the approved country list). | Approved Countries with English as the Primary Language | Additional Approved Country | India",
+      "url": "https://www.uncw.edu/admissions/graduate/int-graduate.html"
+    }
+  },
+  "notes": "2026-2027 Graduate Catalogue (catoid=82&navoid=12361) and OISS DHS STEM Designated Programs directory confirm 3 STEM-designated Ph.D. programs at UNCW: Applied Coastal and Ocean Sciences (CIP 30.3201), Integrative, Comparative and Marine Biology (CIP 26.9999), and Pharmaceutical Chemistry (CIP 51.2004). Excluded non-STEM/clinical doctorates: Psychology Ph.D. (concentrations in ABAI Applied Behavior Analysis, APA General Clinical, and Psychological Science; not on UNCW's DHS STEM-designated list and has no standalone Neuroscience concentration), Educational Leadership Ed.D., Doctor of Nursing Practice (D.N.P.), and Doctor of Physical Therapy (D.P.T.). International transcripts require an official NACES course-by-course credential evaluation after admission (unofficial transcripts in English may be uploaded for review). Graduate Research Assistants in doctoral programs receive both the NC Resident and NC Non-Resident portions of tuition in addition to their monthly stipend."
+}

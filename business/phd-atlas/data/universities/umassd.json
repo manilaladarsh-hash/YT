@@ -1,0 +1,53 @@
+{
+  "id": "umassd",
+  "institution": "University of Massachusetts Dartmouth",
+  "country": "USA",
+  "region": "Massachusetts",
+  "grad_page": "https://www.umassd.edu/graduate/apply/",
+  "checked": "2026-11-14",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "$60 non-refundable graduate application fee per program application.",
+      "quote": "$60 application fee (non-refundable)",
+      "url": "https://www.umassd.edu/graduate/apply/"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "UMass Dartmouth states that regardless of circumstances, the graduate application fee cannot be waived or deferred.",
+      "quote": "Do you offer graduate application fee waivers or deferrals for prospective students with financial trouble? | No, regardless of the circumstances, the application fee cannot be waived or deferred.",
+      "url": "https://www.umassd.edu/graduate/faqs/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE General is not required for most graduate programs (institution code 3786), though Biomedical Engineering & Biotechnology and Electrical Engineering require it unless waived by program criteria and Marine Science & Technology lists it as optional.",
+      "quote": "GRE/GMAT (not required for most programs, see program requirements for more information)",
+      "url": "https://www.umassd.edu/graduate/apply/",
+      "also": [
+        {
+          "quote": "Only a few programs require the GRE. For specific programs, please refer to the Graduate Application and Program-specific Requirements.",
+          "url": "https://www.umassd.edu/graduate/faqs/"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "University minimum is 4 on the post-1/21/2026 TOEFL iBT 1-6 scale (72 on the legacy 0-120 iBT scale) for general admission and 79 legacy / 4 new scale for teaching assistantship consideration; Duolingo 95 or PTE Academic 52 also accepted unless excluded by program. Note: Chemistry & Biochemistry and Electrical Engineering require 80 (4 new scale), and Engineering & Applied Science (EAS) requires 90 (4.5 new scale).",
+      "quote": "We require an overall/total minimum score of 72 on the TOEFL iBT (New TOEFL 2026 score of 4) or BAND 6.0 on the IELTS Academic or a 52 on the Pearsons PTE Academic for entrance to any program and a minimum score of 79 on the TOEFL iBT (New TOEFL 2026 score of 4) or BAND 6.5 on the IELTS Academic for consideration for a teaching assistantship.",
+      "url": "https://www.umassd.edu/graduate/international-students/language-test-waiver/"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "University minimum IELTS Academic band is 6.0 for general admission and 6.5 for teaching assistantship consideration; Chemistry & Biochemistry, Electrical Engineering, and Engineering & Applied Science (EAS) require 6.5.",
+      "quote": "We require an overall/total minimum score of 72 on the TOEFL iBT (New TOEFL 2026 score of 4) or BAND 6.0 on the IELTS Academic or a 52 on the Pearsons PTE Academic for entrance to any program and a minimum score of 79 on the TOEFL iBT (New TOEFL 2026 score of 4) or BAND 6.5 on the IELTS Academic for consideration for a teaching assistantship.",
+      "url": "https://www.umassd.edu/graduate/international-students/language-test-waiver/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "An English-medium degree from India does not qualify for an English proficiency waiver because India is not on the exempt-countries list and UMass Dartmouth explicitly states Medium of Instruction (MOI) does not meet exemption requirements (waived only with a degree from the U.S. or a listed English-speaking country, 4 named American universities abroad, or >=2 semesters of full-time U.S. college study).",
+      "quote": "This is required of any applicant who did not earn a bachelor’s degree or higher degree from an accredited academic institution in the U.S. or accepted English-speaking country (see below). | MOI (Medium of Instruction) does not meet our exemption requirements. | * Countries: Australia, Belize, Botswana, Canada (except Quebec), Caribbean English-speaking countries, Gambia, Ghana, Guyana, Ireland, Kenya, Lesotho, Liberia, Malawi, Namibia, New Zealand, Nigeria, Scotland, Sierra Leone, Singapore, South Africa, Swaziland, Tanzania, Uganda, United Kingdom, Zambia, Zimbabwe.",
+      "url": "https://www.umassd.edu/graduate/international-students/language-test-waiver/"
+    }
+  },
+  "notes": "10 STEM Ph.D. programs mapped: Biomedical Engineering & Biotechnology, Chemistry & Biochemistry, Electrical Engineering (including Computer Engineering option), Integrative Biology, Marine Science & Technology (SMAST), plus 5 Engineering & Applied Science (EAS) Ph.D. tracks (Computer Science & Information Science, Machine Learning & Data Science, Computational Science & Engineering, Applied Mechanics & Materials [plus Industrial & Systems Engineering note], and Infrastructure, Environmental, & Fluids Engineering). Excluded non-STEM/clinical/education doctorates: Educational Leadership & Policy Studies Ed.D., Law J.D., Luso-Afro-Brazilian Studies & Theory Ph.D., Nursing Ph.D. and DNP, and STEM Education Ph.D.; Physics, Civil & Environmental Engineering, and Psychology offer master's degrees only as standalone programs (physics/civil research options exist within EAS Ph.D.)."
+}

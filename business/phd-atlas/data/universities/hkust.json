@@ -1,0 +1,53 @@
+{
+  "id": "hkust",
+  "institution": "The Hong Kong University of Science and Technology",
+  "country": "Hong Kong",
+  "region": "Hong Kong",
+  "grad_page": "https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/admission-requirements",
+  "checked": "2026-11-14",
+  "fields": {
+    "app_fee": {
+      "code": "180 HKD",
+      "value": "Application fee is HK$180 per program for Research Postgraduate Programs (MPhil or PhD).",
+      "quote": "Application Fees | Research Postgraduate Programs (MPhil or PhD) | HK$180",
+      "url": "https://fytgs.hkust.edu.hk/admissions/Admissions-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "HKUST Fok Ying Tung Graduate School scholarships and fees page lists the HK$180 RPg application fee and does not state an application fee waiver policy.",
+      "quote": "",
+      "url": "https://fytgs.hkust.edu.hk/admissions/Admissions-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE General (or GMAT) is required only where a program specifies a public examination requirement, normally programs in the School of Business and Management only (not required for STEM PhD programs).",
+      "quote": "Required only if there is a Program-Specific Requirement on public examination achievements, e.g. GMAT, GRE | GMAT and GRE are normally required by Programs in the School of Business and Management only",
+      "url": "https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/documents-required"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "Minimum TOEFL iBT score is 4.5 (for tests taken from 21 January 2026 onwards) or 80 (for tests taken prior to 21 January 2026), in one single attempt (Test at Home not accepted).",
+      "quote": "TOEFL Internet-based Test (iBT): 80 (for tests taken prior to 21 January 2026) * | 4.5 (for tests taken from 21 January 2026 onwards) *",
+      "url": "https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/admission-requirements"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS (Academic Module) overall score is 6.5 with all sub-scores at least 5.5, in one single attempt.",
+      "quote": "IELTS (Academic Module): Overall score: 6.5 and all sub-score: 5.5 *",
+      "url": "https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/admission-requirements"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exempt from presenting TOEFL or IELTS if the applicant's first language is English or their bachelor's degree (or equivalent) was awarded by an institution where the medium of instruction was English (requires an official medium-of-instruction letter).",
+      "quote": "Applicants are not required to present TOEFL or IELTS score if | Their first language is English, or | Their bachelor's degree (or equivalent qualification) was awarded by an institution where the medium of instruction was English.",
+      "url": "https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/admission-requirements",
+      "also": [
+        {
+          "quote": "An official letter confirming that you obtained your bachelor's degree from an institution where the medium of instruction is English",
+          "url": "https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/documents-required"
+        }
+      ]
+    }
+  },
+  "notes": "Clear Water Bay (Hong Kong campus) admissions via HKUST Fok Ying Tung Graduate School (FYTGS); excludes separate HKUST (Guangzhou) programs. HKUST offers 13 covered STEM PhD/MPhil-PhD entry points across 16 covered fields in 2027-28 (no standalone Astronomy & Astrophysics, Earth & Planetary Sciences, Statistics, Biomedical Sciences, or Neuroscience departments; Statistics is housed in Mathematics [also_fields], and Molecular Medicine and Neuroscience research are housed in Life Science [also_fields]). Fall 2027-28 non-local full-time applications run on a rolling basis until June 1, 2027 (HKPFS deadline December 1, 2026). Standard Postgraduate Studentship is HK$229,620/yr (~US$29,420/yr; 2026/27 rate) for up to 4 years; tuition fee waiver schedule lists HK$49,500 p.a. (eligible local FT RPg students) alongside HK$47,000 in the FYTGS tuition table, plus RedBird PhD Recruitment Award (HK$40,000 + 1st-year tuition waiver for international PhD students) and HKPFS (HK$344,400/yr)."
+}

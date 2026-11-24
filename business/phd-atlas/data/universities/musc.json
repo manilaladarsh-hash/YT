@@ -1,0 +1,65 @@
+{
+  "id": "musc",
+  "institution": "Medical University of South Carolina",
+  "country": "USA",
+  "region": "South Carolina",
+  "grad_page": "https://gradstudies.musc.edu/",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The MUSC College of Graduate Studies application fee is $50 per application for Ph.D. programs ($250 matriculation fee upon acceptance).",
+      "quote": "Application Fee (per application) | $50",
+      "url": "https://gradstudies.musc.edu/programs/doctor-philosophy-biomedical-sciences",
+      "also": [
+        {
+          "quote": "To be reviewed and considered for admission, all applicants must file their application with a non-refundable processing fee.",
+          "url": "https://education.musc.edu/admissions-aid"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No College of Graduate Studies application fee waiver policy is published on the admissions pages.",
+      "quote": "",
+      "url": "https://education.musc.edu/admissions-aid",
+      "also": [
+        {
+          "quote": "To be reviewed and considered for admission, all applicants must file their application with a non-refundable processing fee.",
+          "url": "https://education.musc.edu/admissions-aid"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "College-wide rules state individual colleges may require GRE or other exams; Biomedical Sciences and Neuroscience Ph.D. pages state standardized test scores are not required but will be considered if submitted (without naming GRE specifically).",
+      "quote": "",
+      "url": "https://education.musc.edu/admissions-aid",
+      "also": [
+        {
+          "quote": "Submission of a standardized test score is not required but will be considered if submitted.",
+          "url": "https://gradstudies.musc.edu/programs/doctor-philosophy-biomedical-sciences"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "Minimum TOEFL score of 100 (scores must be no more than two years old; ETS institutional code 5407).",
+      "quote": "Accepted tests are IELTS and TOEFL. Minimal requirements are: TOEFL: 100 IELTS: 7",
+      "url": "https://gradstudies.musc.edu/programs/doctor-philosophy-biomedical-sciences"
+    },
+    "ielts_min": {
+      "code": "7",
+      "value": "Minimum IELTS overall score of 7 (scores must be no more than two years old).",
+      "quote": "Accepted tests are IELTS and TOEFL. Minimal requirements are: TOEFL: 100 IELTS: 7",
+      "url": "https://gradstudies.musc.edu/programs/doctor-philosophy-biomedical-sciences"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Case-by-case exceptions may be made for extended study at a U.S. institution or at a foreign institution where English is the primary language of instruction.",
+      "quote": "A language proficiency test is required for all applicants whose native language is not English. Scores must not be more than two years old. Exceptions can be made if a student has attended a United States institution for an extended period. An exception might also be made for students in a foreign institution that uses English as the primary language for instruction, however, these are made on a case-by-case basis.",
+      "url": "https://gradstudies.musc.edu/programs/doctor-philosophy-biomedical-sciences"
+    }
+  },
+  "notes": "MUSC College of Graduate Studies applications use GradCAS followed by the MUSC Supplemental Application; non-U.S. transcripts require a NACES-member professional evaluation. Ph.D. in Biomedical Sciences and Ph.D. in Neuroscience both state that standardized test score submission is not required but considered if submitted."
+}

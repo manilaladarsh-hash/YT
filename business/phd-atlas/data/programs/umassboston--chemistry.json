@@ -1,0 +1,61 @@
+{
+  "id": "umassboston--chemistry",
+  "university": "umassboston",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry",
+  "program_page": "https://www.umb.edu/academics/program-finder/chemistry-phd/",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "Priority Fall application deadline is April 1, 2027 (final deadline June 15 if space is available; Spring priority October 1, final November 1).",
+      "quote": "Deadlines: April 1 (priority deadline) or June 15 (final deadline, if space available) for fall, October 1 (priority deadline) or November 1 (final deadline, if space available) for spring",
+      "url": "https://www.umb.edu/academics/program-finder/chemistry-phd/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "GRE scores are recommended for Chemistry PhD admission.",
+      "quote": "Applicants must meet general graduate admission requirements in addition to the following program-specific requirements: | Test Scores: GRE recommended",
+      "url": "https://www.umb.edu/academics/program-finder/chemistry-phd/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS discontinued the Chemistry GRE Subject Test; only the GRE General Test is recommended.",
+      "quote": "Test Scores: GRE recommended",
+      "url": "https://www.umb.edu/academics/program-finder/chemistry-phd/",
+      "also": [
+        {
+          "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+          "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Department of Chemistry does not state whether a faculty advisor must be contacted before applying.",
+      "quote": "",
+      "url": "https://www.umb.edu/academics/program-finder/chemistry-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate teaching and research assistantships are assigned by the department ($25,865 stipend + 100% tuition waiver for a 1.0 FTE TA/RA in AY 2026-27).",
+      "quote": "These positions are assigned by the student's department/program and are subject to the agreement between UMass Boston and UAW/Graduate Employees Organization (GEO). | Full Assistantship | 18.00 | 1.00 | $1,293.25 | $25,865.00 | 100%",
+      "url": "https://www.umb.edu/admissions/graduate-students/graduate-students-assistantships/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants must hold at least a bachelor's degree from a regionally accredited institution or international equivalent to enter the 60-credit Chemistry PhD program.",
+      "quote": "At the time of enrollment, a bachelor's degree from a regionally accredited U.S. institution of recognized standing or an international equivalent.",
+      "url": "https://www.umb.edu/admissions/graduate-students/apply/",
+      "also": [
+        {
+          "quote": "Applicants must meet general graduate admission requirements in addition to the following program-specific requirements: | Students are required to complete 60 credits of coursework, consisting of two core courses, three elective courses, a graduate seminar course and a dissertation research course.",
+          "url": "https://www.umb.edu/academics/program-finder/chemistry-phd/"
+        }
+      ]
+    }
+  },
+  "notes": "Offers five doctoral tracks: Biological Chemistry, Green Chemistry, Inorganic Chemistry, Organic Chemistry, and Physical/Analytical Chemistry."
+}

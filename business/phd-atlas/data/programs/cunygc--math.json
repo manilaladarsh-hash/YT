@@ -1,0 +1,55 @@
+{
+  "id": "cunygc--math",
+  "university": "cunygc",
+  "field": "math",
+  "also_fields": [],
+  "department": "Ph.D. Program in Mathematics",
+  "program_page": "https://www.gc.cuny.edu/mathematics/admissions-and-aid",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-01",
+      "value": "Apply by January 1, 2027 for Fall enrollment.",
+      "quote": "Admissions Deadline: January 1 for fall enrollment",
+      "url": "https://www.gc.cuny.edu/mathematics/admissions-and-aid",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE General Test is not required for Mathematics PhD admission.",
+      "quote": "MATHEMATICS - PH.D. | Deadline for Fall Enrollment January 1 for fall enrollment | GRE General Requirement No",
+      "url": "https://www.gc.cuny.edu/admissions-aid/how-apply/application-deadlines-and-requirements"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The Mathematics GRE Subject Test is recommended.",
+      "quote": "MATHEMATICS - PH.D. | Additional Requirements GRE Subject Test is recommended",
+      "url": "https://www.gc.cuny.edu/admissions-aid/how-apply/application-deadlines-and-requirements"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the department admissions page.",
+      "quote": "",
+      "url": "https://www.gc.cuny.edu/mathematics/admissions-and-aid"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Nearly all entering doctoral students receive five-year institutional fellowship packages.",
+      "quote": "Nearly all entering doctoral students in the humanities, social sciences, and sciences receive a five-year fellowship package. Every package includes tuition coverage, and many also include a stipend and health insurance.",
+      "url": "https://www.gc.cuny.edu/fellowships-and-financial-aid",
+      "also": [
+        {
+          "quote": "Every applicant to the Graduate Center's doctoral programs will automatically be considered for five-year institutional funding packages. The aid we offer — including fellowships, tuition awards, and assistantships — is based on merit.",
+          "url": "https://www.gc.cuny.edu/mathematics/admissions-and-aid"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "A master's degree is not required prior to entering the Ph.D. program in Mathematics.",
+      "quote": "Unless specifically noted on our deadlines and requirements chart, you do not need to have a master's degree before you start a Ph.D. program.",
+      "url": "https://www.gc.cuny.edu/admissions-aid/how-apply/frequently-asked-questions"
+    }
+  },
+  "notes": ""
+}

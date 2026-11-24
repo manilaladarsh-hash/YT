@@ -1,0 +1,65 @@
+{
+  "id": "umsl",
+  "institution": "University of Missouri-St. Louis",
+  "country": "USA",
+  "region": "Missouri",
+  "grad_page": "https://www.umsl.edu/gradschool/prospective/how-to-apply.html",
+  "checked": "2026-11-14",
+  "fields": {
+    "app_fee": {
+      "code": "40 USD",
+      "value": "$40 for international applicants ($50 for U.S. domestic applicants), non-refundable and paid only once across UMSL graduate applications.",
+      "quote": "pay the non refundable application fee ($50 for U.S. applicants, $40 for international applicants) | Applicants to the Graduate School are only required to pay the application fee once.",
+      "url": "https://www.umsl.edu/gradschool/prospective/application-fee.html",
+      "also": [
+        {
+          "quote": "Complete the international student application and submit the $40 application fee.",
+          "url": "https://www.umsl.edu/global/admissions/grad.html"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Fee waivers apply only to prior UMSL graduate applicants who already paid the fee, U.S. military veterans, McNair Scholars, applicants with an UMSL recruitment event/mailer waiver code, or occasional department-level waivers.",
+      "quote": "The Graduate School only waives application fees on the following conditions: | The applicant has paid the Graduate-level fee before. | The applicant is a veteran. | The applicant is a Mc Nair Scholar | The applicant has received a waiver code from an event or mailer | Sometimes programs will offer fee waivers to just their applicants.",
+      "url": "https://www.umsl.edu/gradschool/prospective/how-to-apply.html",
+      "also": [
+        {
+          "quote": "McNair Scholars - The University of Missouri-St. Louis welcomes McNair Scholars by waiving the application fee.",
+          "url": "https://www.umsl.edu/gradschool/prospective/application-fee.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "UMSL Graduate School does not require the GRE centrally, noting that test requirements are set by individual degree programs (none of UMSL's four active STEM Ph.D. programs require GRE General).",
+      "quote": "",
+      "url": "https://www.umsl.edu/gradschool/prospective/admissions-faq.html"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "Recommended UMSL Global graduate minimum is TOEFL iBT 4.5 on the 1-6 scale (79 on the 0-120 scale; institution code 6889; requirements vary by department, e.g., Biology requires 80 iBT).",
+      "quote": "Minimum requirements vary by department, but it is recommended that graduate applicants have at least a: | TOEFL: 79 (4.5)",
+      "url": "https://www.umsl.edu/global/admissions/grad.html"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Recommended UMSL Global graduate minimum is IELTS Academic 6.5 (requirements vary by department).",
+      "quote": "Minimum requirements vary by department, but it is recommended that graduate applicants have at least a: | IELTS Academic: 6.5",
+      "url": "https://www.umsl.edu/global/admissions/grad.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exempt for U.S. citizens/permanent residents, current U.S. H-1B/L-1 visa holders, ELS Level 112 completers, citizens of UMSL-recognized English-speaking countries (Section 1.5; excludes India), or graduates of U.S./recognized English-speaking-country institutions within the past two years (or with 2 of the past 3 years' residence in an English-speaking country). International TAs must also demonstrate oral English proficiency.",
+      "quote": "Graduate applicants seeking a waiver of the English language proficiency requirement based on prior academic experience must have graduated from a U.S. institution or a UMSL-recognized English-speaking country within the past two years to qualify for an automatic exemption.",
+      "url": "https://www.umsl.edu/global/admissions/englishrequirements.html",
+      "also": [
+        {
+          "quote": "Applicants whose qualifying degree was awarded more than two years prior to the date of application must demonstrate that they have resided in an English-speaking country for at least two of the past three years.",
+          "url": "https://www.umsl.edu/global/admissions/englishrequirements.html"
+        }
+      ]
+    }
+  },
+  "notes": "UMSL offers 4 active STEM Ph.D. fields: biology (Biology Ph.D., also covers environment via the Ecology, Evolution and Behavior emphasis), chemistry (Chemistry Ph.D.), cs (Mathematical and Computational Science Ph.D., Computer Science Option), and neuro (Psychology Ph.D., Psychological and Brain Sciences, CIP 42.2799). Suspended STEM Ph.D. programs no longer accepting applications since Fall 2021: Physics Ph.D. (bulletin.umsl.edu/programs/physics-phd/) and Mathematical and Computational Science Ph.D. Mathematics & Statistics emphases. UMSL offers Engineering only at the undergraduate B.S. level via the UMSL/Washington University Joint Undergraduate Engineering Program (no Engineering Ph.D.s). Excluded non-STEM/clinical doctorates: Business Administration DBA & Ph.D. (Supply Chain and Analytics), Criminology and Criminal Justice Ph.D., Education Ph.D. & Ed.D., Nursing Ph.D. & DNP, Political Science Ph.D., Optometry O.D., and Clinical Community Psychology Ph.D."
+}

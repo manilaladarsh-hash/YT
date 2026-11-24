@@ -1,0 +1,57 @@
+{
+  "id": "iuindy--math",
+  "university": "iuindy",
+  "field": "math",
+  "also_fields": [
+    "statistics"
+  ],
+  "department": "Department of Mathematical Sciences (School of Science)",
+  "program_page": "https://science.indianapolis.iu.edu/math/admissions/apply/phd.html",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Apply by February 1, 2027 for consideration for university fellowships and departmental financial support (March 1 as space and funding allow).",
+      "quote": "For fall semester admission: | February 1 for consideration for university fellowships and departmental financial support. Applications received by March 1 will be considered as space and funding allow.",
+      "url": "https://science.indianapolis.iu.edu/math/admissions/apply/phd.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The GRE General Test is not required for application or financial support, but is encouraged and considered a plus.",
+      "quote": "GRE is not required for application or financial support. | GRE is encouraged and is considered as a plus for the application.",
+      "url": "https://science.indianapolis.iu.edu/math/admissions/apply/phd.html"
+    },
+    "gre_subject": {
+      "code": "Recommended",
+      "value": "The Mathematics GRE Subject Test is not required, but is encouraged and considered more important than the General GRE.",
+      "quote": "GRE is not required for application or financial support. | GRE is encouraged and is considered as a plus for the application. | Math subject GRE is more important than general GRE.",
+      "url": "https://science.indianapolis.iu.edu/math/admissions/apply/phd.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Department of Mathematical Sciences does not state whether a faculty advisor must be contacted prior to applying.",
+      "quote": "",
+      "url": "https://science.indianapolis.iu.edu/math/admissions/apply/phd.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Full-time Ph.D. students are considered for fellowships ($16,000-$22,000+ for 12 months) and teaching or research assistantships ($18,500-$20,000 for 12 months) with tuition remission and health insurance.",
+      "quote": "Full-time Ph.D. students are eligible for a variety of university and department support packages. You may receive stipends through teaching assistantships, research assistantships, and fellowships. | Ph.D. assistantship stipends ranging from $18,500 to $20,000 for twelve months.",
+      "url": "https://science.indianapolis.iu.edu/math/admissions/fin-aid-scholarships/index.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may enter with an M.S. in mathematics (up to 30 credits transferable toward the 90-credit Ph.D.) or directly with a bachelor's degree with advanced mathematics coursework.",
+      "quote": "Applications are invited from individuals with a strong background in mathematics who have an M.S. in mathematics or have successfully completed a bachelor's degree with advanced courses in mathematics.",
+      "url": "https://science.indianapolis.iu.edu/math/admissions/apply/phd.html",
+      "also": [
+        {
+          "quote": "This program requires completion of at least 90 credit hours of combined course work and research. An M.S. degree from an accredited university may contribute up to 30 credit hours toward this requirement, subject to approval.",
+          "url": "https://science.indianapolis.iu.edu/academics/degrees-and-programs/_degrees/mathematical-sciences-phd-iupui-mathsciphd.html"
+        }
+      ]
+    }
+  },
+  "notes": "Includes concentrations in Pure Mathematics, Applied Mathematics, and Mathematical Statistics."
+}

@@ -47,6 +47,14 @@ def main():
             print(f"  {r['check']} | {r['file']} | {r['field']} = {r['code']} | {r['url']}\n     quote: {r['detail']}")
         return
     us = list(csv.DictReader((R / "handoff" / "us_r1r2.csv").open(encoding="utf-8")))
+    qs_path = R / "handoff" / "qs_top300.csv"
+    qs = list(csv.DictReader(qs_path.open(encoding="utf-8"))) if qs_path.exists() else []
+    # Check QS Top 300 high-rank additions alongside US R2 additions/screening
+    for q in qs:
+        if q["status"] == "add":
+            aid_note = f"  existing id: {q['atlas_id']}" if q["atlas_id"] else ""
+            print(f"CARD 4B (add a QS Top 300 high-income university)\nname: {q['institution']}\ncountry: {q['country']}\nqs_rank_2027: {q['qs_rank_2027']}\n{aid_note}")
+            return
     order = [("R1", "add"), ("R1", "screen-health-sciences"), ("R1", "screen-check-stem-phd"),
              ("R2", "add"), ("R2", "screen-check-stem-phd"), ("R2", "screen-health-sciences")]
     for tier, st in order:
@@ -56,6 +64,10 @@ def main():
                 extra = "  Health-science school: research only biomed, neuro, bme (and biology if it has a PhD)." if "health" in st else ""
                 print(f"{card}\nname: {u['carnegie_name']}\nstate: {u['state']}\ntier: {tier}\n{extra}")
                 return
+    for q in qs:
+        if q["status"] == "screen-check-stem-phd":
+            print(f"CARD 5B (screen a QS Top 300 high-income university)\nname: {q['institution']}\ncountry: {q['country']}\nqs_rank_2027: {q['qs_rank_2027']}")
+            return
     unis = {p.stem: json.loads(p.read_text(encoding="utf-8")) for p in (R / "data/universities").glob("*.json")}
     count = {}
     for p in (R / "data/programs").glob("*.json"):

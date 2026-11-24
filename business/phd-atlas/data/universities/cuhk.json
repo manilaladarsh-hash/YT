@@ -1,0 +1,65 @@
+{
+  "id": "cuhk",
+  "institution": "The Chinese University of Hong Kong",
+  "country": "Hong Kong",
+  "region": "Hong Kong",
+  "grad_page": "https://www.gs.cuhk.edu.hk/admissions/admissions/requirements",
+  "checked": "2026-11-14",
+  "fields": {
+    "app_fee": {
+      "code": "500 HKD",
+      "value": "Non-refundable, non-transferable application fee of HK$500 per programme.",
+      "quote": "The application fee is HK$500 per programme (except for MBA, MBA in Finance and MSc in Finance).",
+      "url": "https://www.gs.cuhk.edu.hk/admissions/faqs",
+      "also": [
+        {
+          "quote": "All fees, once paid, are non-refundable and non-transferable under any circumstances.",
+          "url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/fees"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "CUHK Graduate School fees page lists the HK$500 non-refundable application fee and does not state an application fee waiver policy.",
+      "quote": "",
+      "url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/fees"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "CUHK Graduate School general admissions requirements do not state a university-wide GRE General requirement for PhD programmes (individual Graduate Divisions may recommend or require GRE; see ECE).",
+      "quote": "",
+      "url": "https://www.gs.cuhk.edu.hk/admissions/admissions/requirements"
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "Minimum TOEFL iBT score is 4.5 of 6 on the new scale (or 79 of 120 on the 0-120 scale; Home Edition accepted; single-attempt scores only, MyBest Scores not accepted).",
+      "quote": "TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition);",
+      "url": "https://www.gs.cuhk.edu.hk/admissions/admissions/requirements",
+      "also": [
+        {
+          "quote": "No, we only accept the test result from each individual attempt.",
+          "url": "https://www.gs.cuhk.edu.hk/admissions/faqs"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic score is 6.5 (Test Centre based or Online; single-attempt scores only, One Skill Retake not accepted).",
+      "quote": "IELTS (Academic): 6.5 (Test Centre based/Online);",
+      "url": "https://www.gs.cuhk.edu.hk/admissions/admissions/requirements"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "English proficiency test is waived for applicants who obtained a degree from a university in Hong Kong or completed a degree programme whose medium of instruction was English (requires certifying letter from the university Registry).",
+      "quote": "obtained a Degree from a university in Hong Kong1 or taken a degree programme of which the medium of instruction was English;",
+      "url": "https://www.gs.cuhk.edu.hk/admissions/admissions/requirements",
+      "also": [
+        {
+          "quote": "A certifying letter issued by the Registry of the university confirming the medium of instruction of your degree programme was English",
+          "url": "https://www.gs.cuhk.edu.hk/admissions/admissions/documents-required"
+        }
+      ]
+    }
+  },
+  "notes": "CUHK offers articulated MPhil-PhD programmes across 16 covered STEM fields (no Civil Engineering or Chemical Engineering PhD is offered; Faculty of Engineering consists of 6 departments: Biomedical Engineering, Computer Science & Engineering, Electronic Engineering, Information Engineering, Mechanical & Automation Engineering, and Systems Engineering & Engineering Management). General Regulations allow individual Graduate Divisions to set additional test requirements (Electronic Engineering highly recommends GRE General for non-Hong Kong graduates). Application fee is HK$500 per programme (non-refundable); TOEFL MyBest Scores and IELTS One Skill Retake are not accepted. Tuition is HK$49,500/yr for 2027-28 (waived for eligible local full-time research postgraduate students and HKPFS awardees); standard Postgraduate Studentship is HK$229,200/yr (~HK$19,100/mo) in 2026-27, rising to HK$28,700/mo under HKPFS."
+}

@@ -1,0 +1,47 @@
+{
+  "id": "desu",
+  "institution": "Delaware State University",
+  "country": "USA",
+  "region": "Delaware",
+  "grad_page": "https://sgaes.desu.edu/admissions",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "The non-refundable graduate application fee is $50 USD.",
+      "quote": "A completed online application and a non-refundable $50 application fee.",
+      "url": "https://sgaes.desu.edu/admissions"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Delaware State University's graduate admissions pages and 2026-2027 Graduate Catalog do not state an application fee waiver policy.",
+      "quote": "",
+      "url": "https://sgaes.desu.edu/admissions"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Official GRE scores are required for graduate programs as defined by the individual department or program (scores below the 50th percentile on verbal or analytical writing may require additional proficiency).",
+      "quote": "For all graduate programs, official scores on the Graduate Record Examination (GRE), Graduate Management Admission Test (GMAT), the Miller Analogies Test (MAT) or other specified examinations, writings, documents or productions as defined by the individual department or program are required.",
+      "url": "https://sgaes.desu.edu/admissions"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Minimum TOEFL score is 79 iBT (or 550 paper-based) for international applicants who do not qualify for an exemption.",
+      "quote": "Applicants should attain a score of at least 550 on the TOEFL (paper-based test), or a 79 (new internet-based TOEFL) or a 6.5 minimum IELTS score.",
+      "url": "https://sgaes.desu.edu/admissions"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic overall band score is 6.5.",
+      "quote": "Applicants should attain a score of at least 550 on the TOEFL (paper-based test), or a 79 (new internet-based TOEFL) or a 6.5 minimum IELTS score.",
+      "url": "https://sgaes.desu.edu/admissions"
+    },
+    "english_waiver": {
+      "code": "Yes",
+      "value": "Foreign applicants who hold a bachelor's degree (or equivalent) from a foreign institution where English is the language of instruction are presumed proficient in English.",
+      "quote": "Foreign applicants who hold the baccalaureate degree or its equivalent from a foreign institution in which English is the language of instruction are presumed to be proficient in English.",
+      "url": "https://sgaes.desu.edu/admissions"
+    }
+  },
+  "notes": "International applicants must provide a course-by-course transcript evaluation from WES, ECE, or GCE (60 days prior to enrollment). Applicants who do not meet the English proficiency requirement via prior English-medium instruction or TOEFL/IELTS may alternatively complete DSU's English Language Institute (ELI)."
+}

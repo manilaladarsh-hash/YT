@@ -1,0 +1,53 @@
+{
+  "id": "astate",
+  "institution": "Arkansas State University",
+  "country": "USA",
+  "region": "Arkansas",
+  "grad_page": "https://www.astate.edu/admissions-and-aid/graduate-admissions/graduate-admissions-requirements.html",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "Nonrefundable application fee of $50 USD for both Doctoral Applicants and International Applicants ($30 USD for domestic Master's/Specialist applicants).",
+      "quote": "Pay the nonrefundable application fee of $30 for U.S. Applicants, $50 for International Applicants, or $50 for Doctoral Applicants to Graduate School Admissions.",
+      "url": "https://www.astate.edu/admissions-and-aid/graduate-admissions/graduate-admissions-requirements.html",
+      "also": [
+        {
+          "quote": "Pay the $50 application fee",
+          "url": "https://www.astate.edu/admissions-and-aid/international-student-admission/graduate-students.html"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No graduate application fee waiver policy is stated on A-State's HTML Graduate Admissions pages or Graduate Bulletin (all listed applications require the nonrefundable fee before processing).",
+      "quote": "",
+      "url": "https://www.astate.edu/admissions-and-aid/graduate-admissions/graduate-admissions-requirements.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE requirements are set by each graduate program (see program overrides); many master's programs do not require GRE scores, while both STEM Ph.D. programs in the 2026-2027 Graduate Bulletin list GRE scores as required.",
+      "quote": "",
+      "url": "https://catalog.astate.edu/content.php?catoid=15&navoid=436"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Minimum TOEFL iBT score of 79 (or IELTS 6.0 / Duolingo 120 / PTE 56); institutional ETS code 6011. (Older individual Ph.D. program pages still mention the legacy CBT 213 equivalent.)",
+      "quote": "TOEFL-Internet Based 79",
+      "url": "https://www.astate.edu/admissions-and-aid/international-student-admission/graduate-students.html"
+    },
+    "ielts_min": {
+      "code": "6",
+      "value": "Minimum IELTS score of 6.0 for international graduate applicants.",
+      "quote": "IELTS 6.0",
+      "url": "https://www.astate.edu/admissions-and-aid/international-student-admission/graduate-students.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Citizens of listed English-speaking countries (excluding India) are exempt, and applicants who completed at least two years and graduated from a university in the USA, UK, Canada (except Quebec), Australia, or New Zealand are waived; applicants from India, Nepal, and Pakistan can satisfy English proficiency with 65% in English at Class X and Class XII.",
+      "quote": "High School Marks (India, Nepal and Pakistan) 65% in English at X and XII in Certificate",
+      "url": "https://www.astate.edu/admissions-and-aid/international-student-admission/graduate-students.html"
+    }
+  },
+  "notes": "2026-2027 Graduate Bulletin lists 3 Ph.D. programs total: Environmental Sciences, Molecular Biosciences, and Heritage Studies (humanities, excluded). ETS institutional code: 6011."
+}

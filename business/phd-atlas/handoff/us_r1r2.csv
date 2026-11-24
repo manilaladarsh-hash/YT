@@ -1,8 +1,8 @@
 tier,carnegie_name,state,atlas_id,status
-R1,American University,DC,,screen-check-stem-phd
+R1,American University,DC,american,covered
 R1,Arizona State University,AZ,asu,covered
 R1,Auburn University,AL,auburn,covered
-R1,Baylor College of Medicine,TX,,screen-health-sciences
+R1,Baylor College of Medicine,TX,bcm,covered
 R1,Baylor University,TX,baylor,covered
 R1,Binghamton University,NY,binghamton,covered
 R1,Boston College,MA,bc,covered
@@ -13,13 +13,13 @@ R1,Brown University,RI,brown,covered
 R1,California Institute of Technology,CA,caltech,covered
 R1,Carnegie Mellon University,PA,cmu,covered
 R1,Case Western Reserve University,OH,cwru,covered
-R1,Catholic University of America,DC,,screen-check-stem-phd
+R1,Catholic University of America,DC,catholic,covered
 R1,Clemson University,SC,clemson,covered
 R1,Colorado School of Mines,CO,mines,covered
 R1,Colorado State University-Fort Collins,CO,colostate,covered
 R1,Columbia University in the City of New York,NY,columbia,covered
 R1,Cornell University,NY,cornell,covered
-R1,CUNY Graduate School and University Center,NY,,add
+R1,CUNY Graduate School and University Center,NY,cunygc,covered
 R1,Dartmouth College,NH,dartmouth,covered
 R1,Drexel University,PA,drexel,covered
 R1,Duke University,NC,duke,covered
@@ -36,7 +36,7 @@ R1,Georgia State University,GA,gsu,covered
 R1,Harvard University,MA,harvard,covered
 R1,Howard University,DC,howard,covered
 R1,Indiana University Bloomington,IN,iub,covered
-R1,Indiana University Indianapolis,IN,,add
+R1,Indiana University Indianapolis,IN,iuindy,covered
 R1,Iowa State University,IA,iastate,covered
 R1,Johns Hopkins University,MD,jhu,covered
 R1,Kansas State University,KS,ksu,covered
@@ -45,7 +45,7 @@ R1,Lehigh University,PA,lehigh,covered
 R1,Louisiana State University and Agricultural & Mechanical College,LA,lsu,covered
 R1,Loyola University Chicago,IL,loyolachicago,covered
 R1,Massachusetts Institute of Technology,MA,mit,covered
-R1,Medical University of South Carolina,SC,,screen-health-sciences
+R1,Medical University of South Carolina,SC,musc,covered
 R1,Michigan State University,MI,msu,covered
 R1,Michigan Technological University,MI,mtu,covered
 R1,Mississippi State University,MS,msstate,covered
@@ -59,7 +59,7 @@ R1,North Dakota State University-Main Campus,ND,ndsu,covered
 R1,Northeastern University,MA,northeastern,covered
 R1,Northern Arizona University,AZ,nau,covered
 R1,Northwestern University,IL,northwestern,covered
-R1,Nova Southeastern University,FL,,screen-check-stem-phd
+R1,Nova Southeastern University,FL,nova,covered
 R1,Ohio State University-Main Campus,OH,ohiostate,covered
 R1,Ohio University-Main Campus,OH,ohiou,covered
 R1,Oklahoma State University,OK,okstate,covered
@@ -83,16 +83,16 @@ R1,Texas Tech University,TX,ttu,covered
 R1,The Pennsylvania State University,PA,pennstate,covered
 R1,The University of Alabama,AL,ua,covered
 R1,The University of Montana,MT,umontana,covered
-R1,The University of Tennessee Health Science Center,TN,,screen-health-sciences
+R1,The University of Tennessee Health Science Center,TN,uthsc,covered
 R1,The University of Tennessee-Knoxville,TN,utk,covered
 R1,The University of Texas at Arlington,TX,uta,covered
 R1,The University of Texas at Austin,TX,utaustin,covered
 R1,The University of Texas at Dallas,TX,utdallas,covered
 R1,The University of Texas at El Paso,TX,utep,covered
 R1,The University of Texas at San Antonio,TX,utsa,covered
-R1,The University of Texas Health Science Center at Houston,TX,,screen-health-sciences
-R1,The University of Texas Health Science Center at San Antonio,TX,,screen-health-sciences
-R1,The University of Texas Southwestern Medical Center,TX,,screen-health-sciences
+R1,The University of Texas Health Science Center at Houston,TX,uthealth,covered
+R1,The University of Texas Health Science Center at San Antonio,TX,uthscsa,covered
+R1,The University of Texas Southwestern Medical Center,TX,utsw,covered
 R1,Tufts University,MA,tufts,covered
 R1,Tulane University of Louisiana,LA,tulane,covered
 R1,University at Albany,NY,albany,covered
@@ -107,14 +107,14 @@ R1,"University of California, Los Angeles",CA,ucla,covered
 R1,"University of California, Merced",CA,ucmerced,covered
 R1,"University of California, Riverside",CA,ucr,covered
 R1,"University of California, San Diego",CA,ucsd,covered
-R1,"University of California, San Francisco",CA,,screen-health-sciences
+R1,"University of California, San Francisco",CA,ucsf,covered
 R1,"University of California, Santa Barbara",CA,ucsb,covered
 R1,"University of California, Santa Cruz",CA,ucsc,covered
 R1,University of Central Florida,FL,ucf,covered
 R1,University of Chicago,IL,uchicago,covered
 R1,University of Cincinnati,OH,uc,covered
 R1,University of Colorado Boulder,CO,cuboulder,covered
-R1,University of Colorado Denver/Anschutz Medical Campus,CO,,screen-health-sciences
+R1,University of Colorado Denver/Anschutz Medical Campus,CO,cuanschutz,covered
 R1,University of Connecticut,CT,uconn,covered
 R1,University of Dayton,OH,dayton,covered
 R1,University of Delaware,DE,udel,covered
@@ -136,7 +136,7 @@ R1,University of Maryland-Baltimore County,MD,umbc,covered
 R1,University of Maryland-College Park,MD,maryland,covered
 R1,"University of Maryland, Baltimore",MD,umaryland,covered
 R1,University of Massachusetts-Amherst,MA,umass,covered
-R1,University of Massachusetts-Boston,MA,,add
+R1,University of Massachusetts-Boston,MA,umassboston,covered
 R1,University of Massachusetts-Lowell,MA,uml,covered
 R1,University of Memphis,TN,memphis,covered
 R1,University of Miami,FL,miami,covered
@@ -145,7 +145,7 @@ R1,University of Minnesota-Twin Cities,MN,minnesota,covered
 R1,University of Mississippi,MS,olemiss,covered
 R1,University of Missouri-Columbia,MO,mizzou,covered
 R1,University of Missouri-Kansas City,MO,umkc,covered
-R1,University of Nebraska Medical Center,NE,,screen-health-sciences
+R1,University of Nebraska Medical Center,NE,unmc,covered
 R1,University of Nebraska-Lincoln,NE,unl,covered
 R1,University of Nevada-Las Vegas,NV,unlv,covered
 R1,University of Nevada-Reno,NV,unr,covered
@@ -181,16 +181,16 @@ R1,Virginia Polytechnic Institute and State University,VA,virginiatech,covered
 R1,Washington State University,WA,wsu,covered
 R1,Washington University in St Louis,MO,washu,covered
 R1,Wayne State University,MI,wayne,covered
-R1,Weill Cornell Medicine,NY,,screen-health-sciences
+R1,Weill Cornell Medicine,NY,weillcornell,covered
 R1,West Virginia University,WV,wvu,covered
 R1,William & Mary,VA,wm,covered
 R1,Worcester Polytechnic Institute,MA,wpi,covered
 R1,Yale University,CT,yale,covered
 R2,Abilene Christian University,,,screen-check-stem-phd
-R2,Air Force Institute of Technology Graduate School of Engineering & Management,,,add
+R2,Air Force Institute of Technology Graduate School of Engineering & Management,OH,afit,covered
 R2,Albert Einstein College of Medicine,,,screen-health-sciences
 R2,Appalachian State University,,,screen-check-stem-phd
-R2,Arkansas State University,,,add
+R2,Arkansas State University,AR,astate,covered
 R2,Augusta University,,,screen-health-sciences
 R2,Azusa Pacific University,,,screen-check-stem-phd
 R2,Ball State University,,ballstate,covered
@@ -202,25 +202,25 @@ R2,"California State University, Fullerton",,,screen-check-stem-phd
 R2,"California State University, Long Beach",,,screen-check-stem-phd
 R2,"California State University, Los Angeles",,,screen-check-stem-phd
 R2,"California State University, Sacramento",,,screen-check-stem-phd
-R2,Central Michigan University,,,add
+R2,Central Michigan University,MI,cmich,covered
 R2,Chapman University,,,screen-check-stem-phd
 R2,Claremont Graduate University,,claremontgrad,covered
 R2,Clark Atlanta University,,,screen-check-stem-phd
-R2,Clark University,,,add
+R2,Clark University,,clark,covered
 R2,Clarkson University,,clarkson,covered
 R2,Cleveland State University,,clevelandstate,covered
 R2,Creighton University,,,screen-check-stem-phd
-R2,CUNY City College,,,add
-R2,CUNY Hunter College,,,add
-R2,Delaware State University,,,add
+R2,CUNY City College,NY,ccny,covered
+R2,CUNY Hunter College,NY,,screened-out
+R2,Delaware State University,DE,desu,covered
 R2,DePaul University,,,screen-check-stem-phd
 R2,Duquesne University,,,screen-check-stem-phd
-R2,East Tennessee State University,,,add
-R2,East Texas A&M University,,,add
-R2,Eastern Michigan University,,,add
+R2,East Tennessee State University,TN,etsu,covered
+R2,East Texas A&M University,TX,,screened-out
+R2,Eastern Michigan University,MI,emich,covered
 R2,Eastern Virginia Medical School,,,screen-health-sciences
 R2,Embry-Riddle Aeronautical University-Daytona Beach,,,screen-check-stem-phd
-R2,Florida Agricultural and Mechanical University,,,add
+R2,Florida Agricultural and Mechanical University,FL,famu,covered
 R2,Florida Institute of Technology,,floridatech,covered
 R2,Fordham University,,fordham,covered
 R2,Georgia Southern University,,,screen-check-stem-phd
@@ -231,7 +231,7 @@ R2,Idaho State University,,idahostate,covered
 R2,Illinois Institute of Technology,,illinoistech,covered
 R2,Illinois State University,,,screen-check-stem-phd
 R2,Indiana University of Pennsylvania,,,screen-check-stem-phd
-R2,Jackson State University,,,add
+R2,Jackson State University,MS,jsums,covered
 R2,James Madison University,,,screen-check-stem-phd
 R2,Kean University,,,screen-check-stem-phd
 R2,Kennesaw State University,,,screen-check-stem-phd
@@ -239,74 +239,74 @@ R2,Lamar University,,,screen-check-stem-phd
 R2,Loma Linda University,,,screen-health-sciences
 R2,Long Island University,,,screen-check-stem-phd
 R2,"Louisiana State University Health Sciences Center, New Orleans",,,screen-health-sciences
-R2,Louisiana State University New Orleans,,,add
+R2,Louisiana State University New Orleans,LA,lsuneworleans,covered
 R2,Louisiana Tech University,,louisianatech,covered
 R2,Loyola Marymount University,,,screen-check-stem-phd
 R2,Marquette University,,marquette,covered
-R2,Marshall University,,,add
+R2,Marshall University,WV,marshall,covered
 R2,Medical College of Wisconsin,,,screen-health-sciences
 R2,Mercer University,,,screen-check-stem-phd
 R2,"Miami University , Oxford",,miamiohio,covered
 R2,Middle Tennessee State University,,,screen-check-stem-phd
-R2,Montclair State University,,,add
-R2,Morgan State University,,,add
-R2,North Carolina A&T State University,,,add
+R2,Montclair State University,NJ,montclair,covered
+R2,Morgan State University,MD,morganstate,covered
+R2,North Carolina A&T State University,NC,ncat,covered
 R2,Northern Illinois University,,niu,covered
 R2,Oakland University,,oakland,covered
 R2,Oklahoma State University Center for Health Sciences,,,screen-health-sciences
 R2,Oregon Health & Science University,,ohsu,covered
 R2,Pepperdine University,,,screen-check-stem-phd
 R2,Portland State University,,portlandstate,covered
-R2,Prairie View A&M University,,,add
+R2,Prairie View A&M University,TX,pvamu,covered
 R2,Rochester Institute of Technology,,rit,covered
 R2,Rockefeller University,,rockefeller,covered
-R2,Rowan University,,,add
+R2,Rowan University,NJ,rowan,covered
 R2,Rush University,,,screen-health-sciences
-R2,Rutgers University–Camden,,,add
-R2,Rutgers University–Newark,,,add
+R2,Rutgers University–Camden,NJ,rutgerscamden,covered
+R2,Rutgers University–Newark,NJ,rutgersnewark,covered
 R2,Saint Joseph's University,,,screen-check-stem-phd
 R2,Sam Houston State University,,,screen-check-stem-phd
 R2,San Francisco State University,,,screen-check-stem-phd
 R2,San Jose State University,,,screen-check-stem-phd
 R2,Seton Hall University,,,screen-check-stem-phd
-R2,South Carolina State University,,,add
+R2,South Carolina State University,SC,,screened-out
 R2,South Dakota State University,,southdakotastate,covered
 R2,Southern Connecticut State University,,,screen-check-stem-phd
-R2,Southern University,,,add
+R2,Southern University,LA,subr,covered
 R2,Stevens Institute of Technology,,stevens,covered
-R2,SUNY College of Environmental Science and Forestry,,,add
+R2,SUNY College of Environmental Science and Forestry,NY,sunyesf,covered
 R2,Tarleton State University,,,screen-check-stem-phd
 R2,"Teachers College, Columbia University",,,screen-check-stem-phd
-R2,Tennessee State University,,,add
-R2,Tennessee Technological University,,,add
-R2,Texas A&M University–Corpus Christi,,,add
-R2,Texas A&M University–Kingsville,,,add
+R2,Tennessee State University,,tnstate,covered
+R2,Tennessee Technological University,,tntech,covered
+R2,Texas A&M University–Corpus Christi,,tamucc,covered
+R2,Texas A&M University–Kingsville,,tamuk,covered
 R2,Texas Christian University,,tcu,covered
-R2,Texas Southern University,,,add
+R2,Texas Southern University,,tsu,covered
 R2,Texas State University,,txstate,covered
 R2,Texas Tech University Health Sciences Center,,,screen-health-sciences
 R2,Texas Woman's University,,,screen-check-stem-phd
 R2,The New School,,,screen-check-stem-phd
-R2,The University of Texas at Tyler,,,add
+R2,The University of Texas at Tyler,,uttyler,covered
 R2,The University of Texas Medical Branch at Galveston,,,screen-health-sciences
-R2,The University of Texas Rio Grande Valley,,,add
-R2,The University of West Florida,,,add
+R2,The University of Texas Rio Grande Valley,,utrgv,covered
+R2,The University of West Florida,,uwf,covered
 R2,Thomas Jefferson University,,,screen-health-sciences
 R2,University of Akron Main Campus,,akron,covered
 R2,"University of Alabama, Huntsville",,alabamahuntsville,covered
 R2,University of Alaska Fairbanks,,alaskafairbanks,covered
-R2,University of Arkansas at Little Rock,,,add
+R2,University of Arkansas at Little Rock,AR,ualr,covered
 R2,University of Arkansas for Medical Sciences,,,screen-health-sciences
-R2,University of Colorado Colorado Springs,,,add
+R2,University of Colorado Colorado Springs,CO,uccs,covered
 R2,University of Massachusetts Chan Medical School,,,screen-health-sciences
-R2,University of Massachusetts Dartmouth,,,add
-R2,University of Michigan-Dearborn,,,add
-R2,University of Missouri–St. Louis,,,add
-R2,University of Nebraska Omaha,,,add
-R2,University of New England,,,screen-check-stem-phd
+R2,University of Massachusetts Dartmouth,MA,umassd,covered
+R2,University of Michigan-Dearborn,MI,umdearborn,covered
+R2,University of Missouri–St. Louis,MO,umsl,covered
+R2,University of Nebraska Omaha,NE,unomaha,covered
+R2,University of New England,,,screened-out
 R2,University of North Carolina at Greensboro,,uncg,covered
-R2,University of North Carolina Wilmington,,,add
-R2,University of North Florida,,,add
+R2,University of North Carolina Wilmington,NC,uncw,covered
+R2,University of North Florida,FL,unf,covered
 R2,University of Northern Colorado,,,screen-check-stem-phd
 R2,University of Oklahoma-Health Sciences Center,,,screen-health-sciences
 R2,"University of Puerto Rico, Mayaguez",,,add

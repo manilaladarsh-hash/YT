@@ -1,0 +1,58 @@
+{
+  "id": "umdearborn--cs",
+  "university": "umdearborn",
+  "field": "cs",
+  "also_fields": [
+    "datasci"
+  ],
+  "department": "Department of Computer and Information Science",
+  "program_page": "https://umdearborn.edu/academics/program/computer-and-information-science-phd",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Strict Fall 2027 deadline: January 15, 2027 (Winter term deadline: August 1).",
+      "quote": "This program operates on a strict deadline. All application and materials must be submitted by January 15 for Fall consideration and August 1 for Winter consideration.",
+      "url": "https://umdearborn.edu/academics/program/computer-and-information-science-phd",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Computer Science or Data Science (ETS offers Subject Tests only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applications are reviewed by the department; admitted Ph.D. CIS students identify a faculty research advisor and topic as their first program milestone.",
+      "quote": "Each student is guided by a research advisor and a dissertation committee and has to pass the following major milestones: | Identifying the faculty advisor and research topic",
+      "url": "https://catalog.umd.umich.edu/graduate/college-engineering-computer-science/computer-information-science/",
+      "also": [
+        {
+          "quote": "The University of Michigan-Dearborn Office of Graduate Studies coordinates the application process for all programs in the College of Engineering and Computer Science. Individual CECS departments review all applications for program admission requirements and make decisions on each applicant.",
+          "url": "https://umdearborn.edu/cecs/graduate-programs/admissions"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All Ph.D. CIS students receive full funding via GSI and/or GSRA appointments (monthly stipend, health insurance, and tuition waiver) guaranteed for up to 5 years with good standing.",
+      "quote": "To lessen financial concerns, all Ph.D. students receive full funding in the form of appointments as a graduate student instructor, a research assistant, or both. The appointments provide a monthly stipend, health insurance, and a tuition waiver. Students are guaranteed full funding for up to five years provided they maintain good academic standing and adequate progress toward their degree.",
+      "url": "https://umdearborn.edu/academics/program/computer-and-information-science-phd"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admits students with a bachelor's degree (expected GPA >= 3.2; 36 coursework credits + 24 dissertation credits, optionally earning an M.S. in CIS or Data Science en route) or a master's degree (expected GPA >= 3.5) in engineering, applied mathematics, computer science, or a physical science.",
+      "quote": "Computer and Information Science (PhD) | Previous Degrees Required | Bachelor or master's degree in engineering, applied mathematics, computer science, or a physical science | Bachelor's degree expected GPA of 3.2 or higher on a 4-point scale | Master's degree expected GPA of 3.5 or higher on a 4-point scale",
+      "url": "https://catalog.umd.umich.edu/graduate/graduate-admissions/prerequisites-by-college/college-engineering-and-computer-science/",
+      "also": [
+        {
+          "quote": "Students with just a B.S. in computer and information science or closely related area | Complete at least 36 credit hours of coursework, including 30 credit hours toward the completion of the MS degree, and at least 24 dissertation credits, and can earn an M.S. CIS, M.S. DS, M.S. SWE, M.S. CIA, or M.S. AI along the way to their Ph.D. CIS.",
+          "url": "https://catalog.umd.umich.edu/graduate/college-engineering-computer-science/computer-information-science/"
+        }
+      ]
+    }
+  },
+  "notes": "Rackham Ph.D. offered at UM-Dearborn with four official concentration areas: Data Management, Data Science, Systems and Security, and Software Engineering (mapped to cs with also_fields=['datasci']). Requires 3 recommendations; direct B.S. admits complete 36 coursework + 24 dissertation credits (prior UM M.S.: 6+24; non-UM M.S.: 18+24).",
+  "name": "Computer and Information Science, Ph.D."
+}

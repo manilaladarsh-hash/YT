@@ -1,0 +1,63 @@
+{
+  "id": "ccny--ece",
+  "university": "ccny",
+  "field": "ece",
+  "also_fields": [],
+  "department": "Department of Electrical Engineering",
+  "program_page": "https://www.ccny.cuny.edu/eleceng/ee-phd-program",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "January 15, 2027 for Grove School of Engineering Fellowship consideration; final Fall deadline is May 1, 2027.",
+      "quote": "Fall Admission: January 15 (to be considered for the GSOE Fellowship) | Fall Admission: May 1",
+      "url": "https://www.ccny.cuny.edu/eleceng/ee-phd-program",
+      "inferred": "year",
+      "time_sensitive": "2027-01-15"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional for Electrical Engineering PhD applicants.",
+      "quote": "No, the GRE is optional. Applicants may submit GRE scores if they believe it will enhance their application.",
+      "url": "https://www.ccny.cuny.edu/eleceng/ee-phd-program"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for Electrical Engineering (ETS offers Subject Tests only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "toefl_min": {
+      "code": "73",
+      "value": "Minimum TOEFL iBT 73 (4.5 updated scale); PTE 49 and Duolingo 95 are also accepted.",
+      "quote": "Minimum Language Test Scores: 73 (TOEFL IBT), 4.5 (TOEFL updated scale), 6.5 (IELTS), 49 (PTE) or 95 (Duolingo)",
+      "url": "https://www.ccny.cuny.edu/admissions/electrical-engineering"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic band score is 6.5.",
+      "quote": "Minimum Language Test Scores: 73 (TOEFL IBT), 4.5 (TOEFL updated scale), 6.5 (IELTS), 49 (PTE) or 95 (Duolingo)",
+      "url": "https://www.ccny.cuny.edu/admissions/electrical-engineering"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Not required before applying, but strongly encouraged to reach out to faculty regarding research alignment and RA openings.",
+      "quote": "It is not required, but strongly encouraged. Reaching out to faculty whose research aligns with your interests can improve your application and increase the likelihood of securing funding (e.g., GSOE fellowship or RA position).",
+      "url": "https://www.ccny.cuny.edu/eleceng/ee-phd-program"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "GSOE Fellowships (first-year stipend, health insurance, full tuition, advisor support after year 1) are awarded competitively; faculty RA positions may also provide full funding.",
+      "quote": "The Electrical Engineering Department offers Grove School of Engineering (GSOE) Fellowships to a select group of newly admitted Ph.D. students each fall on a competitive basis.",
+      "url": "https://www.ccny.cuny.edu/eleceng/ee-phd-program"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants with either a bachelor's or master's degree in electrical engineering or a closely related field may apply; up to 30 transfer credits possible.",
+      "quote": "No. Applicants with either a bachelor's or master's degree in electrical engineering or a closely related field are eligible to apply.",
+      "url": "https://www.ccny.cuny.edu/eleceng/ee-phd-program"
+    }
+  },
+  "notes": "Teaching Assistantships are for continuing students only and are not guaranteed.",
+  "name": "Ph.D. in Electrical Engineering"
+}

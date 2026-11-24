@@ -1,0 +1,61 @@
+{
+  "id": "utsw--bme",
+  "university": "utsw",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Division of Basic Science — Biomedical Engineering Ph.D. Program",
+  "program_page": "https://gsbs.utsouthwestern.edu/programs/biomedical-engineering/",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Application and all supporting materials (including three recommendation letters and English proficiency score reports) for the Biomedical Engineering Ph.D. are due December 1 at 11:59 p.m. CST for fall entry.",
+      "quote": "The application deadline, including receipt of all supporting materials, for all 3 of these programs is December 1st, 11:59 pm Central Standard Time.",
+      "url": "https://gsbs.utsouthwestern.edu/application-and-admissions/basic-sciences.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for biomedical engineering, and GRE scores are not required for DBS Ph.D. programs.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html",
+      "also": [
+        {
+          "quote": "Are GRE Scores Required? No",
+          "url": "https://gsbs.utsouthwestern.edu/application-and-admissions/basic-sciences.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Contacting faculty before applying is not necessary; first-year BME Ph.D. students complete up to four laboratory rotations.",
+      "quote": "It is not necessary for you to contact the professor you are interested in. Contacting them will not have an impact on your application.",
+      "url": "https://gsbs.utsouthwestern.edu/application-and-admissions/basic-sciences.html",
+      "also": [
+        {
+          "quote": "In addition to coursework, the curriculum for first-year students includes up to four laboratory rotations and training in responsible conduct of research.",
+          "url": "https://gsbs.utsouthwestern.edu/programs/biomedical-engineering/curriculum/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All BME Ph.D. students in good academic standing receive guaranteed support: a $40,000/year stipend plus full payment of tuition, student service fees, and student health insurance.",
+      "quote": "Yes, as long as a student is in good academic standing, funding is guaranteed. All students enrolled in the 10 basic science programs receive a nationally competitive stipend of $40,000 per year and tuition, student service fees, and health insurance are paid by the institution.",
+      "url": "https://gsbs.utsouthwestern.edu/application-and-admissions/basic-sciences.html",
+      "also": [
+        {
+          "quote": "Tuition and fees are fully covered. Additionally, all students receive a nationally competitive stipend.",
+          "url": "https://gsbs.utsouthwestern.edu/programs/biomedical-engineering/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants with a U.S. bachelor's degree or equivalent foreign university training (or currently completing a bachelor's degree) are eligible to apply.",
+      "quote": "A bachelor's degree or its equivalent from an accredited institution of higher learning in the United States or proof of equivalent training at a foreign university is required. Students who are in the process of completing a bachelor's degree are eligible to apply.",
+      "url": "https://gsbs.utsouthwestern.edu/application-and-admissions/basic-sciences.html"
+    }
+  },
+  "notes": "Biomedical Engineering has its own direct application within the Division of Basic Science (separate from the BBS umbrella), and offers core research areas plus specialized curricula in Computational Biology and Medical Physics."
+}

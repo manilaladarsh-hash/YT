@@ -1,0 +1,76 @@
+{
+  "id": "astate--biology",
+  "university": "astate",
+  "field": "biology",
+  "also_fields": [
+    "biomed"
+  ],
+  "department": "Molecular Biosciences Graduate Program (Beck College of Science and Mathematics)",
+  "program_page": "https://catalog.astate.edu/preview_program.php?catoid=15&poid=5212&returnto=444",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Application deadline of February 15, 2027 for Fall admission consideration (July 15 for Spring admission).",
+      "quote": "by February 15th for consideration for Fall admission and by July 15th for consideration for Spring admission:",
+      "url": "https://catalog.astate.edu/preview_program.php?catoid=15&poid=5212&returnto=444",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Molecular Biosciences (M.S. & Ph.D) Spring (July 15)/Fall (Feb 15)",
+          "url": "https://www.astate.edu/admissions-and-aid/international-student-admission/graduate-students.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Official GRE Verbal, Quantitative, and Analytical scores are required, with a minimum score of 150 Verbal and 150 Quantitative (300 combined).",
+      "quote": "Scores from the Graduate Record Examination showing a score of 150 on both the verbal and quantitative tests or a combined score of 1000 on the verbal and quantitative sections for scores that used the old scoring system are the minimum requirements.",
+      "url": "https://catalog.astate.edu/preview_program.php?catoid=15&poid=5212&returnto=444",
+      "also": [
+        {
+          "quote": "Molecular Biosciences (M.S. & Ph.D) Spring (July 15)/Fall (Feb 15) 2.75 Yes. 300. (Minimum 150 per section)",
+          "url": "https://www.astate.edu/admissions-and-aid/international-student-admission/graduate-students.html"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS discontinued the GRE Biology Subject Test in May 2021 (Subject Tests remain only in Mathematics, Physics, and Psychology); A-State's catalog still notes optional advanced subject test scores.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html",
+      "also": [
+        {
+          "quote": "Although not required, scores from an advanced test related to Molecular Biosciences may increase a candidate’s chance for admission.",
+          "url": "https://catalog.astate.edu/preview_program.php?catoid=15&poid=5212&returnto=444"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are asked to identify possible faculty research mentors in their statement of research interests; students admitted without a designated Doctoral Advisory Committee chair are assigned an interim adviser for up to one year.",
+      "quote": "Other materials required of MBS applicants are three strong letters of recommendation, a current curriculum vitae and a statement of research interests that includes identification of possible faculty mentors the applicant would like to work with.",
+      "url": "https://catalog.astate.edu/preview_program.php?catoid=15&poid=5212&returnto=444"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate Teaching Assistantships and Graduate Research Assistantships are awarded competitively through the Molecular Biosciences Program Committee, and full doctoral graduate assistants receive out-of-state and in-state tuition coverage.",
+      "quote": "Any university support, whether as a Graduate Teaching Assistant or as a Graduate Research Assistant, will be awarded competitively through the Molecular Biosciences Program Committee.",
+      "url": "https://catalog.astate.edu/preview_program.php?catoid=15&poid=5212&returnto=444",
+      "also": [
+        {
+          "quote": "Doctoral graduate assistantship carries a tuition fellowship covering the cost of tuition.",
+          "url": "https://catalog.astate.edu/content.php?catoid=15&navoid=437"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Minimum of a B.S. in a basic or applied science (preference may be given to M.S.-level applicants); requires at least 72 graduate credits beyond the bachelor's or 45 beyond the master's.",
+      "quote": "Each applicant must have a minimum of a BS in a basic or applied science, although preference may be given to MS level applicants. | A minimum of 72 graduate credits beyond the baccalaureate degree or 45 graduate credits beyond the master’s degree is required.",
+      "url": "https://catalog.astate.edu/preview_program.php?catoid=15&poid=5212&returnto=444"
+    }
+  },
+  "notes": "Cross-disciplinary Ph.D. in Molecular Biosciences integrating molecular, genomic, cellular, and developmental biology, metabolic pathway engineering, bioinformatics, and novel biomaterials; affiliated with the Arkansas Biosciences Institute.",
+  "name": "Ph.D. in Molecular Biosciences"
+}

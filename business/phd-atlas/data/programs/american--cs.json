@@ -1,0 +1,69 @@
+{
+  "id": "american--cs",
+  "university": "american",
+  "field": "cs",
+  "also_fields": [
+    "datasci"
+  ],
+  "department": "Computational Science and Artificial Intelligence (PhD), College of Arts & Sciences",
+  "program_page": "https://www.american.edu/cas/ai/phd/index.cfm",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall priority admission deadline is January 15.",
+      "quote": "Fall priority admission: January 15",
+      "url": "https://www.american.edu/cas/ai/phd/phd-requirements.cfm",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores can be submitted but are not required.",
+      "quote": "GRE can be submitted but is not required",
+      "url": "https://www.american.edu/cas/ai/phd/phd-requirements.cfm"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers no GRE Subject Test in Computer Science or Data Science, and GRE is not required for Computational Science & AI.",
+      "quote": "GRE can be submitted but is not required",
+      "url": "https://www.american.edu/cas/ai/phd/phd-requirements.cfm",
+      "also": [
+        {
+          "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+          "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Statement of Purpose should name faculty mentor(s) of interest, but pages do not state whether prior advisor commitment is required before admission.",
+      "quote": "",
+      "url": "https://www.american.edu/cas/ai/phd/phd-requirements.cfm",
+      "also": [
+        {
+          "quote": "*Statement of Purpose should include the names of the faculty mentor(s) you would like to work with and a description of your research interests, experiences, and career goals.",
+          "url": "https://www.american.edu/cas/ai/phd/phd-requirements.cfm"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "All applicants are automatically considered for merit scholarships; CAS awards a limited number of graduate doctoral awards on a competitive basis.",
+      "quote": "All applicants automatically considered for merit scholarships.",
+      "url": "https://www.american.edu/cas/ai/phd/index.cfm",
+      "also": [
+        {
+          "quote": "A limited number of graduate doctoral awards are available on a competitive basis. All doctoral applicants are automatically considered.",
+          "url": "https://www.american.edu/cas/admissions/finance.cfm"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Full graduate admission requires an earned U.S. baccalaureate degree or an international equivalent to a four-year U.S. bachelor's degree (alternative pathway via 3.30+ master's GPA or 3.50+ in last 12 graduate credits).",
+      "quote": "Applicants must hold either an earned baccalaureate degree from a nationally accredited institution or a degree equivalent to a four-year U.S. baccalaureate degree from an international institution with a similar level of accreditation or recognition by its home country.",
+      "url": "https://www.american.edu/provost/ogps/graduate-studies/upload/Graduate-Academic-Regulations-2025-2026-3.pdf"
+    }
+  },
+  "notes": "Interdisciplinary PhD across Computer Science, Mathematics & Statistics, and Physics (39 credits plus dissertation; core AI/ML/computational modeling with Data Science, Computer Vision, NLP, Cybersecurity, and Computational Physics tracks)."
+}

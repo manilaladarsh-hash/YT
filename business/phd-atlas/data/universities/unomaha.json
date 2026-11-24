@@ -1,0 +1,59 @@
+{
+  "id": "unomaha",
+  "institution": "University of Nebraska Omaha",
+  "country": "USA",
+  "region": "Nebraska",
+  "grad_page": "https://www.unomaha.edu/office-of-graduate-studies/admissions/index.php",
+  "checked": "2026-11-14",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "$50.00 (USD) non-refundable online application fee for degree-seeking applicants ($25.00 for currently enrolled UNO students or non-degree/certificate applicants).",
+      "quote": "Degree-seeking applications: $50.00 (USD)",
+      "url": "https://www.unomaha.edu/office-of-graduate-studies/admissions/how-to-apply.php"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Application fee is waived only for U.S. military active duty/guard/reserve/veterans and dependents, McNair scholarship recipients, undergraduate Pell Grant recipients with a current SAR, and AmeriCorps participants/alumni.",
+      "quote": "The application fee is waived for the following groups: | All U.S. Military Active Duty, Guard, Reserve, Veterans, and dependents with proof of military status. | McNair scholarship recipients | Undergraduate Pell Grant recipients who provide their current Student Aid Report (SAR) | AmeriCorps with Certification of Service Letter",
+      "url": "https://www.unomaha.edu/office-of-graduate-studies/admissions/how-to-apply.php",
+      "also": [
+        {
+          "quote": "A non-refundable application fee is required for all applications. | The application fee will be waived for: | McNair Scholars who provide the McNair Certification of Participation form | Undergraduate Pell Grant recipients who provide their current Student Aid Report (SAR)",
+          "url": "https://catalog.unomaha.edu/graduate/admission/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "UNO Office of Graduate Studies states that some programs require aptitude or advanced knowledge tests (set per program: Required in Computing & Information Science and Biomedical Informatics, Optional in Psychology, and Not required in Biomechanics & Kinesiology).",
+      "quote": "",
+      "url": "https://www.unomaha.edu/office-of-graduate-studies/admissions/entrance-exams.php"
+    },
+    "toefl_min": {
+      "code": "4 (new scale)",
+      "value": "Graduate Council minimum is 80 iBT (total score of 4 on the updated TOEFL scoring scale effective January 21, 2026; institution code 6420; Computing & Information Science and Biomedical Informatics require 90 iBT).",
+      "quote": "80 internet-based (iBT) TOEFL (total score of 4 on the updated scoring scale effective January 21, 2026)",
+      "url": "https://www.unomaha.edu/office-of-graduate-studies/admissions/entrance-exams.php"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Graduate Council minimum is IELTS 6.5 (Computing & Information Science and Biomedical Informatics require IELTS 7.0; UNO also accepts Duolingo 110 or PTE 53 centrally).",
+      "quote": "6.5 IELTS",
+      "url": "https://www.unomaha.edu/office-of-graduate-studies/admissions/entrance-exams.php"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Required unless the applicant holds a baccalaureate or advanced degree from a U.S. institution or a country on UNO's predetermined waiver list (India is excluded; an English-medium Indian degree is not exempt).",
+      "quote": "All graduate applicants whose language of nurture is not English must present an English language proficiency score | Automatic waivers from this policy are granted for individuals who have received a baccalaureate or other advanced degree from an institution in the United States OR for individuals who have received (or will be receiving) a baccalaureate or other advanced degree from a pre-determined country on the following list",
+      "url": "https://www.unomaha.edu/office-of-graduate-studies/admissions/entrance-exams.php",
+      "also": [
+        {
+          "quote": "All applicants to Graduate Studies at UNO whose language of nurture is not English must present a score on the Test of English as a Foreign Language (TOEFL), the International English Language Testing System (IELTS), the Pearson Test of English (PTE), or Duolingo.",
+          "url": "https://catalog.unomaha.edu/graduate/admission/"
+        }
+      ]
+    }
+  },
+  "notes": "University of Nebraska Omaha (UNO) offers 4 STEM Ph.D. programs across 5 Atlas fields: cs (Computing & Information Science Ph.D., also covering datasci via the Artificial Intelligence Concentration), biomed (Biomedical Informatics Ph.D., joint with UNMC), bme (Biomechanics & Kinesiology Ph.D., STEM-designated CIP), and neuro (Psychology Ph.D. — Neuroscience and Behavior Concentration). Excluded non-STEM Ph.D. programs: Criminology and Criminal Justice, Gerontology, Public Administration, and the Developmental and Industrial/Organizational concentrations of Psychology Ph.D."
+}

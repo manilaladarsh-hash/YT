@@ -1,0 +1,72 @@
+{
+  "id": "ualr--mech",
+  "university": "ualr",
+  "field": "mech",
+  "also_fields": [],
+  "department": "School of Engineering and Engineering Technology",
+  "program_page": "https://ualr.edu/engineering/engineering-phd/",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-31",
+      "value": "Graduate engineering applications are rolling, but applicants should submit all required materials by the Fall priority deadline of March 31 (March 31, 2027 inferred for Fall 2027; Spring is September 30; Summer not offered).",
+      "quote": "Graduate program applications are accepted on a rolling basis. However, for full consideration, applicants are strongly encouraged to submit all required materials by the priority deadlines below: – Fall Admission: March 31 – Spring Admission: September 30 Please note that summer admission is not offered.",
+      "url": "https://ualr.edu/engineering/admission-deadlines/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Application Deadlines: March 31st for fall admission. September 30th for spring admissions. Summer admissions are not offered.",
+          "url": "https://catalog.ualr.edu/preview_program.php?catoid=21&poid=5576"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General Test is required (315 V+Q combined and 3.5 AW expected); catalog text lists waivers for UA Little Rock M.S. ECE thesis graduates (>=3.5 GPA), exceptional cases, or where GRE is unavailable in the applicant's country.",
+      "quote": "Applicants are required to submit GRE scores with the admission application. A combined total of 315 on the verbal and quantitative reasoning sections and a score of 3.5 on the analytical writing section will be expected. The GRE may be waived for applicants who graduate from UA Little Rock with a master’s degree in electrical and computer engineering (thesis option) and a 3.5 GPA or higher.",
+      "url": "https://catalog.ualr.edu/preview_program.php?catoid=21&poid=5576"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Mechanical Engineering (ETS offers Subject Tests only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to contact engineering faculty for research supervision; advisor availability and willingness are considered in admission decisions (students formally declare an advisor by the end of the 2nd semester).",
+      "quote": "Applicants are encouraged to contact engineering faculty for their research supervision. The availability and willingness of advisors will be considered in making admission decisions.",
+      "url": "https://catalog.ualr.edu/preview_program.php?catoid=21&poid=5576"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "A limited number of competitive TAs/RAs are available to qualified full-time students with regular admission, covering 9 credits of tuition per semester plus a living stipend (university minimum $15,000/9-mo from Fall 2026) and $400/semester health insurance reimbursement.",
+      "quote": "A limited number of graduate assistantships that support teaching and research opportunities are available to qualified full-time students with regular admissions. Tuition is paid for nine credits per semester, and a stipend is provided for living expenses.",
+      "url": "https://catalog.ualr.edu/preview_program.php?catoid=21&poid=5576",
+      "also": [
+        {
+          "quote": "The full-time stipend for the academic year is a minimum of $15,000 for doctoral students and $10,000 for master’s students.",
+          "url": "https://ualr.edu/gradschool/assistantship/"
+        },
+        {
+          "quote": "The Doctoral Health Insurance Reimbursement provides $400 of insurance reimbursement for Fall and another $400 for Spring.",
+          "url": "https://ualr.edu/gradschool/current-students/health-insurance/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Requires at least one degree (bachelor's or master's) in engineering: >=3.5 undergraduate GPA for bachelor's entry (72 credit hours) or >=3.3–3.5 master's GPA for master's entry (48 credit hours; department page states 3.3 while 2026-2027 catalog states 3.5).",
+      "quote": "Applicants must have at least one degree (bachelor’s or master’s) in engineering. Applicants with only a bachelor’s degree in engineering must have an overall undergraduate GPA of 3.5 or better. Applicants with a master’s degree in engineering should have a master’s GPA of 3.5 or better. | 72 hours for students entering the PhD program with a Bachelor’s degree and 48 hours for students entering the Ph.D. program with a Master’s degree.",
+      "url": "https://catalog.ualr.edu/preview_program.php?catoid=21&poid=5576",
+      "also": [
+        {
+          "quote": "Alternatively, applicants with a master’s degree in engineering should have a master’s GPA of 3.3 or better.",
+          "url": "https://ualr.edu/engineering/engineering-phd/"
+        }
+      ]
+    }
+  },
+  "notes": "Engineering, Mechanical Engineering Track, Ph.D. (catalog poid=5576). Note minor conflict on master's GPA requirement: department webpage states 3.3 while catalog (poid=5576) states 3.5 (and catalog GRE waiver text on poid=5576 appears copied from the ECE track). Note priority vs rolling deadline: engineering/admission-deadlines/ lists March 31 as priority deadline with rolling thereafter, whereas catalog lists March 31.",
+  "name": "Engineering, Mechanical Engineering Track, Ph.D."
+}

@@ -1,0 +1,81 @@
+{
+  "id": "ccny--chemeng",
+  "university": "ccny",
+  "field": "chemeng",
+  "also_fields": [],
+  "department": "Department of Chemical Engineering",
+  "program_page": "https://www.ccny.cuny.edu/chemeng/phd-chemical-engineering",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-31",
+      "value": "Fall priority deadline for PhD financial aid consideration is December 31, 2026 (final Fall deadline May 1, 2027 per CCNY).",
+      "quote": "The ChE Ph.D program priority deadline for Fall: December 31st.",
+      "url": "https://www.ccny.cuny.edu/chemeng/phd-chemical-engineering",
+      "inferred": "year",
+      "time_sensitive": "2026-12-31",
+      "also": [
+        {
+          "quote": "Fall- December 31st (PhD Financial Aid priority) | Fall - May 1st",
+          "url": "https://www.ccny.cuny.edu/admissions/graduate-programs-and-deadlines"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE General Test is no longer required for admission to the Chemical Engineering PhD program.",
+      "quote": "The GRE is no longer required for admission into the ChE PhD program.",
+      "url": "https://www.ccny.cuny.edu/chemeng/phd-chemical-engineering"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for Chemical Engineering (ETS offers Subject Tests only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "CCNY's Chemical Engineering admissions page specifies TOEFL iBT 79-80 (4.5 updated scale), PTE 53, or Duolingo 100 (an older department page lists 73 iBT).",
+      "quote": "Minimum Language Test Scores: 79-80 (TOEFL IBT), 4.5 (TOEFL updated scale), 6.5 (IELTS), 53 (PTE) or 100 (Duolingo)",
+      "url": "https://www.ccny.cuny.edu/admissions/chemical-engineering",
+      "also": [
+        {
+          "quote": "Minimum TOEFL Scores: 533 (PBT), 73 (IBT)",
+          "url": "https://www.ccny.cuny.edu/chemeng/phd-chemical-engineering"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic band score is 6.5.",
+      "quote": "Minimum Language Test Scores: 79-80 (TOEFL IBT), 4.5 (TOEFL updated scale), 6.5 (IELTS), 53 (PTE) or 100 (Duolingo)",
+      "url": "https://www.ccny.cuny.edu/admissions/chemical-engineering"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants are admitted to the department as a whole and choose a field of study or professor's group in their first term.",
+      "quote": "No, applicants are admitted to the Chemical Engineering Department as a whole. A prospective student must first apply to the program, be accepted, then in their first term in the program, choose a particular field of study or professor's group.",
+      "url": "https://www.ccny.cuny.edu/chemeng/phd_faq"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Five-year CCNY/GSOE fellowships ($41,331 annual stipend, health benefits, and full tuition) are available on a competitive basis alongside outside funding.",
+      "quote": "The program provides a 5-year CCNY Fellowship which includes a $41,331 stipend per year, health benefits, and full tuition for in-state and out-of-state residents. In addition, outside funding is available. The programs are prestigious and highly competitive.",
+      "url": "https://www.ccny.cuny.edu/engineering/phd"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Open to applicants holding an accredited bachelor's degree (or foreign equivalent); up to 30 graduate transfer credits may be accepted from prior master's study.",
+      "quote": "Graduate study is open to qualified students who possess a bachelor’s degree from an accredited U.S. college or university or the equivalent from a foreign institution and an adequate background in the field of study that they wish to pursue.",
+      "url": "https://www.ccny.cuny.edu/admissions/gradstep2requirements",
+      "also": [
+        {
+          "quote": "The school allows a maximum of 30 transfer credits.",
+          "url": "https://www.ccny.cuny.edu/chemeng/phd_faq"
+        }
+      ]
+    }
+  },
+  "notes": "61 total credits required. Admissions summary page lists 79-80 TOEFL iBT while the ChE PhD department page lists 73 iBT.",
+  "name": "Ph.D. in Chemical Engineering"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "umassboston--cs",
+  "university": "umassboston",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://www.umb.edu/academics/program-finder/computer-science-phd/",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-15",
+      "value": "Apply by June 15, 2027 for Fall admission (November 1 for Spring admission).",
+      "quote": "Deadlines: June 15 for fall, November 1 for spring",
+      "url": "https://www.umb.edu/academics/program-finder/computer-science-phd/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Official GRE scores are required for Computer Science PhD admission.",
+      "quote": "Applicants must meet general graduate admission requirements in addition to the following program-specific requirements: | Official GRE score",
+      "url": "https://www.umb.edu/academics/program-finder/computer-science-phd/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for Computer Science.",
+      "quote": "Official GRE score",
+      "url": "https://www.umb.edu/academics/program-finder/computer-science-phd/",
+      "also": [
+        {
+          "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+          "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Department of Computer Science does not state whether a faculty advisor must be contacted prior to applying.",
+      "quote": "",
+      "url": "https://www.umb.edu/academics/program-finder/computer-science-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate teaching and research assistantships are assigned by the department ($25,865 stipend + 100% tuition waiver for a 1.0 FTE TA/RA in AY 2026-27).",
+      "quote": "These positions are assigned by the student's department/program and are subject to the agreement between UMass Boston and UAW/Graduate Employees Organization (GEO). | Full Assistantship | 18.00 | 1.00 | $1,293.25 | $25,865.00 | 100%",
+      "url": "https://www.umb.edu/admissions/graduate-students/graduate-students-assistantships/"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants must hold at least a bachelor's degree from a regionally accredited institution with a minimum 3.0 undergraduate GPA.",
+      "quote": "A minimum, cumulative GPA of 3.0 on a 4.0 scale (or international equivalent) in all undergraduate work | A bachelor's degree from a regionally accredited U.S. institution of recognized standing or an international equivalent at the time of enrollment",
+      "url": "https://www.umb.edu/academics/program-finder/computer-science-phd/"
+    }
+  },
+  "notes": ""
+}

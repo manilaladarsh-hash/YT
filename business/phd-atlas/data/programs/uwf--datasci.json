@@ -1,0 +1,68 @@
+{
+  "id": "uwf--datasci",
+  "university": "uwf",
+  "field": "datasci",
+  "also_fields": [
+    "cs",
+    "ece",
+    "mech"
+  ],
+  "department": "Department of Intelligent Systems and Robotics",
+  "program_page": "https://uwf.edu/programs/hmcse/intelligent-systems-robotics-phd/",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-31",
+      "value": "Fall application and supporting-documents deadline is March 31 (March 31, 2027 inferred for Fall 2027; Spring is October 31; Summer has no admission). International F-1 applicants must meet the earlier of the program deadline (March 31) and the University international Fall deadline (May 1); earlier deadlines may apply for graduate assistantships.",
+      "quote": "Intelligent Systems & Robotics Ph.D. Semester Application Deadlines Fall Semester Spring Semester Summer Semester March 31 October 31 No Admission | Earlier deadlines may apply for graduate assistantships. | International students planning to study on campus with an F-1 visa must fulfill all application requirements by both the program deadline and International Graduate Admissions deadline, whichever comes first, to allow time for visa processing.",
+      "url": "https://uwf.edu/programs/hmcse/intelligent-systems-robotics-phd/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Official UWF sources conflict for Intelligent Systems & Robotics, Ph.D.: the 2026-2027 Graduate Catalog states GRE submission is optional (70th percentile preferred if submitted), whereas the Graduate Admissions Test Requirements page lists 'GRE' and the program webpage states 'Submission of the Graduate Record Exam (GRE). Attainment at the 70% percentile is preferred.' without stating it is optional.",
+      "quote": "",
+      "url": "https://catalog.uwf.edu/graduate/phd/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Intelligent Systems & Robotics / AI / Computing; ETS offers Subject Tests only in Mathematics, Physics, and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The personal statement asks for names of UWF and IHMC faculty with whom you are interested in working, an Admissions Committee reviews files and may interview applicants, and participants are matched with an IHMC research leader; however, official pages do not state whether prior faculty contact or pre-application supervisor agreement is required, recommended, or optional.",
+      "quote": "",
+      "url": "https://catalog.uwf.edu/graduate/phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "UWF offers competitive assistantships commensurate with education and experience (minimum $17.25/hr effective July 6, 2025 for 10-20 hrs/wk, 0.25-0.50 FTE), awarded by academic departments and renewable across semesters subject to position and funds rather than guaranteed. Assistantships at >=0.25 FTE include an out-of-state tuition waiver; in-state matriculation waivers are partial/not guaranteed and mandatory fees remain the student's responsibility. Non-native-English GTAs need TOEFL Listening >= 23.",
+      "quote": "UWF offers competitive assistantships for this program, commensurate with education and experience.",
+      "url": "https://uwf.edu/programs/hmcse/intelligent-systems-robotics-phd/",
+      "also": [
+        {
+          "quote": "The academic departments are responsible for awarding these assistantships to high-performing graduate students. | Effective July 6, 2025, the minimum hourly rate is $17.25. | All graduate assistants who are classified as non-Florida residents receive this award.",
+          "url": "https://uwf.edu/offices/graduate-studies/tuition-funding/assistantships/"
+        },
+        {
+          "quote": "These tuition remissions apply only to a portion of in-state tuition. The student is still responsible for the remaining balance of tuition and fees.",
+          "url": "https://uwf.edu/offices/graduate-studies/tuition-funding/tuition-waivers/"
+        },
+        {
+          "quote": "A matriculation waiver may be available for the position but it is not guaranteed. | Although each assistantship is subject to termination at the end of the semester, students may continue the same assistantship for multiple semesters if the department or office has a position and appropriate funds.",
+          "url": "https://uwf.edu/media/university-of-west-florida/graduate/Department-Graduate-Assistantship-Handbook-2025---Oct-2025-Working-Doc.docx.pdf"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Accepts applicants with a master's degree in Computer Science, Mathematics, Engineering, Physics, or a similar technical degree (42 semester hours total), and also considers bachelor's candidates with strong relevant industrial experience (51 semester hours total including 9 sh of post-bachelor coursework); minimum 3.0 institutional GPA (well above minimum typical).",
+      "quote": "Hold a master's degree in Computer Science, Mathematics, Engineering, Physics, or a similar technical degree. Bachelor’s candidates with strong relevant industrial experience will be considered. | Completion of 18 or 30 semester hours for candidates entering the program with an approved master's or bachelor's degree, respectively.",
+      "url": "https://catalog.uwf.edu/graduate/phd/"
+    }
+  },
+  "notes": "Joint Ph.D. in Intelligent Systems & Robotics (CIP 11.0102, Artificial Intelligence) offered by UWF Hal Marcus College of Science and Engineering and the Florida Institute for Human and Machine Cognition (IHMC). Requires >=3.0 GPA, CV, personal statement (addressing faculty of interest and whether self-supported or needing an assistantship), 3 signed LORs on official letterhead (at least 1 academic), and possible interview. GRE General conflict: https://catalog.uwf.edu/graduate/phd/ says 'Submission of the Graduate Record Exam (GRE) is optional.' while https://uwf.edu/graduate/apply/test-requirements-for-admission/ lists 'GRE' and https://uwf.edu/programs/hmcse/intelligent-systems-robotics-phd/ omits 'is optional'.",
+  "name": "Intelligent Systems & Robotics, Ph.D."
+}

@@ -1,0 +1,66 @@
+{
+  "id": "tamuk--biology",
+  "university": "tamuk",
+  "field": "biology",
+  "also_fields": [
+    "environment"
+  ],
+  "department": "Department of Rangeland and Wildlife Sciences",
+  "program_page": "https://catalog.tamuk.edu/graduate/graduate-studies/doctoral-agriculture-natural-resources/wildlife-rangeland-science-phd/",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-01",
+      "value": "International graduate admissions Fall deadline is June 1, 2027, though funded Caesar Kleberg Wildlife Research Institute (CKWRI) Ph.D. assistantships recruit on separate project timelines throughout the year.",
+      "quote": "Fall applications must be submitted by June 1",
+      "url": "https://www.tamuk.edu/enrollment-management/admission/graduate/international.html",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "The position is open and will remain open until an appropriate candidate is found.",
+          "url": "https://www.ckwri.tamuk.edu/current-openings/strategies-and-technologies-enhance-habitat-restoration-degraded-rangelands"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics, and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must secure the agreement of a TAMUK faculty member to direct their dissertation research prior to admission.",
+      "quote": "Students must also have the agreement of a faculty member at Texas A&M University-Kingsville to direct the dissertation research.",
+      "url": "https://catalog.tamuk.edu/graduate/graduate-studies/doctoral-agriculture-natural-resources/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Students are commonly supported via competitive Caesar Kleberg Wildlife Research Institute (CKWRI) fellowships and graduate research assistantships (recent Ph.D. postings list $2,500/month stipends plus benefits, nonresident tuition waiver, and partial or up to $12,000/year resident tuition assistance).",
+      "quote": "Dissertation research hours in WSCI program permit graduate students to remain full time enrolled while working on research project and maintain graduate research assistantship support.",
+      "url": "https://catalog.tamuk.edu/graduate/graduate-studies/doctoral-agriculture-natural-resources/wildlife-rangeland-science-phd/",
+      "also": [
+        {
+          "quote": "$2,500/mth plus benefits (medical package available after completion of waiting period). Nonresident tuition is waived (resident tuition and fees apply). Assistance of resident-tuition fees will be provided up to but not exceeding $12,000/year.",
+          "url": "https://www.ckwri.tamuk.edu/current-openings/population-dynamics-north-pacific-albatrosses"
+        },
+        {
+          "quote": "$2,000/month for M.S., $2,500/month for Ph.D., plus benefits (medical package available after completion of waiting period). Nonresident tuition is waived (resident tuition and fees apply). Partial resident tuition fee assistance may be provided based on availability of funds.",
+          "url": "https://www.ckwri.tamuk.edu/current-openings/strategies-and-technologies-enhance-habitat-restoration-degraded-rangelands"
+        },
+        {
+          "quote": "The Institute offers mutilple graduate student fellowships. These positions are offered as they become available.",
+          "url": "https://www.ckwri.tamuk.edu/about/prospective-students"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A Master of Science degree is normally required, though an exceptional B.S. graduate (>3.5 science and overall GPA with a journal-submitted undergraduate thesis or equivalent research/agency experience) may bypass the M.S. via faculty petition.",
+      "quote": "Students must hold the Master of Science degree | For M.S. bypass upon admission, the faculty member proposing to hire a Ph.D. student without an M.S. degree should provide a letter to the Department Chair in support of the request.",
+      "url": "https://catalog.tamuk.edu/graduate/graduate-studies/doctoral-agriculture-natural-resources/"
+    }
+  },
+  "notes": "Administered by the Department of Rangeland and Wildlife Sciences in close partnership with the Caesar Kleberg Wildlife Research Institute (CKWRI). Mapped to biology with environment in also_fields because TAMUK also offers a dedicated Environmental Engineering, Ph.D.",
+  "name": "Wildlife and Rangeland Science, Ph.D."
+}

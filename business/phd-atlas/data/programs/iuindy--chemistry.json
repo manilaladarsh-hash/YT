@@ -1,0 +1,55 @@
+{
+  "id": "iuindy--chemistry",
+  "university": "iuindy",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry and Chemical Biology (School of Science)",
+  "program_page": "https://science.indianapolis.iu.edu/chemistry/admissions/apply.html",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Apply by January 15, 2027 for full consideration for departmental fellowships and financial support for Fall entry.",
+      "quote": "To ensure your application receives complete consideration for departmental fellowships and other financial support, all materials for full-time study should be completed by January 15 for entry in the following fall semester.",
+      "url": "https://science.indianapolis.iu.edu/chemistry/admissions/apply.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "The GRE General Test is optional.",
+      "quote": "The Graduate Record Examination general test is optional.",
+      "url": "https://science.indianapolis.iu.edu/chemistry/admissions/apply.html"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS discontinued the Chemistry GRE Subject Test; the department notes that a chemistry subject score is not required.",
+      "quote": "The chemistry exam is not required but will be considered if a score is submitted.",
+      "url": "https://science.indianapolis.iu.edu/chemistry/admissions/apply.html",
+      "also": [
+        {
+          "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+          "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Department of Chemistry and Chemical Biology does not state whether a faculty advisor must be contacted before applying.",
+      "quote": "",
+      "url": "https://science.indianapolis.iu.edu/chemistry/admissions/apply.html"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All full-time Ph.D. students in good standing receive financial support through teaching or research assistantships, fellowships, scholarships, and fee remissions.",
+      "quote": "We offer support to all full-time Ph.D. graduate students in good standing through teaching assistantships, research assistantships, fellowships, scholarships, and fee remissions.",
+      "url": "https://science.indianapolis.iu.edu/chemistry/admissions/fin-aid-scholarships/index.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants with a baccalaureate degree in chemistry or a related discipline may apply directly to the 90-credit-hour Ph.D. program.",
+      "quote": "To apply to our master's or Ph.D. program, you should have a baccalaureate degree from an accredited institution, show promise of ability to engage in advanced work, and have completed at least 35 credit hours of chemistry broadly representative of the fields of the discipline in a chemistry curriculum.",
+      "url": "https://science.indianapolis.iu.edu/chemistry/admissions/apply.html"
+    }
+  },
+  "notes": ""
+}

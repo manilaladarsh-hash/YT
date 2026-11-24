@@ -1,0 +1,53 @@
+{
+  "id": "umdearborn--mech",
+  "university": "umdearborn",
+  "field": "mech",
+  "also_fields": [
+    "bme",
+    "materials"
+  ],
+  "department": "Department of Mechanical Engineering",
+  "program_page": "https://umdearborn.edu/academics/program/mechanical-sciences-and-engineering-phd",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Strict Fall 2027 deadline: January 15, 2027 (program page also lists August 1 for Winter, though the Graduate Catalog states Fall-only admission).",
+      "quote": "This program operates on a strict deadline. All application and materials must be submitted by January 15 for Fall consideration and August 1 for Winter consideration.",
+      "url": "https://umdearborn.edu/academics/program/mechanical-sciences-and-engineering-phd",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Mechanical Engineering, Bioengineering, or Materials Science (ETS offers Subject Tests only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Individual CECS departments review applications for admission; students work with a research advisor and dissertation committee after admission.",
+      "quote": "Each student is guided by a research advisor and a dissertation committee and must pass the following major milestones:",
+      "url": "https://catalog.umd.umich.edu/graduate/college-engineering-computer-science/mechanical-sciences-engineering/",
+      "also": [
+        {
+          "quote": "Individual CECS departments review all applications for program admission requirements and make decisions on each applicant.",
+          "url": "https://umdearborn.edu/cecs/graduate-programs/admissions"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "All Ph.D. MSE students receive full funding via GSI and/or GSRA appointments (monthly stipend, health insurance, and tuition waiver) guaranteed for up to 5 years with good standing.",
+      "quote": "To lessen financial concerns, all PhD students receive full funding in the form of appointments as a graduate student instructor, a research assistant, or both. The appointments provide a monthly stipend, health insurance, and a tuition waiver. Students are guaranteed full funding for up to five years provided they maintain good academic standing and adequate progress toward their degree.",
+      "url": "https://umdearborn.edu/academics/program/mechanical-sciences-and-engineering-phd"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Admits exceptional applicants with a bachelor's or master's degree in engineering, applied math, computer science, or physical science (36 coursework + 24 dissertation credits for direct B.S. entrants, including an embedded M.S.E. in Mechanical Engineering or Bioengineering).",
+      "quote": "The Ph.D. program is highly selective and offers admission to exceptional students who have completed a Bachelor's or Master's degree in engineering, applied math, computer science, or physical science. | Direct Ph.D. students, who are admitted with a Bachelor’s degree in mechanical engineering or a closely related field, but without a relevant Master’s degree. Students of this group must complete no fewer than 36 credit hours of coursework, 30 of which allow them to earn an embedded MSE in mechanical engineering or bioengineering.",
+      "url": "https://catalog.umd.umich.edu/graduate/college-engineering-computer-science/mechanical-sciences-engineering/"
+    }
+  },
+  "notes": "Rackham Ph.D. in Mechanical Sciences and Engineering covering core mechanical/thermo-fluid sciences as well as explicit interfaces with bioengineering (embedded M.S.E. option) and materials sciences (mapped to mech with also_fields=['bme', 'materials']). Note: program page and deadlines table list January 15 (Fall) and August 1 (Winter), whereas the 2026-2027 Graduate Catalog states 'All admissions are for the Fall term only.' Separate Industrial and Systems Engineering Ph.D. is noted on umdearborn.json; D.Eng. in Automotive Systems and Mobility is excluded.",
+  "name": "Mechanical Sciences and Engineering, Ph.D."
+}

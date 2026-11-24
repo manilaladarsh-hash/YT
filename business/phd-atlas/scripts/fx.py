@@ -15,7 +15,9 @@ import requests
 ROOT = Path(__file__).resolve().parent.parent
 SERIES = {"USD": "FXUSDCAD", "GBP": "FXGBPCAD", "EUR": "FXEURCAD", "CHF": "FXCHFCAD",
           "INR": "FXINRCAD", "SEK": "FXSEKCAD", "NOK": "FXNOKCAD",
-          "AUD": "FXAUDCAD", "NZD": "FXNZDCAD"}
+          "AUD": "FXAUDCAD", "NZD": "FXNZDCAD", "SGD": "FXSGDCAD",
+          "HKD": "FXHKDCAD", "JPY": "FXJPYCAD", "KRW": "FXKRWCAD",
+          "TWD": "FXTWDCAD", "PLN": "FXPLNCAD"}
 URL = "https://www.bankofcanada.ca/valet/observations/" + ",".join(SERIES.values()) + "/json?recent=1"
 
 

@@ -1,0 +1,53 @@
+{
+  "id": "unmc",
+  "institution": "University of Nebraska Medical Center",
+  "country": "USA",
+  "region": "Nebraska",
+  "grad_page": "https://www.unmc.edu/gradstudies/admissions/steps-to-admission/index.html",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "Standard Graduate Studies application fee is $60 USD non-refundable ($0 for IGPBS PhD programs).",
+      "quote": "$60 Application Fee: The fee is non-refundable | $0-IGPBS Application Fee: Refer to section below the Interdisciplinary Graduate Program in Biomedical Sciences Application for more information.",
+      "url": "https://www.unmc.edu/gradstudies/admissions/steps-to-admission/index.html"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No general Graduate Studies application fee waiver policy is stated outside IGPBS (which charges $0 to all applicants).",
+      "quote": "",
+      "url": "https://www.unmc.edu/gradstudies/admissions/steps-to-admission/index.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "GRE General requirements vary by program (not required for IGPBS PhD programs).",
+      "quote": "",
+      "url": "https://catalog.unmc.edu/graduate-studies/admission/",
+      "also": [
+        {
+          "quote": "The GRE may be required for admission to certain programs.",
+          "url": "https://catalog.unmc.edu/graduate-studies/admission/"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "85",
+      "value": "Graduate Studies minimum is 85 on TOEFL iBT (4.5 band score on the new 1–6 scale); IGPBS PhD programs require 95 overall (20 minimum per section; 5.0 new scale).",
+      "quote": "For the TOEFL, a score of at least 85 on the old internet-based exam or a minimum band score of 4.5 on the new internet-based exam is required. ... Some graduate programs may require higher minimum scores.",
+      "url": "https://catalog.unmc.edu/graduate-studies/admission/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Graduate Studies minimum is IELTS Academic 6.5 overall; IGPBS PhD programs require 7.0 overall.",
+      "quote": "The minimum acceptable IELTS band score is 6.5. ... Some graduate programs may require higher minimum scores.",
+      "url": "https://catalog.unmc.edu/graduate-studies/admission/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not exempt, and English as the language of instruction at a foreign university does not qualify for a waiver unless you studied at a U.S. university (1+ academic year) or in a country where English is the only official language.",
+      "quote": "You may be exempt from the English proficiency requirement if you have been studying at a university inside the U.S. for at least one academic year or attending a university in a country where the only official language is English, such as U.K., Australia or Canada (excluding Quebec). ... Evaluation for a waiver of the English language proficiency exam is not determined by the prevalence of spoken English in a country or the language of instruction at a university.",
+      "url": "https://www.unmc.edu/gradstudies/admissions/international-students/english-proficiency.html"
+    }
+  },
+  "notes": "Health-science campus (Omaha, NE): research covers biomed and neuro (both via IGPBS); UNMC does not offer standalone PhDs in biomedical engineering or biology."
+}

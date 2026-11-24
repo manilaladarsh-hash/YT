@@ -1,0 +1,59 @@
+{
+  "id": "afit",
+  "institution": "Air Force Institute of Technology Graduate School of Engineering & Management",
+  "country": "USA",
+  "region": "Ohio",
+  "grad_page": "https://www.afit.edu/ADMISSIONS/",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "Not stated",
+      "value": "Not stated on the Office of Admissions HTML pages (the Graduate School catalog PDF on afit.edu/scholar.afit.edu could not be fetched under strict TLS / download restrictions).",
+      "quote": "",
+      "url": "https://www.afit.edu/ADMISSIONS/"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Not stated on the Office of Admissions HTML pages checked.",
+      "quote": "",
+      "url": "https://www.afit.edu/ADMISSIONS/"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE scores are required for doctoral applicants (standard minimum 156 Verbal and 160 Quantitative within 5 years, though case-by-case waivers are considered; aeronautical/astronautical/space/structural materials require 166Q).",
+      "quote": "Minimum GRE scores of 156 verbal and 160 quantitative or minimum GMAT scores of 650, as applicable to the program requested.",
+      "url": "https://www.afit.edu/ADMISSIONS/page.cfm?page=2092",
+      "also": [
+        {
+          "quote": "Doctoral and IDE students cannot be admitted without GRE scores, however those scores are waiverable, and thus a score lower than 550 verbal and/or 650 quantitative will not automatically disqualify any applicant.",
+          "url": "https://www.afit.edu/ADMISSIONS/page.cfm?page=22201"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "4.5 (new scale)",
+      "value": "Minimum TOEFL score of 4.5 on the 0-6 scale (exams on or after Jan 21, 2026) or 76 on the 0-120 scale (exams before Jan 21, 2026), unless exempted by DSAA/DSCA.",
+      "quote": "A minimum TOEFL score of 76 on the 0-120 scale (exams taken before January 21, 2026) or 4.5 on the 0-6 scale (exams taken on or after January 21, 2026) is required.",
+      "url": "https://www.afit.edu/ADMISSIONS/page.cfm?page=22201"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "Not stated on AFIT Admissions or International Military Student Office pages; only TOEFL scores are specified.",
+      "quote": "",
+      "url": "https://www.afit.edu/ADMISSIONS/page.cfm?page=22201"
+    },
+    "english_waiver": {
+      "code": "Check tool",
+      "value": "TOEFL is required except for countries exempted by the Defense Security Assistance Agency / Defense Security Cooperation Agency (DSAA/DSCA); the web pages do not publish the country list directly, so applicants must verify country exemption via IMSO or the U.S. Embassy SAO.",
+      "quote": "The Test of English as Foreign Language (TOEFL) is required except for those countries exempted by the Defense Security Assistance Agency (DSAA).",
+      "url": "https://www.afit.edu/ADMISSIONS/page.cfm?page=22201",
+      "also": [
+        {
+          "quote": "The Test of English as Foreign Language (TOEFL), unless exempted by the Defense Security Cooperation Agency (DSCA).",
+          "url": "https://www.afit.edu/IMSO/page.cfm?page=332"
+        }
+      ]
+    }
+  },
+  "notes": "Eligibility restriction: Admission to AFIT's Graduate School of Engineering and Management is restricted to U.S. military personnel, DoD civilian employees, DoD contractors, critical infrastructure employees, and international military officers or government civilian employees sponsored by their respective governments (who apply through their home country's Training Command via the U.S. Security Assistance Office at the U.S. Embassy and AFIT/IMSO); general self-funded international civilians cannot finalize admission. ETS institution code: 1827."
+}

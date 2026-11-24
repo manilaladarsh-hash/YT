@@ -1,0 +1,71 @@
+{
+  "id": "cmich--materials",
+  "university": "cmich",
+  "field": "materials",
+  "also_fields": [
+    "chemistry",
+    "physics"
+  ],
+  "department": "Science of Advanced Materials (Interdisciplinary Program)",
+  "program_page": "https://www.cmich.edu/academics/colleges/college-science-engineering/departments-schools/science-of-advanced-materials",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "February 1, 2027 for Fall admission and priority Graduate Assistantship consideration (Bulletin also notes rolling review when requested by a SAM faculty advisor).",
+      "quote": "Submit all materials by Feb. 1 for consideration for Fall admission.",
+      "url": "https://www.cmich.edu/academics/colleges/college-science-engineering/departments-schools/science-of-advanced-materials",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Priority consideration for graduate assistantships: Feb. 1",
+          "url": "https://www.cmich.edu/program/science-of-advanced-materials-phd"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional in SAM Ph.D. admissions.",
+      "quote": "Transcripts of previous undergraduate and graduate studies, optional GRE scores, a statement of research interests and letters of recommendation will be used in evaluating candidates for admission.",
+      "url": "https://www.cmich.edu/academics/colleges/college-science-engineering/departments-schools/science-of-advanced-materials"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers no GRE Subject Test in Materials Science (Subject Tests exist only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must contact a participating SAM faculty member first, be sponsored by a faculty advisor willing to accept them, and applications are reviewed only upon written request of a SAM faculty advisor.",
+      "quote": "First, contact a faculty member you’d like to work with. Your application must be sponsored by a participating faculty member who is willing to take you into his or her research program.",
+      "url": "https://www.cmich.edu/academics/colleges/college-science-engineering/departments-schools/science-of-advanced-materials",
+      "also": [
+        {
+          "quote": "Applications will only be considered upon the specific written request of a SAM faculty advisor.",
+          "url": "https://cmich.smartcatalogiq.com/en/2025-2026/graduate-bulletin/colleges-and-departments/interdepartmental-and-interdisciplinary-programs/science-of-advanced-materials-ph-d/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Priority consideration for graduate assistantships (stipend plus tuition waiver) is February 1; assistantships are awarded via participating departments and research grants.",
+      "quote": "Priority consideration for graduate assistantships: Feb. 1",
+      "url": "https://www.cmich.edu/program/science-of-advanced-materials-phd",
+      "also": [
+        {
+          "quote": "Graduate assistant positions provide a stipend as well as a tuition waiver.",
+          "url": "https://www.cmich.edu/graduate/cost-financial-aid/graduate-assistant-opportunities"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "A Master's degree in physics, chemistry, biochemistry, biology, geology, engineering, mathematics, or another relevant science is required for entry (minimum 60 graduate credits beyond bachelor's with up to 15 transfer credits).",
+      "quote": "Students may enter the program with diverse backgrounds, but a Master's degree in a relevant field is required.",
+      "url": "https://cmich.smartcatalogiq.com/en/2025-2026/graduate-bulletin/colleges-and-departments/interdepartmental-and-interdisciplinary-programs/science-of-advanced-materials-ph-d/"
+    }
+  },
+  "notes": "Interdisciplinary 60-credit-hour Ph.D. in Science of Advanced Materials combining physics, chemistry, engineering, and materials characterization/modeling.",
+  "name": "Ph.D. in Science of Advanced Materials"
+}

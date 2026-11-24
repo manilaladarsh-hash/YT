@@ -1,0 +1,53 @@
+{
+  "id": "uthsc",
+  "institution": "The University of Tennessee Health Science Center",
+  "country": "USA",
+  "region": "Tennessee",
+  "grad_page": "https://www.uthsc.edu/graduate-health-sciences/programs/index.php",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "0 (no fee)",
+      "value": "The UTHSC College of Graduate Health Sciences charges no application fee.",
+      "quote": "Students may apply online. There is no application fee.",
+      "url": "https://www.uthsc.edu/graduate-health-sciences/programs/index.php"
+    },
+    "fee_waiver": {
+      "code": "No fee",
+      "value": "No application fee waiver is needed because College of Graduate Health Sciences programs have no application fee.",
+      "quote": "Students may apply online. There is no application fee.",
+      "url": "https://www.uthsc.edu/graduate-health-sciences/programs/index.php"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "College of Graduate Health Sciences baseline requires a revised GRE combined verbal + quantitative score of at least 300, though individual PhD programs waive or make the GRE optional (see program entries).",
+      "quote": "Admission as a regular student requires a bachelor’s degree or its equivalent with an undergraduate grade point average (GPA) of at least 3.0 (on a 4.0 scale) from an accredited college or university and a revised Graduate Record Examinations (GRE) combined score totaling at least 300 for verbal and quantitative sections.",
+      "url": "https://catalog.uthsc.edu/content.php?catoid=53&navoid=5469"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "The College of Graduate Health Sciences requires a minimum TOEFL iBT score of 79.",
+      "quote": "The College of Graduate Health Sciences requires an Internet-Based exam TOEFL score of 79.",
+      "url": "https://www.uthsc.edu/admissions/international-students.php",
+      "also": [
+        {
+          "quote": "a score of at least 213/79 on the computer-based/Internet-based TOEFL or 6.5 on the IELTS",
+          "url": "https://www.uthsc.edu/graduate-health-sciences/programs/index.php"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "The College of Graduate Health Sciences requires an IELTS score of at least 6.5 (alternative to TOEFL 79).",
+      "quote": "a score of at least 213/79 on the computer-based/Internet-based TOEFL or 6.5 on the IELTS",
+      "url": "https://www.uthsc.edu/graduate-health-sciences/programs/index.php"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Exemption applies only to applicants whose first language is not English who earned a bachelor's or master's degree in the United States, Canada, Great Britain, or Australia (English-speaking countries); degrees from India are not exempt.",
+      "quote": "Any applicant whose first language is not English and who has earned neither a bachelor’s nor a master’s degree from a college or university in the United States, Canada, Great Britain, or Australia must have achieved a TOEFL score of at least 79 (earned within 2 years prior to application) to be admitted. Any applicant whose first language is not English but who has earned a baccalaureate or master’s degree from a college or university in the United States, Canada, Great Britain, or Australia, may be exempted from the requirement for the TOEFL.",
+      "url": "https://catalog.uthsc.edu/content.php?catoid=53&navoid=5469"
+    }
+  },
+  "notes": "UTHSC health-science campus. Only PhD programs in STEM health-science scope are Biomedical Sciences (including the Neuroscience concentration) and the Joint Program in Biomedical Engineering with the University of Memphis."
+}

@@ -1,0 +1,69 @@
+{
+  "id": "ccny--civil",
+  "university": "ccny",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil Engineering",
+  "program_page": "https://www.ccny.cuny.edu/civileng/phd-program",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Financial aid priority deadline is February 1, 2027; final Fall deadline is May 1, 2027.",
+      "quote": "For Fall: May 1st | For Financial Aid Priority Consideration: February 1st",
+      "url": "https://www.ccny.cuny.edu/civileng/phd-program",
+      "inferred": "year",
+      "time_sensitive": "2027-02-01"
+    },
+    "gre_general": {
+      "code": "Recommended",
+      "value": "The general GRE is recommended for Civil Engineering PhD applicants (not strictly required per CCNY admissions).",
+      "quote": "The general Graduate Record Examination is recommended.",
+      "url": "https://www.ccny.cuny.edu/civileng/phd-program",
+      "also": [
+        {
+          "quote": "GRE Required: Recommended, but not required",
+          "url": "https://www.ccny.cuny.edu/admissions/civil-engineering"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for Civil Engineering (ETS offers Subject Tests only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Minimum TOEFL iBT 79-80 (4.5 updated scale); PTE 53 and Duolingo 100 are also accepted.",
+      "quote": "Minimum Language Test Scores: 79-80 (TOEFL IBT), 4.5 (TOEFL updated scale), 6.5 (IELTS), 53 (PTE), 100 (Duolingo)",
+      "url": "https://www.ccny.cuny.edu/admissions/civil-engineering"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic band score is 6.5.",
+      "quote": "Minimum Language Test Scores: 79-80 (TOEFL IBT), 4.5 (TOEFL updated scale), 6.5 (IELTS), 53 (PTE), 100 (Duolingo)",
+      "url": "https://www.ccny.cuny.edu/admissions/civil-engineering"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the Civil Engineering PhD pages checked.",
+      "quote": "",
+      "url": "https://www.ccny.cuny.edu/civileng/phd-program"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Five-year CCNY/GSOE fellowships ($41,331 annual stipend, health benefits, and full tuition) are available on a competitive basis alongside outside funding.",
+      "quote": "The program provides a 5-year CCNY Fellowship which includes a $41,331 stipend per year, health benefits, and full tuition for in-state and out-of-state residents. In addition, outside funding is available. The programs are prestigious and highly competitive.",
+      "url": "https://www.ccny.cuny.edu/engineering/phd"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Applicants with either a bachelor's or master's degree in Civil Engineering or a closely related field are eligible; master's holders may transfer up to 30 credits.",
+      "quote": "To be eligible for admission, an applicant must possess a bachelor's or master's degree in Civil Engineering or in a closely related area appropriate to the intended field of study from an accredited institution.",
+      "url": "https://www.ccny.cuny.edu/civileng/phd-program"
+    }
+  },
+  "notes": "Specializations: Structural Engineering and Mechanics, Water Resources Environmental Engineering, Transportation.",
+  "name": "Ph.D. in Civil Engineering"
+}

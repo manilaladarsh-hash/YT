@@ -1,0 +1,56 @@
+{
+  "id": "afit--cs",
+  "university": "afit",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Electrical and Computer Engineering",
+  "program_page": "https://www.afit.edu/EN/programs.cfm?a=view&D=12",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-30",
+      "value": "International military/government packages must arrive at AFIT/IMSO by April 30, 2027 for September 2027 entrance; year-round applications should be submitted at least 3 months before desired enrollment.",
+      "quote": "Application packages for eligibility evaluation should arrive at the IMSO no later than 30 April of each year in preparation for entrance the following September.",
+      "url": "https://www.afit.edu/ADMISSIONS/page.cfm?page=22201",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "AFIT applications are processed year-round, however, you should submit your application at least three months prior to the date you wish to enroll.",
+          "url": "https://www.afit.edu/ADMISSIONS/page.cfm?page=460"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers no GRE Subject Test in Computer Science (Subject Tests exist only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated on the Computer Science PhD page.",
+      "quote": "",
+      "url": "https://www.afit.edu/EN/programs.cfm?a=view&D=12"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Students assigned full-time by the Department of the Air Force or military organizations in a fully-sponsored capacity incur no tuition liability; all other students are responsible for tuition ($434.00/credit hour in 2026-2027) unless supported by their home government via U.S. Embassy SAO, DAGSI scholarships, or research assistantships.",
+      "quote": "All other students are responsible for their financial obligations, including tuition. | DAGSI scholarships are the major source of financial aid for non-DoD civilian students. However, other grants and scholarships may be sourced and used by the student. Research assistantships are also available.",
+      "url": "https://www.afit.edu/ADMISSIONS/page.cfm?page=447",
+      "also": [
+        {
+          "quote": "International military officers are asked to contact United States (U.S.) Security Assistance Office (SAO) at the U.S. Embassy in their home country to determine if their government will support studies at AFIT's Graduate School of Engineering and Management.",
+          "url": "https://www.afit.edu/ADMISSIONS/page.cfm?page=22201"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Master's usually required",
+      "value": "Requires an M.S. in a relevant area with an accredited B.S. in Computer Science (3.50 MS GPA, 3.00 BS GPA; case-by-case waivers possible).",
+      "quote": "Degree Required: MS in relevant area, with accredited BS in Computer Science",
+      "url": "https://www.afit.edu/EN/programs.cfm?a=view&D=12"
+    }
+  },
+  "notes": "In-residence Ph.D. in Computer Science covering AI, cyber defense/attack/forensics, cryptography, high performance computing, robotics, and software engineering.",
+  "name": "Ph.D. in Computer Science"
+}

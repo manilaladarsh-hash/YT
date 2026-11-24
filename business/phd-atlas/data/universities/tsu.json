@@ -1,0 +1,71 @@
+{
+  "id": "tsu",
+  "institution": "Texas Southern University",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://tsu.edu/academics/colleges-and-schools/graduate-school/admission-requirements-deadlines.php",
+  "checked": "2026-11-14",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "Non-refundable graduate application fee is $75 for international applicants ($50 for domestic applicants).",
+      "quote": "Please be sure to mail the application fee of $50 ($75 for international applicants), check or money order payable to Texas Southern University, to the address above.",
+      "url": "https://tsu.edu/academics/colleges-and-schools/graduate-school/admission-requirements-deadlines.php",
+      "also": [
+        {
+          "quote": "$50/- Non-Refundable Application Fee ($75/- For International Applicants), payable To Texas Southern University",
+          "url": "https://tsu.edu/faqs/graduate-admission.php"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Graduate School admission pages do not state an application fee waiver policy and state that no applications will be processed without payment of the application fee.",
+      "quote": "",
+      "url": "https://tsu.edu/academics/colleges-and-schools/graduate-school/admission-requirements-deadlines.php"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "Official GRE General Test scores (within 5 years of application) are required for all doctoral programs at Texas Southern University.",
+      "quote": "Please note that while all doctoral level programs require a GRE some Masters level programs do not require the GRE.",
+      "url": "https://tsu.edu/academics/colleges-and-schools/graduate-school/admission-requirements-deadlines.php",
+      "also": [
+        {
+          "quote": "Applicants for all Doctoral programs at TSU must submit official GRE Scores as part of their application.",
+          "url": "https://tsu.edu/faqs/graduate-admission.php"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Minimum TOEFL iBT score of 79 (or 550 paper-based / 213 computer-based); Duolingo 105 is also accepted per the Graduate Catalog.",
+      "quote": "If the applicant is an international student a TOEFL score of at least 550 on the paper based test or 213 on the computer based test or 79 on the Internet based test is required.",
+      "url": "https://catalog.tsu.edu/graduate/admission-requirements/admission-enrollment/",
+      "also": [
+        {
+          "quote": "TOEFL with minimum score of 79",
+          "url": "https://catalog.tsu.edu/graduate/admission-requirements/"
+        }
+      ]
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "Minimum IELTS Academic overall band score of 6.0 (accepted in lieu of TOEFL).",
+      "quote": "An official IELTS score can be submitted in lieu of TOEFL in which case a minimum overall band score of 6.0 is required.",
+      "url": "https://catalog.tsu.edu/graduate/admission-requirements/admission-enrollment/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "An English-medium degree from India does not waive TOEFL/IELTS; exemptions require a U.S. accredited degree or high school diploma, an approved ESL program, or native citizenship from listed countries (India is omitted).",
+      "quote": "International applicants also need to submit official TOEFL (Test of English as a Foreign Language) score if the applicant’s native language is not English, unless the applicant has received an undergraduate degree from a U.S. college or university.",
+      "url": "https://tsu.edu/faqs/graduate-admission.php",
+      "also": [
+        {
+          "quote": "Speak English as their native language. This exemption refers to students from Australia, the Bahamas, Belize, the British Isles, England, New Zealand, English-speaking Canadian provinces, the Fiji Islands, Jamaica, Sierra Leone, South Africa, Ghana, Gambia, Liberia, the Virgin Islands, the West Indies, Trinidad, Zimbabwe, Kenya, Nigeria, Wales, Ireland, Scotland, Switzerland, Holland, France, Germany, Sweden, and Norway.",
+          "url": "https://tsu.edu/admissions/international/index.php"
+        }
+      ]
+    }
+  },
+  "notes": "Graduate catalog lists 4 Ph.D. programs: Pharmaceutical Sciences, Environmental Toxicology, Urban Planning and Environmental Policy (School of Public Affairs, excluded), and Administration of Justice (non-STEM, excluded), plus Ed.D./Pharm.D./J.D. International applicants must also submit a course-by-course transcript evaluation and affidavit of support; GRE Analytical Writing >= 3.5 or ENGL 501 after admission."
+}

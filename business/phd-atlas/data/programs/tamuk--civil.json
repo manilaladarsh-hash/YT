@@ -1,0 +1,62 @@
+{
+  "id": "tamuk--civil",
+  "university": "tamuk",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Civil and Architectural Engineering",
+  "program_page": "https://www.tamuk.edu/engineering/departments/caen/graduate/index.html",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-06-01",
+      "value": "International graduate application deadline for Fall entry is June 1, 2027 (apply earlier for assistantship/fellowship consideration; financial aid priority deadline is January 15).",
+      "quote": "Fall applications must be submitted by June 1",
+      "url": "https://www.tamuk.edu/enrollment-management/admission/graduate/international.html",
+      "inferred": "year"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The Department of Civil and Architectural Engineering explicitly states that an application fee is required and cannot be waived.",
+      "quote": "An application fee is required. We are unable to waive the application fee.",
+      "url": "https://www.tamuk.edu/engineering/departments/caen/graduate/index.html"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "Effective Summer 2024 onwards, the Frank H. Dotterweich College of Engineering does not require the GRE for graduate admissions (superseding older departmental catalog/webpage text).",
+      "quote": "effective Summer 2024 onwards | GRE: GRE is not required for admissions.",
+      "url": "https://www.tamuk.edu/engineering/deansoffice/Graduate-Admission-Requirements.html"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for this field; ETS offers Subject Tests only in Mathematics, Physics, and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Contacting faculty is recommended; direct B.S.-to-Ph.D. entry requires a faculty member willing to advise the student (otherwise admission is conditional on earning an M.S. first).",
+      "quote": "Must have faculty willing to advise the student; otherwise he/she would be provisionally admitted into the Ph.D. program with a condition that they obtain a M.S. degree.",
+      "url": "https://catalog.tamuk.edu/graduate/graduate-studies/doctoral-engineering/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Applicants are automatically evaluated for fellowships by the College of Graduate Studies, and limited departmental research and teaching assistantships are available (supplemented by PI grant funding).",
+      "quote": "The College of Graduate Studies automatically evaluates graduate applicants for fellowship opportunities. Limited research and teaching assistantship positions exist through the department, as well.",
+      "url": "https://www.tamuk.edu/engineering/departments/caen/graduate/index.html",
+      "also": [
+        {
+          "quote": "Departments may have limited teaching assistantships available to support Ph.D. students. Research assistantship funding, if any, is at the discretion of the grant Principal Investigator and/or the major advisor.",
+          "url": "https://catalog.tamuk.edu/graduate/graduate-studies/doctoral-engineering/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may enter after an M.S. degree (63 credit hours) or directly after a B.S. degree (93 credit hours).",
+      "quote": "This doctoral program requires 63 credit hours for students who have previously completed an M.S. degree. Students who have completed only a B.S. may be admitted directly into the Ph.D. in Engineering program but will need to complete 93 credit hours.",
+      "url": "https://www.tamuk.edu/engineering/departments/caen/graduate/index.html"
+    }
+  },
+  "notes": "Civil Engineering specialization within the college-wide Engineering, Ph.D.",
+  "name": "Engineering, Ph.D. (Civil Engineering)"
+}

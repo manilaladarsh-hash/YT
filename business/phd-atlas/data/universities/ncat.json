@@ -1,0 +1,53 @@
+{
+  "id": "ncat",
+  "institution": "North Carolina A&T State University",
+  "country": "USA",
+  "region": "North Carolina",
+  "grad_page": "https://www.ncat.edu/tgc/apply/international-applicants.php",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "60 USD",
+      "value": "International graduate applicants pay a non-refundable $60 application processing fee.",
+      "quote": "Application fee ($60, non-refundable)",
+      "url": "https://www.ncat.edu/tgc/apply/international-applicants.php"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "No general financial-need fee waiver is offered; waivers are restricted to McNair, Gates Millennium, GEM Consortium, NACME, MARC-USTAR, and LSAMP participants, active-duty U.S. military, and N.C. A&T employees.",
+      "quote": "All applicants are required to submit an application fee for admission. The following categories of individuals may seek waiver by ensuring that the listed documents are emailed to the Graduate College at N.C. A&T. ... McNair Scholar: Copy of participation letter from your undergraduate McNair Program | GEM Consortium Scholar/Applicant: Inform Graduate College at N.C. A&T at time of application via separate email",
+      "url": "https://www.ncat.edu/admissions/graduate/admission-requirements.php"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "The Graduate College sets no universal GRE requirement and defers to each doctoral program (most Engineering and CAES Ph.D.s require GRE scores, whereas Bioengineering does not require GRE and AST/Nanoengineering list GRE as optional).",
+      "quote": "",
+      "url": "https://www.ncat.edu/tgc/apply/international-applicants.php"
+    },
+    "toefl_min": {
+      "code": "80",
+      "value": "Minimum TOEFL iBT score is 80 (valid within two years; Duolingo 115 and PTE Academic 75 are also accepted).",
+      "quote": "TOEFL (minimum score: 80 internet-based)",
+      "url": "https://www.ncat.edu/tgc/apply/international-applicants.php"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "Minimum IELTS score is 6.0 (valid within two years).",
+      "quote": "IELTS (minimum score: 6.0)",
+      "url": "https://www.ncat.edu/tgc/apply/international-applicants.php"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "English proficiency exemption applies only to degrees from a U.S. institution or countries on N.C. A&T's published exempt list; India is not on the 83-country list, so Indian degrees do not waive the test.",
+      "quote": "The following applicants are exempt from the English Language Proficiency requirement: | Applicant submits a transcript with conferred equivalent to U.S. bachelor's, master's, doctorate or professional degree from an accredited college or university located in a country with English as an official language and the language of instruction in higher education (see list of countries here); or",
+      "url": "https://www.ncat.edu/admissions/graduate/admission-requirements.php",
+      "also": [
+        {
+          "quote": "Countries with English as Official Language and Language of Instruction | 32. Hong Kong | 33. Ireland",
+          "url": "https://www.ncat.edu/admissions/graduate/countries-with-english-as-official-language-and-language-of-instruction.php"
+        }
+      ]
+    }
+  },
+  "notes": "Located in Greensboro, NC (Carnegie R2). International transcripts require an English translation and a course-by-course evaluation from SpanTran (The Evaluation Company), WES, or ECE. General Graduate College Fall priority funding deadline is January 15 (AST Ph.D. is Nov 1 priority / Dec 3 regular; Nanoengineering is Feb 1 departmental priority); general international Fall deadline is May 15. Doctoral GTA funding model provides at least $20,000 for 9 months plus full tuition and health insurance for 1-2 years, funded for a portion of qualified students. Non-STEM doctoral programs at N.C. A&T include Applied Psychology, Counselor Education & Supervision, Criminal Justice, DNP, Industrial & Systems Engineering, Leadership Studies, and Social Work."
+}

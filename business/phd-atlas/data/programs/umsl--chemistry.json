@@ -1,0 +1,71 @@
+{
+  "id": "umsl--chemistry",
+  "university": "umsl",
+  "field": "chemistry",
+  "also_fields": [],
+  "department": "Department of Chemistry and Biochemistry",
+  "program_page": "https://www.umsl.edu/chemistry/degrees-and-programs/phd.html",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-21",
+      "value": "International Fall admission deadline is February 21 (Domestic Fall: July 1; International Spring: September 1; Domestic Spring: December 1).",
+      "quote": "International Applicants: Fall - February 21",
+      "url": "https://www.umsl.edu/gradschool/gradprograms/profiles/doc/phd-chemistryprofile.pdf",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Chemistry Ph.D. | Application Deadlines | Domestic - Fall - July 1 | International - Fall - February 21",
+          "url": "https://www.umsl.edu/gradschool/gradprograms/doctoral.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE General Test is not required for Chemistry Ph.D. admission, though scores may enhance the application.",
+      "quote": "The GRE General Test is not required but may enhance your application.",
+      "url": "https://www.umsl.edu/gradschool/gradprograms/profiles/doc/phd-chemistryprofile.pdf"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers GRE Subject Tests only in Mathematics, Physics, and Psychology (none in this field).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Chemistry Ph.D. department, Bulletin, and Graduate School profile pages do not state a pre-application supervisor requirement.",
+      "quote": "",
+      "url": "https://www.umsl.edu/chemistry/degrees-and-programs/phd.html"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Graduate Assistantships for entering August/January Ph.D. students are currently funded at $21,000 per year plus a Graduate School tuition scholarship for graduate coursework (department webpage prints legacy 'in excess of $18,000'; support not normally beyond year 5).",
+      "quote": "Graduate Assistantships, for those entering the Ph.D. program in either August or January, are presently funded $21,000. | A tuition scholarship for graduate coursework is provided by the Graduate School.",
+      "url": "https://www.umsl.edu/gradschool/gradprograms/profiles/doc/phd-chemistryprofile.pdf",
+      "also": [
+        {
+          "quote": "Graduate Assistantships, for those entering the PhD program in either August or January, are presently in excess of $18,000.",
+          "url": "https://www.umsl.edu/chemistry/degrees-and-programs/phd.html"
+        },
+        {
+          "quote": "Teaching assistantships are available to qualified applicants. Research assistantships and fellowships are available for advanced students. Departmental support is not normally available beyond the fifth year in the program.",
+          "url": "https://bulletin.umsl.edu/programs/chemistry-phd/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Requires at least a bachelor's degree with above-average chemistry, physics, and math background (minimum 3.0 GPA); applicants with bachelor's or master's degrees may enter (master's coursework reduces post-MS credit requirements).",
+      "quote": "Applicants must have at least a baccalaureate degree with above-average performance in all areas of chemistry as well as physics and mathematics | Minimum GPA of 3.0 on 4.0 scale",
+      "url": "https://www.umsl.edu/gradschool/gradprograms/profiles/doc/phd-chemistryprofile.pdf",
+      "also": [
+        {
+          "quote": "Individuals with at least the equivalent of the B.A. degree in the natural sciences may be admitted to the Graduate School as candidates for the M.S. degree or as precandidates for the Ph.D. degree in chemistry.",
+          "url": "https://bulletin.umsl.edu/programs/chemistry-phd/"
+        }
+      ]
+    }
+  },
+  "notes": "Ph.D. in Chemistry covers Biochemistry, Organic, Inorganic, and Physical Chemistry (60 credit hours minimum). International Fall deadline is Feb 21 vs July 1 for domestic applicants; Graduate School profile PDF states $21,000 GA stipend (vs legacy '$18,000' on department overview)."
+}

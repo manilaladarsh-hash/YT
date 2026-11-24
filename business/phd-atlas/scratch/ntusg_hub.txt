@@ -1,0 +1,7 @@
+
+STDERR:
+usage: research.py [-h] [--kw KW] [--window WINDOW] [--per-kw PER_KW]
+                   [--context CONTEXT] [--refresh] [--render] [--profile]
+                   [--max MAX] [--links LINKS]
+                   urls [urls ...]
+research.py: error: argument --links: expected one argument

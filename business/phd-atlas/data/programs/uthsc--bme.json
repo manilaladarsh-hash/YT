@@ -1,0 +1,73 @@
+{
+  "id": "uthsc--bme",
+  "university": "uthsc",
+  "field": "bme",
+  "also_fields": [],
+  "department": "Joint Graduate Program in Biomedical Engineering (UTHSC / University of Memphis)",
+  "program_page": "https://www.uthsc.edu/graduate-health-sciences/programs/bme.php",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-05-15",
+      "inferred": "year",
+      "value": "Fall application deadline is May 15 (rolling review; apply early for financial aid consideration).",
+      "quote": "Deadline: May 15",
+      "url": "https://www.uthsc.edu/graduate-health-sciences/programs/bme.php",
+      "also": [
+        {
+          "quote": "The deadline for submitting applications for Fall semester admissions is May 15.",
+          "url": "https://www.memphis.edu/bme/graduate-students.php"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The 2026-2027 UTHSC Academic Bulletin and Joint Program admissions page state that the GRE is not required.",
+      "quote": "The GRE is not required.",
+      "url": "https://catalog.uthsc.edu/preview_program.php?catoid=53&poid=4486&print",
+      "also": [
+        {
+          "quote": "The GRE is not required.",
+          "url": "https://www.memphis.edu/bme/graduate-students.php"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for biomedical engineering, and the GRE is not required.",
+      "quote": "The GRE is not required.",
+      "url": "https://catalog.uthsc.edu/preview_program.php?catoid=53&poid=4486&print",
+      "also": [
+        {
+          "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+          "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants are encouraged to contact faculty on both the UTHSC and UofM campuses and are aligned with a faculty advisor upon admission.",
+      "quote": "Applicants are encouraged to contact faculty on both campuses to learn about areas of research that are of interest to them and their career goals. When admitted, students are aligned with a faculty advisor on either the UofM or UTHSC campus.",
+      "url": "https://www.memphis.edu/bme/graduate-students.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "A limited number of Graduate Research Assistantships (stipend, tuition waiver, and health insurance) and Herff fellowships are awarded competitively; financial aid is often separate from admission.",
+      "quote": "During the first, and in some cases part of the second, year of study, The University of Tennessee Health Science Center provides a limited number of GRA appointments with stipends to qualified students; these are generally accompanied by a waiver of tuition and payment of the student’s health insurance premium for up to six years of study.",
+      "url": "https://catalog.uthsc.edu/content.php?catoid=53&navoid=5472",
+      "also": [
+        {
+          "quote": "Apply early for the most chance for the available financial aid.",
+          "url": "https://www.uthsc.edu/medicine/orthopaedic-surgery/bme/apply.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Admission requires a bachelor's degree (or equivalent) with at least a 3.0 GPA; students are usually admitted initially as thesis-based MS students followed by the Ph.D.",
+      "quote": "Admission as a full-time student requires a bachelor’s degree or its equivalent with an undergraduate grade point average of at least 3.0 from an accredited college or university.",
+      "url": "https://catalog.uthsc.edu/preview_program.php?catoid=53&poid=4486&print"
+    }
+  },
+  "notes": "Joint Graduate Program in Biomedical Engineering with The University of Memphis. Degree is awarded jointly; one campus serves as the administrative site based on the faculty advisor. Applying via UofM lists TOEFL 80 / IELTS 6.5."
+}

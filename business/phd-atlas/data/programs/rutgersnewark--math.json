@@ -1,0 +1,45 @@
+{
+  "id": "rutgersnewark--math",
+  "university": "rutgersnewark",
+  "field": "math",
+  "also_fields": [
+    "datasci"
+  ],
+  "department": "Department of Mathematics and Computer Science",
+  "program_page": "https://sasn.rutgers.edu/phd-mathematical-sciences",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-03-01",
+      "value": "Fall 2027 deadline is March 1, 2027 for non-U.S. applicants (June 1, 2027 for U.S. applicants).",
+      "quote": "Fall 2027 Jun 1, 2027 Mar 1, 2027",
+      "url": "https://grad.admissions.rutgers.edu/GraduateProgram/Detail.aspx?id=a501U0000004gNSQAY"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The Mathematical Sciences Ph.D. page does not state a GRE Subject Test in Mathematics requirement.",
+      "quote": "",
+      "url": "https://sasn.rutgers.edu/phd-mathematical-sciences"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Mathematical Sciences Ph.D. page does not state whether a supervisor must be secured before admission.",
+      "quote": "",
+      "url": "https://sasn.rutgers.edu/phd-mathematical-sciences"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "The Mathematical Sciences Ph.D. page does not state funding or assistantship guarantees.",
+      "quote": "",
+      "url": "https://sasn.rutgers.edu/phd-mathematical-sciences"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students may enter with a bachelor's degree (typically spending two years on coursework before qualifying exams) or with an advanced degree where equivalent coursework may be waived.",
+      "quote": "Individuals entering with a bachelor's degree normally spend their first two years in coursework and in preparation for the Ph.D. qualifying examination. | The above course requirements can be waived, however, for students with advanced degrees who have completed equivalent coursework.",
+      "url": "https://sasn.rutgers.edu/phd-mathematical-sciences"
+    }
+  },
+  "notes": "Ph.D. in Mathematical Sciences curriculum is formally divided into two options: pure mathematics and data science (including machine learning and AI training), so also_fields includes datasci.",
+  "name": "Ph.D. in Mathematical Sciences"
+}

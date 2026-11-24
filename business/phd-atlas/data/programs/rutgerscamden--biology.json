@@ -1,0 +1,62 @@
+{
+  "id": "rutgerscamden--biology",
+  "university": "rutgerscamden",
+  "field": "biology",
+  "also_fields": [],
+  "department": "Center for Computational and Integrative Biology",
+  "program_page": "https://ccib.camden.rutgers.edu/doctoral/",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Fall Ph.D. main review cycle application deadline is February 15 (Early Decision January 15 is limited to internal CCIB/Rutgers-Camden M.S. candidates). Year 2027 is inferred.",
+      "quote": "Main Review Cycle (February 15 deadline): This is the main application deadline.",
+      "url": "https://ccib.camden.rutgers.edu/programs/graduate-program/for-prospective-students/",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Preference is given to those submitted before the deadline for both decisions and funding opportunities.",
+          "url": "https://graduateschool.camden.rutgers.edu/computational-and-integrative-biology-m-s-and-ph-d/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE General scores are not required for Computational and Integrative Biology Ph.D. admissions.",
+      "quote": "The GRE is not required for MS or PhD admissions.",
+      "url": "https://ccib.camden.rutgers.edu/programs/graduate-program/for-prospective-students/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS does not offer a GRE Subject Test in Computational and Integrative Biology (Biological Sciences).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Pre-admission faculty advisor matching is not required; incoming Ph.D. students complete a semester-long rotation through three labs and confirm a primary advisor by the end of the first semester.",
+      "quote": "You do not need to have a research advisor until the end of your first semester, and CCIB has many activities to help you make this choice, including prospective visit day, orientation, and a semester-long rotation through three labs.",
+      "url": "https://ccib.camden.rutgers.edu/programs/graduate-program/for-prospective-students/"
+    },
+    "funding": {
+      "code": "Typical",
+      "value": "Most Ph.D. students receive funding covering tuition, fees (including health insurance), and a stipend via Teaching Assistantships (TA) or Graduate Assistantships (GA), typically available for five years.",
+      "quote": "Most PhD students are provided funding which covers their tuition, fees (including health insurance), and a stipend. In exchange, the student is expected to perform duties as either a Teaching Assistant (TA) or a Graduate research assistant (GA).",
+      "url": "https://ccib.camden.rutgers.edu/programs/graduate-program/for-prospective-students/",
+      "also": [
+        {
+          "quote": "Typically, support for students in the form of Teaching Assistantships and Graduate Assistantships is available for five years.",
+          "url": "https://ccib.camden.rutgers.edu/doctoral/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Students enter the Ph.D. program directly with a bachelor's or master's degree in biology, chemistry, computer science, engineering, mathematics, physics, or a related field.",
+      "quote": "Students enter the PhD program with Bachelor’s or Master’s degrees in biology, chemistry, computer science, engineering, mathematics, physics, or a related field.",
+      "url": "https://ccib.camden.rutgers.edu/programs/graduate-program/for-prospective-students/"
+    }
+  },
+  "notes": "Interdisciplinary quantitative/computational and experimental biology Ph.D. (70 credits) spanning faculty from Biology, Chemistry, Computer Science, Mathematics, and Physics. CCIB FAQ notes minimum legacy TOEFL 70 for enrollment (higher proficiency usually needed for TA funding lines), while stating the program has no role in determining Graduate School TOEFL rules.",
+  "name": "Ph.D. in Computational and Integrative Biology"
+}

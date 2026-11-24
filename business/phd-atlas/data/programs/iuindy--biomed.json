@@ -1,0 +1,61 @@
+{
+  "id": "iuindy--biomed",
+  "university": "iuindy",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Indiana BioMedical Gateway (IBMG) Program (IU School of Medicine)",
+  "program_page": "https://medicine.iu.edu/graduate-degrees/phd/indianapolis",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Priority application deadline is November 1, 2026; final application deadline is December 1, 2026 for Fall admission.",
+      "quote": "The priority deadline is Nov. 1, and the final deadline is Dec. 1.",
+      "url": "https://medicine.iu.edu/graduate-degrees/phd/indianapolis/admissions/faq",
+      "inferred": "year",
+      "also": [
+        {
+          "quote": "Final deadline: Dec. 1",
+          "url": "https://medicine.iu.edu/graduate-degrees/phd/indianapolis/admissions"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE General Test is not required for IBMG biomedical Ph.D. admission.",
+      "quote": "GRE* - NOT Required",
+      "url": "https://medicine.iu.edu/graduate-degrees/phd/indianapolis/admissions"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for the biomedical sciences, and the GRE is not required.",
+      "quote": "GRE* - NOT Required",
+      "url": "https://medicine.iu.edu/graduate-degrees/phd/indianapolis/admissions",
+      "also": [
+        {
+          "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+          "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Applicants do not need to secure a faculty mentor before applying; admitted students complete three 8-week lab rotations in Year 1 before selecting a dissertation lab.",
+      "quote": "While we ask about faculty and research areas of interest as part of the application, you do not need to secure a faculty mentor before applying. | Admitted students then complete three eight-week-long rotations (one during the fall semester then two during the spring semester). At the end of the first year, students select a lab and one of the doctoral degrees.",
+      "url": "https://medicine.iu.edu/graduate-degrees/phd/indianapolis/admissions/faq"
+    },
+    "funding": {
+      "code": "Guaranteed",
+      "value": "Admitted Ph.D. students eligible to work in the U.S. receive a guaranteed research fellowship with a $38,000 annual stipend (2026-27), full tuition and mandatory fee coverage, and health and dental insurance.",
+      "quote": "PhD students eligible to work in the United States receive a research fellowship, which includes an annual stipend ($38,000 for the 2026-27 academic year) without a TA requirement. Additionally, the research fellowship covers tuition and mandatory fees and provides health and dental insurance coverage. This aid continues throughout the doctoral education as long as the student maintains a GPA at or above 3.0 and makes adequate academic progress toward the degree.",
+      "url": "https://medicine.iu.edu/graduate-degrees/phd/indianapolis"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants may enter with a bachelor's degree in the sciences; undergraduate and graduate degrees are considered in holistic review.",
+      "quote": "Factors considered may include personal statement, supplemental questions, CV/resume, research and overall knowledge and experience, research accomplishments, resiliency, maturity, leadership and persistence, quality and nature of coursework, undergraduate and graduate degrees held, undergraduate and graduate GPA(s), letters of recommendation, scores on standardized tests (TOEFL, IELTS, or other proof of English Proficiency) and interview(s). | A bachelor's degree in the sciences is strongly recommended.",
+      "url": "https://medicine.iu.edu/graduate-degrees/phd/indianapolis/admissions"
+    }
+  },
+  "notes": "Shared first-year gateway (IBMG) for Ph.D. programs in Anatomy, Cell Biology and Physiology; Biochemistry and Molecular Biology; Medical and Molecular Genetics; Medical Neuroscience; Microbiology and Immunology; Musculoskeletal Health; Pathology; and Pharmacology and Toxicology."
+}

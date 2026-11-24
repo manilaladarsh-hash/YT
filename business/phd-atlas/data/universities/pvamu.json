@@ -1,0 +1,53 @@
+{
+  "id": "pvamu",
+  "institution": "Prairie View A&M University",
+  "country": "USA",
+  "region": "Texas",
+  "grad_page": "https://www.pvamu.edu/graduateschool/applying-admissions/international-admissions/",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "50 USD",
+      "value": "Graduate applicants pay a non-refundable $50 application fee via ApplyTexas or Panthers Marketplace ($15 late fee if paid past deadline).",
+      "quote": "A completed online application for admission to Graduate School (https://apply.pvamu.edu/apply/) or (www.goapplytexas.org) and payment of a $50 non-refundable application fee.",
+      "url": "https://www.pvamu.edu/graduateschool/applying-admissions/international-admissions/"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "Graduate School application fee waivers are not available.",
+      "quote": "Are application fee waivers available? | Application fee waivers are not available.",
+      "url": "https://www.pvamu.edu/graduateschool/about-the-graduate-school/faq/"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required for PVAMU graduate or STEM Ph.D. admissions (only the non-STEM Ph.D. in Juvenile Justice requires GRE).",
+      "quote": "Is the GRE required for admission? | The only program that requires GRE scores is the Ph.D. in Juvenile Justice. It is important to review the specific admission requirements for the program you are applying to, as they may vary.",
+      "url": "https://www.pvamu.edu/graduateschool/about-the-graduate-school/faq/"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Minimum TOEFL score is 79 iBT (or 550 paper-based); Duolingo is also accepted as an alternative.",
+      "quote": "As part of the application process, all students must present a minimum score of 550 on the paper-based (pBT) and a minimum score of 79 on the internet-based (iBT) Test of English as a Foreign Language (TOEFL) administered by the Educational Testing Service in Princeton, NJ.",
+      "url": "https://www.pvamu.edu/graduateschool/applying-admissions/international-admissions/"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "Minimum IELTS score is 6.0 per Graduate School International Admissions and Academic Catalog (Global Engagement page cites 6.5).",
+      "quote": "International applicants may also submit results from the International English Language Testing System (IELTS) with a minimum score of 6.0.",
+      "url": "https://www.pvamu.edu/graduateschool/applying-admissions/international-admissions/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "TOEFL/IELTS exemption is limited to graduates of a U.S. secondary school or qualifying ACT English (18) / SAT Verbal (400) scores, or applicants from countries where English is the official language; Indian university degrees do not automatically waive the test.",
+      "quote": "Any student who graduated from a secondary education institution in the United States or who earned a score of 18 on the English Section of the ACT or a 400 on the Verbal component of the SAT is exempt from the TOEFL.",
+      "url": "https://www.pvamu.edu/graduateschool/applying-admissions/international-admissions/",
+      "also": [
+        {
+          "quote": "If from a country where English is not the official language there are international applicant English proficiency requirements: | TOEFL: 550 paper; 79 internet-based; IELTS: 6.0",
+          "url": "https://catalog.pvamu.edu/admissionsinformationandrequirements/applytograduateschool/"
+        }
+      ]
+    }
+  },
+  "notes": "Located in Prairie View, TX (Texas A&M University System; Carnegie R2). Foreign degrees require a course-by-course evaluation from a NACES member organization (e.g., WES, ECE, or SpanTran/TEC). PVAMU offers six doctoral programs total, of which only Electrical Engineering Ph.D. falls within the 18 STEM Atlas fields (non-STEM doctorates are Clinical Adolescent Psychology Ph.D., Educational Leadership Ph.D., Juvenile Justice Ph.D., DBA, and DNP)."
+}

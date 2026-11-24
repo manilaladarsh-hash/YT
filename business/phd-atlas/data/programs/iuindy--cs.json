@@ -1,0 +1,55 @@
+{
+  "id": "iuindy--cs",
+  "university": "iuindy",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Luddy School of Informatics, Computing, and Engineering (Computer Science)",
+  "program_page": "https://luddy.indianapolis.iu.edu/academics/phd/computer-science/index.html",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Apply by January 15, 2027 for Fall admission (August 15 for Spring admission).",
+      "quote": "Application Deadlines | January 15 for the following Fall semester | Bioinformatics | Computer Science | Data Science | Health Informatics | Human-Computer Interaction | Information Science",
+      "url": "https://luddy.indianapolis.iu.edu/admissions/graduate/phd.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "Taking the GRE General Test is optional for Computer Science Ph.D. candidates.",
+      "quote": "Taking the Graduate Record Examination (GRE) General Test (Quantitative, Verbal, and Analytical Writing) is optional for candidates.",
+      "url": "https://luddy.indianapolis.iu.edu/admissions/graduate/phd.html"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for Computer Science.",
+      "quote": "Taking the Graduate Record Examination (GRE) General Test (Quantitative, Verbal, and Analytical Writing) is optional for candidates.",
+      "url": "https://luddy.indianapolis.iu.edu/admissions/graduate/phd.html",
+      "also": [
+        {
+          "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+          "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The Luddy School does not state whether a faculty advisor must be secured prior to applying.",
+      "quote": "",
+      "url": "https://luddy.indianapolis.iu.edu/admissions/graduate/phd.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Qualified full-time Ph.D. applicants who apply by the deadline are automatically considered for Ph.D. fellowships that include tuition reimbursement and a monthly stipend.",
+      "quote": "We offer fellowships to qualified, full-time Ph.D. students. To be automatically considered for a fellowship, Ph.D. applicants must submit their application by the deadline. Ph.D. fellowships include tuition reimbursement and a monthly stipend for work with a graduate faculty member.",
+      "url": "https://luddy.indianapolis.iu.edu/cost-financial-aid/graduate-scholarships.html"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants must hold a bachelor's degree (master's degree preferred) with a minimum 3.5 GPA.",
+      "quote": "Computer Science | A bachelor's degree; master's preferred | Overall GPA of 3.5 or higher on a 4.0 scale",
+      "url": "https://luddy.indianapolis.iu.edu/admissions/graduate/phd.html"
+    }
+  },
+  "notes": ""
+}

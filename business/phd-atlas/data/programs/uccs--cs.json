@@ -1,0 +1,88 @@
+{
+  "id": "uccs--cs",
+  "university": "uccs",
+  "field": "cs",
+  "also_fields": [],
+  "department": "Department of Computer Science",
+  "program_page": "https://eas.uccs.edu/academics/programs/computer-science-phd",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-01",
+      "value": "Fall 2027 application deadline is February 1, 2027 (Spring 2027: October 1, 2026; Summer starts not accepted). Note: most scholarships and fellowships go to Fall applicants; Graduate School First-Year Fellowship nominations close February 15.",
+      "quote": "Fall 2027: February 1, 2027 | This program admits students for the Fall and Spring terms. Summer starts are not accepted.",
+      "url": "https://graduateschool.uccs.edu/academics",
+      "time_sensitive": "2027-02-15",
+      "also": [
+        {
+          "quote": "International students applying for the program should have all application materials into the Admissions Office at UCCS by February 1 for Fall Semester and by October 1 for Spring Semester. | Most scholarships and fellowships are given to Fall applicants, not Spring applicants.",
+          "url": "https://eas.uccs.edu/academics/programs/computer-science-phd"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "All GRE General sections are required for international applicants with at least 148 Quantitative; waived only for U.S. ABET CS bachelor's graduates (>= 3.0 GPA) or U.S. R1/R2 master's graduates (>= 3.0 GPA).",
+      "quote": "All sections of the Graduate Record Examination (GRE) are required, with at least 148 on the quantitative portion, unless one of the following conditions is satisfied: The applicant has a bachelor’s degree with a GPA of 3.0 or above from an ABET-accredited Computer Science or a closely related program from within the U.S. The applicant has a master’s degree in Computer Science or a closely related field with a GPA of 3.0 or above from an R1 or R2 institution from within the U.S.",
+      "url": "https://eas.uccs.edu/academics/programs/computer-science-phd",
+      "also": [
+        {
+          "quote": "GRE: required, unless completed bachelor's degree with GPA of 3.0 or above from an ABET-accredited Comp Sci program or related program in the U.S. OR a master's degree with GPA of 3.0 or above from an R1 or R2 institution in the U.S.",
+          "url": "https://graduateschool.uccs.edu/academics"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Computer Science (ETS offers Subject Tests only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Computer Science specifies English proficiency waivers only for completing a degree in the U.S., so an English-medium degree from India requires TOEFL (80 / 4.5 new scale), IELTS (6.5), or Duolingo (115).",
+      "quote": "A TOEFL score of 80 of higher, an ILETS of 6.5 or higher, or a Duolingo exam score of 115 will be required for proof of English Proficiency. If the student has completed a degree in the US, this requirement may be waived.",
+      "url": "https://eas.uccs.edu/academics/programs/computer-science-phd"
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admission is decided by the PhD committee rather than an individual advisor's prior commitment, and students may begin qualifying exams before selecting an advisor; however, applicants must name 1-3 potential CS faculty advisors and justify fit in their goal/personal statement.",
+      "quote": "The PhD committee will review all applicants for admission | Complete a personal statement and within that personal statement name a potential advisor and justify your choice.",
+      "url": "https://eas.uccs.edu/academics/programs/computer-science-phd",
+      "also": [
+        {
+          "quote": "The examining committee will be organized by the advisor if identified by the student, or by the program director if the advisor has not been chosen by the student.",
+          "url": "https://eas.uccs.edu/graduate-programs/computer-science-phd/graduation-requirements"
+        },
+        {
+          "quote": "Also include in your goal statement the three faculty member's names that you selected on page 4 and describe why you feel they would be a good fit for you as your advisor.",
+          "url": "https://graduateschool.uccs.edu/academics"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Funding is competitive rather than guaranteed: students can apply directly to the department for RA/TA positions, which can pair with Graduate School Tuition Matching Grants (up to $8,000/yr) or competitive Graduate School PhD Grants (up to $26,000/yr) and First-Year Fellowships ($6,000/yr, mainly Fall admits).",
+      "quote": "For financial aid consideration, we encourage you to apply as soon as possible. Most scholarships and fellowships are given to Fall applicants, not Spring applicants.",
+      "url": "https://eas.uccs.edu/academics/programs/computer-science-phd",
+      "also": [
+        {
+          "quote": "Research/Teaching Assistantships may be available, and are used for requesting financial assistance from the department - please contact the department directly for the RA/TA application.",
+          "url": "https://eas.uccs.edu/future-student-resources/how-to-apply"
+        },
+        {
+          "quote": "Awards in any amount of up to $26,000 per year, or $13,000 per semester, may be processed by the Office of Financial Aid. | Resident and nonresident graduate students, including international students, are eligible for this grant.",
+          "url": "https://graduateschool.uccs.edu/fellowships-scholarships"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Admits holders of a bachelor's or master's degree in CS or a closely related field with >= 3.3 GPA and prerequisite math/CS coursework; bachelor's entrants may earn an M.S. along the way to the 60-credit Ph.D.",
+      "quote": "The student holds a bachelor's degree in computer science or a master's degree in computer science or closely related field from a college or university of recognized standing. A student who is admitted without a master's degree may earn that degree as a part of the Ph.D. studies.",
+      "url": "https://eas.uccs.edu/academics/programs/computer-science-phd"
+    }
+  },
+  "notes": "Covers both Computer Science, Ph.D. and the Department of Computer Science's companion Cybersecurity, Ph.D. (Security, Ph.D.; https://eas.uccs.edu/academics/programs/security-phd), which shares the same February 1 Fall deadline, GRE General (>= 148Q, same U.S. waiver rules), TOEFL 80 / IELTS 6.5 / Duolingo 115 (US-degree waiver), >= 3.3 GPA, 60-credit structure, and BS-or-MS entry route (plus a 3-month operational security internship/publication/CISSP requirement). Graduate School table lists 4.5 on the post-1/21/2026 TOEFL 1-6 scale (80 prior).",
+  "name": "Computer Science, Ph.D. (and Cybersecurity, Ph.D.)"
+}

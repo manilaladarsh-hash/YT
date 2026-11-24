@@ -1,0 +1,61 @@
+{
+  "id": "umassboston--physics",
+  "university": "umassboston",
+  "field": "physics",
+  "also_fields": [],
+  "department": "Department of Physics (Applied Physics PhD)",
+  "program_page": "https://www.umb.edu/academics/program-finder/applied-physics-phd/",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-02-15",
+      "value": "Apply by February 15, 2027 for Fall admission (November 1 for Spring admission).",
+      "quote": "Deadlines: February 15 for fall; November 1 for spring",
+      "url": "https://www.umb.edu/academics/program-finder/applied-physics-phd/",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The GRE is required for Applied Physics PhD applicants.",
+      "quote": "The GRE is required.",
+      "url": "https://www.umb.edu/academics/program-finder/applied-physics-phd/"
+    },
+    "gre_subject": {
+      "code": "Not stated",
+      "value": "The program states that the GRE is required but does not specify whether the Physics GRE Subject Test is required.",
+      "quote": "",
+      "url": "https://www.umb.edu/academics/program-finder/applied-physics-phd/",
+      "also": [
+        {
+          "quote": "The GRE is required.",
+          "url": "https://www.umb.edu/academics/program-finder/applied-physics-phd/"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants must specify in their Statement of Purpose the names of UMass Boston faculty or research groups they wish to work with.",
+      "quote": "Statement of Purpose: This is your opportunity to show the graduate admissions committee why you wish to pursue graduate study, as well as your specific interests and goals. The applicants must specify name of the faculty or groups at UMass Boston they would like to work with.",
+      "url": "https://www.umb.edu/academics/program-finder/applied-physics-phd/"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Qualified PhD students are typically supported through teaching assistantships, research assistantships, faculty grants, and fellowships that include a tuition waiver and stipend ($25,865 for a 1.0 FTE TA/RA in AY 2026-27).",
+      "quote": "Qualified PhD students are typically supported through: | Teaching Assistantships | Research Assistantships | Faculty research grants | Fellowships when available | Funding packages include tuition waiver, a competitive stipend, and opportunities for professional development through teaching and research.",
+      "url": "https://www.umb.edu/academics/program-finder/applied-physics-phd/",
+      "also": [
+        {
+          "quote": "These positions are assigned by the student's department/program and are subject to the agreement between UMass Boston and UAW/Graduate Employees Organization (GEO). | Full Assistantship | 18.00 | 1.00 | $1,293.25 | $25,865.00 | 100%",
+          "url": "https://www.umb.edu/admissions/graduate-students/graduate-students-assistantships/"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students may apply directly to the PhD program with either a bachelor's or a master's degree.",
+      "quote": "Students may apply directly to the PhD program with either a bachelor's or master's degree.",
+      "url": "https://www.umb.edu/academics/program-finder/applied-physics-phd/"
+    }
+  },
+  "notes": ""
+}

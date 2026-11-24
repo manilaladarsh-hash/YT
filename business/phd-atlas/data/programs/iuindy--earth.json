@@ -1,0 +1,63 @@
+{
+  "id": "iuindy--earth",
+  "university": "iuindy",
+  "field": "earth",
+  "also_fields": [
+    "environment"
+  ],
+  "department": "Department of Earth and Environmental Sciences (School of Science)",
+  "program_page": "https://science.indianapolis.iu.edu/earthsciences/admissions/apply.html",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Apply by January 15, 2027 for Fall entry with priority consideration for financial aid (applications considered throughout the year).",
+      "quote": "January 15 is the application deadline for fall entry with priority consideration for financial aid. However, applications will be considered through the year.",
+      "url": "https://science.indianapolis.iu.edu/earthsciences/admissions/apply.html",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE scores are optional for graduate admission in Earth and Environmental Sciences.",
+      "quote": "Exams (GRE & TOEFL): GRE scores are optional for graduate admission.",
+      "url": "https://science.indianapolis.iu.edu/earthsciences/admissions/apply.html"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for Earth and Environmental Sciences.",
+      "quote": "Exams (GRE & TOEFL): GRE scores are optional for graduate admission.",
+      "url": "https://science.indianapolis.iu.edu/earthsciences/admissions/apply.html",
+      "also": [
+        {
+          "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+          "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+        }
+      ]
+    },
+    "supervisor": {
+      "code": "Not required",
+      "value": "Admitted students are initially assigned a three-faculty graduate advisory committee and identify their research advisor and research committee by the end of the second semester.",
+      "quote": "Initially, you'll be assigned a graduate advisory committee consisting of three faculty members, who will meet with you after admission, review your background, and help make judgments on coursework. By the end of the second semester, you'll identify your graduate research committee in consultation with a research advisor.",
+      "url": "https://science.indianapolis.iu.edu/academics/degrees-and-programs/_degrees/applied-earth-sciences-phd-iupui-erthsciphd.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate program financial support and scholarships are available; apply by January 15 for priority consideration for financial aid.",
+      "quote": "January 15 is the application deadline for fall entry with priority consideration for financial aid.",
+      "url": "https://science.indianapolis.iu.edu/earthsciences/admissions/apply.html",
+      "also": [
+        {
+          "quote": "The School of Science offers over $1 million in scholarships to undergraduate and graduate students each year, as well as graduate program financial support.",
+          "url": "https://science.indianapolis.iu.edu/earthsciences/admissions/fin-aid-scholarships/index.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Applicants must hold a baccalaureate or master's degree in the physical, biological, or health sciences with a cumulative GPA of 3.0 or higher.",
+      "quote": "To be eligible for graduate admission in the Department of Earth Sciences' Ph.D. in Applied Earth Science, you should hold a baccalaureate or master's degree in the physical, biological, or health sciences.",
+      "url": "https://science.indianapolis.iu.edu/earthsciences/admissions/apply.html"
+    }
+  },
+  "notes": "Ph.D. in Applied Earth Sciences offered by the Department of Earth and Environmental Sciences."
+}

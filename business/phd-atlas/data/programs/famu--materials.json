@@ -1,0 +1,93 @@
+{
+  "id": "famu--materials",
+  "university": "famu",
+  "field": "materials",
+  "also_fields": [],
+  "department": "Department of Materials Science & Engineering, FAMU-FSU College of Engineering",
+  "program_page": "https://eng.famu.fsu.edu/mse/graduate/admission-requirements",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-15",
+      "value": "Fall Priority Deadline for assistantships and financial aid is December 15, 2026; final Fall deadline is May 1, 2027 (international applicants encouraged to apply by January 15; Spring: November 1, Summer: March 1).",
+      "quote": "Priority Deadline | 15 December | Fall | 1 May | Note: Students seeking assistantships and other financial aid should apply for Fall semester admissions no later than 15th of December.",
+      "url": "https://eng.famu.fsu.edu/mse/graduate/admission-requirements",
+      "inferred": "year",
+      "time_sensitive": "2026-12-15"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Materials Science & Engineering; ETS offers Subject Tests only in Mathematics, Physics, and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "The MSE graduate admissions and programs pages do not state whether a faculty supervisor must agree before admission (no separate MSE graduate handbook is posted).",
+      "quote": "",
+      "url": "https://eng.famu.fsu.edu/mse/graduate/programs"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "FAMU-FSU Engineering PhD programs offer competitive funding packages (RAs, TAs, tuition waivers, health care coverage, and/or stipends) for newly admitted students who apply by departmental deadlines.",
+      "quote": "The FAMU-FSU College of Engineering Ph.D. programs offer competitive funding packages for newly admitted students.",
+      "url": "https://eng.famu.fsu.edu/mse/graduate/admission-requirements"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students may enter the PhD program with either a B.S. degree (or equivalent) or an M.S. degree (or equivalent) in an approved engineering or science discipline (54 minimum credits).",
+      "quote": "Students entering the program with a B.S. degree (or equivalent) or and M.S. degree (or equivalent) will be required to a take a minimum of 54 credits",
+      "url": "https://eng.famu.fsu.edu/mse/graduate/programs"
+    },
+    "fee_waiver": {
+      "code": "Limited",
+      "value": "Starting Fall 2027, the FAMU-FSU College of Engineering ADRGS office offers a limited number of application fee waivers exclusively for PhD applicants on a first-come, first-served basis (for FAMU applicants, complete the ApplyWeb application up to the Acknowledgement section without paying and submit the waiver request form).",
+      "quote": "offering a limited number of application fee waivers for PhD applicants, starting in the Fall 2027 semester. Only PhD applicants are eligible to request an application fee waiver at this time. Application fee waivers will be awarded on a first come, first serve basis.",
+      "url": "https://eng.famu.fsu.edu/graduate-application-fee-waiver-process",
+      "also": [
+        {
+          "quote": "Starting for the Fall 2027 semester PhD applicants can apply for the application fee to be waived.",
+          "url": "https://eng.famu.fsu.edu/prospective/graduate"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "Department admissions pages state a minimum new iBT TOEFL score of 4.0 (550 paper-based); note the central College of Engineering admissions page still lists legacy 80 iBT.",
+      "quote": "Internet based TOEFL (new IBTOEFL): 4.0",
+      "url": "https://eng.famu.fsu.edu/mse/graduate/admission-requirements",
+      "conflict": true,
+      "also": [
+        {
+          "quote": "Internet based TOEFL (IBTOEFL): 80",
+          "url": "https://eng.famu.fsu.edu/prospective/graduate/admissions-requirements"
+        }
+      ]
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "India is not on the FAMU-FSU College of Engineering exempt-country list, and departments require English proficiency scores unless the applicant's country's official language is English or they graduated from an accredited U.S. bachelor's or master's program.",
+      "quote": "The English Language Proficiency requirement can be waived, at the University-level, for applicants who have earned a minimum of a bachelor’s degree or higher in the US or in an English-Speaking Country.",
+      "url": "https://eng.famu.fsu.edu/prospective/graduate",
+      "also": [
+        {
+          "quote": "For International students, an English Proficiency Score Report is required if: | The applicant’s country’s official language is NOT English or | The applicant did NOT graduate from an accredited US institution with either a bachelor’s or master’s degree.",
+          "url": "https://eng.famu.fsu.edu/mse/graduate/admission-requirements"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General is required (minimum 155 quantitative and 146 verbal), though qualified PhD applicants may apply for a GRE waiver using the College's GRE waiver request form.",
+      "quote": "A minimum score of 155 quantitative and 146 verbal on the GRE test; GRE waiver request form.",
+      "url": "https://eng.famu.fsu.edu/mse/graduate/admission-requirements",
+      "also": [
+        {
+          "quote": "highly qualified doctoral applicants may be eligible to waive the GRE.",
+          "url": "https://eng.famu.fsu.edu/prospective/graduate"
+        }
+      ]
+    }
+  },
+  "notes": "Joint FAMU-FSU College of Engineering program; apply through either FAMU or FSU, not both."
+}

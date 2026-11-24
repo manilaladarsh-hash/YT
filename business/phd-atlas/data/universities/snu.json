@@ -1,0 +1,53 @@
+{
+  "id": "snu",
+  "institution": "Seoul National University",
+  "country": "South Korea",
+  "region": "Seoul",
+  "grad_page": "https://en.snu.ac.kr/admission/graduate/application",
+  "checked": "2026-11-15",
+  "fields": {
+    "app_fee": {
+      "code": "90000 KRW",
+      "value": "Graduate international application fee is KRW 90,000 paid online (wire transfer of USD 85 is permitted only for documented disaster/communication-disruption postal submissions).",
+      "quote": "Upon payment of the application fee (KRW 90,000), an application number will be | assigned and the online application will be considered complete.",
+      "url": "https://en.snu.ac.kr/webdata/uploads/eng/file/2026/06/2027Spring_graduate_eng.pdf",
+      "also": [
+        {
+          "quote": "The application fee is KRW 70,000 for Undergraduate, KRW 90,000 for Graduate program.",
+          "url": "https://en.snu.ac.kr/admission/overview/faq/admission"
+        }
+      ]
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "Application fee is non-refundable and cannot be waived under Article 42-3 (Admission Fees) of the Enforcement Decree of the Higher Education Act.",
+      "quote": "The application fee is non-refundable and cannot be waived (Article 42-3 (Admission Fees) of the Enforcement Decree of the Higher Education Act).",
+      "url": "https://en.snu.ac.kr/webdata/uploads/eng/file/2026/06/2027Spring_graduate_eng.pdf"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Central SNU Graduate Admissions Guide does not state a GRE General requirement or exemption policy; Form 1 includes an optional 'Other (GRE, Etc.)' blank and the central FAQ treats standardized test score reports as optional supplementary material (SNU ETS institution code 7972).",
+      "quote": "",
+      "url": "https://en.snu.ac.kr/webdata/uploads/eng/file/2026/06/2027Spring_graduate_eng.pdf"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "Minimum English criterion is TOEFL iBT 4.0 for tests taken on or after January 21, 2026 (or 80 on the prior 0-120 scale; MyBest Scores and Home Edition accepted, ITP not accepted) or TEPS 269. Centrally, Korean TOPIK Level 3 (or Korean university language center Level 4) also satisfies the language requirement unless a department requires English.",
+      "quote": "[English] TOEFL iBT 80 (a score of 4.0 for tests taken on or after January 21, 2026) | OR IELTS Academic Band Score 6.0 OR TEPS 269 | ※ TOEFL: MyBestScores(see page 20) and iBT Home Edition scores are accepted; | TOEFL ITP scores are NOT accepted.",
+      "url": "https://en.snu.ac.kr/webdata/uploads/eng/file/2026/06/2027Spring_graduate_eng.pdf"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "Minimum IELTS Academic Band Score is 6.0 (One Skill Retake and IELTS Online accepted; IELTS Indicator not accepted), or Korean TOPIK Level 3 centrally unless a department requires English.",
+      "quote": "[English] TOEFL iBT 80 (a score of 4.0 for tests taken on or after January 21, 2026) | OR IELTS Academic Band Score 6.0 OR TEPS 269 | ※ IELTS: One Skill Retake(see page 20) and IELTS Online scores are accepted; | IELTS Indicator scores are NOT accepted.",
+      "url": "https://en.snu.ac.kr/webdata/uploads/eng/file/2026/06/2027Spring_graduate_eng.pdf"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exempt from submitting TOEFL/IELTS scores if the applicant submits official documents or school profiles verifying that their entire bachelor's or master's curriculum was conducted in English (or Korean), or if presenting TOPIK Level 3 centrally (overridden by departments such as Chemistry that require English scores).",
+      "quote": "Documents proving proficiency in Korean or English, including one or more of the following: | 2) Official documents or school profiles verifying that all courses were conducted | in Korean or English (Applicable only if the entire bachelor’s or master’s curriculum was completed in Korean or English)",
+      "url": "https://en.snu.ac.kr/webdata/uploads/eng/file/2026/06/2027Spring_graduate_eng.pdf"
+    }
+  },
+  "notes": "QS WUR 2027 #38. Covers all 18 STEM PhD fields through central and professional graduate schools in Seoul (Gwanak, Yeongeon medical, Pyeongchang, and Siheung campuses). Fall 2027 international admissions guide is not yet published (Spring 2027 international online application ran July 6-9, 2026, prior to the Fall 2027 window; deadlines set to Not stated). Applicants may apply to only one program per admissions cycle. International scholarships include SNU President Fellowship (SPF: full tuition up to 6 semesters + KRW 1.5M-2.0M/mo for developing-country university faculty without a PhD), Graduate Scholarship for Excellent Foreign Students (GSFS: full tuition up to 4 semesters + >= KRW 500,000/mo), Global Korea Scholarship (GKS: full tuition + KRW 1.4M/mo), and SNU Global EDGE Fellowship (KRW 1.8M/mo + full tuition for BK21 Four PhD students)."
+}

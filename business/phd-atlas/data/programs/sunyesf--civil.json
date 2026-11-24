@@ -1,0 +1,67 @@
+{
+  "id": "sunyesf--civil",
+  "university": "sunyesf",
+  "field": "civil",
+  "also_fields": [],
+  "department": "Department of Environmental Resources Engineering",
+  "program_page": "https://www.esf.edu/ere/graduate/index.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Apply by January 15, 2027 for Fall funding/assistantship consideration (general Fall target deadline is April 30; Spring target is November 1 for funding and December 15 final).",
+      "quote": "While the following dates are particularly important for applicants wishing to be considered for fellowships, assistantships, and other forms of financial assistance, ESF will continue to accept and fully consider graduate applications beyond each of the noted deadlines: Application Target Dates ... PhD & MS Fall January 15 April 30",
+      "url": "https://www.esf.edu/graduate/prospective/admission.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "GRE General Test is required for Environmental Resources Engineering Ph.D. admission, though applicants may request a waiver by emailing their intended ERE major professor with justification, CV, transcripts, and statement (GRE is not required for Sustainable Construction Management Ph.D. in SRM).",
+      "quote": "Graduate Record Examination (GRE) ... Environmental Resources Engineering ... M.S., Ph.D. Yes",
+      "url": "https://www.esf.edu/graduate/prospective/admission.php",
+      "also": [
+        {
+          "quote": "For M.S. and Ph.D., prospective applicants to the ERE program may request a waiver of the GRE scores by directly emailing the one ERE faculty member whom they intend to identify as a major professor.",
+          "url": "https://www.esf.edu/ere/graduate/index.php"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS does not offer a GRE Subject Test in Civil or Environmental Engineering.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Prospective applicants are advised to contact ERE faculty before applying (and must email an intended ERE major professor directly if requesting a GRE waiver).",
+      "quote": "prospective applicants to the ERE program may request a waiver of the GRE scores by directly emailing the one ERE faculty member whom they intend to identify as a major professor.",
+      "url": "https://www.esf.edu/ere/graduate/index.php",
+      "also": [
+        {
+          "quote": "individuals who are interested in applying for graduate study should contact ESF faculty to discuss degree programs and learn about specific opportunities for study and research at ESF.",
+          "url": "https://www.esf.edu/graduate/prospective/admission.php"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "All newly admitted and current ERE graduate students are considered for Graduate Assistantship funding (typically $22,000 academic-year stipend plus tuition scholarship up to 10 credits/semester), alongside faculty Research Project Assistantships.",
+      "quote": "Doctoral stipends are typically $22,000 (based on 20 hours per week per academic year). Award includes a tuition scholarship up to 10 credit hours per semester ... All newly admitted and current Environmental Resources Engineering graduate students are considered for graduate assistant funding.",
+      "url": "https://www.esf.edu/graduate/funding/esf-graduate-funding-sources.php"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Direct entry from a bachelor's degree in science or engineering (with physics, statistics, and two calculus courses; up to 30 credits from a conferred master's may transfer toward the 60-credit Ph.D.).",
+      "quote": "Applicants to all ERE graduate programs of study are required to have a bachelor’s degree in science or engineering and are expected to have completed at least one 3-credit course in physics, one 3-credit course in statistics, and two 3-credit courses in calculus.",
+      "url": "https://www.esf.edu/academics/graduate/ere.php",
+      "also": [
+        {
+          "quote": "The Doctor of Philosophy (Ph.D.) degree requires the successful completion of a minimum of 60 credits at the graduate level, of which 30-48 are for coursework and 12-30 credits are for the dissertation.",
+          "url": "https://www.esf.edu/catalog/2025-2026/graduate-ere.php"
+        }
+      ]
+    }
+  },
+  "notes": "Environmental Resources Engineering Ph.D. (CIP 141401) covers Ecological Engineering, Geospatial Information Science and Engineering, Water Resources Engineering, and general ERE. ESF also offers a Ph.D. in Sustainable Construction Management (CIP 143301, GRE not required, normally post-M.S.) in the Department of Sustainable Resources Management."
+}

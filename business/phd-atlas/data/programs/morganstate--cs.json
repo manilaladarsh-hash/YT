@@ -1,0 +1,53 @@
+{
+  "id": "morganstate--cs",
+  "university": "morganstate",
+  "field": "cs",
+  "also_fields": [
+    "datasci"
+  ],
+  "department": "Department of Computer Science, School of Computer, Mathematical, and Natural Sciences",
+  "program_page": "https://www.morgan.edu/computer-science/degrees-and-programs/phd_advcomputing",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-04-01",
+      "value": "School of Graduate Studies sets April 1 as the Fall application deadline for international F-1 degree-seeking applicants (unless an earlier program deadline applies); Morgan's Application Deadlines portal lists May 1, 2027 for Advanced & Equitable Computing, PhD (Fall 2027), and SGS funding applications are due April 30.",
+      "quote": "Application deadlines for the School of Graduate Studies (SGS) are as follows (unless earlier deadline dates are indicated by the individual programs): ... International, degree-seeking (All F-1 in and out of USA) Fall - April 1",
+      "url": "https://www.morgan.edu/school-of-graduate-studies/admissions/application-process",
+      "inferred": "year",
+      "time_sensitive": "2027-04-01",
+      "also": [
+        {
+          "quote": "Advanced & Equitable Computing, PhD Saturday, May 1, 2027 Fall 2027 Graduate Advanced & Equitable Computing, PhD",
+          "url": "https://morgan.elluciancrmrecruit.com/ApplyGRAD/Home/ApplicationDeadlines"
+        }
+      ]
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists for Computer Science or Data Science; ETS offers Subject Tests only in Mathematics, Physics, and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "The Department of Computer Science advises prospective students to contact faculty directly regarding an adviser and financial support (and form a four-member advisory committee by the end of the first year).",
+      "quote": "For adviser and financial support, please contact the faculty directly.",
+      "url": "https://www.morgan.edu/computer-science/degrees-and-programs/phd_advcomputing"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Graduate assistantships (TA/RA, $21,000 doctoral stipend plus tuition award up to 9 credits/semester excluding university fees) and fellowships require a separate School of Graduate Studies funding application (due April 30 for Fall) and are not guaranteed.",
+      "quote": "SUBMISSION OF A FUNDING APPLICATION DOES NOT MEAN YOU WILL BE APPROVED. The decisions will be based on program selection and availability of funding per each program. | Graduate assistantships for doctoral and master's degree students pay a stipend ($21,000-doctoral $12,000-master's) Tuition awards do not pay for university and miscellaneous fees.",
+      "url": "https://www.morgan.edu/school-of-graduate-studies/new-and-current-students/funding"
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Requires 60 graduate credit hours beyond a bachelor's degree or 36 credit hours beyond a master's degree.",
+      "quote": "Candidates for the Ph.D. in Advanced Computing degree must complete a minimum of sixty (60) academic credit hours beyond the bachelor’s degree or thirty-six (36) credit hours beyond the master’s degree",
+      "url": "https://catalog.morgan.edu/preview_program.php?catoid=29&poid=6953&returnto=2166"
+    }
+  },
+  "notes": "Offered in both on-campus and remote/online modalities; covers AI/ML, data science, cybersecurity, quantum computing, and HPC. Spring admission deadline is December 1.",
+  "name": "Advanced and Equitable Computing"
+}

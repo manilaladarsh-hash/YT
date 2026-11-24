@@ -1,0 +1,74 @@
+{
+  "id": "nova--biomed",
+  "university": "nova",
+  "field": "biomed",
+  "also_fields": [],
+  "department": "Dr. Kiran C. Patel College of Allopathic Medicine",
+  "program_page": "https://md.nova.edu/degrees/doctoral/biomedical-sciences/phd/index.html",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-07-20",
+      "value": "Fall application window is April 20 - July 20 (July 20, 2027 for Fall 2027); Winter application window is July 21 - November 24.",
+      "quote": "Ph.D. in Health Science or Biomedical Science Deadlines Fall April 20 - July 20 Winter July 21 - November 24",
+      "url": "https://md.nova.edu/admissions/graduate.html",
+      "inferred": "year"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS offers no GRE Subject Test in Biomedical Sciences (Subject Tests exist only in Mathematics, Physics, and Psychology).",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Not stated (requires an interview with faculty and the program director, without stating a pre-application supervisor requirement).",
+      "quote": "",
+      "url": "https://md.nova.edu/degrees/doctoral/biomedical-sciences/phd/index.html"
+    },
+    "funding": {
+      "code": "Not stated",
+      "value": "Not stated on College of Allopathic Medicine Ph.D. in Biomedical Sciences pages checked (published tuition is $687 per credit hour before any scholarships or discounts).",
+      "quote": "",
+      "url": "https://md.nova.edu/degrees/doctoral/biomedical-sciences/phd/index.html"
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Open to applicants holding a STEM bachelor's degree (at least 30 STEM credit hours and 3.0 GPA), with pathways for bachelor's, master's, and M.D./Ph.D. candidates.",
+      "quote": "A bachelor's degree in a STEM-related field with at least 30 STEM credit hours and a 3.0 GPA",
+      "url": "https://md.nova.edu/degrees/doctoral/biomedical-sciences/phd/index.html",
+      "also": [
+        {
+          "quote": "Pathways are available for students with: Bachelor’s degree Bachelor’s and Master’s degrees M.D./Ph.D. candidates",
+          "url": "https://md.nova.edu/degrees/doctoral/biomedical-sciences/phd/index.html"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "GRE scores are not required for the Ph.D. in Biomedical Sciences.",
+      "quote": "GRE not required",
+      "url": "https://md.nova.edu/degrees/doctoral/biomedical-sciences/phd/index.html"
+    },
+    "toefl_min": {
+      "code": "79",
+      "value": "Minimum TOEFL Internet-based score is 79 (550 paper / 213 computer); IELTS 6.0 accepted in lieu of TOEFL.",
+      "quote": "Score requirements are as follows: minimum paper score = 550; minimum computerized score = 213; minimum Internet score = 79.",
+      "url": "https://md.nova.edu/admissions/graduate.html"
+    },
+    "ielts_min": {
+      "code": "6",
+      "value": "IELTS score of 6.0 is accepted in lieu of TOEFL.",
+      "quote": "A score of 6.0 on the International English Language Testing System (ILETS) exam is accepted in lieu of the TOEFL.",
+      "url": "https://md.nova.edu/admissions/graduate.html"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Foreign nationals residing outside the U.S. whose native language is not English must submit TOEFL or IELTS; India is not exempt.",
+      "quote": "Foreign nationals who reside outside the United States at the time of application, and whose native language is not English, must present evidence of proficiency in English by satisfactorily completing the Test of English as a Foreign Language (TOEFL).",
+      "url": "https://md.nova.edu/admissions/graduate.html"
+    }
+  },
+  "notes": "Minimum 60 credits (>70% hands-on research); published tuition $687/credit. NSU also offers a separate Ph.D. in Pharmaceutical Sciences (95-100 credits, rolling/July PharmGRAD deadline, TOEFL 80 / IELTS 6.0 / Duolingo 105) in the Barry and Judy Silverman College of Pharmacy.",
+  "name": "Ph.D. in Biomedical Sciences"
+}

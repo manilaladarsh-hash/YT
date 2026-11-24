@@ -1,0 +1,55 @@
+{
+  "id": "catholic--biology",
+  "university": "catholic",
+  "field": "biology",
+  "department": "Biology (Ph.D.), College of Arts and Sciences",
+  "program_page": "https://biology.catholic.edu/academics/graduate/phd-biology/index.html",
+  "checked": "2026-11-13",
+  "fields": {
+    "deadline": {
+      "code": "2027-07-01",
+      "value": "Fall deadline is July 1 for international students (August 15 domestic); February 1 for scholarship consideration.",
+      "quote": "Application Deadlines Fall Semester February 1 for scholarship consideration July 1 for international students August 15 for domestic students",
+      "url": "https://biology.catholic.edu/admission/graduate/index.html",
+      "inferred": "year",
+      "time_sensitive": "2027-02-01"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE General is optional for Biology PhD applicants (strong GRE scores are considered for Doctoral scholarships).",
+      "quote": "While submission of the General Record Examination is optional, applicants may choose to include results from the GRE and/or an advanced test in one of the biological sciences to supplement their application.",
+      "url": "https://biology.catholic.edu/academics/graduate/phd-biology/index.html"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS discontinued the Biology GRE Subject Test (Subject Tests remain only in Mathematics, Physics, and Psychology); departmental mention of an optional advanced biology test cannot be fulfilled via ETS.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Not stated",
+      "value": "Applicants are invited to contact the department, but no requirement or recommendation to secure a supervisor before applying is stated.",
+      "quote": "",
+      "url": "https://biology.catholic.edu/admission/graduate/index.html"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Limited number of fellowships/scholarships (including full-tuition Doctoral scholarships) and Departmental Teaching Assistantships providing tuition remission and a stipend.",
+      "quote": "The University awards a limited number of fellowships and scholarships to qualified entering graduate students.",
+      "url": "https://biology.catholic.edu/admission/graduate/index.html",
+      "also": [
+        {
+          "quote": "Doctoral scholarships provide full tuition to qualified incoming doctoral students. ... Teaching assistantships, which provide remission of tuition as well as a stipend, are available in the Department of Biology.",
+          "url": "https://biology.catholic.edu/admission/graduate/funding-opportunities/index.html"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Offers both a Direct Ph.D. option directly after a bachelor's degree (for full-time students with undergraduate research experience) and an M.S./Ph.D. option.",
+      "quote": "There are two options for completion of the degree. In the first option (M.S./Ph.D.) the student first completes the M.S. degree before proceeding for the Ph.D. degree. ... In the second option (the direct Ph.D.) the student may proceed directly for the Ph.D. degree without obtaining the M.S. degree.",
+      "url": "https://biology.catholic.edu/academics/graduate/phd-biology/index.html"
+    }
+  },
+  "notes": "Prerequisites: 2 years chemistry, 2 years biology (incl. biochemistry and microbiology), 1 year physics, 1 year calculus. Emphasizes cell and microbial biology."
+}

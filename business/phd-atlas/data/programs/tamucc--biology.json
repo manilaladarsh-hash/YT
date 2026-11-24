@@ -1,0 +1,73 @@
+{
+  "id": "tamucc--biology",
+  "university": "tamucc",
+  "field": "biology",
+  "also_fields": [],
+  "name": "Marine Biology, Ph.D.",
+  "department": "Department of Life Sciences",
+  "program_page": "https://www.tamucc.edu/programs/graduate-programs/cos/marine-biology-phd.php",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2026-12-01",
+      "value": "Fall priority deadline is December 1, 2026 (also the deadline for full funding/assistantship consideration; final Fall deadline is May 1, 2027).",
+      "quote": "Application Deadlines | Priority Deadline | December 1 | Final Deadline | May 1",
+      "url": "https://www.tamucc.edu/programs/graduate-programs/cos/marine-biology-phd.php",
+      "inferred": "year",
+      "time_sensitive": "2026-12-01",
+      "also": [
+        {
+          "quote": "Completed applications must be received by the graduate admissions by the specified priority deadlines: | Fall Semester - December 1",
+          "url": "https://catalog.tamucc.edu/graduate/science/doctoral/marine-biology-phd/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Required",
+      "value": "The 2026-2027 Graduate Catalog requires GRE General scores not more than 5 years old (though the redesigned Marine Biology Ph.D. program webpage omits GRE from its checklist).",
+      "quote": "applicants must submit ... Graduate Record Examination (GRE) scores that are not more than 5 years old",
+      "url": "https://catalog.tamucc.edu/graduate/science/doctoral/marine-biology-phd/"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No GRE Subject Test exists in Biology; ETS offers Subject Tests only in Mathematics, Physics, and Psychology.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Required",
+      "value": "Applicants must contact faculty and identify a willing graduate advisor prior to admission, and will not be admitted without an advisor.",
+      "quote": "applicants must identify a faculty member willing to serve as their graduate advisor before admission.",
+      "url": "https://www.tamucc.edu/programs/graduate-programs/cos/marine-biology-phd.php",
+      "also": [
+        {
+          "quote": "Applicants will not be admitted to the program without a graduate advisor.",
+          "url": "https://catalog.tamucc.edu/graduate/science/doctoral/marine-biology-phd/"
+        }
+      ]
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Qualified students are eligible for competitive teaching assistantships, graduate research assistantships, fellowships, and travel support (the College of Science awards at least 20 assistantships yearly across Marine Biology and CMSS Ph.D. programs); 50% FTE assistantships qualify international students for in-state tuition under Texas Education Code 54.212.",
+      "quote": "Qualified students may be eligible for teaching assistantships, graduate research assistantships, fellowships, travel support, and faculty-funded research opportunities.",
+      "url": "https://www.tamucc.edu/programs/graduate-programs/cos/marine-biology-phd.php",
+      "also": [
+        {
+          "quote": "Each year, the Marine Biology and Coastal and Marine System Science PhD programs award at least 20 graduate assistantships to students.",
+          "url": "https://www.tamucc.edu/science/student-information/graduate-research.php"
+        },
+        {
+          "quote": "According to the Texas Education Code, Section 54.212, non-resident students receiving a 50% FTE graduate assistantship will receive in-state tuition and fees at the rate charged to Texas residents for the semester in which they hold the assistantship appointment.",
+          "url": "https://www.tamucc.edu/research/graduate-excellence/funding/assistantships.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Either",
+      "value": "Students may be admitted with either a bachelor's degree (96 SCH minimum) or a master's degree (64 SCH minimum).",
+      "quote": "Students may be admitted with either a bachelor's or master's degree, although degree requirements differ based on prior academic preparation.",
+      "url": "https://www.tamucc.edu/programs/graduate-programs/cos/marine-biology-phd.php"
+    }
+  },
+  "notes": "Offered through the Department of Life Sciences. Note that the redesigned program marketing webpage (cos/marine-biology-phd.php) omits GRE from its required materials checklist while the 2026-2027 Graduate Catalog still lists GRE scores within 5 years as required."
+}

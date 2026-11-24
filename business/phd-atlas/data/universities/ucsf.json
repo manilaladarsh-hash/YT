@@ -1,0 +1,47 @@
+{
+  "id": "ucsf",
+  "institution": "University of California, San Francisco",
+  "country": "USA",
+  "region": "California",
+  "grad_page": "https://catalog.ucsf.edu/schools/graduate-division/",
+  "checked": "2026-10-22",
+  "fields": {
+    "app_fee": {
+      "code": "140 USD",
+      "value": "Non-refundable UCSF application fee is $140 for international applicants ($120 for U.S. citizens and permanent residents). Note: the joint UC Berkeley-UCSF Bioengineering Ph.D. applies through UC Berkeley ($155).",
+      "quote": "Upon completion of the application and receipt of the non-refundable application fee ($120 for US citizens and permanent residents, and $140 for international applicants), or – alternatively – once a request for an application fee waiver has been approved (U.S. citizens and permanent residents only), an admission file is established by the Division of Graduate Education and Postdoctoral Affairs (GEPA).",
+      "url": "https://catalog.ucsf.edu/schools/graduate-division/"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Application fee waivers are available only to U.S. citizens and permanent residents; international applicants are ineligible.",
+      "quote": "or – alternatively – once a request for an application fee waiver has been approved (U.S. citizens and permanent residents only)",
+      "url": "https://catalog.ucsf.edu/schools/graduate-division/"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "graduate.ucsf.edu and program admissions sites returned HTTP 403 (Cloudflare); the UCSF GEPA General Catalog leaves GRE requirements to individual programs.",
+      "quote": "",
+      "url": "https://catalog.ucsf.edu/schools/graduate-division/"
+    },
+    "toefl_min": {
+      "code": "Not stated",
+      "value": "graduate.ucsf.edu international admissions pages returned HTTP 403 (Cloudflare); the UCSF GEPA General Catalog does not state a campus-wide TOEFL minimum (check individual program websites or catalog entries).",
+      "quote": "",
+      "url": "https://catalog.ucsf.edu/schools/graduate-division/"
+    },
+    "ielts_min": {
+      "code": "Not stated",
+      "value": "graduate.ucsf.edu international admissions pages returned HTTP 403 (Cloudflare); the UCSF GEPA General Catalog does not state a campus-wide IELTS minimum.",
+      "quote": "",
+      "url": "https://catalog.ucsf.edu/schools/graduate-division/"
+    },
+    "english_waiver": {
+      "code": "Not stated",
+      "value": "graduate.ucsf.edu international admissions pages returned HTTP 403 (Cloudflare); the UCSF GEPA General Catalog does not state the English-medium waiver policy for Indian degrees.",
+      "quote": "",
+      "url": "https://catalog.ucsf.edu/schools/graduate-division/"
+    }
+  },
+  "notes": "Health-science scope covers Biomedical Sciences (BMS) Ph.D., Neuroscience Ph.D., Tetrad (Cell Biology / Biochemistry & Molecular Biology / Genetics) Ph.D., and the joint UC Berkeley-UCSF Bioengineering Ph.D. Note: UCSF graduate/program sites (graduate.ucsf.edu, bms.ucsf.edu, neurograd.ucsf.edu, tetrad.ucsf.edu) block automated fetches with HTTP 403 Cloudflare; verified catalog.ucsf.edu and UC Berkeley joint BioE sources are cited."
+}

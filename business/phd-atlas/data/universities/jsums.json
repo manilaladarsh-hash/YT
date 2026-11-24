@@ -1,0 +1,63 @@
+{
+  "id": "jsums",
+  "institution": "Jackson State University",
+  "country": "USA",
+  "region": "Mississippi",
+  "grad_page": "https://www.jsums.edu/graduateschool/international-students/",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "25 USD",
+      "value": "All applicants must pay a $25.00 application fee by credit/debit card online (or money order/check); applications are not processed without payment.",
+      "quote": "All applicants must submit a $25.00 application fee. Applications will not be processed without payment of the application fee.",
+      "url": "https://www.jsums.edu/graduateschool/international-students/"
+    },
+    "fee_waiver": {
+      "code": "None",
+      "value": "The Division of Graduate Studies states that the $25.00 application fee cannot be waived or postponed.",
+      "quote": "The application fee is $25.00 for out-of-state resident... The application fee cannot be waived or postponed.",
+      "url": "https://www.jsums.edu/graduateschool/frequently-asked-questions-prospective-students/",
+      "also": [
+        {
+          "quote": "All applicants must submit a $25.00 application fee. Applications will not be processed without payment of the application fee.",
+          "url": "https://www.jsums.edu/graduateschool/international-students/"
+        }
+      ]
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each department (required for Environmental Science; Chemistry allows its own entrance exam instead of the GRE; not stated for Engineering and CDS&E).",
+      "quote": "",
+      "url": "https://www.jsums.edu/graduateschool/doctoral-admissions/"
+    },
+    "toefl_min": {
+      "code": "4.0 (new scale)",
+      "value": "Minimum TOEFL iBT score is 4.0 on the 1-6 band scale for tests taken on or after January 21, 2026 (69 for tests taken before January 21, 2026); completing JSU's ESLI is an alternative.",
+      "quote": "TOEFL iBT (taken before January 21, 2026): 69 | TOEFL iBT (taken on or after January 21, 2026): 4.0 (on the 1–6 band scale)",
+      "url": "https://www.jsums.edu/graduateschool/international-students/"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic overall score is 6.5.",
+      "quote": "Minimum scores: | IELTS: 6.5",
+      "url": "https://www.jsums.edu/graduateschool/international-students/"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Applicants from non-English-speaking countries must submit TOEFL or IELTS scores (or complete ESLI); India is not on JSU Global's TOEFL-exempt country list, so English-medium degrees from India do not waive the test.",
+      "quote": "International applicants from non-English-speaking countries must submit a satisfactory TOEFL (Test of English as a Foreign Language) or IELTS (International English Language Testing System) score, or proof of successful completion of ESLI.",
+      "url": "https://www.jsums.edu/graduateschool/international-students/",
+      "also": [
+        {
+          "quote": "TOEFL scores are waived for the following English speaking countries:",
+          "url": "https://www.jsums.edu/global/toefl-exempt-countries/"
+        },
+        {
+          "quote": "English speaking countries as defined by JSU Global (i.e. United Kingdom, Australia, Canada, New Zealand, Ireland, Nigeria, Ghana, and certain Caribbean Islands.)",
+          "url": "https://www.jsums.edu/admissions/international/"
+        }
+      ]
+    }
+  },
+  "notes": "All STEM PhD programs at Jackson State University are housed in the College of Science, Engineering, and Technology (CSET). Biology and Computer Science offer M.S. degrees only (no standalone Ph.D.), and Physics offers B.S. degrees only, though CDS&E Ph.D. includes tracks in Computational Biology & Bioinformatics, Computational Mathematics & Statistical Sciences, Computational Physical Sciences, and Computational Science & Engineering. Other JSU doctorates (Clinical Psychology, Business Administration, Educational Administration, Public Administration, Social Work, Urban & Regional Planning, Urban Higher Education, Early Childhood Education Ed.D., Public Health Dr.P.H.) fall outside the 18 Atlas STEM fields."
+}

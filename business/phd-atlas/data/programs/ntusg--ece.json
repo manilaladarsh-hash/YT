@@ -1,0 +1,72 @@
+{
+  "id": "ntusg--ece",
+  "university": "ntusg",
+  "field": "ece",
+  "also_fields": [],
+  "department": "School of Electrical and Electronic Engineering (EEE)",
+  "program_page": "https://www.ntu.edu.sg/engineering/coe-programmes/graduate/coe-programme-detail/eee-doctor-of-philosophy-(ph.d)-programme",
+  "checked": "2026-11-14",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-31",
+      "value": "August 2027 (Semester 1) intake closes January 31, 2027 (application portal opens October 1; January intake closes July 31).",
+      "quote": "August (Semester 1) | 1 October | 31 January",
+      "url": "https://www.ntu.edu.sg/admissions/graduate/radmissionguide"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "No ETS GRE Subject Test exists for electrical or computer engineering.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "NTU strongly recommends contacting a potential supervisor before applying; otherwise the School assigns a supervisor based on research interests.",
+      "quote": "It is highly recommended that you seek out a potential supervisor prior to submitting your application. Alternatively, if you have not identified one, the School will appoint a supervisor based on your research interests.",
+      "url": "https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/frequently-asked-questions"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "Full-time PhD students are eligible on a competitive basis for the NTU Research Scholarship (S$3,000/month for international students, plus up to S$500/month after passing the Qualifying Examination, and annual tuition fee coverage for up to 4 years; S$3,400 PR / S$3,800 Singapore Citizen), as well as the Nanyang President's Graduate Scholarship and Provost Graduate Award (S$4,300/month international).",
+      "quote": "Research scholarships or financial top-ups (for selected industrial projects only) are available to outstanding candidates.",
+      "url": "https://www.ntu.edu.sg/engineering/coe-programmes/graduate/coe-programme-detail/eee-doctor-of-philosophy-(ph.d)-programme",
+      "also": [
+        {
+          "quote": "The NTU Research Scholarship is awarded to outstanding graduate students for research. | In addition to the monthly stipend, the award also covers the annual tuition fee.",
+          "url": "https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/rss"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Direct PhD entry from a relevant bachelor's degree with at least 2nd class Honours upper or equivalent.",
+      "quote": "Applicants from overseas universities must have a relevant Bachelor’s degree with at least 2nd class Honours upper or equivalent.",
+      "url": "https://www.ntu.edu.sg/engineering/coe-programmes/graduate/coe-programme-detail/eee-doctor-of-philosophy-(ph.d)-programme"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE is not mandatory for EEE PhD applicants, though satisfactory scores (V >= 149, Q >= 149, V+Q >= 319, AW >= 3.5; or GATE >= 90th percentile for applicants from India) strengthen admission chances.",
+      "quote": "Graduate Record Examination (GRE) is not mandatory but having these satisfactory test scores will enhance the chances of admission. Applicants from India may use Graduate Aptitude Test in Engineering (GATE) in place of GRE.",
+      "url": "https://www.ntu.edu.sg/engineering/coe-programmes/graduate/coe-programme-detail/eee-doctor-of-philosophy-(ph.d)-programme"
+    },
+    "toefl_min": {
+      "code": "100",
+      "value": "EEE requires a minimum TOEFL score of 100 iBT (250 CBT / 600 PBT) within 2 years for overseas applicants unless waived via English MOI documentation.",
+      "quote": "Minimum TOEFL score must be at least: | 100 for internet-based test",
+      "url": "https://www.ntu.edu.sg/engineering/coe-programmes/graduate/coe-programme-detail/eee-doctor-of-philosophy-(ph.d)-programme"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "EEE requires a minimum IELTS score of 6.5 within 2 years for overseas applicants unless waived via English MOI documentation.",
+      "quote": "Minimum IELTS score must be at least 6.5.",
+      "url": "https://www.ntu.edu.sg/engineering/coe-programmes/graduate/coe-programme-detail/eee-doctor-of-philosophy-(ph.d)-programme"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "TOEFL/IELTS may be waived for EEE applicants who submit documentary proof (letter or certificate) that English was the medium of instruction during tertiary studies.",
+      "quote": "The TOEFL/IELTS requirement may be waived if the applicant can submit documentation that English was used as the medium of instruction during tertiary studies. The documentary proof is usually in a form of a letter or certificate.",
+      "url": "https://www.ntu.edu.sg/engineering/coe-programmes/graduate/coe-programme-detail/eee-doctor-of-philosophy-(ph.d)-programme"
+    }
+  },
+  "notes": "EEE explicitly specifies TOEFL >= 100 iBT / IELTS >= 6.5 and recommended GRE benchmarks (V+Q >= 319, AW >= 3.5, or GATE >= 90th percentile for India) for overseas graduates."
+}

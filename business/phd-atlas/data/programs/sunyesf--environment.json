@@ -1,0 +1,61 @@
+{
+  "id": "sunyesf--environment",
+  "university": "sunyesf",
+  "field": "environment",
+  "also_fields": [],
+  "department": "Division of Environmental Science (Graduate Program in Environmental Science)",
+  "program_page": "https://www.esf.edu/envscience/gpes/how-to-apply/index.php",
+  "checked": "2026-10-22",
+  "fields": {
+    "deadline": {
+      "code": "2027-01-15",
+      "value": "Fall admission is rolling, with January 15, 2027 priority deadline for financial/assistantship consideration (Spring admission deadline is November 15; Fall decisions typically by March 15).",
+      "quote": "Applications for fall admission are rolling, but for financial consideration you should apply by January 15th. The deadline for spring admission is November 15th.",
+      "url": "https://www.esf.edu/envscience/gpes/how-to-apply/index.php",
+      "inferred": "year"
+    },
+    "gre_general": {
+      "code": "Optional",
+      "value": "GRE General Test is not required for GPES admission, though optional scores are recommended for funding consideration (GRE is not required for SRM Ph.D. programs in Forest Resources Management, Natural Resources Management, and Sustainable Energy).",
+      "quote": "GREs are not required for the GPES program; however, they are recommended for funding consideration.",
+      "url": "https://www.esf.edu/envscience/gpes/how-to-apply/index.php"
+    },
+    "gre_subject": {
+      "code": "No subject test",
+      "value": "ETS does not offer a GRE Subject Test in Environmental Science.",
+      "quote": "The GRE Subject Tests in Mathematics, Physics and Psychology measure undergraduate achievement in a particular field of study",
+      "url": "https://www.ets.org/gre/score-users/about/subject-tests.html"
+    },
+    "supervisor": {
+      "code": "Recommended",
+      "value": "Applicants must select a primary and secondary Major Professor in the application and are strongly encouraged to contact potential faculty advisors beforehand to inquire about student recruitment and funding.",
+      "quote": "Every applicant should identify 2 Major Professors (MPs) with whom they wish to work: a primary MP and a secondary MP. ... We strongly encourage you to contact potential MPs and inquire about their plans to recruit new graduate students.",
+      "url": "https://www.esf.edu/envscience/gpes/how-to-apply/index.php"
+    },
+    "funding": {
+      "code": "Competitive",
+      "value": "GPES offers merit-based Graduate Assistantships with preference given to Ph.D. students (typically $22,000 academic-year stipend plus tuition scholarship up to 10 credits/semester), alongside GAs in Major Professors' home departments and faculty Research Assistantships.",
+      "quote": "GPES offers a number of Graduate Assistantships (GAs) to aid with course delivery. These are merit-based awards, with preference given to PhD students. There are also GAs in your MPs home department, as well as Research Assistantships (RAs) that your MP may control.",
+      "url": "https://www.esf.edu/envscience/gpes/how-to-apply/index.php",
+      "also": [
+        {
+          "quote": "Doctoral stipends are typically $22,000 (based on 20 hours per week per academic year). Award includes a tuition scholarship up to 10 credit hours per semester",
+          "url": "https://www.esf.edu/graduate/funding/esf-graduate-funding-sources.php"
+        }
+      ]
+    },
+    "entry_route": {
+      "code": "Direct from bachelor's",
+      "value": "Direct entry from an earned bachelor's degree with at least a B average (previous master's credits may be applied individually toward the 60-credit Ph.D.; note SRM's Forest Resources Management Ph.D. is normally built upon an M.S.).",
+      "quote": "Transcripts of an earned bachelor's degree from a recognized institution with an academic record showing at least a \"B\" average for junior and senior years of the baccalaureate program or for the master's program",
+      "url": "https://www.esf.edu/graduate/prospective/admission.php",
+      "also": [
+        {
+          "quote": "The PhD degree requires a minimum of 60 graduate credits, of which 30 to 48 credits are coursework and 12 to 30 credits are for the PhD dissertation. ... Graduate credits earned for a previous masters degree that are applicable to a student's doctoral program of study are determined on an individual basis by the student's steering committee.",
+          "url": "https://www.esf.edu/envscience/gpes/how-to-apply/descriptions.php"
+        }
+      ]
+    }
+  },
+  "notes": "Covers the Graduate Program in Environmental Science (GPES, CIP 030104: Climate & Energy; Ecosystems: Land, Water and Air; Indigenous Peoples & Environmental Science; Policy, Planning, Communication & Society). ESF also offers Ph.D.s in Forest Resources Management (CIP 030506), Natural Resources Management (CIP 030199), and Sustainable Energy (CIP 030209) in the Department of Sustainable Resources Management (GRE not required), plus a social-science Ph.D. in Environmental Studies (CIP 030103, full- or low-residency, GRE not required)."
+}

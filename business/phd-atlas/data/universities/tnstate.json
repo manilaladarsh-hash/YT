@@ -1,0 +1,53 @@
+{
+  "id": "tnstate",
+  "institution": "Tennessee State University",
+  "country": "USA",
+  "region": "Tennessee",
+  "grad_page": "https://catalog.tnstate.edu/content.php?catoid=20&navoid=1154",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "35 USD",
+      "value": "Non-refundable $35 application fee is required for all graduate and Slate/CAS applications.",
+      "quote": "NOTE: All Slate and CAS applications require an additional TSU fee of $35.00/USD. | The $35.00 non-refundable application fee",
+      "url": "https://catalog.tnstate.edu/content.php?catoid=20&navoid=1154"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "No application fee waiver policy for international graduate applicants is stated on the Graduate Catalog admissions or general information pages.",
+      "quote": "",
+      "url": "https://catalog.tnstate.edu/content.php?catoid=20&navoid=1154"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Set by each program; see individual program records (required for Food, Agricultural and Environmental Sciences; Civil & Architectural Engineering's ENCS Ph.D. admissions page states no GRE is required; not specified for Biological Sciences or ENCS Computational Sciences).",
+      "quote": "",
+      "url": "https://catalog.tnstate.edu/content.php?catoid=20&navoid=1154"
+    },
+    "toefl_min": {
+      "code": "71",
+      "value": "Minimum TOEFL score of 71 (Internet-based Test) or 525 (Paper Test) for international graduate applicants.",
+      "quote": "a minimum score of 525 (Paper Test) or 71 (Internet-based Test) on the Test of English as a Foreign Language (TOEFL),",
+      "url": "https://catalog.tnstate.edu/content.php?catoid=20&navoid=1154"
+    },
+    "ielts_min": {
+      "code": "6.0",
+      "value": "Minimum IELTS overall band score of 6.0 (or Duolingo 95, ELS Level 112, or TSU IEC Level 8) for international graduate applicants.",
+      "quote": "a minimum score of 6.0 on the International English Language Testing System (IELTS),",
+      "url": "https://catalog.tnstate.edu/content.php?catoid=20&navoid=1154"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "No waiver is stated for an English-medium degree from India; exemption requires completing a bachelor's degree or at least 9 graduate credit hours (minimum 3.0 GPA) at a U.S. institution, or submitting U.S. institutional documentation reviewed by TSU's Intensive English Center.",
+      "quote": "or students who have completed their undergraduate degree or a minimum of 9 credit hours of graduate courses with a minimum 3.0 GPA at a college or university within the U.S. may submit an official transcript to demonstrate English proficiency,",
+      "url": "https://catalog.tnstate.edu/content.php?catoid=20&navoid=1154",
+      "also": [
+        {
+          "quote": "evidence of English language proficiency (transcripts, certificates, etc.) from an accredited U.S. institution equivalent to the required IELTS or TOEFL scores (NOTE: submitted documentation will be reviewed and evaluated by TSU’s Intensive English Center),",
+          "url": "https://catalog.tnstate.edu/content.php?catoid=20&navoid=1154"
+        }
+      ]
+    }
+  },
+  "notes": "Public R2 land-grant HBCU in Nashville, Tennessee. General international priority deadlines are April 1 (abroad) and June 1 (in the U.S.) for Fall; Biological Sciences lists a Fall-only August 1 - November 15 window in the admissions policy table alongside a rolling/July 1 cutoff on its program page."
+}

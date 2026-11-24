@@ -1,0 +1,59 @@
+{
+  "id": "ccny",
+  "institution": "CUNY City College",
+  "country": "USA",
+  "region": "New York",
+  "grad_page": "https://www.ccny.cuny.edu/admissions/graduate-studies-application",
+  "checked": "2026-11-13",
+  "fields": {
+    "app_fee": {
+      "code": "75 USD",
+      "value": "There is a non-refundable graduate application fee of $75 USD.",
+      "quote": "There is a non-refundable application fee of $75.",
+      "url": "https://www.ccny.cuny.edu/admissions/graduate-studies-application"
+    },
+    "fee_waiver": {
+      "code": "Domestic only",
+      "value": "Fee waivers are available only to U.S. Veterans who upload a DD 2-14 form; no international fee waivers are offered.",
+      "quote": "Fee waivers are only available to U.S. Veterans who upload a DD 2-14 form.",
+      "url": "https://www.ccny.cuny.edu/admissions/graduate-studies-application"
+    },
+    "gre_general": {
+      "code": "Not required",
+      "value": "The GRE General Test is suspended/not required across CCNY graduate programs, though scores may be submitted optionally (see engineering program overrides).",
+      "quote": "While not required for any programs, GRE scores may be submitted as part of your application.",
+      "url": "https://www.ccny.cuny.edu/admissions/graduate-studies-application",
+      "also": [
+        {
+          "quote": "The GRE has been suspended until further notice. | Test scores can still be submitted with your application if you choose to submit them.",
+          "url": "https://www.ccny.cuny.edu/admissions/gradstep2requirements"
+        }
+      ]
+    },
+    "toefl_min": {
+      "code": "61",
+      "value": "CCNY's general graduate baseline is TOEFL iBT 61, though Grove School of Engineering PhD programs require higher scores (73 or 79-80).",
+      "quote": "The TOEFL internet-based score of 61 or a 6.5 on the IELTS, are required minimum scores for admission, however several graduate programs require a higher score.",
+      "url": "https://www.ccny.cuny.edu/admissions/gradfrequentlyaskedquestions"
+    },
+    "ielts_min": {
+      "code": "6.5",
+      "value": "Minimum IELTS Academic score is 6.5.",
+      "quote": "The TOEFL internet-based score of 61 or a 6.5 on the IELTS, are required minimum scores for admission, however several graduate programs require a higher score.",
+      "url": "https://www.ccny.cuny.edu/admissions/gradfrequentlyaskedquestions"
+    },
+    "english_waiver": {
+      "code": "No",
+      "value": "Applicants from India are not exempt from English testing, even if English was the medium of instruction.",
+      "quote": "This requirement applies to all applicants from Bangladesh, Burma, Nepal, India, Pakistan, Latin America, the Middle East, Israel, the Peoples Republic of China, Taiwan, Japan, Korea, Southeast Asia, most European countries and non-English speaking countries in Africa.",
+      "url": "https://www.ccny.cuny.edu/admissions/gradstep2requirements",
+      "also": [
+        {
+          "quote": "Applicants who attend a university in a foreign country where English is the medium of instruction are NOT waived from this requirement.",
+          "url": "https://www.ccny.cuny.edu/admissions/graduate-studies-application"
+        }
+      ]
+    }
+  },
+  "notes": "The City College of New York (CCNY) Grove School of Engineering directly administers five engineering PhD programs (BME, ChemE, Civil, EE, ME); natural sciences, math, and CS PhDs in the CUNY system are administered through the CUNY Graduate Center (cunygc). For India/Pakistan/Bangladesh/Nepal credentials, CCNY requires a four-year bachelor's degree in engineering/medicine or a master's degree in other fields (3-year bachelor's alone is not sufficient)."
+}
