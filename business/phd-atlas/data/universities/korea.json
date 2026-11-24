@@ -1,0 +1,47 @@
+{
+  "id": "korea",
+  "institution": "Korea University",
+  "country": "South Korea",
+  "region": "Seoul",
+  "grad_page": "https://graduate2.korea.ac.kr/main/main.html",
+  "checked": "2026-11-24",
+  "fields": {
+    "app_fee": {
+      "code": "127000 KRW",
+      "value": "Total online application payment is KRW 127,000 (KRW 120,000 application fee + KRW 7,000 commission fee), payable at the time of online application submission.",
+      "quote": "Total payment: KRW 127,000 | (Application fee: KRW 120,000 + commission fee: KRW 7,000)",
+      "url": "https://graduate2.korea.ac.kr/admission/schedule.html"
+    },
+    "fee_waiver": {
+      "code": "Not stated",
+      "value": "Korea University Graduate School's Admission Schedule lists the KRW 127,000 total payment (KRW 120,000 application fee + KRW 7,000 commission fee) and does not state an application fee waiver policy for international applicants.",
+      "quote": "",
+      "url": "https://graduate2.korea.ac.kr/admission/schedule.html"
+    },
+    "gre_general": {
+      "code": "Not stated",
+      "value": "Korea University Graduate School's Eligibility page and 2027 International Application Guide specify academic credentials and language proficiency requirements without stating a GRE General requirement.",
+      "quote": "",
+      "url": "https://graduate2.korea.ac.kr/admission/eligibility.html"
+    },
+    "toefl_min": {
+      "code": "3.5 (new scale)",
+      "value": "Minimum TOEFL iBT 3.5 for tests taken on or after January 21, 2026 (71 on the prior 0-120 scale; Home Edition accepted; TOEFL MyBest Scores not accepted). Applicants may alternatively meet the language requirement via TOPIK Level 3+, Academic IELTS 5.5+, New TEPS 326+, or CEFR B2+. Note: KU international admission scholarships require higher scores (TOEFL iBT 82 / 4.5 for Type B/C, 90 / 5.0 for Type A; Home Edition not accepted for scholarships).",
+      "quote": "1) TOEFL iBT 71(including Home Edition, a score of 3.5 for tests taken on or after Jan 21. 2026) or higher | TOEFL My Best Scores is NOT acceptable",
+      "url": "https://graduate2.korea.ac.kr/admission/eligibility.html"
+    },
+    "ielts_min": {
+      "code": "5.5",
+      "value": "Minimum Academic IELTS 5.5 or higher (IELTS Indicator not accepted). Applicants may alternatively meet the language requirement via TOEFL iBT 3.5/71+, TOPIK Level 3+, New TEPS 326+, or CEFR B2+. Note: KU international admission scholarships require Academic IELTS 6.0 (Type B/C) or 7.0 (Type A).",
+      "quote": "2) Academic IELTS 5.5 or higher | The IELTS Indicator is NOT acceptable.",
+      "url": "https://graduate2.korea.ac.kr/admission/eligibility.html"
+    },
+    "english_waiver": {
+      "code": "Conditional",
+      "value": "Exempt from submitting an English proficiency test score for admission if the applicant is a native English speaker from KU's listed exempt countries, completed a degree program (BA, MA, or Ph.D.) in an English-speaking country or Korea, completed a degree program 100% in English, or receives a departmental language proficiency recommendation letter. Note: an original test score is still mandatory to apply for KU Graduate School Scholarships.",
+      "quote": "C. Others | Applicants who meet one of the following options below: | 1) Native English Speaker(Refer to the list of the countries exempt from the English Proficiency Requirement) | 2) Applicants who have completed their degree program(BA, MA, and Ph.D) in the English speaking countries | 5) Applicants who have completed their degree program(BA, MA, and Ph.D) 100% in English",
+      "url": "https://graduate2.korea.ac.kr/admission/eligibility.html"
+    }
+  },
+  "notes": "QS WUR 2027 =#52. Covers 17 offered STEM PhD/Integrated MA-PhD fields across Korea University's Seoul Campus General Graduate School (no standalone Astronomy & Astrophysics PhD; Physics covers Condensed Matter, Elementary Particle/High-Energy, Nuclear, Nonlinear Dynamics & Biophysics, Statistical Physics, Quantum Optics, and Quantum Information Physics). International admissions run twice per year: Spring 2027 online applications ran September 1-10, 2026, while Fall 2027 exact dates are not yet published (Admission Procedure places Fall semester submission in March; Fall 2027 semester begins September 1, 2027). Tuition (AY 2026) is KRW 6,339,000/semester for Natural Sciences, KRW 7,392,000/semester for Engineering, KRW 6,866,000/semester for Health Science, and KRW 9,267,000/semester for Medicine (plus one-time entrance fee KRW 1,142,000-1,206,000). Competitive KU International Student Scholarships (Type A: 100% tuition/entrance fee + KRW 500,000/mo living support for 4 months/semester; Type C Natural Science & Engineering: 65% tuition) are evaluated automatically with admission; GKS and BK21 support are also available."
+}
